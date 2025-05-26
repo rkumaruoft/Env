@@ -1,2 +1,19 @@
+# 1st link fetch, parameters is start_url = www.toronto.ca, max pages 1000, max depth 6, delay = 0.1s
+# keywords = ["Climate Report", "Adaptation", "Mitigation"]
 https://www.toronto.ca/wp-content/uploads/2019/09/9662-Noise-Mitigation-Plan.pdf
+https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-CollectionGuidelines.pdf
+
+# 2nd link fetch, parameters:
+# START_URL = https://www.toronto.ca/services-payments/water-environment/
+# Max_pages = 1000
+# Max_Depth = 6
+# Delay = 0.1s
+# KEYWORDS = ["Climate Report", "Adaptation", "Mitigation"]
+https://www.toronto.ca/legdocs/mmis/2011/pw/bgrd/backgroundfile-40685.pdf
+https://www.toronto.ca/wp-content/uploads/2019/09/9662-Noise-Mitigation-Plan.pdf
+https://www.toronto.ca/wp-content/uploads/2021/05/8f43-TW-Annual-Lead-Mitigation-Report-2020-FINAL-AODA-.pdf
+https://www.toronto.ca/wp-content/uploads/2023/05/9087-FinalTW-Annual-Lead-Mitigation-Report-2022-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/04/86c0-TW-Annual-Lead-Mitigation-Report-2023-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/12/949f-TorontosCurrentandFutureClimate-REPORT-Final.pdf
+https://www.toronto.ca/wp-content/uploads/2025/04/97fa-TW-Annual-Lead-Mitigation-Report-2024-FinalAODA.pdf
 https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-CollectionGuidelines.pdf
