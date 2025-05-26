@@ -9,9 +9,9 @@ from urllib.robotparser import RobotFileParser
 # ─── Configurations ────────────────────────────────────────────────────────────────
 START_URL   = "https://www.toronto.ca/services-payments/water-environment/"
 DOMAIN      = "toronto.ca"
-KEYWORDS    = ["Climate Report", "Adaptation", "Mitigation", "Emissions"]
-MAX_PAGES   = 1000        # total pages to fetch before stopping
-MAX_DEPTH   = 6       # how many links‑deep you’ll crawl
+KEYWORDS    = ["Climate Report", "Adaptation", "Mitigation", "Emissions", "Water"]
+MAX_PAGES   = 300        # total pages to fetch before stopping
+MAX_DEPTH   = 3      # how many links‑deep you’ll crawl
 DELAY       = 0.1        # seconds between requests
 UA          = "LinkFetcher/1.0"
 TXT_OUTPUT  = "pdf_links.txt"

@@ -1,4 +1,4 @@
-# 1st link fetch, parameters is start_url = www.toronto.ca, max pages 1000, max depth 6, delay = 0.1s
+# 1st link fetch, parameters is start_url = www.toronto.ca, max pages 1000, max depth 6
 # keywords = ["Climate Report", "Adaptation", "Mitigation"]
 https://www.toronto.ca/wp-content/uploads/2019/09/9662-Noise-Mitigation-Plan.pdf
 https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-CollectionGuidelines.pdf
@@ -7,7 +7,6 @@ https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-Col
 # START_URL = https://www.toronto.ca/services-payments/water-environment/
 # Max_pages = 1000
 # Max_Depth = 6
-# Delay = 0.1s
 # KEYWORDS = ["Climate Report", "Adaptation", "Mitigation"]
 https://www.toronto.ca/legdocs/mmis/2011/pw/bgrd/backgroundfile-40685.pdf
 https://www.toronto.ca/wp-content/uploads/2019/09/9662-Noise-Mitigation-Plan.pdf
@@ -15,5 +14,52 @@ https://www.toronto.ca/wp-content/uploads/2021/05/8f43-TW-Annual-Lead-Mitigation
 https://www.toronto.ca/wp-content/uploads/2023/05/9087-FinalTW-Annual-Lead-Mitigation-Report-2022-AODA.pdf
 https://www.toronto.ca/wp-content/uploads/2024/04/86c0-TW-Annual-Lead-Mitigation-Report-2023-AODA.pdf
 https://www.toronto.ca/wp-content/uploads/2024/12/949f-TorontosCurrentandFutureClimate-REPORT-Final.pdf
+https://www.toronto.ca/wp-content/uploads/2025/04/97fa-TW-Annual-Lead-Mitigation-Report-2024-FinalAODA.pdf
+https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-CollectionGuidelines.pdf
+
+# 3rd lin fetch, parameters:
+# START_URL   = "https://www.toronto.ca/services-payments/water-environment/"
+# KEYWORDS    = ["Climate Report", "Adaptation", "Mitigation", "Emissions", "Water"]
+# MAX_PAGES   = 300
+# MAX_DEPTH   = 3
+http://www.toronto.ca/legdocs/municode/1184_851.pdf
+https://www.toronto.ca/legdocs/bylaws/2023/law1283.pdf
+https://www.toronto.ca/legdocs/mmis/2011/pw/bgrd/backgroundfile-40685.pdf
+https://www.toronto.ca/legdocs/mmis/2018/pw/bgrd/backgroundfile-117623.pdf
+https://www.toronto.ca/legdocs/municode/1184_851.pdf
+https://www.toronto.ca/wp-content/uploads/2017/11/98e1-ecs-specs-wmm-water_meter_manual_binder_April_16_2012.pdf
+https://www.toronto.ca/wp-content/uploads/2017/11/99a0-drinking-water-system-financial-plan-2015-2020-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2018/02/9490-TransformTO-Report-2-Attachment-B-Results-of-Modelling-GHG-Emissions-to-2050-Apr17-Revised-Compressed.pdf
+https://www.toronto.ca/wp-content/uploads/2019/06/8f33-Benefits-of-Actions-to-Reduce-Greenhouse-Gas-Emissions-in-Toronto-Health-and-Health-Equity.pdf
+https://www.toronto.ca/wp-content/uploads/2019/06/96ef-Benefits-of-Actions-to-Reduce-GG-Emissions-in-Toronto-Prosperity-and-Socio-Economic-Equity.pdf
+https://www.toronto.ca/wp-content/uploads/2019/06/971c-Benefits-of-Actions-to-Reduce-Greenhouse-Gas-Emissions-in-Toronto-Climate-Resilience.pdf
+https://www.toronto.ca/wp-content/uploads/2019/11/96ae-No-Water-Map-2019-Terms-of-Use-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2021/05/8f43-TW-Annual-Lead-Mitigation-Report-2020-FINAL-AODA-.pdf
+https://www.toronto.ca/wp-content/uploads/2021/10/8f2e-2019-Inventory.pdf
+https://www.toronto.ca/wp-content/uploads/2021/10/96ff-2018-GHG-Inventory.pdf
+https://www.toronto.ca/wp-content/uploads/2022/01/8de3-ASHBRIDGES-BAY-WASTEWATER-TREATMENT-PLANT-2020-Annual-Reportrevised-Jan-2021.pdf
+https://www.toronto.ca/wp-content/uploads/2022/02/845f-DrinkingWaterAnnual-Report2021-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2022/02/8c0b-DrinkingWaterSummaryReport2021-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2022/04/90c2-DrinkingWaterAnalysis2021-AODA-FINAL.pdf
+https://www.toronto.ca/wp-content/uploads/2023/01/8e55-2020-Sector-based-Greenhouse-Gas-Emissions-Inventory.pdf
+https://www.toronto.ca/wp-content/uploads/2023/02/930e-2022-Drinking-Water-System-Summary-Report-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2023/02/9391-2022-Drinking-Water-System-Annual-Report-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2023/04/889c-DS-23-0106-2022DrinkingWaterAnalysisSummaryReport-Final.pdf
+https://www.toronto.ca/wp-content/uploads/2023/05/9087-FinalTW-Annual-Lead-Mitigation-Report-2022-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2023/11/90d8-2019-Consumption-Based-Emissions-Infographic-Report.pdf
+https://www.toronto.ca/wp-content/uploads/2023/11/913e-2019-Buildings-and-Linear-Infrastructure-Emissions-Analysis.pdf
+https://www.toronto.ca/wp-content/uploads/2023/11/914f-2019-Corporate-Consumption-Based-Emissions-Inventory-Report.pdf
+https://www.toronto.ca/wp-content/uploads/2023/11/915a-2019-Community-Wide-Consumption-Based-Emissions-Inventory-Report.pdf
+https://www.toronto.ca/wp-content/uploads/2024/01/94a4-CoT-2021-Sector-based-Emissions-InventoryFINAL-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/02/85ac-2023-Toronto-Water-Summary-Report-with-Cover-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/02/8d8e-2023-Toronto-Water-Annual-Report-with-Cover-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/02/939d-Buildings-and-Linear-Infrastructure-Emissions-Analysis.pdf
+https://www.toronto.ca/wp-content/uploads/2024/04/86c0-TW-Annual-Lead-Mitigation-Report-2023-AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/04/95c8-CS-24-0074DrinkingWaterAnalysisSummaryAODA.pdf
+https://www.toronto.ca/wp-content/uploads/2024/12/8c29-1.-Toronto-Climate-Trends-Infographic.pdf
+https://www.toronto.ca/wp-content/uploads/2024/12/9270-2022-SBEI-Report.pdf
+https://www.toronto.ca/wp-content/uploads/2024/12/949f-TorontosCurrentandFutureClimate-REPORT-Final.pdf
+https://www.toronto.ca/wp-content/uploads/2025/02/9547-Toronto-Drinking-Water-System-Summary-Report-2024AODA.pdf
+https://www.toronto.ca/wp-content/uploads/2025/02/955d-Toronto-Drinking-Water-System-Annual-Report-2024AODA.pdf
 https://www.toronto.ca/wp-content/uploads/2025/04/97fa-TW-Annual-Lead-Mitigation-Report-2024-FinalAODA.pdf
 https://www.toronto.ca/wp-content/uploads/2025/05/9824-Noise-MitigationWaste-CollectionGuidelines.pdf
