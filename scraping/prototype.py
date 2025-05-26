@@ -9,7 +9,7 @@ STATE_FILE   = "known_reports.json"
 DOWNLOAD_DIR = "climate_reports"
 
 # (optional) only grab PDFs whose link text contains any of these:
-KEYWORDS = ["Climate Report", "Future Climate", "Adaptation"]
+KEYWORDS = ["Climate Report", "Future Climate", "Adaptation", "Mitigation"]
 
 # ─── STATE ──────────────────────────────────────────────────────────────────
 def load_known():
