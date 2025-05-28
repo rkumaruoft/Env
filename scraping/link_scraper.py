@@ -24,7 +24,7 @@ CONCURRENCY     = 10    # number of concurrent fetches for HTML
 PDF_CONCURRENCY = 5     # concurrent hash operations for PDFs
 UA              = "LinkFetcher/1.1"
 TXT_OUTPUT      = "/set/your/output/directory/new_pdf_hashes.txt"  # list of new PDF hashes (and the original links)
-HASH_TABLE_FILE = "/set/your/hash/directory/existing_hashes.txt"  # one SHA256 per line
+HASH_TABLE_FILE = "/set/your/hash/directory/existing_hashes.txt"  # one SHA256 per line, set to an empty .txt for now
 KEYWORDS        = ["Climate", "Adaptation", "Mitigation", "Emissions",
                    "LENZ", "PollinateTO", "Eco-Roof", "Green"] # keywords
 
