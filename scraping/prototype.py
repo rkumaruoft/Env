@@ -4,7 +4,7 @@ import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-# This one directly fetches hyperlinked pdfs with the keywords from the specified web page,
+# This one directly fetches hyperlinked pdfs with the keywords from the specified  web page,
 
 PAGE_URL     = "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/becoming-a-climate-ready-toronto/"
 STATE_FILE   = "known_reports.json"
