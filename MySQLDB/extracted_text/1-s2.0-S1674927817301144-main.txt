@@ -1,0 +1,431 @@
+Response of North Paciﬁc and North Atlantic decadal variability to weak
+global warming
+WU Shenga,*, LIU Zheng-Yua,b, CHENG Junc, LI Chund
+a Laboratory for Climate and Ocean-Atmosphere Studies (LaCOAS) and Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University,
+Beijing 100871, China
+b Atmospheric Science Program, Department of Geography, Ohio State University, Columbus 43210, USA
+c Key Laboratory of Meteorological Disaster, Ministry of Education (KLME)/Joint International Research Laboratory of Climate and Environment Chenge
+(ILCEC), Climate Dynamics Research Center, Nanjing University of Information Science and Technology, Nanjing 210044, China
+d Physical Oceanography Lab, Ocean University of China, Qingdao 266100, China
+Received 25 September 2017; revised 30 January 2018; accepted 30 March 2018
+Available online 25 April 2018
+Abstract
+The Paciﬁc Decadal Oscillation (PDO) and the Atlantic Multidecadal Variability (AMV) are the two dominant low-frequency modes in the
+climate system. This research focused on the response of these two modes under weak global warming. Observational data were derived from the
+Hadley Center Sea Ice and Sea Surface Temperature dataset (HadISST) and coupled model outputs from the Coupled Model Intercomparison
+Project Phase 5 (CMIP5). Changes in PDO and AMV were examined using four models (bcc-csm1-1, CCSM4, IPSL-CM5A-LR, and MPI-
+ESM-LR) with long weak global warming scenarios (RCP2.6). These models captured the two low-frequency modes in both pre-industrial
+run and RCP2.6 run. Under weak global warming, the time scales of PDO and AMV signiﬁcantly decreased while the amplitude only
+slightly decreased. Interestingly, the standard deviation of the North Paciﬁc sea surface temperature anomaly (SSTA) decreased only in decadal
+time scale, and that of the North Atlantic SSTA decreased both in interannual and decadal time scales. The coupled system consists of a slow
+ocean component, which has a decadal time scale, and a fast atmospheric component, which is calculated by subtracting the decadal from the
+total. Results suggest that under global warming, PDO change is dominated by ocean dynamics, and AMV change is dominated by ocean
+dynamics and stochastic atmosphere forcing.
+Keywords: Paciﬁc decadal oscillation; Atlantic multidecadal variability; RCP2.6
+1. Introduction
+Decadal climate variability, such as Paciﬁc decadal oscilla-
+tion (PDO, Mantua et al., 1997) and Atlantic multidecadal
+variability (AMV, Delworth et al., 1993), has received
+increasing attention in climate research because of its impor-
+tance for near-term climate forecast (Hawkins and Sutton,
+2009; IPCC, 2013) and its role in modulating anthropogenic
+global warming (Kosaka and Xie, 2013; England et al., 2014).
+Signiﬁcant progresses have been achieved to understand
+decadal climate variability (Liu, 2012), yet several questions
+remain. One important question is how these decadal variability
+modes change in response to global warming. Recent studies of
+future climate projections suggest that, in response to strong
+global
+warming,
+decadal
+variability
+exhibits
+signiﬁcant
+changes. In particular, the time scale and amplitude of decadal
+variability in the North Paciﬁc SST (PDO) and Atlantic
+meridional overturning circulation (AMOC) (Fang et al., 2014;
+Cheng et al., 2016; Zhang and Delworth, 2006; Wang and Li,
+2017) can be reduced substantially. Previous analyses are pre-
+liminary because of the limited data in the analysis; therefore,
+* Corresponding author.
+E-mail address: wusheng4581@163.com (WU S.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 9 (2018) 95e101
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2018.03.001
+1674-9278/Copyright © 2018, National Climate Center (China Meteorological Administration). Production and hosting by Elsevier B.V. on behalf of KeAi.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+the robustness of the response of decadal variability to global
+warming remains to be further studied, particularly in the case
+of weak global warming comparable with 1.5
+C global
+warming. The connection between the Paciﬁc and Atlantic has
+been investigated. The western tropical Paciﬁc sea surface
+temperature is similar to Atlantic multidecadal variability (Sun
+et al., 2017). Here we analyze the response of PDO and AMV to
+the weak global warming scenario (RCP2.6) in several global
+climate models of long simulations.
+This paper is outlined as follows. Section 2 describes the
+data and method used in the study. Sections 3 and 4 discuss
+PDO and AMV responses. Section 5 presents the conclusion
+and discussion.
+2. Data and method
+2.1. Data
+As benchmarks in the observation, PDO and AMV will
+derived from the sea surface temperature anomaly (SSTA) of
+the Hadley Centre Sea Ice and Sea Surface Temperature
+dataset (HadISST), which contains monthly mean values in
+1870e2012 and has a horizontal spatial resolution of 11
+(Fig. 1c and d). PDO and AMV patterns are derived as the
+regression of PDO and AMV indices on the global SST
+(Fig. 1a and b). Four coupled climate models will be used, all
+of which are derived from the multimodel dataset of the world
+climate research program's CMIP5 (http://www.ipcc-data.org/
+sim/gcm_monthly/AR5/Reference-Archive.html)
+(Table
+1).
+These models are selected because they have the model output
+of long global warming projection simulations. For each run,
+we use pre-industrial (PI) run as the control and examine
+changes in PDO and the AMV in the control and future pro-
+jection simulation under the weak global warming scenario of
+the Representative Concentration Pathway (RCP2.6). This
+scenario represents the future climate under weak global
+warming with low emission of greenhouse gases (i.e., radiative
+forcing at 2100 reach about 2.6 W m2) and mean global
+warming temperature of about 1.1e1.8 C (this condition is
+comparable with the 1.5 C warming case). The SST ﬁeld of
+Fig. 1. Observed spatial regression pattern, time series, and power spectra for PDO (a, c, e) and AMV (b, d, f) metrics (1870e2012).
+96
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101
+the models is interpolated into the same grids (11) as
+observation for ease of comparison. The density ﬁeld of the
+models is interpolated into the same grids (11) to calculate
+the speed of Rossby wave.
+2.2. Statistical techniques
+We ﬁrst derive the mean annual data from the monthly SST
+data. We then high pass the interannual variability by applying
+a three-year running mean twice (Zhang et al., 1997). The low
+passed variability is then derived as the anomalous ﬁeld minus
+the annual climatological mean.
+The PDO index is derived as the principle component of the
+leading empirical orthogonal function (EOF) mode of the low-
+passed SST variability over the North Paciﬁc (110E100W,
+20N70N), and EOF is normalized by its standard deviation
+(Mantua et al., 1997). The AMV index is derived as the
+average area of the low-passed SST anomaly over the North
+Atlantic (80W0, 070N) (Enﬁeld et al., 2001). These
+two indices are then normalized (Fig. 1c and d), and the pat-
+terns of PDO and AMV are obtained as the regression of the
+annual
+mean
+SSTA
+on
+the
+PDO
+and
+AMV
+indices,
+respectively (Fig. 1a and b). A spectral analysis is applied to
+the PDO or AMV index (Fig. 1e and f), and the major period is
+identiﬁed as the frequency of the peak power.
+For the simulations of each model, we analyze two 200-
+year periods (years 1e200, and 201e400) from the PI con-
+trol run and one 200-year period (2101e2300) of the RCP2.6
+run. Multimodel ensemble statistics are obtained for various
+purposes. For the power spectra, we obtain the index from
+each CMIP5 model and calculate the power spectra for each
+index. We average the individual normalized power spectra
+and produce ensemble mean power spectra. Our 200-year time
+series is the same as that for the decadal variability of AMOC
+in the study of Cheng et al. (2016) and is twice the length in
+the PDO analysis of Wang and Li (2017).
+3. Observation
+We ﬁrst show PDO and AMV in the observation as
+benchmarks. PDO is deﬁned as the ﬁrst leading EOF mode of
+the North Paciﬁc SSTA (Fig. 1a). The spatial pattern of PDO
+(regressing SSTA on the ﬁrst PC time series) resembles an
+ENSO-like pattern (Zhang et al., 1997; Mantua et al., 1997).
+Table 1
+CMIP5 models used in this study.
+Climate model
+Institution
+Country
+Horizontal resolution
+Pre-industrial
+length (years)
+RCP 2.6
+length (years)
+bcc-csm1-1
+Beijing Climate Center
+China
+360  232
+500
+295
+CCSM4
+National Center for Atmospheric Research
+USA
+320  384
+500
+295
+IPSL-CM5A-LR
+Institut Pierre Simon Laplace
+France
+182  149
+1000
+295
+MPI-ESM-LR
+Max Planck Institute for Meteorology
+Germany
+256  220
+1000
+295
+Fig. 2. Spatial patterns of PDO and AMV of the four CMIP5 models in PI and in RCP2.6.
+97
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101
+The positive phase of PDO has negative SSTA in the central
+North Paciﬁc and surrounded by positive anomalies along the
+west coast of North America and toward the tropics. The
+maximum regression amplitude is in the central North Paciﬁc,
+and the regression amplitude of tropics is around 0.75 of the
+maximum (Fig. 1a). The PDO index and power spectra are
+shown in Fig. 1c and e. The two peaks in the PDO power
+spectra correspond to bidecadal and multidecadal, respec-
+tively, and the major periods are the 20-year and 50-year
+periods.
+AMV is deﬁned as the average of the North Atlantic SSTA.
+The spatial pattern of AMV is characterized by a horseshoe
+pattern (Fig. 1b) (Deser and Blackmon, 1993; Kushnir, 1994).
+The AMV index and power spectra are shown in Fig. 1d and f.
+The AMV phase changes on multidecadal timescales, and the
+peak of the power spectra is around 70 years.
+4. Response to weak global warming
+Few studies have investigated the response of PDO to
+future global warming by using climate models. However, the
+data length has been limited to ~100 years, which is too short
+to assess the response of decadal variability with high statis-
+tical signiﬁcance, especially for multi-decadal variability
+(Fang et al., 2014; Wang and Li, 2017). Here, we choose four
+CMIP5 coupled climate models, which have available model
+outputs of long global warming simulations (Table 1). We
+choose RCP2.6 simulations to represent the scenario of weak
+global warming. Our analysis uses at least 200 years of data,
+although this time period is still insufﬁciently long to achieve
+high statistical signiﬁcance, to represent a signiﬁcant increase
+in data length for decadal variability study in comparison with
+previous works.
+The model simulations reproduce the observed spatial
+patterns of PDO and AMV reasonably well in both PI and
+global warming cases (Fig. 2). The model PDO, however,
+shows too weak amplitude in the tropics, reﬂecting the un-
+derestimation of extratropicaletropical interaction in the
+model (Newman, 2007). Several differences are noted among
+the four models. The tropical regression coefﬁcient is near to
+zero in the bcc-csm1-1 model, and the three other models can
+reproduce the tripole structure. Another deﬁciency is the
+Fig. 3. Ensemble mean power spectrum and the major period (max in power spectrum) of PDO and AMV from the simulations of the PI and RCP2.6 in the four
+CMIP5 models. The black and blue solid dots in (c) PDO and (d) AMV are the periods corresponding to the peaks of the power spectrum. Error bar are calculated
+by single run.
+98
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101
+location of the maximum of PDO, which lies in the central
+North Paciﬁc in the observation but in the Kuroshio Oyashio
+Extension (KOE) region in the models.
+The change in the dominant time scale of decadal vari-
+ability is determined by comparing the power spectra between
+the PI and RCP2.6 simulations. First, we study the response of
+PDO. For each model, the power spectra of the PDO index are
+calculated for two 200-year sections for the PI control run and
+for a single 200-year section for the RCP2.6 run. The
+ensemble mean for the PI and RCP2.6 are shown in Fig. 3a.
+The visual comparison of the spectra between PI and RCP2.6
+runs shows a tendency of peak power shift from low frequency
+to high frequency. This change in frequency is evident in the
+change in the major period, which is deﬁned here as the period
+for the peak power spectra. In the major period, the ensemble
+mean power spectra decrease from ~85 years in PI to ~60
+years in RCP2.6 (Fig. 3c). To assess the robustness of this
+frequency shift, we calculate the spread of the major periods of
+all single 200-year sections in PI and RCP2.6 (marked as a
+vertical bar for PI and RCP2.6, respectively; Fig. 3c). The
+spread of the major periods of PDO show some overlaps be-
+tween PI and RCP2.6. Nevertheless, a clear evidence of period
+Fig. 4. Distribution of the average of the North Paciﬁc (a) and North Atlantic (b) SSTA standard deviation ﬁelds in observation, PI, and RCP2.6. The “tot” means
+total standard deviation, “dec” means decadal standard deviation, and “ana” means interannual standard deviation. Boxplot boundaries are set at the 25th and 75th
+percentiles (p25 and p75, respectively).
+99
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101
+reduction is obtained. The major period of 60 years in the
+ensemble is at the lower margin of the ensemble spread of the
+PI runs, and the major period of 85 years of the ensemble PI is
+above the upper margin of spread of RCP2.6 (Fig. 3c). The
+shortening of the PDO also occurs in the next four major
+frequencies, which represent the frequencies of the second,
+third, fourth, and ﬁfth largest spectral peaks. The reduction of
+the period from the PI to RCP2.6 run is true for all the cor-
+responding periods on the next four frequencies. We calculate
+the average period by using all the spectral peaks. The average
+period also decreases under weak global warming.
+The shortening of the AMV is a function of time scale and
+is more signiﬁcant than that of the PDO. The overall short-
+ening can be seen by comparing the ensemble mean spectra
+between the PI and RCP2.6 groups (Fig. 3b). The major period
+of the ensemble mean spectra is reduced from ~80 years to
+~25 years (Fig. 3d) and is beyond the ensemble spread. Similar
+reduction is also seen in the next few frequencies. The
+reduction of period of AMV is on the SST and surface climate.
+This shortening of the AMV period is consistent with the
+shortening of the major period of the decadal variability of the
+AMV that has been discussed by Cheng et al. (2016). And the
+average period is same as the major period. Therefore, our
+study suggests that the shortening of decadal AMOC may have
+its signature on the SST and in the surface climate ﬁeld.
+Therefore, both the PDO and AMV become shorter in
+response to weak global warming, and the decrease is more
+signiﬁcant for the latter. This conclusion remains valid if we use
+Empirical Mode Decomposition (EMD) method, which can
+remove the trend caused by CO2 changes in the RCP2.6 runs.
+Finally, we study the response of the intensity of the PDO
+and AMV to global warming in terms of the SSTA standard
+deviation of the North Paciﬁc and the North Atlantic. To test
+the signiﬁcance of the results, we cut the long pre-industrial
+runs (1e500 years) to 100 years (i.e., 1e100, 101e200,
+201e300, 301e400, and 401e500). The RCP2.6 runs of
+2101e2200, 2151e2251, and 2201e2300 are then selected to
+study the change in the SST standard deviation of the North
+Paciﬁc and the North Atlantic. We calculate the total SSTA
+and low-passed SSTA standard deviation as total standard
+deviation and decadal standard deviation, and the residual is
+the interannual standard deviation. The mean ﬁeld is calcu-
+lated for boxplot. Fig. 4 shows the standard deviations of the
+PDO (a) and AMV (b) for total variability (left), decadal
+variability (middle), and their difference (right), which
+represent the intensities of total, decadal, and interannual
+variabilities, respectively. In the North Paciﬁc, the total vari-
+ability and decadal variability are both reduced, as evident by
+the reduction of the standard deviation of the total variability
+(left column) from PI to RCP2.6. The total variability is also
+compared with the observation, and the model shows a
+stronger variability in the North Paciﬁc but a comparable
+magnitude of total variability with the observation in the North
+Atlantic. For the Paciﬁc (Fig. 4a), the variability is reduced for
+the total variability and decadal variability but not interannual
+variability. By contrast, in the Atlantic (Fig. 4b), the variance
+is reduced in the total, decadal, and interannual variabilities.
+Overall, the shortening and weakening of the PDO are
+consistent with those reported in previous studies (Fang et al.,
+2014). Our analysis shows that the weakening seems to be
+detectable even under weak warming scenario. However, the
+interannual variability remains largely unchanged in the Pa-
+ciﬁc. This ﬁnding suggests that the reduction of PDO is un-
+likely caused by the reduction of atmospheric random
+variability, which exhibits a white spectra and therefore does
+not seem to be reduced at the interannual time scale. The
+speed up of Rossby waves caused by the enhanced stratiﬁca-
+tion may be responsible for the acceleration of the PDO and
+could also be related to its weakening. The speed of Rossby
+wave increases under weak global warming both in the North
+Paciﬁc and the North Atlantic in the four CMIP5 models
+(Fig. 5). In the Atlantic, both the decadal variance and inter-
+annual variance are reduced, suggesting that the weakening of
+the AMV may be contributed by the reduction of atmospheric
+random forcing, whose weakening leads the weakening at all
+time scales. Several works support this result, which points out
+that the atmosphere signal leads the observed AMV by about
+15 years (Li et al., 2013; Sun et al., 2015). However, this
+variability seems to be different from that of AMOC (Cheng
+et al., 2016). As such, further studies are needed to under-
+stand the relation between AMV change and surface climate
+variability.
+5. Conclusions and discussion
+In this preliminary study, we discuss the response of two
+dominant low-frequency modes in the ocean under weak
+global warming by using four CMIP5 models. The major
+conclusion is that even under the weak global warming case of
+RCP2.6, both PDO and AMV show signiﬁcant responses, that
+is, shortening of time scale and weakening in amplitude. This
+ﬁnding suggests that both modes might be very sensitive to
+global warming. The shortening of time scale is especially
+clear for the AMV. Further analysis of the variance in different
+frequency bands shows that the Paciﬁc variability is reduced
+only in the decadal variability, not in interannual variability,
+Fig. 5. Rossby wave speed of the North Paciﬁc (NP) and the North Atlantic
+(NA) in PI and RCP2.6 in the four CMIP5 models. Circles and triangles show
+the change of Rossby wave speed in the North Paciﬁc under and North
+Atlantic, respectively, under weak global warming.
+100
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101
+whereas the Atlantic SST variability is reduced in both
+decadal and interannual bands. Hence, the PDO and AMV
+show different response mechanisms. Further studies are
+needed to understand the mechanism of climate response. A
+comprehensive study of the response and mechanism of PDO
+and AMV for all global warming scenarios must also be
+conducted.
+Acknowledgments
+This
+work
+is
+supported
+by
+the
+Chinese
+MOST
+(2017YFA0603801) and NSFC (41630527).
+References
+Cheng, J., Liu, Z., Zhang, S., et al., 2016. Reduced interdecadal variability of
+Atlantic meridional overturning circulation under global warming. Proc.
+Natl. Acad. Sci. Unit. States Am. 113 (12), 3175e3178.
+Delworth, T., Manabe, S., Stouffer, R., 1993. Interdecadal variations of the
+thermohaline circulation in a coupled ocean-atmosphere model. J. Clim. 6
+(11), 1993e2011.
+Deser, C., Blackmon, M.L., 1993. Surface climate variations over the North
+Atlantic ocean during winter: 1900e1989. J. Clim. 6 (9), 1743e1753.
+Enﬁeld, D.B., Mestas-Nu~nez, A.M., Trimble, P.J., 2001. The Atlantic multi-
+decadal oscillation and its relation to rainfall and river ﬂows in the con-
+tinental U.S. Geophys. Res. Lett. 28 (10), 2077e2080.
+England, M.H., McGregor, S., Spence, P., et al., 2014. Recent intensiﬁcation of
+wind-driven circulation in the Paciﬁc and the ongoing warming hiatus.
+Nat. Clim. Change 4 (3), 222e227.
+Fang, C., Wu, L., Zhang, X., 2014. The impact of global warming on the
+Paciﬁc Decadal Oscillation and the possible mechanism. Adv. Atmos. Sci.
+31 (1), 118e130.
+Hawkins, E., Sutton, R., 2009. The potential to narrow uncertainty in regional
+climate predictions. Bull. Am. Meteorol. Soc. 90 (8), 1095e1107.
+IPCC, 2013. Climate Change 2013: the Physical Science Basis. Working
+Group ⅠContribution to the Fifth Assessment of the Intergovernmental
+Panel on Climate Change. Cambridge University Press, Cambridge and
+New York.
+Kosaka, Y., Xie, S.P., 2013. Recent global-warming hiatus tied to equatorial
+Paciﬁc surface cooling. Nature 501 (7467), 403.
+Kushnir, Y., 1994. Interdecadal variations in North Atlantic sea surface tem-
+perature and associated atmospheric conditions. J. Clim. 7 (1), 141e157.
+Li, J., Sun, C., Jin, F.F., 2013. NAO implicated as a predictor of Northern
+Hemisphere mean temperature multidecadal variability. Geophys. Res.
+Lett. 40 (20), 5497e5502.
+Liu, Z., 2012. Dynamics of interdecadal climate variability: a historical
+perspective. J. Clim. 25 (6), 1963e1995.
+Mantua, N.J., Hare, S.R., Zhang, Y., et al., 1997. A Paciﬁc interdecadal climate
+oscillation with impacts on salmon production. Bull. Am. Meteorol. Soc.
+78 (6), 1069e1079.
+Newman, M., 2007. Interannual to decadal predictability of tropical and North
+Paciﬁc sea surface temperatures. J. Clim. 20 (11), 2333e2356.
+Sun, C., Li, J., Jin, F.F., 2015. A delayed oscillator model for the quasi-
+periodic multidecadal variability of the NAO. Clim. Dynam. 45 (7e8),
+2083e2099.
+Sun, C., Kucharski, F., Li, J., et al., 2017. Western tropical Paciﬁc multi-
+decadal variability forced by the Atlantic multidecadal oscillation. Nat.
+Commun. 8, 15998.
+Wang, J., Li, C., 2017. Low-frequency variability and possible changes in the
+North Paciﬁc simulated by CMIP5 models. J. Meteorol. Soc. Jpn. Ser. II 95
+(3), 199e211.
+Zhang, Y., Wallace, J.M., Battisti, D.S., 1997. ENSO-like interdecadal vari-
+ability: 1900e93. J. Clim. 10 (5), 1004e1020.
+Zhang, R., Delworth, T.L., 2006. Impact of Atlantic multidecadal oscillations
+on India/Sahel rainfall and Atlantic hurricanes. Geophys. Res. Lett. 33
+(17).
+101
+WU S. et al. / Advances in Climate Change Research 9 (2018) 95e101

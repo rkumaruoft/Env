@@ -1,0 +1,1443 @@
+Research article
+Examining public perceptions and concerns about the impact of
+heatwaves on health outcomes using Twitter data
+Safa Elkeﬁ, PhDa,*, Achraf Tounsi, PhDb
+a School of Nursing, Columbia University Irving Medical School, New York, USA
+b Automatic Data Processing, Inc. Rosedale, NJ, USA
+A R T I C L E
+I N F O
+Article History:
+Received 9 November 2023
+Accepted 19 April 2024
+Available online 25 April 2024
+A B S T R A C T
+Background: Heat is becoming a global public health concern. This paper presents a comprehensive Twitter
+data analysis (2011−2023) to gain insights into public perceptions of heatwaves and their health-related
+concerns.
+Methods: A number (N = 2,070,197) of ﬁltered tweets were included for analysis after preprocessing.
+Utilizing the Extractor of Demographic Characteristics (EDC) module, we extracted demographic attrib-
+utes, including user type, gender, and age, highlighting the diverse voices in the Twitter conversation.
+Sentiment and emotional analyses were conducted utilizing BERT models. An active learning content
+analysis approach was employed using the GPT-3 model to identify health outcomes and concerns
+related to heat waves.
+Results: Our results show that joy and anger were the dominant emotions, reﬂecting positive and negative
+sentiments surrounding heat waves. Public sentiment varied, revealing concern and optimism in response to
+changing weather patterns.
+In terms of health outcomes, the paper categorizes and analyzes a wide range of concerns during heat waves,
+from heat-related illnesses to mental health issues. These ﬁndings provide valuable insights into how differ-
+ent health concerns are distributed across gender, user type, and age categories. An overview of the measures
+people took to control these issues was also given.
+Conclusions: This study illustrates the evolving dynamics of public emotional responses to heat waves,
+offering a holistic view of the various health-related concerns raised by the public during these extreme
+weather events. Such insights are essential for informing public health strategies and emergency responses
+to mitigate the adverse effects of heat waves and protect vulnerable populations.
+© 2024 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Heat wave
+Twitter
+Health outcomes
+Heat-related illnesses
+Climate change
+Healthcare
+Healthcare disparities
+1. Introduction
+Earth’s climate has dramatically changed throughout history [1].
+With a recorded temperature rise of about 1.8°F (1 °C) from 1901 to
+2020, as reported by the National Oceanic and Atmospheric Adminis-
+tration [2], it is predicted to be 2−4° ( °C) higher than pre-industrial
+levels by 2100 [3]. This planet-warming has resulted in severe and
+more frequent extreme weather events (e.g., ﬂooding, intense
+storms, droughts.) [4]. Some are even happening faster than scientists
+previously assessed and predicted [5,6]. Based on the National Aero-
+nautics and Space Administration reports, scientists have high conﬁ-
+dence that global temperature will continue to rise for many
+decades, resulting in more intense and longer heat waves [7].
+Studies have shown that this heat is becoming a public health
+concern [8−10] and one of the "most underappreciated hazards of
+climate change," as stated by Philip, S.P. in Nature’s editorial [8].
+NOAA described it as one of the most deadly weather phenomena
+[2]. More than thirty million people have died because of the occur-
+rence of extreme weather events in the last 30 years in urban and
+non-urban areas [11] and increased populations’ exposure to mor-
+bidity and mortality from extreme heat and related heat illnesses
+[12,13]. Some regions are predicted to become uninhabitable due to
+the already exceeded life-threatening thresholds during heat waves
+[14]. Heat impacts on human health vary from direct impacts such
+as fatigue, headaches, malnutrition, changes in disease transmission,
+and death to indirect impacts such as productivity drop and violence
+and crime [15−19]. However, public recognition of climate change
+and its impact on economics and the environment is still an issue
+with signiﬁcant societal and even political implications, which urges
+research on heat adaptation and awareness [20].
+* Corresponding author.
+E-mail addresses: Hphactors@gmail.com (S. Elkeﬁ), ash.tounsi@adp.com
+(A. Tounsi).
+https://doi.org/10.1016/j.joclim.2024.100320
+2667-2782/© 2024 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 17 (2024) 100320
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+Heat adaptation research remains limited to developed countries,
+particularly metropolitan areas [21]. The limitation is mainly due to
+the scarcity of data directly linking heat waves to health issues. For
+instance, researchers have resorted to data from occupational acci-
+dent reports and ambulance call-outs to overcome data shortages
+[22,23]. However, people do not necessarily report to their doctors
+and local hospitals when they are subject to mild symptoms of issues
+caused by extreme heat events [24], which limits the generalizability
+of the ﬁndings. Few studies have also resorted to surveys to collect
+data on the measures people take to adapt to heat waves [25]. How-
+ever, little attention has been paid to data coming from social media
+expressing people’s concerns about heat waves affecting their health.
+Twitter, currently named X, is one of the most frequently used social
+media platforms in research [26] and has been shown to be a useful
+tool for public health research in surveillance, event detection, and
+disease tracking and forecasting [27].
+In this study, we aimed to explore the potential utility of large
+available social media data in determining the impact of heat waves
+on health outcomes. We collected Twitter text data to (1) explore the
+reactions and health issues that people admitted having as a result of
+heat waves, (2) investigate the measures taken by both people and
+organizations to overcome these impacts, and (3) investigate the dif-
+ferences in reactions across different types of users (based on gender,
+age, and account type). Our paper contributes to extending the appli-
+cations of disaster-related Twitter studies to heat waves, which are
+severe and destructive natural hazards.
+2. Data and methods
+2.1. Data collection
+Twitter, currently named X, is a social network with around
+313 million monthly active users in 2020 [28]. To build the database
+for this study, we utilized the functionalities of the Twitter API v2
+through a developer account. The data collected was limited to
+tweets written in English and posted over 13 years (January 2010 -
+May 2023). We used the following keywords to select Tweets that
+conveyed
+only
+perceptions
+about
+heat
+waves:
+’heat
+wave’,
+’heatwave’, ’sweltering heat’, ’unbearable heat’, ’torrid heat’, ’heat
+warning’, ’heat watch’, ’heatstroke’, ’heat stroke’, and ’extreme
+temperature’. This list was built based on the keywords used in other
+systematic reviews capturing heat waves’ impact on health [29−33].
+We excluded retweets and replies [34,35].
+2.2. Data preprocessing
+Subsequently, the dataset of fetched tweets (6,647,792 tweets)
+underwent preprocessing, which involved the following steps: dupli-
+cation removal, lowercasing, format-noise cleaning, and topic-noise
+cleaning. The ﬁnal dataset of clean, relevant tweets consisted of
+2,070,197 data instances. More information on the preprocessing is
+available in Appendix 01.
+2.3. Extractor of demographic characteristics
+The Extractor of Demographic Characteristic (EDC) module was
+utilized to extract three demographic attributes, namely user type,
+gender, and age, by analyzing proﬁle images, screen names, names,
+and biographies [36]. User type and gender were modeled as binary
+classiﬁcation tasks, while age was categorized into four classes: ≤18,
+19−29, 30−39, and ≥40 years [36]. Fine-tuning was performed across
+all pipelines to ensure accurate extraction of demographic features.
+More details about this methodology can be found elsewhere [37,38].
+2.4. Sentiment analysis, emotion analysis, and text classiﬁcation
+We utilized RoBERTa and SiEBERT to conduct sentiment analysis
+and the BERT model for emotion classiﬁcation [39−41]. We also uti-
+lized GPT-3 for text classiﬁcation to identify the main topics or health
+issues covered in the tweets [42]. The authors manually coded a sam-
+ple of 30,000 tweets, and then the model was trained to consider the
+initial codes identiﬁed. The label creation was done in a qualitative,
+inductive way. Saturation was reached after coding 1208 tweets.
+3. Results
+3.1. General statistics
+Table 1 presents a breakdown of the tweets collected for a study
+focusing on heatwaves and their impact on people. The dataset con-
+sisted of a total of 2,070,197 tweets. Most of these tweets (76.06 %)
+were written by individuals, while 24.04 % came from corporate
+accounts.
+Across the individuals, 70.22 % of the accounts that tweeted about
+heatwave belonged to men, while only 29.78 % belonged to females.
+A majority of 56.93 % were over 39 years old, and 20.49 % were
+between 19 and 39 years old. Only 13.07 % of the account holders
+were under 19 years old.
+Regarding emotions expressed in these heatwave-related tweets,
+joy emerged as the emotion (38.81 %), closely followed by anger
+(33.15 %). Fear was conveyed in 11.45 % of the tweets, while sadness
+comprised around 10.55 %. Love was mentioned in 5.54 % of the
+tweets, whereas surprise was observed in about 0.53 %. Moreover,
+when examining the sentiment of tweets regarding heatwaves, it is
+evident that the average sentiment score is 0.608, with a deviation of
+0.4647. The data indicates that slightly over half of the tweets
+(53.04 %) express a positive sentiment, while the remaining tweets
+(around 46.96 %) convey a negative sentiment.
+3.2. Twitter’s sentiment polarity perspective
+Analyzing the sentiments over time in Fig. 1 reveals discernible
+seasonal patterns, particularly during summer, where peaks in both
+negative and positive sentiments are evident. This observation aligns
+with the anticipation that heat waves are more prevalent during
+Table 1
+Tweets Statistical Distribution.
+Variable
+Total tweet, N (%)
+Overall
+2,070,197 (100)
+User type
+Person
+1,574,601 (76.06)
+Organization
+495,595 (24.04)
+Gender
+Male
+1,105,684 (70.22)
+Female
+468,917 (29.78)
+Age (years)
+<19
+205,850 (13.07)
+19−29
+322,763 (20.49)
+30−39
+149,739 (9.51)
+>39
+896,249 (56.93)
+Emotion
+Joy
+611,164 (38.81)
+Love
+87,159 (5.54)
+Sadness
+166,152 (10.55)
+Anger
+521,417 (33.15)
+Surprise
+8,409 (0.53)
+Fear
+180,300 (11.45)
+Sentiment polarity
+Overall (1 to 1), mean (SD)
+0.608 (0.4647)
+Positive (>0)
+1097,976 (53.04)
+Negative (<0)
+972,221 (46.96)
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+2
+summer. It suggests that individuals may be more inclined to express
+their sentiments about heat waves when they personally experience
+them rather than merely commenting on distant occurrences in other
+locations. The ﬂuctuations in sentiment throughout the summer
+months underscore the importance of considering the actual experi-
+ences individuals have with heat waves, as reﬂected in their willing-
+ness to engage in tweeting about these climatic events. In the years
+of famous heat waves, sentiment appeared consistently negative, as
+shown in Fig. 1, with a signiﬁcant dip in 2021, 2013, and 2022, sug-
+gesting potentially severe or impactful heat waves. These events
+coincide with three important heat events. First, the Summer 2012
+North American heat wave was one of the most severe heat waves in
+modern North American history and resulted in many deaths as it
+was not well predicted, which could explain the dip in negative emo-
+tions but the low positive reactions by tweeters [43]. Second, the
+year 2013 is the fourth warmest year globally since records began in
+1880 [44]. However, it recorded more positive tweets. This could be
+explained by how "less surprised" people were this year compared to
+the year before, considering that 2012 was already hot. Additionally,
+NASA rated 2022 the ﬁfth-warmest year on record. This could explain
+the abundance of negative tweets for these two years [45]. However,
+over the years, the positive sentiment rates grew more importantly
+to align with the negative sentiment rates. This could indicate
+improved responses to heatwaves, mitigation efforts, and personal
+preparedness for heatwaves, highlighting the evolving dynamics of
+how people perceive and respond to this environmental challenge.
+The recent positive sentiment on Twitter towards heatwaves
+appears to stem from an ironic or satirical reaction, skewing senti-
+ment analysis results towards positivity. This irony, particularly in
+the context of extreme heat, highlights the nuanced public reaction
+captured over recent years. Analysis of sentiment during signiﬁcant
+heatwaves across different years reveals a complex interaction
+between extreme weather and public sentiment. For instance, nega-
+tive sentiment spikes during 2012, 2013, and 2015 heatwaves in
+North America and Europe correlate with these severe events. In con-
+trast, the notably negative sentiment in 2014 reﬂects its status as the
+hottest year on record, whereas the positive sentiment in years like
+2017, 2018, 2021, and 2022 suggests either better responses to heat-
+waves or milder weather conditions in affected regions.
+3.3. Emotional responses to heatwaves
+Analysis of the emotional sentiment data about heatwaves from
+September 2011 to September 2021, as shown in Fig. 2, reveals
+intriguing insights into how people’s emotions and perceptions
+evolved during this decade. In September 2011, tweets exhibited
+mixed emotions, with sadness at 20 % ("Me watching little Mexican
+kids nearly pass out from heatstroke cause their mom decided to make
+caldo on the hottest day of the year"), joy at 25 % ("Even though it’s hot
+outside I am enjoying my summer. Try to stay cool guys and drink plenty
+of water. I hope your heatwave ends soon", and "Good news is, we won
+our ﬂash football tournament even though it may not a good idea to
+Fig. 1. Daily and monthly sentiments trend chart.
+Fig. 2. Mean emotional distribution of heatwave-related tweets through time.
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+3
+play in the heat"), and fear at 18 % ("I was pronounced dead for three
+minutes after heatstroke and now spooky things happen to me.."). This
+emotional diversity potentially reﬂects the uncertainty and emo-
+tional impact of early heatwave experiences. However, as we move
+forward in time, a noticeable trend emerges. By September 2015, joy
+had steadily increased to 35 %, indicating a growing resilience or
+adaptation to heat waves, sadness, and fear. However, it ﬂuctuated
+and remained relatively elevated (sadness at 28 % and fear at 22 %).
+This suggests a persistent emotional impact associated with heat-
+waves that people were still grappling with.
+Furthermore, love remained stable in tweets, consistently around
+15 % throughout the decade, indicating a lasting sense of community
+and support during these challenging times. While ﬂuctuating between
+8 % and 15 %, anger did not exhibit a signiﬁcant upward trend, suggest-
+ing that people were not attributing blame for heat waves to a particu-
+lar source or entity but rather expressing frustration at the situation
+("Am tired, but I can’t [curse] sleep because of this heatwave"). Interest-
+ingly, the expression of surprise was minimal throughout the years,
+hovering around 5 %, indicating a general expectation or awareness of
+the occurrence of heatwaves, likely due to increasing climate change
+awareness and integrating weather forecasts into daily life.
+The observation that a heatwave occurs annually during July and
+August, accompanied by a signiﬁcant increase in tweets, raises inter-
+esting questions about the potential link with emotional sentiments.
+The data on emotions previously discussed indicates that emotions
+like sadness and fear remain relatively elevated throughout the years,
+even when not in the immediate presence of a heatwave. This could
+suggest a lingering emotional impact from past experiences with
+heatwaves.
+The fact that sadness and fear remain at relatively elevated levels
+outside of July and August, even during years without heatwaves,
+suggests that people may carry forward the emotional impact of pre-
+vious heatwaves. This lingering emotional response could contribute
+to tweets’ consistent sadness and fear. This emotional phenomenon
+may be explained by the climate fatigue experienced by people as a
+result of climate change. Climate fatigue is a psychological state char-
+acterized by the weariness or emotional exhaustion of climate-
+related information and challenges [46].
+Additionally, the increasing joy observed in September 2015 may
+indicate that people were experiencing relief and happiness as the
+heat waves of that year receded.
+The stable presence of love throughout the years may indicate
+that during the annual heatwave periods, people come together and
+show support for one another, leading to a consistent level of positive
+emotion. Conversely, the relatively low levels of surprise may indi-
+cate that the annual occurrence of heatwaves had become an
+expected event, with people not expressing surprise but responding
+with emotions tied to their experiences and adaptations.
+3.4. Classiﬁcation of healthcare concerns during heatwaves
+3.4.1. Health-related issues
+In the thematic analysis, a list of themes emerged that we classi-
+ﬁed into main topics. Table 2 summarizes the themes.
+Fig. 3 details the distribution of tweets across the different
+themes.
+Most people tweeting about heat waves expressed their reaction
+regarding a heat-related illness (e.g., heat stroke, dehydration, head-
+ache) (44.3 %). The second emerging category was the methods of
+addressing health-related issues (30.1 %). Only 11 % and 7 % of the
+tweets showed that people were suffering from organ failure or men-
+tal health issues as a result of the heat waves. Fig. 4 breaks down
+each subcategory with the associated number of tweets.
+Heat-related illnesses
+Most tweets (44.3 %) complained about how the heatwave
+negatively impacted tweeters’ health, inducing heat-related issues.
+Mainly, as shown in Fig. 4, 84.4 % of them experienced or were
+exposed to heat strokes, while the rest experienced heat exhaustion
+(8.19 %), dehydration (4.51 %), and headaches (1.31 %). Some other
+tweeters experienced other heat-related issues, such as heat cramps,
+fainting, nausea, and hay fever.
+"I forget how bad it is every year until the ﬁrst heatwave hits, and my
+body is like, OH GOD! It’s summer, so air pressure headaches, feeling
+faint, and constantly getting heat exhaustion season.”
+Respiratory issues, organ failure, and cardiovascular concerns
+Although only 3 % of the tweets acknowledged having a cardio-
+vascular issue due to heatwave, it is noteworthy that such chronic
+conditions should be looked at seriously considering their negative
+impact on health.
+"Heart ache, perspiration. . . Just some of the wonderful symptoms I
+am experiencing today.”
+For instance, 79.6 % of the patients had increased heart rates,
+12.9 % of them experienced annoying heart palpitations, and ranges
+between 2.29-2.71 % of them had perspiration, hypertension, and
+experienced extreme cardiovascular events.
+A rate of 11 % of the tweets showed that tweeters experienced
+organ failure as a cause of heatwaves, and 1.53 % of them had organ
+failure that included problems with the kidneys, stomach, and lungs.
+Among this population, 61.9 % of the tweeters experienced trouble
+breathing and 26.6 % experienced asthma exacerbations due to heat.
+"Am alarming patients like me suffering from asthma and hyperten-
+sion. This heat is serious.”
+"Kidney failure, heatstroke cases up in hospitals amid heat wave.”
+Skin and hair conditions
+Among the 1.05 % of tweets that reported harmed skin or hair due
+to heat waves, 63.7 % of the tweeters admitted having sunburns,
+8.93 % said suffering heat rash, and 15.5 % reported that heat waves
+damaged their hair.
+"It was a hard day today. I am sunburnt. I got a heatstroke. Back to
+reality.”
+"My hair is getting pretty greasy in this heatwave.”
+Mental health and well-being
+Heat waves did not only impact tweeters’ physical well-being but
+also their mental health (7.5 %). Stress induced by this extreme
+weather was complained about by 41.2 % of the tweeters. Heat waves
+also cause mood changes (5.29 %), anxiety (18.5 %), mental fatigue
+(8.51 %), panic attacks (7.52 %), and sleeping troubles (18.9 %).
+“With every tortured breath, I feel my will to live sliding inexorably
+away and the approach of my surely imminent death by heatstroke.”
+Vulnerable populations
+Heatwave is critical for some of the vulnerable populations. For
+instance, 29.4 % of the tweets expressed concerns about the vulnerabil-
+ity of older adults who cannot bear extreme weather. Older adults are
+more vulnerable to health risks such as dehydration and heart attacks.
+“With the heatwave beginning, it’s important to remember that some
+countries have no infrastructure for extreme heat, putting the elderly
+at risk.”
+It also impacted infants (19.8 %), pregnant females (15.5 %), people
+with immunization issues (2.14 %), people with chronic diseases
+(6.95 %), marginalized communities (13.9 %), and people with preex-
+isting heatwave-related conditions (21.3 %).
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+4
+“Any other autistic people ﬁnd the heat just completely takes the spoons
+out of you?? Like I usually have a good amount of energy, and this heat
+wave has just burned that to a crisp- I can barely do anything.”
+“You need to leave this man alone. Heat impacts everyone differently. He
+could be on medications that make him more susceptible to heat stroke.”
+“Our heat wave in the last year killed homeless people, and everyone
+still made jokes.”
+3.4.2. Methods of addressing the heat-related issues
+Tweets did not only enumerate health concerns resulting from
+heat waves, but 30.1 % also talked about preventative and corrective
+methods to these consequences.
+Adaptation and coping strategies, and personal measures
+As shown in Fig. 4, most tweets shared insights into adapting to
+heat waves and coping with extreme heat events by staying hydrated
+(44.9 %).
+“Try to stay cool, guys, and drink plenty of water. I hope your heat-
+wave ends soon.”
+Some Tweets were posted to share advice based on the personal
+measures that helped them overcome heat wave impacts (8.85 %).
+“I stayed in my room to stay cool today because the house is boiling.”
+Public health response
+Tweets also covered insights into the response of public health to
+the heatwaves (21.28 %). Mainly, most of them covered (15.6 %) dif-
+ferent calls for action and awareness.
+“CHP reminds public on precautions against heat stroke during very
+hot weather. . .”
+“This doctor explains why heatwaves are worse in the UK. . .”
+Preparedness and emergency response, and weather hazard watch
+Table 2
+Themes emerging from the text analysis.
+Themes
+Health issue category
+Health issues faced
+Heat-Related Illnesses
+Heat exhaustion
+Headaches
+Nausea
+Fainting
+Heat edema
+Hayfever
+Heatstroke
+Dehydration
+Heat cramps
+Respiratory Issues
+Difﬁculty breathing
+Asthma exacerbations
+Respiratory distress
+Cardiovascular Concerns
+Heart palpitations
+Perspiration
+Increased heart rate
+Hypertension
+Cardiovascular events
+Organ Failure
+Kidney failure
+Lung issues
+Stomach pain
+Skin and Hair Conditions
+Sunburn
+Heat rash
+Irritation
+Oversweating
+Hair problems
+Eczema
+Mental Health and Wellbeing
+Panic attack
+Stress
+Anxiety
+Sleep issues
+Mental fatigue
+Mood changes
+Vulnerable Populations
+Impact on infants
+Impact on the elderly
+Impact on pregnant individuals
+Impact on people with pre-existing conditions
+Medication immunization issues
+Chronic diseases
+Vulnerabilities in marginalized communities
+Other
+Infections
+Food poisoning
+Measures to take (corrective
+and preventative)
+Public Health Response
+Discussions about local government initiatives and public health advisories, Calls for action or
+awareness
+Adaptation and Coping Strategies
+Sharing tips for staying cool, Discussing methods to stay hydrated and protect against heat
+Preparedness and Emergency Response:
+Conversations about emergency services and response plans, Information on cooling centers and
+shelters
+Media and Public Discourse:
+Analysis of how heatwave-related health issues are portrayed in the media, Public perceptions and
+misconceptions
+Personal measures
+Personal effort to protect against effects of heatwave
+Weather hazard watch
+Informing of an upcoming hazard related to weather, alerts
+Other
+Shaded areas, other
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+5
+Through Twitter, information on emergency response plans was
+distributed to the public, covering conversations about emergency
+services and plans and information on cooling centers and shelters
+(3.26 %).
+"Keep your family safe this summer. Know the signs and call 911 if
+you or a loved one are suffering from a heat stroke.”
+A rate of 6.04 % of the Tweets shared alerts about upcoming
+weather hazards and issues.
+“Are you enjoying the sunshine and heat? Whilst many of us can
+enjoy our current heatwave, there are thousands of people who are
+vulnerable to these conditions. A new heat-health alert (HHA) service
+has been launched in England.”
+Media and public discourse
+Some tweets (3.21 %) portrayed experts’ analysis of heatwave
+impacts and corrections of public misconceptions.
+“We have developed resources for members to use to support
+patients during the heat. Find out more and download the full
+resource here. . .”
+Other measures
+Some other tweets talked about the indirect impact of heat waves
+on patients’ well-being by covering economic loss, job productivity
+issues, and the geographic disparities related to shaded areas.
+3.5. Distribution of the topics across different types of users
+Different types of users tweeted about the heat wave health
+issues, as shown in Table 3. Heat exhaustion (59 %), headaches, heat
+edema, and hay fever were experienced by more male than female
+tweeters. Females suffered from more dehydration (71 %) and heat
+strokes (65 %). More females admitted having had difﬁculty breathing
+(87 %), increased heart rates (81 %), heat rash (80 %), stress (80 %), and
+sleeping issues (74 %). More females tweeted about the vulnerability
+of infants (68 %), older adults (69 %), and pregnant females (93 %).
+Older adults were more likely to tweet about almost all health
+issues, showing that vulnerability increases with age.
+Based on our ﬁndings, although many organizations tweeted
+about the impacts of heat waves on health status, most of the tweets
+were from personal accounts. Organizations shared mainly informa-
+tion about shelters and cooling centers (85 %) and public health advi-
+sories (65 %).
+4. Discussion
+In this study, we aimed to explore the potential utility of large
+available social media data in determining the impact of heat waves
+on health outcomes. We collected Twitter text data to (1) explore the
+reactions and health issues that people admitted having as a result of
+heat waves, (2) investigate the measures taken by both people and
+organizations to overcome these impacts, (3) investigate the differen-
+ces in reactions across different types of users (based on gender, age,
+and account type). The built dataset, consisting of over 2 million
+tweets, offers valuable insights into various aspects of this topic.
+The distribution of the tweets (76 % personal accounts vs 24 % cor-
+porate accounts) suggests that heat waves are growing as a subject of
+concern for both individuals and organizations. Moreover, there is a
+signiﬁcant gender disparity among individual users, with 70.22 % of
+accounts belonging to males and only 29.78 % to females. This dispar-
+ity could be explored further to understand gender-speciﬁc heat
+wave responses and potentially inform public health campaigns to
+personalize mitigation strategies to the needs of the different
+subgroups.
+The age distribution is also noteworthy, with 56.93 % of the
+accounts belonging to individuals over 39 years old. This suggests
+that older individuals are more active in discussing heatwaves on
+Fig. 3. Percentage Distribution of Heatwave Health Impact Categories.
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+6
+Twitter, possibly due to increased vulnerability to extreme heat,
+which is also consistent with other literature [47].
+According to the sentiment analysis, the primary emotions exhib-
+ited in heatwave-related tweets are joy (38.81 %) and anger
+(33.15 %). The frequency of joy may suggest that humor and sarcasm
+play an essential role in how individuals cope with high heat, particu-
+larly in recent years. This observation was substantiated during the
+systematic quality check of the analysis of the diverse tweets catego-
+rized under "joy," such as "Absolutely loving this scorching weather!
+It’s not like we needed a break from mild temperatures or anything. Who
+needs comfortable outdoor activities anyway? Embracing the joy of
+being roasted alive!".
+This could be related to growing awareness of climate change and
+the need to solve its issues. Observing seasonal sentiment patterns
+aligning with heat waves highlights the strong connection between
+weather events and public sentiment. Negative sentiment peaks in
+speciﬁc years correlate with severe heat waves, emphasizing the
+emotional impact of such events.
+Conversely, positive sentiment in some years may indicate
+improved responses or milder conditions, reﬂecting the evolving
+dynamics of how society perceives and responds to heat waves. The
+overall presence of emotions tied to people’s experiences with heat
+waves suggests that people are developing coping strategies and
+community support in dealing with extreme weather events.
+Fig. 4. A Holistic View of Health Issues, Concerns, and Measures.
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+7
+The ﬂuctuations in sentiment throughout the summer months
+underscore the importance of considering the actual experiences
+individuals have with heat waves, as reﬂected in their willingness to
+engage in tweeting about these climatic events. This nuanced per-
+spective adds depth to our understanding of the interplay between
+personal experiences and expressing sentiments about heat waves
+on social media.
+Understanding these perspectives shared in conversations can be
+pivotal in developing strategies for mitigating and responding to heat
+waves speciﬁcally and climate change generally. People come to
+social media to support one another, seek help, and share opinions
+and experiences [48,49]. Our study also highlighted and classiﬁed the
+main health issues that may result from extreme heat waves (mental
+and physical health-related problems). These issues generated the
+negative emotions of sadness, stress, anxiety, and anger spotted in
+the Tweets. For example, heat-related illnesses, such as heat strokes
+and dehydration, were the most commonly mentioned health con-
+cerns, affecting a substantial portion of the tweeters. Many studies
+have shown associations between strokes and extreme heat weather
+[50,51].
+Additionally, mental health concerns, including stress and anxi-
+ety, were prevalent among tweeters, highlighting the psychological
+toll of heat waves. These ﬁndings could help identify tweet patterns
+related to health vulnerabilities, which can contribute to developing
+early warning systems. Monitoring social media can help anticipate
+and respond to potential health crises during extreme heat events,
+allowing for timely interventions and resource allocation. Addition-
+ally, health authorities can use this information to design targeted
+awareness campaigns and public health interventions, distribute
+resources, and implement strategies to mitigate the impact of
+extreme heat on vulnerable populations. Understanding the speciﬁc
+health issues identiﬁed in this study can aid in more efﬁcient
+resource allocation. Emergency services can use such information to
+prioritize areas and communities most at risk during extreme heat
+events and other extreme weather events related to climate change.
+Understanding the health vulnerabilities highlighted on social media
+can guide the incorporation of health considerations into broader cli-
+mate resilience plans at the local and regional levels.
+The summary of the vulnerable populations that heat waves could
+impact can serve as a repertory to patients and organizations aiming
+to issue information on preventative measures before heat waves
+and extreme weather events related to climate change. Consistently
+with previous studies, our ﬁndings suggest that social media data can
+be used to advance our understanding of public attention and reac-
+tions to severe weather [52]. Our results can, thus, provide a refer-
+ence for developing and improving relevant public health awareness
+strategies and campaigns and early extreme weather and health
+warning systems to prevent and reduce the health risks due to
+extreme weather and climate change, accounting for mental and
+physical health safety [51]. Finally, through the difference in response
+across groups, we shed light on the importance of understanding
+disparities to help tailor the preventative and corrective public health
+initiatives related to heatwaves to target the speciﬁc groups needed
+effectively.
+In summary, this study analyzes Twitter data related to heat
+waves and delves into the emotional and health-related aspects of
+the public’s response to extreme heat. These ﬁndings can inform poli-
+cymakers, healthcare professionals, and organizations working on cli-
+mate
+change
+mitigation
+and
+adaptation,
+helping
+them
+better
+understand the public’s concerns and responses to heat waves and
+Fig. 4. Continued.
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+8
+Table 3
+Distribution of the topics covered in the topic analysis on the different types of users.
+Themes
+Gender N(%)
+User type N(%)
+Age category N(%)
+Male
+Female
+Person
+Org
+<19
+19−29
+30−39
+>39
+Health issues
+Heat-Related Illnesses
+Heat exhaustion
+9588 (59)
+6720 (41)
+11,444 (70)
+4864 (30)
+2080 (13)
+2361 (14)
+3655 (22)
+8210 (50)
+Headaches
+1405 (54)
+1209 (46)
+2502 (96)
+112 (4)
+506 (19)
+871 (33)
+562 (22)
+674 (26)
+Nausea
+281 (43)
+365 (57)
+506 (78)
+140 (22)
+56 (9)
+84 (13)
+224 (35)
+281 (43)
+Fainting
+478 (40)
+702 (60)
+984 (83)
+196 (17)
+224 (19)
+421 (36)
+224 (19)
+309 (26)
+Heat edema
+196 (64)
+112 (36)
+196 (64)
+112 (36)
+28 (9)
+56 (18)
+84 (27)
+140 (45)
+Hayfever
+196 (58)
+140 (42)
+196 (58)
+140 (42)
+84 (25)
+28 (8)
+84 (25)
+140 (42)
+Heatstroke
+58,232 (35)
+109,885 (65)
+136,709 (81)
+31,407 (19)
+37,087 (22)
+42,739 (25)
+52,130 (31)
+36,159 (22)
+Dehydration
+2586 (29)
+6382 (71)
+6973 (78)
+1996 (22)
+2418 (27)
+1799 (20)
+2755 (31)
+1996 (22)
+Heat cramps
+309 (50)
+309 (50)
+393 (64)
+224 (36)
+84 (14)
+28 (5)
+140 (23)
+365 (59)
+Respiratory Issues
+Difﬁculty breathing
+534 (13)
+3711 (87)
+3964 (93)
+281 (7)
+702 (17)
+1096 (26)
+1180 (28)
+1265 (30)
+Asthma exacerbations
+843 (46)
+984 (54)
+1152 (63)
+674 (37)
+140 (8)
+196 (11)
+506 (28)
+984 (54)
+Respiratory distress
+562 (71)
+224 (29)
+506 (64)
+281 (36)
+56 (7)
+84 (11)
+196 (25)
+449 (57)
+Cardiovascular Concerns
+Heart palpitations
+1349 (77)
+393 (23)
+1124 (65)
+618 (35)
+112 (6)
+281 (16)
+478 (27)
+871 (50)
+Perspiration
+196 (64)
+112 (36)
+196 (64)
+112 (36)
+56 (18)
+28 (9)
+84 (27)
+140 (45)
+Increased heart rate
+2052 (19)
+8688 (81)
+10,206 (95)
+534 (5)
+1265 (12)
+4217 (39)
+2643 (25)
+2614 (24)
+Hypertension
+196 (58)
+140 (42)
+281 (83)
+56 (17)
+84 (25)
+56 (17)
+112 (33)
+84 (25)
+Cardiovascular events
+253 (69)
+112 (31)
+253 (69)
+112 (31)
+84 (23)
+56 (15)
+84 (23)
+140 (38)
+Organ Failure
+Kidney failure
+140 (45)
+168 (55)
+253 (82)
+56 (18)
+28 (9)
+84 (27)
+56 (18)
+140 (45)
+Lung issues
+84 (33)
+168 (67)
+224 (89)
+28 (11)
+0 (0)
+84 (33)
+56 (22)
+112 (44)
+Stomach pain
+18,895 (38)
+30,254 (62)
+43,610 (89)
+5539 (11)
+8351 (17)
+9025 (18)
+12,878 (26)
+18,895 (38)
+Skin and Hair Conditions
+Sunburn
+956 (32)
+2052 (68)
+2361 (79)
+646 (21)
+309 (10)
+281 (9)
+590 (20)
+1827 (61)
+Heat rash
+84 (20)
+337 (80)
+309 (73)
+112 (27)
+28 (7)
+112 (27)
+56 (13)
+224 (53)
+Irritation
+112 (57)
+84 (43)
+168 (86)
+28 (14)
+0 (0)
+56 (29)
+84 (43)
+56 (29)
+Over sweating
+84 (19)
+365 (81)
+393 (88)
+56 (13)
+196 (44)
+112 (25)
+56 (13)
+84 (19)
+Hair problems
+506 (69)
+224 (31)
+590 (81)
+140 (19)
+224 (31)
+112 (15)
+253 (35)
+140 (19)
+Eczema
+28 (11)
+224 (89)
+224 (89)
+28 (11)
+28 (11)
+140 (56)
+56 (22)
+28 (11)
+Mental Health and
+Wellbeing
+Panic attack
+1152 (45)
+1405 (55)
+1715 (67)
+843 (33)
+702 (27)
+337 (13)
+590 (23)
+927 (36)
+Stress
+2755 (20)
+11,275 (80)
+13,046 (93)
+984 (7)
+4836 (34)
+3936 (28)
+2868 (20)
+2390 (17)
+Anxiety
+2924 (46)
+3374 (54)
+6129 (97)
+168 (3)
+815 (13)
+843 (13)
+1265 (20)
+3374 (54)
+Sleep issues
+1658 (26)
+4780 (74)
+5736 (89)
+702 (11)
+1574 (24)
+843 (13)
+2643 (41)
+1377 (21)
+Mental fatigue
+1349 (47)
+1546 (53)
+2418 (83)
+478 (17)
+590 (20)
+590 (20)
+590 (20)
+1124 (39)
+Mood changes
+787 (44)
+1012 (56)
+1518 (84)
+281 (16)
+112 (6)
+281 (16)
+787 (44)
+618 (34)
+Vulnerable Populations
+Impact on infants
+337 (32)
+702 (68)
+674 (65)
+365 (35)
+140 (14)
+337 (32)
+253 (24)
+309 (30)
+Impact on the elderly
+478 (31)
+1068 (69)
+1180 (76)
+365 (24)
+56 (4)
+224 (15)
+421 (27)
+843 (55)
+Impact on pregnant individuals
+56 (7)
+759 (93)
+731 (90)
+84 (10)
+140 (17)
+196 (24)
+253 (31)
+224 (28)
+Impact on people with pre-existing conditions
+309 (48)
+337 (52)
+365 (57)
+281 (43)
+28 (4)
+112 (17)
+196 (30)
+309 (48)
+Medication immunization issues
+28 (8)
+309 (92)
+309 (92)
+28 (8)
+56 (17)
+112 (33)
+140 (42)
+28 (8)
+Chronic diseases
+224 (62)
+140 (38)
+224 (62)
+140 (38)
+28 (8)
+84 (23)
+112 (31)
+140 (38)
+Vulnerabilities in marginalized communities
+337 (46)
+393 (54)
+478 (65)
+253 (35)
+56 (8)
+140 (19)
+281 (38)
+253 (35)
+Other
+Infections
+281 (38)
+449 (62)
+618 (85)
+112 (15)
+196 (27)
+140 (19)
+224 (31)
+168 (23)
+Food poisoning
+281 (63)
+168 (38)
+365 (81)
+84 (19)
+140 (31)
+112 (25)
+112 (25)
+84 (19)
+Measures to address
+health issues (pre-
+ventative and cor-
+rective)
+Public health response
+Calls for action or awareness
+7929 (38)
+13,102 (62)
+16,786 (80)
+4245 (20)
+4217 (20)
+3964 (19)
+5989 (28)
+6860 (33)
+Discussions about government initiatives
+1968 (38)
+3261 (62)
+4386 (84)
+843 (16)
+506 (10)
+1518 (29)
+1715 (33)
+1490 (28)
+Public health advisories
+1602 (66)
+843 (34)
+843 (34)
+1602 (66)
+506 (21)
+421 (17)
+590 (24)
+927 (38)
+Adaptation and coping
+strategies
+Sharing tips for staying cool
+15,717 (39)
+24,097 (61)
+28,877 (73)
+10,937 (27)
+3767 (9)
+3992 (10)
+17,292 (43)
+14,761 (37)
+Discussing methods to stay hydrated and protect
+against heat
+8885 (43)
+11,865 (57)
+16,758 (81)
+3992 (19)
+3036 (15)
+1968 (9)
+8857 (43)
+6888 (33)
+(continued on next page)
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+9
+develop strategies to protect vulnerable populations and mitigate the
+health impacts of extreme heat.
+5. Limitations
+This study has limitations, notably its focus on Twitter users, who
+may not represent the broader population due to unique demo-
+graphics and interests. Bias may arise from selecting tweets based
+only on speciﬁc heatwave-related keywords and excluding non-
+English tweets, limiting the diversity of perspectives. Additionally,
+the
+inability
+to
+differentiate
+between
+personal
+and
+corporate
+accounts and to analyze tweets by demographics, like gender, due to
+Twitter’s privacy policies also restricts the study. Lastly, the lack of
+precise tweet location data hampers regional analysis of heatwave
+discussions.
+6. Conclusion
+Our analysis of over 2 million tweets has unveiled signiﬁcant
+insights
+into
+the
+public’s
+reactions
+to
+heat
+waves. We
+have
+highlighted the prominent emotions expressed, with joy and anger
+standing out, suggesting humor and sarcasm as coping mechanisms
+during extreme heat. The study has also identiﬁed signiﬁcant health
+concerns related to heatwaves, such as heat-related illnesses and
+mental health issues, underlining the multifaceted impact of extreme
+heat on well-being. These ﬁndings have practical implications for
+public health awareness campaigns and early warning systems.
+Declaration of competing interest
+No conﬂicts to report by the authors
+CRediT authorship contribution statement
+Safa Elkeﬁ: Writing −review & editing, Writing −original draft,
+Visualization, Validation, Supervision, Software, Resources, Project
+administration, Methodology, Investigation, Formal analysis, Data
+curation, Conceptualization. Achraf Tounsi: Writing −review & edit-
+ing, Writing −original draft, Visualization, Validation, Software,
+Resources, Project administration, Methodology, Investigation, For-
+mal analysis, Data curation, Conceptualization.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2024.100320.
+References
+TagedAPTARAListItem TagedAPTARAListLabel[1]TagedAPTARAEnd NASA. How do we know climate change is real? 2021 Available from: https://cli-
+mate.nasa.gov/evidence/#:~:text=Global%20Temperature%20Is%20Rising,atmo-
+sphere%20and%20other%20human%20activities.
+[2] NOAA. Climate change impacts 2021 Available from: https://www.noaa.gov/edu-
+cation/resource-collections/climate/climate-change-impacts.
+[3] Tracker C.A. Warming Projections Global Update November 2022 2022 Available
+from:
+https://policycommons.net/artifacts/3153102/cat_2022-11-10_globalup-
+date_cop27/3950927/.
+[4] World Health Organization. Climate change and health 2008 Available from:
+https://www.who.int/teams/environment-climate-change-and-health/climate-
+change-and-health.
+[5] Cao F, Gao T. Effect of climate change on the centennial drought over China using
+high-resolution NASA-NEX downscaled climate ensemble data. Theor Appl
+Climatol 2019;138(1−2):1189–202.
+[6] Change N.G.C. The causes of climate change 2022 Available from: https://science.
+nasa.gov/climate-change/causes/.
+[7] NASA. The effects of climate change 2023 Available from: https://climate.nasa.
+gov/effects/.
+[8] Philip S. Cities must protect people from extreme heat. Nature 2021;595
+(7867):331.
+[9] Capon A, Jay O, Ebi K, Lo S. Heat and health: a forthcoming Lancet Series. Lancet
+2019;394(10198):551–2.
+Table 3 (Continued)
+Themes
+Gender N(%)
+User type N(%)
+Age category N(%)
+Male
+Female
+Person
+Org
+<19
+19−29
+30−39
+>39
+Preparedness and emer-
+gency response
+Conversations about emergency services and
+response plans
+984 (30)
+2277 (70)
+2952 (91)
+309 (9)
+224 (7)
+365 (11)
+1180 (36)
+1490 (46)
+Information on cooling centers and shelters
+1040 (90)
+112 (10)
+168 (15)
+984 (85)
+84 (7)
+140 (12)
+562 (49)
+365 (32)
+Media and Public
+discourse
+Analysis of media portrayal of heatwave-related
+health issues
+1012 (73)
+365 (27)
+1265 (92)
+112 (8)
+84 (6)
+253 (18)
+421 (31)
+618 (45)
+Public perceptions and misconceptions
+1152 (39)
+1799 (61)
+2221 (75)
+731 (25)
+674 (23)
+646 (22)
+1265 (43)
+365 (12)
+Personal measures
+Personal efforts to protect against the effects of
+heatwaves
+4133 (35)
+7816 (65)
+9925 (83)
+2024 (17)
+3064 (26)
+4077 (34)
+2868 (24)
+1940 (16)
+Weather hazard watch
+Informing of upcoming weather-related hazards
+and alerts
+3852 (47)
+4302 (53)
+5989 (73)
+2165 (27)
+309 (4)
+1827 (22)
+2361 (29)
+3655 (45)
+Other
+Economic consequences of heat-related health
+issues
+1518 (30)
+3542 (70)
+4330 (86)
+731 (14)
+759 (15)
+871 (17)
+2080 (41)
+1349 (27)
+Discussions about work productivity
+1996 (18)
+9278 (82)
+10,403 (92)
+871 (8)
+2980 (26)
+2361 (21)
+3936 (35)
+1996 (18)
+Shaded areas and other miscellaneous measures
+478 (77)
+140 (23)
+506 (82)
+112 (18)
+84 (14)
+56 (9)
+224 (36)
+253 (41)
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+10
+[10] Jay O, Capon A, Berry P, Broderick C, de Dear R, Havenith G, et al. Reducing the
+health effects of hot weather and heat extremes: from personal cooling strategies
+to green cities. The Lancet 2021;398(10301):709–24.
+[11] Vicedo-Cabrera AM, Scovronick N, Sera F, Roye D, Schneider R, Tobias A, et al. The
+burden of heat-related mortality attributable to recent human-induced climate
+change. Nat Clim Chang 2021;11(6):492–500.
+[12] Zander KK, Mathew S, Garnett ST. Exploring heat stress relief measures among
+the Australian labour force. Int J Environ Res Public Health 2018;15(3):401.
+[13] Hatvani-Kovacs G, Belusko M, Skinner N, Pockett J, Boland J. Heat stress risk and
+resilience in the urban environment. Sustain Cities Soc 2016;26:278–88.
+[14] He B-J, Zhao D, Xiong K, Qi J, Ulpiani G, Pignatta G, et al. A framework for address-
+ing urban heat challenges and associated adaptive behavior by the public and the
+issue of willingness to pay for heat resilient infrastructure in Chongqing, China.
+Sustainable Cities Soc 2021;75:103361.
+[15] Zander KK, Moss SA, Garnett ST. Drivers of self-reported heat stress in the Austra-
+lian labour force. Environ Res 2017;152:272–9.
+[16] Zander KK, Botzen WJ, Oppermann E, Kjellstrom T, Garnett ST. Heat stress causes
+substantial labour productivity loss in Australia. Nat Clim Chang 2015;5(7):647–51.
+[17] Andrews O, Le Quere C, Kjellstrom T, Lemke B, Haines A. Populations exposed to
+extreme heat under climate change: implications for workability and survivabil-
+ity. Lancet Planet Health 2018;2:e540. -e7.
+[18] Stevens HR, Beggs PJ, Graham PL, Chang H-C. Hot and bothered? Associations
+between temperature and crime in Australia. Int J Biometeorol 2019;63:747–62.
+[19] Huntingford C, Hemming D, Gash J, Gedney N, Nuttall P. Impact of climate change
+on health: what is required of climate modellers? Trans R Soc Trop Med Hyg
+2007;101(2):97–103.
+[20] Afolabi O, Driggs−Campbell K, Dong R, Kochenderfer MJ, Sastry SS. People as sen-
+sors: imputing maps from human actions. 2018 IEEE/RSJ International Conference
+on Intelligent Robots and Systems (IROS). IEEE; 2018.
+[21] Turek-Hankins LL, Coughlan de Perez E, Scarpa G, Ruiz-Diaz R, Schwerdtle PN, Joe
+ET, et al. Climate change adaptation to extreme heat: a global systematic review
+of implemented action. Oxford Open Climate Change 2021;1(1):kgab005.
+[22] Guo Y. Hourly associations between heat and ambulance calls. Environ Pollut
+2017;220:1424–8.
+[23] Varghese BM, Hansen A, Nitschke M, Nairn J, Hanson-Easey S, Bi P, et al. Heatwave
+and work-related injuries and illnesses in Adelaide, Australia: a case-crossover
+analysis using the Excess Heat Factor (EHF) as a universal heatwave index. Int
+Arch Occup Environ Health 2019;92:263–72.
+[24] Zander K.K., Rieskamp J., Mirbabaie M., Alazab M., Nguyen D. Responses to heat
+waves: what can Twitter data tell us? Natural Hazards. 2023:1−18.
+[25] Beckmann SK, Hiete M, Schneider M, Beck C. Heat adaptation measures in private
+households: an application and adaptation of the protective action decision
+model. Human Soc Sci Commun 2021;8(1):1–12.
+[26] Lupton D. Feeling better connected’: academics’ use of social media. 2014.
+[27] Edo-Osagie O, De La Iglesia B, Lake I, Edeghere O. A scoping review of the use of
+Twitter for public health research. Comput Biol Med 2020;122:103770.
+[28] Lin Y. Twitter statistics every marketer should know in 2020. HYPERLINK “https://
+www.oberlocom/blog/twitter-statistics” https://www.oberlo.com/blog/twitter-
+statistics#:~:text=According%20to%20Twitter's%20latest%20ﬁgures,own%
+20improvement%20and%20development%20efforts.
+[29] Yadav N, Rajendra K, Awasthi A, Singh C, Bhushan B. Systematic exploration of
+heat wave impact on mortality and urban heat island: a review from 2000 to
+2022. Urban Clim 2023;51:101622.
+[30] Sorensen C, Hess J. Treatment and prevention of heat-related illness. New Engl J
+Med 2022;387(15):1404–13.
+[31] Domeisen DI, Eltahir EA, Fischer EM, Knutti R, Perkins-Kirkpatrick SE, Sch€ar C,
+et al. Prediction and projection of heatwaves. Nat Rev Earth Environ 2023;4
+(1):36–50.
+[32] Mason H, C King J, E Peden A, C Franklin R. Systematic review of the impact of
+heatwaves on health service demand in Australia. BMC Health Serv Res 2022;22
+(1):960.
+[33] Ahmed I, van Esch M, van der Hoeven F. Heatwave vulnerability across different
+spatial
+scales:
+insights
+from
+the
+Dutch
+built
+environment.
+Urban
+Clim
+2023;51:101614.
+[34] Zhou L, Wang W, Chen K. Tweet properly: analyzing deleted tweets to under-
+stand and identify regrettable ones. In: Proceedings of the 25th International Con-
+ference on World Wide Web; 2016.
+[35] Tounsi A, ElkeﬁS, Bhar SL. Exploring the Reactions of Early Users of ChatGPT to
+the Tool using Twitter Data: sentiment and Topic Analyses. 2023 IEEE Interna-
+tional Conference on Advanced Systems and Emergent Technologies (IC_ASET).
+IEEE; 2023.
+[36] Wang Z, Hale S, Adelani DI, Grabowicz P, Hartman T, Fl€ock F, et al. Demographic
+inference and representative population estimates from multilingual social media
+data. The world wide web conference; 2019.
+[37] Yang Y-C, Al-Garadi MA, Love JS, Perrone J, Sarker A. Automatic gender detection
+in Twitter proﬁles for health-related cohort studies. JAMIA Open 2021;4(2):
+ooab042.
+[38] Zhang C, Xu S, Li Z, Hu S. Understanding concerns, sentiments, and disparities
+among population groups during the COVID-19 pandemic via Twitter data min-
+ing: large-scale cross-sectional study. J Med Internet Res 2021;23(3):e26482.
+[39] Liu Y., Ott M., Goyal N., Du J., Joshi M., Chen D., et al. Roberta: a robustly optimized
+bert pretraining approach. arXiv preprint arXiv:190711692. 2019.
+[40] Hartmann J, Heitmann M, Siebert C, Schamp C. More than a feeling: accuracy and
+application of sentiment analysis. Int J Res Marketing 2023;40(1):75–87.
+[41] Yadav N, Singh AK. Bi-directional encoder representation of transformer model
+for sequential music recommender system. In: Proceedings of the 12th Annual
+Meeting of the Forum for Information Retrieval Evaluation; 2020.
+[42] Brown T, Mann B, Ryder N, Subbiah M, Kaplan JD, Dhariwal P, et al. Language
+models are few-shot learners. Adv Neural Inf Process Syst 2020;33:1877–901.
+[43] McKinnon KA, Rhines A, Tingley M, Huybers P. Long-lead predictions of eastern
+United States hot days from Paciﬁc sea surface temperatures. Nat Geosci 2016;9
+(5):389–94.
+[44] Benﬁeld A. 2016 annual global climate and catastrophe report. 2016.
+[45] Samset B, Zhou C, Fuglestvedt J, Lund M, Marotzke J, Zelinka M. Steady global sur-
+face warming from 1973 to 2022 but increased warming rate after 1990. Com-
+mun Earth Environ 2023;4(1):400.
+[46] McClellan ED, Davis K. Managing" Inaction and Public Disengagement with Cli-
+mate Change:(Re) considering the Role of Climate Change Discourse in Compul-
+sory Education. Javnost-The Public 2023;30(3):356–76.
+[47] Filiberto D, Wethington E, Pillemer K, Wells N, Wysocki M, Parise JT. Older peo-
+ple and climate change: vulnerability and health effects. Generations 2009;33
+(4):19–25.
+[48] Roxburgh N, Guan D, Shin KJ, Rand W, Managi S, Lovelace R, et al. Characterising
+climate change discourse on social media during extreme weather events. Global
+Environ Change 2019;54:50–60.
+[49] Silver A, Andrey J. Public attention to extreme weather as reﬂected by social
+media activity. J Contingencies Crisis Manage 2019;27(4):346–58.
+[50] Bouchama A, Dehbi M, Mohamed G, Matthies F, Shoukri M, Menne B. Prognostic
+factors in heat wave−related deaths: a meta-analysis. Arch Intern Med 2007;167
+(20):2170–6.
+[51] Li Y, Li C, Luo S, He J, Cheng Y, Jin Y. Impacts of extremely high temperature and
+heatwave
+on
+heatstroke
+in
+Chongqing.
+China
+Environ
+Sci
+Pollut
+Res
+2017;24:8534–40.
+[52] Ripberger JT, Jenkins-Smith HC, Silva CL, Carlson DE, Henderson M. Social media
+and severe weather: do tweets provide a valid indicator of public attention to
+severe weather risk communication? Weather, Climate, Soc 2014;6(4):520–30.
+S. Elkeﬁand A. Tounsi
+The Journal of Climate Change and Health 17 (2024) 100320
+11

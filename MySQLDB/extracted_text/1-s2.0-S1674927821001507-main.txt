@@ -1,0 +1,771 @@
+Decadal changes of the intraseasonal oscillation during 1979e2016
+WU Nana, LI Yingb, LI Juana, FENG Li-Chengc,d,*, LIU Feie
+a Earth System Modeling and Climate Dynamics Research Center, Nanjing University of Information Science and Technology, Nanjing, 210044, China
+b Shanghai ZhongChuan NERC-SDT Co., Ltd, Shanghai, 201114, China
+c National Marine Environmental Forecasting Center, Ministry of Natural Resources, Beijing, 100081, China
+d Key Laboratory of Marine Hazards Forecasting, National Marine Environmental Forecasting Center, Ministry of Natural Resources, Beijing, 100081, China
+e School of Atmospheric Sciences Sun Yat-sen University, Guangdong Province Key Laboratory for Climate Change and Natural Disaster Studies, and Southern
+Marine Science and Engineering Guangdong Laboratory, Zhuhai, 519082, China
+Received 5 July 2021; revised 29 August 2021; accepted 12 October 2021
+Available online 18 October 2021
+Abstract
+The Intraseasonal Oscillation (ISO) is the cornerstone for 2e8-week subseasonal prediction. Understanding the decadal variation of the ISO
+is important for improving subseasonal prediction; however, there is still a gap in our knowledge of ISO dynamics. Here, we presented a method,
+an Empirical Orthogonal Function (EOF) analysis of 11-year-sliding ISO evolution, to objectively detect decadal variation of the ISO originated
+from the equatorial Indian Ocean (EIO) during 1979e2016. The results show that the properties of ISO have a notable decadal change since
+1998 for both boreal summer and boreal winter seasons, mainly in its evolution rather than in its intensity at origin. During the pre-1998 epoch,
+the boreal summer intraseasonal oscillation (BSISO), was conﬁned to the Indian Ocean; since 1998, however, it propagated northeastward across
+the Maritime Continent (MC) and the intraseasonal variability over the western North Paciﬁc was signiﬁcant enhanced. On the other hand, the
+boreal-winter ISO, usually known as Madden-Julian Oscillation (MJO) shows minor changes in MC ‘barrier effect’ between the two epochs, and
+continuously propagates eastward across the MC. The MJO only shows suppressed activity over the central equatorial Paciﬁc in the post-1998
+epoch. These decadal changes are related to the eastern Paciﬁc cooling during the ‘global warming hiatus’ period rather than to the four-decade
+global warming. Results here provide a set of potential precursors for foreseeing ISO propagation under different mean states.
+Keywords: Decadal variation; Intraseasonal oscillation; Madden-Julian oscillation; Boreal summer intraseasonal oscillation; Global warming hiatus
+1. Introduction
+The tropical Intraseasonal Oscillation (ISO) has wide im-
+pacts on extreme weathers globally (Zhang, 2013; Wang and
+Moon, 2017a,b). After originated from the equatorial Indian
+Ocean (EIO), the ISO exhibits distinct propagation charac-
+teristics during boreal summer and winter seasons. The boreal-
+winter ISO, usually known as Madden-Julian Oscillation
+(MJO) (Madden and Julian, 1971, 1972) exhibits dominant
+eastward
+propagation
+characteristic across
+the Maritime
+Continent (MC) (Zhang, 2005), while the boreal-summer
+intraseasonal oscillation (BSISO; Wang and Xie, 1997), is
+mainly dominated by northeastward propagation feature
+(Yasunari, 1979; Krishnamurti and Subrahmanyam, 1982; Lau
+and Chan, 1986; Annamalai and Sperber, 2005; Wang et al.,
+2005), although seasonality also exists in BSISO (Liu et al.,
+2020). Studying the decadal variation of the ISO is vitally
+important for improving our understanding of ISO mechanism
+and prediction of projected ISO changes in the future.
+The BSISO over the South China Sea was found to be
+related
+to
+the
+northwestward
+propagating
+mode
+during
+1979e1993, and to the northeastward propagating mode dur-
+ing 1994e2007 (Kajikawa et al., 2009). The intraseasonal
+* Corresponding author. National Marine Environmental Forecasting Center,
+Ministry of Natural Resources, Beijing, 100081, China.
+E-mail address: fenglich@nmefc.cn (FENG L.-C.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 12 (2021) 772e782
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2021.10.001
+1674-9278/© 2021 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+variability of the Asian summer monsoon in the decade of
+2001e2010 was found to be increasing compared to that of
+1979e1988 (Sabeerali et al., 2014). The BSISO activity,
+deﬁned by the amplitude of the ﬁrst two principle components
+of extended empirical orthogonal function (EOF) analysis of
+bandpass-ﬁltered
+outgoing
+longwave
+radiation
+(OLR)
+(Kikuchi et al., 2011), exhibits signiﬁcant decadal variation
+with greater activity for the period of 1999e2008 than for the
+periods
+of
+1984e1998
+and
+2009e2014
+(Yamaura
+and
+Kajikawa, 2016). This BSISO index, however, is obtained by
+the assumption that the leading modes of the extended EOF or
+the BSISO evolution do not have decadal change.
+The global ISO activity, represented by the power spec-
+trum, was found to have a decreasing trend in observation
+(Suhas and Goswami, 2009; Raghavendra et al., 2019).
+Increased residence times of the ISO over the IndoePaciﬁc
+Ocean and the Warm Pool expansion during 1981e2018
+(Roxy et al., 2019). The ISO increases in amplitude and fre-
+quency in a warmer climate predicted for the end of the
+century (Chang et al., 2015). Changes in ISO in the model are
+sensitive to the pattern of sea surface temperature (SST)
+warming, with signiﬁcant decreases in ISO precipitation and
+wind variability for a zonally symmetric warming, and sig-
+niﬁcant increases in ISO precipitation amplitude for a globally
+uniform warming (Maloney and Xie, 2013). Under the future
+anthropogenic forcing-induced global warming, the circula-
+tion of the ISO is less changed than the convection in the
+models due to enhanced static stability (Bui and Maloney,
+2018; Maloney et al., 2019). In observation, however, it is
+not clear whether the ISO changes are controlled by the global
+warming trend or by the internal variability.
+The seasonal-mean SST and the MC are two important
+factors affecting ISO changes. Although the global-scale ISO
+strength is not controlled by the underlying SST change
+(Hendon et al., 1999; Slingo et al., 1999), the local strength of
+the ISO is changed by the underlying SST variation, especially
+over the western Paciﬁc (Salby and Hendon, 1994; Anyamba
+and Weare, 1995; Hendon et al., 1999; Liu et al., 2016b;
+Mao and Wang, 2018; Wang et al., 2021). This enhanced ISO
+activity associated with the eastern Paciﬁc El Ni~no develop-
+ment mostly takes place over the period of 1985e2000
+(Gushchina and Dewitte, 2018). These ﬁndings, however, are
+mainly for the interannual scale; and it remains unclear
+whether the decadal SST variation can induce signiﬁcant
+decadal change of the ISO or not.
+Teleconnection of the ISO usually becomes the strongest
+when its convection center propagates across the MC and
+reaches the eastern edge of the MC (Adames and Wallace,
+2014). The ISO originated from the EIO, however, some-
+times vanishes over the MC (Zhang and Ling, 2017). This
+‘barrier effect’ of the MC on the eastward propagation of the
+MJO (Wang and Rui, 1990; Zhang and Ling, 2017; Chen and
+Wang, 2018) and on the northeastward propagation of the
+BSISO (Kajikawa et al., 2012; Liu et al., 2016a,b) usually
+leads to the ISO ‘prediction barrier’ (Inness et al., 2003;
+Weaver et al., 2011; Fu et al., 2013; Wang et al., 2014; Jiang
+et al., 2015; Kim et al., 2016). It is not clear whether there is
+decadal change of this MC ‘barrier effect.’
+In this work, multiple reanalysis data and an EOF analysis
+of 11-year-sliding ISO evolution were used to identifying the
+decadal variation of ISO evolution in both boreal summer and
+boreal winter seasons. This study aimed at investigating the
+signiﬁcant
+difference
+of
+ISO
+decadal
+evolution
+during
+1979e2016. For example, before and after the ‘global
+warming hiatus’ period. The results will help us understanding
+the causes of their changes and provide an important hint for
+model validating and ISO prediction under different back-
+ground states.
+2. Data and method
+2.1. Data
+Due to the wide use of OLR as a primary indicator for the
+convection of both boreal-winter ISO (referred to as MJO from
+now on) and boreal-summer ISO (referred to as BSISO from
+now on) (Wheeler and Hendon, 2004; Kikuchi et al., 2011;
+Lee et al., 2013), we used the daily OLR data of the Advanced
+Very High Resolution Radiometer (AVHRR) from 1979 to
+2016. These data are at 2.5 resolution and are based on the
+National Oceanic and Atmospheric Administration (NOAA)
+polar orbiting satellites (Liebmann and Smith, 1996). Daily
+zonal and meridional winds at 850 hPa are used to represent
+the ISO circulation, which are obtained from two sources, the
+European
+Centre
+for
+Medium-Range
+Weather
+Forecasts
+(ECMWF) Reanalysis ERA-interim (Dee et al., 2011) and the
+National Centers for Environmental Prediction (NCEP)-
+Department of Energy (DOE) Reanalysis II (Kanamitsu et al.,
+2002). The real-time multivariate indices, based on the multi-
+variable EOF of OLR and of 850 hPa and 200 hPa zonal
+winds, are often used for the MJO and BSISO (Wheeler and
+Hendon, 2004; Lee et al., 2013). Here, we mainly focused
+on the ISO convection represented by OLR.
+To represent the decadal change of the mean state, we used
+monthly mean SST from the Hadley Centre Global Sea Ice
+and SST (Rayner et al., 2003), and monthly mean precipitation
+from the Global Precipitation Climatology Projection (GPCP)
+(Huffman et al., 1997). Two decadal modes of the interdecadal
+Paciﬁc oscillation (IPO) and the Atlantic multi-decadal
+oscillation (AMO) are calculated for reference purposes. The
+IPO is deﬁned as the leading EOF of detrended annual SST
+anomaly over the Paciﬁc (120E90W, 60S‒60N) (Power
+et al., 1999; Meehl and Hu, 2006). The leading projected
+coefﬁcient (PC) is used to represent the variability. The AMO
+is calculated from annual SST anomaly averaged over the
+North Atlantic (0‒80W, 0‒60N) after removing the global
+mean SST (Trenberth and Shea, 2006). The 11-year Lanczos
+low-pass ﬁlter is performed to obtain the decadal variability.
+The 30‒90-day bandpass ﬁlter is performed on the OLR to
+obtain intraseasonal signals. The ISO OLR index is deﬁned by
+the EIO (70‒90E, 5S‒5N) averaged 30‒90-day OLR
+anomaly. Due to the seasonality of ISO propagation (Kikuchi
+773
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+et al., 2011), we studied the BSISO and MJO separately. Here,
+the boreal summer refers to MayeOctober, and the boreal
+winter refers to NovembereApril.
+2.2. EOF analysis of 11-year-sliding evolution of the
+major modes of variability
+Both the BSISO and MJO over the EIO have oscillation
+periods of 30e60 d, and the BSISO has shorter periods than
+the MJO. The ISO OLR index shows spectral peaks at 41 and
+45 d, respectively, for BSISO and MJO during the period of
+1979e2016 (Fig. 1a, g). The ISO evolution originated from
+the EIO can be represented by the regression map of 30e90-
+day OLR anomaly over the Indo-western Paciﬁc region
+(40E150W, 20S‒30N) with reference to the EIO ISO
+OLR index. The BSISO propagate northeastward (Fig. 1bef).
+At day 0, the positive convection anomaly, represented by
+negative OLR anomaly, is located in the EIO, coupled by
+strong westerly wind anomaly in the EIO (Fig. 1b). The
+southeast-northwest tilted rain band, coupled with the cyclonic
+wind anomaly, forms since day 10 and reaches the western
+North Paciﬁc (WNP) at day 20. The MJO is dominated by
+Fig. 1. Climatological ISO evolution during 1979e2016, (a) power spectrum of 30e90-day OLR anomaly (W m2) in the EIO (70‒90E, 5S‒5N) for the boreal
+summer (MayeOctober), and two dashed lines denote 95% and 99% conﬁdence levels, respectively; (bef) the lagged regression maps of 30e90-day OLR and
+850 hPa wind anomalies onto the EIO ISO OLR index from day 0 to day 20 with an interval of 5 d for the boreal summer; and only the OLR and wind anomalies
+signiﬁcant at the 95% conﬁdence level are shown; (gel) are the same as (aef), except for the boreal winter; an interval of 6 d is used for the lagged regression.
+774
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+eastward propagation (Fig. 1hel). The EIO ISO convective
+center is coupled with the westerly wind anomaly in terms of
+phase, and with the easterly wind anomaly to the east in the
+low troposphere. These divergent evolutions of the ISO during
+different seasons were reported previously (Zhang and Dong,
+2004; Zhang, 2005; Wang et al., 2009; Kikuchi et al., 2011).
+We presented a new method, i.e., EOF analysis of the 11-
+year-sliding ISO evolution, for detecting the decadal varia-
+tion of the ISO objectively. From 1979 to 2016, we studied the
+38 boreal summers and boreal winters. First, we calculated the
+lagged regression maps for each 11-sliding years, to obtain 28
+sets of 11-year sliding regression maps. We connected day
+0 and day 10 to represent the BSISO evolution from phase
+zero to phase one quarter, i.e., propagation of ISO convective
+center from the EIO to the MC. Day 0 and day 12 were used
+for the boreal winter due to a longer period of 45. Then, we
+performed the EOF analysis on these 28 11-year-sliding maps
+to obtain decadal changes. The PC time series or the projec-
+tion coefﬁcients, normalized by their standard deviation, were
+used to represent the decadal variation. More phases of the
+ISO evolution were also used to perform the EOF analysis, and
+similar results were obtained.
+For each 11 years, we simply used the lag regression map
+of OLR to represent the evolution of the ISO convection that
+originates from the EIO during different decades. More
+indices of global ISO evolution obtained from complicated
+EOF analysis on ISO convection (Matthews, 2000; Kikuchi
+et al., 2011), circulation (Knutson and Weickmann, 1987), or
+combined convection and circulation (Wheeler and Hendon,
+2004; Lee et al., 2013), as reviewed by Straub (2013) and
+Kiladis et al. (2014), should be studied in the future. The in-
+dividual ISO event identiﬁed by the tracking method (Ling
+et al., 2014; Zhang and Ling, 2017) should also be further
+studied.
+2.3. Signiﬁcant test
+Since the 30‒90-day bandpass ﬁlter is used, the effective
+degrees of freedom should be used for signiﬁcant test on the
+regression map. Following Livezey and Chen (1983), the
+effective time (te) between two time series (X and Y ) can be
+estimated from their autoregressive properties:
+te ¼½1þ2
+X
+N
+i¼1
+CXXðiDtÞCYYðiDtÞDt
+where N is the number of samples, Dt is the sampling time,
+and C is the autocorrelation at lag iDt. The effective degrees of
+freedom can then be estimated by t ¼ NDt=te.
+To identify whether the change of ISO evolution between
+two selected periods, such as 1979e1997 and 1998e2016, is
+signiﬁcant or not, the bootstrapped resampling method with
+10,000 random draws is used (Adams et al., 2003). Each time
+we calculated two sets of lagged regression maps of 19 years,
+which are selected from the period of 1979e2016 randomly,
+and use their difference as one sample. Conﬁdence intervals
+are calculated by using repeated (n ¼ 10,000) draws.
+Signiﬁcance is then evaluated by comparing percentile (95%)
+from the random draw to the selected difference.
+3. Decadal variation of the ISO
+3.1. EOF analysis of 11-year-sliding ISO evolution
+The decadal variation of ISO evolution in terms of con-
+vection can be obtained after performing EOF analysis on
+these 11-year-sliding regression maps of OLR for both boreal
+summer and winter. We obtained two signiﬁcant modes for
+each season, which are statistically distinguishable from each
+other and from higher modes according to the rule of North
+et al. (1982). The percentage variance accounted for the
+leading mode are 55% for the boreal summer and 44% for the
+boreal winter, which are much higher than the second mode
+that explains 22% and 27% for the boreal summer and boreal
+winter, respectively. Next, we focused on the ﬁrst leading
+mode (EOF1).
+During the boreal summer, the spatial structure of EOF1
+displays strong positive OLR anomaly over the WNP and
+weak negative anomaly over the western part of the MC at day
+0 when the BSISO center is located in the EIO (Fig. 2a). Ten
+days later, the northeastward propagating BSISO forms a rain
+band spanning the Arabian SeaeSouth IndiaeSouth Bay of
+Bengal and the MC, and the EOF1 structure displays negative
+anomaly over the Arabian Sea, India, and MC, and strong
+positive anomaly over the WNP (Fig. 2b). Although the sec-
+ond mode (EOF2) is well distinguishable from other modes,
+the anomalies along the path of BSISO northeastward propa-
+gation are too weak compared to those of EOF1 (Fig. 3a, b).
+During the boreal winter, the structure of EOF1 displays
+strong negative OLR anomaly over the central equatorial Pa-
+ciﬁc, Philippine Sea, and northern Australia at day 0 when the
+MJO has a wet phase in the EIO and a dry phase in the western
+equatorial Paciﬁc (Fig. 2c). Twelve days later, the MJO center
+reaches the MC, and the EOF1 structure displays positive OLR
+anomaly from the eastern Indian Ocean to the western equa-
+torial Paciﬁc, and the anomaly over the MC is weak (Fig. 2d).
+The anomalies of EOF2 are also much weaker than EOF1
+along the path of MJO eastward propagation (Fig. 3c and d).
+The dominant mode of BSISO evolution changes its phase
+from negative to positive around 1996/1997 (Fig. 2e). The
+negative phase peaks during the decade around 1990, and the
+positive phase peaks during the decade around 2004. This
+decadal change around 1997 was also reported in Yamaura and
+Kajikawa (2016). The EOF1 of MJO has similar decadal
+change around 1997/1998, and its negative phase and positive
+phase peak during the decades around 1992 and 2007,
+respectively. The second mode has positive phase peaking
+around the late-1990s and negative phases peaking around the
+mid-1980s and 2010 for both boreal summer and winter
+(Fig. 3e).
+Since the ISO is a convection-circulation coupling system,
+we further checked whether the same decadal variation exists
+in the ISO circulation. The same method as used for making
+Fig. 2 is performed on the ISO circulation evolution. Since the
+775
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+ISO westerly anomaly is in phase with the OLR anomaly in
+the EIO at day 0 (Fig. 1b, h), we deﬁned the ISO U index as
+the 30‒90-day-ﬁltered 850 hPa zonal-wind anomalies aver-
+aged in the EIO for the boreal summer and for the boreal
+winter. The ISO evolution can be represented by the regression
+map of 30e90-day 850 hPa zonal-wind anomaly over the
+IndoePaciﬁc region with reference to the EIO ISO U-index.
+The same two dominant decadal changes as in the ISO con-
+vection can be obtained in the ISO circulation for both seasons
+based on the ERA-Interim dataset (Fig. 4). This result means
+that the convection and circulation of the ISO couples well
+from 1979 to 2016, and both ﬁelds experience similar decadal
+change. These two dominant modes can also be obtained in
+the NCEP reanalysis II dataset, while the ﬁrst mode has a
+phase transition about three years earlier than that in the ERA-
+Interim dataset (not shown).
+3.2. Different ISO evolutions before and after 1998
+This decadal change of the ISO evolution can be clearly
+seen by comparing ISO evolution before and after 1998.
+During the boreal summer of 1979e1997 (Fig. 5a), the
+BSISO, originates from the EIO and propagates northeastward
+from day 0 to day 5; and it forms a southeast-northwest tilted
+rain band across the Arabian SeaeSouth IndiaeSouth Bay of
+Bengal and the MC regions at day 10, though this tilted rain
+band is weak. Since day 10, this rain band decays quickly and
+the negative phase of the BSISO appears over the EIO. The
+strong ISO center over the WNP at day 20 cannot be found for
+Fig. 3. Second mode (EOF2) of decadal variation of ISO convection, (aeb) the
+spatial structures of the second EOF mode of connected 11-year regression
+maps at day 0 and day 10 of 30e90-day OLR anomaly shaded onto the EIO
+ISO OLR index for the boreal summers of 1979e2016. The climatological
+BSISO evolutions, i.e., the regressed OLR anomalies for the boreal summers
+of 1979e2016, are contoured for reference; (ced) are the same as (aeb),
+except for the boreal winter; (e) the PCs for both boreal summer and winter.
+Fig. 2. Dominant (EOF1) decadal variation of ISO convection, (aeb) the
+spatial structures of the ﬁrst EOF mode of connected 11-year regression maps
+at day 0 and day 10 of 30e90-day OLR anomaly shaded onto the EIO ISO
+OLR index for the boreal summers of 1979e2016. The climatological BSISO
+evolutions, i.e., the regressed OLR anomalies for the boreal summers of
+1979e2016, are contoured for reference; (ced) are the same as (aeb), except
+for the boreal winter; (e) the PCs for both boreal summer and winter.
+776
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+this period, which means the BSISO originated from the EIO
+does not propagate to the WNP around the 1980s and 1990s.
+During the boreal summers of 1998e2016 (Fig. 5b), the
+BSISO originated from the EIO propagates northeastward.
+The strong tilted rain band across the Arabian SeaeSouth
+IndiaeSouth Bay of Bengal and the MC regions appears
+since day 10, which is much stronger than that in the summers
+before 1998. This strong rain band continues to move north-
+eastward and lasts until day 20. The strong BSISO reaches the
+WNP at day 20.
+Decadal changes of the BSISO evolution between these
+two periods can be clearly seen in Fig. 5c. Compared to the
+early period, the dry phase over the WNP for the EIO
+BSISO is much stronger after 1998, and the difference is
+signiﬁcant. Along the northeastward propagation of the
+BSISO, the enhancement of the tilted rain band is also
+signiﬁcant.
+During the boreal winters of 1979e1997 (Fig. 6a), the MJO
+exhibited dominant eastward propagation path. The MJO
+passed over the MC region from day 12 to day 18, while its
+major center is located to the south of the MC and over the
+Arafura Sea. After passing over the MC, the MJO is enhanced
+over the central equatorial Paciﬁc at day 24. For the later
+period of 1998e2016 (Fig. 6b), the MJO shows similar east-
+ward propagation as in the early period. The MJO activity over
+the MC is not changed. The only change happens over the
+South Paciﬁc Convection Zone (SPCZ) region; and the nega-
+tive phase at day 0 and convective center at day 24 are both
+weaker than in the early period, which can be seen in their
+difference (Fig. 6c).
+These results show that the dominant decadal change
+happens for both BSISO and MJO around the end of last
+century, mainly in their evolution. This dominant decadal
+change of the ISO does not occur over the EIO at day
+0 (Fig. 2a, c, Fig. 5a and Fig. 6a). Compared to the early epoch
+of 1979e1997, the ISO intensity at origin during 1998e2016,
+measured by the standard deviation of EIO ISO OLR index, is
+only decreased by 6% for BSISO and by 0.4% for MJO, which
+indicates that the intensity of the origination of both BSISO
+and MJO is steady over the EIO. The oscillation periods,
+however, are shortened during 1998e2016 for both BSISO
+and MJO over the EIO, although their peaks do not change
+(Fig. 7). Correspondingly, the BSISO and MJO propagate
+faster after 1998, which may relate to the warmer SST over the
+tropical regions except the central-eastern Paciﬁc (Fig. 8).
+In summary, after having originated from the EIO, the
+BSISO is much suppressed along its northeastward propaga-
+tion path before 1998 and cannot reach the WNP, while it can
+reach the WNP after 1998 and affect the ISO there. This
+decadal change may contribute to the increased BSISO ac-
+tivity since 1998 (Yamaura and Kajikawa, 2016). This change
+also explains the increased intraseasonal variability of Asian
+summer monsoon during 2001e2010 when compared to that
+during 1979e1988 (Sabeerali et al., 2014), and explains why
+the ISO over the South China Sea is related to the north-
+westward propagating mode over the western Paciﬁc during
+1979e1993 (Kajikawa et al., 2009). The MJO, however, only
+has a decadal change in strength, which is suppressed over the
+central equatorial Paciﬁc after 1998. The MC ‘barrier effect’
+does not have a signiﬁcant decadal change. Since the MJO
+Fig. 4. Decadal variation of ISO circulation, (a) the projected coefﬁcients (PCs) of the ﬁrst EOF mode of conjected 11-year regression maps of 30e90-day 850 hPa
+zonal-wind anomaly onto the EIO (70‒90E, 5S‒5N) (U index for the boreal summer (warm color) at day 0 and day 10 and for the boreal winter (cold color) at
+day 0 and day 12, based on the ERA-Interim (thin line); (b) for the second EOF mode (The results based on the OLR-index are also plotted by thick lines for
+references).
+777
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+mainly prevails in the Indian Ocean and has less projection on
+the Paciﬁc in the recent years, this explains why the global
+ISO activity has a decreasing trend in the observation (Suhas
+and Goswami, 2009; Raghavendra et al., 2019).
+4. Decadal change of the mean state
+To understand the decadal variation of the ISO around
+1997/1998, we investigated mean state changes in precipita-
+tion and SST (Fig. 8). Since the end of the last century, the
+eastern Paciﬁc cooling, which is related to the ‘global warm-
+ing hiatus’ (Kosaka and Xie, 2013), appears in both boreal
+summer (Fig. 8a) and winter (Fig. 8b). The spatial structure
+displays an IPO-like anomaly. The eastern equatorial Paciﬁc
+cooling during winter is stronger than that during summer.
+This ‘global warming hiatus’ was supposed to be related to the
+internal mode of the AMO and IPO (Kosaka and Xie, 2013;
+Chen and Tung, 2014; Meehl et al., 2014). The correlations
+between the PC1 of Fig. 2 and IPO are 0.73 and 0.85 for the
+boreal summer and winter, respectively. The correlations for
+this PC1 and AMO are 0.96 and 0.97 for the boreal
+summer and winter, respectively.
+Associated with this eastern Paciﬁc cooling in the recent
+decades, the boreal summer and winter show different pre-
+cipitation responses. During the boreal summer (Fig. 8a),
+positive precipitation anomalies occur over the Asian monsoon
+region including the Arabian Sea, the Bay of Bengal, the
+WNP, and the MC, while weak negative precipitation anomaly
+happens over the central equatorial Paciﬁc. These positive
+seasonal-mean precipitation anomalies favor the development
+Fig. 5. BSISO evolutions during different decades, (a) the lagged regression map of 30e90-day OLR and 850 hPa wind anomalies onto the EIO ISO OLR-index
+from day 0 to day 20 for the boreal summers of 1979e1997 (Only the OLR and 850 hPa wind anomalies signiﬁcant at the 95% conﬁdence level are shown); (b) the
+BSISO during 1998e2016; (c) the difference between (b) and (a) (Stippling denotes OLR anomalies signiﬁcant at the 95% conﬁdence level based on the
+bootstrapped resampling method. The climatological BSISO evolution, i.e., the regressed OLR anomalies for the boreal summers of 1979e2016, is shown by
+contours for reference).
+778
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+of the ISO along its northeastward propagation path, while the
+negative seasonal-mean precipitation anomalies over the cen-
+tral equatorial Paciﬁc prohibit the eastward propagation of the
+BSISO.
+During the boreal winter (Fig. 8b), strong positive precip-
+itation anomalies occur over the MC and strong negative
+precipitation anomalies appear over the central equatorial
+Paciﬁc. The positive precipitation anomalies over the Arafura
+Sea between Indonesia and Australia, however, are very weak.
+Since the major convection of the ISO is over the sea rather
+than over the island when crossing the MC (Zhang and Ling,
+2017; Ling et al., 2019), the major center of the MJO can pass
+over the Arafura Sea without being enhanced much; then, it
+can be suppressed by the strong negative seasonal-mean pre-
+cipitation
+anomaly
+over
+the
+central
+equatorial
+Paciﬁc.
+Although the decadal change of the seasonal-mean state is
+even stronger for the boreal winter than for the boreal summer,
+the decadal change of the BSISO is much larger than that of
+the MJO over the MC.
+5. Conclusion and discussion
+We presented EOF analysis on the 11-year-sliding ISO
+evolution, to study the decadal variation of the ISO. This
+method objectively detects signiﬁcant decadal change in the
+ISO evolution in terms of both convection and circulation
+around the end of the 20th century for both BSISO and MJO.
+This decadal change of the ISO mainly happens in its evolu-
+tion rather than in the intensity of its origination in the EIO,
+and the oscillation period are shortened in post-1998 epoch for
+Fig. 6. MJO evolutions during different decades, (a) the lagged regression map of 30e90-day OLR and 850 hPa wind anomalies onto the EIO ISO OLR-index from
+day 0 to day 20 for the boreal winters of 1979e1997. (Only the OLR and 850 hPa wind anomalies signiﬁcant at the 95% conﬁdence level are shown); (b) the MJO
+during 1998e2016; (c) the difference between (b) and (a). Stippling denotes OLR anomalies signiﬁcant at the 95% conﬁdence level based on the bootstrapped
+resampling method. The climatological MJO evolution, i.e., the regressed OLR anomalies for the boreal winters of 1979e2016, is shown by contours for reference.
+779
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+both seasons. After having originated from the EIO, the
+strength of tilted rain band of the BSISO along its northeast-
+ward propagation path, especially over the MC and WNP, is
+much stronger during 1998e2016 than during 1979e1997.
+The signiﬁcant decadal change of the MJO only happens over
+the central equatorial Paciﬁc, which is much weaker during
+1998e2016 than during 1979e1997.
+These decadal variations are found to be related to recent
+eastern Paciﬁc cooling in the equatorial region since 1998. The
+increased seasonal-mean precipitation over the MC and Asian
+monsoon regions will enhance the BSISO along its north-
+eastward propagation path. The increased precipitation over
+the MC has a weak impact on the MJO since the ISO center
+passes by the MC through the Arafura Sea; thus, there is no
+decadal change in the ‘MC barrier’ effect for the MJO. The
+decreased seasonal-mean precipitation over the central equa-
+torial Paciﬁc since 1998 suppresses the ISO there.
+ISO is the dominant mode of atmospheric intraseasonal
+variability. The ISO strongly modulates the occurrence of
+many types of extreme weather and climate events in tropics
+and midlatitudes, including ﬂoods, droughts, cold surges, heat
+waves, tropical cycles, and many more (Wang and Moon,
+2017a,b; Wang et al., 2019; Zhang, 2013). Under the global
+warming of the last four decades, the ISO evolution change is
+mainly controlled by internal mode rather than by the global
+warming, which challenges our decadal prediction of ISO
+evolution. Understanding the relative role of this internal-
+mode-induced SST pattern change and anthropogenic green-
+house gas-induced global mean moisture and static stability
+changes on the ISO evolution is important for improving our
+understanding in the decadal change of the ISO evolution. It
+would be of interest to investigate how the current GCMs
+modeling the decadal change od ISO during 1979e2016. The
+revealed ISO decadal changing feature in this work offers
+clues for validating GCMs and for projecting ISO's future
+changes under global warming.
+Fig. 7. The power spectrum of 30e90-day OLR anomaly in the EIO (70‒
+90E, 5S‒5N) for the boreal summer (red) and winter (blue) during periods
+of 1979e1997 (thick dashed line) and 1998e2016 (thick solid line) (Corre-
+sponding thin lines denote 99% (upper) and 95% (lower) conﬁdence levels,
+respectively).
+Fig. 8. Decadal change of mean state, (a) the boreal-summer SST differences and precipitation differences (bottom panel) between 1998‒2016 and 1979e1997; (b)
+the boreal winter. Stippling indicates anomalies signiﬁcant at the 95% conﬁdence level.
+780
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+We thank reviewers for their comments and suggestions
+which help improve this article. This work was supported
+jointly by Guangdong Major Project of Basic and Applied
+Basic
+Research
+(2020B0301030004),
+the
+National
+Key
+Research and Development Program (2018YFC1505802), and
+the
+Natural
+Science
+Foundation
+of
+China
+(41975107,
+41576029).
+References
+Adames, A.F., Wallace, J.M., 2014. Three-dimensional structure and evolution
+of the vertical velocity and divergence ﬁelds in the MJO. J. Atmos. Sci. 71,
+4661e4681.
+Adams, J.B., Mann, M.E., Ammann, C.M., 2003. Proxy evidence for an El
+Ni~no-like response to volcanic forcing. Nature 426, 274e278.
+Annamalai, H., Sperber, K.R., 2005. Regional heat sources and the active and
+break phases of boreal summer intraseasonal (30‒50 day) variability. J.
+Atmos. Sci. 62, 2726e2748.
+Anyamba, E.K., Weare, B.C., 1995. Temporal variability of the 40e50-day
+oscillation in tropical convection. Int. J. Climatol. 15, 379e402.
+Bui, H.X., Maloney, E.D., 2018. Changes in Madden-Julian oscillation pre-
+cipitation and wind variance under global warming. Geophys. Res. Lett.
+45, 7148e7155.
+Chang, C.W.J., Tseng, W.L., Hsu, H.H., et al., 2015. The Madden-Julian
+Oscillation in a warmer world. Geophys. Res. Lett. 42, 6034e6042.
+Chen, G., Wang, B., 2018. Dynamic moisture mode versus moisture mode in
+MJO dynamics: importance of the wave feedback and boundary layer
+convergence feedback. Clim. Dynam. 52, 5127e5143.
+Chen, X., Tung, K.K., 2014. Varying planetary heat sink led to global-
+warming slowdown and acceleration. Science 345, 897e903.
+Dee, D.P., Uppala, S.M., Simmons, A.J., et al., 2011. The ERA-Interim
+reanalysis: conﬁguration and performance of the data assimilation sys-
+tem. Q. J. R. Meteorol. Soc. 137, 553e597.
+Fu, X., Lee, J.Y., Hsu, P.C., et al., 2013. Multi-model MJO forecasting during
+DYNAMO/CINDY period. Clim. Dynam. 41, 1067e1081.
+Gushchina, D., Dewitte, B., 2018. Decadal modulation of the relationship
+between intraseasonal tropical variability and ENSO. Clim. Dynam. 52,
+2091e2103.
+Hendon, H.H., Zhang, C., Glick, J.D., 1999. Interannual variation of the
+Madden-Julian
+Oscillation
+during
+austral
+summer.
+J.
+Clim.
+12,
+2538e2550.
+Huffman, G.J., Adler, R.F., Arkina, P., et al., 1997. The global precipitation
+Climatology Project (GPCP) combined precipitation data set. Bull. Am.
+Meteorol. Soc. 78, 5e20.
+Inness, P.M., Slingo, J.M., Guilyardi, E., et al., 2003. Simulation of the
+Madden-Julian Oscillation in a coupled general circulation model. Part II:
+the role of the basic state. J. Clim. 16, 365e382.
+Jiang, J.H., Su, H., Zhai, C., et al., 2015. Evaluating the diurnal cycle of upper-
+tropospheric ice clouds in climate models using SMILES observations. J.
+Atmos. Sci. 72, 1022e1044.
+Kajikawa, Y., Yasunari, T., Wang, B., 2009. Decadal change in intraseasonal
+variability over the South China Sea. Geophys. Res. Lett. 36, 150e164.
+Kajikawa, Y., Yasunari, T., Yoshida, S., et al., 2012. Advanced Asian summer
+monsoon onset in recent decades. Geophys. Res. Lett. 39.
+Kanamitsu, M., Ebisuzaki, W., Woollen, J.S., et al., 2002. NCEPeDOE
+AMIP-II reanalysis (R-2). Bull. Am. Meteorol. Soc. 83, 1631e1643.
+Kikuchi, K., Wang, B., Kajikawa, Y., 2011. Bimodal representation of the
+tropical intraseasonal oscillation. Clim. Dynam. 38, 1e12.
+Kiladis, G.N., Dias, J., Straub, K.H., et al., 2014. A comparison of OLR and
+circulation-based indices for tracking the MJO. Mon. Weather Rev. 142,
+1697e1715.
+Kim, H.M., Kim, D., Vitart, F., et al., 2016. MJO propagation across the
+Maritime Continent in the ECMWF ensemble prediction system. J. Clim.
+29, 3973e3988.
+Knutson, T.R., Weickmann, K.M., 1987. 30e60 day atmospheric oscillations:
+composite life cycles of convection and circulation anomalies. Mon.
+Weather Rev. 115, 1407e1436.
+Kosaka, Y., Xie, S., 2013. Recent global-warming hiatus tied to equatorial
+Paciﬁc surface cooling. Nature 501, 403e407.
+Krishnamurti, T.N., Subrahmanyam, D., 1982. The 30‒50 day mode at 850 Mb
+during MONEX. J. Atmos. Sci. 39, 2088e2095.
+Lau, K.M., Chan, P.H., 1986. Aspects of the 40e50 day oscillation during the
+northern winter as inferred from outgoing longwave radiation. Mon.
+Weather Rev. 113, 1354e1367.
+Lee, J.Y., Wang, B., Wheeler, M.C., et al., 2013. Real-time multivariate indices
+for the boreal summer intraseasonal oscillation over the Asian summer
+monsoon region. Clim. Dynam. 40, 493e509.
+Liebmann, B., Smith, C.A., 1996. Description of a complete (interpolated)
+outgoing longwave radiation dataset. Bull. Am. Meteorol. Soc. 77,
+1275e1277.
+Ling, J., Bauer, P., Bechtold, P., et al., 2014. Global versus local MJO forecasts
+skill of the ECMWF model during DYNAMO. Mon. Weather Rev. 142,
+2228e2247.
+Ling, J., Zhang, C., Joyce, R., et al., 2019. Possible role of the diurnal cycle in
+land convection in the barrier effect on the MJO by the maritime continent.
+Geophys. Res. Lett. 46, 3001e3011.
+Liu, F., Li, T., Wang, H., et al., 2016a. Modulation of boreal summer intra-
+seasonal oscillations over the Western North Paciﬁc by ENSO. J. Clim. 29,
+7189e7201.
+Liu, F., Zhou, L., Ling, J., et al., 2016b. Relationship between SST anomalies
+and the intensity of intraseasonal variability. Theor. Appl. Climatol. 124,
+847e854.
+Liu, F., Ouyang, Y., Wang, B., et al., 2020. Seasonal evolution of the intra-
+seasonal variability of China summer precipitation. Clim. Dynam. 54,
+4641e4655.
+Livezey, R.E., Chen, W.Y., 1983. Statistical ﬁeld signiﬁcance and its deter-
+mination by Monte Carlo techniques. Mon. Weather Rev. 111, 46e59.
+Madden, R.A., Julian, P.R., 1971. Detection of a 40‒50 day oscillation in the
+zonal wind in the tropical Paciﬁc. J. Atmos. Sci. 28, 702e708.
+Madden, R.A., Julian, P.R., 1972. Description of global-scale circulation cells
+in the tropics with a 40‒50 day period. J. Atmos. Sci. 29, 1109e1123.
+Maloney, E.D., Xie, S.P., 2013. Sensitivity of tropical intraseasonal variability
+to the pattern of climate warming. J. Adv. Model. Earth Syst. 5, 32e47.
+Maloney, E.D., Adames, A.F., Bui, H.X., 2019. MaddeneJulian oscillation
+changes under anthropogenic warming. Nat. Clim. Change 9, 26e33.
+Mao, J., Wang, M., 2018. The 30‒60-day intraseasonal variability of sea
+surface temperature in the South China Sea during MayeSeptember. Adv.
+Atmos. Sci. 35.
+Matthews, A.J., 2000. Propagation mechanisms for the Madden-Julian
+Oscillation. Q. J. R. Meteorol. Soc. 126, 2637e2651.
+Meehl, G.A., Hu, A., 2006. Megadroughts in the Indian monsoon region and
+Southwest North America and a mechanism for associated multidecadal
+Paciﬁc Sea surface temperature anomalies. J. Clim. 19, 1605e1623.
+Meehl, G.A., Teng, H., Arblaster, J.M., 2014. Climate model simulations of
+the observed early-2000s hiatus of global warming. Nat. Clim. Change 4,
+898.
+North, G.R., Bell, T.L., Cahalan, R.F., 1982. Sampling errors in the estimation
+of empirical orthogonal functions. Mon. Weather Rev 110, 699e706.
+Power, S., Casey, T., Folland, C., et al., 1999. Inter-decadal modulation of the
+impact of ENSO on Australia. Clim. Dynam. 15, 319e324.
+Raghavendra, A., Roundy, P.E., Zhou, L., 2019. Trends in tropical wave ac-
+tivity from the 1980s to 2016. J. Clim. 32, 1661e1676.
+Rayner, N.A., Parker, D.E., Horton, E.B., et al., 2003. Global analyses of sea
+surface temperature, sea ice, and night marine air temperature since the
+late nineteenth century. J. Geophys. Res. 108, 4407.
+781
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782
+Roxy, M.K., Dasgupta, P., Mcphaden, M.J., et al., 2019. Twofold expansion of
+the IndoePaciﬁc warm pool warps the MJO life cycle. Nature 575,
+647e651.
+Sabeerali, C.T., Rao, S.A., George, G., et al., 2014. Modulation of monsoon
+intraseasonal oscillations in the recent warming period. J. Geophys. Res.
+119, 5185e5203.
+Salby, M.L., Hendon, H.H., 1994. Intraseasonal behavior of clouds, temper-
+ature, and motion in the tropics. J. Atmos. Sci. 51, 2207e2224.
+Slingo, J.M., Rowell, D.P., Sperber, K.R., et al., 1999. On the predictability of
+the interannual behaviour of the Madden-Julian Oscillation and its rela-
+tionship with El Ni~no. Q. J. R. Meteorol. Soc. 125, 583e609.
+Straub, K.H., 2013. MJO initiation in the real-time multivariate MJO index. J.
+Clim. 26, 1130e1151.
+Suhas, E., Goswami, B.N., 2009. Loss of signiﬁcance and multidecadal
+variability of the Madden-Julian Oscillation. J. Clim. 23, 3739e3751.
+Trenberth, K.E., Shea, D.J., 2006. Atlantic hurricanes and natural variability in
+2005. Geophys. Res. Lett. 33.
+Wang, B., Rui, H., 1990. Dynamics of the coupled moist kelvinerossby wave
+on an equatorial b-plane. J. Atmos. Sci. 47, 397e413.
+Wang, B., Xie, X., 1997. A model for the boreal summer intraseasonal
+oscillation. J. Atmos. Sci. 54, 72e86.
+Wang, B., Moon, J.Y., 2017a. An anomalous genesis potential index for MJO
+modulation of tropical cyclone. J. Clim. 30. JCLI-D-16‒0749.0741.
+Wang, B., Moon, J.Y., 2017b. Subseasonal prediction of extreme weather
+events, in bridging science and policy implication for managing climate
+extremes: linking science and policy implication. In: Jung, H.S., Wang, B.
+(Eds.), World Scientiﬁc Series of Asia-Paciﬁc Weather and Climate: Vol-
+ume 10. Bridging Science and Policy Implication for Managing Climate
+Extremes. World Scientiﬁc Press, Hawaii.
+Wang, B., Webster, P.J., Teng, H., 2005. Antecedents and self-induction of
+active-break South Asian monsoon unraveled by satellites. Geophys. Res.
+Lett. 32, 353e368.
+Wang, B., Chen, G., Liu, F., 2019. Diversity of the Madden-Julian Oscillation.
+Sci. Adv. 5, eaax0220. https://doi.org/10.1126/sciadv.aax0220.
+Wang, B., Huang, F., Wu, Z., et al., 2009. Multi-scale climate variability of the
+South China Sea monsoon: a review. Dynam. Atmos. Oceans 47, 15e37.
+Wang, H., Liu, F., Wang, B., et al., 2021. Diversity of western North Paciﬁc
+boral summer intraseasonal oscillation. Clim. Dynam. 57, 1881e1893.
+https://doi.org/10.1007/s00382-021-05780-2.
+Wang, W., Hung, M.P., Weaver, S.J., et al., 2014. MJO prediction in the NCEP
+climate forecast system version 2. Clim. Dynam. 42, 2509e2520.
+Weaver, S.J., Wang, W., Chen, M., et al., 2011. Representation of MJO vari-
+ability in the NCEP climate forecast system. J. Clim. 24, 4676e4694.
+Wheeler, M.C., Hendon, H.H., 2004. An all-season real-time multivariate MJO
+index: development of an index for monitoring and prediction. Mon.
+Weather Rev. 132, 1917e1932.
+Yamaura, T., Kajikawa, Y., 2016. Decadal change in the boreal summer
+intraseasonal oscillation. Clim. Dynam. 48, 1e12.
+Yasunari, T., 1979. Cloudiness ﬂuctuations associated with the Northern
+Hemisphere summer monsoon. J. Meteorol. Soc. Jpn. Ser. II 57, 227e242.
+Zhang, C., 2005. Madden-Julian Oscillation. Rev. Geophys. 43, 1e36.
+Zhang, C., 2013. Madden-Julian Oscillation: bridging weather and climate.
+Bull. Am. Meteorol. Soc. 94, 1849e1870.
+Zhang, C., Dong, M., 2004. Seasonality in the Madden-julian Oscillation. J.
+Clim. 17 (16), 3169e3180.
+Zhang, C., Ling, J., 2017. Barrier Effect of the IndoePaciﬁc maritime conti-
+nent on the MJO: perspectives from tracking MJO precipitation. J. Clim.
+30, 3439e3459.
+782
+WU N. et al. / Advances in Climate Change Research 12 (2021) 772e782

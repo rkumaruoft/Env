@@ -1,0 +1,1182 @@
+Reﬂections on coastal inundation, climate change impact, and adaptation in
+built environment: progresses and constraints
+Xiaoming WANGa,*, XU Li-Laib, CUI Sheng-Huib, Chi-Hsiang WANGc
+a The State Key Laboratory of the Cryospheric Science, Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, Lanzhou, 730000,
+China
+b Key Laboratory of Urban Environment and Health, Institute of Urban Environment, Chinese Academy of Sciences, Xiamen, 361021, China
+c Energy, CSIRO, Clayton South, Vic 3169, Australia
+Received 2 December 2019; revised 9 October 2020; accepted 27 November 2020
+Available online 17 December 2020
+Abstract
+Coastal inundation causes considerable impacts on communities and economies. Sea level rise due to climate change increases the occurrence
+of coastal ﬂood events, creating more challenges to coastal societies. Here we intend to draw the understanding of coastal inundation from our
+early studies, and provide a silhouette of our approaches in assessing climate change impacts as well as developing risk-based climate adap-
+tation. As a result, we impart a distinctive view of the adaption towards the integration of asset design, coastal planning and policy development,
+which reﬂect multiscale approaches crossing individual systems to regions and then nation. Having the approaches, we also discussed the
+constraints that would be faced in adaptation implementation. In this regard, we initially follow the risk approach by illustrating hazards,
+exposure and vulnerability in relation to coastal inundation, and manifest the impact and risk assessment by considering an urban environment
+pertinent to built, natural, and socioeconomic systems. We then extend the scope and recommend the general approaches in developing
+adaptation to coastal inundation under climate change towards ameliorating overall risks, practically, by the reduction in exposure and
+vulnerability in virtue of the integration of design, planning and polices. In more details, a resilience design is introduced, to effectively enhance
+the capacity of built assets to resist coastal inundation impact. We then emphasize on the cost-effective adaptation for coastal planning, which
+delineates the problem of under-adaptation that leaves some potential beneﬁts unrealized or over-adaptation that potentially consumes an
+excessive amount of resources. Finally, we speciﬁcally explore the issues in planning and policies in mitigating climate change risks, and put
+forward some emerging constraints in adaptation implementation. It suggests further requirements of harmonizing while transforming national
+policies into the contents aligned with provincial and local governments, communities, and households.
+Keywords: Coastal inundation; Coastal disaster; Sea level rise; Climate change; Coastal disaster risk reduction; Climate adaptation
+1. Introduction
+Inundation is caused by high water level such as storm
+surges along coasts when low-pressure weather systems, cy-
+clones, or storm winds combine with high tides to drive sea
+water onshore. It can also happen as a result of large king tides
+on coasts and other high riverine water events in inland areas.
+Coastal inundation could lead to disasters that cause signiﬁ-
+cant loss. The fact was demonstrated by the disaster caused by
+super typhoon Haiyan (locally named Yolanda) in the
+Philippines that caused approximately 6000 fatalities, more
+than 27,000 injured, and thousands missing, given in the
+Philippine Government report of Building Back Better in
+December 2013. The scale of the impact was also shown in the
+direct loss of up to 9 billion USD as a result of damage to
+infrastructure and agriculture in addition to more than one
+million damaged houses.
+* Corresponding author.
+E-mail address: xiaomingwang@lzb.ac.cn (WANG X.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 11 (2020) 317e331
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2020.11.010
+1674-9278/Copyright © 2020, National Climate Center (China Meteorological Administration). Production and hosting by Elsevier B.V. on behalf of KeAi.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The risk of coastal inundation is expected to increase in the
+next few decades, especially in low-lying areas, considering
+climate change and subsequent global sea level rise (SLR) in a
+very high conﬁdence (IPCC, 2019). The global mean SLR
+over the past years has increased with a signiﬁcant contribu-
+tion from the Greenland ice sheet (Chen et al., 2017; The
+IMBIE Team, 2019). If the trend continues, risks caused by
+coastal inundation may increase. In fact, the IPCC Fifth
+Assessment Report projected that the global mean sea level
+will continue to rise during the 21st century, and the rate of
+increase will likely exceed that observed during 1971e2010
+due to increasing ocean warming and mass loss of glaciers and
+ice sheets (IPCC, 2013; 2014). The increase rate is 2.1 mm per
+year in 1901e1990, 2.1 mm per year in 1970e2015, 3.2 mm
+per year in 1993e2015, and 3.6 mm per year in 2006e2015
+(IPCC, 2019). The potential nonlinear responses and tipping
+point in mass loss of Greenland and Antarctic ice sheet would
+likely suggest more SLR (The IMBIE Team, 2019; Pattyn
+et al., 2018). It is envisaged that the global ﬂood losses
+would be exacerbated by SLR together with the effect of
+subsidence to an unacceptable level, and even if adaptation
+would be applied to maintain the ﬂood probability, the losses
+is still considerably higher (Hallegatte et al., 2013). Moreover,
+the increased coastal ﬂooding would create more impacts on
+river deltas, disproportionally affecting disadvantaged com-
+munities in the countries with least developed economy
+(Edmonds et al., 2020).
+The effect of SLR on storm tides is schematically described
+in Fig. 1. Given the same average recurrence interval (ARI),
+the SLR may intensify storm tides. Meanwhile, given the same
+intensity of a storm tide event, the corresponding ARI de-
+clines, indicating that the event becomes more frequent, as
+shown by many studies (Lin et al., 2012; Mendelsohn et al.,
+2012; Woodworth et al., 2011).
+The increases in intensity and frequency have led to im-
+pacts on ecosystems, communities, and infrastructure systems
+as well as the broad economy (Mcinnes et al., 2003; Yin et al.,
+2011, 2013; Wang et al., 2014). According to the report on
+Climate Change Risks to Australia's Coasts (DCC, 2009), out
+of 711,000 existing residential buildings close to the sea, be-
+tween 157,000 and 247,600 properties were potentially
+exposed to ﬂooding with a SLR of 1.1 m. Furthermore, nearly
+39,000 buildings located within 110 m of shorelines would be
+at risk from accelerated erosion due to SLR and changing
+climate conditions. If all these buildings were destroyed, the
+cost of replacing them would be estimated at 41e63 billion
+AUD. Essential services such as hospitals, electricity genera-
+tion, and wastewater management would be also at risk from
+coastal inundation. Continuing growth in coastal population
+means that a larger number of people, their property, and
+infrastructure could be exposed (Wang et al., 2010). The low-
+lying areas with high density of population in developing
+countries may highly expose their settlements, which are often
+disadvantaged groups, to the risks of coastal inundation
+(Nicholls and Cazenave, 2010).
+At the global scale, Hinkel et al. (2009, 2014) applied na-
+tional population and GDP dataset and developed the dynamic
+interactive vulnerability assessment (DIVA) model for quan-
+tifying the global ﬂood damage and adaptation costs under
+21st century sea level rise, indicating 0.2%e4.6% of global
+population and 0.3%e9.3% of global GDP could be exposed
+in 2100 under 25e123 cm of global mean SLR. By linking
+exposed assets to population, Hallegatte et al. (2013) estimated
+that the ﬂood losses in the global 136 largest coastal cities
+would reach 52 billion USD by 2050 by projected socioeco-
+nomic change. An early study by Nicholls et al. (2004) also
+indicated that coastal wetlands would be lost due to SLR with
+5%e20% losses by the 2080s in the SRES A1FI scenario.
+It is the current understanding that the potential increase of
+catastrophic impacts by coastal ﬂooding, particularly exacer-
+bated by SLR, warrants the needs of proper preparedness and
+adaptation to minimize the consequent risks (Woodruff et al.,
+2013), which would lead to signiﬁcant beneﬁts (Hallegatte
+et al., 2013; Vousdoukas et al., 2020). Meanwhile, the soci-
+eties have demonstrated ability in adapting to SLR based on
+coastal engineering, economics, ﬁnance and social science, but
+more or less are subject to different degrees of technical and
+socioeconomic barriers (Hinkle et al., 2018). In fact, the
+minimizing of coastal ﬂooding risks demands an approach that
+involves
+governments,
+industries,
+communities,
+and
+in-
+dividuals working together to come up with practical and
+affordable
+solutions.
+It
+suggests
+that
+adaptation
+should
+concurrently be developed and implemented at the corre-
+sponding scales that ﬁt into the stakeholders from individual to
+government, whilst also raising the question on how the con-
+sistency in adaptation could be maintained across the scales.
+Reﬂecting on the coastal inundation risk analysis involving
+hazard, exposure, and vulnerability assessment, here we
+develop a risk-based adaptation approach, towards the inte-
+gration of design, planning and policy development, which is
+able to exemplify the multiscale approaches crossing indi-
+vidual systems to regions and then nation. Case studies are
+provided to demonstrate the approaches. Discussions are also
+given to illustrate the barriers that may rise in implementing
+adaptation at multi-scales.
+Fig. 1. Effect of sea level rise on storm tides.
+318
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+2. Coastal hazard and vulnerability
+The coastal hazards mainly involve cyclones, tsunamis,
+storms, ﬂooding, and erosion. A storm surge is a frequently
+occurring hazard that may cause coastal inundation and affect
+assets such as buildings and infrastructure. The SLR as a result
+of climate change will exacerbate the impact of storm surges.
+In fact, the extent of coastal inundation is determined by the
+height of storm tide, which is schematically described in
+Fig. 2. The total storm tide height H is given by
+H ¼ Mean sea level þ High tide þ Storm surge
+þ Wave setup
+ð1Þ
+Based on the observation, storm tides can be simulated by
+generalized extreme value (GEV), generalized Pareto distri-
+bution (GPD), or other extreme value distribution (Coles,
+2001). As an example, in Fig. 3, the storm tide height is
+simulated by the GEV distribution based on observations in an
+Australian coast. The storm tide hazard is represented by the
+height in relation to the average reoccurrence interval, which
+is the average return period of events. Cautions should be paid
+in regard to the uncertainties involved in the estimation of
+extremes by extrapolating those beyond the range of obser-
+vation data, as shown in Fig. 3. Having said that, it could
+provide a plausible estimation of extremes for decision-
+making.
+The increase of mean sea level or SLR due to climate
+change will change the frequency and intensity of sea levels.
+Higher sea levels will likely increase the occurrence of coastal
+ﬂood events. As an example, we look into the storm tide in
+Southeast Queensland of Australia (SEQ) with the current
+once-in-100-years inundation event, that is, the event with an
+average recurrence interval (ARI) of 100 years or average
+annual occurrence probability of 1/100. It will occur nearly
+twice as frequently by 2030 and many times more often by the
+latter part of the century, following the decline of ARI (years)
+of the same magnitude of storm tide because of SLR. These
+are illustrated in Fig. 4, and more speciﬁcally, in Table 1.
+Given the inundation hazard, the exposure assessment in-
+volves points/areas/assets of interest, such as built assets and
+communities, which could be at risk of hazard impacts. The
+extent of exposure is related to the intensity of storm tides
+represented by ARI. As an example that consider the coastal
+areas with the observations of storm tides in Figs. 3 and 5
+demonstrates that the greater ARI events lead to more expo-
+sure extent of communities to inundation. The SLR may
+further increase the extent of exposure, as indicated in Fig. 6.
+It should be pointed out that the exposed built assets may
+have a different degree of vulnerability to coastal hazards. The
+vulnerability is deemed as the susceptibility of the assets of
+interest to a given degree of a hazard and measured as a likely
+loss. It can be described in many ways, but all representing the
+loss of functionality, serviceability, or integrity. The vulnera-
+bility can be quantiﬁed by a monetary term although other
+Fig. 2. Schematic of a storm tide and building design against inundation.
+Fig. 3. Simulation of extreme water heights using generalized extreme value (GEV) distribution based on observations in an Australian coast.
+Fig. 4. Changes in height of storm tides due to SLR, based on SLR scenarios
+and data described in (Wang et al., 2014).
+319
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+measurement such as fatality could also be applied depending
+on feasibility and rationales.
+For built assets, vulnerability is considered as a lack of
+capacity to resist external stresses, in more speciﬁc, to with-
+stand or accommodate potential adverse hazard impacts, e.g.,
+the lack of ability to resist coastal inundation without damage.
+The vulnerability can often be evaluated in regard to the
+extent of damage in relation to the hazard intensity. For an
+urban system, as shown by examples in Fig. 7, the vulnera-
+bility can be represented by the loss of built, socioeconomic,
+and ecological systems in relation to the severity of hazards.
+For coastal inundation, the vulnerability can be described in
+detail as shown in Table 2.
+By linking damage or loss with a monetary measure, we
+can describe the vulnerability in monetary terms in relation to
+the hazard intensity, such as loss curve for Queensland in
+Australia, as shown in Table 3. This indicator is often based on
+observations or surveys. Of course, the damage or loss curve
+can be modeled in detail based on its dynamic process.
+3. Impact and risk assessment
+The impact assessment for the built environment often re-
+fers to the evaluation of economic cost as a result of losses of
+functionality, serviceability, or integrity given a hazard sce-
+nario. This type of assessment differs from the exposure
+assessment that measures the asset value exposed to a hazard
+(not necessarily damaged), and different from the vulnerability
+assessment that characterizes the damage or loss of built
+systems given a different severity of a hazard.
+While the exposure of built assets to inundation is assessed
+by overlaying them with inundation-affected areas considering
+different extreme storm surge scenarios, the impact is estimated
+by combining the exposure with the vulnerability of each asset.
+Considering the urban system described in Fig. 7 and the
+vulnerability shown in Table 2, we can estimate the structural
+damage of each building by Ls ¼ Cs  Af  VsðhÞ, where Ls is
+the damage loss of the structures, Cs is the construction cost of
+a building per unit area, and Af is the ground ﬂoor area of the
+affected building.
+The building content loss can be estimated by Lp ¼ Cp 
+Af  VpðhÞ, where Lp is the content loss and Cp is the content
+value per unit area.
+The damage of the affected road can be calculated by Lr ¼
+P
+i
+Cr  Leni  VrðhiÞ, where Lr is the road damage loss, Cr is
+the construction cost per unit length of roads, and Leni is the
+length of road section i.
+For electrical facilities, the damage losses for each substation
+and transmission tower can be estimated by Lss ¼ Css  VssðhÞ,
+Table 1
+Changes in ARI (years) of storm tides due to SLR scenarios in SEQ, Australia,
+based on Fig. 4.
+Current event
+Sea level rise (m)
+0.2
+0.4
+0.6
+0.8
+1.0
+1-in-50-years
+31
+19
+12
+7
+4
+1-in-100-years
+61
+38
+23
+14
+9
+1-in-500-years
+306
+188
+115
+70
+43
+1-in-1000-years
+613
+375
+230
+141
+86
+Fig. 5. Exposure of a community to coastal inundation (blue) given an ARI.
+320
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+where Lss is the damage loss of a substation and Css is the average
+construction cost per substation.
+The damage loss of affected substations is Ltt ¼
+Ctt 
+VttðhÞ, where Ltt is the damage loss of a transmission tower
+and Ctt is the average construction cost per transmission tower.
+Based on ecosystem service values (Costanza et al., 1997;
+Xie et al., 2008; Shi et al., 2010), the damage due to ecosystem
+service loss can be estimated by ESV ¼ P
+i
+P
+s
+Ai  Vis, where
+ESV refers to the total loss of ecosystem service value, i is the
+land use type, s is the ecosystem service type, Ai is the affected
+area for land use type i, and Vis is the per unit value of
+ecosystem service type s for land use type i.
+In the socioeconomic aspect, the population exposed to
+coastal inundation can be simply evaluated by displacement
+cost in inundated areas. The impact on the secondary in-
+dustries can be calculated by EI ¼ P
+i
+aiADIi  AIi, where EI is
+the added value of a secondary industry exposed to ﬂooding,
+ADIi is the added value by a per unit area of the industrial area
+i, AIi is the ﬂooded area of industrial area i, and ai is the
+vulnerability coefﬁcient.
+Similarly, the impact on tertiary industries is ES ¼ bSADS 
+AS, where ES is the added value of a tertiary industry exposed to
+ﬂooding, ADS is the added value of the tertiary industry by a per
+unit area, bS is the vulnerability coefﬁcient, and AS is the ﬂooded
+area of commercial and service land. The vulnerability co-
+efﬁcients can be functions of the severity of hazards.
+For example, with the loss curve and exposure extent, the
+impact of inundation at different intensities can be spatially
+estimated as shown in Fig. 8, where the darker color represents
+the higher losses. The losses show increases in responding to
+more severe storm tides (or events of greater ARIs). Moreover,
+when SLR is considered, the impact increases for the same
+ARI event, as shown in Fig. 9.
+While an impact assessment relying on a speciﬁc ARI event
+as above does provide useful information, it is not a good
+practice to support decision-making, especially when planning
+any action that should or not be taken in response to the
+impact. If an impact assessment does not take into account the
+uncertainties of hazards, in particular, the assessment is based
+on a rarely occurred hazard event, the results could potentially
+be misleading. The decision made upon the assessment would
+be extremely risk averse. Vice versa, decisions based on the
+potential impact of a frequently occurred hazard event can be
+over-optimistic, potentially leading to the situation that com-
+munities are unprepared to disasters. The Risk Assessment in
+Fig. 6. Exposure of a community to coastal inundation blue (Before SLR) and dark blue (after SLR) considering SLR.
+Fig. 7. An urban system considered for coastal inundation impact assessment.
+321
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+Engineering: Principles, System Representation and Risk
+Criteria by Joint Committee on Structural Safety (JCSS, 2008)
+well documented a decision-making process, which is subject
+to signiﬁcant uncertainties but ultimate objectives to improve
+the quality of human life for the present and future by effective
+investments. The risk-based decision-making does provide an
+approach that may engender an optimized decision by
+assessing the risks pertinent to different alternatives under
+considerable uncertainties.
+In the international standard, ISO31000: Risk Management,
+the risk is considered as ‘effect of uncertainties on objectives’,
+which has been adopted in structure engineering, such as
+ISO2394: General Principles on Reliability for Structures. It
+can be expressed by the multiplication between the conse-
+quence of an event and its occurrence likelihood, i.e.
+Risk ¼ Likelihood  Consequence
+ð2Þ
+It should be pointed out that the expression of risk can be
+more speciﬁc and complicated, and the consequence can be
+expanded depending on a causal effect chain or network of
+hazard events, particularly when take a more comprehensive
+system approach (JCSS, 2008). From structural engineering
+aspect, the consequences are related to the damage of struc-
+tures and loss of functionality causing direct and indirect
+ramiﬁcations. The actual consequence will also be affected by
+many other factors such as preparedness, responsiveness as
+well as resilience, with more speciﬁcs described in ISO2394.
+For coastal inundation, the consequence is the impact of
+hazards in monetary terms to describe damage loss or non-
+monetary terms when related to fatalities. For built assets,
+the consequence can be expanded into the multiplication of
+two
+factors
+including
+exposure
+likelihood
+and
+the
+vulnerability. In this regard, the risk can also be evaluated
+based on three variables that are now widely applied, i.e.
+Risk ¼ Hazardlikelihood  Exposurelikelihood
+ Vulnerability
+ð3Þ
+Risk is essentially a combined effect of hazards (H), ex-
+posures (E), and vulnerability (V) of assets, as shown in
+Fig. 10. Evaluation by Eqs. (2) and (3) can be approached
+either qualitatively or quantitatively. In the equations, the loss
+can be more generally represented by broader socioeconomic
+and environmental loss.
+In fact, the overall annual impact could be described in
+terms of a probability density function of damage loss or its
+cumulative probability function. This can fully represent the
+uncertainties involved in the impact of coastal inundation, and
+bring forward the concept of risk. Based on the result of
+coastal inundation impact in Fig. 8 using the ﬁtting of discrete
+impacts, the probability density function of damage loss and
+cumulative probability function are estimated as shown in
+Fig. 11. They can be effectively represented by the exceedance
+probability, which reﬂects the probability of loss more than a
+certain value. In the example shown in Fig. 11, the exceedance
+probability of damage loss of 1 billion AUD is less than 0.5%,
+while the damage loss corresponding to the exceedance
+probability of 1% is more than 500 million AUD. The question
+is whether the damage loss could be afforded given the like-
+lihood, and whether this condition will lead to preventive ac-
+tion or climate adaptation to reduce the potential damage loss.
+The implication of SLR can be interpreted in terms of an in-
+crease in damage loss given the exceedance probability or in-
+creaseinexceedance probabilitygivenanamountofdamageloss.
+Table 2
+Vulnerability of urban systems to coastal inundation (examples).
+System
+Variable
+Deﬁnition
+Built system
+VS (h)
+Structural damage of affected buildings given water depth h
+Vp(h)
+Content loss of affected buildings given water depth h.
+Vr(hi)
+Damage of road section i given water depth h
+Vss(h)
+Damage rate for substations submerged at a given water depth h
+Ecosystems
+Vip
+Loss of provisioning service for land use type i
+Vir
+Loss of regulating service for land use type i
+Vic
+Loss of cultural service for land use type i
+Vis
+Loss of supporting service for land use type i
+Socioeconomic system
+Vipop
+Displacement cost of affected population in ﬂooded area i, incurred when the
+affected population has to be moved out the affected areas
+Vii2
+Loss ratio of added value given ﬂooded secondary industrial area i
+Vii3
+Loss ratio of added value given ﬂooded tertiary industrial area i
+Table 3
+Loss curve of residential housing area < 186 m2 (unit: AUD) (Smith et al., 1992).
+Depth over ﬂoor level
+Small house area < 650 m2
+Medium house 186 < area < 650 m2
+Large house Area > 650 m2
+0 m
+905
+2557
+5873
+0.1 m
+1881
+5115
+11,743
+0.5 m
+7370
+13,979
+25,351
+1.5 m
+17,379
+18,585
+32,276
+1.8 m
+17,643
+18,868
+32,768
+322
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+When we take the result of coastal inundation impact considering
+SLR in Fig. 9, with reference to the damage loss of 200 million
+AUD, the exceedance probability can be more than doublewithin
+40 years, i.e., from 2010 to 2051 as shown in Fig. 12.
+On the other hand, a growth in coastal population, a trend
+partially resulting from sea change, may expose a larger
+number of people to inundation hazards, subsequently leading
+to greater potential damage losses or risks. As shown in
+Fig. 13, given the damage loss of 200 million AUD, the in-
+crease in exceedance probability is less than one in the same
+period due to SLR. Within 40 years, the probability is almost
+1% higher. This change rate implies that the impact of pop-
+ulation growth is greater than that of SLR in the long run when
+these factors are considered individually.
+Fig. 8. Impact of coastal inundation given a storm tide of ARI (in AUD).
+Fig. 9. Impact of coastal inundation considering SLR (in AUD).
+323
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+Based on the compound impact of SLR and population
+growth, as shown in Fig. 14, the SLR signiﬁcantly magniﬁes
+the impact of population growth on the overall annual damage
+loss. An increase in the exceedance probability is also
+considerably
+escalated.
+This
+is
+in
+agreement
+with
+the
+conclusion that future coastal risk depends on both climatic
+and socioeconomic changes in a broad study in Europe
+(Vousdoukas et al., 2018). The implication on coastal planning
+and policy development to reduce the future impact of coastal
+inundation is that both population growth and SLR have to be
+well managed into the future. Ignorance of either of the factors
+will considerably underestimate the impact, thereby poten-
+tially leading to misjudgment.
+In general, the assessment of hazards, exposures, and
+vulnerability as well as impact risks can offer useful infor-
+mation to support decision-making at different scales and
+depths. Cautions should be taken in decision-making only on
+the basis of individual hazard, exposure, or vulnerability
+assessment. More decisive approach is to conduct an overall
+risk assessment, so as adaptation with more systematic ap-
+proaches covering all risk factors can be developed to reduce
+the risks to coastal inundation, or more generally, to any
+hazard.
+As shown in Fig. 15, the adaptation to minimize coastal
+inundation risks can be developed by addressing the reduction
+of three key elements shaping the risks, namely, hazard,
+exposure, and vulnerability. From the perspective of climate
+adaptation engineering (applying engineering solutions to
+reduce the risks resulting from climate change), design should
+be considered to reduce the vulnerability of housing and
+infrastructure. Any approach would incur a cost while
+achieving a beneﬁt. Therefore, a balance between cost and
+beneﬁt should be considered in decision-making.
+Regardless of the costebeneﬁt assessment for adaptation,
+proactive adaptation measures considering key elements of
+risks to limit the potential damage from storm tide events may
+involve the following interventions:
+ Retroﬁtting of existing housing and infrastructure to reduce
+vulnerability, protecting key infrastructure from ﬂooding,
+and building storm tide defenses to reduce exposure;
+Fig. 10. A descriptive model of risk assessment.
+0
+( ytilib
+a
+b
+o
+r
+p e
+c
+n
+a
+d
+e
+e
+c
+x
+E
+%)
+2
+4
+6
+8
+10
+Cumulative probability
+Damage loss (million AUD)
+Probability density
+Cumulative distribution
+Probability density
+No SLR and building growth
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.90
+0.92
+0.94
+0.96
+0.98
+1.00
+No SLR and Building Growth
+Cumulative Distribution
+Mean damage loss = 31.11 million
+0.00
+0.02
+0.04
+0.06
+0.08
+Fig. 11. Overall annual impacts of coastal inundation represented by probability distributions.
+100
+1000
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+)
+dlo
+h
+s
+e
+r
+h
+T
+ 
+>
+ s
+s
+o
+L
+ 
+e
+g
+a
+m
+a
+D
+( ytilib
+a
+b
+o
+r
+P
+Damage Loss (million AU$)
+ No growth
+ 2031 growth
+ 2051 growth
+200
+No Sea Level Rise
+SLR
+SLR
+SLR
+2031 Sea Level Rise
+2051 Sea Level Rise
+Exceedance probability
+Damage loss (million AUD)
+Fig. 12. Overall annual damage losses only considering SLR in 2031 and
+2051.
+324
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+ Improving design standards for new buildings in affected
+areas to withstand periodic inundation, e.g., minimum
+freeboard or ﬂoor height, to reduce vulnerability;
+ Encouraging house insurance rates that discourage living in
+ﬂood-prone areas to reduce exposure;
+ Introducing stringent codes that allow the construction of
+buildings and infrastructure for extreme events to reduce
+vulnerability while discouraging new developments in the
+risk-prone areas to reduce exposure;
+ Applying land uses to allow those less sensitive to inun-
+dation (e.g., parks and recreational areas) to reduce hazard
+and exposure;
+ Developing higher levels of government support and local
+government capacity to protect local communities, such as
+ﬂexible local and regional planning to accommodate
+extreme inundation events.
+Risks to coastal inundation are not uniform and are affected
+by local climate and topography of land and seabed. Extreme
+rainfall may lead to riverine and estuarine ﬂooding that further
+complicates the impact of inundation by storm surge. In
+addition, subsidence of cities, or sinking cities, would further
+exacerbate the impact of inundation. Demography, and built
+environment in the affected zone as well as overall adaptive
+capacity across nations can fundamentally alter the risks. This
+strengthens the case for adaptation to coastal inundation at the
+national or regional level, complemented by understanding,
+and acting at the local level. This will be demonstrated in the
+case studies later.
+4. Improving adaptation by resilience design in the
+Philippines
+The Philippine government introduced build back better
+(BBB) in the reconstruction following the Haiyan typhoon
+aftermath. In more speciﬁc, BBB means the upgrading of
+minimum design requirements in rehabilitation, providing due
+consideration by applying more resilient approaches (Wang
+et al., 2016).
+For a construction design, an acceptable inundation prob-
+ability can be selected based on the risk target deﬁned in ISO
+2394: 2015eGeneral Principles on Reliability for Structures,
+International Standard. The standard introduced the target
+reliability based on economic optimization to balance the
+safety improvement and cost to improve the safety. As a result,
+it recommended relatively lower target reliability when
+involving high costs while suggesting relatively a higher
+target. In our studies, we assume that the standard occupancy
+structures and essential facilities/special occupancy structure
+should meet the requirements of class 2 and 3, respectively, in
+ISO 2394. The assumption is considered to keep the risk of
+structures at an acceptable level that balances the safety and
+200
+Current Population
+2031 Population
+2051 Population
+Exceedance probability
+Damage loss (million AUD)
+100
+1000
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+No growth
+2031 growth
+2051 growth
+Fig. 13. Overall annual damage losses by only considering growth in coastal
+population in 2031 and 2051.
+Fig. 14. Overall annual damage loss considering SLR and population growth
+in 2031 and 2051 compared with the current potential loss.
+Fig. 15. Development of adaptation to reduce risks.
+Table 4
+Average annual probability of inundation height considered for design (based
+on ISO 2394: 2015).
+Resilience
+improvement
+Probability of average annual occurrence
+Standard occupancy
+structures
+Essential facilities
+and special occupancy
+structures
+Small
+0.001
+0.0005
+Medium
+0.0001
+0.00001
+Signiﬁcant
+0.00001
+0.000005
+325
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+cost whilst maximizing the quality of life (JCSS, 2008). It is
+further assumed that building assets incur damage or loss once
+storm tide height is higher than the design ﬂoor height. In this
+case, the probability of annual hazard occurrence, i.e. storm
+tide height > the design ﬂoor height, has to be less than the
+target reliability in ISO2394. As a result, Table 4 is developed
+for the design ﬂoor height with considering three levels of
+resilience improvement. If we take into account the wave
+setup, then a height of 0.5 m has to be added into the design
+storm tide height.
+Climate change implies the increase in the mean sea level,
+causing increase in the occurrence frequency or equivalently
+decrease in the return period of a speciﬁc storm tide. We refer
+a resilience design for inundation, which ensures structures
+capable of resisting the impact of the minimum ﬂooding depth
+design as shown in Table 5, where the ﬂoor is high enough to
+maintain the probability of storm tide higher than the ﬂoor
+height, which would not exceed the target value deﬁned in
+Table 4. With resilience improvement from small, medium, to
+signiﬁcant in comparison with its current design, the design
+ﬂood depth for two types of building assets can be estimated
+as shown in Fig. 16.
+5. Integrating building designs into cost-effective coastal
+planning
+Australia is one of the most urbanized countries in the
+world with a high coastal population density, especially
+around its ﬁve largest state capital cities. Thus, coastal inun-
+dation is one of the major natural hazards faced by Australian
+communities. The exposures and risks of coastal built/natural
+assets to storm tide inundation are expected to be more pro-
+nounced as a result of the reduced recurrence interval or
+increased occurrence frequency of current storm tides due to
+SLR. SEQ, the fastest-growing region within Australia in the
+last two decades, is a typical area that is exposed to coastal
+inundation.
+The hazard curve of storm tides in SEQ is shown in Fig. 6.
+We assume that the building construction would follow pop-
+ulation growth projections by the Australia Bureau of Statis-
+tics with constrained urban land growth. We take a scenario of
+population growth projected by Australian Bureau of Statistics
+(ABS) at an annual rate of about 2% as a benchmark, as shown
+in Fig. 17 (Wang et al., 2014).
+As shown in Fig. 18, the exposure assessment indicates the
+exposure of the population, and buildings starts to rise when
+the event of coastal inundation reaches the intensity of
+ARI ¼ 10 years, most likely due to the reason that it may
+Table 5
+Design ﬂooding depth (unit: m) without effects of SLR (no wave setup
+considered).
+Resilience
+improvement
+Standard occupancy
+structures (Class 2)
+Essential facilities
+and special occupancy
+structures (Class 3)
+Small
+0.93
+1.1
+Medium
+1.4
+2.0
+Signiﬁcant
+2.0
+2.2
+Fig. 16. Design ﬂood depth increased for resilience of class 2 and 3 occupancy
+structures with small, medium, and signiﬁcant improvement (Based on Wang
+et al. (2016). PAGASA indicates Philippine Atmospheric, Geophysical, and
+Astronomical Services Administration).
+Fig. 17. Annual growth rate of population in SEQ (estimated based on pop-
+ulation growth projected by Australian Bureau of Statistics, Wang et al.
+(2014)).
+Fig. 18. Exposure of land areas, population, and buildings to coastal inunda-
+tion in SEQ, Australia (Based on Wang et al. (2014)).
+326
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+reach the areas with a denser distribution of population and
+buildings.
+The inundation impact on buildings is estimated based on
+the vulnerability curve or loss curve, as shown in Table 3. The
+damage depends on water depth and ﬂoor size. Three cate-
+gories of building sizes are deﬁned as small, medium, and
+large residential buildings. Based on the vulnerability curve,
+the damage loss of affected buildings, directly caused by
+coastal inundation as a result of storm tides at different ARIs,
+is then assessed. The results are shown in Fig. 19, and the
+overall direct damage loss is presented in Fig. 20, which in-
+cludes the mean loss and its 10th and 90th percentiles. We
+should mention that the discount rate is not considered to
+convert all annual loss value into present values. It is not our
+intention to discuss the effect of various discount rate to the
+annual loss here, but it is very straightforward to have various
+discount rate (Lee et al., 2015) to be taken into account based
+on the current results.
+Subsequently, adaptation should be considered to reduce
+the potential impact. To consider the Greater Brisbane area in
+Queensland, the scheme of raising building ﬂoors is investi-
+gated for the adaptation of coastal residential buildings to
+future coastal inundation events. The issue is the cost-effective
+approach to implement the scheme; in other words, where the
+scheme should be applied to achieve beneﬁt more than the
+implementation cost. The scheme could be applied to the
+following:
+(1) Assets immediately close to the coastlines and with high
+exposure to inundation,
+(2) Assets away from the coast and with medium exposure
+to inundation,
+(3) Assets further away from the coast and with low expo-
+sure to inundation.
+In analyzing the costs and beneﬁts of the three options for
+planning, the spatial distributions of new residential buildings
+are
+determined
+by
+Monte
+Carlo
+simulation
+under
+the
+assumption that they are distributed in accordance with the
+current distributions of their respective mesh blocks. For
+damage cost estimation, a real discount rate of 4% per annum
+is assumed to convert future cost to the 2011 value. The dis-
+count rate would affect the present value of future beneﬁt as a
+result of the implementation of adaptation, and thus impact on
+our decision-making. A fair approach to select the discount
+rate for the long-term investment could be taken with refer-
+ence to the bond rate.
+Based on the three options, the larger the adaptation extent,
+the lower the expected future damage cost as a result of a
+larger number of buildings capable of sustaining the impact of
+inundation. However, the corresponding adaptation imple-
+mentation cost rises at the same time. Owing to limited re-
+sources, an inﬁnitely high level of adaptation is untenable. As
+shown in Fig. 21, the ﬁrst option can achieve an almost im-
+mediate net beneﬁt as addressing the issues of assets with high
+exposure to coastal inundation. As more areas can be covered
+by the adaptation scheme, the cost would start to surpass the
+beneﬁt as demonstrated by the second option, but it can
+eventually achieve a net beneﬁt due to the increasing future
+risks. Therefore, the option can be considered as a long-term
+option. Taking a conservative approach by using the third
+option to ensure that more buildings are protected from the
+impact of potential inundation, we ﬁnd that a net beneﬁt could
+hardly be achieved in the foreseeable future. In this case, the
+option is considered to be over-adaptation.
+In practice, the extent of adaptation is constrained by
+competing policies and the planning time horizon, i.e., a future
+point of time when the decision-maker sets to achieve the
+planning objective. A properly developed adaptation option
+can avoid the problem of under-adaptation that leaves some
+potential beneﬁts unrealized or that of over-adaptation that
+consumes an excessive amount of resources leading to adverse
+effects on other objectives.
+To extend the aforementioned study, an adaptation extent
+can be linked to the height of storm tide of an ARI. In other
+words, the adaptation option is developed to sustain the
+inundation impact of storm tides less than a speciﬁc height
+deﬁned by an ARI. The higher the value of ARI selected, the
+more areas are covered by the adaptation scheme, and the
+Fig. 19. Direct damage losses of residential buildings by coastal inundation at
+different ARI in SEQ, Australia (Based on Wang et al., 2014).
+Fig. 20. Direct losses resulting from costal inundation in SEQ, Australia,
+including its mean, 10th, and 90th percentiles, without consideration of SLR.
+The discount rate is not considered (Based on Wang et al., 2014).
+327
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+greater is the cost to be incurred. Given the planning time
+horizon to achieve a net beneﬁt, a storm tide event of ARI can
+be considered as a target applied in the planning for the
+affected areas. As shown in Fig. 22, the longer term the
+planning aims to, the severer event (higher ARI) it should
+apply to balance adaptation beneﬁts and cost while avoiding
+maladaptation. For example, to implement the adaptation
+scheme to the areas affected by the inundation event of
+ARI ¼ 100 years, a net beneﬁt can be achieved by the year
+2050. However, to achieve a net beneﬁt by a planning time
+horizon of 2050, the areas affected by the inundation event of
+ARI ¼ 100 years should be considered to implement the
+adaptation.
+It should be pointed out that a robust decision-making for
+coastal planning should take into account uncertainties that
+would be involved in the assessment, for example, the un-
+certainties in socioeconomic and demographic changes in
+addition to climate change and sea level rise. Therefore, sensi-
+tivity analysis for any decision should be further considered.
+6. Discussion on adaptation implementation in planning
+and policy development
+Adaptation has started to attract strong attention in planning
+and policy development in many countries. However, the
+effectiveness of adaptation in planning and policies has raised
+many questions, especially across different scales from gov-
+ernments to communities. It was highlighted by the disaster in
+the Philippines caused by super typhoon Haiyan, which led to
+approximately 6000 fatalities, more than 27,000 injured; and
+thousands still missing. Before the disaster, the Philippine
+government
+already
+had
+the
+following
+initiatives
+in
+implementation:
+ The Climate Change Act of 2009 was enacted, creating the
+Climate
+Change
+Commission,
+the
+National
+Strategic
+Framework on Climate Change, and the National Climate
+Change Action Plan, to guide the mainstreaming of climate
+change adaptation (CCA) in policy and planning.
+ The Philippine Disaster Risk Reduction and Management
+Act of 2010 was enacted, creating the National Disaster
+Risk Reduction and Management Council (NDRRMC),
+correspondingly the NDRRM Framework and the NDRRM
+Plan, to guide disaster risk reduction (DRR) actions in the
+Philippines.
+ The People's Survival Fund was established as a long-term
+ﬁnance stream for climate change actions.
+In response to the disaster,
+ The Department of Budget and Management issued Na-
+tional Budget Memorandum, including the creation of the
+Reconstruction Assistance on Haiyan in the 2015 National
+Budget, calling for systematic integration of CCA/DRR.
+Fig. 21. Costebeneﬁt assessments for three adaptation options in terms of net present value (NPV) in billion AUD over time at 4% real discount rate (Based on
+Wang et al., 2015).
+Fig. 22. Determining an adaptation extent by a planning time horizon.
+328
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+ A total of 41 billion PHP was initially allotted for Haiyan
+rehabilitation,
+administrated
+by
+NDRRMC,
+and
+the
+Department of Social Welfare and Development.
+ The Department of Environment and Natural Resources
+deﬁned some areas in the city as no-build zones, specif-
+ically 40 m from shorelines, following the Philippine Water
+Code. However, majority of the residents did not follow this
+directive in rebuilding their homes.
+ The Department of Labor and Employment established
+emergency employment programs with support from the
+International Labor Organization.
+In hindsight, the Haiyan disaster highlights the gaps across
+tiers of government from national to city/local levels down to
+communities, households, and individuals, as shown in
+Fig. 23, at horizontal and vertical scales. In fact, the Philip-
+pine government has exerted signiﬁcant efforts and great
+progress in developing national policies to mitigate the risks
+of natural disasters and climate change. However, the rele-
+vance of these policies to implementation and their inﬂuence
+gradually diminish at the ﬁner scale of provinces, local gov-
+ernment, communities, and householders, thereby creating a
+signiﬁcant barrier for the government to build a proper level
+of capacity for the local communities and householders in
+response to natural disasters and climate change risks such as
+Haiyan.
+With the potential increase of extreme climate risks in the
+future as a result of climate change, the policy development to
+enhance preparedness and prevention, especially of cata-
+strophic events, should be integrated into disaster manage-
+ment. It should also be reﬂected across all levels, as shown in
+Fig. 24, to harmonize natural DRR management and CCA
+policies into the legislative framework for sustainable devel-
+opment, and transform national policies into the content
+aligned with provincial and local governments, communities,
+and households (individual, if necessary) while maintaining its
+consistency, completeness, and integrity along with the na-
+tional policies in terms of visions and goals. Moreover, sup-
+plementing national policies with local policies at different
+levels is necessary to facilitate the national capacity building
+and DRR/CCA implementation across all levels.
+Fig. 23. Gaps in development of policies and actions for climate adaptation
+and natural disaster risk reduction.
+Fig. 24. Implementing the development of a policy nexus for climate adaptation and natural disaster risk reduction.
+329
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+7. Summary
+Coastal inundation is one of major hazards to coastal set-
+tlements, and SLR induced by climate change may further
+magnify the hazard instigating more adverse impacts on
+coastal societies. While there have been many studies on the
+impact of coastal inundation under climate change, it is still
+lack of clarity on how we develop adaptation in responding to
+the potential impacts, especially from the prospect to integrate
+the capacity of communities, industries and governments at
+different scales, so that the investment of societies would not
+be wasted and the quality of life would not be compromised.
+Reﬂecting on our early studies of coastal inundation impact
+on built and natural assets, coastal cities and coastal regions,
+we manifested the compounding effect of climate and socio-
+economic changes, and introduce a risk-based approach for the
+development of adaptation. The approach allows us to shift the
+focus onto the integration of design, planning and policies
+towards the reduction of exposure and vulnerability to the
+increasing coastal hazards as a result of SLR, and forge them
+into adaptation solutions at different scales for different
+stakeholders ranging from communities, industries and all
+levels of government.
+We introduced the resilience design of coastal built assets
+to demonstrate the adaptation that can be implemented at a
+design level for individual, communities and industries. We
+bring in an example of coastal inundation impacts on coastal
+regions, and emphasize on the adaptations in coastal planning
+that makes more economic sense in terms of the balance be-
+tween implementation cost and attained beneﬁt. In particular,
+this should be framed to be compatible with the planning
+horizons. We also address the policy traps that may potentially
+create considerable barriers for policy implementation or
+disconnection between policies and local actions. To reduce
+coastal inundation risks under climate change, coordinated
+multi-scale approaches from both top-down and bottom-up
+should be carefully taken into account in planning and pol-
+icy development.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgment
+Reviews of many studies referenced in this study were
+conducted in close collaboration with Prof Mark. Stewart and
+Mr. Yong Bing Khoo. Great appreciation also goes to C.
+Morga, Ms. A. Orquiza, Ms. G. M. Alagcan, Ms. J. Galorport,
+Mr. D. G. dela Torre, Ms. P. M. Pulhin and many others for
+their supports, inspirations and contributions during author's
+work for projects in the Philippines, which has led to many
+results discussed in this study. During the completion of this
+manuscript, assistance was given by S. W. Liu and support was
+provided by CAS Pioneer Hundred Talents Program.
+References
+Chen, X., Zhang, X., Church, J., et al., 2017. The increasing rate of global
+mean sea-level rise during1993e2014. Nat. Clim. Change 7, 492e497.
+Coles, S., 2001. An Introduction to Statistical Modeling of Extreme Values.
+Springer-Verlag, London.
+Costanza, R., dArge, R., deGroot, R., et al., 1997. The value of the world's
+ecosystem services and natural capital. Nature 387, 253e260.
+DCC (Department of Climate Change, Australia), 2009. Climate Change Risks
+to Australia's Coast: a First Pass National Assessment. Commonwealth of
+Australia, Canberra.
+Edmonds, D.A., Caldwell, R.L., Brondizio, E., et al., 2020. Coastal ﬂooding
+will disproportionately impact people on river deltas. Nat. Commun. 11,
+4741.
+Hallegatte, S., Green, C., Nicholls, R.J., et al., 2013. Future ﬂood losses in
+major coastal cities. Nat. Clim. Change 3 (9), 802e806.
+Hinkel, J., Klein, R.J.T., 2009. Integrating knowledge to assess coastal
+vulnerability to sea-level rise: the development of the DIVA tool. Global
+Environ. Change 19 (3), 384e395.
+Hinkel, J., Lincke, D., Vafeidis, A.T., et al., 2014. Coastal ﬂood damage and
+adaptation costs under 21st century sea-level rise. Proc National Academy
+of Science USA 111, 3292e3297.
+Hinkle, J., Aberts, J.C.J.H., Brown, S., et al., 2018. The ability of societies to
+adapt to twenty-ﬁrst-century sea-level rise. Nat. Clim. Change 8, 570e578.
+IPCC, 2013. Climate Change 2013: the Physical Science Basis. Cambridge
+University Press, Cambridge and New York.
+IPCC, 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability.
+Part A: Global and Sectoral Aspects. Cambridge University Press, Cam-
+bridge and New York.
+IPCC, 2019. Special Report on the Ocean and Cryosphere in a Changing
+Climate. https://www.ipcc.ch/srocc/.
+JCSS (Joint Committee on Structural Safety), 2008. Risk Assessment in En-
+gineering: Principles. System Representation & Risk Criteria, ISBN 978-3-
+909386-78-9.
+Lee, J.Y., Ellingwood, B.R., 2015. Ethical discounting for civil infrastructure
+decisions extending over multiple generations. Struct. Saf. 57, 43e52.
+Lin, N., Emanuel, K., Oppenheimer, M., et al., 2012. Physically based
+assessment of hurricane surge threat under climate change. Nat. Clim.
+Change 2, 462e467.
+Mcinnes, K.L., Walsh, K.J.E., Hubbert, G.D., et al., 2003. Impact of sea-
+level rise and storm surges on a coastal community. Nat. Hazards 30,
+187e207.
+Mendelsohn, R., Emanuel, K., Chonabayashi, S., et al., 2012. The impact of
+climate change on global tropical cyclone damage. Nat. Clim. Change 2,
+205e209.
+Nicholls, R.J., 2004. Coastal ﬂooding and wetland loss in the 21st century:
+changes under the SRES climate and socio-economic scenarios. Global
+Environ. Change 14, 69e86.
+Nicholls, R.J., Cazenave, A., 2010. Sea-level rise and its impact on coastal
+zones. Science 328, 1517e1520.
+Pattyn, F., Ritz, C., Hanna, E., et al., 2018. The Greenland and Antarctic ice
+sheets under 1.5 C global warming. Nat. Clim. Change 8, 1053e1061.
+Shi, L.Y., Cui, S.H., Yin, K., et al., 2010. The impact of land use/cover change
+on ecosystem service in Xiamen. Acta Geograph. Sin. 65, 708e714.
+Smith, D.I., Greenaway, M.A., 1992. ANUFLOOD: a ﬁeld guide. Center for
+resource and environmental studies, canberra. (TIT) the IMBIE Team,
+2019. Mass balance of the Greenland ice sheet from 1992 to 2018. Nature
+579, 233e238.
+The IMBIE Team, 2019. Mass balance of the Greenland Ice Sheet from 1992
+to 2018. Nature 579, 233e238.
+Vousdoukas, M.I., Mentaschi, L., Voukouvalas, E., et al., 2018. Climatic and
+socioeconomic controls of future coastal ﬂood risk in Europe. Nat. Clim.
+Change 8, 776e780.
+Vousdoukas, M.I., Mentaschi, L., Hinkel, J., et al., 2020. Economic motivation
+for raising coastal ﬂood defenses in Europe. Nat. Commun. 11, 2119.
+330
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331
+Wang, C.H., Khoo, Y.B., Wang, X., 2015. Adaptation beneﬁts and costs of
+raising coastal buildings under storm-tide inundation in South East
+Queensland, Australia. Climatic Change 132, 54e558.
+Wang, X., Smith, M.S., McAllister, R., et al., 2010. Coastal inundation under
+climate change: a case study in south east Queensland. Report Prepared for
+the South East Queensland Climate Adaptation Research Initiative.
+Climate Adaptation Working Paper 6, Canberra.
+Wang, X., Khoo, Y.B., Wang, C.H., 2014. Risk assessment and decision-
+making for residential housing adapting to increasing storm-tide inunda-
+tion due to sea level rise in Australia. Civ. Eng. Environ. Syst. 31,
+125e139.
+Wang, X., Wang, C.H., Khoo, Y.B., et al., 2016. Designing Resilient Struc-
+tures: Mainstreaming Disaster Risk Reduction and Climate Change
+Adaptation in Local Design Practices. CSIRO, Australia. ISBN 978-1-
+4863-0709-8 (print), 978-1-4863-0710-4 (online).
+Woodruff, J.D., Irish, J.I., Camargo, S.J., 2013. Coastal ﬂooding by tropical
+cyclones and sea-level rise. Nature 504, 44e52.
+Woodworth, P.L., Menendez, M., Gehrels, W.R., 2011. Evidence for century-
+timescale acceleration in mean sea levels and for recent changes in
+extreme sea levels. Surv. Geophys. 32, 603e618.
+Xie, G.D., Zhen, L., Lu, C.X., et al., 2008. Expert knowledge based valuation
+method of ecosystem services in China. J. Nat. Resour. 23, 911e919.
+Yin, J., Yin, Z.E., Hu, X.M., et al., 2011. Multiple scenario analyses fore-
+casting the confounding impacts of sea level rise and tides from storm
+induced coastal ﬂooding in the city of Shanghai, China. Environmental
+Earth Sciences 63, 407e414.
+Yin, J., Yu, D.P., Yin, Z.N., et al., 2013. Modelling the combined impacts
+of sea-level rise and land subsidence on storm tides induced ﬂooding of
+the Huangpu River in Shanghai, China. Climatic Change 119,
+919e932.
+331
+WANG X. et al. / Advances in Climate Change Research 11 (2020) 317e331

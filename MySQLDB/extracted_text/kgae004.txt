@@ -1,0 +1,880 @@
+Lost options commitment: how short-term policies affect 
+long-term scope of action
+Marina Martınez Montero 
+1,, Nuria Brede2, Victor Couplet1, Michel Crucifix1, Nicola Botta3,4, Claudia Wieners 
+5 
+1Earth and Life Institute, UCLouvain, Louvain-la-Neuve, 1348, Belgium 
+2Department of Computer Science, University of Potsdam, Potsdam, 14476, Germany 
+3Potsdam Institute for Climate Impact Research, Potsdam, 14473, Germany 
+4Department of Computer Science and Engineering, Chalmers University of Technology, Gothenburg, 41296, Sweden 
+5Institute for Marine and Atmospheric Research, Utrecht University, Utrecht, 3584, Netherlands
+Correspondence address. Earth and Life Institute, UCLouvain, Place Louis Pasteur 3, Mercator Building 3rd floor, 1348, Louvain-la-Neuve, Belgique.  
+E-mail: marina.martinez@uclouvain.be
+Abstract 
+We propose to explore the sustainability of climate policies based on a novel commitment metric. This metric allows to quantify 
+how future generations’ scope of action is affected by short-term climate policy. In an example application, we show that following a 
+moderate emission scenario like SSP2-4.5 will commit future generations to heavily rely on carbon dioxide removal or/and solar radi­
+ation modification to avoid unmanageable sea level rise.
+Keywords: sustainability; commitment; lost options; generational fairness; vulnerability
+Introduction
+Climate policy in the coming decades will have profound long- 
+term impacts on global climate, ecosystems and human societies 
+[1, 2]. In this context, sustainability is a critical consideration: It 
+pertains 
+to meeting 
+humanities’ present needs without 
+compromising the ability of future generations to meet their 
+own. Thus, taking sustainability into account in policy assess­
+ments is essential to address climate change while also ensuring 
+intergenerational fairness.
+Given the long residence time of CO2 in the atmosphere and 
+its long-term impacts, taking fair decisions in the upcoming dec­
+ades requires considering possible scenarios of anthropogenic 
+forcing over timescales of centuries to millennia.
+However, in climate policy assessments based on integrated 
+assessment models, longer timescales are often absent, or the 
+long-term impacts of current decisions are heavily discounted 
+relative to short-term impacts [3]. Given that it is challenging to 
+consider longer timescales for multiple reasons, this is under­
+standable, but nevertheless unsatisfactory (or even ethically 
+problematic [4, 5]).
+We therefore propose an approach to improving sustainability 
+considerations in climate policy assessments.
+Lost options commitment
+Our suggestion is to explore the sustainability of short-term cli­
+mate policies based on a metric, which we call “lost options 
+commitment”, that quantifies future generations’ scope of action 
+to avoid harmful long-term futures. More particularly, we ask 
+“Given a climate state that can be reached under realistic 
+short-time emission scenarios, which long-term climate miti­
+gation options are left to future generations to meet a specified 
+climate target?”
+Our method is related to several well-established notions [6] 
+from climate science literature: climate change commitment [7], 
+storylines [8], vulnerability [9, 10] and mitigation delay sensitivity [11].
+Classical 
+commitment 
+assessments 
+seek 
+to 
+quantify 
+“unavoidable” climate impacts due to inertia in the climate sys­
+tem: a state of the climate system (typically the current one) may 
+be called committed to some future impact (like the amount of 
+global warming or sea-level rise) under a given scenario [7, 12– 
+14]. Lost options commitment focuses on the scope of action 
+rather than the impacts: in a given state, humanity is committed 
+by the lost options to a narrower scope of action for meeting an 
+intended climate target.
+Commitment studies typically rely on few and simplified 
+long-term scenarios, such as zero emissions, constant composition 
+and constant emissions [1, 7, 12–15]. Such simplistic scenarios 
+poorly capture human agency in reacting to climate change, 
+which is one of the key aspects our metric attempts to capture. 
+We adopt Shepherd et al.’s storyline approach [8] to compose rep­
+resentative sets of scenarios by combining a small number of 
+building blocks. This modular approach enables the generation 
+of a rich set of long-term scenarios.
+For each individual long-term scenario, we may assess the 
+commitment of a climate state with respect to a particular cli­
+mate variable (e.g. sea-level rise). However, as opposed to tradi­
+tional commitment studies, we do not stop there. Instead, for a 
+Received: September 18, 2023. Revised: December 11, 2023. Accepted: January 26, 2024 
+# The Author(s) 2024. Published by Oxford University Press.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Oxford Open Climate Change, 2024, 4(1), kgae004  
+https://doi.org/10.1093/oxfclm/kgae004 
+Advance Access Publication Date: 12 February 2024 
+Research Letter   
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+given state, we assess the compatibility of each long-term sce­
+nario with a chosen climate target within a specified time horizon. 
+The climate target makes explicit a goal of decision making, e.g. 
+the 1.5
+C target of the Paris agreement. The time horizon can be 
+thought of as the “ethical time horizon” of [16].
+Scenarios that are compatible with the climate target are con­
+sidered as available options in this state, the others as lost options. 
+We may say that in a given state, the loss of options commits hu­
+manity to a narrower scope of action to meet the desired target. 
+Therefore, we call this metric lost options commitment and define 
+the state’s commitment level as the fraction of the number of 
+options that violate the target to the total number of options con­
+sidered. Commitment level is reported in units of percentage.
+Lost options commitment is a generic metric in the sense that it 
+can be instantiated with different combinations of long-term sce­
+narios, climate targets and timescales. However, it is also itself an 
+instance of the general scheme for vulnerability metrics [9, 10].
+We now propose that the sustainability of short-term policies 
+(e.g. given in terms of SSP or RCP emission scenarios) can be ana­
+lysed by measuring the commitment level of the states encoun­
+tered when evolving an underlying climate model according to 
+these policies. We argue that by having more climate mitigation 
+options at hand to avoid harmful outcomes (e.g. transgressing 
+specified targets) humanity is in a better position for meeting its 
+needs. Therefore, short-term policies that lead to loss of options, 
+i.e. an increase in the commitment level, should be considered as 
+unsustainable. On the other hand, if along the evolution corre­
+sponding to a short-term policy the commitment level decreases, 
+this policy increases future generations’ scope of action and can be 
+considered as sustainable. This approach is well-aligned with the 
+IPCC’s ’Window of opportunity to enable climate resilient develop­
+ment’ illustrated in Figure 4.2 of the IPCC AR6 Synthesis Report [2] 
+and related to the concept of robustness of decisions [17].
+The sustainability of short-term policies as suggested above 
+necessarily involves the consideration of multiple targets on 
+multiple timescales. Temperature targets on the year 2100 are 
+normally associated to short-term emission scenarios. The lost 
+options commitment assessment investigates the effect of con­
+sidering an additional target on a possibly longer timescale. The 
+result of a sustainability assessment relying on lost options com­
+mitment, informs us the level of compatibility of a specific short- 
+term scenario (which is compatible with a first target), with the 
+second target. Multiple target considerations have been shown to 
+lead to more stringent policy constraints [18].
+Results
+We demonstrate our approach with a simple yet instructive ex­
+ample. Our study uses as climate target avoiding sea level rise 
+above 3 m within a time horizon of 2000 years and a set of 45 long- 
+term scenarios as possible options. The horizon is of the same 
+magnitude as the ethical horizon suggested in [16]. The long- 
+term scenarios are generated as combinations of 3 technologies 
+together with usage variants:
+
+Dec—Decarbonisation with rates slow, medium, fast 
+
+CDR—Carbon 
+Dioxide 
+Removal 
+with 
+intensities 
+no, 
+weak, strong 
+
+SRM—Solar Radiation Modification with possible intensities/ 
+durations no, weak short, strong short, weak long, strong long 
+Figure A1 provides a visual representation of all the options con­
+sidered. For the concrete semantics of the scenario building 
+blocks, see Appendix B, where we put in context the different 
+options with respect to the SSP scenarios used in the IPCC WGI 
+AR6 report [19] and motivate their technical feasibility. Given 
+these ingredients, and an appropriate climate model, the lost 
+options commitment can be computed for Earth system states 
+containing a climate state and a current CO2 emission rate. Here 
+we focus on states that are reached along the SSP scenarios SSP1- 
+2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5 from 2020 until 2100, every 
+10 years, see Fig. A2. Computing the commitment levels requires 
+evolving each of these states along the 45 long-term scenarios for 
+2000 years, and checking which long-term scenarios comply with 
+the climate target of avoiding sea-level rise above 3 m. For this 
+aim we use the reduced complexity model SURFER [20]. This 
+model has been designed for policy assessments with a long-term 
+perspective, and links CO2 emissions and solar radiation modifi­
+cation to climate change, ocean acidification and sea level rise. 
+Other greenhouse gasses are absent in the presented example.
+Figure 1 shows that following SSP5-8.5 until 2050 leaves the 
+Earth in a state in which more than half of the considered long- 
+term scenarios fail to comply with the chosen climate target. 
+Conversely, following SSP1-2.6 until 2050 results in a state with 
+many available options. Note that sea level simulations up to 
+2100 do not capture the large differences expected for different 
+states and long-term scenarios, hence the importance (for the 
+chosen target) of looking further in time. States with similar tem­
+perature may have different commitment levels, e.g. SSP1-2.6 at 
+2040 and SSP5-8.5 at 2030 or SSP1-2.6 at 2050 and 2090. One rea­
+son for this are the different emission rates associated with these 
+states. This highlights why climate policy negotiations and agree­
+ments should look beyond temperature targets.
+Figure 2 shows that, as expected, higher emission scenarios 
+lead to fewer available options. The space of options plots for 
+states along SSP2-4.5 and SSP5-8.5 in Fig. 2, show that in 2020, 
+the slow Dec options with no CDR and with no SRM or with short 
+SRM do not meet the chosen climate target. By 2030, this is also 
+the case for options with medium Dec and no CDR with no SRM or 
+with short SRM. This means that, starting a green transition by 
+2030, at a rate in line with the SSP scenarios (as the medium Dec), 
+will commit future generations to the use of CDR or long SRM to 
+avoid long-term high sea level rise. By 2050 the use of CDR or long 
+SRM is inescapable for states reached through SSP2-4.5 and SSP5- 
+8.5 if the climate target is to be respected. Even if most options 
+remain available for SSP2-4.5 at 2050, following this path until 
+2050 commits future generations to using CDR or long SRM. 
+Notice that along scenario SSP1-2.6 (top plot in Fig. 2), the com­
+mitment level decreases towards the end of the century, with all 
+options becoming available by 2090. This happens because SSP1- 
+2.6 includes CDR from 2075, see Fig. A2.
+Discussion and conclusions
+We have exemplified the utility of the lost options commitment 
+metric through a specific case, and accompanying sensitivity 
+experiments (detailed in Appendix C) offer insights into its re­
+sponsiveness to variations in defined parameters. The appendix 
+encompasses a thorough examination of how the metric reacts 
+to changes in critical criteria shaping the problem (e.g. time hori­
+zon, target, long-term scenarios) and model parameters like equi­
+librium climate sensitivity. Furthermore, a dedicated subsection 
+explores the metric’s behaviour in the presence of tipping points.
+The lost options commitment metric currently treats all long- 
+term scenarios with equal weight. Future users, seeking to incor­
+porate cost, feasibility, or risk considerations, may find value in 
+2 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+devising a nuanced metric that assigns distinct weights to each 
+long-term scenario.
+In the specific example illustrating the framework’s potential 
+application, the constant target implies an equal severity in 
+reaching a 3 m sea level rise by 2200 or 3900. However, the 
+proposed metric’s flexibility allows for the consideration of time- 
+varying targets.
+Despite the simplicity of the presented example, we think that 
+our study provides valuable insights into the sustainability of the 
+considered SSP scenarios. Thanks to its systematic construction 
+SSP5-8.5
+SSP1-2.6
+Lost options commitment
+assessment
+for diﬀerent states
+This state has a 
+high commitment level
+to high sea level rise
+This state has a
+low commitment level
+to high sea level rise
+Commitment to high sea level rise in the next millennia
+Big diﬀerences in sea level rise
+only become apparent 
+when looking further in time
+Figure 1. Lost options commitment with respect to high sea level rise in the next millennia. Assessment done for states encountered along SSP5-8.5 
+and SSP1-2.6. Central plot shows global mean temperature anomaly until 2100 along these scenarios. Pie-chart markers represent the commitment 
+level of the different states: black corresponds to the fraction of long-term scenarios leading to high sea level rise and coloured corresponds to the 
+fraction of long-term scenarios complying with the climate target. Upper and bottom right plots show the sea level rise trajectories for all long-term 
+scenarios considered in the assessment for the states at year 2050 in SSP5-8.5 and SSP1-2.6 respectively. There we show the details of the metric used 
+in this example: sea level rise above 3 meters with respect to pre-industrial anytime in the next 2000 years. Upper and bottom plots contain 45 curves, 
+each of which corresponds to one of the considered possible long-term scenarios. Evolutions leading to high sea level rise are shown in grey and those 
+complying with the climate target have been coloured according to the corresponding SSP scenario the state belongs to.
+Montero et al. | 3  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+based on an explicit climate target, time horizon and set of sce­
+narios, the lost option commitment metric is transparent and 
+modular. It also has the advantage of informing policymakers 
+about available options without being prescriptive. In a forth­
+coming paper we use the commitment level as one of the ingre­
+dients of the damage functions of climate policy decision 
+problems, enabling an exploration of trade-offs between long- 
+term and short-term effects. While we do not advocate for priori­
+tizing the first ones over the later, we hope that our metric can 
+contribute to better informed and more sustainable cli­
+mate decisions.
+Acknowledgments
+This project is TiPES contribution No. 237: this project has re­
+ceived funding from the European Union’s Horizon 2020 research 
+and innovation program under grant agreement no. 820970. VC is 
+funded as Research Fellow by the Belgian National Fund of 
+Scientific Research (F.S.R.-FNRS). CW is supported by the Dutch 
+government under the Sectorplan science and technology.
+Authors’ contributions
+Marina Martinez Montero (Conceptualization [lead], Methodology 
+[lead], Software [lead], Visualization [equal], Writing—original 
+draft [lead], Writing—review & editing [equal]), Nuria Brede 
+(Conceptualization [equal], Methodology [equal], Visualization 
+[equal], Writing—review & editing [equal]), Victor Couplet 
+(Conceptualization [equal], Methodology [equal], Visualization- 
+Equal, Writing—review & editing [equal]), Michel Crucifix 
+(Conceptualization 
+[equal], 
+Project 
+administration 
+[lead], 
+Supervision [lead], Visualization [equal], Writing—review & 
+SSP2-4.5
+SSP5-8.5
+A narrowing window of opportunity for climate change mitigation
+SSP1-2.6
+SSP2-4.5
+SSP3-7.0
+SSP5-8.5
+Figure 2. A narrowing window of opportunity for climate change mitigation. Top plot summarises the lost options commitment assessment for states 
+along different SSP scenarios. The bottom plots show, for the states at 2020, 2030 and 2050 along SSP2-4.5 and SSP5-8.5, the outcomes of all the 
+considered long-term scenarios: crossed-out options lead to high sea level rise for that particular state. Similar plots for all the states considered in this 
+assessment can be found in Figs A3–A6.
+4 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+editing [equal]), Nicola Botta (Visualization [equal], Writing—re­
+view & editing [equal]), Claudia Wieners (Visualization [equal], 
+Writing—review & editing [equal]).
+Funding
+This project is TiPES contribution No. 237: this project has re­
+ceived funding from the European Union’s Horizon 2020 research 
+and innovation program under grant agreement no. 820970. VC is 
+funded as Research Fellow by the Belgian National Fund of 
+Scientific Research (F.S.R.-FNRS). CW is supported by the Dutch 
+government under the Sectorplan science and technology.
+Conflict of interest
+No competing interest is declared.
+Data Availability
+The code underlying this article is available in Zenodo, at https:// 
+zenodo.org/doi/10.5281/zenodo.10688672.
+References
+1.0
+Clark PU, Shakun JD, Marcott SA et al. Consequences of twenty- 
+first-century policy for multi-millennial climate and sea-level 
+change. Nature Clim Change 2016;6:360–9.
+2.0
+IPCC Core Writing Team, H. Lee, and J. Romero (eds.). Climate 
+Change 2023: Synthesis Report. A Report of the Intergovernmental 
+Panel on Climate Change. Contribution of Working Groups I, II and III 
+to the Sixth Assessment Report of the Intergovernmental Panel on 
+Climate Change. IPCC, Geneva, Switzerland, 2023.
+3.0
+Stern N. The Economics of Climate Change: The Stern Review. 
+Cambridge University Press, 2007.
+4.0
+Beckerman W, Hepburn C et al. Ethics of the discount rate in the 
+stern review on the economics of climate change. World Econ 
+2007;8:187.
+5.0
+Portney PR, Weyant JP. Discounting and Intergenerational Equity. 
+1st. edition, Routledge, New York, New York, United States of 
+America, 2013.
+6.0 
+IPCC. Glossary AR6. https://apps.ipcc.ch/glossary/ (21 February 
+2024, date last accessed).
+7.0
+Wigley TML. The climate change commitment. Science 2005; 
+307:1766–9.
+8.0
+Shepherd TG, Boyd E, Calel RA et al. Storylines: an alternative 
+approach to representing uncertainty in physical aspects of cli­
+mate change. Clim Change 2018;151:555–71.
+9.0
+Wolf S, Hinkel J, Hallier M et al. Clarifying vulnerability defini­
+tions and assessments using formalisation. Int J Clim Chang 
+Strateg Manag 2013;5:54–70.
+10. Ionescu C. Vulnerability modelling with functional program­
+ming and dependent types. Math Struct Comp Sci 2016;26:114–28.
+11. Allen MR, Stocker TF. Impact of delay in reducing carbon diox­
+ide emissions. Nature Clim Change 2014;4:23–6.
+12. Levermann A, Clark PU, Marzeion B et al. The multimillennial 
+sea-level commitment of global warming. Proc Natl Acad Sci U S 
+A 2013;110:13745–50.
+13. MacDougall AH, Fr€olicher TL, Jones CD et al. Is there warming in 
+the pipeline? A multi-model analysis of the Zero Emissions 
+Commitment from CO2. Biogeosciences 2020;17:2987–3016.
+14. Van Breedam J, Goelzer H, Huybrechts P. Semi-equilibrated 
+global sea-level change projections for the next 10 000 years. 
+Earth Syst Dynam 2020;11:953–76.
+15. Brede N, Botta N, Crucifix M, Montero MM. Climate Sensitivity, 
+Commitment and Abrupt Change: Toward an Ontology for Climate 
+Tipping Point Research. 2022.
+16. Lenton TM, Held H, Kriegler E et al. Tipping elements in the 
+Earth’s climate system. Proc Natl Acad Sci U S A 2008; 
+105:1786–93.
+17. Wong H-Y, Rosenhead J. A rigorous definition of robustness 
+analysis. J Oper Res Soc 2000;51:176–82.
+18. Steinacher M, Joos F, Stocker TF. Allowable carbon emissions 
+lowered by multiple climate targets. Nature 2013;499:197–201.
+19. IPCC. Climate Change 2021: The Physical Science Basis. Contribution 
+of Working Group I to the Sixth Assessment Report of the 
+Intergovernmental Panel on Climate Change. Cambridge, United 
+Kingdom: Cambridge University Press, 2021.
+20. Martınez Montero M, Crucifix M, Couplet V et al. SURFER v2.0: a 
+flexible and simple model linking anthropogenic CO2 emissions 
+and solar radiation modification to ocean acidification and sea 
+level rise. Geosci Model Dev 2022;15:8059–84.
+21. Kravitz B, Robock A, Tilmes S et al. The Geoengineering Model 
+Intercomparison Project Phase 6 (GeoMIP6): Simulation design 
+and preliminary results. Geosci Model Dev 2015;8:3379–92.
+22. Visioni D, MacMartin D, Kravitz B et al. Identifying the sources of 
+uncertainty in climate model simulations of solar radiation 
+modification with the G6sulfur and G6solar Geoengineering 
+Model Intercomparison Project (GeoMIP) simulations. Atm Chem 
+Phys 2021; 21:1–37.
+23. IPCC, 2022. Climate Change 2022: Mitigation of Climate 
+Change. In: Shukla PR, Skea J, Slade R et al. (eds), Contribution of 
+Working Group III to the Sixth Assessment Report of the 
+Intergovernmental Panel on Climate Change. Cambridge University 
+Press, Cambridge, UK and New York, NY, USA. https://doi.org/ 
+10.1017/9781009157926.
+24. Smith W. The cost of stratospheric aerosol injection through 
+2100. Environ Res Lett November 2020;15:114004.
+25. Baur S, Nauels A, Nicholls Z et al. The deployment length of so­
+lar radiation modification: an interplay of mitigation, net- 
+negative emissions and climate uncertainty. Earth Syst Dynam 
+2023;14:367–81.
+Montero et al. | 5  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Appendices
+A. Extended Data                                                                                                                 
+B. Methods                                                                                   
+To perform the lost options commitment assessment we have re­
+lied on the SURFER model [20]. This model has two forcing sour­
+ces, one corresponding to CO2 emissions (E), and another one 
+corresponding to SRM SO2 injections (I). The different long-term 
+scenarios present in the lost options commitment assessment 
+correspond to different definitions of these emissions and injec­
+tions over the assessment period.
+The 45 long-term scenarios are constructed as a Cartesian 
+product of three sets of options corresponding to different decar­
+bonisation rates, solar radiation modification intensities and 
+durations, and carbon dioxide removal rates.
+Three constant decarbonisation rates are considered: –0.08, 
+–0.25 and –0.75 PgC/year2. The medium decarbonisation rate 
+(–0.25 PgC/year2) approximately aligns with the decarbonisation 
+rates present in SSP1-2.6 and SSP4-3.4 while the fast one (–0.75 
+PgC/year2) is a limit case that aligns with the decarbonisation 
+rate present in the overshoot scenario SSP5-3.4-OS. We model 
+the decarbonisation options by reducing emissions linearly de­
+crease at the specified rate until zero emissions are reached. 
+When applied to a state with zero or negative emissions the three 
+decarbonisation options are degenerate and have no effect.
+Five solar radiation modification options are considered: none, 
+weak short, strong short, weak long, strong long. SRM is used to 
+counter-act all possible global warming and it is achieved 
+through stratospheric aerosol injections. The weak and strong in­
+tensities correspond to maximum injection rates of 20 and 40 
+MtS/yr. The weak intensity corresponds roughly to the injection 
+rates required to reduce the radiative forcing of a high emission 
+scenario like SSP5-8.5 to that of SSP2-4.5 by year 2100 [21, 22], the 
+strong intensity is twice the weak rate. These rates, while high, 
+fall within the SRM scenarios covered by the SRM literature refer­
+enced in the IPCC WGIII AR6 report, see Cross-Working Group 
+Box 4—Solar Radiation Modification in [23]. SRM options are ap­
+plied “smartly” such that just the necessary amount of aerosols 
+is injected to return to pre-industrial temperatures. In SURFER, 
+the precise injection rate needed to flow towards a dTtarget is 
+Ineeded ¼ bSO2
+−log
+FCO2 ðMAÞ−bdTtargetþcðdTD−dTtargetÞ
+aSO2
+
+
+
+−1=cSO2
+(1) 
+where MA is the carbon mass in the atmosphere, FCO2 is the CO2 
+radiative forcing and dTD is the temperature anomaly of the 
+deeper ocean layer. This equation was obtained by solving 
+Figure A1. The 45 long-term scenarios considered in the lost options commitment assessment decomposed into different groups. Each column 
+corresponds to a different solar radiation modification option. Rows are divided into groups of three, each of these groups corresponds to different 
+decarbonisation options (right labels). Within each decarbonisation group, the three rows represent different carbon dioxide removal options 
+(left labels).
+6 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+ddTU
+dt
+¼ 0
+(2) 
+for I ¼ Ineeded with dTU ¼ dTtarget in Equation (29) of [20], where dTU 
+is the temperature anomaly of the upper ocean layer which is 
+taken as the global mean temperature anomaly. We set 
+dTtarget ¼ 0C. The injection rate used is then 
+Iused ¼ minfSRMlimit; Ineededg
+(3) 
+where SRMlimit is 20 or 40 MtS/yr depending on the long-term sce­
+nario. We consider two durations for injection deployment, short and 
+long. We define short as the time it takes to achieve full decarbonisa­
+tion and long to the whole commitment assessment timescale. In 
+the sensitivity analysis presented in Sec. C we consider other defini­
+tions of short which are longer than the decarbonisation period.
+Three constant atmospheric carbon dioxide removal rates are 
+considered: 0, −1, −2 PgC/year. The strong carbon dioxide re­
+moval rate approximately coincides with the one in the SSP1-2.6. 
+There are other SSP scenarios with higher CDR rates, up to more 
+than twice as large for the overshoot scenario SSP5-3.4-OS. We 
+model CDR options by starting since the beginning of the assess­
+ment. If decarbonisation has not finished for the particular state 
+there is an immediate reduction in net emissions. CDR continues 
+at the specified constant rate after decarbonisation has ended 
+and until pre-industrial atmospheric CO2 concentration is 
+reached. The CDR rate is then reduced so that it just removes the 
+carbon that flows into the atmosphere from land and ocean, 
+keeping atmospheric concentrations constant at pre-industrial 
+levels until all reservoirs return to pre-industrial conditions. The 
+reduced removal rate is obtained by setting MA ¼ MAðtPIÞ in Eq. 
+(27a) of [20] and solving for the emissions in 
+dMA
+dt
+¼ 0;
+(4) 
+which gives 
+ECDR reduced ¼ kA!U MAðtPIÞ−mA
+WUK0
+BðMUÞMU
+
+
+−kA!L
+
+ML−MLðtPIÞ
+
+:
+(5) 
+For details on all the terms in equations (1) and (5), 
+parameter values and pre-industrial conditions we refer the 
+reader to [20].
+We consider all the defined decarbonisation and carbon diox­
+ide removal options to be technically feasible, since our strongest 
+Dec and CDR rates align with those of strongly mitigating 
+SSP scenarios, which are themselves deemed technically feasible 
+[23, page 435]. The short SRM options seem to be both technically 
+[24] and physically [22] feasible even if the rates considered 
+are high.
+For any given state, the assessment is done by considering 45 
+different evolutions. Each evolution obtained by evolving the par­
+ticular state forced by a different long-term scenario, which 
+specifies the emission and injection forcings, for 2000 years. This 
+results in 45 trajectories, each corresponding to a different long- 
+term scenario. Each trajectory is then inspected against the cho­
+sen target, in the presented example, whether sea level rise is 
+higher than 3 meters above pre-industrial values within those 
+2000 years. We integrate SURFER’s differential equations in Julia 
+using the package DifferentialEquations.jl with the inte­
+gration 
+method 
+Rosenbrock23(), 
+abstol ¼ 1e-12 
+and 
+reltol ¼ 1e-3.
+Figure A2. States on which lost options commitment assessment is performed, in grey. Each plot refers to a different quantity characterising the state. 
+From left to right, top to bottom: emission rate, atmospheric CO2 concentration, mean temperature anomaly, sea level rise, sea level rise rate, upper 
+ocean pH.
+Montero et al. | 7  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+C. Sensitivity experiments                                             
+The lost options commitment assessment needs the specification 
+of three ingredients:
+
+time horizon 
+
+target 
+
+long-term scenarios (space of options) 
+The results of the assessment will then, by construction, depend 
+on these ingredients, which define the nature of the assessment 
+itself. Model parameters, e.g. equilibrium climate sensitivity, tip­
+ping point thresholds and ocean circulation timescale, will also 
+impact the results. However, for the assessment to be useful and 
+reasonable, robustness to small changes in criteria or parameters 
+is required. In what follows, we perform four sensitivity analyses 
+for the example discussed in the main text and discuss how the 
+presence of tipping points in the climate system might impact 
+our metric.
+C.1 Sensitivity to time horizon
+First we explore the sensitivity of the commitment level to the 
+time horizon. We repeat the main text example for 30 equally 
+spaced time horizons from 500 to 4000 years, see Fig. C1. There 
+we see several things:
+1. Longer horizons result in higher commitment levels. This is 
+because sea level rise is a slow process. If the horizon is too 
+short, a given option might respect the specified target, 
+while when extending the horizon that same option might 
+lead to target transgression. 
+2. However, for horizons of 2500 to 4000 years, the metric con­
+verges because: 
+a) Only some of the long-term scenarios exhibit tempera­
+tures that correspond to committed sea level rise higher 
+than the target. Long-term scenarios that do not exhibit 
+high temperatures for long enough do not lead to high 
+sea level rise, no matter how long the time horizon. 
+SSP1-2.6
+Figure A3. A window of opportunity along SSP1-2.6. The space of considered long-term scenarios is shown for the states assessed. Options that 
+transgress the target are crossed out.
+8 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+b) A large fraction of the committed sea level rise happens 
+within the next 3000 years, after that time, all options 
+that would eventually transgress the target of 3m have 
+already done so. 
+3. The presence of ice sheet tipping points in SURFER is not ap­
+parent in these particular results. This is reasonable since 
+the target of 3m is lower than the sea level rise potential of 
+Greenland ice sheet, which is around 7m, and hence does 
+not differentiate between tipping and non-tipping options. 
+C.2 Sensitivity to targets
+Second, we analyse the sensitivity to the target, specifically, to 
+the threshold chosen for sea level rise. We repeat the example in 
+the main text, but with varying thresholds from 1 to 5 meters, 
+see Fig. C2. There we see that:
+1. Lower SLR thresholds lead to higher commitment levels. 
+2. Gradual changes in SLR threshold lead to gradual changes 
+in commitment levels. States along SSP1-2.6 after 2070 are 
+an exception to this. 
+3. For states after 2070 along of SSP1-2.6 certain ranges of tar­
+gets exhibit degenerate commitment levels. In particular, by 
+2100, all considered thresholds (400) collapse into 4 groups 
+with commitment levels: 
+0%, 20%, 40% and 60%. 
+This can be understood due the big degeneracy in the long- 
+term scenarios due to the fact that decarbonisation 
+has finished: 
+a) The three decarbonisation speeds are degenerate in 
+this case. 
+b) The short SRM options (defined to happen during decar­
+bonisation) are degenerate with the no SRM option. 
+The available options corresponding to these four groups can be 
+found in Fig. C3. Focusing on the 60% commitment level group, 
+which corresponds to relatively low sea level rise thresholds, we 
+see that CDR rates considered in the long-term scenarios are not 
+large enough to stop a sea level rise of 1 meter in the next 
+2000 years without relying on SRM for the state corresponding to 
+SSP1-2.6 at 2100.
+SSP2-4.5
+Figure A4. A narrowing window of opportunity along SSP2-4.5. The space of considered long-term scenarios is shown for the states assessed. Options 
+that transgress the target are crossed out.
+Montero et al. | 9  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+C.3 Sensitivity to long-term scenarios
+In Figs. A3–A6 we see an almost absolute degeneracy between 
+the long-term scenarios that have no SRM and those that have 
+short SRM. This suggests that SRM until the end of decarbonisa­
+tion is too short to have a significant impact—especially in the 
+absence of CDR, as was already shown by [25]. In such scenarios, 
+SRM stops shortly after the peak in CO2 concentration. For this 
+reason, we consider different definitions of short SRM, and assess 
+the sensitivity of the lost options commitment assessment to these 
+definitions. Specifically, we set the duration of short SRM to be that 
+of decarbonisation plus an extension which ranges from 0 to 
+300 years. This corresponds to a policy of buying enough time for 
+natural feedbacks to kick in. Fig. C4 shows that overall, extending 
+the duration of short SRM deployement decreases the commitment 
+level, as expected. The effect is relatively small for medium and 
+high emission scenarios (SSP2-4.5, SSP3-7.0 and SSP5-8.5) but is 
+more significant for SSP1-2.6, in 2070 and 2080. Figures C5–C8 
+show the space of options for different short SRM durations for a 
+particular state. Extending the duration of short SRM has the effect 
+of buying time and making some of the transgressing options via­
+ble ones. Depending on the emission rate associated to the state 
+being assessed, the liberated options are different:
+
+For SSP1-2.6 in year 2070 decarbonisation has almost fin­
+ished, see Fig. A2. Extending the short SRM period frees up 
+the options with no CDR, short SRM independently of the 
+decarbonisation rate, see Fig. C5, i.e. it buys time for natu­
+ral sinks to kick in. 
+
+For SSP2-4.5 in year 2040 emissions are high, see Fig. A2. 
+Extending the short SRM period frees up the options with 
+fast Dec, no CDR, short SRM, see Fig. C6. In this case SRM also 
+buys time for natural sinks to kick in. Notice however that 
+it does not buy enough time for medium Dec and slow Dec to 
+become viable. 
+
+For SSP3-7.0 in year 2050, we see in Fig. C7 that extending 
+the short SRM period enables the options with slow Dec, 
+strong CDR, short SRM. In this case a longer short SRM period 
+SSP3-7.0
+Figure A5. A narrowing window of opportunity along SSP3-7.0. The space of considered long-term scenarios is shown for the states assessed. Options 
+that transgress the target are crossed out.
+10 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+allows for a slower decabonisation with strong CDR deploy­
+ment to be a viable option. 
+
+Finally, for SSP5-8.5 in year 2060, Fig. C8, extending the 
+short SRM period enables the options with fast Dec, medium 
+CDR, short SRM and extending it further, the options with 
+medium Dec, strong CDR, short SRM. 
+C.4 Sensitivity to model parameters
+Now we focus on the sensitivity of commitment level to model 
+parameters. Climate models, even reduced complexity ones as 
+SURFER contain many parameters. Here we perform a sensitivity 
+analysis only for the equilibrium climate sensitivity. This is the 
+amount of expected warming at equilibrium, for a doubling of 
+CO2 concentration, and it is one of the most discussed about 
+quantities in the science—policy intersection. In SURFER it is ex­
+plicitly set as a parameter, but in most earth system climate 
+models, it is computed based on the results of some experiments. 
+Its value is uncertain, the IPCC WGI AR6 [19] reports a very likely 
+range between 2.0
+C and 5.0
+C, a likely range between 2.5
+C and 
+4.0
+C and a best estimate of 3
+C. The sensitivity experiment 
+shown in Fig. C9, considered seven different values of equilib­
+rium climate sensitivity: 2.0
+C, 2.5
+C, 3.0
+C, 3.5
+C, 4.0
+C, 4.5
+C 
+and 5.0
+C, this range coincides with the aforementioned very 
+likely range. There we see that expected, higher values of climate 
+sensitivity lead to higher commitment levels. This is reasonable 
+since the same CO2 concentrations would lead to higher temper­
+atures and hence higher sea level rise. We also notice that the 
+variation induced by the unknown value of equilibrium climate 
+sensitivity is of the same order as the one induced by changes in 
+the definitions of the commitment metric: time horizon and 
+threshold, at least for the ranges of time horizon and thre­
+solds explored.
+SSP5-8.5
+Figure A6. A narrowing window of opportunity along SSP5-8.5. The space of considered long-term scenarios is shown for the states assessed. Options 
+that transgress the target are crossed out.
+Montero et al. | 11  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+C.5 Ice sheet tipping points and lost 
+options commitment
+We have stated that for the metric to be useful and reasonable 
+some robustness to small criteria variations is required. We see 
+two caveats to this argument. First, lost options commitment 
+could be sensitive to very small variations in the target if several 
+of the long-term scenarios produce similar or identical trajecto­
+ries. This is what we observed for states after 2070 along of SSP1- 
+2.6 in Fig. C2. Second, lost options commitment could be sensitive 
+to very small variations in the time horizon if abrupt changes are 
+observed in the target variable. This could typically happen in the 
+presence of fast climate tipping elements. In this particular study, 
+however, the only tipping elements considered are the ice sheets, 
+which exhibit slow dynamics, and so we don’t expect our metric to 
+be very sensitive to small changes in the time horizon.
+In the presented sensitivity analyses of the previous sections, 
+the ice sheet tipping points present in the SURFER model did not 
+have an effect on the lost options commitment assessment. 
+These analyses, however, were by design incapable of showcas­
+ing such an effect because of two reasons:
+1. We did not explore a big enough sea level rise target. 
+2. We did not explore big enough time horizons. 
+Ice sheets are modelled in SURFER via a non-linear ordinary dif­
+ferential equation, see Equation (38) in [20]. That particular equa­
+tion, which has been fitted to Greenland and Antarctica 
+separately, encodes tipping points and bi-stability behaviour for 
+both of the ice sheets and has been shown to agree with the 
+steady states and dynamics of three dimensional ice sheet mod­
+els [20]. Fig. C10 shows the sea level rise bifurcation diagram of 
+the SURFER model in its default setup, which includes contribu­
+tions from glaciers and ocean thermal expansion as well as the 
+ice sheets. There we see two tipping points as temperature is in­
+creased from pre-industrial conditions. The first bifurcation point 
+encountered, as temperature is increased (around 1.52
+C), corre­
+sponds to Greenland’s tipping point and the second one (around 
+6.8
+C) corresponds to Antarctica’s tipping point.
+In the default setup of the SURFER model [20], Greenland’s ice 
+sheet tipping point is at a global mean temperature anomaly of 
+1.52
+C. The committed sea level rise from all sea level rise con­
+tributors at that temperature corresponds to  5:9m for the state 
+with ice on Greenland and to more than 10 m for the state with 
+ice free Greenland, see Fig. C10. In order to see whether 
+Greenland’s ice sheet tipping point has an effect on the commit­
+ment assessment, the sea level rise target should be set to 5.9 m 
+or larger. We repeated the target sensitivity experiment for sea 
+level rise targets from 1 m to 10 m for states along SSP2-4.5 con­
+sidering a time horizon of 5kyr and a time horizon of 50kyr, see  
+Fig. C11. For both considered horizons we see that gradual 
+changes in the target lead to gradual differences in the commit­
+ment level. There we see increases in the commitment level of 
+consecutive states for different climate targets. For targets 
+smaller than  5:9m those increases are not necessarily related 
+Figure C1. Sensitivity of commitment level to time horizon. Commitment level for states along the different SSP scenarios (as top panel of Fig. 2, y-axis 
+inverted). Each panel corresponds to a different SSP scenario. Each line, within each panel, corresponds to the commitment assessment for a different 
+time horizon where the line color encodes the horizon used (see side color bar). 30 equally spaced time horizons have been considered in the range 
+between 500 to 4000 years. The target is always fixed as sea level rise lower than 3 meters within the corresponding time horizon. The units of the color 
+bar are years.
+12 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Figure C2. Sensitivity of commitment level to sea level rise target. Commitment level for states along the different SSP scenarios (as top panel of Fig. 2, 
+y-axis inverted). Each panel corresponds to a different SSP scenario. Each line, within each panel, corresponds to the commitment assessment for a 
+different sea level rise target where the line color encodes the target used (see side color bar). 400 targets have been considered in the range between 1 
+to 5 meters. The time horizon has been fixed at 2000 years. The units of the color bar are meters.
+Montero et al. | 13  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Figure C3. Available options corresponding to degenerate commitment levels along SSP1-2.6 in 2100, for the threshold sensitivity experiment, see year 
+2100 in top left panel of Fig. C2. The percentage in the panel title indicates the commitment level of the given degenerate group. The 0% panel 
+corresponds to higher thresholds while the 60% panel corresponds to lower thresholds.
+14 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Figure C4. Sensitivity of commitment level to the duration of the short SRM options. Commitment level for states along the different SSP scenarios (as 
+top panel of Fig. 2, y-axis inverted). Each panel corresponds to a different SSP scenario. Each line, within each panel, corresponds to the commitment 
+assessment for a different duration of the short SRM options. The color scale corresponds to the years of continued SRM, on the short SRM options, after 
+decarbonisation has finished. The time horizon has been fixed at 2000 years and the threshold to 3 m of sea level rise within those 2000 years.
+SSP1-2.6 year 2070
+Sensitivity to short SRM duration
+Figure C5. Sensitivity of available options to short SRM duration for SSP1-2.6 in year 2070. The numbers indicate the years of continued SRM after 
+decarbonisation has finished. Only the columns corresponding to short SRM are subject to change.
+Montero et al. | 15  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Sensitivity to short SRM duration
+SSP2-4.5 year 2040
+Figure C6. Sensitivity of available options to short SRM duration for SSP2-4.5 in year 2040. The numbers indicate the years of continued SRM after 
+decarbonisation has finished. Only the columns corresponding to short SRM are subject to change.
+16 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Sensitivity to short SRM duration
+SSP3-7.0 year 2050
+Figure C7. Sensitivity of available options to short SRM duration for SSP3-7.0 in year 2050. The numbers indicate the years of continued SRM after 
+decarbonisation has finished. Only the columns corresponding to short SRM are subject to change.
+Montero et al. | 17  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Sensitivity to short SRM duration
+SSP5-8.5 year 2060
+Figure C8. Sensitivity of available options to short SRM duration for SSP5-8.5 in year 2060. The numbers indicate the years of continued SRM after 
+decarbonisation has finished. Only the columns corresponding to short SRM are subject to change.
+18 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+Figure C9. Sensitivity of commitment level to equilibrium climate sensitivity in the SURFER model. Commitment level for states along the different SSP 
+scenarios (as top panel of Fig. 2, y-axis inverted). Each panel corresponds to a different SSP scenario. Each line, within each panel, corresponds to the 
+commitment assessment for a different equilibrium climate sensitivity where the line color encodes the value used (see side color bar). 7 equispaced 
+values of climate sensitivity have been considered between 2 and 5
+C. The time horizon has been fixed at 2000 years. The units of the color bar are 
+C.
+Figure C10. Sea level rise bifurcation diagram for the SURFER model.
+Montero et al. | 19  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024
+to Greenland’s tipping point. We also see that both horizons lead 
+to identical commitment levels when the targets are small 
+enough (from 1 m to 5 m approx.) and that they differ for targets 
+slightly smaller than  5:9 m to 10 m.
+For the 50 k horizon with target  5:9 m there are increases in 
+the commitment level for the state from 2060 to 2070 and 2090 to 
+2100. These increases in commitment level happen because a 
+group of options that end on the lower SLR branch of the bifurca­
+tion diagram for the lower committed state (e.g. SSP2-4.5 at 
+2060), end on the higher SLR branch for the consecutive state 
+(in this case, SSP2-4.5 at 2070), this can be seen in Fig. C12. 
+When this happens the trajectories associated with those lost 
+options pass very close to the ice sheet bifurcation point in phase 
+space. The dynamics close to a bifurcation point tend to be very 
+slow, and a time horizon of 5kyr is not enough to appreciate the 
+committed SLR. We put time markers in Fig. C12 to make this 
+point and help understand the sensitivity shown on Fig. C11. We 
+conclude that very large time horizons, together with appropriate 
+targets, are needed for slow tipping behaviour to be apparent in 
+the lost options commitment assessment. This is because the al­
+ready slow ice sheet dynamics slow down even more close to bi­
+furcation points. We have shown that even when considering 
+very long horizons, the impact of ice sheet tipping points on lost 
+options commitment assessment isn’t big. The increases seen in 
+commitment level in Fig. C11 for bigger targets and 50k horizon 
+is of the same order than the ones corresponding to other targets 
+and timescales. Additionally, SURFER v.2.0 does not include sedi­
+ment dynamics related to carbonate dissolution and silicate 
+weathering, which determine the fate of fossil fuels at time 
+scales beyond several millennia. Those additional processes act 
+as CO2 sinks and have the potential of lowering the commitment 
+level on assessments with such long horizons, making it even 
+harder for ice sheet tipping points to show up as commitment 
+level 
+tipping 
+points 
+in 
+such 
+lost 
+options 
+commitment 
+assessments.
+Figure C11. Sensitivity of commitment level to sea level rise target for SSP2-4.5 and two different time horizons of 5000 and 50 000 years. Commitment 
+level for states along the SSP2-4.5 (as top panel of Fig. 2, y-axis inverted). Each panel corresponds to a different time horizon. Each line, within each 
+panel, corresponds to the commitment assessment for a different sea level rise target, as in Fig. C2, where the line color encodes the target used in 
+meters (see side color bar). Targets have been considered in the range between 1 to 10 meters. Dashed black line corresponds to the SLR target 
+coinciding with the SLR bifurcation point around 1.5
+C, see Fig. C10.
+Figure C12. Trajectories corresponding to the different long-term scenarios starting from SSP2-4.5 at 2060 (left) and 2070 (right), in light blue. Thick 
+black lines correspond to the SLR steady states of the SURFER model. The x marker indicates the initial state, the star and diamond markers the 
+position in phase space after 5kyr and 50kyr respectively.
+20 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae004/7606781 by guest on 26 August 2024

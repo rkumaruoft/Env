@@ -1,0 +1,1633 @@
+International  Journal  of
+Environmental Research
+and Public Health
+Review
+Assessing Health Vulnerabilities and Adaptation to
+Climate Change: A Review of International Progress
+Peter Berry 1, Paddy M. Enright 1,*, Joy Shumake-Guillemot 2, Elena Villalobos Prats 3
+and
+Diarmid Campbell-Lendrum 3
+1
+Faculty of Environment, University of Waterloo, Waterloo, ON N2L 3G1, Canada; pberry@uwaterloo.ca
+2
+WMO/WHO Climate and Health Ofﬁce, 1211 Geneva, Switzerland; jshumake-guillemot@wmo.int
+3
+Climate Change and Health Unit, WHO, 1211 Geneva, Switzerland; villalobose@who.int (E.V.P.);
+campbelllendrumd@who.int (D.C.-L.)
+*
+Correspondence: pmenright@uwaterloo.ca; Tel.: +1-613-954-6794
+Received: 12 October 2018; Accepted: 14 November 2018; Published: 23 November 2018
+
+
+Abstract: Climate change is increasing risks to human health and to the health systems that seek to
+protect the safety and well-being of populations. Health authorities require information about current
+associations between health outcomes and weather or climate, vulnerable populations, projections
+of future risks and adaptation opportunities in order to reduce exposures, empower individuals to
+take needed protective actions and build climate-resilient health systems. An increasing number of
+health authorities from local to national levels seek this information by conducting climate change
+and health vulnerability and adaptation assessments. While assessments can provide valuable
+information to plan for climate change impacts, the results of many studies are not helping to build
+the global evidence-base of knowledge in this area. They are also often not integrated into adaptation
+decision making, sometimes because the health sector is not involved in climate change policy
+making processes at the national level. Signiﬁcant barriers related to data accessibility, a limited
+number of climate and health models, uncertainty in climate projections, and a lack of funding
+and expertise, particularly in developing countries, challenge health authority efforts to conduct
+rigorous assessments and apply the ﬁndings. This paper examines the evolution of climate change
+and health vulnerability and adaptation assessments, including guidance developed for such projects,
+the number of assessments that have been conducted globally and implementation of the ﬁndings to
+support health adaptation action. Greater capacity building that facilitates assessments from local to
+national scales will support collaborative efforts to protect health from current climate hazards and
+future climate change. Health sector ofﬁcials will beneﬁt from additional resources and partnership
+opportunities to ensure that evidence about climate change impacts on health is effectively translated
+into needed actions to build health resilience.
+Keywords: climate change and health; vulnerability assessment; adaptive capacity; adaptation;
+climate resilient health systems
+1. Introduction
+Growing scientiﬁc evidence suggests that climate variability and change pose serious risks to
+people living in developing and developed countries across the globe [1–4]. Extraordinary gains to
+global population health achieved in recent decades are at risk of reversal due to the expected impacts
+of climate change [2,5]. Countries that lack adaptive capacity, vulnerable populations (e.g., indigenous
+peoples, people relying on agricultural livelihoods) and certain regions facing severe challenges, such
+as small island developing states and the Arctic, are more vulnerable to its impacts [4,6]. The efforts of
+countries to achieve key sustainable development goals (SDGs) under the 2030 Agenda for Sustainable
+Int. J. Environ. Res. Public Health 2018, 15, 2626; doi:10.3390/ijerph15122626
+www.mdpi.com/journal/ijerph
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+2 of 25
+Development are threatened by climate change (e.g., SDG 1—No poverty; SDG 2—End hunger; SDG
+3—Good health and well-being; and SDG 6—Clean water and sanitation) [7]. For example, climate
+change could result in 100 million more people living in extreme poverty [4].
+Health authorities and researchers, from international to local levels, recognize the serious threats
+to health that climate change poses and are taking protective measures to reduce current impacts
+and future risks [8]. Evidence-based information about current and possible future risks to health,
+vulnerable populations, and effective adaptation options is needed so as to prepare individuals and
+communities for the health impacts of climate change [9,10]. This includes identiﬁcation of innovative
+adaptations for use by public health ofﬁcials to understand and respond to more severe and possibly
+compounding effects of future climate change, such as threats from tipping points and shock events
+that are outside of the range of current experience [11].
+Climate change and health vulnerability and adaptation assessments (V&As) are an important
+instrument and process to establish partnerships and obtain information for understanding and
+addressing climate change-related risks [8]. They can also provide the knowledge needed to realize
+potentially large health co-beneﬁts from well-designed adaptation and greenhouse gas mitigation
+measures, thereby taking advantage of what the Lancet Commission on Climate and Health suggests
+is the “ . . . greatest global health opportunity of the 21st century” [5] (p. 1).
+This paper reviews the evolution of V&As as part of efforts by governments and experts to better
+understand and respond to climate change risks to health. It provides information on the type of
+guidance that has been developed for conducting V&As and summarizes national and subnational
+assessments that have been conducted. The importance of assessments in helping to build the global
+evidence-base of climate change impacts on health is highlighted along with observations on the
+implementation of ﬁndings to support health adaptation action. Recommendations are then provided
+about supporting future V&As, establishing local to global baselines of climate change health risks,
+vulnerabilities and adaptation activities and applying the knowledge generated to protect the health
+of populations.
+2. Methods
+To estimate the number of national V&As that have been conducted expert knowledge and
+the records of the World Health Organization (WHO) were used. WHO sourced data consisted
+of the results from the 2015 WHO Climate and Health Country Survey reported through the
+WHO/United Nations Framework Convention on Climate Change (UNFCCC) Climate and Health
+Country Proﬁles [12], the unpublished results of a WHO commissioned review of assessments, and
+different reports from the WHO Regional Ofﬁces available online. The WHO Climate and Health
+Country Survey collects global data on a suite of indicators measuring global progress on climate
+change and health every two years. These indicators include the number of countries that have
+conducted a V&A.
+An additional semi-structured search of the Web of Science database revealed 190 articles with
+possible discussion of completed national-level climate change and health V&As. Of these 190 articles,
+110 underwent abstract review, and 39 received a full-text review for references to national-level studies.
+The review results supported the WHO data. A review of the United States Agency for International
+Development (USAID) database revealed a further 3 V&As that have been conducted—in Uganda,
+Senegal and Mozambique—with the assistance of USAID’s African and Latin American Resilience to
+Climate Change (ARCC) Program.
+3. Background
+3.1. Climate Change and Health
+The global evidence base of information about climate change impacts on health has grown
+over the last few decades through the publication of Intergovernmental Panel on Climate Change
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+3 of 25
+(IPCC) reports [2,13], analysis of the global burden of disease from climate change [1,14] and related
+studies [5,6,15]. Direct and indirect health impacts associated with climate change are caused by
+rising temperatures, altered precipitation patterns as well as increasingly severe and frequent extreme
+weather events [2,4,5,16]. Direct health impacts arise from hazards such as heat-waves, droughts and
+storms, and indirect impacts come from exposures to disease vectors and air and water pollution.
+Rising carbon dioxide levels, which contribute to climate change, may also reduce the nutrient value
+in staple crops. This could increase food insecurity among some populations, particularly those in
+developing countries [17]. A range of social factors can act to either exacerbate the health impacts of
+the environmental effects of climate change or to help mitigate them with public health interventions
+(Figure 1). Knowledge gaps about the impacts of climate change on public health, food distribution,
+poverty, rural communities and indigenous groups and marginalized people exist [4].
+Figure 1. Pathways of climate change, sustainable development and health. Source: [18].
+Many of the health impacts from climate variability and change can be lessened or avoided
+through well-designed adaptation measures [2,8]. Health adaptation refers to “the process of designing,
+implementing, monitoring, and evaluating strategies, policies, and measures intended to reduce climate
+change-related impacts and to take advantage of opportunities” [19] (p. 501). Public health authorities
+have decades of experience with known, effective interventions for reducing many health risks from
+climate and weather-related hazards, such as air and water pollution, contaminated food, vector-borne
+diseases, ozone depletion, and extreme weather events (e.g., heatwaves, ﬂoods, droughts, wildﬁres,
+ice storms, hurricanes) [9,20].
+3.2. Climate Change and Health Vulnerability and Adaptation Assessments
+Climate change and health vulnerability and adaptation assessments are conducted at local,
+regional, or national scales by health authorities to identify and interpret information needed to
+prepare health systems for the impacts of climate change. These studies are participatory in nature,
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+4 of 25
+engaging a range of stakeholders to support efforts in preparing for climate change. They possess
+a common set of goals and processes, although individual studies may vary signiﬁcantly in design.
+Key functions of assessments include [9]:
+•
+Improving evidence and understanding of the current associations between weather/climate and
+health outcomes, including the health of populations most vulnerable to these risks;
+•
+Providing health and emergency management ofﬁcials, stakeholders, and the public with
+information on the magnitude and pattern of current and future health risks associated with
+climate variability and change, and identifying vulnerabilities in the health system;
+•
+Identifying opportunities to incorporate climate change concerns into existing policies and
+programs designed to manage health risks associated with weather and climate, and to develop
+new programs where necessary to prevent and reduce the severity of future risks;
+•
+Serving as a baseline analysis against which future changes in risks and in associated policies and
+programs can be monitored;
+•
+Forging collaborations with sectors such as water and infrastructure to promote activities to
+improve population health in a changing climate; and
+•
+Strengthening the case for investment in health protection.
+The ultimate goal of an assessment is to support the implementation of adaptation and risk
+management measures that are effective in reducing current and future climate-related risks to human
+health and well-being, including among populations most vulnerable to the impacts. V&As develop
+evidence-based adaptation plans or strategies by health authorities in collaboration with a broad
+range of partners within and outside the health sector [9]. For least developed countries and other
+developing countries, Health National Adaptation Plans (HNAPs), and the Operational Framework
+for Building Climate Resilient Health Systems (2015) are complementary tools designed by WHO to
+apply information from a V&A to deﬁne strategic goals and plans for building health resilience to
+climate change. HNAPs, as sector speciﬁc adaptation plans, can be included as the health component
+of a country’s National Adaptation Plan (NAP) and highlight national health adaptation goals to be
+achieved over a speciﬁc timeframe, and with available resources [21]. The NAP process was created by
+the UNFCCC climate change agenda, and facilitates efforts by these countries to undertake medium-
+and long-term adaptation planning [22].
+4. Results
+4.1. Guidance for Conducting V&As
+The WHO, World Meteorological Organization (WMO), and the United Nations Environment
+Programme (UNEP) established a task team in 1995 to assess risks to health from climate change, setting
+the stage for two decades of further climate and health assessments [23]. McMichael et al. [23] laid the
+foundation for the evidence-base on climate change and health by describing what is known about the
+basic biology and epidemiology of diseases that were ﬁrst characterized as “climate sensitive”, the
+direct and indirect pathways through which current climate variability and future climate change can
+impact health. They also described key decision-making processes supporting health adaptation [23].
+In addition, analysis of health impacts of climate change has been included in all ﬁve IPCC reports
+since 1990 and most recently, in the IPCC Special Report on Global Warming of 1.5 ◦C [4]. In 2014,
+WHO published quantitative estimates of climate change effects on global health [1].
+Effective measures to protect health from climate change impacts require assessments that further
+the understanding and integration of information about local and population level vulnerabilities [24].
+This includes analysis of exposure and sensitivities to hazards, regional weather and climate drivers;
+such studies beneﬁt from participation of a range of stakeholders at the community level [9,25].
+To facilitate efforts by public health ofﬁcials to assess current and future impacts of climate change
+on health, guidance and methods for conducting assessments have been developed over the last
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+5 of 25
+two decades by building on fundamental principles and theoretical models from environmental
+health impact assessment [9,14,26–31].
+The ﬁrst comprehensive guide for conducting climate
+change and health assessments was developed by the WHO European Ofﬁce, in collaboration with
+WMO, Health Canada (HC) and UNEP in 2003 [27].
+It presented a framework and key steps
+for conducting an assessment, and described quantitative and qualitative methods to establish
+associations of local climate and weather conditions with health outcomes using speciﬁc health
+impact areas as examples [27]. The guidance also included discussion of useful tools and methods
+for conducting assessments based upon the principles of environmental health impact assessment,
+including environmental epidemiology (e.g., short and long time-series studies, ecological studies),
+geographical information systems, climate change, population and socioeconomic scenarios, climate
+and health modelling, biological models of infectious disease transmission, development of indicators,
+comparative risk assessment, integrated assessment, traditional knowledge, literature reviews, single
+event case studies, focus groups, participatory workshops, and cost-beneﬁt analysis [27]. The report
+was generally tailored for researchers and provided limited information on health policy and program
+development. The assessment guidelines were reported to WHO to be complicated and cumbersome
+by a number of health authorities using them.
+In 2008, the Member States of WHO requested development of tools for conducting V&As through
+a World Health Assembly Resolution [32]. A new WHO workplan on climate change and health in
+2009 included a strong emphasis on building evidence through such studies [33]. WHO therefore
+developed new guidance which provided stronger direction on the assessment process including how
+to engage stakeholders and communicate the assessment ﬁndings. It also provided greater detail on the
+adaptation assessment process, such as identifying resources for implementation of options, potential
+barriers to action and inaction to protect health, as well as their approximate costs [9]. The guidance
+was developed and tested by WHO and its Regional Ofﬁces over 2007–2010. The document included
+25 examples of assessment step implementation from a wide range of countries to make the guidance
+more accessible to public health ofﬁcials in both developed and developing countries. A survey was
+administered in 2010 on the experiences of 12 countries that conducted V&As using the new guidance,
+and a workshop was held in Costa Rica which convened health ofﬁcials and experts from 15 countries
+to provide input toward development of the new document [34]. The new guide “Protecting health
+from climate change: Vulnerability and adaptation assessment” [9] was published by the Pan American
+Health Organization (PAHO) and WHO and outlines 5 steps (Table 1) for conducting an assessment
+based upon the 2003 guide. It remains the current tool for undertaking such studies promoted today
+by the WHO.
+Guidance for conducting V&As has evolved over the last two decades to better accommodate the
+decision-making needs of public health ofﬁcials in both developing and developed countries. Changes
+made reﬂect needs for more thematic and localized information and data to assess risks over multiple
+timescales, and to inform adaptation of speciﬁc health programs or infrastructures. For example, the
+Ministry of Health and Long-term Care in Ontario developed a Climate Change and Health Toolkit [29]
+to assist the 36 local boards of health in that province meet the requirement in the new provincial public
+health standards to assess the health impacts of climate change [35]. The Toolkit includes technical
+assessment guidelines that provide case studies of health adaptation and multisectoral collaboration in
+Ontario, a vulnerabilities assessment checklist, and an assessment workbook with ﬁllable worksheets
+that can be used to obtain and analyze needed data and information [29].
+To cater to regional needs, the WHO, WMO, HC, and PAHO developed guidance to conduct
+assessments in small-island developing states in the Caribbean with more explicit and regionally
+relevant direction, including appropriate regional resources, data, and indicators [30]. In response
+to the request from countries for more detailed guidance for key priority climate change and
+health issues, WHO is developing supplementary tools for the 2013 guide [9] including information
+on assessing climate change impacts on zoonotic and vector-borne diseases, diarrheal diseases,
+airborne and respiratory diseases, heat stress, undernutrition, natural disasters and extreme weather
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+6 of 25
+events, and occupational health. Detailed national and thematic guides have also been developed
+in Canada, the United States, the United Kingdom, and by PAHO/WHO for assessing speciﬁc
+components of health systems such as climate-related vulnerabilities and adaptation options of health
+facilities [36–39]. The World Bank (WB) in 2017 developed tailored V&A guidance to inform their
+investment decision-needs in the health sector [31].
+Table 1.
+Five steps for undertaking a climate change and health vulnerability and adaptation
+assessment. Source: [9].
+Assessment Step
+Activity
+1. Frame and scope the assessment
+•
+Deﬁne the geographical range and health outcomes of interest
+•
+Identify the questions to be addressed and steps to be used
+•
+Identify the policy context for the assessment
+•
+Establish a project team and a management plan
+•
+Establish a stakeholder process
+•
+Develop a communications plan
+2. Conducting the vulnerability and
+adaptation assessment
+•
+Establish baseline conditions by describing the human health risks of current climate variability and
+recent climate change, and the public health policies and programs to address the risks
+•
+Describe current risks of climate-sensitive health outcomes, including the most vulnerable populations
+and regions
+•
+Identify vulnerable populations and regions
+•
+Describe risk distribution using spatial mapping
+•
+Analyze the relationships between current and past weather/climate conditions and health outcomes
+•
+Identify trends in climate change-related exposures
+•
+Take account of interactions between environmental and socioeconomic determinants of health
+•
+Describe the current capacity of health and other sectors to manage the risks of climate-sensitive
+health outcomes
+3. Understanding future impacts on health
+•
+Estimate future health risks and impacts under climate change
+•
+Describe how the risks of climate-sensitive health outcomes, including the most vulnerable populations
+and regions, may change over coming decades, irrespective of climate change
+•
+Estimate the possible additional burden of adverse health outcomes due to climate change
+4. Adaptation to climate change:
+Prioritizing and implementing health
+protection
+•
+Identify and prioritize policies and programs to address current and projected health risks
+•
+Identify additional public health and health care policies and programs to prevent likely future
+health burdens
+•
+Prioritize public health and health care policies and programs to reduce likely future health burdens
+•
+Identify resources for implementation and potential barriers to be addressed
+•
+Estimate the costs of action and of inaction to protect health
+•
+Identify possible actions to reduce the potential health risks of adaptation and greenhouse gas mitigation
+policies and programs implemented in other sectors
+•
+Develop and propose health adaptation plans
+5. Establish an iterative process for
+managing and monitoringthe health risks
+of climate change
+•
+Establish an iterative process for managing and monitoring the health risks of climate change
+Climate change and health adaptation and vulnerability assessments are most helpful in planning
+for future risks to populations when they take into consideration future demographic, socioeconomic
+and health sector trends that may combine with climate drivers to either increase or reduce the
+resilience of health systems. The Shared Socioeconomic Pathways (SSPs) which were developed to
+help understand challenges to climate change adaptation and greenhouse gas mitigation activities
+under different futures are a useful tool for V&As [40].
+New and innovative approaches to conducting V&As have also come from individual countries.
+The UK Climate Change Risk Assessment developed a new way to conduct risk framing and prioritize
+adaptation options to generate more decision-relevant information. This approach was applied to
+nearly sixty individual risk areas including human health [41]. It used the concept of urgency to
+summarize the ﬁndings of the assessment analysis and to communicate the need for further adaptation
+actions based upon the four categories: “more action needed”, “research priority”, “sustain current
+action”, or “watching brief” [41].
+4.2. Overview of International, National and Subnational Assessments
+Climate change and health vulnerability and adaptation assessments have been conducted at
+national and subnational scales for over 20 years. The mandate and resources for conducting V&As
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+7 of 25
+among countries varies greatly. While many assessments in developing countries have been supported
+by WHO as part of its technical support to countries, others have been triggered by the need to provide
+sectoral inputs to National Communications to the UNFCCC, and in some instances, are government
+mandated. For example, national climate change assessments are mandated in the U.S. by Congress
+through the Global Change Research Act (GCRA) of 1990 and assessments in the UK through the
+2008 Climate Change Act. The most recent US assessment report was produced by a team of more
+than 300 experts guided by a 60-member Federal Advisory Committee [42]. The UK Climate Change
+Risk Assessment (comprehensive of all sectors) took 3 years to complete and included commissioning
+of original research [43]. In contrast, V&As completed by many developing countries may involve
+only 12–30 national experts engaged for shorter time frames (e.g., three to nine months) and those
+supported by WHO in the past had much smaller budgets, on average between 50,000–100,000 USD.
+A majority of national climate change and health assessments in developing countries have
+been supported by the WHO (approximately 48) as part of its role in providing technical support
+to countries for the implementation of climate change and health adaptation projects [34,44–48].
+Other agencies such as United States Agency for International Development (USAID) (e.g., Senegal,
+Mozambique) [49,50], the Asian Development Bank (e.g., Cambodia), the German Corporation for
+International Development (GIZ) (e.g., Grenada) have also invested to support V&As to inform
+health adaptation programming. The WB conducted climate change and health assessments in
+Madagascar and Fiji to ensure that their health investments in those countries were resilient to climate
+change [31,51].
+The number of V&As has risen steadily in recent years in both developed and developing
+countries, in response to growing investment in climate change adaptation and the need for relevant
+information.
+Kovats et al. [52] identiﬁed 16 countries as having completed at least 1 national
+level assessment prior to mid-2002 with half (8/16) having been completed by UNFCCC Annex
+1 (e.g., developed) countries. The only countries that undertook multiple assessments prior to
+mid-2002 were both Annex 1 counties (Australia and Japan) [52]. Only recently have mechanisms been
+established to systematically and regularly monitor and track such studies. In total, 92 countries have
+completed national V&As (Figure 2) (Appendix A). Some countries have also conducted subnational
+assessments (e.g., Ghana, Bangladesh and Nepal) and further inquiry would be needed to obtain a
+comprehensive estimate of the total number of these studies.
+Analysis was conducted on a sample of the WHO supported V&As completed since 2013,
+including 34 at the country level and 5 at the subnational level [53]. The 34 assessments were supported
+by WHO and results of the studies were used to develop WHO Climate and Health Country Proﬁles.
+The analysis revealed that all but 4 of 34 assessments included some analysis of the climate change and
+health vulnerability and/or adaptation capacity [53]. However, for each priority health issue only about
+one third of the assessments identiﬁed speciﬁc populations vulnerable to the impacts, leaving decision
+makers with limited information to develop needed targeted public health interventions. In addition,
+approximately half of the assessments included either qualitative or quantitative projections of future
+health impacts of climate change.
+Regarding health concerns of focus, all of the 34 assessments identiﬁed vector-borne diseases
+as a priority, while only 16 identiﬁed heat and cold-related health risks.
+The most commonly
+prioritized individual diseases among vector-borne diseases were malaria (n = 28), dengue (n = 18), and
+leishmaniasis (n = 8) [53]. Just over half of the assessments (n = 20) included projections of future health
+impacts from climate change, either through quantitative or qualitative analysis, suggesting that many
+reports included little information about future risks from climate change. Of the 34 studies reviewed,
+26 assessments indicated plans or intent to use the study results to inform national climate change
+adaptation strategies or to enhance the resilience health programming [53]. It is not known whether
+these ﬁndings apply to the rest of V&As conducted to date with or without support from WHO.
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+8 of 25
+ 
+Figure 2. Countries that have completed a national climate change and health vulnerability and
+adaptation assessment. Not visible on the above map: Antigua and Barbuda, Barbados, Brunei,
+Cook Islands, Dominica, Federated States of Micronesia, Fiji, Grenada, Kiribati, Maldives, Malta,
+Marshall Islands, Nauru, Niue, Palau, Samoa, Solomon Islands, St. Lucia, Timor-Leste, Tonga, Tuvalu,
+and Vanuatu.
+Subnational assessments allow for more localized analysis of the health impacts of climate change
+including a more accurate estimation of current and future vulnerabilities to inform effective adaptation
+planning. They may also allow researchers to focus limited resources on priority areas (e.g., large
+urban centers, areas with high proportions of vulnerable people, areas believed to be at increased risk,
+such as coastal areas). In geographically large countries, such as Canada and the United States that
+span multiple ecozones/biomes, the anticipated health impacts of climate change may vary widely
+from one area to another [15,54]. Subnational assessments provide the opportunity to identify and
+address locally speciﬁc health risks that may otherwise be overlooked in a national context (e.g., an
+invasive vector-borne disease only likely to impact a particular region of a country) and develop locally
+appropriate response options.
+Since 2009, the United States Centers for Disease Control and Prevention (US CDC) has supported
+state, tribal, local, and territorial public health agencies to use evidence-based information to better
+understand and predict the health risks of climate change and prepare programs to respond and protect
+health. Through the Climate-Ready States and Cities Initiative (CRSCI) and the supporting Building
+Resilience Against Climate Effects (BRACE) Framework [55] it has provided new assessment tools and
+opportunities for information exchange (e.g., communities of practice) to support 16 states and 2 cities
+to conduct V&As and develop adaptation plans or measures. A review of CRSCI activities found
+that the program had increased the capacity of local health authorities to prepare for and respond
+to climate change by providing information about climate change impacts on health and vulnerable
+populations [56]. Speciﬁcally, the program supported development of practice-informed guidance on
+quantitative risk assessment methods, greater integration of health considerations within the climate
+change agenda in the respective jurisdictions and the creation of new networks for sharing information.
+Experiences of grantees revealed the need for greater efforts to enhance knowledge of climate modeling
+tools and their use in disease burden projections among public health professionals [56]. Examples of
+US states and cities that have developed climate change adaptation plans or frameworks or taken other
+actions based on the research results are presented in Table 2.
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+9 of 25
+Table 2. Climate Change and Health Adaptation Plans or Actions Taken by the United States Centers
+for Disease Control and Prevention (U.S. CDC) Building Resilience against Climate Effects (BRACE)
+Climate-Ready States and Cities Initiative Participants.
+US CDC BRACE Climate-Ready States and Cities Initiative
+Examples of Climate Change Adaptation Plan/Framework Developed
+Arizona
+New York State
+California
+North Carolina
+Michigan
+Oregon
+Minnesota
+Rhode Island
+Wisconsin
+San Francisco
+Examples of Other Adaptation Actions or Next Steps Taken
+Florida (priority hazard proﬁles and cases;
+county adaptation plans)
+Maryland (outreach)
+Illinois (public health training, heat toolkit)
+Massachusetts (climate change preparedness
+assessment—local boards of public health)
+Maine (Syndromic surveillance system for heat,
+enhanced vector-borne disease monitoring)
+New York City (local hazard mitigation plans—extreme
+heat, resiliency guideline for infrastructure)
+Vermont (public health training)
+Subnational assessments have been completed in a number of other countries as well, including,
+for example by the Simcoe Muskoka District Health Unit in Canada [57], and the Government of
+Western Australia [58].
+5. Discussion
+Irrespective of greenhouse gas emissions reductions, climate change will continue for decades
+resulting in gradual warming punctuated by stresses and shocks that have the potential to severely
+impact individuals, communities and health systems. Learnings from engagement with researchers
+and decision makers in V&As suggest that climate change is transforming the milieu in which public
+health ofﬁcials and partners understand health risks and make decisions to reduce them due to:
+•
+Dynamic and complex disease and health impact risks which occur over multiple timescales and
+geographies (e.g., vector-borne diseases, mental health);
+•
+Multiple uncertainties—particularly around management of cascading and indirect health effects
+(e.g., food insecurity and nutrition);
+•
+An increased probability of extreme and “surprise” events that can severely impact health
+outcomes and health system functioning; and
+•
+Risks of “involuntary” adaptation (e.g., rushed and poorly planned interventions in response to
+an emergency or disaster).
+Climate change and health adaptation and vulnerability assessments can provide the
+evidence-based information to help public health ofﬁcials and partners in other sectors navigate
+these challenges and respond effectively to increasing risks.
+5.1. Assessment Opportunities
+Climate change and health vulnerability and adaptation assessments have assisted some
+health authorities and researchers in efforts to raise awareness of possible impacts on vulnerable
+populations, build capacity to prepare for impacts, understand data and evidentiary requirements
+for decision-making, and establish the required knowledge base for climate change adaptation in
+the health sector [9,23]. Assessments have also helped health authorities to integrate the needs of
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+10 of 25
+the health sector into national climate assessment and policy efforts. Ministries of Health, which
+have undertaken V&As, are better prepared to join national and international policy fora and related
+processes on climate change (e.g., national adaptation planning and strategy development, UNFCCC
+negotiations, World Health Assembly), and to advocate for action which beneﬁts health and builds the
+climate resiliency of the health sector.
+The horizontal and participatory nature of V&As also facilitates climate change cooperation
+across sectors. Involvement of professionals from water, energy, conservation, transportation, urban
+planning, agriculture, coastal management and related sectors provides information about health risks
+associated with key drivers from impacts or adaptation actions in these sectors [26]. This collaboration
+opens door to identifying adaptation and risk management responses across sectors that are often
+preventative in nature, more effective, cost less to society and maximize health co-beneﬁts.
+As V&As by health authorities generate more robust evidence, this information can be integrated
+into international scientiﬁc reports including regular studies by the IPCC, the Lancet Commission
+on Health and Climate, and WHO, thereby providing a more comprehensive global evidence-base
+of the vulnerability of people to climate change impacts and progress being made to reduce risks.
+International reports facilitate a common understanding of the risks posed by climate change, improve
+access to climate and health data, support calls for action to address climate change and inform the
+development of new tools and methods for assessment. The WHO V&A assessment guide [9] was
+informed by leading edge concepts, methods and frameworks related to climate impact assessment
+developed by bodies, such as the IPCC. In turn, evidence regarding risks and vulnerabilities to health
+from current climate variability and future climate change presented in these international reports
+contributes to the development of local to national V&As.
+5.2. Assessment Barriers
+In the face of increasing calls for more information about climate change impacts on health and
+interest from health authorities in undertaking assessments, a number of important barriers exist
+in completing these studies. A key challenge for health authorities conducting V&As is to provide
+information in timescales relevant for decision making. To be most useful V&As should provide
+rigorous ﬁndings that help policy makers identify both short-term and longer-term adaptation options.
+However, as highlighted above, WHO analysis of a sample of completed assessments indicated that
+only half included either qualitative or quantitative projections of future health impacts of climate
+change. Limited data, a paucity of climate and health models, uncertainty related to climate projections,
+and a lack of resources, expertise or time often make estimating future health impacts of climate change
+in a region or community difﬁcult. Robust indicators that can be used to track: (1) vulnerability, risk,
+and exposure of populations and health systems to climate change hazards; (2) actual impacts from
+such hazards; and (3) progress in adapting and building resilience are lacking from local to national
+scales [59]. To ensure consistency in approaches and comparability of ﬁndings V&As often consider
+and apply ﬁndings from existing national climate assessments conducted by the government or other
+sectors, including the same climate projections (e.g., global and regional SRES, RCP projections).
+This is useful to raise awareness that current health vulnerabilities, if not addressed now, may increase
+signiﬁcantly in the future. However, in resource poor contexts this information alone is rarely sufﬁcient
+to justify and motivate investments in health adaptation.
+In the short-term, policy and program managers often require information from V&As to
+inform near-term decisions related to stafﬁng, procurement, and programming, for example for
+efforts to address a particular intervention (e.g., heat-health warning systems, health promotion
+campaign, disaster management plan, food safety program) found to be ineffective. This can present a
+fundamental challenge in applying the results of V&A assessments to decision-making. Adaptation
+options identiﬁed in assessments may include important recommendations to strengthen health
+system management, such as strengthened surveillance, training and capacity building, but lack
+recommendations for immediate actions. In such cases, gaining buy-in of decision makers that action
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+11 of 25
+is required is difﬁcult because results pertaining to near-term adaptations are not included in the
+study. This type of information requires analysis of how current climate and extreme weather events
+are driving and inﬂuencing health outcomes and health system performance in a country or region.
+This analysis is often not possible with existing resources (e.g., data, ﬁnancial, expertise, time) for
+the assessment. However, improved understanding and analysis of current seasonality, inter-annual
+climate patterns, conditions and projections of extreme rainfall, temperature, and drought in the
+country can provide decision-relevant information that is easily applied to current planning cycles,
+and is also likely representative of future climate conditions.
+Many V&As also focus narrowly on building the evidence-base of climate-sensitivity related
+to speciﬁc health outcomes of concern for a speciﬁc jurisdiction, frequently measured as disease
+burdens. They often do not investigate in great enough detail the climate-sensitivity of broader
+components of the health system (e.g., health facilities, health workforce, new adaptation technologies,
+adaptation networks and partnerships) as identiﬁed in the WHO Operational Framework for Building
+Climate Resilient Health Systems [10]. This focus on disease outcomes can result in insufﬁcient
+attention to potentially critical vulnerabilities and impacts from climate change on health-related
+sectors such as a projected collapse of food stocks, large-scale landscape changes due to sea-level rise
+or hydrological changes, or population migration from climate impacts. It also results in inadequate
+attention to measuring impacts on the health sector itself, such as those on health systems and facilities
+and on levels of adaptive capacity; information on such impacts could generate speciﬁc actionable
+recommendations. Future studies would beneﬁt from greater focus on the potential impacts of climate
+change, including stresses and shocks, on health systems [11].
+Particular obstacles may face developing countries in conducting V&As. National analyses of
+health risks and future impacts are often challenged by the availability of national and local data, which
+are often insufﬁcient to establish robust linear and non-linear relationships among health outcomes
+and climate variables. In addition, those conducting assessments often lack both high quality and
+long-term climate and epidemiological data and have few pre-existing local studies to consider within
+a V&A. They may also have few climate and health models for application, low capacity within
+country teams to conduct the analysis, and limited ﬁnancial resources and time to contract appropriate
+academic teams to conduct more sophisticated studies. Schnitter et al. [60] reported that challenges
+encountered in completing a V&A in Dominica in 2015 included insufﬁcient resources and expertise to
+undertake modeling of future health impacts for more than one issue (vector-borne diseases), limited
+health data for analysis, and challenges prioritizing adaptation options.
+Robust V&As build upon existing locally relevant evidence, which has already established
+associations between climate variables, tested data sets, and can describe local vulnerabilities and
+disease dynamics. However, many developing countries do not have this evidence base, or sufﬁcient
+data and capacity to conduct this research, and are thus dependent upon proxy studies which may be
+relevant, but conducted in other locations. This is reﬂected in WHO’s 2018 ﬁnding [54] that only half of
+the reviewed assessments were able to include future risk projections. V&As in developing countries
+often focus their resources on establishing associations between weather and health outcomes and not
+future climate change due to this lack of existing evidence. They often conclude with recommendations
+for additional studies; closer collaboration between the international research community and local
+policy communities would help address these gaps.
+Challenges associated with mobilizing communities and health authorities to take action on
+climate-related health risks based upon V&A studies often relate to limited funding for climate
+change and health activities, particularly in developing countries. The World Health Organization
+estimated that in 2017, less than 1.5% of available funds dedicated to climate change adaptation
+globally are used for health protection projects [61]. Limited support for climate change and health
+and related assessment activities inevitably reduces the number and quality of V&As, making it
+harder for health authorities to engage in broader climate change activities and build needed capacity.
+Greater funding would signiﬁcantly strengthen capacity at all levels of government and among
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+12 of 25
+civil society organizations to increase understanding of the health impacts of climate variability and
+change [25]. Building such capacity would also be supported by expanded training of health ofﬁcials
+from local to national levels on conducting V&As with stakeholders and research partners.
+Health authorities often have difﬁculty effectively translating the ﬁndings from a V&A into
+adaptation practice to protect populations from current climate hazards and future climate change [50].
+This includes little application of the knowledge produced into relevant policy processes at the
+national level such as the NAPs, the UNFCCC National Communications and Nationally Determined
+Contributions. Challenges can be faced by the health sector in efforts to engage in national climate
+change processes, which are most often led by the environmental sector. This may also occur because
+some assessments are not producing information and data most needed by decision makers to protect
+health and because of a lack of evidence informed activities and tools to support knowledge translation
+(e.g., spatial tools such as GIS, training kits, education and outreach materials, communities of practice)
+and facilitate efforts to reduce population health risks. As noted above, while two thirds of the V&As
+reviewed by WHO indicated intent to use the ﬁndings to inform health adaptation planning, only one
+third identiﬁed speciﬁc populations vulnerable to climate change health impacts. In addition, Hayes
+and Poland [62] suggest that many V&As have not included investigation of mental health impacts
+of climate change, a growing concern among health authorities. Decision makers are therefore often
+not receiving needed evidence-based information to develop targeted public health interventions to
+prepare for climate change.
+National V&As have been conducted relatively recently and time is needed to gauge accurately
+the degree to which ﬁndings and recommendations will inform concrete efforts to prepare for climate
+change impacts on health. It is possible that information from national level assessments is being used
+by health decision makers at other levels of government (e.g., local, regional) or by non-governmental
+partners to adapt. This could include efforts to raise awareness of impacts, build networks for
+cooperation, or pursue targeted actions such as the development of heat-health warning systems that
+warn the public of impending dangerous temperatures to support protective behaviors.
+V&As by both developed and developing countries have had limited inﬂuence on the evolution of
+the body of climate change and health knowledge reﬂected by the scientiﬁc literature. Such assessments
+are rarely published, peer reviewed, or communicated outside government-led projects; they draw
+upon existing literature, and inﬂuence local knowledge but are not directly contributing to the global
+knowledge base.
+5.3. The Way Forward in Conducting V&As
+Climate change and health vulnerability and adaptation assessments are an important instrument
+for taking stock of current conditions and vulnerabilities, and should be considered as part of
+an iterative process to be reviewed and returned to over time [9,63]. Establishing health impact,
+vulnerability and adaptation baselines through a V&A allows health authorities to monitor progress
+made, or adaptation failures, in efforts to protect the health of populations from climate change impacts.
+Most countries have not yet repeated their V&A assessment to assess whether the baseline constructed
+in the ﬁrst study is sufﬁcient to monitor the success of adaptation efforts and the health outcomes
+related to climate change. In the future, WHO support for countries to undertake Climate and Health
+Country Proﬁles biennially [12] will help provide this information.
+Climate change and health action by health authorities and partners can be strengthened by the
+development of indictors from local to national scales that capture trends among populations and
+health systems related to: (1) vulnerabilities, risks and exposures to climate hazards; (2) impacts from
+such hazards and (3) adaptation and resilience building. Regular tracking of climate change impacts
+with such indicators supports iterative risk management where evidence is synthesized through V&As
+and then disseminated and applied through health adaptation [59]. As part of this approach, V&As
+should be regularly updated to ensure health authorities are using the latest information about key
+vulnerabilities and are monitoring progress in addressing climate change impacts on health [63].
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+13 of 25
+Participatory approaches to V&As should include involvement of all relevant stakeholders
+(e.g., meteorological services, Ministry of Environment, Ministry of Health, community social services),
+experts (e.g., climate change, epidemiology, statistics), and representatives of populations with
+unique perspectives, or that are at higher risk (e.g., indigenous populations, children, women, elderly
+people, mentally or physically disabled people, ethnic minorities, impoverished people) [9,29]. Broad
+engagement with a range of partners improves the quality of assessments while development of a
+detailed plan to communicate the ﬁndings to key decision makers, stakeholders and the research
+community through a range of opportunities (e.g., UNFCCC National Communications; publication
+of ﬁndings) ensures that the results are relevant and useful for efforts to protect health [9].
+Opportunities also exist to inform decision making with V&A ﬁndings by integrating results into
+relevant initiatives within existing mechanisms and processes (e.g., HNAPs, Health and Environment
+Strategies Alliance (HESA), Situation Analysis and Needs Assessment (SANA), disaster risk reduction)
+that support efforts to protect health from climate change impacts. Although an important challenge,
+V&As will beneﬁt from efforts to increase knowledge of local level climate change risks to health and
+the needs of vulnerable populations. This can be achieved through the conduct of local and regional
+V&As, as the US BRACE example discussion above illustrates, or by integrating such information into
+national studies (e.g., investigation of perceptions, adaptive capacity; use of case studies).
+6. Conclusions
+Greater knowledge of risks to health and well-being posed by climate change and guidance
+available to health authorities for assessing vulnerabilities has resulted in more local, regional
+and national studies being undertaken. Climate change and health vulnerability and adaptation
+assessments provide invaluable information to health authorities to increase the resilience of
+individuals, communities and health systems to climate change impacts. They also contribute to
+development of the global evidence-base on climate change and health needed to inform adaptation
+and greenhouse gas mitigation measures in the future, ensuring that they beneﬁt the well-being
+of populations.
+Expanded efforts through V&As to continue to build this global evidence base and inform
+the development of adaptations to protect against growing risks from climate hazards require
+further development of both quantitative and qualitative assessment methods, tools and guidance
+documents [25]. This would include, for example, prioritizing adaptation options, using qualitative
+methods to assess future impacts from climate change and developing indicators of health system
+resilience. Greater skill development in environmental health and epidemiology that includes tools
+and competencies for understanding health risks in the context of environmental and climate change
+will support health authorities in undertaking V&As. The rigor of assessments would improve
+with more robust metrics and approaches for estimating adaptive capacity and the effectiveness of
+current adaptations, as well as with more climate scenario and modelling information applicable to
+regional and local scales. Enhanced understanding of systemic, synergistic, cascading or compounding
+health effects from climate change needs to be included in V&As to prepare for potentially severe,
+or catastrophic events. The use of V&As as a key tool to support effective adaptation to the health
+impacts of climate change will beneﬁt from increased collaboration, exchange and learning among
+health authorities as they continue to undertake these studies in the future.
+Author Contributions: Conceptualization, P.B., J.S.-G., P.M.E., E.V.P., D.C.-L.; Methodology, P.B., P.M.E.; Formal
+Analysis, P.B., P.M.E.; Investigation, J.S.-G., P.M.E., E.V.P.; Writing—Original Draft, P.B.; Writing—Review and
+Editing, P.B., J.S.-G., P.M.E., E.V.P., D.C.-L.
+Funding: This research received no external funding.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+14 of 25
+Appendix A. Completed National-Level Climate Change and Health Vulnerability and
+Adaptation Assessments (V&As)
+Table A1. Completed National-Level Climate Change and Health Vulnerability and Adaptation
+Assessments (V&As).
+Country i
+Vulnerability and Adaptation Assessment or Assessment
+Overview Reference
+Climate Change and Health Country Proﬁle ii
+ALBANIA
+Ministry of Health. Protecting Health from Climate Change in
+Albania: A Vulnerability Assessment; Ministry of Health: Tirana,
+Albania, n.d. [64].
+ALGERIA
+Algeria’s Climate Change and Health Country
+Proﬁle [65].
+ANTIGUA AND
+BARBUDA
+AUSTRALIA
+AUSTRIA
+BANGLADESH
+Mani, M.; Wang, L. Climate Change and Health Impacts: How
+Vulnerable is Bangladesh and What Needs to be Done?
+International Bank for Reconstruction and Development, The World
+Bank Group: Washington, USA, 2014 [66].
+Bangladesh’s Climate Change and Health Country
+Proﬁle [67].
+BARBADOS
+BENIN
+BHUTAN
+Environmental Health Programme. Assessment of Health
+Vulnerability and Adaptation to Climate Change: Final Report.
+Thimphu, Bhutan: Department of Public Health, Ministry of Health:
+2012.
+Bhutan’s Climate Change and Health Country
+Proﬁle [68].
+BOLIVIA
+Effen, M. A.; Pardo, I. A.; J. A. E.; Mollinedo, R.; Cuellar, C.; Santa
+Cruz, W.. Bolivia Pilot Assessment. Ministry of Health: La Paz,
+Bolivia, 2010 [69].
+BRAZIL
+Confalonieri, U.E.C.; Marinho, D.P.; Rodriguez, R.E. Public health
+vulnerability to climate change in Brazil. Climate Research, 2009, 40,
+175–186 [70].
+Brazil’s Climate Change and Health Country
+Proﬁle [71].
+BRUNEI
+BURKINA FASO
+CAMBODIA
+Department of Preventative Medicine, Ministry of Health. Climate
+Change and Health in Cambodia: A Vulnerability and Adaptation
+Assessment. Ministry of Health: Phnom Penh, Cambodia, 2010 [72].
+Cambodia’s Climate Change and Health Country
+Proﬁle [73].
+CAMEROON
+CANADA
+Berry, P.; Clarke, K.; Fleury, M.D.; Parker, S. Human Health; in
+Canada in a Changing Climate: Sector Perspectives on Impacts and
+Adaptation, (ed.) Warren, F.J. and Lemmen, D.S.; Government of
+Canada, Ottawa, Canada, 2014 [54].
+COOK ISLANDS
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+COSTA RICA
+Navarro, L.L. Evaluación de Vulnerabilidad y Adaptación de la
+Salud al Cambio Climático en Costa Rica. Ministerio de Salud: San
+José, Costa Rica, 2010 [75].
+DOMINICA
+Verret, M.; Berry, P.; Fook, T.C.T.; Lal, L. Assessment of Climate
+Change and Health Vulnerability and Adaptation in Dominica.
+Dominica Ministry of Health and the Environment: Roseau,
+Dominica, 2016.
+ETHIOPIA
+Deressa, W.; Simane, B.; Kumie, A.; Woyessa, A.; Kaba, M.; Taye, G.;
+Berhane, G. Vulnerability and Adaptation Assessment of Health to
+Climate Change in Ethiopia. Ministry of Health:
+Addis Ababa, 2015 [76].
+Ethiopia’s Climate Change and Health Country
+Proﬁle [77].
+FEDERATED STATES OF
+MICRONESIA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+FIJI
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+Fiji’s Climate Change and Health Country Proﬁle
+[78].
+FINLAND
+FRANCE
+Pascal, M. Health Impacts of Climate Change in France—What are
+the Challenges for the French Institute for Public Health
+Surveillance
+(InVS)? French Institute for Public Health Surveillance:
+Saint-Maurice, France, 2010 [79].
+GERMANY
+Eis, D.; Helm, D.; Laußmann, D.; Stark, K. Klimawandel und
+Gesundheit Ein Sachstandsbericht. Robert Koch-Institut: Berlin,
+Deutschland, 2010 [80].
+Germany’s Climate Change and Health Country
+Proﬁle [81].
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+15 of 25
+Table A1. Cont.
+Country i
+Vulnerability and Adaptation Assessment or Assessment
+Overview Reference
+Climate Change and Health Country Proﬁle ii
+GHANA
+Asante, F.; Bawakyillenuo, S. Assessment of Existing Relevant
+Climate, Health, Poverty and Vulnerability Information. Report
+prepared for the Republic of Ghana Ministry of Health. United
+Nations Development Programme; and the Global Environmental
+Facility: Accra, Ghana [82].
+GREECE
+Climate Change Impacts Study Committee. The Environmental,
+Economic and Social Impacts of Climate Change in Greece. Bank of
+Greece: Athens, Greece, 2011 [83].
+GRENADA
+Pochanke-Alff, A.; Meincke, M.; Scheske, L.; Wuttge, E. (ed).
+Grenada Climate Change and Health Vulnerability and Adaptation
+Assessment. Deutsche Gesellschaft für
+Internationale Zusammenarbeit: Bonn, Germany, 2015 [84].
+GUINEA
+HUNGARY
+Faragó, T.; Láng, I.; Csete, L. Climate Change and Hungary:
+Mitigating the Hazard and Preparing for the Impacts - the “Vahava”
+Report. Hungarian Academy of Sciences: Budapest,
+Hungary, 2010 [85].
+INDIA
+INDONESIA
+Indonesia’s Climate Change and Health Country
+Proﬁle [86].
+IRAN
+Iran’s Climate Change and Health Country
+Proﬁle [87].
+ISRAEL
+Green, M.S.; Pri-or, N.G.; Capeluto, G.; Epstein, Y.; Paz, S. Climate
+change and health in Israel: adaptation policies for extreme weather
+events. Israeli Journal of Health Policy Research 2013, 2(23), 11 [88].
+ITALY
+Wolf, T.; Menne, B. Environment and Health Risks from Climate
+Change and Variability in Italy. World Health Organization
+Regional Ofﬁce for Europe: Copenhagen, Denmark, 2007 [89].
+Italy’s Climate Change and Health Country
+Proﬁle [90].
+JAPAN
+JORDAN
+Ministry of Health. National Climate Change Adaptation Strategy
+and Action Plan of Jordan. Ministry of Health: Amman, Jordan,
+2012 [91].
+Jordan’s Climate Change and Health Country
+Proﬁle [92].
+KAZAKHSTAN
+KENYA
+Ministry of Public Health and Sanitation and Ministry of
+Environment and Mineral Resources. Report on Kenya Country
+Situation Analysis and Needs Assessment for the Preparation of
+National Plans of Joint Action for Implementation of the Libreville
+Declaration on Health and Environment in Africa. Government of
+Kenya: Nairobi, Kenya, 2009 [93].
+Kenya’s Climate Change and Health Country
+Proﬁle [94].
+KIRIBATI
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+Kiribati’s Climate Change and Health Country
+Proﬁle [95].
+KYRGYZSTAN
+Sharshenova, A.A.; Kasymov, O.T.; Belov, G.V.; Menne, B.; Nurse, J.;
+Buyuklyanov, A.I. Assessment of Climate Change Health Impact in
+the Population of the Kyrgyz Republic. Ministry of Health,
+Scientiﬁc and Production Centre for Preventative Medicine:
+Bishkek, Kyrgyzstan, 2012.
+LAOS PDR
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Climate Change and Health in the Western Paciﬁc Region. World
+Health Organization: Geneva, Switzerland, 2015 [96].
+LITHUANIA
+Meˇcislovas, Ž.; Remigijus, O.; Ar¯unas, B.; Juozas, R.; Egidijus, R.;
+Gintaras, V.; Gintautas, S.; Vidas, S. Klimato kaitos poveikio šalies
+ekosistemoms,
+bioı˛vairovei, vandens ištekliams, žem˙es ir mišku˛ ¯ukiui
+ir žmoniu˛ sveikatai ı˛vertinimo studija ir pasekmiu˛
+švelninimo strateginis planas; Respublikos aplinkos ministerijos:
+Vilnius. Lietuva, 2007.
+MACEDONIA
+Kendrovski, V. Vulnerability Assessment and Adaptation Strategy
+Development in Health Sector due to Climate Change in the
+Republic of Macedonia. Institute for Public Health of the Republic
+of Macedonia: Skopje, Macedonia, 2010 [97].
+MADAGASCAR
+Bouley, T.; Midgley, A.; Shumake-Guillemot, J.; De Weir Golden, C.;
+Ebi, K.L. Madagascar—Climate Change and Health Diagnostic:
+Risks and Opportunities for Climate-Smart Health and Nutrition
+Investment (English). Investing in climate change and health series.
+Washington, D.C.: World Bank Group, 2018 [31].
+Madagascar’s Climate Change and Health Country
+Proﬁle [98].
+MALAWI
+MALAYSIA
+Malaysia’s Climate Change and Health Country
+Proﬁle [99].
+MALDIVES
+Maldives’ Climate Change and Health Country
+Proﬁle [100].
+MALI
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+16 of 25
+Table A1. Cont.
+Country i
+Vulnerability and Adaptation Assessment or Assessment
+Overview Reference
+Climate Change and Health Country Proﬁle ii
+MALTA
+MARSHALL ISLANDS
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+MEXICO
+Mexico’s Climate Change and Health Country
+Proﬁle [101].
+MONGOLIA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Climate Change and Health in the Western Paciﬁc Region. World
+Health Organization: Geneva, Switzerland, 2015 [96].
+MOROCCO
+Morocco’s Climate Change and Health Country
+Proﬁle [102].
+MOZAMBIQUE
+Zermoglio, F.; Steynor, A.; Jack, C.; Pinto, I.; Ebi, K.; Allen, L.; Quinn,
+C.; Colborn, J. Climate Change and Health in Mozambique: Impacts
+on Diarrheal Disease and Malaria. United States Agency for
+International Development: Washington, USA, 2018 [50].
+NAURU
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+NEPAL
+Nepal’s Climate Change and Health Country
+Proﬁle [103].
+NETHERLANDS
+NEW ZEALAND
+Royal Society Te Ap¯arangi. Human Health Impacts of Climate
+Change for New Zealand. Royal Society Te Ap¯arangi: Wellington,
+New Zealand, 2017 [104].
+NIGERIA
+Nigeria’s Climate Change and Health Country
+Proﬁle [105].
+NIUE
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+NORWAY
+OMAN
+Oman’s Climate Change and Health Country
+Proﬁle [106].
+PALAU
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+PANAMA
+PAPUA NEW GUINEA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Climate Change and Health in the Western Paciﬁc Region. World
+Health Organization: Geneva, Switzerland, 2015 [96].
+PHILIPPINES
+Cruz, R. V. O.; Aliño, P.M.; Cabrera, O.C.; David, C.P.; David, L.T.;
+Lansigan, F.P.; Lasco, R.D.; Licuanan, W.R. Y.; Lorenzo, F.M.;
+Mamauag, S.S.; Peñaﬂor, E.L.; Perez, R.T.; Pulhin, J.M.; Rollon, R.N.;
+Samson, M.S.; Siringan, F.P.; Tibig, L.V.; Uy, N.M.; Villanoy, C.L.
+Philippine Climate Change Assessment: Impacts, Vulnerabilities
+and Adaptation. The Oscar M. Lopez Center for Climate Change
+Adaptation and Disaster Risk Management Foundation, Inc. and
+Climate Change Commission: Pasig, Philippines, 2017 [107].
+Philippines’ Climate Change and Health Country
+Proﬁle [108].
+PORTUGAL
+RUSSIA
+REPUBLIC OF KOREA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Climate Change and Health in the Western Paciﬁc Region. World
+Health Organization: Geneva, Switzerland, 2015 [96].
+SAMOA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+SENEGAL
+Zermoglio, F.; Steynor, A.; Jack, C.; Climate Change and Health
+Risks in Senegal. United States Agency for International
+Development: Washington, USA, 2015 [49].
+SOLOMON ISLANDS
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries;
+World Health Organization: Geneva, Switzerland, 2015 [74].
+SPAIN
+Diaz, J.; Ballester, F.; López-Vélez, R.; Chapter 16 - Impacts on
+Human Health; in A Preliminary Assessment of the Impacts in
+Spain due to the Effects of Climate Change. Rodriguez, J.M.M. (ed.);
+Ministry of Environment: Madrid, Spain, 2005 [109].
+SRI LANKA
+Sri Lanka’s Climate Change and Health Country
+Proﬁle [110].
+ST. LUCIA
+SWEDEN
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+17 of 25
+Table A1. Cont.
+Country i
+Vulnerability and Adaptation Assessment or Assessment
+Overview Reference
+Climate Change and Health Country Proﬁle ii
+SWITZERLAND
+Vöhringer, F.; Vielle, M.; Thurm, B.; Knoke, W.; Stocker, D.; Frehner,
+A.; Maire, S.; and Thalmann, P. Assessing the Impacts of Climate
+Change for Switzerland. Report Prepared for the Federal Ofﬁce for
+the Environment: Bern, Switzerland, 2017 [111].
+TAJIKISTAN
+THAILAND
+Thailand’s Climate Change and Health Country
+Proﬁle [112].
+TIMOR-LESTE
+Timor-Leste’s Climate Change and Health Country
+Proﬁle [113].
+TONGA
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+TUNISIA
+Raja, M. Health Impact Assessment Tunisia. Ministry of Public
+Health, Department of Hygiene and Environmental Protection:
+Tunis, Tunisia, 2010 [114].
+Tunisia’s Climate Change and Health Country
+Proﬁle [115].
+TUVALU
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+UGANDA
+Zinser, K. An Overview of Climate Change and Health in Uganda.
+United States Agency for International Development: Washington,
+USA, 2014 [116].
+Uganda’s Climate Change and Health Country
+Proﬁle [117].
+UNITED KINGDOM OF
+GREAT BRITAN AND
+NORTHERN IRELAND
+Kovats, R.; Osborn, D.; Humphrey, K.; Thompson, D.; Johns, D.;
+Ayres, J.; Bates, P.; Baylis, M.; Bell, S.; Church, A.; Curtis, S.; Davies,
+M.; Depledge, M.; Houston, D.; Vardoulakis, S.; Reynard, N.;
+Watson, J.; Mavrogianni, A.; Shrubsole, C.; Taylor, J.; Whitman, G.
+UK Climate Change Risk Assessment Evidence Report: Chapter 5,
+People and the Built Environment. Adaptation Sub-Committee of
+the Committee on Climate Change: London, United Kingdom,
+2016 [118].
+The United Kingdom’s Climate Change and Health
+Country Proﬁle [119].
+UNITED REPUBLIC OF
+TANZANIA
+The United Republic of Tanzania’s Climate Change
+and Health Country Proﬁle [120].
+UNITED STATES OF
+AMERICA
+Crimmins, A.; Balbus, J.; Gamble, J.L.; Beard, C.B.; Bell, J.E.; Dodgen,
+D.; Eisen, R.J.; Fann, N.; Hawkins, M.D.; Herring, S.C.; Jantarasami,
+L.; Mills, D.M.; Saha, S.; Saroﬁm, M.C.; Trtanj, J.; Ziska, L. (eds). The
+Impacts of Climate Change on Human Health in the United States:
+A Scientiﬁc Assessment. U.S. Global Change Research Program:
+Washington, USA, 2016 [15].
+The United States’ Climate Change and Health
+Country Proﬁle [121].
+UZBEKISTAN
+VIET NAM
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Climate Change and Health in the Western Paciﬁc Region. World
+Health Organization: Geneva, Switzerland, 2015 [96].
+VANUATU
+World Health Organization Regional Ofﬁce for the Western Paciﬁc.
+Human Health and Climate Change in Paciﬁc Island Countries.
+World Health Organization: Geneva, Switzerland, 2015 [74].
+Vanuatu’s Climate Change and Health Country
+Proﬁle [122].
+ZAMBIA
+i Some countries have completed multiple V&As and this list presents the most recent national level V&A known
+to the author team. ii In some cases the Climate Change and Health Country Proﬁle was completed prior to the
+respective country’s V&A which may result in conﬂicting reporting on V&A completion status.
+References
+1.
+World Health Organization (WHO). Quantitative Risk Assessment of the Effects of Climate Change on Selected
+Causes of Death, 2030s and 2050s; World Health Organization (WHO): Geneva, Switzerland, 2014.
+2.
+Smith, R.K.; Woodward, A.; Campbell-Lendrum, D.; Chadee, D.D.; Honda, Y.; Liu, Q.; Olwoch, J.M.; Revich, B.;
+Sauerborn, R. Human health: Impacts, adaptation, and co-benefits. In Climate Change 2014: Impacts, Adaptation,
+and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change; Field, C.B., Barros, V.R., Dokken, D.J., Mach, K.J.,
+Mastrandrea, M.D., Bilir, T.E., Chatterjee, M., Ebi, K.L., Estrada, Y.O., Genova, R.C., et al., Eds.; Cambridge
+University Press: Cambridge, UK; New York, NY, USA, 2014; pp. 709–754. Available online: http://www.ipcc.
+ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap11_FINAL.pdf (accessed on 30 July 2018).
+3.
+Horton, R.; Beaglhole, R.; Bonita, R.; Raeburn, J.; McKee, M.; Wall, S. From public to planetary health: A
+manifesto. Lancet 2014, 282, 9920. [CrossRef]
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+18 of 25
+4.
+Hoegh-Guldberg, O.; Jacob, D.; Taylor, M.; Bindi, M.; Brown, S.; Camilloni, I.; Diedhiou, A.; Djalante, R.;
+Ebi, K.; Engelbrecht, F.; et al. Chapter 3: Impacts of 1.5 ◦C global warming on natural and human systems. In
+Intergovernmental Panel on Climate Change (IPCC) Special Report on the Impacts of Global Warming of 1.5 ◦C above
+Pre-industrial Levels and Related Global Greenhouse Gas Emission Pathways, in the Context of Strengthening the
+Global Response to the Threat of Climate Change, Sustainable Development, and Efforts to Eradicate Poverty; World
+Meteorological Organization: Geneva, Switzerland, 2018.
+5.
+Watts, N.; Adger, W.N.; Agnolucci, P.; Blackstock, J.; Byass, P.; Cai, W.; Chaytor, S.; Colbourn, T.; Collins, M.;
+Cooper, A.; et al. Health and climate change: Policy responses to protect public health. Lancet 2015, 386,
+1861–1914. [CrossRef]
+6.
+Watts, N.; Amann, M.; Ayeb-Karlsson, S.; Belesova, K.; Bouley, T.; Boykoff, M.; Byass, P.; Cai, W.;
+Campbell-Lendrum, D.; Chambers, J.; et al. The Lancet Countdown on health and climate change: From 25
+years of inaction to a global transformation for public health. Lancet 2018, 391, 581–630. [CrossRef]
+7.
+United Nations Development Program (UNDP). Sustainable Development Goals.
+2018.
+Available
+online: http://www.undp.org/content/undp/en/home/sustainable-development-goals.html (accessed on
+15 July 2018).
+8.
+Luber, G.; Lemery, J. (Eds.) Climate change and health vulnerability assessments. In Global Climate Change
+and Human Health: From Science to Practice; Jossey-Bass: San Francisco, CA, USA, 2015.
+9.
+World Health Organization and Pan American Health Organization. Protecting Health from Climate
+Change: Vulnerability and Adaptation Assessment. World Health Organization, 2013. Available online:
+http://www.who.int/iris/handle/10665/104200 (accessed on 15 July 2018).
+10.
+World Health Organization (WHO). Operational Framework for Building Climate Resilient Health Systems.
+World Health Organization, 2015. Available online: http://apps.who.int/iris/bitstream/10665/189951/1/
+9789241565073_eng.pdf?ua=1 (accessed on 15 July 2018).
+11.
+Ebi, K.L.; Berry, P.; Boyer, C.; Hayes, K.; Enright, P.M.; Sellers, S.; Hess, J.J. Stress testing the capacity of
+health systems to manage climate change-related shocks and stresses. Int. J. Environ. Res. Public Health 2018,
+15, 2370. [CrossRef] [PubMed]
+12.
+World Health Organization (WHO). WHO UNFCCC Climate Health Country Proﬁle Project—Monitoring
+Health Impacts of Climate Change and Progress in Building Climate Resilient Health Systems. 2018.
+Available online: http://www.who.int/globalchange/resources/countries/en/ (accessed on 15 July 2018).
+13.
+Confalonieri, U.; Menne, B.; Akhtar, R.; Ebi, K.L.; Hauengue, M.; Kovats, R.S.; Revich, B.; Woodward, A.;
+Abeku, T.; Alam, M.; et al. Human health. In Climate Change 2007: Impacts, Adaptation and Vulnerability.
+Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change;
+Parry, M.L., Canziani, O.F., Palutikof, J.P., van der Linden, P.J., Hanson, C.E., Eds.; Cambridge University Press:
+Cambridge, UK, 2007; Available online: www.ipcc.ch/ipccreports/ar4-wg2.htm (accessed on 3 July 2018).
+14.
+Campbell-Lendrum, D.; Woodruff, R. Climate Change: Quantifying the Health Impact of Climate Change at
+National and Local Levels; World Health Organization: Geneva, Switzerland, 2007.
+15.
+United States Global Change Research Program (USGCRP). The Impacts of Climate Change on Human Health
+in the United States: A Scientific Assessment; Crimmins, A., Balbus, J., Gamble, J.L., Beard, C.B., Bell, J.E.,
+Dodgen, D., Eisen, R.J., Fann, N., Hawkins, M.D., Herring, S.C., et al., Eds.; U.S. Global Change Research
+Program: Washington, DC, USA, 2016; p. 312. Available online: http://dx.doi.org/10.7930/J0R49NQX
+(accessed on 3 July 2018).
+16.
+IPCC. Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report
+of Working Groups I and II of the Intergovernmental Panel on Climate Change; Field, C.B., Barros, V., Stocker, T.F.,
+Qin, D., Dokken, D.J., Ebi, K.L., Mastrandrea, M.D., Mach, K.J., Plattner, G.-K., Allen, S.K., et al., Eds.;
+Cambridge University Press: Cambridge, UK; New York, NY, USA, 2012; p. 582.
+17.
+Myers, S.S.; Smith, M.R.; Guth, S.; Golden, C.D.; Vaitla, B.; Mueller, N.D.; Dangour, A.D.; Huybers, P. Climate
+change and global food systems: Potential impacts on food security and undernutrition. Annu. Rev. Public
+Health 2017, 38, 259–277. [CrossRef] [PubMed]
+18.
+World Health Organization (WHO); Regional Ofﬁce for Europe. Protecting Health from Climate Change in
+Europe: 2017 Update. Copenhagen, 2017. Available online: http://www.euro.who.int/__data/assets/pdf_
+ﬁle/0004/355792/ProtectingHealthEuropeFromClimateChange.pdf (accessed on 15 July 2018).
+19.
+Ebi, K.L.; Semenza, J.C. Community-based adaptation to the health impacts of climate change. Am. J. Prev.
+Med. 2008, 35, 501–507. [CrossRef] [PubMed]
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+19 of 25
+20.
+Frumkin, H.; Hess, J.; Luber, G.; Malilay, J.; McGeehin, M. Climate change: The public health response. Am. J.
+Public Health 2008, 98, 435–445. [CrossRef] [PubMed]
+21.
+World Health Organization. WHO Guidance to Protect Health from Climate Change through Health
+Adaptation Planning. Geneva, 2014. Available online: http://apps.who.int/iris/bitstream/handle/10665/
+137383/9789241508001_eng.pdf?sequence=1&isAllowed=y (accessed on 20 July 2018).
+22.
+United Nations Framework Convention on Climate Change (UNFCCC)/Least-developed Countries Expert
+Group (LEG). The National Adaptation Plan Process. A Brief Overview. Geneva, 2012. Available online:
+http://unfccc.int/ﬁles/adaptation/application/pdf/19688_unfccc_nap_summary_low_v8.pdf (accessed
+on 20 July 2018).
+23.
+McMichael, A.J.; Haines, J.A.; Slooff, R.; Sari Kovats, R.; World Health Organization. Climate Change and
+Human Health: An Assessment. 1996. Available online: http://apps.who.int/iris/bitstream/handle/10665/
+62989/WHO?sequence=1 (accessed on 3 July 2018).
+24.
+Haines, A. Climate change and health: Strengthening the evidence base for policy. Am. J. Prev. Med. 2008, 35,
+411–413. [CrossRef] [PubMed]
+25.
+Ebi, K.L.; Otmani del Barrio, M. Lessons learned on health adaptation to climate variability and change:
+Experiences across low- and middle-income countries. Environ. Health Perspect. 2017, 125, 065001. [CrossRef]
+[PubMed]
+26.
+Balbus, J.M.; Brody, M.; Burton, I.; Campos, M.; Carson, I.; Carter, T.R.; Cohen, S.; Oude Essink, G.H.P.;
+Feenstra, J.F.; Hlohowskyj, I.; et al. Human health. In Handbook on Methods of Climate Change Impact Assessment
+and Adaptation Strategies, version 2.0.; Feenstra, J.F., Burton, I., Smith, J.B., Tol, R.S.J., Eds.; UNEP: Nairobi,
+Kenya; Institute for Environmental Studies: Amsterdam, The Netherlands, 1998.
+27.
+World Health Organization (WHO); World Meteorological Organization (WMO); Health Canada (HC);
+United Nations Environment Programme (UNEP). Methods of Assessing Human Health Vulnerability and Public
+Health Adaptation to Climate Change; World Health Organization: Copenhagen, Denmark, 2003.
+28.
+Manangan, A.P.; Uejio, C.K.; Shubhayu, S.; Schramm, P.J.; Marinucci, G.D.; Hess, J.J.; Luber, G. Assessing
+Health Vulnerability to Climate Change: A Guide for Health Departments; US Centers for Disease Control and
+Prevention: Atlanta, GA, USA, 2015. Available online: https://www.cdc.gov/climateandhealth/pubs/
+assessinghealthvulnerabilitytoclimatechange.pdf (accessed on 30 July 2018).
+29.
+Ebi, K.; Paterson, J.; Yusa, A.; Anderson, V.; Berry, P. Climate Change and Health Vulnerability Assessment
+Guidelines for the Province of Ontario; Report Developed for the Ministry of Health and Long-Term Care;
+Ministry of Health and Long-Term Care: Toronto, ON, Canada, 2016.
+30.
+Scheske, L.; Berry, P.; Shumake-Guillemot, J.; Montoya, L.F.; Verret, M. Climate Change and Health Vulnerability
+and Adaptation Assessment Workbook for Caribbean Small Island Developing States; Pan American Health
+Organization, World Health Organization, World Meteorological Organization, Health Canada: Geneva,
+Switzerland, 2018; In press.
+31.
+World Bank; World Meteorological Organization (WMO); World Health Organization (WHO). Madagascar:
+Climate Change and Health Diagnostic—Risks and Opportunities for Climate-Smart Health and Nutrition
+Investment. 2018. Available online: http://documents.worldbank.org/curated/en/936661516004441146/
+pdf/121945-12-1-2018-11-21-5-WorldBankMadagascarClimateChangeandHealthDiagnosticJan.pdf
+(accessed on 1 September 2018).
+32.
+World Health Organization. Sixty-First World Health Assembly: Resolutions and Decisions Annexes.
+Geneva (19–24 May 2008). 2008. Available online: http://apps.who.int/gb/ebwha/pdf_ﬁles/wha61-rec1/
+a61_rec1-en.pdf (accessed on 5 October 2018).
+33.
+World Health Organization. Climate Change and Health: Report by the Secretariat. Sixty-Second World
+Health Assembly—Provisional Agenda Item 12.7. Geneva (6 March 2009). 2009. Available online: http:
+//www.who.int/globalchange/A62_11_en.pdf?ua=1 (accessed on 5 October 2018).
+34.
+World Health Organization (WHO). Climate Change and Health—Health Vulnerability and Adaptation
+Assessments: Costa Rica Consultation (20–23 July 2010). 2018. Available online: http://www.who.int/
+globalchange/mediacentre/events/2010/costa_rica_consultation_200710/en/ (accessed on 15 July 2018).
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+20 of 25
+35.
+Ontario Ministry of Health and Long Term Care (MOHLTC). Protecting and Promoting the Health of
+Ontarians—Ontario Public Health Standards: Requirements for Programs, Services and Accountability. Toronto,
+2018. Available online: http://www.health.gov.on.ca/en/pro/programs/publichealth/oph_standards/docs/
+protocols_guidelines/Ontario_Public_Health_Standards_2018_en.pdf (accessed on 30 July 2018).
+36.
+Balbus, J.; Berry, P.; Brettle, M.; Jagnarine-Azan, S.; Soares, A.; Ugarte, C.; Varangu, L.; Prats, E.V. Enhancing
+the sustainability and climate resiliency of health care facilities: A comparison of initiatives and toolkits.
+Revista Panamericana de Salud Pública 2016, 40, 174–180. [PubMed]
+37.
+Canadian Coalition for Green Health Care. Climate Change Resiliency for Health Care. Available online:
+www.greenhealthcare.ca/resiliency/ (accessed on 30 July 2018).
+38.
+National Oceanic and Atmospheric Administration. U.S. Climate Resilience Toolkit. 2016. Available online:
+https://toolkit.climate.gov/topics/human-health/building-climate-resilience-health-sector (accessed on
+15 July 2018).
+39.
+Pan American Health Organization; World Health Organization.
+SMART Hospitals Toolkit.
+2016.
+Available online:
+www.paho.org/disasters/index.php?option=com_content&view=article&id=1742%
+3Asmart-hospitals-toolkit&Itemid=911&lang=en (accessed on 2 October 2018).
+40.
+Sellers, S.; Ebi, K.L. Climate change and health under the shared socioeconomic pathway framework. Int. J.
+Environ. Res. Public Health. 2017, 15, 3. [CrossRef] [PubMed]
+41.
+Warren, R.; Watkiss, P.; Wilby, R.L.; Humphrey, K.; Ranger, N.; Betts, R.; Lowe, J.; Watts, G. UK Climate
+Change Risk Assessment Evidence Report: Chapter 2, Approach and Context; Report prepared for the Adaptation
+Sub-Committee of the Committee on Climate Change; HM Government: London, UK, 2016.
+42.
+United States Global Change Research Program. (USGCRP). Available online: https://www.globalchange.
+gov/nca4 (accessed on 30 August 2018).
+43.
+United
+Kingdom
+(UK).
+UK
+Climate
+Change
+Risk
+Assessment.
+2017.
+Available
+online:
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
+ﬁle/584281/uk-climate-change-risk-assess-2017.pdf (accessed on 2 October 2018).
+44.
+World Health Organization (WHO). National Health, Vulnerability, Impact and Adaptation Assessments.
+Available
+online:
+http://www.euro.who.int/en/health-topics/environment-and-health/Climate-
+change/country-work/national-health-vulnerability,-impact-and-adaptation-assessments (accessed on
+30 October 2018).
+45.
+World Health Organization (WHO); Regional Ofﬁce for South-East Asia. Review of Climate Change and
+Health Activities in SEARO Member States: Synthesis Report. Available online: http://www.searo.who.int/
+entity/water_sanitation/review-of-cc.pdf?ua=1 (accessed on 30 October 2018).
+46.
+World Health Organization (WHO); Regional Ofﬁce for the Eastern Mediterranean. Climate Change and
+Health: Framework for Action 2017–2021. EM/RC64/4. 2017. Available online: http://applications.emro.
+who.int/docs/RC_technical_papers_2017_4_20040_en.pdf (accessed on 30 October 2018).
+47.
+Buss, D. Climate Change and Health in the Americans.
+2017.
+Available online:
+http:
+//napexpo.org/workshops/lac/wp-content/uploads/2017/09/DBuss-PAHO-WHO-UNFCCC-NAP-
+training-CRI-sept17.pdf (accessed on 30 October 2018).
+48.
+Tapko, N. Protecting Health from Climate Change: Assessment of Vulnerability and Adaptation to Change in the
+African Region; World Health Organization: Geneva, Switzerland, 2017.
+49.
+Zermoglio, F.; Steynor, A.; Jack, C. Climate Change and Health Risks in Senegal; United States Agency for
+International Development: Washington, DC, USA, 2015.
+50.
+Zermoglio, F.; Steynor, A.; Jack, C.; Pinto, I.; Ebi, K.; Allen, L.; Quinn, C.; Colborn, J. Climate Change and Health
+in Mozambique: Impacts on Diarrheal Disease and Malaria; United States Agency for International Development:
+Washington, DC, USA, 2018.
+51.
+Government of Fiji; World Bank; Global Facility for Disaster Reduction and Recovery. Fiji 2017: Climate
+Vulnerability Assessment—Making Fiji Climate Resilient; World Bank: Washington, DC, USA, 2017.
+52.
+Kovats, R.S.; Menne, B.; Ahern, M.J.; Patz, J.A. Chapter 9: National assessments of health impacts of climate
+change: A review. In Climate Change and Human Health: Risks and Responses; World Health Organization:
+Geneva, Switzerland, 2003.
+53.
+World Health Organization (WHO). Vulnerability and Adaptation Assessment in Practice: An Evaluation; World
+Health Organization: Geneva, Switzerland, 2018.
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+21 of 25
+54.
+Berry, P.; Clarke, K.; Fleury, M.D.; Parker, S. Human health. In Canada in a Changing Climate: Sector
+Perspectives on Impacts and Adaptation; Warren, F.J., Lemmen, D.S., Eds.; Government of Canada: Ottawa, ON,
+Canada, 2014.
+55.
+United States Centers for Disease Control and Prevention (US CDC). CDC’s Building Resilience against
+Climate Effects (BRACE) Framework. 2018. Available online: https://www.cdc.gov/climateandhealth/
+BRACE.htm (accessed on 30 July 2018).
+56.
+Sheehan, M.D.; Fox, M.A.; Kaye, C.; Resnick, B. Integrating health into local climate response: Lessons from
+the U.S. CDC Climate-Ready States and Cities Initiative. Environ. Health Perspect. 2017. [CrossRef] [PubMed]
+57.
+Levison, M.M.; Butler, A.J.; Rebellato, S.; Armstrong, B.; Whelan, M.; Gardner, C. Development of a climate
+change vulnerability assessment using a public health lens to determine local health vulnerabilities: An
+Ontario health unit experience. Int. J. Environ. Res. Public Health 2018, 15, 2237. [CrossRef] [PubMed]
+58.
+Spickett, J.; Brown, H.; Katscherian, D. Health Impacts of Climate Change: Adaptation Strategies for Western
+Australia. 2018. Available online: https://ww2.health.wa.gov.au/~{}/media/Files/Corporate/general%
+20documents/Environmental%20health/Climate%20change/Health-impacts-of-climate-change.pdf
+(accessed on 30 October 2018).
+59.
+Ebi, K.L.; Boyer, C.; Bowen, K.J.; Frumkin, H.; Hess, J. Monitoring and evaluation indicators for climate
+change-related health impacts, risks, adaptation, and resilience. Int. J. Environ. Res. Public Health 2018, 15,
+1943. [CrossRef] [PubMed]
+60.
+Schnitter, R.; Verret, M.; Berry, P.; Fook, T.C.T.; Lal, A.; Hales, S.; Edwards, S. An assessment of climate change
+and health vulnerability and adaptation in Dominica. Int. J. Environ. Res. Public Health 2018. submitted.
+61.
+WHO. Launch of Special Initiative to Address Climate Change Impact on Health in Small Island Developing
+States.
+2017.
+Available online:
+http://www.who.int/en/news-room/detail/12-11-2017-launch-of-
+special-initiative-to-address-climate-change-impact-on-health-in-small-island-developing-states (accessed
+on 30 July 2018).
+62.
+Hayes, K.; Poland, B. Addressing mental health in a changing climate: Incorporating mental health indicators
+into climate change and health vulnerability and adaptation assessments. Int. J. Environ. Res. Public Health
+2018, 15, 1806. [CrossRef] [PubMed]
+63.
+Hess, J.J.; McDowell, J.Z.; Luber, G. Integrating climate change adaptation into public health practice: Using
+adaptive management to increase adaptive capacity and build resilience. Environ. Health Perspect. 2012, 120,
+171–179. [CrossRef] [PubMed]
+64.
+Albania Ministry of Health. Protecting Health from Climate Change in Albania: A Vulnerability Assessment;
+Ministry of Health: Tirana, Albania, n.d. Available online: http://www.seeclimateforum.org/upload/
+document/protecting_from_change.pdf (accessed on 30 October 2018).
+65.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Algeria. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246137/WHO-FWC-PHE-EPE-15.32-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+66.
+Mani, M.; Wang, L. Climate Change and Health Impacts: How Vulnerable is Bangladesh and What Needs to be Done?
+International Bank for Reconstruction and Development; The World Bank Group: Washington, DC, USA, 2014;
+Available online: https://openknowledge.worldbank.org/handle/10986/21820 (accessed on 30 October
+2018).
+67.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Bangladesh.
+Available online: http://apps.who.int/iris/bitstream/handle/10665/208856/WHO_FWC_PHE_EPE_15.
+02_eng.pdf?sequence=1 (accessed on 30 October 2018).
+68.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Bhutan. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246124/WHO-FWC-PHE-EPE-15.17-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+69.
+Effen, M.A.; Pardo, I.A.; Aparicio, J.; Mollinedo, R.; Cuellar, C.; Santa Cruz, W. Bolivia Pilot Assessment;
+Ministry of Health:
+La Paz, Bolivia, 2010.
+Available online:
+http://www.who.int/globalchange/
+mediacentre/events/2010/costa_rica_consultation_200710/bolivia_va_Presentation.pdf
+(accessed
+on
+30 October 2018).
+70.
+Confalonieri, U.E.C.; Marinho, D.P.; Rodriguez, R.E. Public health vulnerability to climate change in Brazil.
+Climate Res. 2009, 40, 175–186. Available online: https://www.int-res.com/articles/cr_oa/c040p175.pdf
+(accessed on 30 October 2018).
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+22 of 25
+71.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Brazil. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208857/WHO_FWC_PHE_EPE_15.03_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+72.
+Department of Preventative Medicine, Ministry of Health. Climate Change and Health in Cambodia: A
+Vulnerability and Adaptation Assessment; Ministry of Health: Phnom Penh, Cambodia, 2010. Available
+online: http://www.who.int/globalchange/mediacentre/events/2010/costa_rica_consultation_200710/
+CAMBODIA_va.pdf?ua=1 (accessed on 30 October 2018).
+73.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Cambodia. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/250824/WHO-FWC-PHE-EPE-15.47-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+74.
+World Health Organization Regional Office for the Western Pacific. Human Health and Climate Change in Pacific
+Island Countries; World Health Organization: Geneva, Switzerland, 2015; Available online: http://iris.wpro.
+who.int/bitstream/handle/10665.1/12399/9789290617303_eng.pdf (accessed on 30 October 2018).
+75.
+Navarro, L.L. Evaluación de Vulnerabilidad y Adaptación de la Salud al Cambio Climático en Costa Rica; Ministerio de
+Salud: San José, Costa Rica, 2010; Available online: http://www.who.int/globalchange/mediacentre/events/
+2010/costa_rica_consultation_200710/costa_rica_va_Presentation.pdf?ua=1 (accessed on 30 October 2018).
+76.
+Deressa, W.; Simane, B.; Kumie, A.; Woyessa, A.; Kaba, M.; Taye, G.; Berhane, G. Vulnerability and
+Adaptation Assessment of Health to Climate Change in Ethiopia; Ministry of Health: Addis Ababa, Ethiopia,
+2015. Available online: http://www.who.int/globalchange/resources/wash-toolkit/vulnerability-and-
+adaptation-assessment-of-health-to-climate-change-in-ethiopia.pdf (accessed on 30 October 2018).
+77.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Ethiopia. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208861/WHO_FWC_PHE_EPE_15.07_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+78.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Fiji. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246138/WHO-FWC-PHE-EPE-15.35-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+79.
+Pascal, M. Health Impacts of Climate Change in France—What are the Challenges for the French Institute for Public
+Health Surveillance (InVS)? French Institute for Public Health Surveillance: Saint-Maurice, France, 2010;
+Available online: http://invs.santepubliquefrance.fr/publications/2010/impact_sanitaire_changement_
+climatique/impact_sanitaire_changement_climatique_rapport_uk.pdf (accessed on 30 October 2018).
+80.
+Eis, D.; Helm, D.; Laußmann, D.; Stark, K. Klimawandel und Gesundheit Ein Sachstandsbericht; Robert
+Koch-Institut:
+Berlin,
+Deutschland,
+2010;
+Available online:
+https://www.rki.de/DE/Content/
+Gesund/Umwelteinﬂuesse/Klimawandel/Klimawandel-Gesundheit-Sachstandsbericht.pdf?__blob=
+publicationFile (accessed on 30 October 2018).
+81.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Germany. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246122/WHO-FWC-PHE-EPE-15.19-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+82.
+Asante, F.; Bawakyillenuo, S. Assessment of Existing Relevant Climate, Health, Poverty and Vulnerability
+Information;
+Report prepared for the Republic of Ghana Ministry of Health;
+United Nations
+Development Programme;
+The Global Environmental Facility:
+Accra, Ghana;
+Available online:
+http://www.gh.undp.org/content/dam/ghana/docs/Doc/Susdev/UNDP_GH_SUSDEV_CCH_
+Assessment%20of%20Existing%20Climate%20Chnage_Health_Poverty_Vulnerability%20Infor....pdf
+(accessed on 30 October 2018).
+83.
+Climate Change Impacts Study Committee. The Environmental, Economic and Social Impacts of Climate Change in
+Greece; Bank of Greece: Athens, Greece, 2011; Available online: https://www.bankofgreece.gr/BogEkdoseis/
+ClimateChange_FullReport_bm.pdf (accessed on 30 October 2018).
+84.
+Pochanke-Alff, A.; Meincke, M.; Scheske, L.; Wuttge, E. (Eds.) Grenada Climate Change and Health Vulnerability
+and Adaptation Assessment; Deutsche Gesellschaft für Internationale Zusammenarbeit: Bonn, Germany, 2015;
+Available online: http://www.iccas.gd/sites/default/ﬁles/resources/VA%20Grenada_Formatted_GIZ_
+FinalApril.pdf (accessed on 30 October 2018).
+85.
+Faragó, T.; Láng, I.; Csete, L. Climate Change and Hungary: Mitigating the Hazard and Preparing for the
+Impacts—The “Vahava” Report; Hungarian Academy of Sciences: Budapest, Hungary, 2010; Available online:
+https://www.unisdr.org/ﬁles/18582_thevahavareport08dec2010.pdf (accessed on 30 October 2018).
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+23 of 25
+86.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Indonesia. Available
+online: http://www.who.int/globalchange/resources/country-proﬁles/PHE-country-proﬁle-Indonesia.
+pdf?ua=1 (accessed on 30 October 2018).
+87.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Iran. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246125/WHO-FWC-PHE-EPE-15.21-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+88.
+Green, M.S.; Pri-or, N.G.; Capeluto, G.; Epstein, Y.; Paz, S. Climate change and health in Israel: Adaptation
+policies for extreme weather events. Isr. J. Health Policy Res. 2013, 2, 11. Available online: https://ijhpr.
+biomedcentral.com/track/pdf/10.1186/2045-4015-2-23 (accessed on 30 October 2018). [CrossRef] [PubMed]
+89.
+Wolf, T.; Menne, B. Environment and Health Risks from Climate Change and Variability in Italy; World Health
+Organization Regional Ofﬁce for Europe: Copenhagen, Denmark, 2007; Available online: http://www.euro.
+who.int/__data/assets/pdf_ﬁle/0007/95920/E90707.pdf?ua=1 (accessed on 30 October 2018).
+90.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Italy. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/260380/WHO-FWC-PHE-EPE-15.52-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+91.
+Ministry of Health. National Climate Change Adaptation Strategy and Action Plan of Jordan; Ministry of Health:
+Amman, Jordan, 2012. Available online: http://www.moh.gov.jo/EchoBusV3.0/SystemAssets/PDFs/
+PDFs%20AR/Strategies_AR/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%
+AC%D9%8A%D8%A9%20%D9%88%D8%AE%D8%B7%D8%A9%20%D8%B9%D9%85%D9%84%20%D8%
+AA%D9%83%D9%8A%D9%81%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%20%D8%A7%
+D9%84%D8%B5%D8%AD%D9%8A.pdf (accessed on 30 October 2018).
+92.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Jordan. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246132/WHO-FWC-PHE-EPE-15.22-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+93.
+Ministry of Public Health and Sanitation and Ministry of Environment and Mineral Resources. Report on
+Kenya Country Situation Analysis and Needs Assessment for the Preparation of National Plans of Joint Action
+for Implementation of the Libreville Declaration on Health and Environment in Africa; Government of Kenya:
+Nairobi, Kenya, 2009. Available online: http://www.healthyfutures.eu/images/healthy/deliverables/
+D5.1/Kenya/kenya%20assessment%20for%20the%20preparation%20of%20national%20plans%20of%
+20joint%20action%20for%20implementation%20of%20libreville%20declaration%202009.pdf (accessed on
+30 October 2018).
+94.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Kenya. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246133/WHO-FWC-PHE-EPE-15.23-eng.pdf;
+jsessionid=721161A16C2B7AF584FFB37E86241184?sequence=1 (accessed on 30 October 2018).
+95.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Kiribati. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/260411/WHO-FWC-PHE-EPE-15.51-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+96.
+World Health Organization Regional Ofﬁce for the Western Paciﬁc. Climate Change and Health in the
+Western Paciﬁc Region; World Health Organization: Geneva, Switzerland, 2015; Available online: http:
+//www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjnm8328uXeAhVNm-
+AKHe1jBqwQFjABegQIDBAC&url=http%3A%2F%2Firis.wpro.who.int%2Fbitstream%2Fhandle%
+2F10665.1%2F12401%2F9789290617372_eng.pdf&usg=AOvVaw212Ge6py4KpDCAhDr0DfeF (accessed on
+30 October 2018).
+97.
+Kendrovski, V. Vulnerability Assessment and Adaptation Strategy Development in Health Sector due to Climate
+Change in the Republic of Macedonia; Institute for Public Health of the Republic of Macedonia: Skopje,
+Macedonia, 2010; Available online: http://www.who.int/globalchange/mediacentre/events/2010/costa_
+rica_consultation_200710/macedonia_va_Presentation.pdf?ua=1 (accessed on 30 October 2018).
+98.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Madagascar.
+Available online: http://apps.who.int/iris/bitstream/handle/10665/246140/WHO-FWC-PHE-EPE-15.
+40-eng.pdf?sequence=1 (accessed on 30 October 2018).
+99.
+World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Malaysia. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208863/WHO_FWC_PHE_EPE_15.09_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+24 of 25
+100. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Maldives. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246134/WHO-FWC-PHE-EPE-15.25-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+101. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Mexico. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246116/WHO-FWC-PHE-EPE-15.26-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+102. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Morocco. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208864/WHO_FWC_PHE_EPE_15.10_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+103. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Nepal. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246135/WHO-FWC-PHE-EPE-15.27-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+104. Royal Society Te Ap¯arangi.
+Human Health Impacts of Climate Change for New Zealand; Royal Society
+Te Ap¯arangi: Wellington, New Zealand, 2017; Available online: https://royalsociety.org.nz/assets/
+documents/Report-Human-Health-Impacts-of-Climate-Change-for-New-Zealand-Oct-2017.pdf (accessed
+on 30 October 2018).
+105. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Nigeria. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208865/WHO_FWC_PHE_EPE_15.11_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+106. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Oman. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208866/WHO_FWC_PHE_EPE_15.12_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+107. Cruz, R.V.O.; Aliño, P.M.; Cabrera, O.C.; David, C.P.; David, L.T.; Lansigan, F.P.; Lasco, R.D.; Licuanan, W.R.Y.;
+Lorenzo, F.M.; Mamauag, S.S.; et al. Philippine Climate Change Assessment: Impacts, Vulnerabilities and
+Adaptation; The Oscar M. Lopez Center for Climate Change Adaptation and Disaster Risk Management
+Foundation, Inc. and Climate Change Commission: Pasig, Philippines, 2017. Available online: http:
+//climate.gov.ph/images/knowledge/PhilCCA-WG2.pdf (accessed on 30 October 2018).
+108. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Philippines.
+Available online: http://apps.who.int/iris/bitstream/handle/10665/208868/WHO_FWC_PHE_EPE_15.
+14_eng.pdf?sequence=1 (accessed on 30 October 2018).
+109. Diaz, J.; Ballester, F.; López-Vélez, R. Chapter 16—Impacts on Human Health. In A Preliminary Assessment
+of the Impacts in Spain due to the Effects of Climate Change; Rodriguez, J.M.M., Ed.; Ministry of Environment:
+Madrid, Spain, 2005; Available online: https://www.miteco.gob.es/es/cambio-climatico/temas/impactos-
+vulnerabilidad-y-adaptacion/16_Impacts%20on%20human%20health_ing_tcm30-178530.pdf (accessed on
+30 October 2018).
+110. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Sri Lanka. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246141/WHO-FWC-PHE-EPE-15.45-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+111. Vöhringer, F.; Vielle, M.; Thurm, B.; Knoke, W.; Stocker, D.; Frehner, A.; Maire, S.; Thalmann, P. Assessing the
+Impacts of Climate Change for Switzerland; Report Prepared for the Federal Ofﬁce for the Environment; The
+Federal Ofﬁce for the Environment: Bern, Switzerland, 2017; Available online: https://infoscience.epﬂ.ch/
+record/252804/ﬁles/EPFL_-_Assessing_the_impacts_of_climate_change_for_Switzerland.pdf (accessed
+on 30 October 2018).
+112. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Thailand. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/208870/WHO_FWC_PHE_EPE_15.16_eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+113. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Timor-Leste.
+Available online: http://apps.who.int/iris/bitstream/handle/10665/246119/WHO-FWC-PHE-EPE-15.
+29-eng.pdf?sequence=1 (accessed on 30 October 2018).
+114. Raja, M. Health Impact Assessment Tunisia; Ministry of Public Health, Department of Hygiene and
+Environmental Protection: Tunis, Tunisia, 2010. Available online: http://www.who.int/globalchange/
+mediacentre/events/2010/costa_rica_consultation_200710/tunisia_va_Presentation.pdf?ua=1 (accessed
+on 30 October 2018).
+Int. J. Environ. Res. Public Health 2018, 15, 2626
+25 of 25
+115. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Tunisia. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246121/WHO-FWC-PHE-EPE-15.46-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+116. Zinser, K. An Overview of Climate Change and Health in Uganda; United States Agency for International
+Development: Washington, DC, USA, 2014. Available online: https://www.climatelinks.org/sites/default/
+ﬁles/asset/document/Uganda%2520CC%2520and%2520Health%2520Overview_CLEARED.pdf (accessed
+on 30 October 2018).
+117. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Uganda. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/246136/WHO-FWC-PHE-EPE-15.30-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+118. Kovats, R.; Osborn, D.; Humphrey, K.; Thompson, D.; Johns, D.; Ayres, J.; Bates, P.; Baylis, M.; Bell, S.;
+Church, A.; et al. UK Climate Change Risk Assessment Evidence Report:
+Chapter 5, People and the Built
+Environment; Adaptation Sub-Committee of the Committee on Climate Change: London, UK, 2016; Available
+online: https://www.theccc.org.uk/tackling-climate-change/preparing-for-climate-change/uk-climate-change-
+risk-assessment-2017/ccra-chapters/people-and-the-built-environment/ (accessed on 30 October 2018).
+119. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 United Kingdom.
+Available online: http://apps.who.int/iris/bitstream/handle/10665/246120/WHO-FWC-PHE-EPE-15.
+31-eng.pdf?sequence=1 (accessed on 30 October 2018).
+120. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 United Republic
+of Tanzania. Available online: http://apps.who.int/iris/bitstream/handle/10665/208869/WHO_FWC_
+PHE_EPE_15.15_eng.pdf?sequence=1 (accessed on 30 October 2018).
+121. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 United States of
+America. Available online: http://apps.who.int/iris/bitstream/handle/10665/254647/WHO-FWC-PHE-
+EPE-15.49-eng.pdf?sequence=1 (accessed on 30 October 2018).
+122. World Health Organization (WHO). Climate Change and Health Country Proﬁle—2015 Vanuatu. Available
+online: http://apps.who.int/iris/bitstream/handle/10665/260416/WHO-FWC-PHE-EPE-15.53-eng.pdf?
+sequence=1 (accessed on 30 October 2018).
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

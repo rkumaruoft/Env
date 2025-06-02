@@ -1,0 +1,1846 @@
+R E V I E W
+Climate variability and vulnerability to climate change: a
+review
+P H I L I P K . T H O R N T O N 1 , P O L L Y J . E R I C K S E N 2 , M A R I O H E R R E R O 3 and
+ANDREW J. CHALLINOR 4
+1CGIAR Research Programme on Climate Change, Agriculture and Food Security (CCAFS), ILRI, PO Box 30709, Nairobi 00100,
+Kenya, 2International Livestock Research Institute (ILRI), PO Box 30709, Nairobi, Kenya, 3Commonwealth Scientiﬁc and
+Industrial Research Organisation, 306 Carmody Road, St Lucia, Queensland 4067, Australia, 4School of Earth and Environment,
+The University of Leeds, Leeds LS2 9AT, UK
+Abstract
+The focus of the great majority of climate change impact studies is on changes in mean climate. In terms of climate
+model output, these changes are more robust than changes in climate variability. By concentrating on changes in cli-
+mate means, the full impacts of climate change on biological and human systems are probably being seriously under-
+estimated. Here, we brieﬂy review the possible impacts of changes in climate variability and the frequency of
+extreme events on biological and food systems, with a focus on the developing world. We present new analysis that
+tentatively links increases in climate variability with increasing food insecurity in the future. We consider the ways in
+which people deal with climate variability and extremes and how they may adapt in the future. Key knowledge and
+data gaps are highlighted. These include the timing and interactions of different climatic stresses on plant growth
+and development, particularly at higher temperatures, and the impacts on crops, livestock and farming systems of
+changes in climate variability and extreme events on pest-weed-disease complexes. We highlight the need to reframe
+research questions in such a way that they can provide decision makers throughout the food system with actionable
+answers, and the need for investment in climate and environmental monitoring. Improved understanding of the full
+range of impacts of climate change on biological and food systems is a critical step in being able to address effectively
+the effects of climate variability and extreme events on human vulnerability and food security, particularly in agricul-
+turally based developing countries facing the challenge of having to feed rapidly growing populations in the coming
+decades.
+Keywords: agriculture, climate variability, development, food system, poverty, uncertainty, vulnerability
+Received 4 July 2013 and accepted 14 March 2014
+Introduction
+Climate change has many elements, affecting biological
+and human systems in different ways. The considerable
+spatial heterogeneity of climate change impacts has
+been
+widely
+studied;
+global
+average
+temperature
+increases mask considerable differences in temperature
+rise between land and sea and between high latitudes
+and low; precipitation increases are very likely in high
+latitudes, while decreases are likely in most of the tro-
+pics and subtropical land regions (IPCC, 2007). It is
+widely projected that as the planet warms, climate and
+weather variability will increase. Changes in the fre-
+quency and severity of extreme climate events and in the
+variability of weather patterns will have signiﬁcant con-
+sequences for human and natural systems. Increasing
+frequencies of heat stress, drought and ﬂooding events
+are projected for the rest of this century, and these are
+expected to have many adverse effects over and above
+the impacts due to changes in mean variables alone
+(IPCC, 2012).
+In this review, we consider the possible impacts of
+changes in climate variability on biological and food
+systems, with a focus on the tropical and subtropical
+developing world, where the deleterious impacts of
+anthropogenic climate change are generally projected
+to be greatest. These less developed regions of the
+world already face an enormous food security chal-
+lenge,
+with
+human
+populations
+rising
+unabated
+throughout the present century (UNDESA, 2013). We
+start with a short consideration of the global impor-
+tance and costs of climate variability and extreme
+events. We then brieﬂy review some of the major
+impacts of climate variability and extremes on biologi-
+cal and agricultural systems at a range of scales, and on
+Correspondence: P. K. Thornton, tel. +44 131 667 1960, fax +44 131
+667 4749, e-mail: p.thornton@cgiar.org
+3313
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+Global Change Biology (2014) 20, 3313–3328, doi: 10.1111/gcb.12581
+Global Change Biology
+human health and nutrition. We then present some
+new analysis that seeks to link increases in climate vari-
+ability with increasing food insecurity in the future,
+before considering the ways in which people deal with
+climate variability and extremes and how they may
+adapt in the coming decades. We conclude with a dis-
+cussion of research gaps in relation to both the biophys-
+ical and the socioeconomic arenas and what needs to be
+done to better understand the impacts of climate vari-
+ability on human vulnerability and food security, ulti-
+mately to increase the capacity of farmers in the tropics
+and subtropics to address climate variability and
+extreme events.
+Climate change, climate variability and extreme
+events
+Climate change is inevitably resulting in changes in cli-
+mate variability and in the frequency, intensity, spatial
+extent, duration, and timing of extreme weather and
+climate events (IPCC, 2012). Changes in climate vari-
+ability and extremes can be visualized in relation to
+changes in probability distributions, shown in Fig. 1
+(IPCC, 2012). The top panel shows a shift of the entire
+distribution towards a warmer climate (a change in the
+mean), a situation in which more hot (and record hot)
+weather would be expected, along with less cold (and
+record cold) weather. The middle panel shows a change
+in the probability distribution of temperature that pre-
+serves the mean value, but involves an increase in the
+variance of the distribution: on average, the tempera-
+ture is the same, but in the future, there would be more
+hot and cold (and record hot and cold) weather. The
+bottom panel shows the situation in which the tempera-
+ture probability distribution preserves its mean, but the
+variability evolves through a change in asymmetry
+towards the hotter part of the distribution; here, we
+would
+see
+near
+constant
+cold
+(and
+record
+cold)
+weather, but increases in hot (and record hot weather).
+Climate variability already has substantial impacts
+on biological systems and on the smallholders, commu-
+nities and countries which depend on them. The impor-
+tance of rainfall variability at the national level, for
+example, is illustrated in Fig. 2, which shows the rela-
+tionship
+between
+annual
+rainfall
+variability
+and
+changes in the gross domestic product and agricultural
+gross domestic product for three countries of sub-Saha-
+ran Africa. In Fig. 2, interannual rainfall variability is
+expressed as the 12-month Weighted Anomaly of
+Standardized Precipitation (WASP), calculated from
+overlapping multimonth sums of standardized precipi-
+tation anomalies weighted according to the fraction of
+mean annual precipitation at the given time of year
+(from the data library of the International Research
+Institute for Climate and Society, iridl.ldeo.colum-
+bia.edu). This kind of close relationship is likely to be
+found for many tropical countries that depend heavily
+on agriculture as an engine for economic development.
+Changes in extremes have been observed since 1950,
+and there is evidence that some of these changes are a
+result of anthropogenic inﬂuences, although attribution
+of single extreme events to these inﬂuences remains
+challenging (IPCC, 2012). Global aridity has increased
+substantially since the 1970s due to recent drying over
+Africa, southern Europe, East and South Asia, and
+co
+ShiŌed mean
+Probability of occurrence
+(a)
+Previous climate
+Future climate
+Less cold
+weather
+Less record cold
+weather
+More hot
+weather
+More
+record hot
+weather
+co
+Increased variability
+Probability of occurrence
+(b)
+More cold
+weather
+More record
+cold weather
+More hot
+weather
+More
+record hot
+weather
+co
+Changed shape
+Probability of occurrence
+(c)
+Near constant
+cold weather
+Near constant
+record cold
+weather
+More hot
+weather
+More
+record hot
+weather
+Fig. 1 The effect of changes in temperature distribution on
+extremes.
+Different
+changes
+of
+temperature
+distributions
+between present and future climate and their effects on extreme
+values of the distributions: (a) Effects of a simple shift of the
+entire distribution towards a warmer climate; (b) effects of an
+increase in temperature variability with no shift of the mean; (c)
+effects of an altered shape of the distribution, in this example a
+change in asymmetry towards the hotter part of the distribution.
+From IPCC (2012).
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3314
+P. K. THORNTON et al.
+(a)
+(b)
+(c)
+Fig. 2 The relationship between rainfall variability expressed as the 12-month Weighted Anomaly of Standardized Precipitation
+(WASP) and growth in GDP and agricultural GDP in three countries in sub-Saharan Africa: (a) Ethiopia, (b) Niger, (c) Mozambique.
+Data sources: World Bank, data.worldbank.org/indicator and the IRI data library, iridl.ldeo.columbia.edu/.
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3315
+eastern Australia – the percentage of global land
+(between 60°S and 75°N) deﬁned as dry areas has
+increased from 17% in the 1950s to about 27% in the
+2000s (Dai, 2011). There is considerable uncertainty
+regarding projected changes in extremes to the end of
+the current century, and conﬁdence in projecting
+changes in the direction and magnitude of climate
+extremes is generally low, although as the IPCC (2012)
+points out, low conﬁdence in projections of changes in
+extremes does not mean that such changes are necessar-
+ily unlikely. Similarly, given current limits of under-
+standing of the underlying processes regarding climate
+in many regions, it may be that low-probability, high-
+impact changes in extremes will occur. A partial
+summary of observed changes in some extremes, their
+attribution and their future projection, is shown in
+Table 1, extracted from table 3.1 in IPCC (2012).
+A summary analysis of the numbers of people
+affected by environmentally related disasters is given
+in Raleigh & Jordan (2010) based on data compiled by
+the Centre for Research on the Epidemiology of Disas-
+ters (CRED, 2008). A disaster is entered into the CRED
+database if at least one of the following criteria is ful-
+ﬁlled: 10 or more people reported killed, 100 or more
+people reported affected, a declaration of a state of
+emergency and a call issued for international assis-
+tance. An aggregated summary of these data is shown
+in Table 2. Chronic environmental hazards such as
+drought are not the most common, but they do affect
+the most people, with impacts on an average across all
+years of 10 per cent of a country’s population (in low-
+income states, this increases to 13 per cent of a coun-
+try’s population). Raleigh & Jordan (2010) note that
+only in the case of drought is a signiﬁcant proportion of
+a state affected. Floods tend to be more localized (for
+obvious reasons), but may still affect millions of people.
+The total number of disaster events in each region since
+1970 is particularly noteworthy; and since 2000, the
+average number of events per year is running at more
+than 380 (Raleigh & Jordan, 2010).
+There is a considerable literature on the economic
+costs of climate variability and extremes. Globally,
+annual damage from large weather and climate events
+increased eightfold between the 1960s and the 1990s;
+between 1980 and 2004, the costs of extreme weather
+events amounted to US 1.4 trillion (Mills, 2005). Since
+1980, annual costs have ranged from a few US billion to
+above US $200 billion (in 2010 dollars) for 2005, the year
+of Hurricane Katrina (IPCC, 2012). While there is con-
+siderable regional variation, the relative economic bur-
+den of climate extremes as a proportion of GDP is
+substantially higher in developing countries than it is
+in developed countries – up to 8% in the most extreme
+cases. A strong upward trend in overall losses due to
+climate extremes is indicated since 1980 (Munich Re,
+2011), although how these will play out during the
+course of the current century is highly uncertain; and
+as yet, there is no evidence to link this trend to anthro-
+pogenic climate change (Bouwer, 2011). Extreme events
+may have considerable impacts on sectors that have
+close links with climate, such as water, agriculture and
+food security, forestry, health, and tourism, and con-
+comitantly in countries whose economies depend more
+heavily on such sectors (IPCC, 2012).
+Impacts of climate variability and extremes
+Biological systems
+Warmer climates will generally accelerate the growth
+and development of plants, but overly cool or hot
+weather will also affect productivity. Earlier ﬂowering
+and maturity of several crops have been documented in
+recent decades, often associated with higher tempera-
+tures (Craufurd & Wheeler, 2009). Increases in maxi-
+mum temperatures (as climate or weather) can lead to
+severe yield reductions and reproductive failure in
+many crops. In maize, each degree day spent above
+30 °C can reduce yield by 1.7% under drought condi-
+tions (Lobell et al., 2011). Impacts of temperature
+extremes may also be felt at night, with rice yields
+reduced by 90% with night temperatures of 32 com-
+pared with 27 °C (Mohammed & Tarpley, 2009). In con-
+trast to the effects of temperature and photoperiod at
+optimum
+and
+suboptimum
+temperatures,
+crop
+response to temperature and photoperiod at supraopti-
+mal temperatures is not well understood (Craufurd &
+Wheeler, 2009).
+Climate variability and extreme events can also be
+important for yield quality. Protein content of wheat
+grain has been shown to respond to changes in the
+mean and variability of temperature and rainfall (Porter
+&
+Semenov,
+2005);
+speciﬁcally,
+high-temperature
+extremes during grain ﬁlling can affect the protein con-
+tent of wheat grain (Hurkman et al., 2009).
+At aggregated level as well as at the plot level, rain-
+fall variability is a principal cause of interannual yield
+variability. For example, Hlavinka et al. (2009) found a
+statistically signiﬁcant correlation between a monthly
+drought index and district-level yields in the Czech
+Republic for several winter- and spring-sown crops,
+each of which has a different sensitivity to drought.
+Both intra- and interseasonal changes in temperature
+and precipitation have been shown to inﬂuence cereal
+yields in Tanzania (Rowhani et al., 2011). The increases
+in rainfall variability expected in the future will have
+substantial impacts on primary productivity and on the
+ecosystem provisioning services provided by forests
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3316
+P. K. THORNTON et al.
+Table 1
+Summary of observed and projected changes of ﬁve extremes at a global scale (taken from table 3.1 in IPCC, 2012)
+Variable/
+phenomenon
+Observed changes since 1950
+Attribution of observed changes
+Projected changes up to 2100
+Temperature
+Very likely* decrease in number of unusually cold
+days and nights. Very likely increase in number of
+unusually warm days and nights. Medium
+conﬁdence in increase in length or number of
+warm spells or heat waves in many regions. Low
+or medium conﬁdence in trends in temperature
+extremes in some subregions due either to lack of
+observations or varying signal within subregions.
+Likely anthropogenic inﬂuence on trends in
+warm/cold days/nights globally. No
+attribution of trends at a regional scale with a
+few exceptions.
+Virtually certain decrease in frequency and
+magnitude of unusually cold days and nights.
+Virtually certain increase in frequency and
+magnitude of unusually warm days and nights.
+Very likely increase in length, frequency, and/
+or intensity of warm spells or heat waves over
+most land area.
+Precipitation
+Likely statistically signiﬁcant increases in the
+number of heavy precipitation events in more
+regions than those with statistically signiﬁcant
+decreases, but strong regional and subregional
+variations in the trends.
+Medium conﬁdence that anthropogenic
+inﬂuences have contributed to intensiﬁcation of
+extreme precipitation at the global scale
+Likely increase in frequency of heavy
+precipitation events or increase in proportion of
+total rainfall from heavy falls over many areas
+of the globe, in particular in the high latitudes
+and tropical regions, and in winter in the
+northern midlatitudes.
+El Ni~no and
+other modes of
+variability
+Medium conﬁdence in past trends towards more
+frequent central equatorial Paciﬁc El Ni~no-
+Southern Oscillation (ENSO) events. Insufﬁcient
+evidence for more speciﬁc statements on ENSO
+trends.
+Anthropogenic inﬂuence on trends in North
+Atlantic Oscillation (NAO) is about as likely as
+not. No attribution of changes in ENSO.
+Low conﬁdence in projections of changes in
+behaviour of ENSO and other modes of
+variability because of insufﬁcient agreement of
+model projections.
+Droughts
+Medium conﬁdence that some regions of the world
+have experienced more intense and longer
+droughts, in particular in southern Europe and
+West Africa, but opposite trends also exist.
+Medium conﬁdence that anthropogenic inﬂuence
+has contributed to some observed changes in
+drought patterns. Low conﬁdence in attribution
+of changes in drought at the level of single
+regions due to inconsistent or insufﬁcient
+evidence.
+Medium conﬁdence in projected increase in
+duration and intensity of droughts in some
+regions of the world, including southern
+Europe and the Mediterranean region, central
+Europe, central North America, Central
+America and Mexico, northeast Brazil and
+southern Africa. Overall low conﬁdence
+elsewhere because of insufﬁcient agreement of
+projections.
+Floods
+Limited to medium evidence available to assess
+climate-driven observed changes in the magnitude
+and frequency of ﬂoods at regional scale. There is
+low agreement in this evidence, and so low
+conﬁdence at the global scale regarding even the
+sign of these changes. High conﬁdence in trend
+towards earlier occurrence of spring peak river
+ﬂows in snow melt- and glacier-fed rivers.
+Low conﬁdence that anthropogenic warming has
+affected the magnitude or frequency of ﬂoods.
+Medium to high conﬁdence in anthropogenic
+inﬂuence on changes in some components of
+the water cycle (precipitation, snow melt)
+affecting ﬂoods.
+Low conﬁdence in global projections of changes
+in ﬂood magnitude and frequency because of
+insufﬁcient evidence. Medium conﬁdence that
+projected increases in heavy precipitation
+would contribute to rain-generated local
+ﬂooding in some catchments or regions. Very
+likely earlier spring peak ﬂows in snow melt-
+and glacier-fed rivers.
+*Likelihood assessment: virtually certain, 99–100%; very likely, 90–100%; likely, 66–100%; more likely than not, 50–100%; about as likely as not, 33–66%; unlikely, 0–33%; very
+unlikely, 0–10%; and exceptionally unlikely, 0–1%.
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3317
+and agroforestry systems. Despite the uncertainty sur-
+rounding the precise changes, climate variability needs
+to be taken into account. For example, the impacts of
+climate change to the middle of this century on crop
+yields in parts of East Africa may be underestimated by
+between 4% and 27%, depending on the crop, if only
+changes in climatic means are taken into account and
+climate variability is ignored (Rowhani et al., 2011).
+Changes in temperature and rainfall patterns and
+amounts will combine to bring about shifts in the onset
+and length of growing seasons in the future. Projected
+changes in length of the growing period for Africa to
+the 2090s were estimated by Thornton et al. (2011) for
+an ensemble of 14 GCMs. A large proportion of the
+cropping and rangeland area of sub-Saharan Africa is
+projected to see a decrease in growing season length,
+and most of Africa in the southern latitudes may see
+losses of at least 20 per cent. At the same time, the prob-
+ability of season failure is projected to increase for all of
+sub-Saharan Africa, except for central Africa; in south-
+ern Africa, nearly all rain-fed agriculture below latitude
+15°S is likely to fail one year out of two (Thornton et al.,
+2011). The robustness of these estimates, in terms of in-
+tramodel variability, is particularly low in the Sahel
+region and in parts of south-western Africa, however
+(Thornton et al., 2011). In terms of timing of growing
+season onset, Crespo et al. (2011) demonstrate that it
+may be possible to adapt to projected climate shifts to
+at least the 2050s in maize production systems in parts
+of southern Africa by changing planting dates.
+In situations where changes in climate and climate
+variability may be larger, more fundamental changes
+may occur, particularly if critical thresholds in tempera-
+ture and/or rainfall are reached (Gornall et al., 2010).
+Changes in the nature and timing of the growing sea-
+son may induce smallholders to grow shorter duration
+and/or more heat- and drought-tolerant varieties and
+crops, for example.
+Most domesticated livestock species have comfort
+zones between 10 and 30 °C; at temperatures below
+this, maintenance requirements for food may increase
+by up to 50%, and at temperatures above this, animals
+reduce their feed intake 3–5% per additional degree of
+temperature (NRC, 1981). In many livestock systems,
+changes in temperature and rainfall and rainfall vari-
+ability affect feed quantity most directly. Droughts and
+extreme rainfall variability can trigger periods of severe
+feed scarcity, especially in dryland areas, which can
+have devastating effects on livestock populations. In
+the recent past, the pastoral lands of East Africa have
+experienced droughts about one year in ﬁve, and even
+under these conditions it is generally possible to main-
+tain relatively constant cattle herd sizes, but increases
+in drought frequency from one year in ﬁve to one year
+in three would set herd sizes on a rapid and unrecover-
+able decline (Thornton & Herrero, 2009). In Kenya,
+some 1.8 million extra cattle could be lost by 2030
+because of increased drought frequency, the value of
+the lost animals and production foregone amounting to
+US $630 million (Ericksen et al., 2012).
+Craine et al. (2012) found that in a temperate grass-
+land, the effects of drought and high temperatures
+decline over the season, to the point where climate vari-
+ability may have minimal impact later in the growing
+season. Key ecosystem processes are seasonally sensi-
+tive to climate variability, and increased understanding
+of plant productivity will need to recognize that the
+timing of climate variability may be just as important
+as its magnitude (Craine et al., 2012). In both temperate
+and tropical grasslands, species composition is a key
+determinant of livestock productivity. As temperature,
+rainfall patterns and CO2 levels change, so will the
+composition of mixed grasslands change. Small climatic
+changes may affect the dynamics and balance of differ-
+ent grasslands species, and these may result in changes
+in livestock productivity (IPCC, 2007). The overall
+Table 2
+Population affected by selected disasters (aggregated from Raleigh & Jordan, 2010)
+Region
+Number
+of disasters*
+Population affected in 2007 (1000s)
+Droughts
+(5%)†
+Extreme
+temperatures
+(5%)
+Floods
+(45%)
+Landslides
+(7%)
+Waves,
+surges (<1%)
+Windstorms
+(37%)
+Americas
+1 850
+2 264
+133
+385
+10
+3
+5 224
+Africa
+928
+5 104
+333
+310
+4
+28
+205
+Asia
+3 045
+43 812
+209
+9 193
+73
+369
+1 796
+Europe
+928
+1 023
+18
+88
+4
+<1
+104
+Oceania
+387
+1 206
+920
+27
+2
+6
+72
+*Number of disaster entries in the Emergency Events Database (EM-DAT), www.emdat.be, for the period 1970–2007.
+†Figures in parentheses show the relative frequency of occurrence of each disaster type in the entire database.
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3318
+P. K. THORNTON et al.
+effects of changes in temperature and rainfall and their
+variability on species composition and grassland qual-
+ity, however, are still far from clear and remain to be
+elucidated (IPCC, 2007).
+Droughts in grasslands can also be a predisposing
+factor for ﬁre occurrence in many regions (IPCC, 2012),
+and intensiﬁed droughts could exacerbate the problem.
+There is some evidence that recent years have already
+seen an increase in grassland ﬁre disasters in parts of
+China and tropical Asia. In the future, wildﬁres may be
+60 per cent more frequent in much of South America
+for a temperature increase of 3 °C, and in parts of Aus-
+tralia, the frequency of very high and extreme ﬁre dan-
+ger days could rise by up to 70 per cent by 2050 (IPCC,
+2012).
+Mixed crop–livestock systems are prevalent in much
+of the developing world (Herrero et al., 2010), and cli-
+mate change and changing climate variability in the
+future may affect the relationship between crops and
+livestock in the landscape in many places. In places that
+will become increasingly marginal for crop production,
+livestock may provide an alternative to cropping. Such
+transitions could occur in up to 3% of the total area of
+Africa, largely as a result of increases in the probability
+of season failure in the drier mixed crop–livestock sys-
+tems of the continent; these are projected to increase
+from the current rate of approximately one year in ﬁve
+to one year in four or three, depending on the combina-
+tion of emissions scenario and climate model used
+(Jones & Thornton, 2009).
+Changes in climate variability and in the frequency
+of extreme events may have substantial impacts on the
+prevalence and distribution of pests, weeds, and crop
+and livestock diseases.
+For example, in the past, combinations of drought
+followed by high rainfall have led to wide-spread out-
+breaks of diseases such as Rift Valley fever and blue-
+tongue in East Africa and of African horse sickness in
+South Africa (Baylis & Githeko, 2006). Future increases
+in the frequency of extreme weather events could allow
+the expansion of Rift Valley fever northwards into Eur-
+ope, for example (Martin et al., 2008). In general, the
+effects of future changes in climate variability on pests,
+weeds and diseases are not well understood (Gornall
+et al., 2010).
+Evidence of vegetation shifts resulting from increas-
+ingly frequent extreme climatic events is still compara-
+tively
+rare,
+although
+what
+there
+is
+supports
+the
+existence of stabilizing processes which tend to mini-
+mize
+and
+counteract
+the
+effects
+of
+these
+events,
+reinforcing community resilience (Lloret et al., 2012).
+Better understanding of these stabilizing processes and
+the community inertia that is frequently observed in
+vegetation under extreme events, are crucial for the
+establishment of sound management strategies that can
+improve ecosystem resilience under climate change
+(Lloret et al., 2012).
+Globally, the negative effects of climate change on
+freshwater systems, in terms of changes in quantity and
+distribution, are expected to outweigh the beneﬁts of
+overall increases in global precipitation due to a warm-
+ing planet; several parts of the tropics and subtropics,
+including parts of Central-West Asia, North Africa,
+Asia and North America, are likely to be particularly
+affected by reduced freshwater availability (Rosegrant
+et al., 2009). It is expected that more than half the
+world’s population will live in countries with severe
+water constraints by 2050 (Rockstr€om et al., 2009).
+Climate models project increased aridity during the
+current century over most of Africa, southern Europe
+and the Middle East, most of the Americas, Australia
+and Southeast Asia. There is considerable uncertainty
+in such results, but the projections are alarming because
+a very large population may be severely affected in the
+coming decades. At the same time, precipitation may
+become more intense but less frequent (i.e. longer dry
+spells). This has the potential to increase ﬂash ﬂoods
+and runoff, and as a result increase soil erosion, dimin-
+ish soil moisture and increase the risk of agricultural
+drought (Dai, 2011), as well as increasing the potential
+for crop losses due to ﬂooding and affecting the
+dynamics of livestock diseases and their vectors, for
+example.
+Food systems, health and nutrition
+There is little literature on the effects of climate variabil-
+ity and extreme climatic events on food systems as
+opposed to food production. Of nearly 600 pages in the
+SREX report (IPCC, 2012), for example, there is only
+one page on the impacts of climate extremes on food
+systems and food security.
+At the local level, Codjoe & Owusu (2011) studied
+communities in Ghana and showed how extreme cli-
+matic events affect rural food production, transporta-
+tion, processing and storage. Food security in this
+region could be enhanced by increasing farm-based
+storage facilities; improving the transportation system,
+especially feeder roads that link food production areas
+and major markets; providing farmers with early warn-
+ing systems; extending credit to farmers; and the use of
+supplementary irrigation. Some cultural practices, par-
+ticularly those that prohibit the consumption of certain
+foods, may reduce the resilience of some individuals
+and ethnic groups to food system disruptions.
+Climate variability has both direct and indirect
+impacts on human health. Extreme heat affects health,
+especially among the elderly (McMichael et al., 2006).
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3319
+Other direct impacts are largely expressed through the
+interaction of infectious and vector-borne diseases with
+temperature and precipitation. Malaria, dengue and
+cholera, for example, are all highly affected by changes
+in seasonal distribution of precipitation, including
+changes in ﬂood and drought patterns (McMichael &
+Kovats, 2000; Costello et al., 2009). Although changes in
+malaria vectors will occur due to the gradual increase
+in temperature, the incidence of disease is also quite
+sensitive to changes in precipitation. If changes in cli-
+mate variability lead to changes in spatial and temporal
+variation in vegetation and water distribution, we
+could see more epidemics as the vector moves to new
+areas (McMichael et al., 2006). Both malaria and dengue
+fever have associations with La Ni~na and El Ni~no
+cycles (McMichael et al., 2006). Human displacement
+from extreme events, especially ﬂoods, could become
+more frequent with an increase in climate variability.
+This also often has negative consequences for human
+health, not least because of crowded conditions with
+poor sanitation. Diarrhoeal disease is regularly a prob-
+lem in such situations (Haines et al., 2006). In addition,
+as inadequate access to health services is already a lead-
+ing cause of poor health in developing countries, dis-
+placement and infrastructure damage from extreme
+events, especially ﬂoods, can exacerbate this (although
+people also often move in response to prolonged
+drought). If water scarcity increases, this also has an
+impact on sanitation and health outcomes if clean water
+is less available (Few, 2007).
+Nutrition is correlated with positive health outcomes,
+and both adequate amount of calories as well as sufﬁ-
+cient nutritional diversity and proteins are important.
+As outlined above, overall availability of food shows
+some correlation with climate variability. The study by
+Lloyd et al. (2011) builds upon previous work of Nelson
+(2009)
+to
+show
+clearly
+that
+climate
+change
+and
+increased climate variability, through their impact on
+food production, will have a negative impact on the
+prevalence of undernutrition, increasing severe stun-
+ting by 62% in South Asia and 55% in East and south-
+ern
+Africa
+by
+the
+2050s.
+Although
+nutrition
+is
+determined not only by food availability, but also
+access to food as well as nutritional and child care prac-
+tices, there are almost no studies on these other aspects
+of nutrition determinants (Tirado et al., 2010).
+Some more detailed work has been done at national
+level. For example, a dynamic economy-wide model of
+Bangladesh has been used to estimate economic dam-
+ages from historical climate variability and future
+anthropogenic climate change. Using a combination of
+historical yield variability and 10 climate projections,
+future anthropogenic climate change damages are esti-
+mated to reduce national rice production in Bangladesh
+by about 9 per cent to midcentury, and most of these
+losses are attributed in the analysis to ﬂooding damage
+and climate variability (Thurlow et al., 2011). Another
+example is the work of Ahmed et al. (2011), who used a
+modelling approach to estimate how changes in climate
+variability might affect crop yields and thence poverty
+rates in Tanzania to the early 2030s. They found that
+future climate scenarios with the largest increases in cli-
+mate volatility rendered Tanzanians increasingly vul-
+nerable
+to
+poverty
+through
+its
+impact
+on
+the
+production of staple grains.
+At the global level, one of the few studies so far to
+model climate shocks and their impacts on commodity
+prices in different regions is Willenbockel (2012).
+Results are indicative only but interesting nevertheless.
+For example, a drought in North America in 2030 of a
+similar scale to the historical drought of 1988 would
+have a dramatic temporary impact on world market
+export prices for maize and a strong impact on world
+market price for wheat. These impacts would feed
+through to domestic consumer prices, with particularly
+profound effects in parts of sub-Saharan Africa. For
+instance, Nigeria depends almost entirely on imports of
+wheat, and under such a scenario the average domestic
+price for wheat in the country would spike by 50%
+above the baseline 2030 price, with potentially substan-
+tial impacts on households. The treatment of the
+impacts of climate variability as opposed to the impacts
+of slow-onset climate change in global economic mod-
+els is a heavily underresearched area, particularly how
+harvest failures in one continent may inﬂuence food
+security outcomes in others.
+How may changes in climate variability and
+extremes affect food security in the future?
+Human populations are vulnerable to the impacts of
+climate change largely because of the socioeconomic
+and political context in which they live. Thus, vulnera-
+bility to climate change is highly differentiated (O’Brien
+et al., 2007) across geography, income levels, type of
+livelihood and governance arrangements, among other
+things. Human vulnerability can be evaluated in terms
+of a range of different outcomes such as food security
+or household income. Thus, areas vulnerable to disas-
+ters are not necessarily the same as those whose food
+availability is likely to be negatively affected by
+changes in climate variability. A major challenge in
+viewing human vulnerability as the result of multiple
+and dynamic factors is the need to take a synthetic
+approach to translate the sectoral impacts of changes in
+climate and climate variability into consequences for
+people. Food security is a particularly important devel-
+opmental outcome that is highly vulnerable to climate
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3320
+P. K. THORNTON et al.
+change. This vulnerability is a product of climate
+change impacts on biological systems, affecting food
+availability, as well as economic and social impacts that
+affect food utilization, access to food and the stability of
+food security (Ericksen, 2008).
+As noted above, there is only limited information on
+the potential impacts of climate variability on food
+availability at broad scales such as national and regio-
+nal. For economies that are agriculturally based, Fig. 2
+suggests that rainfall variability can have substantial
+effects on agricultural growth at the national level,
+although that relationship will be modiﬁed by many
+other factors. Links from climate variability to poverty
+indicators are also not that straightforward to demon-
+strate. We undertook some new analysis using recent
+global data sets to try to throw some light on the possi-
+ble links between climate variability and food security.
+Herrero et al. (2013) recently generated maps showing
+global kilocalorie production per capita from edible
+animal products, including milk and meat from rumi-
+nant species (bovines, sheep and goats) and meat and
+eggs from monogastric species (pigs and poultry). To
+estimate total kilocalorie production from crops, we
+used data on crop yields and harvested areas from the
+Spatial Production Allocation Model (SPAM) of You
+et al. (2012). SPAM contains data for the year 2000 and
+includes 14 food crops or crop groups: banana and
+plantain, barley, beans, cassava, groundnut, maize, mil-
+let, other pulses such as chickpea, cowpeas, pigeon
+peas, and lentils), potato, rice, sorghum, soybean, sweet
+potato and yam, and wheat. We calculated the total
+food production from these 14 crops and crop groups
+using calorie contents as given in FAO (2001). The
+SPAM data set matches FAOSTAT country totals for
+2000 and details crops grown in three types of system
+(irrigated, rain-fed commercial and rain-fed subsis-
+tence). Multiple cropping is also taken into account. We
+then calculated total kilocalorie production from both
+livestock and the 14 crops at a resolution of 5 arcmin
+(gridcells of side about 9 km at the equator). Each grid
+cell was then stratiﬁed on the basis of rainfall variabil-
+ity. To do this, we utilized a weather generator, Mark-
+Sim, and methods outlined in Jones & Thornton (2013)
+to estimate the coefﬁcient of variation (CV) of annual
+rainfall for the globe, from 100 years of generated daily
+rainfall data. We estimated the human population in
+each stratum (CIESIN Center for International Earth
+Science Information Network Columbia University &
+Centro Internacional de Agricultura Tropical (CIAT),
+2005a). To relate climate variability to some proxy of
+food insecurity, we used the subnational data set of
+CIESIN (2005b) on the proportion of children under
+ﬁve who are underweight for their age, and again esti-
+mated the average proportion for each stratum. The
+human population and children underweight data sets
+are both for the year 2000. Results are shown in Table 3,
+split between developing and developed countries.
+Here, we deﬁned the developing countries as those in
+the Americas between Mexico in the north and Brazil,
+Paraguay, Bolivia and Peru in the south, all of Africa,
+and in Asia up to 45°N excluding Japan. The remain-
+der, we classiﬁed as developed countries.
+Several points can be made about Table 3. First, some
+5.4 billion people, or just under 90 per cent of the global
+population in 2000, live in places that produce at least
+some crop and livestock calories. On the basis of this
+analysis, the 14 crops or crop groups account for 70 per
+cent of all calories produced and livestock 30 per cent
+(note that several important crops that provide calories
+for human nutrition are not included here, including
+sugar and oil crops). Second, it is noteworthy that
+developing countries (as deﬁned above) account for 78
+per cent of the people, but only 40 per cent of the calo-
+ries
+available;
+conversely,
+the
+temperate
+regions
+account for 22 per cent of the people and 60 per cent of
+the calories produced. Third, the relationship between
+rainfall variability and the average prevalence of under-
+weight children seems not to be straightforward: in the
+developed regions, the value of the food insecurity
+proxy
+increases
+as
+rainfall
+variability
+increases,
+whereas in developing countries, it increases up to a
+rainfall CV of 30 per cent and then falls slightly for
+further increases in rainfall CV. A possible explanation
+for this is that in the higher CV regions, most food is
+brought in via imports or food aid, for example. Fourth,
+nearly eight times as many people live in areas of high
+rainfall variability (with a CV of 30 per cent or more) in
+the developing countries as they do in the developed
+countries (407 million compared with 54 million); yet,
+these areas of high rainfall variability in developing
+countries account for only 3 per cent of all the calories
+produced, and they also tend to be areas with relatively
+high child malnutrition. Clearly, many such areas may
+be targets for the provision of food aid and social safety
+nets.
+We can show that increased rainfall variability will
+affect agricultural growth and economic development
+in certain types of countries (Fig. 2). The analysis pre-
+sented above is highly simpliﬁed, as there are many
+other factors and drivers that will interact in complex
+ways, but there may also be impacts of increased rain-
+fall variability on food security as shown by a proxy
+such as the prevalence of child malnutrition (Table 3).
+In the absence of information concerning the nature of
+increases in rainfall variability in the coming decades,
+one question that might be asked is, how sensitive are
+the data in Table 3 to shifts in rainfall variability? To
+test this, we made several changes across the board to
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3321
+rainfall CV and then restratiﬁed the data. Results are
+shown in Fig. 3, in terms of population by rainfall CV,
+for the developing world and the developed world, for
+‘current’ conditions and for situations with decreased
+(1 per cent) and increased (+1 per cent and +2 per
+cent) rainfall variability. While the likelihood of such
+changes is essentially unknown, a + 2 percentage point
+increase in annual rainfall CV leads to increases in the
+population living in areas of high rainfall variability
+(CV> 30%) in developing countries of more than 230
+million to 643 million people (58 per cent), while in the
+developed countries the number more than doubles
+from 54 to 112 million.
+It is not just rainfall that increases variability in yield.
+The temperature-related processes reviewed above also
+contribute to this. Few climate change impact studies
+report changes in CV; analysis of those that do shows
+that increases in CV of more than 50% may not be
+uncommon from the 2040s onwards (Challinor et al.,
+2014a).
+Even though simpliﬁed and with a high degree of
+uncertainty, our analysis helps to substantiate the
+hypothesis of an increase in child malnutrition rates in
+both developed and developing countries in the future
+as a result of variability changes, all other things being
+equal. These increases could be particularly large in
+sub-Saharan Africa as a result of high population
+growth rates and relatively large areas with high rain-
+fall variability. Sub-Saharan Africa is already by far the
+largest recipient of food aid: average annual shipments
+amount to about 2 per cent of all food consumed.
+Under many scenarios, the number of food-insecure
+people in sub-Saharan Africa by 2020 is still likely to be
+at least 500 million (USDA, 2010), and this is a chal-
+lenge that will clearly not be made any easier by
+increases in rainfall and temperature variability.
+Responses of vulnerable people
+Most of the literature and analysis discussed above
+relate to how climate variability will affect exposure or
+sensitivity of biological and food systems, and hence
+food security outcomes. However, the most important
+element of reducing vulnerability is to enhance the
+Table 3
+Proportion of total calorie availability per person per day from livestock products and from 14 food crops in developing
+and developed countries, by rainfall variability class
+CV† of annual rainfall (%)
+Mean annual
+rainfall† (mm)
+Human
+population‡ (million)
+Children
+underweight§ (%)
+Proportion of
+calories from
+14 Crops** (%)
+Proportion of
+calories from
+livestock†† (%)
+(a) Developing countries*
+<15%
+2739
+211
+16
+1.8
+0.2
+15–20%
+1738
+1318
+17
+10.3
+0.6
+20–25%
+1118
+1498
+20
+7.7
+11.4
+25–30%
+657
+808
+22
+3.0
+2.9
+30–35%
+428
+242
+20
+0.7
+0.1
+>35%
+226
+165
+19
+1.1
+0.1
+Total
+4241
+24.6
+15.2
+(b) Developed countries*
+<15%
+1938
+17
+<1
+0.1
+0.1
+15–20%
+1094
+323
+<1
+4.6
+7.0
+20–25%
+662
+527
+2
+17.0
+2.6
+25–30%
+469
+221
+2
+18.3
+3.4
+30–35%
+355
+42
+3
+4.7
+1.4
+>35%
+230
+12
+5
+0.5
+0.6
+Total
+1142
+45.2
+15.1
+*‘Developing countries’ deﬁned here as the countries of the Americas between Mexico in the north and Brazil, Paraguay, Bolivia
+and Peru in the south, all of Africa, and Asia up to 45°N excluding Japan. ‘Developed countries’ comprise the remainder.
+†Mean rainfall and coefﬁcient of variation of annual rainfall estimates simulated using methods in Jones & Thornton (2013).
+‡From gridded population of the world version 3 (CIESIN Center for International Earth Science Information Network Columbia
+University & Centro Internacional de Agricultura Tropical (CIAT), 2005a).
+§Global subnational prevalence of child malnutrition v1, online at beta.sedac.ciesin.columbia.edu/data/set/povmap-global-subna-
+tional-prevalence-child-malnutrition.
+**Yields and harvested areas from Spatial Production Allocation Model (SPAM) 2000 (You et al., 2012). Crops included: banana and
+plantain, barley, beans, cassava, groundnut, maize, millet, other pulses, potato, rice, sorghum, soybean, sweet potato and yam,
+wheat.
+††From Herrero et al. (2013).
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3322
+P. K. THORNTON et al.
+adaptive capacity of people, at various levels of deci-
+sion-making from the individual up to the national and
+regional. Institutions play a key role in enabling such
+adaptation. Increases in variability, which are largely
+unpredictable in the short and long term, will force
+institutions (deﬁned loosely as social patterns including
+organizations) to be more proactive and ﬂexible, quali-
+ties that are difﬁcult to foster (Gupta et al., 2010). This
+applies not only to the national level; for example
+Ncube et al. (2012) discuss the example of local govern-
+ment infrastructure in South Africa to provide basic
+commodities such as water and energy. They found a
+strong relationship between water and energy demand
+and rainfall variability, and concluded that local gov-
+ernments will increasingly need to be proactive in plan-
+ning for adaptation to climate change, because of its
+inﬂuence on their operations and budgets (Ncube et al.,
+2012).
+By focusing on how climate variability might change,
+we are trying to better characterize what climate change
+means for vulnerability – a better answer to the ques-
+tion ‘Vulnerability to what’ (Misselhorn et al., 2010).
+Uncertainty or lack of predictability is considered a real
+hindrance to planning for adaptation. However, if for
+example we can explore how sensitive food availability
+in a given location is to a range of increases in precipita-
+tion variation, or what the limits of current institutional
+arrangements are for dealing with the consequences of
+increased frequency of extreme events, we can get a
+clearer deﬁnition of the development problem that cli-
+mate change might exacerbate. This better prepares
+communities and governments to develop robust adap-
+tation strategies in spite of uncertainty about the precise
+impacts of climate change.
+What might vulnerable people who are partially or
+wholly dependent on natural resources for their liveli-
+hoods do in response to substantially increased climate
+variability? There is already a considerable literature on
+the ways in which resilience of agricultural production
+systems may be increased in the face of climate change,
+particular under the ‘climate-smart agriculture’ rubric
+(e.g. FAO, 2010; Thornton et al., 2013). Options range
+from increasing the efﬁciency of crop and livestock sys-
+tems via various components such as soil and nutrient
+management, water harvesting and retention, improv-
+ing ecosystem management and biodiversity, diversiﬁ-
+cation of on-farm activities, use of weather forecasts
+and early warning systems, and methods for managing
+risk such as index-based insurance and risk transfer
+products (Barnett et al., 2008). In relation to options for
+the drylands, the literature is not particularly sanguine.
+As many have pointed out, particularly in more mar-
+ginal areas, farmers have already been substantially
+changing their practices. For example, farmers in north-
+ern Burkina Faso have adopted many techniques
+intended to increase crop yield and reduce yield vari-
+ability (Barbier et al., 2009). The drivers of these shifts
+are not climate variability but growing land scarcity
+and new market opportunities. While improved water
+harvesting and storage techniques may be able to
+reduce farmers’ dependence on rainfall, they are not
+likely to be sufﬁcient to signiﬁcantly reduce vulnerabil-
+ity to drought (Barbier et al., 2009). Institutional change
+may be critical in enhancing resilience in dryland pasto-
+ral systems. In the Kalahari, land privatization policies
+have increased the vulnerability of poorer communal
+pastoralists, but increasing access to markets and
+improving the ability of these farmers to operate in a
+market
+economy
+could
+reduce
+their
+vulnerability
+(Dougill et al., 2010). At the same time, alternatives that
+make sense from the perspective of current economic
+risk or land scarcity, such as the use of higher yielding
+crop varieties or improved animal breeds, may not be
+robust choices for dealing with climate change if they
+do not outperform local varieties under highly variable
+conditions (see, for example, Rodrıguez et al., 2011).
+This underpins the importance of crop varieties with
+increased tolerance to heat and drought stress for man-
+aging future climatic variability (Hellin et al., 2012).
+There are several ways in which the stability of
+food systems can be strengthened. These include
+governments investing in smallholder agricultural pro-
+duction, particularly in downstream activities such as
+0
+300
+600
+900
+1200
+1500
+1800
+–1%
+Developing
++1%
++2%
+0
+300
+600
+900
+1200
+1500
+1800
+–1%
+Developed
++1%
++2%
+Rainfall CV (%)
+<15
+15–20
+20–25
+25–30
+30–35
+>35
+PopulaƟon (million)
+PopulaƟon (million)
+Rainfall CV (%)
+<15
+15–20
+20–25
+25–30
+30–35
+>35
+(a)
+(b)
+Fig. 3 The differential impacts of across-the-board changes in
+rainfall CV of 1%, +1% and +2% on population distribution by
+rainfall variability in developing (a) and developed (b) coun-
+tries.
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3323
+storage, trace, processing and retailing; implementing
+and scaling up options that help producers to be more
+resilient to climate volatility, such as the now wide-
+spread use of smallholder crop insurance schemes in
+India and certain other countries; and establishing
+safety net programmes for the most vulnerable house-
+holds, such as has been implemented successfully in
+Ethiopia (Lipper, 2011). Insurance may be an increas-
+ingly important way to help smallholders become more
+resilient, in view of the impacts of climate change on
+yield variance and the resulting demand for effective
+risk-reducing measures. Using a microeconomic farm
+model, Anton et al. (2012) found that area yield and
+weather index insurance are robust policy options
+across different scenarios and are generally cheaper
+than individual yield insurance. They also found that
+ex post indemnity payments can be effective in dealing
+with extreme systemic risk situations and are similarly
+robust across different scenarios, even with frequent
+occurrence of extreme events, although they can be
+costly to implement (Anton et al., 2012).
+One recurring thread in recent discussions concern-
+ing responses to increasing climate variability is the
+role of indigenous knowledge. Agro-pastoralists in dry-
+land Kenya (and probably in many other places too)
+rely on indigenous indicators of rainfall variability and
+use them as a framework within which to position and
+interpret meteorological forecasts (Rao et al., 2011); at
+the same time, few are able to adapt their practices
+because of a general lack of adaptive capacity (Sper-
+anza et al., 2010). Integrating different types of knowl-
+edge
+and
+bringing
+different
+stakeholder
+groups
+together pose signiﬁcant challenges, however, and con-
+siderable innovation in participatory action research
+will be needed (Ziervogel & Opere, 2010). But there
+would seem to be a rich area of research in investigat-
+ing the reliability and validity of indigenous knowledge
+concerning climate variability, and seeing how it can be
+better integrated into formal monitoring systems to
+enhance its acceptability, thereby increasing smallhold-
+ers’ resilience to climate variability.
+For some communities in marginal areas, climate
+may decreasingly be the primary concern. Nielsen &
+Reenberg (2010) present results from northern Burkina
+Faso that indicate that villagers there are ‘beyond cli-
+mate’: current livelihood strategies are increasingly
+independent of climate. There as elsewhere, people
+have engaged in livelihood diversiﬁcation in attempts
+to ameliorate the negative impacts of climate variability
+on agriculture. At some stage, tipping points are
+reached such that transformative adaptation alterna-
+tives may be the only viable options that remain. There
+are many examples of such changes to livelihood sys-
+tems, such as substitution of one crop or livestock spe-
+cies for another. In many parts of sub-Saharan Africa, a
+highly spatially distributed mode of living is prevalent,
+and clearly it can be a highly effective way of dealing
+with change and variability. This is intriguingly mir-
+rored in developed-country situations also, in Austra-
+lian farming households over the last few years that
+have seen crippling, multi-year drought followed by
+record ﬂooding, for example. Many such households
+are developing more spatially distributed modes of
+farming and living, whereby multiple priorities and
+pressures can be accommodated by moving between
+widely distributed farm businesses, employment and
+children’s activities (Rickards, 2012). Endurance and
+accommodating change may be widely valued, but oth-
+ers would challenge this world view and emphasize
+innovation and the conscious creation of innovative
+alternatives (O’Brien, 2012; Rickards, 2012). Many peo-
+ple may have no choice, and chronic or sudden-onset
+environmental disasters related to climate change may
+force
+large-scale
+migration;
+however,
+this
+is
+not
+expected to be common in the next two decades
+(Raleigh & Jordan, 2010).
+Conclusions: reﬁning the research agenda
+Most of the climate change impacts work carried out to
+date either ignores or downplays variability. On the
+one hand, this is somewhat understandable. Regarding
+expected changes in rainfall and temperature variabil-
+ity in the future, there is high uncertainty: IPCC (2012)
+provides
+no
+assessment
+of
+projected
+changes
+in
+extremes at spatial scales smaller than for large regions.
+Indeed, the prognosis for robust quantiﬁcation in the
+foreseeable future of changes in weather and climate
+variability over short temporal and high spatial scales
+is rather gloomy (Ramirez-Villegas et al., 2013). But on
+the other hand, we already know a reasonable amount
+about how current levels of climate variability have
+considerable impacts on biological systems and health.
+While we cannot let limited predictive capability con-
+strain adaptive responses, it does suggest that we will
+need to become increasingly creative to arrive at action-
+able answers in response to questions from a wide
+range of decision makers concerning the appropriate
+adaptation of biological and food systems. One exam-
+ple of a suitable framework is the combination of
+impact and capacity approaches (broadly, top down
+and bottom up respectively) to adaptation planning;
+there is considerable potential in this and other prob-
+lem-orientated approaches for producing robust knowl-
+edge and actions in the face of uncertainty (Vermeulen
+et al., 2013). This is not without its challenges, however:
+recent assessments indicate an increased probability of
+future tipping events, in part because of positive feed-
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3324
+P. K. THORNTON et al.
+backs in the climate system (e.g. Cory et al., 2013), and
+the corresponding impacts are estimated to be large,
+making them signiﬁcant risks (Lenton, 2011). Below,
+we brieﬂy discuss ﬁve areas that warrant considerable
+attention if we are to address these challenges.
+First, there are still important knowledge and data
+gaps in our understanding of the effects of climate vari-
+ability and extreme events on biological systems. With
+regard to crops, Craufurd & Wheeler (2009) identiﬁed
+several areas, including the need for more information
+on crop development and temperature by photoperiod
+interactions at the higher end of the temperature scale.
+There are key knowledge gaps with regard to the ways
+in which climate variability and extreme events may
+exacerbate multiple stresses for animals and plants,
+and how these stresses may interact and combine.
+There are also important knowledge gaps regarding the
+impacts of climate variability and extreme events on
+the prevalence, incidence and severity of crop and live-
+stock diseases, and on key agricultural pests and weeds
+and how their prevalence may change.
+Second, there are substantial limitations in our
+impact models, at all scales. This certainly applies to
+models of crops and livestock and on the effects of vari-
+ability on the quantity and quality of crop and livestock
+production. Identiﬁcation of synergies between global,
+regional and local studies is a promising avenue for
+improvement (Challinor et al., 2014b). Much work is
+needed on extending the applicability of current crop
+and livestock models to the higher temperature and
+more variable climates projected as increasingly likely
+under
+higher
+greenhouse
+gas
+emission
+scenarios.
+Equally importantly, such gaps exist in relation to mod-
+els of farming systems and the ways in which biophysi-
+cal and socioeconomic drivers of change combine in
+particular situations (Challinor et al., 2009), and infor-
+mation concerning the way in which climate variability
+and climate extremes may affect thresholds and tipping
+points among different farm enterprises in relation to
+different household objectives is largely missing. Gaps
+also exist concerning the appropriate incorporation of
+risk and dynamics in farming system models. For
+smallholders, higher risks usually imply more costs,
+directly or indirectly, and so there is a need to link risk
+to decision-making proﬁles of farmers and their atti-
+tudes to investments and technology adoption. Some
+work has been done on this (see, for example, Willock
+et al., 1999; Solano et al., 2000), but more in-depth stud-
+ies on this topic are needed, because increasing adop-
+tion rates of key practices under risk is a signiﬁcant
+challenge, and targeting options to risk management
+proﬁles is essential. At the national and global scales,
+more sophisticated output is needed from global and
+regional economic models concerning welfare gains
+and losses arising from different policy action, and how
+changes in welfare from gradual climate change and
+climate shocks are differentially distributed among dif-
+ferent groups in society, such as producers and urban
+poor, and men and women (Skouﬁas et al., 2011).
+Third, there is a great need to improve the monitor-
+ing of local conditions, not only to provide data and
+information for improving our understanding and our
+models, but also to guide effective adaptation (for
+example, through downscaling climate model output to
+local situations) and to provide information for yield
+early warning systems and locally appropriate indices
+for
+weather-based
+crop
+and
+livestock
+insurance
+schemes. The situation for climate and weather data
+monitoring in many developing countries is poor and
+deteriorating. There is considerable research activity in
+combining satellite and land-based information to pro-
+duce long-term, high-resolution weather data sets (for
+example, Maidment et al., 2013). Such hybrid data sets
+have considerable potential to ease the weather data
+problem in some countries, but they are not a replace-
+ment for land-based weather measurement, however,
+and considerable investment will be needed to improve
+climate and weather monitoring. Improved monitoring
+of local food systems (in relation to food production
+and accessibility, for example) and of the environment
+(in relation to local crop and rangeland conditions, for
+example) is also needed to provide readily actionable
+information. The tradition of monitoring and surveil-
+lance for disease outbreaks within the health commu-
+nity, to allow for better early warning and anticipatory
+response in relation to food systems, is a promising
+model, although it can be costly.
+Fourth, enhancing food security for the 9.5 billion
+people projected by 2050, more than 86% of whom will
+be living in the less developed countries (UNDESA,
+2013), will mean adapting biological and food systems
+to the increasingly variable climate and to increasingly
+frequent extreme events, which in turn will entail con-
+siderably enhanced understanding of the complex sys-
+tem of production, logistics, utilization of the produce
+and the socioeconomic structure of communities (IPCC,
+2012). This strongly supports the notion of viewing
+adaptation and vulnerability reduction not as discrete
+events but as processes through time, from the shorter
+term to the longer term. The impacts of climate variabil-
+ity and extreme events are often most acutely experi-
+enced at the local level (IPCC, 2012), and they also
+usually occur over short time scales. At local and short
+temporal scales, the uncertainties associated with their
+prediction may be at their largest. Food security, health
+and nutritional outcomes are all the product of multiple
+interacting stressors, not just climate patterns. This
+could be one of the reasons the disaster relief commu-
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3325
+nity and the agricultural research for development
+community have not talked much together – the former
+has a ‘variability’ orientation, the latter a ‘changing
+means’ orientation. There are exceptions – for example,
+the story of weather forecasts for emergency aid provi-
+sion in West Africa in 2008 (Tall et al., 2012) – but there
+do not seem to be many to date. There are surely syner-
+gies to be explored between these two communities of
+practice, particularly given rapid developments in the
+ﬁeld of seamless prediction of weather and climate
+(Brown et al., 2012; Meehl et al., 2013). In time, seamless
+prediction may provide a bridge between the shorter
+term (days, weeks, season) and the longer term (years,
+decades) and between risk management and adaptation
+planning. Using models to express uncertainty as the
+time intervals in which key changes are expected,
+rather than focussing on a particular time and express-
+ing uncertainty in other ways, may help forge stronger
+links between prediction and adaptation (Vermeulen
+et al., 2013). The effectiveness of the links between dif-
+ferent spatial and temporal scales will depend on
+enhanced understanding, models and monitoring of
+the impacts of climate change and climate variability
+on both biological and socioeconomic systems and the
+ways in which they interact within and across scales.
+Enhancing food security in the less developed countries
+in the coming decades will need balanced, integrated
+approaches that encompass changes in variability and
+extreme events as well as changes in means in quantify-
+ing impacts on, and identifying appropriate adaptation
+of, biological and human systems.
+Finally, greater and more effective communication is
+needed between scientists and decision makers, and
+between natural and social scientists. Currently, climate
+information is severely underutilized in supporting
+decision-making, which Weaver et al. (2013) partially
+attribute to a failure to incorporate learning from the
+decision and social sciences into climate-related deci-
+sion support. There is a great deal that can be done on
+the cogeneration of information and its communication
+in appropriate ways, and in engaging meaningfully
+with decision makers at local and national policy levels,
+for example. Participatory scenario development may
+be one useful tool for facilitating some of these pro-
+cesses (Vervoort et al., 2014), in addition to much stron-
+ger
+links
+between
+biological
+and
+communications
+scientists. In general, the top-down and bottom-up
+approaches identiﬁed above rarely meet in the form of
+integrated
+analyses.
+Given
+what
+is
+known
+about
+vulnerability to climate, what foci should environmen-
+tal scientists have? Changes in variability are often
+more important for communities than changes in mean
+quantities; yet, the focus of modelling studies is often
+on the latter. The ongoing focus on quantifying uncer-
+tainty in impacts studies is important if we are to avoid
+errors; however, these analyses can be targeted more
+clearly at adaptation (Challinor et al., 2013; Vermeulen
+et al., 2013). Systematic intercomparison of impacts
+studies, with coordinated cycles of model improvement
+and projection, is useful in reducing uncertainty and
+synthesizing knowledge (Challinor et al., 2014b). Obser-
+vational data to constrain models at a range of scales
+are central to these endeavours.
+Acknowledgements
+We thank two anonymous reviewers for helpful comments on
+an earlier draft. PKT thanks Michael Bell for help with WASP
+data. The CGIAR Research Program on Climate Change, Agri-
+culture and Food Security (CCAFS) is funded by the CGIAR
+Fund, AusAid, Danish International Development Agency,
+Environment Canada, Instituto de Investigac~ao Cientıﬁca Tropi-
+cal, Irish Aid, Netherlands Ministry of Foreign Affairs, Swiss
+Agency for Development and Cooperation, Government of Rus-
+sia, UK Aid and the European Union, with technical support
+from the International Fund for Agricultural Development.
+References
+Ahmed SA, Diffenbaugh NS, Hertel TW, Lobell DB, Ramankutty N, Rios AR, Rowh-
+ani P (2011) Climate volatility and poverty vulnerability in Tanzania. Global Envi-
+ronmental Change, 21, 46–55.
+Anton J, Kimura S, Lankoski J, Cattaneo A (2012) A comparative study of risk man-
+agement in agriculture under climate change. OECD Food, Agriculture and Fisher-
+ies Working Papers, No. 58, OECD Publishing. Available at: http://dx.doi.org/10.
+1787/5k94d6fx5bd8-en (accessed 4 February 2013).
+Barbier B, Yacouba H, Karambiri H, Zorome M, Some B (2009) Human vulnerability
+to climate variability in the Sahel: farmers’ adaptation strategies in northern Burk-
+ina Faso. Environmental Management, 43, 790–803.
+Barnett BJ, Barrett CB, Skees JR (2008) Poverty traps and index-based risk transfer
+products. World Development, 36, 1766–1785.
+Baylis M, Githeko AK (2006) The effects of climate change on infectious diseases of
+animals. Report for the foresight project on detection of infectious diseases.
+Department of trade and industry UK government.
+Bouwer LM (2011) Have disaster losses increased due to anthropogenic cli-
+mate change? Bulletin of the American Meteorological Society, January 2011, 92,
+39–46.
+Brown A, Milton S, Cullen M, Golding B, Mitchell J, Shelly A (2012) Uniﬁed modeling
+and prediction of weather and climate: a 25-year journey. Bulletin of the American
+Meteorological Society, 93, 1865–1877.
+Challinor AJ, Ewert F, Arnold S, Simelton E, Fraser E (2009) Crops and climate
+change: progress, trends, and challenges in simulating impacts and informing
+adaptation. Journal of Experimental Botany, 60, 2775–2789.
+Challinor AJ, Stafford Smith M, Thornton PK (2013) Agro-climate ensembles: emerg-
+ing tools for quantifying uncertainty and informing adaptation. Agricultural and
+Forest Meteorology, 170, 2–7.
+Challinor AJ, Watson J, Lobell DB, Howden SM, Smith DR, Chhetri N (2014a) A
+meta-analysis of crop yield under climate change and adaptation. Nature Climate
+Change, 4, 287–291.
+Challinor AJ, Martre P, Asseng S, Thornton PK, Ewert F (2014b) Making the most of
+climate impact ensembles. Nature Climate Change, 4, 77–80.
+CIESIN Center for International Earth Science Information Network (2005b) Global
+Subnational Prevalence of Child Malnutrition v1, Available at: beta.sedac.ciesin.
+columbia.edu/data/set/povmap-global-subnational-prevalence-child-malnutrition
+(accessed 7 November 2012).
+CIESIN Center for International Earth Science Information Network Columbia
+University and Centro Internacional de Agricultura Tropical (CIAT) (2005a)
+Gridded Population of the World Version 3 (GPWv3): Population Grids. Pali-
+sades, NY: Socioeconomic Data and Applications Center (SEDAC), Columbia
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3326
+P. K. THORNTON et al.
+University.
+Available
+at:
+http://sedac.ciesin.columbia.edu/gpw.
+(accessed
+7
+November 2012).
+Codjoe S, Owusu G (2011) Climate change/variability and food systems: evidence
+from the Afram Plains, Ghana. Regional Environmental Change, 11, 753–765.
+Cory RM, Crump BC, Dobkowski JA, Kling GW (2013) Surface exposure to sunlight
+stimulates CO2 release from permafrost soil carbon in the Arctic. Proceedings of the
+National Academy of Science of the United states of America, 110, 3429–3434.
+Costello A, Abbas M, Allen A et al. (2009) Managing the health effects of climate
+change. Lancet, 373, 1693–1733.
+Craine JM, Nippert JB, Elmore AJ, Skibbe AM, Hutchinson SL, Brunsell NA (2012)
+Timing of climate variability and grassland productivity. Proceedings of the National
+Academy of Sciences of the United states of America, 109, 3401–3405.
+Craufurd PQ, Wheeler TR (2009) Climate change and the ﬂowering time of annual
+crops. Journal of Experimental Botany, 60, 2529–2539.
+CRED Centre for Research on the Epidemiology of Disasters (2008) EM-DAT: Emer-
+gency Events Database. Universite Catholique de Louvain, Belgium. Available at:
+http://www.emdat.be/.
+Crespo O, Hachigonta S, Tadross M (2011) Sensitivity of southern African maize
+yields to the deﬁnition of sowing dekad in a changing climate. Climatic Change,
+106, 267–283.
+Dai A (2011) Drought under global warming: a review. WIREs Climate Change, 2011,
+45–65.
+Dougill AJ, Fraser EDG, Reed MS (2010) Anticipating vulnerability to climate change
+in dryland pastoral systems: using dynamic systems models for the Kalahari. Cen-
+tre for Climate Change Economics and Policy Working Paper No. 32, University of
+Leeds, UK.
+Ericksen PJ (2008) Conceptualizing food systems for global environmental change
+research. Global Environmental Change, 18, 234–245.
+Ericksen PJ, de Leeuw J, Thornton PK, Notenbaert A, Cramer L, Jones PG, Herrero M
+(2012) Climate change in sub-Saharan Africa: what consequences for pastoralism?
+In: Pastoralism and Development in Africa: Dynamic Change at the Margins (eds Catley
+A, Lind J, Scoones I), pp.71–81. Earthscan, London.
+FAO (Food and Agriculture Organization) of the United Nations (2001) Food Balance
+Sheets: A Handbook. FAO, Rome, Italy.
+FAO (Food and Agriculture Organization) of the United Nations (2010) Climate-Smart
+Agriculture: Policies, Practices and Financing for Food Security, Adaptation and Mitiga-
+tion. FAO, Rome, Italy.
+Few R (2007) Health and climatic hazards: framing social research on vulnerability,
+response and adaptation. Global Environmental Change, 17, 281–295.
+Gornall J, Betts R, Burke E, Clark R, Camp J, Willett K, Wiltshire A (2010) Implications
+of climate change for agricultural productivity in the early twenty-ﬁrst century.
+Philosophical Transactionof the Royal Society B, 365, 2973–2989.
+Gupta J, Termeer C, Klostermann J et al. (2010) The adaptive capacity wheel: a
+method to assess the inherent characteristics of institutions to enable the adaptive
+capacity of society. Environmental Science and Policy, 13, 459–471.
+Haines A, Kovats RS, Campbell-Lendrum D, Corvalan C (2006) Climate change and
+human health: impacts, vulnerability and public health. Public Health, 120, 585–596.
+Hellin J, Shiferaw B, Cairns JE et al. (2012) Climate change and food security in the
+developing world: potential of maize and wheat research to expand options for
+adaptation and mitigation. Journal of Development and Agricultural Economics, 4,
+311–321.
+Herrero M, Thornton PK, Notenbaert A et al. (2010) Smart investments in sustainable
+food production: revisiting mixed crop-livestock systems. Science, 327, 822–825.
+Herrero M, Havlık P, Valin H et al. (2013) Global livestock systems: biomass use, pro-
+duction, feed efﬁciencies and greenhouse gas emissions. Proceedings of the National
+Academy of Science of the United states of America, 110, 20888–20893.
+Hlavinka P, Trnka M, Semeradova D, Dubrovsky M, Zalud Z, Mozny M (2009) Effect
+of drought on yield variability of key crops in Czech Republic. Agricultural and For-
+est Meteorology, 149, 431–442.
+Hurkman WJ, Vensel WH, Tanaka CK, Whitehead L, Altenbach SB (2009) Effect of
+high temperature on albumin and globulin accumulation in the endosperm prote-
+ome of the developing wheat grain. Journal of Cereal Science, 49, 12–23.
+IPCC Intergovernmental Panel on Climate Change (2007) Climate Change 2007:
+impacts, adaptation and vulnerability. summary for policy makers. Available at:
+www.ipcc.cg/SPM13apr07.pdf (accessed 3 November 2012).
+IPCC (2012) Managing the risks of extreme events and disasters to advance climate
+change adaptation. In: A Special Report of Working Groups I and II of the Intergovern-
+mental Panel on Climate Change (eds CB Field, V Barros, TF Stocker et al.),
+Cambridge University Press, Cambridge, NY, USA.
+Jones PG, Thornton PK (2009) Croppers to livestock keepers: livelihood transitions to
+2050 in Africa due to climate change. Environmental Science and Policy, 12, 427–437.
+Jones PG, Thornton PK (2013) Generating downscaled weather data from a suite of
+climate models for agricultural modelling applications. Agricultural Systems, 114,
+1–5.
+Lenton TM (2011) Early warning of climate tipping points. Nature Climate Change, 1,
+201–209.
+Lipper L (2011) Stability of food security in a green economy environment. FAO/
+OECD Expert Meeting on Greening the Economy with Agriculture, Paris, 5-7
+September 2011. Working Document 3.
+Lloret F, Escudero A, Iriondo JM, Martinez-Vilalta J, Valladares F (2012) Extreme cli-
+matic events and vegetation: the role of stabilizing processes. Global Change Biol-
+ogy, 18, 797–805.
+Lloyd SJ, Kovats RS, Chalabi Z (2011) Climate change, crop yields and undernutri-
+tion: development of a model to quantify the impacts of climate scenarios on child
+undernutrition. Environmental Health Perspectives, 119, 1817–1823.
+Lobell DB, B€anziger M, Magorokosho C, Vivek B (2011) Nonlinear heat effects on
+African maize as evidenced by historical yield trials. Nature Climate Change 1,
+42–45.
+Maidment RI, Grimes DIF, Allan RP, Greatrex H, Rojas O, Leo O (2013) Evaluation of
+satellite-based and model re-analysis rainfall estimates for Uganda. Metrological
+Applications, 20, 308–317.
+Martin V, Chevalier V, Ceccato P et al. (2008) The impact of climate change on the epi-
+demiology and control of Rift valley fever. Revue Scientiﬁque et Technique, Ofﬁce
+International des Epizooties, 27, 413–426.
+McMichael AJ, Kovats RS (2000) Climate change and climate variability: adaptations
+to reduce adverse health impacts. Environmental Monitoring and Assessment, 61,
+49–64.
+McMichael AJ, Woodruff RE, Hales S (2006) Climate change and human health: pres-
+ent and future risks. Lancet, 367, 859–869.
+Meehl GA, Goddard L, Boer G et al. (2013) Decadal climate prediction: an update
+from the trenches. Bulletin of the American Meteorological Society, e-View. doi:
+http://dx.doi.org/10.1175/BAMS-D-12-00241.1.
+Mills E (2005) Insurance in a climate of change. Science, 309, 1040–1044.
+Misselhorn A, Eakin H, Devereux S, Drimie S, Msangi S, Simelton E, Stafford
+Smith M (2010) Vulnerability to what? chapter seven. In: Food Security and Global
+Environmental Change (eds Ingram JSI, Ericksen PJ, Liverman DM), Earthscan,
+London.
+Mohammed AR, Tarpley L (2009) High nighttime temperatures affect rice productiv-
+ity through altered pollen germination and spikelet fertility. Agricultural and Forest
+Meteorology, 149, 999–1008.
+Munich Re (2011) TOPICS GEO, Natural Catastrophes 2010, Analyses, Assessments, Posi-
+tions. Munich Re, Munich, Germany.
+Ncube M, Zikhali P, Musango JK (2012) The impact of climate variability on water
+and energy demand: the case of South African local governments. Water and Envi-
+ronment Journal, 27, 29–41.
+Nelson GC (2009) Climate Change: Impact on Agriculture and Costs of Adaptation. Inter-
+national Food Policy Research Institute, Washington DC, USA.
+Nielsen JO, Reenberg A (2010) Temporality and the problem with singling out climate
+as a current driver of change in a small West African village. Journal of Arid Envi-
+ronments, 74, 464–474.
+NRC (1981) Effect of Environment on Nutrient Requirements of Domestic Animals. Sub-
+committee on Environmental Stress, National Academy Press, Washington DC.
+O’Brien K (2012) Global environmental change II: from adaptation to deliberate trans-
+formation. Progress in Human Geography, 36, 667–676.
+O’Brien K, Eriksen S, Nygaard LP, Schjolden A (2007) Why different interpretations
+of vulnerability matter in climate change discourses. Climate Policy, 7, 73–88.
+Porter JR, Semenov MA (2005) Crop responses to climatic variation. Philosophical
+Transactions of the Royal Society B, 360, 2021–2035.
+Raleigh C, Jordan L (2010) Climate change and migration: emerging patterns in the
+developing world. In: Chapter 4 in “Social Dimensions of Climate Change: Equity and
+Vulnerability in a Warming World” (eds Mearns R, Norton A), pp. 103–131. World
+Bank, Washington DC, USA.
+Ramirez-Villegas J, Challinor AC, Thornton PK, Jarvis A (2013) Implications of regio-
+nal improvement in global climate models for agricultural impacts research. Envi-
+ronmental Research Letters, 8, 024018.
+Rao KPC, Ndegwa WG, Kizito K, Oyoo A (2011) Climate variability and change:
+farmer perceptions and understanding of intra-seasonal variability in rainfall and
+associated risk in semi-arid Kenya. Experimental Agriculture, 47, 267–291.
+Rickards L (2012) Critical Breaking Point: the effects of climate variability, change
+and other pressures on farm households. Report for the Birchip Cropping Group
+and the Sustainable Agriculture Initiative Platform Australia. Available at: http://
+www.bcg.org.au/cb_pages/publications.php (accessed 2 February 2013).
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+CLIMATE VARIABILITY AND VULNERABILITY
+3327
+Rockstr€om J, Falkenmark M, Karlberg L, Hoff H, Rost S, Gerten D (2009) Future water
+availability for global food production: the potential of green water for increasing
+resilience to global change. Water Resources Research, 45, 1–16.
+Rodrıguez LC, Herrero M, Baltenweck I (2011) Community-based interventions for
+the use and conservation of animal genetic resources: the case of indigenous
+scavenger chicken production in Benin. Tropical Animal Health Production, 43,
+961–966.
+Rosegrant MW, Fernandez M, Sinha A et al. (2009) Looking into the future for agri-
+culture and AKST (Agricultural Knowledge Science and Technology). Chapter 5.
+In: Agriculture at a Crossroads (eds McIntyre BD, Herren HR, Wakhungu J, Watson
+RT), pp. 307–376. Island Press, Washington DC, USA.
+Rowhani P, Lobell DB, Linderman M, Ramankutty N (2011) Climate variability and
+crop production in Tanzania. Agricultural and Forest Meteorology, 151, 449–460.
+Skouﬁas E, Vinha K, Conroy HV (2011) The impacts of climate variability on welfare
+in rural Mexico. Policy Research Working Paper 5555, World Bank, Washington
+DC, USA.
+Solano C, Bernues A, Rojas F, Joaquı́ n N, Fernandez W, Herrero M (2000) Relation-
+ships between management intensity and structural and social variables in dairy
+and dual-purpose systems in Santa Cruz, Bolivia. Agricultural Systems 65, 159–177.
+Speranza CI, Kiteme B, Ambenje P, Wiesmann U, Makali S (2010) Indigenous knowl-
+edge related to climate variability and change: insights from droughts in semi-arid
+areas of former Makueni District, Kenya. Climatic Change, 100, 295–315.
+Tall A, Mason SJ, van Aalst M, Suarez P, Ait-Chellouche Y, Diallo AD, Braman L
+(2012) Using seasonal climate forecasts to guide disaster management: the Red
+Cross experience during the 2008 West Africa ﬂoods. International Journal of Geo-
+physics, 2012, 1–12.
+Thornton PK, Herrero M (2009) The inter-linkages between rapid growth in livestock
+production, climate change, and the impacts on water resources, land use, and
+deforestation. World Bank Policy Research Working Paper, WPS 5178. World
+Bank, Washington, DC, USA.
+Thornton PK, Jones PG, Ericksen PJ, Challinor AJ (2011) Agriculture and food sys-
+tems in sub-Saharan Africa in a four-plus degree world. Philosophical Transactions
+of the Royal Society Series A, 369, 117–136.
+Thornton PK, Lipper L, Baas S et al. (2013) How does climate change alter agricultural
+strategies to support food security? Background paper for the conference “Food
+Security Futures: Research Priorities for the 21st Century”, 11-12 April 2013, Dub-
+lin.
+Thurlow J, Dorosh P, Yu W (2011) A stochastic simulation approach to estimating the
+economic impacts of climate change in Bangladesh. Working Paper No. 2011/86,
+United Nations University.
+Tirado MC, Crahay P, Hunnes D, Cohen M (2010) Climate change and nutrition in
+Africa with a focus on sub-Saharan Africa. Avilable at: www.sunrayafrica.co.za
+(accessed 4 February 2013).
+UNDESA United Nations Department of Economic and Social Affairs (2013) World
+population prospects: the 2012 revision, medium variant. Online Available
+at: http://esa.un.org/unpd/wpp/unpp/panel_population.htm (accessed 20 April
+2013).
+USDA United States Department of Agriculture (2010) Food Security Assessment,
+2010-20. Report GFA-21, Economic Research Service, Washington DC, USA.
+Vermeulen SJ, Challinor AJ, Thornton PK et al. (2013) Addressing uncertainty in
+adaptation planning for agriculture. Proceedings of the National Academy of Science of
+the United states of America, 110, 8357–8362.
+Vervoort J, Thornton PK, Kristjanson P et al. (2014) Challenges to scenario-guided
+adaptive action on food security under climate change. Global Environmental
+Change, (in press).
+Weaver CP, Lempert RJ, Brown C, Hall JA, Revell D, Sarewitz D (2013) Improving
+the contribution of climate model information to decision making: the value and
+demands of robust decision frameworks. WIREs Clim Change, 4, 39–60.
+Willenbockel D (2012) Extreme weather events and crop price spikes in a changing
+climate. Oxfam Research Reports, September 2012.
+Willock J, Deary IJ, Edwards-Jones G et al. (1999) The role of attitudes and objectives
+in farmer decision making: business and environmentally-oriented behaviour in
+Scotland. Journal of Agricultural Economics, 50, 286–303.
+You L, Guo Z, Koo J et al. (2012) Spatial Production Allocation Model (SPAM) 2000
+Version 3 Release 1. Available at: http://MapSPAM.info (accessed 10 February
+2013).
+Ziervogel G, Opere A (eds) (2010) Integrating meteorological and indigenous knowledge-
+based seasonal climate forecasts in the agricultural sector. International Development
+Research Centre, Ottawa, Canada. Climate Change Adaptation in Africa learning
+paper series.
+© 2014 The Authors. Global Change Biology published by John Wiley & Sons Ltd., 20, 3313–3328
+3328
+P. K. THORNTON et al.

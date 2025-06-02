@@ -1,0 +1,1433 @@
+Phil. Trans. R. Soc. A (2011) 369, 217–241
+doi:10.1098/rsta.2010.0271
+REVIEW
+The role of interactions in a world
+implementing adaptation and mitigation
+solutions to climate change
+BY RACHEL WARREN*
+Tyndall Centre for Climate Change Research, University of East Anglia,
+Norwich NR4 7TJ, UK
+The papers in this volume discuss projections of climate change impacts upon humans
+and ecosystems under a global mean temperature rise of 4◦C above preindustrial levels.
+Like most studies, they are mainly single-sector or single-region-based assessments.
+Even the multi-sector or multi-region approaches generally consider impacts in sectors
+and regions independently, ignoring interactions. Extreme weather and adaptation
+processes are often poorly represented and losses of ecosystem services induced by
+climate change or human adaptation are generally omitted. This paper addresses
+this gap by reviewing some potential interactions in a 4◦C world, and also makes
+a comparison with a 2◦C world. In a 4◦C world, major shifts in agricultural land
+use and increased drought are projected, and an increased human population might
+increasingly be concentrated in areas remaining wet enough for economic prosperity.
+Ecosystem services that enable prosperity would be declining, with carbon cycle feedbacks
+and ﬁre causing forest losses. There is an urgent need for integrated assessments
+considering the synergy of impacts and limits to adaptation in multiple sectors and
+regions in a 4◦C world. By contrast, a 2◦C world is projected to experience about
+one-half of the climate change impacts, with concomitantly smaller challenges for
+adaptation. Ecosystem services, including the carbon sink provided by the Earth’s forests,
+would be expected to be largely preserved, with much less potential for interaction
+processes to increase challenges to adaptation. However, demands for land and water
+for biofuel cropping could reduce the availability of these resources for agricultural
+and natural systems. Hence, a whole system approach to mitigation and adaptation,
+considering interactions, potential human and species migration, allocation of land
+and water resources and ecosystem services, will be important in either a 2◦C or
+a 4◦C world.
+Keywords: climate change; integrated assessment modelling; adaptation;
+extreme weather events; ecosystem services; biodiversity
+*r.warren@uea.ac.uk
+One contribution of 13 to a Theme Issue ‘Four degrees and beyond: the potential for a global
+temperature increase of four degrees and its implications’.
+This journal is © 2011 The Royal Society
+217
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+218
+R. Warren
+1. Introduction
+The projections of climate change impacts under a 4◦C mean global temperature
+rise contained in this volume, like most other assessments of future climate change
+impacts, generally consider impacts in each sector and region independently. Such
+projections often consider a set (or sets) of future socioeconomic futures, some
+of which may include a level of mitigation action. This is useful to indicate
+the levels of impacts that might occur, with and without mitigation, but the
+utility of such projections would be greatly improved by increased consideration
+of the interactions between sectoral and regional processes, including human
+adaptation to climate change impacts, as well as mitigation actions. Such
+interactions may have profound consequences for the future wellbeing of human
+and natural capital, particularly for global temperature rises as large as 4◦C
+(relative to preindustrial levels). Many of these interactions are currently not
+considered, or not well integrated, into quantitative estimations of potential
+consequences of climate change, or of beneﬁts of mitigation action. This is
+especially true given the potentially important feedback processes in the Earth
+system becoming evident through observations, yet not currently adequately
+simulated by global circulation models (GCMs). Such feedbacks could greatly
+exacerbate impacts for a given greenhouse gas emission scenario beyond those
+estimated by models.
+This review provides a brief summary of some climate change impact estimates
+from this volume and elsewhere, comparing impacts under 4◦C of global mean
+temperature rise (hereafter referred to as ‘a 4◦C world’) with those under 2◦C
+(hereafter referred to as ‘a 2◦C world’). It discusses prominent examples of eight
+types of potentially signiﬁcant interactions and the degree to which they have
+been handled in various modelling approaches. It does not, however, provide
+complete coverage of all types of interactions, or of all possible interactions
+within each type. It notes that these processes might be excluded from modelling
+exercises because of an inability to quantify the strength of the interaction, and
+also because of ignorance of the importance of interactions between disparate
+disciplines. It also suggests potential ways forward in modelling these interactions.
+The types of interactions considered are:
+— climate change-induced impacts in one sector affecting other sectors in the
+same region;
+— human adaptation to climate change-induced impacts in one sector
+affecting other sectors in the same region;
+— climate change impacts in one region having consequences for other
+regions;
+— climate change mitigation and adaptation involving changes in land use,
+which then interacts in a complex fashion with climate change and its
+impacts;
+— impacts in different sectors coincident in the same region having disastrous
+consequences therein;
+— projected increases in extreme weather events exacerbating climate change
+impacts;
+— interactions within sectors that are not combined in analyses; and
+— feedback processes that could exacerbate climate change impacts.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+219
+Table 1. Typology of IAMs focusing on their potential for representation of interactions
+between climate change impacts in various sectors, and between climate change impacts and
+mitigation/adaptation processes.
+potential to represent
+interactions
+none
+low
+high
+question to which
+typically applied/
+for which designed
+cost–beneﬁt analysis
+scenario analysis or
+tolerable windows
+approach
+scenario analysis
+representation of
+climate change
+impacts
+simple, either global
+(PAGE) or regional;
+sectoral detail only in
+FUND
+look-up tables based on
+process-based model
+output
+process based
+representation of
+global economy
+detailed
+detailed
+detailed
+examples
+FUND, PAGE,
+MERGE,
+DICE/RICE
+ICLIPS, AIM
+IMAGE, CIAS,
+GCAM
+There are thousands of studies examining impacts on a single sector within a
+single region with no interactions. When considering impacts holistically at a
+global scale, Parry [1] provides one of the ﬁrst studies providing a consistent
+assessment across global regions and sectors. This study used the full consistent
+set of SRES emissions scenarios [2], consistent downscaled climate scenarios and
+up-to-date climate and impact models.
+Integrated assessment models (IAMs) were developed to encompass an inter-
+disciplinary approach to the study of climate change and climate change policy.
+Goodess et al. [3] provide a full review and categorization of these models. A brief
+summary of the types of models is given here (table 1).
+Biophysically based IAMs such as IMAGE, AIM, ICLIPS, GCAM and
+CLIMPACTS ([3] and references therein) variously examine sectors and/or
+regions of the world, spanning multiple disciplines, and thus theoretically allowing
+models to capture interactions between sectors. However, few have yet exploited
+their full potential to study interactions. Hence, table 1 refers to the potential
+for IAMs to represent interactions, rather than whether they actually do, or have
+done so. Representation of impacts varies signiﬁcantly between these frameworks.
+In the case of IMAGE, they are detailed and include interactions such as carbon
+cycle-induced terrestrial vegetation die-back owing to climate change (leading to
+an accelerated rate of climate change), links between climate change, land-use
+change and changes to agricultural systems, and demographics [4]. In others,
+such as ICLIPS and AIM, look-up tables relating impacts to climate variables
+are used. This precludes detailed interaction between underlying impact model
+components. The CIAS integrated modelling framework [5] is designed to handle
+interactions between sectors.
+Studies considering climate change impacts in a holistic fashion within
+or without an IA framework allow estimation of climate change impacts at
+a regional scale, and, in some cases, a relatively high spatial resolution.
+However, simple integrated models focusing on cost–beneﬁt analysis provide only
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+220
+R. Warren
+global-scale estimates. Such models typically represent climate change impacts
+as a combination of market and non-market economic damages, not in physical
+metrics [6], and do not consider the interactions listed earlier. Arguably, the
+most useful application of such models is in probabilistic analyses [7,8]. Such
+models use simple equations to detail the relationship between monetized impacts
+and temperature. The damage function shape used is theoretical and is often
+based on an arbitrary choice of function. Speciﬁcally, market damages are
+quadratic in DICE/RICE [9] and MERGE [10], between linear and cubic in
+a probabilistic fashion in PAGE, and take a variety of theoretical forms in
+FUND. Only FUND’s damage functions take into account the rate of temperature
+change as well as its magnitude (in the agricultural and ecosystem sectors
+only). However, the representation of the climate system in some of these simple
+models often is not consistent [11] with that of the Intergovernmental Panel of
+Climate Change (IPCC) [12]; for example, FUND shows smaller temperature
+responses to reducing emissions than IPCC simulations, and PAGE assumes
+strong carbon cycle feedbacks. Modellers have updated their code to remove
+these inconsistencies [13,14]. While only FUND is sector-speciﬁc [7], interactions
+between sectors are not considered. Non-market damages are estimated through a
+willingness-to-pay approach, while only PAGE explicitly simulates adaptation [8].
+Damage functions tend to be calibrated using studies of climate change impacts
+in the USA, scaled to represent impacts in other regions. In FUND, impacts cause
+only instantaneous damage, hence ignoring permanent loss of ecosystem services.
+Mastrandrea [6] discusses these issues in further detail.
+Although some key insights about some interaction processes have been
+obtained from biophysically based IAMs (and these are highlighted in the review),
+only a small number of processes has so far been studied. This paper addresses
+this gap by considering a much wider range of potential interactions and their
+possible consequences.
+2. Types of interactions
+(a) How impacts in one sector could affect another sector in the same region
+While some of the interactions between impacts in different sectors in the same
+location are commonly considered, others are not. Models simulating changes in
+crop yields generally take into account changes in precipitation and soil moisture,
+thus linking change in the agricultural and hydrological sectors. However, other
+interactions, such as the ways in which loss of ecosystem services affect human
+systems, are rarely considered. I attempt to divide interactions into those
+generally included in physically based modelling approaches and those rarely
+included. Table 2 summarizes the interactions discussed.
+(i) Some interactions between sectors affected by climate change that are generally
+covered in physically based impact models
+Hydrology has a strong interaction with agriculture through water availability.
+However, the relationship between (daily) precipitation and soil moisture is
+not constant and, therefore, hydrological processes need to be, and often
+are, incorporated into process-based models designed to simulate climate
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+221
+change impacts upon agriculture. Models such as CERESWheat [15] simulate
+physiological processes in plant development, growth and evapotranspiration,
+using
+detailed
+soil
+composition
+data
+to
+derive
+water
+availability.
+They
+underlie prominent analyses of global and regional climate change impacts on
+agriculture [1,16]. Other models relying on the hedonic method [17,18] assume
+that projected future regional precipitation and temperature may be used as
+proxies for agro-economical output. Here, the relationship between precipitation
+and soil moisture is assumed constant and hence hydrological processes are
+ignored [19].
+Impacts on agriculture affect human health, largely through the potential
+for malnutrition, and hence a few studies have estimated millions at risk of
+hunger resulting from climate change impacts on crops [1,4,20]. Here, changes
+in yields produced by CERES crop models are aggregated to generate national
+cereal production estimates for input to a world food trade model that balances
+demand and supply of food according to per capita gross domestic product
+(GDP). However, most studies only provide estimates of yield reductions, without
+analysing changes in production or trade [21].
+Changes in hydrology can also directly affect human health, through mortality
+(which tends to fall with rising GDP [22], water stress or loss of livelihoods), and
+hydrological changes are used in estimating potential future millions of people
+at risk of water stress [23,24]. Similarly persons at risk from ﬂuvial and coastal
+ﬂooding have been estimated using detailed spatially downscaled projections of
+future populations [1,25].
+The impacts of sea-level rise upon coasts will interact with coastal ecosystems
+causing globally signiﬁcant losses of coastal wetlands, saltmarsh and mangroves
+(e.g. [26,27]). It will also interact with the agricultural sector through inundation,
+with case studies illustrating effects in a number of vulnerable regions (e.g.
+[25,28,29]) and for the globe as a whole [30]. However, standard approaches to
+the simulation of agriculture impacts (e.g. [1,20]) do not include losses owing
+to salinization or inundation.
+(ii) Some interactions between sectors affected by climate change that are generally
+not included in physically based impact models
+Loss or disruption of natural ecosystems can lead to a breakdown of ecosystem
+functioning, leading to a loss of ecosystem services [32]. The large proportion
+of species is at risk of extinction from climate change (e.g. 40% of species
+studied in a 4◦C world; table 3); together with the effects of increased extreme
+events, such as drought and forest losses due to ﬁre, this means that such
+services are at risk. These include the water puriﬁcation provided by wetlands,
+the puriﬁcation of air provided by forests, the protection of coastal areas
+from storm surges by mangroves and coral reefs, the regulation of pests and
+disease, the recycling of waste nutrients and the removal of carbon from the
+atmosphere [32,33].
+In the USA, at least half of the medicines used today derive from natural
+sources and 116 out of 158 new drugs licensed between 1998 and 2002 were derived
+from natural origins [34]. However, only 1 per cent of known plants have been
+analysed for their potential use in medicine. Animals and microbes also make
+vital contributions, and the exploration of the potential of marine organisms is
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+222
+R. Warren
+Table 2. A variety of examples of cross-sectoral interactions: x-axis—driving sector, which incurs climate change impacts directly; y-axis—the incumbent
+sector, which incurs impacts indirectly as a result of the changes in the driving sector. Each example is followed by a (y) or an (n) indicating whether
+the driving sector impact has been quantiﬁed at all; secondly a (y) or an (n) indicating whether the effect of the interaction upon the incumbent sector
+has generally been included in physically based quantitative assessments of the impacts of climate change on the incumbent sector. Indirect effects
+that impact upon the incumbent sector as a result of human adaptation to impacts in the driving sector are also included.
+driving sector →
+hydrology
+agriculture
+coasts
+terrestrial
+oceans
+biodiversity
+human
+ecosystems
+health
+incumbent sector ↓
+hydrology
+∗∗∗∗∗
+adaptation to
+impacts
+increasing
+demand for
+water (n, n)
+—
+changes in biome
+type affect soil
+moisture
+content and
+evapotranspiration
+rates (some y, n)
+—
+as for terrestrial
+ecosystems
+—
+agriculture and food
+water stress
+reducing crop
+yields (y, y)
+∗∗∗∗∗
+farmland loss owing
+to sea-level rise
+and salinization
+(y, n)
+loss of carbon from
+soils (y, n)
+—
+loss of pollinators
+(some y, n); loss
+of wild crop
+types (y, n);
+pests and
+diseases (some
+y, n)
+—
+coasts
+changes in
+nutrient levels
+in estuaries
+(n, n)
+agricultural
+intensiﬁcation
+leading to
+increased
+nutrient
+run-off (n, n)
+∗∗∗∗∗
+—
+—
+changes in coastal
+ecosystems (y, n)
+—
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+223
+terrestrial
+ecosystems
+changes in
+hydrology affect
+soil moisture
+content and
+evaporation
+rates (y, y)
+land conversion
+owing to shifts
+in agricultural
+production
+(some y, n)
+loss of saltmarsh
+and mangroves
+to sea-level rise
+(y, y)
+∗∗∗∗∗
+—
+loss of keystone
+species
+(some y, n)
+spread in
+mosquito-
+borne
+disease may
+encourage
+use of DDT
+(n, n)
+oceans
+—
+—
+declines in
+migratory
+freshwater ﬁsh
+(y, n)
+∗∗∗∗∗
+changes in marine
+productivity
+biodiversity
+declines in species
+(some y, some
+y); construction
+of dams disrupts
+freshwater
+ecosystems
+agricultural
+intensiﬁcation
+reducing
+biodiversity
+(n, n)
+loss of coastal
+wetlands (y, n)
+changes in net
+primary
+production affect
+competition (e.g.
+savannah/scrub,
+lianas/trees)
+(some y, some y)
+loss of calcifying
+species, potential
+disruption of
+marine ecosystem,
+in particular (n, n)
+∗∗∗∗∗
+declines
+owing to
+DDT use
+(n, n)
+human health
+water stress (y, y);
+construction of
+dams can lead
+to outbreaks of
+disease such as
+malaria and
+schistosomiasis
+(n, n)
+malnutrition
+(y, y)
+saltwater intrusion
+threatening water
+supplies; potential
+for disease
+post-coastal
+ﬂooding (n, n)
+loss of ecosystem
+services, e.g. C
+sinks, water
+puriﬁcation,
+coastal
+protection; soil
+erosion, nature
+deﬁcit syndrome
+(some y, n)
+loss of ﬁsh stocks, loss
+of livelihoods of
+persons dependent
+on coral reef ﬁsh
+(y, y)
+loss of medicinal
+plants (n, n);
+spread of
+infectious disease
+(y, y)
+∗∗∗∗∗
+settlements
+and
+infrastructure
+subsidence (n, n);
+construction of
+dams can lead
+to inundation of
+settlements
+(n, n)
+—
+damage owing to
+storm surges
+(y, y)
+—
+—
+—
+—
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+224
+R. Warren
+Table 3. Some projected quantitative estimates of climate change impacts at 4◦C about preindustrial levels under the A1B scenario in the 2080s taken
+from this volume and elsewhere.
+impact sector
+projections at 4◦C above preindustrial
+projections at 2◦C above preindustrial
+sources
+hydrology
+15% world population exposed to water stress; 840
+million people experience increase in water stress
+globally; increase from present-day 1%, to future
+30%, of global land area experiencing drought at any
+one time
+410 million people experience increase in water stress
+globally; water stress reduced compared with 4◦C in
+most river basins; in a small number where this is
+not so, beneﬁts offset by changes in seasonality
+[27,46,92]
+agriculture and
+food
+50% of land on which crops currently grown becomes
+unsuitable for cultivation; 15% of the globe’s dry land
+currently suitable for cultivation becomes unsuitable;
+20% of globe’s colder lands become suitable for
+cultivation; limited adaptation options in
+sub-Saharan Africa; threats to food security
+32% of land on which crops currently grown becomes
+unsuitable for cultivation; carefully planned
+adaptation could maintain food security in
+sub-Saharan Africa
+[27,47]
+coasts
+sea-level rise of 0.5–2.0 m if occurs in 2100 (range
+includes accelerated ice melt); for median sea-level
+rise of approximately 0.47 m in 2100, i.e. excluding
+accelerated ice melt (www.avoid.uk.net), more than
+30-fold increase in population experiencing
+coastal ﬂooding
+low risk of accelerated ice melt; for median sea-level
+rise of approximately 0.35 m in 2100, i.e. excluding
+accelerated ice melt (www.avoid.uk.net); about a
+15-fold increase in population experiencing
+coastal ﬂooding
+[25,27,87,
+90]
+ecosystems
+functional extinction of coral reef ecosystems (converted
+to algal mats); risks of extinction to approximately
+40% species studied globally, including losses of iconic
+species and associated ecotourism; disruption to
+functioning of major global ecosystems, Arctic and
+salvanization of Amazon rainforest; conversion of
+terrestrial carbon sink to a source exacerbating
+climate change; large increase in boreal and
+Mediterranean ﬁre frequency; 50% of protected areas
+cannot fulﬁl objective; major widespread loss of
+ecosystem services worldwide
+all coral reefs bleached; risks of extinction to
+approximately 20% of species studied; some
+increases in ﬁre frequency; damage to Arctic
+ecosystem functioning; ecosystem services
+reduced in some areas; Amazon forest largely
+intact
+[32,43,46,
+80,93]
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+225
+oceans
+further mean acidiﬁcation by 0.26 pH units (in addition
+to the present-day change of 0.1 units); risk of
+disruption to marine ecosystems; risk of localized
+ocean anoxia
+further acidiﬁcation by up to 0.07 pH units;
+some damage to marine ecosystems
+[89,94,95]
+extreme
+weather
+50% ﬂood-prone people exposed to increased hazard;
+ﬂood-affected population rises to 544 million annually
+(as deﬁned by those experiencing a present-day 1 in
+100 year ﬂood)
+25% ﬂood-prone people exposed to increased hazard;
+ﬂood-affected population rises to 211 million
+annually
+[27,96]
+human health
+health hazards increasingly difﬁcult to control
+hazards reduced
+[51]
+impacts of
+feedback
+processes in
+the Earth
+system
+loss of terrestrial carbon sink and hence large-scale loss
+of forests via dessication and ﬁre (potentially
+including up to 50% Amazon (excluding
+deforestation) and uncertain fraction of boreal forest)
+much reduced risk of loss of terrestrial
+carbon sink; Amazon likely to remain
+largely intact
+[32,52,77,89,
+93,98,99]
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+226
+R. Warren
+just beginning. Hence, climate change impacts on ecosystems may threaten our
+future ability to protect human health, especially as pathogens evolve resistance
+to current treatments.
+Disturbance to forests in proximity to human habitation can lead to increased
+prevalence of disease. For example, Olson et al. [35] identiﬁed a 48 per cent
+increase in malaria incidence associated with a loss of 4.3 per cent of forest cover
+in a 3 year period. This can be via a reduction in populations of the disease
+vector’s predators, or because of changing environmental conditions allowing
+them to outcompete benign related species [36]. Modelling these interactions into
+the future needs to be a priority for future research.
+A signiﬁcant proportion of the world’s population is entirely dependent on ﬁsh.
+Cheung et al. [37] report on dramatic turnovers in ﬁsh assemblages for climate
+changes well below 4◦C, particularly in the Arctic and Antarctic, potentially
+disrupting ecosystem functioning and numerous local extinctions in the subpolar
+regions, the tropics and semi-enclosed seas. Communities particularly at risk from
+changing ﬁsheries resources are on small reef islands on the rim of atolls such as
+the Maldives [25].
+Important linkages between climate change impacts on ecosystems and
+those upon agricultural and other systems are generally omitted from impacts
+assessments. For example, as bioclimatic envelopes of pest and disease vectors
+change, new pests and diseases may invade systems, requiring new disease-
+resistant crop varieties to maintain agricultural productivity [38]. Wild crop
+genotypes are an important resource yet climate change impacts upon these
+have only recently been considered [31]. However, quantifying potential risks to
+food production owing to loss of wild crop genotypes is not currently feasible.
+Several recent studies consider crop damage owing to pests in future decades [21]
+and highlight the importance of interactions between CO2 concentrations and
+temperature, and precipitation in determining the size of these effects. It would
+be useful and feasible to explore ways to combine such projections with global
+agricultural models of climate change impacts on crops, which typically omit
+impacts of pests.
+While many of the world’s staple crops reproduce vegetatively, or via wind
+pollination, many others rely on pollinators. Over 80 per cent of the 264 crops
+grown in the EU depend on insect pollination [38]. However, few pollinator
+distributions have been modelled in relation to climate change. Quantifying
+potential risks is difﬁcult because limited information exists on the relationship
+between crops, their pollinators and climate change. It is recommended to collect
+such information and carry out bioclimatic or ecophysiological modelling of
+species, or species groups, identiﬁed as the key pollinators in relation to their
+crops. Much more severe and more difﬁcult to model are the potential interactions
+between wild species and pollinators.
+(b) Interactions mediated by human adaptation to climate change
+A key interaction omitted from modelling approaches is that between
+impacts in one sector and adaptation by humans to impacts in another
+sector. For example, there are potential consequences to health and ecosystem
+sectors resulting from human adaptation in agricultural, hydrological and
+coastal sectors.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+227
+Human adaptation to climate change-induced water stress can include anything
+from local collection of rainwater on buildings through the building of dams
+to unsustainable increases in groundwater abstraction. Dam construction can
+damage wetlands, inundate forests and may encourage reproduction of disease
+agents by concentrating them in lakes close to human habitation, as has occurred
+in Burkina Faso, Sudan and Egypt for schistosomiasis and malaria [36].
+Even for small amounts of climate change it will become infeasible to continue
+to grow presently used crop varieties in tropical or desert areas where crops
+are already grown close to their thermal limits. By 4◦C, crops in many regions
+are projected to be affected and adaptation over potentially large parts of the
+globe may be needed (table 3). This could include switching to new crop types,
+installing irrigation systems, agricultural intensiﬁcation, shifting agricultural
+lands to new areas and/or the use of genetically modiﬁed crops resistant to
+future climates [1,4,17,20]. Changes to irrigation practices may exacerbate water
+stress and may reduce water supplies to wetlands, which themselves provide
+key ecosystem services. Agricultural intensiﬁcation can have negative impacts,
+including increases in nutrient run-off into rivers and estuaries, where it may
+cause local anoxia and contribute to greenhouse gas emissions of N2O [12].
+The wholesale shifting of agricultural lands has profound implications, as
+discussed below.
+Human adaptation responses to sea-level rise range from managed retreat,
+building of dykes and construction of ﬂood barriers [26]. It is widely reported to
+be cost-effective to protect major cities against a sea-level rise of up to 2 m, but
+this, as the authors acknowledge, is only a partial analysis. The coastal protection
+considered only safeguards cities and does not protect coastal infrastructure away
+from cities, which may be extensive, nor does it avoid large-scale loss of coastal
+wetlands, mangroves and saltmarshes. Building of dykes to protect towns may
+be to the detriment of associated natural ecosystems [39], such as mangroves
+and saltmarshes where many marine ﬁsh species spawn. Such ecosystems also
+protect coastlines against storm surge and tsunamis [40]. Hence, cost-effectiveness
+analyses for coastal protection need to include losses of these ecosystems and the
+consequences for ﬁsheries and coastal infrastructure.
+This volume contains some of the few studies of climate change impacts
+considering climate change as great as 4◦C. Table 3 collates some of the estimates
+appearing in this volume and elsewhere and compares them with estimates of
+impacts at 2◦C. Several of these estimates are taken from the AVOID project [27].
+Considering the large impacts in the agricultural, hydrological and ecosystem
+sectors expected in a 4◦C world, future use of land and water would need to
+be carefully planned, taking into account the needs of humans, agriculture and
+ecosystems and their services.
+In this context, limits (physical or ﬁnancial) to simultaneous adaptation in
+multiple sectors need to be considered. The global cost of adapting to climate
+change from 2010 to 2050 (2◦C) has been estimated to be $75–100 billion each
+year [41]. In the agricultural sector, Easterling et al. [21] estimated that climate
+change damages to wheat, rice and maize could be avoided by adaptation up
+to a limit of a temperature increase of 1.5–3◦C in tropical regions and 4.5–5◦C
+in temperate regions. Temperature changes of between 4 and 8◦C are projected
+in the summer across various temperate and tropical regions for a global 4◦C
+temperature rise [42]. This suggests that these adaptive capacities might be
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+228
+R. Warren
+exceeded, especially in the areas with the larger temperate rises such as the
+USA, the Mediterranean and many parts of Africa [42]. Many of these studies
+do not include damage caused by concomitant increases in tropospheric ozone
+and extreme weather events, and so the estimated adaptive capacities might be
+over-optimistic. For ecosystems, while adaptation to a 2◦C world is considered
+feasible, the options for adapting, either naturally or with human assistance, to
+a 4◦C world are extremely limited, since at these temperatures few ecosystems
+would be expected to be able to maintain their current functioning [43].
+(c) Cross-regional interactions
+The mechanism by which climate change impacts in one region affect another
+can be direct, in which losses of human or natural capital in one region affect
+human or natural capital in another region, or indirect, in which the mechanism
+is via mitigation or adaptation practices taking place in one region having
+consequences for another. Declining agricultural yields in a given region can result
+in increased demand to import food from other areas. Such changes in supply and
+demand affect food prices globally [1,4,20].
+Migration is already occurring away from some areas in response to
+desertiﬁcation (Egypt) and ﬂooding (Mozambique and Vietnam; [44]). Two
+billion people live in arid, semi-arid and sub-humid regions that are extremely
+vulnerable to water supply loss [45]. One-third of the world’s population live
+in areas already under water stress, with the area of the planet subject to
+drought at any one time projected to dramatically increase ([46]; table 3). Some
+of these water-stressed areas are expected to become agriculturally or agro-
+economically non-viable. Table 3 shows the large numbers of people (some 800
+million) exposed to increasing water stress, and 50 per cent of global cropland
+projected to become less suitable or unsuitable for cultivation in a 4◦C world. In
+sub-Saharan Africa migration to highlands is a likely consequence [47]. Migration
+may be inevitable in areas where climate change will have a detrimental effect
+on already water-stressed agricultural areas such as northeastern Brazil [48].
+Coastal systems currently hold some 40 per cent of the global population, and
+there is increasing immigration into these areas [25]. However, sea-level rises of
+0.5–2.0 m are expected in a 4◦C world (table 3). One estimate of climate change-
+induced migration suggests that 1.4–6.7 million Mexicans could migrate to the
+USA as a direct result of climate change-induced crop failure by the 2080s [49].
+Estimates from empirical data about past climate variability and migration rates
+showed that a 10 per cent reduction in Mexican crop yields would lead to 2
+per cent of the Mexican population emigrating. With larger reductions in crop
+yields projected for many parts of the world, notwithstanding the unique cross-
+border circumstances, this raises the potential for substantial human migrations,
+raising concerns about international stability [50]. Large-scale migration will also
+have impacts such as demand for land and water in the regions into which they
+move, not included in current assessments of impacts. This will be particularly
+important in a 4◦C world. The synergy of these impacts shown in table 3 could
+induce dramatic changes in where people live and practise agriculture. Hunger,
+starvation, conﬂict and population movement may be widespread [51].
+There has been little study of the potential mechanisms for cross-regional
+interaction in modelling exercises and a process-based simulation of migration
+is
+almost
+certainly
+infeasible
+owing
+to
+the
+complex
+nature
+of
+personal
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+229
+migration-related decision-making [52]. Rather, a scenario-based approach to
+possible future migration patterns is recommended, so that climate impact
+projections, already dependent on future downscaled population projections
+(e.g. [1]), can be made consistent with scenarios for population movement.
+An estimated 50 per cent of the impacts on water stress and crop suitability
+could be avoided by constraining climate change to 2◦C (table 3; [27]). In this
+situation, the potential for large-scale migration and displacement agriculture
+will therefore be less and potentially more likely to remain within the adaptive
+capacity of the human and natural systems concerned.
+(d) Climate change mitigation and land-use change
+Changes in land use can have large impacts on the global and local climate.
+For example, deforestation releases carbon from removed vegetation and soils,
+and the surface albedo changes signiﬁcantly. Forests such as the Amazon ‘recycle’
+their water and hence forest loss can contribute to drying [53]. Climate change
+mitigation could involve signiﬁcant reductions in deforestation as this is regarded
+as one of the most cost-effective methods of reducing emissions, and there is
+widespread consideration of the introduction of a political mechanism for so-doing
+(Reducing Emissions from Deforestation and Degradation; REDD).
+However, human adaptation to climate change impacts might induce shifts of
+agriculture away from drying areas and into areas currently covered by forests.
+Hence, projections of impacts on ecosystems might be exacerbated by further
+conversion of natural ecosystems to agricultural systems (table 2). This can have
+additional implications for human health, by creating conditions under which
+disease vectors thrive close to human habitation [36].
+Afforestation can also contribute to climate change mitigation through
+carbon sequestration, with positive or negative implications for biodiversity and
+ecosystem services. Attempts to create forests in areas currently supporting high
+non-forest biodiversity, or by using non-native tree species, can have a negative
+impact on native biodiversity, and may not succeed since soils may not be suitable.
+Planting of native trees in previously degraded or deforested areas is beneﬁcial
+to biodiversity and ecosystem services, and can enhance connectivity in forest
+ecosystems, aiding in adaptation [43]. Beneﬁts of afforestation accrue slowly over
+the long time scales required to recapture the carbon lost from an area that has
+originally been deforested [54]. For this reason, 1 ha of afforestation does not
+effectively compensate for 1 ha of deforestation and this is an important factor in
+the interaction of climate change mitigation and land-use planning.
+A 4◦C world would induce changes in the distribution of the human population,
+its diet, its agricultural systems and its ecosystems, concentrating all three in
+areas remaining sufﬁciently wet. The study of these interactions is still in its
+infancy. IMAGE has been used to explore agricultural trade liberalization in
+the context of climate change, showing how it would encourage expansion of
+agricultural land in Latin America and southern Africa, increasing pressure
+on ecosystems [4]. The cost of reaching 2050 emissions reduction goals (80%
+lower than 2000 levels) could be cut by 50 per cent if agricultural production
+transitioned from meat-based to plant-based diets, based on the abandonment of
+2700 Mha of pastureland and also from reductions in greenhouse gas emissions
+from agriculture [55]. Efforts to assist natural ecosystems to adapt to climate
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+230
+R. Warren
+change include enhancing connectivity between areas. Spatial planning issues
+connected with planned adaptation in agricultural and human systems will need
+to be integrated with adaptation of ecosystems and ecosystem services.
+Stringent mitigation of greenhouse gas emissions will require large-scale
+deployment of renewable energy generation and/or biomass cropping. Both of
+these have signiﬁcant interactions with land use. For biofuel or biomass cropping,
+the land required for this must displace either agricultural land, marginal land or
+natural ecosystems [56]. This displacement of agricultural land may be increased
+by the negative climate change impacts on sugarcane yields [57]. Displacement
+of agricultural land will inﬂuence world food supply and prices, as has already
+occurred during the food price crisis of 2007/2008 [58], and will have impacts
+for risks of malnutrition. Holistic management of both fossil fuel emissions and
+the terrestrial biosphere through expansion of forests and unmanaged ecosystems
+would lower mitigation costs [59], but food prices could rise owing to the pressure
+on agricultural land. If, instead, shifting (adapting) agricultural systems causes
+deforestation or unmanaged ecosystem loss, this will reduce the resilience of
+ecosystems to climate change. Similarly, biofuel cropping, nuclear power plants
+and carbon capture and storage plants all require large amounts of water.
+Thus, mitigation efforts have potential complex interactions with climate change
+impacts on agriculture and ecosystems.
+Key interactions also occur between climate change and the operation of
+renewable energy in the future, and between land-use planning and the siting
+of renewable energy plants. A major beneﬁt of mitigation is the protection
+of vulnerable people and ecosystems from climate change, and unintentional
+negative impacts of renewable energy schemes can be prevented by careful siting
+of plant. Deployment of renewable energy, nuclear power, and carbon capture and
+storage schemes needs to be planned around future climates, rather than making
+an assumption that current wind, water or solar resources will be available for
+some decades in the same location in the future. Careful assessment can avoid
+potential ‘mal-mitigation’ where mitigation efforts could either fail entirely or
+produce largely avoidable local negative side effects.
+(e) Regionally coincident impacts
+Spatially coincident impacts in different sectors could have a disproportionate
+effect on the human population and ecosystems of a given region. Many climate
+change projections refer to large regions, while on the ground a diverse pattern
+of gains and losses may exist within an overall picture of regional loss. However,
+impacts that occur in the same region, even if not precisely spatially coincident,
+may have a disproportionate effect on a region’s economy owing to multiple
+stresses placed upon the system. The IPCC [46] reports on coincident hunger, sea-
+level rise and water resource scarcity impacts in Asia; and coincident water stress
+and malnutrition in Africa. Since most of the literature assessed by the IPCC [46]
+refers to global temperature rises of less than 4◦C, such coincident impacts would
+be expected to be much more widespread and severe in a 4◦C world.
+(f ) Extreme weather events
+In the coming decades, one of the most serious impacts of climate change
+is projected to be the consequences of the projected increases in extreme
+weather events. For example, climate change-induced changes in precipitation
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+231
+patterns and changes in climate variability would increase the area of the globe
+experiencing drought at any one time from today’s 1 per cent to a future 30
+per cent by the end of the twenty-ﬁrst century [46]. An increasing number of
+studies now project global trends in how extremes will change in the future
+using GCM and/or regional climate model (RCM) output (e.g. [60,61]). However,
+uncertainties in these projections are large, particularly for precipitation, with
+some changes of opposite sign. Some studies have focused on the regional
+uncertainties of projecting extremes, in particular for projection of increased
+European drought (e.g. [62,63] and references therein). Limited work exists for
+other continents.
+Few studies examine the potential consequences of these increases in extreme
+weather upon individual sectors and/or regions, but these could be signiﬁcant.
+Only a few days of high temperatures near ﬂowering in wheat, groundnut and
+soybean can drastically reduce yield [64], while maize losses could potentially
+double owing to ﬂoods in the USA [65]; and the AVOID study [27] estimated
+that, in a 4◦C world, 50 per cent of ﬂuvial ﬂood-prone people would be exposed
+to increased ﬂood risk compared with approximately 25 per cent in a 2◦C world.
+Biophysical IAMs and other regionally and sectorally speciﬁc climate change
+impact models can simulate changes in the frequency and the intensity of extreme
+weather events if:
+— the impact model is formulated to take account of, for example, the effect
+of continuous periods of dry days or dry months (for long-term drought), or
+the number of days over which temperatures exceed a particular threshold
+(for heatwaves), or daily time series of rainfall (for heavy precipitation
+events). Many process-based physical impact models require climate inputs
+in the form of a daily time series. Simple IAMs are not capable of
+representing such processes in detail, although PAGE attempts to provide
+a scenario that accounts for increases in extremes. Cumulative distribution
+functions might be constructed from statistical relationships between
+extremes and predictor variables used in these simple IAMs [3], enabling
+them to better represent the impacts of extremes.
+— the climate change projections provided to the model are at the
+appropriate temporal resolution (monthly for droughts, and daily for
+most other extreme weather events), and include projected increases
+in extremes. Considering probability distributions (pdf) of climatic
+parameters, extreme events may increase for: a shift in the mean climate; a
+shift in the variance; or an increase in its skewness. For example, monthly
+future climates can be produced by pattern-scaling GCM outputs as in
+SCENGEN [66], after which a weather generator derives a daily time series.
+In these studies, changes in the frequency of extreme weather events can
+only occur as a result of changes in mean climate and as a result of changes
+in variability or skewness. However, the approach can capture long-term
+droughts since the monthly changes in precipitation derived from the
+GCM patterns are incorporated in the analyses [63]. New approaches in
+ClimGEN and/or the further development of weather generators may allow
+representation of changes in variability and/or skewness in biophysical
+IAMs [3,66,67].
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+232
+R. Warren
+(g) Interactions within sectors generally not combined within analyses
+Dynamic global vegetation models (DGVMs) and bioclimate envelope models
+are commonly used to project climate change impacts on ecosystems. DGVMs
+consider the cycling of biomass, carbon, nutrients and water between ecosystems
+and the atmosphere, using detailed land-surface schemes that capture interactions
+in detail [68]. However, they model ecosystems as plant functional types and
+do not consider responses of individual species. In contrast, bioclimatic models
+use empirical statistical correlations between meteorological variables and species
+presence [69,70] to derive predictors for species distributions. Such predictors
+appear to work well at large scales—with precipitation and temperature variables
+being tied to direct and indirect processes.
+However, DGVMs treat ecosystems simply as a functional type, so that impacts
+on biodiversity are not adequately assessed, while the bioclimatic envelope
+approach is generally applied to one species at a time and interactions between
+species are not considered. A few studies examine the combined effects of climate
+change on plants and their pollinators [71] or on predators and their prey, or on
+how the spread of disease might induce extinction of some species (e.g. [72]).
+Attempts by one species to survive a changed climate by moving to higher
+latitudes and altitudes might result in that species becoming invasive in the
+new environment it has colonized. However, for the majority of species, the
+effects of climate change on such interactions have not been considered, and
+this is potentially signiﬁcant in terms of unforeseen disruption to ecosystem
+functioning [73].
+Climate change impacts to forest trees have been estimated by both DGVMs
+and bioclimatic models (e.g. [67,74,75]), while at the same time other models are
+used to project future incidence of forest ﬁre (e.g. [76–78]), while still others
+simulate outbreaks of pests [79]. In a 4◦C world, soil carbon cycle feedback
+processes are projected to lead to widespread forest loss, especially in the Amazon
+(e.g. [78,79]). These simultaneous effects have not yet been combined in any
+quantitative analysis, but overall must lead to a more pessimistic view.
+Climate change impacts on species have been widely calculated (Warren
+et al. [80] present a meta-analysis), but there are only limited studies on keystone
+species that affect overall ecosystem functioning. For example, potential declines
+in krill, a keystone species in the Southern Ocean, have been identiﬁed [81] and
+this will have impacts on many other species. Ocean acidiﬁcation threatens the
+potential for coral reefs, coccolithiphores, molluscs and other shell-forming ocean
+inhabitants to survive [82,83]. Only for coral reefs has this research been combined
+with impacts of increases in sea surface temperature in projecting thresholds for
+survival [84]. Changes in marine productivity might well be expected as the ocean
+acidiﬁes, and the consequences of this are unknown [46]. Similarly, projected
+climate change impacts on ﬁsh [37] include climate change impacts on larval
+dispersal but omit loss of nursery habitat.
+In agricultural systems, the wide range of studies reviewed by the IPCC [46]
+variously include CO2 fertilization effects (in some cases with appropriate
+treatment of uncertainty therein), methods of adaptation, the potential for
+agriculture to move to new areas and global trade in crops. However, no single
+approach incorporates all of these features. As mentioned earlier, it would be
+useful to explore how climate change-induced projected increases in outbreaks
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+233
+of agricultural pests and diseases could be incorporated in agricultural models.
+Increases in fossil fuel burning also lead to increases in tropospheric ozone
+levels that damage crops and trees—also not generally included in models
+assessing climate change impacts on agriculture or ecosystems [1,20,85]. However,
+increases in tropospheric ozone and their impacts on crops and trees have
+been projected independently (Felzer et al. [86] review recent studies) and it
+would not be difﬁcult to combine such models. Tropospheric ozone also damages
+human health, highlighting the need to combine assessments of climate change
+damage with those of the air pollution resulting from the emission of the
+same pollutants.
+(h) Feedback processes in the Earth system
+While many feedback processes are represented in global climate change models
+and thus indirectly in the simple models emulating them, recent observations are
+showing that some processes, in particular the melting of Greenland and West
+Antarctic Ice Sheets and the Arctic sea ice, are proceeding more rapidly than
+in models [87,88]. This indicates that the Earth may be more sensitive to the
+current levels of warming than GCMs are projecting. A more signiﬁcant potential
+feedback is the release of marine methane hydrates. This could result in a
+progressive release, over a 1000–100 000 year time scale, of about twice the amount
+of fossil fuel carbon emitted [89]. The potential release rate on shorter time scales
+has not been estimated but could exacerbate warming, as could the currently
+increasing release of methane from permafrost [90]. Other feedback processes
+such as changes in albedo as a result of climate change-induced forest dieback, or
+increased desertiﬁcation, are included in some GCMs [53]. However, some climate
+change impacts such as losses of forest owing to pine-bark or spruce-budworm
+attack, in combination with increased incidence of ﬁre, might alter albedo in
+some areas. Such an interaction could usefully be modelled. As knowledge about
+the processes underlying feedbacks in the Earth system improves, they can be
+included in GCMs and thus be reﬂected also in projections of climate change
+impacts. Finally, climate change impacts are projected to cause reductions in
+economic growth, with estimated losses depending on the assumed discount rate,
+and rising as high as 5–20% of GDP [91]. Such losses might reduce anthropogenic
+greenhouse gas emissions: an effect potentially much larger than any increase
+in emissions caused by additional demand for air conditioning. However, models
+that provide integrated assessment of climate change impacts and the economy [1]
+generally represent climate change impacts poorly and usually omit Earth system
+feedback effects entirely [6].
+3. Discussion
+Table 3 shows that a 4◦C world would be facing enormous adaptation challenges
+in the agricultural sector, with large areas of cropland becoming unsuitable for
+cultivation, and declining agricultural yields. This world would also rapidly be
+losing its ecosystem services, owing to large losses in biodiversity, forests, coastal
+wetlands, mangroves and saltmarshes, and terrestrial carbon stores, supported
+by an acidiﬁed and potentially dysfunctional marine ecosystem. Drought and
+desertiﬁcation would be widespread, with large numbers of people experiencing
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+234
+R. Warren
+increased water stress, and others experiencing changes in seasonality of water
+supply. There would be a need to shift agricultural cropping to new areas,
+impinging on unmanaged ecosystems and decreasing their resilience; and large-
+scale adaptation to sea-level rise would be necessary. Human and natural systems
+would be subject to increasing levels of agricultural pests and diseases, and
+increases in the frequency and intensity of extreme weather events.
+In such a 4◦C world, the limits for human adaptation are likely to be exceeded
+in many parts of the world, while the limits for adaptation for natural systems
+would largely be exceeded throughout the world. Hence, the ecosystem services
+upon which human livelihoods depend would not be preserved. Even though
+some studies have suggested that adaptation in some areas might still be feasible
+for human systems, such assessments have generally not taken into account
+lost ecosystem services. Climate change impacts, especially drought and sea-
+level rise, are likely to lead to human migration as people attempt to seek
+livelihoods elsewhere.
+This paper has highlighted the further challenges presented by the interactions
+between climate change impacts, in which coincident or interacting impacts
+within and between sectors and regions may present a greater challenge than
+the sum of the challenge of adapting to each impact in each region if these
+were independent. It has drawn attention to the interaction between human
+adaptation processes and impacts in various sectors. Importantly, it has also
+highlighted the interaction between climate change impacts upon terrestrial and
+coastal ecosystems and human sectors such as agriculture and human health.
+These interaction processes will increase as their drivers increase, and will be
+much more signiﬁcant in a 4◦C world than in a 2◦C world.
+Were global average temperatures to rise by 2◦C and not increase further,
+some 50 per cent of the impacts to human systems could potentially be prevented
+(table 3 and [27]), and ecosystem services would, in large part, be expected to be
+generally preserved (table 3). While some areas would experience drying, as table
+3 shows the impacts on agriculture and hydrology, and sea-level rise, would be
+expected to be much lower than in the 4◦C case, and similarly the challenge to
+adaptation to these effects and their interactions would also be much lower. Local-
+scale damage to some ecosystems, including extinctions, and disruption to coral
+reef and ice-based ecosystems would still be expected, but the worst losses might
+be prevented. Conservation planning might be able to assist with the adaptation
+of natural ecosystems to this level of temperature rise.
+The role of land-use change at the nexus between climate change mitigation
+and adaptation and agricultural and natural ecosystems has been highlighted,
+with particular reference to biofuel cropping, agricultural intensiﬁcation and
+diet. The spatial planning of land use when attempting to simultaneously adapt
+agricultural, human, coastal and natural ecosystems to a changing climate, with
+or without signiﬁcant mitigation, has been highlighted as very important. This
+will be particularly important for mitigation planning when aiming for a 2◦C
+world. Such an approach might be termed ‘ecosystem-based mitigation’.
+Only a limited proportion of these interactions is currently captured by
+modelling processes, in particular the simple IAMs commonly used for cost–
+beneﬁt analysis. While some interactions appear too uncertain to capture within
+models (e.g. with human migration), there is a need to represent others, especially
+the possible consequences of large-scale adaptation. Process-based IAMs such as
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+235
+IMAGE, CIAS and GCAM are best prepared to assess these interactions and
+IMAGE and GCAM have already been applied to examine some of the links
+between land-use change, climate change and agricultural systems.
+As climate changes, the drier regions of the planet are projected to become
+less and less habitable owing to increases in drought and desertiﬁcation. Many
+humans and ecosystems would be expected to be forced to adapt by attempting
+to move into areas remaining sufﬁciently wet and not inundated by sea-level
+rise. This would result in a concentration of the human population, agriculture
+and remaining biodiversity in a contracting land area, leading to increasing
+competition for land and water. Integrated models could usefully be applied to
+determine when land and water supplies may become insufﬁcient to satisfy the
+needs of human systems and the ecosystem services (such as wetlands, forests
+and biodiversity in general) supporting livelihoods.
+4. Conclusion
+This paper has highlighted the complexity of a 4◦C world and the wide-ranging
+consequences of direct and indirect human and natural impacts and adaptation
+to climate change. Only a limited number of these interactions has so far been
+captured by models.
+Any attempt to debate an acceptable level of mitigation for global greenhouse
+gas emissions needs to take into account not only the projected climate change
+impacts but also the considered limits to adaptation in each sector and region;
+the potential for interactions between the impacts; the potential consequences of
+adaptation in one sector on other sectors and regions; whether there is sufﬁcient
+land and water to deliver the required combination of adaptation and mitigation;
+and how land use, agricultural and climate policies are inextricably linked.
+This highlights the need for ecosystem-based mitigation as well as ecosystem-
+based adaptation. Lack of consideration of such key linkages risks a signiﬁcant
+underestimation of the challenge that simultaneous adaptation in multiple sectors
+and regions at multiple scales, while subject to ever-increasing extreme weather,
+presents. Consideration of such linkages thus adds signiﬁcantly to the incentive
+to avoid a 4◦C world.
+While the impacts of climate change are projected to be smaller and
+less widespread for global mean temperature rises of 2◦C as opposed to
+4◦C, interactions between mitigation processes and adaptation and climate
+change impacts, and the resultant demands for land and water, will be of
+great importance.
+Issues of land-use change and human migration are currently inadequately
+addressed in most studies, and there is a fundamental lack of incorporation of the
+role of ecosystem services. This review has suggested how modelling approaches
+might be improved to cover interactions more fully, while recommending that
+processes such as migration need to be handled using a scenario approach. Other
+omitted interactions are too difﬁcult to quantify or to combine with mainstream
+sectoral studies and need to be combined qualitatively with modelling approaches.
+The context of the potential for large-scale feedbacks in the Earth system to
+exacerbate climate change and consequent impacts and interactions for any given
+future emission scenario beyond levels currently estimated by state-of-the-art
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+236
+R. Warren
+modelling approaches needs to be taken into account. Such feedbacks are
+much more likely to operate in a 4◦C world, potentially increasing global
+mean temperature rise still further. These risks would be much reduced in
+a 2◦C world.
+Table 3’s synthesis of impacts in a 2◦C and 4◦C world includes results produced by the AVOID
+project (www.avoid.uk.net), which is funded by the UK Department of the Environment, Food
+and Rural Affairs.
+References
+1 Parry, M. (ed.) 2004 An assessment of the global effects of climate change under SRES
+emissions and socioeconomic conditions. Glob. Environ. Change 14.
+2 Nakicenovic, N. & Swart, R. 2000 Special report on emissions scenarios. Cambridge, UK:
+Cambridge University Press.
+3 Goodess, C. M., Hanson, C., Hulme, M. & Osborn, T. J. 2003 Representing climate and
+extreme weather events in integrated assessment models: a review of existing methods and
+options for development. Integr. Assess. 4, 145–171. (doi:10.1076/iaij.4.3.145.23772)
+4 MNP. 2006 An overview of IMAGE 2.4. In Integrated modelling of global environmental change.
+Netherlands Environmental Assessment Agency (MNP) (eds A. F. Bouwman, T. Kram &
+K. Klein Goldewijk). Amsterdam, The Netherlands: Bilthoven.
+5 Warren, R. et al. 2008 Development of the community integrated assessment system
+(CIAS), a multi-institutional modular integrated assessment approach for modelling climate
+change, and of SoftIAM, its supporting software. Environ. Model. Soft. 23, 592–610.
+(doi:10.1016/j.envsoft.2007.09.015)
+6 Mastrandrea, M. D. 2009 Calculating the beneﬁts of climate policy: examining the assumptions
+of integrated assessment models. Pew Center for Climate Change Report. See http://www.
+pewclimate.org/beneﬁts-workshop/mastrandrea-calculating-beneﬁts-of-climate-policy.
+7 Tol, R. S. J. 1999 Safe policies in an uncertain climate: an application of FUND. Glob. Environ.
+Change 9, 221–232. (doi:10.1016/S0959-3780(99)00011-4)
+8 Hope, C. 2006 The marginal impact of CO2 from PAGE2002: an integrated assessment model
+incorporating the IPCC’s ﬁve reasons for concern. Integr. Assess. 6, 19–56.
+9 Nordhaus, W. D & Boyer, M. 2000 Warming the world: economic models of global warming.
+Cambridge: MIT.
+10 Manne, A., Mendelsohn, R. & Richels, R. 1995 A model for evaluating regional and
+global effects of greenhouse policies. Energy Policy 23, 17–24. (doi:10.1016/0301-4215(95)
+90763-W)
+11 Warren, R., Mastrandrea, M., Hope, C. & Hof, A. 2010 Variation in the climatic response of
+integrated models. Clim. Change 102, 671–685. (doi:10.1007/s10584-009-9769-x)
+12 IPCC. 2007 Climate change 2007: the physical science basis. In Contribution of Working Group
+I to the Fourth Assessment Report of the IPCC (eds S. Solomon, D. Qin, M. Manning, M.
+Marquis, K. Averyt, M. M. B. Tignor, H. Le Roy Miller Jr & Z. Chen). Cambridge, UK:
+Cambridge University Press.
+13 Anthoff, D. & Tol, R. S. J. 2009 Fund technical description. See http://www.fnu.zmaw.de/
+ﬁleadmin/fnu-ﬁles/staff/tol/FundTechnicalDescription.pdf.
+14 Hope, C. 2009 How deep should the deep cuts be? Optimal CO2 emissions over time under
+uncertainty. Clim. Policy 9, 3–8. (doi:10.3763/cpol.2008.0544)
+15 Ritchie, J. T. & Otter, S. 1995 Description and performance of CERESWheat: a user oriented
+wheat-yield model. In ARS Wheat Yield Project (ed. W. O. Willis), pp. 159–175. ARS-38.
+Washington, DC: Department of Agriculture, Agricultural Research Service.
+16 Mearns, L. (ed.) 2003 Issues in the impacts of climate variability and change on agriculture.
+Boston, MA: Kluwer Academic Publishers.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+237
+17 Mendelsohn, R. & Neumann, J. (eds) 1999 The impact of climate change on the United States
+economy. Cambridge UK: Cambridge University Press.
+18 Darwin, R. 2004 Effects of greenhouse gas emissions on world agriculture, food consumption,
+and
+economic
+welfare.
+Clim.
+Change
+66,
+191–238.
+(doi:10.1023/B:CLIM.0000043138.
+67784.27)
+19 Schneider, S. 1997 Integrated assessment modelling of global climate change: transparent
+rational tool for policy making or opaque screen for hiding value-laden assumptions? Environ.
+Model. Assess. 2, 229–249. (doi:10.1023/A:1019090117643)
+20 Fischer, G., Shah, M., van Velthiuzen, H. & Nachtergaele, F. O. 2001 Global agroecological
+assessment for agriculture in the 21st century. IIASA Research Report 02-02. International
+Institute for Applied Systems Analysis, Laxenburg, Austria.
+21 Easterling, W. E. et al. 2007 Food, ﬁbre and forest products. In Climate change 2007: impacts,
+adaptation and vulnerability. Contribution of Working Group II to the Fourth Assessment
+Report of the Intergovernmental Panel on Climate Change (eds. M. L. Parry, O. F. Canziani,
+J. P. Palutikof, P. J. van der Linden & C. E. Hanson), pp. 273–313. Cambridge, UK: Cambridge
+University Press.
+22 Goulden, M., Conway, D. & Pereschino, A. 2009 Adaptation to climate change in international
+river basins in Africa: a review. Hydrol. Sci. 54, 805–828. (doi:10.1623/hysj.54.5.805)
+23 Parry, M. 2001 Millions at risk: deﬁning critical climate change threats and targets. Glob.
+Environ. Change 11, 1–3. (doi:10.1016/S0959-3780(01)00011-5)
+24 Parry, M., Rosenzweig, C. & Livermore, M. 2005 Climate change, global food supply and risk
+of hunger. Phil. Trans. R. Soc. B 360, 2125–2136. (doi:10.1098/rstb.2005.1751)
+25 Nicholls, R. J., Wong, P. P., Burkett, V. R., Codignotto, J. O., Hay, J. E., McLean, R. F.,
+Ragoonaden, S. & Woodroffe, C. D. 2007 Coastal systems and low-lying areas. In Climate
+change 2007: impacts, adaptation and vulnerability. Contribution of Working Group II to the
+Fourth Assessment Report of the Intergovernmental Panel on Climate Change (eds M. L.
+Parry, O. F. Canziani, J. P. Palutikof, P. J. van der Linden & C. E. Hanson), pp. 315–356.
+Cambridge, UK: Cambridge University Press.
+26 Nicholls, R. J., Hoozemans, F. M. J. & Marchand, M. 1999 Increasing ﬂood risk and wetland
+losses due to global sea-level rise: regional and global analyses. Glob. Environ. Change 9,
+S69–S87. (doi:10.1016/S0959-3780(99)00019-9)
+27 Warren, R. et al. 2010 The economics and climate change impacts of various greenhouse gas
+emission pathways: a comparison between baseline and policy emission scenarios. London:
+DEFRA. See www.avoid.uk.net.
+28 Hoozemans, F. M. J., Marchand, M. & Pennkamp, H. A. 1993 A global vulnerability analysis:
+vulnerability assessment for population, coastal wetlands, and rice production on a global scale,
+2nd edn. Amsterdam, The Netherlands: Delft Hydraulics.
+29 Wassman, R., Nguyen, T. H., Chu, T. H. & To, P. T. 2004 Sea level rise affecting the
+Vietnamese Mekong Delta: water elevation in the ﬂood season and implications for rice
+production. Clim. Change 66, 89–107. (doi:10.1023/B:CLIM.0000043144.69736.b7)
+30 Nicholls, R. J., Marinova, N., Lowe, J.A., Brown, S., Vellinga, P., de Gusmão, D., Hinkel, J.
+& Tol, R. S. J. 2011 Sea-level rise and its possible impacts given a ‘beyond 4◦C world’ in the
+twenty-ﬁrst century. Phil. Trans. R. Soc. A 369, 161–181. (doi:10.1098/rsta.2010.0291)
+31 Jarvis, A., Lane, A. & Hijmans, R. 2008 The effect of climate change on crop wild relatives.
+Agr. Ecosyst. Environ. 126, 13–23. (doi:10.1016/j.agee.2008.01.013)
+32 Fischlin, A. et al. 2007 Ecosystems, their properties, goods and services. In Climate change
+2007: impacts, adaptation and vulnerability. Contribution of Working Group II to the Fourth
+Assessment Report of the Intergovernmental Panel of Climate Change (eds M. L. Parry et al.),
+pp. 211–272. Cambridge, UK: Cambridge University Press.
+33 Chivian, E. & Bernstein, A. (eds) 2008 Sustaining life: how human health depends on
+biodiversity. New York, NY: Oxford University Press.
+34 Newman, D. J., Kilama, J., Bernstein, A. & Chivian, E. 2008 Medicines from nature. In
+Sustaining life: how human health depends on biodiversity (eds E. Chivian & A. Bernstein),
+pp. 117–162. New York, NY: Oxford University Press.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+238
+R. Warren
+35 Olson, S. H., Gangnon, R., Silveira, G. A. & Patz, J. A. 2010 Deforestation and
+malaria in Mancio Lima County, Brazil. Emerging Infect. Dis. 16, 1108–1115. (doi:10.3201/
+eid1607.091785)
+36 Molyneux, D. H., Ostﬁeld, R. S., Bernstein, A. & Chivian, E. 2008 Ecosystem disturbance,
+biodiversity loss, and human infectious disease. In Sustaining life: how human health depends on
+biodiversity (eds E. Chivian & A. Bernstein), pp. 287–324. New York, NY: Oxford University
+Press.
+37 Cheung, W. W. L., Lam, V. W. Y., Sarmiento, J. L., Kearney, K., Watson, R. & Pauly, D. 2009
+Projecting global marine biodiversity impacts under climate change scenarios. Fish Fisheries
+10, 235–251. (doi:10.1111/j.1467-2979.2008.00315.x)
+38 Hillel, D. & Rosenzweig, C. 2008 Biodiversity and food production. In Sustaining life: how
+human health depends on biodiversity (eds E. Chivian & A. Bernstein), pp. 325–381. New
+York, NY: Oxford University Press.
+39 Knogge, T., Schirmer, M. & Schuchardt, B. 2004 Landscape-scale socio-economics of sea-level
+rise. Ibis 146, 11–17.
+40 Danielsen, F. et al. 2005 The Asian Tsunami: a protective role for coastal vegetation. Science
+310, 643. (doi:10.1126/science.1118387)
+41 Margulis, S., Narain, U., Pandey, K., Cretegny, L., Bucher, A., Schneider, R., Hughes,
+G., Essam, T. & Mearns, R. 2010 The costs of developing countries adapting to
+climate change. New methods and estimates. The Global Report of the Economics of
+Adaptation to Climate Change Study, Consultation Draft. World Bank, Washington,
+DC.
+See
+http://beta.worldbank.org/climatechange/content/economics-adaptation-climate-
+change-study-homepage.
+42 Sanderson, M. G., Hemming, D. L. & Betts, R. A. 2011 Regional temperature and
+precipitation changes under high-end (≥4◦C) warming. Phil. Trans. R. Soc. A 369, 85–98.
+(doi:10.1098/rsta.2010.0283)
+43 CBD (Convention on Biological Diversity). 2009 Connecting biodiversity and climate change
+mitigation and adaptation. Report of the Second Ad Hoc Technical Expert Group on
+Biodiversity and Climate change. CBD Technical Series no. 41. Secretariat of the Convention
+on Biological Diversity, Montreal, Canada.
+44 Warner, K., Hamza, M., Oliver-Smith, A., Renaud, F. & Julca, A. 2010 Climate change,
+environmental degradation and migration. Nat. Hazards (doi:10.1007/s11069-009-9419-7).
+45 Millennium Ecosystem Assessment. 2005 Ecosystems and human well-being: synthesis.
+Washington, DC: Island Press.
+46 IPCC 2007 Climate change 2007 impacts, adaptation and vulnerability. In Contribution of
+Working Group II to the Fourth Assessment Report of the IPCC (eds M. Parry, O. Cansiani,
+J. Palutikof, P. Van der Linden & C. Hanson). Cambridge, UK: Cambridge University Press.
+47 Thornton, P. K., Jones, P. G., Ericksen, P. J. & Challinor, A. J. 2011 Agriculture and
+food systems in sub-Saharan Africa in a 4◦C+ world. Phil. Trans. R. Soc. A 369, 117–136.
+(doi:10.1098/rsta.2010.0246)
+48 Mendelsohn, R., Kurukulasuriya, P. & Dinar, A. 2007 Climate and rural income. Clim. Change
+81, 101–118. (doi:10.1007/s10584-005-9010-5)
+49 Feng, S., Krueger, A. B. & Oppenheimer, M. 2010 Linkages among climate change, crop
+yields and Mexico-US cross-border migration. Proc. Natl Acad. Sci. USA 107, 14 257–14 262.
+(doi:10.1073/pnas.1002632107)
+50 Burke, M. B., Miguel, E., Satyanath, S., Dykema, J. A. & Lobell, D. B. 2009 Warming
+increases the risk of civil war in Africa. Proc. Natl Acad. Sci. USA 106, 20 670–20 674.
+(doi:10.1073/pnas.0907998106)
+51 Hales, S. 2009 Estimating human population health impacts in a 4+◦C world. See
+http://www.eci.ox.ac.uk/4degrees/programme.php.
+52 Cox, P. M., Betts, R. A., Collins, M., Harris, P. P., Huntingford, C. & Jones, C. D. 2004
+Amazonian forest dieback under climate-carbon cycle projections for the 21st century. Theor.
+Appl. Climatol. 78, 137–156. (doi:10.1007/S00704-004-0049-4)
+53 Renaud, F. G., Dun, O., Warner, K. & Bogardi, J. In press. A decision framework for
+environmentally induced migration. Int. Migr. Theor. Appl. Climatol. 78, 137–156.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+239
+54 Keith, H., Mackey, B. G. & Lindenmayer, D. B. 2010 Re-evaluation of forest biomass carbon
+stocks and lessons from the world’s most carbon-dense forests. Proc. Natl Acad. Sci. USA
+106, 11 635–11 640. (doi:10.1073/pnas.0901970106)
+55 Stehfest, E., Bouwman, A. F., Vuuren, D. P., den Elzen, M. G. J., Eickhout, B. &
+Kabat, P. 2009 Climate beneﬁts of changing diet. Clim. Change 95, 83–102. (doi:10.1007/
+s10584-008-9534-6)
+56 Righelato, R. & Spracklen, D. V. 2007 Carbon mitigation by biofuels or by saving and restoring
+forests? Science 317, 902. (doi:10.1126/science.1141361)
+57 Nayamuth, R. 2009 4+◦C: A drastic reduction in the renewable energy potential of sugarcane.
+See http://www.eci.ox.ac.uk/4degrees/programme.php.
+58 Pimentel, D. 2009 Biofuel food disasters and cellulosic ethanol problems. Bull. Sci. Technol.
+Soc. 29, 205–212. (doi:10.1177/0270467609333732)
+59 Wise, M., Calvin, C., Thompson, A., Clarke, L., Bond-Lamberty, B., Sands, R., Smith, S. J.,
+Janetos, A. & Edmonds, J. 2009 Implications of limiting CO2 concentrations for land use and
+energy. Science 324, 1183–1187. (doi:10.1126/science.1168475).
+60 Tebaldi, C., Hayhoe, K., Arblaster, J. M. & Meehl, G. A. 2006 Going to the extremes: an
+intercomparison of model-simulated historical and future changes in extreme events. Clim.
+Change 79, 185–211. (doi:10.1007/s10584-006-9051-4)
+61 Hirabayashi, Y., Kanae, S., Emori, S., Oki, T. & Kimoto, M. 2008 Global projections of
+changing risks of ﬂoods and droughts in a changing climate. Hydrol. Sci. 53, 754–772.
+(doi:10.1623/hysj.53.4.754)
+62 Blenkinsop, S. & Fowler, H. J. 2007 Changes in European drought characteristics projected
+by the PRUDENCE regional climate models. Int. J. Climatol. 27, 1595–1610.
+63 Warren, R., Yu, R., Osborn, T. & Santos, S. Submitted. Future European drought regimes
+under mitigated and unmitigated climate change: applications of the community integrated
+assessment system.
+64 Challinor, A. J., Wheeler, T. R., Osborne, T. M. & Slingo, J. M. 2006 Assessing the
+vulnerability of crop productivity to climate change thresholds using an integrated crop-
+climate model. In Avoiding dangerous climate change (eds H. J. Shellnhuber et al.),
+pp. 187–194. Cambridge, UK: Cambridge University Press.
+65 Rosenzweig, C. E., Tubiello, F., Goldberg, R. & Bloomﬁeld, J. 2002 Increased crop damage in
+the US from excess precipitation under climate change. Glob. Environ. Change 12, 197–202.
+(doi:10.1016/S0959-3780(02)00008-0)
+66 Hulme,
+M.,
+Jiang,
+T.
+&
+Wigley,
+T.
+M.
+L.
+1995
+SCENGEN:
+a
+climate
+change
+SCENario GENerator. Software User Manual, Version 1.0. Climatic Research Unit, UEA,
+Norwich.
+67 Kilsby, C. G., Jones, P. D., Burton, A., Ford, A. C., Fowler, H. J., Harpham, C., James, P.,
+Smith, A. & Wilby, R. L. 2007 A daily weather generator for use in climate change studies.
+Environ. Model. Softw. 22, 1705–1719. (doi:10.1016/j.envsoft.2007.02.005)
+68 Lucht, W., Schaphoff, S., Erbrecht, T., Heyder, U. & Cramer, W. 2006 Terrestrial vegetation
+redistribution and carbon balance under climate change. Carbon Balance Manage. 1, 6.
+(doi:10.1186/1750-0680-1-6)
+69 Elith, J. et al. 2006 Novel methods improve prediction of species’ distributions from occurrence
+data. Ecography 29, 129–151. (doi:10.1111/j.2006.0906-7590.04596.x)
+70 Phillips, S. J., Anderson, R. P. & Schapine, R. E. 2006 Maximum entropy modeling of species
+geographic distributions. Ecol. Model. 190, 231–259. (doi:10.1016/j.ecolmodel.2005.03.026)
+71 Memmott, J., Craze, P. G., Waser, N. M. & Price, M. V. 2007 Global warming and
+the disruption of plant-pollinator interactions. Ecol. Lett. 10, 710–717. (doi:10.1111/
+j.1461-0248.2007.01061.x)
+72 Benning, T. L., Lapointe, D., Atkinson, C. T. & Vitousek, P. M. 2002 Interactions of climate
+change with biological invasions and land use in the Hawaiian Islands: modeling the fate of
+endemic birds using a geographic information system. Proc. Natl Acad. Sci. USA 99, 14 246–
+14 249. (doi:10.1073/pnas.162372399)
+73 Burkett, V. R. et al. 2005 Nonlinear dynamics in ecosystem response to climatic change:
+case studies and policy implications. Ecol. Complex. 2, 357–394. (doi:10.1016/j.ecocom.
+2005.04.010)
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+240
+R. Warren
+74 Hughes, L., Cawsey, E. M. & Westoby, M. 1996 Climatic range size of Eucalyptus species
+in relation to future climate change. Global Ecol. Biogeogr. Lett. 5, 23–29. (doi:10.2307/
+2997467)
+75 Kaplan, J. O. et al. 2003 Climate change and Arctic ecosystems. 2. Modelling, paleodata-
+model comparisons and future projections. J. Geophys. Res. D 108, 8171. (doi:10.1029/
+2002JD002559)
+76 Mouillot, F., Rambal, S. & Joffre, J. M. 2002 Simulating climate change impacts on ﬁre
+frequency and vegetation dynamics in a Mediterranean-type ecosystem. Glob. Change Biol.
+12, 441–449.
+77 Scholze, M., Knorr, W., Arnell, N. W. & Prentice, I. C. 2006 A climate change risk
+analysis for world ecosystems. Proc. Natl Acad. Sci. USA 103, 13 116–13 120. (doi:10.1073/
+pnas.0601816103)
+78 Flannigan, M., Stocks, B., Turetsky, M. & Wotton, M. 2009 Impacts of climate change on
+ﬁre activity and ﬁre management in the circumboreal forest. Glob. Change Biol. 15, 549–560.
+(doi:10.1111/j.1365-2486.2008.01660.x)
+79 Crozier, L. & Dwyer, G. 2006 Combining population-dynamic and eco-physiological models
+to predict climate-change induced insect range shifts. Am. Nat. 167, 853–866. (doi:10.1086/
+504848)
+80 Warren, R., Price, J., de la Nava Santos, S., Fischlin, A. & Midgley, G. In press. Increasing
+impacts of climate change upon ecosystems with increasing global mean temperature rise.
+Clim. Change. (doi:10.1007/s10584-010-9923-5)
+81 Koeller, P. et al. 2009 Basin-scale coherence in phenology of shrimps and phytoplankton in
+the North Atlantic Ocean. Science 324, 791–793. (doi:10.1126/science.1170987)
+82 Turley, C., Blackford, J. C., Widdicombe, S., Lowe, D., Nightingale, P. D. & Rees, A. P. 2006
+Reviewing the impact of increased atmospheric CO2 on oceanic pH and the marine ecosystem.
+In Avoiding dangerous climate change (eds H. J. Schellnhuber, N. Nakicenovic, T. Wigley &
+G. Yohe), pp. 93–131. Cambridge, UK: Cambridge University Press.
+83 Zeebe, R. E., Zachos, J. C., Caldeira, K. & Tyrell, T. 2008 Oceans: carbon emissions and
+acidiﬁcation. Science 321, 51–52. (doi:10.1126/science.1159124)
+84 Anthony, K. R. N., Kline, D. I., Diaz-Pulido, G., Dove, S. & Hoegh-Guldberg, O. 2008 Ocean
+acidiﬁcation causes bleaching and productivity loss in coral reef builders. Proc. Natl. Acad.
+Sci. USA 105, 17 442–17 446. (doi:10.1073/pnas.0804478105)
+85 Long, S. P., Ainsworth, E. A., Leakey, A. D. B. & Morgan, P. B. 2005 Global food insecurity:
+treatment of major food crops with elevated carbon dioxide or ozone under large-scale fully
+open-air conditions suggests recent models may have overestimated future yields. Phil. Trans.
+R. Soc. B 360, 2011–2020. (doi:10.1098/rstb.2005.1749)
+86 Felzer, B. S., Cronin, T. & Reilly, J. M. 2007 Impacts of ozone on trees and crops. C. R.
+Geosci. 339, 784–798. (doi:10.1016/j.crte.2007.08.008)
+87 Velicogna, I. 2009 Increasing rates of ice mass loss from the Greenland and Antarctic ice sheets
+revealed by GRACE. J. Geophys. Res. 36, L19503. (doi:10.1029/2009GL040222)
+88 Stroeve, J., Holland, M. M., Meier, W., Scambos, T. & Serreze, M. 2007 Arctic sea ice decline:
+faster than forecast. Geophys. Res. Lett. 34, L09501. (doi:10.1029/2007GL029703)
+89 Lenton, T. M., Held, H., Elmar Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S. &
+Schellnhuber, H. J. 2008 Tipping elements in the earth system. Proc. Natl Acad. Sci. USA
+105, 1786–1793. (doi:10.1073/pnas.0705414105)
+90 Zimov, S. A., Schurr, E. A. G. & Chapin, F. S. 2006 Permafrost and the global carbon budget.
+Science 312, 1612–1613. (doi:10.1126/science.1128908)
+91 Stern, N. et al. 2006 Stern review: the economics of climate change. London, UK: HM Treasury.
+92 Fung, F., Lopez, A. & New, M. 2011 Water availability in +2◦C and +4◦C Worlds. Phil.
+Trans. R. Soc. A 369, 99–116. (doi:10.1098/rsta.2010.0293)
+93 Zelazowski, P., Malhi, Y., Huntingford, C., Sitch, S. & Fisher, J. B. 2011 Changes in the
+potential distribution of humid tropical forests on a warmer planet. Phil. Trans. R. Soc. A
+369, 137–160. (doi:10.1098/rsta.2010.0238)
+94 Bernie, D., Lowe, J., Tyrrell, T. & Legge, O. 2010 Inﬂuence of mitigation policy on ocean
+acidiﬁcation. Geophys. Res. Lett. 37, L15704. (doi:10.1029/2010GL043181)
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 
+Review. Interactions in a 4◦C world
+241
+95 Orr, J. C. et al. 2005 Anthropogenic ocean acidiﬁcation over the 21st century and its impacts
+on calcifying organisms. Nature 437, 681–686. (doi:10.1038/nature04095)
+96 Kundzewicz, Z. W., Hirabayashi, Y. & Kanae, S. 2010 River ﬂoods in the changing climate:
+observations and projections. Water Resour. Manage. 24, 2633–2646. (doi:10.1007/s11269-
+009-9571-6)
+97 Betts, R. A., Collins, M., Hemming, D. L., Jones, C. D., Lowe, J. A. & Sanderson, M. G.
+2011 When could global warming reach 4◦C? Phil. Trans. R. Soc. A 369, 67–84. (doi:10.1098/
+rsta.2010.0292)
+98 Cramer, W. 2009 Changing climate, land use and ﬁre in Amazonia under high warming
+scenarios. See http://www.eci.ox.ac.uk/4degrees/programme.php.
+99 Karoly, K. 2010 Wildﬁre in a 4+◦C world. See http://www.eci.ox.ac.uk/4degrees/programme.
+php.
+Phil. Trans. R. Soc. A (2011)
+ Downloaded from https://royalsocietypublishing.org/ on 26 August 2024 

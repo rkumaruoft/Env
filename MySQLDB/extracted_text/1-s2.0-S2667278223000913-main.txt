@@ -1,0 +1,1641 @@
+Research article
+Complex adaptive systems-based framework for modeling the health
+impacts of climate change
+Byomkesh Talukdera,b,*, Jochen E. Schubertc, Mohammadali Toﬁghib,d, Patrick J. Likongwee,
+Eunice Y. Choib, Gibson Y. Mphepoe, Ali Asgaryd, Martin J. Bunchf, Sosten S. Chiothae,
+Richard Matthewg, Brett F. Sandersc,g, Keith W. Hipelh, Gary W. vanLooni, James Orbinskib,j
+a Department of Global Health, Florida International University, USA
+b Dahdaleh Institute for Global Health Research, York University, Canada
+c Department of Civil and Environmental Engineering, University of California, Irvine, USA
+d ADERSIM & Disaster & Emergency Management, York University, Canada
+e Leadership for Environment and Development Southern and Eastern Africa (LEAD SEA), Malawi
+f Faculty of Environmental and Urban Change, York University, Canada
+g Department of Urban Planning and Public Policy, University of California, Irvine, USA
+h System Engineering Department, Waterloo University, Canada
+i School of Environmental Studies, Queen’s University, Kingston, Canada
+j Faculty of Health, York University, Canada
+A R T I C L E
+I N F O
+Article History:
+Received 25 May 2022
+Accepted 1 December 2023
+Available online 7 December 2023
+A B S T R A C T
+Introduction: Climate change is a global phenomenon with far-reaching consequences, and its impact on
+human health is a growing concern. The intricate interplay of various factors makes it challenging to accu-
+rately predict and understand the implications of climate change on human well-being. Conventional meth-
+odologies have limitations in comprehensively addressing the complexity and nonlinearity inherent in the
+relationships between climate change and health outcomes.
+Objectives: The primary objective of this paper is to develop a robust theoretical framework that can effec-
+tively analyze and interpret the intricate web of variables inﬂuencing the human health impacts of climate
+change. By doing so, we aim to overcome the limitations of conventional approaches and provide a more
+nuanced understanding of the complex relationships involved. Furthermore, we seek to explore practical
+applications of this theoretical framework to enhance our ability to predict, mitigate, and adapt to the diverse
+health challenges posed by a changing climate.
+Methods: Addressing the challenges outlined in the objectives, this study introduces the Complex Adaptive
+Systems (CAS) framework, acknowledging its signiﬁcance in capturing the nuanced dynamics of health
+effects linked to climate change. The research utilizes a blend of ﬁeld observations, expert interviews, key
+informant interviews, and an extensive literature review to shape the development of the CAS framework.
+Results and discussion: The proposed CAS framework categorizes ﬁndings into six key sub-systems: ecological
+services, extreme weather, infectious diseases, food security, disaster risk management, and clinical public
+health. The study employs agent-based modeling, using causal loop diagrams (CLDs) tailored for each CAS
+sub-system. A set of identiﬁed variables is incorporated into predictive modeling to enhance the understand-
+ing of health outcomes within the CAS framework. Through a combination of theoretical development and
+practical application, this paper aspires to contribute valuable insights to the interdisciplinary ﬁeld of climate
+change and health. Integrating agent-based modeling and CLDs enhances the predictive capabilities required
+for effective health outcome analysis in the context of climate change.
+Conclusion: This paper serves as a valuable resource for policymakers, researchers, and public health profes-
+sionals by employing a CAS framework to understand and assess the complex network of health impacts
+associated with climate change. It offers insights into effective strategies for safeguarding human health
+amidst current and future climate challenges.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Health
+Ecological services
+Extreme weather
+Infectious disease
+Food security
+Clinical public health
+Disaster risk management
+Complex adaptive systems
+Agent-based modeling
+* Corresponding author.
+E-mail address: btalukde@ﬁu.edu (B. Talukder).
+https://doi.org/10.1016/j.joclim.2023.100292
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 15 (2024) 100292
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+1. Introduction
+Climate change affects virtually all aspects of human life and
+health [1]. Clear evidence of the human health impacts of climate
+change has been presented in many research papers [2−9] and inter-
+national reports. Climate change impacts the health of individuals
+and populations through multiple pathways. Many independent vari-
+ables lead to emergent outcomes that are difﬁcult (or impossible) to
+predict with hypotheses that entail reductionism or linearity based
+on mechanistic understandings of reality [10]. For instance, ﬂoods
+induced by climate change and population displacement may impact
+accessibility to safe drinking water and increase infectious diseases
+[11]. Conversely, risk management actions and climate change adap-
+tation policies can mitigate disaster [12]. The health impacts of cli-
+mate change here also refer to complex, large-scale, non-linear
+interactions within which behaviors may evolve along with the
+potential for powerful feedback loops to rapidly precipitate catastro-
+phe [13].
+Complexity theory has evolved to study contemporary problems
+and investigate the interconnected nature of unpredictable phenom-
+ena [14,15]. The Complex Adaptive Systems (CAS) theoretical frame-
+work can be used to study complex contemporary problems. CAS are
+systems involving multiple components that react to other compo-
+nents in the system and the system as a whole, thereby leading to
+emergent phenomena [16−18]. These components are also referred
+to as adaptive agents or simply as agents.
+The principles of CAS can be used to model the impacts of climate
+change and understand their human health implications. Human vul-
+nerability to climate change is considered dynamic and depends on a
+place-based socio-biophysical system, affected by the continuous
+interaction of multiple stressors (climatic, socioeconomic, political,
+and cultural), as well as the interactions of components with that sys-
+tem [19−21]. Understanding the interrelations of agents within a CAS
+allows a pinpointing of areas that are priorities for adaptive learning,
+that can represent potential maladaptive trajectories, or that could
+be susceptible to positive and negative feedback [19,20]. The ﬁrst
+step in designing a CAS for climate change health vulnerability is to
+produce a high-level representation of the system, capturing its
+major sub-systems or dimensions and their linkages [21]. Each sub-
+system is composed of many variables and interconnections. The sec-
+ond step is to generate a conceptual model of the inner workings of
+each sub-system [21]. Finally, more speciﬁc conceptual models may
+be generated addressing particular sub-systems of interest.
+A collaborative approach among different stakeholders may be
+adopted at any stage of each system representation, and the com-
+plexity of systems representation may depend on data availability to
+establish relationships between variables [19−21]. For example,
+Groundstroem and Juhola apply systems thinking to identify climate
+change impacts on international bioenergy supply systems [19]. They
+establish an analytical framework laying out the sub-systems and
+interconnections of a bioenergy supply system. They rely on causal
+loop diagrams (CLDs) to map out the system’s structure and networks
+to reveal causalities and feedback within the system. The result is a
+complex and interconnected network of social, environmental, politi-
+cal, and economic sub-systems, and various cascading impacts of cli-
+mate change affecting the bioenergy supply [22]. Sellberg et al.
+(2021) analyze how a complexity perspective was used across twelve
+resilience assessment and planning cases in contexts of development
+and natural resource management in different parts of the world
+[23]. They found that several core complex adaptive system strategies
+were employed, including adapting the systems approach to a local
+context, identifying external drivers of change and interactions across
+scales (administrative to biophysical boundaries), conceptualizing
+social-ecological
+interactions,
+and
+identifying
+historical
+trends,
+regime shifts, and alternative future scenarios. These CAS strategies
+are mainly concerned with capturing the complexity of the social-
+ecological systems and making sense of them through meaningful
+interrelated simpliﬁcations. Actual system complexity is difﬁcult to
+fully capture in a modeling approach, yet simpliﬁcations of system
+linkages can provide a better understanding of cascading impacts
+[19,23]. Challenges may also exist with data availability and statistical
+correlation methods to model aspects of the variable linkages, or
+shortcomings may exist when using simulated data that may not
+fully or reliably capture future conditions. It is generally strongly rec-
+ommended that model weaknesses and limitations be identiﬁed and
+critically assessed, so that results can be appropriately qualiﬁed [19].
+Agent-Based Modeling (ABM) is an approach capable of modeling
+complex systems in their disaggregate form [24−26]. Other system
+methods such as system dynamics [27] and network analysis [28],
+capture system complexity as an aggregate of its parts and have been
+used in modeling various aspects of public health [25,29]. However,
+these are less effective than ABM for capturing the non-linear rela-
+tionships of a systems’ agents or variables. In this paper, we present a
+novel framework based on CAS and ABM to model some aspects of
+human population health impacts of climate change. Our model
+reﬂects the values and data needs of community, government, and
+non-government organizations for planning actionable adaptation
+strategies to the short- and long-term health impacts of climate
+change [13,30].
+We envision this framework to be relevant in a wide range of
+applications. From a public health perspective, for instance, it may be
+applied to assess the emergence of particular infectious diseases due
+to changing climate and environmental conditions at the level of
+individual health facilities, as well as in predicting which health facil-
+ities may be overburdened by increasing healthcare demand. Model
+outputs can be intersected with social condition data to identify
+underlying causes that predispose people to health risks associated
+with climate change, and to design adaptation interventions to cli-
+mate change that may reduce human health impacts. A holistic
+assessment of the complex system causing health impacts of climate
+change can further identify vulnerabilities in disaster risk manage-
+ment and could function as a support tool to target resources to
+strengthen the resilience of health services. Finally, the proposed CAS
+based framework is intended to be executed using quantitative
+methods and models (e.g., ABM), and would identify data gaps that,
+once addressed, could contribute further to a richer and more accu-
+rate understanding of the health impacts of climate change.
+The remainder of this paper is organised so that Section 2
+describes the methods used for developing the conceptual CAS based
+framework; Section 3 presents subsystems of the relationship
+between climate change and human population health, a list of data
+sources based on a literature review to demonstrating or suggesting
+the quantiﬁability of each subsystem, and a methodology for agent-
+based modeling (ABM) of the subsystem; Section 4 provides a vision
+for how the CAS based framework may be implemented for scenario
+simulation and decision support, its limitations, as well as possible
+entry points for local expert knowledge; and Section 5 presents con-
+clusions.
+2. Methods
+The motivation for this framework is based on years of accumu-
+lated ﬁeld experience of the authors in Bangladesh, India, Cambodia,
+Malawi, South Sudan, Rwanda, Paraguay, the USA, Canada, and else-
+where [11,31−43]. A visualization of the full methodological process
+used to develop this framework is portrayed in Fig. 1 and is based on
+four steps: (i) authors’ observations and knowledge gathered from
+long-time practical ﬁeld experience with the health impacts of cli-
+mate change in developing countries in terms of global, public and
+clinical health, sustainability of agriculture, ecological degradation,
+disaster management, and systems thinking about environmental
+health issues; (ii) narrative literature review; (iii) mobilization of
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+2
+expert opinion by formal interview, and (iv) key informant inter-
+views through informal discussion.
+The initial approach was developed based on the ﬁeld experiences
+of the authors. This was then augmented collaboratively through con-
+sultation with key informants from NGOs, government ofﬁcials, and
+educators working on climate change’s health impacts in coastal Ban-
+gladesh and the Lake Chilwa Basin of Malawi. Both countries are highly
+affected by, and have limited capacity to cope with ongoing climate
+change, and its associated extreme weather events [11,44−46].
+Five questions guided our consultations with the experts and key
+informants: (i) What are the commonly occurring diseases for which
+climate change is a driver? (ii) How do extreme weather events affect
+health outcomes? (iii) How does and will climate change impact agri-
+cultural production, food security, and health? (iv) Does ecological
+degradation amplify the impacts of climate change on health? (v)
+How can disaster management and public health policy help mitigate
+climate change-related health impacts? Feedback from experts and
+key informants in Bangladesh and Malawi, as well as author ﬁeld
+observations conﬁrmed that climate change, and its associated
+extreme weather events have human health impacts which are mag-
+niﬁed by human behavior, and many socio-ecological variables such
+as ecological degradation, and agriculture and public health policy.
+With the goal of identifying and reviewing probable issues related
+to developing a CAS based framework, the authors and other experts
+used brainstorming and deductive (theoretical) and inductive (statis-
+tical) based reasoning as described by Rotello and Heit [47]. A tar-
+geted narrative literature review was conducted to conﬁrm and
+reinforce the objectives of the study and expert and key informant
+inputs by classifying, assessing, and mixing the ﬁndings of high-qual-
+ity studies related to one or more issues relevant to the CAS of health
+impacts of climate change. This literature review utilized Google
+Scholar, PubMed, and Web of Science to identify subsequently
+reviewed literature related to the topic. Key search terms included:
+“climate change and health,” “complex adaptive systems and health,”
+“ecological services and health,” “climate change and infectious dis-
+ease,” “climate change and extreme weather events,” “climate
+change, disaster management and health” and “climate change and
+clinical health.”
+3. Results
+The authors’ experience, expert knowledge and opinion, key
+informant interviews, and the literature review provided data and
+information to identify and link six major sub-systems of a CAS as
+these relate to the human health impacts of climate change:(i) eco-
+logical services [48], (ii) extreme weather events [49], (iii) infectious
+diseases [49], (iv) food security [49], (v) clinical public health [3], and
+(vi) disaster risk management [3,48].
+A useful visual tool to represent the complex interactions between
+changing climatic conditions and health outcomes are causal loop
+diagrams (CLDs) [50,51]. “Cause and effect” indicates that one ele-
+ment must lead to another either in absolute (deterministic) or prob-
+able (stochastic) ways [52]. CLDs help identify the circular nature of
+complex cause-and-effect relationships [53], show the big picture for
+understanding the interrelationship of the elements, and facilitate
+recognition of the system structure that generates overall health
+impacts while providing a descriptive and visual model of the CAS of
+health impacts of climate change. A high-level CLD of the linkages
+between the sub-systems is shown in Fig. 2X. The CLD demonstrates
+the interaction of the six sub-systems in a complex web and the posi-
+tive and negative relationship(s) to one another. Hence, the health
+impacts of climate change can be viewed as the outcomes of the
+Fig. 1. Methodological ﬂow chart for developing the framework. First, ﬁeld observations allowed the authors to link the health impacts of climate change (CC) in terms of six sub-
+systems: ecological services (ES), extreme weather events (EW), infectious disease (ID), food security (FS), disaster risk management (DM) and clinical public health (CPH). Experts,
+key informants, and a literature review then verify the ﬁeld observations. Following the ﬁrst step, the interactions of the sub-systems are visualized and established as a complex
+adaptive system (CAS) of health impacts of climate change.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+3
+complex causal inter-relationships, interactions, and interconnectiv-
+ity of elements within and between these six sub-systems [17,54].
+The high-level CLD of the health impacts of climate change can be
+used as a guide to further break down each sub-system into many
+lower-level elements, which interact with each other inside and out-
+side the dimensions of the high-level subsystems in non-linear and
+dynamic relationships [17,23,56−58]. Conceptually, this is shown in
+Fig. 2Y.
+Through an extensive narrative literature review and based on the
+authors’ ﬁeld experience in Bangladesh, India, Malawi, and Paraguay,
+we developed CLDs relative to the six sub-systems that are integral
+in capturing the interconnectedness between climate change and
+population health in these countries: ecological services, extreme
+weather, infectious disease, food security, clinical public health, and
+disaster management.
+3.1. CLDs of the health impacts of climate change
+In Sections 3.1.1 to 3.1.6, the CLDs of the health impacts of climate
+change are illustrated with respect to the six sub-systems. The CLDs
+below have been developed based on knowledge acquired in Bangla-
+desh and Malawi and therefore, reﬂect system dynamics pertaining
+to those regions. Here, they are used to exemplify the proposed
+framework and will require modiﬁcation for different geographical
+areas. In the following CLDs, positive causal links (marked by a plus
+sign [+] to mean “same direction”) represent a positive correlation
+between variables, so that an increase in variable “A” leads to a rise
+in variable “B,” and a decrease in “A” leads to a reduction in “B”. It is
+essential to understand that the plus sign at the arrowhead does not
+necessarily mean that the variables are increasing, only that they are
+changing in the same direction (i.e., increase or decrease together).
+Negative causal links (marked by a minus sign [] to mean “oppo-
+site”) represent a negative or inverse correlation, so that an increase
+in variable “A” leads to a decrease in variable “B.” [59]
+3.1.1. Ecological services
+Ecological services are the central pillars of all life [60]. The Mil-
+lennium Ecosystem Assessment (MA) proposed four ecosystem serv-
+ices categories: regulating, provisioning, supporting, and cultural
+[61]. Regulatory services include ﬂood and disease regulation, water
+puriﬁcation, pest control, disease control, disaster mitigation and pre-
+vention [62]. Provisioning services make available food and essential
+nutrients, medicines and medicinal compounds, fuel, energy, liveli-
+hoods, and cultural and spiritual enrichment for humans [62]. Provi-
+sioning services contribute to cleaning water and air [62,63] and, in
+this way, have positive health effects [2]. Both regulatory and provi-
+sioning services have direct and indirect consequences for human
+health and well-being, and each is an important component of the
+epidemiological puzzle that can act to stem the tide of infectious and
+non-communicable diseases [62].
+As shown in Fig. 3., climate change impacts provisioning and reg-
+ulatory ecological services in several ways [64,65]. Ongoing climate
+change has a negative effect on habitat and vegetation health, reduc-
+ing biodiversity and air quality while increasing the spread of pests.
+Changes to the hydrologic cycle and extreme weather events further
+affect food production and the availability of clean water, allowing
+human disease and illness to increase. In particular, ecosystem modi-
+ﬁcations help spread pathogens into new ecological niches [5]. How-
+ever, “healthy ecosystems and environments are necessary for the
+survival of humans and other organisms, and thus constitute the
+basis of sustainable development” [66]. Ecological degradation has
+been associated with increased global connectivity, encouraged the
+intermixing of human and animal habitats, and has ampliﬁed climate
+change impacts on migration, all of which have affected human well-
+being, as many wildlife species are or have become reservoirs of
+pathogens that threaten human health [67].
+3.1.2. Extreme weather events
+Extreme weather events are deﬁned as anomalies denoting a sig-
+niﬁcant departure from long-period average weather observations
+such as atmospheric temperature, wind speed, and precipitation.
+Droughts, periods of extreme heat or cold, and ﬂoods are examples of
+extreme weather events [7], and with accelerating climate change,
+the frequency and magnitude of these events are likely to increase
+[44,68,69]. Extreme weather events have profound impacts on health
+[70] and the environment [71], affecting “individual ﬁtness, popula-
+tion dynamics, distribution and abundance of species, and ecosystem
+structure and function” [72]. For example, extreme heat and cold
+cause immediate rises in weather-related mortality [73,74]. More
+broadly, natural hazards, including ﬂoods, tsunamis, earthquakes,
+tropical cyclones (e.g., hurricanes and typhoons), and tornadoes have
+been secondarily associated with infectious diseases, including diar-
+rheal diseases, acute respiratory infections, malaria, leptospirosis,
+Fig. 2. Schematic of the effects of climate change on health as a complex adaptive system (CAS). Part [X], the causal loop diagram (CLD) or systems thinking diagram [55], captures
+the interactions of the six sub-systems (i.e., ecological services, extreme weather events, infectious disease, food security, disaster risk management, and clinical public health) and
+represents the descriptive model of a CAS of the health impacts of climate change. It shows that the sub-systems are connected in a complex way. For example, climate change
+increases extreme weather events and reduces agricultural production, leading to food insecurity, and food insecurity leads to clinical public health issues such as malnutrition. The
+impacts of extreme weather events may be countered with the robust design of public health services and policy. In part [Y], A, B, and C represent different variables of each sub-sys-
+tem. These variables interact within the individual system and with the adjacent variables of other sub-systems, and all sub-systems interact with each other as a whole. Thus, the
+CAS model captures the overall health impacts on agents (individual or population) from climate change.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+4
+measles, dengue fever, viral hepatitis, typhoid fever, meningitis, teta-
+nus and cutaneous mucormycosis [75,76].
+Extreme weather events can cause severe crop damage and jeop-
+ardize agricultural production and socio-economic development, and
+directly affect livelihoods and food security [77−79] . One review
+estimates that, 83 % of the damage and losses caused by droughts are
+in agriculture, and that by 2050 crop yields are projected to decrease
+by 25 % if climate change is not mitigated. Extreme weather events
+damage crops and leave households vulnerable to weather shocks
+[80]. Damaged crops lead to food insecurity, eventually leading to
+poor nutrition and clinical public health impacts. Extreme weather
+events can also cause food safety issues. For example, in some set-
+tings, Salmonella has become prevalent in lettuce and green onion
+products because of drought followed by heavy rainfall [81]. Some
+examples of how extreme weather may impact health are shown
+in Fig. 4.
+3.1.3. Infectious diseases
+CLDs of the health impacts of climate change concerning infec-
+tious diseases are presented in Fig. 5. Climate change and other
+anthropogenic activities (such as agriculture) play a signiﬁcant role
+in infectious disease emergence [82−84] and in the spread and re-
+emergence of infectious diseases in natural and socio-ecological sys-
+tems [85]. Among infectious diseases, vector-borne (e.g.: mosquito-
+borne) diseases, including malaria, dengue, viral encephalitis [86],
+yellow fever [87], and West Nile virus [88] are among those most
+sensitive to a changing climate [89]. For example, “globally, tempera-
+ture increases of 2−3 C would increase the number of people who,
+in climatic terms, are at risk of malaria by around 35 %, i.e., by several
+hundred million, as the seasonal duration of malaria would increase
+in many currently endemic areas” [90]. A changing climate will also
+inﬂuence the incidence of water-borne infectious diseases such as
+cholera [11,91,92] and diarrheal disease [88]. Climate change has
+increased the risk of ﬂoods, and with these, the spread of multiple
+infectious diseases such as malaria, dengue, hepatitis A, cholera,
+schistosomiasis, and diarrhea. Moreover, skin and soft tissue infec-
+tions, conjunctivitis, and dermatitis are related to ﬂood events [93].
+3.1.4. Food security
+The CLD in Fig. 6 depicts the causes and effects of climate change
+on food security (sustainable agriculture), and human health. Climate
+change will negatively affect food systems [94−96] and thus food
+security [97−101]. Food security affects individual and population
+health [96,102], which depends on access to adequate, affordable,
+good-quality, and nutritious food [103]. However, climate change
+potentially affects all aspects of food security, including food access,
+utilization, and price stability [104]. Climate change also increases
+the occurrence of food safety hazards at various stages of the food
+chain, from primary production through consumption [105]. Increas-
+ing CO2 threatens human nutrition by reducing zinc and iron in C3
+grains and legumes (e.g., wheat, rice, oats, barley, potatoes, soybeans,
+cassava, etc.), the primary dietary source of zinc and iron for billions
+of people and the deﬁciency of zinc and iron in crops is a substantial
+global public health problem [106]. Food insecurity leads to undernu-
+trition [107], which has short-term mortality, morbidity, and disabil-
+ity consequences. There are also long-term consequences for adult
+height, intellectual ability, reproductive performance, and metabolic
+and cardiovascular disease [108].
+Natural disasters jeopardize agricultural production and develop-
+ment [109], and as described above, climate change tends to increase
+the frequency and intensity of weather-related natural disasters
+[110]. Natural disasters signiﬁcantly impact the agricultural sector by
+directly damaging livestock, crops and the ecosystems that support
+their supply chain and agriculture, affecting livelihoods, food secu-
+rity, and nutrition [77,111,109].
+3.1.5. Disaster risk management
+Realistic disaster risk management plans enable societies to pre-
+pare for and mitigate the severe effects of extreme weather events.
+The CLD of health impacts of climate change in relation to disaster
+management and clinical public health is shown in Fig. 7. Climate
+change has signiﬁcantly increased the extent and magnitude of disas-
+ters [112]. Appropriate disaster preparedness can maintain food sup-
+ply and thus food security and individual and population health.
+Disasters have the greatest impacts on the poor and most vulnerable
+Fig. 3. Causal loop diagram of health impacts of climate change in relation to ecological degradation.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+5
+people [113]. Effective disaster management is crucial in reducing the
+risks and effects of climate change on socioecological systems [114].
+For example, building resilient infrastructure, deploying early warn-
+ing systems, implementing well-informed community preparedness
+plans, and developing sound emergency response procedures can
+lessen the impacts of natural disasters by reducing loss of life and pre-
+venting damage to sanitation, health, and food supply infrastructure.
+3.1.6. Clinical public health
+Clinical public health systems and their resilience determine the
+magnitude of a health crisis associated with a disaster, as shown in
+the CLD in Fig. 7. Effective health care in a disaster critically depends
+on an appropriate disaster preparedness of a health system, the
+broader social systems, and how these intersect to promote health
+and resilience before, during and after a crisis [91,115,116].
+Contributing
+factors
+to
+disease
+transmission
+after
+disasters
+include for example: environmental risk factors; type of endemic
+organisms; population demographics and characteristics such as
+crowding; the pre-event structure and functionality of a clinical pub-
+lic health system and its facilities; levels of immunization, and the
+magnitude of the disaster [117]. Risk factors for disease outbreaks
+after disasters are associated primarily with poor potable water and
+or population displacement and the availability of hygienic sanitation
+facilities. The capacity to rapidly re-establish effective primary
+healthcare delivery post-disaster is vital to reduce the risk of commu-
+nicable diseases and death in the affected population [76,118].
+3.2. Selection of variables
+The CLDs presented in Sections 3.1.1 to 3.1.6 help identify vital
+representative variables from the six sub-systems that can be used to
+model the health impacts of climate change in a CAS based frame-
+work. Using the CLDs, literature review, discussion with key inform-
+ants, and formal interviews with experts, a set of representative
+variables that affect the health of agents (individual and population)
+are identiﬁed and listed in Table 1 to demonstrate the potential value
+of this approach. In total, 92 variables are identiﬁed that address eco-
+logical services (10 variables), extreme weather events (9 variables),
+infectious diseases (11 variables), food security (18 variables), disas-
+ter management (23 variables), and clinical public health (21 varia-
+bles). Two criteria were considered in selecting variables: (i) the
+capacity of the variables to represent quantiﬁable inﬂuences of com-
+plex relationships and (ii) their signiﬁcance in capturing maximum
+impacts on agents. The variables identiﬁed here are not comprehen-
+sive. Instead, they are an illustrative selection based on an assumed/
+hypothetical location (informed by the authors’ experience, espe-
+cially in Bangladesh and Malawi) where ﬂoods and droughts occur
+with increasing frequency due to climate change-related extreme
+weather events. These are causally associated with population dis-
+placement, disruption in health services, increases in speciﬁc infec-
+tious diseases, and acute and chronic undernutrition. The targeted
+health impacts in this location are (i) infectious diseases: malaria,
+cholera, schistosomiasis, and acute diarrheal disease; (ii) food secu-
+rity outcomes: protein energy malnutrition and growth stunting in
+children; and (iii) potable water and sanitation and hygiene.
+Variables/indicators play a helpful role in highlighting and quanti-
+fying problems, identifying trends, and contributing to the process of
+priority setting, policy formulation and evaluation, and monitoring of
+progress. Most importantly, breaking down a system into multiple
+variables and associated linkages helps simplify its complexity while
+paradoxically demonstrating complexity by tying together the ele-
+ments of the six sub-systems [160]. Only well-deﬁned and carefully
+Fig. 4. Causal loop diagram of health impacts of climate change in relation to extreme weather events.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+6
+selected variables provide meaningful insight for a model to be useful
+in decision-making and policy development [160]. The variables sug-
+gested here are within the boundaries of the intended geographic
+region, and more may be available from further local sources. The
+variables may be different in other scenarios since the health impacts
+of climate change vary depending on the speciﬁc scenarios and their
+geography.
+3.3. Proposed modeling framework
+In this section, a framework of CAS modeling [161] of the health
+impacts of climate change is presented based on the background dis-
+cussion in Section 1.0, the methodology in Section 2.0, and the results
+in Sections 3.1 and 3.2.
+To reiterate, the health impacts of climate change are the out-
+comes of linear and non-linear dynamic relationships with the agents
+within the six sub-systems that generate macro-level phenomena
+[162]. The health impacts of climate change depend on the interac-
+tions of various components (variables) of the sub-systems in ways
+that create feedback and cascading effects on the components of the
+sub-systems. The interactions of the units of each sub-system can
+lead to a nonlinear transformation to macro-level phenomena (emer-
+gent properties) [163]. The health impact of climate change is a com-
+plex phenomenon, and modeling it requires a method capable of
+capturing the linear and non-linear interactions of the agents and the
+relationships of the sub-systems [164]. In this modeling framework, a
+system dynamics-integrated ABM is proposed for modeling the com-
+plex interactions of the variables in Table 1 with agents (individual
+and population) within a region of concern.
+Using the variables identiﬁed in Table 1 for ecological services {10
+parameters: (ES1 . . . ES10)}, extreme weather events {09 parameters:
+(EW1 . . . EW9)}, infectious disease {11 parameters (ID1 . . . ID11)}, food
+security {18 parameters (FS1 . . . FS18)}, disaster management {23
+parameters (DM1 . . . DM23)} and clinical public health {21 parameters
+(CH1 . . . CH21)} and the core concepts of agent-based modeling, the
+proposed framework is hypothetically illustrated in Fig. 8. These vari-
+ables and their variations can represent the actions and interactions
+of autonomous agents at different levels of granularity, as individuals
+or collective entities, and at different spatial scales, to understand the
+emerging behavior of a system and what shapes its outcomes.
+Depending on the level of granularity of agents and the scale of their
+interaction, different CLDs and sets of variables may need to be
+deﬁned for each agent for adoption into ABM. Various commercial
+and open-source software packages offer the ability to perform
+agent-based modeling (e.g., AnyLogic, AgentScript, GAMA Platform),
+and the authors recommend model validation to be included in the
+model setup procedure as a way to quantify the implications of lim-
+ited data and statistical correlation between sub-system variables
+[19].
+4. Discussion
+To determine the health impacts on agents, the presented frame-
+work requires consideration of the overall cause-and-effect relation-
+ship of the interconnected variables chosen to represent the six sub-
+systems. More speciﬁcally, each set of agents (e.g., industry sectors,
+population age groups, health center catchments) will require their
+own set of sub-system variables, and interactions between agents
+will also have to be considered. Therefore, selecting and parameteriz-
+ing appropriate variables is essential for this framework.
+The success of this CAS based framework depends on the range
+and quality of the data available to represent system variables. In
+other words, discovering insights into the dynamics of climate
+change-driven health impacts depends on the ability to represent
+Fig. 5. Causal loop diagram of health impacts of climate change in relation to infectious disease.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+7
+Fig. 6. Causal loop diagram of health impacts of climate change in relation to food security.
+Fig. 7. Causal loop diagram of health impacts of climate change in relation to disaster management and clinical public health
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+8
+Table 1
+Potential variables to be considered in complex adaptive system modeling of health impacts of climate change
+Sub-Systems
+Variables
+Unit
+SOV
+NOV
+Reference
+Ecological Services
+Shannon Biodiversity Index
+% year⁻1
+ES1
+10
+[119,120]
+Rate of land cover fragmentation
+% year⁻1
+ES2
+[121]
+Water Quality Index (WQI)*
+ND
+ES3
+[122]
+Trophic State Index (TSI)
+ND
+ES4
+[123]
+Soil Quality Index**
+ND
+ES5
+[124]
+Soil moisture
+% Water
+ES6
+[125]
+Soil erosion rate
+km2/year
+ES7
+[126]
+Storage of aquifer
+m3
+ES8
+[127]
+Horton−Strahler number***
+ND
+ES9
+[128]
+Natural Soil Drainage Index (DI)
+ND
+ES10
+[129]
+Extreme Weather Events
+Rainfall Index
+mm/year
+EW1
+9
+[130]
+Simple daily intensity index (SDII)
+mm/day
+EW2
+[131]
+Flood intensity
+ND
+EW3
+[132]
+Duration of waterlogging
+day
+EW4
+[133]
+Aggregate Drought Index (ADI)
+ND
+EW5
+[134]
+Warm spell duration indicator (WSDI)
+day
+EW6
+[135]
+Cyclone intensity (Safﬁr-Simpson scale)
+Ordinal
+EW7
+[136,137]
+Accumulated Cyclone Energy (ACE)
+knot2
+EW8
+[138]
+Heat Index
+°C
+EW9
+[139]
+Infectious Diseases (malaria, cholera,
+schistosomiasis, diarrhea)
+Disease transmission
+People/day
+ID1
+11
+[140,141]
+People affected by Malaria
+People
+ID2
+[142]
+People affected by Diarrhea
+People
+ID3
+SA*
+People affected by Schistosomiasis
+People
+ID4
+SA*
+People affected by Cholera
+People
+ID5
+SA*
+Drinking water quality
+Ordinal
+ID6
+[122]
+Sources of household water
+% of source
+ID7
+SA*
+Sources of agricultural water
+% of source
+ID8
+[143]
+Unique distribution of infectious disease
+Global Moran’s I statistic
+ID9
+[144]
+Household location (sound vs. degraded land)
+People/km2
+ID10
+[145]
+Rural Water Livelihood Index (RWLI)
+Ordinal
+ID11
+[146]
+Food Security (Agriculture)
+Yields per hectare for major staple crops
+Kg/ha
+FS1
+18
+[147,148]
+Productivity (protein)
+ton
+FS2
+[149]
+Productivity (energy)/calorie availability
+Calorie
+FS3
+Food loss
+ton
+FS4
+[150]
+Livestock Production Index
+ND
+FS5
+[145]
+Irrigated land
+ha
+FS6
+[145]
+Caloric intake per capita per household
+Cal/person
+FS7
+[151]
+Household level of food insecurity
+Ordinal
+FS8
+Household dietary diversity
+Ordinal
+FS9
+[97]
+Food Security Index
+Ordinal
+FS10
+[150]
+Intensiﬁcation of land use
+Ordinal
+FS11
+[150]
+Farmers affected by ﬂood, drought, and heat protection systems
+%
+FS12
+[148]
+Diversity of local food system
+Ordinal
+FS13
+[152]
+Effectiveness of food supply chain
+PMS
+FS14
+[153]
+Land under rainfed irrigation
+%
+FS15
+SA*
+Arable land equipped for irrigation
+%
+FS16
+[97]
+Seed availability
+Yes/No#
+FS17
+SA*
+Nitrogen use efﬁciency in agricultural systems
+%
+FS18
+] [148,154]
+Disaster Management
+Vulnerable population
+%
+DM1
+23
+[155]
+Population density
+People/sq km
+DM2
+[156]
+Exposure (% agricultural land) / Damaged crop area
+%
+DM3
+[156]
+Emergency response - hospital bed per 100,000 residents
+%
+DM4
+[156]
+Emergency response - physicians per 100,000 residents
+%
+DM5
+[156]
+Healthcare resources available for disaster risk management
+Unit
+DM6
+SA*
+Disaster communication
+Yes/No
+DM7
+[148,157]
+Coverage by national health emergency and disaster risk manage-
+ment programmes
+Yes/No
+DM8
+SA*
+Level of preparedness
+Ordinal
+DM9
+SA*
+Direct agricultural loss due to hazardous events
+%
+DM10
+[113]
+Area covered by community-based disaster risk management
+%
+DM11
+[158]
+Area covered by early warning system
+%
+DM12
+[158]
+Population below a particular ﬂood line (100-year ﬂood, 10 years)
+%
+DM13
+[158]
+Age dependency ratio
+%
+DM14
+[157]
+Previous disaster experience
+Yes/No
+DM15
+[159]
+Access to all-weather roads
+Yes/No
+DM16
+[148]
+Early warning standards and guides developed and disseminated
+Yes/No
+DM17
+[155]
+Community participation
+Yes/No
+DM18
+SA*
+Community volunteer systems
+Yes/No
+DM19
+SA*
+Awareness
+Ordinal
+DM20
+SA*
+Flood forecast systems
+Yes/No
+DM21
+SA*
+Agriculture planning after the disaster
+Yes/No
+DM22
+SA*
+Agriculture preparedness systems
+Yes/No
+DM23
+SA*
+Clinical Public Health
+Number of people per household
+Number
+CH1
+21
+SA*
+Spatial distribution of population
+People/sq km
+CH2
+SA*
+(continued)
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+9
+meaningful deterministic or statistical relationships between varia-
+bles for the agents of interest.
+The proposed CAS based framework is not restricted by the partic-
+ular agent (e.g., governments vs individuals, vs watersheds) of the
+sub-systems. It can integrate various types or scales of agents and
+variables and allow users to think about the problems of climate
+change and health holistically. Physicians, climatologists, biologists,
+and social scientists can use this CAS based framework to explore dif-
+ferent realizations of health outcomes from climate change scenarios
+by developing “What-If’ analysis by adjusting the values of the CLD
+variables. For example, testing prolonged drought periods could
+directly inform malnutrition potential by examining the climate
+change impacts on water supply and farming and agriculture (see
+Fig. 4). Such a scenario can be further expanded by testing actions
+mitigating the effects of droughts. For example, the Food Security CLD
+could be used to simulate a quantiﬁcation of how much farming and
+agriculture could vary dependence on local water supply during
+drought conditions to maintain minimum or maximum positive
+health outcomes. Thus, the CAS based framework can be an accessible
+scenario planning tool to explore the health impacts of climate
+change, with a view to understanding and identifying solutions
+within this complex system.
+The proposed framework is expected to guide the development of
+a multi-agent-based simulation model. This could be used to support
+decisions about ecological services or adapt clinical public health
+interventions that seek to ameliorate the health impacts of climate
+change. Simulations generated by such an ABM can also be used to
+formulate multi-sector adaptation policies.
+Undernourishment
+%
+CH3
+[97,147]
+Stunted (< 5 years)
+%
+CH4
+[98,149,]
+Wasting (< 5 years)
+%
+CH5
+[148]
+Population with access to potable water
+%
+CH6
+[150]
+Households under basic sanitation
+%
+CH7
+[97,148]
+Population maintaining adequate hygiene
+%
+CH8
+[148]
+Households with healthcare facilities
+%
+CH9
+Disease surveillance system
+Ordinal
+CH10
+[114]
+Status of health sector preparedness plans
+Ordinal
+CH11
+[114]
+Community assessments of risks and vulnerabilities
+Ordinal
+CH12
+[114]
+Administrative and ﬁnancial support
+Ordinal
+CH13
+[114]
+Training for staff of essential community-level health facilities
+Ordinal
+CH14
+[114]
+Standing order for health emergency management
+Number/Population
+CH15
+[114]
+Community preparedness and response
+Yes/No
+CH16
+[114]
+Spatial distribution of disease outbreaks
+People/ sq km
+CH17
+[147]
+Individual and public health curriculum in education
+Yes/No
+CH18
+SA*
+Effectiveness of health governance
+Ordinal
+CH19
+SA*
+Political stability
+Yes/No
+CH20
+[150]
+Insecticide-treated bed nets (ITNs)
+Unit
+CH21
+-
+Note: S. System = Sub-Systems, SOV = Symbol of Variables, NOV = Number of variables, Ordinal (1-5), ND = Non-dimensional, # Yes/No = 2/1. Note: * WQI should be
+speciﬁed based on the water usage, such as drinking, agricultural, and ﬁshes in the lake will have to be paciﬁed. ** Soil quality for agricultural use and hazardous
+material must be paciﬁed. *** An index for surface water body distribution. *SA = Suggested by Authors.
+Fig. 8. A step-by-step illustration of a hypothetical agent-based model. Ecological services, extreme weather events, infectious diseases, food security, clinical public health, and
+disaster management inﬂuence climate change and health impacts. This hypothetical agent-based climate change and health impacts model incorporates the six sub-systems’ static
+and time-varying causal variables. Part [A] represents the CAS and linkage between each sub-system as an aggregate system modeling approach. In part [B], the interaction of the
+agents and sub-system variables is used for the model formulation of the disaggregated parts of a system. In part [C], the model’s ﬁnal process and its purpose are presented. This
+hypothetical model represents potential outcomes of the health impacts of climate change on agents of an area Ya where Xn of the population is living.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+10
+Evidence- and data-based step-by-step deﬁnition of the six sub-
+systems and their identiﬁed agents ensure a broadly applicable deci-
+sion model that various stakeholders, including researchers, govern-
+ment and non-government practitioners, and policy makers, can use.
+The ABM simulation model could help stakeholders understand and
+act on factors that shape the health impacts of climate change; facili-
+tate knowledge sharing and mobilization among various organiza-
+tions and generate new knowledge and information to facilitate
+practical implementation of adaptation strategies.
+Agent-based modeling of the health impacts of climate change is a
+predictive process for forecasting future climatic inﬂuences on infec-
+tious diseases, malnutrition, and other aspects of human health
+[165]. The proposed model highlights the need for a more complex,
+multi-disciplinary, and operationally focused understanding of the
+causal dynamics contributing to climate change’s health impacts. It
+can also highlight the multiple sub-system effects of carefully tar-
+geted and sequenced treatment, prevention, and ecological adapta-
+tion interventions. Modeling the health impacts of climate change
+can reveal the causal links shaping health outcomes and can also offer
+a collective narrative of the complex relationship of variables and
+agents. This model is not a goal in itself, but can help identify the
+actions needed to reduce impacts using systems thinking for commu-
+nity-based health adaptation.
+5. Conclusion
+Climate change will continue to affect human health through
+extreme weather events, changing patterns of infectious diseases,
+and impacts on food security, livelihoods and population displace-
+ment. These impacts are already profoundly inequitable and will
+accelerate among poor and vulnerable people. Climate, biospheric
+and ecological factors, as well as disaster management, and clinical
+public health planning will largely determine the overall health
+impacts of climate change. For example, changing temperature and
+precipitation will affect vector-borne disease ecology and related
+human infectious disease impacts, and will be inﬂuenced by human
+treatment, prevention and adaptation choices and interventions.
+Applying transdisciplinary perspectives is vital to identifying and
+understanding complex causal relationships, and to designing and
+implementing effective prevention and adaptation interventions
+(including early warning systems and responses). This is one of the
+greatest challenges for global health. Considering the complexity of
+climate change and its health impacts, we used ﬁeld observations,
+expert input, key informant interviews, and a comprehensive litera-
+ture review to capture these dynamics, and propose a CAS based
+framework with six subsystems. We propose and conceptually
+develop the use of the framework as a foundation for agent-based
+modeling of health outcomes, with causal loop diagrams (CLDs)
+designed for each CAS sub-system and a set of context speciﬁc varia-
+bles identiﬁed for use in predictive modeling. The CAS based frame-
+work can be a valuable resource for policymakers, researchers, and
+public health professionals seeking to assess, mitigate and adapt to
+the multifaceted challenges posed by climate change.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+CRediT authorship contribution statement
+Byomkesh Talukder: Writing −review & editing, Writing −origi-
+nal draft, Visualization, Validation, Supervision, Software, Resources,
+Project administration, Methodology, Investigation, Funding acquisi-
+tion, Formal analysis, Data curation, Conceptualization. Jochen E.
+Schubert: Writing −review & editing, Writing −original draft, Visu-
+alization, Software, Methodology, Investigation, Formal analysis, Data
+curation. Mohammadali Toﬁghi: Writing −review & editing, Writ-
+ing −original draft, Visualization, Methodology, Investigation. Pat-
+rick J. Likongwe: Writing −review & editing, Writing −original
+draft,
+Visualization,
+Methodology,
+Investigation,
+Data
+curation.
+Eunice Y. Choi: Writing −review & editing, Writing −original draft,
+Visualization, Methodology. Gibson Y. Mphepo: Writing −review &
+editing, Writing −original draft, Visualization, Methodology, Data
+curation. Ali Asgary: Writing −review & editing, Writing −original
+draft, Visualization, Supervision, Resources, Funding acquisition, For-
+mal analysis. Martin J. Bunch: Writing −review & editing, Writing −
+original draft, Visualization, Investigation, Funding acquisition, Con-
+ceptualization. Sosten S. Chiotha: Writing −review & editing, Writ-
+ing −original draft, Visualization, Validation, Methodology, Funding
+acquisition, Data curation, Conceptualization. Richard Matthew:
+Writing −review & editing, Writing −original draft, Visualization,
+Supervision, Methodology, Funding acquisition, Conceptualization.
+Brett F. Sanders: Writing −review & editing, Writing −original draft,
+Supervision, Funding acquisition, Conceptualization. Keith W. Hipel:
+Writing −review & editing, Writing −original draft, Supervision.
+Gary W. vanLoon: Writing −review & editing, Writing −original
+draft, Validation, Supervision. James Orbinski: Writing −review &
+editing, Writing −original draft, Visualization, Validation, Supervi-
+sion, Software, Resources, Project administration, Methodology,
+Investigation, Funding acquisition, Formal analysis, Data curation,
+Conceptualization.
+Acknowledgement
+This paper has been funded by the Wellcome Trust, UK, and the
+Dahdaleh Institute for Dahdaleh Institute for Global Health Research
+(yorku.ca), York University, Canada.
+References
+[1] IPCC. Summary for policymakers editors. In: Pachauri RK, Meyer LA, editors.
+Core Writing Team. Geneva, Switzerland: IPCC; 2015. editors.
+[2] Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, et al. Managing the health
+effects of climate change: lancet and University College London Institute for
+Global Health Commission. Lancet 2009;16(373):1693–733 9676. doi: 10.1016/
+S0140-6736(09)60935-1.
+[3] Frumkin H, Hess J, Luber G, Malilay J, McGeehin M. Climate change: the public
+health
+response.
+Am
+J
+Public
+Health
+2008;98(3):435–45.
+doi:
+10.2105/
+AJPH.2007.119362.
+[4] Haines A, Kovats RS, Campbell-Lendrum D, Corvalan C. Climate change and
+human health: impacts, vulnerability, and mitigation. Lancet North Am Ed
+2006;367(9528):2101–9. doi: 10.1016/S0140-6736(06)68933-2.
+[5] Hill J, Polasky S, Nelson E, Tilman D, Huo H, Ludwig L, et al. Climate change and
+health costs of air emissions from biofuels and gasoline. Proc Natl Acad Sci
+2009;106(6):2077–82. doi: 10.1073/pnas.0812835106.
+[6] Huang C, Barnett AG, Xu Z, Chu C, Wang X, Turner LR, Tong S. Managing the
+health effects of temperature in response to climate change: challenges ahead.
+Environ Health Perspect 2013;121(4):415–9. doi: 10.1289/ehp.1206025.
+[7] McMichael AJ, Woodruff RE, Hales S. Climate change and human health: present
+and future risks. Lancet North Am Ed 2006;367(9513):859–69. doi: 10.1016/
+S0140-6736(06)68079-3.
+[8] Patz JA, Campbell-Lendrum D, Holloway T, Foley JA. Impact of regional climate
+change
+on
+human
+health.
+Nature
+2005;438(7066):310–7.
+doi:
+10.1038/
+nature04188.
+[9] Smith KR, Chafe Z, Woodward A, Campbell-Lendrum D, Chadee DD, Honda Y, Liu
+Q, Olwoch JM, Revich B, Sauerborn R, Rocklov J. Human health: impacts, adapta-
+tion, and co-beneﬁts. InClimate Change 2014 Impacts, Adaptation and Vulnera-
+bility: Part A: Global and Sectoral Aspects; 2015. p. 709–54.
+[10] Jayasinghe S. Conceptualising population health: from mechanistic thinking to
+complexity science. Emerg Themes Epidemiol 2011;8(1):1–7. doi: 10.1186/
+1742-7622-8-2.
+[11] Chiotha S, Jamu D, Nagoli J, Likongwe P, Chanyenga T. Socio-ecological resilience
+to climate change in a fragile ecosystem: The case of the Lake Chilwa Basin.
+Malawi: Routledge; 2018. p. 13.
+[12] Pollner J, Kryspin-Watson J, Nieuwejaar S. Disaster risk management and cli-
+mate change adaptation in Europe and central Asia. Washington, DC: World
+Bank; 2010 World Bank Climate WB Central Asia GFDRR_DRM_and_CCA_ECA.
+pdf (auca.kg).
+[13] Van Beurden EK, Kia AM, Zask A, Dietrich U, Rose L. Making sense in a complex
+landscape: how the Cyneﬁn Framework from Complex Adaptive Systems Theory
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+11
+can inform health promotion practice. Health Promot Int 2013;28(1):73–83. doi:
+10.1093/heapro/dar089.
+[14] Pearce N, Merletti F. Complexity, simplicity, and epidemiology. Int J Epidemiol
+2006;35(3):515–9. doi: 10.1093/ije/dyi322.
+[15] Gatrell AC. Complexity theory and geographies of health: a critical assessment.
+Soc Sci Med 2005;60(12):2661–71. doi: 10.1016/j.socscimed.2004.11.002.
+[16] Carmichael T, Hadzikadic M. The fundamentals of complex adaptive systems. In:
+Carmichael T, Collins A, Hadzikadic M, editors. Complex Adaptive Systems: Views
+from the Physical, Natural, and Social Sciences. Springer International Publishing;
+2019. p. 1–16.
+[17] Holland JH. Studying complex adaptive systems. J Syst Sci Complex. 2006;19:1–
+8. doi: 10.1007/s11424-006-0001-z.
+[18] Jones H. Taking responsibility for complexity. Brieﬁng Paper. 2011; 68. Taking
+responsibility for complexity: how implementation can achieve results in the
+face of complex problems - ODI Working Papers 330 (usaidlearninglab.org).
+[19] Groundstroem F, Juhola S. Using systems thinking and causal loop diagrams to
+identify cascading climate change impacts on bioenergy supply systems. Mitiga-
+tion Adapt Strat Glob Change 2021;26(7):29. doi: 10.1007/s11027-021-09967-0.
+[20] Naylor A, Ford J, Pearce T, Van Alstine J. Conceptualizing climate vulnerability in
+complex adaptive systems. One Earth 2020;2(5):444–54. doi: 10.1016/j.
+oneear.2020.04.011.
+[21] Proust K, Newell B, Brown H, Capon A, Browne C, Burton A, Dixon J, Mu L, Zarafu
+M. Human health and climate change: leverage points for adaptation in urban
+environments. Int J Environ Res Public Health 2012;9(6):2134–58. doi: 10.3390/
+ijerph9062134.
+[22] Lawrence J, Blackett P, Cradock-Henry NA. Cascading climate change impacts and
+implications. Clim Risk Manag 2020;29:100234. doi: 10.1016/j.crm.2020.100234.
+[23] Sellberg M, Quinlan A, Preiser R, Malmborg K, Peterson G. Engaging with complexity
+in resilience practice. Ecol Soc 2021;26(3). doi: 10.5751/ES-12311-260308.
+[24] Hesan R, Ghorbani A, Dignum V. Modelling environments in ABMS: a system
+dynamics approach. Multi-Agent-Based Simulation XV: International Workshop,
+MABS 2014. Paris, France: Springer International Publishing; 2015. p. 41–52.
+[25] Martin R, Schl€uter M. Combining system dynamics and agent-based modeling to
+analyze social-ecological interactions—an example from modeling restoration
+of a shallow lake. Front Environ Sci 2015;3:66. doi: 10.3389/fenvs.2015.00066.
+[26] Glen CM, Kemp ML, Voit EO. Agent-based modeling of morphogenetic systems:
+advantages and challenges. PLoS Comput Biol 2019;15(3):e1006577 28. doi:
+10.1371/journal.pcbi.1006577.
+[27] Forrester JW. Urban dynamics. IMR 1970;11(3):67.
+[28] Wasserman S, Faust K. Social network analysis: Methods and applications. 1st
+ed. Cambridge: Cambridge University Press; 1994.
+[29] Luke DA, Stamatakis KA. Systems science methods in public health: dynamics,
+networks, and agents. Annu Rev Public Health 2012;33:357–76. doi: 10.1146/
+annurev-publhealth-031210-101222.
+[30] Levin S, Xepapadeas T, Crepin AS, Norberg J, De Zeeuw A, Folke C, Hughes T,
+Arrow K, Barrett S, Daily G, Ehrlich P. Social-ecological systems as complex adap-
+tive systems: modeling and policy implications. Environ Dev Econ 2013;18
+(2):111–32. doi: 10.1017/S1355770x12000460.
+[31] Bunch MJ. Ecosystem approaches to health and well-being: navigating complex-
+ity, promoting health in social−ecological systems. Syst Res Behav Sci 2016;33
+(5):614. doi: 10.1002/sres.2429.
+[32] Bunch MJ, Morrison KE, Parkes MW, Venema HD. Promoting health and well-
+being by managing for social−ecological resilience: the potential of integrating
+ecohealth and water resources management approaches. Ecol Soc 2011;16(1)
+https://www.jstor.org/stable/26268864.
+[33] Bunch M, Pathan S, Battaglia A, Greer-Wootten B, Mascoll A, Russell T, Folkema J.
+Quantifying community resilience in South Sudan: the FEED project (fortifying
+Equality and Economic diversiﬁcation). Ecol Soc 2020;25(2). doi: 10.5751/ES-
+11450-250212.
+[34] Orbinski J, Beyrer C, Singh S. Violations of human rights: health practitioners as
+witnesses. Lancet North Am Ed 2007;370(9588):698–704. doi: 10.1016/S0140-
+6736(07)61346-4.
+[35] Luke A, Sanders BF, Goodrich KA, Feldman DL, Boudreau D, Eguiarte A, Serrano K,
+Reyes A, Schubert JE, AghaKouchak A, Basolo V. Going beyond the ﬂood insur-
+ance rate map: insights from ﬂood hazard map co-production. Nat Hazards
+Earth Syst Sci 2018;18(4):1097–120. doi: 10.5194/nhess-18-1097-2018.
+[36] Matthew R. Climate change and water security in the Himalayan region. Asia
+Policy 2013;16(1):39–44. doi: 10.1353/asp.2013.0038.
+[37] Moftakhari HR, Salvadori G, AghaKouchak A, Sanders BF, Matthew RA. Com-
+pounding effects of sea level rise and ﬂuvial ﬂooding. Proc Natl Acad Sci
+2017;114(37):9785–90. doi: 10.1073/pnas.1620325114.
+[38] Pullanikkatil D, Kaneka B, Mkanthama C, Pemba D, Chiotha S. Public health and
+population: Linkages with climate variability. InSocio-Ecological Resilience to
+Climate Change in a Fragile Ecosystem. Routledge; 2018. p. 194–207.
+[39] Sanders BF, Vargas D, Schubert JE, Elizondo N, Aghakouchak A, Allarie M, et al.
+The case for collaborative ﬂood modeling in Paraguay. In: 38th IAHR World Con-
+gress; 2019. doi: 10.3850/38WC092019-1865.
+[40] Sarkar A, Patil S, Hugar LB, Vanloon G. Sustainability of current agriculture prac-
+tices, community perception, and implications for ecosystem health: an Indian
+study. EcoHealth 2011;8:418–31.
+[41] Talukder B, van Loon GW, Hipel KW, Chiotha S, Orbinski J. Health impacts of cli-
+mate change on smallholder farmers. One Health 2021;13:100258. doi:
+10.1016/j.onehlt.2021.100258.
+[42] Talukder B, Matthew R, Bunch MJ, Hipel KW, Orbinski J. Melting of Himalayan
+glaciers and planetary health. Curr Opin Environ Sustain 2021;50:98–108. doi:
+10.1016/j.cosust.2021.02.002.
+[43] Talukder B, Saifuzzaman M. Sustainability of agricultural systems in the coastal
+zone of Bangladesh. Renew Agric Food Syst 2016;31(2):148–65. doi: 10.1017/
+S1742170515000095.
+[44] Chiotha S. Partnership in climate change adaptation. Rethinking African Partner-
+ships for Global Solutions. Michigan State University’s Alliance for African Part-
+nership. 2017. AAP_Thought_Piece.pdf (msu.edu).
+[45] Huq S. Climate change and Bangladesh. Science 2001;294(5547):1617. doi:
+10.1126/science.294.5547.1617.
+[46] Joshua MK, Ngongondo C, Monjerezi M, Chipungu F, Liwenga E, Majule AE,
+Stathers T, Lamboll R. Climate change in semi-arid Malawi: Perceptions, adapta-
+tion strategies and water governance. Jamba 2016;8(3) 1-0 https://hdl.handle.
+net/10520/EJC191808.
+[47] Rotello CM, Heit E. Modeling the effects of argument length and validity on
+inductive and deductive reasoning. J Exp Psychol 2009;35(5):1317. doi:
+10.1037/a0016648.
+[48] Mcmichael AJ, Friel S, Nyong A, Corvalan C. Global environmental change and
+health: impacts, inequalities, and the health sector. BMJ 2008;336(7637):191–4.
+doi: 10.1136/bmj.39392.473727.AD.
+[49] Ebi K., Campbell-Lendrum D., Wyns A. The 1.5 health report: synthesis on health
+and climate science in the IPCC SR1. 5. 2018. WHO. The_1.5_health_Report.pdf
+(mohp.gov.np).
+[50] Haraldsson HV. Introduction to system thinking and causal loop diagrams. Lund,
+Sweden: Department of chemical engineering, Lund University.; 2004 Introduc-
+tion-to-system-thinking-and-causal-loop-diagrams.pdf (researchgate.net).
+[51] Rwashana AS, Nakubulwa S, Nakakeeto-Kijjambu M, Adam T. Advancing the
+application of systems thinking in health: understanding the dynamics of neo-
+natal mortality in Uganda. Health Res Policy Syst 2014;12:1–4. doi: 10.1186/
+1478-4505-12-36.
+[52] Radej B. Social complexity: Operational deﬁnition (Working Paper). Ljubljana:
+Slovenian Evaluation Society; 2015 sde_DZ_2-14_Social_Complexity_-_Opera-
+tional_Deﬁnition_3jul2015-libre.pdf (d1wqtxts1xzle7.cloudfront.net.
+[53] Payo A, Hall JW, French J, Sutherland J, van Maanen B, Nicholls RJ, Reeve DE.
+Causal loop analysis of coastal geomorphological systems. Geomorphology
+2016;256:36–48. doi: 10.1016/j.geomorph.2015.07.048.
+[54] Miller JH, Page SE. Complex adaptive systems: an introduction to computational
+models of social life. Princeton, NJ: Princeton University Press; 2007.
+[55] Inam A, Adamowski J, Halbe J, Prasher S. Using causal loop diagrams for the ini-
+tialization of stakeholder engagement in soil salinity management in agricul-
+tural watersheds in developing countries: a case study in the Rechna Doab
+watershed, Pakistan. J Environ Manag 2015;152:251–67. doi: 10.1016/j.jenv-
+man.2015.01.052.
+[56] Sivakumar B, Singh VP. Hydrologic system complexity and nonlinear dynamic
+concepts for a catchment classiﬁcation framework. Hydrol Earth Syst Sci
+2012;16(11):4119–31. doi: 10.5194/hess-16-4119-2012.
+[57] Sterman JD. All models are wrong: reﬂections on becoming a systems scientist.
+Syst Dyn Rev 2002;18(4):501–31. doi: 10.1002/sdr.261.
+[58] Guastello SJ, Koopmans M, Pincus D. Chaos and complexity in psychology: The
+theory of nonlinear dynamical systems editors. Cambridge University Press;
+2008.
+[59] Bala BK, Arshad FM, Noh KM. System dynamics. Model Simul 2017;274.
+[60] Lele S, Springate-Baginski O, Lakerveld R, Deb D, Dash P. Ecosystem services: ori-
+gins, contributions, pitfalls, and alternatives. Conserv Soc 2013;11(4):343–58
+https://www.jstor.org/stable/26393131.
+[61] Millenium Ecosystem Assessment. Ecosystems and human well-being: Synthe-
+sis. Washington: Island Press; 2005. 3337 CBD Synthesis.indd http://millenniu-
+massessment.org. [Accessed on August 01, 2023].
+[62] World Health Organization. Convention on Biological Diversity, Connecting
+global priorities: Biodiversity and human health: a state of knowledge review.
+Geneva: World Health Organization; 2015. untitled (who.int.) [Accessed on
+August 10, 2023].
+[63] Lindgren E, Elmqvist T. Ecosystem services and human health. InOxford
+Research Encyclopedia of Environmental Science; 2017. doi: 10.1093/acrefore/
+9780199389414.013.86.
+[64] Raleigh C, Urdal H. Climate change, environmental degradation and armed con-
+ﬂict. Polit Geogr 2007;26(6):674–94. doi: 10.1016/j.polgeo.2007.06.005.
+[65] Warner K, Hamza M, Oliver-Smith A, Renaud F, Julca A. Climate change, environ-
+mental degradation and migration. Nat Hazards 2010;55:689–715. doi: 10.1007/
+s11069-009-9419-7.
+[66] Wang Y, Wu N, Kunze C, Long R, Perlik M. Drivers of change to mountain sustainabil-
+ity in the Hindu Kush Himalaya. Hindu Kush Himalaya Assess 2019:17–56.
+[67] Daszak P, Cunningham AA, Hyatt AD. Emerging infectious diseases of wildlife
+−threats to biodiversity and human health. Science 2000;287(5452):443–9. doi:
+10.1126/science.287.5452.443.
+[68] Greenough G, McGeehin M, Bernard SM, Trtanj J, Riad J, Engelberg D. The poten-
+tial impacts of climate variability and change on health impacts of extreme
+weather events in the United States. Environ Health Perspect 2001;109:191–8.
+doi: 10.1289/ehp.109-1240666.
+[69] IPCC. Climate Change. Impacts, adaptation, and vulnerability. Cambridge: Cam-
+bridge University Press; 2001. 2001 http://ipcc.ch/site/assets/uploads/2018/03/
+WGII_TAR_full_report-2.pdf. [Accessed on August 12, 2023].
+[70] Mason LR, Erwin J, Brown A, Ellis KN, Hathaway JM. Health impacts of extreme
+weather events: exploring protective factors with a capitals framework. J Evid-
+informed Soc Work 2018;15(5):579–93. doi: 10.1080/23761407.2018.1502115.
+[71] Easterling DR, Meehl GA, Parmesan C, Changnon SA, Karl TR, Mearns LO. Climate
+extremes: observations, modeling, and impacts. Science 2000;289(5487):2068–
+74. doi: 10.1126/science.289.5487.2068.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+12
+[72] Parmesan C, Root TL, Willig MR. Impacts of extreme weather and climate on ter-
+restrial biota. Bull Am Meteorol Soc 2000;81(3):443–50. doi: 10.1175/1520-
+0477(2000)081<0443:IOEWAC>2.3.CO;2.
+[73] Deschenes O, Moretti E. Extreme weather events, mortality, and migration. Rev
+Econ Stat 2009;91(4):659–81. doi: 10.1162/rest.91.4.659.
+[74] Luber G, McGeehin M. Climate change and extreme heat events. Am J Prev Med
+2008;35(5):429–35. doi: 10.1016/j.amepre.2008.08.021.
+[75] Dunn G, Brown RR, Bos JJ, Bakker K. The role of science-policy interface in sus-
+tainable urban water transitions: lessons from Rotterdam. Environ Sci Policy
+2017;73:71–9. doi: 10.1016/j.envsci.2017.04.013.
+[76] Kouadio IK, Aljunid S, Kamigaki T, Hammad K, Oshitani H. Infectious diseases
+following natural disasters: prevention and control measures. Expert Rev Anti
+Infect Ther 2012;10(1):95–104. doi: 10.1586/eri.11.155.
+[77] FAO; 2023. The Impact of Disasters on Agriculture and Food Security, https://
+www.fao.org/home/en. [Accessed on October 01, 2023].
+[78] Lesk C, Rowhani P, Ramankutty N. Inﬂuence of extreme weather disasters on global
+crop production. Nature 2016;529(7584):84–7. doi: 10.1038/nature16467.
+[79] Rosenzweig C, Iglesius A, Yang XB, Epstein PR, Chivian E. Climate change and
+extreme weather events-Implications for food production, plant diseases, and
+pests.
+Glob
+Chang
+Hum
+Health
+2001;(2):90−104.
+https://www.unl.edu/.
+[Accessed on August 15, 2023].
+[80] Devereux S. The impact of droughts and ﬂoods on food security and policy
+options to alleviate negative effects. Agric Econ 2007;37:47–58. doi: 10.1111/
+j.1574-0862.2007.00234.x.
+[81] Ge C, Lee C, Lee J. The impact of extreme weather events on Salmonella internal-
+ization in lettuce and green onion. Food Res Int 2012;45(2):1118–22. doi:
+10.1016/j.foodres.2011.06.054.
+[82] Jones KE, Patel NG, Levy MA, Storeygard A, Balk D, Gittleman JL, Daszak P. Global
+trends in emerging infectious diseases. Nature 2008;451(7181):990–3. doi:
+10.1038/nature06536.
+[83] McMichael AJ. Extreme weather events and infectious disease outbreaks. Viru-
+lence 2015;6(6):543–7. doi: 10.4161/21505594.2014.975022.
+[84] Schrag SJ, Wiener P. Emerging infectious disease: what are the relative roles of
+ecology and evolution? Trends Ecol Evol 1995;10(8):319–24. doi: 10.1016/
+S0169-5347(00)89118-1.
+[85] Altizer S, Ostfeld RS, Johnson PT, Kutz S, Harvell CD. Climate change and infec-
+tious diseases: from evidence to a predictive framework. Science 2013;341
+(6145):514–9. doi: 10.1126/science.123940.
+[86] Patz JA, Epstein PR, Burke TA, Balbus JM. Global climate change and emerging infec-
+tious diseases. JAMA 1996;275(3):217–23. doi: 10.1001/jama.1996.03530270057032.
+[87] Reiter P. Climate change and mosquito-borne disease. Environ Health Perspect
+2001;109(suppl 1):141–61. doi: 10.1289/ehp.01109s114.
+[88] Shuman EK. Global climate change and infectious diseases. N Engl J Med
+2010;362(12):1061–3. doi: 10.1056/NEJMp0912931.
+[89] Githeko AK, Lindsay SW, Confalonieri UE, Patz JA. Climate change and vector-
+borne diseases: a regional analysis. Bull World Health Organ 2000;78(9):1136
+−1147. http://scielosp.org. [Accessed on August 20, 2023].
+[90] WHO. Key facts. Geneva: World Health Organization; 2019. Fact sheets https://
+www.who.int/. [Accessed on August 09, 2023].
+[91] Ahern M, Kovats RS, Wilkinson P, Few R, Matthies F. Global health impacts of
+ﬂoods: epidemiologic evidence. Epidemiol Rev 2005;27(1):36–46. doi: 10.1093/
+epirev/mxi004.
+[92] Colwell RR. Global climate and infectious disease: the cholera paradigm. Science
+1996;274(5295):2025–31. doi: 10.1126/science.274.5295.2025.
+[93] Brown L, Murray V. Examining the relationship between infectious diseases and
+ﬂooding in Europe: a systematic literature review and summary of possible pub-
+lic health interventions. Disaster Health 2013;1(2):117–27. doi: 10.4161/
+dish.25216.
+[94] Beddington JR, Asaduzzaman M, Fernandez A, Clark ME, Guillou M, Jahn MM, et
+al. Achieving food security in the face of climate change: ﬁnal report from the
+Commission on Sustainable Agriculture and Climate Change. 2012. https://
+www.cgiar.org/. [Accessed on September 07, 2023].
+[95] Gregory PJ, Ingram JS, Brklacich M. Climate change and food security. Philos
+Trans R Soc B 2005;360(1463):2139–48. doi: 10.1098/rstb.2005.1745.
+[96] Springmann M, Mason-D’Croz D, Robinson S, Garnett T, Godfray HC, Gollin D,
+Rayner M, Ballon P, Scarborough P. Global and regional health effects of future
+food production under climate change: a modelling study. Lancet North Am Ed
+2016;387(10031):1937–46. doi: 10.1016/S0140-6736(15)01156-3.
+[97] FAO. The State of food and agriculture 2021: Making agrifood systems more
+resilient to shocks and stresses. Rome, 2021. https://www.fao.org/home/en.
+[Accessed on October 05, 2023].
+[98] FAO. 2021 The impact of disasters and crises on agriculture and food security.
+Rome, http://fao.org. [Accessed on September 03, 2023].
+[99] Haile M. Weather patterns, food security and humanitarian response in sub-
+Saharan Africa. Philos Trans R Soc B 2005;360(1463):2169–82. doi: 10.1098/
+rstb.2005.1746.
+[100] Schmidhuber J, Tubiello FN. Global food security under climate change. Proc Natl
+Acad Sci 2007;104(50):19703–8. doi: 10.1073/pnas.070197610.
+[101] Wheeler T, Von Braun J. Climate change impacts on global food security. Science
+2013;341(6145):508–13. doi: 10.1126/science.1239402.
+[102] Jaron D, Galal O. Food security and population health and well being. Asia Pac J Clin Nutr
+2009;18(4):684–7 https://search.informit.org/doi/10.3316/informit.714394785377881.
+[103] Poppy GM, Chiotha S, Eigenbrod F, Harvey CA, Honzak M, Hudson MD, Jarvis A,
+Madise NJ, Schreckenberg K, Shackleton CM, Villa F. Food security in a perfect
+storm: using the ecosystem services framework to increase understanding.
+Philos Trans R Soc B 2014;369(1639):20120288. doi: 10.1098/rstb.2012.0288.
+[104] Porter JR, Xie L, Challinor AJ, Cochrane K, Howden SM, Iqbal MM, Lobell DB, et al.
+Food security and food production systems. (2014); 485-533. https://www.ipcc.
+ch/ [Accessed on September 04, 2023].
+[105] Tirado MC, Clarke R, Jaykus LA, McQuatters-Gollop A, Frank JM. Climate change
+and food safety: a review. Food Res Int 2010;43(7):1745–65. doi: 10.1016/j.foo-
+dres.2010.07.003.
+[106] Myers SS, Zanobetti A, Kloog I, Huybers P, Leakey AD, Bloom AJ, Carlisle E, Die-
+tterich LH, Fitzgerald G, Hasegawa T, Holbrook NM. Increasing CO2 threatens
+human nutrition. Nature 2014;510(7503):139–42. doi: 10.1038/nature13179.
+[107] Myers SS, Smith MR, Guth S, Golden CD, Vaitla B, Mueller ND, Dangour AD,
+Huybers P. Climate change and global food systems: potential impacts on food
+security and undernutrition. Annu Rev Public Health 2017;38:259–77. doi:
+10.1146/annurev-publhealth-031816-044356.
+[108] Black RE, Allen LH, Bhutta ZA, Caulﬁeld LE, De Onis M, Ezzati M, Mathers C, Riv-
+era J. Maternal and child undernutrition: global and regional exposures and
+health consequences. Lancet North Am Ed 2008;371(9608):243–60. doi:
+10.1016/S0140-6736(07)61690-0.
+[109] FAO. 2017 The impact of disasters and crises on agriculture and food security.
+Rome, https://www.fao.org/home/en. [Accessed on September 27, 2023].
+[110] Ibarraran ME, Ruth M, Ahmad S, London M. Climate change and natural disas-
+ters: macroeconomic performance and distributional impacts. Environ, Dev Sus-
+tain 2009;11:549–69. doi: 10.1007/s10668-007-9129-9.
+[111] Ulrichs M, Cannon T, Newsham A, Naess LO, Marshall M. Climate change & food
+security vulnerability assessment. Toolkit for assessing community-level poten-
+tial for adaptation to climate change. CCAFS Working Paper. 2015 https://www.
+cgiar.org/. [Accessed on August 17, 2023].
+[112] Bouwer LM. Have disaster losses increased due to anthropogenic climate change? Bull
+Am Meteorol Soc 2011;92(1):39–46. doi: 10.1175/2010BAMS3092.1.
+[113] UNISDR. Disaster risk reduction and resilience in the 2030 agenda for sustain-
+able development. Geneva: United Nations Ofﬁce for Disaster Risk Reduction;
+2015. UNDRR. [Accessed on July 10, 2023].
+[114] WHO. Risk reduction and emergency preparedness: WHO six-year strategy for
+the health sector and community capacity development. Geneva: World Health
+Organization; 2007. Microsoft Word - EP_Strategy_Aug07.doc (preventionweb.
+net. [Accessed on July 16, 2023].
+[115] Khan Y, O’Sullivan T, Brown A, Tracey S, Gibson J, Genereux M, Henry B,
+Schwartz B. Public health emergency preparedness: a framework to promote
+resilience. BMC Public Health 2018;18:1–6. doi: 10.1186/s12889-018-6250-7.
+[116] O’Sullivan TL, Kuziemsky CE, Toal-Sullivan D, Corneil W. Unraveling the com-
+plexities of disaster management: a framework for critical social infrastructure
+to promote population health and resilience. Soc Sci Med 2013;93:238–46. doi:
+10.1016/j.socscimed.2012.07.040.
+[117] Lemonick DM. Epidemics after natural disasters. Am J Clin Med 2011;8(3):144–
+52 ajcmsix.pdf (aapsus.org). [Accessed on June 01, 2023].
+[118] Watson JT, Gayer M, Connolly MA. Epidemics after natural disasters. Emerg
+Infect Dis 2007;13(1):1. doi: 10.3201/eid1301.060779.
+[119] Addison PF, Carbone G, McCormick N. The development and use of biodiversity
+indicators. Gland, Switzerland: IUCN; 2018 1043_2018-049-En.pdf (unccd.int.)
+[Accessed on October 17, 2023]..
+[120] Sala OE, Meyerson LA, Parmesan C. Biodiversity change and human health: from
+ecosystem services to spread of disease editors. Island Press; 2012.
+[121] Mastel M, Bussalleu A, Paz-Soldan VA, Salmon-Mulanovich G, Valdes-Velasquez
+A, Hartinger SM. Critical linkages between land use change and human health in
+the Amazon region: a scoping review. PLoS One 2018;13(6):e0196414. doi:
+10.1371/journal.pone.0196414.
+[122] WHO. Guidelines for drinking-water quality. Geneva: World Health Organiza-
+tion; 1993. 2nd edition: Volume 1 - Recommendations https://www.who.int/.
+[Accessed on September 12, 2023].
+[123] Chalar G, Arocena R, Pacheco JP, Fabian D. Trophic assessment of streams in Uru-
+guay: a trophic State Index for Benthic Invertebrates (TSI-BI). Ecol Indic 2011;11
+(2):362–9. doi: 10.1016/j.ecolind.2010.06.004.
+[124] Brevik EC, Burgess LC. The inﬂuence of soils on human health. Nat Educ Knowl
+2014;5(12):1.
+[125] Beck LR, Lobitz BM, Wood BL. Remote sensing and human health: new sensors
+and
+new
+opportunities.
+Emerg
+Infect
+Dis
+2000;6(3):217.
+doi:
+10.3201/
+eid0603.000301.
+[126] Pimentel D. Soil erosion: a food and environmental threat. Environ, Dev Sustain
+2006;8:119–37. doi: 10.1007/s10668-005-1262-8.
+[127] Vrba J, Girman J, van der Gun J, Haie N, Hirata R, Lopez-Gunn E, et al. Groundwater
+resources sustainability indicators. In: Lipponen A, editor. Groundwater resources sus-
+tainability indicators - UNESCO Digital Library. Paris: UNESCO; 2007.
+[128] Devroye L, Kruszewski P. A note on the Horton-Strahler number for random
+trees. Inf Process Lett 1994;52(3):155–9. doi: 10.1016/0020-0190(94)00135-9.
+[129] Schaetzl RJ, Krist FJ, Stanley K, Hupy CM. The natural soil drainage index: an
+ordinal estimate of long-term soil wetness. Phys Geogr 2009;30(5):383–409.
+doi: 10.2747/0272-3646.30.5.383.
+[130] Hales S, Edwards S, Kovats RS. Impacts on health of climate extremes. In: McMichael
+A., Campbell-Lendrum D., Corvalan C., Ebi K., Githeko A., Scherage J., editors, et al. Cli-
+mate Change and Human Health: Risks and Responses. Geneva: World Health Orga-
+nization; 2003. p. 79−96. who.int. [Accessed on October 03, 2023].
+[131] Costa AC, Soares A. Trends in extreme precipitation indices derived from a daily
+rainfall database for the South of Portugal. Int J Climatol 2009;29(13):1956–75.
+doi: 10.1002/joc.1834.
+[132] WHO. Floods in the WHO European region: Health effects and their prevention.
+Copenhagen: World Health Organization. Regional Ofﬁce for Europe; 2013.
+[Accessed on June 02, 2023].
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+13
+[133] De Bruijn KM. Resilience indicators for ﬂood risk management systems of low-
+land
+rivers. Int
+J
+River
+Basin
+Manag
+2004;2(3):199–210.
+doi:
+10.1080/
+15715124.2004.9635232.
+[134] Keyantash JA, Dracup JA. An aggregate drought index: Assessing drought sever-
+ity based on ﬂuctuations in the hydrologic cycle and surface water storage.
+Water Resour Res 2004;40(9). doi: 10.1029/2003WR002610.
+[135] Shi J, Cui L, Wen K, Tian Z, Wei P, Zhang B. Trends in the consecutive days of tem-
+perature and precipitation extremes in China during 1961−2015. Environ Res
+2018;161:381–91. doi: 10.1016/j.envres.2017.11.037.
+[136] Doocy S, Dick A, Daniels A, Kirsch TD. The human impact of tropical cyclones: a histor-
+ical review of events 1980-2009 and systematic literature review. PLoS Currents
+2013;5. doi: 10.1371/currents.dis.2664354a5571512063ed29d25ffbce74.
+[137] Webster JP, Gower CM, Knowles SC, Molyneux DH, Fenton A. One health−an
+ecological and evolutionary framework for tackling Neglected Zoonotic Dis-
+eases. Evolut Appl 2016;9(2):313–33. doi: 10.1111/eva.12341.
+[138] Kossin JP, Knapp KR, Olander TL, Velden CS. Global increase in major tropical
+cyclone exceedance probability over the past four decades. Proc Natl Acad Sci
+2020;117(22):11975–80. doi: 10.1073/pnas.1920849117.
+[139] Anderson GB, Bell ML, Peng RD. Methods to calculate the heat index as an expo-
+sure
+metric in environmental health research. Environ
+Health Perspect
+2013;121(10):1111–9. doi: 10.1289/ehp.1206273.
+[140] Garchitorena A, Sokolow SH, Roche B, Ngonghala CN, Jocque M, Lund A, Barry M,
+Mordecai EA, Daily GC, Jones JH, Andrews JR. Disease ecology, health and the
+environment: a framework to account for ecological and socio-economic drivers
+in the control of neglected tropical diseases. Philos Trans R Soc B 2017;372
+(1722):20160128. doi: 10.1098/rstb.2016.0128.
+[141] Kirkeby C, Halasa T, Gussmann M, Toft N, Græsbøll K. Methods for estimating
+disease transmission rates: evaluating the precision of Poisson regression and
+two novel methods. Sci Rep 2017;7(1):9496. doi: 10.1038/s41598-017-09209-x.
+[142] Awolala DO, Ajibefun IA. Rice farmers’ vulnerability to extreme climate: Deploy-
+ing local adaptation ﬁnance in Ekiti State, Nigeria. World Environ 2015;5:91–
+100. doi: 10.5923/j.env.20150503.01.
+[143] Murphy E, Glaeser L, Maalouf-Manasseh Z, Collison DK, Sethuraman K. Food for
+Peace Food Security Desk Review For Katanga, North Kivu, and South Kivu. Dem-
+ocratic Republic of Congo | Archive - U.S. Agency for International Development
+(usaid.gov); 2015.
+[144] Moran PA. Notes on continuous stochastic phenomena. Biometrika 1950;37(1/
+2):17–23. doi: 10.2307/2332142.
+[145] Pangaribowo EH, Gerber N, Torero M. Food and nutrition security indicators: a
+review. Bonn: Center for Development and Research; 2013. econstor.eu.
+[Accessed on June 05, 2023].
+[146] Sullivan CA, Cohen A, Faures JM, Santini G. The rural water livelihoods index.
+FAO-WATER working paper, 307. Roma: FAO; 2010. Rural Water Livelihoods
+Index (RWLI). fao.org. [Accessed on July 08, 2023].
+[147] Aurino E. Selecting a core set of indicators for monitoring global food security: A
+methodological proposal. Rome: FAO; 2014 i4095e.pdf (fao.org). [Accessed on
+May 10, 2023].
+[148] Sustainable Development Solutions Network. SDSN TG7 issue brief: Goals, tar-
+gets, and indicators for sustainable agriculture. New York, 2013. Microsoft Word
+- 131209 SDSN TG7 Ag Issue Brief 2.docx (multiscreensite.com). [Accessed on
+July 21, 2023].
+[149] vanLoon WG, Hugar BL, Patil GS. Agricultural sustainability: Strategies for
+assessment. 1st ed. Newbury Park: Sage Publications India Pvt. Ltd.; 2009.
+[150] The Economist. Food security index. The Economist, (2016). Global Food Security
+Index June 2016 - The Economist Intelligence Unit - Thank you (eiu.com).
+[Accessed on May 17, 2023].
+[151] Perez-Escamilla R, Segall-Corr^ea AM. Food insecurity measurement and indica-
+tors. Revista de Nutri¸c~ao 2008;21:15s−26s. untitled (scielo.br). [Accessed on
+May 18, 2023].
+[152] Gaitan-Cremaschi D, Klerkx L, Duncan J, Trienekens JH, Huenchuleo C, Dogliotti
+S, Contesse ME, Rossing WA. Characterizing diversity of food systems in view of
+sustainability transitions. A review. Agron Sustain Dev 2019;39:1–22. doi:
+10.1007/s13593-018-0550-2.
+[153] Aramyan LH, Lansink AG, Van Der Vorst JG, Van Kooten O. Performance mea-
+surement in agri-food supply chains: a case study. Supply Chain Manag 2007;12
+(4):304−315. 93128 304..315. emerald.com. [Accessed on June 16, 2023].
+[154] Sharma LK, Bali SK. A review of methods to improve nitrogen use efﬁciency in
+agriculture. Sustainability 2017;10(1):51. doi: 10.3390/su10010051.
+[155] UN/ISDR, UN/OCHA. Disaster preparedness for effective response: Guidance and
+indicator package for implementing priority ﬁve of the Hyogo framework. New
+York and Geneva. Disaster preparedness for effective response: guidance and
+indicator package for implementing priority ﬁve of the Hyogo Framework |
+UNDRR; 2008.
+[156] Simpson DM, Katirai M. Indicator issues and proposed framework for a disaster
+preparedness index (DPi). University of Louisville; 2006. p. 49.
+[157] Winderl T. Disaster resilience measurements: stocktaking of ongoing efforts in
+developing systems for measuring resilience. New York: United Nations Devel-
+opment Programme; 2014. 37916_disasterresiliencemeasurementsundpt.pdf.
+preventionweb.net. [Accessed on September 22, 2023].
+[158] Rahman M, Khan T, Sadique Z, Sabbih MA. Measuring for monitoring: the state
+of data for SDGs in Bangladesh, Southern Voice, Dhaka. Bangladesh-Country-
+Report-Final.pdf; 2015.
+[159] Cutter SL, Burton CG, Emrich CT. Disaster resilience indicators for benchmarking
+baseline conditions. J Homeland Secur Emerg Manag 2010;7(1). doi: 10.2202/
+1547-7355.1732.
+[160] Von Schirnding Y. Health in sustainable development planning: the role of indi-
+cators. Geneva: World Health Organization; 2002. who.int. [Accessed on August
+25, 2023].
+[161] Holden LM. Complex adaptive systems: concept analysis. J Adv Nurs 2005;52
+(6):651–7 Complex adaptive systems: concept analysis - Holden - 2005 - Journal
+of Advanced Nursing - Wiley Online Library.
+[162] Frankish K, Ramsey WM. The Cambridge handbook of artiﬁcial intelligence edi-
+tors. Cambridge University Press; 2014.
+[163] Zaitchik BF. Climate and health across Africa. Oxford Research Encyclopedia of
+Climate Science; 2017.
+[164] Wooley JC, Lin HS. Computational modeling and simulation as enablers for bio-
+logical discovery. Catalyzing inquiry at the interface of computing and biology.
+National Academies Press (US); 2005. NCBI Bookshelf. nih.gov. [Accessed on July
+18, 2023].
+[165] Ranapurwala SI, Cavanaugh JE, Young T, Wu H, Peek-Asa C, Ramirez MR. Public
+health application of predictive modeling: an example from farm vehicle
+crashes. Injury Epidemiol 2019;6:1. doi: 10.1186/s40621-019-0208-9.
+B. Talukder, J.E. Schubert, M. Toﬁghi et al.
+The Journal of Climate Change and Health 15 (2024) 100292
+14

@@ -1,0 +1,2759 @@
+Water Asset Resilience  
+Best Practices in the  
+Context of Climate Change
+www.ceriu.qc.ca   |   MARCH 2024
+_
+CERIU’S MISSION
+_
+Implement any knowledge transfer and applied research 
+initiatives that can foster the development of know-how, 
+techniques, standards and policies supporting the sustainable and 
+economic management of infrastructure and the competitiveness 
+of companies in the sector.
+I
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+CERIU
+Founded in 1994, the Centre d’expertise et de recherche en infrastructures urbaines 
+(CERIU) is a non-profit organization that arose from the need to rehabilitate municipal 
+infrastructure in an efficient and cost-effective manner. 
+Thanks to the wide-ranging expertise of its 185  organizational members, including 
+municipalities, businesses, government departments, laboratories and educational 
+institutions, and its unique approach based on partnership and consultation, CERIU is the 
+only organization that provides an integrated perspective on urban infrastructure issues.
+A true innovation hub, CERIU aims to change attitudes and habits in order to promote new, 
+more efficient and cost-effective ways of doing things, and develop tools tailored to the 
+needs of municipalities and utilities.
+ABOUT US
+_
+_
+CERIU’S PERMANENT BOARD, ASSET MANAGEMENT
+The Permanent Board, Asset Management, works to support the development 
+of expertise and best practices in the sustainable development of municipal 
+infrastructure through standardization, dissemination, training, research, 
+monitoring and technology transfer.
+CAUTIONARY NOTE
+The CERIU assumes no responsibility with respect to how this handbook is used or the 
+results it may yield. Understanding of the science underpinning climate change is constantly 
+evolving. As such, it is the responsibility of municipalities to learn about the risks to which 
+they may be exposed, depending on their geographical position and vulnerability.
+The fact that a municipality has not yet been affected by climatic hazards does not mean 
+that it is immune to all future climatic hazards.
+II
+ACKNOWLEDGEMENTS
+CERIU would like to sincerely thank all the members of the working committee for their 
+involvement and contribution. 
+It would not have been possible to prepare this document, led by CERIU, without the 
+availability, enthusiasm and active participation of the members of the working committee 
+who took part in testing the Resilience Tool. CERIU would like to express its gratitude and 
+sincere thanks to all members of the team, who believed in the project from the outset, 
+and for all the energy they put into producing this handbook.
+This guide is the translation of the best practices guide originally published by the CERIU 
+in French in october 2023
+THE TEAM
+• Supervision: Permanent Board, Asset Management – Maéva Ambros (Eng., M.Eng., 
+Project Director)
+• Coordination: Anaïs Desmarest (M.Eng., Assistant Project Manager)  
+• Project Managers: Sylvie Boulanger (Eng. Ph.D.); Norda Stelo and Richard Frenette (Eng. 
+Ph.D.); Brodeur Frenette 
+• R&D: Francis Noël Bouvet, Norda Stelo, Anibal Saidani (Eng.); Brodeur Frenette and 
+Anaïs Desmarest (M.Eng.)  
+WORKING COMMITTEE MEMBERS 
+• Alain Desjardins, City of Candiac 
+• Catherine Haulard, formerly of the Municipality of Sainte-Élisabeth 
+• Driss Ellassraoui (Eng.), City of Laval 
+• Edwar Andres Cordon Barrera (Eng.), City of Trois-Rivières 
+• Francis Pelletier (Eng.), City of Gatineau 
+• François Tremblay, City of Saint-Jérôme 
+• Mélanie Lapierre, Municipality of Val-Morin 
+• Normand Hachey (Eng.), Ville de Montréal
+• Philippe Lalonde (Eng.), formerly of the City of Terrebonne 
+• Roger Kanyinda (Eng.), Ville de Montréal
+• Simon Lavigne (Eng.), City of Terrebonne
+This initiative is made possible through the financial contribution of the Federation 
+of Canadian Municipalities (FCM) via the Municipal Asset Management Program 
+(MAMP), which is administered and funded by the Government of Canada.
+III
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+GLOSSARY	
+	
+	
+1
+INTRODUCTION	
+	
+5
+1_ HANDBOOK DESCRIPTION	
+6
+	
+1.1_ OBJECTIVES AND USER FLOW	
+6
+	
+	
+1.1.1_	 Objectives	
+6
+	
+	
+1.1.2_	User flow	
+7
+	
+1.2_ PROJECT FRAMEWORK: WATER ASSETS AND HAZARDS	
+8
+	
+1.3_ DEFINITION OF RESILIENCE	
+9
+	
+	
+1.3.1_	Resilience	
+9
+	
+	
+1.3.2_	Steps in resilience	
+9
+	
+1.4_ RESILIENCE: ASSESSMENT AND BENEFITS	
+12
+2_ TOOL DESCRIPTION	
+13
+	
+2.1_	TOOL FEATURES	
+13
+	
+2.2_	CONDITIONS FOR USING THE TOOL	
+15
+	
+2.3_	DESCRIPTION OF THE ASSESSMENT MECHANISM	
+15
+	
+2.4_	ASSESSMENT RESULTS AND EXPLANATIONS	
+16
+	
+	
+2.4.1_	Vulnerability and resilience tables	
+17
+	
+	
+2.4.2_Radar diagram	
+18
+	
+2.5_	ASSESSMENT AND ROADMAP	
+19
+	
+	
+2.5.1_	 Assessment of results	
+19
+	
+	
+2.5.2_	Roadmap	
+22
+3_ POTENTIAL SOLUTIONS	
+24
+	
+3.1_	HOW TO USE THIS SECTION	
+24
+	
+3.2_	STEPS AND ASSOCIATED GUIDANCE SHEETS	
+25
+	
+	
+3.2.1_	 Knowledge of risks and awareness	
+26
+	
+	
+3.2.2_	Prevention and adaptation	
+36
+	
+	
+3.2.3_	Reaction to an event	
+44
+	
+	
+3.2.4_	Recovery and reconstruction	
+51
+	
+	
+3.2.5_	Strategic management and planning	
+58
+TABLE OF CONTENTS
+IV
+4_	CONCLUSION	
+	
+62
+5_	 INDEX		 	
+	
+	
+63
+6_	 REFERENCES AND BIBLIOGRAPHY	
+69
+7_	 APPENDICES	
+	
+70
+	
+APPENDIX 1:	 HAZARD TAB COMPLETED (HEAVY PRECIPITATION,  
+DROUGHT OR STORMS)	
+71
+	
+APPENDIX 2: 	ASSESSMENT TAB COMPLETED	
+74
+LIST OF FIGURES
+Fig. 1:	
+User flow through deliverables (CERIU, 2022)	
+7
+Fig. 2: 	 Timeline of resilience steps	
+11
+Fig. 3: 	 Presentation of results	
+16
+Fig. 4: 	 Pentagon graph of hazard results	
+18
+Fig. 5: 	 Presentation of results for the three hazards	
+19
+Fig. 6: 	 Radar diagram for the three hazards	
+20
+Fig. 7: 	 Vulnerability/resilience graph	
+20
+Fig. 8: 	 Results by resilience topic	
+21
+Fig. 9: 	 Choice of areas to work on	
+22
+Fig. 10: 	Organization of actions to be implemented in the municipality	
+23
+Fig. 11: 	 Guidance sheet example with explanation of the sections	
+25
+LIST OF TABLES
+Tab. 1:	 Description of Excel spreadsheet tabs	
+13
+Tab. 2:	 Breakdown of questions by hazard and topic	
+15
+Tab. 3: 	 Tool results and explanations	
+17
+Tab. 4:	 Results by resilience topic	
+18
+Tab. 5:	 Index of guidance sheets by resilience topic and hazard	
+26
+Tab. 6: 	 Reference index for guidance sheet preparation	
+63
+1
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+GLOSSARY
+Action plan
+Tool that makes it possible to achieve the commitments, vision, specifications and 
+objectives identified in previous stages of strategic planning. It identifies priority actions 
+and establishes a timeline for their implementation, based on available human, financial 
+and technical resources (Planifika, 2023).
+AM policy 
+Policy that outlines a municipality’s commitment and mandated requirements for asset 
+management. A policy is linked to the municipality’s strategic objectives and is shaped 
+by its values and priorities (FCM, 2023). 
+Asset management plan
+Detailed plan that outlines how assets will be managed in one or more service areas. 
+It identifies how assets will be maintained and renewed, and the cost, level of service 
+and risk considerations in each service area (FCM, 2023).
+Awareness-raising strategy 
+Development, planning and coordination of actions to raise awareness in people so 
+that they become sensitive, receptive or attentive to something or a message for which 
+no interest was previously expressed, with the objective of driving action or changing 
+behaviours (Planifika, 2023).
+Climate
+Climate in a narrow sense is usually defined as the average weather, or more rigorously, 
+as the statistical description in terms of the mean and variability of relevant quantities 
+over a period of time ranging from months to thousands or millions of years. The classical 
+period for averaging these variables is 30 years, as defined by the World Meteorological 
+Organization (IPCC, 2007).
+Climate change
+Change in the state of the climate that can be identified by changes in the mean and/or 
+the variability of its properties, and that persists for an extended period, typically decades 
+or longer. 
+The United Nations Framework Convention on Climate Change (UNFCCC), in Article 2, 
+defines climate change as: “a change of climate which is attributed directly or indirectly 
+to human activity that alters the composition of the global atmosphere and which is in 
+addition to natural climate variability observed over comparable time periods” (IPCC, 2015).
+2
+Climate change adaptation 
+Process of adjustment to actual or expected climate and its effects. In human systems, 
+adaptation seeks to mitigate harmful effects and exploit beneficial opportunities. In some 
+natural systems, human intervention may facilitate adjustment to expected climate and 
+its effects (Intergovernmental Panel on Climate Change, 2015).
+Climate change adaptation plan
+Planning tool used to examine climate change as a whole and in all areas of municipal 
+government, to identify and prioritize the main risks, adopt a vision, and plan the short-, 
+medium- and long-term implementation stages of climate change adaptation measures 
+(Ville de Montréal, 2017).
+Climate change mitigation
+Human intervention to reduce the sources or enhance the sinks of greenhouse gases 
+(GHG), or aimed at reducing the sources of other substances that may contribute directly 
+or indirectly to limiting climate change (IPCC, 2015). 
+Climate prediction 
+Result of an attempt to produce an estimate of the actual evolution of the climate in the 
+future, for example, on seasonal, interannual, or long-term time scales. Because the 
+future evolution of the climate system may be highly sensitive to initial conditions, such 
+predictions are usually probabilistic in nature (IPCC, 2007).
+Criticality analysis
+A technical methodology used to assess the impact of asset system failures on organi-
+zational performance.  A criticality analysis objectively categorizes and prioritizes these 
+different systems, enabling decision-making that is aligned with the organization’s 
+objectives (Planifika, 2023).
+Demographic projection 
+A population projection provides a picture of what the future size and structure of the 
+population might be by sex and age. It is based on knowledge of the past and, for the 
+future, on assumptions about three components of population change, namely fertility, 
+mortality and migration (Insee, 2023).
+Drought 
+Period of abnormally dry weather long enough to cause a serious hydrological imbalance. 
+A period with an abnormal precipitation deficit is defined as a meteorological drought 
+(IPCC, 2015).
+Emergency action plan
+Document outlining actions to be taken in the event of a disaster or serious crisis 
+(Government of Quebec, 2023). 
+ 
+3
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+Exposure
+The presence of people, livelihoods, species or ecosystems, environmental functions, 
+services, and resources, infrastructure, or economic, social, or cultural assets in places 
+and settings that could be adversely affected (IPCC, 2015).
+Functional status of assets
+The functional status of assets refers to their “fitness for purpose.” It represents the 
+asset’s ability to function relative to its expected performance.
+Information on the functional status of an asset is useful in determining service levels 
+and asset risks (MFOA, 2018). 
+Hazard
+Phenomenon, physical manifestation or human activity likely to cause loss of life or 
+injury, damage to property, social and economic disruption or environmental degradation 
+(Ouranos, 2020).
+Physical status of assets
+Physical condition of an infrastructure or component (Secrétariat du Conseil du trésor, 
+2014).
+Quebec’s Drinking Water Conservation Strategy
+Strategy designed to provide municipalities with the necessary tools to acquire knowledge 
+and make a clear, concrete diagnosis of their water use in relation to internationally 
+recognized standards. To achieve this, several measures and commitments have been 
+progressively implemented by municipalities and the government (MAMH, 2020).
+Resilience
+Ability of an organization or system to withstand and recover from a major disruption, 
+shock or stress, ensuring continued operation and provision of service (adapted from 
+Institute of Asset Management, n.d.).
+Return period
+Average time between two events with intensities equal to or greater than a given value 
+(INRS, 2021).
+Risk
+Combination of the probability of occurrence of a climate event and its potential 
+consequences on vulnerable elements of a given environment (ministère de la Sécurité 
+publique, 2008).
+4
+Risk management
+Plans, actions, or policies to reduce the likelihood and/or consequences of risks or 
+to respond to consequences (IPCC, 2015).
+Strategic planning
+Management process designed to ensure, on an ongoing basis, that an organization 
+is aligned with the internal and external circumstances that are favourable to its success. 
+It is accomplished by adapting the mission, defining objectives, developing strategies 
+and drawing up a comprehensive plan that identifies how resources will be used to 
+meet the needs of stakeholders and environmental requirements (Ministère des Affaires 
+Municipales et de l’Habitation, 2010). 
+Vulnerability
+Degree to which a system is susceptible to, or unable to cope with, adverse effects 
+of climate change, including climate variability and extremes. It varies according to the 
+nature, magnitude and pace of the evolution of the event as well as the variation in the 
+climate to which the system is exposed, the sensitivity of this system and its capacity 
+to adapt (Ville de Montréal, 2017). 
+Vulnerability analysis
+Process of identifying, quantifying and prioritizing (or classifying) system or asset 
+vulnerabilities. A vulnerability analysis focuses on both the consequences for the object 
+itself and the primary and secondary consequences for the surrounding environment. 
+It also looks at ways of reducing these consequences and improving the ability to manage 
+future incidents (Planifika, 2023).
+5
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+INTRODUCTION
+The fight against climate change is a major challenge. Its effects are felt in many areas, 
+and it is important to act now. The increase in climate change-related events is observed 
+throughout the world, and Quebec, where its municipalities and their infrastructure are no 
+exception. 
+Quebec municipalities therefore need to consider the good practices to put in place to best 
+meet the challenges of the future. 
+Resilience can be defined in different ways, one of which being “the ability of an organi-
+zation or system to withstand and recover from a major disruption, shock or stress, 
+ensuring continued operation and provision of service (Institute of Asset Management, 
+n.d.). The idea of resilience is one that is becoming increasingly talked about. This handbook 
+has been prepared by CERIU to support municipalities in their efforts to build resilience 
+into their assets in order to best adapt to climate change.  
+The handbook only examines water assets with respect to three hazards, namely heavy 
+precipitation, drought and storms. 
+The decision to narrow the focus stems from the fact that the issue of climate change is so 
+vast that it cannot be addressed in a single handbook. It was therefore deemed preferable 
+to focus on the most frequent hazards in examining asset resilience in Quebec.
+This decision is also the result of consultations with professionals in the field. Because 
+water assets are the most frequently cited assets in discussions with CERIU members 
+about needs, they have naturally been prioritized for this project.  
+6
+HANDBOOK DESCRIPTION 
+1.1_ OBJECTIVES AND USER FLOW 
+1.1.1_ OBJECTIVES 
+The primary aim of this handbook is to support municipalities in their efforts to build 
+resilience by helping them identify vulnerable assets and offering potential climate change 
+adaptation solutions.  
+This entails raising awareness of climate change among Quebec municipalities and 
+encouraging strategic thinking on the various climate change issues that have an impact 
+on the management of their assets. This handbook is therefore addressed to all Quebec 
+municipalities as well as anyone working with municipal infrastructure. 
+According to the Federation of Canadian Municipalities (FCM), “communities are becoming 
+increasingly vulnerable to the hazards and impacts posed by the changing climate” 
+because “climate influences almost everything about how we design, build, and live in our 
+cities” (FCM, 2023). It is therefore essential to integrate the notion of climate change into 
+the management of municipal assets. 
+This handbook comes with a self-assessment tool (Excel spreadsheet) to assess both 
+asset vulnerability and resilience. The objective is to establish a link between the scores 
+obtained following the assessment and potential solutions. 
+1.0
+It is important to remember that the scope of this handbook is limited to water assets 
+in the context of climate change adaptation.  
+7
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+1.1.2_ USER FLOW 
+The handbook and the tool should be used together to optimize the user experience. 
+The process is divided into three main steps (see Figure 1):
+	
+Step 1:
+	
+Reading the handbook’s objectives, the definition of resilience and the information 
+related to the hazards selected for the project. Understanding the definitions and 
+explanations of the resilience steps that will be assessed later. 
+	
+Step 2:
+	
+Using the questionnaire tool. Based on the responses, the tool provides a vulnerability 
+score and a resilience score.
+	
+Step 3:
+	
+Referring to the guidance sheets, available in both the handbook and the last tabs 
+of the tool, to see, read and understand the potential solutions. 
+Figure 1: User flow through deliverables (CERIU, 2022)
+STEP 1
+STEP 2
+STEP 3
+1.: Resilience
+2.: Use of the tool
+For all three hazards
+Heavy precipitation, Drought, and Storms
+Series of questions designed to identify the level 
+of vulnerability and resilience of the municipality  
+in the face of this hazard.
+Municipal score indicating the level of maturity  
+for each resilience theme:
+Risk identification and awareness, Prevention and 
+adaptation, Reaction, Recovery and reconstruction 
+and Strategic management and planning
+Links to solution identification guide
+3.: For each resilience 
+theme:
+General explanation of 
+the theme of resilience 
+to be improved.
+ 
+Specific sections (refer-
+ences and detailed 
+solutions) to improve re-
+silience to each hazard.
+TOOL
+8
+1.2_ PROJECT FRAMEWORK: WATER ASSETS AND HAZARDS
+In order to limit research and focus on specific issues, only three climatic hazards have 
+been selected, namely heavy precipitation, drought and storms. 
+Each is represented in the handbook and tool by a specific colour and pictogram. 
+These three hazards have been selected based on the scientific literature as well 
+as on consultations with municipalities, which have identified them as the most urgent 
+to address because they are the most frequent in Quebec (Ouranos, 2020). 
+Regarding the assets selected, the most frequently cited in discussions about the needs 
+of professionals working at the municipal level are water assets. 
+The assets considered are therefore the following:
+	
+• Drinking water infrastructure 
+	
+	
+- Supply and treatment 
+	
+	
+- Distribution
+	
+• Wastewater infrastructure 
+	
+	
+- Collection (sanitary, stormwater and combined sewer systems) 
+	
+	
+- Treatment
+Note: Flooding from overflowing watercourses is not considered in this project; 
+only backup and flooding caused by sewer and stormwater system overflows are 
+considered.
+HEAVY PRECIPITATION | BLUE
+DROUGHT | YELLOW
+STORMS | RED
+9
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+1.3_ DEFINITION OF RESILIENCE 
+1.3.1_ RESILIENCE 
+Resilience can be defined in different ways. For the purposes of this handbook, and to 
+define “water asset resilience” in the context of climate change, CERIU uses the Institute 
+of Asset Management’s definition. To best meet the needs of Quebec municipalities, the 
+municipalities forming part of the working group were consulted to develop the ideal 
+definition of “resilience.”
+Knowing a municipality’s vulnerability to climatic hazards makes it easier to predict future 
+hazards. It is important to assess it properly, as this assessment will determine the actions 
+to be taken.
+Vulnerability can be considered as the risk identification step. This step assesses past 
+risks in order to anticipate and mitigate future ones.
+1.3.2_ STEPS IN RESILIENCE
+1.3.2.1_ Vulnerability assessment
+Resilience: Ability of an organization or system to withstand and recover from a major 
+disruption, shock or stress, ensuring continued operation and provision of service 
+(adapted from the Institute of Asset Management, n.d.).
+Vulnerability: Degree to which a system is susceptible to, or unable to cope with, 
+adverse effects of climate change, including climate variability and extremes (Ville de 
+Montréal, 2017).
+10
+The tool provides an assessment of resilience around five topics (see Figure  2). 
+This breakdown corresponds to the various steps:
+KNOWLEDGE OF RISK AND AWARENESS 
+Questions to ask: 
+• What are the different types of risks?
+• What are the impacts of climate change on service levels?
+—
+Identifying the risks to which a municipality’s water assets are exposed is the first step 
+in assessing its resilience to those risks. This includes hazards associated with known 
+weather events, as well as predicted and projected hazards based on long-term trends 
+associated with climate change.
+PREVENTION AND ADAPTATION 
+Question to ask:
+• What preventive measures should be put in place? 
+—
+After identifying and understanding the risks to which it is exposed, a municipality can 
+put in place practices to improve alertness to weather events that could put a huge strain 
+on its system. Adjustments can also be made to the system to make it more resilient 
+during an intense weather event.
+REACTION TO AN EVENT 
+Questions to ask:
+• What measures should be implemented during and immediately after the event?
+• Who is responsible for what?
+—
+When a weather event affecting water assets occurs, various measures can be put in place 
+to mitigate the impact on these assets, the functions they perform, and the population 
+that benefits from them. These include measures implemented in the very short term, 
+either during the event, when conditions permit, or immediately afterwards. 
+1.3.2.2_ The five topics of resilience
+1
+2
+?
+?
+?
+3
+11
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+RECOVERY AND RECONSTRUCTION 
+Questions to ask: 
+• How can we recover after the event? 
+• Is reinforcement or adaptation work also required?
+—
+Resilience also depends on the implementation of resources and solutions to recover 
+the functions lost, suspended or affected by the event under study. The faster a munici-
+pality is able to return its assets to normal operations, the more resilient it is. This involves 
+implementing temporary measures and introducing practices that enable feedback 
+on how the municipality reacted during the event, in order to learn from it.
+STRATEGIC MANAGEMENT AND PLANNING
+Questions to ask:
+• How can we close the gaps, address risks and adapt to them? 
+• How can we integrate actions into asset management plans? 
+• How can we increase the long-term resilience of water infrastructure?  
+—
+Proper management of municipal infrastructure requires a methodical approach to 
+planning and decision-making. In addition to short- and medium-term solutions that 
+can be implemented in response to an event, a municipality can improve its long-term 
+resilience by integrating measures into its asset management plan. 
+Knowledge 
+of risk and 
+awareness
+Prevention  
+and 
+adaptation
+Reaction  
+to an event
+Recovery  
+and 
+reconstruction
+Strategic 
+management 
+and planning
+Figure 2: Timeline of resilience steps
+4
+?
+5
+?
+12
+1.4_ RESILIENCE: ASSESSMENT AND BENEFITS  
+These days, it is important to assess the resilience of municipal infrastructure in order 
+to guard against the various climatic hazards. Knowing the resilience of its infrastructure 
+enables a municipality to prioritize its most vulnerable assets.  
+ 
+Following analysis of the questions for each topic, it is relevant to identify areas 
+for improvement so that the municipality can implement or improve its regulations and 
+policies.  
+Water asset resilience is assessed using the Excel tool, as detailed in Section 2. 
+13
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+TOOL DESCRIPTION 
+2.1_ TOOL FEATURES
+The Resilience Self-Assessment Tool is an easy-to-use Excel tool. It consists of five tabs 
+to be completed and eighteen tabs for reference. The objectives of each of these tabs are 
+presented in Table 1 below. 
+2.0
+Table 1: Description of Excel spreadsheet tabs
+TAB TITLE
+OBJECTIVES/DESCRIPTION
+Glossary 
+Used to find definitions of terms used in the tool.
+Respondent information 
+Provides information on the main characteristics of the municipality 
+filling in the tool.
+Heavy precipitation 
+Assesses vulnerability and resilience scores for Heavy precipitation. 
+Drought
+Assesses vulnerability and resilience scores for Drought. 
+Storms
+Assesses vulnerability and resilience scores for Storms. 
+Assessment
+Compares the results obtained for the three hazards. 
+A draft roadmap is included in this tab. 
+Guidance sheet 
+explanation
+Explains the structure of the guidance sheets and how to use them.
+Guidance sheets 1, 4, 7, 
+10 and 13
+Identifies potential solutions for Heavy Precipitation.
+Guidance sheets 2, 5, 8, 
+11 and 13
+Identifies potential solutions for Drought.
+Guidance sheets 3, 6, 9, 
+12 and 13
+Identifies potential solutions for Storms.
+ A tab is dedicated to each of the hazards considered:
+HEAVY PRECIPITATION
+DROUGHT
+STORMS
+14
+Each tab features a two-part multiple-choice questionnaire:
+	
+1. Vulnerability assessment (score)
+	
+2. Resilience assessment (score) 
+The first part is designed to indicate to the municipality the extent to which it is vulnerable 
+to the hazard, expressed as a score. 
+The second part is designed to help the municipality identify their strengths and 
+weaknesses with respect to the resilience of their water assets.
+These tabs provide an overall view of the scores obtained in the five resilience topics.
+The results are expressed using, among other things, pentagon graphs, which also display 
+the acceptable threshold (see Section 2.4.2) for each topic, making it possible to identify 
+priority actions. 
+Once the three hazard tabs have been filled in, a summary of the results is displayed in the 
+Assessment tab. The contents of this tab make it possible for the municipality to, among 
+other things, start creating a roadmap, enabling it to draw up an initial list of actions to 
+be taken. Relevant guidance sheets to refer to in order to adopt a new resilience strategy 
+are also identified. 
+To explore only one hazard, the user can fill in the relevant tab. However, the Assessment 
+tab will remain incomplete. 
+It should be noted that all the guidance sheets are available in this handbook in Section 3.2 
+as well as in the tool’s dedicated tabs.
+It is important to note that this tool is a frame of reference that can be adapted 
+to different municipal assets using the same design.
+15
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+It is strongly suggested to encourage consultation and exchanges between municipal 
+staff when reflecting on the resilience of the municipality and when using this tool. 
+2.2_ CONDITIONS FOR USING THE TOOL
+You have to answer all questions for the tool to work properly. However, you may not have 
+a response to one of the questions. In this situation, you can try to do the following:
+If you don’t understand a question:
+	
+1. Refer to the glossary for definitions.
+	
+2. Consult other people who may better understand the question.
+If you don’t know the response to a question:
+	
+1. Ask a colleague who may know the response, or set the response to the lowest 
+score until you have an answer.
+	
+2. Consult other people (the information people from different fields have may help 
+in understanding and answering the question).
+2.3_ DESCRIPTION OF THE ASSESSMENT MECHANISM 
+Each hazard is assessed using about 30  questions (see Table  2 for a breakdown of the 
+questions). Responses to these questions are weighted on a scale of 1 to 10. Scores are 
+obtained by topic (vulnerability, knowledge of risk and awareness, prevention and 
+adaptation, reaction to an event, recovery and reconstruction, strategic management 
+and planning) by averaging response weights.
+Identification 
+(vulnerability)
+Knowledge  
+and  
+awareness
+Prevention 
+and 
+adaptation
+Reaction
+Recovery 
+and 
+reconstruction
+Management 
+and 
+planning
+TOTAL
+Heavy 
+precipitation
+8
+7
+7
+2
+2
+7
+33
+Drought
+8
+6
+7
+3
+2
+7
+33
+Storm
+6
+4
+4
+3
+2
+7
+26
+Table 2: Breakdown of questions by hazard and topic
+16
+2.4_ ASSESSMENT RESULTS AND EXPLANATIONS  
+Once the results have been obtained, they are presented in a variety of ways, as shown 
+in Figure 3. 
+How to read the results: 
+	
+• Vulnerability: The table at top left shows vulnerability.
+	
+• Resilience:
+	
+	
+- The table at bottom left shows resilience based on the scores obtained  
+in the five topics. Scores can be “good,” “average” or “poor.”
+	
+	
+- The radar diagram at bottom right shows a visual representation of the results  
+in the resilience table.
+ 
+These three elements are shown for each of the hazards separately. 
+The Assessment tab provides an overall view of the results for all three hazards at the 
+same time.
+Figure 3: Presentation of results
+ASSESSMENT OF RESILIENCE SCORE  
+FOR HEAVY PRECIPITATION 
+— RESILIENCE SCORE    — THRESHOLD
+Knowledge of risk and awareness
+Strategic 
+management and 
+planning 
+Recovery and 
+reconstruction
+Reaction 
+to an event
+Prevention and 
+adaptation
+ 
+17
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+2.4.1_ VULNERABILITY AND RESILIENCE TABLES 
+Table 3 summarizes the different types of results the tool can provide as well as their 
+explanations.
+SCORE
+INTERPRETATION  
+EXPLANATIONS 
+Vulnerability 
+> 8 
+Very High 
+The municipality has already faced climatic hazards that 
+have severely impacted its system. The municipality may 
+be in a risk zone where its assets can no longer provide 
+the initial service. 
+Given that the municipality has already been affected 
+by climatic hazards, and that trends are on the rise, it is 
+important in this case to have action plans to better adapt.
+5 > X ≥ 8 
+High 
+The municipality has already faced climatic hazards, 
+which have had major consequences for the system. 
+Given that the municipality has already been affected 
+by climatic hazards, and that trends are on the rise, it is 
+important in this case to have action plans to better adapt. 
+2 > X ≥ 5
+Moderate 
+The municipality has already faced climatic hazards with 
+consequences for the system and services. 
+To avoid increasing vulnerability, it is advisable to 
+implement a climate change adaptation plan. 
+< 2 
+Low 
+The municipality has not faced many climatic hazards in 
+the past.
+It would appear that its geographic position and/or the 
+quality of its infrastructure enables proper functioning 
+of the services. However, the future can change these 
+conditions and cause the municipality to be more 
+impacted.
+Resilience
+> 7
+Good score 
+It is not necessary to prioritize these actions, but the user 
+is invited to refer to the guidance sheets to learn more 
+about the subject. 
+4 ≤ X ≤ 7
+Average score 
+Decisions need to be taken to implement the necessary 
+actions. The tool’s documentation can be used to learn 
+more about the subject in question.
+≤ 4
+Poor score
+Action to be prioritized. The guidance sheets refer to 
+examples of solutions as well as documentation to 
+implement new actions. 
+Table 3: Tool results and explanations
+18
+2.4.2_ RADAR DIAGRAM
+The results obtained in the resilience section are shown in pentagon graphs for analysis 
+and compared with “acceptable” threshold values.
+An example of a pentagon graph is shown in Figure 4, and Table 4 provides an explanation 
+of its results.  The threshold (in black) and the results (colour-coded according to the hazard 
+concerned) are displayed on the same figure for ease of understanding and comparison. 
+Note: The threshold is by no means a standard value. It is presented for comparative 
+purposes. 
+Figure 4: Pentagon graph of hazard results
+ASSESSMENT OF RESILIENCE SCORE
+RESILIENCE TOPIC
+RESILIENCE SCORE
+THRE-
+SHOLD
+Knowledge of risk and awareness
+7.3
+5
+Your score is good.
+Prevention and adaptation
+5.5
+5
+Your score is average. 
+Reaction to an event
+5.5
+5
+Your score is average. 
+Recovery and reconstruction
+5.0
+5
+Your score is average. 
+Strategic management and planning
+3.3
+5
+Your score is low.
+Table 4: Results by resilience topic
+ASSESSMENT OF RESILIENCE SCORE FOR HEAVY PRECIPITATION
+— RESILIENCE SCORE    — THRESHOLD
+Knowledge of risk and awareness
+Strategic management 
+and planning
+Recovery and reconstruction
+Reaction to an event
+Prevention 
+and adaptation
+19
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+Regardless of the scores obtained, the user is invited to take a look at the potential solutions 
+provided in the guidance sheets.
+However, if the scores are average or poor, it is more than necessary to find out what 
+best practices can be put in place to increase the resilience of the topic concerned. It is 
+recommended that you refer to the guidance sheets where appropriate. 
+2.5_ ASSESSMENT AND ROADMAP
+The Assessment tab in the Excel tool has been designed so that it can be printed. It consists 
+of four pages divided into three parts:
+	
+• Results by hazard 
+	
+• Results by resilience topic 
+	
+• Roadmap
+2.5.1_ ASSESSMENT OF RESULTS 
+The results by hazard are presented in the form of two summary tables, one for vulnerability 
+and one for resilience (Figure 5), as well as a radar diagram highlighting the resilience 
+scores for the three hazards (Figure 6). 
+Figure 5: Presentation of results for the three hazards
+20
+Figure 6: Radar diagram for the three hazards
+Figure 7: Vulnerability/Resilience graph
+RESILIENCE OF THE MUNICIPALITY’S WATER ASSETS
+—— HEAVY PRECIPITATION    — DROUGHT    — STORMS
+Knowledge of risk and awareness
+Strategic management 
+and planning
+Recovery and reconstruction
+Reaction to an event
+Prevention 
+and adaptation
+This section compares and prioritizes the actions to be taken according to the most critical 
+hazards for the municipality. 
+The second part extends over two pages and includes five graphs such as the one in 
+Figure 8, as well as a Vulnerability/Resilience graph (see Figure 7) and an explanation on 
+how to read the graph. 
+RESILIENCE
+VULNERABILITY
+21
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+Figure 8: Results by resilience topic
+	
+• If the results are in a red zone, then it is necessary to prioritize actions to be taken to 
+reduce the vulnerability or increase the resilience of the municipality’s water assets.
+	
+• Results in an orange or yellow zone are considered average. Such situations are 
+not a priority if there are worse results, but they may eventually deteriorate, so it is 
+important to take them into account.
+	
+• Results in the green zones are quite good, and the actions to be taken are not 
+necessarily priorities. 
+The graphs (see Figure 8) on these pages represent the results of the three hazards for a 
+given resilience topic.
+They make it possible to establish a link between the scores obtained for the various 
+topics and overall vulnerability. On these graphs, vulnerability is displayed on the x-axis, 
+and resilience on the y-axis. 
+The further the hazard is to the left, the more actions are required.
+Note: It is very important to bear in mind that the evolution of climate change is rapid and 
+non-linear. Results are valid for a limited period of time. It is recommended to update your 
+answers annually. 
+RESULTS BY RESILIENCE TOPIC
+KNOWLEDGE OF RISK AND AWARENESS
+Storms
+Drought
+Heavy
+precipitation
+22
+2.5.2_ ROADMAP 
+The roadmap (see Figure  9) summarizes the results obtained to encourage reflection 
+about the actions to be taken and prioritized. Different sections provide a starting point 
+for reflection. 
+Some sections are already prefilled, such as “Suggested areas to work on” and “Suggested 
+actions.”
+Areas to work on correspond to a topic–hazard pair. The three pairs with the lowest scores 
+are automatically displayed. The municipality can select additional areas from a drop-
+down list in the “Other areas to work on” table.
+To maintain realistic goals, it is preferable not to add too many areas to work on. 
+Suggested actions are generated based on the results obtained. The first actions shown 
+are those associated with the worse results obtained and are accompanied by a suggestion 
+to look at the guidance sheets for potential solutions.
+Figure 9: Results by resilience topic
+STRATEGIC ROADMAP
+Note: Results are valid for a limited period of time. It is recommended that you update 
+your answers annually. This is why the deadline for the “follow-up” action is automatically 
+populated with a date one year after the tool has been filled in.
+23
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+The last section is left blank. This is where the municipality can fill in the actions it wants 
+to prioritize (see Figure 10). 
+The roadmap is designed to foster discussion between the various municipal actors. It 
+is necessary to discuss with the team or committee in charge about whether the results 
+are consistent and correspond to what is expected. This section also makes it possible to 
+assign responsibilities for the actions to be taken. Regular meetings of the committee will 
+ensure the proper course of the chosen actions.
+A complete version is available in the Appendices.
+Figure 10: Organization of actions to be implemented in the municipality
+24
+POTENTIAL SOLUTIONS  
+3.1_ HOW TO USE THIS SECTION 
+In the previous step, the tool identified possible gaps in the resilience of water assets. The 
+results refer to specific guidance sheets presenting potential solutions and guide you to 
+documents or references that can address the problems encountered. 
+Thirteen guidance sheets have been created, each addressing a hazard and a specific 
+resilience topic. Only Guidance sheet #13 is common to all three hazards (see Table 5).
+These sheets are divided into several sections (see Figure 11): 
+	
+• A description of the resilience step under consideration.
+	
+• A potential solution section includes general ideas for improving resilience based 
+on the topic of the guidance sheet.
+	
+• A reference section introduces materials that can be consulted to implement 
+actions to improve resilience. In this section, an overview of each reference is 
+provided to guide the user. It should be noted that some references are repeated 
+on several guidance sheets as they cover multiple topics and/or hazards. 
+The guidance sheets are found in this handbook starting on page 27 as well as in the Excel 
+tool associated with this handbook.
+3.0
+25
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+3.2_ STEPS AND ASSOCIATED GUIDANCE SHEETS  
+Each guidance sheet is about a topic–hazard pair, identified at the top.
+The 13 guidance sheets are divided as follows, and can be found further in this handbook. 
+Figure 11: An example of a guidance sheet with explanation of the sections
+Guidance sheet 
+identification 
+REFERENCES  Materials 
+associated with the 
+potential solutions 
+Colour-coded references are associated 
+with potential solutions 
+Quick overview of 
+the reference
+Short description 
+of the resilience 
+step 
+POTENTIAL SOLUTIONS
+Different generic ideas 
+for improving water 
+asset resilience by 
+topic 
+ 
+ 
+ 
+ 
+ 
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+5
+STRATEGIC MANAGEMENT AND PLANNING
+HAZARD
+HEAVY PRECIPITATION  |  DROUGHT  |  STORMS
+RESILIENCE COMPONENT
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+—
+GUIDANCE 
+SHEET 
+13
+How can we close the gaps, address risks and adapt to them?
+How can we integrate actions into asset management plans?
+How can we increase the long-term resilience of water infrastructure?
+—
+Proper management of municipal infrastructure requires a methodical approach to planning and 
+decision-making. This approach is all the more important in the context of climate change. In 
+addition to short- and medium-term solutions that can be implemented in response to an event, 
+how can a municipality improve its long-term resilience by integrating measures into its asset 
+management plan?
+The risks to be considered can be identified in different ways:
+Policy, strategic plan and action plan
+These documents play an important role in asset management. Policies make it possible to monitor 
+the application of certain measures, while informing the residents and stakeholders of the reasons 
+for their application.
+Project funding: identify necessary projects and advocate for funding 
+In addition to policies, it is important to identify a funding plan for projects covered by the strategic 
+asset management plan.
+Monitoring and continuous improvement
+In the context of climate change, it is appropriate to adopt living plans both to reflect the changing 
+climate itself, but also to promote the continuous improvement of practices within a municipality.
+A guide developed by the Federation of Canadian Municipalities addressing actions to improve 
+climate change resilience within a municipality’s water asset management plan.
+ REFERENCES
+FCM |  Guide for Integrating Climate Change Considerations into Municipal 
+Asset Management (2020)
+A
+B
+C
+26
+TOPIC/HAZARD
+HEAVY 
+PRECIPITATION
+DROUGHT
+STORMS
+HANDBOOK 
+SECTION
+Knowledge of risk and 
+awareness
+Guidance sheet 1
+Guidance sheet 2
+Guidance sheet 3
+3.2.1.2
+Prevention and adaptation
+Guidance sheet 4
+Guidance sheet 5
+Guidance sheet 6
+3.2.2.2
+Reaction to an event
+Guidance sheet 7
+Guidance sheet 8
+Guidance sheet 9
+3.2.3.2
+Recovery and reconstruction
+Guidance sheet 10
+Guidance sheet 11
+Guidance sheet 12
+3.2.4.2
+Strategic management and 
+planning
+Guidance sheet 13
+3.2.5.2
+Table 5: Index of guidance sheets by resilience topic and hazard
+For each topic, generic potential solutions to the three hazards are presented, followed by 
+references providing more details about the relevant hazard. 
+3.2.1_ STEP 1: KNOWLEDGE OF RISK AND AWARENESS
+3.2.1.1_ Potential solutions 
+For the “Knowledge of risk and awareness” topic, there are three types of generic solutions:
+A – History of events and consequences observed:
+This section is related to the study of historical climate data to determine the exposure 
+and potential vulnerabilities of the territory under study. 
+As a result, it is possible to develop an overall climate picture allowing the design criteria 
+for water assets to be adjusted based on the results obtained. 
+B – Projected risk assessment: 
+After assessing past and present risks, it is necessary to study climate projection data in 
+order to gain a vision of the territory’s future. 
+C – Vulnerability assessment:
+It is important to know the condition of water assets to determine whether they can 
+withstand large-scale events.
+3.2.1.2_ Reference by hazard
+Guidance sheets 1 to 3 present references related to risk awareness.
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+1
+RISK IDENTIFICATION AND AWARENESS
+HAZARD
+HEAVY PRECIPITATION
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+—
+GUIDANCE 
+SHEET 
+01
+RESILIENCE COMPONENT
+What are the different types of risk associated with climate change?
+What are the impacts of these risks on water infrastructure service levels?
+—
+Identifying the risks to which a municipality’s water assets are exposed is the first step in assessing 
+its resilience to those risks. In this case, the focus is on hazards associated with known weather 
+events, as well as on predictions and projections based on long-term trends associated with 
+climate change, particularly in terms of the increase in precipitation and heavy rainfall events.
+The risks to be considered can be identified in different ways:
+History of events and consequences observed
+This category explores the history of precipitation and climate data of a given territory to draw 
+up a portrait of major climate events, particularly in relation to the increase in heavy precipitation 
+events. This will allow for the adjustment of, among other things, design criteria based on past 
+observations.
+Projected risk assessment
+In addition to historical data, it is important to consider climate change projection data. A number of 
+organizations at the national and provincial levels provide data to help provide an overview of the 
+climate changes expected in the coming years for a given territory.
+Vulnerability assessment
+In addition to climate data, it is also important for a municipality to have full control of its water 
+assets in order to be able to determine those that may be vulnerable to, and therefore impacted by, 
+the risks identified in A and B.
+27
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: HEAVY PRECIPITATION
+GUIDANCE 
+SHEET
+01
+An authoritative reference in Quebec for climate change and its impacts. The document is divided 
+into three parts: 1) climate change in Quebec; 2) vulnerability, impacts and adaptation to climate 
+change; and 3) implementing adaptation measures. The second part is particularly relevant to the 
+assessment of vulnerability related to the increase in heavy precipitation events. 
+An extensive climate portrait of Quebec’s administrative regions. 
+Each guidance sheet presents a summary table of climate projections for the region, an overview 
+of the potential impacts of climate change on certain sectors of activity, and examples of adaptation 
+measures implemented in the region for each of these sectors. A table showing how climate change 
+adaptation measures can be integrated into existing municipal planning tools is also presented.
+A self-assessment tool, in the form of an automated online questionnaire, to promote sustainable 
+stormwater management and best practices by identifying a municipality’s strengths and 
+weaknesses.
+An interactive map showing the effects of climate change in Quebec according to different parameters 
+(e.g., studied variable, time horizon, GHG emission projections).
+The map can be used to target a specific region or territory for analysis and provides several 
+parameters to visualize precipitation projections (e.g., time horizon, climate change assumptions).
+ REFERENCES
+Ouranos |  Synthesis on Climate Change Knowledge in Québec (2015)
+A
+B
+C
+MAMH |  Fiches synthèses régionales d’adaptation aux changements 
+climatiques (2020) [in French only]
+A
+B
+C
+ROBVQ |  Autodiagnostic municipal en gestion durable des eaux pluviales 
+(2017) [in French only]
+A
+B
+C
+Ouranos | Climate Portraits (2016)
+A
+B
+C
+28
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+3
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: HEAVY PRECIPITATION
+GUIDANCE 
+SHEET
+01
+ An authoritative reference in Quebec for climate change and its impacts. The document is divided 
+into three parts: 1) climate change in Quebec; 2) vulnerability, impacts and adaptation to climate 
+change; and 3) implementing adaptation measures. The second part is particularly relevant to the 
+assessment of vulnerability related to the increase in heavy precipitation events. 
+A series of case studies prepared by FCM on the adaptation to climate change by various 
+Canadian municipalities. Of particular interest is the case of the Municipality of Kenora, in which 
+the methodology used to identify the risk of damage to assets in the context of climate change is 
+presented.
+ PIEVC |  The PIEVC Protocol for Assessing Public Infrastructure Vulnerability 
+to Climate Change Impacts (2022)
+A
+B
+C
+ FCM |  Case Studies: Using Data to Address Water Infrastructure 
+Vulnerabilities (2020)
+A
+B
+C
+29
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+1
+RISK IDENTIFICATION AND AWARENESS
+HAZARD
+DROUGHT
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+02
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+What are the different types of risks?
+What are the impacts of climate change on service levels?
+—
+Identifying the risks to which a municipality’s water assets are exposed is the first step in assessing 
+its resilience to those risks. In this case, the focus is on hazards associated with known weather 
+events, as well as on predictions and projections based on long-term trends associated with climate 
+change, particularly in terms of the increase in intense heat and prolonged drought. These have an 
+impact on many aspects of water management and water infrastructure, including drinking water.
+Rising temperatures and longer drought periods are impacting water assets on several fronts, 
+including drinking water management. The risks to be considered can be identified in different ways:
+History of events and consequences observed
+This first category explores the history of precipitation and climate data of a given territory to draw 
+up a portrait of major climate events, particularly in relation to the increase in heavy precipitation 
+events. This will allow for the adjustment of, among other things, design criteria based on past 
+observations. When applied to water assets, the history of water table levels can also be analyzed.
+Projected risk assessment
+In addition to historical data, it is important to consider climate change projection data. A number 
+of organizations at the national and provincial levels provide data outlining the climate changes 
+expected in the coming years for a given territory.
+Vulnerability study
+In addition to climate data, it is also important for a municipality to have full control of its water 
+assets in order to be able to determine those that may be vulnerable to, and therefore impacted by, 
+the risks identified in A and B.
+30
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+02
+ REFERENCES
+Ulaval |  Cartographie de vulnérabilité aux fortes précipitations  
+et aux chaleurs extrêmes aux Québec (2018) [in French only]
+A
+B
+C
+MELCC |  Guide de réalisation des analyses de la vulnérabilité des sources 
+destinées à l’alimentation en eau potable au Québec (2018) 
+[in French only]
+A
+B
+C
+MAMH |  Fiches synthèses régionales d’adaptation aux changements 
+climatiques (2020) [in French only]
+A
+B
+C
+Mapping of Quebec municipalities showing their vulnerability to extreme heat and heavy 
+precipitation in the context of climate change. Section 2.4.1.3, Heat waves, deals more specifically 
+with drought events and presents the problems several municipalities have experienced as well as 
+the solutions they have implemented.
+A guide for those in charge of groundwater or surface water abstraction who need to carry out 
+vulnerability analyses of their sources, as well as for the various professionals and specialized 
+workers who will be assisting them. The guide highlights the weaknesses, problems and threats 
+affecting drinking water supply. It identifies priorities for action to reduce threats or develop an 
+appropriate emergency response plan.
+The Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune 
+et des Parcs also provides municipalities and professionals with work templates to structure the 
+information collected. This also makes it easier to compare different municipalities.
+The Ministère des Affaires municipales et de l’Habitation has prepared an extensive climate 
+portrait of Quebec’s administrative regions. This portrait is in the form of guidance sheets, each of 
+which presents a summary table of climate projections for the region, an overview of the potential 
+impacts of climate change on certain sectors of activity, and examples of adaptation measures 
+implemented in the region for each of these sectors. 
+A section on how climate change adaptation measures can be integrated into existing municipal 
+planning tools is also presented.
+31
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+3
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+02
+PIEVC |  The PIEVC Protocol for Assessing Public Infrastructure Vulnerability 
+to Climate Change Impacts (2022)
+A
+B
+C
+FCM |  Case Studies: Using Data to Address Water Infrastructure 
+Vulnerabilities (2020)
+A
+B
+C
+This protocol reviews historical climate information and projects the nature, severity and probability 
+of future climate changes and events. It also establishes the adaptive capacity of an individual 
+infrastructure as determined by its design, operation and maintenance. It includes an estimate of 
+the severity of climate impacts on the components of the infrastructure (e.g., deterioration, damage 
+or destruction) to enable the identification of higher-risk components and the nature of the threat 
+from the climate change impact.
+A series of case studies prepared by FCM on the adaptation to climate change by various Canadian 
+municipalities. Of particular interest is the case of Union Water Supply System (UWSS), which 
+supplies drinking water from Lake Erie to residents of the Municipality of Leamington and the 
+towns of Kingsville, Essex and Lakeshore. The case describes the vulnerability of the drinking water 
+system to algal blooms and drought.
+32
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+1
+RISK IDENTIFICATION AND AWARENESS
+HAZARD
+STORMS
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+03
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+What are the different types of risks?
+What are the impacts of climate change on service levels?
+—
+Identifying the risks to which a municipality is exposed is the first step in assessing its resilience to 
+those risks. It is important to know about weather events in a given territory. 
+In recent years, the frequency of storms with high winds has increased. Several municipalities, 
+including their drinking water and wastewater systems, have been impacted to varying degrees by 
+these events. In this case, the hazard mainly affects the power supply to water assets.
+This guidance sheet presents the impacts of storms and high winds in terms of the power outages 
+it can cause.
+History of events and consequences observed
+This first category explores the history of precipitation and climate data of a given territory to draw 
+up a portrait of major climate events, particularly in relation to the increase in heavy precipitation 
+events. This will allow for the adjustment of, among other things, design criteria based on past 
+observations, particularly in terms of redundancy or the installation of emergency generators. 
+Projected risk assessment
+In addition to historical data, it is important to consider climate change projection data. A number 
+of organizations at the national and provincial levels provide data outlining the climate changes 
+expected in the coming years for a given territory.
+Vulnerability study
+In addition to climate data, it is also important for a municipality to have full control of its water 
+assets in order to be able to determine those that may be vulnerable to, and therefore impacted by, 
+the risks identified in A and B. Depending on how the municipality’s systems are built, this hazard 
+may impact both drinking water and wastewater assets.
+33
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: STORMS
+GUIDANCE 
+SHEET
+03
+ REFERENCES
+Ouranos |  Synthesis on Climate Change Knowledge in Québec (2015)
+A
+B
+C
+MAMH |  Fiches synthèses régionales d’adaptation aux changements 
+climatiques (2020) [in French only]
+A
+B
+C
+MELCC |  Guide de réalisation des analyses de la vulnérabilité des sources 
+destinées à l’alimentation en eau potable au Québec (2018)  
+[in French only]
+A
+B
+C
+An authoritative reference in Quebec for climate change and its impacts. The document is divided 
+into three parts: 
+ 
+1) climate change in Quebec; 
+ 
+2) vulnerability, impacts and adaptation to climate change; and 
+ 
+3) implementing adaptation measures.
+ 
+Given that heavy precipitation is often accompanied by high wind events, it is relevant to become 
+familiar with precipitation projections.
+An extensive climate portrait of Quebec’s administrative regions. Each guidance sheet presents 
+a summary table of climate projections for the region, an overview of the potential impacts of 
+climate change on certain sectors of activity, and examples of adaptation measures implemented 
+in the region for each of these sectors. A table showing how climate change adaptation measures 
+can be integrated into existing municipal planning tools is also presented.
+A guide for those in charge of groundwater or surface water abstraction who need to carry out 
+vulnerability analyses of their sources, as well as for the various professionals and specialized 
+workers who will be assisting them. The guide highlights the weaknesses, problems and threats 
+affecting drinking water supply. It identifies priorities for action to reduce threats or develop an 
+appropriate emergency response plan.
+The Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune 
+et des Parcs provides municipalities and professionals with work templates to structure the 
+information collected. This also makes it easier to compare different municipalities.
+34
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+3
+RESILIENCE COMPONENT  |  STEP 1: RISK IDENTIFICATION AND AWARENESS
+HAZARD: STORMS
+GUIDANCE 
+SHEET
+03
+PIEVC |  The PIEVC Protocol for Assessing Public Infrastructure Vulnerability 
+to Climate Change Impacts (2022)
+A
+B
+C
+FCM  |  Case Studies: Using Data to Address Water Infrastructure 
+Vulnerabilities (2020)
+A
+B
+C
+This protocol reviews historical climate information and projects the nature, severity and probability 
+of future climate changes and events. It also establishes the adaptive capacity of an individual 
+infrastructure as determined by its design, operation and maintenance. It includes an estimate of 
+the severity of climate impacts on the components of the infrastructure (e.g., deterioration, damage 
+or destruction) to enable the identification of higher-risk components and the nature of the threat 
+from the climate change impact.
+ A series of case studies prepared by FCM on the adaptation to climate change by various Canadian 
+municipalities. The case of the City of Saskatoon is particularly interesting, with its Climate Change 
+Adaptation initiatives. Its flood control strategy for its wastewater system is presented.
+35
+36
+3.2.2_ STEP 2: PREVENTION AND ADAPTATION 
+3.2.2.1_ Potential solutions 
+A – Infrastructure configuration and condition to address risks
+Improved configuration for better resilience. Climate predictions must be taken into 
+account to change design criteria and avoid dramatic events. 
+B – Hazard and asset monitoring
+Monitor and forecast hazards to be prepared in case a municipality is faced with a major 
+weather event, as well as assets that require increased oversight to ensure they can 
+provide the service for which they are designed.
+C – Prevention program and regulations
+Solutions in line with the regulations in place to reduce the amount of rainwater being 
+returned to the system.
+ 
+3.2.2.2_ Reference by hazard
+Guidance sheets 4 to 6 present references on prevention and adaptation.
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+2
+PREVENTION AND ADAPTATION
+HAZARD
+HEAVY PRECIPITATION
+RESILIENCE COMPONENT
+ UNDERLYING QUESTION
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+—
+GUIDANCE 
+SHEET 
+04
+What measures should be put in place to reduce the vulnerability of water infrastructure and 
+the resulting loss of associated functions following a weather event?
+—
+After identifying and understanding the risks to which it is exposed, a municipality can put in 
+place practices to improve alertness to weather events that could put a huge strain on its system. 
+Adjustments can also be made to the system to make it more resilient during a heavy precipitation 
+event, for example.
+Infrastructure configuration and condition to address risks
+In order to improve the resilience of assets, solutions related to their configuration can be 
+implemented. These involve both design elements to address greater (increased volumes, 
+flows) and more frequent precipitation. This category includes, for example, optimal stormwater 
+management practices.
+Hazard and asset monitoring
+In addition to a design better adapted to hazards, it is relevant to have a system to monitor and 
+predict them in order to improve a municipality’s preparedness for weather events. The same is 
+true for assets. Monitoring their status allows for intervention at the right time.
+Prevention program and regulations
+Solutions in line with the regulations in place to reduce the amount of rainwater being returned to 
+the system.
+37
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 2: PREVENTION AND ADAPTATION
+HAZARD: HEAVY PRECIPITATION
+GUIDANCE 
+SHEET
+04
+A catalogue of different types of tools offering municipal officials (elected representatives and 
+technical managers) both structural solutions, such as technical guides for the design of optimal 
+stormwater management works, as well as non-structural solutions, related to adjustments in 
+regulations to help reduce runoff or the volume of water sent into the system.
+A description of structural and non-structural solutions, and technical design guides for surface 
+rainwater capture infrastructure.
+A literature review on adapting to climate change through the use of natural infrastructure, with 
+a focus on run-off water management. Several examples of best management practices are 
+presented. These were selected based on their cost effectiveness, resilience and ability to fit into a 
+sustainable development approach.
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+ REFERENCES
+ROBVQ |  Outils pour l’introduction à la gestion des eaux pluviales (2022)  
+[in French only]
+A
+B
+C
+ROBVQ |  Outils de priorisation pour la gestion du ruissellement urbain 
+(2022) [in French only]
+A
+B
+C
+ROBVQ |  Le rôle des infrastructures naturelles pour la gestion des eaux de 
+ruissellement et des crues dans un contexte d’adaptation  
+aux changements climatiques (2019) [in French only]
+A
+B
+C
+Ministère de la Sécurité publique | Mesures permettant d’augmenter  
+la résilience de la municipalité à la distribution de l’eau en cas de pénurie  
+ou de contamination de l’eau potable (2018) [in French only]
+A
+B
+C
+38
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+2
+PREVENTION AND ADAPTATION
+HAZARD
+DROUGHT
+RESILIENCE COMPONENT
+ UNDERLYING QUESTION
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+—
+GUIDANCE 
+SHEET 
+05
+What measures should be put in place to reduce the vulnerability of water infrastructure and 
+the resulting loss of associated functions following a weather event?
+—
+After identifying and understanding the risks to which it is exposed, a municipality can put in 
+place practices to improve alertness to weather events that could put a huge strain on its system. 
+Adjustments can also be made to the system to make it more resilient during prolonged extreme 
+heat events.
+Infrastructure configuration and condition to address risks
+In order to improve the resilience of assets, solutions related to their configuration can be 
+implemented. These involve design elements to address drought impacts on assets.
+Hazard and asset monitoring
+In addition to a design better adapted to hazards, it is relevant to have a system to monitor and 
+predict them in order to improve a municipality’s preparedness for weather events. The same is 
+true for assets. Monitoring their status allows for intervention at the right time.
+Prevention program and regulations
+Solutions in line with the regulations in place to reduce the amount of rainwater being returned to 
+the system.
+39
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 2: PREVENTION AND ADAPTATION
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+05
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+A guide that provides an approach for those in charge of drinking water abstraction and management 
+when developing a drinking water source protection plan.
+A drought control plan for the Quinte region in Ontario, which, after experiencing several events, 
+has put in place a drought management plan that helps municipalities identify the actions to be 
+taken before, during and after a prolonged extreme heat event.
+Section 4.2, Drought warning plan, outlines the tools used to monitor water levels to ensure up-
+to-date information and implement appropriate actions based on the level of urgency assigned to 
+each situation. Table 3, Low Water Level Triggers, Tools and Actions, provides guidance on actions 
+to be taken based on the observed rainfall decline over a specified time horizon.
+Like many other municipalities in southern Quebec, L’Islet is experiencing increasingly frequent 
+heat waves and droughts. This case study shows how this municipality with limited resources 
+implemented a climate adaptation plan to improve the resilience of its infrastructure.
+ REFERENCES
+Ministère de la Sécurité publique | Mesures permettant d’augmenter  
+la résilience de la municipalité à la distribution de l’eau en cas de pénurie  
+ou de contamination de l’eau potable (2018) [in French only]
+A
+B
+C
+MELCC |  Guide pour l’élaboration d’un plan de protection des sources d’eau 
+potable (2022) [in French only]
+A
+B
+C
+Quinte Conservation | Drought Plan (2021)
+A
+B
+C
+FCM |  Case Study – Developing a Multi-Risk Adaptation Plan (2021)
+A
+B
+C
+40
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+3
+RESILIENCE COMPONENT  |  STEP 2: PREVENTION AND ADAPTATION
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+05
+A guide developed by the Federation of Canadian Municipalities addressing actions to improve 
+climate change resilience within a municipality’s water asset management plan. Measures are 
+presented, among others, to: 
+ 
+•  Integrate climate change considerations into decision-making;
+ 
+•  Identify strategies to address gaps and risks due to climate change;
+ 
+•  Monitor progress and explore opportunities for continuous improvement.
+FCM |  Guide for Integrating Climate Change Considerations into Municipal 
+Asset Management (2020)
+A
+B
+C
+41
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+2
+PREVENTION AND ADAPTATION
+HAZARD
+STORMS
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+06
+ UNDERLYING QUESTION
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+What measures should be put in place to reduce the vulnerability of water infrastructure and 
+the resulting loss of associated functions following a weather event?
+—
+After identifying and understanding the risks to which it is exposed, a municipality can put in 
+place practices to improve alertness to weather events that could put a huge strain on its system. 
+Adjustments can also be made to the system to make it more resilient during a heavy precipitation 
+event, for example.
+Infrastructure configuration and condition to address risks
+In order to improve the resilience of assets, solutions related to their configuration can be 
+implemented. These involve both design elements to address greater (increased volumes, 
+flows) and more frequent precipitation. This category includes, for example, optimal stormwater 
+management practices.
+Hazard and asset monitoring
+In addition to a design better adapted to hazards, it is relevant to have a system to monitor and 
+predict them in order to improve a municipality’s preparedness for weather events. The same is 
+true for assets. Monitoring their status allows for intervention at the right time.
+Prevention program and regulations
+Solutions in line with the regulations in place to reduce the amount of rainwater being returned to 
+the system.
+42
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 2: PREVENTION AND ADAPTATION
+HAZARD: STORMS
+GUIDANCE 
+SHEET
+06
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+A series of case studies prepared by FCM on the adaptation to climate change by various Canadian 
+municipalities. The case of the City of Saskatoon is particularly interesting, with its Climate Change 
+Adaptation initiatives. Its flood control strategy for its wastewater system is presented.
+An inventory, prepared by Québec Vert, of municipal green infrastructure projects that have been 
+implemented in Quebec. It provides concrete examples of projects and paves the way for knowledge 
+sharing and feedback between municipalities.
+A guide developed by the Federation of Canadian Municipalities addressing actions to improve 
+climate change resilience within a municipality’s water asset management plan. Measures are 
+presented, among others, to: 
+ 
+•  Integrate climate change considerations into decision-making;
+ 
+•  Identify strategies to address gaps and risks due to climate change;
+ 
+•  Monitor progress and explore opportunities for continuous improvement.
+ REFERENCES
+Ministère de la Sécurité publique | Mesures permettant d’augmenter  
+la résilience de la municipalité à la distribution de l’eau en cas de pénurie  
+ou de contamination de l’eau potable (2018) [in French only]
+A
+B
+C
+FCM |  Case Studies: Using Data to Address Water Infrastructure 
+Vulnerabilities (2020)
+A
+B
+C
+Québec Vert |  Inventaire des infrastructures végétalisées au Québec  
+[in French only]
+A
+B
+C
+FCM |  Guide for Integrating Climate Change Considerations into Municipal 
+Asset Management (2020)
+A
+B
+C
+43
+44
+3.2.3_ STEP 3: REACTION TO AN EVENT 
+3.2.3.1_ Potential solutions 
+A – Emergency response plan
+A set of resources and procedures for a rapid response by operational intervention 
+teams in the event of an emergency affecting water infrastructure service levels. These 
+measures include resources that can be put in place to mitigate a short- or medium-term 
+disruption (interruption or breakdown) in service. They can also include what residents 
+should do to preserve their own safety during a major event affecting their quality of life. 
+Often, the emergency response plan answers the question: Who does what?  This is about 
+governance.
+B – Alert and communication
+Who needs to know about your municipality’s alert channel? What information should be 
+communicated during a hazard event? These are examples of relevant questions that a 
+municipality must answer in order to build an effective communication plan that will be 
+used to complement the emergency response plan in the event of risks affecting water 
+infrastructure service levels.
+3.2.3.2_ Reference by hazard
+Guidance sheets 7 to 9 provide references on how to react to an event.
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+3
+REACTION TO AN EVENT
+HAZARD
+HEAVY PRECIPITATION
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+?
+RESILIENCE COMPONENT
+What measures should be implemented during and immediately after the event?
+Who is responsible for what?
+—
+When a weather event affecting water assets occurs, various measures can be put in place to 
+mitigate the impact on these assets, the functions they perform, and the population that benefits 
+from them. These measures differ from those presented in Section 2, Prevention and adaptation, 
+as they are measures implemented in the very short term, either during the event, when conditions 
+permit, or immediately afterwards. These are included, among other things, in an emergency 
+response plan that includes the roles and responsibilities of the authorities, as well as those of the 
+actors responsible for water assets. The emergency response plan also includes how information 
+is communicated internally, within the municipality, as well as externally, to inform the public about 
+the situation and the role they can play in helping respond to the event.
+Emergency response plan
+A set of resources and procedures for a rapid response by operational intervention teams in the 
+event of an emergency affecting water infrastructure service levels. These measures include 
+resources that can be put in place to mitigate a short- or medium-term disruption (interruption or 
+breakdown) in service. They can also include what residents should do to preserve their own safety 
+during a major event affecting their quality of life. Often, the emergency response plan answers the 
+question: Who does what?  This is about governance.
+Alert and communication
+Who needs to know about your municipality’s alert channel? What information should be 
+communicated during a hazard event? These are examples of relevant questions that a municipality 
+must answer in order to build an effective communication plan that will be used to complement the 
+emergency response plan in the event of risks affecting water infrastructure service levels.
+—
+GUIDANCE 
+SHEET 
+07
+45
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 3: REACTION TO AN EVENT
+HAZARD: HEAVY PRECIPITATION
+GUIDANCE 
+SHEET
+07
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+A document that presents the strategy developed by the Government of New Brunswick that can 
+be used by municipalities to improve their resilience in the event of heavy precipitation. The role 
+citizens can play in this process is also presented.
+ REFERENCES
+Ministère de la Sécurité publique | Mesures permettant d’augmenter la résilience 
+de la municipalité à la distribution de l’eau en cas de pénurie ou de contamination 
+de l’eau potable (2018) [in French only]
+A
+B
+New Brunswick | Flood Risk Reduction Strategy (2014)
+A
+B
+46
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+3
+REACTION TO AN EVENT
+HAZARD
+DROUGHT
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+08
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+?
+What measures should be implemented during and immediately after the event?
+Who is responsible for what?
+—
+When a weather event affecting water assets occurs, various measures can be put in place to 
+mitigate the impact on these assets, the functions they perform, and the population that benefits 
+from them. These measures differ from those presented in Section 2, Prevention and adaptation, 
+as they are measures implemented in the very short term, either during the event, when conditions 
+permit, or immediately afterwards. These are included, among other things, in an emergency 
+response plan that includes the roles and responsibilities of the authorities, as well as those of the 
+actors responsible for water assets. The emergency response plan also includes how information 
+is communicated internally, within the municipality, as well as externally, to inform the public about 
+the situation and the role they can play in helping respond to the event.
+Emergency response plan
+A set of resources and procedures for a rapid response by operational intervention teams in the 
+event of an emergency affecting water infrastructure service levels. These measures include 
+resources that can be put in place to mitigate a short- or medium-term disruption (interruption or 
+breakdown) in service. They can also include what residents should do to preserve their own safety 
+during a major event affecting their quality of life. Often, the emergency response plan answers the 
+question: Who does what?  This is about governance.
+Alert and communication
+Who needs to know about your municipality’s alert channel? What information should be 
+communicated during a hazard event? These are examples of relevant questions that a municipality 
+must answer in order to build an effective communication plan that will be used to complement the 
+emergency response plan in the event of risks affecting water infrastructure service levels.
+47
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 3: REACTION TO AN EVENT
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+08
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+An organizational diagram to better identify the municipality’s responsibilities in the event of 
+contamination or shortage of drinking water.
+After experiencing several drought events, the Quinte region in Ontario put in place a drought 
+management plan that helps municipalities identify the actions to be taken during a prolonged 
+extreme heat event. Some of these actions concern preparedness and others concern the response 
+to the event in the form of an emergency response plan. The latter is described in section 4.3, 
+Drought action plan, which identifies the actors and the actions to be carried out. Section 4.2, 
+Drought warning plan, covers the measures put in place to warn the population.
+ REFERENCES
+Ministère de la Sécurité publique | Mesures permettant d’augmenter la résilience 
+de la municipalité à la distribution de l’eau en cas de pénurie ou de contamination 
+de l’eau potable (2018) [in French only]
+A
+B
+Ministère de la Sécurité publique | Schéma décisionnel d’approvisionnement  
+en eau en cas de pénurie ou de contamination de l’eau potable (2018)  
+[in French only]
+A
+B
+Quinte Conservation | Drought Plan (2021)
+A
+B
+48
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+3
+REACTION TO AN EVENT
+HAZARD
+STORMS
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+09
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+?
+What measures should be implemented during and immediately after the event?
+Who is responsible for what?
+—
+When a weather event affecting water assets occurs, various measures can be put in place to 
+mitigate the impact on these assets, the functions they perform, and the population that benefits 
+from them. These measures differ from those presented in Section 2, Prevention and adaptation, 
+as they are measures implemented in the very short term, either during the event, when conditions 
+permit, or immediately afterwards. These are included, among other things, in an emergency 
+response plan that includes the roles and responsibilities of the authorities, as well as those of the 
+actors responsible for water assets. The emergency response plan also includes how information 
+is communicated internally, within the municipality, as well as externally, to inform the public about 
+the situation and the role they can play in helping respond to the event.
+The consequences of the hazard covered by this guidance sheet mainly affect drinking water assets.
+Emergency response plan
+A set of resources and procedures for a rapid response by operational intervention teams in the 
+event of an emergency affecting water infrastructure service levels. These measures include 
+resources that can be put in place to mitigate a short- or medium-term disruption (interruption or 
+breakdown) in service. They can also include what residents should do to preserve their own safety 
+during a major event affecting their quality of life. Often, the emergency response plan answers the 
+question: Who does what?  This is about governance.
+Alert and communication
+Who needs to know about your municipality’s alert channel? What information should be 
+communicated during a hazard event? These are examples of relevant questions that a municipality 
+must answer in order to build an effective communication plan that will be used to complement the 
+emergency response plan in the event of risks affecting water infrastructure service levels.
+49
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 3: REACTION TO AN EVENT
+HAZARD: STORMS
+GUIDANCE 
+SHEET
+09
+For a municipality, the drinking water supply is essential. Planning actions to increase resilience is 
+therefore also essential. Such planning helps you to respond quickly to problems associated with 
+water quantity or quality. It is recommended to draw up a list of potential problems (e.g., shortages, 
+breakdowns) in advance, based on your specific situation.
+An organizational diagram to better identify the municipality’s responsibilities in the event of 
+contamination or shortage of drinking water.
+ REFERENCES
+Ministère de la Sécurité publique | Mesures permettant d’augmenter la résilience 
+de la municipalité à la distribution de l’eau en cas de pénurie ou de contamination 
+de l’eau potable (2018) [in French only]
+A
+B
+Ministère de la Sécurité publique | Schéma décisionnel d’approvisionnement  
+en eau en cas de pénurie ou de contamination de l’eau potable (2018)  
+[in French only]
+A
+B
+50
+51
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+3.2.4_ STEP 4: RECOVERY AND RECONSTRUCTION 
+3.2.4.1_ Potential solutions 
+A – Temporary measures planned to restore service
+A set of measures to temporarily restore water asset functions that have been lost, 
+suspended or altered by the hazard. These are short- and medium-term measures to be 
+taken before the system can be restored to normal operation.
+B – Feedback on events for continuous improvement
+With a view to continuous improvement and resilience to hazards that disrupt the 
+operation of a municipality’s water assets, it is advisable to implement internal practices 
+for reviewing the actions and resources put in place in response to a weather event. This 
+will help identify the municipality’s strengths and weaknesses while targeting areas for 
+improvement for future events.
+C – Adjusting infrastructure design parameters
+Feedback helps identify system deficiencies that could be corrected by upgrading design 
+standards and parameters.
+ 
+3.2.4.2_ Reference by hazard
+Guidance sheets 10 to 12 present references on recovery and reconstruction. 
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+4
+RECOVERY AND RECONSTRUCTION
+HAZARD
+HEAVY PRECIPITATION
+RESILIENCE COMPONENT
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+—
+GUIDANCE 
+SHEET 
+10
+How can expected functions be recovered after the event?
+Is reinforcement or adaptation work also required?
+—
+Various measures have been presented to prepare for and respond to an extreme event that 
+disrupts a municipality’s water assets. However, resilience also depends on the implementation 
+of resources and solutions to recover the functions lost, suspended or affected by the event under 
+study. The faster a municipality is able to return its assets to normal operations, the more resilient 
+it is. This involves not only implementing temporary measures, but also introducing practices that 
+enable feedback on how the municipality reacted during the event in order to learn from it and 
+adjust to better prepare for the next event.
+Temporary measures planned to restore service
+A set of measures to temporarily restore water asset functions that have been lost, suspended or 
+altered by the hazard. These are short- and medium-term measures to be taken before the system 
+can be restored to normal operation. 
+Feedback on events for continuous improvement
+With a view to continuous improvement and resilience to hazards that disrupt the operation of a 
+municipality’s water assets, it is advisable to implement internal practices for reviewing the actions 
+and resources put in place in response to a weather event. This will help identify the municipality’s 
+strengths and weaknesses while targeting areas for improvement for future events.
+Adjusting infrastructure design parameters
+Feedback helps identify system deficiencies that could be corrected by upgrading design standards 
+and parameters. (Next development to avoid repeating past mistakes.)
+52
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 4: RECOVERY AND RECONSTRUCTION 
+HAZARD: HEAVY PRECIPITATION
+GUIDANCE 
+SHEET
+10
+ REFERENCES
+Description of structural and non-structural solutions and technical design guides for surface 
+rainwater harvesting infrastructures.
+Presentation of various measures that can be implemented to improve the resilience of sanitary 
+sewers and facilitate their recovery following a service interruption due to a weather event.
+ROBVQ |  Outils de priorisation pour la gestion du ruissellement urbain 
+(2022) [in French only]
+A
+B
+C
+FCM |  Operations and Maintenance for Climate Resilience:  
+Ideas for Action – Sanitary Sewers
+A
+B
+C
+53
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+4
+RECOVERY AND RECONSTRUCTION
+HAZARD
+DROUGHT
+—
+GUIDANCE 
+SHEET 
+11
+RESILIENCE COMPONENT
+ UNDERLYING QUESTION
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+How can we recover after the event?
+—
+Various measures were presented to prepare for and respond to an extreme event that disrupts a 
+municipality’s water assets. However, resilience also depends on the implementation of resources 
+and solutions to recover the functions lost, suspended or affected by the event under study. The 
+faster a municipality is able to return its assets to normal operations, the more resilient it is. This 
+involves not only implementing temporary measures, but also introducing practices that enable 
+feedback on how the municipality reacted during the event in order to learn from it and adjust to 
+better prepare for the next event.
+Temporary measures planned to restore service
+A set of measures to temporarily restore water asset functions that have been lost, suspended or 
+altered by the hazard. These are short- and medium-term measures to be taken before the system 
+can be restored to normal operation. 
+Feedback on events for continuous improvement
+With a view to continuous improvement and resilience to hazards that disrupt the operation of a 
+municipality’s water assets, it is advisable to implement internal practices for reviewing the actions 
+and resources put in place in response to a weather event. This will help identify the municipality’s 
+strengths and weaknesses while targeting areas for improvement for future events.
+Adjusting infrastructure design parameters
+Feedback helps identify system deficiencies that can be corrected by upgrading design standards 
+and parameters. 
+54
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 4: RECOVERY AND RECONSTRUCTION 
+HAZARD: DROUGHT
+GUIDANCE 
+SHEET
+11
+ REFERENCES
+After experiencing several drought events, the Quinte region in Ontario put in place a drought 
+management plan that helps municipalities identify the actions to be taken during a prolonged 
+extreme heat event. Some of these actions concern preparedness and others concern the response 
+to the event in the form of an emergency response plan. The latter is described in section 4.3, 
+Drought action plan, which identifies the actors and the actions to be carried out. Section 4.2, 
+Drought warning plan, covers the measures put in place to warn the population.
+Presentation of various measures that can be implemented to improve the resilience of sanitary 
+sewers and facilitate their recovery following a service interruption due to a weather event.
+Quinte Conservation | Drought Plan (2021)
+A
+B
+C
+FCM |  Operations and Maintenance for Climate Resilience:  
+Ideas for Action – Water (2022)
+A
+B
+C
+55
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+4
+RECOVERY AND RECONSTRUCTION
+HAZARD
+STORMS
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+12
+ UNDERLYING QUESTION
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+How can we recover after the event?
+—
+Various measures have been presented to prepare for and respond to an extreme event that 
+disrupts a municipality’s water assets. However, resilience also depends on the implementation 
+of resources and solutions to recover the functions lost, suspended or affected by the event under 
+study. The faster a municipality is able to return its assets to normal operations, the more resilient 
+it is. This involves not only implementing temporary measures, but also introducing practices that 
+enable feedback on how the municipality reacted during the event in order to learn from it and 
+adjust to better prepare for the next event.
+The consequences of the hazard covered by this guidance sheet mainly affect drinking water 
+assets as well as certain stormwater management equipment requiring electrical power. 
+Temporary measures planned to restore service
+A set of measures to temporarily restore water asset functions that have been lost, suspended or 
+altered by the hazard. These are short- and medium-term measures to be taken before the system 
+can be restored to normal operation. 
+Feedback on events for continuous improvement
+With a view to continuous improvement and resilience to hazards that disrupt the operation of a 
+municipality’s water assets, it is advisable to implement internal practices for reviewing the actions 
+and resources put in place in response to a weather event. This will help identify the municipality’s 
+strengths and weaknesses while targeting areas for improvement for future events.
+Adjusting infrastructure design parameters
+Feedback helps identify system deficiencies that can be corrected by upgrading design standards 
+and parameters. 
+56
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 4: RECOVERY AND RECONSTRUCTION 
+HAZARD: STORMS
+GUIDANCE 
+SHEET
+12
+ REFERENCES
+Presentation of various measures that can be implemented to improve the resilience of sanitary 
+sewers and facilitate its recovery following a service interruption due to a weather event.
+Presentation of various measures that can be implemented to improve the resilience of sanitary 
+sewers and facilitate their recovery following a service interruption due to a weather event.
+FCM |  Operations and Maintenance for Climate Resilience:  
+Ideas for Action – Sanitary Sewers (2022)
+A
+B
+C
+FCM |  Operations and Maintenance for Climate Resilience:  
+Ideas for Action – Water (2022)
+A
+B
+C
+57
+58
+3.2.5_ STEP 5: STRATEGIC MANAGEMENT AND PLANNING
+3.2.5.1_ Potential solutions 
+A – Policy, strategic plan and action plan
+These documents play an important role in asset management. Policies make it possible to 
+monitor the application of certain measures, while informing the residents and stakeholders 
+of the reasons for the application. The strategic plan enables planned management that 
+includes the development and implementation of action plans and programs for asset 
+creation, operation, maintenance, rehabilitation or replacement.
+B – Project funding: identify necessary projects and advocate for funding
+In addition to policies, it is important to identify a funding plan for projects covered by the 
+strategic asset management plan.
+C – Monitoring and continuous improvement
+In the context of climate change, it is appropriate to adopt living plans both to reflect the 
+changing climate itself, but also to promote the continuous improvement of practices 
+within a municipality.
+ 
+3.2.5.2_ References
+Guidance sheet 13 presents references on strategic management and planning.
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+1
+STEP
+5
+STRATEGIC MANAGEMENT AND PLANNING
+HAZARD
+HEAVY PRECIPITATION  |  DROUGHT  |  STORMS
+RESILIENCE COMPONENT
+—
+GUIDANCE 
+SHEET 
+13
+ UNDERLYING QUESTIONS
+ POTENTIAL SOLUTIONS
+A
+B
+C
+?
+How can we close the gaps, address risks and adapt to them?
+How can we integrate actions into asset management plans?
+How can we increase the long-term resilience of water infrastructure?
+—
+Proper management of municipal infrastructure requires a methodical approach to planning and 
+decision-making. This approach is all the more important in the context of climate change. In 
+addition to short- and medium-term solutions that can be implemented in response to an event, 
+how can a municipality improve its long-term resilience by integrating measures into its asset 
+management plan? High-level consideration of the approach is therefore needed to determine, 
+among other things, how to characterize the risks that threaten a municipality and how to ensure 
+that emergency and response plans are kept up to date. 
+The risks to be considered can be identified in different ways:
+Policy, strategic plan and action plan
+These documents play an important role in asset management. Policies make it possible to 
+monitor the application of certain measures, while informing the residents and stakeholders of 
+the reasons for their application. The strategic plan enables planned management that includes 
+the development and implementation of action plans and programs for asset creation, operation, 
+maintenance, rehabilitation or replacement.
+Project funding: identify necessary projects and advocate for funding 
+In addition to policies, it is important to identify a funding plan for projects covered by the strategic 
+asset management plan.
+Monitoring and continuous improvement
+In the context of climate change, it is appropriate to adopt living plans both to reflect the changing 
+climate itself, but also to promote the continuous improvement of practices within a municipality.
+59
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+2
+RESILIENCE COMPONENT  |  STEP 5: STRATEGIC MANAGEMENT AND PLANNING
+HAZARDS: HEAVY PRECIPITATION  |  DROUGHT  |  STORMS
+GUIDANCE 
+SHEET
+13
+A guide developed by the Federation of Canadian Municipalities addressing actions to improve 
+climate change resilience within a municipality’s water asset management plan. Measures are 
+presented, among others, to:
+ 
+•  Integrate climate change considerations into decision-making;
+ 
+•  Identify strategies to address gaps and risks due to climate change;
+ 
+• Monitor progress and explore opportunities for continuous improvement.
+A guide designed to support professionals in municipalities working to combat climate change in 
+the broadest sense of the term. It addresses the role of municipalities, the hierarchical structures 
+that need to be put in place to combat climate change, and the profitability of the projects to be 
+implemented.
+GMF is a program offered by the Federation of Canadian Municipalities that provides Quebec 
+municipalities with funding and knowledge-sharing services to support sustainable community 
+development. GMF-funded initiatives focus on cleaning up the air, water and soil, and reducing 
+greenhouse gas emissions. 
+This program offers:
+ 
+• Grants for the development of plans;
+ 
+•  Grants for feasibility studies, design studies and field tests;
+ 
+•  Loans at below-market interest rates, usually combined with grants, to implement capital 
+projects.
+ REFERENCES
+FCM |  Guide for Integrating Climate Change Considerations into Municipal 
+Asset Management (2020)
+A
+B
+C
+FCM |  Guide for Municipal Climate Change Staff (2021)
+A
+B
+C
+MAMH | Green Municipal Fund™
+A
+B
+C
+60
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  © CERIU 2024
+3
+RESILIENCE COMPONENT  |  STEP 5: STRATEGIC MANAGEMENT AND PLANNING
+HAZARDS: HEAVY PRECIPITATION  |  DROUGHT  |  STORMS
+GUIDANCE 
+SHEET
+13
+An article that discusses the benefits of raising awareness of the potential impacts of climate 
+change on municipalities and their assets among elected officials, staff and the community. FCM 
+also provides a number of examples of municipalities that have adopted strategic climate change 
+action plans, including Edmonton, which is showcased as an example to follow. 
+The article also presents a series of questions that municipalities may have when preparing their 
+strategic plan, particularly with respect to:
+ 
+-  Data sources and design standards adapted to climate change;
+ 
+-  Impact on service levels;
+ 
+-  Funding sources (government subsidies).
+A handbook for municipalities that have undertaken a vulnerability assessment exercise to reflect 
+on the next steps in resilience, including managing priorities in a context of reduced resources and 
+staff.
+FCM |  Integrating Climate Considerations: Governance and Operations 
+(2022)
+A
+B
+C
+FCM | Operations and Maintenance for Climate Resilience (2022)
+A
+B
+C
+61
+62
+CONCLUSION
+The Water Asset Resilience Best Practices in the Context of Climate Change handbook 
+provides a simplified approach to climate resilience adapted to water assets for 
+municipalities. Together with the associated Excel spreadsheet, they provide all the 
+information the user needs to implement a resilient approach to managing water assets.
+The analysis of vulnerability and resilience scores is used to develop a roadmap for 
+integrating climate change into the management of the municipality’s assets.
+In order to implement best asset management practices, all initiatives aimed at resilience 
+must be integrated into the municipality’s asset management planning documents.
+There are benefits to using this handbook, but also challenges that each municipality 
+would be well advised to take up, for example, through exchanges between peers and 
+neighbouring municipalities, or by continuing to develop knowledge on the subject. Note 
+that the handbook and tool are general support tools limited to certain hazards and assets. 
+As each municipality has its own specific challenges, it is advisable to adapt as necessary 
+the reflection on resilience and climate change, which is becoming increasingly frequent 
+and violent.   
+4.0
+63
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+INDEX
+The index contains all the sources and references used to create the guidance 
+sheets in this handbook.
+PIEVC | The PIEVC Protocol for Assessing Public Infrastructure Vulnerability to Climate 
+Change Impacts (2022)
+This protocol-based tool reviews historical climate information and projects the nature, 
+severity and probability of future climate change and events. It also establishes the 
+adaptive capacity of an individual infrastructure as determined by its design, operation 
+and maintenance. It includes an estimate of the severity of climate impacts on the 
+components of the infrastructure (e.g., deterioration, damage or destruction) to enable 
+the identification of higher-risk components and the nature of the threat from the climate 
+change impact.
+FCM | Case Study – Developing a Multi-Risk Adaptation Plan (2021)
+Like many other municipalities in southern Quebec, L’Islet is experiencing increasingly 
+frequent heat waves and droughts. This case study shows how this municipality with 
+limited resources implemented a climate adaptation plan to improve the resilience of its 
+infrastructure.
+FCM | Operations and Maintenance for Climate Resilience (2022)
+A handbook for municipalities that have undertaken a vulnerability assessment exercise to 
+reflect on the next steps in resilience, including managing priorities in a context of reduced 
+resources and staff.
+FCM | Operations and Maintenance for Climate Resilience: Ideas for Action – Water 
+(2022)
+Presentation of various measures that can be implemented to improve the resilience 
+of sanitary sewers and facilitate its recovery following a service interruption due to a 
+weather event.
+FCM | Operations and Maintenance for Climate Resilience: Ideas for Action – Sanitary 
+Sewers (2022)
+Presentation of various measures that can be implemented to improve the resilience 
+of sanitary sewers and facilitate its recovery following a service interruption due to a 
+weather event.
+5.0
+Table 6: Reference index for guidance sheet preparation
+64
+FCM | Guide for Integrating Climate Change Considerations into Municipal Asset Mana-
+gement (2020)
+A guide developed by the Federation of Canadian Municipalities addressing actions to 
+improve climate change resilience within a municipality’s water asset management plan. 
+Measures are presented, among others, to:
+	
+• Integrate climate change considerations into decision-making;
+	
+• Identify strategies to address gaps and risks due to climate change;
+	
+• Monitor progress and explore opportunities for continuous improvement.
+FCM | Guide for Municipal Climate Change Staff (2021)
+A guide designed to support professionals in municipalities working to combat climate 
+change in the broadest sense of the term. It addresses the role of municipalities, the 
+hierarchical structures that need to be put in place to combat climate change, and the 
+profitability of the projects to be implemented.
+FCM | Integrating Climate Considerations: Governance and Operations (2022)
+An article that discusses the benefits of raising awareness of the potential impacts of 
+climate change on municipalities and their assets among elected officials, staff and the 
+community. FCM also provides a number of examples of municipalities that have adopted 
+strategic climate change action plans, including Edmonton, which is showcased as an 
+example to follow. 
+The article also presents a series of questions that municipalities may have when preparing 
+their strategic plan, particularly with respect to:
+	
+• Data sources and design standards adapted to climate change;
+	
+• Impact on service levels;
+	
+• Funding sources (government subsidies).
+65
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+FCM | Case Studies: Using Data to Address Water Infrastructure Vulnerabilities (2020)
+A series of case studies prepared by FCM on the adaptation to climate change by various 
+Canadian municipalities. The series includes the following municipalities and topics:
+	
+• Kenora, Ontario: Asset risk assessment;
+	
+• Edmonton, Alberta: Flood mitigation and mapping;
+	
+• Moncton, New Brunswick: Flood mitigation and neighbourhood vulnerability 
+assessment;
+	
+• Saskatoon, Saskatchewan: Grey and green infrastructure adaptation;
+	
+• Lake Erie, Ontario (Union Water Supply System): Drinking water system 
+vulnerability assessment.
+MAMH | Fiches synthèses régionales d’adaptation aux changements climatiques (2020) 
+[in French only]
+An extensive climate portrait of Quebec’s administrative regions. 
+Each guidance sheet presents a summary table of climate projections for the region, 
+an overview of the potential impacts of climate change on certain sectors of activity, and 
+examples of adaptation measures implemented in the region for each of these sectors. 
+A table showing how climate change adaptation measures can be integrated into existing 
+municipal planning tools is also presented.
+MAMH | Green Municipal Fund™ [in French only]
+GMF is a program offered by the Federation of Canadian Municipalities that provides 
+Quebec municipalities with funding and knowledge-sharing services to support sustai-
+nable community development. GMF-funded initiatives focus on cleaning up the air, 
+water and soil, and reducing greenhouse gas emissions. 
+This program offers:
+	
+• Grants for the development of plans;
+	
+• Grants for feasibility studies, design studies and field tests;
+	
+• Loans at below-market interest rates, usually combined with grants,  
+to implement capital projects.
+66
+MELCC | Guide de réalisation des analyses de la vulnérabilité des sources destinées 
+à l’alimentation en eau potable au Québec (2018) [in French only]
+A guide for those in charge of groundwater or surface water abstraction who 
+need to carry out vulnerability analyses of their sources, as well as for the various 
+professionals and specialized workers who will be assisting them. The guide 
+highlights the weaknesses, problems and threats affecting drinking water supply. 
+It identifies priorities for action to reduce threats or develop an appropriate emergency 
+response plan.
+The Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la 
+Faune et des Parcs also provides municipalities and professionals with work templates 
+to structure the information collected. This also makes it easier to compare different 
+municipalities.
+MELCC | Guide pour l’élaboration d’un plan de protection des sources d’eau potable (2022) 
+[in French only]
+A guide that provides an approach for those in charge of drinking water abstraction and 
+management when developing a drinking water source protection plan.
+Ministère de la Sécurité publique | Mesures permettant d’augmenter la résilience de la 
+municipalité à la distribution de l’eau en cas de pénurie ou de contamination de l’eau 
+potable (2018) [in French only]
+For a municipality, the drinking water supply is essential. Planning actions to increase 
+resilience is therefore also essential. Such planning helps you to respond quickly to 
+problems associated with water quantity or quality. It is recommended to draw up a list 
+of potential problems (e.g., shortages, breakdowns) in advance, based on your specific 
+situation.
+Ministère de la Sécurité publique | Schéma décisionnel d’approvisionnement en eau en 
+cas de pénurie ou de contamination de l’eau potable (2018) [in French only]
+An organizational diagram to better identify the municipality’s responsibilities in the event 
+of contamination or shortage of drinking water.
+New Brunswick | Flood Risk Reduction Strategy (2014)
+A document that presents the strategy developed by the Government of New Brunswick 
+that can be used by municipalities to improve their resilience in the event of heavy 
+precipitation. The role citizens can play in this process is also presented.	
+67
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+Ouranos | Climate Portraits (2016)
+An interactive map showing the effects of climate change in Quebec according to different 
+parameters (e.g., studied variable, time horizon, GHG emission projections).
+The map can be used to target a specific region or territory for analysis and provides 
+several parameters to visualize precipitation projections (e.g., time horizon, climate 
+change assumptions).
+Ouranos | Synthesis on Climate Change Knowledge in Québec (2015)
+An authoritative reference in Quebec for climate change and its impacts. The document 
+is divided into three parts: 1)  climate change in Quebec; 2)  vulnerability, impacts and 
+adaptation to climate change; and 3) implementing adaptation measures. The second part 
+is particularly relevant to the assessment of vulnerability related to the increase in heavy 
+precipitation events.
+Québec Vert | Inventaire des infrastructures végétalisées au Québec [in French only]
+An inventory, prepared by Québec Vert, of municipal green infrastructure projects that 
+have been implemented in Quebec. It provides concrete examples of projects and paves 
+the way for knowledge sharing and feedback between municipalities.
+Quinte Conservation | Drought Plan (2021)
+A case study of the Quinte region in Ontario, which, after experiencing several drought 
+events, has put in place a drought management plan that helps municipalities identify the 
+actions to be taken before, during and after a prolonged extreme heat event.
+ROBVQ | Autodiagnostic municipal en gestion durable des eaux pluviales (2017) 
+[in French only]
+A self-assessment tool, in the form of an automated online questionnaire, to promote 
+sustainable stormwater management and best practices by identifying a municipality’s 
+strengths and weaknesses.
+68
+ROBVQ | Le rôle des infrastructures naturelles pour la gestion des eaux de ruissellement 
+et des crues dans un contexte d’adaptation aux changements climatiques (2019) 
+[in French only]
+A literature review on adapting to climate change through the use of natural infrastructure, 
+with a focus on run-off water management. Several examples of best management 
+practices are presented. These were selected based on their cost effectiveness, resilience 
+and ability to fit into a sustainable development approach.
+ROBVQ | Outils de priorisation pour la gestion du ruissellement urbain (2022)
+[in French only]
+A description of structural and non-structural solutions, and technical design guides for 
+surface rainwater capture infrastructure.
+ROBVQ | Outils pour l’introduction à la gestion des eaux pluviales (2022) [in French only]
+A catalogue of different types of tools offering municipal officials (elected representatives 
+and technical managers) both structural solutions, such as technical guides for the design 
+of optimal stormwater management works, as well as non-structural solutions, related 
+to adjustments in regulations to help reduce runoff or the volume of water sent into the 
+system.
+Ulaval | Cartographie de vulnérabilité aux fortes précipitations et aux chaleurs extrêmes 
+aux Québec (2018) [in French only]
+Mapping of Quebec municipalities showing their vulnerability to extreme heat and heavy 
+precipitation in the context of climate change. Section 2.4.1.3, Heat waves, deals more 
+specifically with drought events and presents the problems several municipalities have 
+experienced as well as the solutions they have implemented.
+69
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+REFERENCES AND BIBLIOGRAPHY
+Federation of Canadian Municipalities (n.d.). “Asset management concepts”. [Online]. 
+Retrieved on January 17, 2023.
+Government of Quebec (2023). “Thesaurus de l’activité gouvernementale – ‘Plan de 
+mesure d’urgence’ page”. [Online]. Retrieved on January 16, 2023.
+Institut National de la Recherche Scientifique (2021). “Gestion des eaux pluviales et 
+changements climatiques : enjeux, impacts et adaptation des pratiques et systèmes 
+actuels".
+National Institute for Statistics and Economic Studies (2023). “Population projection”. 
+[Online]. Retrieved on April 17, 2023. 
+Institute of Asset Management (2022). “Resilience”. [Online]. Retrieved on January 11, 2023.
+Intergovernmental Panel on Climate Change (2007). “Climate Change 2007: Synthesis 
+Report”, IPCC Fourth Assessment Report.
+Intergovernmental Panel on Climate Change (2015). “Climate Change 2007: Synthesis 
+Report”, IPCC Fifth Assessment Report. 
+Municipal Finance Officers’ Association of Ontario (2018). “A guide to asset management 
+for municipalities in Ontario”. 
+Ministère des Affaires municipales et de l’Habitation (2010) “Planification stratégique”. 
+[Online]. Retrieved on January 17, 2023. [In French only]
+Ministère des Affaires municipales et de l’Habitation (2020) “Stratégie québécoise 
+d’économie de l’eau potable”. [Online]. Retrieved on January 6, 2023. [In French only]
+Ouranos (2020). “Fiches synthèses régionales d’adaptation aux changements clima-
+tiques”. [Online]. Retrieved on January 16, 2023. [In French only]
+Secrétariat du Conseil du trésor (2014) “Guide d’élaboration et de mise en œuvre – Cadre 
+de gestion des infrastructures publiques”. [In French only]
+Ville de Montréal (2017). “Climate Change Adaptation Plan 2015–2020”. 
+6.0
+70
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+_
+APPENDICES
+_
+APPENDIX 1_
+HAZARD TAB COMPLETED 
+(HEAVY PRECIPITATION, DROUGHT OR STORMS)
+APPENDIX 2_
+ASSESSMENT TAB COMPLETED
+7.0
+71
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+APPENDIX 1_ HAZARD TAB COMPLETED (HEAVY PRECIPITATION, DROUGHT OR STORMS)
+FIRST STEP: VULNERABILITY SCORE
+Appendix 1 – Figure A
+Appendix 1 – Figure B
+72
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+SECOND STEP:  
+RESILIENCE SCORE
+Appendix 1 – Figure C
+73
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+ASSESSMENT OF RESILIENCE SCORE
+RESILIENCE TOPIC
+RESILIENCE SCORE
+THRE-
+SHOLD
+Knowledge of risk and awareness
+7.3
+5
+Your score is good.
+Prevention and adaptation
+5.5
+5
+Your score is average. 
+Reaction to an event
+5.5
+5
+Your score is average. 
+Recovery and reconstruction
+5.0
+5
+Your score is average. 
+Strategic management and planning
+3.3
+5
+Your score is low.
+Table 4: Results by resilience topic
+ASSESSMENT OF RESILIENCE SCORE FOR HEAVY PRECIPITATION
+— RESILIENCE SCORE    — THRESHOLD
+Knowledge of risk and awareness
+Strategic management 
+and planning
+Recovery and reconstruction
+Reaction to an event
+Prevention 
+and adaptation
+74
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+APPENDIX 2_ 
+ASSESSMENT TAB 
+COMPLETED 
+PART 1: 
+RESULTS BY HAZARD
+RESILIENCE OF THE MUNICIPALITY’S WATER ASSETS
+—— HEAVY PRECIPITATION    — DROUGHT    — STORMS
+Knowledge of risk and awareness
+Strategic management 
+and planning
+Recovery and reconstruction
+Reaction to an event
+Prevention 
+and adaptation
+TOOLS FOR SELF-ASSESSMENT OF RESILIENCE IN WATER ASSET MANAGEMENT OF QUEBEC 
+MUNICIPALITIES IN THE CONTEXT OF CLIMATE CHANGE
+Appendix 2 – Figure A
+75
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+PART 2: RESULTS BY RESILIENCE TOPIC
+Appendix 2 – Figure B
+76
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024
+PART 3: 
+STRATEGIC ROADMAP
+Appendix 2 – Figure C
+77
+_
+WATER ASSET RESILIENCE BEST PRACTICES IN THE CONTEXT OF CLIMATE CHANGE  |  03/2024 
+_
+FEEDBACK FORM
+In order to improve the document published by CERIU, we invite 
+you to send us your suggestions and comments by e-mail.
+EMAIL: technique@ceriu.qc.ca
+SUBJECT:	 Water Asset Resilience Best Practices in the Context of Climate Change
+I WANT TO: 
+	
+• Report an error
+	
+• Suggest a modification
+	
+• Suggest an addition
+SUGGESTIONS AND COMMENTS: 
+	
+• Enter the details
+MY CONTACT INFORMATION: 
+	
+• First and last names
+	
+• Institution
+	
+• Name of employer
+	
+• Phone number
+» Click on the image to open a new email window.
+Send
+To
+technique@ceriu.qc.ca
+CC
+BCC
+Subject
+Best practice guide for water asset resilience in the context of climate change
+Hello, 
+I wish to [select]: 
+- Report an error
+- Suggest a modification
+- Suggest an addition
+Suggestions and comments: [Insert your text with details]
+Contact information: [Please provide your contact information so that we can get back to you]
+Thank you.
+999, boul. de Maisonneuve Ouest, bur. 1620
+Montréal, QC H3A 3L4
+Canada
+514-848-9885
+info@ceriu.qc.ca
+www.ceriu.qc.ca
+No part of this document may 
+be reproduced or translated 
+in any form without CERIU’s 
+authorization.
+ 
+ISBN 978-2-925413-04-2
+( Édition originale :  
+ISBN : 978-2-925413-00-4 )
+All rights reserved.  
+© CERIU, march 2024

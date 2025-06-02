@@ -1,0 +1,8535 @@
+ 
+Impacts of climate change on 
+Canada’s electricity system 
+Prepared for the Canadian Institute for Climate 
+Choices  
+ 
+ 
+ 
+SUBMITTED TO 
+Canadian Institute for Climate Choices 
+December 15, 2020  
+SUBMITTED BY 
+Navius Research Inc. 
+Box 48300 Bentall 
+Vancouver BC V7X 1A1 
+ 
+Brianne@NaviusResearch.com 
+ 
+ 
+ 
+ 
+ 
+Suggested citation: Navius Research. 2020. Impacts of climate 
+change on Canada’s electricity system. Prepared for the Canadian 
+Institute for Climate Choices.
+About Us 
+Navius Research Inc. is an independent and non-partisan 
+consultancy based in Vancouver. We operate proprietary energy-
+economy modeling software designed to quantify the impacts of 
+climate change mitigation policy on greenhouse gas emissions and 
+the economy. We have been active in this field since 2008 and have 
+become one of Canada’s leading experts in modeling the impacts of 
+energy and climate policy. Our analytical framework is used by 
+clients across the country to inform energy and greenhouse gas 
+abatement strategy. 
+We are proud to have worked with: 
+◼ 
+Most provincial and territorial governments, as well as the 
+federal government. 
+◼ 
+Utilities, industry associations and energy companies. 
+◼ 
+Non-profit and research organizations with an interest in 
+energy, climate change and economics.
+ 
+ 
+Page intentionally left blank to facilitate double-sided 
+printing  
+ 
+ 
+ 
+Executive Summary 
+ 
+i 
+ 
+Executive Summary 
+Canada’s electricity system is expected to be impacted as temperatures increase with 
+climate change due to increases in demand for space cooling, decreases in demand 
+for space heating, and a change in the frequency and intensity of peak electricity 
+demand. This study uses seven general circulation models and two representative 
+concentration pathways to project temperature change across Canada under fourteen 
+potential climate change scenarios. Navius’ energy-economy model (gTech) and 
+electricity model (IESD) are then used to project heating and cooling demand, peak 
+load, and electricity expenditure by region across Canada under each scenario, 
+compared to a reference case scenario in which no climate change occurs.  
+Results indicate three key impacts of climate change on Canada’s electricity system:  
+◼ First, overall electricity demand for space heating and cooling is expected to 
+increase by 0.4 - 4.2% across Canada by 2100 as a result of climate change due to 
+increased demand for space cooling. On average, overall demand for electricity 
+remains higher in winter than summer, although some provinces with more extreme 
+summer temperatures, such as Ontario, may experience a shift in peak electricity 
+demand from the winter (in the absence of climate change) to the summer (with 
+climate change) under some climate change scenarios. This is due to significant 
+increases in electricity demand for cooling in the summer (Figure A).  
+Figure A. Example summer electricity load in Ontario with and without climate 
+change 
+ 
+Impacts of climate change on Canada’s electricity system 
+ii 
+ 
+◼ Second, peak electricity demand is generally expected to increase in the summer as 
+temperatures increase due to increased demand for cooling, while it is expected to 
+decrease in the winter due to reduced demand for heating, compared to a scenario 
+in which no climate change occurs. In some more extreme climate change 
+scenarios, however, peak demand for electricity may increase in the winter due to a 
+change in peak load from a heating peak in the winter to a cooling peak in some 
+warmer winter months occurring in March (Figure  B).  
+Figure B. Change in peak electricity load in British Columbia, relative to a scenario 
+with no climate change  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-3.1%
+-1.2%
+-5.1%
+-1.0%
+0.5%
+1.8%
+1.1%
+5.0%
+-0.8%
+-0.3%
+-1.3%
+3.7%
+4.3%
+6.3%
+4.8%
+9.9%
+-10%
+-5%
+0%
+5%
+10%
+15%
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+RCP4.5
+RCP8.5
+winter
+summer
+range of change in peak load with climate 
+change in bc
+(%)
+ 
+ 
+Executive Summary 
+ 
+iii 
+ 
+ 
+◼ Third, total expenditure on the electricity system is expected to decrease in the 
+medium term (2050) under climate change due to reductions in demand for 
+electricity for heating, and is expected to increase in the long term (2100) due to 
+increases in demand for cooling (Figure C).  
+Figure C. Change in total electricity expenditure in Canada, relative to a scenario 
+with no climate change 
+ 
+-0.3%
+0.0%
+-0.3%
+0.8%
+-1.8%
+1.8%
+-1.9%
+4.2%
+-3.0%
+-2.0%
+-1.0%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+change in electricity expenditures with 
+climate change in Canada
+(%)
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Table of Contents 
+Executive Summary ............................................................................................................................. i 
+1. Introduction ................................................................................................................................. 5 
+2. Modeling approach ..................................................................................................................... 6 
+2.1. 
+Estimation of climate change in Canada .................................................................................... 6 
+2.2. 
+Introduction to IESD and gTech .................................................................................................. 8 
+2.3. 
+Estimation of electricity sector impacts ................................................................................... 10 
+2.4. 
+Important assumptions ............................................................................................................ 11 
+3. Impacts of climate change on Canada’s electricity system .............................................. 12 
+3.1. 
+Electricity demand for space heating and cooling .................................................................. 12 
+3.2. 
+Peak electricity load .................................................................................................................. 18 
+3.3. 
+Capital and total electricity expenditure .................................................................................. 20 
+4. Limitations ................................................................................................................................. 23 
+Annex 1: Introduction to IESD ........................................................................................................ 24 
+Annex 2: Introduction to gTech ...................................................................................................... 30 
+Annex 3: Electricity demand and peak load results by province .............................................. 33 
+Annex 4: Electricity expenditure results by province .................................................................. 47 
+ 
+ 
+ 
+ 
+ 
+1. Introduction 
+Climate change is expected to impact electricity systems in the future. As average global 
+temperatures increase, there will be an increase in demand for space cooling, a 
+reduction in demand for space heating, and a change in the frequency and intensity of 
+peak electricity demand.1,2 Climate change is also expected to impact electricity supply, 
+including through changing wind patterns, solar availability, and hydrological patterns.3 
+In Canada, these impacts are expected to vary significantly by region.4,5 
+This study examines the potential impacts of climate change on Canada’s electricity 
+grid, including impacts on heating and cooling demand, peak loads, and cost.  
+This report is structured as follows:  
+▪ Chapter 2 introduces the approach used to conduct this analysis 
+▪ Chapter 3 describes the results of this analysis   
+▪ Chapter 4 identifies limitations of this analysis and opportunities for future study  
+ 
+1 Damm et al., 2017. Impacts of +2C global warming on electricity demand in Europe. Available at: 
+https://www.sciencedirect.com/science/article/pii/S2405880716300012 
+2 Auffhammer et al., 2017. Climate change is projected to have severe impacts on the frequency and intensity of peak 
+electricity demand across the United States. Available at: https://www.pnas.org/content/114/8/1886 
+3 Canadian Electricity Association, 2016. Adapting to climate change: State of play and recommendations for the electricity 
+sector in Canada. Available at: https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/energy/energy-
+resources/Adapting_to_Climate_Change_State_of_Play_and_Recommendations_for_the_Electricity_Sector_in_Canada.pdf 
+4 Berardi & Jafarpur, 2020. Assessing the impact of climate change on building heating and cooling energy demand in 
+Canada. Available at:  https://www.sciencedirect.com/science/article/abs/pii/S136403211930886X 
+5 Concordia University, 2019. How climate change will affect hydropower production in Canada. Available at: 
+https://www.sciencedaily.com/releases/2019/11/191107160013.htm 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+2. Modeling approach 
+This chapter provides an overview of the approach used to project the impacts of 
+climate change on Canada’s electricity system. It begins with an explanation of how 
+temperature change due to climate change is estimated in Section 2.1, followed by an 
+overview of the models used to undertake this analysis in Section 2.2, and an 
+explanation of how changes in temperature are used to estimate impacts on Canada’s 
+electricity system in Section 2.3. Finally, Section 2.4 provides an overview of the key 
+assumptions made in this analysis.  
+2.1. Estimation of climate change in 
+Canada 
+The first step to determining the impacts of climate change on Canada’s electricity 
+system is to project the potential level of climate change in Canada. This analysis 
+focuses on changes in temperature due to climate change, though climate change is 
+expected to alter other weather patterns as well such as precipitation and wind. Seven 
+general circulation models (GCMs), a type of global climate model used to project 
+climate change, were used to project changes in temperature across Canada under 
+climate change. These include:  
+◼ CCAQ2+GFDL-CM3 
+◼ BCCAQ2+MRI-CGCM3 
+◼ BCCAQ2+HadGEM2-AO 
+◼ BCCAQ2+MIROC-ESM-CHEM 
+◼ BCCAQ2+CCSM4 
+◼ BCCAQ2+GFDL-ESM2M 
+◼ BCCAQ2+HadGEM2-ES 
+Two representative concentration pathways (RCP4.5 and RCP8.5) were run in each GCM 
+to project a total of fourteen potential climate change scenarios out to 2100. RCPs are 
+greenhouse gas concentration trajectories used by the Intergovernmental Panel on 
+Climate Change (IPCC) and are characterized by the radiative forcing produced by 
+emissions of carbon dioxide and other greenhouse gases. RCP4.5 represents an 
+intermediate climate change scenario in which radiative forcing stabilizes at 4.5 W/m2 
+ 
+ 
+ 
+in 2100 and global temperature rise is expected to reach 2-3 degrees Celsius by 2100; 
+RCP8.5 represents a worst-case scenario in which radiative forcing continues to rise 
+beyond 8.5 W/m2 after 2100. 
+Maximum and minimum monthly temperatures were then extracted from each climate 
+change projection in 10 year increments (from 2040 to 2100) and mapped onto several 
+weather station locations across Canada. These locations include: 
+◼ Victoria, BC 
+◼  Abbotsford, BC 
+◼  Vancouver, BC 
+◼  Kamloops, BC 
+◼  Fort St. John, BC 
+◼  Edmonton, AB 
+◼  Calgary, AB 
+◼  Peace River, AB 
+◼  Cold Lake, AB 
+◼ Estevan, SK 
+◼  Regina, SK 
+◼  Kindersley, SK 
+◼ Saskatoon, SK 
+◼ Brandon, MB 
+◼ Winnipeg, MB 
+◼  Thompson, MB 
+◼  Thunder Bay, ON 
+◼  Sudbury, ON 
+◼ Ottawa, ON 
+◼  Windsor, ON 
+◼  Toronto, ON 
+◼  Québec City, QC 
+◼  Montreal, QC 
+◼  Mont Joli, QC 
+◼  Roberval, QC 
+◼ Moncton, NB 
+◼ Saint John, NB 
+◼  Greenwood, NS 
+◼ Halifax, NS 
+◼  Sydney, NS 
+◼  Yarmouth, NS 
+◼  Charlottetown, PEI 
+◼  Deer Lake, NFLD 
+◼  Gander, NFLD 
+◼  St. John, NFLD 
+◼  Goose Bay, NFLD 
+◼  Bathurst, NB 
+The change in temperature across Canada as a result of climate change was then 
+calculated by comparing the maximum and minimum monthly temperatures under each 
+climate change scenario to reported temperatures in 2010 in these locations. 
+Temperature data was adjusted for each location under each climate change scenario 
+using the following formula: 
+𝑃_𝑇𝐸𝑀𝑃𝑐𝑖𝑡𝑦,ℎ,𝑦= (𝐻_𝑇𝐸𝑀𝑃𝑐𝑖𝑡𝑦,ℎ−𝐻_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,ℎ) × 𝑃_𝑀𝐴𝑋𝑐𝑖𝑡𝑦,ℎ,𝑦−𝑃_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,ℎ,𝑦
+𝐻_𝑀𝐴𝑋𝑐𝑖𝑡𝑦,ℎ−𝐻_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,ℎ
++ 𝑃_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,ℎ,𝑦 
+Where P_TEMP = projected temperature under climate change for each city, hour and 
+year (from 2040 to 2100); H_TEMP = historically reported temperature in 2010 by city 
+and hour; H_MIN = historically reported minimum temperature in 2010 by city; H_MAX = 
+historically reported maximum temperature in 2010 by city; P_MAX = projected 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+maximum temperature under climate change for each city, hour and year (from 2040- to 
+2100), specified by climate change models; P_MIN = projected minimum temperature 
+under climate change for each city, hour and year (from 2040-2100), specified by 
+climate change models. P_MAX and P_MIN are converted from monthly temperature 
+projections from the climate change models (GCM and RCP) to hourly temperature 
+projections by assuming the minimum and maximum values occur on the 15th of the 
+month and weighting hours according to the following equations: 
+𝑃_𝑀𝐴𝑋𝑐𝑖𝑡𝑦,ℎ,𝑦= ∑ℎ_𝑤𝑒𝑖𝑔ℎ𝑡ℎ,𝑚
+𝑚
+× 𝑃_𝑀𝐴𝑋𝑐𝑖𝑡𝑦,𝑚,𝑦 
+𝑃_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,ℎ,𝑦= ∑ℎ_𝑤𝑒𝑖𝑔ℎ𝑡ℎ,𝑚
+𝑚
+× 𝑃_𝑀𝐼𝑁𝑐𝑖𝑡𝑦,𝑚,𝑦 
+Note that hourly variations in temperature projections were treated differently when 
+analyzing the impacts on electricity consumption or expenditure than when analyzing 
+the impacts on peak electricity demand. In the case of the former, variations in hourly 
+data from each GCM and RCP were fit to an average monthly regression to capture the 
+trend in temperature change from 2040 to 2100. In the case of peak electricity load, 
+however, it is important to capture hourly temperatures at the top and bottom of the 
+temperature fluctuations, rather than dampening these fluctuations with a monthly 
+average, as the highest values are what best inform the capacity that utilities will need 
+to add to meet peak demand. For this reason, temperature projection data was fit to a 
+different regression when analyzing the impacts on peak electricity load, which uses the 
+coldest winter day and hottest summer day in each month and city to capture the high 
+end of the temperature range in each GCM and RCP. 
+This temperature data was then used with Navius’ energy-economy model (gTech) and 
+electricity model (Integrated Electricity Supply and Demand Model, IESD) to determine 
+the impact of climate change on electricity demand across Canada in 10-year 
+increments out to 2100. These models are described in the next section (Section 2.2) 
+and in more detail in Annex 1 and 2, and quantification of the impacts of temperature 
+change on Canada’s electricity sector is described in Section 2.3.  
+2.2. Introduction to IESD and gTech  
+IESD 
+The Integrated Electricity Supply and Demand model (IESD) simulates the impact of 
+government policies and economic conditions on electricity demand, supply, and prices. 
+IESD is effectively two separate models: one that simulates the addition to electricity 
+generation capacity and hourly dispatch (generation) decisions in the electricity sector 
+ 
+ 
+ 
+and another that simulates decisions by end-users that affect electricity demand (e.g. 
+technology and fuel choice). 
+IESD can explore multiple policy and economic scenarios in any region or set of regions6, 
+and provides detailed insight into their impact on:  
+◼ The market for specific generation or supply technologies, in terms of installed 
+capacity and electricity generation by unit, fuel type, technology type etc. 
+◼ GHG emissions from the electricity sector  
+◼ Electricity trade between regions 
+◼ Electricity consumption by sector and end-use  
+◼ Wholesale and end-use electricity prices 
+More detail about IESD and how it is structured is provided in Annex 1. For this analysis, 
+IESD was used to simulate changes in peak electricity load, price and expenditure under 
+each of the fourteen climate change scenarios compared to a scenario with no climate 
+change. This allowed for isolation of the impacts of climate change on Canada’s 
+electricity sector out to 2100. 
+gTech  
+gTech is unique among energy-economy models because it combines features that are 
+typically only found in separate models: 
+◼ A realistic representation of how households and firms select technologies and 
+processes that affect their energy consumption and greenhouse gas emissions; 
+◼ An exhaustive accounting of the economy at large, including how provinces and 
+territories interact with each other and the rest of the world; and 
+◼ A detailed representation of energy supply, including liquid fuel (crude oil and 
+biofuel), gaseous fuel (natural gas and renewable natural gas) and electricity. 
+More detail about gTech is provided in Annex 2. For this analysis, gTech was used to 
+simulate annual electricity consumption by region, sector and end-use across Canada 
+out to 2100. This consumption was then input into IESD to quantify the impacts of 
+climate change on Canada’s electricity system, as described in the following section.  
+ 
+6 The largest coverage to date is disaggregated by each of Canada’s 10 provinces as well as the US, which is also 
+disaggregated into 10 regions. 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+2.3. Estimation of electricity sector impacts 
+An increase in temperature with climate change is expected to impact heating and 
+cooling demand in two main ways: 
+◼ When temperatures are warmer, there is less of a need for heating in the winter and 
+more of a need for cooling in the summer. As a result, people are using their air 
+conditioners more in the summer to achieve the same indoor temperature as they 
+would in the absence of climate change.  
+◼ When temperatures are warmer, the amount of floor space that is heated or cooled 
+increases, independent of population or economic growth, as people install air 
+conditioners to cool spaces that would not have needed cooling in the absence of 
+climate change. For example, with warmer temperatures, homes built in Vancouver 
+may include air conditioners that otherwise would not have.  
+Changes in temperature due to climate change were used to estimate changes in space 
+heating and cooling demand using the PJM method.7 This method projects electricity 
+load based on weather-related variables,8 which was then weighted by population at 
+each of the weather station locations listed in Section 2.1. Based on this method, the 
+temperature humidity index (THI) was used for estimating heating load based on the 
+following equation:  
+THI = T – 0.55 x (1 – H) x (T – 58), if T >= 58 
+THI = T, if T < 58 
+Where T = Dry bulb temperature and H = Relative Humidity (where 100% = 1) 
+And the wind adjusted temperate (WWP) was used to estimate cooling load based on 
+the following equation:  
+WWP = T – (0.5 x (W – 10)), if W > 10 
+WWP = T, if W <= 10 
+Where W = Wind velocity in MPH and T = Dry bulb temperature 
+Electricity consumption projections in the absence of climate change, output from 
+gTech, were used to adjust hourly electricity load curves (based on 2010 data) out to 
+ 
+7 PJM, 2016. Load forecasting model white paper. Available at: https://www.pjm.com/~/media/library/reports-notices/load-
+forecast/2016-load-forecast-whitepaper.ashx 
+8 Note that climate change scenario data did not include impacts of climate change on wind speed or humidity, so only the 
+temperature variable in this method was adjusted.  
+ 
+ 
+ 
+2100, which were disaggregated by sector and end-use to estimate hourly electricity 
+consumption for space heating and cooling for every region in Canada. By using gTech 
+to simulate reference case consumption out to 2100, other impacts on electricity 
+demand were controlled for, including improvements in efficiency for various end uses 
+(for example, space cooling demand decreases over time as the efficiency of air 
+conditioning improves), all current policies that may lead to fuel switching (such as 
+electrification of passenger transport), increases in population and increases in 
+economic growth. By controlling for these factors, the impact of temperature change due 
+to climate change on Canada’s electricity system could be isolated.  
+Electricity consumption for space heating and cooling were then adjusted based on 
+temperature change projections using the PJM equations above, and input into IESD to 
+simulate Canada’s electricity system under this demand.  
+2.4. Important assumptions 
+A few important assumptions were made in this analysis. These include: 
+◼ First, temperature changes projected by each climate change scenario were mapped 
+onto the 37 weather station locations listed in Section 2.1, which were used to 
+estimate temperature change across Canada. Temperature change at these locations 
+was scaled to the regional level (10 provinces and the territories) and resulting 
+changes in heating and cooling demand were weighted based on the population 
+closest to each station.  
+◼ Second, heating and cooling demand under climate change were calculated based on 
+a reference case scenario in which all currently implemented and announced federal 
+and provincial climate policies are included. Therefore, any changes in electricity 
+demand due to reference case climate policy has been controlled for, as have 
+changes in electricity demand due to population and economic growth. 
+◼ Third, changes in temperature due to climate change are based on a 2010 base year. 
+It is therefore assumed that weather patterns in 2100 are a repeat of weather 
+patterns in 2010, but with temperature adjusted up or down based on climate 
+change models.  
+◼ Fourth, the winter season is defined as the days between December 21 and March 
+21 and the summer is defined as the days between June 20 and September 20. This 
+is important in defining winter and summer peak electricity loads. 
+◼ Finally, electricity storage was simulated as a pathway to help mitigate peaks in 
+electricity demand. However, dispatchable load was not included in this analysis.  
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+3. Impacts of climate change on 
+Canada’s electricity system  
+This chapter summarizes the results of this analysis. Section 3.1 and 3.2 quantify the 
+impacts of climate change on electricity demand across Canada, including changes in 
+space heating and cooling demand and peak load. Section 3.3. quantifies the economic 
+impacts of climate change on Canada’s electricity system, including impacts on total 
+and capital electricity expenditure. 
+National impacts as well as regional variability is explored. Ontario and British Columbia 
+are chosen to represent regional variability across the country and are highlighted in 
+more detail as examples of seasonal (hot in the summer, cold in the winter) and 
+moderate (warm in the summer, cool in the winter) temperature profiles. 
+3.1. Electricity demand for space heating 
+and cooling  
+In comparison to a scenario without climate change, electricity demand across Canada 
+is expected to decrease in the medium term (2050) in most climate change scenarios, 
+due to a lower demand for space heating. In the long term, however, electricity demand 
+is expected to increase by 0.4 - 4.2% by 2100, as an increase in demand for space 
+cooling outweighs a reduction in demand for heating (Figure 1). 
+In 2100, electricity demand for space cooling is expected to increase by 32 - 223% in 
+the summer and for space heating to decrease by 14 - 61% in the winter. These ranges 
+in demand reflect the range in potential temperature change due to climate change 
+across Canada, which is based on the fourteen climate change scenarios described in 
+Section 2.1. 
+ 
+ 
+ 
+Figure 1. Change in electricity demand for heating and cooling in Canada under climate 
+change, relative to a scenario with no climate change. 
+ 
+Figure 2 and Figure 3 demonstrate a sample winter and summer day in 2010 in 
+Canada, with temperature adjusted based on the level of climate change in 2100 under 
+one selected climate change scenario (BCCAQ2+HadGEM2-ES, RCP8.5). Figure 2 
+demonstrates that electricity demand for heating in the winter will decease on average 
+across Canada due to warmer temperatures, while electricity demand for cooling in the 
+summer will increase (Figure 3) compared to the same day with no climate change. 
+Under this climate change scenario, total electricity demand remains slightly higher on 
+this winter day across Canada than on this summer day.  
+-1.2
+-6.5
+0.8
+1.8
+3.1
+4.5
+5.9
+-10.2
+2.3
+10.5
+14.7
+19.9
+25.8
+32.3
+-1.4
+-5.0
+1.9
+4.9
+9.3
+14.5
+20.7
+-9.5
+3.1
+14.7
+23.2
+34.4
+48.3
+66.3
+-20
+0
+20
+40
+60
+80
+100
+2040 2050 2060 2070 2080 2090 2100 2040 2050 2060 2070 2080 2090 2100
+RCP4.5
+RCP8.5
+range of change in annual electricity 
+consumption in Canada
+(TWh)
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Figure 2. Example of winter electricity load in Canada with and without climate change 
+ 
+Figure 3. Example of summer electricity load in Canada with and without climate change 
+ 
+ 
+ 
+ 
+ 
+Expected changes in electricity demand for space heating and cooling in 2100 are 
+shown by province in Table 1. Ontario and British Columbia are explored in more detail 
+below to demonstrate regional variability. See Annex 3 for a more detailed breakdown of 
+electricity demand for all provinces. 
+Table 1. Average change in electricity demand for space heating and cooling by province 
+in 2100, relative to a scenario with no climate change 
+ 
+Space heating 
+Space cooling 
+ 
+RCP4.5 
+RCP8.5 
+RCP4.5 
+RCP8.5 
+Canada  
+-28% 
+-46% 
+82% 
+170% 
+BC 
+-37% 
+-57% 
+147% 
+313% 
+AB 
+-24% 
+-39% 
+136% 
+291% 
+SK 
+-23% 
+-38% 
+129% 
+280% 
+MB 
+-25% 
+-41% 
+106% 
+209% 
+ON 
+-27% 
+-44% 
+64% 
+128% 
+QC 
+-28% 
+-49% 
+87% 
+187% 
+NB 
+-29% 
+-50% 
+123% 
+300% 
+PE 
+-26% 
+-43% 
+82% 
+178% 
+NS 
+-28% 
+-47% 
+102% 
+257% 
+NL 
+-26% 
+-46% 
+103% 
+262% 
+Ontario  
+Ontario, as a province with generally hot summers and cold winters, may experience a 
+shift in peak electricity demand from the winter (in the absence of climate change) to 
+the summer (with climate change). Figure 4 and Figure 5 demonstrate a sample winter 
+and summer day in Ontario in 2010, with temperature adjusted based on the level of 
+climate change in 2100 under one selected climate change scenario 
+(BCCAQ2+HadGEM2-ES, RCP8.5). Figure 4 demonstrates that electricity demand for 
+heating in the winter decreases in Ontario due to warmer temperatures, while electricity 
+demand for cooling in the summer increases significantly (Figure 5) compared to the 
+same day with no climate change. 
+Overall, electricity demand for space heating and cooling in Ontario is expected to 
+increase by 0.9 - 6.7% in 2100, depending in the climate change scenario, in 
+comparison to a scenario with no climate change. Electricity demand for space cooling is 
+expected to increase by 27 - 170% in the summer and for space heating to decrease by 
+13 - 59% in the winter. 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Figure 4. Example winter electricity load in Ontario with and without climate change 
+ 
+Figure 5. Example summer electricity load in Ontario with and without climate change 
+ 
+ 
+ 
+ 
+ 
+ 
+British Columbia 
+British Columbia, as a province with a more moderate seasonal temperature profile, will 
+also experience a decrease in demand for space heating in the winter and an increase 
+in demand for cooling in the summer, though to a less significant extent than Ontario, 
+with demand for electricity remaining higher in the winter than in the summer under 
+climate change. Figure 6 and Figure 7 demonstrate a sample winter and summer day in 
+British Columbia in 2010, with temperature adjusted based on the level of climate 
+change in 2100 under one selected climate change scenario (BCCAQ2+HadGEM2-ES, 
+RCP8.5). 
+Overall, electricity demand for space heating and cooling in British Columbia is expected 
+to increase by 0.2 - 4.6% in 2100, depending in the climate change scenario, in 
+comparison to a scenario with no climate change. Electricity demand for space cooling is 
+expected to increase by 49 - 470% in the summer and for space heating to decrease by 
+17 - 73% in the winter. 
+Figure 6. Example winter electricity load in British Columbia with and without climate 
+change 
+ 
+ 
+ 
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+10,000
+0:00
+6:00
+12:00
+18:00
+23:00
+hourly electricity load on January 15, 2010 
+in BC
+(MW)
+space heating
+space cooling
+other
+load with climate change
+at 2100 level
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Figure 7. Example summer electricity load in British Columbia with and without climate 
+change 
+ 
+3.2. Peak electricity load 
+Changes in heating and cooling demand under climate change have an interesting 
+impact on peak electricity load. Annex 3 provides a detailed breakdown of peak 
+electricity load by province, while this section continues to look at Ontario and British 
+Columbia as examples.  
+Peak electricity load in both provinces increases in the summer as expected, as demand 
+for cooling increases with warmer temperatures. Figure 8 and Figure 9 show an increase 
+in summer peak load in 2100 of 17.3 – 32.7% in Ontario and 0.5 – 9.9% in British 
+Columbia under climate change. This corresponds to an additional 15,243 - 28,782 MW 
+of peak electricity demand in 2100 in Ontario and an additional 84 - 3048 MW of peak 
+electricity demand in 2100 in British Columbia. 
+In the winter, peak load decreases as expected in 2050 in both provinces in many 
+scenarios due to reduced demand for heating. By 2100, however, peak load increases 
+in both provinces in the winter under more extreme climate change scenarios (RCP8.5 
+scenarios). Figure 8 and Figure 9 show a change in peak load in the range of –1.7 - 
+5.7% in Ontario and -1.2 - 3.7% in British Columbia under climate change, compared to 
+a scenario with no climate change. This corresponds to a change of -1340 - 4552 MW of 
+peak electricity demand in 2100 in Ontario and -314 - 1195 MW of peak electricity 
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+0:00
+6:00
+12:00
+18:00
+23:00
+hourly electricity load on June 15, 2010 in 
+BC
+(MW)
+space heating
+space cooling
+other
+load with climate change
+at 2100 level
+ 
+ 
+ 
+demand in 2100 in British Columbia. Scenarios in which winter peak load increases in 
+2050 or 2100 represent a shift in the winter electricity peak from a heating demand 
+peak in the absence of climate change to a cooling demand peak during warmer winter 
+days in March as a result of temperature increases under climate change.  
+Figure 8. Change in peak electricity load in Ontario, relative to a scenario with no climate 
+change 
+ 
+Figure 9. Change in peak electricity load in British Columbia, relative to a scenario with 
+no climate change 
+ 
+-3.1%
+-1.8%
+-3.5%
+-1.7%
+21.8%
+17.3%
+22.9%
+20.1%
+5.5%
+0.5%
+5.0%
+5.7%
+29.2%
+26.5%
+32.0%
+32.7%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+RCP4.5
+RCP8.5
+winter
+summer
+range of change in peak load with 
+climate change in ON
+(%)
+-3.1%
+-1.2%
+-5.1%
+-1.0%
+0.5%
+1.8%
+1.1%
+5.0%
+-0.8%
+-0.3%
+-1.3%
+3.7%
+4.3%
+6.3%
+4.8%
+9.9%
+-10%
+-5%
+0%
+5%
+10%
+15%
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+RCP4.5
+RCP8.5
+winter
+summer
+range of change in peak load with climate 
+change in BC
+(%)
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+3.3. Capital and total electricity 
+expenditure  
+As Canada’s electricity demand decreases in the medium term (2050), total electricity 
+system expenditure also decreases by 0.3 - 1.9% depending on the climate change 
+scenario (Figure 10). This corresponds to a reduction in expenditure in 2050 of $141-
+1029 million (2015 CAD). By 2100, as electricity demand increases and electricity price 
+increases (due to an increase in peak demand), total expenditure on the electricity 
+system also increases by 0 - 4.2% depending on the climate change scenario (Figure 
+10). This corresponds to an increase in electricity expenditure of $34 - 5351 million 
+(2015 CAD) in 2100 relative to a scenario with no climate change. 
+Figure 10. Change in total electricity expenditure in Canada, relative to a scenario with 
+no climate change 
+ 
+Total electricity expenditure includes capital expenditure, as well as other operating 
+costs, such as fuel and labour costs. Isolating capital expenditure on electricity shows a 
+similar trend, decreasing by 0.6 - 2.2% ($207 - 791) in 2050 depending on the climate 
+change scenario and increasing by up to 4.1% ($2892 million) in 2100 (Figure 11) (CAD 
+2015).  
+-0.3%
+0.0%
+-0.3%
+0.8%
+-1.8%
+1.8%
+-1.9%
+4.2%
+-3.0%
+-2.0%
+-1.0%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+change in electricity expenditures with 
+climate change in Canada
+(%)
+ 
+ 
+ 
+Figure 11. Change in capital expenditure on electricity in Canada, relative to a scenario 
+with no climate change 
+ 
+Changes in electricity expenditure by province show regional variability, with most 
+experiencing an increase in expenditure by 2100 due to increased demand for cooling. 
+Figures 12 and 13 show changes in total and capital electricity expenditure in Ontario 
+and British Columbia, and a further breakdown of provincial results can be found in 
+Annex 4. Overall, results indicate that by 2100 the electricity expenditure required to 
+achieve the same desired temperature in buildings across Canada is higher due to 
+temperature increases under climate change than in the absence of climate change.  
+Figure 12. Change in total electricity expenditure in British Columbia and Ontario, 
+relative to a scenario with no climate change 
+ 
+-0.6%
+-0.1%
+-0.7%
+0.6%
+-2.0%
+1.8%
+-2.2%
+4.1%
+-3.0%
+-2.0%
+-1.0%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+change in capital expenditures with 
+climate change in Canada
+(%)
+-1.6%
+0.3%
+-3.7%
+0.4%
+0.6%
+1.1%
+1.0%
+3.0%
+-7.4%
+-1.2%
+-8.8%
+-3.2%
+4.2%
+4.4%
+4.6%
+8.1%
+-10.0%
+-8.0%
+-6.0%
+-4.0%
+-2.0%
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+RCP4.5
+RCP8.5
+BC
+ON
+change in electricity expenditures with 
+climate change in BC and ON
+(%)
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Figure 13. Change in capital expenditure on electricity in British Columbia and Ontario, 
+relative to a scenario with no climate change 
+ 
+-1.4%
+0.5%
+-2.6%
+0.4%
+0.0%
+1.6%
+0.7%
+3.2%
+-6.8%
+-1.2%
+-8.3%
+-3.1%
+3.0%
+4.8%
+3.0%
+8.9%
+-10.0%
+-8.0%
+-6.0%
+-4.0%
+-2.0%
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+RCP4.5
+RCP8.5
+RCP4.5
+RCP8.5
+BC
+ON
+change in capital expenditures with climate 
+change in BC and ON
+(%)
+ 
+ 
+ 
+4. Limitations 
+This analysis focused on the impacts of temperature changes due to climate change on 
+the demand for electricity across Canada. There are other important expected impacts 
+of climate change on the electricity system that were not examined in this analysis. 
+These include: 
+◼ Impacts of climate change on wind speed and direction. This may affect space 
+heating demand, which is a function of wind speed, as well as capacity for wind 
+electricity generation.  
+◼ Impacts of climate change on cloud patterns. This may affect capacity for solar 
+electricity generation.  
+◼ Impacts of climate change on hydrological patterns. This may affect capacity for 
+hydroelectricity generation.    
+◼ Impacts of temperature on electricity transmission loss, which may increase as 
+temperature increases. 
+This analysis also did not examine the impacts of climate policy on electricity demand in 
+Canada, but rather isolated changes in demand due to increases in temperature under 
+climate change. Total electricity demand in 2100 can be expected to increase further as 
+additional climate policy is implemented to encourage fuel switching to electricity (such 
+as electric vehicles).  
+These limitations present potential areas for future research.  
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Annex 1: Introduction to IESD 
+How IESD works  
+The IESD model simulates: 
+◼ How utilities meet electric load by adding new capacity and by dispatching new and 
+existing units on an hourly basis, including electricity storage units, and 
+◼ How each sector alters its electricity consumption in response to the price for 
+electricity. 
+Figure 14 depicts the key components of IESD’s simulation process.  
+Figure 14: Conceptualization of IESD model simulation 
+ 
+IESD’s simulation process begins with the Electricity Supply Module, which includes a 
+detailed representation of the different units available to generate or store electricity in 
+each region, including their unique costs and generation constraints. The electricity 
+supply simulation determines new generation and storage capacity additions, hourly 
+dispatch of each unit to meet electric load over the course of the year, GHG emissions 
+from the electricity sector and the wholesale price for electricity.  
+The price for electricity is then sent to the Electricity Demand Module, which simulates 
+how households and firms change their electricity consumption. The resulting electricity 
+Electricity 
+Supply 
+Module
+Electricity 
+Demand 
+Module
+Integrated 
+Model
+Price of Electricity
+Hourly Load
+DSM Spending
+Key Results:
+▪Capacity by unit
+▪Generation by unit
+▪Wholesale
+electricity price 
+Electricity demand
+by sector and end-use
+ 
+ 
+ 
+consumption by end-use is used to adjust the magnitude and shape of the hourly load 
+profile. Total load and total demand side management spending are then sent back to 
+the Electricity Supply Module. 
+Electricity supply module 
+The electricity supply module of IESD is a linear programming model that simulates how 
+the electricity sector makes capacity and dispatch decisions based on the hourly load 
+profile, energy prices and the cost of installing and operating different units. The 
+electricity supply module endogenously adds and dispatches electricity units such that 
+the total costs of the electricity system are minimized, system revenues are maximized 
+and load in each hour is met. The value provided by storage technologies and their 
+possible revenue streams are reflected by the extent to which they can minimize system 
+costs relative to other generation technologies. The model can be adjusted to represent 
+how specific electricity markets may or may not value the grid services provided by 
+storage. 
+Representative days versus consecutive days  
+By default, the national version of IESD represents 43 representative days throughout 
+the year that vary by 1) season, 2) load, and 3) wind capacity utilization (i.e. how much 
+wind power is available in each hour of the day). These 43 representative days were 
+selected to provide an accurate representation of the variation observed in load profiles 
+and wind capacity utilization over all 365 days in a year (2010 data were used to 
+provide the benchmark for electric load). To calculate total annual load, each 
+representative day is assigned a weight such that the load profiles over the 43 days 
+matches the load profile and wind capacity utilization over all 365 days in the year. 
+To best show the impact of electricity storage technologies, the value of which is a 
+function of their continual release and recharging of energy, we are reconfiguring the 
+national version of IESD to simulate consecutive hours and days through the year. This 
+approach requires greater computing power and we are determining whether a fully 
+national version will solve, or whether we may need to create regional models. 
+Capacity additions 
+The electricity supply module endogenously adds electricity generation units to supply 
+energy (i.e. consumption over the year) and capacity (i.e. consumption at a given 
+moment) such that the costs of the electricity system are minimized. Each type of 
+electricity generation resource is characterized by its cost profile (i.e., capital costs, fixed 
+operating costs, variable operating costs), heat rate (i.e. energy efficiency) and 
+maximum capacity utilization. The model can simulate specific policy decisions that may 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+promote or constrain the use of a given technology (e.g. a performance standard that 
+constrains coal power, a portfolio standard that requires renewable energy). This 
+framework also applies to electricity storage technologies. 
+Dispatch and capacity utilization 
+Thermal generation (i.e. fossil fuel or biomass combustion) can be dispatched at any 
+time when it will minimize total system costs subject to any existing policy constraints. 
+However, we assume cogenerated electricity is not dispatchable and is produced when 
+heat is required by the thermal host. 
+Like thermal generation, electricity storage can be dispatched. However, this dispatch is 
+constrained by the installed storage generation capacity, the amount of energy already 
+stored, and any relevant technical constraints represented in the model. 
+Electricity from intermittent resources must be used when it is available, either 
+consumed, exported or stored. As stated above, the hourly wind energy is based on the 
+installed capacity and the hourly capacity utilization in each hour of the representative 
+day being simulated. Solar capacity availability varies for each month of the year (e.g. 
+lowest in winter, highest in summer) but changes each hour according to the movement 
+of the sun through the sky (e.g. zero at night, low the morning, highest at noon). 
+Characterizing generation from variable renewable sources 
+To characterize wind resources by province, we rely on CanWEA data describing the 
+location and hourly capacity factor of 5,000 potential sites across the country9. Sites are 
+grouped by generation profile and the cost of transmission access. Each grouping of 
+sites is then included in the model as a potential wind resource that can be developed. 
+To incorporate variability in solar generation profiles into IESD, we use regression to 
+estimate the impact of different weather patterns (as observed in Environment and 
+Climate Change Canada weather data) on solar insolation (as observed in the closest 
+1x1 mile square across the border in the US10). 
+ 
+9 CanWEA. 2017. Wind Data from the Pan-Canadian Wind Integration Study. Available from: www.canwea.ca  
+10 National Solar Radiation Data Base. https://rredc.nrel.gov/solar/old_data/nsrdb/1991-2010/  
+ 
+ 
+ 
+Electricity demand module 
+Demand for electricity is derived from the Navius' gTech simulation model. The IESD 
+model uses gTech’s projections to “shape” the load curve for electricity 
+demand/generation. 
+Hourly load curves 
+We obtained hourly load data for all jurisdictions in North America (over 200 utilities). 
+These data provide a starting point for understanding how load varies over the course of 
+2010, the model’s base year. An example of Ontario’s hourly load profile in 2010 is 
+shown in Figure 15.  
+Figure 15. Hourly load profile for Ontario in 2010 
+ 
+Source: Independent Electricity System Operator, 2017, Hourly Ontario and Market Demands, 2002-2016, available 
+from: www.ieso.ca 
+Sectors and end-uses in the electricity demand module 
+The electricity demand module disaggregates the hourly load curves into seven end-
+uses based on data from Natural Resource Canada’s Comprehensive Energy End-Use 
+Database. The end-uses for residential and commercial buildings include: 
+◼ Space heating 
+◼ Air conditioning 
+◼ Lighting 
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Load (MW)
+Hour
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+◼ Other multi-fuel end-uses (water heating, cooking, clothes dryers) 
+◼ Other electric-only end-uses (refrigerators, freezers, dishwashers, clothes washers, 
+computers, televisions, etc.) 
+The model also represents industrial electric loads. However, they are represented in 
+less detail. Industrial load is not broken down by end use (e.g. compression, pumping 
+etc.) and we assume it is a base load that is relatively constant over every hour of the 
+year 
+Electricity load forecast 
+gTech determines total electricity consumption and the “shape” of electricity 
+consumption in IESD. After a model simulation in gTech is complete, the resulting 
+electricity consumption by end-use is compiled and used to “shape” an electricity 
+consumption load curve. For example, if a policy increases the adoption of electric heat 
+pumps, it will affect electricity consumption at specific times and days of the year. 
+What is gTech? 
+gTech provides a comprehensive representation of all economic activity, energy 
+consumption and greenhouse gas emissions in Canada. It is ideally suited for projecting 
+electricity demand because it represents: 
+◼ The competitiveness of electric technologies relative to conventional and low carbon 
+alternatives. This competitiveness depends not only on the attributes of end-use 
+technologies themselves (such as their capital cost and operating performance), but 
+also on the availability and price of electricity and other energy carriers (which will 
+change based on the amount of electrification, the unique energy resources in each 
+province and energy trade among regions). 
+◼ Firm and consumer preferences. Electric technologies may be perceived as an 
+imperfect substitute for existing technologies. For example, a given household may 
+prefer a conventional vehicle over an electric vehicle because of its lower upfront cost 
+and greater model variety. In addition, some preferences may change as a technology 
+gains market share. For example, if electric vehicles become widespread and fast 
+charging stations are broadly deployed, concerns about running out of a battery 
+charge would decline. 
+◼ The impact of existing federal and provincial climate policies on technology choice 
+(including how they interact). Accounting for existing policies is important because 
+electrification is highly affected by their interactive and duplicative effects. For 
+example, electric vehicle adoption is influenced by ZEV mandates, financial 
+ 
+ 
+ 
+incentives, clean/low carbon fuel standards, fuel economy regulations and carbon 
+pricing. 
+These various features mean that gTech can provide insight into future load in response 
+to any combination of (1) existing and/or new policies that directly or indirectly affect 
+electricity supply and demand and (2) the cost of electrification technologies relative to 
+alternative options. 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Annex 2: Introduction to gTech 
+gTech is an energy-economy model that combines realistic representation of technology 
+choice, exhaustive accounting of the macroeconomy, and detailed representation of 
+energy supply markets (Figure 16).  
+Figure 16. The gTech model 
+ 
+gTech builds on three of Navius’ previous models (CIMS, GEEM and OILTRANS/IESD), combining their best elements 
+into a comprehensive integrated framework. 
+Simulating technological choice  
+Unlike most computable general equilibrium (CGE) models, gTech contains substantial 
+technological detail, such that it can account for the complexities of the energy economy 
+system. Technological detail allows gTech to examine the impact of technology 
+deployment on energy consumption, GHG emissions and the broader economy. gTech is 
+designed to provide a projection of how households and firms adopt technologies, and 
+how technological adoption affects energy and emissions profiles. It simulates how 
+energy prices, technology costs and policies affect which technologies are used to 
+provide energy end-uses (e.g. lighting, process heating, mobility etc.). These choices in 
+turn affect energy consumption, air emissions, capital costs, operating costs and energy 
+costs. The model also accounts for the intangible and interactive technological, 
+behavioural, and economic factors that accompany energy use and GHG emission 
+policies. 
+Energy 
+Supply
+ 
+ 
+ 
+Understanding the macroeconomic impacts of policy 
+As a CGE model, gTech represents key economic transactions within the economy 
+allowing it to project the economic impacts of climate policies. These economic 
+transactions include: 
+◼ Interlinkages between sectors of the economy. gTech explicitly represents 115 
+sectors of the economy (e.g., construction, cement manufacturing, petroleum 
+refining). Each sector of the economy is characterized by the goods it produces (e.g., 
+cement), and the inputs required to production (labor, capital, energy, etc.). As an 
+equilibrium mode, gTech simulates how every sector of the economy returns to 
+equilibrium if a policy is introduced or if economic conditions change. For example, if 
+a policy reduces construction activity, demand for construction inputs, such as 
+cement, would also be reduced. 
+◼ Interlinkages between households and sectors of the economy. Households lend 
+their time and savings to industry in exchange for income. Any change in income 
+generation within a province affects household income. 
+◼ Interlinkages between regions. gTech represents a total of 12 regions in North 
+America, including each Canadian province, a single region representing the 
+territories, and the United States. gTech accounts for bilateral trade between these 
+regions as well as international trade beyond North America. Policies implemented in 
+a given region can then affect the level of trade that occurs with the rest of the world. 
+Understanding energy supply markets 
+gTech accounts for all major energy supply markets, including electricity, refined 
+petroleum products, natural gas and hydrogen. Each market is characterized by 
+resource availability and production costs by province and territory, as well as costs and 
+constraints (e.g. pipeline capacity) of transporting energy between regions. 
+Low carbon energy sources can be introduced within each fuel stream in response to 
+policy, such as renewable electricity and bioenergy. The model accounts for the 
+availability and cost of bioenergy feedstocks, allowing it to provide insight about the 
+economic effects of emission reduction policy, biofuels policy and the approval of 
+pipelines. 
+gTech: The benefits of merging macroeconomics with technological detail 
+By merging the three features described above (technological detail, macroeconomic 
+dynamics, and energy supply dynamics), gTech can provide extensive insight into the 
+effect of climate and energy policy. 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+First, gTech can provide insights related to technological change by answering questions 
+such as: 
+◼ How do policies affect technological adoption (e.g. how many electric vehicles are 
+likely to be on the road in 2030 or 2050)? 
+◼ How does technological adoption affect energy consumption and greenhouse gas 
+emissions? 
+Second, gTech can provide insights related to macroeconomics by answering questions 
+such as: 
+◼ How do policies affect gross domestic product? 
+◼ How do policies affect individual sectors of the economy? 
+◼ Are households affected by the policy? 
+◼ Does the policy affect energy prices or any other price in the model (e.g., food 
+prices)? 
+Third, gTech answers questions related to its energy supply modules: 
+◼ Will a policy generate more supply of renewable fuels or greater demand for 
+electricity? 
+◼ Does policy affect the cost of transporting refined petroleum products, and therefore 
+the price of gasoline in Canada? 
+Finally, gTech provides insight into areas where there is overlap between its various 
+features: 
+◼ What is the effect of investing carbon revenue into low- and zero-carbon 
+technologies? This question can only be answered with a model such as gTech. 
+◼ What are the macroeconomic impacts of technology-focused policies (e.g. how might 
+a zero-emissions vehicle standard impact GDP)? 
+◼ Do biofuels focused policies affect (1) technological choice and (2) the 
+macroeconomy? 
+This modeling toolkit allows for a comprehensive examination of the impacts of energy 
+and climate change policy in Canada. 
+ 
+ 
+ 
+Annex 3: Electricity demand and peak 
+load results by province  
+Table 2. Electricity demand (TWh) for space heating and cooling by climate change scenario, 
+province, and year  
+Climate change scenario  
+Province  
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 
+2100 
+Reference case 
+AB 
+119.8 
+290.7 
+342.1 
+400.8 
+448.3 
+502.8 
+593.4 
+Reference case 
+BC 
+98.0 
+229.5 
+252.1 
+283.4 
+307.5 
+342.1 
+380.1 
+Reference case 
+MB 
+30.2 
+71.4 
+81.7 
+96.0 
+114.2 
+139.1 
+169.1 
+Reference case 
+NB 
+14.0 
+30.5 
+32.1 
+34.6 
+37.4 
+40.4 
+43.5 
+Reference case 
+NL 
+6.0 
+11.9 
+11.4 
+11.0 
+10.7 
+10.3 
+10.0 
+Reference case 
+NS 
+10.3 
+22.3 
+22.8 
+24.2 
+25.7 
+27.2 
+29.0 
+Reference case 
+ON 
+195.3 
+470.9 
+547.7 
+649.3 
+769.0 
+911.3 
+1,073.
+0 
+Reference case 
+PE 
+2.1 
+4.8 
+5.2 
+6.0 
+6.9 
+8.0 
+9.3 
+Reference case 
+QC 
+231.9 
+494.6 
+517.6 
+550.3 
+587.5 
+629.6 
+667.4 
+Reference case 
+SK 
+34.2 
+83.9 
+100.3 
+117.9 
+131.1 
+148.2 
+161.9 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+AB 
+120.2 
+145.9 
+171.9 
+201.6 
+225.9 
+253.7 
+299.4 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+BC 
+96.6 
+114.0 
+126.9 
+142.8 
+155.2 
+173.0 
+192.5 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+MB 
+30.4 
+36.1 
+41.5 
+49.0 
+58.4 
+70.9 
+86.0 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.2 
+18.7 
+20.2 
+21.8 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NS 
+10.2 
+11.1 
+11.4 
+12.2 
+13.0 
+13.8 
+14.7 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+ON 
+200.1 
+241.3 
+282.0 
+334.8 
+397.0 
+471.1 
+555.4 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+PE 
+2.1 
+2.4 
+2.6 
+3.0 
+3.5 
+4.1 
+4.8 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+QC 
+227.1 
+243.6 
+258.3 
+275.7 
+295.4 
+317.7 
+338.3 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+SK 
+34.5 
+42.3 
+50.7 
+59.6 
+66.5 
+75.3 
+82.3 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+AB 
+120.2 
+146.1 
+172.4 
+202.4 
+227.2 
+255.7 
+302.3 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+BC 
+96.3 
+113.9 
+127.3 
+143.6 
+156.6 
+175.1 
+195.6 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+MB 
+30.2 
+36.0 
+41.7 
+49.6 
+59.4 
+72.5 
+88.3 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NB 
+13.8 
+15.0 
+16.0 
+17.3 
+18.8 
+20.4 
+22.1 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NS 
+10.2 
+11.1 
+11.5 
+12.4 
+13.3 
+14.2 
+15.2 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+ON 
+199.9 
+242.2 
+284.6 
+339.7 
+405.0 
+483.2 
+572.7 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+PE 
+2.1 
+2.4 
+2.6 
+3.1 
+3.6 
+4.2 
+4.9 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+QC 
+227.6 
+243.5 
+258.5 
+276.5 
+297.2 
+321.1 
+343.8 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+SK 
+34.4 
+42.4 
+50.9 
+60.1 
+67.2 
+76.4 
+84.0 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+AB 
+119.8 
+145.4 
+171.2 
+200.7 
+224.6 
+252.0 
+297.5 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+BC 
+96.8 
+113.8 
+125.9 
+141.6 
+153.9 
+171.4 
+190.7 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+MB 
+30.1 
+35.7 
+41.0 
+48.3 
+57.5 
+70.0 
+85.0 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NB 
+13.8 
+15.0 
+15.9 
+17.1 
+18.5 
+20.0 
+21.6 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NS 
+10.1 
+11.0 
+11.3 
+12.0 
+12.7 
+13.5 
+14.4 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+ON 
+196.5 
+236.9 
+276.3 
+327.6 
+388.1 
+460.0 
+541.8 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+PE 
+2.0 
+2.3 
+2.6 
+3.0 
+3.5 
+4.0 
+4.6 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+QC 
+228.9 
+244.7 
+257.4 
+274.0 
+292.8 
+314.1 
+333.4 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+SK 
+34.2 
+42.0 
+50.3 
+59.1 
+65.8 
+74.5 
+81.4 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+AB 
+119.9 
+145.6 
+171.5 
+201.2 
+225.5 
+253.4 
+299.3 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+BC 
+97.0 
+113.8 
+126.1 
+142.0 
+154.5 
+172.5 
+192.2 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+MB 
+30.3 
+35.9 
+41.3 
+48.7 
+58.1 
+70.7 
+85.8 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NB 
+13.7 
+14.9 
+15.8 
+17.1 
+18.4 
+20.0 
+21.6 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NS 
+10.1 
+10.9 
+11.3 
+12.0 
+12.8 
+13.6 
+14.5 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+ON 
+196.1 
+237.0 
+277.2 
+329.6 
+391.4 
+465.2 
+549.2 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+PE 
+2.0 
+2.3 
+2.6 
+3.0 
+3.5 
+4.0 
+4.7 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+QC 
+228.5 
+243.6 
+256.6 
+273.4 
+292.7 
+314.6 
+334.6 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+SK 
+34.3 
+42.1 
+50.5 
+59.4 
+66.3 
+75.1 
+82.2 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+AB 
+120.7 
+146.6 
+172.8 
+202.7 
+227.2 
+255.3 
+301.4 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+BC 
+96.2 
+113.7 
+127.0 
+143.0 
+155.7 
+173.9 
+193.8 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+MB 
+30.4 
+36.1 
+41.8 
+49.3 
+58.8 
+71.2 
+86.2 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.2 
+18.6 
+20.1 
+21.7 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NS 
+10.2 
+11.0 
+11.4 
+12.1 
+12.9 
+13.7 
+14.6 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+ON 
+199.0 
+240.2 
+281.0 
+333.6 
+395.7 
+469.5 
+553.6 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.0 
+3.5 
+4.1 
+4.7 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+QC 
+226.8 
+243.3 
+257.8 
+275.0 
+294.5 
+316.5 
+336.7 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+SK 
+34.7 
+42.6 
+51.0 
+60.0 
+67.0 
+75.9 
+83.0 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+AB 
+120.7 
+146.9 
+173.3 
+203.8 
+229.1 
+258.2 
+305.5 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+BC 
+95.9 
+113.8 
+128.0 
+144.6 
+158.2 
+177.4 
+198.8 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+MB 
+30.3 
+36.1 
+41.9 
+49.7 
+59.5 
+72.5 
+88.0 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.3 
+18.7 
+20.4 
+22.0 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NS 
+10.1 
+11.0 
+11.4 
+12.3 
+13.2 
+14.1 
+15.1 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+ON 
+197.4 
+239.6 
+281.9 
+336.5 
+401.3 
+478.8 
+567.5 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.1 
+3.6 
+4.2 
+4.9 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+QC 
+227.0 
+243.0 
+257.8 
+275.5 
+296.0 
+319.5 
+341.6 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+SK 
+34.7 
+42.7 
+51.3 
+60.6 
+67.9 
+77.2 
+84.9 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+AB 
+120.4 
+146.2 
+172.3 
+201.9 
+226.2 
+253.9 
+299.5 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+BC 
+95.6 
+113.1 
+126.3 
+142.2 
+154.6 
+172.4 
+191.8 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+MB 
+30.2 
+35.9 
+41.6 
+49.1 
+58.5 
+70.9 
+85.8 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NB 
+13.6 
+14.8 
+15.8 
+17.1 
+18.5 
+20.1 
+21.6 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NS 
+10.1 
+11.0 
+11.4 
+12.1 
+12.9 
+13.7 
+14.6 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+ON 
+196.0 
+237.1 
+278.0 
+330.1 
+391.6 
+464.8 
+548.0 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+PE 
+2.0 
+2.3 
+2.6 
+3.0 
+3.5 
+4.1 
+4.7 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+QC 
+223.4 
+240.0 
+255.3 
+272.4 
+291.8 
+313.7 
+333.8 
+ 
+ 
+ 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+SK 
+34.6 
+42.4 
+50.8 
+59.8 
+66.7 
+75.4 
+82.5 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+AB 
+120.3 
+146.4 
+172.9 
+203.2 
+228.4 
+257.3 
+304.5 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+BC 
+95.5 
+112.9 
+126.6 
+142.7 
+155.7 
+174.4 
+195.0 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+MB 
+30.2 
+36.0 
+42.0 
+49.9 
+60.0 
+73.1 
+89.1 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NB 
+13.6 
+14.8 
+15.9 
+17.2 
+18.7 
+20.3 
+22.0 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NS 
+10.1 
+11.0 
+11.5 
+12.3 
+13.3 
+14.2 
+15.3 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+ON 
+196.4 
+238.5 
+281.3 
+335.9 
+400.7 
+478.3 
+567.3 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.1 
+3.6 
+4.2 
+4.9 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+QC 
+223.8 
+239.9 
+255.6 
+273.5 
+293.9 
+317.5 
+339.9 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+SK 
+34.5 
+42.5 
+51.2 
+60.5 
+67.8 
+77.2 
+85.1 
+BCCAQ2+CCSM4, RCP 4.5 
+AB 
+120.4 
+146.1 
+172.0 
+201.6 
+225.7 
+253.3 
+298.9 
+BCCAQ2+CCSM4, RCP 4.5 
+BC 
+96.8 
+114.0 
+126.4 
+142.2 
+154.5 
+172.2 
+191.5 
+BCCAQ2+CCSM4, RCP 4.5 
+MB 
+30.2 
+35.9 
+41.3 
+48.7 
+58.0 
+70.4 
+85.4 
+BCCAQ2+CCSM4, RCP 4.5 
+NB 
+13.8 
+15.0 
+15.9 
+17.2 
+18.6 
+20.1 
+21.6 
+BCCAQ2+CCSM4, RCP 4.5 
+NL 
+5.8 
+5.9 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+CCSM4, RCP 4.5 
+NS 
+10.2 
+11.0 
+11.3 
+12.0 
+12.8 
+13.6 
+14.4 
+BCCAQ2+CCSM4, RCP 4.5 
+ON 
+197.6 
+238.4 
+278.4 
+330.1 
+391.0 
+463.5 
+545.8 
+BCCAQ2+CCSM4, RCP 4.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.0 
+3.5 
+4.0 
+4.7 
+BCCAQ2+CCSM4, RCP 4.5 
+QC 
+226.9 
+243.4 
+257.4 
+274.4 
+293.6 
+315.3 
+334.9 
+BCCAQ2+CCSM4, RCP 4.5 
+SK 
+34.6 
+42.4 
+50.7 
+59.6 
+66.4 
+75.1 
+82.0 
+BCCAQ2+CCSM4, RCP 8.5 
+AB 
+120.3 
+146.3 
+172.6 
+202.7 
+227.5 
+256.1 
+302.8 
+BCCAQ2+CCSM4, RCP 8.5 
+BC 
+96.8 
+114.0 
+127.1 
+143.2 
+156.1 
+174.4 
+194.6 
+BCCAQ2+CCSM4, RCP 8.5 
+MB 
+30.2 
+35.9 
+41.6 
+49.3 
+59.0 
+71.9 
+87.4 
+BCCAQ2+CCSM4, RCP 8.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.2 
+18.6 
+20.2 
+21.8 
+BCCAQ2+CCSM4, RCP 8.5 
+NL 
+5.8 
+5.9 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+CCSM4, RCP 8.5 
+NS 
+10.1 
+11.0 
+11.3 
+12.1 
+12.9 
+13.7 
+14.7 
+BCCAQ2+CCSM4, RCP 8.5 
+ON 
+196.4 
+238.0 
+279.4 
+332.8 
+396.1 
+471.6 
+557.8 
+BCCAQ2+CCSM4, RCP 8.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.0 
+3.5 
+4.1 
+4.8 
+BCCAQ2+CCSM4, RCP 8.5 
+QC 
+226.6 
+242.7 
+257.2 
+274.6 
+294.6 
+317.3 
+338.4 
+BCCAQ2+CCSM4, RCP 8.5 
+SK 
+34.5 
+42.4 
+51.0 
+60.1 
+67.3 
+76.4 
+84.0 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+AB 
+119.9 
+145.5 
+171.3 
+200.7 
+224.7 
+252.1 
+297.5 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+BC 
+97.2 
+114.1 
+126.0 
+141.7 
+153.8 
+171.3 
+190.4 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+MB 
+30.1 
+35.6 
+40.8 
+48.1 
+57.2 
+69.6 
+84.5 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NB 
+13.8 
+15.0 
+15.9 
+17.2 
+18.6 
+20.1 
+21.6 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NL 
+5.9 
+5.9 
+5.7 
+5.5 
+5.3 
+5.1 
+5.0 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NS 
+10.2 
+11.1 
+11.3 
+12.0 
+12.8 
+13.6 
+14.4 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+ON 
+196.1 
+236.6 
+275.9 
+327.2 
+387.6 
+459.5 
+541.2 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+PE 
+2.1 
+2.4 
+2.6 
+3.0 
+3.5 
+4.0 
+4.6 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+QC 
+228.6 
+244.6 
+257.6 
+274.2 
+293.1 
+314.4 
+333.7 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+SK 
+34.2 
+42.0 
+50.2 
+59.1 
+65.8 
+74.4 
+81.3 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+AB 
+120.1 
+145.7 
+171.7 
+201.3 
+225.5 
+253.2 
+298.9 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+BC 
+96.9 
+113.8 
+126.2 
+142.1 
+154.7 
+172.6 
+192.2 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+MB 
+30.2 
+35.7 
+41.1 
+48.4 
+57.7 
+70.1 
+85.0 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NB 
+13.8 
+15.0 
+15.9 
+17.1 
+18.5 
+20.1 
+21.6 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NL 
+5.9 
+5.9 
+5.6 
+5.4 
+5.3 
+5.1 
+4.9 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NS 
+10.2 
+11.0 
+11.3 
+12.0 
+12.8 
+13.6 
+14.5 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+ON 
+197.3 
+238.2 
+278.4 
+330.8 
+392.9 
+466.8 
+551.1 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+PE 
+2.1 
+2.4 
+2.6 
+3.0 
+3.5 
+4.0 
+4.7 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+QC 
+228.9 
+244.3 
+257.7 
+274.6 
+293.8 
+315.7 
+335.9 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+SK 
+34.3 
+42.1 
+50.4 
+59.3 
+66.1 
+74.8 
+81.8 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+AB 
+120.6 
+146.4 
+172.6 
+202.4 
+226.9 
+254.9 
+300.9 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+BC 
+96.7 
+114.1 
+127.2 
+143.0 
+155.6 
+173.6 
+193.3 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+MB 
+29.9 
+35.7 
+41.4 
+49.0 
+58.6 
+71.2 
+86.4 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.1 
+18.5 
+20.1 
+21.7 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NS 
+10.1 
+11.0 
+11.3 
+12.1 
+12.9 
+13.7 
+14.6 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+ON 
+196.7 
+238.1 
+279.4 
+332.2 
+394.6 
+468.9 
+553.5 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+PE 
+2.0 
+2.3 
+2.6 
+3.0 
+3.5 
+4.1 
+4.7 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+QC 
+224.6 
+241.3 
+256.3 
+273.7 
+293.3 
+315.6 
+336.0 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+SK 
+34.5 
+42.4 
+50.8 
+59.9 
+66.8 
+75.7 
+83.0 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+AB 
+120.2 
+146.4 
+172.9 
+203.4 
+228.8 
+258.0 
+305.6 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+BC 
+96.3 
+113.9 
+127.8 
+144.3 
+157.9 
+177.2 
+198.7 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+MB 
+30.0 
+35.8 
+41.7 
+49.6 
+59.4 
+72.4 
+88.0 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NB 
+13.7 
+14.9 
+15.9 
+17.3 
+18.7 
+20.4 
+22.0 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NL 
+5.8 
+5.8 
+5.6 
+5.4 
+5.2 
+5.1 
+4.9 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NS 
+10.1 
+11.0 
+11.4 
+12.3 
+13.2 
+14.2 
+15.2 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+ON 
+197.7 
+239.9 
+282.6 
+337.3 
+402.2 
+479.8 
+568.6 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+PE 
+2.0 
+2.4 
+2.6 
+3.1 
+3.6 
+4.2 
+4.9 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+QC 
+225.7 
+241.9 
+257.0 
+274.9 
+295.4 
+319.1 
+341.5 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+SK 
+34.4 
+42.4 
+51.1 
+60.4 
+67.7 
+77.2 
+85.2 
+ 
+ 
+ 
+ 
+ 
+Table 3. Peak electricity demand (MW) by season, climate change scenario, province, and year  
+Season 
+Climate change scenario 
+Province 
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 
+2100 
+summer 
+Reference case 
+AB 
+15,611 
+19,441 
+23,227 
+27,656 
+31,607 
+35,833 
+42,329 
+summer 
+Reference case 
+BC 
+13,302 
+16,659 
+19,352 
+22,086 
+24,542 
+27,593 
+30,887 
+summer 
+Reference case 
+MB 
+4,670 
+5,770 
+6,893 
+8,237 
+9,835 
+11,778 
+14,078 
+summer 
+Reference case 
+NB 
+2,016 
+2,182 
+2,362 
+2,556 
+2,769 
+3,006 
+3,248 
+summer 
+Reference case 
+NL 
+769 
+840 
+855 
+841 
+822 
+803 
+778 
+summer 
+Reference case 
+NS 
+1,542 
+1,698 
+1,780 
+1,900 
+2,017 
+2,130 
+2,250 
+summer 
+Reference case 
+ON 
+32,669 
+39,419 
+46,194 
+54,440 
+64,091 
+75,317 
+87,944 
+summer 
+Reference case 
+PE 
+318 
+371 
+425 
+494 
+573 
+664 
+769 
+summer 
+Reference case 
+QC 
+28,198 
+31,658 
+35,066 
+38,024 
+41,123 
+44,509 
+47,706 
+summer 
+Reference case 
+SK 
+5,677 
+7,077 
+8,527 
+10,039 
+11,219 
+12,643 
+13,717 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+AB 
+16,578 
+20,748 
+24,826 
+29,761 
+34,352 
+39,317 
+46,722 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+BC 
+14,125 
+17,336 
+20,128 
+23,003 
+25,980 
+29,261 
+32,818 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+MB 
+6,363 
+7,762 
+9,240 
+11,067 
+13,248 
+15,906 
+19,047 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NB 
+2,291 
+2,549 
+2,742 
+2,989 
+3,240 
+3,507 
+3,765 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NL 
+964 
+990 
+914 
+878 
+843 
+817 
+795 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NS 
+1,984 
+2,151 
+2,229 
+2,395 
+2,559 
+2,722 
+2,896 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+ON 
+42,505 
+50,553 
+58,265 
+68,381 
+80,099 
+93,757 
+109,183 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+PE 
+467 
+532 
+592 
+692 
+807 
+942 
+1,098 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+QC 
+31,467 
+33,393 
+37,073 
+40,425 
+43,973 
+47,869 
+51,772 
+summer 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+SK 
+6,466 
+7,951 
+9,471 
+11,174 
+12,762 
+14,663 
+16,437 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+AB 
+16,517 
+20,796 
+25,403 
+30,477 
+35,291 
+40,673 
+48,612 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+BC 
+13,949 
+17,354 
+20,280 
+23,329 
+26,513 
+30,059 
+33,935 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+MB 
+6,298 
+7,763 
+9,331 
+11,278 
+13,620 
+16,491 
+19,912 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NB 
+2,283 
+2,588 
+2,839 
+3,106 
+3,357 
+3,624 
+3,898 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NL 
+957 
+994 
+923 
+892 
+860 
+842 
+817 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NS 
+1,975 
+2,178 
+2,293 
+2,513 
+2,737 
+2,924 
+3,119 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+ON 
+42,267 
+50,788 
+59,021 
+69,807 
+82,359 
+97,203 
+114,227 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+PE 
+465 
+534 
+599 
+707 
+832 
+978 
+1,151 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+QC 
+31,360 
+35,749 
+39,874 
+43,852 
+48,158 
+52,962 
+57,809 
+summer 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+SK 
+6,380 
+7,918 
+9,508 
+11,303 
+13,015 
+15,080 
+17,066 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+AB 
+16,255 
+20,320 
+24,274 
+29,018 
+33,366 
+38,102 
+45,233 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+BC 
+13,412 
+16,809 
+19,546 
+22,347 
+24,886 
+28,038 
+31,454 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+MB 
+6,066 
+7,433 
+8,842 
+10,576 
+12,644 
+15,160 
+18,131 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NB 
+2,153 
+2,380 
+2,538 
+2,742 
+2,950 
+3,171 
+3,390 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NL 
+925 
+948 
+874 
+843 
+824 
+804 
+780 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NS 
+1,876 
+2,025 
+2,089 
+2,228 
+2,361 
+2,493 
+2,635 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+ON 
+40,299 
+48,024 
+55,411 
+64,942 
+75,955 
+88,649 
+103,187 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+PE 
+444 
+506 
+564 
+658 
+764 
+888 
+1,029 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+QC 
+29,676 
+34,671 
+38,481 
+42,248 
+46,013 
+50,135 
+54,153 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+SK 
+6,163 
+7,593 
+9,050 
+10,663 
+12,142 
+13,908 
+15,524 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+AB 
+16,240 
+20,373 
+24,428 
+29,330 
+33,916 
+38,984 
+46,414 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+BC 
+13,559 
+16,839 
+19,653 
+22,567 
+25,257 
+28,967 
+32,603 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+MB 
+6,129 
+7,502 
+8,951 
+10,743 
+12,881 
+15,495 
+18,583 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NB 
+2,152 
+2,402 
+2,587 
+2,827 
+3,076 
+3,343 
+3,617 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NL 
+920 
+949 
+878 
+848 
+830 
+811 
+788 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NS 
+1,874 
+2,042 
+2,126 
+2,289 
+2,454 
+2,622 
+2,803 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+ON 
+40,723 
+48,434 
+55,926 
+65,769 
+77,200 
+90,549 
+105,651 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+PE 
+445 
+511 
+573 
+672 
+784 
+917 
+1,070 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+QC 
+31,009 
+35,150 
+39,264 
+43,219 
+47,395 
+51,707 
+55,953 
+summer 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+SK 
+6,143 
+7,613 
+9,119 
+10,800 
+12,368 
+14,251 
+16,016 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+AB 
+17,461 
+21,768 
+25,877 
+30,953 
+35,747 
+41,081 
+48,925 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+BC 
+14,103 
+17,380 
+20,163 
+23,040 
+25,668 
+28,921 
+32,448 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+MB 
+6,465 
+7,846 
+9,298 
+11,092 
+13,225 
+15,816 
+18,860 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NB 
+2,272 
+2,520 
+2,700 
+2,929 
+3,161 
+3,407 
+3,656 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NL 
+954 
+974 
+892 
+854 
+830 
+810 
+786 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NS 
+1,966 
+2,126 
+2,194 
+2,344 
+2,491 
+2,636 
+2,788 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+ON 
+42,521 
+50,546 
+58,231 
+68,314 
+79,991 
+92,857 
+108,120 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+PE 
+467 
+529 
+588 
+686 
+798 
+928 
+1,080 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+QC 
+31,182 
+35,284 
+40,370 
+44,081 
+48,037 
+52,388 
+56,668 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+SK 
+6,563 
+8,033 
+9,535 
+11,215 
+12,768 
+14,622 
+16,332 
+ 
+ 
+ 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+AB 
+17,425 
+21,861 
+26,122 
+31,421 
+36,525 
+42,283 
+50,695 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+BC 
+14,288 
+17,466 
+20,344 
+23,360 
+26,157 
+29,617 
+33,392 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+MB 
+6,448 
+7,902 
+9,445 
+11,366 
+13,668 
+16,483 
+19,814 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NB 
+2,254 
+2,545 
+2,781 
+3,067 
+3,310 
+3,570 
+3,835 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NL 
+945 
+979 
+901 
+867 
+843 
+828 
+808 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NS 
+1,945 
+2,137 
+2,243 
+2,446 
+2,653 
+2,844 
+3,026 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+ON 
+41,890 
+51,001 
+59,373 
+71,093 
+83,977 
+99,485 
+116,725 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+PE 
+461 
+529 
+592 
+697 
+818 
+960 
+1,127 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+QC 
+32,032 
+35,590 
+39,734 
+43,732 
+48,062 
+52,897 
+57,783 
+summer 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+SK 
+6,485 
+8,007 
+9,575 
+11,342 
+13,014 
+15,024 
+16,936 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+AB 
+16,689 
+20,856 
+24,922 
+29,775 
+34,244 
+39,121 
+46,408 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+BC 
+14,004 
+17,208 
+19,962 
+22,805 
+25,366 
+28,533 
+31,957 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+MB 
+6,504 
+7,904 
+9,380 
+11,206 
+13,381 
+16,026 
+19,144 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NB 
+2,237 
+2,482 
+2,661 
+2,889 
+3,120 
+3,364 
+3,611 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NL 
+972 
+995 
+917 
+879 
+843 
+817 
+794 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NS 
+1,951 
+2,115 
+2,188 
+2,344 
+2,497 
+2,648 
+2,808 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+ON 
+41,446 
+49,419 
+57,063 
+67,013 
+78,536 
+91,965 
+107,129 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+PE 
+460 
+522 
+581 
+679 
+790 
+920 
+1,070 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+QC 
+30,489 
+34,536 
+38,373 
+41,794 
+47,213 
+51,418 
+55,538 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+SK 
+6,426 
+7,889 
+9,382 
+11,048 
+12,589 
+14,428 
+16,126 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+AB 
+16,638 
+21,006 
+25,186 
+30,267 
+35,637 
+41,160 
+49,283 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+BC 
+13,729 
+17,120 
+20,035 
+23,033 
+25,811 
+29,250 
+33,003 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+MB 
+6,443 
+7,934 
+9,529 
+11,518 
+13,910 
+16,848 
+20,337 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NB 
+2,238 
+2,530 
+2,770 
+3,042 
+3,286 
+3,545 
+3,810 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NL 
+959 
+1,003 
+930 
+898 
+867 
+842 
+818 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NS 
+1,947 
+2,146 
+2,260 
+2,475 
+2,685 
+2,861 
+3,049 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+ON 
+41,413 
+49,867 
+58,038 
+68,680 
+81,294 
+96,278 
+113,011 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+PE 
+458 
+526 
+590 
+696 
+817 
+960 
+1,128 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+QC 
+32,110 
+36,555 
+40,360 
+42,734 
+46,840 
+51,412 
+55,993 
+summer 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+SK 
+6,365 
+7,904 
+9,497 
+11,296 
+13,012 
+15,083 
+17,078 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+AB 
+16,617 
+20,740 
+24,747 
+29,570 
+34,004 
+38,834 
+46,063 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+BC 
+13,954 
+17,195 
+19,796 
+22,595 
+25,168 
+28,357 
+31,816 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+MB 
+6,359 
+7,708 
+9,120 
+10,860 
+12,925 
+15,430 
+18,375 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+NB 
+2,197 
+2,427 
+2,584 
+2,790 
+2,999 
+3,219 
+3,438 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+NL 
+939 
+964 
+894 
+844 
+825 
+805 
+781 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+NS 
+1,894 
+2,042 
+2,103 
+2,240 
+2,371 
+2,501 
+2,639 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+ON 
+42,414 
+49,577 
+56,968 
+66,615 
+78,052 
+91,213 
+106,062 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+PE 
+450 
+513 
+571 
+664 
+771 
+896 
+1,038 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+QC 
+32,005 
+36,266 
+40,224 
+43,927 
+43,349 
+47,115 
+50,716 
+summer 
+BCCAQ2+CCSM4, RCP 4.5 
+SK 
+6,346 
+7,781 
+9,240 
+10,860 
+12,341 
+13,946 
+15,525 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+AB 
+16,586 
+20,863 
+25,029 
+30,011 
+34,673 
+39,818 
+47,465 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+BC 
+13,900 
+17,290 
+20,107 
+23,100 
+25,872 
+29,302 
+33,045 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+MB 
+6,293 
+7,716 
+9,226 
+11,099 
+13,341 
+16,083 
+19,333 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+NB 
+2,182 
+2,443 
+2,641 
+2,897 
+3,163 
+3,451 
+3,711 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+NL 
+924 
+954 
+882 
+850 
+832 
+813 
+789 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+NS 
+1,884 
+2,051 
+2,134 
+2,297 
+2,463 
+2,631 
+2,716 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+ON 
+40,985 
+49,236 
+57,190 
+67,517 
+79,512 
+93,534 
+109,432 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+PE 
+447 
+514 
+575 
+674 
+787 
+920 
+1,075 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+QC 
+31,479 
+35,938 
+40,546 
+44,443 
+48,624 
+53,245 
+57,845 
+summer 
+BCCAQ2+CCSM4, RCP 8.5 
+SK 
+6,209 
+7,691 
+9,308 
+11,026 
+12,638 
+14,574 
+16,402 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+AB 
+16,405 
+20,486 
+24,454 
+29,231 
+33,617 
+38,394 
+45,570 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+BC 
+13,549 
+16,743 
+19,464 
+22,272 
+24,823 
+27,992 
+31,430 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+MB 
+6,149 
+7,515 
+8,950 
+10,722 
+12,837 
+15,348 
+18,284 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NB 
+2,192 
+2,416 
+2,567 
+2,766 
+2,968 
+3,182 
+3,393 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NL 
+938 
+963 
+893 
+857 
+825 
+805 
+780 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NS 
+1,909 
+2,054 
+2,111 
+2,246 
+2,373 
+2,504 
+2,639 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+ON 
+40,258 
+48,027 
+55,463 
+65,055 
+76,145 
+89,050 
+103,594 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+PE 
+455 
+517 
+574 
+668 
+775 
+900 
+1,041 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+QC 
+31,432 
+35,383 
+39,204 
+42,765 
+46,497 
+50,570 
+49,381 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+SK 
+6,268 
+7,758 
+9,226 
+10,856 
+12,351 
+14,135 
+15,768 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+AB 
+16,541 
+20,687 
+24,729 
+29,622 
+34,163 
+39,152 
+46,539 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+BC 
+13,603 
+16,873 
+19,713 
+22,662 
+25,399 
+28,768 
+32,422 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+MB 
+6,280 
+7,656 
+9,105 
+10,895 
+13,028 
+15,626 
+18,693 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NB 
+2,204 
+2,452 
+2,633 
+2,870 
+3,113 
+3,373 
+3,640 
+ 
+ 
+ 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NL 
+929 
+961 
+895 
+862 
+830 
+811 
+788 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NS 
+1,911 
+2,073 
+2,149 
+2,307 
+2,468 
+2,627 
+2,798 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+ON 
+41,270 
+48,727 
+56,478 
+66,514 
+78,996 
+92,959 
+108,488 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+PE 
+456 
+521 
+583 
+682 
+795 
+928 
+1,082 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+QC 
+31,676 
+35,897 
+39,843 
+43,646 
+45,987 
+50,209 
+54,377 
+summer 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+SK 
+6,404 
+7,871 
+9,371 
+11,046 
+12,598 
+14,453 
+16,173 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+AB 
+16,955 
+21,196 
+25,264 
+30,182 
+35,446 
+40,694 
+48,433 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+BC 
+14,191 
+17,320 
+20,060 
+22,883 
+25,444 
+28,617 
+32,048 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+MB 
+6,332 
+7,744 
+9,243 
+11,100 
+13,321 
+16,032 
+19,242 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NB 
+2,220 
+2,470 
+2,653 
+2,887 
+3,125 
+3,378 
+3,635 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NL 
+953 
+976 
+894 
+856 
+831 
+811 
+787 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NS 
+1,922 
+2,089 
+2,167 
+2,327 
+2,487 
+2,647 
+2,817 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+ON 
+42,783 
+50,945 
+59,287 
+69,646 
+81,659 
+95,410 
+111,224 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+PE 
+458 
+523 
+582 
+681 
+794 
+927 
+1,080 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+QC 
+31,901 
+36,146 
+40,160 
+43,805 
+47,683 
+50,251 
+54,353 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+SK 
+6,466 
+7,938 
+9,443 
+11,126 
+12,687 
+14,553 
+16,283 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+AB 
+16,642 
+21,090 
+25,894 
+31,209 
+36,346 
+42,161 
+50,664 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+BC 
+13,999 
+17,308 
+20,228 
+23,284 
+26,132 
+29,655 
+33,509 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+MB 
+6,366 
+7,845 
+9,427 
+11,397 
+13,762 
+16,667 
+20,123 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NB 
+2,226 
+2,524 
+2,772 
+3,062 
+3,312 
+3,578 
+3,851 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NL 
+953 
+982 
+902 
+868 
+846 
+830 
+813 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NS 
+1,932 
+2,133 
+2,248 
+2,464 
+2,685 
+2,874 
+3,067 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+ON 
+42,962 
+52,043 
+60,366 
+71,353 
+84,145 
+99,123 
+116,153 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+PE 
+459 
+529 
+595 
+703 
+827 
+974 
+1,148 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+QC 
+30,729 
+35,401 
+39,494 
+43,425 
+49,239 
+54,174 
+59,147 
+summer 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+SK 
+6,381 
+7,939 
+9,555 
+11,387 
+13,145 
+15,271 
+17,334 
+winter 
+Reference case 
+AB 
+16,255 
+20,219 
+24,036 
+28,527 
+32,381 
+36,627 
+43,592 
+winter 
+Reference case 
+BC 
+16,577 
+19,392 
+20,669 
+23,500 
+25,864 
+28,881 
+32,154 
+winter 
+Reference case 
+MB 
+5,238 
+6,091 
+6,689 
+7,820 
+9,323 
+11,613 
+14,356 
+winter 
+Reference case 
+NB 
+2,643 
+2,827 
+2,799 
+2,970 
+3,159 
+3,366 
+3,570 
+winter 
+Reference case 
+NL 
+1,133 
+1,112 
+1,032 
+976 
+938 
+900 
+860 
+winter 
+Reference case 
+NS 
+1,919 
+2,083 
+2,035 
+2,128 
+2,240 
+2,355 
+2,474 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+winter 
+Reference case 
+ON 
+30,656 
+36,908 
+41,976 
+49,590 
+58,385 
+68,763 
+80,481 
+winter 
+Reference case 
+PE 
+432 
+497 
+513 
+589 
+675 
+777 
+893 
+winter 
+Reference case 
+QC 
+43,016 
+44,545 
+43,151 
+45,255 
+47,827 
+50,705 
+53,421 
+winter 
+Reference case 
+SK 
+4,957 
+6,175 
+7,368 
+8,685 
+9,716 
+11,017 
+12,115 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+AB 
+16,234 
+20,196 
+24,016 
+28,496 
+32,339 
+36,543 
+43,413 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+BC 
+15,963 
+18,844 
+20,479 
+23,270 
+25,619 
+28,617 
+31,895 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+MB 
+5,372 
+6,035 
+6,632 
+7,750 
+9,231 
+11,452 
+14,096 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NB 
+3,030 
+3,176 
+3,041 
+3,201 
+3,383 
+3,583 
+3,780 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NL 
+1,302 
+1,236 
+1,113 
+1,039 
+994 
+944 
+889 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NS 
+2,159 
+2,306 
+2,186 
+2,274 
+2,386 
+2,502 
+2,622 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+ON 
+32,230 
+38,308 
+41,902 
+49,255 
+57,655 
+67,709 
+79,274 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+PE 
+478 
+542 
+546 
+624 
+714 
+818 
+937 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+QC 
+44,799 
+46,071 
+44,004 
+45,946 
+48,394 
+51,150 
+53,637 
+winter 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+SK 
+4,945 
+6,158 
+7,355 
+8,667 
+9,693 
+10,976 
+12,039 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+AB 
+16,230 
+20,190 
+24,010 
+28,486 
+32,325 
+36,514 
+43,347 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+BC 
+15,947 
+18,798 
+20,438 
+23,209 
+25,598 
+28,705 
+32,060 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+MB 
+5,360 
+6,025 
+6,603 
+7,698 
+9,050 
+11,123 
+13,566 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NB 
+3,022 
+3,153 
+3,013 
+3,162 
+3,331 
+3,519 
+3,703 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NL 
+1,152 
+1,235 
+1,108 
+1,032 
+984 
+932 
+877 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NS 
+2,158 
+2,294 
+2,172 
+2,254 
+2,358 
+2,467 
+2,579 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+ON 
+32,313 
+38,239 
+41,746 
+48,970 
+57,213 
+68,093 
+80,558 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+PE 
+477 
+539 
+542 
+618 
+704 
+805 
+919 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+QC 
+44,972 
+45,850 
+43,596 
+45,315 
+46,519 
+49,234 
+51,691 
+winter 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+SK 
+4,946 
+6,156 
+7,352 
+8,661 
+9,682 
+10,955 
+11,993 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+AB 
+16,235 
+20,201 
+24,022 
+28,509 
+32,360 
+36,589 
+43,521 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+BC 
+16,269 
+19,111 
+20,563 
+23,367 
+25,719 
+28,721 
+31,974 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+MB 
+5,401 
+6,105 
+6,691 
+7,818 
+9,321 
+11,607 
+14,337 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NB 
+3,055 
+3,212 
+3,076 
+3,245 
+3,435 
+3,644 
+3,851 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NL 
+1,274 
+1,216 
+1,100 
+1,029 
+984 
+936 
+882 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NS 
+2,127 
+2,280 
+2,180 
+2,273 
+2,388 
+2,509 
+2,633 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+ON 
+32,603 
+38,735 
+42,257 
+49,690 
+58,166 
+68,334 
+79,993 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+PE 
+471 
+537 
+543 
+622 
+712 
+818 
+938 
+ 
+ 
+ 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+QC 
+46,087 
+47,416 
+45,042 
+47,046 
+49,578 
+52,421 
+54,980 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+SK 
+4,948 
+6,163 
+7,359 
+8,674 
+9,703 
+10,994 
+12,075 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+AB 
+16,252 
+20,208 
+24,021 
+28,498 
+32,336 
+36,528 
+43,364 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+BC 
+16,414 
+19,109 
+20,513 
+23,259 
+25,558 
+28,540 
+31,840 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+MB 
+5,502 
+6,129 
+6,683 
+7,783 
+9,247 
+11,837 
+14,645 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NB 
+3,060 
+3,181 
+3,029 
+3,173 
+3,339 
+3,523 
+3,732 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NL 
+1,271 
+1,196 
+999 
+941 
+910 
+878 
+842 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NS 
+2,119 
+2,250 
+2,146 
+2,228 
+2,298 
+2,404 
+2,513 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+ON 
+32,637 
+38,609 
+42,043 
+49,326 
+57,643 
+67,783 
+79,266 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+PE 
+469 
+528 
+533 
+606 
+688 
+785 
+893 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+QC 
+46,065 
+47,004 
+44,492 
+46,256 
+48,547 
+51,153 
+53,496 
+winter 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+SK 
+4,957 
+6,166 
+7,359 
+8,669 
+9,692 
+10,970 
+12,018 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+AB 
+16,224 
+20,185 
+24,007 
+28,484 
+32,323 
+36,514 
+43,347 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+BC 
+15,946 
+18,806 
+20,418 
+23,189 
+25,561 
+28,652 
+32,056 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+MB 
+5,288 
+5,946 
+6,562 
+7,673 
+9,135 
+11,295 
+13,858 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NB 
+3,074 
+3,214 
+3,067 
+3,228 
+3,411 
+3,612 
+3,810 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NL 
+1,307 
+1,237 
+1,112 
+1,037 
+991 
+940 
+885 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NS 
+2,167 
+2,312 
+2,187 
+2,276 
+2,389 
+2,507 
+2,628 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+ON 
+32,065 
+38,174 
+41,825 
+49,192 
+57,608 
+67,590 
+79,121 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+PE 
+479 
+542 
+546 
+624 
+713 
+818 
+936 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+QC 
+45,499 
+46,724 
+44,462 
+46,412 
+48,882 
+51,660 
+54,163 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+SK 
+4,941 
+6,151 
+7,350 
+8,659 
+9,682 
+10,956 
+12,000 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+AB 
+16,219 
+20,179 
+24,001 
+28,474 
+32,308 
+36,482 
+43,274 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+BC 
+15,805 
+18,661 
+20,545 
+23,532 
+26,214 
+29,621 
+33,349 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+MB 
+5,381 
+6,004 
+6,584 
+7,675 
+9,113 
+11,224 
+13,703 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NB 
+3,104 
+3,214 
+3,049 
+3,191 
+3,355 
+3,537 
+3,716 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NL 
+1,309 
+1,232 
+1,022 
+962 
+921 
+878 
+839 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NS 
+2,179 
+2,308 
+2,173 
+2,252 
+2,354 
+2,460 
+2,570 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+ON 
+32,429 
+38,284 
+41,730 
+48,902 
+57,200 
+68,238 
+80,727 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+PE 
+480 
+540 
+542 
+616 
+701 
+800 
+913 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+QC 
+46,390 
+46,991 
+44,274 
+45,901 
+48,050 
+50,522 
+51,888 
+winter 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+SK 
+4,934 
+6,147 
+7,346 
+8,653 
+9,673 
+10,940 
+11,969 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+AB 
+16,214 
+20,177 
+24,002 
+28,478 
+32,317 
+36,504 
+43,330 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+BC 
+15,741 
+18,643 
+20,402 
+23,170 
+25,505 
+28,510 
+31,784 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+MB 
+5,304 
+5,979 
+6,593 
+7,712 
+9,189 
+11,392 
+14,015 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NB 
+3,115 
+3,255 
+3,100 
+3,258 
+3,439 
+3,638 
+3,835 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NL 
+1,342 
+1,265 
+1,131 
+1,053 
+1,005 
+954 
+897 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NS 
+2,191 
+2,336 
+2,204 
+2,289 
+2,403 
+2,522 
+2,644 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+ON 
+31,835 
+35,760 
+41,417 
+49,220 
+58,235 
+68,800 
+80,877 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+PE 
+485 
+549 
+552 
+631 
+721 
+827 
+948 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+QC 
+44,656 
+45,895 
+43,850 
+45,789 
+48,231 
+50,981 
+53,464 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+SK 
+4,937 
+6,149 
+7,349 
+8,659 
+9,683 
+10,961 
+12,012 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+AB 
+16,209 
+20,166 
+23,989 
+28,454 
+32,280 
+36,659 
+43,616 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+BC 
+15,622 
+18,412 
+20,328 
+23,142 
+25,593 
+28,715 
+32,098 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+MB 
+5,302 
+5,953 
+6,546 
+7,634 
+9,062 
+11,141 
+13,361 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NB 
+3,090 
+3,213 
+3,058 
+3,203 
+3,370 
+3,556 
+3,738 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NL 
+1,350 
+1,262 
+1,123 
+1,042 
+991 
+938 
+880 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NS 
+2,184 
+2,315 
+2,178 
+2,253 
+2,356 
+2,463 
+2,574 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+ON 
+29,955 
+35,633 
+42,259 
+50,690 
+60,498 
+71,990 
+85,033 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+PE 
+483 
+543 
+545 
+620 
+706 
+806 
+920 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+QC 
+44,426 
+45,288 
+43,171 
+44,873 
+44,937 
+47,653 
+50,496 
+winter 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+SK 
+4,932 
+6,142 
+7,343 
+8,647 
+9,664 
+10,925 
+11,939 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+AB 
+16,243 
+20,207 
+24,027 
+28,514 
+32,365 
+36,597 
+43,532 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+BC 
+16,192 
+19,032 
+20,538 
+23,338 
+25,688 
+28,689 
+31,938 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+MB 
+5,338 
+6,029 
+6,637 
+7,765 
+9,261 
+11,361 
+13,992 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+NB 
+3,085 
+3,235 
+3,089 
+3,254 
+3,441 
+3,647 
+3,851 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+NL 
+1,338 
+1,263 
+1,131 
+1,053 
+1,006 
+955 
+897 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+NS 
+2,192 
+2,341 
+2,212 
+2,303 
+2,418 
+2,538 
+2,662 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+ON 
+32,216 
+38,377 
+42,011 
+49,448 
+57,931 
+67,958 
+79,593 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+PE 
+484 
+549 
+553 
+633 
+724 
+831 
+954 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+QC 
+45,672 
+47,009 
+44,741 
+46,755 
+49,289 
+52,129 
+54,687 
+winter 
+BCCAQ2+CCSM4, RCP 4.5 
+SK 
+4,943 
+6,158 
+7,357 
+8,671 
+9,700 
+10,991 
+12,071 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+AB 
+16,259 
+20,213 
+24,024 
+28,502 
+32,339 
+36,532 
+43,367 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+BC 
+16,470 
+19,138 
+20,528 
+23,266 
+25,611 
+28,716 
+32,067 
+ 
+ 
+ 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+MB 
+5,367 
+6,012 
+6,608 
+7,718 
+9,184 
+11,367 
+13,954 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+NB 
+3,129 
+3,253 
+3,062 
+3,212 
+3,384 
+3,575 
+3,762 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+NL 
+1,343 
+1,261 
+1,126 
+1,046 
+997 
+944 
+886 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+NS 
+2,192 
+2,330 
+2,198 
+2,283 
+2,391 
+2,504 
+2,620 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+ON 
+32,412 
+38,401 
+41,909 
+49,198 
+57,524 
+67,582 
+79,141 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+PE 
+483 
+546 
+549 
+627 
+715 
+818 
+935 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+QC 
+46,020 
+46,970 
+44,476 
+46,278 
+48,606 
+51,247 
+53,623 
+winter 
+BCCAQ2+CCSM4, RCP 8.5 
+SK 
+4,953 
+6,160 
+7,355 
+8,665 
+9,688 
+10,965 
+12,012 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+AB 
+16,258 
+20,217 
+24,031 
+28,516 
+32,362 
+36,583 
+43,486 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+BC 
+16,449 
+19,229 
+20,632 
+23,425 
+25,755 
+28,736 
+31,965 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+MB 
+5,464 
+6,136 
+6,708 
+7,830 
+9,329 
+11,610 
+14,328 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NB 
+3,159 
+3,305 
+3,144 
+3,307 
+3,494 
+3,700 
+3,903 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NL 
+1,350 
+1,273 
+1,139 
+1,061 
+1,013 
+961 
+860 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NS 
+2,217 
+2,365 
+2,229 
+2,314 
+2,428 
+2,549 
+2,673 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+ON 
+32,840 
+38,942 
+42,388 
+49,814 
+58,292 
+68,388 
+80,049 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+PE 
+490 
+555 
+557 
+637 
+728 
+836 
+959 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+QC 
+46,604 
+47,763 
+45,191 
+47,125 
+49,598 
+52,381 
+54,882 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+SK 
+4,957 
+6,170 
+7,363 
+8,678 
+9,705 
+10,997 
+12,074 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+AB 
+16,249 
+20,208 
+24,023 
+28,505 
+32,348 
+36,555 
+43,427 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+BC 
+16,320 
+19,087 
+20,541 
+23,310 
+25,628 
+28,595 
+31,918 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+MB 
+5,452 
+6,101 
+6,675 
+7,789 
+9,271 
+11,506 
+14,159 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NB 
+3,141 
+3,275 
+3,112 
+3,267 
+3,444 
+3,639 
+3,832 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NL 
+1,187 
+1,143 
+1,048 
+985 
+943 
+899 
+851 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NS 
+2,208 
+2,347 
+2,210 
+2,290 
+2,399 
+2,513 
+2,630 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+ON 
+32,738 
+38,736 
+42,173 
+49,509 
+57,886 
+67,910 
+79,433 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+PE 
+488 
+551 
+552 
+630 
+719 
+823 
+942 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+QC 
+46,144 
+47,130 
+44,626 
+46,458 
+48,819 
+51,492 
+53,897 
+winter 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+SK 
+4,954 
+6,164 
+7,359 
+8,671 
+9,696 
+10,980 
+12,043 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+AB 
+16,224 
+20,187 
+24,010 
+28,489 
+32,331 
+36,531 
+43,387 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+BC 
+16,043 
+18,910 
+20,481 
+23,261 
+25,599 
+28,585 
+31,814 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+MB 
+5,281 
+5,951 
+6,580 
+7,706 
+9,191 
+11,408 
+14,059 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NB 
+3,054 
+3,199 
+3,058 
+3,219 
+3,401 
+3,603 
+3,830 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NL 
+1,309 
+1,237 
+1,112 
+1,037 
+931 
+889 
+847 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NS 
+2,168 
+2,314 
+2,190 
+2,279 
+2,391 
+2,508 
+2,628 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+ON 
+31,622 
+37,802 
+41,599 
+48,992 
+57,441 
+67,461 
+79,016 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+PE 
+478 
+542 
+546 
+624 
+713 
+818 
+935 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+QC 
+44,680 
+46,023 
+44,015 
+46,009 
+48,507 
+51,312 
+53,844 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+SK 
+4,938 
+6,151 
+7,351 
+8,662 
+9,687 
+10,969 
+12,027 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+AB 
+16,212 
+20,172 
+23,995 
+28,465 
+32,297 
+36,461 
+43,229 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+BC 
+15,976 
+18,750 
+20,369 
+23,200 
+25,904 
+29,374 
+33,154 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+MB 
+5,265 
+5,927 
+6,525 
+7,612 
+9,034 
+11,095 
+13,510 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NB 
+3,064 
+3,177 
+3,018 
+3,156 
+3,342 
+3,519 
+3,696 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NL 
+1,297 
+1,221 
+1,097 
+1,021 
+914 
+871 
+836 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NS 
+2,173 
+2,297 
+2,166 
+2,242 
+2,339 
+2,442 
+2,548 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+ON 
+32,078 
+37,915 
+41,445 
+48,572 
+57,058 
+67,871 
+80,096 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+PE 
+479 
+537 
+539 
+613 
+694 
+792 
+901 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+QC 
+45,377 
+46,088 
+43,678 
+45,308 
+47,444 
+49,905 
+52,120 
+winter 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+SK 
+4,928 
+6,142 
+7,343 
+8,647 
+9,665 
+10,926 
+11,941 
+ 
+ 
+ 
+ 
+ 
+Annex 4: Electricity expenditure results by 
+province  
+Table 4. Total electricity expenditure (CAD2015) by climate change scenario, province, and year  
+Climate change scenario 
+Province 
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 
+2100 
+Reference case 
+AB 
+9,494 
+11,285 
+13,070 
+14,901 
+16,178 
+17,744 
+20,083 
+Reference case 
+BC 
+6,460 
+9,580 
+11,598 
+15,676 
+19,487 
+24,490 
+32,096 
+Reference case 
+MB 
+1,550 
+1,631 
+1,963 
+2,593 
+3,638 
+7,216 
+11,042 
+Reference case 
+NB 
+1,291 
+1,356 
+1,408 
+1,507 
+1,616 
+1,738 
+1,877 
+Reference case 
+NL 
+954 
+946 
+939 
+940 
+941 
+932 
+920 
+Reference case 
+NS 
+791 
+867 
+886 
+935 
+993 
+1,068 
+1,152 
+Reference case 
+ON 
+13,111 
+16,123 
+18,969 
+22,512 
+26,937 
+31,701 
+37,475 
+Reference case 
+PE 
+361 
+404 
+435 
+486 
+550 
+628 
+711 
+Reference case 
+QC 
+8,525 
+9,177 
+9,768 
+11,096 
+12,418 
+14,144 
+16,401 
+Reference case 
+SK 
+2,461 
+2,996 
+3,601 
+4,230 
+4,706 
+5,311 
+5,811 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+AB 
+9,532 
+11,368 
+13,126 
+14,964 
+16,335 
+17,122 
+20,390 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+ON 
+13,663 
+16,805 
+19,639 
+23,450 
+27,900 
+33,181 
+39,127 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+BC 
+6,400 
+9,104 
+11,576 
+15,573 
+19,414 
+25,998 
+32,095 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+MB 
+1,578 
+1,646 
+2,080 
+2,722 
+3,906 
+6,819 
+10,851 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NB 
+1,266 
+1,331 
+1,398 
+1,501 
+1,581 
+1,726 
+1,876 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NL 
+968 
+938 
+942 
+937 
+937 
+923 
+921 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NS 
+766 
+862 
+879 
+942 
+1,008 
+1,095 
+1,175 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+PE 
+355 
+400 
+435 
+491 
+562 
+628 
+717 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+QC 
+8,101 
+8,748 
+9,602 
+11,066 
+12,617 
+14,695 
+16,760 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+SK 
+2,498 
+3,022 
+3,646 
+4,307 
+4,791 
+5,407 
+5,933 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NS 
+773 
+864 
+872 
+971 
+1,058 
+1,142 
+1,235 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+AB 
+9,529 
+11,381 
+13,176 
+15,049 
+16,335 
+17,231 
+20,830 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+BC 
+6,139 
+9,006 
+11,522 
+15,438 
+20,010 
+26,500 
+32,011 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+MB 
+1,566 
+1,651 
+2,117 
+2,806 
+4,063 
+7,011 
+11,068 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NB 
+1,267 
+1,332 
+1,399 
+1,510 
+1,594 
+1,738 
+1,872 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NL 
+962 
+938 
+958 
+932 
+926 
+925 
+923 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+ON 
+13,630 
+16,865 
+19,865 
+23,814 
+28,681 
+34,064 
+40,503 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+PE 
+356 
+401 
+436 
+494 
+571 
+641 
+740 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+QC 
+8,004 
+8,726 
+9,627 
+11,088 
+12,844 
+15,106 
+17,687 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+SK 
+2,490 
+3,027 
+3,662 
+4,342 
+4,820 
+5,521 
+6,049 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+AB 
+9,495 
+11,302 
+13,068 
+14,897 
+16,262 
+16,825 
+20,116 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+BC 
+6,549 
+9,244 
+11,480 
+15,549 
+19,263 
+26,185 
+32,065 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+MB 
+1,553 
+1,631 
+2,008 
+2,651 
+3,714 
+7,105 
+11,222 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NB 
+1,269 
+1,332 
+1,393 
+1,492 
+1,589 
+1,716 
+1,839 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NL 
+963 
+946 
+942 
+940 
+936 
+933 
+920 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NS 
+764 
+846 
+867 
+920 
+984 
+1,051 
+1,136 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+ON 
+13,254 
+16,237 
+19,192 
+22,880 
+27,106 
+32,217 
+37,928 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+PE 
+353 
+398 
+431 
+483 
+544 
+622 
+708 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+QC 
+8,311 
+8,903 
+9,600 
+10,960 
+12,366 
+14,210 
+16,096 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+SK 
+2,467 
+2,999 
+3,616 
+4,255 
+4,732 
+5,322 
+5,857 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+AB 
+9,498 
+11,313 
+13,101 
+14,944 
+16,292 
+17,034 
+20,358 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+ON 
+13,261 
+16,279 
+19,314 
+23,061 
+27,512 
+32,704 
+38,664 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+BC 
+6,571 
+9,227 
+11,491 
+15,430 
+19,352 
+26,032 
+32,022 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+MB 
+1,563 
+1,646 
+2,052 
+2,689 
+3,822 
+6,774 
+10,827 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NB 
+1,269 
+1,326 
+1,389 
+1,487 
+1,559 
+1,707 
+1,831 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NL 
+963 
+947 
+942 
+937 
+937 
+922 
+922 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NS 
+759 
+838 
+862 
+921 
+987 
+1,073 
+1,153 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+PE 
+352 
+395 
+427 
+482 
+552 
+620 
+710 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+QC 
+8,229 
+8,811 
+9,544 
+10,913 
+12,361 
+14,232 
+16,206 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+SK 
+2,468 
+3,008 
+3,636 
+4,294 
+4,769 
+5,404 
+5,919 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+AB 
+9,592 
+11,457 
+13,204 
+15,084 
+16,440 
+17,351 
+20,790 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+BC 
+6,279 
+8,955 
+11,477 
+15,373 
+19,437 
+25,920 
+31,711 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+MB 
+1,594 
+1,675 
+2,121 
+2,774 
+3,920 
+6,765 
+10,700 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NB 
+1,270 
+1,330 
+1,397 
+1,499 
+1,594 
+1,732 
+1,867 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NL 
+969 
+938 
+942 
+936 
+936 
+922 
+921 
+ 
+ 
+ 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NS 
+763 
+858 
+875 
+935 
+997 
+1,079 
+1,154 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+ON 
+13,624 
+16,570 
+19,636 
+23,417 
+27,938 
+33,234 
+39,048 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+PE 
+354 
+399 
+433 
+488 
+554 
+624 
+713 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+QC 
+8,119 
+8,704 
+9,595 
+11,016 
+12,502 
+14,527 
+16,616 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+SK 
+2,526 
+3,037 
+3,661 
+4,330 
+4,837 
+5,433 
+5,973 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+AB 
+9,588 
+11,476 
+13,270 
+15,250 
+15,938 
+17,704 
+21,483 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+BC 
+6,164 
+8,795 
+11,425 
+15,243 
+20,770 
+26,391 
+31,580 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+MB 
+1,592 
+1,681 
+2,140 
+2,833 
+4,109 
+6,965 
+10,939 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NB 
+1,273 
+1,331 
+1,400 
+1,506 
+1,607 
+1,705 
+1,857 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NL 
+968 
+938 
+942 
+904 
+923 
+922 
+922 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NS 
+762 
+857 
+880 
+989 
+1,047 
+1,133 
+1,223 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+ON 
+13,463 
+16,577 
+19,751 
+23,692 
+28,567 
+34,000 
+40,292 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+PE 
+353 
+398 
+434 
+491 
+559 
+648 
+744 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+QC 
+8,112 
+8,689 
+9,601 
+11,036 
+12,686 
+15,003 
+17,463 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+SK 
+2,525 
+3,049 
+3,682 
+4,370 
+4,870 
+5,591 
+6,150 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+AB 
+9,547 
+11,397 
+13,151 
+14,999 
+16,345 
+17,165 
+20,391 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+BC 
+6,191 
+8,868 
+11,448 
+15,344 
+19,247 
+25,736 
+31,841 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+MB 
+1,593 
+1,685 
+2,107 
+2,748 
+3,883 
+6,721 
+10,672 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NB 
+1,263 
+1,333 
+1,372 
+1,479 
+1,587 
+1,721 
+1,841 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NL 
+971 
+938 
+942 
+936 
+937 
+922 
+921 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NS 
+756 
+853 
+872 
+936 
+1,000 
+1,084 
+1,161 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+ON 
+13,289 
+16,292 
+19,324 
+23,079 
+27,553 
+32,684 
+38,612 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+PE 
+352 
+397 
+442 
+491 
+553 
+624 
+719 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+QC 
+8,000 
+8,577 
+9,442 
+10,848 
+12,295 
+14,172 
+16,186 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+SK 
+2,508 
+3,025 
+3,653 
+4,319 
+4,807 
+5,408 
+5,930 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+AB 
+9,539 
+11,420 
+13,214 
+15,159 
+16,111 
+17,427 
+21,172 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+BC 
+6,192 
+8,740 
+11,281 
+15,050 
+20,156 
+26,175 
+31,072 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+MB 
+1,586 
+1,691 
+2,153 
+2,849 
+4,139 
+7,005 
+11,120 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NB 
+1,264 
+1,333 
+1,374 
+1,488 
+1,599 
+1,706 
+1,846 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NL 
+970 
+938 
+958 
+915 
+924 
+923 
+922 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NS 
+759 
+856 
+868 
+985 
+1,057 
+1,141 
+1,234 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+ON 
+13,349 
+16,405 
+19,597 
+23,493 
+28,340 
+33,737 
+39,935 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+PE 
+354 
+398 
+444 
+496 
+565 
+648 
+744 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+QC 
+8,015 
+8,520 
+9,444 
+10,897 
+12,490 
+14,776 
+17,072 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+SK 
+2,499 
+3,036 
+3,679 
+4,357 
+4,820 
+5,612 
+6,188 
+BCCAQ2+CCSM4, RCP 4.5 
+AB 
+9,550 
+11,381 
+13,142 
+14,957 
+16,412 
+17,033 
+20,267 
+BCCAQ2+CCSM4, RCP 4.5 
+BC 
+6,438 
+9,163 
+11,526 
+15,512 
+19,170 
+26,007 
+32,193 
+BCCAQ2+CCSM4, RCP 4.5 
+MB 
+1,583 
+1,651 
+2,067 
+2,695 
+3,790 
+6,805 
+11,217 
+BCCAQ2+CCSM4, RCP 4.5 
+NB 
+1,273 
+1,333 
+1,396 
+1,496 
+1,592 
+1,730 
+1,849 
+BCCAQ2+CCSM4, RCP 4.5 
+NL 
+962 
+946 
+942 
+941 
+936 
+933 
+920 
+BCCAQ2+CCSM4, RCP 4.5 
+NS 
+771 
+853 
+875 
+927 
+992 
+1,059 
+1,143 
+BCCAQ2+CCSM4, RCP 4.5 
+ON 
+13,554 
+16,437 
+19,481 
+23,227 
+27,630 
+32,689 
+38,457 
+BCCAQ2+CCSM4, RCP 4.5 
+PE 
+355 
+400 
+432 
+488 
+549 
+624 
+713 
+BCCAQ2+CCSM4, RCP 4.5 
+QC 
+8,085 
+8,731 
+9,560 
+10,978 
+12,417 
+14,399 
+16,432 
+BCCAQ2+CCSM4, RCP 4.5 
+SK 
+2,503 
+3,024 
+3,641 
+4,296 
+4,782 
+5,382 
+5,912 
+BCCAQ2+CCSM4, RCP 8.5 
+AB 
+9,542 
+11,392 
+13,205 
+15,086 
+16,540 
+17,426 
+21,020 
+BCCAQ2+CCSM4, RCP 8.5 
+BC 
+6,448 
+9,146 
+11,493 
+15,341 
+19,177 
+26,035 
+31,536 
+BCCAQ2+CCSM4, RCP 8.5 
+MB 
+1,572 
+1,661 
+2,106 
+2,784 
+3,960 
+6,899 
+10,920 
+BCCAQ2+CCSM4, RCP 8.5 
+NB 
+1,271 
+1,330 
+1,395 
+1,496 
+1,577 
+1,709 
+1,867 
+BCCAQ2+CCSM4, RCP 8.5 
+NL 
+962 
+946 
+943 
+937 
+936 
+922 
+921 
+BCCAQ2+CCSM4, RCP 8.5 
+NS 
+769 
+849 
+873 
+933 
+998 
+1,085 
+1,167 
+BCCAQ2+CCSM4, RCP 8.5 
+ON 
+13,364 
+16,410 
+19,527 
+23,390 
+28,006 
+33,326 
+39,494 
+BCCAQ2+CCSM4, RCP 8.5 
+PE 
+354 
+399 
+432 
+487 
+560 
+631 
+719 
+BCCAQ2+CCSM4, RCP 8.5 
+QC 
+8,105 
+8,699 
+9,554 
+10,986 
+12,547 
+14,728 
+16,807 
+BCCAQ2+CCSM4, RCP 8.5 
+SK 
+2,496 
+3,034 
+3,661 
+4,339 
+4,847 
+5,473 
+6,033 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+AB 
+9,505 
+11,310 
+13,046 
+14,919 
+16,218 
+17,866 
+20,117 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+BC 
+6,369 
+9,430 
+11,561 
+15,600 
+19,474 
+24,308 
+32,068 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+MB 
+1,557 
+1,629 
+1,967 
+2,620 
+3,656 
+7,079 
+10,937 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NB 
+1,277 
+1,334 
+1,399 
+1,495 
+1,592 
+1,717 
+1,849 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NL 
+957 
+946 
+940 
+941 
+935 
+933 
+920 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NS 
+779 
+856 
+878 
+927 
+991 
+1,058 
+1,141 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+ON 
+13,239 
+16,217 
+19,154 
+22,835 
+27,163 
+32,123 
+37,871 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+PE 
+357 
+402 
+432 
+486 
+550 
+625 
+710 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+QC 
+8,306 
+8,900 
+9,609 
+10,980 
+12,391 
+14,249 
+16,132 
+ 
+ 
+ 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+SK 
+2,467 
+3,000 
+3,615 
+4,259 
+4,729 
+5,344 
+5,854 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+AB 
+9,523 
+11,342 
+13,116 
+14,951 
+16,289 
+17,012 
+20,263 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+BC 
+6,385 
+9,224 
+11,534 
+15,491 
+19,391 
+26,102 
+32,225 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+MB 
+1,559 
+1,640 
+2,027 
+2,648 
+3,743 
+6,689 
+11,092 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NB 
+1,275 
+1,332 
+1,394 
+1,494 
+1,590 
+1,709 
+1,857 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NL 
+956 
+946 
+942 
+937 
+936 
+931 
+921 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NS 
+779 
+853 
+874 
+931 
+993 
+1,065 
+1,150 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+ON 
+13,367 
+16,345 
+19,404 
+23,125 
+27,594 
+32,884 
+38,609 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+PE 
+356 
+401 
+434 
+486 
+552 
+628 
+713 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+QC 
+8,309 
+8,853 
+9,614 
+11,002 
+12,464 
+14,425 
+16,509 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+SK 
+2,476 
+3,009 
+3,648 
+4,296 
+4,769 
+5,386 
+5,907 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+AB 
+9,576 
+11,425 
+13,185 
+15,058 
+16,406 
+17,323 
+20,699 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+QC 
+7,975 
+8,556 
+9,435 
+10,872 
+12,397 
+14,428 
+16,513 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+BC 
+6,402 
+9,054 
+11,503 
+15,385 
+19,448 
+25,909 
+31,739 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+MB 
+1,574 
+1,660 
+2,087 
+2,748 
+3,909 
+6,779 
+10,792 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NB 
+1,263 
+1,335 
+1,395 
+1,496 
+1,590 
+1,729 
+1,865 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NL 
+969 
+938 
+942 
+936 
+937 
+922 
+921 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NS 
+758 
+854 
+872 
+934 
+999 
+1,084 
+1,164 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+ON 
+13,440 
+16,436 
+19,500 
+23,280 
+27,809 
+33,130 
+38,976 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+PE 
+352 
+397 
+431 
+487 
+556 
+626 
+719 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+SK 
+2,502 
+3,029 
+3,656 
+4,329 
+4,832 
+5,430 
+5,973 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+AB 
+9,536 
+11,413 
+13,251 
+15,204 
+15,842 
+17,631 
+21,478 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+BC 
+6,181 
+8,937 
+11,417 
+15,203 
+20,817 
+26,387 
+31,427 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+MB 
+1,562 
+1,671 
+2,120 
+2,815 
+4,075 
+6,821 
+10,906 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NB 
+1,270 
+1,338 
+1,399 
+1,506 
+1,594 
+1,723 
+1,859 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NL 
+969 
+939 
+959 
+904 
+924 
+923 
+922 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NS 
+762 
+856 
+864 
+990 
+1,051 
+1,135 
+1,228 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+ON 
+13,529 
+16,567 
+19,785 
+23,754 
+28,678 
+34,141 
+40,459 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+PE 
+353 
+398 
+433 
+491 
+568 
+647 
+747 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+QC 
+8,234 
+8,613 
+9,521 
+10,948 
+12,662 
+14,949 
+17,445 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+SK 
+2,491 
+3,032 
+3,677 
+4,359 
+4,864 
+5,605 
+6,178 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+Table 5. Capital expenditure on electricity (CAD2015) by climate change scenario, province, and year  
+Climate change scenario 
+Province 
+2040 
+2050 
+2060 
+2070 
+2080 
+2090 
+2100 
+Reference case 
+AB 
+2,885 
+3,702 
+4,516 
+5,507 
+6,334 
+7,337 
+8,927 
+Reference case 
+BC 
+5,572 
+8,042 
+9,654 
+12,282 
+14,037 
+16,734 
+19,655 
+Reference case 
+MB 
+1,919 
+1,980 
+2,055 
+2,375 
+3,124 
+5,048 
+6,797 
+Reference case 
+NB 
+859 
+883 
+903 
+932 
+966 
+996 
+1,054 
+Reference case 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+Reference case 
+NS 
+316 
+343 
+344 
+368 
+395 
+423 
+456 
+Reference case 
+ON 
+7,251 
+8,982 
+9,940 
+11,063 
+12,458 
+13,802 
+15,496 
+Reference case 
+PE 
+202 
+221 
+231 
+255 
+285 
+321 
+354 
+Reference case 
+QC 
+9,451 
+9,738 
+9,781 
+10,130 
+11,048 
+11,905 
+13,960 
+Reference case 
+SK 
+998 
+1,214 
+1,413 
+1,601 
+1,811 
+1,977 
+2,137 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+AB 
+2,905 
+3,739 
+4,551 
+5,569 
+6,482 
+7,450 
+9,036 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+ON 
+7,477 
+9,213 
+10,034 
+11,440 
+12,733 
+14,375 
+16,240 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+BC 
+5,583 
+7,701 
+9,669 
+12,212 
+14,085 
+16,565 
+19,709 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+MB 
+1,935 
+1,989 
+2,116 
+2,434 
+3,349 
+5,046 
+6,924 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NB 
+847 
+870 
+898 
+927 
+941 
+995 
+1,048 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+NS 
+307 
+332 
+335 
+358 
+388 
+419 
+454 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+PE 
+200 
+215 
+230 
+254 
+292 
+318 
+355 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+QC 
+9,188 
+9,389 
+9,516 
+10,113 
+11,301 
+12,700 
+14,018 
+BCCAQ2+GFDL-CM3, RCP 4.5 
+SK 
+1,017 
+1,242 
+1,457 
+1,688 
+1,860 
+2,088 
+2,324 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NS 
+307 
+332 
+337 
+367 
+403 
+441 
+481 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+AB 
+2,903 
+3,747 
+4,574 
+5,604 
+6,562 
+7,595 
+9,242 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+BC 
+5,320 
+7,607 
+9,606 
+12,188 
+14,290 
+16,759 
+19,604 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+MB 
+1,930 
+1,992 
+2,137 
+2,475 
+3,444 
+5,259 
+7,177 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NB 
+845 
+869 
+899 
+929 
+945 
+986 
+1,046 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+ON 
+7,464 
+9,255 
+10,121 
+11,540 
+13,059 
+14,721 
+16,792 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+PE 
+200 
+215 
+230 
+255 
+295 
+323 
+366 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+QC 
+9,053 
+9,374 
+9,525 
+10,095 
+11,448 
+12,793 
+14,637 
+BCCAQ2+GFDL-CM3, RCP 8.5 
+SK 
+1,012 
+1,241 
+1,458 
+1,696 
+1,936 
+2,180 
+2,386 
+ 
+ 
+ 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+AB 
+2,885 
+3,707 
+4,506 
+5,524 
+6,376 
+7,354 
+8,942 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+BC 
+5,735 
+7,847 
+9,637 
+12,194 
+14,011 
+16,623 
+19,653 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+MB 
+1,923 
+1,979 
+2,056 
+2,405 
+3,193 
+5,041 
+6,877 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NB 
+848 
+873 
+898 
+926 
+958 
+986 
+1,031 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+NS 
+305 
+330 
+332 
+356 
+382 
+410 
+441 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+ON 
+7,329 
+8,981 
+10,069 
+11,253 
+12,416 
+14,062 
+15,795 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+PE 
+199 
+214 
+228 
+250 
+281 
+318 
+355 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+QC 
+9,331 
+9,564 
+9,626 
+10,045 
+11,120 
+12,221 
+13,582 
+BCCAQ2+MRI-CGCM3, RCP 4.5 
+SK 
+1,000 
+1,220 
+1,440 
+1,629 
+1,829 
+2,036 
+2,205 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+AB 
+2,886 
+3,714 
+4,531 
+5,552 
+6,438 
+7,434 
+9,030 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+ON 
+7,352 
+9,045 
+10,135 
+11,326 
+12,631 
+14,182 
+16,113 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+BC 
+5,755 
+7,829 
+9,632 
+12,149 
+14,090 
+16,558 
+19,609 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+MB 
+1,923 
+1,986 
+2,085 
+2,420 
+3,280 
+5,034 
+6,902 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NB 
+851 
+870 
+895 
+923 
+936 
+989 
+1,022 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+NS 
+304 
+325 
+328 
+349 
+377 
+408 
+442 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+PE 
+199 
+213 
+225 
+249 
+286 
+314 
+354 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+QC 
+9,241 
+9,494 
+9,580 
+10,016 
+11,118 
+12,247 
+13,498 
+BCCAQ2+MRI-CGCM3, RCP 8.5 
+SK 
+999 
+1,221 
+1,479 
+1,687 
+1,911 
+2,103 
+2,299 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+AB 
+2,938 
+3,777 
+4,616 
+5,612 
+6,539 
+7,561 
+9,183 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+BC 
+5,457 
+7,565 
+9,531 
+12,173 
+14,165 
+16,519 
+19,444 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+MB 
+1,944 
+2,000 
+2,127 
+2,447 
+3,346 
+5,074 
+6,923 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NB 
+851 
+870 
+899 
+928 
+959 
+1,003 
+1,052 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+NS 
+306 
+331 
+333 
+355 
+382 
+410 
+443 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+ON 
+7,492 
+9,121 
+10,240 
+11,456 
+12,821 
+14,444 
+16,231 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+PE 
+200 
+216 
+229 
+253 
+284 
+317 
+355 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+QC 
+9,225 
+9,410 
+9,523 
+10,080 
+11,203 
+12,633 
+13,955 
+BCCAQ2+HadGEM2-AO, RCP 4.5 
+SK 
+1,033 
+1,257 
+1,460 
+1,695 
+1,917 
+2,103 
+2,333 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+AB 
+2,938 
+3,790 
+4,655 
+5,684 
+6,677 
+7,737 
+9,460 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+BC 
+5,379 
+7,438 
+9,448 
+12,112 
+14,260 
+16,599 
+19,235 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+MB 
+1,947 
+2,008 
+2,136 
+2,484 
+3,474 
+5,309 
+7,186 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NB 
+854 
+871 
+899 
+929 
+963 
+980 
+1,023 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+NS 
+307 
+329 
+334 
+365 
+398 
+437 
+477 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+ON 
+7,446 
+9,095 
+10,195 
+11,460 
+13,022 
+14,749 
+16,709 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+PE 
+200 
+215 
+230 
+254 
+286 
+334 
+377 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+QC 
+9,182 
+9,406 
+9,540 
+10,061 
+11,294 
+12,789 
+14,543 
+BCCAQ2+HadGEM2-AO, RCP 8.5 
+SK 
+1,034 
+1,262 
+1,476 
+1,723 
+1,964 
+2,204 
+2,426 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+AB 
+2,910 
+3,752 
+4,562 
+5,583 
+6,489 
+7,453 
+9,023 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+BC 
+5,421 
+7,495 
+9,554 
+12,118 
+14,044 
+16,459 
+19,542 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+MB 
+1,948 
+2,021 
+2,157 
+2,461 
+3,329 
+5,035 
+6,879 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NB 
+850 
+878 
+881 
+916 
+954 
+992 
+1,027 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+NS 
+305 
+329 
+332 
+355 
+383 
+413 
+447 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+ON 
+7,374 
+9,042 
+10,096 
+11,310 
+12,657 
+14,171 
+16,089 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+PE 
+200 
+214 
+241 
+257 
+286 
+316 
+360 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+QC 
+9,216 
+9,410 
+9,522 
+9,955 
+11,036 
+12,201 
+13,526 
+BCCAQ2+MIROC-ESM-CHEM, RCP 4.5 
+SK 
+1,023 
+1,247 
+1,457 
+1,687 
+1,896 
+2,082 
+2,317 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+AB 
+2,905 
+3,760 
+4,572 
+5,643 
+6,600 
+7,680 
+9,390 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+BC 
+5,428 
+7,378 
+9,404 
+11,964 
+14,140 
+16,607 
+19,046 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+MB 
+1,943 
+2,015 
+2,164 
+2,504 
+3,504 
+5,331 
+7,333 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NB 
+849 
+877 
+881 
+917 
+958 
+984 
+1,035 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+NS 
+306 
+329 
+336 
+366 
+403 
+440 
+481 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+ON 
+7,406 
+9,115 
+10,023 
+11,414 
+12,940 
+14,580 
+16,452 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+PE 
+200 
+215 
+242 
+260 
+289 
+333 
+375 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+QC 
+9,215 
+9,377 
+9,514 
+9,949 
+11,118 
+12,681 
+14,275 
+BCCAQ2+MIROC-ESM-CHEM, RCP 8.5 
+SK 
+1,016 
+1,247 
+1,453 
+1,691 
+1,937 
+2,209 
+2,433 
+BCCAQ2+CCSM4, RCP 4.5 
+AB 
+2,914 
+3,744 
+4,558 
+5,563 
+6,452 
+7,432 
+9,023 
+BCCAQ2+CCSM4, RCP 4.5 
+BC 
+5,612 
+7,761 
+9,641 
+12,187 
+13,955 
+16,581 
+19,749 
+BCCAQ2+CCSM4, RCP 4.5 
+MB 
+1,940 
+1,988 
+2,094 
+2,418 
+3,254 
+5,017 
+6,903 
+BCCAQ2+CCSM4, RCP 4.5 
+NB 
+851 
+873 
+899 
+928 
+959 
+1,004 
+1,036 
+ 
+ 
+ 
+BCCAQ2+CCSM4, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+CCSM4, RCP 4.5 
+NS 
+310 
+335 
+336 
+361 
+387 
+415 
+447 
+BCCAQ2+CCSM4, RCP 4.5 
+ON 
+7,515 
+9,252 
+10,218 
+11,431 
+12,739 
+14,221 
+16,140 
+BCCAQ2+CCSM4, RCP 4.5 
+PE 
+200 
+216 
+229 
+254 
+284 
+317 
+358 
+BCCAQ2+CCSM4, RCP 4.5 
+QC 
+9,170 
+9,426 
+9,531 
+10,070 
+11,157 
+12,553 
+13,815 
+BCCAQ2+CCSM4, RCP 4.5 
+SK 
+1,019 
+1,237 
+1,444 
+1,679 
+1,866 
+2,065 
+2,249 
+BCCAQ2+CCSM4, RCP 8.5 
+AB 
+2,909 
+3,752 
+4,583 
+5,617 
+6,505 
+7,592 
+9,253 
+BCCAQ2+CCSM4, RCP 8.5 
+BC 
+5,620 
+7,735 
+9,595 
+12,132 
+14,098 
+16,562 
+19,408 
+BCCAQ2+CCSM4, RCP 8.5 
+MB 
+1,934 
+1,987 
+2,123 
+2,452 
+3,384 
+5,149 
+7,024 
+BCCAQ2+CCSM4, RCP 8.5 
+NB 
+851 
+870 
+897 
+926 
+939 
+964 
+1,020 
+BCCAQ2+CCSM4, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+CCSM4, RCP 8.5 
+NS 
+309 
+333 
+335 
+358 
+383 
+415 
+450 
+BCCAQ2+CCSM4, RCP 8.5 
+ON 
+7,429 
+9,177 
+10,215 
+11,460 
+12,854 
+14,484 
+16,482 
+BCCAQ2+CCSM4, RCP 8.5 
+PE 
+200 
+215 
+228 
+252 
+290 
+323 
+359 
+BCCAQ2+CCSM4, RCP 8.5 
+QC 
+9,178 
+9,419 
+9,532 
+10,060 
+11,262 
+12,744 
+14,028 
+BCCAQ2+CCSM4, RCP 8.5 
+SK 
+1,015 
+1,237 
+1,456 
+1,696 
+1,926 
+2,136 
+2,350 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+AB 
+2,891 
+3,715 
+4,486 
+5,525 
+6,372 
+7,364 
+8,948 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+BC 
+5,522 
+7,928 
+9,616 
+12,195 
+13,997 
+16,654 
+19,665 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+MB 
+1,931 
+1,983 
+2,060 
+2,404 
+3,151 
+5,027 
+6,787 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NB 
+852 
+872 
+899 
+926 
+958 
+988 
+1,031 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+NS 
+311 
+336 
+338 
+361 
+388 
+416 
+448 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+ON 
+7,332 
+8,990 
+10,055 
+11,234 
+12,476 
+14,002 
+15,742 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+PE 
+201 
+217 
+228 
+252 
+284 
+321 
+357 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+QC 
+9,353 
+9,632 
+9,678 
+10,050 
+11,140 
+12,246 
+13,605 
+BCCAQ2+GFDL-ESM2M, RCP 4.5 
+SK 
+1,002 
+1,223 
+1,444 
+1,644 
+1,837 
+2,035 
+2,208 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+AB 
+2,901 
+3,732 
+4,542 
+5,561 
+6,440 
+7,418 
+9,015 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+BC 
+5,555 
+7,825 
+9,662 
+12,105 
+13,928 
+16,634 
+19,734 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+MB 
+1,927 
+1,985 
+2,077 
+2,410 
+3,216 
+4,963 
+6,845 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NB 
+851 
+872 
+898 
+926 
+957 
+981 
+1,039 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+NS 
+310 
+334 
+336 
+359 
+385 
+412 
+443 
+Impacts of climate change on Canada’s electricity system 
+ 
+ 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+ON 
+7,391 
+9,097 
+10,164 
+11,323 
+12,626 
+14,223 
+15,997 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+PE 
+201 
+216 
+229 
+252 
+285 
+321 
+354 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+QC 
+9,347 
+9,573 
+9,638 
+10,086 
+11,218 
+12,612 
+13,934 
+BCCAQ2+GFDL-ESM2M, RCP 8.5 
+SK 
+1,007 
+1,231 
+1,512 
+1,710 
+1,930 
+2,118 
+2,293 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+AB 
+2,933 
+3,772 
+4,570 
+5,617 
+6,534 
+7,527 
+9,141 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+QC 
+9,144 
+9,348 
+9,471 
+9,950 
+11,124 
+12,567 
+13,886 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+BC 
+5,577 
+7,645 
+9,598 
+12,177 
+14,171 
+16,526 
+19,416 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+MB 
+1,944 
+2,013 
+2,141 
+2,456 
+3,348 
+5,081 
+6,968 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NB 
+848 
+879 
+899 
+927 
+958 
+1,001 
+1,050 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+NS 
+306 
+330 
+332 
+354 
+383 
+413 
+448 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+ON 
+7,462 
+9,064 
+10,183 
+11,387 
+12,747 
+14,345 
+16,134 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+PE 
+199 
+215 
+228 
+253 
+285 
+317 
+357 
+BCCAQ2+HadGEM2-ES, RCP 4.5 
+SK 
+1,021 
+1,248 
+1,461 
+1,694 
+1,915 
+2,108 
+2,348 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+AB 
+2,908 
+3,761 
+4,605 
+5,661 
+6,640 
+7,707 
+9,444 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+BC 
+5,357 
+7,534 
+9,505 
+12,098 
+14,228 
+16,591 
+19,125 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+MB 
+1,930 
+2,003 
+2,140 
+2,474 
+3,446 
+5,289 
+7,206 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NB 
+850 
+880 
+899 
+928 
+943 
+979 
+1,025 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NL 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+1,213 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+NS 
+308 
+330 
+334 
+366 
+400 
+437 
+478 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+ON 
+7,476 
+9,082 
+10,192 
+11,584 
+13,172 
+14,885 
+16,869 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+PE 
+200 
+215 
+229 
+252 
+294 
+334 
+377 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+QC 
+9,069 
+9,385 
+9,535 
+9,969 
+11,283 
+12,746 
+14,540 
+BCCAQ2+HadGEM2-ES, RCP 8.5 
+SK 
+1,016 
+1,249 
+1,461 
+1,712 
+1,961 
+2,212 
+2,454 
+ 
+ 
+ 
+ 
+At Navius, we offer our clients the confidence to make 
+informed decisions related to energy, the economy, and 
+the environment.  
+We take a collaborative approach to projects, drawing 
+on a unique suite of modeling, research and 
+communication tools to provide impartial analysis and 
+clear advice. 
+ 
+ 
+ 
+www.NaviusResearch.com 
+ 
+ 
+ 
+ 
+ 

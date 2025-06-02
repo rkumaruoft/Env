@@ -1,0 +1,501 @@
+Knowing behavior matters doesn’t hurt: the effect of
+individual climate behavior messaging on green policy
+support
+Abdurakhim Rakhimov*, Erik Thulin
+Center for Behavior and the Environment, Rare Arlington, VA 22201, USA
+*Correspondence address. Center for Behavior and the Environment, Rare, 1310 N Courthouse Road, #110, Arlington, VA 22201, USA. Tel: 703-522-5070;
+E-mail: rrakhimov@rare.org
+Abstract
+Individual behavior change offers a large potential to curb greenhouse gas emissions. However, messaging promoting individual be-
+havior change has been criticized as a strategy for addressing climate change due to its potential to diminish climate policy support.
+In a pre-registered study with a representative sample of American adults (n ¼ 1069), we found that messages recommending the
+adoption of high-impact individual climate behaviors, such as ﬂying less, eating less meat and reducing food waste, and highlighting
+their large impact do not affect support for a carbon tax. In an exploratory analysis, we found that this messaging results in a higher
+intention to adopt several climate behaviors. We recommend that interventions that advocate for individual climate action be best
+understood as complements, rather than undermining substitutes, to broad carbon regulatory policy.
+Keywords: behavioral science; climate change; climate policy; pro-environmental behaviors; carbon tax; behavioral spillover
+INTRODUCTION
+The Earth is facing adverse and unprecedented risks from
+human-caused climate change, which are predicted to dispropor-
+tionately harm the world’s most disadvantaged communities
+[1, 2]. Thankfully, many solutions to mitigate climate change al-
+ready exist [3, 4]. Yet, after technological improvements, increas-
+ing affordability of these solutions, and strong consensus on the
+threat of rising emissions, we are still far from a carbon-neutral
+future. The Global Warming of 1.5C (SR15) report suggests that
+programs that encourage people to adopt behaviors that reduce
+their carbon footprint present a clear complement to proposed
+policy solutions [5]. For example, it is estimated that the UK’s
+path to Net Zero will be unlikely without societal and behavioral
+changes [6]. The rising popularity of behavioral solutions presents
+policymakers and behavior change program designers with new
+strategies that they can use to complement traditional climate
+regulation [7]. These solutions could inform the design of inter-
+ventions that change what we eat, how we travel, what energy
+we use and what we do with waste, all of which have been shown
+to have a high impact on carbon emissions when scaled up to the
+population level [8].
+Individual behavior change, however, has received skepticism
+from academics, climate scientists and the public due to its po-
+tential to diminish climate policy support [9–11]. The critics argue
+that prominently discussing behavior change can make it appear
+as a substitute for regulatory policy change, therefore undermin-
+ing support for larger systemic policy efforts.
+In the context of climate emergency, it is crucial for policy-
+makers and program designers to know which strategies in their
+toolkit should be deployed to combat climate change. This
+includes understanding whether programs that rely on messag-
+ing to promote high-impact individual behavior change risk
+undermining policy support. The existing literature assessing
+such effects is mixed and largely indirect. Recent work has ar-
+gued that messages recommending individual behaviors reduce
+willingness to support political candidates with a pro-climate
+agenda [9]. Similarly, messages that primed people of their past
+pro-environmental behaviors (PEBs) and included recommended
+individual actions to reduce energy consumption were found to
+reduce support for climate change policy [12]. Research in the re-
+lated domain of policymaker decision-making found that policy
+support for a carbon tax is undermined when policymakers con-
+sider less intrusive ‘nudge’-based policies to encourage individual
+behavior change [13]. However, studies investigating the effect of
+inducting individuals to adopt PEBs have shown no effect on cli-
+mate policy support [14–16]. Indeed, a recent meta-analysis
+reveals no aggregate effect of the adoption of pro-environmental
+individual behavior on climate policy support [17].
+To inform whether policymakers and program designers
+should include behavioral solutions which highlight the impact
+of individual action, we posed the following research question:
+Received: July 22, 2022. Revised: October 18, 2022. Accepted: November 04, 2022
+V
+C The Author(s) 2022. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2022, 2(1), 1–5
+https://doi.org/10.1093/oxfclm/kgac007
+Advance Access Publication Date: 22 November 2022
+Research Letter
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac007/6839984 by guest on 26 August 2024
+‘Do messages that recommend the adoption of individual behav-
+iors to address climate change affect individuals’ support for a
+carbon tax?’ As a secondary investigation, we also aimed to as-
+sess whether the messages affect the intention to adopt these
+behaviors.
+MATERIALS AND METHODS
+Participants
+In March 2020, we collected responses from 1085 US participants
+via the Prolific.co platform. The sample was stratified by age, sex
+and ethnicity, based on quotas designed to be representative of
+the US Census adults. Past research with respondents from simi-
+lar platforms has found that resulting demographic and empiri-
+cal findings track well with US national probability sample
+benchmarks
+[18]. Per our
+pre-registration,
+we excluded 16
+respondents from analyses due to incomplete survey responses
+leaving a final sample of 1069 respondents. The demographic
+composition of respondents is available in Supplementary Tables
+S2 and S3. Before beginning, all participants provided consent to
+participate.
+The
+study
+data,
+analyses
+code
+and
+other
+Supplementary Material are available in OSF (https://osf.io/
+m9ah3/).
+Procedure
+We randomly assigned participants to either the individual be-
+havior messaging condition or a neutral control. To ensure that
+the impact of individual behavior on climate was not confounded
+with the saliency of the consequences of climate change, all par-
+ticipants
+were
+first
+shown
+a
+paragraph
+describing
+the
+Intergovernmental Panel on Climate Change finding that global
+temperatures are likely to rise in the future [1]. In the experimen-
+tal condition, we presented participants with a message describ-
+ing seven high-impact individual climate-mitigating behaviors
+that previous research has highlighted as highly impactful to
+adopt—reduce the amount of meat in your diet, switch to a green
+energy provider, install solar panels, reduce food waste at home,
+make an electric vehicle (EV) your next car purchase, reduce the
+amount you fly by at least one flight a year and purchase carbon
+offsets—that Americans could adopt to reduce their carbon emis-
+sions [8]. To highlight the impact of these behaviors, we informed
+participants that if each behavior was adopted by 10% of
+Americans, the USA would be back on track to meet its global
+commitments to reduce carbon emissions [8]. Participants in the
+control condition were not shown the message about the seven
+behaviors.
+Next, all participants stated their support for a carbon tax
+(‘Impose a carbon tax on companies and products based on how
+much emissions they create’, adapted from Ref. [13]). Their re-
+sponse (1 ¼ Yes or 0 ¼ No) formed our first dependent variable. To
+reduce possible demand effects, the carbon tax policy question
+was embedded in a matrix with a set of eight other questions fo-
+cused on other government policies unrelated to climate (e.g.
+‘Introduce government-mandated paid maternity leave’) [19].
+For six of the seven behaviors, we asked participants ‘If you
+had to guess, what is the percent chance you will take each of the
+actions in the next 12 months?’. Due to the infrequency of pur-
+chasing a vehicle in the USA, intention to purchase an EV was
+measured through the following item: ‘If you had to guess, what
+is the percent chance you will make an EV your next car pur-
+chase?’. Participants responded to all behavioral intention meas-
+ures
+on
+a
+100-pt
+slider
+scale
+(0 ¼ No
+chance
+at
+all
+to
+100 ¼ Certain). To create a single behavioral intention index
+variable representing a respondent’s overall propensity to take
+individual action, we standardized each behavioral intention var-
+iable (subtracted the mean, divided by the standard deviation),
+and then took the average of all seven values for every respon-
+dent. This individual-level index formed our second dependent
+variable.
+For exploratory reasons, we collected several demographic
+measures, such as gender, age, ethnicity, education, political
+viewpoint and household income.
+Analytic strategy
+To evaluate whether our messaging affected policy support and
+whether the difference between conditions was equivalent, we
+conducted a combination of pre-registered traditional null hy-
+pothesis significance tests (NHSTs) and equivalence tests. To test
+for this equivalence, we relied on two one-sided tests (TOST) pro-
+cedure that allows us to specify a lower (DL) and upper bound
+(DU) based on the smallest effect size of interest. The results fall-
+ing within the bounds are deemed equivalent to the absence of a
+meaningful effect [20].
+In the TOST procedure, the null hypothesis is the presence of
+a true effect of DL or DU. The alternative hypothesis is that the ef-
+fect is smaller than the smallest effect size of interest and it falls
+within the equivalence bounds. The observed effect is compared
+against DL and DU in TOSTs, one testing if the effect is larger than
+the lower bound of the equivalence range and one testing
+whether the effect is smaller than the upper bound of the equiva-
+lence range. When both these one-sided tests can be statistically
+rejected, we can conclude that the observed effect falls within
+the equivalence bounds and is close enough to zero to be practi-
+cally equivalent. Previous research found that messaging on the
+effect of a nudge policy reduced policy support for a carbon tax
+by 18% [13]. Based on this finding, we established the smallest ef-
+fect size of interest of 10% change in carbon tax support both for
+traditional
+NHST
+of
+difference
+as
+well
+as
+the
+TOST
+of
+equivalence.
+Figure 1: Exposure to the message emphasizing the large climate-
+mitigating impact of individual behaviors does not affect support for the
+carbon tax. Proportion difference, P ¼ 0.002 (black square), plotted with
+90% TOST conﬁdence intervals (CIs) (thick horizontal lines) and 95%
+NHST CIs (thin horizontal lines) with equivalence bounds DL ¼ 0.1 and
+DU ¼ 0.1 for a test result that is statistically equivalent and not
+statistically different from zero. A 90% TOST CI (1  2a) is used instead of
+a 95% CI (1  a) because TOSTs (each with an a of 5%) are performed.
+2
+|
+Oxford Open Climate Change, 2022, Vol. 2, No. 1
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac007/6839984 by guest on 26 August 2024
+To test our secondary hypothesis of whether exposure to mes-
+saging affects individuals’ intention to adopt high-impact climate
+behaviors, we followed the same pre-registered analytical proce-
+dure of testing for both difference and equivalence, evaluating
+whether the differences in the mean reported intention to adopt
+behaviors were statistically equivalent. Based on literature stand-
+ards for a small effect, we set d ¼ 0.2 as our smallest effect size of
+interest [21]. Therefore, the equivalence range goes from d ¼ 0.2
+to d ¼ 0.2.
+RESULTS
+Following the analytic procedure of testing for both difference
+and equivalence, we find no evidence that messaging on the im-
+portance of individual action reduces support for a carbon tax.
+Specifically, those in the individual behavior condition supported
+a carbon tax 0.2% less than those in the control condition, which
+is statistically equivalent (z ¼ 4.169, P < 0.001) and not statistically
+different (z ¼ 0.0938, P ¼ 0.925) from zero.
+To test our secondary hypothesis of whether messaging
+affects
+individuals’
+intention
+to
+adopt
+high-impact
+climate
+behaviors, we followed the same analytic procedure of testing for
+both difference and equivalence. We find the differences in the
+mean intention to adopt behaviors (d ¼ 0.127), while small, are
+statistically
+distinguishable
+from
+zero
+(t(1060.29)
+¼
+2.081,
+P ¼ 0.0377) and not statistically equivalent (t(1060.29) ¼ 1.186,
+P ¼ 0.118). That is, the messaging statistically significantly in-
+creased the average intention to adopt high-impact climate
+behaviors. Supplementary Fig. S1 is the graph of the observed
+mean difference in mean intention to adopt the behaviors. To
+evaluate the degree to which the messaging affected intention to
+adopt each behavior highlighted in the messaging, we conducted
+an exploratory analysis of the effect of the messaging on each be-
+havior (Fig. 2).
+We found that those exposed to the messaging on the impact
+of adopting individual behaviors reported statistically signifi-
+cantly higher intention to eat less meat, fly less and reduce food
+waste. We found no statistically significant effect of messaging
+on the intention to adopt the remaining four behaviors. We hy-
+pothesize that this may be due to the three behaviors which
+show a significant change all lacking a monetary cost and there-
+fore being perceived as easier to adopt, whereas those that
+showed non-significant effects all have monetary costs.
+For exploratory reasons, we constructed a linear regression
+model regressing support for a carbon tax on demographic varia-
+bles, political viewpoint and the experimental condition. Political
+viewpoint was the greatest unique predictor of the support for a
+carbon tax (Supplementary Table S1). Other predictors, including
+condition assignment, showed largely insignificant or small
+effects.
+DISCUSSION AND IMPLICATIONS
+Previous discourse has expressed concern that supporting indi-
+vidual actions for the environment can diminish support for cli-
+mate policy. As a result, programs that recommend individual
+behavior change have been discouraged in favor of regulatory
+policy [9–11]. However, despite growing public concern about cli-
+mate change in the USA, policies that aim at lowering green-
+house gas emissions and helping to mitigate climate change,
+such as a carbon tax, face political gridlock [22]. In part due to
+these political challenges, these much-needed regulatory policies
+can be difficult to implement in the near term. Complementary
+to regulatory initiatives, behavioral policy solutions to climate
+change offer high mitigation potential as well as the opportunity
+to create demand for greater technological and regulatory shifts
+while being more politically palatable in the near term. In addi-
+tion, behavioral solutions can offer positive impacts on a range of
+challenges at lower costs than those associated with traditional
+Figure 2: Exposure to the message positively affects the reported intention to adopt several high-impact individual behaviors. Percentage point
+difference in the intention to adopt seven high-impact climate behaviors as the result of exposure to the messaging. Error bars represent 95% CIs.
+Rakhimov and Thulin
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac007/6839984 by guest on 26 August 2024
+economic policies [23]. For example, the Department of Energy
+supported Solarize campaigns apply social influences to drive the
+adoption of household solar with a direct program cost of $21 per
+ton of CO2 reduced, a cost below the social cost of emissions [24,
+25]. However, due to the critical need for comprehensive policy
+reform, programs encouraging individual action may not be
+worth pursuing if they undermine broader support for regulatory
+approaches like a carbon tax. Based on our results, policymakers
+and program designers working to address climate change should
+view behavioral solutions and messages as potential comple-
+ments driving shifts in large-scale climate policy.
+The study design results in several limitations for its interpre-
+tation. The study evaluates stated carbon tax support and inten-
+tion to adopt the behaviors. Actual adoption and voting behavior
+can
+diverge
+from
+expressed
+intentions
+and
+preferences.
+Furthermore, it is possible that the carbon tax was framed too
+broadly (‘carbon tax on companies and products. . .’) and per-
+ceived as insular to the individual behaviors in the messaging.
+Future work may extend our findings by measuring the effect of
+messaging on support for behavior-specific policies, such as fede-
+ral tax credits for EVs or taxes that are costly to the individual.
+SUPPLEMENTARY DATA
+Supplementary data are available at Oxford Open Climate Change
+online.
+ACKNOWLEDGMENTS
+We
+thank
+members
+of
+the
+Center
+for
+Behavior
+and
+the
+Environment at Rare for providing insightful comments and dis-
+cussion. We also thank the reviewers for their thoughtful recom-
+mendations
+and
+suggestions.
+Finally,
+we
+thank
+the
+study
+respondents who provided their time to support this research.
+STUDY FUNDING
+This work was conducted with support from the Arthur Vining
+Davis Foundations, the Grantham Environmental Trust and Mr.
+Samuel G. Rose.
+CONFLICT OF INTEREST
+None declared.
+AUTHORS’ CONTRIBUTIONS
+Abdurakhim Rakhimov (Data curation [equal], Formal analysis
+[lead], Writing—original draft [lead]), Erik Thulin (Conceptualization
+[lead], Data curation [equal], Formal analysis [supporting], Funding
+acquisition [lead], Supervision [lead], Writing—review and editing
+[lead]). Erik Thulin conceptualized the research, and reviewed and
+edited the manuscript. Abdurakhim Rakhimov and Erik Thulin
+designed the research. Abdurakhim Rakhimov analyzed the results
+and wrote the manuscript.
+DATA AVAILABILITY
+The data and other study materials are available in a public re-
+pository at https://osf.io/m9ah3/.
+REFERENCES
+1.
+IPCC. Summary for policymakers. In: V Masson-Delmotte, P
+Zhai, D Po¨rtner H-O et al. (eds), Global Warming of 1.5C. An IPCC
+Special Report on the Impacts of Global Warming of 1.5C above Pre-
+industrial Levels and Related Global Greenhouse Gas Emission
+Pathways, in the Context of Strengthening the Global Response to the
+Threat of Climate Change, Sustainable Development, and Efforts to
+Eradicate Poverty. Cambridge, UK: Cambridge University Press,
+2018, 3–24.
+2.
+GCA. Adapt Now: A Global Call for Leadership on Climate Resilience.
+Rotterdam: Global Center on Adaptation, World Resources
+Institute, 2019.
+3.
+Hawken P. Drawdown: The Most Comprehensive Plan ever Proposed
+to Reverse Global Warming. New York: Penguin Books, 2017.
+4.
+Foley J, Wilkinson K, Frischmann C et al. The Drawdown Review
+(2020)—Climate Solutions for a New Decade, 2020. https://draw-
+down.org/sites/default/ﬁles/pdfs/TheDrawdownReview%E2%
+80%932020%E2%80%93Download.pdf.
+5.
+de Coninck H, Revi A, Babiker M et al. Global Warming of 1.5C. An
+IPCC Special Report on the Impacts of Global Warming of 1.5C above
+Pre-Industrial Levels and Related Global Greenhouse Gas Emission
+Pathways, in the Context of Strengthening the Global Response to the
+Threat of Climate Change, Sustainable Development, and Efforts to
+Eradicate Poverty. Geneva, Switzerland: World Meteorological
+Organization, 2018.
+6.
+Committee on Climate Change. The Sixth Carbon Budget. The UK’s
+path to Net Zero, 2020. https://www.theccc.org.uk/publication/-
+sixth-carbon-budget/.
+7.
+Dietz T, Gardner GT, Gilligan J et al. Household actions can pro-
+vide a behavioral wedge to rapidly reduce US carbon emissions.
+Proc Natl Acad Sci USA 2009;106:18452–6.
+8.
+Heller K, Berger M, Gagern A et al. Six behaviors policymakers
+should promote to mitigate climate change. Behav Sci Policy
+2021;7:63–73.
+9.
+Palm R, Bolsen T, Kingsland JT. “Don’t tell me what to do”:
+Resistance to climate change messages suggesting behavior
+changes. Weather Clim Soc 2020;12:827–35.
+10.
+Goldstein JS, Qvist SA. A Bright Future: How Some Countries Have
+Solved Climate Change and the Rest Can Follow. New York: Public
+Affairs, 2019.
+11.
+Mann ME. Lifestyle Changes Aren’t Enough to Save the Planet. Here’s
+What Could. Time, 2019.
+12.
+Werfel SH. Household behaviour crowds out support for climate
+change policy when sufﬁcient progress is perceived. Nat Clim
+Chang 2017;7:512–5.
+13.
+Hagmann D, Ho EH, Loewenstein G. Nudging out support for a
+carbon tax. Nat Clim Chang 2019;9:484–9.
+14.
+Lacasse K. Don’t be satisﬁed, identify! Strengthening positive
+spillover by connecting pro-environmental behaviors to an
+“environmentalist” label. J Environ Psychol 2016;48:149–58.
+15.
+Truelove HB, Yeung KL, Carrico AR et al. From plastic bottle
+recycling to policy support: An experimental test of pro-
+environmental spillover. J Environ Psychol 2016;46:55–66.
+16.
+Truelove HB, Nugent MR. Straw wars: Pro-environmental
+spillover following a guilt appeal. J Environ Psychol 2020;72:
+101521.
+17.
+Maki A, Carrico AR, Raimi KT et al. Meta-analysis of pro-
+environmental
+behaviour
+spillover.
+Nat
+Sustain
+2019;2:
+307–15.
+4
+|
+Oxford Open Climate Change, 2022, Vol. 2, No. 1
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac007/6839984 by guest on 26 August 2024
+18.
+Coppock A, McClellan OA. Validating the demographic, po-
+litical, psychological,
+and experimental results obtained
+from
+a
+new
+source
+of
+online
+survey
+respondents.
+Res
+Politics 2019;6.
+19.
+Zizzo DJ. Experimenter demand effects in economic experi-
+ments. Exp Econ 2010;13:75–98.
+20.
+Lakens D, Scheel AM, Isager PM. Equivalence testing for psycho-
+logical research: A tutorial. Adv Methods Pract Psychol Sci 2018;1:
+259–69.
+21.
+Cohen J. Statistical Power Analysis for the Behavioral Sciences.
+Lawrence Erlbaum Associates, 1988.
+22.
+Leiserowitz A, Maibach E, Rosenthal S et al. Global Warming’s Six
+Americas, September 2021. Yale University and George Mason
+University. New Haven, CT: Yale Program on Climate Change
+Communication, 2022.
+23.
+Allcott H, Rogers T. The short-run and long-run effects of be-
+havioral interventions: Experimental evidence from energy con-
+servation. Am Econ Rev 2014;104:3003–37.
+24.
+Gillingham K, Bollinger B. Social learning and solar photovoltaic
+adoption. Manage Sci 2021;67:7091–112.
+25.
+EDF. The True Cost of Carbon Pollution. https://www.edf.org/true-
+cost-carbon-pollution (30 June 2022, date last accessed).
+Rakhimov and Thulin
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac007/6839984 by guest on 26 August 2024

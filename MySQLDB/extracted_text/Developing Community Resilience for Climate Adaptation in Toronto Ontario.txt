@@ -1,0 +1,2302 @@
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+Developing Community Resilience for Climate Adaptation in 
+Toronto, Ontario 
+ 
+ 
+ 
+by 
+William Nixon  
+ 
+ 
+Supervised by 
+Joe Mihevc 
+ 
+ 
+ 
+A Major Paper submitted to the Faculty of Environmental and Urban Change 
+in partial fulfillment of the requirements for the degree of Master in Environmental Studies   
+York University, Toronto, Ontario, Canada 
+ 
+ 
+ 
+July 31st, 2021 
+ 
+ 
+ii 
+ 
+Abstract 
+Climate change is here and will get worse. The City of Toronto must adapt to the forecasted 
+circumstances and prepare its communities to withstand the incoming stresses and shocks. This 
+research paper provides policy recommendations to the City of Toronto that would build the 
+adaptive capacity and community resilience of its neighbourhoods to better withstand the 
+impacts of climate change. It recognizes the value of a hybrid between bottom-up and top-down 
+approaches that includes local residents while aiming toward goals set by the city. It utilizes a 
+literature review of relevant theory and an analysis of Toronto’s existing climate policy to 
+distinguish where the recommendations could contribute value. A case study on Rotterdam, 
+Netherlands, a leader in climate adaptation, and interviews with industry professionals provided 
+insights on policies that the City of Toronto could pursue to improve its adaptation efforts. The 
+two recommendations include the development of neighbourhood resilience plans to increase 
+community adaptive capacity and resilience, as well as a resilience assessment in Toronto’s 
+development review process. Each recommendation would address existing vulnerabilities in 
+communities and would improve access to resources that aid residents during periods of stress 
+and shocks.  
+ 
+ 
+iii 
+ 
+Foreword 
+In my major paper, I examine climate change and its impacts as both a shock to and a stress for 
+which cities must become resilient. My plan of study is about how urban planning is addressing 
+the incoming threat of climate change, specifically how cities are preparing its residents for the 
+impacts. In my mind, climate change is the greatest threat to humanity during my lifetime, so it 
+was exciting to research tangible solutions for preparing urban residents for the looming threat.  
+During the writing of this major paper, I was able to develop my understanding of the many 
+directions that climate adaptation can take to address the issue which I addressed Learning 
+Objectives 1.1 and 2.1. I believe that this captures the focus of both my major paper and Plan of 
+Study. My overall approach of the major paper acknowledges the existing climate policy in 
+Toronto and provides insights on where the city could improve its effort to reduce the impact of 
+climate change on Torontonians. This developed into a focus on improving the policy regarding 
+community resilience of neighbourhoods. Toronto’s approach to climate risk has primarily 
+concentrated on the risk to physical infrastructure and land use, so addressing the community 
+was a necessary addition. By expanding the scope of resilience to include communities, residents 
+should be better equipped to endure climate impacts. Engaging, educating, and equipping 
+residents with resources helps them to withstand difficult periods of climate stress.  
+Speaking with professionals provided me with a grounded perspective of ways that plans can be 
+implemented. This reflects Learning Objectives 1.2 and 2.2 of the Plan of Study as it emphasizes 
+the need to not only develop strong plans for addressing urban issues, but also how they would 
+integrate into the City of Toronto’s current systems. I sufficiently address these objectives 
+through the use of a case study and interviews with climate adaptation professionals. The case 
+study provides a precedent in the city of Rotterdam, which has had success in developing an 
+effective adaptation strategy and, more importantly, has implemented its actions and learned 
+from them. The interviews with relevant professionals provide first-hand experiences in relation 
+with climate adaptation strategies and approaches. Learning from professionals with a variety of 
+backgrounds and experiences grounds the research with a sense of practicality.  
+Learning objectives 3.1, 3.2, and 3.3 in my major paper while developing the focus of the 
+recommendations. The recommendations focus on improving the participation of communities 
+iv 
+ 
+and addressing their needs during the decision-making process of changes to their 
+neighbourhoods. The strength of the recommendations depends on the participation of the 
+communities in which they are implemented. I learned that public participation can greatly vary 
+with topics with complex subject matter. This is especially important for neighbourhoods with 
+greater demographic compositions of marginalized and racialized residents. In these areas, there 
+are likely to be more barriers for participation and sometimes less existing social infrastructure 
+available to build climate-related resilience. This major paper recognizes that the City of 
+Toronto’s planners must consider the demographics, present stresses, and experiences of the 
+residents while developing the strategic plan for the neighbourhood’s resilience. It was important 
+to recognize that there is not a one size fits all solution and each neighbourhood’s resilience plan 
+would need to be adapted to fit their particular needs.  
+ 
+ 
+ 
+ 
+ 
+v 
+ 
+Dedication 
+I would like to dedicate this work to the future. I sincerely hope that we will have done enough to 
+set us on a more livable path forward.  
+Acknowledgement 
+The author acknowledges that in Toronto, we are on the traditional territory of many nations 
+including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and 
+the Wendat peoples and is now home to many diverse First Nations, Inuit and Métis peoples. The 
+author acknowledges that Toronto is covered by Treaty 13 signed with the Mississaugas of the 
+Credit, and the Williams Treaties signed with multiple Mississaugas and Chippewa bands. 
+ 
+I would like to acknowledge those around me that made this research paper possible. Foremost, I 
+need to thank my partner Colleen for all of her edits and listening to me rant. Without her, I 
+would not be where I am. I would also like to thank my family, Maggie, Carolyn, and Bill, and 
+friends for their continued support and love as I progress through life. I’d like to thank all of the 
+individuals who agreed to provide their insights and experience for the research of this work. 
+Additionally, I’d like to thank the professors that taught me along the way, specifically Luisa 
+Sotomayor and Laura Taylor, for going out of their way to help students succeed. Thanks to Joe 
+Mihevc for being my supervisor. I appreciate you taking the time to help me through this 
+process. Finally, I’d like to thank all of the people in the world who are fighting to build a better 
+future for the generations to come. Your sacrifice and hard work should not go unnoticed.  
+ 
+ 
+ 
+vi 
+ 
+Table of Contents 
+Abstract …………………………………………………………………………….…...……… ii 
+Foreword ………………………………………………………………………………………. iii 
+Dedication ……………………………………………………………………….……………… v 
+Acknowledgement ………………………………………………………………….……………v 
+Table of Contents ……………………………………………………………….…...………… vi 
+List of Figures …………………………………………………………………….…...……… vii 
+ 
+Introduction …………………………………………………………………………………….. 1 
+Methodology ………………………………………………………………………………......… 5 
+Structure ………………………………………………………………………………….……… 7 
+ 
+Chapter One: Understanding the Need to Change ………………………………...………… 8 
+Theory Behind Climate Adaptation ……………………………………..…………….....……… 9 
+Vulnerability and the Importance of Developing Community Resilience ……..………………. 11 
+Chapter Two: Why Does Toronto Need to Change? ……………………………..………… 15 
+Toronto’s Context ……………………………………………………………………………… 19 
+Climate Action Plans ………………………...………………………………………………… 21 
+ 
+Chapter Three: Case Study: Rotterdam, Netherlands …...………………………………… 25 
+Ideas for Toronto …………………………………………..…………………………………… 27 
+ 
+Chapter Four: Findings and Recommendations .…………………………………………… 30 
+Recommendation 1: Neighbourhood Resilience Plans ………………………………………… 31 
+Recommendation 2: Resilience Assessment …………………………………………………… 37 
+ 
+Conclusion ……………………………………………………..……………………………… 41 
+ 
+Appendix ………………………………………………….…………………………………… 43 
+References ………………………………………...…………………………………………… 52 
+ 
+ 
+vii 
+ 
+List of Figures 
+Figure 1: Toronto's Climate Forecast (Climate Atlas) ………………………….…………..…… 4 
+Figure 2: Income Distribution in Toronto (Resilience Strategy) ……………….……………… 15 
+Figure 3: SNAP Planning Process (TRCA) ………………………………………….………… 35 
+ 
+1 
+ 
+During the writing of this research paper, the COVID-19 pandemic significantly affected the 
+world. While it would be impossible not to reference and reflect on the impact of COVID-19, this 
+research paper will not focus on the pandemic. Instead, this research paper will reference the 
+similarities of global totality between the pandemic and climate change. COVID-19 has provided 
+a glimpse at the preparedness of cities to handle a systemic shock, much like what may be 
+witnessed with a more volatile climate.  In addition, COVID-19 has displayed the various kinds 
+of responses that communities can have to an issue of this scale. COVID-19, in Canada and 
+other parts of the world, has been largely an urban issue because of its spread and concentration 
+in urban centres and its disruption to urban systems such as transportation, the local economy, 
+and governance (Canadian Urban Institute 2020). Because the pandemic will likely emphasize 
+similar systemic issues as the impact of climate change, therefore, there is a unique opportunity 
+to address these issues now instead of during a future climate-related crisis. 
+Introduction 
+“We can delay and pay or plan and prosper” were the words of Patrick Verkooijen, the CEO of 
+the Global Center on Adaptation, at the Climate Adaptation Summit 2021. Their words describe 
+the situation that many cities face across the world regarding their efforts to adapt to the impacts 
+of climate change. Every city will need to adapt in some way, however, the effort and investment 
+into such initiatives will vary greatly. The vision of this research paper is to answer the question 
+of how the City of Toronto can improve its climate adaptation policies to better prepare its 
+residents for the impacts of climate change. Toronto is not currently a leader in adaptation and is 
+falling behind because of a lack of investment into implementing climate related plans 
+throughout the city, including those focused on community resilience. This is not to say that the 
+foundations for good policy do not already exist, but that it needs to be deployed in a way that 
+focuses on adaptation. While the endeavour of adapting to climate change is a steep climb and 
+entails a heavy investment, to not address it would be worse.  
+The purpose of this research paper is to provide the City of Toronto with recommendations of 
+implementable pilot projects that would help contribute to the city’s climate adaptation efforts. 
+Though there are many aspects of climate adaptation that could have been focused on, the 
+recommendations of this research paper will centre around the development of community 
+2 
+ 
+resilience and adaptative capacity to climate change-related shocks and stresses. The decision to 
+focus on the neighbourhood scale was based on the importance that community ties have during 
+periods of distress and to address the uneven distribution of adaptive capabilities in communities 
+across the City of Toronto.  
+The first recommendation is the formation of neighbourhood resilience plans (NRP) for each of 
+Toronto’s neighbourhoods. These plans will assess the area-specific vulnerabilities and risks 
+which will guide the creation of resilience-focused initiatives. The NRP are a collaborative effort 
+between the community of the neighbourhood and city officials to ensure that the needs of the 
+community and city are addressed. The second recommendation is the inclusion of a resilience-
+focused assessment into Toronto’s development process. This assessment would make sure that 
+developers planned for future climate conditions in their development proposals and provided 
+evidence that their project would continue to perform at a high level, even with more strenuous 
+conditions. The second recommendation will focus on the investment into community social 
+wellbeing and how it may improve the social connectivity of the development area. If 
+implemented, these recommendations would provide a grounded foundation for the City of 
+Toronto to further build its adaptation strategy and effort.  
+This research paper developed its recommendations to be aligned with academic literature, 
+guided by international best practice examples, and implementable in the context of Toronto’s 
+current climate policy. The literature review develops an understanding of why adaptation is 
+important and the characteristics that would benefit Toronto’s adaptation process. Next, an 
+assessment of Toronto’s existing climate policy and growth forecast provides the reason why 
+new policy is required to prepare the City of Toronto for climate change. Finally, a case study on 
+Rotterdam, Netherlands and interviews with professionals provides tangible insight on 
+implementing climate adaptation policy. The recommendations are made to be adapted and 
+further developed as the understanding of the impact of climate change on Toronto changes.  
+Why Toronto? 
+The City of Toronto was selected for this research for a variety of reasons (including being the 
+hometown of the author). Toronto is a developing metropolis that has specialized in embracing 
+diversity to integrate newcomers to the city. During the time of this writing, Toronto, currently at 
+3 
+ 
+3.05 million people, is preparing for an increase in population of 450,000 (3.5 million total) by 
+2030 and 700,000 (3.7 million total) by 2046 (Ontario 2021). At the same time, this population 
+growth is a part of the overall Greater Golden Horseshoe Area that is forecast to grow to 15 
+million people by 2051 (Growth Plan 2019, 94). In planning to accommodate such a large 
+number of new future residents, the city has an opportunity to establish climate adaptation as a 
+defining feature in planning to develop both new spaces and to redevelop existing spaces. 
+Toronto is already home to a booming local and international economy that contributes 18.5% of 
+Canada’s GDP (Toronto Global 2021). Toronto’s neighbourhoods have developed distinct 
+cultures and identities, which foster strong community involvement. All of this said, Toronto has 
+both a past and promising future that it needs to protect. Toronto’s strength as a city stems from 
+its ability to embrace diversity. It must continue to invest in the lives of its residents. Without the 
+people that fill Toronto’s street festivals or attend its sports games, there is no economic engine 
+or cultural hub. Without resilient communities, Toronto will not be a flourishing city (Resilience 
+Strategy 2019).  
+Toronto is a part of a greater international struggle with climate change. As detailed by the 
+United Nations’ Intergovernmental Panel on Climate Change (IPCC), the world must remain 
+below a global temperature increase of 1.5 degrees Celsius in order to minimize the disastrous 
+impacts of climate change (IPCC 2018). Exceeding 1.5 degrees Celsius has the potential for 
+catastrophic shocks to various natural and human developed systems. These impacts will be felt 
+deeply by urban residents through disruptions to local systems, such as food distribution, as well 
+as more immediate impacts of a volatile climate. The interconnectivity between cities, regions, 
+and nations means that the impact to one city will have a rippling effect on other areas as well. 
+These are only a few examples of how climate change could impact the world; more issues may 
+become known as the understanding of climate change develops.  
+Toronto, like many other cities, will be pressed by days and periods of very hot weather (over 30 
+degrees Celsius) and by more volatile periods of rainfall (Climate Atlas 2021). Figure 1 displays 
+the current predictions of Toronto’s climate in the next 30 to 60 years, which include more 
+variability and change that Toronto must address in its urban development. This new climate is 
+more detrimental for vulnerable populations such as the elderly, those without adequate shelter, 
+and those living in poverty, because they are more prone to be affected by the changes. Without 
+4 
+ 
+the financial, infrastructural, or community resources to reduce the resulting stressors, 
+individuals could find themselves in threatening situations. Additionally, as Climate Atlas further 
+describes, the “warmer climate 
+may lead to more extreme 
+weather, including high winds, 
+flash floods, drought, ice storms, 
+lightning, and even tornadoes” 
+(Climate Atlas 2021). As 
+demonstrated, it is highly likely 
+that Toronto will witness a 
+change in climate that will create 
+greater strain and stress on 
+existing urban systems; 
+therefore, the municipal 
+government must act pre-
+emptively to avoid these issues 
+before they manifest. 
+Why Rotterdam? 
+The City of Rotterdam, 
+Netherlands was selected as the subject of the case study because of its commitment to and 
+success in climate adaptation. Toronto has much to learn from this municipal example of global 
+best practice. While Toronto is larger in population (2.93 million vs. 623,000) and currently has 
+more forecast development than Rotterdam, both cities are economic and cultural hubs for their 
+respective countries. Rotterdam has been internationally recognized for its adaptation projects to 
+mitigate to the impacts of rising sea levels. The Dutch city has been successful because of its 
+strong inclusion of residents during the planning and implementation process. Rotterdam has 
+utilized a hybrid bottom-up and top-down approach by having city officials guide residents in 
+community initiatives that contribute to the city’s overall goals. Rotterdam has approached 
+climate change as an opportunity to form new networks and innovate. While the specific 
+Figure 1: Toronto's climate forecast (Climate Atlas 2021) 
+Retrieved July 31st, 2021, from climateatlas.ca 
+5 
+ 
+circumstances of the forecasted climate of the two cities are different, Toronto could learn from 
+Rotterdam how to build community support and implement climate adaptation projects.  
+Why focus on neighbourhoods and communities? 
+The research paper’s focus on policy concerning neighbourhoods and communities over larger 
+regional or national policy was to localize the response to climate change. The severity of 
+climate change requires people to adapt accordingly. By centring the solutions around 
+neighbourhoods, residents can more clearly imagine their impact on the environment and their 
+contribution to the solutions. Additionally, addressing the needs of communities allows for other 
+social issues to be tackled while preparing for climate-related shocks. This research paper 
+acknowledges the difference between the understanding of ‘neighbourhood’ and ‘community’, 
+with one pertaining to a place and the other to people (Booth et al. 2002, 18). However, for the 
+purposes of this research paper the terms are used interchangeably because the neighbourhood 
+boundaries act as the defining characteristics for the local community. The specific spatial 
+distinction is necessary for the final recommendations.  
+Addressing the issue on a city-wide scale may overlook the disparity between neighbourhoods 
+based on varying levels of vulnerability and existing resilience (Figueiredo et al. 2018, 14). 
+Assessing the issues at a neighbourhood or community scale provides a clearer assessment of 
+existing vulnerabilities and barriers that decrease the area’s adaptive capacity (Figueiredo et al. 
+2018, 14). Strengthening the capabilities of communities to prepare for, respond to, and recover 
+from a climate-related shock or stress will have a significant effect on their wellbeing.  
+Methodology: 
+The methods of the research were selected to fit the research questions that are being asked. All 
+of the methods have been adapted to minimize the risk of COVID-19 interfering with the data 
+collection. An MES Application to Conduct Human Participants Research has been submitted to 
+the EUC faculty. The structure and approach of the semi-structured interview has been 
+developed with the guidance of Doing Interview-based Qualitative Research: A Learner’s Guide 
+(Magnusson & Marecek 2015). 
+6 
+ 
+The methodology of this research paper includes a literature review of relevant academic articles, 
+municipal documents, and reports to create an understanding of what climate adaptation needs to 
+address and include to be successful. Academic articles were used to understand why cities as 
+actors are crucial for adapting residents to the impacts of climate change and to develop the 
+guiding principles that will help Toronto become more resilient. The research paper will then 
+address Toronto’s current adaptation policy and initiatives to develop an understanding of what 
+has been implemented and where new solutions would be able to fit into the current political and 
+governance landscape. This is crucial because of the timely relevance of the recommendations 
+for the City of Toronto. A case study on Rotterdam will provide an example of a city that has 
+successfully adopted climate adaptation within its city fabric and will provide examples for 
+policy and neighbourhood practice that could provide Toronto with insights. For the case study, 
+government documents and third-party reports were assessed to detail a picture of how 
+Rotterdam has succeeded in its adaptation process. Finally, based upon the established 
+understanding of Toronto’s climate problem, the research paper will provide two 
+recommendations for policies that the City of Toronto could pursue to increase its ability to 
+endure the impacts of climate change. The recommendations will be based on information 
+gathered during interviews with professionals and experts that have experience with climate 
+adaptation. These conversations were used to reinforce and ground the information gathered 
+from the academic and report literature review in a Toronto context.  
+The interviews were conducted in a semi-structured format that allowed participants to discuss 
+their experience with climate adaptation in Toronto. The semi-structured nature of the interview 
+had some anchoring questions but allowed for additional personalized questions based on that 
+participant’s experience or flexibility to accommodate for the participant’s answers (Appendix 1) 
+(Magnusson & Marecek 2015, 46-57). The interviews were recorded, transcribed, and then 
+summarized into notes that highlighted specific topics and details that were discussed (Appendix 
+2). The interviews were not coded in a systematic way because of the varying backgrounds of the 
+participants which impacted the subject matter of each interview. The gathered perspectives and 
+experiences provided relevant information that guided and grounded the final policy 
+recommendations.  
+7 
+ 
+For this research, industry professionals were interviewed to gain a better perspective on the 
+current state of Toronto’s climate adaptation plan and to provide insight into possible policy that 
+Toronto could adopt. Those interviewed come from a variety of backgrounds, but all of them 
+have been focused on climate adaptation in some way. As the research proceeded, some 
+participants were selected due to their specific experience and understanding of community-
+focused initiatives. The conversations provided a well-rounded overview of the issues, ongoings, 
+and potential projects that the city could implement to address its needs. The details of the 
+conversations are presented in the appendix of this research paper (Appendix 2). Many of the 
+insights that were provided by participants focused on hybrid bottom-up and top-down 
+approaches that would benefit Toronto’s effort to become more resilient and prepare itself for 
+climate change. These insights are reflected in the two recommendations provided by this 
+research paper.  
+The individuals interviewed were: 
+Dan Leeming, Senior Advisor at The Planning Partnership 
+Mike Layton, City of Toronto Councillor for Ward 11, University-Rosedale 
+Mary Rowe, President and CEO of the Canadian Urban Institute 
+Elliott Cappell, National Director of Climate Change, Resilience & Sustainability at WSP 
+Lisa King, Senior Environmental Policy Planner at the City of Toronto 
+Joanna Eyquem, Managing Director of Climate-Resilient Infrastructure at Intact Centre on 
+Climate Adaptation at University of Waterloo 
+David MacLeod, Senior Environmental Specialist at the City of Toronto 
+Shannon Logan, Senior Program Manager of the Sustainable Neighborhood Action Program 
+(SNAP) program with the Toronto and Region Conservation Authority (TRCA) 
+Jeb Brugmann, Founding Principle of Resilient Cities Catalyst 
+Lee Adamson, Vice Chair, Green Neighbours Network of Toronto 
+Paul Antze, Vice Chair, Green Neighbours Network of Toronto 
+Tim De Waele, Advisor (Water, Participation, and Climate Adaptation) at the City of Rotterdam 
+Structure: 
+The breakdown of this research paper is three-fold – first, it will review existing theoretical 
+literature to develop an understanding of why adaptation must occur and how it should be done 
+(Chapter One). Secondly, the report will assess Toronto’s climate-related situation and its 
+existing climate adaptation policy to pinpoint where new policy and initiatives would benefit the 
+8 
+ 
+city (Chapter Two). Finally, through a case study (Chapter Three) and interviews with relevant 
+professionals (Chapter Four), the research paper will provide recommendations of 
+neighbourhood focused initiatives that Toronto can implement. Ideally, by following the 
+recommendations, Toronto can better prepare itself for the present and incoming reality of 
+climate change. The city must continue to lower its greenhouse gas contributions but must also 
+simultaneously transition to preparing to weather the storm. Every effort that is pursued now 
+could save lives, infrastructure, and money. The best predictions that are currently available 
+show that cities must move swiftly to implement the necessary changes before the impacts of 
+climate change further intensify.  
+ 
+Chapter One – Understanding the need to change. 
+Although climate change has been forecasted for decades, there is still a general attitude of ‘foot 
+dragging’ on implementing necessary changes. This chapter reviews relevant academic literature 
+and reports to develop an understanding of why cities need to adapt to climate change and also 
+the impact that cities should aim for through their climate adaptation policy. To begin, it will 
+explain the focus on cities and their role in the greater context of the global effort to deal with 
+climate change. Further, this chapter will outline the discussion around the theory of ‘resilience’ 
+and the impact of choosing a normative term as a driving principle for climate adaptation. 
+Finally, the chapter will outline the concepts that are important to a city’s adaptation strategy and 
+how they contribute to addressing vulnerabilities to climate change. 
+Why Cities? 
+When considering the massive feat that combatting climate change demands, some may ask why 
+cities would be selected as the agent of change. Cities are, after all, huge polluters through their 
+large amounts of vehicle congestion, waste accumulation, and energy consumption (OECD 
+2021). The broadest answer is that more of the world lives in urban areas than not, at 55% (4.2 
+billion) of the world’s population (United Nations 2018). It is projected that 68% of the global 
+population will settle in urban areas by 2050 (United Nations 2018). Focusing on urban solutions 
+9 
+ 
+provides an opportunity to address a significant contributor, while also engaging much of the 
+world in implementing viable solutions.  
+An argument against cities’ ability to address climate change states that the existing inequality 
+prevents an equitable distribution of resources to adequately adapt to the circumstance. This 
+ability to adapt will be dependent on the existing social lines of those with access to the needed 
+resources and those who do not have access, which will serve to create further social divisions 
+(Davis 2010; Hodson & Marvin 2010, 300). This argument is crucial when considering how to 
+address climate change because it demonstrates the importance of prioritizing ‘public affluence 
+over private wealth’ (Davis 2010, 43). Due to the uneven development of cities, there needs to be 
+a just response to focus on existing inequalities that all cities currently have. Some 
+neighbourhoods will require a greater investment because of the lack of existing infrastructure, 
+whether social, economic, or physical. Most importantly, neighbourhoods need to become more 
+connected through information and resource sharing that allow projects to be adopted and 
+adapted from other areas. The ability to adapt must be available to all cities and to all 
+neighbourhoods in a city, and not only those that can afford it.  
+While cities do not have all of the tools to address the issue of climate change, they are 
+collectively developing a toolbox of initiatives that can be utilized to reduce its impact. There has 
+been a focus by organizations like the Global Center on Adaptation, ICLEI, and the Rockefeller 
+Foundation to develop resource-sharing networks of global cities. These networks share 
+collected data and adaptation initiatives to help other cities develop their own plans based upon 
+their unique situation. Since each city will witness its own struggle with climate change, the 
+adopted strategies need to be adapted to the needs of the city (Bulkeley & Tuts 2013, 652). 
+Developing these networks is crucial because it provides ideas, technology, and capital to less 
+developed countries and cities that are at greater risk of being impacted by climate change. This 
+is especially crucial because of the limited timeline that many cities face.  
+The Theory Behind Climate Adaptation 
+Resilience 
+10 
+ 
+The word ‘resilience’ has grown in both popularity and ambiguity. The word has widely been 
+embraced because of its focus on enduring through a difficult situation. It is for this reason that 
+resilience has been heavily adopted by those who advocate for climate adaptation. The need for 
+resilience is because current civilization has influenced the global climate to an extent that it has 
+made it less predictable, therefore, humans must accommodate for the resulting impacts and 
+change (Holling 1973, 13). The Anthropocene era, or the geological epoch of human influence 
+over the natural environment, has now solidified humanity’s influence on all natural habitats, 
+including its own. Resilience is a normative concept that holds control over the specifics of a 
+preparation or recovery period (Vale 2014, 196). Because of this, it is crucial for the definition of 
+resilience to value residents over economic systems. Resilience needs to be applied 
+comprehensively across municipal departments to ensure its integration into all municipal 
+systems.  
+Holling discusses the difference between stability and resilience, and how both concepts impact 
+the direction of action. Stability is “the ability of a system to return to an equilibrium state after a 
+temporary disturbance; the more rapidly it returns and the less it fluctuates, the more stable it 
+would be” (Holling 1973, 14). Holling defines resilience as “a measure of the persistence of 
+systems and of their ability to absorb change and disturbance and still maintain the same 
+relationship between populations and state variables” (Holling 1973, 14). Resilience, or the 
+ability to absorb change, occurs only during periods of disturbance, such as climate change, but 
+there is no defined function during stable times. Furthermore, the resilience of a system does not 
+suggest what pieces of a system continue, only that the system survives. Both of these points are 
+important because it creates the need to define what needs to be able to endure the storm and 
+how this will happen. Holling suggests that “periods with favourable conditions” should be 
+utilized to prepare for the predicted unpredictable periods by increasing the capacity to persist 
+(1973, 16). Therefore, it is crucial that adaptation efforts are started now instead of after the 
+climate has changed.  
+The focus on the definition of resilience in this paper establishes the actions and measures that 
+will be needed to handle and absorb change. Vale (2014, 194) details the start of the decision-
+making process with the dual question “for whom and against what”. These fundamental 
+questions establish the focus of the policies and plans that will be put in place to lead residents 
+11 
+ 
+through turbulence. Vale states that the determination of the focus will control the approach to 
+achieve resiliency and therefore change the deliberate plan of action (2014, 195). An ethical 
+imperative must be included to ensure that the those who are hardest hit, or forecast to be hardest 
+hit, receive the focus of the investment (Vale 2014, 195). Even though resilience is normative 
+and sustains the systems that were in place before the presence of a disruption, the ethical focus 
+would provide reasoning to address the systematic ethical failures that allowed the disruption to 
+occur. Not addressing the systems that prevent adaptation creates the opportunity for more 
+disruptions in the future. 
+Instead of stretching resilience so thin that it is meaningless, it can act as a feature that unifies 
+preparation efforts and embraces ‘bouncing forward’ to adapt the systems that created the setting 
+for the disruption to occur (Vale 2014, 198). The roots of a problem must be addressed, instead 
+of the product of an issue. For resilience to occur, there must be an aspect of review or revision 
+to address where vulnerability remains. In terms of city planning, this revision needs to occur 
+through vulnerability assessments and reviews when particular shocks and stressors do occur. 
+Through enough research and assessment, we can adequately predict where shocks will be felt 
+the hardest, and which shocks should result in action to support those neighbourhoods and 
+communities. 
+Vulnerability and the Importance of Developing Community Resilience 
+It is common for community initiatives to emerge in the wake of a natural disaster, pandemic, 
+systemic shock or stress. A ‘shock’, in this case, is an event that occurs unexpectedly, while a 
+‘stress’ is an ongoing issue that impedes a city’s ability to respond to a problem (Resilience 
+Strategy 2019, 20). Events such as Hurricane Sandy, the 1995 Chicago heatwave, or the COVID-
+19 pandemic all produced a community-driven force to help neighbours and individuals recover 
+from their horrific experiences (Dawson 2017; Klinenberg 1999; Fransen 2021). By better 
+understanding where shocks and stresses will be most heavily felt, a city can better prepare its 
+citizens to know what actions to take once a shock does occur.  
+Vulnerability 
+12 
+ 
+‘Vulnerability’ is a fundamental term in disaster response planning because it describes the 
+situation of residents who are more likely to be affected by a weather event before it occurs. 
+Youngman describes ‘physical vulnerability’ as a proneness to risk because of one’s location, 
+such as the proximity to a river or downhill from a mountain (2009, 178). ‘Social vulnerability’ 
+is described as “pre-existing conditions rooted in social inequalities, that affect potential disaster 
+victims’ ability to escape, survive, and/or ‘bounce back’ from a disaster: race, class, gender, age, 
+disability, health status, etc.” (Youngman 2009, 178). Communities that have historically been 
+oppressed or disenfranchised are more likely to find themselves in threatening positions. Those 
+who are struggling financially or who do not have adequate housing prior to a disruption are 
+likely to be more negatively affected than those who are more secure. Youngman further 
+describes the significance of human capital, personal support systems, and how individuals who 
+have family or community around them are more resilient (2009, 179). Addressing the 
+underlying factors that increase vulnerability in a community will provide them with a better 
+position to handle an unexpected occurrence in the future.  
+Vulnerability is a critical term when adapting a city to a future of uncertain disruptions because 
+of its universality in outlining where problems will occur. Disasters are not spontaneous, but 
+rather a series of underlying economic, environmental, and/or social systemic failures that are 
+magnified through a dangerous situation (Ali 2009; Bulkeley 2013, 32). As demonstrated by 
+Hurricane Katrina, the greatest destruction followed lines of marginalized and racialized 
+communities when compared to affluent areas (Brym 2009, 63). Toronto, too, has developed in 
+an uneven manner which has and will further impact communities’ ability to adapt for climate 
+change (Green et al. 2018, 26). For example, a 2018 study found that the tree canopy of a city, a 
+proven benefit for mitigating the impacts of extreme heat and flooding, was heavily dependent 
+on the income of a neighbourhood (Green et al. 2018). This study reflects uneven distribution of 
+resources across the city which will result in a similar uneven distribution of shock from climate 
+change. Access to resources, either private or communal, has a critical impact on how well 
+neighbourhoods can endure shocks and stresses. Unequal access to resources requires a varied 
+approach for addressing climate vulnerability. Some neighbourhoods will already have the 
+existing networks and resources, while others will require those systems to be built from the 
+ground up.  
+13 
+ 
+Adaptive Capacity and Community Resilience 
+To address climate vulnerability, a community needs the capacity to adapt in order to become 
+more resilient to change and periods of difficulty. The IPCC defines ‘adaptive capacity’ as “the 
+potential or ability of a system, region, or community to adapt to the effects or impacts of climate 
+change” (Smit & Pilifosova 2001, 881). However, it is also argued by some researchers that 
+adaptive capacity must extend further and should address the underlying political, economic, and 
+social factors that prevent communities from adapting (Smit & Pilifosova 2001; Berger et al. 
+2014). Communities are only able to focus on the vulnerabilities that they have agency to 
+address, and therefore they need to tackle the obstacles that prevent them from pursing adaptive 
+actions (Fransen 2021, 5). Due to the significance and severity of climate change, it is imperative 
+that climate adaptation is championed as a community issue (Sherrieb et al. 2010). While there is 
+debate about how community initiatives are started, either through grassroots organizing or city 
+official driven programs, there is a need for the opportunity to learn how they should adapt to 
+climate change.  
+To strengthen the adaptive capacity of a community, initiatives should increase the network and 
+organizing ability, promote consistent learning and reflection, ensure policies remain flexible and 
+include regular feedback loops, and use tools to plan for uncertain and unexpected events 
+(Berger et. al. 2014, 24; Magis 2010, 405). Assisting communities with developing stronger 
+community initiatives, while additionally providing them with options to address their issues, 
+enables them to develop solutions tailored to their specific needs (Berkes & Seixes 2005). The 
+more that communities, especially vulnerable ones, can strengthen their social capital, the more 
+resilient they are to weathering difficult periods. Increasing the capacity for change ultimately 
+leads to the presence of resilience in a community. For example, in the historic 1995 Chicago 
+heat wave, neighbourhoods that had established community networks and adaptive capacity 
+witnessed fewer resident deaths than areas with less social connection (Klinenberg 1999, 261). 
+Through social organization, some communities increased their capacity to take care of the 
+elderly, un-housed, or other vulnerable populations. While dependent on the nature of the 
+disruption, social cohesion and capacity are generally strong factors for determining how well a 
+community can absorb change and endure a difficult period (Sharifi & Yamagata 2016, 272).  
+14 
+ 
+Garnering participation in community organizing is crucial, yet difficult to achieve; therefore, the 
+obstacles preventing participation need to be addressed (Adger et al. 2009, 337-9). More 
+specifically, the technical and uncertain nature of climate science make it difficult for residents 
+to understand how climate change will impact their own lives (Berke & Lyles 2013; Broto et al. 
+2015, 8). Addressing the obstacles that prevent individuals from participating could lead to more 
+community buy-in and therefore a more comprehensive plan (Moore & McGregor 2020). Similar 
+to any other community planning initiative, plans cannot take a monolithic approach because 
+every community is different with varying preconceptions around climate change and its 
+subsequent solutions. Ensuring that a community committee adequately represents the diversity 
+of the community would ideally create a plan that reaches and inspires a greater population of a 
+neighbourhood (Moore & McGregor 2020; Saavedra et al. 2012, 8). Developing a setting that 
+allows for greater participation from communities will result in stronger plans and more resilient 
+communities. Climate strategies fundamentally require buy-in from residents, which requires 
+community engagement and educational projects. It is imperative that vulnerable communities 
+participate because they are likely to be affected to a greater extent than other non-vulnerable 
+populations.  
+Another important factor when considering community resilience is the structure of the 
+initiatives that are established, whether the approach is top-down, bottom-up, or a hybrid of the 
+two (Fransen et al. 2021, 6). The overall structure of a community initiative has an influence on 
+capabilities, strength, and community support. A top-down structure relies on the resources of 
+external partners for implementation, while a bottom-up structure features less hierarchy and is 
+community organized (Dawson 2017). Each structure has benefits for the types of response that 
+they provide. Top-down structures can provide a sustained initiative over a longer period of time, 
+while a community-driven initiative can act fast but may not have the resources to continue the 
+action (Fransen et al. 2021, 6; Barton et al. 2002, 8-9). Developing a hybrid strategy that features 
+both is important to develop both community participation and project longevity.  
+Now that the research paper has developed a basis to understand the significance of climate 
+adaptation, it will apply this understanding to Toronto’s context to establish how the provided 
+recommendations would benefit the city.  
+15 
+ 
+Chapter 2: Why Does Toronto Need to Change? 
+This chapter is a snapshot of a moment in Toronto’s adaptation process that reflects upon what 
+has come before and where it could lead. Urban policy does not occur within a vacuum and must 
+acknowledge the plethora of other factors that contribute to its public support and effectiveness. 
+This chapter will provide an explanation and context for the implementation of adaptation policy 
+in Toronto. It begins with an overview of the significance of adaptation policy in the City of 
+Toronto by providing data that show the 
+need to implement solutions now instead 
+of years in the future. Then, the chapter 
+will provide the policy context for the 
+recommendations. It is imperative that the 
+recommendations provided build off of the 
+existing projects and policies in the city to 
+increase the support for them and the 
+likelihood that they will be effective in 
+their purpose. The City of Toronto already 
+has the ball rolling, and this research aims 
+to contribute to the work that has already 
+been accomplished.  
+Social Significance 
+The significance of preparing for climate 
+change is substantial because the 
+preparations will determine the health and 
+livelihoods of the current and future 
+residents of Toronto. Preparing 
+communities to endure change requires ensuring support is provided when needed, both socially 
+and economically. Intrinsically, climate adaptation is a social justice issue because of the uneven 
+impact that the changing weather will have on areas with more marginalized communities, due to 
+past urban planning failures (Schrock et al. 2015; Bulkeley et al. 2013). Further, many systems 
+Figure 2: Income Distribution in Toronto (Resilience Strategy)
+(City of Toronto 2019;53)
+16 
+ 
+have not yet had to handle multiple disruptions at once, something that could become the norm 
+with climate change. Utilizing urban planning tools that increase community capacity provides 
+residents with the resources to remain resilient during troubling periods.  
+The magnitude of inequality in Toronto has created a disparity between neighbourhoods; those 
+that have greater access to resilience-related resources and those who do not. Figure 2, which 
+was taken from the Resilience Strategy, displays the distribution of high-, middle-, and low-
+income neighbourhoods in Toronto (Resilience Strategy 2019, 53). This disparity demonstrates 
+how unevenly the impacts of climate change will be felt throughout Toronto.  
+There are a variety of social-economic factors that make a person or community more vulnerable 
+than others to the impacts of climate change. Toronto’s Resilience Strategy considers every 
+equity seeking group as more vulnerable to climate change; that includes groups such as 
+immigrants and refugees, persons with disabilities, persons with low income, racialized 
+communities, members of the LGBTQIA2S+ community, undocumented individuals, vulnerable 
+seniors, vulnerable youth, and women (Resilience Strategy 2019, 23). Based on data from the 
+2016 census, 20.2% of population of the City of Toronto is considered low income, 51.5% 
+identified as a visible minority, 51.2% were born outside of Canada, and 46.8% were tenants 
+who spent more than 30% of their income on shelter costs (Toronto Glance 2021). Furthermore, 
+Statistics Canada reported in 2018 that 11.3% of individuals in Toronto currently live in poverty 
+(compared to the national rate of 11%) with roughly 8,700 individuals facing homelessness 
+(2018) (StatsCan 2018; Homeless Hub 2021; City of Toronto 2021). Some of these numbers and 
+percentages will likely have recently increased due to the COVID-19 pandemic. This data 
+demonstrates the multitude of residents that require greater assistance to ensure they have a fair 
+chance at enduring the impacts of climate change.  
+Economic Significance 
+To say that climate adaptation is expensive would be an understatement. Like any other urban 
+transformation, such as the post-World War Two infrastructure boom, preparing cities for 
+climate change will require immense economic investment. Redeveloping areas of cities to 
+incorporate ideas such as more active transportation, green space, and affordable housing will be 
+heavy on the budgets of many cities, especially those who are already operating with limited 
+17 
+ 
+funds. However, the cost of not adapting cities will be greater and will become more difficult if 
+the changes are implemented after a systemic shock occurs. The Federation of Canadian 
+Municipalities (FCM) estimates that every dollar invested into adaptation measures could save as 
+much as six dollars when recovering from a disaster (FCM 2020, 7). This figure fluctuates 
+depending on the location and previous adaptation provisions, but nevertheless displays the 
+economic value of spending the capital now as opposed to after a shock. Moreover, the 
+disruptions that climate change will cause will upend the livelihoods of local residents. The loss 
+of a job, or the sickness or death of a loved one, will have destabilizing effects on the life of a 
+resident. If adequate systems are not put in place prior to a shock, then the accumulation of many 
+of these events could negatively impact a community. A continued and longer stress, such as 
+COVID-19, also has the ability to overwhelm residents and devastate small businesses.  
+Estimating the Cost of Adaptation 
+While Toronto’s strategy continues to develop, there is not a clearly defined price that the 
+municipal government will have to pay. The clearest estimates for the cost to Toronto come from 
+The Federation of Canadian Municipalities, which provided a snapshot of the cost of adaptation. 
+The findings detail that the total cost of adaptation nationally will require $5.3 billion annually1, 
+or 0.26% of Canada’s Gross Domestic Product (GDP) (FCM 2020, 5). Overall, Canada lost an 
+average of $1.8 billion annually in insured losses between 2009 and 2017, a number that will 
+grow in coming decades (GCA 2020, 132). Adaptation is a process that bleeds into many aspects 
+of urban life and spreads across many municipal silos. This means that the efforts do not need to 
+start from the ground but can build upon already existing city initiatives, such as TransformTO, 
+or the Poverty Reduction Strategy. The invested funds will need to be distributed across many of 
+the City of Toronto’s divisions. 
+As stated above, shocks and stresses will be costly to the municipal, provincial, and federal 
+governments. Much like the east coast of Canada or Fort McMurray in Alberta, Toronto has 
+already witnessed the steep cost of unexpected weather events. The costs from Toronto’s 2013 
+ice storm demonstrate the immense funds required to respond to an extreme weather event. The 
+ 
+1 This cost primarily considers physical infrastructure, including buildings, dikes, roads, green infrastructure, water 
+treatment, sewer, administration, maintenance, seismic, technology and equipment, and utilities. This doesn’t 
+consider the economic impact on social and environmental systems.  
+18 
+ 
+Federation of Canadian Municipalities estimates that the total cost of that event to the City of 
+Toronto’s divisions, agencies, and corporation was about $107 million (FCM 2020, 54). This 
+shows how costly shocks can be and the added stress they put on a municipality’s budget. These 
+figures could become worse as shocks and stresses occur at the same time and systems are 
+stretched to respond to them.  
+Toronto’s position as a primary engine of Ontario’s and Canada’s economies means it is all that 
+more important to ensure that systematic disruptions do not stall the economic drivers of the city 
+for an extended period of time. The latest census data states that Toronto generated $332 billion, 
+or 18.5% of Canada’s total GDP (Toronto Global 2021). Further, Toronto residents have a 
+significant impact on the economies of many neighbouring municipalities that depend on 
+tourism. Because of this connectivity between Toronto and other cities, domestically and 
+globally, any disruption to Toronto’s economy will be economically felt elsewhere as well. 
+While this should not evaluate Toronto’s situation as greater than other cities, it is important to 
+reflect on the impact of economic disruption at a higher scale.  
+It is imperative that cities do not fall into the trap of austerity measures to pay for the significant 
+costs of climate adaptation measures. Researchers argue that cities should not cut necessary 
+social services to afford new infrastructure improvements because the same social programs are 
+necessary for successful adaptation and community resiliency (Bigger & Millington 2020, 605). 
+Austerity measures unevenly impact marginalized individuals and communities, the same 
+individuals and communities who require resources to increase their adaptive capacity and 
+decrease the risk that surrounds them. The additional debt from paying for social services will 
+add on to the costs of flooded basements and home repairs from climate shocks. If pursued, these 
+policies could expand the wealth gap and further divide the population. The financing solution 
+that is created to fund the adaptation plans needs to recognize the value of social programs and 
+the inevitable costs of eliminating them. As Bigger & Millington explain, developing just green 
+finance that accounts for social justice is critical for adaptation plans because if not, cities are 
+privatizing adequate adaptation for the urban elite (Bigger & Millington 2020). In 2021, time is 
+on Toronto’s side. The city still has years before it will witness the worst of the impacts from 
+climate change, but this time must be used to develop effective policy solutions to prepare for 
+impending risk in the future. 
+19 
+ 
+Toronto’s Policy Context 
+Urban Growth 
+The context for this research paper includes the projected growth of Toronto that will occur 
+simultaneously with the period that will observe a significant change in the local climate. The 
+infrastructure that is developed now must be built to withstand the climate of the future. With 
+physical infrastructure having a shelf life of at least 50+ years, the longevity of the developments 
+must acknowledge the issues that will be present in the future. Growth must be managed to 
+ensure that the systems upon which they are built are able to sustain the population that it 
+supports. Increasing the population and density on a structure or system that cannot bear its 
+current load will lead to inevitable issues (MacLeod, D. Personal Interview. 2021). Toronto is 
+already beginning to witness these strains on its infrastructure through unaffordable housing, 
+increased poverty, and overcrowded transit options. These issues must all be addressed in 
+conjunction with the increased strain from climate change, such as volatile weather, increased 
+energy demand for residential cooling or heating, or social structures to support communities. 
+Toronto’s development standards and assessments do consider the strain that new developments 
+will have on the existing systems and structures but should be expanded to prepare local 
+communities to succeed at becoming and remaining resilient. 
+Adaptation vs Mitigation? 
+Preparing for climate change occurs in two forms – mitigation and adaptation. Mitigation entails 
+the general reduction of emissions of a city, while adaptation regards how a city will change to 
+curb the impact of climate change on it. Both approaches are crucial and require a plan from 
+municipal governments in order to form a successful climate strategy. It is imperative for the 
+world’s stability to maintain a global temperature gain of 1.5 degrees Celsius; however, this 
+increase will deliver its own challenges that must be considered. In many circumstances, 
+adaptative action also mitigates impact, so the two do not have to be mutually exclusive. This 
+research will touch on the important current mitigation work being pursued and accomplished by 
+the City of Toronto; however, it will largely focus on adaptation strategies.   
+20 
+ 
+While both mitigation and adaptation strategies are crucial, there has been a disproportionate 
+focus on mitigation efforts over adaptation efforts in Toronto and other cities around the world. 
+Climate mitigation strategies and their focus on emissions reductions emphasize the need to 
+develop more efficient technology, land use distribution, and development standards to reduce a 
+city’s use of highly polluting energy sources. The less energy it takes to run a city, the less GHGs 
+will be released, resulting in a smaller contribution to a rapidly changing climate. By nature, 
+mitigation is quantifiable because it can be translated into emitted tonnes of pollution, and any 
+reduction can be easily tracked and reported. Similarly, adaptation has a crucial faction of its 
+effort that focuses on quantifiable tracking such as tree canopy percentage, sea water barrier, or 
+rainwater collection capacity. However, the adaptation efforts also include a large focus on 
+community needs and social standards, which relies on qualitative tracking that can be more 
+difficult, impeding government funding for implementation. 
+On October 2nd, 2019, the city council declared a climate emergency for the city. Over the past 
+decade, Toronto has developed mitigation and adaptation policies to establish its plan on how it 
+would reduce its impact on climate, while also reducing the impact of climate change on it. The 
+plans have largely occurred in a siloed approach with various municipal departments outlining 
+their individual approaches for emissions reduction. There has been a greater focus on mitigation 
+efforts and planning in comparison to adaptation, which is reflected in the efforts of Toronto’s 
+policies. Furthermore, as was outlined in Chapter One, the understanding of climate adaptation 
+has expanded in scope to consider a greater focus on community resiliency and equity. Because 
+of the broad nature of climate adaptation, this assessment will address the major initiatives of the 
+city, specifically those that concern climate change.  
+These policies and plans were selected because they represent the current guiding documents for 
+Toronto’s climate strategy. They have built upon other climate documents such as the Change is 
+in the Air: Climate Change, Clean Air, and Sustainable Energy Plan (City of Toronto 2007), 
+Ahead of the Storm: Preparing Toronto for Climate Change (City of Toronto, 2008), and The 
+Power to Live Green: Toronto’s Sustainability Energy Strategy (City of Toronto 2009). These 
+documents will not be assessed; however, their contribution to the current state of climate policy 
+in Toronto is acknowledged.  
+21 
+ 
+Climate Action Plans 
+TransformTO 
+TransformTO was passed in July 2017 as Toronto’s comprehensive climate action strategy and 
+primarily concerns mitigation efforts of reducing the municipality’s total GHG emissions 
+(TransformTO 2017). The plan aligns its goals with national efforts to meet the reductions target 
+set by the 2015 Paris Agreement (TransformTO 2017, 10). Broadly, TransformTO set its 
+reductions targets as 30% by 2020, 65% by 2030, and net zero by 2050 (all based on 1990 levels) 
+(TransformTO 2017, 6). In 2018, Toronto has reduced its emissions 37% (from 1990s levels) 
+while continuing to maintain population and economic growth (TransformTO 2017, 2). The plan 
+does not currently include exclusive adaptation measures, however, there are overlapping 
+principles that are adaptive and mitigative in nature. The plan underwent a consultation process 
+in 2019 and actions were recommended from the Toronto Office of Recovery and Rebuild based 
+upon the impacts of COVID-19. The plan will be updated based on this review in late 2021. The 
+report includes a section on resilience-related recommendations that would address the equity 
+issues that arose during the pandemic. Notably, the recommendations include (#66) expanding 
+the access to green space for those who do not already have access to it and utilizing a ‘build 
+back better’ lens to land use planning by prioritizing gentle density with an emphasis on mixed 
+building types and uses (TORR 18-19). These recommendations promote collaborative strategies 
+between mitigation and adaptation efforts that benefit the city in multiple ways.  
+TransformTO has been pivotal for Toronto in developing, implementing, and reviewing the 
+success of emissions reduction actions. The use of precise climate modeling allows the city to 
+clearly speculate, calculate, and communicate how well a proposed initiative will perform if 
+implemented. Initiatives such as electrifying the city’s bus fleet, pursuing renewable energy 
+choices, and ensuring optimal energy performance of all publicly owned buildings have all 
+contributed to Toronto’s effort to reduce its emissions. The limits of TransformTO are its 
+primary focus on quantitative data for achieving its goals with little regard for qualitative 
+aspects, such as community resilience or social connection. The plan largely deals with 
+infrastructurally implemented changes that can easily be tracked and adjusted in a quantifiable 
+way. This method has been effective in implementing quick changes that have reduced Toronto’s 
+22 
+ 
+emissions; however, this assessment will be difficult to maintain when other aspects, mainly 
+those involving qualities such as adaptive capacity or community support, are required to reduce 
+emissions.  
+Toronto Resilience Strategy 
+In May of 2019, the City of Toronto put forth Toronto’s First Resilience Strategy, a guiding plan 
+for the city’s climate adaptation approach. The plan was funded in partnership with 100 Resilient 
+Cities, a non-profit organization that aims to help international cities develop their own 
+adaptation plans and subsequently develop a connected network of municipal governments. The 
+City of Toronto appointed Elliott Cappell as the Chief Resilience Officer where he oversaw the 
+planning, research, and execution of designing the Resilience Strategy. A key driver of the plan 
+is its breakdown of many individual department silos in Toronto’s municipal government to 
+provide an overarching approach that weaves and connects climate resilience into every aspect of 
+the city. The Resilience Strategy breaks down its 10 goals and 27 actions into 3 key focus areas – 
+People and Neighbourhoods, Infrastructure, and Leading a Resilient City2 (Resilience Strategy 
+2019, 19). Because of the broad collaborative effort of the strategy and the significant priority of 
+the COVID-19 pandemic, Toronto has not yet been able to effectively operationalize the actions 
+and goals of the Resilience Strategy.  
+The plan proposes a more equitable vision for Toronto’s climate adaptation strategy to replace 
+the engineered approach that was featured in the 2007 Climate Change, Clean Air and 
+Sustainable Energy Action Plan (2007). The strategy heavily focuses on the qualitative 
+experience of Toronto residents and the importance of including community initiatives when 
+preparing for climate change. Fundamentally, the plan aims to tackle the multifaceted aspects of 
+climate resiliency by not only addressing its impacts but also its root causes. It heavily focuses 
+on removing the barriers that marginalized groups face that make them for vulnerable to the 
+ 
+2 People and Neighbourhoods (Toronto has resilient, safe, affordable homes; communities take action to improve resilience in 
+their neighbourhoods; and poverty is eliminated, and equity is improved). Infrastructure (Toronto is more resilient to climate 
+change, including the hazards of flooding and heat; infrastructure and buildings are resilient to a changing climate and reduce 
+greenhouse gas emissions; Toronto has multiple reliable, affordable, and safe mobility options that reduce the amount of time 
+it takes to get around). Leading a Resilient City (Civic engagement and trust in the City improve, and leadership better reflects 
+Toronto’s diversity; the City prioritizes the most vulnerable people and highest risk in decision-making; Indigenous communities 
+have a leadership role in building resilience; and institutionalize resilience into the City’s decision-making and take leadership 
+on resilience). 
+23 
+ 
+impacts of climate change. The strategy proactively addresses issues such as housing 
+accessibility and poverty rates, as key contributors to vulnerability, to urban climate issues such 
+as flooding or extreme heat (Resilience Strategy 2019). This section emphasizes the importance 
+of community engagement, education, and involvement in developing local climate initiatives 
+and increasing adaptive capacity (Resilience Strategy 2019).  
+Two action items of the plan are similar to the recommendations of this research paper. Action 
+A2.1 concerns the improvement of Toronto communities’ capacity to prepare and recover from 
+shocks (Resilience Strategy 2019, 84). The action emphasizes the importance of focusing on 
+neighbourhoods with more vulnerable populations and the importance of creating a strong 
+grassroots effort. Action B2.2 concerns further integrating resilience into the city’s development 
+and land use planning (Resilience Strategy 2019, 113-4). Ensuring that resilience is integrated 
+into the city fabric ensures that the physical and social infrastructures of communities are able to 
+adequately handle the increased demand of growth.  
+Toronto’s Resilience Strategy is a well-rounded document that addresses Toronto’s gaps that 
+prevent it from becoming more resilient to climate change. The strategy’s focus on equity is 
+crucial for addressing climate adaptation, specifically through a community, infrastructural, and 
+governance lens. The strategy’s breakdown of departmental silos is important because of the 
+focus on developing co-beneficial action plans. Because the report was developed under the 100 
+Resilient Cities program, it resembles the quality of plans of many global cities. While the 
+climate resilience plan is thorough, its execution and implementation in Toronto have been 
+problematic. Toronto created a Resilience Office upon the completion of the Resilience Strategy; 
+however, the office has not been allocated many resources to initiate plans. Because of the 
+immense scale of the plan, Toronto’s Council needs to allocate budgetary funding towards a 
+resilience-focused task force, either in an existing division such as the Environment & Energy 
+Division or in its own separate office. Another obstruction to climate adaptation progress was 
+COVID-19’s impact on the city. The pandemic strained the municipal annual budget and 
+reallocated resources to aid in the relief efforts. However, COVID-19 and climate change 
+adaptation share many root causes, so the recovery to the pandemic could act as a kickstart to a 
+greater community resilience initiative.  
+24 
+ 
+Toronto Green Standard 
+The Toronto Green Standard, as outlined in the Zero Emissions Building Framework report, are 
+sustainable development standards that new private and city-owned developments must meet 
+(Zero Emissions Building Framework 2018). The Toronto Green Standard is a tiered system that 
+promotes sustainable site building design that aligns development to Toronto’s emissions 
+reduction efforts. The Toronto Green Standard addresses focused areas such as improved air 
+quality, reduced energy use and GHG emissions, reduced storm water runoff, and the diversion 
+of waste to landfill (Zero Emissions Building Framework 2018, 15). Compliance with the 
+standard is mandatory through the planning approval process for tier 1, however, tiers 2 through 
+4 are voluntary. Adherence to the later tiers offer financial incentives and refunds on 
+development charges to the city. There have been multiple versions of the Toronto Green 
+Standard that increase the levels of compliance to reach lower overall emissions targets. Its 
+consistent 4-year review process of the development standard and the upgrading of the 
+compulsory tier of the program has been a key strength of the standard. Continuing to grow the 
+standard provides developers and city officials time to gain experience in implementing the 
+specifications that reduce a site’s consumption and use of greenhouse gases.  
+The Toronto Green Standard have proven to be a viable tool for influencing new development in 
+Toronto to have less of an impact on the environment. This standard is crucial for meeting the 
+city’s overall energy reduction goals for 2030 and further to 2050. A drawback of the Toronto 
+Green Standard is similar to those stated for TransformTO in that it is primarily focused on 
+mitigative efforts and is missing a community resilience consideration. However, due to the 
+revisionary nature of the standard, there are opportunities to expand the development standard to 
+encapsulate a broader scope. Another drawback of the program is the difficulty to entice 
+developers to comply to tiers higher than tier one. As stated during the interview with Dan 
+Leeming, there needs to be more incentive for developers to pursue greater tiers than a refunded 
+development charge which may only result in a sliver of overall costs being refunded (Leeming, 
+D. Personal Interview. 2020). Leeming further explained that this could be a role for the province 
+to play as “the City [of Toronto] can’t do it all on its own and the province needs to play a more 
+significant and helpful role” (Leeming, D. Personal Interview. 2020). A better combination of 
+25 
+ 
+compulsory standards and incentives would encourage more developments to hit a higher 
+standard earlier.  
+ 
+Chapter Three: Case Study – Rotterdam, Netherlands 
+The Netherlands is among the global leaders for adapting their cityscapes to the influence of 
+climate change. Largely, this change is due to their proximity to rising water systems that 
+threaten to flood the cities that are built in close proximity to, and below, ocean levels. 
+Rotterdam has always been aware of its relationship with the natural environment and has 
+developed its land use with the potential impact of flooding in mind. The city of Rotterdam has 
+emerged as not only an international example of a city that is effectively adapting, but also as the 
+international hub for idea sharing and cooperation. The Global Centre for Adaptation, founded in 
+2018, is headquartered in Rotterdam. The organization aims to connect countries and cities to 
+spread information and resources to provide accessible solutions that can be adapted to local 
+needs. Rotterdam acknowledges the threat of climate change and is actively adapting itself to 
+become more resilient to its impacts. For this reason, Rotterdam is a leader in climate adaptation 
+policy implementation and can be a role model for Toronto to improve its own strategy.  
+Similarities to Toronto 
+Rotterdam and Toronto share some similarities in their future projected interactions with climate 
+change. Both cities are forecasted to witness greater annual rainfall, periods of extreme heat 
+(days above 30C), and more erratic weather patterns (Weatherwise 2019, 18; Climate Atlas 
+2021). The urban implications of these changes are predicted to include greater risk of flooding 
+and a worsening urban heat island effect. Because of Rotterdam’s location on a delta and its low 
+elevation, flooding will be more of an issue for them. The heat island effect will be worse in 
+Toronto because of the significant amount of paved area. Both cities have indicated the presence 
+of vulnerable populations that are, and will continue to be, more susceptible to the climatic 
+impacts.  
+Rotterdam’s Approach 
+26 
+ 
+Rotterdam’s Climate Change Adaptation Strategy (2013) and Rotterdam Weatherwise (2019) are 
+the city’s guiding policies for implementing the changes necessary to make the city ‘climate-
+proof. Like other climate adaptation strategies, they provide focus areas that guide where and 
+how actions should be taken. The plans set the ambitious goal of 2025 as the timeline to 
+implement the strategy because of the visible proximity to the climate-related issues. These plans 
+have included a wide array of stakeholders, including residents, private real estate, government, 
+and non-governmental organizations, to create solutions that create opportunity while reaching 
+the municipality’s goals. Key to the recommendations of this paper, Rotterdam is recognized as a 
+global leader in climate adaptation because of its complete approach of investing into both its 
+infrastructure and community (C40 2016, 9; Centre for Livable Cities 2020, 112; Dai et al. 2018, 
+667).  
+During an interview with Tim De Waele, he highlighted some of the aspects that have been 
+beneficial for Rotterdam’s climate adaptation process (De Waele, T. Personal Interview. 2021). 
+A key component of Rotterdam’s approach is the implementation strategy that has been laid out 
+to set in motion the strategy’s actions. The strategy acknowledges that adaptation should occur 
+’in tune with the rhythm of the city’ which means that new developments need to be constructed 
+with sustainable measures and existing infrastructure needs to be updated when it becomes 
+outdated (Rotterdam Adaptation Strategy 2013, 132). Rotterdam has included developers, 
+businesses, non-government groups and residents to form solutions so that change occurs in a 
+functional way. The strategy outlines a series of instruments that can be utilized in tandem 
+between city planners and residents to implement the necessary changes. The adaptation 
+instruments include a publicly accessible and easily understandable climate data index, a 
+barometer of the progress of adaptation projects in Rotterdam, and a toolset of designs and 
+projects that can be adjusted for scale and purpose (Rotterdam Adaptation Strategy 2013, 130). 
+Rotterdam has made implementation a streamlined process while making public accountability a 
+priority.  
+Another aim of Rotterdam is to take advantage of the opportunities that planning for climate 
+change provides by improving the livability of neighbourhoods, increasing biodiversity, and 
+stimulating public participation and activity in the city (Rotterdam Adaptation Strategy 2013, 7). 
+The Rotterdam Weatherwise programme largely focuses on establishing a robust and 
+27 
+ 
+collaborative approach to adaptation through strong public and private engagement 
+(Weatherwise 2019, 48). Rotterdam approaches adaptation not as a problem, but as an 
+opportunity to make new investments into the future of its residents and to become a leader for 
+other delta cities and the world. Taking this approach has given the city a chance to grow as a 
+community through local consultations and initiative development. Without local community 
+buy-in and the subsequent impact that it has on city building, there cannot be enough adaptation 
+to occur to adequately prepare the city (Weatherwise 2019, 48). Rotterdam’s policies recognize 
+that the wellbeing of a local community is fundamental for the strength of the initiatives that it 
+aims to deploy. Investing in its communities is paramount for reducing the impact of climate 
+change in the future for Rotterdam.  
+Ideas for Toronto  
+Due to the City of Rotterdam’s proven success, leadership, and similar climate, forecast there are 
+policy and project ideas for Toronto to adopt and adapt to its own particular environment. These 
+ideas are compatible with Toronto’s current capacity and could be implemented through 
+Toronto’s City Planning and other impacted divisions. The ideas focus on developing co-
+beneficial projects between the physical and social infrastructure of the local community. For 
+both cities, resilience to climate change is a necessary investment to accompany the financing of 
+physical infrastructure and the built environment.  
+Area focused implementation ideas 
+The first idea that Toronto would benefit from is the neighbourhood focus on project 
+implementation. The area-focused implementation process takes a hybrid top-down and bottom-
+up approach which educates and engages local residents, customizing ideas from a municipal 
+toolbox to fit the needs of their community. In tandem with the important climate adaptation 
+features, Rotterdam is using these spaces to improve the livability and the quality of life of 
+residents living there (Rotterdam Resilience Strategy 2015, 82; Centre for Livable Cities 2020, 
+112). Rotterdam’s strategy utilizes a storytelling method to establish a sense of a shared burden 
+to unify communities against a common adversary (Rotterdam Adaptation Strategy 2013, 126). 
+Adding excitement and importance to a project increased the interest and involvement from the 
+local and citywide population (De Waele, T. Personal Interview. 2021). Embracing local leaders 
+28 
+ 
+to champion the initiatives, in tandem with municipal professionals, creates a greater chance that 
+the project will achieve community support (De Waele, T. Personal Interview. 2021). The 
+strategy highlights the importance of reprogramming areas to serve both an active community 
+benefit and a passive climate resilience benefit. This approach makes solutions more affordable 
+than new development because it utilizes spaces and infrastructure that already exist.  
+Highlight: Zomerhofkwartier (ZoHo) District 
+Rotterdam has embraced the idea of area focused implementation through its Climate Proof 
+Zomerhofkwartier (ZoHo) District project. The ZoHo area has been selected as a vulnerable area 
+to climate change and has been utilized as an urban laboratory to test adaptation measures on a 
+community scale (Urbanisten 2014, 19). Some of the projects that the area has pursued include: 
+Benthemplain Watersquare, Polder Roof, Katshoek Rain(a)way Garden, ZoHo Rainbarrel, 
+Greening Hofbogen, and ZoHo Raingardeden (Rotterdam Adaptation Strategy 2013, 41). These 
+plans are primarily creative solutions for adapting existing infrastructure, such as parking 
+garages, to absorb more rainwater during periods of heavy rain (Urbanisten 2014). An immense 
+strength of the projects are the dual benefits they provide - community benefits through place-
+making in addition to their adaptive services. The district plan heavily involves residents from 
+the area such as entrepreneurs, artists, and social groups to create projects that will fit in well to 
+the existing urban landscape. Developing solutions involves public engagement and education 
+processes that then utilize the toolset that is outlined by the city to reach its climate goals. 
+Utilizing one area as a laboratory to incubate ideas quickly builds precedent for other areas in the 
+city and political confidence about the opportunity for success.  
+Co-beneficial adaptation measures 
+The second important takeaway from Rotterdam that Toronto could incorporate is the approach 
+of developing climate adaptation infrastructure that has co-beneficial aspects for the surrounding 
+community. Rotterdam’s approach, much like Toronto’s strategy, focuses on alleviating the 
+pressure on the city’s water systems to reduce the possibility that the system is overloaded, in 
+which damage occurs to public and private property (Rotterdam Adaptation Strategy 2013, 82-
+3). The general approach involves the implementation of infrastructure to delay the release of 
+water into the respective municipal water systems to prevent overloading. The two cities have 
+29 
+ 
+some similar strategies, such as the use of green infrastructure, to increase the total amount of 
+water that can be absorbed naturally. Utilizing public areas as locations for water storage sites is 
+something that can be incorporated into many areas of a city, with the specific design of this 
+green and blue infrastructure being adapted to fit the needs of the area. The designs can either be 
+passive, like the Museum Park underground water storage, or they that can provide alternative 
+benefits to their area while not in use. Rainfall capturing spaces will become more crucial as the 
+impacts of climate change become more apparent.  
+Highlight: The Benthemplain Watersquare 
+As mentioned above, water squares such as the Benthemplain Watersquare are an urban solution 
+that can be useful in retaining water during periods of heavy rainfall, while also being a 
+functional community space when it is not being used to collect water. The project increases the 
+resilience of the neighbourhood by adapting public space to have a climate-related function 
+while providing a useful and engaging communal space (Centre for Livable Cities 2020, 113). 
+The square is made up of three basins: two shallower basins for normal rainfalls and a deeper 
+one for periods of extended rain (Urbanisten 2014, 42-6). Technology has been incorporated into 
+the design to follow weather forecasting and use remote sensing to operate in an optimal fashion. 
+The 3-basin system holds rainwater and releases it, once the heavy rainfall is done, into an 
+infiltration system to hydrate the nearby vegetation before the next period of forecasted heavy 
+rainfall (Urbanisten 2014, 42-6). A trough system carries the water from the surrounding 
+residential and commercial areas to fill the basins while limiting the accumulation of water 
+elsewhere.  
+Not only does the space provide climate-related benefits, but it also retains its community use as 
+well. Before the area was converted into a water collection space, it was an under-utilized space 
+because of its awkward connection to the surrounding high-density area (Public Square 2014). 
+Benthemplain Waterquare provides sitting areas for residents and an open space for activities 
+and sports. The dual feature of the infrastructure provides alternative use, and therefore added 
+value, to the community while serving an additional important purpose. The design of the square 
+was built upon local participation which created enthusiasm and support for the project. The 
+30 
+ 
+mixture of grey and green infrastructure creates an attractive space for residents to spend their 
+time and interact with one another.  
+Rotterdam’s approach of strongly incorporating the opinions, experiences, and needs of its local 
+residents into climate adaptation solutions would benefit Toronto’s adaptation progress. 
+Engaging residents and encouraging participation with local initiatives that contribute to the 
+overall city-wide adaptation effort could help Toronto frame the work as an opportunity instead 
+of a cumbersome experience. Creating excitement around a pilot project area that encourages 
+residents to learn about the need for it and its benefit to the community helps establish 
+precedence for other similar projects and communal understanding. Co-beneficial projects that 
+provide social benefits in addition to physical adaptation benefits could help the City of Toronto 
+gain the support of the public and the subsequent investment into the necessary infrastructure. 
+Toronto has the capacity to become the leader for climate adaptation in Canada and should 
+utilize Rotterdam as an example for its own strategy implementation.  
+ 
+Chapter 4: Recommendations 
+The literature review and policy review have painted a picture of what still needs to be done in 
+Toronto to make the city more resilient. While the city has produced a good mitigation strategy 
+with policies like the TransformTO strategy and the Toronto Green Standard, the 
+recommendations of this research paper is that Toronto needs to increase its adaptation specific 
+programing. This understanding was highlighted through the policy review and from 
+professionals during their interviews. Below are two recommendations that would serve as 
+adequate initial projects for a Resilience Office to establish the foundations for further growth. 
+Both recommendations aim to fill current gaps in Toronto’s climate strategy while also creating 
+policy that can and should grow to fit the needs of Toronto. The policies have the capability to be 
+expanded to include a broader lens that encompasses more aspects of climate adaptation; 
+however, for the purpose of this research paper, they will focus on their ability to improve the 
+adaptive capacity and increase the resilience of a community.  
+31 
+ 
+The first recommendation is a neighbourhood-focused approach, similar to the 
+Zomerhofkwartier District in Rotterdam, to establish community driven neighbourhood 
+resilience plans that implement community projects under a resilience lens. This 
+recommendation would not only use green and built infrastructure but would build upon the 
+existing social ties to improve an area’s adaptive capacity. The adaptation measures would be 
+developed with resident involvement and would be adapted to meet the needs of the local 
+neighbourhood community.  
+The second recommendation relates to new development in the city to address the forecasted 
+continual growth in Toronto. This research paper recommends that a resilience-focused 
+assessment be added to the development process in Toronto. Broadly, this assessment would 
+measure how well the development prepares the building to endure the challenges of the future, 
+based upon climate forecasting and risk assessments. The assessment would evaluate the 
+individual development and the surrounding community to measure the social infrastructure that 
+would become necessary during periods of shock. The assessment recommendation is built upon 
+Toronto’s current development process, relevant literature, and other best practice methods.  
+Recommendation 1: Neighbourhood Resilience Plans 
+The first recommendation focuses on the need to promote the development of neighbourhood 
+resilience plans (NRP), a city neighbourhood plan that focuses on reducing local vulnerabilities 
+and increasing resiliency. The NRP would set resilience priorities, based on a vulnerability 
+assessment and local perception of relevant issues and actions, both locally- and government-
+driven, aimed to address them. The NRP would be structured to be a collaboration between the 
+City of Toronto and the surrounding community with a strong focus on local initiatives. 
+Interviews with Shannon Logan, and Jeb Brugmann outlined the importance of a neighbourhood-
+focused initiative concentrated on reducing vulnerabilities, providing relevant resources, and 
+expanding local networks centred with a resilience lens (Logan, S. Personal Interview. 2021; 
+Brugmann, J. Personal Interview. 2021). A committee of interested local residents would be 
+created to plan, implement, and maintain community projects while also being consulted in the 
+decision-making process for new resilience-focused infrastructure. Current city strategies such as 
+the Toronto Strong Neighbourhoods Strategy 2020 and the Poverty Reduction Strategy have 
+32 
+ 
+similar goals and could be adapted to incorporate a climate resilience aspect (Neighbourhood 
+Strategy 2020; Poverty Reduction 2019). Overall, each NRP would contribute to the benchmarks 
+and goals established by the City of Toronto through its Resilience Strategy (Resilience Strategy 
+2019; 84-6). To initiate the rollout of NRP, the City of Toronto could pursue a pilot project in 
+two neighbourhoods, then use the experience gained through the pilot as precedents for other 
+neighbourhoods.  
+The neighbourhood resilience plan would be comprised of the actions: 
+- 
+Set neighbourhood profile/ boundaries 
+- 
+Figure out risks and vulnerabilities of neighbourhood through assessments and local 
+knowledge 
+- 
+Establish priorities  
+- 
+Develop action group committee of interested residents 
+- 
+Implement community initiatives to address both the needs of the community and climate 
+adaptation 
+The City of Toronto would establish community profiles based upon the existing 168 
+neighbourhood profiles (Neighbourhood Profiles 2021). These profiles could serve as the 
+foundation for the NRP and would provide a general understanding of the neighbourhood’s 
+demographics and natural features. As stated in Action A2.1 of the Resilience Strategy, 
+neighbourhoods designated Neighbourhood Improvement Areas (NIA) could be highlighted as 
+areas that may require greater capacity and network establishment (2019, 84-6). It is important 
+that local residents are included in the priority setting to provide a first-hand account of issues 
+that face their neighbourhoods.  
+Developing a neighbourhood resilience plan would provide Toronto’s residents an entry-point to 
+address the specific needs of a community while also adapting to climate change. Every 
+neighbourhood would fall upon a spectrum of adaptive capacity which would require varying 
+levels of investment into the neighbourhood. In conversation with Councillor Mike Layton, he 
+detailed the importance of engaging with communities to develop focused plans that cater to the 
+needs of the community in order to increase the chance of success for the program (Layton, M. 
+Personal Interview. 2020). While some neighbourhoods in Toronto already have suitable built, 
+natural, and social infrastructure established, such as Bloor West Village or other affluent areas, 
+33 
+ 
+other communities in the city such as Rexdale, or Jane and Finch require more attention to 
+address the potential risks and vulnerabilities. While every neighbourhood’s climate resilience 
+should be addressed, some neighbourhoods will need more focus to reduce the already present 
+vulnerabilities.  
+A key focus of all neighbourhood resilience plans would be to establish adaptative capacity and 
+community resilience through community-driven actions. The actions would depend on the 
+priorities set by the neighbourhood risk profiles. This ensures that other issues related to 
+resilience can be addressed, since solutions can have co-benefits. The focus on the 
+neighbourhood scale provides the opportunity for a multitude of local actors to deliberate about 
+the needs of the community. Through the connection with the City of Toronto and its divisions, 
+such as the Social Development Finance and Administration or Environment and Energy, a 
+community action group can liaison with city workers to pursue development solutions that 
+contribute to the goals of the city while using local initiatives to create worthwhile community 
+spaces. As was discussed in the first chapter’s literature review, it is crucial for community 
+resilience initiatives to have a strong bottom-up approach to ensure greater local participation 
+(Fransen et al. 2020,19). This community-driven approach could either be initiated through a 
+new grassroots project or by tapping into existing community groups that may have a vested 
+interest in climate resilience. Furthermore, the NRP would serve as a hub of educational 
+resources for the local community. Informational sessions and materials that breakdown climate 
+science and its impacts could be provided to the community to increase overall awareness of the 
+issue. This too would help increase the adaptive capacity of the area since more citizens would 
+be able to understand the adaptive needs of the community.  
+Precedents  
+The following precedents provide varying degrees of municipal investment into neighbourhoods 
+to develop adaptive capacity and eventual community resilience. The City of Toronto would 
+utilize the information gathered from the profile creation, risk and vulnerability assessments, and 
+public consultation to determine the level of investment required for each neighbourhood. The 
+level of investment is relative to the amount of existing climate vulnerability in the 
+neighbourhood.  
+34 
+ 
+Similar projects have been developed worldwide to prepare cities for the reality of climate 
+change, with Rotterdam’s Zomerhofkwartier District serving as a prime example of how local 
+community and government can develop resilience together. Other examples include Portland’s 
+Lloyd EcoDistrict or Victoria’s West Pilot (EcoDistrict 2017; Resilient Neighbourhoods 2013). 
+The projects listed above serve as suitable precedents that Toronto can utilize as frameworks and 
+customize to fit its individual situation. These projects all use neighbourhoods as the vehicle to 
+support, organize and deliver the change needed to achieve internationally recognized climate 
+goals. Equity remains fundamental to these projects to ensure that adaptation benefits are not 
+unevenly distributed. Strong community involvement is imperative to the success of the 
+implemented strategies.  
+The proposed framework of the neighbourhood resilience plan would involve a community-
+focused direction that is already present in Toronto. Initiatives such as Business Improvement 
+Areas, Community Improvement, and Neighbourhood Improvement Areas are all examples of 
+partnerships between government and community that aim to improve neighbourhoods. City 
+officials would work closely with the communities and would provide specialized 
+recommendations on how neighbourhoods could implement their ideas and projects. Fortunately, 
+there are already community organizing efforts throughout Toronto that could be used as a 
+starting point to find residents interested in climate action in each neighbourhood. Ideally, the 
+community efforts would attract as many members as possible to spread relevant information 
+most easily, however, the participation will likely vary depending on a variety of reasons like 
+subject matter, time of year, or other external forces. Therefore, it is important to find local 
+champions that can act as community organizers in their neighbourhoods (Antze, P. Personal 
+Interview. 2021). This approach was also reflected in the conversation with Councillor Mike 
+Layton. The Councillor reflected on the importance of elected and non-elected officials working 
+closely with community organizers, providing insight into how community groups can influence 
+change (Layton, M. Personal Interview. 2020). The actors involved with the NRP would also 
+serve as community leaders during periods of shock by effectively communicating between local 
+government and residents as well as connecting residents in need with needed resources.  
+Fortunately, Toronto does not need to search far for existing successful precedents that can be 
+adapted to fit the needs of the city. The TRCA’s Sustainable Neighbourhood Action Program 
+35 
+ 
+(SNAP) aims to work with municipalities to incorporate environmental improvements into urban 
+renewal projects (TRCA 2021). This program aims to address issues already present in the 
+neighbourhood while also establishing a foundational network of environmentally focused 
+residents. SNAP is an example of a program catered towards neighbourhoods that require greater 
+investment into the community’s adaptive capacity. The Green Neighbours Network (GNN) is a 
+network of community groups that represent concerned residents that want to make Toronto a 
+greener city (Green Neighbours 2021). The member groups are all different and focus on 
+environmental issues that are relevant to their residents. The GNN is an example of a program 
+that involves neighbourhoods or communities that already have some capacity to adapt to 
+climate change. Each precedent represents a place on the spectrum of adaptive capacity on which 
+every neighbourhood in Toronto would fall.  
+During an interview with Shannon Logan, a Senior Program Project Manager with the TRCA, 
+she discussed the impact that SNAP has had on communities (Logan, S. Personal Interview. 
+2021). Currently, there are three SNAP initiatives in Toronto, Black Creek SNAP, Rexdale, and 
+the Pocket SNAP. The program relies on a collaborative and thorough screening process to 
+determine which neighbourhoods are suitable, and vulnerable to environmental, social, and 
+economic risk, for the investment of the program’s resources. The TRCA already works closely 
+with city divisions during the selection process to choose the locations for their projects.  
+Because the program is resource intensive with thorough community engagement, program 
+Figure 3: Snap Program Planning Process, Snap Program, Toronto and Region Conservation Authority (2021) 
+36 
+ 
+creation and implementation, the current program would be too costly for many Toronto 
+neighbourhoods. Because of the locality, SNAP provides a clear framework for the City of 
+Toronto to integrate into its own neighbourhood improvement initiatives.  
+The neighbourhood resilience plan would incorporate a similar foundational risk and 
+vulnerability assessment on the selected neighbourhood as TRCA’s SNAP. Figure 2 displays the 
+breakdown of the process taken to develop their action plans. This assessment would be 
+undertaken by a city official but would be expanded with the insight of local residents. This 
+understanding of local threats will determine the required response and subsequent investment to 
+increase the resilience of the neighbourhood. Understanding the current and forecasted risks to 
+the neighbourhood will help develop better plans to adapt for climate change.  
+During interviews with Lee Adamson and Paul Antze, founding co-chairs of the Green 
+Neighbours Network of Toronto (GNN), they discussed their experiences participating in a 
+network that promoted sustainable and resilient solutions for community members (Adamson, L. 
+Personal Interview. 2021; Antze, P. Personal Interview). Both acknowledged the privileges that 
+they and their communities already have that provide them the capacity to socially organize and 
+increase their community’s resiliency. The groups provide neighbourhoods with a dependable 
+access point for climate-related information regarding ways to adapt their home or ways that 
+their actions contribute to national and international goals. Another highlighted benefit was the 
+sense of community connection, an important feature that can be utilized during a period of 
+stress (Adamson, L. Personal Interview. 2021; Antze, P. Personal Interview). Neighbours could 
+provide support, such as checking in on elderly members or grocery shopping for those who do 
+not have access to a car, during periods of extreme heat, rain, or weather. The co-founders 
+described the advantages of a co-beneficial relationship between the community group and 
+representation from the City of Toronto. The community-driven projects and foci ensured that 
+the subject matter remained relevant and engaging to residents, while the connection with a city 
+official provided a greater access to resources that would not have been available otherwise.  
+The experience of the Green Neighbours Network provides insight into how neighbourhoods 
+with existing capacity and networks can integrate a resilience-focused lens into community 
+projects or development. The NRP would provide them with a detailed path to addressing 
+37 
+ 
+existing vulnerabilities, such as home energy or water retainment or catchment retrofits. 
+Neighbourhoods with more capacity would be able to engage local leadership to drive both 
+short- and long-term initiatives with less directional influence from city officials. Additionally, 
+the city-wide network exhibited by the Green Neighbours Network demonstrates a functional 
+decentralized idea sharing network that is able to provide precedents to other neighbourhoods. 
+This network structure could be facilitated easily with the involvement of the City of Toronto 
+since government officials would easily be able to connect neighbourhoods working on similar 
+projects.  
+Fortunately, Toronto does not need to start fresh to develop a more climate resilient population; 
+however, this process will require time and financial investment. The initial financial investment 
+to establish the community resilience profiles and plans would need to be costed and funded 
+through the City’s Budget process. Toronto could integrate some of the community consultation 
+and outreach cost into other community wellbeing initiatives currently occurring in the city to 
+reduce the overall cost. It is important that this process begins soon to allow for the community 
+groups to start sharing information. Developing a neighbourhood resilience plan is important but 
+implementing it through actionable steps is essential.  
+Recommendation 2: Resilience Assessment 
+The second recommendation of this research paper is the introduction of a resilience assessment 
+(RA) into the development process of Toronto. Lisa King and Jeb Brugmann discussed the idea 
+of an RA in Toronto’s development process as a way of ensuring that new developments are able 
+to withstand the conditions of the future and address the risks and vulnerabilities of the site and 
+community (Brugmann, J. Personal Interview. 2021; King, L. Personal Interview. 2021). In 
+essence, a resilience assessment is a new development’s buy-in into the future of the 
+neighbourhood and its existing resilience strategy. (Sharifi & Yamagata 2014, 1493). The 
+resilience assessment would consist of an acknowledgement of the existing and forecasted 
+climate-related risks and vulnerabilities in the area. It would also demonstrate how the 
+development will retain a high standard of performance during its shelf life and in a more 
+volatile climate. Finally, the assessment will require an indication of the development’s 
+contributions to Toronto’s climate initiatives, which will be broken down into 5 dimensions: 
+38 
+ 
+Materials and Environmental Resources, Social and Wellbeing, Economy, Built Environment 
+and Infrastructure, and Governance and Institutions (Sharifi & Yamagata 2016, 263). Toronto’s 
+Green Standard already establishes a standard on Materials and Environmental Resources and 
+Built Environment and Infrastructure; therefore, this research paper will focus solely on the 
+Social and Wellbeing Dimension by explaining its importance for its inclusion and how it would 
+contribute to Toronto’s community resilience.  
+The first two requirements for the resilience assessment primarily safeguard that the developer 
+has planned for the conditions of climate change. This assessment would allow city planners to 
+use the City of Toronto’s influence over land-use planning to ensure the developer has completed 
+research into the present and future vulnerabilities of the site and the surrounding community.  
+Incorporating an acknowledgement of climate modelling and the forecasted conditions into the 
+development process would indicate that the development has a reliable performance standard 
+for the entirety of its proposed shelf life. As Jeb Brugmann stated, this indication of performance 
+is also an important factor for potential homebuyers as the impacts of climate change become 
+more apparent (Brugmann, J. Personal Interview. 2021). It is beneficial for the current and future 
+residents of Toronto to know that their home reaches an acceptable standard for enduring climate 
+change. The standard, similar to the function of the Toronto Green Standard, would promote 
+innovation and high-quality development to meet the needs of future generations. Introducing an 
+explicit resilience-related assessment into Toronto’s development process would ensure that the 
+concept is embedded into the fabric of the city. It is crucial that developers are included in 
+preparing Toronto for climate change because of the immense impact they have on the city’s 
+current and future growth.  
+The summarization of 36 international examples displays that a resilience assessment consists of 
+typically 5 dimensions: Materials and Environmental Resources, Social and Wellbeing, 
+Economy, Built Environment and Infrastructure, and Governance and Institutions (Sharifi & 
+Yamagata 2016, 263). Each dimension reflects attributes of Toronto’s climate policy strategy, is 
+critical for achieving a full picture of climate resilience and would have its own measurable 
+components that each contribute to the overall success. This recommendation will focus on the 
+Social and Wellbeing dimension to provide insight on how pre-development planning can 
+contribute to community resilience and adaptation. The developer would be able to innovate their 
+39 
+ 
+proposal to fit the resilience-specific needs of a community, which would then move the 
+application through Toronto’s development process. Including a Social and Wellbeing dimension 
+into a resilience assessment is important because of the significance that strong community 
+resilience can have on enduring climate shocks such as heat waves, periods of flooding, and 
+emergencies.  
+The resilience assessment would have to provide clear criteria for developers to assess and 
+evaluate in their project area that reflect the priorities established by Toronto’s Resilience 
+Strategy (Figueiredo et al. 2018, 40; Resilience Strategy 2019). Measurable assets that contribute 
+to the Social and Wellbeing dimension could include socio-economic characteristics, community 
+bonds, social support, social institutions, safety and wellbeing, equity and diversity, and local 
+culture and traditions (Sharifi & Yamagata 2016, 265). Each asset would be comprised of criteria 
+or indicators that the City of Toronto would need to develop to reflect both the needs of the 
+community and the climate goals of the city. Based on these indicators, city planners can work 
+with developers to alter the development plan to provide resilience-related co-benefits. The 
+added benefits could be similar to the current Community Benefit Agreement (CBA) already 
+present in Toronto’s development process; however, these would require a climate resilience 
+impact.  
+Precedents 
+Developing a completely new development assessment would be unnecessary because of the 
+success and similar subject matter of Toronto Green Standard. While the Toronto Green 
+Standard, in its current version 3 form, has overlap with resilience initiatives, it primarily 
+focuses on mitigation efforts and prescribes to a more engineered definition of climate adaptation 
+(Zero Emissions Building Framework 2018). Incorporating an RA into the Toronto Green 
+Standard would allow for it to benefit from the success of the established development standard, 
+namely its review process and standard improvement. The established 4-year review schedule 
+would allow for the expectations from developers to gradually increase, for experience to be 
+gained and relevant precedents to be established for new developments to emulate. Furthermore, 
+incorporating community resilience into the Toronto Green Standard would provide a more 
+streamlined integration into the development process than introducing a new assessment 
+40 
+ 
+altogether. Grouping resilience-related assessments together would better display the 
+interconnectivity of the multiple dimensions of resilience, which would help developers connect 
+the needs of the site to the greater needs of the community and city.  
+There are limited international precedents for development-scale resilience assessments 
+specifically focused on community and social wellbeing. However, assessments that evaluate a 
+city’s resilience can be utilized as an example for the purposes of this research paper. The 
+Rockefeller Foundation and the engineering consultant company ARUP created the City 
+Resilience Index (CRI) that evaluates a city’s progress to become more resilient to climate 
+change (ARUP 2014). The CRI’s relevant indicators to the Social and Wellbeing dimension are 
+minimal human vulnerability, diverse livelihood and employment, effective safeguards to human 
+health and life, and collective identity and mutual support. (ARUP 2014). Each of these have 
+measurable categories that contribute the overall progress of the Social and Wellbeing 
+dimension. While these indicators would need to be further adapted to assess Toronto’s 
+communities, they provide an understanding of how the overall dimension of Social and 
+Wellbeing can be broken down into categories that developers can easily follow and outline their 
+contribution to improving Toronto. 
+Overlap with Neighbourhood Resilience Plans 
+The two recommendations could provide insights and resources for each other. The adaptation 
+priorities of the neighbourhood resilience plan could be utilized by developers to innovate their 
+projects to contribute to the needs of the community. Displaying an understanding not only of the 
+performance of the individual development, but also of the surrounding community, incentivizes 
+developers to innovate and contribute to the resilience of the neighbourhood. Community 
+resilience-focused development could include more communal areas that can be adapted to the 
+needs of the community. Importantly, the information gathered about the needs of the 
+community provides direction for developers to follow. Developers that can demonstrate that 
+their project fills the needs of a community could receive incentives such as a more streamlined 
+timeline through the development process. 
+The presence of a neighbourhood resilience plan also signifies to developers that risks associated 
+with climate change are being addressed by the city. Brugmann explained that this de-risking 
+41 
+ 
+will influence the market to make areas where community resilience is present as a viable place 
+to pursue development, where the community and city are seeking investment and development 
+improvements (Brugmann, J. Personal Interview. 2021). Implementing community-focused 
+initiatives will ideally make that neighbourhood more appealing to live in, which will in turn 
+influence the market in a positive way. If communicated in an effective manner, residents of 
+Toronto will understand the importance of resilience, which will impact their decision-making 
+on where to live in the city. Ideally, this community attention to resilience-driven development 
+will result in an increase in market value of the project.  
+ 
+Conclusion  
+Without community resilience, the City of Toronto will face a future with greater shocks and 
+stresses from climate change. Neighbourhoods throughout the city need to be prepared to endure 
+periods of turmoil with resources and social networks to support residents. The recommendations 
+of this research paper provide examples of policy that could be implemented by the City of 
+Toronto to integrate neighbourhood resilience into the city fabric. Neighbourhood resilience 
+plans would provide guidance for the initiatives that should be taken to grow the social and 
+physical infrastructures of existing neighbourhoods. It is important to include a hybrid, bottom-
+up and top-down approach to address the specific needs of the community while also aiming for 
+goals established by the City of Toronto. These community-driven initiatives have a multitude of 
+purposes that mitigate the risks of the present, and future, while strengthening the social ties of 
+the community. Adding a resilience assessment to the development process in Toronto would 
+ensure that developers are engaging in thinking about the current and future risks to their sites. 
+Additionally, it would help developers innovate their plans to better contribute to Toronto’s 
+climate goals. It is crucial that future development in Toronto is suitable for the anticipated 
+changes in climate. Developing more connected and resilient communities is a critical step in 
+preparing for predicted future stresses.  
+Toronto has a foundation to build upon with evolving policy like TransformTO, the Toronto 
+Green Standard, and the Resilience Strategy. These plans establish the city’s commitment to 
+42 
+ 
+reducing its impact on the environment. Now that Toronto has set its goals for government-
+directed plans, a natural next step is to engage and prepare the communities and neighbourhoods 
+of Toronto for adaptation. It is crucial that this preparation utilizes an equitable approach and 
+invests the necessary resources into neighbourhoods that do not have the same adaptive capacity 
+as other neighbourhoods. The future of Toronto belongs to those that choose to live here, so 
+affluence and privilege should not dictate safety and livelihood. For Toronto to continue to grow, 
+thrive, and solidify its position as a world class city, it needs to adapt to the impacts of climate 
+change. Great cities do not only react to periods of stress or hardship, but also anticipate and plan 
+for them.  
+ 
+ 
+43 
+ 
+Appendix: 
+Appendix 1: Interview questions 
+Interview Questions 
+- 
+What is your professional experience with climate adaptation? What is your experience with land 
+use planning and climate change? 
+- 
+How can cities incorporate mitigation and adaptation measures into their master plans and 
+secondary plans?  
+o Mitigation 
+o Adaptation 
+- 
+Economically, how can cities afford the upfront costs of adaptation and mitigation motivated 
+developments? 
+- 
+How can governance issues impede the process of adapting cities?  
+- 
+What land use planning tools could Toronto utilize to make the city more resilient and have less 
+of an impact on climate change? 
+- 
+Are there any cities that Toronto could look to for inspiration for examples of best practice for 
+climate change impacted development? 
+- 
+What are the biggest obstacles for the City of Toronto to overcome to become more resilient 
+through better development? 
+- 
+Is there a missing initiative or approach that Toronto is not currently pursing that would make 
+them better situated to endure climate change?  
+ 
+Appendix 2: Interview breakdowns 
+Dan Leeming 
+Perspective Profile: 
+- 
+Private planning firm planner 
+- 
+Private development/municipal sustainability plans 
+- 
+Focus on connection between urban design, climate change and 
+public health  
+Overview 
+- 
+Private development is motivated by sticks and carrots with not 
+much motivative from values of building more sustainably 
+(Market driven) 
+- 
+New sustainable measures can impact affordability of housing 
+- 
+Carrots: incentives are currently limited under TGS, shorter 
+development timelines is problematic, and awards are difficult 
+- 
+Stick: Tier 1 of the TGS (Stick becomes more apparent with the 
+more severe of the impact of climate change) 
+- 
+Insurance companies are playing a part in determining who is 
+covered and who isn’t.  
+Specific mentions 
+- 
+Private/Public Relationship 
+- 
+Carrots/Sticks 
+ 
+Mike Layton 
+44 
+ 
+Perspective Profile: 
+- 
+Elected official (City of Toronto) 
+Overview 
+- 
+Three hats as a Councillor (Constituent 70, Legislation 20, 
+Community organizer 10) 
+- 
+Climate adaptation needs a social justice lens 
+- 
+Importance with building resilience within the social structures. 
+Our economy and governance structures are dependant on 
+resilient social structures. Vulnerable populations need a stronger 
+focus 
+- 
+Create local economic resilience with less big box stores 
+- 
+Needs more area in communities for open green space (needs 
+further integration into development process) 
+- 
+Development charges need to increase the infrastructural support 
+for the increase in density. (How can we better capture this value 
+added to communities? 
+- 
+Inclusionary zoning creates better neighbourhoods 
+- 
+Biggest obstacle is aversion to change 
+Specific mentions 
+- 
+Local economies 
+- 
+Social justice in climate adaptation 
+- 
+Social infrastructure 
+- 
+Aversion to change and political capital 
+- 
+Capturing community value with development charges 
+- 
+Inclusionary zoning 
+ 
+Elliott Cappell 
+Perspective Profile: 
+Former Chief Resilience Officer of Toronto 
+Wrote the Resilience Strategy 
+Overview 
+- 
+Two biggest threats to Toronto – Flooding & Apartment 
+Resiliency  
+- 
+Threat of flooding (pluvial and fluvial) needs Toronto to be a 
+more absorbent city like Rotterdam. Natural infrastructure 
+- 
+Apartment resiliency – poor air quality, poor insulation, poor air 
+conditioning. Also the issues around community gathering and 
+development  
+- 
+Biggest obstacle to adaptation is governance. Climate change 
+doesn’t respect political boundaries. There’s a need for the 
+involvement of the CA because they follow natural boundaries. 
+Issues in cities connect with larger issues or could be resolved by 
+upstream involvement  
+- 
+Second issue to implementation is the lack of skills and capacity. 
+Adaptation hasn’t fallen into a city department well.  
+Specific mentions 
+- 
+Importance of Conservation Authorities 
+- 
+Toronto needs to become more absorbent 
+- 
+Flooding & Apartment Resiliency  
+45 
+ 
+ 
+Mary Rowe 
+Perspective Profile: 
+President of CUI 
+Past work with New Orleans after Katrina 
+Overview 
+- 
+Resilience Dividend 
+- 
+Biggest obstacle – looking beyond ward to ward decision making. 
+Lack of at-large decision making 
+Specific mentions 
+ 
+ 
+Joanna Eyquem 
+Perspective Profile: 
+Applied Research Centre focused on accelerating Climate 
+Adaptation in Canada 20 years experience in Environmental 
+Consultancy in UK and Canada  
+Overview 
+- 
+Urban Heat Island Effect 
+- 
+Importance of having actions at community scale and individual 
+building scale (especially multi residential buildings)  
+- 
+Community ties help save individuals  
+- 
+Flooding currently causes more damage but we haven’t seen the 
+full impact of extreme heat yet 
+- 
+Toronto is developed over quite a few creeks and rivers which 
+will cause issues in the future 
+- 
+Netherlands are an example of a place actively moving back from 
+their embankments 
+- 
+There’s a current issue with our approach because we don’t focus 
+on the issue as a system. Upstream action will have implications 
+upstream – farmland in the GTA could be used as water storage 
+(CATCHMENT BASED SOLIDARITY) 
+- 
+Creek bank erosion  
+- 
+Municipal Natural Assets Initiative – a better valuing system for 
+gauging the worth of natural assets 
+- 
+How can we invest in nature in the same way that we invest in the 
+built environment 
+Specific mentions 
+- 
+River embankment restoration 
+- 
+Catchment based solidarity 
+- 
+Natural assets initiative  
+ 
+Lisa King 
+Perspective Profile: 
+City of Toronto (City/ Environmental Planning) 
+Heads the Toronto Green Standard 
+Overview 
+- 
+The CAs were created to address issues that exceeded municipal 
+jurisdiction 
+- 
+Planning Approval process is disjointed because it requires some 
+studies and modeling at different points in the process 
+46 
+ 
+- 
+There’s been more of a focus on social equity than climate 
+resilience in the development process 
+- 
+Resilience Assessment – consideration for future climate 
+modeling (HOW CAN WE INCORPORATE THIS INTO THE 
+PROCESS) 
+- 
+Future climate modeling should be done before the Site Plan 
+- 
+Resilience is subtly incorporated into the TGS already 
+- 
+Toronto could do this much more easily if it had its own Charter 
+- 
+Tree planting for sequestration is crucial for both GHG reduction 
+and resilience  
+- 
+Biggest obstacle is literacy and capacity of planners. There’s 
+many, especially those in senior roles, that don’t apply climate 
+lens to the city’s development decision making 
+- 
+The landing spot for the resilience/climate adaptation file in 
+Toronto is unknown. Potentially EED 
+- 
+COVID will provide an example of an issue that we must 
+overcome 
+Specific mentions 
+- 
+RESILIENCE ASSESSMENT 
+- 
+Planning act amendments 
+ 
+David MacLeod 
+Perspective Profile: 
+- 
+City of Toronto Environment and Energy Planner 
+- 
+Climate Program management  
+Overview 
+- 
+Biggest obstacles are COVID and budget 
+- 
+Increasing density is occurring fasted than the systems that can 
+support them can keep up (INFRASTRUCTURAL DEFICIT – 
+green space, transportation, sewage, electrical) 
+- 
+New condo buildings are susceptible to the hot and cold if the 
+energy grid is upset in any way – will they be able to handle the 
+new climate? 
+- 
+Require more of a resilience assessment that considers the 
+connection to local infrastructure – redundancy is good in some 
+cases.  
+- 
+Managed Retreat – migrating away from coastlines and hot areas 
+(in some cities in the Southern United States) 
+- 
+Resilience Precinct – grouping of businesses that work to become 
+more resilient to protect their property value 
+Specific mentions 
+- 
+RESILIENCE PRECINCT  
+- 
+Community Resilience Hub 
+- 
+Handling densification 
+ 
+Shannon Logan 
+Perspective Profile: 
+TRCA (SNAP) 
+47 
+ 
+Overview 
+SNAP 
+- 
+Neighbourhood scale 
+- 
+Incorporates climate, social equity, and community planning 
+- 
+Community involvement is fundamental 
+- 
+Screening process is critical for choosing the hosting 
+neighbourhoods 
+- 
+TRCA/ gov officials are there to provide experience and guided 
+recommendations on infrastructure 
+- 
+TRCA are able to connect neighbourhood issues to larger natural 
+issues 
+- 
+Projects residual benefits include social capacity building, 
+mitigation,  
+- 
+Projects can include: home retrofit, parkland revitalization, road 
+transformation projects, multiunit residential building 
+transformation projects, outdoor revitalization 
+- 
+Key Climate Project: Climate Ready County Court  
+SNAP Action Plan 
+- 
+Based upon vulnerability and risk assessments with a special 
+focus on community contribution to this understanding 
+- 
+Key asset assessment: What assets do the areas have and 
+where/who would the community turn to in the time of an 
+emergency? 
+Three Phases to create action plan: 
+- 
+Connecting with stakeholders to get to know the involved actors 
+and establish the priorities 
+- 
+Work with communities to understand local risks, assets, 
+vulnerabilities, local actors 
+- 
+Developing actionable items with short term, mid term, and long 
+term benefits with a focus on scale and level of effort required. 
+Also develop metrics and indicators to evaluate the plan.  
+Neighbourhood Pods (Toronto idea) 
+- 
+Development of neighbourhood areas that establish or utilize 
+existing social networks.  
+- 
+Provide aid to participate in environmentally focus projects with 
+likely co-benefits 
+- 
+City can provide recommendations around infrastructure projects 
+that will benefit neighbourhood 
+- 
+Group can help develop employable skills (fundraising, project 
+management, technical skills) 
+- 
+Lighthouse project (Emergency Hub) 
+Green Gentrification 
+48 
+ 
+- 
+There’s not much chance of green gentrification because of how 
+involved the local community is during the process. They are in 
+the drivers seat of the change.  
+Specific mentions 
+SNAP 
+Neighbourhood Pods 
+Lighthouse Project 
+Urban activity zones 
+ 
+Jeb Brugmann 
+Perspective Profile: 
+ 
+Overview 
+Resilient Precinct 
+- 
+Resilience upgrading as a signal from government to private 
+investors (developers) that the city will reduce the risk associated 
+with building in an area 
+- 
+Similar to the redevelopment of brown fields 
+- 
+Market influence is crucial for stimulating private investment into 
+neighbourhoods. Something that Toronto receives much of its 
+income from currently  
+- 
+Property performance is a primary driver of resilience (making 
+sure that the property will perform over its full lifespan) 
+Development Standard 
+- 
+There should be a standard that all new development should have 
+a resilience element so that private investors can communicate 
+that the systems that support the development are able to do so 
+now and in the future 
+- 
+Property development is a primary flow of funding into Toronto 
+because we’re growing 
+- 
+The risk of climate change isn’t on the radars of developers 
+because there’s more pressing issues, namely the project's profit 
+and loss performance, and the company's balance sheet. 
+Therefore, the city needs to explore mechanisms that would 
+make it profitable--or more profitable--for investors to 
+incorporate climate-related issues into their investments 
+Performance Designation 
+- 
+LEED has served to demonstrate that increased sustainability 
+performance is rewarded by higher profitability. rents, and 
+tenant stability than projects that do not incorporate 
+sustainability performance 
+- 
+For LEED – not only do people get to feel good about the better 
+standards that they can’t see (building materials, energy 
+consumption) but also the attributes that they can see (natural 
+lighting, air quality, noise pollution) 
+49 
+ 
+- 
+Brand management is crucial for success because if people don’t 
+know about the importance then they are less likely to want it 
+Local Risk Assessment 
+- 
+Assessment that measures risk and vulnerabilities in the 
+immediate and local area 
+- 
+Takes into consideration the multitude of user groups (residents, 
+area tourists) and uses of the area (attractive hub vs locals 
+relaxation spot) 
+Overlap with community initiatives 
+- 
+Overlap with investment of developer into community programs 
+- 
+Now goes beyond CBAs 
+Specific mentions 
+ 
+Notable quotes 
+“How do we drive innovation within the property industry that is 
+bringing that money to the table so that they find a way to continue 
+to make money and compete by increase the performance of what 
+they’re bringing to market” 
+ 
+Lee Adamson 
+Perspective Profile: 
+Founding Co-Chair of the Green Neighbours Network of Toronto/ 
+Steering Committee member of the Green Neighbours 21 
+Overview 
+Key Focus on Developing Community Network 
+- 
+Provided an environment in which neighbours could learn and 
+develop ideas together 
+- 
+Largely focused on mitigative approaches 
+Community Action 
+- 
+Garnering constant involvement was sometimes difficult. There 
+needed to be an anchoring person 
+Government Involvement 
+- 
+Enjoyed it when it wasn’t directive but more participatory as it 
+allowed the group to develop their own ideas  
+- 
+Action needs community buy in 
+Hurdles 
+- 
+Privilege – Only people who had the ability to volunteer could 
+participate 
+- 
+Accessibility (Something they’d need resources from the 
+government to tackle) 
+- 
+Financial resources – Both for members and for running 
+initiatives 
+Specific mentions 
+Green Neighbourhood Networks 
+ 
+Paul Antze 
+Perspective Profile: 
+Founding Co-Chair of the Green Neighbours Network of Toronto 
+50 
+ 
+Overview 
+Adaptability is a privilege  
+- 
+It requires a certain amount of resources at had to be able to 
+change your home, community 
+Adaptability needs a strong sense for social equity and community 
+building 
+Government involvement 
+- 
+The problem is too great for the government not to be involved 
+- 
+Huge investment (social and economic) to make the necessary 
+changes 
+Hurdles 
+- 
+There needs to be a better way to work more closely with the city 
+on these issues.  
+- 
+They want a one stop shop/ concierge service 
+Specific mentions 
+ 
+ 
+Tim De Waele 
+Perspective Profile: 
+Advisor with the City of Rotterdam 
+Overview 
+Weatherwise  
+- 
+Focused on further implementation and scaling solutions across 
+the city 
+- 
+Has indicated neighbourhood-focus as an important next step 
+- 
+Has utilized COVID as an opportunity for implementing 
+strategies 
+Neighbourhood-focus 
+- 
+Importance assessment of demographics 
+- 
+What triggers interactions with local public. What do the 
+neighbours deem as important and where can these plans find 
+overlap with climate adaptation? 
+- 
+Public participation can be difficult to garner so finding co-
+beneficial activities are crucial 
+- 
+Focusing on the needs of the community can also help integrate 
+employable skill learning into the planning, construction, or 
+maintenance of the project.  
+Combining social activity (language classes, skill learning, 
+education) and adaptation helps integrate these features into a 
+community.  
+- 
+Local plans need local champions 
+- 
+Providing subsidies that breed cooperation has helped create 
+community initiatives. Ex. $500 euro subsidy for 1m3 of water 
+retention on a property that can be combined with community to 
+create bigger community projects.  
+Weatherwise Plan – Governance 
+51 
+ 
+- 
+Adaptation was held within a singular department but has now 
+been integrated into all municipal departments 
+- 
+(Started with people who were interested first then allowed for 
+interest to grow as cool projects were implemented 
+- 
+There’s been a strong focus on working with social housing to 
+ensure that adaptation/resilience measures can be integrated into 
+neighbourhoods with less capacity 
+- 
+Every department has a different way of solving an issue so 
+collaboration is necessary to minimize trade offs and maximizing 
+co-benefits 
+Pilot projects help with gaining attention and interest from public, 
+private, and other government departments/agencies 
+Challenges 
+- 
+Scaling solutions to ‘fit’ other neighbourhoods 
+- 
+Garnering support from private stakeholders (60% of land is 
+privately held) 
+- 
+City capacity – Many of the city workers working on adaptation 
+are only able to allocate a day of their week to adaptation issues 
+- 
+Long term challenges – spatial/land use planning and the further 
+integration of adaptation into the fabric of the city 
+- 
+Short-term challenges – Addressing the inconsistent and uneven 
+capacity of neighbourhoods, especially those living with higher 
+rates of poverty. Also ensuring inclusivity into neighbourhood 
+initiatives because its typically those with resources that can 
+participate.  
+Zoho Lessons 
+- 
+Created a redesign of public space precedent for other 
+neighbourhoods to build on and adapt to their own needs 
+- 
+The precedent has helped minimize skepticism about project 
+implementation 
+- 
+Rott has expanded the water square program to now have 9 of 
+them throughout the city 
+- 
+Each project allows for lessons to be learned (ex. The dimensions 
+of the Bent. Water Square were difficult to clean so it now 
+requires hand cleaning) 
+Specific mentions 
+Rotterdam Weatherwise Plan 
+Neighbourhood Approach 
+Pilot Project Precedent Setting 
+ 
+ 
+ 
+52 
+ 
+References: 
+Leeming, D. (2020). Personal Interview. 
+Layton, M. (2020). Personal Interview. 
+Rowe, M. (2020). Personal Interview. 
+Cappell, E. (2021). Personal Interview. 
+King, L. (2021). Personal Interview. 
+Eyquem, J. (2021). Personal Interview. 
+MacLeod, D. (2021). Personal Interview. 
+Logan, S. (2021). Personal Interview. 
+Brugmann, J. (2021). Personal Interview. 
+Adamson, L. (2021). Personal Interview. 
+Antze, P. (2021). Personal Interview. 
+De Waele, T. (2021). Personal Interview. 
+ 
+Adger, W. N., Dessai, S., Goulden, M., Hulme, M., Lorenzoni, I., Nelson, D. R., Naess, L. O., 
+Wolf, J., & Wreford, A. (2009). Are there social limits to adaptation to climate change? 
+Climatic Change, 93(3), 335–354.  
+ 
+Aldrich D. P., Meyer, M. A. & Houston, J. B. (2015). Social capital and community resilience. 
+American Behavioral Scientist, 59(2), 254-269.   
+ 
+Ali, H. (2009). Introduction to disaster research. In Understanding the Global Environment 
+(245–264). 
+ 
+ARUP. (2016). City resilience index: Understanding and measuring city resilience. The 
+Rockefeller Foundation & ARUP. Retrieved July 31st from: 
+https://www.arup.com/perspectives/publications/research/section/city-resilience-index  
+ 
+Barton, H., Grant, M., & Guise, R. (2006). Shaping neighbourhoods: For local health and global 
+sustainability. Taylor and Francis.  
+ 
+53 
+ 
+Berger, R., Ensor, J., & Wilson, K. (2014). Adaptive capacity. In Community-Based Adaptation 
+to Climate Change: Scaling it up. Routledge. 
+ 
+Berke, P. & Lyles, W. (2013). Public risks and the challenges to climate-change adaptation: A 
+proposed framework for planning in the age of uncertainty. Cityscape, 15(1), 181–208. 
+ 
+Berke, P. R., & Stevens, M. R. (2016). Land use planning for climate adaptation: Theory and 
+practice. Journal of Planning Education and Research, 36(3), 283–289.  
+ 
+Berkes, F., & Seixas, C. (2005). Building resilience in lagoon social-ecological systems: A local-
+level perspective. Ecosystems (New York), 8(8), 967–974.  
+ 
+Bigger, P., & Millington, N. (2020). Getting soaked? Climate crisis, adaptation finance, and 
+racialized austerity. Environment and Planning. E, Nature and Space (Print), 3(3), 601–623.  
+ 
+Booth, W. C., Colomb, G. G., & Williams, J. M. (2008). The craft of research (3rd ed.). 
+University of Chicago Press. 
+ 
+Broto, V. C., Ensor, J., Boyd, E., Allen, C., Seventine, C., & Augusto Macucule, D. (2015). 
+Incorporating climate change knowledge in participatory planning. In Participatory 
+Planning for Climate Compatible Development in Maputo, Mozambique (1). UCL Press  
+ 
+Building Resilient Neighbourhoods (2015) Victoria West Pilot Community. Retrieved July 31st, 
+2021 from: https://www.resilientneighbourhoods.ca/victoria-west-pilot-project/  
+ 
+Bulkeley, H., & Tuts, R. (2013). Understanding urban vulnerability, adaptation and resilience in 
+the context of climate change. Local Environment, 18(6), 646–662.  
+ 
+Brugmann, J. (2013) Building resilient cities:  From risk assessment to redevelopment. Ceres, 
+The Next Practice, and the University of Cambridge Programme for Sustainability 
+Leadership. Retrieved July 31st, 2021 from: 
+54 
+ 
+https://www.ceres.org/resources/reports/building-resilient-cities-risk-assessment-
+redevelopment 
+ 
+Brym, R. (2009). Hurricane Katrina and the Myth of Natural Disasters. Sociology As A Life Or 
+Death Issue. 
+ 
+C40 Cities. (2016). Climate Change Adaptation in Delta Cities. Climate Adapt. Retrieved July 
+31st, 2021 from: https://climate-adapt.eea.europa.eu/metadata/publications/climate-change-
+adaptation-in-delta-cities  
+ 
+Canadian Urban Institute (2020). COVID Signpost 100 Days. Canadian Urban Institute. 
+Retrieved July 31st, 2021 from: https://canurb.org/publications/covid-signpost-100-days/  
+ 
+Centre for Livable Cities. (2020). Building climate resilience in cities worldwide: 10 principles 
+to forge a cooperative ecosystem. Urban Land Institute. Retrieved July 31st, 2021 from: 
+https://knowledge.uli.org/en/Reports/Research%20Reports/2021/Building%20Climate%20R
+esilience%20in%20Cities%20Worldwide  
+ 
+Climate Atlas (2021). Climate Report: Toronto. Retrieved July 31st, 2021 from: 
+https://climateatlas.ca/find-local-data 
+ 
+Davis, M. (2010). Who Will Build the Ark? New Left Review. (61)  
+ 
+Dawson, A. (2017). Extreme cities: The peril and promise of urban life in the age of climate 
+change. Verso. 
+ 
+EcoDistrict (2017) Lloyd EcoDistrict Case Study. Eco District. Retrieved July 31st, 2021 from: 
+https://ecodistricts.org/registered-districts/lloyd-ecodistrict/.  
+ 
+55 
+ 
+Federation of Canadian Municipalities. (2020). Investing in Canada’s Future; The Cost of 
+Climate Adaptation at the Local Level. Federation of Canadian Municipalities. Retrieved 
+July 31st, 2021 from: https://fcm.ca/en/resources/investing-in-canadas-future  
+ 
+Figueiredo, L., T. Honiden and A. Schumann (2018). Indicators for Resilient Cities, OECD 
+Regional Development Working Papers, No. 2018/02, OECD Publishing,  
+ 
+Folke, C., Carpenter, S. R., Walker, B., Scheffer, M., Chapin, T., & Rockstrom, J. (2010). 
+Resilience thinking: Integrating resilience, adaptability and transformability. Ecology and 
+Society 15(4). 
+ 
+Fransen, J., Ochoa Peralta, D., Vanelli, F., Edelenbos, J., & Calzada Olvera, B. (2021). The 
+emergence of urban community resilience initiatives during the COVID-19 Pandemic: An 
+International exploratory study. In The European Journal of Development Research. 
+ 
+Global Center on Adaptation (2020). State and trends in adaptation Report 2020. Global Center 
+on Adaptation Retrieved July 31st, 2021 from: https://gca.org/reports/  
+ 
+Green Neighbours Network (2021) Our History. Retrieved July 31st, 2021 from: 
+https://greenneighboursnetwork.ca/ 
+ 
+Greene, C. S., Robinson, P. J., & Millward, A. A. (2018). Canopy of advantage: Who benefits 
+most from city trees? Journal of Environmental Management, 208, 24–35.  
+ 
+Hodson, M., & Marvin, S. (2010). Urbanism in the Anthropocene: Ecological urbanism or 
+premium ecological enclaves? Routledge.14(3), 298–313.  
+ 
+Holling, C. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and 
+Systematics, 4, 1–23. 
+ 
+56 
+ 
+Homeless Hub. (2021). Community profile: Toronto. Retrieved July 31st 2021 from: 
+https://www.homelesshub.ca/community-profile/toronto  
+ 
+IPCC (2019). Summary for Policymakers. In: Climate Change and Land: an IPCC special report 
+on climate change, desertification, land degradation, sustainable land management, food 
+security, and greenhouse gas fluxes in terrestrial ecosystems [P.R. Shukla, J. Skea, E. Calvo 
+Buendia, V. Masson-Delmotte, H.- O. Pörtner, D. C. Roberts, P. Zhai, R. Slade, S. Connors, 
+R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal 
+Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, J. Malley, (eds.)]. In press. 
+ 
+IPCC (2018). Summary for Policymakers. In: Global Warming of 1.5°C. An IPCC Special 
+Report on the impacts of global warming of 1.5°C above pre-industrial levels and related 
+global greenhouse gas emission pathways, in the context of strengthening the global 
+response to the threat of climate change, sustainable development, and efforts to eradicate 
+poverty [Masson-Delmotte, V., P. Zhai, H.-O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. 
+Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. 
+Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, and T. Waterfield (eds.)]. In press.  
+ 
+Klinenberg, E. (1999). Denaturalizing disaster: A social autopsy of the 1995 Chicago heat wave. 
+Theory and Society. 28(2), 239-295. 
+ 
+Liping Dai, Rebecca Wörner & Helena F. M. W. van Rijswick (2018) Rainproof cities in the 
+Netherlands: approaches in Dutch water governance to climate-adaptive urban planning. 
+International Journal of Water Resources Development, 34(4), 652-674. 
+ 
+Magis, K. (2010). Community resilience: An indicator of social sustainability. Society and 
+Natural Resources, 23(5), 401–416.  
+ 
+Magnusson, E., & Marecek, J. (2015). Doing interview-based qualitative research: A learner’s 
+guide. Cambridge University Press.  
+ 
+57 
+ 
+Moore, A. W., McGregor, R. M. (2020) The representativeness of neighbourhood associations in 
+Toronto and Vancouver. Urban Studies. 1-16 
+ 
+OECD. (2021). Cities and Environment. Retrieved July 31st, 2021. from: 
+https://www.oecd.org/regional/cities/cities-environment.htm  
+ 
+Ontario, Government of. (2019). Schedule 3. In A place to grow: Growth plan for the Greater 
+Golden Horseshoe. Retrieved July 31st, 2021 from https://www.ontario.ca/document/place-
+grow-growth-plan-greater-golden-horseshoe  
+ 
+Ontario Ministry of Finance (2021) Ontario Population Projections. Retrieved July 31st, 2021 
+from: https://www.fin.gov.on.ca/en/economy/demographics/projections 
+ 
+Public Space. (2013) “Water Square” in Benthemplein: Rotterdam (Netherlands), 2013. 
+Retrieved July 31st, 2021 from: https://www.publicspace.org/works/-/project/h034-water-
+square-in-benthemplein 
+ 
+Rotterdam, City of. (2013). Rotterdam Climate Change Adaptation Strategy. Retrieved July 31st, 
+2021 from: http://www.urbanisten.nl/wp/?page_id=508  
+ 
+Rotterdam, City of. (2019). Rotterdam Weatherwise. Retrieved July 31st, 2021 from: 
+https://weatherwisecities.com/  
+ 
+Saavedra, C., Budd, W. W., Lovrich, N. P. & Parker, K. F. (2012). Assessing resilience to 
+climate change in US cities. Urban Studies Research, 2012, 1–10.  
+ 
+Schrock, G., Bassett, E., & Green, J. (2015). Pursuing equity and justice in a changing climate: 
+Assessing equity in local climate and sustainability plans in U.S. cities. Journal of Planning 
+Education and Research, 35(3), 282–295.  
+ 
+58 
+ 
+Sharifi, A., & Yamagata, Y. (2014). Resilient urban planning: Major principles and 
+criteria. Energy Procedia, 61, 1491–1495.  
+ 
+Sharifi, A & Yamagata, Y. (2016). Urban resilience assessment: Multiple dimensions, criteria, 
+and indicators. Urban Resilience. 259-276 
+ 
+Sherrieb, K., Norris, F., & Galea, S. (2010). Measuring capacities for community 
+resilience. Social Indicators Research, 99(2), 227–247.  
+ 
+Smit, B. & Pilifosova, O. (2001). Chapter 18: Adaptation to climate change in the context of 
+sustainable development and equity. In TAR climate change 2001: Impacts, adaptation and 
+vulnerability. IPCC. 
+ 
+Statistics Canada. (2017) Gross Domestic Product (GDP) at Basic Prices, by Census 
+Metropolitan Area (CMA). Retrieved July 31st, 2021 from: 
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610046801 
+ 
+Toronto, City of. (2017). TransformTO. Energy and Environment Division. Retrieved July 31st, 
+2021 from: https://www.toronto.ca/services-payments/water-environment/environmentally-
+friendly-city-initiatives/transformto/  
+ 
+Toronto, City of. (2018). Toronto at a Glance. Retrieved July 31st, from: 
+https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/ 
+ 
+Toronto, City of. (2018). Zero Emissions Building Framework. Toronto Atmospheric Fund. 
+Retrieved July 31st, 2021 from: https://taf.ca/publications/zero-emissions-building-
+framework/  
+ 
+Toronto, City of. (2019). Toronto Poverty Reduction Strategy. Retrieved August 19th, 2021 from: 
+https://www.toronto.ca/city-government/accountability-operations-customer-service/long-
+term-vision-plans-and-strategies/poverty-reduction-strategy/  
+59 
+ 
+Toronto, City of. (2019). Resilience Strategy. Retrieved July 31st 2021 from: 
+https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-
+city-initiatives/resilientto/  
+ 
+Toronto, City of. (2020). Toronto Strong Neighbourhoods Strategy 2020. Retrieved August 19th, 
+2021 from: https://www.toronto.ca/city-government/accountability-operations-customer-
+service/long-term-vision-plans-and-strategies/toronto-strong-neighbourhoods-strategy-2020/  
+ 
+Toronto, City of. (2021). Neighbourhood Profiles. Social Development Finance & 
+Administration. Retrieved July31st, 2021 from: https://www.toronto.ca/city-
+government/data-research-maps/neighbourhoods-communities/neighbourhood-profiles/  
+ 
+Toronto, City of. (2021). Shelter System Flow Data. Retrieved July 31st, 2021 from 
+https://www.toronto.ca/city-government/data-research-maps/research-reports/housing-and-
+homelessness-research-and-reports/shelter-system-flow-data/  
+ 
+Toronto Global. (2021). Toronto Region Quick Facts. Retrieved July 31st from 
+https://torontoglobal.ca/Discover-Toronto-region/Toronto-region-quick-facts  
+ 
+Toronto Office of Recovery and Rebuild. (2020). COVID-19: Impacts and Opportunities Report. 
+Retrieved July 31st, 2021 from: https://www.toronto.ca/city-government/accountability-
+operations-customer-service/city-administration/city-managers-office/key-
+initiatives/recoveryto/covid-19-about-reopening-recovery-rebuild/  
+ 
+Toronto and Region Conservation Authority. (2021). Sustainable Neighbourhood Action 
+Program (SNAP). Retrieved July 31st, 2021 from https://trca.ca/conservation/sustainable-
+neighbourhoods/  
+ 
+United Nations. (2018). 68% of the World Population Projected to Live in Urban Areas by 2050, 
+say UN. Department of Economic and Social Affairs. Retrieved July 31st, 2021  
+ 
+60 
+ 
+Urbanisten. (2014) ZOHO Climate Proof District. Retrieved July 31st, 2021 from: 
+http://www.urbanisten.nl/wp/?portfolio=climate-proof-zomerhofkwartier  
+ 
+Vale, L. J. (2014). The politics of resilient cities: Whose resilience and whose city? Building 
+Research & Information, 42(2), 191–201. 
+ 
+Youngman, N. (2009). Understanding disaster vulnerability: Floods and hurricanes. In Twenty 
+Lessons in Environmental Sociology (176–190). 

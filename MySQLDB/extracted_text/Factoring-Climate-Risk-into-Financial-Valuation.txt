@@ -1,0 +1,2388 @@
+CLIMATE RISK MATRIX
+Dr. Blair Feltmate
+Natalia Moudrak
+Kathryn Bakos
+Brian Schofield
+GENEROUSLY SUPPORTED BY:
+March 2020
+FACTORING 
+CLIMATE 
+RISK 
+INTO 
+FINANCIAL 
+VALUATION
+ABOUT THE INTACT CENTRE ON CLIMATE ADAPTATION
+The Intact Centre on Climate Adaptation (Intact Centre) 
+is an applied research centre at the University 
+of Waterloo. The Intact Centre was founded in 2015 
+with a gift from Intact Financial Corporation, Canada’s 
+largest property and casualty insurer. The Intact Centre 
+helps homeowners, communities and businesses to 
+reduce risks associated with climate change and extreme 
+weather events. For additional information, visit: 
+www.intactcentreclimateadaptation.ca
+ABOUT THE UNIVERSITY OF WATERLOO
+The University of Waterloo is Canada’s top innovation 
+university. With more than 41,000 full and part-time 
+students (Fall 2019), the university is home to the world’s 
+largest co-operative education system of its kind. 
+The university’s unmatched entrepreneurial culture, 
+combined with an intensive focus on research, powers 
+one of the top innovation hubs in the world. For 
+additional information, visit: www.uwaterloo.ca
+ABOUT THE GLOBAL RISK INSTITUTE
+The Global Risk Institute is the premier organization 
+that defines thought leadership in risk management for 
+the financial industry globally. It brings together leaders 
+from industry, academia, and government to draw 
+actionable insights on emerging risks globally. For more 
+information, visit: https://globalriskinstitute.org/
+ABOUT SCOTIABANK
+Scotiabank is a leading bank in Canada and a leading 
+financial services provider in the Americas. We are 
+here for every future. We help our customers, their families 
+and their communities achieve success through a broad 
+range of advice, products and services, including personal 
+and commercial banking, wealth management and private 
+banking, corporate and investment banking, and capital 
+markets. With a team of more than 100,000 employees 
+and assets of over $1 trillion (as at October 31, 2019), 
+Scotiabank trades on the Toronto Stock Exchange (TSX: 
+BNS) and New York Stock Exchange (NYSE: BNS). For 
+more information, please visit www.scotiabank.com and 
+follow us on Twitter @ScotiabankViews.
+ABOUT INTACT FINANCIAL CORPORATION
+Intact Financial Corporation (TSX:IFC) is the largest 
+provider of property and casualty (P&C) insurance in 
+Canada and a leading provider of specialty insurance 
+in North America, with over $11 billion in total 
+annual premiums. The Company has approximately 
+16,000 employees who serve more than five million 
+personal, business and public sector clients through offices 
+in Canada and the U.S. In Canada, Intact distributes 
+insurance under the Intact Insurance brand through a 
+wide network of brokers, including its wholly-owned 
+subsidiary BrokerLink, and directly to consumers through 
+belairdirect. Frank Cowan brings a leading MGA platform 
+to manufacture and distribute public entity insurance 
+products in Canada. In the U.S., OneBeacon Insurance 
+Group, a wholly-owned subsidiary, provides specialty 
+insurance products through independent agencies, brokers, 
+wholesalers and managing general agencies.
+ACKNOWLEDGMENTS
+The Intact Centre thanks GRI, Scotiabank and IFC for 
+their support of the report. We are grateful to Ernest 
+Wiebe who offered substantial insight into producing the 
+list of key T&D climate risk and mitigation measures, 
+and to stakeholders across Canada who provided expert 
+input to development of the T&D and CRE matrices.
+CITATION
+Feltmate, B., Moudrak, N., Bakos, K. and B. Schofield. 2020. 
+Factoring Climate Risk into Financial Valuation. Prepared 
+for the Global Risk Institute and Scotiabank. Intact Centre 
+on Climate Adaptation, University of Waterloo.
+	
+For information about this report, contact 
+Kathryn Bakos: kathryn.bakos@uwaterloo.ca
+	
+DISCLAIMER
+The information stated in this report has, to the best of our 
+knowledge, been collected and verified as much as possible. The 
+Intact Centre cannot make any guarantees of any kind, as to the 
+completeness, accuracy, suitability or reliability of the data provided 
+in the report. This report has been prepared for general guidance on 
+matters of interest only and does not constitute professional advice. 
+You should not act upon the information contained in this publication 
+without obtaining specific professional advice. No representation 
+or warranty (express or implied) is given as to the accuracy or 
+completeness of the information contained in this publication, and 
+Intact Centre employees and affiliates do not accept or assume any 
+liability, responsibility or duty of care for any consequences to you or 
+anyone else acting, or refraining to act, in reliance on the information 
+contained in this report or for any decision based upon it.
+1
+Factoring Climate Risk into Financial Valuation
+Executive Summary	
+p. 3
+Introduction	
+p. 4
+Growing Cost of Climate Change	
+p. 6
+Method: Developing Climate Risk Matrices	
+p. 8
+Results	
+p. 9
+Climate Change, Extreme Weather Risk and Financial Valuation	
+p. 11 
+CASE STUDY:	
+p. 14
+Extreme Weather Impacts Applied To Financial Valuation
+Role of Subject Matter Experts	
+p. 18
+Beneficiaries of Climate Risk Matrices	
+p. 19
+• Securities Commissions	
+p. 19
+• Credit Rating Agencies	
+p. 19
+• Boards of Directors	
+p. 19
+Next Steps	
+p. 20
+References	
+p. 21
+Appendix	
+p. 23
+TABLE OF 
+CONTENTS
+Factoring Climate Risk into Financial Valuation
+2
+3
+Factoring Climate Risk into Financial Valuation
+“	 The framework presented in this report provides a solid 
+and practical way to assess and value physical climate 
+risks, supporting improved disclosure and better pricing 
+of  climate risks.”
+Tiff Macklem
+	Chair, Expert Panel on Sustainable Finance
+Climate Risk Matrices, presented herein for two industry 
+sectors, identify the top 1-2 physical climate risk impacts 
+that portfolio managers should prioritize as most 
+material to affect performance of companies within 
+a given sector. These 1-2 impacts reflect the expert 
+advice of operations officers or similarly experienced 
+subject matter experts within industry sectors – based 
+on their collective experience, these practitioners are 
+best positioned to identify a short list of material means 
+by which flood, drought, fire, wind, etc., may convey 
+risk to companies within a specific sector. Within this 
+paper, climate risk reflects the magnitude of an impact, 
+juxtaposed to its probability of occurrence (which 
+includes tail risk). Prioritized impacts presented within 
+Climate Risk Matrices provide standardized guidance to 
+portfolio managers, in user-friendly language, which can 
+be used to determine if, and how, issuers are mitigating 
+climate change and extreme weather risk satisfactorily.
+Two Climate Risk Matrices – Electricity Transmission & 
+Distribution (T&D), and Commercial Real Estate (CRE) 
+– presented in this paper, illustrate the user-friendly and 
+interpretable information that a portfolio manager would 
+receive. The protocols used to develop both the T&D 
+and CRE Climate Risk Matrices are transferable to any 
+industry sector.
+Guidance is presented to help ensure that issuers profile 
+climate risk data, relative to each industry sector, in 
+a manner that is readily predisposed to five common 
+financial valuation methods: (1) Ratio Analysis, (2) 
+Discounted Cash Flow, (3) Rules of Thumb Valuation, 
+(4) Economic Value Added (EVA®), and (5) Option 
+Pricing Models. Utilizing these methods, a quantitative 
+case study is presented whereby climate risk impact on 
+share price is presented for a publicly traded issuer, thus 
+illustrating that so-called “non-financial” measures of 
+performance are predisposed to valuation.
+Relative to next steps, all major industry sectors were 
+reviewed (utilizing publicly available climate risk/
+ESG reports) to determine which offer the greatest 
+predisposition to develop additional industry-specific 
+Climate Risk Matrices going forward. Those sectors 
+were determined to include (1) Materials, (2) Energy, 
+(3) Utilities, (4) Industrials, and (5) Real Estate (See 
+Appendix 1).
+Although the utility of Climate Risk Matrices 
+discussed herein focuses on institutional investors, the 
+matrices offer value to securities commissions (to guide 
+expectations on climate risk related disclosure), credit 
+rating agencies (to identify a borrower’s key climate risk 
+liabilities) and Boards of Directors (to set a framework 
+for Board members to ask appropriate climate risk 
+related questions of management).
+Time is not a luxury in reference to applying climate risk 
+to portfolio management. The development of industry-
+specific Climate Risk Matrices offers an immediately 
+executable and practical means to incorporate climate 
+risk into portfolio management now, which in turn will 
+drive GLOBAL preparedness to arrest the future impact 
+of irreversible and largely debilitating climate change.
+The Task Force on Climate-Related Financial Disclosures (TCFD), and the Expert Panel 
+on Sustainable Finance (EPSF), both advised that climate change and extreme weather 
+risk should factor into institutional portfolio management. This paper offers a practical means to 
+execute on that advice, that conforms well with the risk management protocols that have become convention 
+since the financial crisis (2008).
+EXECUTIVE 
+SUMMARY
+Factoring Climate Risk into Financial Valuation
+4
+A warming climate (IPCC 2019) and 
+associated extreme weather risks (e.g., flood, 
+drought, fire, hail, wind, extreme heat, storm 
+surge/sea level rise, permafrost loss) will 
+be more challenging across Canada, and 
+globally, as described in Canada’s Changing 
+Climate report (ECCC 2019):
+“There is overwhelming evidence that the 
+Earth has warmed during the Industrial Era 
+and that the main cause of this warming is 
+human influence. The observed warming 
+and other climate changes cannot be 
+explained by natural factors, either internal 
+variations within the climate system or 
+natural external factors such as changes in 
+the sun’s brightness or volcanic eruptions. 
+Only when human influences on climate are 
+accounted for… can these observed changes 
+in climate be explained.
+This warming is effectively 
+irreversible.”
+INTRODUCTION
+>
+>
+“ Climate change and extreme weather risks can represent 
+challenges for capital markets. This report provides practical 
+guidance that will help the financial sector to better incorporate 
+climate risk into financial valuation.” 
+Brian Porter
+President and Chief Executive Officer, Scotiabank
+5
+Factoring Climate Risk into Financial Valuation
+In response to irreversible climate change, global 
+warming, and exacerbated extreme weather events, 
+many companies spanning most (if not all) industry 
+sectors will suffer disruptions to the continuity of their 
+operations due to physical climate change induced 
+impacts (Krueger et al. 2019, Roman 2019, Macklem 
+et al. 2019, TCFD 2018). When these disruptions are 
+material – for example, if an extreme weather event 
+resulted in flooding that truncated supply chain, which 
+subsequently impacted a company’s long-term cash flow 
+– fiduciary duty would require that this information be 
+disclosed, as it could affect the decision of an investor to 
+buy/hold/sell stock in the company (Bank of Canada 
+2019, Giuzio et al. 2019, Tooze 2019).
+The fiduciary logic of the above scenario is straightforward 
+– however, there are practical limitations that prohibit 
+corporations, spanning virtually all industry sectors, from 
+disclosing climate-related risk that may be material to 
+an investor. As articulated by Macklem et al. (2019) and 
+CSA (2019), the challenge is this:
+“ Institutional investors are dissatisfied 
+with the state of corporate climate-related 
+reporting in Canada, noting a general 
+inability to determine whether non-
+disclosure reflects legitimate immateriality 
+or a lack of internal focus. Investors are 
+turning to third-party providers that face 
+the same information barriers, making 
+assurance difficult.”
+Building on this observation, Krueger et al. (2019) 
+highlight that despite growing empirical evidence that 
+investors should consider climate stress, integrating 
+climate risk into investment management can prove to 
+be challenging, as investment tools and best practices 
+are not yet well established. However, a few studies 
+are beginning to record the direct financial impacts of 
+extreme weather on valuation – for example, Addoum 
+et al. (2019) have shown that extreme temperatures can 
+adversely affect corporate earnings, and Kruttli et al. 
+(2019) document that extreme weather can be reflected 
+in stock and option market prices.
+The primary purpose of this paper is to present 
+a protocol and framework that, if applied across 
+industry sectors, will alleviate the dissatisfaction felt by 
+institutional investors regarding reporting relative to 
+climate risks. The framework prioritizes the top 1-2 means 
+by which each category of extreme weather (e.g., flood, 
+fire, wind, etc.) may negatively impact each industry sector, 
+while simultaneously identifying the action that an investor 
+could expect a company to take to mitigate prioritized 
+risks (including probable risk and tail risk). The framework 
+of risk prioritization is profiled in an easily interpretable 
+industry-specific Climate Risk Matrix. Furthermore, by way 
+of a case study, the translation of extreme weather risk into 
+impact on share price is calculated using standard financial 
+valuation methods.
+Although the target audience for the Climate Risk 
+Matrix is institutional investors, the matrix will also be 
+of value to securities commissions calling for material 
+climate risk disclosure by issuers (e.g., CSA Staff Notice 
+51-358 2019). In Canada, it is within the mandate of 
+corporations to disclose climate risk, as directed by the 
+Canadian Securities Administrators, beginning with 
+CSA Staff Notice 51-333, Environmental Reporting 
+Guidance (2010). Until the release of the Phase I 
+Report of the Task Force on Climate-Related Financial 
+Disclosures (TCFD 2016), this notice did not draw 
+appropriate attention by issuers across Canada.
+The Climate Risk Matrix also offers utility to credit 
+rating agencies, under circumstances where extreme 
+weather events might impact the capacity of a borrower 
+to repay a loan. As suggested by Tigue (2019):
+“Credit ratings, much like individual credit scores, assess 
+how likely it is that a borrower will repay debt. Those 
+ratings can affect how much governments and companies 
+are able to borrow and how much it will cost them. Just 
+the threat of a lower credit rating can pressure cities 
+and companies to be more proactive in taking steps to 
+mitigate risks, and now those risks are starting to include 
+climate change.”
+In sum, a concise encapsulation of industry-specific 
+climate change and extreme weather risks, presented in 
+standardized user-friendly form, would be of primary 
+benefit to aforementioned institutional investors, 
+secondarily to securities commissions and credit rating 
+agencies, and to a growing extent Boards of Directors 
+that need concise guidance on the physical manifestation 
+of climate change risk.
+Factoring Climate Risk into Financial Valuation
+6
+In this study, two industry sectors – Electricity Transmission 
+& Distribution (“T&D”) and Commercial Real Estate 
+(“CRE”) – are profiled to illustrate how climate change and 
+extreme weather risk can be incorporated into portfolio 
+management by institutional investors. T&D and CRE 
+were appropriate to serve as “model sectors”, based on 
+three requisite criteria (TCFD 2019):
+•	 Operational Impacts: T&D and CRE are experiencing 
+substantial impacts due to climate change and extreme 
+weather events (e.g., Bienert 2016, Burillo 2018);
+•	 Mitigation Actions: relative to T&D and CRE, 
+means to mitigate climate change and extreme weather 
+risks are reasonably well understood (e.g., CSA 2019, 
+BOMA 2019); and
+•	 Geographical Range: climate change and extreme 
+weather risks (e.g., flood, fire and wind) can impact T&D 
+and CRE in virtually any populated region of Canada.
+Before describing the framework to establish the Climate 
+Risk Matrix, it is necessary to first describe how climate 
+risk will continue to become more severe, and thus of 
+greater relevance to institutional investors and more 
+broadly the capital markets.
+GROWING COST OF 
+CLIMATE CHANGE
+The term “new normal” is often used to describe 
+weather that today is more extreme than was 
+commonplace prior to 2010 (Moore 2019) – however, 
+caution should be exercised relative to this terminology, 
+as it can instill a sense of complacency with institutional 
+investors that could unintentionally add risk to their 
+investment decisions. Extreme weather, driven in concert 
+with a changing climate, will continue to evolve and 
+become increasingly severe over time, thus generally 
+rendering greater costs across industry sectors. Otherwise 
+stated, there will be nothing normal about the weather 
+of the future (GCA 2019). Investors must, therefore, be 
+vigilant and cognizant of the increasing potential for 
+severe weather to impact investments over time.
+There is no better witness to the financial costs associated 
+with extreme weather than the Property and Casualty 
+(“P&C”) insurance sector, where the impacts of a flood, 
+fire, wind, etc., can be tallied almost instantly (Moudrak 
+et al. 2017). Recognizing that the impact of extreme 
+>
+7
+Factoring Climate Risk into Financial Valuation
+weather would not be restricted to one area of business 
+(Bloomberg 2014), the P&C sector should be viewed 
+as a proxy for the growing cost of climate change that 
+will impact, to varying degrees, most if not all industry 
+sectors going forward.
+In Figure 1, which profiles annual catastrophic insurable 
+loss claims for Canada (i.e., a “cat loss” is any event 
+such as a flood, fire, hail storm, etc., that triggers $25 
+million or more in insurable losses), there is a discernable 
+upward trend in losses since 1983. Note that the losses 
+presented in the figure are normalized for inflation to 
+$2018, and for per capita wealth accumulation – thus 
+the horizontal axis presents a comparison of “apples to 
+apples”. The trend of increasing costs associated with 
+extreme weather events should concern any investor 
+as a predictor of growth in climate change risk that is 
+pervasive across industry sectors.
+As a cautionary note, the upward claims trend in Figure 
+1 is not solely due to escalations in extreme weather 
+events. For example, compounding factors that can 
+affect flood claims include loss of permeable areas and 
+natural habitats due to development (i.e., the loss of the 
+natural “sponge” capacity of wetlands and green spaces 
+to absorb water/reduce flooding), aging municipal 
+infrastructure and housing construction practices that 
+did not incorporate flood-resilience considerations 
+adequately in the past (Moudrak and Feltmate 2019).
+Further evidence of the growing costs associated 
+with extreme weather is evident in escalating Disaster 
+Financial Assistance Arrangements (DFAA) payments 
+made by the Federal Government of Canada – these are 
+funds that are transferred from the federal to provincial 
+or territorial governments, principally to provide relief 
+when the costs associated with natural catastrophes 
+are exceptional. According to Public Safety Canada, 
+the number of natural disasters for which provinces 
+and territories were granted assistance under DFAA 
+increased nearly tenfold from 2005 – 2014 as compared 
+to the previous decade. Going forward, the annual costs 
+borne by DFAA will average $902 million, with $673 
+million attributable to flood relief. The $902 million 
+Source: IBC Facts Book, PCS, CatIQ , Swiss Re, Munich Re & Deloitte. Values in $2018 CAN; total losses are normalized by 
+inflation and per-capita wealth accumulation
+5.5
+5.0
+4.5
+4.0
+$CAD Billions
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Quebec
+Floods
+Ontario
+Wind & Rain
+Slave Lake
+Fire
+Alberta & Toronto
+Floods
+Fort McMurray Fire
+Eastern
+Ice Storm
+Loss & Loss Adjustment Expenses
+Estimated Trend 
+Figure 1: Catastrophic Insured Losses in Canada (1983 – 2018)
+Factoring Climate Risk into Financial Valuation
+8
+projection is substantially in excess of the nominal DFAA 
+program budget of $100 million (PBOC 2016).
+Escalating insurance claims, combined with substantial 
+increases in DFAA transfer payments, presage the 
+growing risk that climate change and extreme weather 
+will present to institutional investors. The discussion 
+now turns to a practical means to prioritize risks in 
+user-friendly format that managers may factor into 
+portfolio management.
+METHOD: DEVELOPING 
+CLIMATE RISK 
+MATRICES
+The method to construct Climate Risk Matrices, for both 
+electricity T&D and CRE, is described below. Where the 
+protocol applied to T&D vs. CRE varies, such differences 
+are described. The protocol applied to establish climate 
+risk for T&D and CRE would be applicable to virtually 
+all industry sectors.
+The method to establish a Climate Risk Matrix was 
+based on two axioms. First, that insight to identify and 
+prioritize climate change and extreme weather risk 
+resides within the collective intelligence and consensus 
+of operating officers, or similarly experienced senior 
+persons, who have worked in specific industry sectors 
+for an extended period of time (i.e., which in this study 
+was deemed to be > 20 years of service). Second, that 
+six-to-eight “subject matter experts”, each with at least 
+20 years of experience, thus representing total “person 
+years of experience” of 120 - 160 years, would have 
+collective insight to identify and prioritize physical 
+climate change risks, if any, relative to their respective 
+industry sectors.
+In this paper, there is also an assumption that the 
+manifestation of extreme weather would be in the 
+direction of risk to an issuer, more so than benefit.
+Based on the above criteria, subject matter experts, with 
+at least one representative drawn from eastern, central, 
+western and northern regions of Canada, were engaged 
+in the following generalized protocol to help create a 
+Climate Risk Matrix for each of T&D and CRE: 
+1)	 each expert was asked to identify physical climate 
+change risks/hazards they deemed to be most 
+material to their business operation (e.g., flood, fire, 
+wind, etc.);
+2)	 each expert was asked to describe up to 5 ways in 
+which their operations could be impacted by each of 
+the identified hazards (e.g., service disruption, power 
+outage, equipment damage, etc.); and
+3)	 experts were brought together for an in-person 
+meeting to determine the most material hazards and 
+associated operational challenges impacting industry 
+as a whole (accomplished vis-à-vis a voting exercise, 
+where only 2-3 operational challenges were allowed to 
+be kept per hazard).
+Once the climate change and extreme weather concerns 
+were established, subject matter experts performed three 
+additional tasks:
+1)	 identify what action, if any, could be reasonably taken 
+to limit the identified risk/hazard;
+2)	 provide a question the portfolio manager could 
+present to a company or issuer to determine if the 
+issuer was aware of the risk; and
+3)	 provide direction as to what would constitute an 
+“excellent response” or “good response” by the issuer 
+in reference to risk mitigation.
+Following the generalized protocol profiled above, 
+Climate Risk Matrices were completed for the T&D and 
+CRE sectors.
+In addition to subject matter input received from 
+experts in T&D, information was also drawn from 
+NRC – CSA Group Canadian Electrical Code (CE Code), 
+Climate Change Adaptation Project (CSA Group 2019), 
+and additional insight was received from Ernest Wiebe 
+(Innovative Solutions Engineering Inc., personal communication, 
+2019). Similarly, input into CRE drew upon expert 
+advice from members of  the Building Owners 
+Management Association (BOMA Canada), Real 
+Property Association of  Canada (REALPAC), and 
+Moudrak and Feltmate (2019).
+>
+9
+Factoring Climate Risk into Financial Valuation
+>
+RESULTS
+Material presented below has not been field tested 
+for ease of use/user-friendliness by multiple portfolio 
+managers – accordingly, direction in the tables is not 
+final, but rather penultimate (practitioner feedback 
+would fine tune future versions).
+Table 1 considers climate risk from the perspective of 
+electricity T&D.
+Flood
+Fire
+Wind Storm
+Ice and Snow 
+Loading
+Thawing Permafrost
+Key Climate 
+Risk 
+Impacts
+Flood-induced high 
+water levels result in 
+inadequate electrical 
+clearances below lines 
+that are hazardous to 
+the public
+Fire along 
+transmission corridors 
+can cause outages 
+if corridors are not 
+adequately clear of 
+brush
+Vegetation/tree 
+contacts with 
+transmission lines 
+can cause arcing, 
+fires and outages
+Vegetation/tree 
+branches can fall onto 
+T&D lines causing 
+outages
+T&D lines can be 
+brought down by wind 
+forces
+T&D lines and 
+structures can 
+collapse under 
+heavy ice loading
+Thawing/ 
+discontinuous 
+permafrost can 
+displace transmission 
+tower foundations, 
+causing structural 
+collapses and outages
+Mitigation 
+Measures
+Ensure structures 
+are tall enough for 
+safe clearance under 
+foreseeable flood 
+levels, or lines are 
+installed underground
+Conduct patrols 
+(visual inspection of 
+utility equipment 
+and structures) in fire 
+prone areas
+Clear vegetation 
+along transmission 
+corridors
+Clear vegetation along 
+transmission corridors
+Install anti-galloping 
+devices on conductors 
+and ensure structures 
+are designed to 
+withstand winds
+Install visual 
+monitors to detect 
+ice loading. Before 
+ice loads build, 
+boost current to 
+melt ice (i.e., short 
+the line)
+Modify structure/ 
+designs to readily 
+permit adjustment 
+of towers when 
+line patrols identify 
+permafrost thaw 
+displacement
+Key 
+Questions to 
+Determine 
+Readiness 
+to Mitigate 
+Climate Risk
+What percentage of 
+T&D lines in flood- 
+prone areas have 
+sufficient clearance to 
+safely accommodate 
+a 1:200 year flood 
+without de-energizing 
+the line?
+What percentage 
+of total length 
+of overhead 
+transmission lines 
+in wildfire-possible 
+areas are closer 
+than 10 metres 
+horizontally to tree 
+branches?
+What percentage of 
+total length overhead 
+Transmission lines 
+in treed areas are 
+closer than 10 metres 
+horizontally to tree 
+branches that are 
+higher than the 
+conductors?
+Are overhead lines 
+that are susceptible 
+to icing monitored 
+by cameras that 
+observe icing on 
+the conductors?
+Are your transmission 
+structures, in 
+discontinuous 
+permafrost areas, of 
+a design where the 
+structured footings can 
+be adjusted without de- 
+energizing the line?
+Excellent 
+Answer
+> 75%
+None
+< 5%
+Yes
+Yes
+Good Answer
+50% or higher
+< 10%
+< 25%
+Yes, the most recent 
+ones
+Table 1: Climate Risk Matrix - Electricity Transmission and Distribution (material highlighted in red reflects 
+prioritized areas of  focus applied to portfolio management)
+Factoring Climate Risk into Financial Valuation
+10
+Flood
+Fire
+Wind Storm
+Ice and Snow 
+Loading
+Thawing Permafrost
+Key Climate 
+Risk 
+Impacts
+Flooding can lead 
+to property damage, 
+potential for life 
+loss and business 
+disruption
+Property damage 
+and business 
+continuity 
+disruptions 
+increase if critical 
+equipment 
+is damaged 
+or rendered 
+unworkable
+Wildfire can lead to 
+property damage, 
+potential for life 
+loss and business 
+disruption
+Smoke from wildfires 
+contains fine 
+particulate matter and 
+gases such as carbon 
+monoxide and carbon 
+dioxide, which when 
+concentrated impact 
+respiratory health and 
+may aggravate pre- 
+existing heart and lung 
+conditions
+High winds 
+can loosen the 
+perimeter flashing 
+of the roof leading 
+to roof detachment 
+or “peel off”
+Windborne debris can 
+shatter windows
+Snow and ice can 
+accumulate on flat 
+roofs, increasing 
+the risk of roof 
+collapses
+As snow and ice melt 
+on the roof, leaks can 
+cause water damage 
+and mould
+Outdoor pipes and 
+pipes in unheated areas 
+such as basements, 
+garages and crawl 
+spaces can burst under 
+extreme cold
+Thawing permafrost 
+can lead to structural 
+building collapses
+Mitigation 
+Measures
+Emergency 
+Management Plan, 
+including flood 
+procedures, is tested 
+annually with operations 
+staff and tenants
+Elevators are equipped 
+with water sensors to 
+automatically return to 
+higher floors if water is 
+in the basement or the 
+underground parking
+Critical equipment 
+such as HVAC, 
+electrical and 
+communication 
+systems and server 
+rooms are elevated 
+above expected 
+flood levels. If not 
+feasible to elevate, 
+these systems are 
+wet flood-proofed
+“Fire-resistant zone” 
+is established within 
+10 metre perimeter of 
+property
+Roofs and gutters kept 
+free of combustible 
+materials, and 
+openings and vents are 
+equipped with non-
+combustible screen 
+mesh
+HEPA/Activated 
+Carbon filters are 
+installed on HVAC 
+system to cleanse air 
+from wildfire smoke
+Roof is reinforced 
+and additional 
+fasteners are applied 
+at the perimeter and 
+corners
+Impact-resistant glass 
+is installed to prevent 
+shattering from debris
+Snow and ice is 
+proactively removed 
+from roofs
+Snow removal items 
+are available (e.g., 
+heating cables and 
+chemical deicers) and 
+snow/ice removal 
+contractors are 
+secured
+Thermal imaging 
+cameras are installed 
+to detect leaks and 
+prevent mould
+Outdoor pipes and 
+pipes in unheated 
+areas are insulated
+Building foundations 
+are strengthened with 
+piles, backfilled with 
+coarse-grained soil 
+under the foundation
+Key 
+Questions to 
+Determine 
+Readiness 
+to Mitigate 
+Climate Risk
+Are HVAC, 
+electrical, 
+communication 
+systems and server 
+rooms elevated or 
+otherwise flood 
+protected?
+Does HVAC system 
+have capacity to cleanse 
+air from smoke?
+Is roof reinforced 
+for severe wind 
+around upper 
+perimeter and 
+corners?
+Is snow and ice 
+proactively removed 
+from roofs?
+Are measures present 
+to limit damage 
+where permafrost loss 
+may affect structural 
+integrity?
+Excellent 
+Answer
+Yes
+Yes
+Yes
+Yes
+Yes
+Good Answer
+> 50% of facilities
+> 50% of facilities in 
+high snowfall regions
+Table 2: Climate Risk Matrix – Commercial Real Estate (material highlighted in red reflects prioritized areas of  focus 
+applied to portfolio management)
+Table 2 considers climate risk from the perspective of CRE.
+11
+Factoring Climate Risk into Financial Valuation
+As is evident based on a review of Tables 1 and 2, 
+interpretation of climate change and extreme weather 
+risks does not require depth of technical expertise. 
+Almost any large cap portfolio manager – with or 
+without expertise in T&D and CRE – could utilize 
+the information presented in both tables.
+In addition to the non-technical nature of information 
+in Tables 1 and 2, the short time-frame within which 
+a portfolio manager could review the table would be 
+advantageous. Under conditions whereby many portfolio 
+managers are addressing climate risk analytics for the 
+first time, a readily accessible review would engage them 
+more than a dense/time consuming process.
+Once portfolio managers and analysts appreciate 
+the risks associated with climate change and extreme 
+weather risks, the next point for consideration is how 
+that risk translates to impact financial valuation and 
+share price performance – key considerations in this 
+regard follow below.
+CLIMATE CHANGE, 
+EXTREME WEATHER 
+RISK AND FINANCIAL 
+VALUATION
+Once climate change and extreme weather risks have 
+been identified, the question to consider from the 
+perspective of financial valuation is this – can these 
+non-financial measures be translated into impact on 
+share price? The short answer is yes, as illustrated in 
+this section and the next. However, there are some 
+precautionary steps to be taken to maximize translation 
+of risk into valuation.
+More specifically, recognizing that Climate Risk Matrix 
+data will increasingly become available to investors by 
+corporations, either within Annual Reports, Annual 
+Information Form (AIF) filings, and/or voluntary 
+Environmental, Social and Corporate Governance (ESG) 
+Reports, it is critical to establish guidance now to ensure 
+that such data will be of value to financial analysts going 
+forward (Economist 2015). There is an important lesson 
+of admonishment in this regard, drawn from the area 
+of ESG and sustainability reporting which began in 
+earnest starting about 2000, but that nonetheless remains 
+problematic for financial analysts today (Paisley and 
+Nelson 2019).
+Amongst the first reports to document limitations in 
+sustainability reporting was the sdEffect™ (NRTEE 
+2006), which focused on calculating sustainability 
+valuation utilizing such tools as Ratio Analysis, 
+Discounted Cash Flow (DCF), “Rules of Thumb” 
+valuations, Economic Value Added (EVA®) (Ehrbar 
+1998), and Option Pricing Models (OPM). The problem 
+in applying these various analyses was lack of data – 
+reporting on sustainability practices by issuers tended 
+to be anecdotal and non-quantitative. When data was 
+available, it frequently lacked key information related to 
+such simple measures as the timeframe over which data 
+applied, or the geographic range of operations under 
+consideration (WBCSD 2018).
+To help ensure that climate change and extreme weather 
+data appear in industry specific reports in a form readily 
+predisposed to financial valuation, Table 3 provides high- 
+level guidance to issuers.
+>
+Factoring Climate Risk into Financial Valuation
+12
+Description of Financial Valuation Method
+For Consideration by Issuers - Key Climate Specific 
+Information Applicable to Valuation Method
+Ratio 
+Analysis
+Valuation of a company’s common equity price or the entire 
+enterprise value is established as a ratio of measurable 
+factors in a company’s operations such as:
+•	 Price/Earnings
+•	 Price/Cash Flow
+•	 Price/Book Value of Equity
+Ratios are compared to peers to determine relative valuation 
+and likelihood that the company is over or undervalued.
+These techniques are useful to establish relative valuation, 
+but less so to establish absolute valuation.
+•	 Have earnings/cash flow been impacted by a climate 
+event – e.g., flood, fire, shoreline impact?
+•	 What was the financial impact on earnings/cash flow that 
+year/quarter?
+•	 What is the probability of repeat impact (low, medium, 
+high) over the next 5 years?
+Sectors Predisposed to Ratio Analysis
+•	 Mining, Forestry, Petroleum, Utilities, 
+Telecommunications, Auto
+Sectors Less Predisposed to Ratio Analysis
+•	 Financials, Legal, Life & Health
+Discounted 
+Cash Flow 
+(DCF)
+Absolute valuation of a company is achieved through a 
+DCF analysis. DCF starts with a forecast of a company’s 
+future after-tax cash flows. These are adjusted to reflect 
+capital expenditures necessary to sustain the business. This 
+stream of cash flows is then discounted back to the present 
+time using a discount rate which reflects the risk adjusted 
+weighted average cost of capital of the company. The result 
+is an estimate of the total enterprise value of a company.
+•	 Have future cash flow projections been impacted 
+(negatively or positively), relative to initial value, by a 
+climate change/extreme weather event?
+•	 Is $ spread between current and future values increasing 
+or decreasing since climate event?
+•	 Have appropriate discount rates been selected – 
+accounting for risk of return – i.e., what is the likelihood 
+of repeat impact to risk variables?
+Sectors Predisposed to DCF
+•	 Well established companies with steady growth and 
+consistent levels of capital expenditures
+•	 Defensive Industries: Utilities, Oil, Gas, Banking, 
+Telecommunications
+Sectors Less Predisposed to DCF
+•	 Small/start-up companies exposed to economic cycle
+•	 Cyclical Industries: Raw Materials, Consumer 
+Discretionary
+Rules of 
+Thumb 
+Valuation
+Many industries are valued using “rules of thumb” specific 
+to their business. For example, in the electricity sector, the 
+frequency and duration of electricity outages is an industry 
+comparable.
+•	 Did business realize climate related impacts more/less 
+than peers?
+•	 Relative to peer group (industry association) what 
+precautions will ensure continuity of business operations?
+•	 What aspects of operations are vulnerable to business 
+disruption relative to peers?
+Table 3: Guidance to Issuers, to Optimize the Utility of  Climate Risk Reporting Relative to Five Financial Valuation Methods 
+>
+13
+Factoring Climate Risk into Financial Valuation
+Description of Financial Valuation Method
+For Consideration by Issuers - Key Climate Specific 
+Information Applicable to Valuation Method
+Economic 
+Value Added 
+(EVA®)
+EVA® is the difference between a company’s net operating 
+profits and its total cost of invested capital over a given 
+time period. The capital charge is necessary to compensate 
+providers of debt and equity for use of their capital, at a 
+rate adequate for the risk incurred. If EVA® is positive, the 
+company has created value. The market value of a company 
+is equivalent to its invested capital plus the sum of all future 
+EVA®. From this relationship, a company’s enterprise value 
+can be determined from a forecast of its EVA®.
+•	 Were positive returns realized following an extreme 
+weather event?
+•	 Have liabilities increased since the extreme weather event? 
+– higher operating costs, lower profits?
+•	 Has debt/equity ratio increased/decreased for companies 
+that implemented adaptation measures?
+•	 Was average rate of return higher/lower compared to 
+peers after climate event?
+Sectors Predisposed to EVA®
+•	 Applies to asset-intensive companies/ industries that are 
+generally stable
+•	 Utilities, Mining, Industrials
+Sectors Less Predisposed to EVA®
+•	 Applies to those with intangible assets
+•	 Information Technology
+Option 
+Pricing 
+Models 
+(OPM)
+Certain business activities create value for companies by 
+providing alternatives or choices for the future. These 
+choices or “options” do not necessarily have discrete cash 
+flows but do provide tangible value for a company. Option 
+pricing methods can be applied to these situations to 
+provide a quantitative way to estimate and communicate the 
+economic value of these choices. The technique is also useful 
+when uncertainty of outcomes exists and more than one 
+result is possible.
+•	 Have underlying assets been impacted due to an extreme 
+weather event?
+•	 Has intrinsic value increased/decreased due to an extreme 
+weather event – i.e., is the strike price “in the money”?
+•	 After an extreme weather event, does extrinsic value 
+(time value) exceed intrinsic value (financial advantage of 
+exercising option)?
+Sectors Predisposed to OPM
+•	 High Option Value companies - high time values produce 
+significant stock price movements – i.e., high volatility 
+potentially generates higher returns
+•	 Information Technology
+Sectors Less Predisposed to OPM
+•	 Low Option Value companies - falling time values 
+produce less movement in stock price - i.e., low volatility/ 
+beta generate lower premiums
+•	 Utilities, Energy, Banking
+Table 3 Continued 
+From the perspective of portfolio management, there is 
+no doubt that climate change and extreme weather risks 
+can and should factor into business valuation. The rate 
+at which these risks are included in financial analyses 
+will be affected by ongoing and more severe weather 
+impacting businesses spanning multiple industry sectors. 
+As climate risks transition from short to longer-term
+adjustments on stock price, presumably the capital 
+markets will continue to pay increasing attention (TCFD 
+2019). The irreversibility of climate change effectively 
+guarantees this realization (ECCC 2019) – i.e., it is not 
+a matter of “if ”, but rather “when”.
+Factoring Climate Risk into Financial Valuation
+14
+In 2017, just over 15% of S&P 500 companies disclosed 
+an impact on earnings from an unforeseen weather 
+effect, but only 4% quantified the effect – for those that 
+did, the impact on earnings averaged 6% (S&P Global 
+2018). As argued by TCFD and the EPSF, the impact 
+of these variances should be identified, quantified and 
+factored into corporate valuation, or simply, stock price. 
+The value of a company is ultimately the present value 
+of the stream of cash flows that can be produced in the 
+future. In this regard, the three pertinent factors that 
+are relevant are the size of the cash flows, the timing 
+of the cash flows and the risk associated with achieving 
+those cash flows. Extreme weather – and preparation to 
+limit risk through the operationalization of adaptation – 
+would have a direct impact on all three factors.
+As mentioned, the impacts of climate risks are being 
+recognized by a small but growing number of companies 
+spanning a range of industry sectors (see Appendix 1), 
+with disclosure in public documents improving to a level 
+that translation of risk to stock valuations is possible.
+To demonstrate how climate risk can be valued as part of 
+overall stock price analysis, reference is made to TransAlta 
+Corporation (an electricity power generator and wholesale 
+marketing company headquartered in Calgary, Alberta, 
+Canada ) public disclosure material from 2018 and 2019. 
+TransAlta is on the leading edge of disclosure and 
+provides detailed reviews of its operations and 
+exposure to climate/weather risks. It is not surprising 
+that TransAlta focuses on these risks, as its production of 
+electricity from coal, gas and wind in Canada, USA and 
+Australia is predisposed to extreme weather events. 
+In 2018, the Climate Disclosure Program (CDP) – an 
+international not-for-profit that documents information 
+for investors, companies, cities, provinces, states and 
+regions – completed an in-depth survey of TransAlta’s 
+operations relative to climate change. In this survey, 
+TransAlta disclosed that climate related impacts were 
+evaluated on a “six-month or more frequent” basis, 
+future impacts were projected beyond six years, and such 
+impacts “are discussed at every quarterly board meeting”. 
+For TransAlta, climate related risks are substantive 
+financial risks as they have a direct and measurable 
+impact on the expected production and distribution 
+of electricity from their various facilities. In particular, 
+“where we are unable to produce sufficient quantities 
+of output in relation to contractually specified volumes, 
+we may be required to pay penalties or purchase 
+replacement power in the market (TransAlta 2018).” 
+In Example 1 (below), the impact on financial valuation 
+caused by incremental capital costs and expenses to 
+adapt to extreme weather is calculated. TransAlta 
+prepared for the likely impact that the increased 
+severity of weather events would have on their facilities, 
+particularly from cyclones and floods, by increasing 
+“sustaining and productivity capital” by $214 million in 
+2017.* These expenditures are required on a sustaining 
+and routine basis and thus have been assumed to 
+continue each year for 5 years (although each year’s 
+capital budget for this unique category will vary).
+CASE STUDY: 
+Extreme Weather Impacts Applied 
+to Financial Valuation
+Climate risks can impact revenues, costs and risk profiles of companies, generally 
+in a negative direction, causing earnings and cash flow to vary from expectations 
+with growing regularity.
+*	 Note: all TransAlta sustaining capital and productivity capital would not be 
+directed towards climate resilience.
+15
+Factoring Climate Risk into Financial Valuation
+EXAMPLE 1: VALUE OF SUSTAINING CAPITAL 
+EXPENDITURES FOR EXTREME WEATHER 
+PREPAREDNESS/CLIMATE RESILIENCE
+Event: Capital expenditures related to ensuring plants 
+and operating facilities are available to meet market 
+demand and are prepared for extreme weather elements. 
+These expenditures are pro-active and can-be-planned.
+Translation: Additional capital investment and 
+expenses = $214 million per year commencing in 2017
+Valuation:
+Discounted Cash Flow
+i) 	 Cost of Capital – 7.65% (Jarvi and Primak 2019)
+ii) 	 Cash Flow to be value = -$214 million/year over 5 
+years (forecast)
+iii) 	Present Value = PMT X [(1-(1/(1+r)n))/r]
+Where:
+PMT = the annual costs of Climate Resilience 
+expenditures
+r = the discount rate
+n = the number of periods the costs will be incurred 
+(5 years)
+Present Value = $862 million
+iv)	 Convert to Per Share Valuation
+Shares outstanding in 2017	
+=	
+288 million
+Per share valuation impact	
+=	
+$862 million/ 
+	
+	
+288 million
+	
+=	
+$3.00 per share
+	
+	
+(rounded)
+v)	 Conclusion: The capital expenditures and costs 
+associated with extreme weather preparedness 
+has up to a $3.00 per share negative impact on 
+stock price. Furthermore, even if the expenditures 
+incurred in 2017 were “one-time” only, the impact 
+would be $0.74 per share.
+TransAlta has provided guidance regarding the impact 
+of lost production on net earnings (CDP 2018). They 
+indicate that “a 1% increase or decrease in production 
+(MWh) has an approximate impact on net earnings 
+of (+/-) $12 million.” In 2018, total net earnings at 
+TransAlta was negative $90 million, indicating that a 1% 
+variance in power production would have a 13% impact 
+on earnings. Although the valuation of specific extreme 
+weather events will come later, the general impact of any 
+event causing a 1% impact on production is calculable. 
+EXAMPLE 2: VALUE OF AN EXTREME WEATHER 
+EVENT THAT IMPACTS PRODUCTION BY 1%
+Event: Any extreme weather event causing a 1% loss in 
+production
+Translation: The impact of a 1% production loss is 
++/- $12 million in net earnings
+Valuation:
+Price/Cash Flow multiple
+a)	 Given that TransAlta was not profitable in 2018, 
+assume that impacts on net earnings are effectively 
+equivalent to a direct cash flow impact.
+b)	 Price/Cash Flow (2018) = 6.5 X (Jarvi and Primak 
+2019)
+c)	 Convert to Per Share valuation impact
+Price impact	
+= 6.5 X $12 million/shares outstanding
+	
+= $72 million/287 million
+	
+= $0.25 per share
+Conclusion: A 1% variance in production can impact 
+the share price valuation by $0.25 per share. Given that 
+the average price of TransAlta stock in 2018 was $6.98, 
+this translates to a 3.6% impact on stock value.
+Extreme weather impacts on TransAlta are acutely 
+impactful on electricity production and pricing when 
+they occur unexpectedly. For example, in 2019, 
+Canadian coal and wind assets “benefited from higher 
+power prices…reflecting the impact of extreme cold 
+weather during the first quarter of 2019.” 
+Factoring Climate Risk into Financial Valuation
+16
+For the first half of 2019, average electricity prices 
+increased to $63 per MWh from $45 per MWh in 2018.*
+The positive impact on earnings before interest, tax, 
+depreciation and amortization (EBITDA) from this 
+increased pricing was estimated at approximately $100 
+million. Using the methodology of Example 2, it can 
+be estimated that the extreme cold of 2019 impacted 
+TransAlta by over $2.00 per share. 
+The extreme cold of the winter of 2019, however, did 
+not just provide an opportunity for elevated electricity 
+pricing. TransAlta’s US Coal team experienced “a tail 
+event” due to “cold weather and strong demand in 
+the Pacific Northwest from extremely high natural gas 
+prices” (caused by pipeline constraints in part linked 
+to extreme weather). “The Company incurred cash 
+losses of $25 million on its day ahead hedging position 
+(TransAlta 2019).” 
+The “tail event” resulted in EBITDA being down $35 
+million compared to 2018. Combining all impacts 
+(positive and negative) of the extreme cold, the first 
+half of 2019 produced free cash flow that was “$33 
+million lower … for six months ending June 30, 
+2019 … compared with the same period in 2018” 
+(TransAlta 2019). 
+EXAMPLE 3: VALUE OF UNEXPECTED EXTREME 
+COLD WEATHER IN THE FIRST HALF OF 2019
+Event: Extreme cold weather in North America in 2019
+Translation: The net effect of positive and negative 
+cash flow impacts estimated by the company at -$33 
+million.
+Valuation:
+Price/Cash Flow multiple
+a)	 Price/Cash Flow (2019) = 7.0 X (Jarvi and Primak 
+2019)
+b)	 Convert to Per Share valuation impact
+Price impact	
+ = 7.0 X - $33 million/shares 
+	
+	outstanding
+	
+	= -$231 million/282 million
+	
+	= $0.82 per share
+Conclusion: The extreme cold weather of 2019 has 
+had an impact on share price valuation of $0.82 per 
+share – relative to a share price of TransAlta (November 
+2019) of $8.49, this is equivalent to a 10% impact on 
+share valuation.
+Overall, extreme weather has impacted TransAlta’s share 
+price through both predictable preparedness costs and 
+through volatility caused by operational disruptions – as 
+illustrated, each of these isolated effects can be valued 
+individually using conventional valuation methods. 
+In the previous examples, we demonstrated numerically 
+how investment in extreme weather preparedness, or 
+response to extreme weather events, has direct and 
+measurable impact on share valuation. Even more 
+meaningful is recognizing that not only is climate 
+change altering the current risk profile of entire business 
+operations, but it will continue to do so in the future. In 
+other words, the predictability of future cash flows will 
+have diminished and increasing volatility that should be 
+valued into the overall investment merits of companies.
+The increase in risk has a large and quantifiable impact 
+on the value of future cash flows. The Discounted Cash 
+Flow (“DCF”) method calculates present value of future 
+cash flows that a business produces. This is based upon a 
+discount rate determined from cost of capital inputs and 
+risk profile of the company. 
+*	 Note: higher power prices in 2019 vs. H1 2018 may have been affected by 
+cold weather and additional factors
+17
+Factoring Climate Risk into Financial Valuation
+Previous examples demonstrate that individual extreme 
+weather events can impact share valuation by 5-10% 
+on a case-by-case basis. Therefore it is reasonable to 
+assume that Beta, cash flow volatility compared to the 
+overall market or a diversified portfolio, should likely be 
+increased by 5-10% to represent a recognition of the 
+new risk profile.
+EXAMPLE 4: VALUATION IMPACT ON 
+TRANSALTA’S OVERALL BUSINESS DUE TO 
+INCREASED RISK
+Event: Overall current and future occurrences of 
+extreme weather on cash flows.
+Translation: The impact of a 7.5% increase in Beta 
+(mid-point of 5-10%) of TransAlta’s overall DCF 
+calculation.
+Valuation: a) Adjust Cost of Equity to reflect increased 
+risk
+	
+Cost of Equity = Rf + β (Rm - Rf)
+	
+Rf = Risk free rate = 3.50%
+	
+(Rm - Rf) = Market risk premium = 7.00%
+	
+β = unsystematic risk = 1.0 (current)
+	
+(all values from Jarvi and Primak 2019)
+	
+β new = unsystematic risk with extreme 
+	
+weather adjustment
+	
+β new = 1.0 * (1.075)
+	
+β new = 1.075
+	
+Cost of Equity (current) = 10.50%
+	
+Cost of Equity (new) = 3.5% + 1.075 (7.0%)
+	
+	
+= 11.03%
+b) 	 Calculate new Weighted Average Cost of Capital 
+with new Cost of Equity
+WACC new = Cost of Equity new X Equity Weight + 
+Cost of Debt X Debt Weight + Cost of Preferred Shares 
+X Preferred Share Weight
+
+WACC new = 11.03% X 52% + 5.75% X 38% + 
+5.75% X 10%
+WACC new = 8.50%
+c)	 Calculate DCF Valuation for increased WACC
+i. 	 PV of 10 Years Cash Flows new = $3,827 million
+ii. 	 PV of Terminal Value new
+ = 	 [FCF 10th year X (1 + g) / (WACC new – g)] / 
+(1 + WACC new)10
+where;
+FCF 10th year = final year cash flow from step i)
+g = terminal growth rate = 0.83%
+PV of Terminal Value new = $3,254
+DCF Valuation new 	= value from i) + value from ii)
+	
+= $3,827 million + $3,254
+	
+	 million
+	
+= $7,081 million
+1)	 Calculate Share Price 
+NPV to Common Equity = DCF – Debt – Pref – 
+Minority Interest
+NPV to Common Equity = $7,081 – 2,669 – 942 – 
+1,610
+Common Equity = $1,860 million
+Per Share Value new	
+ = $6.62
+Previous DCF Share value = $9.64
+Conclusion: The overall inclusion of extreme weather 
+risk in the DCF Valuation of TransAlta reduces the stock 
+value estimate from $9.64 per share to $6.62 per share. 
+The discussion now turns to the need to identify climate 
+change and extreme weather impacts that may affect 
+financial valuation, as informed by industry specific 
+subject matter experts.
+Factoring Climate Risk into Financial Valuation
+18
+ROLE OF SUBJECT 
+MATTER EXPERTS
+Subject matter experts, who generally reside within 
+industry associations, are key to advancing the 
+inclusion of climate change and extreme weather risk 
+into institutional portfolio management. Material risks are 
+best identified by industry members with “on the ground” 
+experience – these are professionals with decades of field 
+experience on an individual basis, and hundreds of years 
+of experience collectively. Subject matter experts, although 
+not infallible, can draw upon their experience, with insight 
+unmatched through any other means, to identity material 
+expressions of how flood, fire, ice loading, wind, etc. affect 
+business operations/continuity.
+As climate change continues to affect virtually all business 
+sectors, it would be prudent for industry associations 
+to engage their membership to develop Climate Risk 
+Matrices – subsequently, as this information becomes 
+available, financial analysts could utilize this information. 
+Subject matter experts from across industry sectors must 
+work hand-in-hand with the capital markets/financial 
+analysts if recommendations by TCFD (2019) and 
+Macklem et al. (2019) are to become commonplace. It is in 
+the interest of industry sectors to contribute their expertise 
+to risk identification, as financial specialists, left on their 
+own with limited operational experience, can easily end 
+up chasing the wrong “climate risk rabbit”.
+There is a fortuitous predisposition within industry sectors 
+that could lead to the creation of Climate Risk Matrices 
+with relative ease. When industry associations meet, 
+annually or bi-annually, they could create “climate risk 
+committees” to create Climate Risk Matrices similar to 
+Tables 1 and 2 (see pages 9 and 10).
+Within many industry sectors, climate related information 
+is publicly available through industry associations and/or 
+professional associations. For those sectors that have a high 
+percentage of associations reporting on climate change, 
+they may be prime candidates to pursue the creation of 
+Climate Risk Matrices (e.g., as per Appendix 1, these 
+include: Materials – 100%; Energy – 100%; Utilities – 
+87%; Industrials – 67%; Real Estate – 63%).
+A solid foundation for industry sectors to develop Climate 
+Risk Matrices has been established in some spheres: for 
+example, the chemical sector (WBCSD – Chemical 2019) 
+and electric utilities (WBCSD – Electric 2019).
+>
+19
+Factoring Climate Risk into Financial Valuation
+BENEFICIARIES 
+OF CLIMATE RISK 
+MATRICES
+Beyond the utility that Climate Risk Matrices would 
+convey to institutional investors, other stakeholders 
+would also benefit from climate change and extreme 
+weather risk guidance.
+Securities Commissions: Relative to enforcement 
+of a “comply-or-explain” mandate for issuers reporting 
+on climate risk (sensu Macklem et al. 2019), securities 
+commissions have limited guidance as to what would 
+constitute acceptable disclosure, per industry sector, 
+relative to multiple forms of climate impact (Evain et 
+al. 2018).
+Climate Risk Matrices would provide securities 
+commissions with a prioritized baseline of acceptable 
+industry-specific climate risk disclosure – i.e., the 
+“explain” part of comply-or-explain – that would help 
+to empower commissions to enforce their mandate.
+Credit Rating Agencies: The impacts of climate 
+change and extreme weather risk could affect a 
+borrower’s capacity to repay a lender (Moody’s 2017, 
+Tigue 2019). As such, credit rating agencies should 
+incorporate climate risk into credit rating assignments. 
+Growing recognition of the importance of climate 
+risk to credit rating agencies is reflected in Moody’s 
+Corporation purchasing a controlling stake in Four 
+Twenty Seven, a California-based company that 
+measures a range of hazards, including extreme rainfall, 
+hurricanes, heat stress and sea level rise, and tracks their 
+impact on 2,000 companies and 196 countries (Flavelle 
+2019). This acquisition signifies a meaningful step toward 
+financial institutions committing to the realization that 
+climate risk should enter into any evaluation of the 
+financial strength of any government or company and 
+their ability to repay debt.
+Access to Climate Risk Matrices would help inform 
+credit rating agencies such as Moody’s, Standard & 
+Poor’s, DBRS and Fitch Ratings (Tigue 2019).
+Boards of Directors: From the perspective of 
+fiduciary oversight, it is incumbent upon Boards to 
+ensure that management is directing appropriate 
+attention to climate change and extreme weather 
+risk (CPA 2017, Wylnco and Musulin 2019, Geneva 
+Association 2019). Upon recognition of risk that may be 
+material, a Board must be satisfied that management is 
+appropriately engaged to address that risk. The difficulty 
+for Boards in executing on this direction may be a 
+combination of (a) the appropriate expertise may not 
+exist amongst Board members to assess climate-related 
+risk, and/or (b) Boards not having appropriate guidance 
+that would enable them to ask the appropriate questions 
+of management in reference to climate related risk. 
+Boards could hire expertise to gain insight into risk, but 
+even that expertise may be nascent or poorly informed 
+(Tooze 2019, Geretto and Jacques-Brissette 2019).
+Climate Risk Matrices could fill this risk awareness 
+void by concisely conveying to Board members, in 
+user-friendly format, material risks pertaining to 
+climate change and extreme weather that could inform 
+a dialogue with management. By simply asking well 
+informed questions to management on the subject 
+of climate risk, Boards would signal that they attach 
+importance to the issue, and they would demonstrate 
+due diligence that could serve them well if a material 
+risk were to manifest itself (Wylynko and Musulin 2019).
+>
+Climate Risk Matrices could fill a risk awareness void by concisely conveying to 
+Board members, in user-friendly format, material risks pertaining to climate 
+change and extreme weather that could inform a dialogue with management.”
+“
+Factoring Climate Risk into Financial Valuation
+20
+>
+NEXT STEPS
+Time is not on the side of institutional investors 
+regarding irreversible climate change (ECCC 2019), as 
+the magnitude of extreme weather risks guarantees to 
+challenge all industry sectors going forward. Accordingly, 
+institutional investors, securities commissions and credit 
+rating agencies must adapt their businesses to this 
+unrelenting risk.
+The capital markets must acknowledge that there is no 
+such thing as “not deciding” relative to climate risk – 
+deciding to ignore climate risk is effectively a decision to 
+select for the status quo (i.e., business as usual), whereas 
+incorporating climate risk into financial valuation is 
+adaptive management that will limit future beta/risk 
+(Economist 2015).
+The development of Climate Risk Matrices offers a 
+practical, accessible, cost-effective and user-friendly 
+standardized method to incorporate physical climate 
+change risk into institutional portfolio management. 
+Climate risks are predisposed to translation to impact on 
+valuation and share price, using a variety of standardized 
+financial valuation methods, as demonstrated in this report.
+Future incarnations may see climate risk calculated 
+using such sophisticated means as artificial intelligence, 
+machine language or similarly advanced technologies – 
+however, for the present, Climate Risk Matrices offer a 
+viable early stage solution to incorporate climate risk 
+into portfolio management almost immediately.
+The next step to create Climate Risk Matrices requires 
+major institutional investors reaching out to subject 
+matter experts, who would be most easily accessed 
+and assembled into working groups through industry 
+associations – by combining the skill sets of investors 
+and subject matter experts (neither can succeed alone), 
+the scaled production of Climate Risk Matrices, across 
+sectors, can begin. Sectors best positioned for Climate 
+Risk Matrix development, based on self-reported and 
+readily available climate change data, are Materials, 
+Energy, Utilities, Industrials and Real Estate.
+In sum, financial value is at increasing risk due to 
+the irreversibility of climate change. Recognizing the 
+enormity of this risk, Mark Carney admonished that 
+“climate disclosure must become comprehensive, climate 
+risk management be transformed, and sustainable 
+investing must go mainstream” (Green 2019). Climate 
+Risk Matrices offer a readily deployable means 
+to act on Carney’s admonition, NOW.
+21
+Factoring Climate Risk into Financial Valuation
+REFERENCES
+Addoum, J.M., Ng, D., and A. Ortiz-Bobea. 2019. 
+Climate Shocks and Earnings News, Working Paper, 
+RFS Climate Finance Initiative.
+Bienert, S. 2016. Climate Change Implications for Real 
+Estate Portfolio Allocation. Industry Perspective. Urban 
+Land Institute.
+Bank of Canada. 2019. Researching the Economic 
+Impacts of Climate Change – available at: 
+https://www.bankofcanada.ca/2019/11/researching-
+economic-impacts-climate-change/
+BOMA Canada (Building Owners and Managers 
+Association of Canada). 2019 Resilience Brief – Is Your 
+Building Ready? BOMA Canada.
+Bloomberg, M.R. 2014. Interview for Risky Business 
+Project, June 17, 2014 – available at http://www. 
+riskybusiness.org
+Burillo, D. 2018. Effects of Climate Change in Electric 
+Power Infrastructures. DOI: 10-5772/intecopen.82146
+CDP (Climate Disclosure Program). 2018. Climate 
+Change Request Disclosure – TransAlta Corporation.
+CSA (Canadian Securities Administrators). 2010. 
+CSA Staff Notice 51-333 – Environmental Reporting 
+Guidance. Canadian Securities Administrators.
+CSA (Canadian Securities Administrators). 2019. CSA 
+Staff Notice 51-358 – Reporting of Climate Change- 
+Related Risks. Canadian Securities Administrators.
+CSA (Canadian Standards Association). 2019. NRC 
+– CSA Group Canadian Electrical Code (CE Code) 
+Climate Change Adaptation Project. CSA Group, 
+Toronto, Ontario.
+CPA (Chartered Professional Accountants) Canada. 
+2017. Climate Change Briefing: Questions for Directors 
+to Ask: https://www.cpacanada.ca/en/business-and- 
+accounting-resources/strategy-risk-and-governance/ 
+corporate-governance/publications/climate-change- 
+questions-directors-should-ask
+ECCC (Environment and Climate Change Canada). 
+2019. Canada’s Changing Climate Report – Executive 
+Summary.
+Economist (The). 2015. The Cost of Inaction: 
+Recognising the Value at Risk from Climate Change. 
+Intelligence Unit.
+Ehrbar, A. 1998. Stern Stewart’s EVA (Economic Value 
+Added) – The Real Key to Creating Wealth. John Wiley 
+& Sons, Inc. New York, New York.
+Evain, J., Cardona, M. and M. Nicol. 2018. Article 
+173: Climate Brief No. 59. Article 173: Overview of 
+Climate-Related Financial Disclosure after Two Years of 
+Implementation. Institute for Climate Economics.
+Flavelle, C. 2019. Moody’s Buys Climate Data Firm, 
+Signaling New Scrutiny of Climate Risks. The New York 
+Times, June 24, 2019.
+GCA (Global Commission on Adaptation). 2019. 
+Adapt Now: A Global Call for Leadership on Climate 
+Resilience. Global Center on Adaptation/World 
+Resources Institute.
+Geneva Association (The). 2019. Insurers Take Decisive 
+Step in Climate Risk Modelling Through Cross-Sectoral 
+Mobilisation. The Geneva Association – 
+https://www. genevaassociation.org/
+Geretto, G. and C. Jacques-Brissette. 2019. Time to 
+Act: Facing the Risks of a Changing Climate. Canadian 
+Institute of Actuaries.
+Giuzio, M., Krusec, D., Levels, A., Melo, A.S., 
+Mikkonen, K. and P. Radulova. 2019. Climate Change 
+and Financial Stability. European Central Bank.
+Green, M. 2019. BOE’s Carney Urges Financial Sector 
+to Transform Management of Climate Risk. Reuters, 
+September 23, 2019.
+IPCC (Intergovernmental Panel on Climate Change). 
+2019. Global Warming of 1.5 oC. UNEP.
+Jarvi, M. and Primak, O. 2019. Institutional Equity 
+Research, CIBC. TransAlta Corporation – Coal Boost 
+Slight Positive; No Change to Long-Term Outlook. 
+Earning Update. 
+Krueger, P., Sautner, Z. and L. Starks. 2019. The 
+Importance of Climate Risks for Institutional Investors. 
+ECGI Working Papers in Finance. Working Paper No. 
+610/2019.
+Kruttli, M., Roth Tran, B. and S. Watugala. 2019. 
+Pricing Poseidon: Extreme Weather Uncertainty and 
+Firm Return Dynamics, Working Paper, Board of 
+Governors of Federal Reserve System and Cornell 
+University.
+Factoring Climate Risk into Financial Valuation
+22
+Macklem, T., Chisholm, A., Thomassin, K. and B. Zvan. 
+2019. Final Report of the Expert Panel on Sustainable 
+Finance – Mobilizing Finance for Sustainable Growth.
+Environment and Climate Change Canada. Cat. No.: 
+En4-350/2-2019E-PDF.
+Moody’s Investors Service. 2017. Environmental Risks – 
+Evaluating the Impact of Climate Change. Accessed at: 
+www.southeastfloridaclimatecompact.org/wp-content/ 
+uploads/2017/12/Evaluating-the-impact-of-climate- 
+change-on-US-state-and-local-issuers-11-28-17.pdf.
+Moore, F. 2019. Climate Change is the New Normal 
+but We Don’t Seem to Notice. New Scientist. Article 
+2195471.
+Moudrak, N. and B. Feltmate. 2019. Ahead of the 
+Storm: Developing Flood-Resilience Guidance for 
+Canada’s Commercial Real Estate. Prepared for 
+REALPAC and BOMA Canada. Intact Centre on 
+Climate Adaptation, University of Waterloo.
+Moudrak, N., Feltmate, B., Venema, H. and H. Osman. 
+2018. Combatting Canada’s Rising Flood Costs: Natural 
+Infrastructure is an Undervalued Option. Prepared for 
+Insurance Bureau of Canada. Intact Centre on Climate 
+Adaptation, University of Waterloo.
+Moudrak, N., Hutter, A.M. and B. Feltmate. 2017. 
+When the Big Storms Hit: the Role of Wetlands to Limit 
+Urban and Rural Flood Damage. Prepared for Ontario 
+Ministry of Natural Resources and Forestry. Intact 
+Centre on Climate Adaptation, University of Waterloo.
+NRTEE (National Round Table on the Environment 
+and the Economy). 2006. The SDEffect™: Translating 
+Sustainable Development into Financial Valuation 
+Measures – A Pilot Analytical Framework. Yachnin & 
+Associates, Corporate Knights, Sustainable Investment 
+Group.
+Paisley, J. and M. Nelson. 2019. Climate Risk 
+Management at Financial Firms – Challenges and 
+Opportunities. GARP Risk Institute (Global Association 
+of Risk Professionals).
+PBOC (Office of the Parliamentary Budget Officer). 
+2016. Estimate of the Average Annual Cost for Disaster 
+Financial Assistance Arrangements due to Weather 
+Events. Ottawa, Canada.
+Roman, K. 2019. Climate Change Threatens Both 
+the Economy and the Financial System, Says Bank of 
+Canada. CBC News.
+S&P Global. 2018. S&P Global Ratings. Resilience 
+Economics. Ratings Direct. The Effects of Weather 
+Events on Corporate Earnings are Gathering Force. 
+TCFD (Task Force on Climate-Related Financial 
+Disclosures). 2019. Task Force on Climate-Related 
+Financial Disclosures: Status Report.
+Tigue, K. 2019. Climate Change Becomes an Issue for 
+Ratings Agencies. Inside Climate News, August 5, 2019.
+TransAlta. 2018. TransAlta Corporation. 2018 Annual 
+Integrated Report. 
+TransAlta. 2019. TransAlta Corporation. Second 
+Quarter Report for 2019.
+Tooze, A. 2019. Why Central Banks Need to Step Up on 
+Global Warming. Foreign Policy.
+WBCSD (World Business Council for Sustainable 
+Development – Chemical). 2019. TCFD Chemical 
+Sector Preparer Forum. Climate-Related Financial 
+Disclosure by Chemical Sector Companies: 
+Implementing the TCFD Recommendations. WBCSC, 
+in collaboration with AKzoNobel, BASF, DSM, Solvay, 
+Sumitomo Chemical.
+WBCSD (World Business Council for Sustainable 
+Development - Electric). 2019. TCFD Electric Utilities 
+Preparer Forum. Disclosure in a Time of Transition: 
+Climate-Related Financial Disclosure and the 
+Opportunity for the Electric Utilities Sector. WBCSD, 
+in collaboration with CLP, EDF, EDP, ENBW, ENEL, 
+Iberdrola.
+WBCSD (World Business Council for Sustainable 
+Development). 2018. Communicating Sustainable 
+Development and Reporting to Stakeholders – Group 
+Projects – Class of 2018. WBCSD Leadership Program 
+2018.
+Wylynko, B. and C. Musulin. 2019. Disclosing Your 
+Climate Risks: ASIC Sets Out Its Guidance for 
+Directors. Clayton UTZ, August 22, 2019.
+23
+Factoring Climate Risk into Financial Valuation
+Sector/Subsector
+Industry Associations
+Publicly Available Climate 
+Information – Disclosed/Not 
+Disclosed
+Sector: 
+Communication 
+Services
+Subsectors:
+Telecommunication 
+Services, Media & 
+Entertainment
+Total % of listed 
+Sector/Subsectors 
+that disclose: 23.5%
+Sector Associations: 
+1)	 Canadian Communication Association
+2)	 Canadian Communication Systems Alliance (CCSA)
+Subsector Associations: 
+3)	 Canadian Wireless Telecommunications Association
+4)	 Canadian Media Producers Association
+5)	 News Media Canada 
+6)	 Travel Media Association of Canada
+7)	 Canadian Association of Journalists 
+8)	 Canadian Ethnic Media Association
+9)	 Women in Communications and Technology
+10)	Association of Canadian Advertisers
+11)	Association of Canadian Publishers
+12)	Canadian Association of Broadcasters
+13)	Canadian Public Relations Society Inc. 
+14)	Canadian Authors’ Association
+15)	Canadian Digital Media Network
+16)	Entertainment Software Association of Canada
+17)	Motion Picture Association of Canada
+1)	 Not Disclosed 
+2)	 Not Disclosed 
+3)	 Disclosed
+4)	 Disclosed
+5)	 Not Disclosed 
+6)	 Not Disclosed 
+7)	 Disclosed
+8)	 Articles on CC
+9)	 Not Disclosed 
+10)	Not Disclosed 
+11)	Not Disclosed
+12)	Not Disclosed
+13)	Not Disclosed 
+14)	Not Disclosed
+15)	Articles on CC
+16)	Not Disclosed
+17)	Disclosed 
+Sector: 
+Consumer 
+Discretionary 
+Subsectors: 
+Automobiles & 
+Components, 
+Consumer Services, 
+Consumer Durables & 
+Apparel, Retailing
+Total % of listed 
+Sector/Subsectors 
+that disclose: 54.2%
+Sector Associations
+1)	 Consumers’ Association of Canada 
+Subsector Associations
+2)	 Auto Parts Manufacturers Association
+3)	 Automotive Industries Association of Canada
+4)	 Automotive Parts Manufacturers’ Association
+5)	 Canadian Automobile Dealers Association
+6)	 Canadian Automotive Partnership Council
+7)	 Canadian Manufacturers and Exporters
+8)	 Canadian Vehicle Manufacturers’ Association
+9)	 Global Automakers of Canada
+10)	Japan Automobile Manufacturers’ Association of Canada
+11)	North American Automobile Trade Association
+12)	The Association for the Work Truck Industry (NTEA)
+13)	Used Car Dealers Association of Ontario
+14)	Atlantic Marine Trades Association (AMTA)
+15)	Boating BC Association (BBA)
+16)	National Marine Manufacturers Association (NMMA)
+17)	Apparel Connexion (formerly known as the Apparel Human 
+Resources Council) 
+18)	CTT Group
+19)	The Canadian Apparel Federation (CAF)
+20)	Canadian Sporting Goods Association
+21)	The Canadian Home Furnishings Alliance (CHFA)
+22)	Canadian Kitchen Cabinet Association (CKCA)
+23)	The Quebec Furniture Manufacturers Association (QFMA)
+24)	Canadian Printing Industries Association (CPIA)
+1)	 Disclosed 
+2)	 Articles on CC
+3)	 Disclosed 
+4)	 Disclosed
+5)	 Disclosed 
+6)	 Disclosed 
+7)	 Disclosed
+8)	 Disclosed 
+9)	 Disclosed 
+10)	Articles on CC
+11)	Not disclosed 
+12)	Disclosed 
+13)	Not Disclosed 
+14)	Not Disclosed 
+15)	Disclosed
+16)	Disclosed 
+17)	Not Disclosed 
+18)	Disclosed 
+19)	Not Disclosed 
+20)	Not Disclosed 
+21)	Not Disclosed
+22)	 Disclosed 
+23)	Not Disclosed 
+24)	Not Disclosed  
+Appendix 1: Industry Sector Disclosure/Non-Disclosure on Climate Change*, Available Publicly Through Industry 
+Associations and Professional Organizations (* includes any aspect of  climate change discussion. Source: Intact Centre review 
+of  public documents as of  12/23/19.) 
+Factoring Climate Risk into Financial Valuation
+24
+Sector/Subsector
+Industry Associations
+Publicly Available Climate 
+Information – Disclosed/Not 
+Disclosed
+Sector: 
+Energy 
+Subsectors:
+Energy Services 
+Total % of listed 
+Sector/Subsectors 
+that disclose: 100%
+Sector Associations
+1)	 Energy Services Association of Canada 
+2)	 Ontario Energy Association 
+3)	 Community Energy Association 
+4)	 Ontario Energy Board
+Energy/Utilities
+5)	 Canadian Energy Pipeline Association 
+6)	 Ontario Sustainable Energy Association
+1)	 Disclosed 
+2)	 Disclosed 
+3)	 Disclosed
+4)	 Disclosed
+
+5)	 Disclosed
+6)	 Disclosed
+Sector: 
+Financials 
+Subsectors: 
+Insurance, Banks, 
+Diversified Financials
+Total % of listed 
+Sector/Subsectors 
+that disclose: 47.8%
+Sector Associations
+1)	 Canadian Consumer Finance Association
+2)	 The Canadian Association of Financial Institutions in Insurance 
+3)	 Canadian Bankers Association 
+4)	 Investment Industry Association of Canada
+5)	 Investment Industry Regulatory Organization of Canada (IIROC)
+6)	 The Financial Advisors Association of Canada 
+7)	 Canadian Finance and Leasing Association of Canada 
+8)	 The Association for Financial Professionals
+9)	 CFA Society Canada  
+10)	Insurance Brokers Association of Canada
+11)	Insurance Bureau of Canada 
+12)	Financial Services Commission of Ontario 
+13)	Insurance Brokers Association of Ontario 
+14)	Registered Insurance Brokers of Ontario 
+15)	Alberta Insurance Council
+16)	Insurers Brokers Association of Alberta
+17)	New Brunswick Insurance Board 
+18)	Insurance Brokers Association of New Brunswick 
+19)	Consumer Advocate for Insurance 
+20)	Insurance Brokers Association of Newfoundland 
+21)	Insurance Brokers Association of Nova Scotia
+22)	Financial Executives International Canada
+23)	Sustainable Investment Organization
+1)	 Not Disclosed 
+2)	 Disclosed
+3)	 Disclosed
+4)	 Disclosed 
+5)	 Letter from SIO regarding 
+KYC and ESG guidelines 
+6)	 Not Disclosed 
+7)	 Not Disclosed
+8)	 Articles on CC 
+9)	 Articles on CC 
+10)	Disclosed 
+11)	Disclosed 
+12)	Articles on CC 
+13)	Disclosed 
+14)	Not Disclosed 
+15)	Not Disclosed 
+16)	Not Disclosed 
+17)	Not Disclosed 
+18)	Disclosed
+19)	Not Disclosed 
+20)	Disclosed
+21)	Disclosed
+22)	Disclosed
+23)	Disclosed
+Sector: 
+Health Care 
+Subsector: 
+Health Care 
+Equipment & Services, 
+Pharmaceuticals, 
+Biotechnology & 
+Life Sciences
+Total % of listed 
+Sector/Subsectors 
+that disclose: 51.3%
+Sector Associations 
+1)	 Canadian Institute for Health Information
+2)	 BC Health Information Management Professionals Society
+3)	 Canadian College of Health Leaders
+4)	 The Canadian Coalition for Green Health Care
+5)	 Canadian Cancer Society 
+6)	 Canadian Health Information Management Association
+7)	 Canadian Home Care Association
+8)	 Canadian Medical Association
+9)	 Canadian Medical Protective Association
+10)	Canadian Mental Health Association
+11)	Canadian Nurses Association
+12)	Canadian Patient Safety Institute
+13)	Canadian College of Health Leaders 
+14)	Canadian Pharmacists Association
+15)	Digital Health Canada
+16)	Heart and Stroke Foundation 
+17)	Institute for Safe Medication Practices Canada (ISMP Canada)
+1)	 Disclosed 
+2)	 Not Disclosed 
+3)	 Disclosed  
+4)	 Disclosed 
+5)	 Disclosed 
+6)	 Disclosed 
+7)	 Not Disclosed 
+8)	 Disclosed 
+9)	 Not Disclosed 
+10)	Not Disclosed 
+11)	Disclosed 
+12)	Disclosed 
+13)	Disclosed 
+14)	Disclosed 
+15)	Not Disclosed 
+16)	Articles on CC
+17)	Articles on weather and health
+25
+Factoring Climate Risk into Financial Valuation
+Sector/Subsector
+Industry Associations
+Publicly Available Climate 
+Information – Disclosed/Not 
+Disclosed
+Sector: 
+Health Care 
+(Continued)
+18)	ITAC Health – Information Technology Association of Canada
+19)	JDRF
+20)	MedicAlert Foundation Canada
+21)	Ontario Telemedicine Network
+22)	Patients Canada
+23)	Patients for Patient Safety Canada
+24)	The Lung Association (Ontario)
+25)	BIOTECanada
+26)	Canadian Generic Pharmaceutical Association
+27)	Innovative Medicines Canada
+28)	Consumer Health Products Canada
+29)	LifeSciences British Columbia
+30)	BioAlberta
+31)	Life Science Association of Manitoba
+32)	Ontario Bioscience Innovation Organization
+33)	Life Sciences Ontario
+34)	BIOQuébec (French only)
+35)	BioNova
+36)	PEI BioAlliance
+37)	Newfoundland and Labrador Association of Technology Industries
+38)	Association of Cooperative Counselling Therapists of Canada
+39)	HealthCareCAN
+18)	Disclosed 
+19)	Articles on weather and health
+20)	Not Disclosed 
+21)	Not Disclosed 
+22)	Not Disclosed 
+23)	Not Disclosed 
+24)	Disclosed 
+25)	Disclosed 
+26)	Not Disclosed 
+27)	Not Disclosed 
+28)	Articles on CC
+29)	Not Disclosed 
+30)	Disclosed
+31)	Disclosed
+32)	Not Disclosed 
+33)	Disclosed  
+34)	Not Disclosed 
+35)	Disclosed
+36)	Disclosed 
+37)	Disclosed
+38)	Not Disclosed 
+39)	Disclosed 
+Sector: 
+Industrials 
+Subsector: 
+Commercial & 
+Professional Services, 
+Transportation, 
+Capital Goods
+Total % of listed 
+Sector/Subsectors 
+that disclose: 66.7%
+Sector Associations
+1)	 Transportation Association of Canada
+2)	 Canadian Transportation Equipment Association
+3)	 Canadian Urban Transit Association
+4)	 Alberta Transportation 
+5)	 Department of Transportation and Works (NB)
+6)	 Transportation and Infrastructure Renewal (NFL) 
+7)	 Department of Transportation, Infrastructure and Energy (PEI)
+8)	 Canadian Manufacturing Coalition
+ 
+9)	 Canadian Trucking Alliance 
+10)	Canadian International Freight Forwarding Association 
+11)	Ontario Trucking Association 
+12)	Association of Professional Canadian Consultants
+13)	Canadian Bar Association 
+14)	Association of Canadian Advertisers 
+15)	Ontario Association of Architects  
+16)	Chartered Professional Accountants Canada
+17)	Professional Engineers Ontario
+18)	Canadian Association of Management Consultants 
+1)	 Disclosed
+2)	 Disclosed 
+3)	 Disclosed 
+4)	 Disclosed 
+5)	 Disclosed 
+6)	 Disclosed 
+7)	 Disclosed 
+8)	 Articles on CC – redirects to 
+members that disclose 
+9)	 Disclosed
+10)	Not Disclosed – redirects to 
+government websites
+11)	Articles – same as#9
+12)	Not Disclosed
+13)	Disclosed
+14)	Not Disclosed
+15)	Disclosed
+16)	Disclosed
+17)	Disclosed – Environmental 
+Site Assessment Subcommittee
+18)	Not Disclosed
+Factoring Climate Risk into Financial Valuation
+26
+Sector/Subsector
+Industry Associations
+Publicly Available Climate 
+Information – Disclosed/Not 
+Disclosed
+Sector: 
+Information 
+Technology 
+Subsector: 
+Technology Hardware 
+& Equipment, 
+Semiconductors 
+& Semiconductor 
+Equipment, Software & 
+Services
+Total % of listed 
+Sector/Subsectors 
+that disclose: 16.7%
+Sector Associations
+1)	 Information Technology Association of Canada 
+Subsector Associations
+2)	 Canada’s Association of I.T. Professionals
+3)	 Information and Communications Technology Council 
+4)	 Canadian Information Processing Society 
+5)	 Canadian Technology Immigration Network
+6)	 Alliance of Technology and Science Specialists of Toronto Inc. (ATSS)
+1)	 Disclosed 
+
+2)	 Articles on CC
+3)	 Not Disclosed
+4)	 Not Disclosed
+5)	 Not Disclosed 
+6)	 Not Disclosed – redirects to 
+sustainable members
+Sector: 
+Materials 
+Subsectors: 
+Materials
+Total % of listed 
+Sector/Subsectors 
+that disclose: 100%
+Sector Associations
+1)	 Canadian Plastics Industry Association
+2)	 Natural Resource Canada
+3)	 Tire and Rubber Association of Canada
+4)	 Canadian Association of Recycling Industries
+5)	 Grain Growers of Canada (consumer staples?)
+6)	 Forest Products Association 
+7)	 APA-The Engineered Wood Association
+8)	 The Mining Association of Canada 
+1)	 Disclosed
+2)	 Disclosed 
+3)	 Disclosed
+4)	 Disclosed
+5)	 Disclosed
+6)	 Disclosed
+7)	 Disclosed
+8)	 Disclosed
+Sector: 
+Real Estate 
+Total % of listed 
+Sector/Subsectors 
+that disclose: 62.5%
+Sector Associations 
+1)	 Canadian Real Estate Association
+2)	 Real Estate Institute of Canada 
+3)	 Ontario Real Estate Association 
+4)	 REALPAC
+5)	 British Columbia Real Estate Association
+6)	 New Brunswick Real Estate Association
+7)	 Manitoba Real Estate Association  
+8)	 Canadian National Association of Real Estate Appraisers
+1)	 Disclosed
+2)	 Not Disclosed 
+3)	 Disclosed 
+4)	 Disclosed
+5)	 Disclosed
+6)	 Disclosed
+7)	 Articles on CC
+8)	 Not Disclosed 
+Sector: 
+Utilities 
+Subsectors: 
+Electrical, Oil, Gas 
+Total % of listed 
+Sector/Subsectors 
+that disclose: 86.8%
+Sector Associations
+1)	 Canadian Electricity Association
+2)	 Canadian Gas Association
+3)	 Canadian Heavy Oil Association 
+4)	 Canadian Association of Petroleum Producers
+5)	 Canadian Propane Association
+6)	 Canadian Water &Wastewater Association
+7)	 Newfoundland & Labrador Public Utilities Board 
+8)	 Nova Scotia Utility and Review Board 
+9)	 Clean Energy Association of Canada 
+10)	Canadian Council on Renewal Electricity
+11)	Canadian Wind Association  
+12)	Independent Electricity Systems Operator
+13)	BC Hydro 
+14)	SaskPower 
+15)	Nova Scotia Power
+16)	Toronto Hydro 
+1)	 Disclosed
+2)	 Disclosed
+3)	 Not Disclosed – members are 
+environmental specialists 
+4)	 Disclosed 
+5)	 Disclosed
+6)	 Disclosed
+7)	 Disclosed 
+8)	 Fire Disclosed 
+9)	 Disclosed 
+10)	Disclosed 
+11)	Disclosed
+12)	Disclosed 
+13)	Disclosed 
+14)	Disclosed 
+15)	Disclosed 
+16)	Disclosed 
+27
+Factoring Climate Risk into Financial Valuation
+Sector/Subsector
+Industry Associations
+Publicly Available Climate 
+Information – Disclosed/Not 
+Disclosed
+Sector: 
+Utilities
+(Continued)
+17)	Maritime Electric 
+18)	PEMBINA
+19)	Electro-Federation Canada (EFC)
+20)	Canadian Energy and Utility Regulations
+21)	Canadian Communication Systems Alliance
+22)	The Heating, Refrigeration and AC Institute of Canada 
+23)	Alberta Land Surveyor’s Association
+24)	Canadian Association Geophysical Contractors (CAGC)
+25)	Canadian Association of Oilwell Drilling Contractors (CAODC)
+26)	Canadian Association of Petroleum Landmen
+27)	Canadian Energy Pipeline Association 
+28)	Canadian Fuels Association
+29)	Canadian Global Exploration Forum
+30)	Canadian Society of Exploration Geophysicists
+31)	Canadian Society of Petroleum Geologists
+32)	Canadian Society for Unconventional Resources (CSUR)
+33)	Canadian Well Logging Society
+34)	Clean Resource Innovation Network (CRIN)
+35)	Explorers and Producers Association of Canada (EPAC)
+36)	Gas Processing Association Canada
+37)	Petroleum Technology Alliance of Canada (PTAC)
+38)	Society of Petroleum Engineers – Canada Region
+17)	Disclosed 
+18)	Disclosed  
+19)	Disclosed
+20)	Disclosed
+21)	Not Disclosed  
+22)	Disclosed
+23)	Disclosed 
+24)	Disclosed
+25)	Disclosed
+26)	Disclosed
+27)	Disclosed 
+28)	Disclosed
+29)	Case studies  – must be a 
+member to view
+30)	Disclosed
+31)	Disclosed 
+32)	Disclosed 
+33)	Not Disclosed 
+34)	Disclosed 
+35)	Articles on CC and/or 
+redirects to government 
+website
+36)	Disclosed
+37)	Disclosed 
+38)	Disclosed 
+Sector: 
+Consumer Staples  
+Subsectors: 
+Food & Staples 
+Retailing, Household & 
+Personal Products, Food 
+Beverage & Tobacco
+Total % of listed 
+Sector/Subsectors 
+that disclose: 53.3%
+Sector Associations 
+1)	 Consumers’ Association of Canada 
+2)	 Canadian Health Food Association 
+3)	 Food & Consumer Products of Canada
+4)	 Food & Beverage Canada
+5)	 Imperial Tobacco Canada 
+6)	 Baking Association of Canada
+7)	 Consumer Health Products Canada
+8)	 Cosmetic Alliance Canada 
+9)	 Canadian Natural Products Association 
+10)	Canadian National Millers Association
+11)	Canadian Pasta Manufactures Association
+12)	Canadian Pastry Chefs Guild
+13)	Beer Canada
+14)	Canadian Beverage Association
+15)	Canadian Bottled Water Association
+1)	 Disclosed 
+2)	 Disclosed 
+3)	 Disclosed 
+4)	 Not Disclosed
+5)	 Not Disclosed 
+6)	 Not Disclosed 
+7)	 Disclosed – Plastic action 
+plan
+8)	 Articles on CC but must be 
+member to login
+9)	 Not Disclosed  
+10)	Disclosed 
+11)	Not Disclosed 
+12)	Not Disclosed 
+13)	Disclosed
+14)	Disclosed 
+15)	Disclosed 
+“The framework presented in this report provides a solid and practical way to assess and value 
+physical climate risks, supporting improved disclosure and better pricing of climate risks.”
+Tiff Macklem, Chair, Expert Panel on Sustainable Finance
+“Climate change and extreme weather risks can represent challenges for capital markets. 
+This report provides practical guidance that will help the financial sector to better incorporate 
+climate risk into financial valuation.”
+Brian Porter, President and Chief Executive Officer, Scotiabank
+“Understanding the financial impacts of climate change necessitates the building of new data 
+bridges between asset owners and the companies they invest in. This framework demonstrates 
+how we can use new climate-related data about company risks with existing valuation models to 
+get decision-ready results.”
+Sonia Baxendale, President and CEO, Global Risk Institute
+“We need to better understand the impacts of climate change on the financial performance of 
+companies. This report provides a practical framework for how businesses should disclose, 
+and how investors should evaluate physical climate risks to help us build a more prosperous 
+and resilient society.”
+Charles Brindamour, Chief Executive Officer, Intact Financial Corporation
+“The climate related tools in this report conform well with the risk management protocols 
+that have become convention since the financial crisis.”
+Mike Pedersen, Chair of the Board of Business Development Bank of Canada
+“This report establishes a framework for institutional investors to ask issuers industry-specific 
+questions regarding their vulnerability to climate change induced risk.”
+Marcia Moffat, Managing Director, BlackRock Canada
+“Identification of industry-specific physical climate risks, through the process presented in this 
+report, may provide practical input to assist credit rating agencies.”
+Douglas Turnbull, Vice-Chairman, Country Head, Canada, DBRS
+“Climate change is a global challenge that has presented—and will continue to present—risks 
+for businesses and communities around the world.”
+ Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+For further information about the report, please contact:
+Kathryn Bakos
+Director, Climate Finance and Science
+Intact Centre on Climate Adaptation
+Faculty of Environment, University of Waterloo
+EV3 4334 – 200 University Avenue West
+Waterloo, ON, Canada  N2L 3G1
+E.	 kathryn.bakos@uwaterloo.ca
+T.	 519 572 1463
+“WHEN THE WELL’S DRY, WE KNOW THE WORTH OF WATER.”
+ Benjamin Franklin

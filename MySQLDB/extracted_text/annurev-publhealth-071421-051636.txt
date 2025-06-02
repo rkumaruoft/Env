@@ -1,0 +1,1090 @@
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+Annual Review of Public Health
+Public Health Implications of
+Drought in a Climate Change
+Context: A Critical Review
+Coral Salvador,1,2,3 Raquel Nieto,1
+Sergio M. Vicente-Serrano,4 Ricardo García-Herrera,5,6
+Luis Gimeno,1 and Ana M. Vicedo-Cabrera2,3
+1Centro de Investigación Mariña, Universidade de Vigo, Environmental Physics Laboratory
+(EPhysLab), Ourense, Spain; email: csalvador@uvigo.es
+2Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland
+3Oeschger Center for Climate Change Research, University of Bern, Bern, Switzerland
+4Instituto Pirenaico de Ecología, Consejo Superior de Investigaciones Científicas (IPE–CSIC),
+Zaragoza, Spain
+5Departamento de Física de la Tierra y Astrofísica, Universidad Complutense, Madrid, Spain
+6Instituto de Geociencias (IGEO), Consejo Superior de Investigaciones Científicas–Universidad
+Complutense de Madrid (CSIC-UCM), Madrid, Spain
+Annu. Rev. Public Health 2023. 44:213–32
+First published as a Review in Advance on
+January 9, 2023
+The Annual Review of Public Health is online at
+publhealth.annualreviews.org
+https://doi.org/10.1146/annurev-publhealth-
+071421-051636
+Copyright © 2023 by the author(s). This work is
+licensed under a Creative Commons Attribution 4.0
+International License, which permits unrestricted
+use, distribution, and reproduction in any medium,
+provided the original author and source are credited.
+See credit lines of images or other third-party
+material in this article for license information.
+Keywords
+climate change, drought trends, human health, vulnerability, drought risk
+management
+Abstract
+Extreme weather events are expected to increase due to climate change,
+which could pose an additional burden of morbidity and mortality. In re-
+cent decades, drought severity has increased in several regions around the
+world, affecting health by increasing the risk of water-, food-, and vector-
+borne diseases, malnutrition, cardiovascular and respiratory illness, mental
+health disorders, and mortality. Drought frequency and severity are expected
+to worsen across large regions as a result of a decrease in precipitation and
+an increase in temperature and atmospheric evaporative demand, posing a
+pressing challenge for public health. Variation in impacts among countries
+and communities is due to multiple factors, such as aging, socioeconomic
+status, access to health care, and gender, affecting population resilience. In-
+tegrative proactive action plans focused on risk management are required,
+and resources should be transferred to developing countries to reduce their
+vulnerability and risk.
+213
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+1. INTRODUCTION
+Climate change is currently considered one of the greatest threats to human health. According
+to the recent Intergovernmental Panel on Climate Change (IPCC) report, climate hazards in-
+creasingly contribute to a growing number of adverse health outcomes in multiple geographical
+areas (59). In the absence of additional actions, climate change will exacerbate the current health
+burden and alter the geographic range of climate-sensitive health outcomes and functioning of
+public health and health care systems (53).
+Climate change, through increases in the frequency and intensity of extreme weather events,
+affects health through multiple pathways,leading to short-term shocks or changes in temporal pat-
+terns of climate-sensitive diseases (37, 97). Extreme weather events, such as heat waves, droughts,
+and floods, are associated with an increased risk of hospitalizations and mortality due to various
+diseases, including cardiovascular, respiratory, mental health, and renal diseases (48, 52, 87). In
+addition, climate alters environmental risk factors, such as pollen and air pollution, leading to
+an increased risk of cardiovascular and respiratory outcomes, including death (9, 88, 126). The
+incidence and geographical spread of vector-borne, waterborne, and foodborne infectious dis-
+eases, such as dengue, malaria, and diarrheal diseases, have changed during the last several decades,
+driven mostly by changes in climate extremes, climate variability, and geographic environmental
+conditions (97). Furthermore, climate change could drive multifaceted influences on food produc-
+tion systems and water resources, which would lead to increased undernutrition, poverty, conflicts,
+and migration. Several of these mechanisms can happen simultaneously in time and space, result-
+ing in compounding or cascading impacts, which, when coupled with higher vulnerability, would
+translate into magnified health effects (59).
+In addition to the progressive warming and changing patterns in climate-related hazards, exist-
+ing societal challenges, such as social inequality, progressive urbanization, and aging populations,
+will likely amplify the health burden attributed to climate change (22, 151). For instance, vul-
+nerable and marginalized populations are and will continue to be disproportionately impacted by
+climate change, including impoverished and undernourished communities, those in poor hous-
+ing, people with chronic conditions, and elderly populations. Therefore, future climate change
+trends will likely exacerbate existing health and social inequalities, enhancing vulnerability to
+climate-related hazards (59, 97).
+Drought is one of the climate hazards with the most far-reaching effects and impacts a mul-
+titude of sectors, such as agriculture, water availability, livestock breeding, ecosystems, and food
+supply (144). Compound and cascading impacts that are often associated with droughts, such as
+intensification of heat waves and a higher risk of wildfires and sandstorms, as well as the interac-
+tion between these events and emerging threats, such as the COVID-19 pandemic, can amplify
+morbidity and mortality risks, particularly in vulnerable populations (59, 119). For instance, more
+than 50 million people were simultaneously affected by climate-related hazards and COVID-19
+in 2020, leading to escalating threats and new challenges in responding to health and economic
+emergencies (97, 145). Moreover, these situations may occur with a lag in time and space, compli-
+cating their identification and evaluation. An estimated 1.43 billion people were severely affected
+by droughts between 2019 and 2020, and the damages associated with drought and floods reached
+US$764 billion (27). However, these figures may be underestimated due to deficiencies in the
+drought monitoring systems of poor countries, and these countries are usually the ones most
+affected; knowledge of costs of indirect and long-term impacts is limited (45).
+This article analyzes the observed and projected trends in drought occurrence, assesses the
+main impacts of drought on health,and provides an overview of prevention and adaptation policies,
+providing recommendations to address future threats of climate change and to enhance resilience.
+Figure 1 summarizes the conceptualization of drought, the mechanisms through which this
+214
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+Decreased precipitation
+High temperature
+High winds
+Low relative humidity
+Climate variability
+Anthropogenic activities
+Poor water and
+land management
+DROUGHT
+HAZARD
+MANAGEMENT
+RISK
+EXPOSURE
+ACTION PLANS
+REDUCTION
+REDUCTION
+REDUCTION
+REDUCTION
+EXPOSURE
+ENVIRONMENTAL IMPACTS
+VULNERABILITY
+(mechanisms)
+• Reduced water quantity and quality
+• Shifting patterns of vector-borne illness
+• Intensification of extreme heat events
+• Wildfires
+• Dust storms
+• Air pollution
+• Impacts on agriculture
+• Damage to natural ecosystem
+• Local environment
+• Land and water use practices
+• Ecosystem susceptibility
+• Health services • Infrastructure
+• Policies • Urban/rural setting
+• Age • Sex • Race/ethnicity
+• Socioeconomic status
+• Presence of comorbidity
+• Economic losses (industry, energy, tourism,
+   agriculture, livestock, water supply)
+• Malnutrition • Migration • Conflict
+• Mental health
+• Water-, food-, and vector-borne diseases
+• Respiratory diseases
+• Cardiovascular diseases
+• Adverse birth outcomes
+• Social inequality
+• Mortality
+SUSCEPTIBILITY and ADAPTIVE CAPACITY
+(modulators)
+SOCIOECONOMIC IMPACTS
+Integrated early-warning systems (multirisk)
+Adaptative management of the hydrological cycle
+Assurance of access to safe water, sustainable food, and health services
+Integrated disease and surveillance systems
+Integrated vector control management
+Training in resilient and sustainable agriculture
+Improvement of land management
+Sustainable urban designs
+Surveillance of wildfires
+Low-emission zones, traffic restriction
+Strengthening of health services and public policies
+Inclusion of the public health sector in climate change planning
+Adaptation plans considering the characteristics of the region and population
+Investment in provision of services and research on climate change and health
+Climate change and health training programs for the public health sector
+Community participation in government actions
+Focus on social and environmental determinants of health
+Vulnerability mapping
+Promotion of education and environmental awareness
+Conservation and restoration of ecosystems
+VULNERABILITY AND
+IMPACT ASSESSMENT
+MONITORING AND FORECASTING
+EARLY WARNING
+PREPAREDNESS, MITIGATION,
+AND RESPONSE
+MULTISECTORAL AND
+MULTIDIMENSIONAL
+EFFORTS
+(Economical, technical,
+institutional, sociocultural,
+environmental, geophysical)
+PREVENTION, MITIGATION, AND ADAPTIVE ACTIONS:
+STRATEGIES TO REDUCE EXPOSURE, VULNERABILITY, AND RISKS
+(EXAMPLES)
+(Caption appears on following page)
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+215
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+Figure 1 (Figure appears on preceding page)
+Conceptual diagram on the main mechanisms through which drought impacts human health under a climate change context,
+vulnerability factors (social, economic, and environmental), and strategies to manage drought risks. Drought-related health risks are the
+result of the interaction of the hazard (e.g., the severity of the drought event), the extent of exposure, and vulnerability (susceptibility to
+impacts, adaptive capacity, and ability to cope with drought).
+phenomenon impacts human health, the potential effect modifiers, and strategies to manage
+drought from an integrative approach, which is addressed in depth in the following sections.
+2. DROUGHT EVENTS IN A CHANGING CLIMATE
+Whether drought has increased in recent decades is unclear because the assessment of recent
+drought trends is complex (30, 117). Paradoxically, the availability of generalized meteorological,
+hydrological, and environmental observations in the last century did not produce robust assess-
+ments of drought trends due to highly complex and imprecise definitions of droughts (66) and
+the variety of drought types. Drought is impact dependent and may refer to damages to agricul-
+ture (e.g., crop yield failure) and ecosystems (e.g., tree mortality); the hydrological dimension,
+including reductions in streamflow and reservoir or groundwater storage; and socioeconomic
+implications. Common classification distinguishes between meteorological, agricultural, hydro-
+logical, socioeconomic, and ecological (or environmental) droughts, preventing a straightforward
+drought assessment (144). Moreover, drought cannot be directly measured, and a unique variable
+to provide an absolute assessment of drought severity is lacking. Thus, various direct (e.g., pre-
+cipitation, streamflow) or indirect drought metrics (e.g., vegetation measurements) may provide
+different temporal anomalies and trends.
+Drought quantification is usually based on climate data, as most events have a climatic origin,
+and drought trends have usually been analyzed with climate drought indices (79). Precipitation is
+the main variable controlling variability and trends; however, precipitation shows strong temporal
+variability related to the influence of large-scale circulation mechanisms, such as El Niño–
+Southern Oscillation, which mask the identification of trends associated with climate change
+(30, 117). Global studies based on precipitation do not show trends in drought severity in recent
+decades (30, 84, 107, 111).
+Nevertheless, other variables trigger or exacerbate drought. The most important variable dur-
+ing climate change is temperature increase, which has increased atmospheric evaporative demand
+(AED) in recent decades (131). This increased demand has reinforced drought severity (a) by
+increasing actual evapotranspiration (Et) in land areas and reducing soil moisture (115), water
+storages (42), and streamflow (129, 132), and (b) by enhancing plant stress in ecosystems and agri-
+cultural lands (6, 16). AED influence on drought severity has been particularly relevant during
+the warm season in periods of precipitation deficits, when the effects of AED on water resources
+and plants would be multiplicative (116). Global studies based on climate drought indices suggest
+an increase in drought severity associated with higher AED (29, 31, 32, 109, 111), particularly in
+subtropical and semiarid regions, such as West, Central, and Southern Africa, the Mediterranean,
+Western North America, and regions of Australia, East Asia, and South America (Figure 2a).
+Changes in drought severity have reinforced some drought impacts; however, few studies have
+analyzed the influence of recent trends on changes in impacts. Nevertheless, studies on envi-
+ronmental systems have stressed that stronger megafires (2) and more frequent forest mortality
+episodes (7, 41) are consequences of drought events characterized by warmer conditions. These
+findings are consistent with increased stress in agricultural systems, in which higher AED has re-
+duced crop yields during periods of precipitation deficits (67). Agricultural and ecological drought
+216
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+1960
+1950
+1970
+1980
+1990
+2000
+2010
+2020
+60
+80
+40
+20
+0
+% of world
+Mild drought: 0.70% decade–1, p < 0.05
+<0.0
+0.25
+0.5
+0.75
+>1.0
+<0.0
+0.25
+0.5
+0.75
+>1.0
+Extreme drought: 0.24% decade–1, p < 0.05
+Moderate drought: 0.46% decade–1, p < 0.05
+2030
+2020
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Year
+a
+c
+b
+Drought duration (months)
+Drought duration (months)
+Drought magnitude (SPEI units)
+Drought magnitude (SPEI units)
+Mild drought: 2.29% decade–1, p < 0.05
+Extreme drought: 3.04% decade–1, p < 0.05
+Extreme drought: 3.04% decade–1, p < 0.05
+Moderate drought: 2.86% decade–1, p < 0.05
+Figure 2
+(a) Trends in the drought duration and magnitude based on the 12-month SPEIbase (https://spei.csic.es/spei_database) calculated
+with data from the CRU from 1950 to 2020 based on the SSP5–8.5 scenario. Striping represents areas characterized by nonstatistically
+significant changes (p > 0.05, based on the Mann-Kendall test). (b) Trends in drought duration and magnitude based on the SPEI
+calculated with data from 18 CMIP6 models between 2020 and 2100 for the SSP5–8.5 scenario. Striping represents areas in which 70%
+of the models show a statistically significant trend (p < 0.05). (c) The evolution of the percentage of the world affected by mild,
+moderate, and extreme drought conditions from 1950 to 2020 (left) and from 2020 to 2100 (right). Abbreviations: CMIP, Coupled
+Model Intercomparison Project; CRU, Climate Research Unit; SPEI, Standardised Precipitation Evapotranspiration Index; SSP, shared
+socioeconomic pathway.
+severity has increased in recent decades (107),causing a cascade of socioeconomic effects in regions
+that strongly depend on agriculture and livestock (46).
+The assessment of future drought projections is uncertain given the complexity of the processes
+involved, which include radiative and physiological effects of atmospheric CO2 concentrations
+and uncertainties in precipitation projections by Earth system models (59). Projections show a
+reinforcement of meteorological droughts in some regions, such as the Mediterranean, South,
+North, and Central America, southern Africa, and southern Australia (73, 107), due to projected
+precipitation decrease (34). These projections would exacerbate soil moisture and hydrological
+deficits (26, 153). The current scientific debate focuses on increased AED projected in scenarios of
+high greenhouse gas emissions (130), which expands the areas affected by drought trends beyond
+regions where precipitation deficits are projected (13).
+Consensus finds that increased AED would increase the evapotranspiration deficit (i.e., the dif-
+ference between land evapotranspiration and AED) and increase plant water stress. Therefore, the
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+217
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+limited increase in drought severity beyond areas of precipitation decrease, which is suggested by
+projections of streamflow and soil moisture (26), seems to contradict impact model results, which
+suggests a reinforcement of drought severity with strong agricultural and ecological implications
+(6, 47, 147). Thus, reinforcement of drought severity is likely in areas that project a precipita-
+tion increase. Precipitation projections for future climate scenarios show increased decadal and
+interannual precipitation variability (90, 114); therefore, periods of precipitation deficits are also
+expected in areas where precipitation is projected to increase. During these periods, higher AED
+would exacerbate agricultural/ecological and hydrological drought severity. This pattern has been
+observed in regions that showed precipitation increase in recent decades, such as the British Isles
+and Scandinavia, which have been affected by extreme droughts associated with precipitation
+deficits and increased AED (65, 91, 118).
+Projections based on the Palmer Drought Severity Index (PDSI) (32, 152, 153) and Standard-
+ised Precipitation Evapotranspiration Index (SPEI) (23, 110, 138, 150) suggest greater drought
+severity in future climate scenarios in more areas than indicated by projections of soil moisture and
+streamflow in the Coupled Model Intercomparison Project (CMIP). In the worst future climate
+scenario, the main increase in drought severity is projected by these metrics in large areas, includ-
+ing most of Europe, North and Central America, the Amazon basin, North Africa, the Middle
+East, South Africa, Australia, and Southeast Asia (81, 107, 153) (Figure 2b).
+The effects of this projected increase could go beyond the effects described above, affecting
+the CO2 emissions from land areas (49), soil carbon storage (28), and air quality. Thus, Wang
+et al. (139) estimated that the concentrations of O3 and PM2.5 would increase due to drought by
+1.6% and 1.16%, respectively, in the United States by 2100. These projected changes could be
+influenced by the combined effects of drought on natural emissions (e.g., increased frequency and
+severity of wildfires, dust intrusions, volatile organic compounds), deposition (e.g., reduction of
+dry ozone deposition to vegetation), and atmospheric chemistry (e.g., reduction of wet scavenging
+of pollutants; changes in the production, loss, or lifetime of pollutants in the atmosphere) (139). In
+addition, drought is often accompanied by high temperature events, which have substantial effects
+on some pollutants such as tropospheric ozone (92). Furthermore, the frequency of hydrological
+droughts and wildfires is projected to increase (59, 95) and periods of water scarcity are projected
+to dramatically increase (135), with serious socioeconomic consequences.
+3. DROUGHT IMPACTS ON HEALTH AND HUMAN WELL-BEING: A
+COMPREHENSIVE APPROACH
+While there is substantive literature on the impact of drought on agriculture and the environment,
+studies on the effect of drought on human health are limited in part because drought-related health
+impacts are essentially indirect, accumulative, and cascading and include various mechanisms, all
+of which make assessment difficult (51, 103). Drought constitutes a significant concern for hu-
+mankind, as it has been associated with health problems such as water- and vector-borne diseases,
+cardiovascular and respiratory conditions, injuries, kidney conditions, esophageal cancer, food in-
+security and malnutrition, mental health disorders, and mortality (11, 12, 36, 93, 112, 119, 134,
+149). In particular, drought was one of the deadliest climate-related phenomena between 1970
+and 2019, mostly in Africa (146).
+Drought impacts on public health are unevenly distributed across countries, across territo-
+ries within countries, and within population groups, exacerbating existing social inequalities and
+influencing future vulnerability (59). Higher exposure and vulnerability (increased susceptibility
+and/or reduced adaptive capacity) lead to higher risks related to drought (60). Differences in vul-
+nerability and exposure usually arise from nonclimatic factors, such as socioeconomic status and
+218
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+inequalities based on social constructs. Harmful effects of drought on health often fall dispropor-
+tionately on children, the older population, pregnant women, chronic patients, outdoors workers,
+marginalized individuals, and impoverished people or who are affected by other social determi-
+nants of health (59, 62, 77, 105, 106, 119, 140). Evidence indicates that drought exposure during
+pregnancy can affect a child’s health by reducing height and weight, especially among children
+born to low-educated, poor, and rural mothers (62). Several studies indicate that older popula-
+tions are often more at risk of drought-related mortality than are younger adults due to their
+higher vulnerability (77, 101, 105); however, there can be some regional exceptions, as shown in a
+recent study conducted in Nebraska, United States, where authors speculate that different outdoor
+exposure levels could have influenced differences in drought risks on mortality by age (1). On the
+other hand, drought can have different effects on women and men; women are especially vulner-
+able in developing countries because they often face discrimination, as reflected in lower salaries,
+limited education opportunities, and exclusion from political and decision-making processes (33,
+119). In these countries, there are unequal power relationships between men and women, such that
+women often have lower access to and control of resources to cope with extreme weather hazards
+such as drought, a higher likelihood of lower health literacy, and lower socioeconomic positions,
+all of which make them more vulnerable to drought events (119). Moreover, women often suffer
+a higher work burden during drought events and harmful consequences linked to traveling long
+distances in search of water for domestic uses (5, 140). However, current studies of drought effects
+on mortality show inconsistent patterns, with larger mortality risks among women in Brazil (105)
+and Nebraska (1) and among men in Lisbon (101). Lynch et al. (71) did not observe differences
+in the association between drought and all causes of death between adult women and men across
+the whole United States. Lynch et al. (71) and Abadi et al. (1) also suggest that race may be an
+important predictor of social and environmental inequalities and a modifier of the effect.
+3.1. Waterborne Diseases and Water-Related Effects
+Drought influences the risk of waterborne diseases through its impact on water availability and
+quality (11, 37, 100, 112). Drought effects on water quality are complex and depend on watershed
+characteristics and climate and environmental conditions (75, 78, 131). The reduction of stream-
+flow and groundwater levels during drought events favors stagnant water conditions and pollution,
+such as chemicals, metals, and solid particles (21, 37, 112, 149). For instance, a recent study in the
+United States predicted an increase in arsenic exposure in domestic wells that is associated with
+drought (68). Nutrients and turbidity often decrease during droughts due to a lack of catchment
+runoff, increase in sedimentation, and the influence of internal processes (e.g., biological uptake
+of nutrients, denitrification due to longer water residence times); however, changes are dependent
+on land-use settings and types of source pollution (75, 78, 119, 131). Drought can impact fecal co-
+liform levels in streams, but studies show inconsistent effects; some results suggest an increase due
+to higher stock use of waterways and lack of flushing flows, whereas others reveal a reduction (20,
+78). However, drought events followed by intense rainfall conditions can lead to peaks in diseases
+caused by pathogens, such as species of the genus Cryptosporidium, Campylobacter, or Escherichia coli
+(43, 82, 149). Also, warmer and more stratified water often associated with drought events pro-
+motes the growth of microorganisms, including an increase in toxic cyanobacterial blooms, such
+as species of Anabaena and Microcystis, and a reduction in dissolved oxygen. Furthermore, drought
+events have been associated with an increase in salt levels due to lower dilution and to the in-
+trusion of seawater into freshwater aquifers, compromising water security (75, 78, 100, 119, 149).
+Climate change is expected to increase future health risks associated with waterborne diseases and
+cause the expansion of pathogens such as Vibrio sp. due to warmer and saltier water as a result of
+increased temperatures and reduced precipitation (59).
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+219
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+A decreased water supply during drought combined with an increase in water demand for vari-
+ous uses, such as residential, agricultural, and commercial uses as well as for energy and sanitation,
+can lead to or exacerbate water scarcity (100, 119). Limited water resources during drought events
+force people to use unsafe water for domestic uses or for irrigating fields and can lead to reduced
+hygiene practices, increasing the risk of water- and foodborne diseases and skin and eye infections
+(5, 8, 10, 21, 43, 54, 112). Populations with low socioeconomic status and limited access to ba-
+sic services such as water and sanitation, as in Africa and Asia, are particularly vulnerable (5, 59,
+119). A recent study showed a substantial effect of long-term drought exposure on the incidence
+of diarrhea among children under age 5 in low- and middle-income countries (LMICs), which
+was mediated in part by water, sanitation, and hygiene practices. Moreover, the climate zone, the
+round-trip time to collect water, and the availability of water or soap/detergent for handwashing
+were relevant risk modifier factors (137). Currently, 2.2 billion people lack access to safe drinking
+water and ∼4.2 billion people have no access to safe sanitation services, with most of these pop-
+ulations living in the least developed countries (125). Vulnerability in these regions is expected
+to increase due to the expected population growth and increasing drought severity (59). Further-
+more, prolonged severe droughts can affect power production and disrupt health services, such as
+a break in the cold chain necessary to maintain medical supplies (50).
+3.2. Food Insecurity, Malnutrition, and Other Health-Related Effects
+Drought events have detrimental consequences for food security and nutrition, including in-
+creased risk of malnutrition (including undernutrition and micronutrient deficits) and starvation,
+which poses a significant threat to LMICs that have fewer resources to mitigate food scarcity,
+fewer livelihood alternatives, poor transportation networks, and limited access to markets (5, 8,
+55, 59, 76, 83, 119). In 2020, ∼1 in 3 people worldwide did not have access to adequate food,
+which was an increase of nearly 320 million people compared to 2019, and nearly 12% of the
+global population suffered from severe food insecurity, mostly in Africa, Latin America and the
+Caribbean, and Asia (40). Furthermore, future climate change is expected to increase the risk of
+food insecurity and malnutrition in 2050, exacerbating the existing scenario (59).
+Drought events have been associated with a reduction in food supply, such as decreased crop
+yields, livestock, and fisheries production (119), and changes in the quantity and quality of house-
+hold diets (19,100).In India,drought conditions were associated with a less balanced diet,resulting
+in a lower consumption of fruits,vegetables,legumes,and animal-sourced foods and a lower caloric
+intake, including proteins and fats, mostly due to a reduction in household income (19). Drought
+often results in increased food prices, which can lead to lower dietary diversity and consumption
+levels (59, 119). Farmers, pregnant women, children under age five, older populations, people in
+shelters, and individuals with low socioeconomic status are often more affected (8, 119). Undernu-
+trition leads to a higher risk of morbidity and mortality and is the leading cause of child mortality
+in sub-Saharan Africa (98). Children who survive undernutrition and those living in food-insecure
+households suffer cognitive damage; negative effects on physical development; increased risk of
+infections, such as malaria, pneumonia, and diarrheal diseases; and detrimental long-term conse-
+quences. In addition, nutritional deficiencies during pregnancy increase the risk of preterm birth
+and low birth weight (3, 98, 119).
+Unavailability of food resources leads to an increased risk of mental health effects and declines
+in well-being (39). The impacts of droughts on economic sectors, such as agriculture, livestock,
+and other water-dependent sectors, and associated migration produce mental health effects,
+especially among vulnerable populations such as rural communities and farmers (119, 133).
+Socioeconomic impacts lead to higher levels of stress, anxiety, depression, and conflict situations
+220
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+due to an increase in workload, unemployment, loss of income, and additional financial pressure
+(15, 83, 100, 112, 119, 134). In extreme cases, drought can increase the risk of suicidal behaviors
+(56, 103). Drought-related socioeconomic effects have caused forced migrations in dryland rural
+areas of low-income regions, mainly in East Africa, followed by South Asia and West and South
+Africa (59). Children’s education may be interrupted by parents who require their children to help
+at home or in business, increasing uncertainty about the future and contributing to an increased
+risk of negative mental health outcomes (15, 133). Differences in drought-related mental health
+impacts can occur between men and women; this variation is partly linked to differences in gender
+roles and responsibilities. A study in Northeast Brazil suggested that women suffered higher
+levels of anxiety, whereas men had higher levels of emotional distress in a drought-affected area
+compared to women and men, respectively, in another area unaffected by drought (25). However,
+some evidence indicates that drought principally influences suicide among men, with most studies
+conducted in Australia (56, 100, 119, 134, 140).
+3.3. Vector-Borne Diseases
+Drought affects transmission patterns of vector-borne diseases, such as dengue, chikungunya,
+malaria, West Nile Virus (WNV), and Rift Fever Virus, particularly in sensitive regions where
+vectors are endemic and control systems are weak (24, 59, 69, 89, 112, 134). The association be-
+tween drought and an abundance of vectors is complex, as this phenomenon can either reduce the
+number of mosquito vectors by decreasing breeding habitats or increase its abundance (e.g., Aedes
+mosquitoes) by creating improvised breeding sites in water storage containers used to store limited
+water resources during the drought. Moreover, drought may reduce the number of predators and
+aquatic competitors of mosquito vectors, favoring the abundance of vectors under rewetting con-
+ditions (12, 18, 112, 119). The prevalence of mosquitoes such as the Culex species, which transmits
+WNV, may increase in drought conditions. Drought may lead to the aggregation of birds (reser-
+voir host for WNV) in mosquito habitats and increase the risk of contact with humans (18, 89,
+119). Lowe et al. (70) showed that drought effects on dengue risk lagged 3–5 months in Brazil and
+depended largely on climatic, social, and ecological conditions, such as the availability and quality
+of habitats for mosquitoes, household water supply, and water storage practices carried out by hu-
+mans. Greater repercussions were observed in highly urbanized areas and regions with a higher
+frequency of water supply shortages (70). Drought has been described as a potential contributing
+factor for malaria mortality in developing countries, although its impact on malaria risk remains
+unclear (10, 54, 112). In contrast, other vector-borne diseases transmitted by ticks are likely to de-
+crease under drought conditions, as ticks are highly dependent on wet conditions to survive (18,
+100, 113).
+Changing spatial patterns of drought frequency and intensity, described above, and trends such
+as population growth, migration, and urbanization are expected to redistribute the future burden
+of vector-borne diseases unless effective mitigation and adaptation policies are adopted. Climate
+change likely increases the risk of dengue and facilitates its global spread. In addition, the distri-
+bution and vectorial capacity of malaria vectors are expected to increase in parts of sub-Saharan
+Africa, Asia, and South America due to climate change (59).
+3.4. Cardiovascular and Respiratory Diseases Associated
+with Drought-Related Hazards
+Drought often exacerbates the occurrence of climate and environmental factors with detrimental
+effects on cardiorespiratory health (11, 59, 100). Drought is an important driver of air quality,
+increasing the concentration of pollutants in the atmosphere (e.g., increasing the frequency and
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+221
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+severity of wildfires, dust intrusions) (131, 139), with larger mortality and morbidity impacts (8, 50,
+99, 103). Drought events often result from persistent atmospheric blocking and high-pressure sys-
+tems, which have been associated with the intensification of extreme temperatures and worsening
+of air quality (61,86,92,131).Inhalation of air pollutants induces inflammatory and prothrombotic
+processes, increasing the risk of illness and death (85, 128).
+Drought combined with high temperatures has been associated with an increased risk of wild-
+fires due to decreased humidity and streamflow and dry vegetation (83). These dry compound
+hazards have been projected to increase in the Mediterranean and continental regions in Europe
+(38), and they were the fuel for the recent fire disasters in the Amazon and the Pantanal in Brazil
+(63, 80). Heat and wildfires are phenomena of great concern to public health and are associated
+with an increased risk of morbidity and mortality due to all/nonexternal causes and respiratory
+and cardiovascular diseases, mental health disorders, and adverse birth outcomes (44, 59, 108,
+127, 148). Furthermore, urban environments are widely considered more at risk because they
+have additional sources of air pollution from road traffic and the urban heat island effect.
+As soils become drier during drought, dust and other particles are more likely to circulate in the
+air, threatening respiratory and cardiovascular health (8, 11, 12). Droughts and high winds increase
+the risk of dust storms, which transport pathogenic microorganisms, allergens, fungi spores, and
+toxic substances that create and exacerbate respiratory problems due to the irritation of bronchial
+passages and lungs after inhalation, increasing the risk of meningococcal disease, allergies, and
+respiratory infections, such as bronchitis, pneumonia, and coccidioidomycosis (valley fever) (21,
+37, 99, 119, 134, 149).
+Recent studies have addressed mortality impacts associated with droughts in various parts of
+the world, such as the United States (1, 14, 71), Iberia (101, 104), Brazil (105), and Bangladesh
+(4). Most studies have found a positive association between drought events and all, nonexternal,
+respiratory and circulatory mortality, especially in vulnerable groups. However, the comparison
+between these studies is complex due to differences in study designs, data availability, modeling ap-
+proaches,and the definition of the exposure variable,such as the drought index.Moreover,drought
+plays an important role in mortality risks associated with exposure (4, 102, 105). Some studies have
+addressed the association between drought exposure and cardiovascular and respiratory morbidity;
+however, evidence is limited (14, 72, 108, 136). Drought positively influenced respiratory hospital
+admissions in Brazil (72, 108) and China (mostly in children and adolescents) (136) but negatively
+influenced admissions among older adults in the western United States (14). Although drought
+effects on cardiovascular hospitalization were not significant among older adults in the western
+United States, the risk was higher in counties with less frequent drought. Moreover, higher mor-
+tality risk but lower cardiovascular hospitalization risk was found in rural counties compared to
+urban counties for high-severity worsening drought, although differences were not significant
+(14). There is a gap in the literature on differences in drought-related health outcomes between
+rural and urban environments (1).
+4. PREVENTION AND ADAPTATION MEASURES TO FACE DROUGHT
+RISKS AND INCREASE POPULATION RESILIENCE
+The most common policies to prevent negative drought effects are usually reactive measures,
+which have been termed the hydro-illogical response (17) and are characterized by short-term
+initiatives to address the crisis associated with droughts, providing additional resources to affected
+populations and territories. Once the crisis is over, the action ends and no further actions are
+taken to follow up on the underlying causes that transformed a natural hazard into a catastrophe.
+Without attention to preparedness, monitoring, early warning, water demand reduction policies,
+and other mitigation issues, the next drought is likely to be a new crisis (141, 142). Furthermore,
+222
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+decisions are left to a single agency, which is ineffective (45) because this approach does not
+account for the complex nature of drought and requires the involvement of many different actors.
+International organizations have provided guidelines and recommendations to move from these
+reactive approaches to proactive approaches. These organizations include the World Meteoro-
+logical Organization (WMO), which hosts the Integrated Drought Management Programme
+(IDMP; https://www.droughtmanagement.info/), and the Associated Programme on Flood
+Management (APFM; https://www.floodmanagement.info/) with the support of the Global
+Water Partnership (https://www.gwp.org/). The IDMP is structured by three pillars: (a) drought
+monitoring and early warning, (b) vulnerability and impact assessment, and (c) drought prepared-
+ness, mitigation, and response (143). The APFM describes a cascade of actions for risk reduction,
+which includes watershed intervention, protection through infrastructure, land use regulation,
+emergency response preparedness for floods, and recovery. The EPIC Response (17) is based on
+five key elements: (a) enabling a setting of policies, laws, agencies, strategic plans, participation,
+and information; (b) planning at multiple and nested geographical levels to ensure that mitigation
+becomes a higher priority; (c) investing in healthy watersheds and water infrastructure; (d) con-
+trolling water use and flood plain development to reduce exposure; and (e) responding better to
+floods and droughts through more effective monitoring, response, and recovery. The 2021 Global
+Assessment Report on drought (119) describes the physical and societal context of drought, as-
+sociated impacts, and methods for risk assessment. After analyzing in depth several case studies,
+this report provides guidelines for the transition from disaster compensation to more resilient
+policies.
+Common features appear in these and other approaches (35, 64), including the need to com-
+bine short- and long-term policies to not only address the crisis but also strengthen structures
+responsible for drought prevention and management. Monitoring and early-warning systems,
+from satellite monitoring to local interactions, also require improvements. Improved land and
+water management is another key element to reduce population vulnerability to drought-related
+risks. This effort often involves the joint action of different government agencies working to-
+gether at various levels, from national to local, the participation of private stakeholders, water
+companies, academics, organized associations, and individuals, such as farmers or ranchers. Fur-
+thermore, countries must move from short-term to more strategic planning, acting along the cycle
+that connects the drought as a natural hazard with the disaster.Doing so cannot be possible without
+institutional reinforcement of agencies involved in drought management, such as water agencies,
+land planners, and meteorological agencies, though the necessary resources and trained staff are
+currently lacking. The need for capacity building to adopt the multidisciplinary approach required
+for the new vision of drought management is not limited to government agencies, however, but
+includes all stakeholders.
+In addition, this transformation requires adequate funding. More investment in services and re-
+search to strengthen general health systems, enhance protection against specific climate-sensitive
+exposure, and address the social and environmental determinants of health is essential to reduce
+vulnerability and the risks associated with extreme weather hazards associated with climate change
+(59). In particular, investigators must delve into the drought-specific health effects that require
+more attention (e.g., mental health disorders, infectious diseases, cardiovascular and respiratory
+morbidity, adverse birth outcomes) and consider different forms of drought and time periods in
+which these effects can occur. It is necessary to deepen the knowledge of what type of drought
+indices best reflect each of the health impacts and to learn how the environmental and social con-
+texts and other individual characteristics interact with and intensify the health risks attributable to
+drought (103). Funding and investment opportunities pose a big problem in LMICs, which often
+lack the resources to maintain a reactive drought policy. Securing funding associated with climate
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+223
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+change adaptation and mitigation could be a critical step toward helping these countries transi-
+tion to new drought policies. However, the situation of resource mobilization seems optimistic
+after the United Nations Climate Change Conference (COP26) in Glasgow, which introduced a
+broad decision, the Glasgow Climate Pact (124), and called for renewed efforts to raise ambition
+on emission reduction, climate finance, adaptation, and loss and damage compensation (94). The
+document challenges countries to raise their climate ambition; creates the Glasgow Dialogue on
+funding for loss and damage, indicating climate change impacts that cannot be adapted and are
+unavoidable or already occurred; and asks for a doubling of adaptation finance. However, little
+progress was made along these lines. The finance target of transferring US$100 billion annually,
+which was set more than a decade ago, has not been met, and the COP declared the need urgent
+to meet by 2025, without giving further details (124). This lack of funding mobilization stands
+in contrast with the actual needs of LMICs to face climate change risks. A recent assessment by
+the United Nations Framework Convention on Climate Change (UNFCCC) Standing Com-
+mittee on Finance (https://unfccc.int/SCF) concluded that these nations would require nearly
+US$6 trillion through 2030, including domestic funds, to support just half of the actions in their
+national determined contributions (NDCs) (123). The UN Environment Programme evaluated
+annual adaptation costs for developing countries at US$70 billion but estimated that this figure
+could quadruple by 2030 (120).
+Moreover, it must be taken into account that the world is in the first phase of climate change,
+and the changes in the coming decades are expected to grow. Currently, the average global tem-
+perature, which is a measure of the energy available in the climate system, is around 1.1°C above
+preindustrial levels. The Paris Agreement sets 1.5° and 2° as targets to minimize global change
+impacts. However, the 1.5°C threshold is projected to be reached within the next decade (58, 122).
+In fact, governments plan to produce in 2030 more than twice the fossil fuels that would be con-
+sistent with limiting warming to 1.5° (121). The current production gap has remained unchanged
+since 2019. Global fossil fuel production would need to start declining rapidly to meet the tar-
+get; however, most major oil, gas, and coal producers maintain their plans to continue or increase
+their production beyond 2030. The G20 countries have allocated more funds (US$300 billion)
+to fossil fuels than to clean energy. Current policies should lead to a warming between 2.6°C
+and 2.7°C (2°C–3.6°C) by the end of this century. If the countries meet their NDCs by 2030,
+warming should fall to 2.4°C (1.8°C–3.3°C), and if the long-term net zero carbon agreements
+are met, the reduction would be to 1.8°C (1.4°C–2.6°C) in 2100, with a peak of 1.9°C by mid-
+century (57). Due to a warmer and more energic climate, this scenario will not be stationary. This
+trend has severe implications, as the extreme intensity of events will continue to increase and
+the return periods of extreme events, including droughts, will shorten. These future projections
+may increase population vulnerability to subsequent extreme weather and climatic episodes linked
+to effects such as shorter times between events for the population and health systems to fully re-
+cover from previous episodes and less resilience (36). Thus, adaptation and mitigation policies will
+need to be revised frequently to adapt to the evolving nature of climate change. In other words,
+more robust and well-resourced management systems will be needed to cope with increasing
+risks.
+Because droughts are often associated with other hazards, such as heat waves, wildfires, and
+pollution, and compound events are expected to increase due to climate change (37, 96), integra-
+tive drought risk management must account for potential synergies between drought and other
+climate-related events to better prepare for drought and effectively reduce major risks (64, 119).
+In addition, providing special attention to vulnerable individuals, including addressing social and
+environmental inequalities (e.g., gender inequalities) and supporting inclusive measures, is crucial
+to increase population resilience.
+224
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+5. CONCLUSIONS
+Climate change has profound implications for public health, and drought is an extreme event
+with significant health impacts. Previous studies show that drought severity has increased in recent
+decades, which is mostly associated with changes in AED. The main increase has been observed in
+subtropical and semiarid regions of the world.Environmental and agricultural impact data support
+this observation, and the increase is predicted to continue in the coming decades. Climate change
+projections show a dominant increase in drought frequency and severity in large regions of the
+world. This increase will be associated with stronger precipitation variability worldwide, a decline
+in precipitation in some regions, a general increase in temperature and atmospheric demand, and
+loss of former agricultural land. Even in areas where precipitation is expected to increase, periods
+of precipitation deficits are expected. Therefore, impact models project that droughts will result
+in an increase in socioeconomic and environmental effects in future climate scenarios.
+Drought exposure has far-reaching health impacts that affect millions of people around the
+world, regardless of a country’s level of socioeconomic development, and includes various asso-
+ciated causes and consequences. Drought impacts can last for long periods of time, and health
+implications can lag. Drought’s negative repercussions on health could be related to an increased
+risk of water-, food-, and vector-borne diseases and malnutrition as well as heat waves and higher
+atmospheric pollution,leading to cardiovascular and respiratory diseases and,ultimately,mortality.
+Drought has also been linked to mental health disorders associated with economic loss, migration,
+and social uprooting. Drought impacts are experienced unequally among communities and pop-
+ulation groups: individuals with potentially higher vulnerability, such as children, older people,
+women, and people with low socioeconomic status, and those who suffer higher hazard exposures
+are often more affected. These impacts will be exacerbated with climate change.
+Strategies to reduce drought-related health impacts are well defined and involve moving away
+from crisis management to risk management. Integrative action plans should be implemented to
+protect human health more effectively. Transferring resources to LMICs is crucial to reducing risk
+and vulnerability and ultimately to enhancing the resilience of populations as the climate changes.
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+AUTHOR CONTRIBUTIONS
+C.S., R.N., and L.G. conceived and planned the article; all authors contributed to the writing
+and editing of the manuscript and provided critical feedback and helped shape the paper. C.S.
+coordinated the manuscript.
+ACKNOWLEDGMENTS
+C.S. was financially supported by the ED481B-2021-122 grant from the Xunta de Galicia, Spain.
+The EPhysLab group was cofunded by Xunta de Galicia, Consellería de Cultura, Educación e
+Universidade, under project ED431C 2021/44 “Programa de Consolidación e Estructuración
+de Unidades de Investigación Competitivas.” This study is also supported by “Unidad Asoci-
+ada CSIC–Universidade de Vigo: Grupo de Física de la Atmosfera y del Océano.” Authors from
+EPhysLab-UVigo (Spain) and ISPM-UniBe (Switzerland) are part of the Ibero-American Women
+Network for Climate Action (IBWoClimA).
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+225
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+LITERATURE CITED
+1. Abadi AM, Gwon Y, Gribble MO, Berman JD, Bilotta R, et al. 2022. Drought and all-cause mortality
+in Nebraska from 1980 to 2014: time-series analyses by age, sex, race, urbanicity and drought severity.
+Sci. Total Environ. 840:156660
+2. Abatzoglou JT, Williams AP. 2016. Impact of anthropogenic climate change on wildfire across western
+US forests. PNAS 113(42):11770–75
+3. Alaimo K, Chilton M, Jones SJ. 2020. Food insecurity, hunger, and malnutrition. In Present Knowledge
+in Nutrition, ed. BP Marriott, DF Birt, VA Stallings, AA Yates, pp. 311–26. Cambridge, MA: Academic.
+11th ed.
+4. Alam I, Otani S, Majbauddin A, Qing Q, Ishizu SF, et al. 2021. The effects of drought severity and its
+aftereffects on mortality in Bangladesh. Yonago Acta Med. 64:292–302
+5. Algur KD, Patel SK, Chauhan S. 2021. The impact of drought on the health and livelihoods of women
+and children in India: a systematic review. Child. Youth Serv. Rev. 122:105909
+6. Allen CD, Breshears DD, McDowell NG. 2015. On underestimation of global vulnerability to tree
+mortality and forest die-off from hotter drought in the Anthropocene. Ecosphere 6(8):1–55
+7. Allen CD, Macalady AK, Chenchouni H, Bachelet D, McDowell N, et al. 2010. A global overview of
+drought and heat-induced tree mortality reveals emerging climate change risks for forests. For. Ecol.
+Manag. 259(4):660–84
+8. Alpino TA, de Sena ARM, de Freitas CM. 2016. Disasters related to droughts and public health—a
+review of the scientific literature. Ciênc. Saúde Colet. 21:809–20
+9. Anenberg SC, Haines S, Wang E, Nassikas N, Kinney PL. 2020. Synergistic health effects of air pollu-
+tion, temperature, and pollen exposure: a systematic review of epidemiological evidence. Environ. Health
+19:130
+10. Asmall T, Abrams A, Röösli M, Cissé G, Carden K, Dalvie MA. 2021. The adverse health effects
+associated with drought in Africa. Sci. Total Environ. 793:148500
+11. Bell JE, Brown CL, Conlon K, Herring S, Kunkel KE, et al. 2018. Changes in extreme events and the
+potential impacts on human health. J. Air Waste Manag. 68:265–87
+12. Bellizzi S, Lane C, Elhakim M, Nabeth P. 2020. Health consequences of drought in the WHO Eastern
+Mediterranean Region: hotspot areas and needed actions. Environ. Health 19:114
+13. Berg A, Sheffield J. 2018. Climate change and drought: the soil moisture perspective. Curr. Clim. Change
+Rep. 4(2):180–91
+14. Berman JD, Ebisu K, Peng RD, Dominici F, Bell ML. 2017. Drought and the risk of hospital admissions
+and mortality in older adults in western USA from 2000 to 2013: a retrospective study. Lancet Planet.
+Health 1:e17–25
+15. Berry HL, Waite TD, Dear KBG, Capon AG, Murray V. 2018. The case for systems thinking about
+climate change and mental health. Nat. Clim. Change 8:282–90
+16. Breshears DD,Adams HD,Eamus D,McDowell NG,Law DJ,et al.2013.The critical amplifying role of
+increasing atmospheric moisture demand on tree mortality and associated regional die-off. Front. Plant
+Sci. 4:266
+17. Browder G, Nuñez Sanchez A, Jongman B, Engle N, van Beek E, et al. 2021. An EPIC response: in-
+novative governance for flood and drought risk management. Rep., World Bank, Washington, DC. https://
+openknowledge.worldbank.org/handle/10986/35754
+18. Brown L, Medlock J, Murray V. 2014. Impact of drought on vector-borne diseases—how does one
+manage the risk? Public Health 128:29–37
+19. Carpena F. 2019. How do droughts impact household food consumption and nutritional intake? A study
+of rural India. World Dev. 122:349–69
+20. Caruso BS. 2001. Regional river flow, water quality, aquatic ecological impacts and recovery from
+drought. Hydrol. Sci. J. 46(5):677–99
+21. CDC (Cent. Dis. Control Prev.). 2018. Preparing for the health effects of drought: a resource guide
+for public health professionals. Rep., CDC, Atlanta. https://www.cdc.gov/nceh/hsb/cwh/docs/CDC_
+Drought_Resource_Guide-508.pdf
+226
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+22. Chen K, Vicedo-Cabrera AM, Dubrow R. 2020. Projections of ambient temperature- and air pollution-
+related mortality burden under combined climate change and population aging scenarios: a review. Curr.
+Environ. Health Rep. 7:243–55
+23. Chiang F, Mazdiyasni O, AghaKouchak A. 2021. Evidence of anthropogenic impacts on global drought
+frequency, duration, and intensity. Nat. Commun. 12(1):2754
+24. Chretien J-P, Anyamba A, Bedno SA, Breiman RF, Sang R, et al. 2007. Drought-associated chikungunya
+emergence along coastal East Africa. Am. J. Trop. Med. Hyg. 76(3):405–407
+25. Coêlho AEL, Adair JG, Mocellin JSP. 2004. Psychological responses to drought in northeastern Brazil.
+Interam. J. Psychol. 38:95–103
+26. Cook BI, Mankin JS, Marvel K, Williams AP, Smerdon JE, Anchukaitis KJ. 2020. Twenty-first century
+drought projections in the CMIP6 forcing scenarios. Earth’s Futur. 8(6):e2019EF001461
+27. CRED (Cent. Res. Epidemiol. Disasters), UNDRR (U. N. Off. Disaster Risk Reduct.). 2020. Human
+cost of disasters: an overview of the last 20 years 2000–2019. Rep., CRED, Brussels, Belg./UNDRR, Geneva.
+https://reliefweb.int/report/world/human-cost-disasters-overview-last-20-years-2000–2019
+28. Crowther TW, Todd-Brown KEO, Rowe CW, Wieder WR, Carey JC, et al. 2016. Quantifying global
+soil carbon losses in response to warming. Nature 540:104–8
+29. Dai A. 2013. Increasing drought under global warming in observations and models. Nat. Clim. Change
+3(1):52–58
+30. Dai A. 2021. Hydroclimatic trends during 1950–2018 over global land. Clim. Dyn. 56(11):4027–49
+31. Dai A, Zhao T. 2017. Uncertainties in historical changes and future projections of drought. Part I:
+estimates of historical drought changes. Clim. Change 144(3):519–33
+32. Dai A, Zhao T, Chen J. 2018. Climate change and drought: a precipitation and evaporation perspective.
+Curr. Clim. Change Rep. 4(3):301–12
+33. Desai Z, Zhang Y. 2021. Climate change and women’s health: a scoping review. GeoHealth
+5:e2021GH000386
+34. Douville H, Raghavan K, Renwick J, Allan RP, Arias PA, et al. 2021. Water cycle changes. In Climate
+Change 2021: The Physical Climate Basis. Contribution of Working Group I to the Sixth Assessment Report of
+the Intergovernmental Panel on Climate Change, ed. V Masson-Delmotte, P Zhai, A Pirani, SL Connors,
+C Péan, et al., pp. 1055–210. Cambridge, UK: Cambridge Univ. Press. https://www.ipcc.ch/report/
+ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter08.pdf
+35. Duel H, Wolters H, Timboe I, ter Maat J, Matthews J. 2022. HELP guiding principles for drought risk
+management under a changing climate: catalysing actions for enhancing climate resilience.HELP Rep.,Deltares,
+Delft, Neth. https://climate-adapt.eea.europa.eu/metadata/publications/https-www-deltares-nl-
+en-news-new-perspectives-on-droughts-in-a-time-of-climate-change
+36. Ebi KL, Bowen K. 2016. Extreme events as sources of health vulnerability: drought as an example.
+Weather Clim. Extrem. 11:95–102
+37. Ebi KL, Vanos J, Baldwin JW, Bell JE, Hondula DM, et al. 2021. Extreme weather and climate change:
+population health and health system implications. Annu. Rev. Public Health 42:293–315
+38. EEA (Eur. Environ. Agency). 2020. Climate change poses increasingly severe risks for ecosys-
+tems, human health and economy in Europe. EEA News, Nov. 23. https://www.eea.europa.eu/
+highlights/climate-change-poses-increasingly-severe
+39. Elgar FJ, Sen A, Gariépy G, Pickett W, Davison C, et al. 2021. Food insecurity, state fragility and youth
+mental health: a global perspective. SSM Popul. Health 14:100764
+40. FAO (Food Agric. Organ. U. N.), IFAD (Int. Found Agric. Dev.), UNICEF (U. N. Int. Child. Emerg.
+Fund), WFP (World Food Progr.), WHO (World Health Organ.). 2021. The state of food security and
+nutrition in the world 2021.Transforming food systems for food security,improved nutrition and affordable healthy
+diets for all. Rep., FAO, Rome. https://www.fao.org/documents/card/en/c/cb4474en
+41. Fontes CG, Dawson TE, Jardine K, McDowell N, Gimenez BO, et al. 2018. Dry and hot: the hy-
+draulic consequences of a climate change-type drought for Amazonian trees. Philos. Trans. R. Soc. B
+373(1760):20180209
+42. Friedrich K, Grossman RL, Huntington J, Blanken PD, Lenters J, et al. 2018. Reservoir evaporation in
+the western United States. Bull. Am. Meteorol. Soc. 99(1):167–87
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+227
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+43. Funari E, Manganelli M, Sinisi L. 2012. Impact of climate change on waterborne diseases. Ann. Ist. Super
+Sanita 48:473–87
+44. Gasparrini A, Guo Y, Hashizume M, Lavigne E, Zanobetti A, et al. 2015. Mortality risk attributable to
+high and low ambient temperature: a multicountry observational study. Lancet 386:369–75
+45. Gerber N, Mirzabaev A. 2017. Benefits of action and costs of inaction: drought mitigation and preparedness—a
+literature review.Integr.Drought Manag.Progr.(IDMP) Work.Pap.1,World Meteorol.Organ.,Geneva,
+Switz.; Glob. Water Partnersh., Stockholm. https://library.wmo.int/doc_num.php?explnum_id=
+3401
+46. Gomez-Zavaglia A, Mejuto JC, Simal-Gandara J. 2020. Mitigation of emerging implications of climate
+change on food production systems. Food Res. Int. 134:109256
+47. Gourdji SM, Sibley AM, Lobell DB. 2013. Global crop exposure to critical high temperatures in the
+reproductive period: historical trends and future projections. Environ. Res. Lett. 8:024041
+48. Green H, Bailey J, Schwarz L, Vanos J, Ebi K, Benmarhnia T. 2019. Impact of heat on mortality and mor-
+bidity in low and middle income countries: a review of the epidemiological evidence and considerations
+for future research. Environ. Res. 171:80–91
+49. Green JK, Seneviratne SI, Berg AM, Findell KL, Hagemann S, et al. 2019. Large influence of soil
+moisture on long-term terrestrial carbon uptake. Nature 565:476–79
+50. Grigoletto JC, Cabral AR, Bonfim CV, Rohlfs DB, Silva ELE, et al. 2016. Management of health sector
+actions in drought situations. Cien. Saude Colet. 21:709–18
+51. Grigorieva EA, Livenets AS. 2022. Risks to the health of Russian population from floods and droughts
+in 2010–2020: a scoping review. Climate 10(3):37
+52. Gronlund CJ, Sullivan KP, Kefelegn Y, Cameron L, O’Neill MS. 2018. Climate change and temper-
+ature extremes: a review of heat- and cold-related morbidity and mortality concerns of municipalities.
+Maturitas 114:54–59
+53. Haines A, Ebi K. 2019. The imperative for climate action to protect health. N. Engl. J. Med. 380:263–73
+54. Hales S, Edwards SJ, Kovats RS. 2003. Impacts on health of climate extremes. In Climate Change and
+Human Health: Risks and Responses, ed. AJ McMichael, DH Campbell-Lendrum, CF Corvalán, KL Ebi,
+AK Githeko, et al., pp. 79–102. Geneva: World Health Organ.
+55. Hameed M, Ahmadalipour A, Moradkhani H. 2020. Drought and food security in the middle east: an
+analytical framework. Agric. For. Meteorol. 281:107816
+56. Hanigan IC, Butler CD, Kokic PN, Hutchinson MF. 2012. Suicide and drought in New South Wales,
+Australia, 1970–2007. PNAS 109(35):13950–55
+57. Hausfather Z, Forster P. 2021. Analysis: Do COP26 promises keep global warming below 2C? Carbon
+Brief, Nov. 10. https://www.carbonbrief.org/analysis-do-cop26-promises-keep-global-warming-
+below-2c
+58. IPCC (Intergov. Panel Clim. Change). 2021. 2021: summary for policymakers. See Ref. 74, pp. 3–32.
+https://www.ipcc.ch/report/ar6/wg1/
+59. IPCC (Intergov. Panel Clim. Change). 2022. Climate Change 2022: Impacts, Adaptation, and Vulnerabil-
+ity. Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate
+Change, ed. HO Pörtner, DC Roberts, MMB Tignor, E Poloczanska, K Mintenbeck, et al. Cambridge,
+UK: Cambridge Univ. Press. https://www.ipcc.ch/report/ar6/wg2/
+60. Jalalzadeh Fard B, Puvvula J, Bell JE. 2022. Evaluating changes in health risk from drought over the
+contiguous United States. Int. J. Environ. Res. Public Health 19:4628
+61. Kautz L-A, Martius O, Pfahl S, Pinto JG, Ramos AM, et al. 2022. Atmospheric blocking and weather
+extremes over the Euro-Atlantic sector—a review. Weather Clim. Dynam. 3:305–36
+62. Le K, Nguyen M. 2022. Droughts and child health in Bangladesh. PLOS ONE 17(3):e0265617
+63. Libonati R, Geirinhas JL, Silva PS, Russo A, Rodrigues JA, et al. 2022. Assessing the role of com-
+pound drought and heatwave events on unprecedented 2020 wildfires in the Pantanal. Environ. Res. Lett.
+17:015005
+64. Linares C, Martinez GS, Kendrovski V, Diaz J. 2020. A new integrative perspective on early warning
+systems for health in the context of climate change. Environ. Res. 187:109623
+228
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+65. Lindroth A, Holst J, Linderson M-L, Aurela M, Biermann T, et al. 2020. Effects of drought and mete-
+orological forcing on carbon and water fluxes in Nordic forests during the dry summer of 2018. Philos.
+Trans. R. Soc. B 375(1810):20190516
+66. Lloyd-Hughes B. 2014. The impracticality of a universal drought definition. Theor. Appl. Climatol. 117(3–
+4):607–11
+67. Lobell DB, Schlenker W, Costa-Roberts J. 2011. Climate trends and global crop production since 1980.
+Science 333(6042):616–20
+68. Lombard MA, Daniel J, Jeddy Z, Hay LE, Ayotte JD. 2021. Assessing the impact of drought on arsenic
+exposure from private domestic wells in the conterminous United States. Environ. Sci. Technol. 55:1822–
+31
+69. Lowe R, Gasparrini A, Meerbeeck CJV, Lippi CA, Mahon R, et al. 2018. Nonlinear and delayed impacts
+of climate on dengue risk in Barbados: a modelling study. PLOS Med. 15:e1002613
+70. Lowe R,Lee SA,O’Reilly KM,Brady OJ,Bastos L,et al.2021.Combined effects of hydrometeorological
+hazards and urbanisation on dengue risk in Brazil: a spatiotemporal modelling study.Lancet Planet.Health
+5:e209–19
+71. Lynch KM, Lyles RH, Waller LA, Abadi AM, Bell JE, Gribble MO. 2020. Drought severity and all-cause
+mortality rates among adults in the United States: 1968–2014. Environ. Health 19:52
+72. Machado-Silva F, Libonati R, Melo de Lima TF, Bittencourt Peixoto R, de Almeida França JR, et al.
+2020. Drought and fires influence the respiratory diseases hospitalizations in the Amazon. Ecol. Indic.
+109:105817
+73. Martin ER. 2018. Future projections of global pluvial and drought event characteristics. Geophys. Res.
+Lett. 45:11913–20
+74. Masson-Delmotte V, Zhai P, Pirani A, Connors SL, Péan C, et al., eds. 2021. Climate Change 2021: The
+Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental
+Panel on Climate Change. Cambridge, UK: Cambridge Univ. Press
+75. Mishra A, Alnahit A, Campbell B. 2021. Impact of land uses, drought, flood, wildfire, and cascading
+events on water quality and microbial communities: a review and analysis. J. Hydrol. 596:125707
+76. Mishra A, Bruno E, Zilberman D. 2021. Compound natural and human disasters: managing drought
+and COVID-19 to sustain global agriculture and food sectors. Sci. Total Environ. 754:142210
+77. Molloy SL, Mihaltcheva S. 2013. 1.01—Extreme weather events. In Climate Vulnerability: Understanding
+and Addressing Threats to Essential Resources, ed. RA Pielke, pp. 3–16. Oxford, UK: Academic
+78. Mosley LM. 2015. Drought impacts on the water quality of freshwater systems; review and integration.
+Earth-Sci. Rev. 140:203–14
+79. Mukherjee S, Mishra A, Trenberth KE. 2018. Climate change and drought: a perspective on drought
+indices. Curr. Clim. Change Rep. 4(2):145–63
+80. Narcizo LC, Libonati R, Santos FLM, Trigo R. Geirinhas JL. 2019. Compound effects of drought and
+heat waves on fire incidence over the Amazon. BioBrasil 7:1069
+81. Naumann G, Alfieri L, Wyser K, Mentaschi L, Betts RA, et al. 2018. Global changes in drought
+conditions under different levels of warming. Geophys. Res. Lett. 45(7):3285–96
+82. O’Dwyer J, Chique C, Weatherill J, Hynds P. 2021. Impact of the 2018 European drought on microbial
+groundwater quality in private domestic wells: a case study from a temperate maritime climate. J. Hydrol.
+601:126669
+83. Orimoloye IR, Belle JA, Orimoloye YM, Olusola AO, Ololade OO. 2022. Drought: a common
+environmental disaster. Atmosphere 13:111
+84. Orlowsky B, Seneviratne SI. 2013. Elusive drought: uncertainty in observed trends and short-and long-
+term CMIP5 projections. Hydrol. Earth. Syst. Sci. 17(5):1765–81
+85. Ortiz C, Linares C, Carmona R, Díaz J. 2017. Evaluation of short-term mortality attributable to
+particulate matter pollution in Spain. Environ. Pollut. 224:541–51
+86. Otero N, Jurado OE, Butler T, Rust HW. 2022. The impact of atmospheric blocking on the com-
+pounding effect of ozone pollution and temperature: a copula-based approach. Atmos. Chem. Phys.
+22:1905–19
+87. Pacheco SE, Guidos-Fogelbach G, Annesi-Maesano I, Pawankar R, D’Amato G, et al. 2021. Climate
+change and global issues in allergy and immunology. J. Allergy. Clin. Immunol. 148:1366–77
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+229
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+88. Parks RM, Benavides J, Anderson GB, Nethery RC, Navas-Acien A, et al. 2022. Association of tropical
+cyclones with county-level mortality in the US. JAMA 327:946–55
+89. Paull SH, Horton DE, Ashfaq M, Rastogi D, Kramer LD, et al. 2017. Drought and immunity determine
+the intensity of West Nile virus epidemics and climate change impacts. Proc. R. Soc. B 284:20162078
+90. Pendergrass AG, Knutti R, Lehner F, Deser C, Sanderson BM. 2017. Precipitation variability increases
+in a warmer climate. Sci. Rep. 7:17966
+91. Peters W, Bastos A, Ciais P, Vermeulen A. 2020. A historical, geographical and ecological perspective
+on the 2018 European summer drought. Philos. Trans. R. Soc. B 375(1810):20190505
+92. Peterson TC, Karl TR, Kossin JP, Kunkel KE, Lawrimore JH, et al. 2014. Changes in weather and
+climate extremes: state of knowledge relevant to air and water quality in the United States. J. Air Waste
+Manag. Assoc. 64:184–97
+93. Phung D, Nguyen-Huy T, Tran NN, Tran DN, Doan VQ, et al. 2021. Hydropower dams, river drought
+and health effects: a detection and attribution study in the lower Mekong Delta Region. Clim. Risk
+Manag. 32:100280
+94. Pidcock R, Yeo S. 2017. Explainer: Dealing with the “loss and damage” caused by climate change. Carbon
+Brief, May 9. https://www.carbonbrief.org/explainer-dealing-with-the-loss-and-damage-caused-
+by-climate-change/
+95. Prudhomme C, Giuntoli I, Robinson EL, Clark DB, Arnell NW, et al. 2014. Hydrological droughts
+in the 21st century, hotspots and uncertainties from a global multimodel ensemble experiment. PNAS
+111:3262–67
+96. Ridder NN, Ukkola AM, Pitman AJ, Perkins-Kirkpatrick SE. 2022. Increased occurrence of high impact
+compound events under climate change. npj Clim. Atmos. Sci 5:3
+97. Romanello M, McGushin A, Di Napoli C, Drummond P, Hughes N, et al. 2021. The 2021 report of
+the Lancet Countdown on health and climate change: code red for a healthy future. Lancet 398:1619–62
+98. Rylander C, Odland JØ, Sandanger TM. 2013. Climate change and the potential effects on maternal
+and pregnancy outcomes: an assessment of the most vulnerable—the mother, fetus, and newborn child.
+Glob. Health Action 6:19538
+99. Sakhamuri S, Cummings S. 2019. Increasing trans-Atlantic intrusion of Sahara dust: cause of concern?
+Lancet Planet. Health 3(6):E242–43
+100. Salvador C.2023.Challenges from patterns of behaviours and drought: environmental and human health
+risks. In Environmental Behavior: Concepts, Determinants, Impacts, and Research Methods, ed. A Virgolino,
+O Santos, RR Santos, chapter 17. Amsterdam: Elsevier. In press
+101. Salvador C, Nieto R, Linares C, Díaz J, Alves CA, Gimeno L. 2021. Drought effects on specific-cause
+mortality in Lisbon from 1983 to 2016: risks assessment by gender and age groups. Sci. Total Environ.
+751:142332
+102. Salvador C, Nieto R, Linares C, Diaz J, Gimeno L. 2019. Effects on daily mortality of droughts in Galicia
+(NW Spain) from 1983 to 2013. Sci. Total Environ. 662:121–33
+103. Salvador C, Nieto R, Linares C, Díaz J, Gimeno L. 2020. Effects of droughts on health: diagnosis,
+repercussion, and adaptation in vulnerable regions under climate change. Challenges for future research.
+Sci. Total Environ. 703:134912
+104. Salvador C,Nieto R,Linares C,Díaz J,Gimeno L.2020.Short-term effects of drought on daily mortality
+in Spain from 2000 to 2009. Environ. Res. 183:109200
+105. Salvador C, Vicedo-Cabrera AM, Libonati R, Russo A, Garcia BN, et al. 2022. Effects of drought on
+mortality in macro urban areas of Brazil between 2000 to 2019. GeoHealth 6(3):e2021GH000534
+106. Sena A, Freitas C, Souza PF, Carneiro F, Alpino T, et al. 2018. Drought in the semiarid region of Brazil:
+exposure, vulnerabilities and health impacts from the perspectives of local actors. PLOS Curr. Disasters
+10. https://doi.org/10.1371/currents.dis.c226851ebd64290e619a4d1ed79c8639
+107. Seneviratne S, Zhang X, Adnan M, Badi W, Dereczynski C, et al. 2021. Weather and climate ex-
+treme events in a changing climate. See Ref. 74, pp. 1513–766. https://www.ipcc.ch/report/ar6/
+wg1/downloads/report/IPCC_AR6_WGI_Chapter11.pdf
+108. Smith LT, Aragão LEOC, Sabel CE, Nakaya T. 2014. Drought impacts on children’s respiratory health
+in the Brazilian Amazon. Sci. Rep. 4:3726
+230
+Salvador et al.
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+109. Song X, Song Y, Chen Y. 2020. Secular trend of global drought since 1950. Environ. Res. Lett.
+15(9):094073
+110. Spinoni J, Barbosa P, Bucchignani E, Cassano J, Cavazos T, et al. 2020. Future global meteorological
+drought hot spots: a study based on CORDEX data. J. Clim. 33(9):3635–61
+111. Spinoni J, Barbosa P, De Jager A, McCormick N, Naumann G, et al. 2019. A new global database of
+meteorological drought events from 1951 to 2016. J. Hydrol. Reg. Stud. 22:100593
+112. Stanke C, Kerac M, Prudhomme C, Medlock J, Murray V. 2013. Health effects of drought: a
+systematic review of the evidence. PLOS Curr. Disasters 5. https://doi.org/10.1371/currents.dis.
+7a2cee9e980f91ad7697b570bcc4b004
+113. Subak S. 2003. Effects of climate on variability in Lyme disease incidence in the northeastern United
+States. Am. J. Epidemiol. 157:531–38
+114. Swain DL, Langenbrunner B, Neelin JD, Hall A. 2018. Increasing precipitation volatility in twenty-
+first-century California. Nat. Clim. Change 8(5):427–33
+115. Teuling AJ, Van Loon AF, Seneviratne SI, Lehner I, Aubinet M, et al. 2013. Evapotranspiration amplifies
+European summer drought. Geophys. Res. Lett. 40(10):2071–75
+116. Tomas-Burguera M,Vicente-Serrano SM,Peña-Angulo D,Domínguez-Castro F,Noguera I,El Kenawy
+A. 2020. Global characterization of the varying responses of the standardized precipitation evapotran-
+spiration index to atmospheric evaporative demand. J. Geophys. Res. Atmos. 125(17):e2020JD033017
+117. Trenberth KE, Dai A, van der Schrier G, Jones PD, Barichivich J, et al. 2014. Global warming and
+changes in drought. Nat. Clim. Change 4:17–22
+118. Turner S, Barker LJ, Hannaford J, Muchan K, Parry S, Sefton C. 2021. The 2018/2019 drought in the
+UK: a hydrological appraisal. Weather 76(8):248–53
+119. UNDRR (U. N. Off. Disaster Risk Reduct.). 2021. Special report on drought 2021. Glob. Assess. Rep.
+Disaster Risk Reduct., UNDRR, Geneva. https://www.undrr.org/publication/gar-special-report-
+drought-2021
+120. UNEP (U. N. Environ. Progr.). 2021. Adaptation gap report 2020. Rep., UNEP, Nairobi. https://www.
+unep.org/resources/adaptation-gap-report-2020
+121. UNEP (U. N. Environ. Progr.). 2021. The heat is on: a world of climate promises not yet delivered. Emiss.
+Gap Rep., UNEP, Nairobi. https://www.unep.org/resources/emissions-gap-report-2021
+122. UNFCCC (U. N. Framew. Conv. Clim. Change). 2015. Adoption of the Paris Agreement, 21st Con-
+ference of the Parties. FCCC/CP/2015/L.9/Rev1, U. N., Paris. https://unfccc.int/sites/default/files/
+english_paris_agreement.pdf
+123. UNFCCC (U. N. Framew. Conv. Clim. Change). 2021. First report on the determination of the needs
+of developing country Parties related to implementing the Convention and the Paris Agreement. Tech. Rep.,
+UNFCCC, Bonn, Ger. https://unfccc.int/topics/climate-finance/workstreams/determination-of-
+the-needs-of-developing-country-parties/first-report-on-the-determination-of-the-needs-
+of-developing-country-parties-related-to-implementing
+124. UNFCCC (U. N. Framew. Conv. Clim. Change). 2021. Glasgow climate pact. Decis. CMA.3, UNFCCC,
+Bonn, Ger. https://unfccc.int/sites/default/files/resource/cma3_auv_2_cover%20decision.pdf
+125. UNICEF (U. N. Child. Fund), WHO (World Health Organ.). 2019. Progress on drinking water, sanitation
+and hygiene 2000–2017. Rep., UNICEF, WHO, New York. https://www.unicef.org/reports/progress-
+on-drinking-water-sanitation-and-hygiene-2019
+126. van Daalen KR, Romanello M, Rocklöv J, Semenza JC, Tonne C, et al. 2022. The 2022 Europe report
+of the Lancet Countdown on health and climate change: towards a climate resilient future. Lancet Public
+Health 7:E942–65
+127. Vicedo-Cabrera AM, Iñíguez C, Barona C, Ballester F. 2014. Exposure to elevated temperatures and risk
+of preterm birth in Valencia, Spain. Environ. Res. 134:210–17
+128. Vicedo-Cabrera AM, Sera F, Liu C, Armstrong B, Milojevic A, et al. 2020. Short term association be-
+tween ozone and mortality: global two stage time series study in 406 locations in 20 countries. BMJ
+368:m108
+129. Vicente-Serrano SM, Lopez-Moreno J-I, Beguería S, Lorenzo-Lacruz J, Sanchez-Lorenzo A, et al. 2014.
+Evidence of increasing drought severity caused by temperature rise in southern Europe. Environ. Res.
+Lett. 9(4):044001
+www.annualreviews.org • Drought Effects on Health in a Changing Climate
+231
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:49:34
+130. Vicente-Serrano SM, McVicar TR, Miralles DG, Yang Y, Tomas-Burguera M. 2020. Unraveling the
+influence of atmospheric evaporative demand on drought and its response to climate change. WIREs
+Clim. Change 11:e632
+131. Vicente-Serrano SM, Quiring S, Peña-Gallardo M, Yuan S, Domínguez-Castro F. 2020. A review of
+environmental droughts: increased risk under global warming? Earth-Sci. Rev. 201:102953
+132. Vicente-Serrano SM, Zabalza-Martínez J, Borràs G, López-Moreno JI, Pla E, et al. 2017. Effect of reser-
+voirs on streamflow and river regimes in a heavily regulated river basin of Northeast Spain. Catena
+149:727–41
+133. Vins H, Bell J, Saha S, Hess JJ. 2015. The mental health outcomes of drought: a systematic review and
+causal process diagram. Int. J. Environ. Res. Public Health 12:13251–75
+134. Wall N, Hayes M. 2016. Drought and health in the context of public engagement. In Extreme Weather,
+Health, and Communities, ed. SL Steinberg, WA Sprigg, pp. 219–44. Cham, Switz.: Springer Int.
+135. Wanders N, Wada Y. 2015. Human and climate impacts on the 21st century hydrological drought.
+J. Hydrol. 526:208–20
+136. Wang B, Wang S, Li L, Xu S, Li C, et al. 2021. The association between drought and outpatient visits
+for respiratory diseases in four northwest cities of China. Clim. Change 167(2):2
+137. Wang P, Asare E, Pitzer VE, Dubrow R, Chen K. 2022. Associations between long-term drought and
+diarrhea among children under five in low- and middle-income countries. Nat. Commun. 13:3661
+138. Wang T, Tu X, Singh VP, Chen X, Lin K. 2021. Global data assessment and analysis of drought
+characteristics based on CMIP6. J. Hydrol. 596:126091
+139. Wang Y, Xie Y, Dong W, Ming Y, Wang J, Shen L. 2017. Adverse effects of increasing drought on air
+quality via natural processes. Atmos. Chem. Phys. 17:12827–43
+140. WHO (World Health Organ.). 2014. Gender, climate change and health. Glob. Rep., WHO, Geneva.
+https://www.who.int/publications/i/item/9789241508186
+141. Wilhite DA. 1993. Planning for drought: a methodology. In Drought Assessment, Management, and
+Planning: Theory and Case Studies, pp. 87–108. Boston: Springer US
+142. Wilhite DA. 1996. A methodology for drought preparedness. Nat. Hazards 13(3):229–52
+143. Wilhite DA. 2002. Combating drought through preparedness. Nat. Resour. Forum 26(4):275–85
+144. Wilhite DA, Pulwarty RS. 2017. Drought as hazard: understanding the natural and social context. In
+Drought and Water Crises: Integrating Science, Management, and Policy, pp. 3–22. Boca Raton, FL: CRC
+Press
+145. WMO (World Meteorol. Organ.). 2021. Climate change indicators and impacts worsened in 2020.
+Press Release 19042021, April 19. https://public.wmo.int/en/media/press-release/climate-change-
+indicators-and-impacts-worsened-202
+146. WMO (World Meteorol. Organ.). 2021. WMO Atlas of Mortality and Economic Losses from Weather, Cli-
+mate and Water Extremes (1970–2019). WMO 1267. Geneva: WMO. https://library.wmo.int/index.
+php?lvl=notice_display&id=21930#.Ym-5eehBy5c
+147. Xu C, McDowell NG, Fisher RA, Wei L, Sevanto S, et al. 2019. Increasing impacts of extreme droughts
+on vegetation productivity under climate change. Nat. Clim. Change 9:948–53
+148. Xu R, Yu P, Abramson MJ, Johnston FH, Samet JM, et al. 2020. Wildfires, global climate change, and
+human health. N. Engl. J. Med. 383:2173–81
+149. Yusa A, Berry P, Cheng J, Ogden N, Bonsal B, et al. 2015. Climate change, drought and human health
+in Canada. Int. J. Environ. Res. Public Health 12:8359–412
+150. Zeng J, Li J, Lu X, Wei Z, Shangguan W, et al. 2022. Assessment of global meteorological, hydrological
+and agricultural drought under future warming based on CMIP6. Atmos. Ocean. Sci. Lett. 15:100143
+151. Zhang W, Li Y, Li Z, Wei X, Ren T, et al. 2020. Impacts of climate change, population growth, and
+urbanization on future population exposure to long-term temperature change during the warm season
+in China. Environ. Sci. Pollut. Res. Int. 27:8481–91
+152. Zhao T, Dai A. 2017. Uncertainties in historical changes and future projections of drought. Part II:
+model-simulated historical and future drought changes. Clim. Change 144(3):535–48
+153. Zhao T, Dai A. 2022. CMIP6 model-projected hydroclimatic and drought changes and their causes in
+the twenty-first century. J. Clim. 35:897–921
+232
+Salvador et al.

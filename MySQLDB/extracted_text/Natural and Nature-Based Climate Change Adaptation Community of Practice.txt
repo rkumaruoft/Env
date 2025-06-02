@@ -1,0 +1,2019 @@
+     
+ 
+Framework for assessing the costs and benefits of  
+nature-based climate solutions in Atlantic Canada 
+Prepared for the New Brunswick Environmental Network 
+September 21, 2023
+ 
+ 
+ 
+ 
+PAGE 2 
+ 
+Table of Contents 
+ 
+Table of Contents .......................................................................................................................................... 2 
+1 
+Introduction ........................................................................................................................................... 3 
+1.1 
+Objectives...................................................................................................................................... 3 
+1.2 
+Scope ............................................................................................................................................. 4 
+1.3 
+Target audience ............................................................................................................................ 4 
+1.4 
+Document structure ...................................................................................................................... 4 
+2 
+Understanding green infrastructure and nature-based climate solutions ........................................... 5 
+2.1 
+Clarifying the language ................................................................................................................. 5 
+2.2 
+Review of literature comparing grey and green infrastructure .................................................... 7 
+3 
+Benefit-cost analysis framework ........................................................................................................... 9 
+3.1 
+Step 1: Scope the nature-based climate solution(s) ..................................................................... 9 
+3.2 
+Step 2: Determine the level of effort required ........................................................................... 13 
+3.3 
+Step 3: Select the timeframe and discount rate for the analysis................................................ 15 
+3.4 
+Step 4: Identify and value the benefits ....................................................................................... 18 
+3.5 
+Step 5: Identify and value the costs ............................................................................................ 23 
+3.6 
+Step 6: Compare costs and benefits ........................................................................................... 27 
+3.7 
+Step 7: Conduct sensitivity analysis ............................................................................................ 28 
+3.8 
+Step 8: Consider other non-monetary benefits .......................................................................... 29 
+4 
+Benefit-cost analysis illustrative example ........................................................................................... 30 
+5 
+Conclusion ........................................................................................................................................... 36 
+6 
+References ........................................................................................................................................... 37 
+Appendix A: Decision support methods ..................................................................................................... 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 3 
+ 
+1 Introduction 
+A growing number of municipalities across Canada are exploring how green infrastructure (GI) can be 
+leveraged to build more sustainable and climate-resilient communities. GI is increasingly recognized as a 
+cost-effective complement to grey infrastructure that can deliver critical municipal services such as 
+stormwater management and water filtration, as well as urban heat reduction, air quality improvements 
+and habitat. The 2019 Canadian Infrastructure Report Card (Canadian infrastructure, 2019) found a 
+considerable amount of built infrastructure in Canada to be in poor or very poor condition. The state of 
+Canada’s infrastructure poses a financial challenge to municipalities. Based on the International Institute 
+for Sustainable Development’s Sustainable Asset Valuation of 10 GI projects from around the globe, Bassi 
+et al. (2021) estimated GI costs to be on average 50.6% less and generate 29.1% more value compared to 
+traditional built infrastructure.  
+Despite their ability to deliver services and ease the infrastructure burden for local governments, the 
+adoption of GI is not widespread in Canada. This is due to a range of barriers, including: 
+● lack of information and data pertaining to the services these assets provide; 
+● lack of knowledge and awareness of GI opportunities; 
+● lack of knowledge and experience of engineers, consultants and construction firms on how to 
+properly use and integrate GI; 
+● limited access to native plant nurseries, which are important for some GI projects, and  
+● sense of risk and uncertainty associated with the unfamiliar approaches needed to implement GI 
+projects. 
+To address some of these barriers, the World Bank recently released a detailed guidance document for 
+project developers on how to assess the benefits and costs of GI (van Zanten et al., 2023). The material 
+presented in this report builds on the World Bank framework, adapting it to a New Brunswick and other 
+Atlantic provinces context. 
+1.1 Objectives 
+This framework and guidance document is designed to achieve the following objectives: 
+● Develop and demonstrate a benefit-cost framework for nature-based climate solution (NBCS) 
+projects, a subset of GI projects which are described in the next section, with specific relevance 
+to New Brunswick and the Atlantic provinces. 
+● Provide supporting information so that municipal decision-makers can approximate benefits and 
+costs for NBCS projects. This includes a database of benefit and cost data and a benefit-cost 
+calculator tool.1  
+Overall, the guidance material focuses on what data is needed to inform a benefit-cost analysis (BCA) and 
+how that data can be used to inform the decision-making process. 
+ 
+1 It should be noted that the information in the database provides point it time estimates of various cost and benefits. Values 
+and prices fluctuate over time so users should be aware of this potential limitation when choosing a value. While such 
+limitations cannot be avoided without doing your own detailed calculations, the database can be useful in providing a starting 
+point for your assessment. 
+ 
+ 
+ 
+ 
+PAGE 4 
+ 
+1.2 Scope 
+There are several decision-support methods that can be used to weigh trade-offs and decide between 
+project alternatives including BCA, cost-effectiveness analysis, and multicriteria analysis. Summaries of 
+these methods are provided in Appendix A. As noted above, this report focuses on BCA. 
+This report focuses on NBCS to support community climate resilience. While the framework (outlined in 
+section 3) is broadly applicable to many types of projects, this guidance focuses on coastal restoration 
+(e.g. living shorelines) and stormwater management ponds. 
+1.3 Target audience 
+This report is designed to support planners, engineers, elected officials and other municipal and 
+provincial decision-makers understand and explore the range of benefits and costs associated with living 
+shorelines and stormwater management ponds. 
+1.4 Document structure 
+The remainder of this document is organized as follows: 
+● Section 2 clarifies some commonly-used GI terminology and provides a general overview of the 
+benefits of GI. 
+● Section 3 presents the BCA framework and associated steps for NBCS. 
+● Section 4 provides an overview of an illustrative example to demonstrate how the framework 
+can be applied. 
+● Section 5 concludes the document. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 5 
+ 
+2 Understanding green infrastructure and 
+nature-based climate solutions  
+The idea that ecosystems provide a range of benefits (commonly referred to as ecosystem services) to 
+humans has triggered the framing of nature as a form of capital (e.g. a natural asset). The purpose of this 
+framing is to formally recognize, codify and value nature. By doing so, decision-makers can monitor, 
+protect, maintain and restore natural areas to ensure the ecosystem services that communities rely on 
+continue to be provided. The intent is to value a subset of services that humans receive from nature; the 
+intrinsic value of nature far exceeds that which can be quantified.  
+This section defines some of the common language used to describe GI. This is followed by an overview 
+of the literature on the cost of GI to increase climate resiliency. 
+2.1 Clarifying the language 
+Figure 1, developed by Green Infrastructure Ontario (GIO) and modified by Green Analytics, demonstrates 
+the relationships between terms commonly used when referring to GI. The figure distinguishes between 
+three sub-types of GI (natural assets, enhanced assets and engineered assets) with examples of each. It 
+also shows where NBCS fit under the umbrella of GI. 
+ 
+Figure 1. Range of GI solutions  
+These terms are defined in more detail below to help distinguish the range of possible infrastructure 
+solutions between completely engineered and completely natural. All the cited text is from Canadian 
+Council of Ministers of the Environment (CCME), (2021) unless otherwise noted. 
+ 
+ 
+ 
+ 
+ 
+PAGE 6 
+ 
+● Infrastructure “refers to the managed elements of interrelated systems that provide goods and      
+services essential to enabling, sustaining or enhancing the living conditions of human 
+communities”. 
+● Grey infrastructure “refers to engineered assets made exclusively of materials such as concrete 
+and steel… including bridges, dams, water treatment plants, culverts, ditches and storm drains”. 
+o “Grey infrastructure elements are generally designed for singular purposes and although 
+considerable expertise has accrued over time on best practices for their design and 
+management, they are not highly adaptable to changing conditions such as extreme 
+precipitation events and have a limited lifespan” (Sutton-Grier et al., (2015) as cited in 
+CCME 2021). 
+o “Further to this, grey infrastructure has a large carbon footprint given the emissions 
+associated with manufacturing concrete and steel structures” (Bataille (2019) as cited in 
+CCME 2021). 
+● Green infrastructure “refers to the natural vegetative systems, engineered and built features, and 
+green technologies that collectively provide society with a multitude of economic, environmental 
+and social outcomes... At present, green infrastructure is still strongly associated with the 
+planning philosophy of low-impact development (LID) and technologies that support the 
+ecological and hydrological processes needed to manage rain- and stormwater in towns and cities. 
+It includes three sub-types of assets ranging from ‘most’ to ‘least’ engineered: 
+o Engineered (green) assets “are built or manufactured structures intended to mimic 
+natural functions, particularly hydrologic functions, at the site-specific scale. They 
+generally do not have a ‘green’/vegetated component”. Examples include rain barrels, 
+permeable pavement and infiltration trenches. 
+o Enhanced (green) assets incorporate “land, water and vegetation features alongside 
+human-made elements to sustain ecosystem functions and services… the enhancement 
+of conventional grey infrastructure (e.g. piped, ditch and culvert, dam and reservoir 
+systems) with nature-based elements, [often] in order to achieve the active and everyday 
+management of the full rainfall-runoff spectrum”. Examples include bioswales, green 
+roofs, trees in built-up areas with engineered rooting environments and native topsoil 
+added to developed areas (with grass and/or other groundcovers) for its water infiltration 
+and retention capacity. 
+o Natural assets/natural infrastructure “refers to the use of preserved, restored or 
+enhanced elements or combinations of vegetation and associated biology, land, water 
+and naturally occurring ecological processes to meet targeted infrastructure outcomes... 
+It can be differentiated from the related category of green infrastructure based on its 
+composition exclusively of natural ecosystem features and materials (e.g. water, native 
+species of vegetation, sand, stone, etc.), and from grey infrastructure because it provides 
+a range of co-benefits to the environment, the economy, community health and well-
+being that grey infrastructure usually cannot”. Examples include:  
+▪ 
+grasslands that provide pollinator habitat; 
+▪ 
+forests created or restored for cooling and/or headwater protection functions;  
+▪ 
+riparian areas to watercourses for erosion control functions; 
+▪ 
+wetlands created or restored and maintained for water attenuation and filtration 
+ 
+ 
+ 
+ 
+PAGE 7 
+ 
+functions; and 
+▪ 
+coastal dunes and shorelines restored to build resilience to more frequent 
+storms. 
+● Nature-based solutions (NBS) or nature-based climate solutions (NBCS) “are measures that 
+protect, restore and sustainably manage natural or modified ecosystems, with the aim of 
+maintaining or enhancing the services provided to human communities and benefits to 
+biodiversity”. 
+o “[C]an be used in place of or in tandem with grey infrastructure to create a hybrid 
+approach, to enhance resilience of the infrastructure asset, and provide many other co-
+benefits”.  
+o As illustrated in Figure 1, these include natural assets and enhanced assets, but exclude 
+engineered assets that mimic natural functions using grey infrastructure to do so.  
+While the framework, approaches and concepts discussed in this report could be applied to all GI types, 
+this report focuses on NBCS, including natural assets and enhanced assets.  
+2.2 Review of literature comparing grey and green 
+infrastructure 
+To investigate the cost effectiveness of GI relative to grey infrastructure, the International Institute for 
+Sustainable Development compared the costs and benefits of nature-based infrastructure with grey 
+alternatives using 10 sustainable asset value studies from Canada, Ethiopia, India, Indonesia, Italy, Senegal 
+and South Africa. The study found the cost of grey infrastructure to be US$4.29 trillion yearly. Substituting 
+GI for 11% of the world's infrastructure needs was estimated to result in annual savings of US$248 billion 
+and extra benefits of US$489 billion (Bassi et al., 2021). 
+Indeed, numerous reports have pointed out that GI can be less costly. For instance, a US Environmental 
+Protection Agency (EPA) report that compiled 17 case studies of GI projects revealed that GI can result in 
+significant savings in most cases. According to the US EPA, that capital cost reductions ranged from 15% 
+to 80% when GI was implemented (US EPA, 2007). Similarly, the US EPA and the American Society of 
+Landscape Architects collected 479 case studies to investigate the cost-effectiveness of GI compared to 
+conventional grey alternatives. When compared to conventional stormwater management techniques, 
+44% of these case studies experienced reduced costs, while nearly 30% claimed that it had no impact on 
+capital costs. Less than 25% of the case studies indicated that the use of GI led to increased costs 
+(American Rivers et al., 2012).  
+Additionally, Zhou et al. (2009) used a case in Beijing to compare the cost of an integrated constructed 
+wetland with the capital cost of conventional wastewater treatment. Their results demonstrate that a 
+constructed wetland typically costs 10% to 50% of the capital cost of grey alternatives and is likely to incur 
+only 10% to 25% of the operating costs of grey options (Zhou et al., 2009). Similarly, when compared to 
+an all-grey infrastructure approach, the use of GI stormwater solutions, such as blue and green roofs, 
+swales, tree pits, constructed wetlands and rain barrels, in New York City resulted in a US$1.5 billion 
+reduction in water management costs (Culwick et al., 2016). 
+Grey infrastructure options typically have much larger up-front construction costs relative to GI (Wishart 
+et al., 2021; Miller, 2023). American Rivers et al. (2012) stated that GI development imposes lower capital 
+ 
+ 
+ 
+ 
+PAGE 8 
+ 
+costs, land acquisition costs and other financial burdens that are integrated into the initial construction. 
+The town of Gibsons, British Columbia avoided a CAD$4 million capital expenditure to construct an 
+engineered stormwater pipe by investing in a GI alternative expected to cost only CAD$0.9 million (MNAI, 
+2019).  
+GI projects also have reduced repair and maintenance costs, and reduced infrastructure replacement 
+costs (American Rivers et al., 2012; Brears, 2018; Miller, 2023). Over time, the human-made materials and 
+equipment of grey infrastructure deteriorate and wear down, which leads to increased operations and 
+maintenance over time. On the other hand, GI practices improve function and resilience as vegetation 
+ages and adjusts to regional biological cycles (American Rivers et al., 2012). An EPA study on enhancing 
+sustainable communities with GI showed that the operation and maintenance costs associated with GI 
+were less expensive compared with traditional grey infrastructure (US EPA, 2014). A similar conclusion 
+was reached in a study by MNAI on natural asset management in the town of Gibsons. According to the 
+MNAI, the operations and maintenance expenses for a natural asset project are anticipated to be 
+significantly cheaper than a comparable grey infrastructure project (MNAI, 2019). Figure 2, from van 
+Zanten et al. (2023), compares the capital expenses (CAPEX) and operating expenses (OPEX) under the 
+two approaches over time. The figure demonstrates the different benefits and costs of grey and green 
+infrastructure over time. 
+ 
+Figure 2. Comparison of capital expenses (CAPEX) and operating expenses (OPEX) over time for grey and green infrastructure 
+solutions (van Zanten at al., 2023)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 9 
+ 
+ 
+3 Benefit-cost analysis framework  
+The proposed framework for assessing the benefits and costs of NBCS builds on the work of van Zanten 
+et al. (2023) published by the World Bank. The World Bank document provides guidance for project 
+developers on how to assess the benefits and costs of NBCS. In this section, an overview of the BCA 
+framework and steps, which have been adapted by Green Analytics for applicability to the Atlantic Canada 
+context, are presented. Figure 3 provides a summary of the key steps of the BCA framework. 
+ 
+Figure 3. Overview of the BCA framework steps (van Zanten at al., 2023) 
+3.1 Step 1: Scope the nature-based climate solution(s) 
+The first step in the process is to understand the context of the project. The identification, design and 
+implementation of a NBCS requires a systems approach that considers landscape ecology and topography, 
+existing functions of grey infrastructure and the location of the project site in the bigger ecological 
+landscape (e.g. watershed). Solutions should be analyzed at the landscape, city or watershed level as 
+opposed to focusing on a single site location (World Bank, 2021). For example, in the context of 
+stormwater management, it is necessary to understand the collective runoff reduction provided by all 
+relevant green spaces across a stormwater catchment basin as part of a city’s overall drainage 
+infrastructure. 
+This step also requires clearly defining the objectives of the BCA. Typically, BCA is used to systematically 
+assess trade-offs among different options. Defining these options starts by understanding the issue to be 
+addressed and identifying the most appropriate options for resolving that issue. 
+Key questions that should be considered during this step include: 
+1. What is the issue or hazard to be addressed? 
+2. How is the issue or hazard influenced by the local conditions? 
+3. What are the grey infrastructure options that could be used to address the issue? 
+4. Are there NBCS alternatives?  
+5. If NBCS exist, is it feasible for these alternatives to completely replace the grey infrastructure 
+ 
+ 
+ 
+ 
+PAGE 10 
+ 
+options or should a hybrid option be considered? 
+As these questions are explored, analysts should frame a series of options to assess through the BCA. For 
+instance, consider a series of scenarios such as: 
+● Do nothing. Define and describe what the likely outcomes or impacts might be if nothing is done 
+to address the issue. 
+● Use a grey infrastructure option. Define and describe what the likely outcomes or impacts might 
+be if a grey infrastructure option is used to address the issue. Be as specific as possible about what 
+the option is and to what degree it will solve the issue or hazard. 
+● Use a NBCS option. Define and describe what the likely outcomes or impacts might be if a NBCS 
+is used to address the issue. Be as specific as possible about what the option is and to what degree 
+it will solve the issue or hazard. 
+There is a wide range of possible NBCS that could be employed in communities across New Brunswick to 
+help build climate resilience. In the World Bank report, van Zanten et al. (2023) presents 11 ‘families’ of 
+GI projects (Figure 4). All families are of relevance to New Brunswick and Atlantic Canada with the 
+exception of mangrove forests. 
+ 
+Figure 4. Types of green infrastructure that build climate resilience (van Zanten et al., 2023) 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 11 
+ 
+In Table 1, the families are scoped to five project types relevant to living shorelines and stormwater 
+management in New Brunswick and Atlantic Canada.  
+Table 1. NBCS of focus for living shorelines and stormwater management 
+NBCS 
+Family 
+How does it help? 
+What issue(s) does  
+it address? 
+Beach nourishment 
+and sand 
+dune restoration 
+Sandy shores and 
+dunes 
+• Reduces erosion and flood  
+• Protects against storm 
+surge and high waves  
+• Flooding   
+• Water quality degradation  
+Oyster reef 
+restoration  
+Reef ecosystems 
+• Reduces erosion  
+• Creates a barrier from 
+storms and tides  
+• Protects productive estuary 
+waters  
+• Flooding  
+• Biodiversity loss   
+• Water quality degradation  
+Seagrass and 
+seagrass meadow 
+restoration   
+Submerged aquatic 
+vegetation 
+• Reduces erosion   
+• Provides shelter and food 
+for animals   
+• Climate change  
+• Biodiversity loss  
+• Water quality degradation  
+Wetland and salt 
+marshes 
+restoration  
+Inland wetlands 
+Other coastal 
+wetlands 
+• Absorbs storm surge waters 
+• Attenuates flooding  
+• Stabilizes shore sediments  
+• Preserves habitat 
+• Flooding  
+• Water quality degradation  
+• Biodiversity loss   
+Naturalized 
+stormwater ponds   
+Ponds, lakes and 
+other small bodies 
+of water 
+Inland wetlands 
+• Improves water quality   
+• Increases carbon 
+sequestration   
+• Reduces erosion   
+• Preserves habitat   
+• Flooding  
+• Biodiversity loss  
+• Climate change   
+ 
+ 
+ 
+ 
+ 
+PAGE 12 
+ 
+ 
+Scoping NBCS in New Brunswick - Examples 
+1. The first example is the Shediac Bay watershed water conservation and stormwater 
+management project. The growing severity of climate change impacts and increasing 
+impervious surfaces (e.g. pavements, buildings and parking lots) due to human activities have 
+led to increased stormwater runoff in the watershed. To protect water quality and mange 
+stormwater, the Shediac Bay Watershed Association implemented the water conservation 
+and stormwater management project. After reviewing options, it was decided that the 
+project would consist of a bioswale at Polyvalent Louis-J.-Robichaud high school, two 
+residential rain gardens (Rue Rachel and Rue Smith) and one commercial bioswale at 
+Maximum Signs & Time2Shine. This example entailed consideration of the broader 
+stormwater management context and pursuit of a package of projects to achieve its 
+objectives. 
+2. Several communities (1: Le Goulet, 2: Sainte-Marie-Saint-Raphaël, Cap Bateau, Pigeon Hill 
+and 3: Shippagan and Pointe-Brûlée) on the Acadian Peninsula face intensifying flooding and 
+erosion caused by storm surges. The current flooding and erosion condition has resulted in 
+property damage and other financial losses. Without effective adaptation measures, floods 
+are anticipated to get worse by 2100. To ease the shoreline erosion resulting from storm 
+surges, a BCA approach was undertaken to estimate and compare the implementation and 
+maintenance costs, as well as associated ecosystem service benefits of multiple dune 
+restoration projects. In Le Goulet, three adaptation scenarios were considered: (1) dike 
+construction; (2) beach nourishment; and (3) beach nourishment with breach. In the Sainte-
+Marie-Saint-Raphaël, Cap Bateau, Pigeon Hill, the scenarios assessed were relocation of at-
+risk homes and construction of erosion control structures. In the community of Shippagan 
+and Pointe-Brûlée, two scenarios were considered. Scenario 1 considered zoning with 
+reduction in existing property value. Scenario 2 considered zoning with no reduction in 
+existing property values. Both alternatives involved creating a ‘retreat zone’ and an 
+‘accommodation zone’, as well as permanently preserving the current retaining wall, rocks 
+and boardwalk. This example demonstrates how a community can frame a range of options 
+to assess through BCA. 
+3. The Town of Riverview explored how to protect and enhance natural assets in a large 
+development area proposed for the Mill Creek Watershed adjacent to a nature park (MNAI, 
+2020). In collaboration with the Municipal Natural Asset Initiative, the community 
+developed stormwater modelling scenarios for the Mill Creek watershed. This allowed them 
+to estimate the value of the stormwater management services that the existing wetland 
+offers, as well as the cost of creating stormwater management ponds and built wetlands 
+that provide the same level of service as the existing wetland, under three future scenarios: 
+(1) the development proceeds without causing harm to the wetland and takes into account 
+the construction of certain designed drainage infrastructure;  (2) the current wetland is 
+enhanced to counteract the elevated peak flow; and (3) the wetland is damaged to the 
+extent that the community needs to construct a replacement to regulate stormwater flows. 
+This illustration shows how BCA can be applied to multiple scenarios to assess the value 
+proposition of each. 
+ 
+ 
+ 
+ 
+PAGE 13 
+ 
+ 
+3.2 Step 2: Determine the level of effort required 
+BCA can be applied to a single project or used to compare several options. If the issue is large and complex 
+and involves significant levels of uncertainty, it will be beneficial to explore and assess a range of potential 
+solutions to ensure the proposed solution is the best one. For smaller projects or ones with limited 
+uncertainty and strong links to a community strategic plan, it may be sufficient to articulate the various 
+benefits and costs of the project without considering the range of alternatives.  
+The World Bank guidance report identifies three tiers of analysis based on the project’s objectives and 
+available resources as outlined in Figure 5 (van Zanten et al., 2023).   
+ 
+Figure 5. Approach to choosing a level of effort required (van Zanten et al., 2023) 
+The 3-Tier approach given by van Zanten et al. (2023) can be applied to each step in evaluating NBCS. The 
+data collection suggestions for each analytical step under different tiers are shown in Table 2. To illustrate, 
+the Tier 1 approach for evaluating the advantages of risk reduction entails utilizing a rapid assessment 
+based either on data from the global ecosystems and/or land cover or using monetary or index-based 
+values derived from existing datasets of risk reduction value. In addition to the data utilized in Tier 1, Tier 
+2 uses natural capital accounting, such as quantifying the avoided damage cost, to increase confidence in 
+the analytical conclusions. Tier 3 further amplifies the amount of data required and the amount of time 
+and/or resources needed by utilizing high-resolution datasets on the ecosystem extent and conditions, as 
+well as local market pricing for NBCS benefits. This three tier approach, with the possibility to mix methods 
+in different tiers, can be applied to all other NBCS evaluation steps including scoping benefits, decision 
+support framework, other benefit valuations and cost valuations (van Zanten et al., 2023).  
+ 
+ 
+ 
+ 
+PAGE 14 
+ 
+Table 2. Approach examples of Tiers 1,2 and 3 for BCA 
+Framework 
+component 
+Tier 1 approaches 
+Tier 2 approaches 
+Tier 3 approaches 
+Scoping 
+Expert elicitation 
+Stakeholder interview / 
+workshop 
+Stakeholder / community 
+participatory mapping 
+Benefit valuation 
+Ecosystem services or NBCS 
+benefits value databases 
+ 
+Global ecosystem and/or 
+land cover data 
+Tier 1 datasets and natural 
+capital accounts (ecosystem 
+extent and condition data 
+sets) or other geospatial 
+national/local ecosystem 
+extent and/or condition 
+data 
+High-resolution ecosystems 
+extend and condition 
+datasets (and full natural 
+capital account if available), 
+local market prices of NBCS 
+benefits/ecosystem services 
+(e.g. agricultural output, 
+nature-based tourism, fish) 
+and stated preference 
+surveys 
+Cost valuation 
+NBCS CAPEX and OPEX unit 
+cost estimations from other 
+case studies / projects to 
+inform value transfer 
+Modeled opportunity cost 
+data sets (spatially explicit 
+or regional statistics), 
+national/regional statistics 
+on wages and/or material 
+cost to refine CAPEX and 
+OPEX cost estimates 
+Estimate local wages/labour 
+cost, estimate material and 
+land cost based on local 
+market prices and value 
+disservices (if any) using 
+stated preference survey 
+Source: Adapted from van Zanten et al., 2023.  
+While Tier 2 and Tier 3 provide more robust results with greater confidence in the analytical outcomes, 
+the focus of this report on the Tier 1 level of effort. It is assumed that the users of this report will be 
+dealing with limited data, time, budget and expertise. In situations where a Tier 2 or Tier 3 level of effort 
+is required, communities should consider engaging subject matter experts to support the analysis. 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 15 
+ 
+3.3 Step 3: Select the timeframe and discount rate for the 
+analysis 
+Step 3 involves selecting an appropriate timeframe and discount rate for the analysis. 
+Discount rates account for the time value of money thereby converting future costs and benefits into 
+present value terms. Generally, one discount rate is selected and held constant over time. However, the 
+appropriateness of applying a uniform discount rate to NBCS has been a source of debate since doing so 
+places a lower weight on future benefits. Currently, the Treasury Board of Canada recommends a default 
+discount rate of 7% or a social discount rate of 3%. The social rate is recommended in certain situations 
+where factors other than economic opportunity costs need to be considered, such as for human health 
+and environmental goods and services. The choice of the discount rate can have a significant impact on 
+the net present value of the project. A sensitivity analysis of its impact is prudent when undertaking such 
+analyses.  
+In addition to the choice of discount rate, the timeframe over which the BCA is undertaken is an important 
+consideration. NBCS involve upfront costs that lead to long-term benefits as depicted in Figure 6. The cost 
+of planting a tree (red line in Figure 6) is incurred at the start of the project. However, the benefits (blue 
+line in Figure 6) take several years to reach their full potential.  
+ 
+Level of effort for CBA in New Brunswick - Example 
+A combination of Tier 2 and Tier 3 approaches was applied in the 2016 BCA of climate change 
+adaptation strategies for the Acadian Peninsula. The potential risk reduction benefits from dune 
+restoration and other NBCS were measured as the expected annual damages using the avoided 
+flood damages approach and the avoided erosion approach.  
+Avoided flood damage were estimated for four points in time (2010, 2030, 2050 and 2100) and six 
+flood return periods (1 in 2 years, 1 in 5 years, 1 in 10 years, 1 in 25 years, 1 in 50 years and 1 in 100 
+years). Using a comprehensive geographic database and the United States Hazus model's depth 
+damage curves, damage cost values for each of these times and flood return periods were then 
+determined. The prevented erosion damages, on the other hand, were calculated by determining 
+the percent of land lost due to erosion and multiplying the lost land by the appropriate property 
+values.  
+Using a benefit transfer approach, additional ecosystem service advantages beyond risk reduction 
+benefits were also established. The Tier 3 technique was used in the cost appraisal process, where 
+expert consulting engineers estimated implementation costs taking into consideration local 
+conditions, including materials, transportation, installation, site accessibility and drainage, as well as 
+other relevant expenditures. 
+ 
+ 
+ 
+ 
+PAGE 16 
+ 
+ 
+Figure 6. Illustration of typical benefits versus costs over a tree’s life cycle (Peel Climate Change Partnership, 2021) 
+Recent thinking suggests using declining discount rates combined with long timeframes (100+ years) when 
+dealing with environmental projects (O’Mahony, 2021). O’Mahony argues that “failing to fully capture 
+these long-term welfare gains and losses will distort the analysis with a bias towards those projects that 
+are more carbon-intensive, or environmentally damaging”.  
+ 
+ 
+ 
+ 
+ 
+PAGE 17 
+ 
+ 
+Choosing discount rates and timeframes for NBCS in New Brunswick - Examples 
+Examples of the timeframes and discount rates used by recent shoreline protection BCAs are 
+demonstrated in the table below. The timeframes range from 20 years to 90 years and the discount 
+rates range from 1% to 10%.  
+References 
+Value 
+Value categories 
+Timeframes (T) and discount 
+rate (i) 
+1. Wetland and saltmarsh restoration related BCA 
+i. Reguero et al., 2018 
+[US Study] 
+Benefits  
+Storm hazard reduction 
+T=20 or 40, i = 2% or 10%  
+ 
+Costs  
+Construction / maintenance 
+ii. Stewart‐Sinclair et 
+al. 2021 [Global] 
+Benefits  
+Water purification, nursery, hunting and fishing,  
+fish and flood  
+i = 1%, 2.5%, 3%, 3.5%, and 4.5%  
+T = 30, 60 and 90 for different 
+scenarios 
+Costs 
+Construction, capital, monitoring 
+iii. Vázquez-González 
+et al., 2017 [Mexican 
+Study] 
+Benefits  
+Carbon storage 
+T = 30, social discount rate (i) = 
+3%obtained from Mexican 
+Internal Revenue Service 
+Costs 
+Investment, operative, maintenance  
+ 
+Opportunity cost, money lost or gained by 
+changing land use  
+2. Oyster reef restoration related BCA 
+i. Hynes et al., 2022 
+[Irish Study] 
+Benefits  
+Recreational value 
+T = 20  i = 5% 
+ 
+Costs 
+Construction and maintenance, alternative grey 
+approach 
+ii. Reguero et al., 
+2018 [US Study] 
+Benefits  
+Storm hazard reduction  
+T=20 or 40, i = 2% or 10%  
+Costs 
+Construction and maintenance 
+Iii. Callihan et al., 
+2016 [US Study] 
+Benefits  
+Water quality improvement, aquatic vegetation 
+enhancement, commercial and recreational 
+fishing, oyster harvest, nitrogen removal, 
+shoreline stabilization 
+T = 30, i = 3%  
+Costs 
+Construction and program cost  
+iv. Grabowski et al., 
+2011 [US study] 
+ 
+ 
+Benefits  
+ 
+Commercial fishing, recreational fishing, 
+denitrification, submerged aquatic vegetation 
+enhancement 
+i=3%, T=1,5, 10, 25, and 50 for 
+different scenarios 
+Costs 
+Construction (purchasing, transportation, loading 
+deploying)  
+3. Seagrass restoration related BCA 
+i. Stewart‐Sinclair et 
+al., 2021 [Global] 
+Benefits  
+Food, nursery  
+i = 1%, 2.5%, 3%, 3.5%, and 4.5%  
+T = 30, 60 and 90 for different 
+scenarios 
+Costs  
+Construction, capital, monitoring 
+ii. Rogers et al., 2019 
+[Australian study] 
+Benefits 
+Carbon sequestration, recreational fishing, 
+recreational use 
+T = 100, i = 7% 
+ 
+ 
+Costs 
+Replanting, reseeding  
+4. Beach nourishment related BCA 
+i. Reguero et al., 2018 
+[US Study] 
+Benefits  
+Storm hazard reduction 
+T=20 or 40, i = 2% or 10%  
+ 
+Costs  
+Construction / maintenance 
+ii. Coelho et al., 2022 
+[Portugal study] 
+Benefits  
+Erosion mitigation  
+i = 3%, T=20 
+Costs  
+Collect, transport, deposit  
+5. Grey alternative BCA 
+i. Tiggeloven et al., 
+2020 [Global] 
+Benefits  
+Flood risk reduction  
+i = 5%, T=80 
+ 
+ 
+ 
+ 
+ 
+PAGE 18 
+ 
+ 
+3.4 Step 4: Identify and value the benefits 
+Once the BCA has been sufficiently scoped, and appropriate timelines and discount rates identified, the 
+benefits should be identified and valued. Note Steps 4 and 5 (identifying and valuing costs) can occur in 
+any order, or simultaneously. To identify and value benefits, the following subsets should be undertaken: 
+a) identify the range of potential benefits; 
+b) understand and value the risk reduction benefits; and 
+c) value other benefits. 
+Step 4a: Identify the range of potential benefits 
+In the context of improving a community’s resilience to climate change, the primary goal of most NBCS is 
+the reduction or mitigation of risk. However, natural features provide a wide array of benefits beyond risk 
+reduction or mitigation. These benefits are typically referred to as ecosystem services, which are 
+commonly defined as the benefits people obtain from nature. It is important to consider the range of 
+potential benefits that could arise from the NBCS being considered. Table 3 provides a summary of 
+common ecosystem service outcomes associated with NBCS. The analyst should start this step by 
+identifying the full range of service benefits, including risk reduction, that may result from the NBCS under 
+consideration. 
+Table 3. Summary of ecosystem service outcomes associated with NBCS  
+Service theme 
+Ecosystem service benefits 
+Water quantity 
+Reduced or avoided surface runoff and associated erosion 
+Improved surface water storage 
+Increased groundwater recharge and storage 
+Improved flood protection and mitigation (inland) 
+Improved flood protection and mitigation (coastal) 
+Water quality 
+Improved surface or ground water quality 
+Carbon 
+Improved carbon sequestration 
+Biodiversity 
+Improved or increased terrestrial habitat availability and quality 
+Improved aquatic habitat availability and quality 
+Improved support for local pollinators 
+Socio‐economic 
+Improved air quality 
+Enhanced microclimate regulation 
+Increased recreation or tourism opportunities 
+Increased physical and mental well‐being 
+Increased property or land value 
+Step 4b: Understand and value risk reduction benefits 
+NBCS can provide significant risk reduction benefits that contribute to the resilience and sustainability of 
+communities and ecosystems. For instance, beach nourishment, oyster reef restoration and wetland 
+restoration can play roles in the reduction of coastal flooding and erosion. These features provide natural 
+flood protection by absorbing and retaining water, reducing the potential for stormwater runoff and 
+subsequent flooding, functioning as buffers against coastal erosion and storm surges and safeguarding 
+ 
+ 
+ 
+ 
+ 
+PAGE 19 
+ 
+coastal communities and infrastructure. Since hazard and risk reduction is commonly the primary issue 
+being addressed through a NBCS, it can be useful to consider these benefits separately from the other 
+benefits. In addition, these benefits have an extra layer of complexity in that they require an 
+understanding of the degree to which risks will be mitigated through the implementation of the project. 
+Ultimately, to value the reduction in risk associated with a particular project, it is necessary to first 
+understand the current level of risk and how that risk will change after the implementation of the project. 
+It may also be useful to explore how each of the defined scenarios (e.g. do nothing, consider options) 
+might be impacted by climate change. For instance, how does the community’s risk exposure change over 
+time, and to what degree do the options being considered mitigate those changing risks?   
+Depending on the complexity of the project, a separate hazard and risk assessment might be required to 
+establish this understanding. A hazard and risk assessment will help establish what the current baseline 
+risk exposure is from a given hazard. This type of assessment can also explore how hazard and risk 
+exposure will change as a result of the project being considered. Such a risk assessment could use 
+hydrologic modelling and mapping techniques to define the degree of flood risk currently being faced, 
+how that risk might change over time as a result of climate change and/or the implementation of NBCS. 
+Providing detailed guidance on how to conduct a hazard and risk assessment is outside the scope of this 
+document. If such an assessment is deemed necessary, a subject matter expert should be engaged.  
+The Rivière-à-la-Truite watershed case study, written by Paradis-Léger et al. (2022), provides an excellent 
+example of hazard and risk assessment. Recent catastrophic spring flooding in the Rivière-à-la-Truite 
+watershed has generated significant economic and environmental challenges for communities within the 
+watershed. Following the identification of the resources and land uses in and around the Rivière-à-la-
+Truite watershed, flood risk modelling was used to demonstrate that for 20- and 100-year flood events 
+the flooded areas will total 0.6 km2 and 0.8 km2, representing 1.1 million m3 and 1.4 million m3 of water 
+volume, respectively. In addition, three out of six bridges in the flooded area lacked the hydraulic strength 
+to resist the flood volumes. Nearly 30% of the population of people over 65, are thought to be at a higher 
+risk. More significantly, the existence of nearby wastewater treatment facilities and a lagoon on the flood 
+plain increases the potential of downstream water pollution. 
+Once the reduction in risk is understood and/or quantified, the monetary value of that risk reduction 
+should be established. There are several methodologies that may be used to quantify risk reduction 
+values. Common approaches include contingent valuation, choice experiment, hedonic pricing, 
+replacement cost and avoided damage cost. Ultimately, each of these methods are attempting to place a 
+value on the change in risk exposure to a given community. Each method approaches the value of this risk 
+reduction slightly differently. Table 4 summarizes the methods and describes how value can be attributed 
+to risk reduction. It should be noted that the first three methods (contingent valuation, choice 
+experiments and hedonic pricing) require very specific data inputs gathered through a carefully designed 
+survey (in the case of contingent valuation and choice experiments) or through a carefully constructed 
+dataset of property values (in the case of hedonic pricing). These methods fall under a Tier 3 level of effort 
+(see section 3.2).  As such, it is anticipated that these approaches are outside available capacity, and likely 
+impractical, for many NBCS projects. However, understanding how these approaches establish value can 
+be helpful in building a benefit argument. In the context of a Tier 1 level of effort, value transfer, described 
+in detail below, can be used. 
+ 
+ 
+ 
+ 
+ 
+PAGE 20 
+ 
+Table 4. Summary of approaches to measure risk reduction benefits associated with NBCS  
+Valuation 
+method 
+Approach to valuing risk reduction 
+Examples 
+Contingent 
+valuation 
+Estimates the value of risk reduction by asking residents how 
+much they would be willing to pay to reduce their risk 
+exposure (e.g. reduce the risk of flooding by 25%) 
+He et al., 2016 [Quebec 
+study] 
+ 
+Mingle, 2017 [Manitoba 
+study] 
+Choice 
+experiment 
+This approach is similar to contingent valuation. However, 
+instead of directly asking residents what their willingness to 
+pay for risk reduction is, they are asked to choose between 
+competing options (e.g. to choose their preferred option). 
+Each choice is associated with a specific cost and risk 
+reduction along with other attributes deemed important for 
+each option. 
+He et al., 2016 [Quebec 
+study] 
+ 
+Ureta et al., 2021 [US study] 
+Hedonic pricing 
+This approach estimates the value of risk reduction by 
+examining the difference in property values between 
+properties that are located within flood prone areas and 
+those outside of flood prone areas. 
+Abdelhalim, 2020 [Quebec 
+study] 
+ 
+Bélanger et al., 2018 
+[Quebec study] 
+Replacement 
+cost 
+This approach is most appropriate for contexts where the loss 
+of an existing natural feature that is actively providing risk 
+reduction benefits can be avoided. The natural feature (e.g. 
+wetland) can be valued based on what it would cost to 
+replace the risk reduction services through an engineered 
+alternative. 
+Riverview, NB (Example box 
+below) 
+Avoided cost 
+This approach requires a detailed hazard and risk assessment 
+that documents which specific assets or damage costs are 
+impacted by the given hazard and how those change as a 
+result of the project. For instance, if the project will reduce 
+flood risk and the hazard and risk assessment has determined 
+the properties or other assets that will now be exposed to 
+less flooding resulting in less property damage. These avoided 
+damage costs are an estimation of the value of risk reduction. 
+Acadian Peninsula, NB 
+(Example box below) 
+ 
+Replacement cost example – Riverview, NB 
+The Town of Riverview, in collaboration with the Municipal Natural Asset Initiative, conducted a study 
+to assess and inventory the condition of natural assets. The replacement cost approach was used to 
+investigate the ecosystem service benefits of existing wetland (MNAI, 2020). The costs of completely 
+replacing the total storage capacity of the existing wetlands using stormwater management ponds or 
+constructed wetlands were established as the benefits of preserving the existing natural wetland, 
+estimated under different development and climate assumptions. 
+ 
+ 
+ 
+ 
+PAGE 21 
+ 
+ 
+For a Tier 1 level of effort, estimating the risk reduction benefits using methods described in Table 4 will 
+not be feasible. Tier 1 level of effort is commensurate with value transfer approaches. Value transfer 
+approaches make use of quantitative ecosystem service estimates from existing studies and ‘transfer’ 
+them to the local context. There are several ways these values can be transferred. The simplest approach 
+is to estimate or establish an average unit value from the source study and apply that to the project site. 
+Average values from a comprehensive literature review on the provision of ecosystem service benefits 
+from NBCS are provided in Tables 5 and 6. Details on these values are contained in an accompanying 
+database. The database allows users to customize value estimates from studies deemed most relevant to 
+their context. 2  
+Table 5 focuses on values related to risk reduction and provides average values for flood and erosion 
+control benefits. These values may be useful in the absence of a site-specific hazard and risk assessment. 
+Note that the values presented in Table 5 capture a combination of key risk reduction ecosystem service 
+benefits described in Table 4: 
+● reduced/avoided surface runoff and associated erosion; 
+● improved flood protection and mitigation (inland); and  
+● improved flood protection and mitigation (coastal). 
+ 
+2 It should be noted that the information in the database provides point it time estimates of various cost and benefits. Values 
+and prices fluctuate over time so users should be aware of this potential limitation when choosing a value. While such 
+limitations cannot be avoided without doing your own detailed calculations, the database can be useful in providing a starting 
+point for your assessment. 
+Avoided cost example – Acadian Peninsula, NB  
+The Acadian Peninsula dune restoration project, which Green Analytics was involved with, used an 
+avoided damage method to estimate the potential benefits from NBCS adoption. This project involved 
+using a BCA study in three communities on the Acadian Peninsula, aiming to reduce the danger of 
+coastal erosion and floods. These communities are 1) Le Goulet, 2) Sainte-Marie-Saint-Raphaël, Cap 
+Bateau, Pigeon Hill and 3) Shippagan and Pointe-Brûlée.  Avoided erosion damages was chosen as the 
+indicator to determine the benefits of reduced erosion from GI adoption. It was calculated by 
+estimating the percentage of land lost and multiplying by the assessed property value. To assess the 
+potential benefits of reduced flooding, the avoided flood damages was calculated using the following 
+equation:  
+𝐸𝐴𝐷= ∑𝐷𝑖× 𝑃𝑖 
+ 
+ 
+ 
+ 
+where 𝐸𝐴𝐷 = expected annual damage costs 
+ 
+ 
+ 
+ 
+ 
+𝐷𝑖   = damage costs for event i 
+ 
+ 
+ 
+ 
+ 
+𝑃𝑖   = probability for event i 
+ 
+ 
+ 
+ 
+PAGE 22 
+ 
+Table 5. Average flooding and erosion control benefits from NBCS (values in 2022 $C) 
+Types of NBCS 
+Flooding and erosion control related benefits  
+1. Beach nourishment  
+$40,468/ha/year 
+2. Oyster reef  
+$1,672/ha/year 
+3. Wetland and salt marshes  
+$3,737/ha/year 
+4. Seagrass restoration  
+$225/ha/year 
+5. Naturalized stormwater management  
+$3,628/ha/year 
+ 
+Step 4c: Value other benefits 
+In addition to estimating the value of reduced risks, it is necessary to establish estimates of the value of 
+other services provided by the NBCS under consideration (e.g. those identified in Step 4a). There are a 
+number of ways to establish such estimates. For instance, door-to-door surveys and stated preference 
+approaches were used to quantify the possible environmental and social impacts of NBCS for the Acadian 
+Peninsula dune restoration projects. To gauge survey participants' willingness to pay to remain in their 
+existing communities, the contingent valuation approach was used. Choice experiment approaches were 
+chosen to investigate survey participants’ preferences on protection trade-offs, recreational 
+opportunities, natural coastal habitat, ocean views and increases in property taxes.  
+Value transfer approaches can also be employed. Average benefit values from NBCS obtained from 
+existing literature are summarized in Table 6. Within the five major categories of living shoreline NBCS 
+being investigated, wetland and salt marshes and stormwater management demonstrate the highest and 
+most diverse ecosystem service values, based on available information. 
+Once the anticipated benefits have been identified (Step 4a), the average values presented in Table 6 can 
+be used to approximate benefit values. The database that accompanies this report can also be used to 
+identify studies and values of relevance to the project under consideration.  
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 23 
+ 
+Table 6. Average ecosystem service benefits from NBCS, (values in 2022 $ C) 
+Other benefits (in 
+2022 $C) 
+Beach 
+nourishment 
+related 
+Oyster reef 
+related 
+Wetland and 
+salt marshes 
+related 
+Seagrass 
+restoration 
+related 
+Stormwater 
+management 
+related 
+Primary benefits (linked to services from Table 3) 
+Improved water 
+storage and recharge 
+‐ 
+‐ 
+$3,407/ha/yr 
+‐ 
+$868/ha/yr 
+Improved surface or 
+ground water quality 
+‐ 
+$6,294/ha/yr 
+$4,063/ha/yr 
+$1,000/ha/yr 
+$548/ha/yr 
+Improved carbon 
+sequestration 
+‐ 
+‐ 
+$170/ha/yr 
+$143/ha/yr 
+$3,035/ha/yr 
+Improved aquatic 
+habitat availability and 
+quality 
+‐ 
+‐ 
+$1,802/ha/yr 
+$33,225/ha/yr 
+‐ 
+Improved air quality 
+‐ 
+‐ 
+$3,685/ha/yr 
+‐ 
+‐ 
+Increased recreation 
+and tourism 
+opportunities 
+$14,408/ha/yr 
+$1,517,538/ha/
+yr 
+$3,244/ha/yr 
+$87/ha/yr 
+$38,489/ha/yr 
+Other potentially relevant benefits from the literature 
+Education, research 
+and cultural value 
+‐ 
+‐ 
+$2,351/ha/yr 
+$0.65/ha/yr 
+$226/ha/yr 
+Aesthetic information 
+‐ 
+‐ 
+‐ 
+‐ 
+$209/ha/yr 
+Soil fertility 
+‐ 
+‐ 
+‐ 
+$126,464/ha/yr 
+‐ 
+Existence and bequest 
+value 
+‐ 
+$1,942/ha/yr 
+$46/ha/yr 
+‐ 
+$5,690/ha/yr 
+Moderation of 
+extreme event 
+‐ 
+‐ 
+‐ 
+‐ 
+$5,050/ha/yr 
+Fishery and food value 
+‐ 
+‐ 
+$3,876/ha/yr 
+$508/ha/yr 
+ 
+ 
+3.5 Step 5: Identify and value the costs 
+As summarized by van Zanten et al. (2023), there are generally five types of costs associated with NBCS. 
+These are described below and summarized in Table 7. 
+1. Capital costs (CAPEX) are the up-front payments required to construct the NBCS. Before a 
+construction project begins, there are normally expenses related to project design, as well as costs 
+for building permits. If land needs to be purchased before construction, there will also be land 
+acquisition expenses. Other capital expenditures include community resettlement costs and site 
+preparation costs. Once the land is ready for construction, there will be construction costs 
+(material, labour and equipment cost) and vegetation purchasing and planting costs.  
+2. Operation and maintenance costs (OPEX) are costs incurred throughout the lifecycle of the NBCS. 
+For instance, monitoring and maintenance activities need to take place to make sure the restored 
+areas are doing what they were designed to do. Other operating expenses include tree and 
+vegetation maintenance, invasive species removal and land use and land protection cost.  
+3. Transaction costs are defined as the “time, effort, and resources needed to search out, initiate, 
+ 
+ 
+ 
+ 
+PAGE 24 
+ 
+negotiate and complete a deal [for land conservation or restoration]” (Lile et al., 1998). In the case 
+of NBCS, transaction costs may include the time and money spent engaging and negotiating with 
+landowners, stakeholder and government (Gray et al., 2019; van Zanten et al., 2023; Deely et al., 
+2020). 
+4. Opportunity costs are defined as the forgone benefits of not using the land for the second-best 
+alternative use. For example, if the land is being restored as wetland instead of being used for 
+crop and livestock farming, then benefits, including monetary gains from the sales of agricultural 
+products, that are forfeited because of the construction of the NBCS are considered opportunity 
+costs.    
+5. Disservices are costs that are incurred when the constructed NBCS results in negative externalities 
+(Toledo-Gallegos et al., 2022; Thapa et al., 2023; van Zanten et al., 2023). For example, a restored 
+wetland or constructed stormwater pond might cause unintended consequences to the 
+neighbouring communities, such as a higher number of mosquitos during summertime, induced 
+noise or air pollution and increased traffic congestion during the construction phase. Other 
+common ecosystem disservices include encroachment of dangerous or unpleasant animals such 
+as snakes or rodents (Thapa et al., 2023), increased damages to crops by tree-dwelling birds 
+(Thapa et al., 2023) and potentially higher levels of pests including spiders, cockroaches and ants 
+(Toledo-Gallegos et al., 2022).  
+ Table 7. NBCS cost types (van Zanten et al., 2023) 
+CAPEX 
+OPEX 
+Transaction Costs 
+Opportunity Costa 
+Disservices 
+Design and planning 
+Securing permits  
+Land acquisition  
+Community 
+resettlement  
+Site preparation  
+Construction  
+Time planting 
+Monitoring labour 
+and Technology 
+Tree and vegetation 
+maintenance 
+Invasive species 
+removal 
+Land use (e.g. rent 
+or other payments 
+to landowners) 
+Land protection, 
+including managing 
+and controlling 
+access 
+Scoping studies and 
+other technical 
+assistance  
+Community 
+engagement / 
+stakeholder 
+outreach  
+Goal setting and 
+prioritization  
+ 
+Value of using land 
+for other purposes 
+such as agriculture 
+or residential / 
+commercial 
+development  
+Opportunity cost of 
+local labor and 
+material used for 
+implementing the 
+NBCS project  
+ 
+Negative impacts 
+from NBCS (e.g. 
+mosquitoes, pests)  
+ 
+a. Avoid double counting between opportunity cost and CAPEX/OPEX cost components. For example, do not include land 
+acquisition costs in CAPEX and the opportunity cost of land.  
+Cost estimates should reflect the specific project and local conditions. It may be useful to engage with 
+experts to obtain cost estimates. For example, local engineers were able to help estimate the 
+implementation costs for the Acadian Peninsula restoration project, including supplies, transportation, 
+construction, engineering and unforeseen expenditures. Drawing cost estimates from comparable 
+projects carried out in places with comparable characteristics and risk conditions may also be useful.  
+ 
+ 
+ 
+ 
+PAGE 25 
+ 
+Accompanying this report, a database of cost values provides average costs for NBCS. The living shoreline 
+costs database was constructed based on information found in existing literature, from information 
+gathered through a series of interviews and data from a previously established NBCS cost database 
+(Bayraktarov, E. et al., 2020).3 CAPEX and OPEX Costs are summarized in Table 8.  
+Table 8. CAPEX and OPEX of living shoreline NBCS, obtained from literature. Values in 2022 $C 
+Category of living shoreline NBCS 
+Unit Cost (in 2022 $C) 
+Beach nourishment and sand dune  
+CAPEX: $0.39 ‐ $193/m3 
+Average CAPEX: $23/m3 
+Oyster reef  
+CAPEX: $ 1,352.7 ‐ $2,883,267/ha 
+Average CAPEX:  $379,120/ha 
+OPEX*: $788/m/year 
+Seagrass restoration and seagrass meadow 
+CAPEX: $2298.44 ‐$8,031,325/ha 
+Average CAPEX:  $606,296/ha 
+OPEX*: $250/m/year 
+Wetland and salt marshes 
+CAPEX: $518.47 ‐ $7,359,347/ha 
+Average CAPEX: $680,514/ha 
+OPEX*: $3673/ha/year 
+Stormwater management 
+CAPX: $1.48 ‐ $324/m3 of runoff reduction 
+Average CAPEX:  $42/m3 of runoff reduction 
+* Limited OPEX data was identified 
+ 
+ 
+ 
+3 It should be noted that the information in the database provides point it time estimates of various cost and benefits. Values 
+and prices fluctuate over time so users should be aware of this potential limitation when choosing a value. While such 
+limitations cannot be avoided without doing your own detailed calculations, the database can be useful in providing a starting 
+point for your assessment. 
+ 
+ 
+ 
+ 
+PAGE 26 
+ 
+ 
+Stormwater management cost example – Sackville, NB 
+The Lorne Street stormwater mitigation project implemented in the Town of Sackville provides an 
+interesting reference for the costs of a larger stormwater management system using a hybrid of grey 
+infrastructure with a NBCS. Lorne Street and the nearby neighborhoods are susceptible to catastrophic 
+floods due to their location, rising seas and increasing rainfall events, with four severe flooding events 
+happening in the past ten years. The situation has been made worse by stormwater infrastructure that is 
+insufficient, congested and partially obstructed. To alleviate the situation, the Lorne Street stormwater 
+mitigation project was put in place between Lorne Street and the Tantramar River.  
+This project was carried out in three phases. Phase I involved completely reconstructing Lorne and Saint 
+James streets to update the aging and deteriorating infrastructure, including sewage lines, storm drainage 
+systems, sidewalks, curbs and ditches. The capital cost associated with Phase I was $5.5 million. Funding 
+for this project came from all levels of government (27% from municipal sources, 24% from provincial 
+sources and 49% from federal sources). These costs were primarily associated with upgrading the existing 
+grey infrastructure.  
+In phase II, the Lorne Street retention pond and Ducks Unlimited compound were enhanced to retain the 
+water during the high tide and allow the water to discharge. In addition, the existing ditch was upgraded 
+(including enlargement and re-alignment) to allow for stormwater to drain from the Lorne Street area to 
+the Tantramar River. A new 1,200mm and 900mm diameter stacked aboiteau structure with flap gate was 
+also built to replace the existing wooden aboiteau. To route the stormwater flows through the upgraded 
+ditches to the aboiteau, the existing roadway crossings were upgraded and, in some cases, new crossings 
+were built. Phase II of the project was completed in 2019, with a total cost of $2.9 million (25% coming 
+from provincial and municipal governments and 50% from the federal government).  
+The project is in its third phase, which involves the construction of additional retention ponds and 
+recreational walking trails. With the recently granted $2.4 million provincial funding, a new aboiteau will 
+be built in the Sackville industrial park to reduce tidal water flooding and transfer freshwater from 
+retention ponds to the Tantramar River. To transport stormwater to the aboiteau, a sizable retention pond 
+with culverts, pipelines and ditches will be built behind the community gardens on Charles Street. A 
+retention pond has also been established in the old Sackville quarry to manage runoff that runs towards 
+Lorne Street. Additionally, new retention ponds will have walking paths built around them. Phase III of the 
+project is estimated to cost approximately $5.5 million (40% from federal funding, 33% from provincial 
+funding and 27% from municipal funding).   
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 27 
+ 
+3.6 Step 6: Compare costs and benefits  
+Once the costs and benefits have been estimated, the next step is to compare them. This is done by 
+mapping the cost and benefits over the lifespan of the project. It is important to consider the timing of 
+benefits and costs. For instance, capital costs are likely to be incurred upfront, while operation and 
+maintenance costs will be spread out over time. It will be necessary to think critically about the timing of 
+the anticipated benefits. The annual service benefits from Table 4 are not likely to begin immediately after 
+the project has been completed. In some cases, it may take several years to fully realize the annual service 
+values. This can be addressed by making an assumption about the length of time it will take for the project 
+to reach maturity and exploring how those benefits can be phased in over time. Figure 7 demonstrates 
+different assumptions about how to phase annual ecosystem service benefits over time assuming that full 
+ecosystem service flows are reached at year 20. The all-or-nothing assumption is the most conservative 
+and will result in the lowest estimate of benefits.  The straight-line assumption is the least conservative 
+and will results in the largest benefit estimates.  
+ 
+Figure 7. Sample approaches to phase in benefit values over time  
+If the benefit outcomes have been monetized, then a net present value (NPV) (e.g. present value of 
+benefits minus present value of cost) can be determined. The net present value equation can be 
+summarized as follows: 
+𝑁𝑃𝑉= ∑𝐵𝑒𝑛𝑒𝑓𝑖𝑡𝑠𝑡
+(1 + 𝑖)𝑡
+𝑇
+𝑡=1
+−∑𝐶𝑜𝑠𝑡𝑠𝑡
+(1 + 𝑖)𝑡
+𝑇
+𝑡=1
+ 
+ 
+ 
+ 
+ 
+     where T = number of years  
+ 
+ 
+ 
+ 
+                  i  = discount rate 
+The best way to operationalize this formula is to map out the anticipated benefits and costs for each time 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Assumed % of Ecosystem Service Annual Value 
+Flow
+Time Period
+Straight-line
+Step-wise
+All-or-nothing
+ 
+ 
+ 
+ 
+PAGE 28 
+ 
+period over the established timeframe. The benefits and costs for each time period can then be summed. 
+The total benefit and cost in each time period can then be discounted based on the chosen discount rate 
+(i) and the number of years (T) into the future that period is. Once the discounted benefits and costs for 
+each time period have been estimated, estimating the NPV is a matter of summing the discounted benefits 
+and subtracting the sum of the discounted costs. Projects with a positive NPV are those where the benefits 
+outweigh the costs. If multiple project options have been assessed, the project that generates the greatest 
+NPV is the one with the strongest business case. Alternatively, a benefit-cost ratio (BCR) can be estimated 
+where the present value of benefits is divided by the present value of costs.  
+𝐵𝐶𝑅=
+∑
+𝐵𝑒𝑛𝑒𝑓𝑖𝑡𝑠𝑡
+(1 + 𝑖)𝑡
+𝑇
+𝑡=1
+∑
+𝐶𝑜𝑠𝑡𝑠𝑡
+(1 + 𝑖)𝑡
+𝑇
+𝑡=1
+ 
+                           Where T = number of years  
+ 
+ 
+ 
+ 
+                          i  = discount rate 
+Using this approach, any project with a BCR greater than one indicates a project where benefits outweigh 
+the costs.  The option with the largest ratio is the one with the strongest business case.  
+There are many available resources that provide detailed guidance on how to conduct BCA. This document 
+provides a general overview of the key components from the context of a NBCS project. For a more 
+comprehensive treatment of these methods, see the Treasury Board of Canada Secretariat’s Cost-Benefit 
+Analysis Guide, which provides detailed guidance on how to analyze costs and benefits of proposed 
+regulations (Canada’s Cost-Benefit Analysis Guide for Regulatory Proposals - Canada.ca). Other useful 
+references include Pearce et al., (2006), Hanley et al., (2009) and Nas (2016). 
+ 
+3.7 Step 7: Conduct sensitivity analysis 
+This step is about testing key assumptions to assess the degree to which they influence the final BCA 
+outcome. It is useful to test the impact of changing the assumptions that are associated with the lowest 
+confidence. Common examples of variables to test in a sensitivity analysis include: 
+● Benefit assumptions: 
+o Was value transfer used? If an average value was employed, analysts might want to 
+explore using a minimum value and a maximum value. If a single source of information 
+was used, it may be informative to lower and raise the value by some % (e.g. 20% or 30%) 
+to account for any uncertainty related to the transferred value.  
+o How were the ecosystem service benefits assessed over time?  
+▪ 
+Consider extending or shortening the assumption of how long it takes ecosystem 
+services to reach their full potential value. 
+▪ 
+Consider using an alternate assumption on phasing in the ecosystem service 
+benefits. It could be useful to use the step-wise assumption as the main 
+assumption and use the other two as the sensitivity analysis (e.g. the all-or-
+nothing assumption as a minimum or lower bound and the straight-line 
+assumption as a maximum or upper bound). 
+ 
+ 
+ 
+ 
+PAGE 29 
+ 
+● Cost assumptions: 
+o Were cost assumptions established using detailed project specifications? If so, it may only 
+be necessary to test minor variations (+/- 5% or 10%). If value transfer was used it will be 
+important to test other assumptions. Consider establishing a minimum (e.g. the lowest 
+reasonable cost anticipated) and a maximum (e.g. the largest reasonable cost 
+anticipated). 
+● Other assumptions: 
+o Consider exploring alternative discount rates. 
+o Consider exploring how the timing of certain benefits and costs might influence the 
+overall business case. 
+ 
+3.8 Step 8: Consider other non-monetary benefits 
+The final step is to acknowledge other benefits that cannot be monetized and incorporated into the cost 
+benefit analysis. Many benefits of NBCS can be challenging to monetize. For instance, certain biodiversity 
+benefits or the sense of improved community safety and well-being that is generated from a project can 
+be challenging to value. For some benefits, applying a monetary estimate may be inappropriate. For 
+instance, it may not be appropriate to place a dollar value on certain Indigenous and cultural values. 
+Other benefits should be described qualitatively by identifying the various groups or individuals receiving 
+the benefits. In some cases, it may be possible to quantify (but not monetize) other non-monetary 
+benefits. For instance, analysts might be able to demonstrate anticipated improvements in biodiversity 
+such as: 
+● area of new species at risk habitat; 
+● increased connectivity to other natural areas; or 
+● restored areas of endangered or sensitive ecosystems.  
+At a minimum, analysts will want to list and describe these benefits.  
+One of the major limitations of BCA is that anything not measured in dollar values tends to get ignored. 
+This often results in decisions being made based on a false sense of what the net benefits or costs are. 
+Therefore, it is essential to acknowledge the full range of non-monetary benefits in the BCA conclusions. 
+In cases where the costs slightly outweigh the benefits, and a host of benefits have been identified but 
+not quantified, analysts might conclude or recommend that despite the results of the BCA, the total 
+benefits outweigh the costs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 30 
+ 
+4 Benefit-cost analysis illustrative example 
+This section presents an example of a benefit-cost analysis to demonstrate how the framework presented 
+in the sections above can be applied to a NBCS. For this illustrative example, assume there is a New 
+Brunswick community located in the lower portions of a watershed. The community was built within the 
+flood plain of the river system. The forested area in the upper portions of the watershed is regularly 
+harvested and other portions of the watershed have been cleared for agricultural production. As a result 
+of historical land use developments combined with increasing rainfall from a changing climate, the 
+community is experiencing increased flood risk in the lower portion of the watershed.  
+In the upper half of the watershed there is a strategic area that has been identified for enhancing and 
+enlarging existing wetlands, as well as creating new wetlands that would restore natural features and 
+functions to rural areas. The restoration of existing wetlands and creation of new wetlands can 
+significantly mitigate storm and flood waters that flow from the upper watershed down through urbanized 
+areas.  
+Beginning with Step 1, in the sub-sections below the BCA framework is applied to the example described 
+above.  
+Step 1: Scope the NBCS 
+As noted in Section 3.1, this step is about establishing the key context and project specifics that will help 
+inform the assessment of costs and benefits. 
+For this illustrative example, the following information has been determined through an initial scoping 
+and planning exercise. 
+1. What is the issue or hazard to be addressed?  
+The primary goal of the project is to reduce downstream flood risk to residential and commercial 
+properties. Land use throughout the watershed combined with increasing intense rainfalls is resulting in 
+increased flood risk and flood damages. The increased flood risk and damages are anticipated to continue 
+to worsen over the next 30 to 50 years as a result of changing climate conditions.  
+2. How is the issue or hazard influenced by the local conditions?  
+Clearing of forest land and the loss of wetlands within the watershed has limited the watershed’s ability 
+to capture, store and slowly release stormwater. 
+3. What are the grey infrastructure options that could be used to address the issue?  
+The increased flood risk could be dealt with using traditional flood control infrastructure. Specifically, a 
+4.5 hectare stone revetment could be built to provide similar flood reduction benefits. 
+4. Are there green infrastructure alternatives? If so, is it feasible for these alternatives to completely 
+replace the grey infrastructure option or should a hybrid option be considered?  
+Within the watershed there is the potential to create 110 hectares of unique natural features made up of 
+marshy fields and woodlots, as well as create new wetlands that would restore natural features and 
+functions. 
+ 
+ 
+ 
+ 
+PAGE 31 
+ 
+Expanding on this information, the use of inland wetlands to manage stormwater is further defined and 
+scoped. These details align with establishing a NBCS option: 
+• 
+The restoration project will create 110 hectares of unique natural features made up of marshy 
+fields and woodlots. The watershed drains roughly 3,000 hectares of land, implying the new 
+natural features represent approximately 3.7% of the watershed area. 
+o The new wetland complex can hold 600,000 m3 of water. By restoring and improving 
+historic wetlands, 300 mixed residential and commercial properties would benefit from 
+reduced downstream flooding. 
+• 
+The primary goal of the project is to reduce downstream flood risk to residential and commercial 
+properties.  
+• 
+Secondary goals are to enhance community well-being through the development of recreational 
+opportunities and support biodiversity by creating new wildlife habitat that connect to other 
+natural areas. 
+o A new conservation area with recreational features (e.g. trails, boardwalks, picnic tables, 
+etc.) will create opportunities for hiking, birding and cross-country skiing or snowshoeing 
+in the winter. 
+o The newly created habitat is estimated to provide home to 50 species of breeding birds. 
+• 
+The project construction will take three to five years to complete. 
+An alternative grey-infrastructure solution has been identified as a possible option to address the primary 
+issue. 
+• 
+Assume a 4.5 hectare stone revetment could be built to provide similar flood reduction benefits 
+as the nature-based climate solution. 
+• 
+Secondary benefits (e.g. recreation, water quality or biodiversity) would not exist. 
+Step 2: Determine the level of effort required 
+At this stage, some initial planning and scoping has been completed, which has provided a rough sense of 
+some options to be considered and established some anticipated outcomes.  
+Before a project of this magnitude is undertaken, more detailed hydrologic modelling will likely be needed 
+to confirm and verify the assumptions. However, at this stage an initial BCA is needed to help build the 
+economic case for the project and develop support for exploring the project in more detail. Therefore, a 
+Tier 1 assessment has been identified as an appropriate first step. 
+Step 3: Select the timeframe and discount rate 
+For the illustrative example, the discount rate is set to 3% and the assumed planning timeframe is 50 
+years.   
+Step 4: Identify and value the benefits  
+For the illustrative example, benefits are estimated based on values from the Green infrastructure benefits 
+and costs database that accompanies this report. All values are in 2022 Canadian dollars and are assumed 
+to incur annually.  
+The following steps are used when selecting benefits values from the database: 
+1) 
+Go to the living shoreline benefit sheet in the database to search the benefit values. 
+ 
+ 
+ 
+ 
+PAGE 32 
+ 
+2) 
+Look for the GI column and use a filter to select the appropriate type of green infrastructure that 
+will be used. Wetland and salt marsh should be chosen for this illustrative example. 
+3) 
+Pick the relevant ecological service categories in the ecosystem type column. For instance, 
+ecosystems such as carbon sequestration and flood reduction were chosen in this scenario. 
+4) 
+From the list that is generated, select the most aligned benefit value from the 
+benefits_2022_CAD$ column. The 2022-dollar values were used instead of the original value 
+amount. 
+5) 
+If avoided grey infrastructure cost is also regarded as a benefit, go to the grey alternative cost 
+sheet. 
+6) 
+Select the appropriate grey infrastructure type from the type of grey infrastructure column. Use 
+a filter and select a value that most closely aligns with the situation.  
+The database calculations show that the project is anticipated to create the following five benefits: 
+• 
+Reduced flood risk  
+o $313/ha/year, a total of $34,430 per year for a 110-hectare of area.  
+o Source: Saskatchewan Smith Creek Drainage Basin flood reduction value (Pattison-
+Williams et al., 2018). 
+o Assume there is no flood reduction benefits for the first five years, which corresponds to 
+the completion of the wetland restoration project. 
+• 
+Increased recreational opportunity 
+o $491/ha/year, a total of $54,010 per year for a 110-hectare of area.  
+o Source: Ontario Walpole Island Marsh recreational fishing value (Elliot & Mulamoottil, 
+1992). 
+o Assume there is no recreational benefits for the first 10 years, which allows for five years 
+of growth after the completion of the wetland restoration project. 
+• 
+Increased carbon sequestration 
+o $38/ha/year, a total of $4180 per year for a 110-hectare of area.  
+o Source: carbon sequestration value from estuarine and coastal ecosystem services in 
+United States  (Barbier et al., 2011). 
+o Assume there is no carbon benefits for the first 10 years, which allows for five years of 
+growth after the completion of the wetland restoration project. 
+• 
+Improved water quality 
+o $7,449/ha/year, a total of $819,390 per year for a 110-hectare of area. 
+o Source: United States New Jersey, water purification values from salt marsh restoration 
+(Adams & Benosky, 1998). 
+o Assume there is no water quality benefits for the first 10 years, which allows for five years 
+of growth after the completion of the wetland restoration project. 
+• 
+Increased biodiversity protection 
+o Coastal biodiversity protection value of $10,185 /ha/year, a total of $1,120,350 per year 
+for a 110-hectare of area. 
+o Source: Coastal protection from estuarine and coastal ecosystem services (Elliot & 
+Mulamoottil, 1992).  
+o Assume there is no biodiversity benefits for the first 10 years, which allows for five years 
+of growth after the completion of the wetland restoration project. 
+In addition, there is an economic benefit from avoiding the construction of the grey alternative. The 
+ 
+ 
+ 
+ 
+PAGE 33 
+ 
+alternative to investing in the NBCS is conventional grey flood attenuation infrastructure capital 
+investment. This conventional engineering solution providing built infrastructure with similar flood 
+mitigation benefits is estimated to cost approximately $3.2 million. 
+• 
+The cost of the stone revetment is $700,290/ha, which corresponds to a total cost of 
+approximately $3.2 million. 
+o Source: United States Virginia Assateague Bay Stone Revetment (Abt Associates, 2019). 
+• 
+We further assume that the stone revetment, if constructed, will be completed within five  years, 
+and the majority of the costs would be incurred in the beginning of the construction. The annual 
+cost of construction follows pattern as follow: 50%, 25%, 15%, 5%, and 5% of the total cost. 
+Therefore, the annual construction costs are $1,600,000, $800,000, $480,000, $160,000 and 
+$160,000 for years one to five respectively.  
+Step 5: Identify and value the costs 
+Like the benefit values used for this illustrative example, the cost values are also obtained from the Green 
+Infrastructure benefits and costs database that accompanies this report.  Similar steps are followed when 
+selecting cost values from the database: 
+1. Go to the living shoreline cost sheet in the database to search for the cost values. 
+2. Look for the GI (Green infrastructure) column, select the appropriate type of green infrastructure 
+that will be used as a filter. Wetland and salt marsh was chosen in this instance. 
+3. Pick the relevant cost categories in the cost category column. For instance, capital expenditure 
+(CAPEX), operational expenditure (OPEX) and opportunity cost were chosen in this scenario. 
+4. From the list that is generated, select an appropriate cost value from either the total 
+cost_CAD$_2022 column or the unit cost_CAD$_2022 column, depending on which category 
+applies. The 2022-dollar values were used instead of the original value amount. 
+The project is anticipated to result in the following costs:  
+• 
+Capital expenditure (CAPEX) 
+o Total construction cost of $16,800/ha. 110 hectare of wetland restoration project will 
+result in a total cost of $1,848,000.  
+▪ 
+Source: Ontario Wetland Restoration Scenarios in Lynn River Subwater of Norfolk 
+County (Hopkins, 2019). 
+o Based on the assumptions, the project is expected to complete within three to five years. 
+Conservatively, we make further assumption that most of the capital expenditure would 
+be clustered in the first couple of years, and then decline annually.  To be more specific, 
+the annual capital expenditure would follow the pattern as follow: 30%, 25%, 20%, 15%, 
+and 10% of the total cost. This implies the yearly capital expenditure would be 
+approximately $554,430, $462,024, $369,620, $277,215, and $184,810 for year one to 
+year five, respectively.  
+• 
+Operational expenditure (OPEX) 
+o Management cost of $4,200/ha/year. 
+o Administration cost of $2,100/ha/year. 
+o A total of $6300/ha/year, or $693,000 per year for a 110-hectare of area. 
+▪ 
+Source: Ontario Wetland Restoration Scenarios in Lynn River Subwater of Norfolk 
+County (Hopkins, 2019). 
+ 
+ 
+ 
+ 
+PAGE 34 
+ 
+• 
+Opportunity Cost  
+o Opportunity cost of foregone cropping return of $3,010 - $3,807/ha/year (average = 
+$3,409 /ha/year]. Total opportunity cost calculated using the averaging yielding $374,990 
+per year for a 110-hectare of area. 
+▪ 
+Source: Ontario Wetland Restoration Scenarios in Lynn River Subwater of Norfolk 
+County (Hopkins, 2019). 
+ 
+Step 6: Compare costs and benefits 
+After all the essential information has been determined, the economic effectiveness of the proposed 
+project can be evaluated using either NPV or BCR. The costs and benefits of the proposed project can be 
+compared by discounting all these values to the present. The present value of costs equals to $24,663,76, 
+and the present value of the benefits equals to $38,118,634. NPV and BCR are $13,454,872, and 1.5, 
+respectively.  
+Inputting all the information determined in step 3 to step 5 into the benefit cost analysis calculator that 
+accompanies this report will automatically perform the NPV calculation.  
+Step 7: Conduct sensitivity analysis 
+To demonstrate how sensitivity analysis could be used, explore the impact of changing assumptions 
+related to how soon the benefits are generated by the NBCS. The different assumptions can be 
+summarized as follows: 
+• 
+Baseline: assumptions used for the analysis 
+o Assume there are no flood reduction benefits for the first five years. 
+o For recreation, carbon, water quality and biodiversity, assume no benefits for the first 10 
+years. 
+• 
+Sensitivity A: more conservative assumptions 
+o Assume there are no flood reduction benefits for the first 10 years. 
+o For recreation, carbon, water quality and biodiversity, assume no benefits for the first 15 
+years. 
+o No avoided grey infrastructure included in the benefits. 
+• 
+Sensitivity B: less conservative assumptions 
+o Assume all benefits linearly increase from zero to their full values over the first 10 years. 
+Table 9 summarizes the impact to the results of varying the timing of the benefits assumptions. 
+Table 9. Summary of ecosystem service outcomes associated with NBCS  
+Sensitivity scenario 
+Net present value 
+Benefit cost ratio 
+Baseline 
+$13.5 Million 
+1.5 
+Sensitivity A 
+$3.5 Million 
+1.1 
+Sensitivity B 
+$20.8 Million 
+1.8 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 35 
+ 
+Step 8: Consider other non-monetary benefits 
+For the final step in this illustrative example, other known non-monetary benefits are documented. In this 
+case, it has been assessed that the newly created habitat could provide a home to 50 species of breeding 
+birds. This outcome should be acknowledged.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 36 
+ 
+5 Conclusion 
+NBCS provide cost-effective, resilient alternatives to some built infrastructure but they are frequently 
+overlooked due to lack of information on the value of the services they deliver. In 2021, the International 
+Institute for Sustainable Development reported that governments normally default to grey (built) 
+infrastructure to meet infrastructure needs for coastal protection, water supply, energy and 
+transportation due to lack of understanding of the cost savings and added benefits associated with NBCS 
+(Bassi et al., 2021). To help inform decisions in communities in New Brunswick and across the Atlantic 
+provinces, this document provides guidance on how to identify, quantify and value the costs and benefits 
+provided by NBCS with a particular focus on coastal restoration (e.g. living shorelines) and naturalized 
+stormwater management ponds.  
+While this document, and the accompanying databases, does not cover all possible outcomes or 
+interventions, the overarching approach can be applied to a broad range of contexts and settings. In all 
+cases, it will be necessary to factor in local conditions and scale and adjust for time and risk considerations.  
+A paramount strength of NBCS is their ability to deliver multiple services. These need to be articulated 
+and valued, to the extent practical and feasible, as part of establishing a business case for such 
+investments. According to Brill et al (2021), practitioners should focus on the benefit outcomes that are 
+most relevant to stakeholders and for which there is the highest likelihood of delivery.  
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 37 
+ 
+6 References 
+Abt Associates. (2019). Case study: Cost-effectiveness of reducing coastal erosion through living 
+shorelines in the Hurricane Sandy Coastal Resilience Program. 
+Abdelhalim, M. (2020). Estimating flood impact on residential values (housing price): the case of Laval 
+(Canada), 1995-2007 (Doctoral dissertation, Université Laval). 
+Adams C.S. & Benosky C.P. (1998). 2,400 hectares of salt marsh wetland restoration. Proc Proceedings of 
+the 1998 ASCE Wetlands Engineering River Restoration Conference. ASME 
+American Rivers, Water Environment Federation, American Society of Landscape Architects, and 
+ECONorthwest. (2012). Banking on green: A look at how green infrastructure can save municipalities 
+money and provide economic benefits community-wide. American Society of Landscape Architects. 
+Barbier, E.B., Hacker, S.D., Kennedy, C., Koch, E.W., Stier, A.C., & Silliman, B.R. (2011). The value of 
+estuarine and coastal ecosystem services. Ecological monographs, 81(2), 169-193. 
+Bassi, A.M., Bechauf R., Casier L., & Cutler, E. (2021). How Can Investment in Nature Close the 
+Infrastructure Gap? International Institute for Sustainable Development. 
+Bayraktarov, E., Brisbane, S., Stewart-Sinclair, P. J., Van Herwaarden, A., Stark, K., Hagger, V., Smith, C. 
+S., Wilson, K. A., Lovelock, C.E., Gillies, C., Steven, A.D.L., & Saunders, M. I. (2020). Priorities and 
+motivations of marine coastal restoration research [Dataset]. Dryad. 
+https://doi.org/10.5061/dryad.zgmsbcc81 
+Bélanger, P., Bourdeau-Brien, M., & Dumestre, M. (2018). The impact of flood zones on residential 
+property prices: The case of Canada. Journal of Sustainable Real Estate, 10(1), 135-162. 
+Brears, R. C. (2018). From traditional grey infrastructure to blue-green infrastructure. In Blue and Green 
+Cities: The Role of Blue-Green Infrastructure in Managing Urban Water Resources. Palgrave Macmillan 
+(pp. 1-41). 
+Bridges, T. S., King, J. K., Simm, J. D., Beck, M. W., Collins, G., Lodder, Q., & Mohan, R. K. (2021). 
+International Guidelines on Natural and Nature‑Based Features for Flood Risk Management. U.S. Army 
+Engineer Research and Development Center. 
+Brill, G., Shiao, T., Kammeyer, C., Diringer, S., Vigerstol, K., Ofosu-Amaah, N., Matosich, M., Müller-
+Zantop, C., Larson, W., & Dekker, T. (2021). Benefit Accounting of Nature-Based Solutions for 
+Watersheds: Guide. United Nations CEO Water Mandate and Pacific Institute.  
+Callihan, R., Depro, B., Lapidus, D., Sartwell, T., & Viator, C. (2016). Economic analysis of the costs and 
+benefits of restoration and enhancement of shellfish habitat and oyster propagation in North Carolina. 
+RTI International. 
+Canadian Council of Ministers of the Environment (CCME). (2021). Natural Infrastructure Framework: 
+Key Concepts, Definitions and Terms. (pp. 52.)  
+Canadian infrastructure. (2019). Canadian Infrastructure Report Card 2019: Monitoring the State of 
+Canada’s Core Public Infrastrucutre. http://canadianinfrastructure.ca/downloads/canadian-
+infrastructure-report-card-2019.pdf 
+ 
+ 
+ 
+ 
+PAGE 38 
+ 
+Coelho, C., Lima, M., & Ferreira, M. (2022). A Cost–Benefit Approach to Discuss Artificial Nourishments 
+to Mitigate Coastal Erosion. Journal of Marine Science and Engineering, 10(12), 1906. 
+Culwick, C., Bobbins, K., Cartwright, A., Oelofse, G., Mander, M., & Dunsmore, S. (2016). A framework for 
+a green infrastructure planning approach in the Gauteng City-Region (Vol. 4). Gauteng City Region 
+Observatory (GCRO). 
+Deely, J., Hynes, S., Barquín, J., Burgess, D., Finney, G., Silió, A., Álvarez-Martínez, J.M., Bailly, D. & Ballé-
+Béganton, J. (2020). Barrier identification framework for the implementation of blue and green 
+infrastructures. Land Use Policy, 99, 105108. 
+Elliot, L. & Mulamoottil, G. (1992). Agricultural and marsh land uses on Walpole Island: Profit 
+Comparisons. Canadian Water Resources Journal, 17(2), 111-119. 
+Grabowski, J., Piehler, M. F., & Peterson, C. H. (2011). Assessing the Long Term Economic Value and 
+Costs of the Crab Hole and Clam Shoal Oyster Reef Sanctuaries in North Carolina. University of North 
+Carolina at Chapel Hill, Institute of Marine Sciences. 
+Gray, E., Ozment, S., Altamirano, J. C., Feltran-Barbieri, R., & Morales, A. G. (2019). Green-Gray 
+Assessment: how to assess the costs and benefits of green infrastructure for water supply systems. World 
+Resources Institute. 
+Hanley, N., Barbier, E. B., & Barbier, E. (2009). Pricing nature: cost-benefit analysis and environmental 
+policy. Edward Elgar Publishing. 
+He, J., Dupras, J., & Poder, T.G., (2016). The value of wetlands in Quebec: a comparison between 
+contingent valuation and choice experiment, Journal of Environmental Economics and Policy, DOI: 
+10.1080/21606544.2016.1199976 
+Hopkins, L. (2019). Evaluating the Cost-Effectiveness of Wetland Restoration Scenarios in the Lynn River 
+Subwatershed of Norfolk County, Southern Ontario (Doctoral dissertation, University of Guelph). 
+Hynes, S., Burger, R., Tudella, J., Norton, D., & Chen, W. (2022). Estimating the costs and benefits of 
+protecting a coastal amenity from climate change-related hazards: nature based solutions via oyster reef 
+restoration versus grey infrastructure. Ecological Economics, 194, 107349. 
+Lile, R. D., Powell, M. R., & Toman, M. (1998). Implementing the Clean Development Mechanism: lessons 
+from US private-sector participation in Activities Implemented Jointly. RFF Working Paper Series, 
+Resources for the Future. 
+Miller, C. (2023). Planning for Longstanding Sustainability: Addressing the Downfalls of Green 
+Infrastructure Planning. (Doctoral dissertation, Vancouver Island University). 
+Mingle, J. (2017). Economic Analysis of Beneficial Management Practices in Southern Manitoba. 
+(Doctoral dissertation, University of Saskatchewan). 
+Municipal Natural Assets Initiative (MNAI). (2019). Advancing municipal natural asset management 
+through financial planning and reporting: Learning from the town of Gibson’s experience. Decision 
+making summary. https://mnai.ca/media/2019/07/SP_MNAI_Report2_June2019.pdf 
+Municipal Natural Assets Initiative (MNAI). (2020). Cohort 2 National Project Final Technical Report: 
+Town of Riverview, New Brunswick. https://mnai.ca/media/2020/04/MNAI_Riverview-iD2.pdf 
+ 
+ 
+ 
+ 
+PAGE 39 
+ 
+Nas, T. F. (2016). Cost-benefit analysis: Theory and application. Lexington Books. 
+Nelson, E. (2022). Assessing the suitability of living shoreline techniques for coastal erosion in Prince 
+Edward Island, Canada. (Thesis, Saint Mary’s University). 
+O'Mahony, T. (2021). Cost-Benefit Analysis and the environment: The time horizon is of the essence. 
+Environmental Impact Assessment Review, 89, 106587. 
+Paradis-Léger, S., Gasser, D., Vidal, L., Fairchild, G., Dhane, F., Lang-Lavoie, A., & Labelle, T. (2022). 
+Nature-based strategies for flood risk mitigation in the context of climate change: Rivière-à-la-Truite 
+Watershed Case Study.  
+Pattison-Williams, J.K., Pomeroy, J.W., Badiou, P., & Gabor, S. (2018). Wetlands, flood control and 
+ecosystem services in the Smith Creek Drainage Basin: A case study in Saskatchewan, Canada. Ecological 
+economics, 147,36-47. 
+Pearce, D., Atkinson, G., & Mourato, S. (2006). Cost-benefit analysis and the environment: recent 
+developments. Organisation for Economic Co-operation and development. 
+Peel Climate Change Partnership. (2021) Best Practices and Strategies for Urban Forest in a Climate 
+Change Context, Peel Region Urban Forest Best Practice Guide. Peel Region. 
+Reguero, B. G., Beck, M. W., Bresch, D. N., Calil, J., & Meliane, I. (2018). Comparing the cost 
+effectiveness of nature-based and coastal adaptation: A case study from the Gulf Coast of the United 
+States. PloS one, 13(4), e0192132. 
+Rogers, A. A., Burton, M. P., Statton, J., Fraser, M. W., Kendrick, G., Sinclair, E., Gorman, D., Vanderklift, 
+M., Verduin, J., & McLeod, I. M. (2019). Benefits and costs of alternate seagrass restoration approaches. 
+Report to the National Environmental Science Programme, Marine Biodiversity Hub, 43. 
+Stewart‐Sinclair, P. J., Klein, C. J., Bateman, I. J., & Lovelock, C. E. (2021). Spatial cost–benefit analysis of 
+blue restoration and factors driving net benefits globally. Conservation Biology, 35(6), 1850-1860. 
+Tiggeloven, T., de Moel, H., Winsemius, H. C., Eilander, D., Erkens, G., Gebremedhin, E., Diaz Loaiza, A., 
+Kuzma, S., Luo, T., Iceland, C., Bouwman, A., van Huijstee, J., Ligtvoet, W., & Ward, P. J (2020). Global-
+scale benefit–cost analysis of coastal flood adaptation to different flood risk drivers using structural 
+measures. Natural Hazards and Earth System Sciences, 20(4), 1025-1044. 
+Thapa, P., Torralba, M., Bhaskar, D., Nagendra, H., & Plieninger, T. (2023). Green in grey: ecosystem 
+services and disservices perceptions from small-scale green infrastructure along a rural-urban gradient 
+in Bengaluru, India. Ecosystems and People, 19(1), 2223307. 
+Toledo-Gallegos, V. M., My, N. H., Tuan, T. H., & Börger, T. (2022). Valuing ecosystem services and 
+disservices of blue/green infrastructure. Evidence from a choice experiment in Vietnam. Economic 
+Analysis and Policy, 75, 114-128. 
+United States Environmental Protection Agency (US EPA). (2014). Enhancing sustainable communities 
+with green infrastructure. https://www.epa.gov/sites/default/files/2016-08/documents/green-
+infrastructure.pdf 
+United States Environmental Protection Agency (US EPA). (2007). Reducing Stormwater Costs through 
+Low Impact Development (LID) Strategies and Practices. https://www.epa.gov/sites/default/files/2015-
+ 
+ 
+ 
+ 
+PAGE 40 
+ 
+10/documents/2008_01_02_nps_lid_costs07uments_reducingstormwatercosts-2.pdf 
+van Zanten, B., Goizueta G.G., Brander, L., Reguero, B. G., Griffin, R., Macleod, K.K., Alves, A., Midgley, 
+A., Herrera, L. D., & Jongman, B. (2023). Assessing the Benefits and Costs of Nature-Based Solutions for 
+Climate Resilience: A Guideline for Project Developers. World Bank.  
+Vázquez-González, C., Moreno-Casasola, P., Hernández, M. E., Campos, A., Espejel, I., & Fermán-Almada, 
+J. L. (2017). Mangrove and freshwater wetland conservation through carbon offsets: a cost-benefit 
+analysis for establishing environmental policies. Environmental Management, 59, 274-290. 
+Wishart, M., Wong, T., Fumage, B., Liao, X., Pannell, D., & Wang, J. (2021). Valuing the Benefits of 
+Nature-Based Solutions: A Manual for Integrated Urban Flood Management in China. World Bank. 
+https://documents1.worldbank.org/curated/en/486911622787803268/pdf/Valuing-the-Benefits-of-
+Nature-Based-Solutions-A-Manual-for-Integrated-Urban-Flood-Management-in-China.pdf. 
+World Bank. (2021). A Catalogue of Nature-Based Solutions for Urban Resilience. World Bank. 
+Zhou, J. B., Jiang, M. M., Chen, B., & Chen, G. Q. (2009). Energy evaluations for constructed wetland and 
+conventional wastewater treatments. Communications in nonlinear science and numerical simulation, 
+14(4), 1781-1789. 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 41 
+ 
+Appendix A: Decision support methods 
+Making decisions between alternative options for improving climate and disaster resilience always 
+involves trade-offs. These trade-offs require deliberate consideration. Several different decision support 
+mechanisms exist to help explore such trade-offs by providing a structured way to organize information 
+and other relevant decision-making factors. As described in van Zanten et al. (2023), the most common 
+decision support frameworks used are: 
+1. Cost-effectiveness analysis (CEA) – A method of decision-making that prioritizes the project with 
+the lowest cost over a project lifetime to achieve a given risk level. This approach does not require 
+the measurement of benefits and can therefore be less analytically complex. This can be a useful 
+tool in situations where a given risk reduction is required. In other words, if everyone agrees that 
+something must be done then CEA can be used to identify the alternative that achieves the 
+desired outcome at the lowest cost. However, the multi-benefit nature of many GI projects means 
+that the lack of benefit estimation could undervalue the strength of such projects when compared 
+against grey infrastructure. 
+2. Benefit-cost analysis (BCA) – A method that involves defining and measuring the benefits and 
+costs of a project relative to a baseline or ‘no project’ condition. Benefits and costs that occur at 
+different points in time can be made comparable by discounting to generate a present value of 
+benefits and costs. This approach requires directly measuring the benefits and costs of different 
+project options and choosing the options with the greatest net benefit.   
+3. Multicriteria analysis (MCA) – This approach provides a framework for integrating and comparing 
+a range of different information using different metrics. It can be particularly beneficial when 
+needing to account for benefits that cannot be valued in monetary terms. A MCA essentially 
+involves identifying criteria with relevant stakeholders, determining a score for each criterion, 
+establishing a weight for each criterion and creating an aggregate score for each alternative. 
+These decisions support frameworks are highlighted in Table 10. 
+ 
+ 
+ 
+ 
+ 
+ 
+PAGE 42 
+ 
+Table 10. Decision support framework (van Zanten et al., 2023) 
+Decision Support 
+Framework 
+Application 
+Strengths 
+Challenges 
+Cost-effective 
+Analysis 
+Identifies lowest cost NBS 
+options to achieve a given 
+risk level 
+Does not require 
+assessment of benefits and 
+is analytically less complex 
+Limited applicability given 
+the multi-benefit nature of 
+NBS of establishing 
+identical risk levels across 
+options  
+Benefit-Cost 
+Analysis 
+Estimates the societal net 
+benefits of NBS options in 
+monetary units  
+Rigorous framework for 
+directly comparing benefits 
+and costs 
+Requires that all costs and 
+benefits be quantified in 
+monetary terms; important 
+other objectives 
+(nonmonetary) may be 
+omitted 
+Multicriteria 
+analysis 
+Ranks alternative NBS 
+options 
+Allows the inclusion of 
+qualitative effects and 
+plural values 
+Potentially relies on the 
+subjective judgement of the 
+analytical team 
+ 
+ 
+ 

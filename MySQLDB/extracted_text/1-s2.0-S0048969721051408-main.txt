@@ -1,0 +1,1939 @@
+Understanding human vulnerability to climate change: A global
+perspective on index validation for adaptation planning
+Joern Birkmann a,⁎, Ali Jamshed a, Joanna M. McMillan a, Daniel Feldmeyer a, Edmond Totin b, William Solecki c,
+Zelina Zaiton Ibrahim d, Debra Roberts e, Rachel Bezner Kerr f, Hans-Otto Poertner g, Mark Pelling h,
+Riyanti Djalante i, Matthias Garschagen j, Walter Leal Filho k, Debarati Guha-Sapir l, Andrés Alegría m
+a Institute of Spatial and Regional Planning (IREUS), Pfaffenwaldring 7, 70569, University of Stuttgart, Germany
+b Ecole de Foresterie Tropicale, Université Nationale d'Agriculture du Benin, Kétou, Benin
+c City University New York (CUNY), Hunter College, 695 Park Avenue, New York, United States of America
+d Faculty of Forestry and Environment, Department of Environmental Management, University Putra Malaysia, Serdang, Malaysia
+e School of Life Sciences, University of KwaZulu-Natal and eThekwini Municipality, Sustainable and Resilient City Initiatives Unit, Durban, South Africa
+f Department of Global Development, Cornell University, Ithaca, NY, United States of America
+g Alfred-Wegener-Institute, Bremen, Germany
+h King's Centre for Integrated Research on Risk and Resilience, Department of Geography, King's College London, United Kingdom
+i United Nations University - Institute for the Advanced Study of Sustainability (UNU-IAS), Tokyo, Japan
+j Department of Geography, Ludwig-Maximilians-University Munich (LMU), Munich, Germany
+k Department of Natural Sciences, Manchester Metropolitan University. Oxford Road, Manchester M15 6BH, UK and Hamburg University of Applied Sciences, Research and Transfer Centre
+“Sustainable Development and Climate Change Management”, Ulmenliet 20, D-21033 Hamburg, Germany
+l Centre for Research On the Epidemiology of Disasters (CRED), Institute of Health and Society (IRSS), Université Catholique de Louvain, Brussels, Belgium
+m IPCC Technical Support Unit, Alfred-Wegener-Institute, Bremen, Germany
+H I G H L I G H T S
+• Internal and external validation is cru-
+cial for global vulnerability assessments.
+• Vulnerability of WRI and INFORM index
+partially explains mortality and eco-
+nomic losses.
+• Hazard mortality is 15 times higher in
+most compared to least vulnerable
+countries.
+• Vulnerability shows different starting
+points towards climate resilient devel-
+opment.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 7 May 2021
+Received in revised form 27 August 2021
+Accepted 27 August 2021
+Available online 1 September 2021
+Climate change is a severe global threat. Research on climate change and vulnerability to natural hazards has
+made signiﬁcant progress over the last decades. Most of the research has been devoted to improving the quality
+of climate information and hazard data, including exposure to speciﬁc phenomena, such as ﬂooding or sea-level
+rise. Less attention has been given to the assessment of vulnerability and embedded social, economic and histor-
+ical conditions that foster vulnerability of societies. A number of global vulnerability assessments based on
+Science of the Total Environment 803 (2022) 150065
+⁎ Corresponding author.
+E-mail addresses: joern.birkmann@ireus.uni-stuttgart.de (J. Birkmann), ali.jamshed@ireus.uni-stuttgart.de (A. Jamshed), joanna.mcmillan@ireus.uni-stuttgart.de (J.M. McMillan),
+daniel.feldmeyer@ireus.uni-stuttgart.de (D. Feldmeyer), edmond.totin@gmail.com (E. Totin), wsolecki@hunter.cuny.edu (W. Solecki), zelina@upm.edu.my (Z.Z. Ibrahim),
+debra.roberts@durban.gov.za (D. Roberts), rbeznerkerr@cornell.edu (R.B. Kerr), hans.poertner@awi.de (H.-O. Poertner), mark.pelling@kcl.ac.uk (M. Pelling), djalante@unu.edu
+(R. Djalante), m.garschagen@geographie.uni-muenchen.de (M. Garschagen), walter.leal2@haw-hamburg.de (W. Leal Filho), debarati.guha@uclouvain.be (D. Guha-Sapir),
+andres.alegria@ipcc-wg2.awi.de (A. Alegría).
+https://doi.org/10.1016/j.scitotenv.2021.150065
+0048-9697/© 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+Editor: Scott Sheridan
+indicators have been developed over the past years. Yet an essential question remains how to validate those as-
+sessments at the global scale. This paper examines different options to validate global vulnerability assessments
+in terms of their internal and external validity, focusing on two global vulnerability indicator systems used in the
+WorldRiskIndex and the INFORM index. The paper reviews these global index systems as best practices and at the
+same time presents new analysis and global results that show linkages between the level of vulnerability and di-
+saster outcomes. Both the review and new analysis support each other and help to communicate the validity and
+the uncertainty of vulnerability assessments. Next to statistical validation methods, we discuss the importance of
+the appropriate link between indicators, data and the indicandum. We found that mortality per hazard event
+from ﬂoods, drought and storms is 15 times higher for countries ranked as highly vulnerable compared to
+those classiﬁed as low vulnerable. These ﬁndings highlight the different starting points of countries in their
+move towards climate resilient development. Priority should be given not just to those regions that are likely
+to face more severe climate hazards in the future but also to those confronted with high vulnerability already.
+© 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://
+creativecommons.org/licenses/by/4.0/).
+Keywords:
+Vulnerability
+Climate change
+Validity and applicability of indicators
+Societal impacts
+Natural hazards
+1. Introduction
+The need and relevance to assess vulnerability to climate change and
+natural hazards is based on the assumption that climate risks and actual
+losses caused by hazard events such as storms, ﬂoods or droughts are
+not solely a result of the climate hazard, but also determined by societal
+and economic preconditions that shape the way in which people are
+prepared for or respond to such events (Birkmann, 2013; Cardona
+et al., 2012; Cutter et al., 2003; IPCC, 2012; UNDRR, 2019). The discourse
+about vulnerability within climate change and climate risk research en-
+compasses various interpretations of the concept of vulnerability, such
+as vulnerability as a starting point versus vulnerability as an outcome
+(Füssel, 2007). Since the IPCC SREX report (IPCC, 2012) and within the
+newer conceptualization of climate risks in the ﬁfth assessment report
+(IPCC, 2014b), there is an emerging consensus that vulnerability of soci-
+eties or ecosystems is better framed as a starting point, rather than an
+outcome. Approaches that conceptualize vulnerability as an outcome
+often include hazard information and therewith do not sufﬁciently dif-
+ferentiate between vulnerability and risk. In this paper we use the
+term vulnerability to refer to the broader concept and systemic societal
+vulnerability to emphasise the vulnerability of societies and systemic
+barriers within societies in particular, as opposed to, for example, vul-
+nerability of ecosystems.
+Systemic societal vulnerability refers to characteristics of society or
+sub-systems of it (e.g. demographic groups or built infrastructures)
+and is largely independent of the speciﬁc climatic hazard. The term sys-
+temic refers to inherent barriers that people experience in terms of their
+ability to cope and adapt to climatic change and natural hazards. While
+there is still tension on how to precisely deﬁne risk, hazard or vulnera-
+bility (Garschagen et al., 2016; Hagenlocher et al., 2019), the scientiﬁc
+discourse (IPCC, 2014b; UNDRR, 2017) has reached a consensus that
+risks in the context of climate change result from the dynamic interac-
+tion of hazard, exposure and vulnerability of human and ecological sys-
+tems. In contrast to climate and hazard information that often
+characterizes the physical phenomena—such as the mean temperature
+change, frequency or intensity of droughts, ﬂoods or storms—vulnera-
+bility is deﬁned as the propensity and the predisposition of a system
+to be adversely affected by external shocks and thus is linked to the
+characteristics of a social-ecological system or community that deter-
+mine their level of preparedness to anticipate or respond to risks
+(IPCC, 2014b; Sharma and Ravindranath, 2019). Systemic societal vul-
+nerability acknowledges the signiﬁcance of the vulnerability of individ-
+ual elements – people, buildings, livelihoods – but aggregates, aiming to
+provide a comprehensive view of vulnerability of societies. Challenges
+of aggregation and data availability always exist in the assessment of
+systemic societal vulnerability at global scale and therefore the valida-
+tion of such assessments (given their different methodologies) is crucial
+and lies at the heart of this paper.
+Quantitative assessments of risk and vulnerability are often based on
+indicators that capture vulnerability as a hazard dependent or as a
+hazard independent phenomenon (EC-DRMKC, 2020; Peduzzi, 2013;
+Welle and Birkmann, 2015). While comparison of global scale vulnera-
+bility and risk assessments with national resolution underscores that
+different assessments of vulnerability show a relatively high agreement
+regarding global hotspots of vulnerability (see Birkmann et al., 2021;
+Hagenlocher et al., 2019; de Sherbinin et al., 2019; Feldmeyer et al.,
+2021; Garschagen et al., 2021), less attention has been given to the
+question of how to validate such assessments. This question is complex
+since vulnerability and systemic societal vulnerability in particular is not
+just an outcome of a speciﬁc event or a simple phenomenon, but rather
+a predisposition to be adversely affected that is often hidden until a con-
+crete crises or hazard events reveals it.
+Various researchers underscore signiﬁcant knowledge gaps and un-
+certainty regarding the quantitative relationship between societal and/
+or social vulnerability measures and disaster outcomes (Bakkensen
+et al., 2017; Burton, 2010; Rufat et al., 2019; Schmidtlein et al., 2011).
+They conclude that because there is an increasing use of vulnerability
+metrics in planning and decision making, it is critical to better character-
+ize and understand these relations between vulnerability or systemic
+societal vulnerability and disaster outcomes and in a broader sense to
+explore the validity of vulnerability assessments and models (Rufat
+et al., 2019). These studies often validate vulnerability indices at the
+subnational and local level with a focus on a speciﬁc hazard
+(Bakkensen et al., 2017; Rufat et al., 2019). While they stress the need
+to validate vulnerability assessments against their prognostic function
+to project areas where the highest fatalities and losses will occur or
+have occurred in the past due to natural or climate-induced hazards
+(Rufat et al., 2019), other authors argue that the validation needs careful
+assessment as social contexts and the perception of risk are speciﬁc
+(Fekete, 2009; Simpson et al., 2021). Other papers examine the validity
+of vulnerability assessments in terms of speciﬁc disaster outcomes ob-
+served in speciﬁc regions or with regard to a speciﬁc hazard event
+(Bakkensen et al., 2017; Rufat et al., 2019; Schmidtlein et al., 2011).
+While these studies are important, it is generally questionable whether
+or not a single hazard event and its outcomes can really be used to val-
+idate such assessments.
+In this paper, we differentiate between internal validation methods
+that consist of reliability and sensitivity questions and external valida-
+tion that explores whether and how vulnerability metrics can explain
+outcomes in the context of disasters or extreme events. Some vulnera-
+bility assessment approaches use their own reliability measures, such
+as the INFORM Risk Index (Marin-Ferrer et al., 2017, p. 16) that classiﬁes
+reliability in terms of the availability and quality of data available for a
+speciﬁc country. We rather base our assessment on the relevance of in-
+dicators for explaining vulnerability. Such investigation has been rarely
+done or discussed in the literature (using most recent data) and there-
+fore these results can increase the reliability and usability of vulnerabil-
+ity metrics by the broader research community. In addition, we explore
+the linkages between data, indicators and the underlying indicandum
+that need to be considered when assessing the appropriateness of
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+2
+indicators to measure very complex phenomena (e.g. inequality or re-
+sponse capacities) and dynamics (e.g. forced migration). Also, blind
+spots and limitations of global or national indicator based vulnerability
+assessments are examined and discussed.
+Overall, the paper presents novel ﬁndings regarding internal and ex-
+ternal validation options of indicator based vulnerability assessments
+focusing on the vulnerability components of the WorldRiskIndex
+(WRI) and the INFORM1 index using national and regional boundaries.
+The WRI and the INFORM index are two approaches that cover issues
+of vulnerability more comprehensively compared to other approaches.
+We show that next to data quality issues and statistical validation of
+such indicator systems, the link between an indicator and the underly-
+ing indicandum is key, including the vision and goal. In this regard, the
+paper focuses on the following questions:
+1. What has to be considered when assessing the validity of global com-
+parative vulnerability indicator systems?
+2. How statistically reliable are existing indicators and index ap-
+proaches in capturing different aspects of vulnerability (internal
+validation)?
+3. What is the quantitative relationship between these vulnerability as-
+sessments, their results and actual loss data from past disasters due
+to climate inﬂuenced hazards (external validation)?
+4. What are blind spots and missing data within such global assess-
+ments?
+5. To what extent and how can global vulnerability approaches be used
+to inform adaptation planning?
+6. What are priority issues for further research and development to en-
+hance such assessments and their linkages to sub-national or local
+context speciﬁc assessments?
+2. Two approaches: the WorldRiskIndex and the INFORM Risk Index
+The purpose of risk and vulnerability indicators and index systems is
+to capture the multidimensional phenomena and better understand the
+different components, spatial structures and levels of the risk and vul-
+nerability, of countries and regions exposed to various climatic and nat-
+ural hazards. These approaches aim to support decision making in terms
+of disaster prevention, preparedness and response (IPCC, 2019; UNDRR,
+2019). The components and indicators of such index systems are based
+on speciﬁc assumptions about the relevance of each indicator for de-
+scribing vulnerability and systemic societal vulnerability in particular.
+These assumptions need to be critically revisited.
+The WorldRiskIndex (WRI) and the INFORM approaches are two
+prominent indices offering global assessments with national scale reso-
+lution, used in the context of climate change adaptation and disaster
+risk reduction to assess risks and vulnerabilities (Birkmann and Welle,
+2016; EC-DRMKC, 2020; Welle and Birkmann, 2015). The paper exam-
+ines the WRI and INFORM index since both indicator systems have
+global coverage and a comprehensive approach for assessing vulnera-
+bility quantitatively, including, for example, aspects of poverty, inequal-
+ity and governance. Moreover, both indicator systems have been
+published over several years.
+The key aim of WRI is to analyse and visualize the level of vulnerabil-
+ity and risk of a country to experience adverse consequences due to
+natural hazards and climate related events. It allows the comparison
+of 171 countries (Welle and Birkmann, 2016, 2015). The INFORM
+index focuses on risks and humanitarian crises by including present
+and projected conﬂict aspects as well as hazard and exposure aspects.
+A core component of the index is also the assessment of vulnerability.
+The INFORM index captures 191 countries (EC-DRMKC, 2020). Table 1
+provides an overview of both indicator systems.
+2.1. Selection of components, subcomponents and indicators
+The components used in the WRI differentiate between the natural
+hazard sphere and the vulnerability sphere. The WRI is composed of ex-
+posure (natural hazard sphere), susceptibility, lack of coping capacity
+and lack of adaptive capacity (vulnerability sphere). These components
+are further sub-categorized, for example focusing on the availability of
+basic infrastructure, medical services, etc. The development and
+systematization of the different components and sub-categories were
+evaluated by scientists and practitioners during an international work-
+shop as well as supported by international literature (see Buendnis
+Entwicklung Hilft, 2011; Birkmann et al., 2011; Welle and Birkmann,
+2016, 2015). In 2019 some subcomponents of the index were modiﬁed,
+which on the one hand shows the ability to include new knowledge, on
+the other hand, these changes make a comparison of changes of vulner-
+ability over time difﬁcult.
+The INFORM index consists of three components of risk, namely
+hazard and exposure, vulnerability and lack of coping capacity. Each of
+these components has additional sub-categories. Hazard dependent
+factors are captured in the exposure and hazard component while
+hazard independent factors are considered in the vulnerability and the
+lack of coping capacity dimension (see in detail EC-DRMKC, 2020).
+The development of these risk components is based on scientiﬁc litera-
+ture and also the involvement of experts from over ten UN organiza-
+tions (e.g. OCHA, UNDP, WFP or FAO), multiple other international
+organizations (such as IFRC or GFDRR) as well as scientists from univer-
+sities and other research institutes. The Joint Research Centre (JRC) of
+1 For the INFORM index, not just the vulnerability component was considered but also
+the “Lack of Coping Capacity" component. These two components were considered in or-
+der to make the values comparable to the WRI vulnerability component, which does not
+only capture the fragility of a society, but also the differential capacities to cope and adapt
+to natural hazards and climate change. In order to underscore the fact that we focus on the
+vulnerability components of the WRI and INFORM, we use the abbreviation “WRIv” and
+“INFORMv” respectively in the paper.
+Table 1
+Comparison of the WorldRiskIndex and the INFORM Risk Index.
+Criteria
+WorldRiskIndex
+INFORM Risk Index
+Main purpose/goal
+Analysis of the risk level of
+countries to natural and
+climatic hazards
+Assessment of risk of countries
+to inform disaster and
+humanitarian crisis responses
+First published
+2011
+2012
+Revision/update
+Once per year
+Once per year
+Conceptualization
+Risk is seen as a product of
+exposure and vulnerability,
+where vulnerability includes
+susceptibility and lack of
+coping and adaptive capacity
+Risk is seen as a product of
+exposure, vulnerability
+(socioeconomic vulnerability
+and vulnerable group) and
+lack of coping capacity
+Number of countries
+171
+191
+Treatment of
+missing data
+Missing values are
+estimated using various
+accounting techniques
+depending on the data
+available for each country
+Systematic imputation of
+missing values using the
+data from the most recent
+year available within a
+5 years timespan
+Multicollinearity
+test
+Pearson correlation matrix
+Pearson correlation matrix
+Transformation and
+normalization
+approach
+Multiple approaches are
+applied depending on the
+data
+Log transformation for some
+indicators and Min-max
+normalization [0–10]
+applied to all indicators
+Aggregation method
+Additive function for
+vulnerability
+subcomponents and
+multiplicative function for
+exposure and vulnerability
+A mix of arithmetic and
+geometric means and
+minimum-, maximum
+aggregation
+Validation
+(internal)
+Reliability test
+Sensitivity analysis
+Factor analysis
+Uncertainty test
+Index regarding the lack of
+reliability; it takes into account
+missing data, out-of-date data
+and conﬂict status.
+Validation
+(external)
+No
+No
+Key Source
+Buendnis Entwicklung Hilft,
+2011; Welle and Birkmann,
+2015, 2016
+EC-DRMKC, 2020
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+3
+the European Commission has been an important actor within this de-
+velopment process of the index, with close support, expert consultation
+and user validation of the different participating organizations (see
+Marin-Ferrer et al., 2017). The INFORM risk index has been published
+annually since 2012. Its data and results are fully accessible online
+(https://drmkc.jrc.ec.europa.eu/inform-index/) and have been widely
+used in the programming of the participating and other organizations.
+Next to yearly vulnerability scores and ranks, INFORM also provides re-
+sults on vulnerability trends of each country. Vulnerability in the
+INFORM index is deﬁned as a pre-existing vulnerability before a disaster
+and independent of a speciﬁc hazard (Marin-Ferrer et al., 2017).
+Quality criteria used for the indicator selection were quite similar in
+both approaches. Both consider, for example, the availability of data and
+that the indicators should be statistically and analytically sound, repro-
+ducible, appropriate in scope, comparable and easy to interpret and un-
+derstand (see Birkmann et al., 2011; Buendnis Entwicklung Hilft, 2017;
+EC-DRMKC, 2020).
+The WRI is based on 28 indicators: 5 indicators assess hazard and ex-
+posure, 7 capture aspects of susceptibility, 5 indicators assess the lack of
+coping capacities and 11 the lack of adaptive capacity (Birkmann et al.,
+2011; Welle and Birkmann, 2016). The INFORM index is based on a
+larger number of indicators, encompassing 22 indicators for the assess-
+ment of hazard and exposure, 18 indicators to assess vulnerability and
+14 indicators for measuring lack of coping capacity (see in detail
+Marin-Ferrer et al., 2017). The number of indicators used (see Tables 2
+and 3), however, does not mean that each indicator can be calculated
+for all countries. In terms of internal validation, at ﬁrst, statistical valida-
+tion processes were undertaken in the development process of both
+indices. These internal validation methods within the construction
+process of the indicator system encompassed, for example, a
+multicollinearity analysis to explore redundancies among indicators.
+Next to statistical analysis (correlations), both index development
+processes also encompassed expert judgements and literature-based
+assessments on how the different indicators selected allow the visuali-
+zation of core topics of societal vulnerability to natural hazards and cli-
+mate change. INFORM further applies regular rounds of expert
+evaluation and validation among its core users.
+2.2. Data collection and transformation
+Both indicator systems—WRI and INFORM—are primarily based on
+indicators that can be calculated and visualized with global databases,
+such as poverty and inequality data or access to certain basic infrastruc-
+ture stemming from the World Bank, the United Nations and other rep-
+utable international organizations. A list of the indicators is shown in
+Tables 2 and 3 while the data sources used by both indices for each in-
+dicator is shown in the Supplementary material (see Tables A and B).
+Data for each indicator was transformed in dimensionless rank levels
+between 0 and 1 for the WRI and between 0 and 10 for the INFORM
+index (see Welle and Birkmann, 2015 for WRI and Marin-Ferrer et al.,
+2017 for the INFORM index). Within the WRI, different transformation
+methods were used including min-max normalization and logarithm
+transformation, while for the INFORM index only min-max normaliza-
+tion was applied.
+2.3. Weighting and aggregation methods
+Weighting and aggregation methods are often a contested ﬁeld, how-
+ever, for a robust scientiﬁc methodology, it is most important that these
+weights and aggregation methods are transparent and clearly outlined
+for external readers and users (OECD, 2008). The scientiﬁc literature
+and also various disciplines use different methods to allocate weights
+to indicators or subcomponents for the index construction. The WRI ap-
+proach uses weights for each subcomponent that were generated using
+the Analytic Hierarchy Process (AHP) as a statistical tool and these
+weights were further complemented with expert judgements as an
+additional input to weigh the importance of each indicator for the assess-
+ment (see weights for indicators and subcomponents in Supplementary
+material, Table-A). This approach keeps the option open to modify vari-
+ables and weights of components in later years if expert knowledge
+changes, the risk context changes or additional data for different aspects
+of societal vulnerability become available. While indicators were
+weighted differently, each component (susceptibility, lack of coping
+capacity and lack of adaptive capacity) of the WRI was equally weighted.
+In terms of the INFORM approach, equal weights were assigned for the
+components and were justiﬁed with Pearson's correlation analysis (see
+Table-B in Supplement and Marin-Ferrer et al., 2017 for details).
+In terms of the aggregation method for the components, the WRI
+used a multiplicative function for exposure and vulnerability for the
+ﬁnal risk index while the vulnerability component is calculated using
+Table 2
+Overview of indicators used within the WorldRiskIndex (WRI) for measuring vulnerability
+including data sources and subcomponents.
+(Source: Welle and Birkmann, 2015; Birkmann et al., 2021)
+Subcomponents and their Indicators
+Data source
+Susceptibility
+Public Infrastructure (PUIR)
+Share of population without access to
+improved sanitation (Sus_A)
+WHO/UNICEF Joint Monitoring
+Programme (JMP) and World,
+Development Indicators World Bank
+Share of the population without access to
+an improved water source (Sus_B)
+WHO/UNICEF Joint Monitoring
+Programme (JMP) and World,
+Development Indicators World Bank
+Nutrition (NUTR)
+Share of under nourished population
+(Sus_C)
+Millennium Development Goals
+Indicators Database based on FAO
+Statistics Division
+Poverty and Dependencies (PVDP)
+Dependency ratio (Sus_D)
+Human Development Index, UNDP
+Extreme poverty (Sus_E)
+Human Development Report, World
+Development Indicators
+Economic capacity and Income distribution
+(ECID)
+GDP per capita (PPP) (Sus_F)
+World Bank, World Development
+Indicators
+GINI index (Sus_G)
+World Bank and UN WIDER
+Coping capacity
+Governance and Authorities (GOVA)
+Corruption perception index (LCC_A)
+Transparency International
+Good governance (Failed State Index)
+(LCC_B)
+Foreign Policy
+Medical Services (MEDS)
+Number of physicians per 10,000
+inhabitants (LCC_C)
+World Health Statistics
+Number of hospital beds per 10,000
+inhabitants (LCC_D)
+World Health Statistics
+Material Coverage (MCOV)
+Insurances (LCC_E)
+Munich Re
+Adaptive capacity
+Education and Research (EDRE)
+Adult literacy rate (LAC_A)
+UNESCO Institute for Statistics
+Combined gross school enrolment
+(LAC_B)
+UNESCO Institute for Statistics
+Gender equity (GDEQ)
+Gender parity in education (LAC_C)
+UNESCO Institute for Statistics
+Share of female representatives in the
+National Parliament (LAC_D)
+Millennium Development Goals
+Indicators
+Environmental Status/Ecosystem Protection
+(ESEP)
+Water resources (LAC_E)
+Environmental Performance Index
+Biodiversity and habitat protection
+(LAC_F)
+Environmental Performance Index
+Forest management (LAC_G)
+Environmental Performance Index
+Agricultural management (LAC_H)
+Environmental Performance Index
+Investment (INVT)
+Public health expenditure (LAC_I)
+World Health Statistics
+Life expectancy at birth (LAC_J)
+Human Development Index, UNDP
+Private health expenditure (LAC_K)
+World Health Statistics
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+4
+additive function between susceptibility and lack of coping and adaptive
+capacity (see Table 1). For individual indicator aggregation within each
+subcomponent of the WRI, an additive function was used. The INFORM
+index applied a multiplicative function for calculating the risk index
+based on its core components (see Table 1) and for the individual
+aggregation of subcomponents a mix of arithmetic and geometric
+means were applied. In terms of the underlying methodological
+assumptions, an additive aggregation assumes certain substitutability
+between the indicators. That means an increase of one indicator can
+be counterbalanced by another, for example, a higher dependency
+ratio (due to a high number and percentage of elderly of the total pop-
+ulation like in Japan) might make society more susceptible to heat
+stress, but at the same time, a good health care system or strong social
+networks might counterbalance this. In contrast to an additive
+aggregation, a multiplicative aggregation assumes non-linear substitut-
+ability and introduces a knock-out criterion in terms of the fact that if
+one of the indicators is zero, the entire equation will be zero. The results
+of the vulnerability assessment of the WRI and the INFORM index with a
+national scale resolution are shown in Fig. 1.
+3. Methodology
+3.1. Index validation options
+We examine index validity through internal and external analytical
+approaches. Validation is a broad term that contains a range of different
+methods for validating vulnerability indices. In scientiﬁc literature in-
+ternal statistical validation (e.g. Tate, 2012; Sorg et al., 2018; Jamshed
+et al., 2020a), external statistical validation (e.g. Burton, 2010; Rufat
+et al., 2019; Bakkensen et al., 2017) and stakeholder/expert opinion
+based validation (e.g. Fekete, 2009) have been widely used particularly
+at the local scale. Our paper focuses on global comparative vulnerability
+index systems therefore opportunities to validate these with local par-
+ticipatory tools are limited. We differentiate between internal and
+external validation. Internal validation explores the inner coherence
+and reliability of the indicator systems based on actual data—often
+using statistical methods, such as sensitivity analysis. Internal validation
+also requires the assessment of indicator quality in relation to the
+underlying indicandum. External validation evaluates the relationship
+between calculated vulnerability and disaster outcomes or revealed
+vulnerability (e.g. fatalities, losses) within speciﬁc events. External
+validation investigates how well such indices explain losses and disaster
+outcomes of such events, even though it is important to note that
+vulnerability only represents one core determinant of overall risk
+(see IPCC, 2014b). We conduct this external validation at two spatial
+scales—national and regional scales (based on the regions deﬁned by
+the United Nations Statistical Division, UNSD) to see whether and how
+validation values change with different spatial scales. Larger geographic
+regions cover a broader spectrum of hazard impacts and show a slightly
+different picture compared to results at the country level.
+In addition to the analysis of the individual WRI and INFORM index
+systems, we combine the ﬁnal vulnerability scores of the WRIv and
+INFORMv index to provide a presentation of a combined index. This
+combination requires transforming scales and taking an average. This
+transformation does not affect the actual index values or vulnerability
+ranking. Some of the indicators and subcomponents are similar in
+both indices (e.g. Gini-index, see also Table 1) which suggest there is
+an agreement between those indices. On the other hand, several indica-
+tors and subcomponents in both indices are different (e.g. development,
+disaster preparedness and environmental indicators; see also Table 1)
+but both indices still validate each other (in terms of the agreement)
+by identifying similar vulnerability hotspots and giving similar scores
+and rankings to countries for vulnerability and its subcomponents.
+This has been conﬁrmed by recent studies (e.g. Garschagen et al.,
+2021, in review; Feldmeyer et al. 2021, in review), which provide new
+evidence and information about the agreement between the indices.
+We provide the results of each index system separately and also com-
+bined results that show the high agreement on spatial vulnerability
+hotspots at a global scale.
+3.2. Data used in the analysis of the indices
+In this analysis, we use the quantitative data from 2019 for both
+WRIv and INFORMv indices. The indices were constructed according to
+the method outlined above and documented for the WRI in Welle and
+Birkmann (2015) and for INFORM in Marin-Ferrer et al. (2017). In the
+INFORM index, lack of coping capacity is considered as an own compo-
+nent. However, for this analysis, we include this lack of coping capacity
+component, since vulnerability and systemic societal vulnerability in
+particular, according to widely accepted literature, should encompass
+Table 3
+Overview of indicators used within the INFORM index for measuring vulnerability and
+lack of coping capacity including data sources and subcomponents.
+(Source: Marin-Ferrer et al., 2017; Birkmann et al., 2021)
+Subcomponents and their indicators
+Data source
+Socioeconomic vulnerability
+Development and Deprivation (DEVP)
+Human Development Index (SEV1)
+Human Development
+Report, UNDP
+Multidimensional Poverty Index (SEV2)
+Human Development
+Report, UNDP
+Inequality (INQT)
+GINI Index (SEV3)
+World Bank
+Gender Inequality Distribution (SEV4)
+Human Development
+Report, UNDP
+Aid Dependency (AIDD)
+Public Aid per capita (SEV5)
+OECD
+Net ODA Received (SEV6)
+World Bank
+Vulnerable groups
+Uprooted People (UPPL)
+Number of refugees, returned refugees, internally
+displaced persons (absolute) (VG1)
+UNHCR, IDMC
+Number of refugees, returned refugees, internally
+displaced persons (relative) (VG2)
+UNCHR, IDMC, World
+Bank
+Other Vulnerable Groups (OTVG)
+Prevalence of HIV-AIDS above 15 years (VG3)
+WHO
+Tuberculosis prevalence (VG4)
+WHO
+Malaria mortality rate (VG5)
+WHO
+Children underweight (VG6)
+Unicef, WHO
+Child mortality (VG7)
+Unicef, WHO
+The relative number of affected populations by natural
+disasters in the last three years (VG8)
+EM-DAT, CRED
+Prevalence of undernourishment (VG9)
+FAO
+Average dietary energy supply adequacy (VG10)
+FAO
+Domestic Food Price Level Index (VG11)
+FAO
+Domestic Food Price Volatility Index (VG12)
+FAO
+Lack of coping capacity
+Institutional
+Disaster Risk Reduction (DRR)
+Hyogo Framework for Action self-assessment reports
+(LCC1)
+UNISDR
+Government effectiveness (LCC2)
+World Bank
+Corruption Perception Index (LCC3)
+Transparency
+International
+Infrastructure
+Communication (COMM)
+Access to electricity (LCC4)
+World Bank
+Internet users (LCC5)
+World Bank
+Mobile cellular subscriptions (LCC6)
+World Bank
+Adult literacy rate (LCC7)
+UNESCO
+Physical infrastructure (PINF)
+Roads density (LCC8)
+OpenStreetMap
+Access to an improved water source (LCC9)
+WHO/Unicef
+Access to improved sanitation facilities (LCC10)
+WHO/Unicef
+Access to health systems (AHLC)
+Physicians density (LCC11)
+WHO
+Health expenditure per capita (LCC12)
+WHO
+Measles immunisation coverage (LCC13)
+WHO
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+5
+both susceptibility or fragility and capacities of countries or societies to
+cope and adapt (see e.g. Adger, 2006; Birkmann et al., 2013; Cardona
+et al., 2012; Cardona, 2001; IPCC, 2014a, 2014b; Jamshed et al.,
+2020b). Furthermore, a comparison of the INFORM vulnerability assess-
+ment results with and without the lack of coping capacity component
+found that there is no major difference in the resulting global picture
+of hotspots of vulnerability (see Figure-A in Supplement).
+In a second comparison, we aggregate national data to the regional
+level. For the deﬁnition of regions, we use the geographic regions de-
+ﬁned in the United Nations publication “Standard Country or Area
+Codes for Statistical Use” commonly referred to as the M49 standard
+(https://unstats.un.org/unsd/methodology/m49/). We use the smallest
+regions available for each country (i.e. the intermediate region or subre-
+gions). This aggregation allows us to examine the external validity of
+the indices at a different (smaller) spatial scale. For external validation,
+we use the number of events, mortality and economic loss data from the
+Emergency
+Events
+Database—EM-DAT
+(https://www.emdat.be/
+database) for climate-related hazards, namely storms, droughts and
+ﬂoods. The EM-DAT database encompasses also other natural hazards,
+such as tsunamis and earthquakes, however, these are excluded from
+the analysis since the focus is on selected climate inﬂuenced hazards.
+3.3. Internal validation of the indices
+Internal validation assesses the quality of the index based on the in-
+dicator, the data used and the overall index values in terms of reliability
+and sensitivity (Jamshed et al., 2020a; Welle and Birkmann, 2015). We
+conduct both sensitivity and reliability analyses. Reliability analysis
+measures the internal consistency of an index and describes the degree
+of accuracy of an index structure (OECD, 2008). It helps to increase the
+conﬁdence in a composite index and has been used in natural hazard
+and climate change research (see for example Cutter et al., 2014;
+Welle and Birkmann, 2015; Sorg et al., 2018; Jamshed et al., 2020c).
+As quality measures, we apply the Cronbach's alpha and Guttmann
+lambda tests—commonly used in statistical validation for assessing the
+reliability and internal consistency (OECD, 2008). Secondly, we perform
+a sensitivity analysis to further increase the conﬁdence in the index
+construction and its predictions by examining how the output variables
+(vulnerability index) respond to changes in the input variables (indica-
+tors or subcomponents) (see Oakley and O'Hagan, 2004). In this regard,
+we apply global sensitivity analysis which takes into account the
+measure of uncertainty in the output variable to the uncertainty in
+each input variable (Feldmeyer et al., 2020; Jamshed et al., 2020a;
+Fig. 1. Global vulnerability maps based on (A) WorldRiskIndex and (B) INFORM index. Fig. 1A shows the values for each country of the vulnerability component (with subcomponents
+susceptibility, lack of coping capacity and lack of adaptive capacity) of WorldRiskIndex. Fig. 1B shows the values for each country of the vulnerability component (with subcomponents
+socioeconomic vulnerability and lack of coping capacity). For both maps, the quantile classiﬁcation method was used and Small Island Developing States are made visible at this scale
+using enlarged centroid dot symbols.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+6
+Oakley and O'Hagan, 2004; Sorg et al., 2018). For conducting the sensi-
+tivity analysis, very few countries had to be excluded from the analysis
+due to their high number of missing values for various indicators. The
+sensitivity analysis was carried out in Rstudio using the sensitivity func-
+tion in tgp-package.
+Next to statistical methods to evaluate indicator systems, validation
+needs to be based on assessing the appropriateness of the indicator to
+represent and characterize the actual indicandum. Therefore, we
+assessed the quality of each indicator also in terms of its indicative func-
+tion for the underlying subject of interest—the indicandum. In this re-
+gard, we conducted a literature research and assessed the relevance of
+the indicators used for the speciﬁc characteristic of systemic societal
+vulnerability they aim to measure and quantify (see Section 4.1). Be-
+sides these aspects, the applicability of any indicator requires that the
+indicator can be measured and visualized with data. Therefore, we
+also analysed the data sources used for each indicator (see Tables 2
+and 3) and found both indices primarily use data from the known inter-
+national organizations, however, small countries are underrepresented
+within global data (see also section on blind spots).
+3.4. External validation of the indices
+External validation is based on Pearson's correlation analysis of cal-
+culated vulnerability and observed disaster outcome data. That means
+the correlation explores the statistical relation between calculated vul-
+nerability (vulnerability categories) and the observed severity (number
+of deaths per hazard event) of selected hazards – namely ﬂoods,
+droughts and storms - in the decade between 2010 and 2019 focusing
+on national and regional scales. This allows for the exploration of the
+differential consequences of hazards for most vulnerable versus least
+vulnerable countries, independent of the speciﬁc hazard intensity or ex-
+posure. It is likely that next to the general level of vulnerability of a
+country or region also the hazard intensity, exposure and speciﬁc cir-
+cumstances within a single hazard event determine the overall loss out-
+come. Recent studies that explored speciﬁc outcomes of hazard events
+and vulnerability, such as Hurricane Sandy (Rufat et al., 2019), suggest
+there might be no signiﬁcant quantitative relation, since other factors
+such as exposure or hazard speciﬁc characteristics largely determine
+loss levels due to a speciﬁc event. Therefore, external validation is a
+very open question and challenge.
+4. Results: evaluating the validity and limitations of the WRIv and
+INFORMv index
+4.1. Validation in terms of the indicandum and the link between indicators,
+goals and data
+Since vulnerability indicators need to be evaluated also against the
+quality on how they represent different characteristics of vulnerability,
+we conducted an intensive literature analysis. The analysis revealed
+that all indicators used within the two assessments for assessing vulner-
+ability (see overview Tables 2 and 3) can be justiﬁed in terms of their
+link to the overall indicandum—vulnerability—with evidence from sci-
+entiﬁc literature (see Tables A and B in Supplement). Several scientiﬁc
+papers and studies underscore the relevance of the respective indicator
+to assess and measure characteristics of vulnerability to climate change
+and natural hazards (e.g. Cardona et al., 2012; Cutter et al., 2003; Fekete,
+2009; Sorg et al., 2018). Consequently, a close link between the indica-
+tors used within both assessments and aspects of the underlying
+indicandum is evident. However, it is important to note that speciﬁc
+goals for vulnerability reduction or for the development of capacities
+to cope and adapt were not found. Moreover, only a little information
+exists on whether or not the indicator-indicandum nexus is sufﬁciently
+valid for all countries. Tables 2 and 3 provide an overview of the sub-
+components and indicators used to assess vulnerability and capacities
+in the WorldRiskIndex and the INFORM index. The Supplementary
+material (see Tables A and B) also contains more information about
+the supporting scientiﬁc literature for each indicator and the respective
+transformation rules applied to calculate it.
+Furthermore, the conceptualization of risk within the Intergovern-
+mental Panel on Climate Change (IPCC) differentiates hazard, exposure
+and vulnerability (IPCC 2014, 2019). Thus, in terms of the validation of
+the vulnerability indicators it is important to evaluate whether the indi-
+cators capture vulnerability or rather aspects of the hazard or exposure.
+For example, the widely cited ND-Gain index to assess vulnerability
+to climate change differentiates exposure and sensitivity as well as
+adaptive capacities within the indicator system along different sectors
+(see Chen et al., 2015). The list of indicators to assess sensitivity in the
+context of climate risk includes among other indicators, the population
+living in areas where elevation is 5 m below sea-level (as % of the total
+population) based on data of the World Bank (Chen et al., 2015,
+p. 31). While this indicator is statistically valid, it is rather an indicator
+of exposure to the hazard of sea-level rise. About 59% of the total popu-
+lation in the Netherlands is living in areas where the elevation is 5 m
+below sea-level, while in Bangladesh it is about 9% (see The World
+Bank, 2021 [World Development Indicators; http://wdi.worldbank.
+org/table/3.11]).
+However, the Netherlands has high ﬁnancial and institutional capac-
+ities to protect people in low-lying coastal areas with large technical and
+infrastructure measures; the overall poverty is low and few people live
+in slums (housing poverty). In contrast, in Bangladesh, about 47% of the
+overall population live in informal settlements and slums (data from
+2018) and approximately 14% of the population live in extreme poverty
+based on the assessment of the poverty headcount ratio at $US 1.9 a day
+(The World Bank, 2021, 2019). This example underscores that hazard,
+exposure and vulnerability indicators need to be differentiated, since
+their meaning and also measures to assess these aspects are quite differ-
+ent. Likewise, strategies to reduce vulnerability and exposure are not
+necessarily the same. For example, exposure reduction through reloca-
+tion of inhabitants can lead to livelihood insecurity at the new location,
+thereby increasing vulnerability. Thus, the conceptual differentiation
+between exposure and susceptibility or exposure and vulnerability is
+quite important (IPCC, 2019, 2014b). Our analysis of the structure of
+the WRI and INFORM index revealed that both index systems have
+clearly differentiated exposure and vulnerability within their conceptu-
+alization. This differentiation is also documented in part in background
+studies and methodological guidelines.
+4.2. Internal validation of WRIv and INFORMv index
+A reliability test and sensitivity analysis were performed for internal
+validation of both index systems.
+4.2.1. Reliability test
+Cronbach's alpha and Guttmann Lambda were calculated based on
+the indicators in each subcomponent of vulnerability as well as consid-
+ering all the indicators irrespective of their subcomponents. A
+Cronbach's Alpha and Lambda value of 0.7 is considered acceptable in
+terms of internal reliability as a threshold (Jamshed et al., 2020a;
+OECD, 2008; Sorg et al., 2018). Some authors use a 0.6 value as a cut-
+off line in the ﬁeld of disaster risk and resilience research (for example,
+Cutter et al., 2014). The analysis revealed that the Cronbach's alpha and
+Guttman's Lambda for all indicators of the WRIv (all vulnerability com-
+ponents) were 0.949 and 0.965 respectively while for all vulnerability
+subcomponents these values were more than 0.850 suggesting that in-
+dicators or items are suitable and internally consistent to assess and
+characterize vulnerability. Table 4 provides an overview of the internal
+consistency and reliability values based on statistical validation using
+standard quality measures such as Cronbach's alpha and Guttman's
+Lambda (see Table 4).
+For all vulnerability indicators (including lack of coping capacity) in
+INFORMv index, Cronbach's alpha and Guttman's Lambda values were
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+7
+0.948 and 0.954 respectively. Moreover, each component showed a
+value of more than 0.75 (0.9 for lack of coping capacity) both for
+Cronbach's alpha and Guttman's Lambda (see Table 4). Overall, the reli-
+ability analysis for both indicator systems — WRIv and INFORMv — sug-
+gested a high level of inherent consistency among the indicators that
+characterize vulnerability. Nevertheless, it is still necessary to evaluate
+the logical link between the indicators used and the underlying
+indicandum (see Section 4.1).
+4.2.2. Sensitivity analysis
+Sensitivity analyses can be carried out for subcomponents or indi-
+vidual indicators (see Sorg et al., 2018; Jamshed et al., 2020a;
+Feldmeyer et al., 2020). In terms of sensitivity analysis with subcompo-
+nents, each subcomponent represents a speciﬁc number of indicators
+(sensitivity analyses for the complete set of indicators is provided in
+the Supplementary material, Figure-B). The analysis provided new in-
+sights into both the WRIv and the INFORMv index as shown in Fig. 2.
+Each ﬁgure (Fig. 2, A and B) contains three elements. The ﬁrst part
+(left-hand side) shows curves that represent each subcomponent and
+its respective indicators. The x-axis depicts the original values of each
+subcomponent scaled between −0.5 and + 0.5 while the y-axis
+shows the variance of indicators representing subcomponents. The
+steeper the curve, the stronger the inﬂuence of the subcomponents
+and the respective indicators. Curves that are fully horizontal mean
+that the subcomponent has nearly no inﬂuence on the overall index re-
+sult. The second part (in the middle—named “1st order sensitivity indi-
+ces”) shows boxplots with subcomponents on the x-axis and the
+sensitivity on the y-axis. The size of the box describes how a subcompo-
+nent (and its indicators) inﬂuences the index. A smaller boxplot size
+suggests a more precise inﬂuence on the index. The bold line in the
+boxplot shows the median. The higher scores on the y-axis imply the
+strength of inﬂuence of each subcomponent on the overall risk index.
+The third part of the ﬁgure (on the right— named “total effect sensitivity
+indices”) also displays the boxplots and explains the total sensitivity ef-
+fect. It shows how indicators in each vulnerability subcomponent
+change or interact if there is a change of one indicator. If the median
+of a subcomponent (and its indicators) in total sensitivity effect is
+above zero it means that the subcomponent is meaningful for and inﬂu-
+ences the vulnerability index.
+Fig. 2 shows the differential inﬂuence of each indicator within the
+WRIv and the INFORMv index. Both ﬁgures clearly reveal that curves
+are steep and that the median values of all boxplots are above zero in
+both the ﬁrst-order sensitivity (middle graphs) and the total sensitivity
+effect (right graphs) for WRIv and INFORMv. Consequently, it can be
+concluded that the indicators and the respective subcomponents are
+statistically meaningful and relevant for the overall assessment of vul-
+nerability and their respective indices. The sensitivity analysis suggests
+that the index results are internally valid. In terms of the WRIv these re-
+sults conﬁrm the internal reliability evaluation done also within an ear-
+lier version of the WRIv (see Welle and Birkmann, 2015).
+4.3. External validation: the quantitative relationship between vulnerability
+and loss of life
+Understanding past disaster losses due to climate-related hazards,
+such as storms, droughts or ﬂoods can not only be explained in terms
+of the magnitude and frequency of hazards. Rather hazard intensity
+and frequency, exposure and vulnerability all play an important role.
+We argue that independent of the speciﬁc hazard, it is essential to re-
+duce systemic societal vulnerability in order to close the adaptation
+gap – the difference between current levels of vulnerability and expo-
+sure and risk management capability. This is especially important
+given the increasing recognition that climate change hazards have
+emergent, indirect and cascading impacts—for example when a drought
+in one country leads to food insecurity in another country. In this regard,
+the assessment of vulnerability can also shift the prioritisation of coun-
+tries for supporting the development of climate resilience and adaptive
+capacities. Developing vulnerability indicators independently of speciﬁc
+hazards and exposure means vulnerability reduction measures can be
+put in place even where there is no current climate hazard or exposure.
+Considering this, external validation of indices is imperative to examine
+their explanatory power by investigating how well they describe disas-
+ter or climatic event outcomes. This is one way of avoiding impacts from
+unexpected events.
+There are several ways to measure the magnitude of impacts of haz-
+ard events, and the choice of metric results in different outcomes of
+which countries are most affected by disasters. Visser et al. (2020)
+show that if economic losses are considered as a disaster outcome
+then OCED countries are most affected by disasters. In contrast, if “num-
+ber of people affected” is considered as the metric it is the “BRICS” coun-
+tries (e.g. Brazil, Russia, India, China) that emerge as most impacted, and
+if “number of people killed” is considered it is developing countries that
+rank the most affected (Visser et al., 2020).
+In our analysis, we use mortality per hazard event as the measure of
+disaster outcome as death is the most severe and irreversible impact.
+Mortality due to natural and climate-related hazards is captured in the
+EM-DAT database. The mortality (deaths per event) is likely to be
+underestimated in low income countries or remote areas due to incom-
+plete reporting. Essential data sources for mortality are from vital regis-
+tration or life insurance claims, neither of which are widely prevalent in
+poorer countries. Thus the difference that we present here in terms of
+mortality per hazard between high vulnerable versus low vulnerable
+countries is likely to be higher rather than lower.
+As in Section 4.4.2 for vulnerability, we aggregated mortality per
+event (national EM-DAT data) to the regional level (Fig. 3) using the
+same UNSD regions as described in Section 3.2. Fig. 3B shows the aver-
+age mortality per hazard event for each region as well as the number of
+hazard events per region. Signiﬁcant spatial differences become visible
+for example in terms of the difference between South-East Asia and
+East-Africa.
+Furthermore, we analysed how vulnerability in the WRIv and
+INFORMv indices and their combined values relate with hazard-
+induced losses of different types and thus investigated if vulnerability
+can statistically explain disaster outcomes or parts of it (see Table 5
+and Fig. 4). Mortality per hazard event and the number of people af-
+fected per hazard event had a positive and signiﬁcant correlation with
+vulnerability values of WRIv, INFORMv and the combined indices (see
+Table 5). The correlation coefﬁcient of mortality per event (r = 0.421,
+p = 0.05) and people affected per event (r = 0.434, p = 0.05) at the re-
+gional level was found to be slightly higher than national level coefﬁ-
+cients. Fig. 3 presents the maps of mortality per event at the national
+and regional levels. In terms of economic losses per event, a negative
+and signiﬁcant correlation to vulnerability was found with a higher cor-
+relation coefﬁcient at the regional level (r = 0.500, p = 0.01) than at the
+national level (see Table 5).
+In short, the correlation analyses revealed that vulnerability at the
+national and regional levels does correlate with average mortality per
+Table 4
+Internal consistency and reliability of the vulnerability components in the WRI and the IN-
+FORM Risk Index.
+Source: Own calculation.
+Subcomponents
+Cronbach's alpha
+Guttman's Lambda
+WRI
+Susceptibility
+0.881
+0.926
+Lack of coping capacity
+0.861
+0.891
+Lack of adaptive capacity
+0.870
+0.901
+All indicators
+0.949
+0.965
+INFORM Index
+Socioeconomic vulnerability
+0.751
+0.788
+Vulnerable groups
+0.790
+0.851
+Lack of coping capacity
+0.933
+0.940
+All indicators
+0.948
+0.954
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+8
+event, people affected and economic losses caused by each event. In
+other words, higher vulnerability means higher mortality and less eco-
+nomic loss per event. Overall, correlation results suggested that both
+the WRIv and INFORMv index, as well as their combined form, have ex-
+planatory power for disaster outcomes and thus are externally valid
+both at the national and regional levels.
+Fig. 2. Sensitivity analysis results for the vulnerability main components of the (A) WRIv and (B) INFORMv index.
+In WRI: Public Infrastructure (PUIR); Nutrition (NUTR); Poverty and Dependencies (PVDP); Economic capacity and Income distribution (ECID); Governance and Authorities (GOVA);
+Medical Services (MEDS); Material Coverage (MCOV); Education and Research (EDRE); Gender equity (GDEQ); Environmental Status/Ecosystem Protection (ESEP); Investment
+(INVT). In INFORM Index: Development and Deprivation (DEVP); Inequality (INQT); Aid Dependency (AIDD); Uprooted People (UPPL); Other Vulnerable Groups (OTVG); Disaster
+Risk Reduction (DRR); Governance (GOVR); Communication (COMM); Physical infrastructure (PINF); Access to health systems (AHLC).
+(Source: Own ﬁgure)
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+9
+We further analysed the validity of these indices along vulnerability
+categories by exploring the magnitude of mortality and absolute eco-
+nomic losses. This analysis shows how many times higher or lower
+these impacts are in countries categorized as very highly vulnerable
+compared to countries in other vulnerability categories (see Fig. 4).
+Fig. 4 further underscores that mortality per hazard event in countries
+according to ﬁve vulnerability categories differs signiﬁcantly as sug-
+gested by the nonparametric test.
+Fig. 5A shows that loss of life per hazard event is 15 and 7 times
+higher in countries with very high vulnerability compared to countries
+with very low and low vulnerability, respectively, based on the com-
+bined index. In WRIv and INFORMv indices, mortality per event in
+Fig. 3. Mortality per climate related hazard event (ﬂoods, storms and droughts) between 2010 and 2019 at the national (Fig. 3A) and regional level (Fig. 3B). Both maps are based on
+national scale data from the Emergency Events Database—EM-DAT (https://www.emdat.be/database) for storms, ﬂoods and droughts hazards. Fig. 3A was classiﬁed using a manually
+modiﬁed classiﬁcation in order to account for extreme outliers (i.e. Somalia). Fig. 3B shows the average mortality per event for each UNSD region classiﬁed using the natural breaks method
+and labelled with the number of hazard events over the 10 year period for each region.
+Table 5
+Correlation of loss due to past disaster events (ﬂoods, droughts and storms) and vulnerability.
+Hazard dependent variables
+WRI vulnerability
+(National level)
+INFORM vulnerability
+(National level)
+Combined vulnerabilitya
+(National level)
+Combined vulnerabilitya
+(Regional level)
+Number of events
+−0.002
+0.040
+0.041
+0.048
+Mortality per event
+0.316⁎⁎
+0.274⁎⁎
+0.285⁎⁎
+0.421⁎
+Economic losses per event
+−0.278⁎⁎
+−0.211⁎⁎
+−0.230⁎⁎
+−0.500⁎
+People affected per hazard event
+0.260⁎⁎
+0.235⁎⁎
+0.255⁎⁎
+0.434⁎
+**, * correlation is signiﬁcant at the 0.01 and 0.05 levels, respectively.
+a Combined vulnerability is calculated based on both WRI and INFORM index.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+10
+Fig. 4. Clustered boxplots of mortality per hazard event by vulnerability categories and type of index.
+Fig. 5. Magnitude of (A) death per hazard event [number of time higher] and (B) economic losses per hazard* event [number of times lower] (C) population affected [number of time higher] in
+the past 10 years in countries categorized as very highly vulnerable compared to countries in other vulnerability categories. Only vulnerability components of WRI and INFORM are
+included in the analysis and represented with WRIv and INFORMv. [* selected hazards: ﬂoods, droughts, storms].
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+11
+countries that are very highly vulnerable is 6 times and 24 times higher,
+respectively, than in countries with very low vulnerability. The signiﬁ-
+cantly higher magnitude in the INFORMv index compared to the WRIv
+index is due to a greater number of countries (classiﬁed as highly vul-
+nerable) included in the INFORMv index particularly Somalia,
+Dominica, the Democratic Republic of Congo and North Korea (see
+also Fig. 1A/B). We also examine the mortality per 100,000 inhabitants
+in the last ten years along different vulnerability classes. The results
+show that mortality per 100,000 inhabitants is higher in countries cate-
+gorized as high and very high vulnerable compared to low and very low
+vulnerable. For the combined index and the INFORMv index, results
+show 3 to 5 deaths per 100,000 inhabitants in very high vulnerable
+countries while this number is below 1 in low and very low vulnerable
+countries (see Figure-C in Supplement). Thus, even though the speciﬁc
+numbers differ depending on the index used, it is evident that high
+and
+very
+high
+vulnerable
+countries
+in
+Africa
+(e.g.
+Somalia,
+Mozambique, Madagascar), Asia (e.g. Philippines, Nepal, Afghanistan,
+Pakistan) and the Small Island States (e.g. Haiti, Vanuatu, Micronesia)
+had a higher mortality per 100,000 inhabitants compared to other coun-
+tries classiﬁed e.g. as low vulnerable.
+In terms of economic damages, it was found that economic damages
+per event are higher in countries with low vulnerability than in very
+highly vulnerable countries (see Fig. 5B). The economic damages per
+event in countries categorized as very highly vulnerable in the combined
+index are 16 times lower compared to countries with very low vulnera-
+bility. In the WRIv and INFORMv indices, very highly vulnerable countries
+have 18 times and 8 times less economic damages per event to report
+compared to countries categorized as having very low vulnerability2 .
+With regard to people affected, the quantitative analysis shows that the
+number of people affected per hazard event was signiﬁcantly higher in
+very high vulnerable countries compared to low and very low vulnerable
+countries. The results of the combined index (see Fig. 5C) underscores
+that number of affected people per hazard event was about 11 times
+higher in countries categorized as very high vulnerable compared to
+very low vulnerable. In terms of WRIv and INFORMv indices, the popula-
+tion affected per hazard event was found to be about 12 times higher in
+very high vulnerable countries compared to very low vulnerable coun-
+tries. Similar trends were observed for the affected population per 1000
+people (see Figure-D in Supplement). The results underscore that the
+overall magnitude of mortality, economic losses and population affected
+differs signiﬁcantly between all vulnerability categories regardless of the
+speciﬁc index used (see Table-D in Supplement).
+Also, the regional level assessment of vulnerability and mortality
+(Fig. 4) reveals that large UN regions with a nearly similar number of
+hazard events in the last 10 years, such as North America compared to
+East Africa, faced signiﬁcantly different mortality per event. It is very un-
+likely that this is primarily a result of hazard intensity or exposure.
+Moreover, all three indices show a similar trend between all four
+vulnerability categories with respect to mortality and economic losses.
+Thus, this analysis also shows the validity of these indices in explaining
+disaster outcomes. The high mortality per hazard event in countries
+with very high and high vulnerability is associated with limited medical
+services and coverage, poverty and inequality, development depriva-
+tion, as well as governance issues (see Supplement, Table-E). The eco-
+nomic losses per event are higher in less vulnerable countries which
+are mainly high income countries. This ﬁnding is supported by other
+studies (UNDESA, 2020; Wallemacq and House, 2018). The main reason
+for this relationship is that countries with higher economic losses have
+more economic assets exposed and wealth to lose. For example, if a
+ﬂood damages an expensive light-rail system in one country and
+washes away a dirt road in another, the residents of both may have re-
+stricted mobility and associated impacts to their lives but the economic
+loss in the ﬁrst case will be much higher. However, the ﬁrst country
+most likely has greater ﬁnancial, technical and infrastructural resources
+and capacities to repair and recover without signiﬁcant long-term con-
+sequences (Rentschler, 2013). For example, the analysis of the insur-
+ance coverage per region revealed that SIDS like Micronesia or
+Polynesia, but also various regions in Africa, such as Middle Africa and
+Western Africa have signiﬁcantly lower insurance coverage compared
+to regions like Australia and New Zealand or Western Europe and
+North America (see Figure-E in Supplement). Thus, part of the losses
+in the latter countries might be compensated by insurance.
+In summary, the highest absolute economic losses are found in
+countries with wealth and exposed capital assets, while BRICS countries
+(including South Africa) face the highest number of affected people par-
+ticularly in absolute numbers (in part due to large populations sizes e.g.
+in China or India), however, the mortality per hazard event is lower
+compared to most vulnerable countries or least developed countries.
+When calculating the economic damage per country as a proportion of
+GDP along different country income groups, the disproportional high
+losses in low-income countries become visible (Wallemacq and
+House, 2018). However, the calculation of economic damages in propor-
+tion to the GDP for the vulnerability country classes is less clear or
+shows a more diverse picture also due to the fact that vulnerability clas-
+siﬁcations are not equal to income groups. We found that – even though
+economic losses (in the last ten years) as a percentage of GDP is higher
+in very high vulnerable countries compared to very low vulnerable
+countries as per INFORMv – there is not always a signiﬁcant difference
+between very high, high, medium and low vulnerability country groups
+(see Figure-F in Supplement). Our analysis revealed that some countries
+that are categorized as very low or low vulnerable face relatively high
+economic losses as a percentage of GDP, such as Japan, USA, Oman,
+Kazakhstan, Cuba, Argentina and Serbia. The WRIv index provided dif-
+ferent results also due to a lower number of countries (see also discus-
+sion in Section 4.4.1).
+4.4. Blind spots, data gaps and limitations
+4.4.1. Data gaps
+Global indicator systems and indices, such as the WRI and INFORM,
+can only be as accurate as the available data. The INFORM approach cal-
+culates its own measure of the internal validity of the index (reliability
+index – see also Section 2) for each country based on the number of
+missing indicators, the recentness of the data available, and whether
+or not the country is experiencing violent conﬂict. The resulting “Lack
+of Reliability” value for each country was calculated in the INFORM
+Risk Index 2019. Our analysis of these values found that the lack of reli-
+ability is not signiﬁcantly higher for countries with high levels of vulner-
+ability according to INFORM. Out of the 50 countries most lacking
+reliable values in the INFORM assessment in 2019, 18 countries had
+high to very high vulnerability scores, 16 had low to very low vulnera-
+bility scores and 16 had medium vulnerability scores. That means next
+to instability within a country, it is also the size of the country that
+seems to inﬂuence data availability independent of the level of vulnera-
+bility. For example, there is also a lack of reliability for the scores of small
+countries with low vulnerability in Europe like Lichtenstein.
+The WorldRiskIndex does not calculate reliability but instead does
+not calculate an index value for those countries for which there is a
+lack of recent data. This also largely explains why the WRI provides re-
+sults for fewer countries compared to INFORM. The WRI omits 20 coun-
+tries, 18 of which the INFORM index includes. Of these 20 countries
+missing from the WRI, 13 are Small Island Developing States (SIDS).
+SIDS and Antarctica are examples of blind spots of the indices due to
+limited data collection. In the case of Antarctica, an emerging place of in-
+vestment, it is not a nation and thus data is missing from nation-based
+datasets.
+While SIDS-dedicated vulnerability indices have been developed
+(Pelling and UITTO, 2001), missing data is a challenge when trying to
+2 Economic loss trends from EMDAT database must be interpreted with caution, since
+economic loss reporting is often underdeveloped and contains missing or underestimated
+data for many disasters. This leads to higher uncertainties of this impact data.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+12
+incorporate SIDS into wider indexing approaches. In the calculation of
+the Sustainable Development Goals (SDG) index and the Dashboards
+Report, 25 SIDS were omitted from analysis due to missing data
+(Gosling-Goldsmith et al., 2020; Nurse et al., 2014; Sachs et al., 2017).
+In the WRI, 34% of SIDS are omitted of the 38 SIDS that are United Nation
+Member States (see https://sustainabledevelopment.un.org/topics/
+sids/list). The INFORM Index includes all SIDS, however, 37% of the
+SIDS are in the top 25% of countries lacking reliable data based on the re-
+liability index developed within the INFORM approach. Some of these
+data gaps could be addressed using data interpolation and training
+using machine learning techniques (see e.g. Jia and Ma, 2017;
+Mikhailiuk and Faul, 2018).
+Our own analysis of SIDS data and vulnerability (see Fig. 6) found
+that the vulnerability rankings of various SIDS differ, for example, the
+SIDS in the Paciﬁc have a higher vulnerability compared to the various
+SIDS in the Caribbean, even though all SIDS are highly exposed to cli-
+mate threats like sea-level rise. The most vulnerable SIDS according to
+both INFORMv and WRIv are Haiti in the Caribbean (with a vulnerability
+value of 7.0 for INFORMv and 0.75 for WRIv) followed by Gineau-Bissau
+(5.6 for INFORM and 0.71 for WRI) in West Africa. INFORM rates the
+Paciﬁc Islands of Micronesia (Federated States of Micronesia), Marshall
+Islands, Papua New Guinea and Tuvalu (all between 5.5 and 5.0) as the
+next most vulnerable. WRIv rates Papua New Guinea as the third most
+vulnerable, followed by Comoros in East Africa and the Solomon
+Islands and Timor-Leste in the Paciﬁc (all between 0.60 and 0.68).
+4.4.2. Regional aggregation
+In a further analysis that highlights and differentiates the SIDS as
+well as landlocked countries, we calculated the average of the two indi-
+ces (WRI and INFORM vulnerability components) and aggregated them
+to the level of regions (UNSD intermediate and subregions as described
+in Section 3.2). This regional classiﬁcation includes four regions domi-
+nated by SIDS, namely Caribbean, Melanesia, Micronesia and Polynesia
+(see Figs. 6 and 7), the latter three being regions in the Paciﬁc Ocean.
+This analysis shows that all three Paciﬁc regions have a higher vulnera-
+bility compared to the average according to the combined indices. In ad-
+dition, an analysis of landlocked vs non-landlocked countries was
+performed. In terms of landlocked countries, a clear difference in the
+level of vulnerability can be observed between landlocked and non-
+landlocked countries in Africa, Southern Asia and South America
+where landlocked countries have a higher average vulnerability com-
+pared to non-landlocked countries (see Figure-G in Supplement). How-
+ever, landlocked countries for example in Europe (e.g. Austria,
+Switzerland, Lichtenstein) do not show such differences.
+The boxplot in Fig. 6 shows a pattern of differentiated vulnerability
+not only between regions but also within regions. Countries of all re-
+gions of Northern America, Australia and New Zealand and Europe, ex-
+cept Eastern Europe, show limited variation in vulnerability. In contrast,
+all other regions show a higher variation of vulnerability within the re-
+gion. For example, in Eastern Asia, Japan (19.89) and South Korea
+(20.84) were found to have a very low vulnerability, but China (39.6)
+and North Korea (53) had medium and high vulnerability respectively.
+Southern Asia has quite an even distribution of quartiles since countries
+had different vulnerability levels, for example, Afghanistan (very high),
+Pakistan, India, Nepal and Bangladesh (high), Iran and Bhutan (me-
+dium) and Maldives (low) (see Figure-H in Supplement). Landlocked
+countries in Southern Asia and Africa have overall a slightly higher vul-
+nerability. In Eastern Africa, the higher position in the ﬁgure and smaller
+box size indicates that most of the countries have high vulnerability ex-
+cept Mauritius (31.8) and Seychelles (32.5) (which are represented
+with the ‘*’ symbol). Similarly, Western and Middle Africa show a
+large distribution of vulnerability, but the majority of countries (except
+Cabo Verde and Sao Tome and Principe) have vulnerability values be-
+tween 50 and 82 and are considered as high to very highly vulnerable.
+Overall, results suggested that the inner distribution of vulnerability dif-
+fers signiﬁcantly in the Global South particularly in regions of Asia and
+Fig. 6. Boxplots of the vulnerability of regions including SIDS (in brown). ‘°’ represent mild outliers2 and ‘*’ extreme outliers (see Table-C in the Supplementary material for number of
+countries in each region).
+Footnote 2. An outlier is deﬁned as value with is numerically distant from the rest of the data (Schwertman et al. (2004). Mild outliers indicate the values which beyond the upper inner
+fence of the boxplot and calculated as {Third quartile or 75th percentile (Q3) + 1.5 × (Interquartile range)}. Extreme outliers indicate the values which beyond the upper outer fence of the
+boxplot and calculated as {Third quartile or 75th percentile (Q3)+3 × (Interquartile range)}. Interquartile range can be obtained by subtracting value of 75th percentile (Q3) and 25th
+percentile (Q1) i.e., Q3 - Q1.
+Source: (Own ﬁgure based on WRIv and INFORMv index calculations using UNSD regions; the number of countries that fall into one of these regions is shown in Table-C of the Supplement).
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+13
+Africa including their landlocked countries, unlike most high income re-
+gions where countries have more or less similar values as shown by the
+size of boxplots.
+5. Discussion: different starting points, limits and levers for action
+The results of the internal and external validation of the vulnerability
+indicators and components of the WRIv and INFORMv Index underscore
+that global vulnerability assessments can provide an important layer of
+information, linked to core characteristics of systemic societal vulnera-
+bility and explain (a part of) observed disaster impacts. The following
+section interprets core results of the analysis focused on three issues:
+1) different starting points revealed through the assessment, 2) limita-
+tions and uncertainties and 3) how these results provide levers of
+action.
+5.1. Vulnerability results reveal different starting points
+The analysis presented here argues for a reframing of risk to climate
+change related hazards and to the policy responses taken to reduce risk
+through climate change adaptation and wider acts of climate sensitive
+development. To date, global assessments of climate change risk typi-
+cally start with hazard analysis, then layer exposure (population distri-
+butions) and ﬁnally vulnerability. This is echoed for example in the logic
+of IPCC Assessment Review process with Working Group I (hazards)
+followed by Working Group II (Impacts, Adaptation and Vulnerability).
+While people often assume that the mortality of storms, ﬂoods and
+droughts is mainly determined by hazard intensity, frequency and ex-
+posure, our analysis revealed the inﬂuence of vulnerability and systemic
+societal vulnerability in particular. The internal and external validation
+of the vulnerability assessments (INFORMv and WRIv) offers an addi-
+tional argument for using vulnerability and systemic societal vulnerabil-
+ity (core focus on societal issues and barriers) as the entry point for
+adaptation planning. In contrast to many adaptation concepts that
+focus on climatic hazards or climate scenarios as the primary informa-
+tion basis, we argue that it is equally important to deﬁne goals for reduc-
+ing vulnerability. The validation results showed that those countries
+suffering most in terms of human losses and severe impacts (people ad-
+versely affected) were also among the most vulnerable. Future national
+adaptation plans for example could take up some of this information to
+deﬁne goals for adaptation and vulnerability reduction, e.g. poverty re-
+duction, reducing inequality or improving the access to basic services
+for most vulnerable groups (water and sanitation). Next to adaptation
+plans at a regional or national level, the quantitative vulnerability infor-
+mation could also be used to inform larger international adaptation pro-
+jects (Muccione et al., 2017). For example, the International Climate
+Initiative (see BMU, 2021) ﬁnances projects to support vulnerable coun-
+tries. All projects have to report on standard impact indicators, including
+the reduction of Green House Gas emissions, the number of people di-
+rectly supported by the project to adapt to climate change, the number
+of improved policy frameworks developed, and the number of new or
+improved institutional structures and processes to address climate
+change and conserve biodiversity (see BMU, 2021). While these impact
+indicators are important, a stronger emphasis on aspects of systemic so-
+cietal vulnerability could strengthen the overall intention to support
+vulnerable countries and to reduce vulnerability. Also, the question of
+what can be achieved in terms of strengthening adaptive capacities
+might need to be evaluated according to the level of vulnerability of a
+country or region. Thus, there is a need to acknowledge that countries
+have very different starting points in terms of their way towards climate
+resilience and these differences are also linked to the level of vulnerabil-
+ity.
+5.1.1. Prioritizing countries
+Interestingly, the external validation revealed that larger absolute
+economic losses per hazard event occur in less vulnerable countries.
+While this might be an argument for prioritizing less vulnerable coun-
+tries as well, we observe that these countries that experience the
+highest absolute economic losses are often those that have wealth and
+measures that support recovery processes, such as higher levels of in-
+surance coverage. In contrast, in poor communities, households whose
+houses and possessions have lower monetary value or who experience
+non-economic losses are not sufﬁciently visible within existing loss
+metrics. This is particularly true for informal economies, which make
+up a large proportion of the economic activity and value-adding in
+many of the most vulnerable countries. Consequently, our analysis un-
+derscores that there is a need to critically revisit whether economic
+damage as often used for the allocation of funding (after major events)
+is an appropriate indicator to assess the severity of impacts to climatic
+hazards.
+While there is a need to account for the costs of climate change in
+terms of real estate losses or water costs, it is particularly the irrevers-
+ible impact—like mortality or small scale chronic and irreversible
+losses—that require more attention. Moreover, a further disaggregation
+Fig. 7. Vulnerability at the regional level (based on UNSD intermediate regions and subregions). Level of vulnerability calculated by averaging the WorldRiskIndex vulnerability and
+INFORM vulnerability and lack of coping capacity values for each region. Regional averages classiﬁed into 5 classes (i.e. very low ≤28, Low 28 to 37, Medium 37 to 44, High 44 to 51,
+Very high >51) using the quantile method. For the region names see Table-C in Supplement.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+14
+of mortality data by gender and other social categories would help
+global assessments to better account for these differences. Since this
+data is not available for most countries yet, it is recommendable to in-
+troduce and ﬁnancially support such loss and damage reporting tools
+that also account for gender and social categories also in national adap-
+tation strategies and through international adaptation funding. Only on
+the basis of a better understanding of societal impacts of climate inﬂu-
+enced hazards, more speciﬁc adaptation and risk reduction goals can
+be formulated.
+Even if in the past climatic hazard mortality has been relatively low
+in terms of absolute or relative numbers of fatalities per hazard event, it
+is essential to strengthen climate resilient development in these vulner-
+able regions. This is also crucial given the increasing number of affected
+people and economic damages due to natural hazards modiﬁed by
+climate change (Wallemacq and House, 2018) since it is likely that
+even smaller increases in hazard frequency and intensity will have
+adverse consequences.
+5.2. Limitation and uncertainty
+Despite improvements for example in terms of the representation of
+SIDS in global maps of vulnerability, the study shows clear limitations
+and constraints of the global vulnerability indicators and index ap-
+proaches studied. Next to the uncertainty about the deﬁnition used for
+vulnerability or the data quality for the assessment (see Visser et al.,
+2020), indicator approaches only measure a part of the underlying
+indicandum—the phenomena of interest. Consequently, indicators are
+intentionally reductionist in that an indicator system can only focus
+on particular elements of the broader complex of vulnerability. For ex-
+ample, income inequality measured with the GINI index is just one as-
+pect of inequality and there might be countries where such income
+differences are just one layer of inequality. Another example is that
+the adult literacy rate or the combined gross school enrolment is used
+as indicators for measuring adaptive capacity. The assumption is that a
+higher level of education allows one to be better prepared for livelihood
+transitions and future hazards and climate change. However, the quality
+of the schooling programme and the content of curricula are not cap-
+tured in this assessment.
+Gender parity in education or the share of female representatives in
+the national parliament are just two indicators that hint towards the rel-
+evance of the topic, but more speciﬁc structures of gender inequality
+cannot be captured with these global indicators and the present data. Is-
+sues of ethnicity are also often absent within global databases. The
+INFORM index uses the indicator “other vulnerable groups” to assess
+the vulnerability of speciﬁc marginalized groups, however, the aggre-
+gated indicator is also not in the position to include very local or context
+speciﬁc aspects, due to the intention of international comparison. That
+means global vulnerability assessment approaches have some limita-
+tions in considering local context and social diversity. Some ﬂexibility
+can be used while implementing the assessment framework at sub-
+national or local scale. For example, during the assessment indicators
+can be operationalized in a way that captures communities' priorities,
+values and aspirations.
+Both the INFORM and WRI concepts assume that vulnerable groups
+do not just have deﬁciencies, but also different coping and adaptive ca-
+pacities that need to be captured in the indicator list. Consequently, also
+the relationships between the indices and indicators are important and
+should receive more attention in the future. Furthermore, the rising im-
+portance of everyday risks and extensive impacts needs further atten-
+tion in global datasets and assessments. In contrast to conventional
+risk assessments that often use absolute economic losses as a core
+focus, which means that high value physical assets and high hazard in-
+tensities are placed as a priority, we argue that vulnerability and sys-
+temic societal vulnerability in particular is a more appropriate metric
+since it points towards places where even a normal (non-extreme)
+storm, ﬂood or drought are likely to result in ill health or damage to
+physical assets particularly for the poor. That means, even though
+these indicator based assessments provide only one layer of information
+and show a selected piece of a more complex picture, the ﬁndings
+underscore that we need to broaden our focus from the identiﬁcation
+of how climate change causes physical impacts towards a perspective
+that accounts for the existing differences in vulnerability and thus better
+acknowledges the different starting points for climate resilient
+development.
+5.3. Information for different levels for action
+Promoting progress towards climate resilient development requires
+not only visions and tools for future development, but also the consider-
+ation of pre-existing adaptation gaps revealed when looking through
+the lens of different levels of vulnerability. The majority of the most vul-
+nerable countries have contributed little to global greenhouse gas emis-
+sions but still face the major burden of climate change if we consider
+that human fatalities are key (see Fig. 5). Recent studies (Arnell et al.,
+2019; Tabari, 2020) that assess the future development direction of cli-
+matic hazards in different regions show, for example, that there is a high
+probability that droughts as well as ﬂash ﬂoods, will increase, particu-
+larly in Africa. Various world regions are also likely to experience ex-
+treme heat events and coastal ﬂooding and sea-level rise in the future
+(IPCC, 2018, 2014b).
+5.3.1. Vulnerability assessments can also complement climate information
+The newest IPCC AR6 report of the WG I (IPCC, 2021) includes, for
+example, synthesis of observed changes in agricultural and ecological
+droughts differentiating four types: increase (1), decrease (2), low
+agreement in the type of change (3) and limited data (4) (see Figure-I
+in Supplement). The assessment reveals for Africa that four climate
+zones are characterized by an increase of agricultural and ecological
+droughts, while for North Eastern Africa and South Eastern Africa solely
+“low agreement in the type of change” and for the Sahara “limited data”
+was found. While the assessment is of high quality, it is important to
+note that North Eastern and South Eastern Africa are areas that rank
+among the most vulnerable regions globally. The region of Eastern
+Africa (including North Eastern and South Eastern Africa) was exposed
+to over 200 hazard events (droughts, ﬂoods and storms) and faced more
+than 100 fatalities per event between 2010 and 2019. In contrast,
+Eastern Asia (e.g. encompassing China) faced more than 300 hazard
+events during the same period but had a mortality of 15 to 31 fatalities
+per event. Thus, vulnerability information and the external validation
+results can provide an important additional layer of information for
+deﬁning adaptation needs and priorities. Thus, considering both –
+climate and vulnerability information can be highly relevant to inform
+adaptation policies since hazard information alone would point towards
+the urgent adaptation needs in Eastern Africa.
+5.3.2. Vulnerability assessments can inform adaptation
+Considering aforementioned discussion, adaptation measures for
+protecting communities from droughts or ﬂoods requires signiﬁcant ﬁ-
+nancial, institutional and human resources, the identiﬁed already
+existing adaptation gap has to be addressed as a priority, next to hazard
+speciﬁc adaptation projects. It is essential that we better understand the
+contributions that speciﬁc adaptation options can make to climate
+resilient development and vulnerability reduction.
+Enhanced warning systems for drought risks are needed, alongside
+investments that address the existing vulnerability and adaptation gap,
+for example, in terms of access of most vulnerable people to basic
+infrastructure services, such as water, energy, sanitation and medical
+services. The correlation analysis (see Supplement, Table-E) underscored
+that signiﬁcant but not very strong correlations exist between mortality
+per hazard event and vulnerability components such as inequality,
+vulnerable groups, infrastructure and development and deprivation in
+terms of INFORMv and governance, medical services, economic capacity
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+15
+and public infrastructure in terms of the WRIv. While indicators and indi-
+cator systems can only capture some elements of larger structures and
+systems, in this case, it can be argued that access to basic infrastructure
+and measures that reduce inequality and improve the access of vulnera-
+ble groups to basic infrastructure services is an important element of the
+solution space. Also, investments in improving medical infrastructure and
+access to it for most vulnerable groups within vulnerable countries are a
+valid resulting recommendation. Consequently, hazard speciﬁc adapta-
+tion programmes and local adaptation projects need to be complemented
+with larger scale infrastructure programmes at the national level if cli-
+mate resilient development is to be achieved.
+Increasingly recognized as fundamental for vulnerability reduction
+and adaptation are social insurances and infrastructure programmes
+as well as legislation that improves the access of poor and marginalized
+groups towards basic infrastructure services and basic security. Social
+insurance or protection programmes are not yet routinely included in
+indicator systems of vulnerability. The “free basic service programme”
+of the national government of South Africa (GovSA, 2021) is one exam-
+ple where the government of South Africa has committed itself to pro-
+vide a basic amount of free water, electricity and sanitation to low
+income households, particularly indigent people such as those living
+in informal settlements or remote rural areas. This is an important mea-
+sure for reducing systemic societal vulnerability since many countries
+that rank high in terms of vulnerability have a large proportion of peo-
+ple without access to such basic services. Coupled with incentives, for
+example in terms of a higher use of renewable energy (e.g. solar home
+systems in rural areas see GovSA, 2021) these investments can support
+vulnerability reduction and mitigation of greenhouse gas emissions.
+However, there is also a critique of the programme design and imple-
+mentation (see Muller, 2008; Nel and Rogerson, 2005) as is witnessed
+by ongoing service delivery protests (Mutyambizi et al., 2020). The
+National Infrastructure Plan of South Africa also directs national invest-
+ments into education, medical, water and sanitation infrastructure.
+These national plans address (in part) inequality and spatial disparities
+and might provide enabling conditions for local adaptation approaches.
+Overall, the “free basic service programme” that targets particu-
+larly poor and most vulnerable groups shows that current national
+programmes can be linked to different aspects assessed within
+global vulnerability approaches. Hence, these indicators can, directly
+and indirectly, support the identiﬁcation of levers for action. At the
+same time, it is important to acknowledge that drivers and root
+causes of systemic vulnerabilities and development challenges are
+not always new, and sometimes—for example in various countries
+in the Caribbean, Africa and Asia—can be linked to histories of impe-
+rialism, colonial structures, and subsequent development and gover-
+nance contexts.
+6. Conclusions
+The most vulnerable countries and regions should become priority
+sites for climate resilient development since these regions and countries
+need support in reducing vulnerability and adapting the economic and
+social systems to a changing climate. The analysis and validation of vul-
+nerability indicators of the WRIv and INFORMv index have revealed that
+the most vulnerable regions and countries have been suffering dispro-
+portionately already from climate-related hazards. While individual
+hazard events and local context conditions inﬂuence speciﬁc disaster
+outcomes it is important to note that the external validation clearly re-
+vealed that signiﬁcant differences exist as to whether and how such nat-
+ural phenomena (ﬂoods, droughts and storms) translate into disasters
+in most versus least vulnerable countries. Considering that the mortality
+per hazard event due to ﬂood, storm or drought is already 15 times
+higher in the most vulnerable countries compared to countries with
+low vulnerability—based on the average of two global index systems
+(WRIv and INFORMv) and disaster impact data of the past 10 years– it
+is essential to acknowledge these facts when deﬁning adaptation
+priorities. Past and existing climate impacts undermine resilience and
+sustainable development.
+Our ﬁndings support calls for Loss and Damage policy to promote
+risk reduction through addressing inequalities that lie behind the vul-
+nerability differences (Roberts and Pelling, 2020). In this regard, it is in-
+teresting to note that some regions that are highly vulnerable have not
+yet seen high mortality ﬁgures in the past 10 years. Climate change is
+likely to intensify particular climate hazards and modify their spatial oc-
+currence so that places not yet exposed may be so in the future. Hence,
+the vulnerability information can be coupled with information on the
+future intensiﬁcation of hazards and the spatial shift of hazards towards
+regions that have not been exposed in the past. This information would
+allow the identiﬁcation of regions that might need to prepare for new or
+changing hazard patterns. Moreover, vulnerability and systemic societal
+vulnerability in particular is not static, rather it is dynamic and therefore
+monitoring tools are needed that are ﬂexible (i.e. be able to integrate
+new topics and indicators), but at the same time also allow for longitu-
+dinal studies.
+Our ﬁndings showed that the WRIv and INFORMv index can be val-
+idated in terms of the internal and external validation tests, however,
+clear limitations are also revealed. The ﬁrst limitation is that the valida-
+tion results apply to the sampled areas and the data available at this mo-
+ment in time. Data limitations, especially due to missing data for some
+countries, could be addressed in future using machine learning tech-
+niques (e.g. Jia and Ma, 2017; Mikhailiuk and Faul, 2018). Consequently,
+the analysis of the internal and external reliability of the index systems
+might need to be repeated on a regular basis. Moreover, temporal dy-
+namics of vulnerability should also receive more attention as shown
+by Feldmeyer et al. for the WRI (see in detail Feldmeyer et al., 2017).
+Our internal validation conﬁrms former studies (see Welle and
+Birkmann, 2015), however, it provides new insights in terms of the ex-
+ternal validation and the link between indicators and the underlying
+indicandum. We have shown that at broader scales and within a time
+span of 10 years the vulnerability level of a country or region signiﬁcantly
+inﬂuences disaster outcomes when focusing on mortality and economic
+losses due to ﬂoods, droughts and storms. The mortality associated with
+climate inﬂuenced hazards can also have other causes (e.g. malnutrition,
+no access to basic services like water, sanitation) which may be exacer-
+bated due to climate change, and are not exclusively caused by it.
+These factors can be captured with assessments of vulnerability.
+In terms of future improvement, there is a need to improve the link-
+ages and capacities of assessing sub-national and more context speciﬁc
+vulnerability aspects. While global comparative approaches can account
+for some heterogeneity of countries in terms of the inclusion of speciﬁc
+indicators, the core of the assessments is still based on the development
+of an indicator set that allows the comparison of countries and regions
+with each other. Thus, most concepts focus on a relative vulnerability
+approach that means vulnerability does not appear when a speciﬁc
+threshold is reached, but rather these assessments measure the differ-
+ences in terms of the vulnerability level between countries and regions.
+In order to promote stronger linkages between global assessments and
+sub-national or local assessments, the subcomponents of these global
+index systems should allow for ﬂexibility. That means, themes and
+sub-components such as the access to basic services or gender inequal-
+ity might need to be operationalized differently within a speciﬁc coun-
+try or local context.
+It is important to acknowledge that global comparative vulnerability
+assessment approaches like WRI and INFORM can provide one layer of
+aggregated overview information that needs to be complemented
+with more context speciﬁc information and additional methods at
+sub-national and local scales. Data available at the global level with na-
+tional scale resolution, however, neither aims to provide nor would be
+able to deliver adequate knowledge for informing and guiding more
+local risk reduction, including the vast problems related to inner-
+country inequalities and disparities, both spatial and socioeconomic
+(Pelling and Garschagen, 2019).
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+16
+Besides sub-national and local scales, also the regional scale needs
+more attention. A low variance of the level of vulnerability within a re-
+gion (Fig. 6), points towards the fact that within this region it is not a
+single country or single community that is particularly vulnerable, but
+rather a cluster of countries that are characterized by a high level of vul-
+nerability. This means local or national adaptation programmes need to
+be complemented with regional scale adaptation strategies, including
+incentives for transboundary cooperation.
+Overall, there is a need to improve measurement tools to track and
+support climate resilient development at various scales, particularly in
+the most vulnerable countries. This should also include monitoring
+tools that account for interventions to reduce systemic societal vulnera-
+bility such as measures of social security and free basic services. It is im-
+portant that the indicators and maps of a vulnerability assessment are
+valid and accurate (as discussed within this paper), however, it is simi-
+larly important to acknowledge that indicators do not replace the need
+for making informed decisions.
+CRediT authorship contribution statement
+Joern Birkmann: Conceptualization, Methodology, Writing –
+original draft, Supervision. Ali Jamshed: Formal analysis, Methodology,
+Writing – original draft, Visualization. Joanna M. McMillan: Visualiza-
+tion, Writing – original draft, Writing – review & editing. Daniel
+Feldmeyer: Formal analysis, Data curation. Edmond Totin: Formal
+analysis, Writing – review & editing. William Solecki: Writing – review
+& editing. Zelina Zaiton Ibrahim: Writing – review & editing. Debra
+Roberts: Writing – review & editing. Rachel Bezner Kerr: Writing –
+review & editing. Hans-Otto Poertner: Writing – review & editing.
+Mark Pelling: Writing – review & editing. Riyanti Djalante: Writing –
+review & editing. Matthias Garschagen: Writing – review & editing.
+Walter Leal Filho: Writing – review & editing. Debarati Guha-Sapir:
+Writing – review & editing. Andrés Alegría: Writing – review & editing.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.scitotenv.2021.150065.
+References
+Adger, W.N., 2006. Vulnerability. Glob. Environ. Chang. 16, 268–281. https://doi.org/10.
+1016/j.gloenvcha.2006.02.006.
+Arnell, N.W., Lowe, J.A., Challinor, A.J., Osborn, T.J., 2019. Global and regional impacts of
+climate change at different levels of global temperature increase. Clim. Chang. 155,
+377–391. https://doi.org/10.1007/s10584-019-02464-z.
+Bakkensen, L.A., Fox-Lent, C., Read, L.K., Linkov, I., 2017. Validating resilience and vulner-
+ability indices in the context of natural disasters. Risk Anal. 37, 982–1004. https://doi.
+org/10.1111/risa.12677.
+Birkmann, J., 2013. Measuring vulnerability to promote disaster-resilient societies and to
+enhance adaptation: conceptual frameworks and deﬁnitions. In: Birkmann, J. (Ed.),
+Measuring Vulnerability to Natural Hazards: Towards Disaster Resilient Societies.
+United Nations University Press, Tokyo, Japan, pp. 9–79.
+Birkmann, J., Cardona, O.D., Carreño, M.L., Barbat, A.H., Pelling, M., Schneiderbauer, S.,
+Kienberger, S., Keiler, M., Alexander, D., Zeil, P., Welle, T., 2013. Framing vulnerability,
+risk and societal responses: the MOVE framework. Nat. Hazards 67, 193–211. https://
+doi.org/10.1007/s11069-013-0558-5.
+Birkmann, J., Feldmeyer, D., McMillan, J.M., Solecki, W., Totin, E., Roberts, D., Trisos, C.,
+Jamshed, A., Boyd, E., Wrathall, D., 2021. Regional clusters of vulnerability show the
+need for transboundary cooperation. Environ. Res. Lett. https://doi.org/10.1088/
+1748-9326/ac1f43 In press.
+Birkmann, J., Welle, T., 2016. The WorldRiskIndex 2016: reveals the necessity for regional
+cooperation in vulnerability reduction. J. Extr. Even. 03, 1650005. https://doi.org/10.
+1142/S2345737616500056.
+Birkmann, J., Welle, T., Krause, D., Wolfertz, J., Suarez, D.-C., Setiadi, N., 2011.
+WorldRiskIndex: concept and results. In: Hilft, Buendnis Entwicklung (Ed.),
+WorldRiskIndex 2011. Buendnis Entwicklung Hilft, Berlin, pp. 13–42.
+BMU, 2021. Guidelines on Project Planning and Monitoring in the International Climate
+Initiative (IKI). Federal Ministry for the Environment, Nature Conservation and Nu-
+clear Safety BMU (accessed 5 August 2021) https://www.international-climate-ini-
+tiative.com/ﬁleadmin/Dokumente/2021/20210416_IKI_Guidelines_on_Project_Plan-
+ning_and_Monitoring.pdf.
+WorldRiskIndex 2011. In: Buendnis Entwicklung Hilft (Ed.), WorldRiskIndex 2011.
+Buendnis Entwicklung Hilft, Berlin.
+Buendnis Entwicklung Hilft (Ed.), 2017. WorldRiskReport: Analysis and Prospects 2017.
+Buendnis Entwicklung Hilft, Berlin.
+Burton, C.G., 2010. Social vulnerability and hurricane impact modeling. Nat. Hazards Rev.
+11, 58–68. https://doi.org/10.1061/(ASCE)1527-6988(2010)11:2(58).
+Cardona, O.D., 2001. Estimación Holística del Riesgo Sísmico Utilizando Sistemas
+Dinámicos Complejos. Technical University of Catalonia, Barcelona (accessed 20
+May 2015) http://www.desenredando.org/public/varios/2001/ehrisusd/index.html.
+Cardona, O.D., van Aalst, M.K., Birkmann, J., Fordham, M., McGregor, G., Perez, R.,
+Pulwarty, R.S., Schipper, E.L.F., Sinh, 2012. Chapter 2: determinants of risk: exposure
+and vulnerability. In: Field, C.B., Barros, V., Stocker, T.F., Dahe, Q., Dokken, D.J., Ebi, K.L.,
+Mastrandrea, M.D., Mach, K.J., Plattner, G.-K., Allen, S.K., Tignor, M., Midgley, P.M.
+(Eds.), Managing the Risks of Extreme Events and Disasters to Advance Climate
+Change Adaption: Special Report of the Intergovernmental Panel on Climate Change.
+Cambridge University Press, Cambridge, UK, New York, pp. 67–96.
+Chen, C., Noble, I., Hellmann, J., Coffee, J., Murillo, M., Chawla, N., 2015. University of Notre
+Dame Global Adaptation Index Country Index Technical Report (ND-GAIN). Univer-
+sity of Notre Dame, Notre Dame (accessed 17 March 2020) https://gain.nd.edu/as-
+sets/254377/nd_gain_technical_document_2015.pdf.
+Cutter, S.L., Ash, K.D., Emrich, C.T., 2014. The geographies of community disaster resilience.
+Glob. Environ. Chang. 29, 65–77. https://doi.org/10.1016/j.gloenvcha.2014.08.005.
+Cutter, S.L., Boruff, B.J., Shirley, W.L., 2003. Social vulnerability to environmental hazards*.
+Soc. Sci. Q. 84, 242–261. https://doi.org/10.1111/1540-6237.8402002.
+EC-DRMKC, 2020. INFORM Risk. European Commission Disaster Risk Management
+Knowledge Centre EC-DRMKC (accessed 1 February 2021) https://drmkc.jrc.ec.eu-
+ropa.eu/inform-index/INFORM-Risk/Results-and-data/moduleId/1782/id/419/con-
+troller/Admin/action/Results.
+Fekete, A., 2009. Validation of a social vulnerability index in context to river-ﬂoods in
+Germany. Nat. Hazards Earth Syst. Sci. 9, 393–403. https://doi.org/10.5194/nhess-9-
+393-2009.
+Feldmeyer, D., Birkmann, J., Welle, T., 2017. Development of human vulnerability
+2012–2017. J. Extr. Even. 04, 1850005.
+Feldmeyer, D., Wilden, D., Jamshed, A., Birkmann, J., 2020. Regional climate resilience
+index: a novel multimethod comparative approach for indicator development, em-
+pirical validation and implementation. Ecol. Indic. 119, 106861. https://doi.org/10.
+1016/j.ecolind.2020.106861.
+Feldmeyer, D., et al., 2021. Global vulnerability hotspots: differences and agreement be-
+tween international indicator-based assessments. Clim. Chang. (Accepted, In press).
+Füssel, H.-M., 2007. Vulnerability: a generally applicable conceptual framework for cli-
+mate change research. Glob. Environ. Chang. 17, 155–167. https://doi.org/10.1016/j.
+gloenvcha.2006.05.002.
+Garschagen, M., Doshi, D., Reith, J., Hagenlocher, M., 2021. Comparing global climate and
+disaster risk indices – how consistent 1 and robust are their results? Clim. Chang.
+(Accepted, In press).
+Garschagen, M., Fekete, A., Fiedrich, F., Welle, T., Birkmann, J., Bussing, J.,
+Chojnowska, P., Hagenlocher, M., Sabelfeld, R., Sandholz, S., 2016. Länderanalyse
+zum Katastrophen-und Risikomanagement(LAKARI). TH Cologne; IREUS Uni
+Stuttgart; UNU Bonn; Bergische University, Cologne (accessed 3 May 2021)
+https://www.researchgate.net/publication/333614223_Identiﬁcation_of_Priority_
+Countries_and_Topics_for_International_Research_on_Disaster_Risk_Reduction_
+Landeranalyse_zum_Katastrophen-_und_Risikomanagement.
+Gosling-Goldsmith, J., Ricker, B., Jan Kraak, M., 2020. Topographic and thematic (in)visi-
+bility of Small Island developing states in a world map. J. Maps 16, 50–56. https://
+doi.org/10.1080/17445647.2020.1736194.
+GovSA, 2021. Government Programmes, Projects and Campaigns. South African Govern-
+ment GovSA (accessed 30 April 2021) https://www.gov.za/about-government/gov-
+ernment-programmes/projects-and-campaigns#Rural.
+Hagenlocher, M., Meza, I., Anderson, C.C., Min, A., Renaud, F.G., Walz, Y., Siebert, S.,
+Sebesvari, Z., 2019. Drought vulnerability and risk assessments: state of the art, per-
+sistent gaps, and research agenda. Environ. Res. Lett. 14, 83002. https://doi.org/10.
+1088/1748-9326/ab225d.
+IPCC, 2012. Summary for policy makers. In: Field, C.B., Barros, V., Stocker, T.F., Dahe, Q.,
+Dokken, D.J., Ebi, K.L., Mastrandrea, M.D., Mach, K.J., Plattner, G.-K., Allen, S.K.,
+Tignor, M., Midgley, P.M. (Eds.), Managing the Risks of Extreme Events and Disasters
+to Advance Climate Change Adaptation: Special Report of the Intergovernmental
+Panel on Climate Change. Cambridge University Press, Cambridge, pp. 3–24.
+IPCC, 2014a. Annex-II: glossary of terms. In: Agard, J., Schipper, E.L.F., Birkmann, J.,
+Campos, M., Dubeux, C. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vul-
+nerability. Part A, Global and Sectoral Aspects. Cambridge University Press, New
+York, NY.
+IPCC, 2014b. Summary for policy makers. In: Field, C.B., Barros, V.R., Dokken, D.J., Mach,
+K.J., Mastrandrea, M.D., Bilir, T.E., Chatterjee, M., Ebi, K.L., Estrada, Y.O., Genova, R.C.,
+Girma, B., Kissel, E.S., Levy, A.N., MacCracken, S., Mastrandrea, P.R., White, L.L.
+(Eds.), Climate Change 2014: Impacts, Adaptation and Vulnerability. Cambridge Uni-
+versity Press, New York, pp. 1–34.
+Summary for Policymakers. In: IPCC (Ed.), Global Warming of 1.5°C. IPCC, Geneva,
+Switzerland, pp. 3–29.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+17
+IPCC, 2019. Summary for policymakers. In: Pörtner, H.-O., Roberts, D., Masson-Delmotte,
+V., Zhai, P., Tignor, M., Poloczanska, E., Mintenbeck, K., Alegría, A., Nicolai, M., Okem,
+A., Petzold, J., Rama, B., Weyer, N.M. (Eds.), IPCC Special Report on the Ocean and
+Cryosphere in a Changing Climate. In Press.
+IPCC, 2021. Summary for policy makers. In: Masson-Delmotte, V., Zhai, P., Pirani, A.,
+Connors, S., Péan, C., Berger, S., Caud, N., Chen, Y., Goldfarb, L., Gomis, M.I., Huang,
+M., Leitzell, K., Lonney, E., Matthews, J., Maycock, T.K., Wateﬁeld, T., Yelekçi, O., Yu,
+R., Zhou, B. (Eds.), Climate Change 2021: The Physical Science Basis. Contribution of
+Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on
+Climate Change. Cambridge University Press In Press.
+Jamshed, A., Birkmann, J., Ahmad Rana, I., Feldmeyer, D., 2020a. The effect of spatial prox-
+imity to cities on rural vulnerability against ﬂooding: an indicator based approach.
+Ecol. Indic. 118, 106704. https://doi.org/10.1016/j.ecolind.2020.106704.
+Jamshed, A., Birkmann, J., Feldmeyer, D., Rana, I.A., 2020b. A conceptual framework to un-
+derstand the dynamics of rural-urban linkages for rural ﬂood vulnerability. Sustain-
+ability 12, 2894. https://doi.org/10.3390/su12072894.
+Jamshed, A., Birkmann, J., Rana, I.A., McMillan, J.M., 2020c. The relevance of city size to the
+vulnerability of surrounding rural areas: an empirical study of ﬂooding in Pakistan.
+Int. J. Disaster Risk Reduct. 101601.. https://doi.org/10.1016/j.ijdrr.2020.101601.
+Jia, Y., Ma, J., 2017. What can machine learning do for seismic data processing? An inter-
+polation application. Geophysics 82, V163–V177. https://doi.org/10.1190/geo2016-
+0300.1.
+Marin-Ferrer, M., Vernaccini, L., Poljanšek, K., 2017. Index for Risk Management - IN-
+FORM: Concept and Methodology, Version 2017. Joint Research Center of European
+Commission, Luxembourg 85 pp.
+Mikhailiuk, A., Faul, A., 2018. Deep learning applied to seismic data interpolation. 80th
+EAGE Conference and Exhibition 2018. 80th EAGE Conference and Exhibition 2018,
+Copenhagen, Denmark. 06/11/2018 - 06/14/2018. EAGE Publications BVNetherlands.
+Muccione, V., Allen, S.K., Huggel, C., Birkmann, J., 2017. Differentiating regions for adapta-
+tion ﬁnancing: the role of global vulnerability and risk distributions. WIREs Clim.
+Chang. 8. https://doi.org/10.1002/wcc.447.
+Muller, M., 2008. Free basic water — a sustainable instrument for a sustainable future in
+South Africa. Environ. Urban. 20, 67–87. https://doi.org/10.1177/0956247808089149.
+Mutyambizi, C., Mokhele, T., Ndinda, C., Hongoro, C., 2020. Access to and satisfaction with
+basic Services in Informal Settlements: results from a baseline assessment survey. Int.
+J. Environ. Res. Public Health 17. https://doi.org/10.3390/ijerph17124400.
+Nel, E., Rogerson, C.M., 2005. Local Economic Development in the Changing World: The
+Experience of Southern Africa. Routledge, New York NY.
+Nurse, L.A., McLean, R.F., Agard, J., Briguglio, L.P., Duvat-Magnan, V., Pelesikoti, N.,
+Tompkins, E., Webb, A., 2014. Small Islands. In: Agard, J., Schipper, E.L.F., Birkmann,
+J., Campos, M., Dubeux, C. (Eds.), Climate Change 2014: Impacts, Adaptation, and Vul-
+nerability: Part B: Regional Aspects. Cambridge University Press, New York, NY,
+pp. 1613–1654.
+Oakley, J.E., O'Hagan, A., 2004. Probabilistic sensitivity analysis of complex models: a
+Bayesian approach. J. Roy. Stat. Soc. B 66, 751–769. https://doi.org/10.1111/j.1467-
+9868.2004.05304.x.
+Oecd, 2008. Handbook on Constructing Composite Indicators: Methodology and User
+Guide. OECD, Paris, p. 158.
+Peduzzi, P., 2013. The global risk analysis for the 2009 global assessment report on disas-
+ter risk reduction. In: Birkmann, J. (Ed.), Measuring Vulnerability to Natural Hazards:
+Towards Disaster Resilient Societies. United Nations University Press, Tokyo, Japan,
+pp. 197–218.
+Pelling, M., Garschagen, M., 2019. Put equity ﬁrst in climate adaptation. Nature 569,
+327–329. https://doi.org/10.1038/d41586-019-01497-9.
+Pelling, M., Uitto, J., 2001. Small island developing states: natural disaster vulnerability
+and global change. Global Environ. Change B. Environ. Hazard 3, 49–62. https://doi.
+org/10.1016/S1464-2867(01)00018-3.
+Rentschler, J.E., 2013. Why Resilience Matters: The Poverty Impacts of Disasters. Policy
+Research Working Paper 6699. World Bank Group, Washington, DC (accessed 19
+April 2021) https://openknowledge.worldbank.org/handle/10986/16915.
+Roberts, E., Pelling, M., 2020. Loss and damage: an opportunity for transformation? Clim.
+Pol. 20, 758–771. https://doi.org/10.1080/14693062.2019.1680336.
+Rufat, S., Tate, E., Emrich, C.T., Antolini, F., 2019. How valid are social vulnerability
+models? Ann. Am. Assoc. Geogr. 109, 1131–1153. https://doi.org/10.1080/
+24694452.2018.1535887.
+Sachs, J., Schmidt-Traub, G., Kroll, C., Durand-Delacre, D., Teksoz, K., 2017. SDG Index and
+Dashboards Report 2017: Global Responsibilities. Bertelsmann Stiftung and Sustain-
+able Development Solutions Network (SDSN). (accessed 21 April 2021) https://s3.
+amazonaws.com/sustainabledevelopment.report/2017/2017_sdg_index_and_dash-
+boards_report.pdf.
+Schmidtlein, M.C., Shafer, J.M., Berry, M., Cutter, S.L., 2011. Modeled earthquake losses and
+social vulnerability in Charleston, South Carolina. Appl. Geogr. 31, 269–281. https://
+doi.org/10.1016/j.apgeog.2010.06.001.
+Schwertman, N.C., Owens, M.A., Adnan, R., 2004. A simple more general boxplot method
+for identifying outliers. Comput. Stat. Data Anal. 47, 165–174. https://doi.org/10.
+1016/j.csda.2003.10.012.
+Sharma, J., Ravindranath, N.H., 2019. Applying IPCC 2014 framework for hazard-speciﬁc
+vulnerability assessment under climate change. Environ. Res. Commun. 1, 51004.
+https://doi.org/10.1088/2515-7620/ab24ed.
+de Sherbinin, A., Emerson, J.W., Bukvic, A., Rohat, G., Gall, M., McCusker, B., Preston, B.,
+Apotsos, A., Fish, C., Kienberger, S., Muhonda, P., Wilhelmi, O., Macharia, D., Shubert,
+W., Sliuzas, R., Tomaszewski, B., Zhang, S., 2019. Climate vulnerability mapping: a sys-
+tematic review and future prospects. WIREs Clim. Chang. 10. https://doi.org/10.1002/
+wcc.600.
+Simpson, N.P., Mach, K.J., Constable, A., Hess, J., Hogarth, R., Howden, M., Lawrence, J.,
+Lempert, R.J., Muccione, V., Mackey, B., New, M.G., O'Neill, B., Otto, F., Pörtner, H.-O.,
+Reisinger, A., Roberts, D., Schmidt, D.N., Seneviratne, S., Strongin, S., van Aalst, M.,
+Totin, E., Trisos, C.H., 2021. A framework for complex climate change risk assessment.
+One Earth 4, 489–501. https://doi.org/10.1016/j.oneear.2021.03.005.
+Sorg, L., Medina, N., Feldmeyer, D., Sanchez, A., Vojinovic, Z., Birkmann, J., Marchese, A.,
+2018. Capturing the multifaceted phenomena of socioeconomic vulnerability. Nat.
+Hazards 11, 308. https://doi.org/10.1007/s11069-018-3207-1.
+Tabari, H., 2020. Climate change impact on ﬂood and extreme precipitation increases with
+water availability. Sci. Rep. 10, 13768. https://doi.org/10.1038/s41598-020-70816-2.
+Tate, E., 2012. Social vulnerability indices: a comparative assessment using uncertainty
+and sensitivity analysis. Nat. Hazards 63, 325–347. https://doi.org/10.1007/s11069-
+012-0152-2.
+The World Bank, 2019. Bangladesh Poverty Assessment: Facing Old and New Frontiers in
+Poverty Reduction. The World Bank, Washington, D.C (accessed 6 May 2021) http://
+documents1.worldbank.org/curated/en/793121572582830383/pdf/Bangladesh-Pov-
+erty-Assessment-Facing-Old-and-New-Frontiers-in-Poverty-Reduction.pdf.
+The World Bank, 2021. World Development Indicators. World Bank (accessed 19 April
+2021) http://wdi.worldbank.org/table/3.11.
+Undesa, 2020. World Social Report 2020: Inequality in a Rapidly Changing World. United
+Nations, New York, p. 213.
+UNDRR, 2017. Global Assessment Report on Disaster Risk Reduction: Unveiling Global Di-
+saster Risk. UNDRR, Geneva, Switzerland (accessed 19 April 2021) https://www.
+preventionweb.net/ﬁles/53086_garatlaslr2.pdf.
+UNDRR, 2019. Global Assessment Report on Disaster Risk Reduction. United Nations,
+Geneva, Switzerland.
+Visser, H., de Bruin, S., Martens, A., Knoop, J., Ligtvoet, W., 2020. What users of global risk
+indicators should know. Glob. Environ. Chang. 62, 102068. https://doi.org/10.1016/j.
+gloenvcha.2020.102068.
+Wallemacq, P., House, R., 2018. Economic Losses, Poverty & Disasters: 1998-2017. United
+Nations Ofﬁce for Disaster Risk Reduction UNDRR; Centre for Research on the Epide-
+miology of Disasters CRED, Geneva (accessed 19 April 2021) https://www.undrr.org/
+publication/economic-losses-poverty-disasters-1998-2017.
+Welle, T., Birkmann, J., 2015. The world risk index – an approach to assess risk and vulner-
+ability on a global scale. J. Extr. Even. 02, 1550003. https://doi.org/10.1142/
+S2345737615500037.
+Welle, T., Birkmann, J., 2016. The World Risk Index 2016. In: Jeschonnek, L., Mucke, P.,
+Walter, J., Kirch, L. (Eds.), World Risk Report 2016: Logistics, Infrastructure and Risk
+Analysis. ündnis Entwicklung Hilft and United Nations University – EHS, Berlin and
+Bonn, pp. 42–51.
+J. Birkmann, A. Jamshed, J.M. McMillan et al.
+Science of the Total Environment 803 (2022) 150065
+18

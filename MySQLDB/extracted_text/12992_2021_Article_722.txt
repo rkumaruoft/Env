@@ -1,0 +1,1496 @@
+RESEARCH
+Open Access
+Climate change-induced migration: a
+bibliometric review
+Juan Milán-García*
+, José Luis Caparrós-Martínez, Nuria Rueda-López and Jaime de Pablo Valenciano
+Abstract
+Background: This paper has reviewed the international research on the terms “climate change” and “human
+migration” from 1999 to 2019. To this end, a bibliometric and a cluster analysis by fractional accounting have been
+carried out using two of the most important databases: Web of Science (WoS) and Scopus. The research found and
+studied 140 documents from WoS Core Collection and 193 from Scopus.
+Results: The results show a continual increase in the number of articles published and citations received during the
+whole period studied. The U.S., U.K., Germany and China have been shown to be the most productive countries
+and there is a predominance of North American organizations supporting and fostering research on these topics.
+Conclusions: The main contribution of this article is the analysis of new tendencies. The trend shows a transition
+from concepts such as vulnerability, climate change, land degradation, refugees and security to others such as
+concepts such as international migration, climate justice, sustainability, human rights and disaster risk reduction.
+Future research in this field should address the comparison of results from research focused on human beings to a
+focus on other living beings.
+Keywords: Climate change, Bibliometrics, Migration, Sustainability
+Introduction
+Throughout the history of the planet, climate has under-
+gone major changes which can be clearly verified in the
+geological record. However, since the Industrial Revolu-
+tion, when fossil energy consumption increased expo-
+nentially and, therefore, the emission of greenhouse
+gases, this process of climate change has been more a
+consequence
+of
+human
+action
+than
+of
+natural
+phenomena.
+For some scientists, such is the transformation and
+magnitude of the changes induced in the environment
+that they have formulated the idea that we live in a new
+geological epoch, characterised by the power of humans
+as a force of transformation on a global scale: the
+Anthropocene [7, 15].
+At present there is broad scientific consensus [14],
+practically universal, that our current model of produc-
+tion and energy consumption is responsible for the
+planet-wide climatic alteration, unprecedented in the
+history of mankind. While it is currently having a serious
+impact on both the environment and the world econ-
+omy, everything indicates that it will be exacerbated in
+the future.
+To this end, since its inception in 1988, the Intergov-
+ernmental Panel on Climate Change (IPCC) has been
+informing about the causes and possible repercussions
+of this phenomenon, as well as proposing response
+strategies.
+The IPCC’s fifth report, in which more than 830 scien-
+tists from 85 countries participated, concluded that
+“warming in the climate system is unequivocal and hu-
+man influence is clear”. Some of the indisputable evi-
+dence of this climate change, which the aforementioned
+report includes, is the increase of 0.85 °C in the average
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: jmg483@ual.es
+Department of Economics and Bussiness, University of Almeria, Almeria,
+Spain
+Milán-García et al. Globalization and Health           (2021) 17:74 
+https://doi.org/10.1186/s12992-021-00722-3
+temperature of the Earth since the beginning of the
+twentieth century, the increase of 0.2 m. of the average
+sea level [27].
+On the other hand, increasingly prolonged and severe
+droughts worldwide as well as extreme weather events
+such as devastating fires, torrential rains or hurricanes,
+are becoming more frequent and intense [50].
+The impact of this phenomenon is manifesting itself
+virulently in some areas of the planet causing changes in
+the way of life of millions of people. Climate Change is
+destroying crops, killing herds or making traditional life-
+styles unfeasible in entire regions of the planet.
+Such is its impact, that there are studies that state that
+Climate Change is currently considered to be a more im-
+portant driver of migration than economic and political
+factors in the countries of origin [34, 62].
+Related to this, the latest report by the World Bank
+Group [53] concludes that if urgent measures are not
+taken in the fight against Climate Change and Develop-
+ment, by 2050, the number of displaced persons as a re-
+sult of this phenomenon could reach 140 million in
+three of the most densely populated developing regions
+in the world (South of the Sahara, South Asia and Latin
+America). The people of these lands would be forced to
+leave their lands as a result of water scarcity, poor har-
+vests, rising sea levels and tsunamis.
+On the other hand, recent studies have shown that Cli-
+mate Change has been one of the contributing factors for
+the unleashing of armed conflicts such as the recent one
+in Syria [13, 52]. Climate change caused this country to
+suffer a major drought during the period 2007 to 2010,
+leading to a series of crop failures and the consequent dis-
+placement of millions of people from rural areas to cities,
+resulting in overcrowding, unemployment and major pol-
+itical unrest that eventually led to civil war [1, 11].
+However, the evolution of the concept of Climate
+Change has undergone changes over time [49]. Together
+with the deterministic conceptions that accept the reality
+of climate change, discrepant and critical voices have
+arisen that call into question its existence or even reject
+the concept altogether (Table 1).
+The above notwithstanding, the increase in evidence that
+refutes the existence of the phenomenon proves that Cli-
+mate Change, especially in developing countries, can amp-
+lify existing vulnerabilities and instabilities in these regions
+and cause a marked increase in the number of displaced
+people. According to the forecasts made by the scientific
+community, the influence of this phenomenon on migra-
+tion can lead to risks to public safety and health [55, 57].
+Migratory movements as a consequence of environ-
+mental causes have been studied in the past. However, it
+has only been in recent decades that the international
+scientific and political community has taken a special
+interest in identifying and assessing the link between
+both variables, even to the extent that the International
+Organization for Migration [43] has proposed a defin-
+ition for people who are forced to migrate due to climate
+related changesenvironmental consequences.
+So called “environmental migrants” are people or
+groups of people who, due to a sudden or progressive
+change in the environment that adversely affects their
+lives, are forced to leave their habitual homes, either
+temporarily or permanently, and who move either within
+their country or abroad [30].
+The interest that this issue has raised in the scientific
+community is such that in the last decade the number of
+articles which link Climate Change to an increase in mi-
+gratory movements that are a result of attempts to adapt
+to the environment [8, 20, 23, 29, 35, 36, 38, 64]. Of note
+are studies carried out in Africa [22, 25, 39, 42, 58], Asia
+[12, 17, 40, 56, 59, 65], America [21, 37, 41, 54, 63] and,
+to a lesser extent, Europe [16, 28].
+For this reason, we believe that it is very useful for the
+scientific community in this area of study to know the
+evolution of the publications that relate these two con-
+cepts, migrations and climate change, as well as the
+main areas of knowledge in which they have been
+developed.
+Table 1 Definitions of climate change
+Author
+Definition
+Todorov, A.V. (1986) [60]
+The concept of climate change is both complex and controversial. There is no unanimous opinion
+and agreement among climatologists on the definition of the term climate, not to mention climate
+change, the trend or climatic fluctuation.
+United Nations (Bodansky, 1993) [9]
+A variation in the climate attributed directly or indirectly to human activity that alters the
+composition of the world’s atmosphere and that adds to the natural variability of the climate
+observed in comparable periods of time.
+Lorenz, E. (1995) [Lorenz EN: Climate is what
+you expect. Unpublished]
+Climate is the current distribution of a climate system over time that extends indefinitely into the
+future, so there is no talk of the existence of climate change.
+IPCC (Parry et al., 2007) [46]
+A change in the state of climate that can be identified (for example, by statistical tests) by changes
+in the average and / or the variability of its properties, and that persists for a prolonged period,
+usually of decades or more.
+Werndl, C. (2014)
+Different climatic distributions in two successive periods of time.
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 2 of 10
+The aim of this bibliometric study is to analyse the
+evolution of the scientific literature related to these two
+concepts (migration and climate change), not only to
+find out the current state but also where research trends
+in this field are heading to.
+The knowledge generated by this study can be a very
+useful tool for the study, design and implementation of
+new research on the subject, as well as for the formula-
+tion of policies aimed at reducing the vulnerability of
+populations exposed to environmental risk factors that
+can lead to migration.
+Materials and methodology
+The method used to analyze the concept of migration in
+the context of climate change is a bibliometric analysis.
+This is a scientific method widely accepted by leading
+research institutions such as the National Science Foun-
+dation or the European Commission [51], which uses
+statistical and mathematical techniques to evaluate re-
+search results [48] at various levels (by countries, au-
+thors, magazines, research centers, among others) taking
+as a reference the principle of the citation network [45].
+In addition, the h-index is used to explain the perform-
+ance or production of research work. This is defined as
+the number of articles with a total number of citations
+≥h [26]..
+Articles, books, conference proceedings and other re-
+search documents have been included in the initial
+search, yielding a total of 439 documents in the WoS
+database and 408 in Scopus. However, these results have
+been filtered in the impact analysis to only include arti-
+cles (Table 2). The reason for this is due to the fact that
+these types of documents adhere to a strict review
+process that ensures the quality of their content, particu-
+larly with regards to the results and conclusions. Finally,
+information related to migration and climate change has
+also been filtered by encoding the material obtained and
+analyzing it.
+Using a fractional counting method, VOSviewer soft-
+ware has been used to perform cluster analyzes with
+which to build and visualize the bibliometric network
+[61]. This method states that each action, such as co-
+authoring or citing a population, has the same weighting
+regardless of the number of authors, citations or refer-
+ences of a publication [47]. The bibliometric analysis
+followed the following steps (Fig. 1). It commenced by
+defining the search criteria, the keywords and the study
+period. At first, it was decided to use the terms “climate
+change induced migrat*” OR “climate migrat*” OR “cli-
+mate refugee*” OR “environmental migrat*” to analyze
+the impact of climate change on the migratory move-
+ments of people.
+The study period coincides with the first article regis-
+tered in each database until the year 2019 (Fig. 1). Once
+this was clarified, Scopus and WoS were the databases
+selected to perform the analysis, since they are the two
+most relevant data sources due to the rigorous protocol
+that they follow to ensure that the articles they include
+present a high level of quality [44].
+The published work that most closely resembles this
+research is that of [33] entitled Environmental and cli-
+mate migrations: an overview of scientific literature
+using a bibliometric analysis, in which they apply the
+bibliometric approach to the same issue. However, the
+main contributions of this research, unlike the one men-
+tioned above, are to be found in a broader study period
+that includes the year 2019 as a whole, a document
+search that includes the concept of climate change
+Table 2 Distribution of publications by document type
+WoS
+Scopus
+Article
+321
+263
+Book and Book Chapter
+65
+102
+Review
+14
+30
+Proceeding Paper
+39
+13
+Fig. 1 Keyword selection process
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 3 of 10
+induced migrations, as well as the comparative analysis
+of the WoS and Scopus databases.
+Results
+Number of publications per year
+The first registered research on the impact of climate
+change on migration is found at the end of the 1990s in
+both the WoS and Scopus database with the work by
+Fang
+and
+Liu
+[18]
+entitled
+“Relationship
+between
+climatic-change and the nomadic southward migrations
+in eastern Asia during historical times” in which the
+basis for historical research on climate change-induced
+migratory movements are set from the analysis of no-
+madic migrations in South Mongolia and East Asia (See
+Table 3).
+Since those first publications, the number of articles
+published has steadily and regularly increased since
+2009, with WoS including a greater number of articles
+than Scopus throughout much of the period (Fig. 2).
+The maximum point is reached in 2015 for Scopus, co-
+inciding with the rejection of the United States to the
+Kyoto Protocol to combat climate change, and 2018 for
+WoS. This is evidence that the impact of climate change
+on migration is a matter of rigorous relevance in the sci-
+entific community.
+On the other hand, the evolution in the number of ci-
+tations presents a more irregular trend to the one shown
+in relation to the number of articles. As shown in Fig. 3,
+these attain their highest level in 2010. However, the
+most striking data is found in 2007 in Scopus: with only
+3 articles registered, the total number of citations rises
+to 400. This is due to Reuveny’s work entitled Climate
+change-induced migration and violent conflict (371 cita-
+tions) in which the conflicts that arise with the arrival of
+Table 3 Annual distribution of publications
+WOS
+SCOPUS
+Y
+A
+TC
+TC/A
+H
+A
+TC
+TC/A
+H
+1992
+1
+47
+47
+1
+1
+62
+62
+1
+1993
+2
+4
+2
+1
+2
+8
+4
+2
+1994
+1
+16
+16
+1
+2
+19
+9.5
+1
+1996
+1
+30
+30
+1
+3
+38
+12.7
+1
+1997
+3
+118
+39.3
+3
+3
+138
+46
+3
+1998
+–
+–
+–
+–
+1
+8
+8
+1
+2004
+1
+16
+16
+1
+–
+–
+–
+–
+2006
+1
+32
+32
+1
+1
+34
+34
+1
+2007
+2
+23
+11.5
+2
+3
+400
+133
+2
+2008
+2
+92
+46
+2
+5
+171
+34.2
+4
+2009
+3
+170
+56.7
+3
+6
+184
+30.7
+3
+2010
+14
+733
+52.4
+9
+16
+818
+51.1
+10
+2011
+13
+508
+39.1
+10
+10
+518
+51.8
+8
+2012
+15
+356
+23.7
+7
+13
+382
+29.4
+7
+2013
+20
+453
+22.7
+10
+21
+488
+23.2
+11
+2014
+34
+126
+3.71
+7
+16
+142
+8.88
+8
+2015
+37
+415
+11.2
+13
+33
+397
+12
+13
+2016
+34
+135
+3.97
+6
+24
+140
+5.83
+6
+2017
+38
+134
+3.53
+7
+23
+82
+3.57
+5
+2018
+54
+142
+2.63
+7
+32
+129
+4.03
+7
+2019
+41
+23
+0.56
+3
+37
+25
+0.68
+3
+Y Year, A Articles, TC Total Cites, H h-index
+Fig. 2 Evolution in the number of articles
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 4 of 10
+climate migrants in new territories are addressed. In fact,
+it is the most widely quoted article on Scopus. In con-
+trast, the WoS database contains [19] research entitled
+The first climate refugees? Contesting global narratives of
+climate change in Tuvalu (177 citations) which ad-
+dresses the concept of climate refugees.
+Distribution by knowledge area
+The distribution by knowledge area shows a concentra-
+tion on issues related to environmental and social sci-
+ences (See Table 4).
+Distribution by institution
+The institution with the largest number of articles
+published, according to WoS, is the University of
+Minnesota, followed by the University of London and
+University of Colorado. Similarly, on Scopus the rank-
+ing are led by the University of Minnesota and the
+University of Wollongong along with the University
+of Colorado (Table 5). The majority of the most in-
+fluential institutions are in the United States, followed
+by the United Kingdom, China and Australia.
+The University of Minnesota is ranked 30th in the
+world ranking of universities in 2014, due to its
+outstanding economics program. The University of
+Colorado, for its part, has had among its professors
+noble awards in the field of physics and chemistry,
+such as John L. Hall or Herbert Kroemer. The Uni-
+versity of London is one of the oldest institutions in
+the country, standing out in the fields of economics
+and management, medicine, mathematics and law.
+Finally, the University of Wollongong stands out in
+Information and Communication Technologies, En-
+gineering and Geography, among others.
+Distribution by author
+The distribution by authors shows that the largest
+number of articles is published, in WoS, by both da-
+tabases, is Mayer, while on Scopus there is a tie be-
+tween Bettini, Hunter, Riosmena and Boas, but it is
+the latter one who has the highest number in total ci-
+tations. All authors began their research career in this
+branch
+of
+knowledge
+in
+the
+twenty-first
+century
+(Table 6). Mayer’s most cited article is titled ““Envir-
+onmental migration” as advocacy: is it going to work?”
+(17 citations), which addresses the governance of en-
+vironmental migration. Boas, on the other hand, in
+the article, “Preparing for a warmer world: Towards a
+global governance system to protect climate refugees”
+(194 citations), which addresses a global governance
+project for the protection and voluntary resettlement
+of climate refugees.
+Distribution by journal
+The distribution of articles by journal shows that Global
+Environment Change, Population and environment and
+Regional Enviornmental Change are the most influential
+in both databases (Table 7). This coincides with the
+Fig. 3 Evolution in the number of citations
+Table 4 Distribution by knowledge area
+Research areas WOS
+Articles
+Research areas scopus
+Articles
+Environmental Sciences
+173
+Social Sciences
+178
+Geography
+48
+Environmental Science
+174
+Law
+40
+Art and Humanities
+27
+Demography
+35
+Economics
+18
+International Relations
+26
+Energy
+17
+Political Science
+21
+Engineering
+5
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 5 of 10
+thematic distribution presented above, in which the
+knowledge areas of environmental science is the most
+relevant in the field of migration and climate change.
+Distribution by country and language
+The distribution by countries shows that the United
+States, United Kingdom, Australia and Germany are the
+most relevant countries in both WoS and Scopus
+(Table 8), followed by Canada and China. This coincides
+with
+the
+results
+obtained
+in
+the
+distribution
+by
+institutions.
+The distribution by language supports the results ob-
+tained from the distribution by institutions and coun-
+tries, that is, English, Chinese, German, French and
+Spanish (Table 9) are the most used languages in articles
+relating to the impact of climate change on migration.
+Recent keyword trends
+For the analysis of new trends a fractional counting
+cluster of the keywords of the entire period has been
+carried out, and includes keywords that have been
+used in at least two or more articles. The different
+configuration of the clusters of new trends can be
+seen in Fig. 4.
+The color scale indicates the most current keywords:
+from a violet color that represents keywords from 2000
+to a yellow color that represents keywords of papers
+published after 2015. Specifically of note is the fact that
+at the beginning of the period, the most utilized key-
+words were vulnerability, climate change, land degrad-
+ation, refugees and security. By the end of the study
+period, concepts such as international migration, climate
+justice, sustainability, human rights and disaster risk re-
+duction appear to be more prevalent.
+Discussion
+In recent years, scientific interest in the causes and ef-
+fects of the phenomenon of climate change has in-
+creased [31], and related branches of research have
+developed, as shown in Fig. 4. In relation to the migra-
+tory effect caused by climate change, since 2016 there
+has been an increase in the number of articles that use
+the term climate justice, defined as the imperative need
+to include the environmental dimension in all decision-
+making (regardless of the corresponding discipline), with
+a legal framework that allows action to be taken in the
+event that this dimension is not taken into consideration
+[6]. In the scientific literature, there are several works
+that relate climate justice to climate change-induced mi-
+gration, such as the research by Ajibade et al. [3], who
+emphasise the importance of differentiating climate mi-
+gration from managed retreat to enhance climate justice,
+Table 5 Distribution by institution
+Institution
+Country
+Articles
+Total cites
+TC/A
+H-index
+W
+S
+W
+S
+W
+S
+W
+S
+University of Minnesota
+USA
+12
+10
+129
+90
+11
+9
+7
+5
+University of London
+UK
+11
+2
+44
+5
+4
+2.5
+3
+1
+University of Colorado
+USA
+9
+6
+182
+172
+20
+28.67
+4
+4
+Lancaster University
+UK
+7
+4
+33
+12
+4.7
+3
+3
+2
+Macquarie University
+Australia
+7
+3
+23
+6
+3.3
+2
+2
+1
+University of Wollongong
+Australia
+7
+8
+436
+466
+62
+58.25
+5
+5
+Chinese Academy of Sciences
+China
+3
+5
+43
+63
+14
+12.6
+2
+4
+W WoS, S Scopus
+Table 6 Distribution by author
+Authors
+ID
+Articles
+Total cites
+TC/A.
+H-index
+1st
+article
+Last
+article
+W
+S
+W
+S
+W
+S
+W
+S
+Mayer, B.
+55347613800
+13
+3
+42
+22
+3.23
+7.33
+4
+2
+2011
+2018
+Nawrotzki, R.J.
+55326263700
+8
+4
+83
+59
+10.4
+14.8
+5
+3
+2014
+2018
+Bettini, G.
+55445709900
+7
+5
+146
+130
+20.9
+26
+4
+3
+2013
+2019
+Hunter, L.M.
+7202851675
+6
+5
+160
+154
+26.7
+30.8
+3
+3
+2010
+2018
+Farbotko, C.
+14017584600
+5
+4
+325
+339
+65
+84.8
+4
+4
+2010
+2019
+Gemenne, F.
+36863235700
+5
+2
+15
+136
+3
+68
+2
+2
+2015
+2018
+Riosmena, F.
+23486359000
+5
+5
+57
+46
+11.4
+9.2
+3
+3
+2015
+2018
+Boas, I.
+26038946900
+4
+5
+252
+286
+63
+57.2
+3
+3
+2008
+2019
+W WoS, S Scopus
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 6 of 10
+or the study by Ahmed [2] focused on identifying the re-
+sponsibility of climate refugees.
+As shown in Fig. 4, other strands in the last 5 years re-
+late climate change-induced migration movements to
+sustainability [4, 24], human rights [5, 10] and disaster
+risk reduction [32].
+Overall, recent trends show that the phenomenon of
+climate change induced migrations is a warning of the
+ruinous consequences of climate change consolidation
+across the globe. It is therefore essential for all citizens
+to make a commitment to the environment in order to
+guarantee the sustainability of future generations.
+Conclusions
+In
+this
+work,
+the
+international
+research
+trends
+followed by researchers in the context of human mi-
+gration and climate change from the end of the twen-
+tieth century until 2019 have been analyzed. For this,
+a bibliometric analysis has been carried out with arti-
+cles from the theWoS and Scopus databases, with a
+final sample of 321 articles from WoS and 263 from
+Scopus. The results indicate that the number of arti-
+cles
+published
+per
+year
+has
+uniformly
+increased
+throughout the period, particularly from 2010 until its
+peak in 2018. This shows that international scandals
+such as the rejection by the President of United
+States of the existence of climate change and non-
+compliance
+with
+the
+Kyoto
+Protocol
+aroused
+the
+interest of the research community. This is confirmed
+by the evolution in the number of citations which,
+despite having a more irregular growth compared to
+the number of articles published, also reaches its
+highest points in 2007, 2010 and 2015. In light of the
+above, it follows that research on human migration in
+the context of climate change has been shown to be
+a growing area of study in recent years in the WoS
+database, while on Scopus, interest has declined since
+2015.
+Global Environment Change, Population and environ-
+ment and Regional Enviornmental Change are the jour-
+nals with the largest number of publications throughout
+the period. The United States is the country with the lar-
+gest number of published articles, followed by the
+United Kingdom, Australia and Germany. This distribu-
+tion by countries is reflected in the distribution by insti-
+tutions, with the University of Colorado and Minnesota
+(United
+States),
+the
+Univerisity
+of
+Wollongong
+(Australia) and the University of London (United King-
+dom) have the largest number of articles published in
+both databases, while the most utiltized languages in this
+field of research are English, Chinese, Spanish, French
+and German.
+With regards to the distribution of authors on WoS,
+Mayer, Nawrotzki, and Bettini have the largest number
+of articles published. On Scopus, Hunter, Boas, Rios-
+mena and Bettini have the largest number. This notwith-
+standing, Farbotko is the author with the highest
+Table 7 Distribution by journal
+Source title
+Impact
+factor
+Articles Total
+cites
+TC/A.
+H-
+index
+W
+S
+W
+S
+W
+S
+W
+S
+Global Environment
+Change
+10.427
+(Q1 JCR)
+12
+13
+622 772 51.8 59.4 12 13
+Population and
+Environment
+0.67 (Q1
+Scopus)
+11
+12
+64
+89
+5.82 7.42 6
+5
+Regional
+Environmental
+Change
+3.149
+(Q2 JCR)
+6
+6
+91
+101 15.2 16.8 4
+4
+Sustainability
+2.592
+(Q2 JCR)
+5
+5
+17
+18
+3.4
+3.6
+3
+2
+Global Environment
+0.19 (Q2
+Scopus)
+5
+4
+5
+4
+1
+1
+2
+1
+Climatic Change
+4.168
+(Q1 JCR)
+4
+4
+57
+73
+14.3 18.3 2
+3
+Environmental
+Research Letters
+6.192
+(Q1 JCR)
+4
+4
+62
+59
+15.5 14.8 3
+3
+Environmental
+Science and Policy
+4.816
+(Q1 JCR)
+4
+4
+111 125 27.8 31.3 3
+2
+Geoforum
+2.926
+(Q1 JCR)
+4
+4
+234 248 58.5 62
+3
+3
+Journal of
+International
+Development
+0.74 (Q1
+Scopus)
+4
+4
+199 228 49.8 57
+4
+4
+W WoS, S Scopus
+Table 8 Distribution by country
+Country
+WOS
+Country
+SCOPUS
+A
+TC
+TC/A
+H
+A
+TC
+TC/A
+H
+USA
+82
+1229
+15
+17
+USA
+68
+1666
+24.5
+18
+UK
+45
+506
+11.2
+11
+UK
+36
+518
+14.39
+11
+Australia
+39
+750
+19.2
+14
+Australia
+26
+619
+23.80
+11
+Germany
+39
+418
+10.7
+11
+Germany
+26
+299
+11.5
+9
+Canada
+23
+239
+10.4
+6
+Canada
+19
+276
+14.53
+6
+China
+18
+147
+8.17
+5
+China
+13
+168
+12.92
+6
+France
+12
+150
+12.5
+4
+France
+9
+264
+29.33
+5
+Switzerland
+12
+141
+11.8
+5
+Austria
+9
+95
+10.56
+6
+Italy
+11
+5
+0.45
+1
+India
+9
+55
+6.11
+4
+Table 9 Distribution by language
+Language
+Articles
+WoS
+Scopus
+English
+294
+246
+Spanish
+15
+3
+French
+3
+5
+Chinese
+1
+5
+German
+–
+2
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 7 of 10
+number of citations per article, together with Boas and
+Hunter, who publish articles on topics related to envir-
+onmental sciences, social sciences and geography.
+The keyword trend analysis shows a convergence in
+terms of the concepts of climate change and human mi-
+gration in recent years. Throughout the study period,
+there is a transition from concepts such as vulnerability,
+climate change, land degradation, refugees and security
+to others such as concepts such as international migra-
+tion, climate justice, sustainability, human rights and dis-
+aster risk reduction. This shows that the scientific
+community is more focused on the consequences of cli-
+mate change not only on the state of health of the popu-
+lation,
+but
+also
+in
+the
+patterns
+of
+national
+and
+international migratory movements for the purpose of
+seeking work and in the decision-making processes of
+planning and organizing local territories.
+On the limitations of this research it should be noted,
+first, that the field of study has been restricted only to the
+most influential academic databases (WOS and Scopus).
+Second, only articles have been analyzed. Therefore, it
+would be interesting to broaden the research to include
+other databases such as Google Scholar and other types of
+publications such as books or conference proceedings.
+Due to the high impact that climate change has not
+only on people’s lives, but also on global biodiversity as
+a whole, it would be interesting to compare the results
+of the current research on both aspects, identifying dif-
+ferences and similarities that allow us to know if as
+humans, we display the same behavior as other species
+facing changes in the environment.
+Acknowledgements
+Not applicable
+Authors’ contributions
+Conceptualization, J.L.C.-M., J.M.-G., N.R.-L., and J.D.-V.; Methodology, J.L.C.-M.,
+J.M.-G., N.R.-L., and J.D.-V.; Investigation, J.L.C.-M., J.M.-G., N.R.-L., and J.D.-V.;
+Writing—Review and Editing, J.L.C.-M., J.M.-G., N.R.-L., and J.D.-V. The
+author(s) read and approved the final manuscript.
+Funding
+Not applicable
+Availability of data and materials
+The datasets during and/or analysed during the current study available from
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+Not applicable
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.
+Received: 24 January 2021 Accepted: 8 June 2021
+References
+1.
+Abel GJ, Brottrager M, Cuaresma JC, Muttarak R. Climate, conflict and forced
+migration. Glob Environ Chang. 2019;54:239–49. https://doi.org/10.1016/j.
+gloenvcha.2018.12.003.
+2.
+Ahmed B. Who takes responsibility for the climate refugees? Int J Climate
+Change Strateg Manage. 2018;10(1):5–26. https://doi.org/10.1108/IJCCSM-1
+0-2016-0149.
+3.
+Ajibade I, Sullivan M, Haeffner M. Why climate migration is not managed
+retreat: six justifications. Glob Environ Chang. 2020;65:102187. https://doi.
+org/10.1016/j.gloenvcha.2020.102187.
+4.
+Armstrong C, Corbett J. Climate change, sea level rise, and maritime
+baselines: responding to the plight of low-lying atoll states. Glob Environ
+Polit. 2021;21(1):1–19.
+5.
+Atapattu S. Climate change and displacement: protecting ‘climate refugees’
+within a framework of justice and human rights. J Hum Rights Environ.
+2020;11(1):86–113. https://doi.org/10.4337/jhre.2020.01.04.
+6.
+Beauregard C, Carlson DA, Robinson SA, Cobb C, Patton M. Climate justice
+and rights-based litigation in a post-Paris world. Clim Pol. 2021;21:1–14.
+Fig. 4 Analysis of New Trends
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 8 of 10
+7.
+Biermann F, Boas I. Preparing for a warmer world: towards a global
+governance system to protect climate refugees. Glob Environ Polit. 2010;
+10(1):60–88. https://doi.org/10.1162/glep.2010.10.1.60.
+8.
+Black R, Adger WN, Arnell NW, Dercon S, Geddes A, Thomas D. The effect of
+environmental change on human migration. Glob Environ Chang. 2011;21:
+S3–S11. https://doi.org/10.1016/j.gloenvcha.2011.10.001.
+9.
+Bodansky D. The United Nations framework convention on climate change:
+a commentary. Yale J Int’l l. 1993;18:451.
+10.
+Bordner AS, Ferguson CE, Ortolano L. Colonial dynamics limit climate
+adaptation in Oceania: perspectives from the Marshall Islands. Glob Environ
+Chang. 2020;61:102054. https://doi.org/10.1016/j.gloenvcha.2020.102054.
+11.
+Bowles DC, Butler CD, Friel S. Climate change and health in Earth's future.
+Earth’s Future. 2014;2(2):60–7. https://doi.org/10.1002/2013EF000177.
+12.
+Chen J, Mueller V. Coastal climate change, soil salinity and human migration
+in Bangladesh. Nat Clim Chang. 2018;8(11):981–5. https://doi.org/10.1038/
+s41558-018-0313-8.
+13.
+Colin P, Kelley S, Cane M, Seager R, Kushnir Y. Climate change in the Fertile
+Crescent and implications of the recent Syrian drought. Proc Natl Acad Sci.
+2015;112(11):3241.
+14.
+Cook J, Nuccitelli D, Green S, Richardson M, Winkler B, Painting R, et al.
+Quantifiying the consensus on anthropogenic global warming in the
+scientific literature. Environ Res Lett. 2013;8(2). https://doi.org/10.1088/1748-
+9326/8/2/024024.
+15.
+Crutzen PJ, Stoermer EF. The ‘Anthropocene. Glob Change Newsl. 2000;41:
+17–8.
+16.
+D’Andrea WJ, Huang Y, Fritz SC, Anderson NJ. Abrupt Holocene climate
+change as an important factor for human migration in West Greenland.
+Proc Natl Acad Sci. 2011;108(24):9765–9. https://doi.org/10.1073/pnas.1101
+708108.
+17.
+Davis KF, Bhattachan A, D’Odorico P, Suweis S. A universal model for
+predicting human migration under climate change: examining future sea
+level rise in Bangladesh. Environ Res Lett. 2018;13(6):064030. https://doi.
+org/10.1088/1748-9326/aac4d4.
+18.
+Fang JQ, Liu G. Relationship between climatic change and the nomadic
+southward migrations in eastern Asia during historical times. Clim Chang.
+1992;22(2):151–68. https://doi.org/10.1007/BF00142964.
+19.
+Farbotko C, Lazrus H. The first climate refugees? Contesting global
+narratives of climate change in Tuvalu. Glob Environ Chang. 2012;22(2):382–
+90. https://doi.org/10.1016/j.gloenvcha.2011.11.014.
+20.
+Fussell E, Hunter LM, Gray CL. Measuring the environmental dimensions of
+human migration: the demographer’s toolkit. Glob Environ Chang. 2014;28:
+182–91. https://doi.org/10.1016/j.gloenvcha.2014.07.001.
+21.
+Gray C, Bilsborrow R. Environmental influences on human migration in rural
+Ecuador. Demography. 2013;50(4):1217–41. https://doi.org/10.1007/s13524-
+012-0192-y.
+22.
+Gray C, Wise E. Country-specific effects of climate variability on human
+migration. Clim Chang. 2016;135(3–4):555–68. https://doi.org/10.1007/s1
+0584-015-1592-y.
+23.
+Grecequet M, DeWaard J, Hellmann JJ, Abel GJ. Climate vulnerability and
+human migration in global perspective. Sustainability. 2017;9(5):720. https://
+doi.org/10.3390/su9050720.
+24.
+Haeffner M, Baggio JA, Galvin K. Investigating environmental migration and other
+rural drought adaptation strategies in Baja California Sur, Mexico. Reg Environ
+Chang. 2018;18(5):1495–507. https://doi.org/10.1007/s10113-018-1281-2.
+25.
+Hermans K, Garbe L. Droughts, livelihoods, and human migration in
+northern Ethiopia. Reg Environ Chang. 2019;19(4):1101–11. https://doi.org/1
+0.1007/s10113-019-01473-z.
+26.
+Hirsch JE. An index to quantify an individual's scientific research output.
+Proc Natl Acad Sci. 2005;102(46):16569–72. https://doi.org/10.1073/pnas.
+0507655102.
+27.
+IPCC. Cambio climático 2014: Informe de síntesis. Contribución de los
+Grupos de trabajo I, II y III al Quinto Informe de Evaluación del Grupo
+Intergubernamental de Expertos sobre el Cambio Climático [Equipo
+principal de redacción, R.K. Pachauri y L.A. Meyer (eds.)]. Geneva: IPCC; 2014.
+p. 157.
+28.
+Jennings JA, Gray CL. Climate variability and human migration in the
+Netherlands, 1865–1937. Popul Environ. 2015;36(3):255–78. https://doi.org/1
+0.1007/s11111-014-0218-z.
+29.
+Jokisch BD, Radel C, Carte L, Schmook B. Migration matters: how migration
+is critical to contemporary human–environment geography. Geogr
+Compass. 2019;13(8):e12460.
+30.
+Khan KA, Zaman K, Shoukry AM, Sharkawy A, Gani S, Ahmad J, et al. Natural
+disasters and economic losses: controlling external migration, energy and
+environmental resources, water demand, and financial development for
+global prosperity. Environ Sci Pollut Res. 2019;26(14):14287–99. https://doi.
+org/10.1007/s11356-019-04755-5.
+31.
+Klingelhöfer D, Müller R, Braun M, Brüggmann D, Groneberg DA. Climate
+change: does international research fulfill global demands and necessities?
+Environ Sci Eur. 2020;32(1):1–21.
+32.
+Manrique DR, Corral S, Pereira ÂG. Climate-related displacements of coastal
+communities in the Arctic: engaging traditional knowledge in adaptation
+strategies and policies. Environ Sci Pol. 2018;85:90–100. https://doi.org/10.1
+016/j.envsci.2018.04.007.
+33.
+Maretti M, Tontodimamma A, Biermann P. Environmental and climate
+migrations: an overview of scientific literature using a bibliometric analysis.
+Int Rev Sociol. 2019;29(2):142–58.
+34.
+Mayer B. ‘Environmental Migration’ as advocacy: is it going to work? Refuge.
+2014;29(2):27–41. https://doi.org/10.25071/1920-7336.38165.
+35.
+McAdam J, Ferris E. Planned relocations in the context of climate change:
+unpacking the legal and conceptual issues. Cambridge J Int’l Comp L. 2015;
+4(1):137–1166. https://doi.org/10.7574/cjicl.04.01.137.
+36.
+McLeman R, Smit B. Migration as an adaptation to climate change. Clim
+Chang. 2006;76(1–2):31–53. https://doi.org/10.1007/s10584-005-9000-7.
+37.
+McLeman R. Climate change and adaptive human migration: lessons from
+rural North America. Cambridge and New York: Cambridge University Press;
+2009. p. 296–310.
+38.
+McLeman R. Developments in modelling of climate change-related migration.
+Clim Chang. 2013;117(3):599–611. https://doi.org/10.1007/s10584-012-0578-2.
+39.
+Morrissey J. Environmental change and human migration in sub-Saharan Africa. In:
+People on the move in a changing climate. Dordrecht: Springer; 2014. p. 81–109.
+40.
+Naser MM. Climate change and migration: law and policy perspectives in
+Bangladesh. Asian J Law Soc. 2015;2(1):35–53. https://doi.org/10.1017/als.2
+014.7.
+41.
+Nawrotzki RJ, DeWaard J, Bakhtsiyarava M, Ha JT. Climate shocks and rural-
+urban migration in Mexico: exploring nonlinearities and thresholds. Clim
+Chang. 2017;140(2):243–58. https://doi.org/10.1007/s10584-016-1849-0.
+42.
+Nawrotzki RJ, DeWaard J. Putting trapped populations into place: climate
+change and inter-district migration flows in Zambia. Reg Environ Chang.
+2018;18(2):533–46. https://doi.org/10.1007/s10113-017-1224-3.
+43.
+OIM (Organización Internacional para las Migraciones). Nota de discusión:
+migration and the environment. 2007. MC/INF/288.
+44.
+Orduña-Malea E, Ayllón JM, Martín-Martín A, López-Cózar ED. Methods for
+estimating the size of Google Scholar. Scientometrics. 2015;104(3):931–49.
+https://doi.org/10.1007/s11192-015-1614-6.
+45.
+Osareh F. Bibliometrics, citation analysis and co-citation analysis: a review of
+literature I. Libri. 1996;46:149–58.
+46.
+Parry M, Parry ML, Canziani O, Palutikof J, Van der Linden P, Hanson C.
+Climate change 2007-impacts, adaptation and vulnerability: working group
+II contribution to the fourth assessment report of the IPCC. Cambridge:
+Cambridge University Press; 2007;4.
+47.
+Perianes-Rodriguez A, Waltman L, Van Eck N. Constructing bibliometric
+networks: a comparison between full and fractional counting. J Informetrics.
+2016;10(4):1178–95. https://doi.org/10.1016/j.joi.2016.10.006.
+48.
+Pritchard A. Statistical bibliography or bibliometrics. J Doc. 1969;25:348–9.
+49.
+Rahman MIU. Climate change: a theoretical review. Interdiscip Description
+Complex Syst. 2013;11(1):1–13. https://doi.org/10.7906/indecs.11.1.1.
+50.
+Raleigh C, Jordan L, Salehyan I. Assessing the impact of climate change on
+migration and conflict. Washington, D.C.: The World Bank Group; 2008.
+51.
+Reuters, T. A guide to evaluating research performance with citation data.
+2019. Available online: http://ip-science.thomsonreuters.com/m/pdfs/32
+5133_thomson.pdf.
+52.
+Reuveny R. Climate change-induced migration and violent conflict. Polit
+Geogr. 2007;26(6):656–73. https://doi.org/10.1016/j.polgeo.2007.05.001.
+53.
+Rigaud K, de Sherbinin A, Jones B, Bergmann J, Clement V, Ober K, et al.
+Groundswell: preparing for internal climate migration. Washington: World
+Bank; 2018. https://doi.org/10.1596/29461.
+54.
+Saldaña-Zorrilla SO, Sandberg K. Spatial econometric model of natural disaster
+impacts on human migration in vulnerable regions of Mexico. Disasters. 2009;
+33(4):591–607. https://doi.org/10.1111/j.1467-7717.2008.01089.x.
+55.
+Schütte S, Gemenne F, Zaman M, Flahault A, Depoux A. Connecting
+planetary health, climate change, and migration. Lancet Planetary Health.
+2018;2(2):e58–9. https://doi.org/10.1016/S2542-5196(18)30004-4.
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 9 of 10
+56.
+Shi G, Lyu Q, Shangguan Z, Jiang T. Facing climate change: what drives
+internal migration decisions in the karst rocky regions of Southwest China.
+Sustainability. 2019;11(7):2142. https://doi.org/10.3390/su11072142.
+57.
+Shultz JM, Rechkemmer A, Rai A, McManus KT. Public health and mental
+health implications of environmentally induced forced migration. Disaster
+Med Public Health Prep. 2019;13(2):116–22. https://doi.org/10.1017/dmp.201
+8.27.
+58.
+Simatele D, Simatele M. Migration as an adaptive strategy to climate
+variability: a study of the Tonga-speaking people of southern Zambia.
+Disasters. 2015;39(4):762–81. https://doi.org/10.1111/disa.12124.
+59.
+Thiede BC, Gray CL. Heterogeneous climate effects on human migration in
+Indonesia. Popul Environ. 2017;39(2):147–72. https://doi.org/10.1007/s11111-
+016-0265-8.
+60.
+Todorov AV. Reply. J Appl Climate Meteorol. 1986;25(2):258–9. https://doi.
+org/10.1175/1520-0450(1986)025<0258:R>2.0.CO;2.
+61.
+Van Eck NJ, Waltman L. Citation-based clustering of publications using
+CitNetExplorer and VOSviewer. Scientometrics. 2017;111(2):1053–70. https://
+doi.org/10.1007/s11192-017-2300-7.
+62.
+Wesselbaum D, Aburn A. Gone with the wind: international migration. Glob
+Planet Chang. 2019;178:96–109.
+63.
+Warner K. Human migration and displacement in the context of adaptation
+to climate change: the Cancun adaptation framework and potential for
+future action. Environ Plann C Gov Policy. 2012;30(6):1061–77. https://doi.
+org/10.1068/c1209j.
+64.
+Wiegel H, Boas I, Warner J. A mobilities perspective on migration in the
+context of environmental change, Wiley Interdisciplinary Reviews: Climate
+Change; 2019. p. e610.
+65.
+Zander KK, Richerzhagen C, Garnett ST. Human mobility intentions in
+response to heat in urban South East Asia. Glob Environ Chang. 2019;56:18–
+28. https://doi.org/10.1016/j.gloenvcha.2019.03.004.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Milán-García et al. Globalization and Health           (2021) 17:74 
+Page 10 of 10

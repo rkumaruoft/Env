@@ -1,0 +1,826 @@
+Research article
+Participatory modeling for local and regional collaboration on climate
+change adaptation and health
+Sarah Harrisona, Alexandra Macmillana,*, Sophie Bondb, Janet Stephensonc
+a Department of Preventive and Social Medicine, Otago Medical School, University of Otago, PO Box 56 Dunedin 9054, New Zealand
+b School of Geography, University of Otago, PO Box 56, Dunedin 9054, New Zealand
+c Centre for Sustainability, University of Otago, PO Box 56, Dunedin 9054, New Zealand
+A R T I C L E
+I N F O
+Article History:
+Received 31 October 2022
+Accepted 22 March 2023
+Available online 29 March 2023
+A B S T R A C T
+Introduction: Climate change-related ﬂooding and sea-level rise have important direct and indirect health
+effects. In order to support health and equity, adaptation responses require collaborative, transdisciplinary
+learning and consensus-building, across a wide range of local-level stakeholders. We aimed to co-develop a
+shared understanding of the complex interplay between health, health determinants, ﬂooding, and sea-level
+rise in a low-income urban area of Aotearoa New Zealand, to inform action.
+Methods: We used qualitative participatory system dynamics modeling, involving interviews and group
+workshops with transdisciplinary stakeholders. We developed a shared set of wellbeing outcomes and trian-
+gulated participants’ knowledge with published evidence to develop a set of causal loop diagrams (CLDs).
+These capture the system feedback behavior between ﬂooding and sea-level rise, and local health and
+wellbeing.
+Results: Thirty-three participants were involved across the project, identifying 22 wellbeing outcomes. The
+CLDs covered six intersecting themes: community-led development and participation in decision-making;
+quality of housing; the housing market; the insurance market; economic effects of ﬂooding and sea-level
+rise; and access issues arising from ﬂooding. Intervention points were identiﬁed, with the potential to inform
+health equity-focused adaptation policy. The process supported shifts in participants’ mental models towards
+consensus and effective intervention points, and transdisciplinary relationship-building.
+Conclusion: Participatory systems modeling approaches may support cross-sector collaborative learning
+about the complex, dynamic inﬂuences on health and wellbeing in the context of local climate change adap-
+tation. These shared, holistic understandings are essential to inform decision-making that promotes positive
+health and social equity outcomes.
+© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Adaptation
+Health
+Wellbeing
+System dynamics
+Participatory modeling
+1. Introduction
+Climate change is a major threat to public health, with rising
+global temperatures leading to sea-level rise, changes in the spread
+and risk of diseases, water and food insecurity, and increased fre-
+quency and severity of extreme weather events [1−3]. Those already
+experiencing inequitable health outcomes will be disproportionally
+affected, including those with existing health conditions, the elderly,
+children, low-income households, and Indigenous Peoples [1,2,4,5].
+It is imperative to adapt to the unavoidable effects of climate change
+in ways that maximize positive health and equity outcomes. Flooding
+and sea-level rise are major interrelated climate change health
+threats, with direct health effects (e.g. drowning and injuries [6],
+mental trauma [7]), and effects on the building blocks of health (e.g.
+critical infrastructure [8], housing [9], income and wealth [10]). Adap-
+tation responses also have the potential to be health-promoting, for
+instance, by multi-solving existing public health problems [11], or
+they can exacerbate existing health inequities and introduce new
+harms [12].
+The complex, highly uncertain nature of climate change interac-
+tions with society and environment means holistic, systems thinking
+approaches are needed to design health-promoting adaptation
+responses [13]. There is a need for transdisciplinary processes that
+cross disciplines, sectors, and the divide between academia and
+affected communities in order to engender positive societal change
+[14]. This includes approaches that draw on science-based evidence
+and the local expertise of community stakeholders, while bringing
+policymakers into the process. The meaningful participation of struc-
+turally oppressed communities is particularly important as a form of
+Abbreviations: CLD, Causal Loop Diagram; pSD, Participatory system dynamics; SD,
+System dynamics
+* Corresponding author.
+E-mail address: alex.macmillan@otago.ac.nz (A. Macmillan).
+https://doi.org/10.1016/j.joclim.2023.100235
+2667-2782/© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 12 (2023) 100235
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+procedural justice for those typically excluded from decision-making
+processes [5,15]. Such participation includes active involvement and
+leadership in the co-production of knowledge, social learning, capac-
+ity-building, and eventual implementation of adaptation polices
+[16,17]. This paper provides an overview of a qualitative participatory
+system dynamics modeling process we used to support transdisci-
+plinary collaboration and learning in the context of local ﬂooding and
+sea-level rise.
+Prior to undertaking the research described in this paper, we con-
+ducted a systematic review of existing research that has used
+participatory approaches to inform health and wellbeing-focused
+adaptation planning and decision-making [18]. The review found 11
+articles, which highlighted the beneﬁts for effective adaptation of
+participatory approaches in which stakeholders share their knowl-
+edge with each other and triangulate it with existing evidence. The
+review also demonstrated the value of participatory processes for
+relationship-building that supports collaboration, in particular sys-
+tems thinking approaches [19]. A major gap in the literature was the
+overall lack of focus on the unanticipated health and wellbeing
+impacts of adaptation actions themselves. This research addresses
+this and other gaps identiﬁed in the review by undertaking a partici-
+patory process to understand the complex interplay between health,
+ﬂooding, and sea-level rise in South Dunedin, an urban area within
+the city of Otepoti Dunedin, Aotearoa New Zealand (Fig. 1).1
+Built on what was coastal wetland of importance to local mana
+whenua (Indigenous Maori with ancestral relationships and responsi-
+bilities in the area), South Dunedin is home to over 10,000 people
+[21], and is one of the largest single communities at risk of national
+sea-level rise [22]. Climate change is also causing heavy rainfall
+events to become more frequent and severe in Otepoti [23], a risk
+exempliﬁed by a major pluvial ﬂooding event in 2015 that caused
+widespread damage in South Dunedin [24]. The area has high levels
+of socioeconomic deprivation [24−26], as well as a higher proportion
+of other groups who may be at greater risk of harm due to structural
+inequities, including the elderly and renters [27−29]. Many disabled
+people and those with mobility issues also choose to live in South
+Dunedin because of its ﬂat topography [30,31].
+The purpose of this research was to support wellbeing-focused
+adaptation that accounts for the diversity of needs amongst those liv-
+ing in South Dunedin. We aimed to facilitate a shared understanding
+of the local health and wellbeing impacts of ﬂooding and sea-level
+rise, their complex drivers, and implications for considering possible
+adaptation decisions.
+2. Methods
+We adopted a qualitative approach which recognises the socially
+constructed nature of knowledge, and the signiﬁcant contribution
+that people’s lived experience makes to understanding the issues
+that affect them within their local context [32,33]. The emphasis was
+on capturing different knowledges, meanings, and worldviews to
+inform decision-making, rather than quantiﬁcation [32]. Recognizing
+these principles, we used qualitative participatory system dynamics
+(pSD) modeling to facilitate knowledge-sharing and consensus-build-
+ing amongst stakeholders, with the aim of developing a shared men-
+tal model of the complex interplay between health, ﬂooding, and
+sea-level rise [34−36]. System dynamics (SD) models are used to
+understand how the causal relationships between different variables
+drive system behavior over time, often in non-linear and unexpected
+ways [34,35,37]. These causal relationships are circular, creating
+feedback loops that are either reinforcing or balancing, leading to sys-
+tem patterns such as exponential growth or decay, trends towards
+equilibrium, and oscillation [34,38].
+In pSD, stakeholder learning occurs through model simulation and
+group discussions, in which different policies or interventions to
+manage dynamic problems are explored and policy trade-offs are
+identiﬁed [35,39]. Emphasis is placed on transdisciplinary learning
+and understanding the underlying dynamic behavior of a system,
+Fig. 1. Map showing the location of the city of Otepoti within Aotearoa and the Otago region, as well as the greater South Dunedin area within the metropolitan area. Adapted from
+Bond and Barth [20].
+1 Otepoti is the Maori name for the city of Dunedin, and Aotearoa the contemporary
+Maori name for New Zealand; Maori are the Indigenous Peoples of Aotearoa New Zea-
+land. Throughout the remainder of the article, we will use the Maori names.
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+2
+rather than the model’s accuracy in predicting system outcomes
+[35,37]. The collaborative nature of group modeling can foster trust
+and relationship-building between a diverse range of stakeholders,
+supporting future engagement in decision-making processes [36,40],
+and effective implementation of research ﬁndings and policies
+[17,41,42].
+We adapted Videira et al.’s generic SD modeling framework,
+undertaking a qualitative version of the process (Fig. 2) [35]. For stage
+one, preparation, we used an a priori sampling framework (Table 1)
+and snowball sampling technique [37] to identify mana whenua rep-
+resentatives and a range of community stakeholders, local govern-
+ment staff, and scientiﬁc experts familiar with the South Dunedin
+context [18,43]. Relationship-building and identifying participants
+took over a year. Although few mana whenua are residents of the
+area, at inception we started by engaging with mana whenua and
+then building on existing researcher relationships with South Dune-
+din community leaders. Ongoing engagement with mana whenua
+was undertaken, including with the local Runaka (tribal council,
+board) and two local Maori health providers. Potential participants
+were approached in person, by email, and/or by phone call. We pri-
+oritised representatives of those communities who are more likely to
+experience health and social inequities, and those in positions where
+they might be able to incorporate the research ﬁndings into adapta-
+tion decision-making, to increase the likelihood of equitable real-
+world change [44]. The latter included relevant senior-level local gov-
+ernment staff.
+Individual participant interviews involved a mix of semi-struc-
+tured
+questions
+and
+cognitive
+mapping
+[45],
+a
+diagramming
+approach we used to elicit interviewee cause and effect understand-
+ings about local health and wellbeing impacts of ﬂooding and sea-
+level rise. Each cognitive map was broadly organized around a central
+variable or idea, and included underlying assumptions about its
+causes and resulting outputs.
+We undertook a thematic analysis of the interview data to
+develop a list of health and wellbeing outcomes participants consid-
+ered important, as well as a draft set of qualitative causal loop dia-
+grams (CLDs) that aggregated participants’ cognitive maps. We
+followed Braun and Clarke’s [46] process of thematic analysis: famil-
+iarizing ourselves with the data, coding the data, searching for
+themes, reﬁning and naming the themes, performing analysis and
+reporting back. Our analysis was primarily inductive, with themes
+developed based on the data rather than a priori themes.
+We developed a set of variables based on these themes and then
+looked for cause and effect relationships between them, building a
+set of preliminary CLDs using Vensim PLE software.2 We triangu-
+lated this with research knowledge gained from a scoping review of
+the literature on the health and wellbeing effects of ﬂooding and sea-
+level rise, particularly as they relate to urban communities in high-
+income countries (Supplementary material). Where there was dis-
+agreement between participants’ theories of cause and effect rela-
+tionships that could not be clariﬁed by the existing literature, we left
+both options in the CLDs to allow participants to discuss them in the
+group workshops. The variables that comprise the CLDs are con-
+nected by arrows which demonstrate possible causal relationships,
+forming feedback loops that are reinforcing or balancing in nature
+[35,47,48]. Reinforcing loops (‘R’) amplify system behavior [34], lead-
+ing to exponential growth or decline in a variable. Balancing loops
+(‘B’) reverse and limit change, often resulting in oscillating over- and
+under-corrective behavior [34].
+Stage two of the research process involved two group workshops
+in which participants were introduced to the basics of pSD modeling
+and reviewed and amended the CLDs together in small groups. This
+was done using a World Cafe-style approach with research team
+members rotating between each group’s table, at which members
+presented the group with a preliminary CLD and garnered feedback
+about the relationships and feedback loop structures.
+We reﬁned the CLDs between workshops based on participants’
+feedback, again triangulating their expert local knowledge with fur-
+ther literature scans relating to proposed causal relationships.
+In the second workshop, participants also undertook a policy
+thought
+experiment
+using
+a
+subset
+of
+feedback
+loops
+which
+highlighted potentially important tensions between several building
+blocks of wellbeing: the vibrancy and appeal of the area to live in,
+housing affordability, the availability of green space, and ﬂood miti-
+gation efforts (Supplementary material). Participants were asked to
+Fig. 2. Generic qualitative SD modeling process. Adapted from Videira et al. [35].
+2 Academic version 8.0.9 Copyright 1988-2019 Ventana Systems, Inc.
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+3
+think about how a policy intervention previously identiﬁed in the
+interviews, ‘investment in the community’, might inﬂuence vibrancy
+in the area and, in turn, the other variables in the CLD. The activity
+aimed to increase participant understandings about how policy inter-
+ventions may create trade-offs or tensions between desired out-
+comes, and how the CLD could help identify these and potentially
+avoid them, or at least make them explicit.
+The ﬁnal stage of the research process involved an anonymous
+self-report questionnaire to evaluate the research process and indi-
+vidual learning, completed by workshop participants (Supplementary
+material). Learning was also measured by asking participants at the
+beginning and conclusion of each interview, and at the end of each
+workshop, about actions they believed should be taken to address
+local ﬂooding and sea-level rise, and noting any changes over time
+(“What are the top three actions you believe should be taken in order
+to address ﬂooding and/or sea-level rise in South Dunedin?”).
+Further details of the methods used in this research are available
+elsewhere [18,43].
+3. Results
+In this section we describe both the direct outcomes of the inter-
+views and workshops, and the results of the collaborative learning
+process itself.
+3.1. Participants
+Thirty-two participants took part in an interview. They covered a
+broad range of the groups from our a priori framework, including
+community groups, health and social services, local government staff,
+and scientists (Table 1). Thirteen participants took part in the ﬁrst
+group modeling workshop, and fourteen in the second. Notably, no
+mana whenua representatives were able to take part because of their
+lead health role in the local COVID-19 response, their priority focus
+on freshwater issues, and the recent loss of their only climate change
+staff member. Climate change work was necessarily prioritised to the
+geographical areas of most importance to the Runaka. Nonetheless,
+they indicated an interest in the ﬁndings of the research and we have
+kept the Runaka informed of the outcomes.
+3.2. Health, wellbeing, ﬂooding, and sea-level rise
+Participants discussed the direct health and wellbeing effects of
+ﬂooding and sea-level rise extensively in the interviews, including
+aspects of mental, physical, and spiritual wellbeing. Mental wellbeing
+was the most discussed aspect, with all thirty-two participants
+reﬂecting on how ﬂooding and sea-level rise can lead to anxiety,
+stress, fear, anger, and depression. Over half of all participants
+acknowledged that those already experiencing inequities would be
+disproportionally affected. Participants also discussed how ﬂooding
+and sea-level rise affect broader determinants of health such as hous-
+ing and ﬁnancial security, reﬂecting their holistic understandings of
+wellbeing. From this, we developed a list of health and wellbeing out-
+comes participants considered important in the context of climate
+change and adaptation (Table 2). Participants reviewed these out-
+comes in the ﬁrst workshop, adding some of their own.
+3.3. Summary of the causal loop diagrams (CLDs)
+Drawing on existing evidence and the themes identiﬁed in our
+thematic analysis of the interviews, we developed four qualitative
+draft CLDs. These were presented to participants at the ﬁrst group
+workshop for revision and reﬁnement. Following this, an additional
+two CLDs were developed. The ﬁnal six CLDs were:
+ Community-led
+development
+and
+participation
+in
+decision-
+making
+ Quality of housing
+ The housing market
+ The insurance market
+ The economic effects of ﬂooding and sea-level rise for wellbeing
+ Access issues arising from ﬂooding
+Together, the CLDs form a qualitative model capturing the com-
+plex, highly interconnected relationships between health, wellbeing,
+ﬂooding, and sea-level rise in South Dunedin. Fig. 3 demonstrates the
+connections between the CLDs.
+The housing market CLD is presented as an example in Fig. 4. All
+the CLDs can be found in the supplementary material.
+The effects of ﬂooding and sea-level rise on the housing market
+were a major theme, generating substantial discussion amongst
+workshop participants. In particular, the inﬂuence of increasing sea-
+level rise and ﬂood risk on the appeal of the area to live in was con-
+sidered an important driver of the housing market’s behavior over
+time. Declining appeal and housing values due to increasing risk
+were linked to negative mental wellbeing. Conversely, adaptation
+measures that reduce risk and increase the area’s appeal raised ten-
+sions with housing affordability and the availability of local natural
+spaces.
+Loops B1 (house prices and demand) and B2 (housing demand and
+supply) capture the complex relationships between the appeal of the
+area, house prices, affordability, and the number of people living
+Table 1
+List of participants by group or organization type, in accordance with our a priori sampling framework. Actual number of partici-
+pants who took part are indicated in brackets. Some participants are represented in more than one group or organization type.
+Mana whenua (n = 0)
+Community (n = 15)
+Business (1)
+Churches, Faith-based communities (2)
+Disability advocacy (2)
+Education (1)
+Migrant/Refugee (0)
+Pasiﬁka3 (3)
+South Dunedin-focused special interest groups (4)
+Youth organizations (2)
+Government (n = 7)
+Local city government staff (2)
+Mayor of Otepoti (1)
+National government representatives (0)
+Regional government staff (4)
+Health and social services (n = 9)
+Emergency preparedness services (1)
+Public health services (2)
+Social services (including disability, housing,
+and age-related support services) (6)
+Science (n = 3)
+Geological and natural hazards experts (3)
+3 Paciﬁc peoples living in Aotearoa.
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+4
+there. Loops R1-R3 outline how, in the context of changing climate
+risk, the appeal and affordability of the area can create demographic
+“monocultures” of residents by socioeconomic status. High demand
+can make the area ‘exclusive’ and expensive, pricing out and displac-
+ing lower-income residents. Declining appeal and increasing afford-
+ability may lead to a higher proportion of low-income households
+and rentals, which participants believed could reduce attractiveness
+for those who can afford to live elsewhere.
+The development of new, high-quality, high-density housing was
+considered an important inﬂuence on the appeal of the area to live in
+(R4). Some participants believed that high-quality developments
+would increase prices in the area, given that the existing housing
+stock is of such poor quality (B3, effect of new, high-quality housing on
+value and demand). However, these price increases may be counter-
+acted if unaffordability reduces demand over time.
+The CLD also explores tensions between land use for housing and
+for natural spaces to reduce the area’s ﬂood risk. Increasing built land
+surface cover reduces permeability, making ﬂooding more likely (B4,
+green, blue space and ﬂood risk) [50]. It also undermines opportunities
+to convert sections of land to blue-green spaces, such as wetlands, to
+mitigate existing ﬂood risk (B5, green, blue space and ﬂood mitigation).
+Most participants considered that creating more natural spaces
+would support wellbeing and increase the area’s appeal to live in (B6,
+green, blue space and appeal of the area).
+Increasing ﬂood risk may require the red-zoning of parts of the
+area, in which the land is deemed unusable for habitation, with the
+potential for signiﬁcant upheaval and emotional trauma (B7, retreat,
+green/blue space, and ﬂood mitigation). Unoccupied red-zone land
+could be converted to blue-green space to reduce ﬂood risk, though
+future demand for land may make the area attractive for housing
+development once more.
+The area’s appeal was also linked to experiences of ﬂooding (B8,
+ﬂood risk and appeal of the area; B9, housing density and experience of
+ﬂooding) [50], which could result in a mass exodus (R5) of people leav-
+ing the area. Those unable to leave could be left in an increasingly
+underinvested and run-down area that some participants described
+as a "ghetto", negatively affecting their mental and social wellbeing.
+Most participants did not think a mass exodus was likely unless
+imposed by government, as residents would consider other aspects
+of the area to be more important, including personal ties, housing
+affordability, and its ﬂat topography.
+3.4. Collaborative learning
+Participants demonstrated evidence that their thinking had
+changed as a result of being involved in the research. About three-
+quarters of participants changed their priority actions in a way that
+reﬂected the themes they had discussed during the interview
+Table 2
+Health and wellbeing outcomes identiﬁed as important in the context of ﬂooding, sea-level rise, and adaptation. An asterisk ‘*’ indicates the outcome was
+added by participants during workshop one.
+Core wellbeings
+ Spiritual wellbeing
+ Social wellbeing
+ Mental wellbeing
+ Physical wellbeing
+ Reducing inequities
+Economic wellbeing
+ Financial wellbeing
+ Poverty alleviation
+Access
+ Access for all to goods, services, people, places
+ Access for all to nature (including more natural spaces in the area)
+Community agency
+ Community-led development
+ Community resilience*
+Engagement processes that support agency
+ Comprehensive, ongoing engagement with policymakers
+ Trust between community and policymakers
+ Committing to, and maintaining, action on climate change as a priority*
+ As much ‘certainty’ about the future as possible*
+Vibrancy and appeal of the area
+ South Dunedin as a vibrant, appealing place to be
+ Investment in the community
+ Availability of affordable, quality housing
+ A sense of future, hope for the area
+ Community pride
+ Everyone feels safe and welcome*
+ Trust within the community*
+Fig. 3. Overview of the causal loop diagrams. Dotted lines indicate indirect causal relationships.
+5
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+cognitive mapping exercise or workshops. For example, several par-
+ticipants shifted their priorities towards improving the quality and
+climate resilience of housing, and supporting community engage-
+ment in decision-making. The research team also observed how the
+CLDs enabled participants to discuss feedback behavior with increas-
+ing conﬁdence, and identify policy trade-offs that arise between com-
+peting health and adaptation priorities.
+Feedback from the workshop evaluation questionnaire indicated
+that participants felt they had gained useful insights from the
+research. For example, one participant noted the CLDs were useful
+for “illustrating complexities of individual issues and overall interde-
+pendencies, and [the] challenges this creates [in] developing solu-
+tions”. Many said they valued collaborating with others during the
+workshops, and that hearing a diverse range of views deepened their
+understanding of the complex relationships between health, ﬂood-
+ing, and sea-level rise. New relationships were built for further col-
+laboration on adaptation planning.
+4. Discussion
+We used participatory system dynamics modeling as a collabora-
+tive learning tool, enabling stakeholders to develop a shared under-
+standing of how ﬂooding and sea-level rise affect health and
+wellbeing in the South Dunedin area. The group modeling process
+successfully supported social learning across a range of stakeholders.
+In particular, the workshops challenged participants to think in depth
+about system complexity and to synthesize their knowledge with
+that of others. The research ﬁndings include a list of important health
+and wellbeing outcomes, six CLDs that constitute a qualitative model
+of the issues, and some early policy insights. These remain open to
+revision and can be used in future engagement processes to prompt
+discussion about what matters to the community in developing adap-
+tation responses. The CLDs can also be used to conduct qualitative
+policy thought experiments testing potential policy interventions.
+Participants, including local government staff, are already using the
+results to inform adaptation policies and support further community
+discussions, indicating the utility of the process.
+4.1. Implications for policy
+The results of this research indicate that the greatest risks that
+ﬂooding and sea-level rise pose to urban areas like South Dunedin
+will be mental and physical stresses relating to changes in the follow-
+ing: the quality of housing; the housing market; the availability of
+insurance cover; the health of the local economy; and access to goods
+and services necessary for wellbeing.
+Participants saw opportunities to address poor housing quality
+and affordability through the development of quality, climate-
+Fig. 4. The ‘housing market’ CLD. An ‘S’ notation on an arrow means that a change in the ﬁrst variable will cause the variable at the end of the arrow to change in the same direction
+[49]. An ‘O’ indicates the variables will change in opposite directions. Two parallel lines intersecting an arrow indicate a signiﬁcant time delay between cause and effect. Important
+health and wellbeing outcomes are presented in a box. Important exogenous variables, which sit outside the system, are presented in gray.
+6
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+resilient housing. However, government provision of social housing
+and other market interventions such as rent controls may be needed
+to avoid gentriﬁcation and the worsening of inequities in access to
+housing. Broader government investment is also necessary to support
+a positive sense of future about the area, but must consider how
+increasing the area’s appeal also increases residual risk by exposing
+more people to ﬂooding and insurance retreat over time. Further,
+tools that enable local government to manage land use are needed to
+ensure housing improvements do not undermine ﬂood risk mitiga-
+tion. Finally, participants considered community-led development
+and adaptation decision-making to be essential for supporting com-
+munity agency and avoiding negative health and equity outcomes.
+For example, participants recognized that while targeted retreat from
+high-risk areas may become necessary, it requires extensive and
+ongoing consultation with the community to best support their well-
+being aspirations.
+The concerns identiﬁed in this research are likely to be relevant in
+similar urban communities at risk of ﬂooding and sea-level rise.
+Many of the issues require high-level, societal transformation to
+address, the planning of which occurs amongst a global context of
+uncertainty about climate trajectories. Long-term structural planning
+that accounts for system complexity is required, and can be sup-
+ported by adopting systems thinking approaches.
+More broadly, this research has underscored the beneﬁts of cross-
+sector processes for facilitating collaboration and knowledge-sharing
+on issues marked by trade-offs and conﬂicting priorities. Participa-
+tory systems modeling can support a degree of shared knowledge
+and agreement from which policy or interventions can be developed.
+4.2. Limitations
+COVID-related lockdowns and commitments of many of our
+stakeholders disrupted the participatory workshop process and con-
+strained the ability of some stakeholders (especially from health serv-
+ices) to participate. Rather than merely a limitation, we see this as
+salutary. As climate change progresses, we are more likely to be try-
+ing to make decisions in the context of multiple unfolding emergen-
+cies, making urgent mitigation efforts and early adaptation critical.
+South Dunedin remains signiﬁcant to mana whenua who hold
+ancestral connections with, and responsibilities for the area. Their
+representation in adaptation decision-making is critical, not only for
+offering valuable scientiﬁc knowledge for adaptation, but also to
+ensure adaptation policies include restorative justice and address the
+ongoing effects of colonization and structural racism. This makes the
+absence of mana whenua representatives in this part of the wider
+decision-making process a major limitation, although there is a
+higher level involvement in Dunedin City Council’s climate change
+adaptation work, including for South Dunedin, and their previous
+input informed the CLD. For the purposes of this research, we also
+drew on existing insights from Maori researchers in the ﬁeld to
+inform our thinking [51−53]. Ensuring meaningful partnership in
+adaptation decision-making will require substantially increasing
+resourcing to further their capacity to engage in decision-making
+about the area. There remain substantial systemic barriers to
+responding to the call for climate change tipping points and relational
+tipping points resulting from colonization to be addressed together
+[54], especially where skills are scarce. In this case, while South Dun-
+edin was not seen as a high priority for mana whenua involvement,
+they recognized the importance of urgent adaptation action for resi-
+dents and supported the research continuing without their involve-
+ment.
+Further diversity of participants in the workshops would have
+contributed other important insights. For example, the perspectives
+of youth and migrant communities will also be required in future
+engagement efforts.
+While participants were generally comfortable understanding the
+CLDs, more time with the models would have given them greater
+conﬁdence to take them back to their respective communities or
+organizations. Additional workshops would beneﬁt future projects.
+However, participants who found the CLDs hard to understand still
+beneﬁted from the group learning environment, with their fellow
+participants helping them to understand the models.
+The recruitment strategy used for this project meant the CLDs suc-
+cessfully captured feedback behavior that drives health and social
+inequities; however, the variables tended to conﬂate diverse impacts
+for different groups. For example, the ﬁnal CLDs did not sufﬁciently
+capture the inﬂuence of racism on Pasiﬁka wellbeing, something
+likely to affect other demographic groups as well. The issues identi-
+ﬁed here support existing calls for further work to effectively express
+equity in CLD design [55].
+Future use of systems thinking approaches in other settings would
+provide insights into the generalizability of the themes and feedback
+processes identiﬁed here. Further conﬁrmation of the causal links
+identiﬁed in this research would be valuable as some were based on
+a brief scan of the literature rather than systematic reviews, meaning
+they may not have adequately incorporated dissenting evidence. A
+quantitative simulation model that incorporates routinely collected
+data would enable causal hypotheses and policy scenarios to be
+tested further.
+5. Conclusions
+Drawing on the expert knowledge of local stakeholders and the
+existing literature, the results of this research have identiﬁed how cli-
+mate change-related ﬂooding and sea-level rise can negatively affect
+health and wellbeing within a diverse coastal urban area. In particu-
+lar, risks to wellbeing may arise from the exacerbation of existing
+challenges relating to poor-quality housing, poverty, and underin-
+vestment in community development. Policy tensions arise between
+the need to address these existing challenges and the need to adapt
+while considering issues such as insurance retreat and gentriﬁcation.
+This research has demonstrated the value of participatory system
+dynamics modeling for drawing various stakeholders together in a
+structured transdisciplinary process for organizing knowledge and
+social learning around adaptation planning and decision-making. It
+also demonstrates the value of holistic, systems thinking approaches
+which allow stakeholders to identify the complex system behavior
+that produces unintended health and equity outcomes. These shared
+understandings are essential to ensure adaptation that supports com-
+munity ﬂourishing in the midst of a changing climate.
+Funding
+SH received a University of Otago Doctoral scholarship to conduct
+this research.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2023.100235.
+References
+[1] Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, et al. Managing the health
+effects of climate change: lancet and University College London Institute for
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+7
+Global Health Commission. Lancet North Am Ed 2009;373(9676):1693–733 Avail-
+able
+from:.
+doi:
+10.1016/S0140-6736(09)60935-1https://www.sciencedirect.
+com/science/article/pii/S0140673609609351.
+[2] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Beagley J, Belesova K, et al. The
+2020 report of The Lancet Countdown on health and climate change: responding
+to converging crises. Lancet North Am Ed 2021;397(10269):129–70. Available
+from:
+https://www.sciencedirect.com/science/article/pii/S014067362032290X.
+doi: 10.1016/S0140-6736(20)32290-X.
+[3] Allen MR, Dube OP, Solecki W, Aragon-Durand F, Cramer W, Humphreys S, et al.
+Framing and context. In: global warming of 15°C an IPCC special report on the
+impacts of global warming of 15°C above pre-industrial levels and related global
+greenhouse gas emission pathways, in the context of strengthening the global
+response to the threat of climate change, sustainable development, and efforts to
+eradicate poverty. Cambridge: Cambridge University Press; 2018. [49-91]. Avail-
+able
+from:
+https://www.ipcc.ch/sr15/chapter/chapter-1/.
+doi:
+10.1017/
+9781009157940.003.
+[4] Intergovernmental Panel on Climate Change. Climate Change 2022: impacts,
+Adaptation and Vulnerability. Summary for Policymakers 2022 [cited 2022 May
+3] Available from: https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPC-
+C_AR6_WGII_SummaryForPolicymakers.pdf.
+[5] Adger WN, Paavola J, Huq S. Toward justice in adaptation to climate change W. N.
+Adger, J. Paavola, S. Huq, Mace MJ, editors. Fairness in adaptation to climate
+change. Cambridge, Massachusetts: MIT press; 2006. p. 1–20.
+[6] Ahern M, Kovats RS, Wilkinson P, Few R, Matthies F. Global health impacts of
+ﬂoods: epidemiologic evidence. Epidemiol Rev 2005;27(1):36–46. doi: 10.1093/
+epirev/mxi004.
+[7] Fernandez A, Black J, Jones M, Wilson L, Salvador-Carulla L, Astell-Burt T, et al.
+Flooding and mental health: a systematic mapping review. PLoS One 2015;10(4)
+e0119929-. doi: 10.1371/journal.pone.0119929.
+[8] Berariu R, Fikar C, Gronalt M, Hirsch P. Understanding the impact of cascade
+effects of natural disasters on disaster relief operations. Int J Disaster Risk Reduct
+2015;12:350–6. doi: 10.1016/j.ijdrr.2015.03.005.
+[9] Hernandez D, Chang D, Hutchinson C, Hill E, Almonte A, Burns R, et al. Public
+housing on the periphery: vulnerable residents and depleted resilience reserves
+post-hurricane sandy. J Urban Health 2018;95(5):703–15. doi: 10.1007/s11524-
+018-0280-4.
+[10] Hudson P, Botzen WJW, Poussin J, Aerts JCJH. Impacts of ﬂooding and ﬂood pre-
+paredness on subjective well-being: a monetisation of the tangible and intangible
+impacts. J Happiness Stud 2019;20(2):665–82. doi: 10.1007/s10902-017-9916-4.
+[11] World Health Organization. Climate change and health: vulnerability and adapta-
+tion assessment 2021. Available from: https://www.who.int/publications/i/item/
+9789240036383.
+[12] Intergovernmental Panel on Climate Change. Climate Change 2014: synthesis
+report. Contribution of Working Groups I, II and III to the ﬁfth assessment report
+of the intergovernmental panel on climate change; 2014. Available from: https://
+www.ipcc.ch/report/ar5/syr/.
+[13] Noble IR, Huq S, Anokhin YA, Carmin J, Goudou D, Lansigan FP, et al. Adaptation
+Needs and Options C.B. Field, V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastran-
+drea, T.E. Bilir, et al., editors. Climate change 2014: impacts, adaptation, and vul-
+nerability part A: global and sectoral aspects contribution of working group II to
+the ﬁfth assessment report of the intergovernmental panel on climate change.
+Cambridge University Press; 2014. p. 833–68.
+[14] Hadorn GH, Biber-Klemm S, Grossenbacher-Mansuy W, Hoffmann-Riem H, Joye
+D, Pohl C, et al. The emergence of transdisciplinarity as a form of research. Hand-
+book of transdisciplinary research. Dordrecht: Springer; 2008 [19-39]. doi:
+10.1007/978-1-4020-6699-3_2.
+[15] George AS, Mehra V, Scott K, Sriram V. Community participation in health sys-
+tems research: a systematic review assessing the state of research, the nature of
+interventions involved and the features of engagement with communities. PLoS
+One
+2015;10(10).
+Available
+from:
+https://www.ncbi.nlm.nih.gov/pubmed/
+26496124. doi: 10.1371/journal.pone.0141091.
+[16] Cornwall A, Jewkes R. What is participatory research? Soc Sci Med 1995;41
+(12):1667–76 Available from:. doi: 10.1016/0277-9536(95)00127-Shttps://www.
+sciencedirect.com/science/article/pii/027795369500127S.
+[17] Blackstock KL, Kelly GJ, Horsey BL. Developing and applying a framework
+to evaluate participatory research for sustainability. Ecol Econ 2007;60(4):726–
+42.
+Available
+from:
+https://www.sciencedirect.com/science/article/pii/
+S0921800906002898. doi: 10.1016/j.ecolecon.2006.05.014.
+[18] Harrison S. Climate change adaptation for health and wellbeing: a participatory
+modelling approach [dissertation on the internet]. Dunedin: University of Otago;
+2022. Available from: http://hdl.handle.net/10523/13589.
+[19] L Schmitt Olabisi, Blythe S, Levine R, Cameron L, Beaulac M. Participatory, dynam-
+ics models: a tool for dialogue A. S. Parris, G. M. Garﬁn, K. Dow, R. Meyer, Close SL,
+editors. Climate in context: science and society partnering for adaptation. John
+Wiley & Sons; 2010. p. 99–116.
+[20] Bond S, Barth J. Care-full and just: making a difference through climate change
+adaptation. Cities 2020;102:102734. Available from: https://www.sciencedirect.
+com/science/article/pii/S0264275119307838. doi: 10.1016/j.cities.2020.102734.
+[21] Dunedin City Council. About South Dunedin. 2022; cited 2022 Jul 10]. Available
+at:
+https://www.dunedin.govt.nz/council/council-projects/south-dunedin-
+future/history
+[22] Parliamentary Commissioner for the Environment. Preparing new zealand for
+rising seas: certainty and uncertainty. Wellington: Parliamentary Commis-
+sioner for the Environment; 2015. [cited 2019 May 16] Available from:
+https://pce.parliament.nz/media/fgwje5fb/preparing-nz-for-rising-seas-web-
+small.pdf.
+[23] Ministry for the Environment, Statistics New Zealand. Our atmosphere and cli-
+mate 2020. 2020. [cited 2020 Oct 30] Available from: https://environment.govt.
+nz/publications/our-atmosphere-and-climate-2020/
+[24] Otago Regional Council. Coastal Otago ﬂood event 3 June 2015. 2015. [cited 2019
+May 20] Available from: https://www.orc.govt.nz/media/1662/coastal-otago-
+ﬂood-event-3-june-2015.pdf
+[25] EHINZ. Socioeconomic deprivation proﬁle - NZDep for 2018. 2019. Available at:
+https://ehinz.ac.nz/indicators/population-vulnerability/socioeconomic-depriva-
+tion-proﬁle/
+[26] University of Otago Wellington. Socioeconomic deprivation indexes: NZDep and NZi-
+Dep. Department of Public Health; 2019. Available at: https://www.otago.ac.nz/wel-
+lington/departments/publichealth/research/hirp/otago020194.html#2018.
+[27] id community. Dunedin City Deprivation Index. 2018. Available at: https://proﬁle.
+idnz.co.nz/dunedin/deprivation-index?WebID=650
+[28] Statistics New Zealand. 2018 Census place summaries. 2018. Available at: https://
+www.stats.govt.nz/tools/2018-census-place-summaries
+[29] idcommunity. Dunedin City. 2020. Available at: https://proﬁle.idnz.co.nz/dune-
+din?WebID=650
+[30] Statistics New Zealand. Disability estimates for small areas tool −2013. 2013.
+Available at: https://www.stats.govt.nz/topics/disability
+[31] Barth J., South Dunedin Community Network Ropu. Greater South Dunedin com-
+munity network Hui: the visions and values of the Greater South Dunedin Com-
+munities. 2019.
+[32] Braun V, Clarke V. Successful qualitative research: a practical guide for beginners.
+SAGE; 2013.
+[33] Guba EG, Lincoln YS. Competing paradigms in qualitative research editors. In:
+Denzin NK, Lincoln YS, editors. Handbook of qualitative research. SAGE; 1994. p.
+105–77.
+[34] Sterman JD. Business system dynamics: systems thinking and modeling for a
+complex world. Boston: Irwin/McGraw-Hill; 2000.
+[35] Videira N, Antunes P, Santos R. Engaging stakeholders in environmental and sus-
+tainability decisions with participatory system dynamics modeling. Environmen-
+tal modeling with stakeholders: theory, methods, and applications. Springer
+International Publishing; 2017 [241-65]. doi: 10.1007/978-3-319-25053-3_12.
+[36] Stave K. Participatory system dynamics modeling for sustainable environmental
+management: observations from four cases. Sustainability 2010;2(9):2762–84.
+doi: 10.3390/su2092762.
+[37] van den Belt M. Mediated modeling: a system dynamics approach to environ-
+mental consensus building. Island Press; 2004.
+[38] Beall AM, Ford A. Reports from the ﬁeld: assessing the art and science of participa-
+tory environmental modeling Wang J, editor. Societal impacts on information sys-
+tems development and applications. Hershey, PA: IGI Global; 2012. p. 195–213.
+[39] Forrester JW. Industrial dynamics. Cambridge, Massachusetts: MIT Press; 1961.
+[40] Atkinson JA, Wells R, Page A, Dominello A, Haines M, Wilson A. Applications of
+system dynamics modelling to support health policy. Public Health Research &
+Practice 2015;25(3). doi: 10.17061/phrp2531531.
+[41] Cvitanovic C, Howden M, Colvin RM, Norstr€om A, Meadow AM, Addison PFE.
+Maximising the beneﬁts of participatory climate adaptation research by under-
+standing and managing the associated challenges and risks. Environ Sci Policy
+2019;94:20–31 Available from:. doi: 10.1016/j.envsci.2018.12.028https://www.
+sciencedirect.com/science/article/pii/S1462901118311018.
+[42] Gupta J. Climate change governance: history, future, and triple-loop learning?
+WIREs Climate Change 2016;7(2):192–210. doi: 10.1002/wcc.388.
+[43] Harrison S, Macmillan A, Bond S, Stephenson J. Climate change adaptation deci-
+sion-making for health and wellbeing in south Dunedin: report on the use of
+causal mapping for stakeholders. University of Otago; 2022 http://hdl.handle.net/
+10523/13621.
+[44] Vennix JAM. Group model building: facilitating team learning using system
+dynamics. Chichester, West Sussex: John Wiley & Sons; 1996.
+[45] Eden C, Ackermann F. Making strategy: the journey of strategic management.
+London: SAGE; 1998.
+[46] Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol 2006;3
+(2):77–101.
+[47] Bryson JM, Ackermann F, Eden C, Finn CB. Visible thinking: unlocking causal map-
+ping for practical business results. Chichester, West Sussex: John Wiley & Sons
+Inc.; 2004.
+[48] Meadows D. Thinking in systems: a primer. White River Junction, Vermont: Chel-
+sea Green Publishing; 2008.
+[49] Schaffernicht M. Causal loop diagrams between structure and behaviour: a critical
+analysis of the relationship between polarity, behaviour and events. Syst Res
+Behav Sci 2010;27(6):653–66. doi: 10.1002/sres.1018.
+[50] Macmillan A., Davies M., Yekatherina B. Integrated decision-making about hous-
+ing, energy and wellbeing (HEW): report on the mapping work for stakeholders.
+2014. [cited 2019 Jul 22] Available from: https://www.ucl.ac.uk/bartlett/environ-
+mental-design/sites/bartlett_environmental_design/ﬁles/ﬁnal-mapping-report-
+for-stakeholders.pdf
+[51] Awatere S., King D., Reid J., Williams L., Masters-Awatere B., Harris P., et al. He
+Huringa Ahuarangi, He Huringa Ao: a changing climate, a changing world. 2021.
+Report
+No.:
+LC3948.
+https://www.landcareresearch.co.nz/uploads/public/
+researchpubs/He-huringa-ahuarangi-he-huringa-ao-a-changing-climate-a-
+changing-world.pdf
+[52] Jones R, Bennett H, Keating G, Blaiklock A. Climate change and the right to health
+for Maori in Aotearoa/New Zealand climate justice and the right to health: a spe-
+cial issue. Health Human Rights J 2014;16(1):54–68. Available from: https://
+www.hhrjournal.org/2014/07/climate-change-and-the-right-to-health-for-
+maori-in-aotearoanew-zealand/.
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+8
+[53] Whyte K. Too late for indigenous climate justice: ecological and relational tipping
+points. WIREs Climate Change. 2020; 11(1). doi:10.1002/wcc.603
+[54] Jones R, Reid P, Macmillan A. Navigating fundamental tensions towards a decolo-
+nial relational vision of planetary health. Lancet Planetary Health 2022;6(10):
+E834–41. doi: 10.1016/S2542-5196(22)00197-8.
+[55] Deutsch AR, Lustﬁeld R, Jalali MS. Community-based system dynamics modelling
+of stigmatized public health issues: increasing diverse representation of individu-
+als with personal experiences. Systems Res Behav Sci 2021:1–16. doi: 10.1002/
+sres.2807.
+S. Harrison, A. Macmillan, S. Bond et al.
+The Journal of Climate Change and Health 12 (2023) 100235
+9

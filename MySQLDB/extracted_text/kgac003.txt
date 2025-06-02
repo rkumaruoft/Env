@@ -1,0 +1,834 @@
+RESEARCH ARTICLE
+Net economic benefits of well-below 2C scenarios and
+associated uncertainties
+Laurent Drouet
+1,*, Valentina Bosetti
+1,2 and Massimo Tavoni
+1,3
+1RFF-CMCC European Institute of Economics and the Environment, Centro Euro-Mediterraneo Sui
+Cambiamenti Climatici, Via Bergognone 34, 20144 Milan, Italy, 2Department of Economics and IGIER, Bocconi
+University, Via Roentgen 1, 20136 Milan, Italy, 3Department of Management, Economics and Industrial
+Engineering, Politecnico di Milano, Via Lambruschini 4/b, 20156 Milan, Italy
+*Correspondence address. RFF-CMCC European Institute of Economics and the Environment, Centro Euro-Mediterraneo Sui Cambiamenti Climatici,
+Via Bergognone 34, 20144 Milan, Italy. E-mail: laurent.drouet@eiee.org
+ABSTRACT
+Climate stabilization pathways reviewed by the Intergovernmental Panel on Climate Change depict the transformation
+challenges and opportunities of a low carbon world. The scenarios provide information about the transition, including its
+economic repercussions. However, these calculations do not account for the economic beneﬁts of lowering global tempera-
+ture; thus, only gross policy costs are reported and discussed. Here, we show how to combine low carbon pathways’ mitiga-
+tion costs with the growing but complex literature quantifying the economic damages of climate change. We apply the
+framework to the scenarios reviewed in the Special Report on 1.5C of the Intergovernmental Panel on Climate Change.
+Under a probabilistic damage function and climate uncertainty, we show that Paris-compliant trajectories have net present
+economic beneﬁts but are not statistically different from zero. After mid-century, most scenarios have higher beneﬁts than
+costs; these net beneﬁts are most prominent in developing countries. We explore the robustness of results to an extensive
+set of damage functions published in the literature, and for most of the speciﬁcations examined, we cannot reject the null
+hypothesis of net beneﬁts. Future research could improve these results with a better understanding of damage functions
+with greater coverage of damages and including adaptation and its cost.
+Key words: climate change; IPCC SR1.5C scenarios; mitigation costs; avoided impacts.
+INTRODUCTION
+Stabilizing climate change can be justified based on multiple
+grounds, most notably preserving planetary health. Economic
+motives for reducing emissions and adapting to a changing climate
+remain crucial, as they play an essential role in implementing miti-
+gation policies and international negotiations. Reports such as
+those periodically produced by the Intergovernmental Panel on
+Climate Change (IPCC) have examined the macroeconomic and
+technological consequences of stabilizing climate at different lev-
+els. They have partly relied on low carbon pathways produced by
+numerical models integrating climate, economy, the energy and
+land-use sectors. These tools, or ‘detailed process integrated as-
+sessment models’ (IAMs) vary in nature, formulation and details,
+and are distinct from simple benefit–cost frameworks [1]. Their
+analyses have highlighted the economic consequences of imple-
+menting policy goals, such as those consistent with the Paris
+Agreement.
+Submitted: 8 October 2021. Received (in revised form): 9 March 2022. Accepted: 15 March 2022
+V
+C The Author(s) 2022. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+1
+Oxford Open Climate Change, 2022, 2(1): kgac003
+https://doi.org/10.1093/oxfclm/kgac003
+Research Article
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+The mitigation costs of meeting the Paris goal are uncertain
+[2–5] and driven by policy, social and technology factors. They
+are often non-negligible in stringent scenarios. However, these
+economic assessments have mostly looked at only one side of
+the equation: that of policy costs. They do not include the eco-
+nomic benefits of reducing global warming, neither reported
+nor compared. This generates a partial picture of the economic
+appraisal of climate policy, which is focused on the gross costs
+of stabilization. Yet, decision-makers and society as a whole de-
+mand to know the net consequences of well below 2C
+strategies.
+Parallel literature, informed by a separate and disconnected
+family of IAMs, has focused on benefit–cost appraisals [6]. The
+major contribution of this literature has been to identify
+welfare-maximizing policies which dynamically equate mar-
+ginal benefits and costs [7]. Scholars have discussed the limita-
+tions of a fully fledged benefit–cost evaluation [8]. Let alone the
+ethical considerations behind the idea of defining the optimal
+level of mitigation on the sole basis of cost–benefit considera-
+tions, integrating economic benefits have come at the expense
+of highly simplified modelling frameworks, none of which is
+present in the scenario database of the past IPCC reports (i.e.
+the fifth assessment report and the special report on 1.5C).
+Damage functions are scarce, they were not built under the em-
+pirical rigour of current standards, they lack the temporal
+aspects impacting the abatement cost uncertainty and they en-
+tail many uncertainties. Because of these issues, and not to
+mention the normative elements embedded in fully integrated
+frameworks, detailed process IAMs have avoided featuring cli-
+mate economic benefits. While this has simplified the discus-
+sion and reduced the uncertainties, it also separated the
+assessment of mitigation costs from the benefits deriving from
+avoided damages.
+In recent years, the literature quantifying the economic
+impacts of global warming has significantly increased in scope
+and methods of assessment. The most significant contributions
+have been empirical approaches examining the historical rela-
+tions between temperature variations and various outcomes,
+including economic ones. This new empirical evidence employs
+panel
+data
+approaches
+controlling
+for
+unobserved
+time-
+invariant group heterogeneity, such as differences in institu-
+tions between countries. The evidence points to a statistically
+significant and typically negative relation between temperature,
+economic growth and inequality [9–12]. The advantages of this
+new literature include reproducibility and quantification of
+uncertainties, which were significant sources of concern plagu-
+ing the previous generation of impact functions. Both are criti-
+cal elements, given the many unknowns characterizing climate
+change impacts. Model uncertainty remains a significant con-
+cern for the empirically estimated impact functions: methodo-
+logical
+questions
+remain
+about
+the
+extent
+to
+which
+the
+estimates can be interpreted as short-term, weather-related
+shocks
+rather
+than
+variability
+in
+long-term
+climate
+[13].
+Estimates vary depending on whether climate influences the
+level versus the growth of economic activity and the model for-
+mulation assumptions [14]. The retrospective nature of the as-
+sessment also makes it impossible to include yet-to-come and/
+or unobservable physical and economic impacts, such as sea-
+level rise, non-market impacts of health and ecosystem serv-
+ices, or crossing specific tipping points, or simply crossing tem-
+perature ranges never observed before, something which is
+expected to happen at increased frequency [15].
+Recently, some studies have introduced this new empirical
+knowledge into the simple benefit–cost IAMs. They have shown
+that Paris-compliant scenarios can be economically optimal
+[16–18] and that climate-induced economic inequalities will per-
+sist [19], unlike other studies that found or argued that greater
+than 2C warming could be optimal [20]. Still, detailed process
+IAMs do not yet consistently account for the impacts from cli-
+mate change along with mitigation cost assessment.
+Here, unlike in optimal CBA, we are using existing well-
+below 2C scenarios, reviewed in the IPCC and we assess the im-
+plied net economic consequences. This study aims to lie out an
+approach for integrating the vast amount of information emerg-
+ing from the literature on potential economic damages in a way
+that is internally consistent with the decarbonization scenarios,
+without the need to resort to fully integrated, simplistic and
+partial frameworks. The unified framework we propose enables
+the comparison of mitigation cost and damage function esti-
+mates based on the same baseline for multiple decarbonization
+scenarios.
+MATERIALS AND METHODS
+The methodology is summarized in Fig. 1. We used the scenar-
+ios from the IPCC SR1.5C scenario database [21], in particular,
+the global mean temperature and the mitigation cost estimates
+until 2100. In the database, the temperatures have been gener-
+ated by a probabilistic version of the climate model MAGICC,
+calibrated to replicate the climate sensitivity assessment from
+the IPCC report on the 1.5 [22]. The analysis employs the three
+available quantiles: the median, the 5th and 95th percentiles.
+Policy scenarios, compliant with the Paris Agreement goal,
+are clustered according to their median temperature estimate
+in 2100: the ‘2C’ cluster contains the scenarios with tempera-
+ture from 1.5C to 2C and the ‘1.5C’ cluster the scenarios with
+a temperature below 1.5C. Some scenarios see a temperature
+overshoot, exceeding the temperature in 2100, in particular the
+scenarios of the 1.5C cluster (see Supplementary Fig. S3). We
+associate each policy scenario with its baseline scenario, where
+no policy occurs, and with the shared socio-economic pathways
+SSP baseline scenario, which was used to calibrate the detailed
+process IAMs baseline. In our analysis, the baseline scenarios
+provide the global mean temperature increase and the SSP
+baseline scenarios provide the GDP per capita trajectories at the
+country level.
+For the level-based damage functions [12, 20, 24, 25], we ap-
+ply the quadric functions to the global mean temperature in-
+crease from preindustrial levels gmt. The global GDP loss is
+Dgdpcc ¼ gdp  ðagmtt þ bgmt2
+t Þ. gdp is the global GDP from the
+scenario (in baseline or policy). gdpcc is the global GDP with the
+warming effect. The coefficients a and b are reported in
+Supplementary Table S1.
+The growth-based damage functions [9, 10, 12, 26–30] are
+applied at country level. First, the global mean temperature is
+downscaled into population-weighted country-level tempera-
+tures according to 20 individual CMIP5 model patterns (see
+details in Supplementary Methods). The computation of the
+national GDP per capita with the warming effect follows the
+procedure described in Ref. [9] and as implemented in Refs.
+[27, 31]. GDP per capita is gt ¼ gt1ð1 þ gt þ dðTtÞÞ, where gt is the
+national growth rate in the SSP baseline scenario and dðTtÞ is
+the warming effect on growth, adjusted to the baseline year
+in 2010. The warming effect function coefficients are provided
+in Supplementary Table S2. We obtain the country-level
+gdpcc, multiplying gt by the SSP country population.
+In our main analysis, we employ the growth-based damage
+function
+specification
+BHM
+SR
+[9]
+which
+integrates
+the
+2
+|
+Oxford Open Climate Change, 2022, Vol. 2, No. 1
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+regression uncertainty. We use the coefficients from 1000
+bootstrap regressions of the BHM SR specification using the
+replication code from Ref. [27]. For this specification, gdpcc
+is aggregated at the regional level and at the global level.
+For all other specifications, gdpcc is aggregated at the global
+level.
+Global and regional mitigation costs cmit are primarily
+translated into GDP percentage loss from the scenario database,
+then applied to the SSP baseline scenario with the warming ef-
+fect gdpcc. Mitigation costs compatible with a warming of a
+1.5C are higher and more uncertain than those at 2C. The un-
+certainty about mitigation costs (the range across scenarios)
+increases with time (see Supplementary Fig. S2).
+The net benefits of the scenarios are computed globally, for
+all specifications, and regionally, for our main specification
+BHM SR, relative to the GDP in the baseline scenario with cli-
+mate change gdp?
+cc. Net present benefits are
+NB ¼
+P
+2300
+y¼2020
+cy2020 gdpccy  cmity
+
+
+P
+2300
+y¼2020
+cy2020 gdpccy?
+
+
+;
+where cy ¼
+1
+ð1þrÞy is the discount factor in the year y with the dis-
+count rate r. After 2100, the mitigation costs and the avoided
+damages are extrapolated constantly in our default setup (see
+Supplementary Methods).
+To summarize, we account for uncertainties at different lev-
+els: the emission scenarios and their mitigation costs (including
+multiple IAMs and different underlying socio-economic narra-
+tives), the climate projections (including the climate sensitivity
+uncertainty and the climate model patterns), the damage func-
+tions (including the regression uncertainty for our main damage
+specification and a variety of specifications in the robustness
+analysis), and the discount rate.
+RESULTS
+The global net benefits of attaining well below 2C are reported
+in Fig. 2a. At a 2% discount rate, our estimates of the net present
+value of the net economic benefit are 5.6% of baseline GDP with
+warming (13.4% to 20.1%, 90% confidence interval) for the me-
+dian estimates of the global mean temperature, 6.0% (6.9% to
+18.1%) and 4.9% (28.5% to 25.2%) for the 5th and the 95th tem-
+perature percentile, respectively. Looking at the probability dis-
+tributions which account for damage, climate and mitigation
+cost uncertainties, we find that the net benefits are not statisti-
+cally significantly different from zero for all temperature per-
+centiles. The overall result is qualitatively the same for different
+discount rates: at 1%, net benefits are of 8.8% (17.5% to 32.3%,
+90% CI) and at 3%, they are of 3.2% (10.1% to 12.1%) for the me-
+dian estimates of the global mean temperature (Supplementary
+Fig. S7).
+If we compare the net economic benefits between the 1.5C
+and 2C scenarios, the two climate targets yield similar benefit–
+cost ratios (Supplementary Fig. S8). The additional benefits of
+reduced temperature compensate the extra mitigation costs of
+tightening the policy by half a degree, which are on average
+equivalent to 1.2% of baseline GDP. For a 2% discount rate, the
+median net benefits are 6.0% and 5.4% of basline GDP, respec-
+tively, for 1.5C and 2C, that is, the benefits of a lower tempera-
+ture target are larger than the mitigation costs. There is not a
+clear relation between the temperature reached in 2100 and the
+net benefits, suggesting the importance of the temperature tra-
+jectory, unless we consider a low discount rate at 1% where the
+0
+10
+20
+[°C]
+1.5°C
+2°C
+Baseline
+1
+2
+3
+4
+2025
+2050
+2075
+2100
+[°C]
+−40
+−30
+−20
+−10
+0
+1
+2
+3
+4
+5
+6
+[°C]
+GDP loss [%]
+DICE2016
+HS2017 NCAT
+HS2017 TOT
+KW2020
+TAKAKURA2019
+1.
+2.
+0
+10
+20
+30
+0
+10
+20
+30
+−2
+0
+2
+[°C]
+Growth effect [%/°C]
+all
+poor
+rich
+5
+10
+15
+20
+25
+opt.
++ policy climate
++ baseline climate
+SSP Baseline
+2025
+2050
+2075
+2100
+GDP [T$]
+Avoided damages
+Policy + baseline climate
+No policy + baseline climate
+2025
+2050
+2075
+2100
+Costs [T$]
+Mitigation costs
+0
+Global mean temperature
+Country-level temperature
+Level-based damages
+Growth-based damages
+Avoided damages
+SSP-normalized mitigation costs
+downscaled
+(a)
+(b)
+(e)
+(c)
+(d)
+(f)
+Figure 1: Methodology diagram. Model scenarios, with mitigation, are clustered into two groups: 2C and 1.5C, according to their global mean temperature in 2100.
+The baseline scenario, without mitigation action, and the SSP baseline scenario associated with the policy scenario are also identiﬁed. (a) The global mean temperature
+is downscaled to country level (b) and applied to global level-based damage functions (c). Country-level temperatures are applied to growth-damage functions in two
+different ways (d). The BHM SR damage function is applied using bootstrap regression coefﬁcients [23] (d.1.) for our main analysis and many different speciﬁcations of
+damage functions from the literature for robustness check (d.2.). Avoided damages are the difference in GDP between the SSP baseline and policy with climate change
+(e). Mitigation costs, in T$, are rescaled to the SSP baseline GDP with climate change (f). Net beneﬁts compare avoided damages and mitigation costs. The results of
+(d.1) are reported in the main analysis and those of (c) and (d.2) are reported in the robustness section.
+Drouet et al.
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+lower the temperature in 2100, the higher the net benefits
+(Supplementary Fig. S9).
+Looking at the time profile of costs and benefits (Fig. 2b and
+Table 1), we find that most scenarios have net economic bene-
+fits after 2050 and the majority (>70%) by 2070. This reflects the
+different temporal dynamics of mitigation costs and benefits.
+We also explore the entire scope of the climate sensitivity and
+compute the results for low and high climate sensitivity
+(Supplementary Fig. S10). Comparing our results for changes in
+climate sensitivity, we find the dynamics are mostly affected af-
+ter 2050. With a low climate sensitivity, the number of scenarios
+with positive net benefits goes from above 40% to 85%, while
+with a high climate sensitivity, this number remains in the
+range 60–80% with a decreasing number at the end of the cen-
+tury. This suggests the importance of exploring explicitly the
+time profiles of net benefits, rather than solely concentrating on
+the net present value.
+Figure 3 shifts the focus to the geographical distribution of
+net benefits and shows how the global picture hides significant
+variations across regions. The non-linearity of climate impacts,
+as estimated by Burke et al. [9], implies enormous benefits for
+the hotter and poorer parts of the world. Mitigation costs de-
+pend on assumptions about the regional allocation of mitiga-
+tion effort. Most scenarios reviewed by the IPCC assume an
+efficient allocation of effort, that is an allocation which mini-
+mizes global costs. For this reason, mitigation effort is higher in
+carbon-intensive economies with relatively lower marginal
+abatement costs. These regions are economies in rapid develop-
+ment and endowed with fossil fuels, as for example Middle East
+and the former Soviet Union [32]. Such allocation is not based
+on ethically based burden sharing rules and different ex post re-
+distribution of costs could be defined based on international
+negotiations. The regional outcome is that the global south
+gains from climate stabilization across all scenarios by the end
+of the century and the highest benefits are concentrated in sub-
+Saharan Africa, and South and East Asia. OECD region’s net ben-
+efits are slightly negative in 2100 for the 1.5C and 2C.
+ROBUSTNESS
+Given the uncertainties surrounding the estimates of economic
+impact, we perform the analysis with a large number of pub-
+lished estimates, but without including the regression uncer-
+tainty. A crucial distinction exists between ‘level’ and ‘growth’
+damage functions. In the former, temperature is assumed to re-
+duce economic output, while in the latter temperature affects
+economic growth. These two frameworks span the limiting
+cases, from full adaptive capacity to persistence of climate-
+induced economic impacts. Figure 4 reports the results under 25
+damage functions specifications. Out of all scenarios, few entail
+net discounted benefits that are statistically negative; others
+imply benefits that are either not statistically different from
+zero or positive. In particular, at a 2% discount rate and over the
+95% range of climate sensitivity uncertainty, for the 2C scenar-
+ios, six damage functions find statistically significant net bene-
+fits (at 95% level). For the 1.5C scenarios, five damage functions
+find significant net benefits (at 95% level). There are not large
+differences between the two temperature clusters. The reduc-
+tion in damage, from 2C to 1.5C, is compensated by an in-
+crease in mitigation costs with a more or less important effect
+depending on the damage function.
+Figure 2: Distribution of global net economic beneﬁts from mitigation of well-below 2C scenarios. (a) The distribution of the net present values of the net economic
+beneﬁts in 2020 using a 2% discount rate, expressed relative to the baseline GDP with warming (the density function in the upper part, jittered points and box plot in
+the lower part). The colour indicates the temperature percentile. The box plots represent the median, the 90% and 66% range of the distributions. (b) The annual net
+beneﬁts for the median estimate of the global mean temperature. The coloured line highlights the median annual net beneﬁts. The colour scale reﬂects the percentage
+of scenarios with positive annual net beneﬁts. The numbers above the x-axis report this number every 10 years. Net beneﬁts are computed for our main speciﬁcation:
+the growth-based damage function BHM SR, using the 1000 bootstrap regression coefﬁcients [27].
+Table 1: Annual net economic beneﬁts from mitigation of well below
+2C scenarios, expressed relative to the baseline GDP with climate
+change.
+Temperature
+trajectory
+2050
+2100
+Median
+1.1% [6.3%; 1.5%]
+15.3% [9.5%; 48.5%]
+5th
+0.9% [6.0%; 1.5%]
+15.0% [22.0%; 59.3%]
+95th
+0.5% [5.4%; 3.1%]
+14.8% [41.6%; 93.6%]
+The median value is reported along with the 90% conﬁdence interval.
+4
+|
+Oxford Open Climate Change, 2022, Vol. 2, No. 1
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+We also consider different discount rates (Supplementary
+Fig. S11). At a 1% discount rate, we get similar results than for
+the 2% discount rate with one damage function (‘HSM MKT’) be-
+coming non-significant on the negative side and 10 damage
+functions being significant at the positive side in the 2C cluster
+(at the 95% level). At a 3% discount rate, five damage functions
+find significant net costs and five damage functions net benefits
+(at the 95% level). This also highlights the importance of
+inspecting the time dynamics of the net benefits, which vary a
+lot across damage functions. However, the trajectory of net ben-
+efits always curves upwards at the end of the century, but more
+or less quickly (Supplementary Figs S12 and S13).
+The confidence intervals around the median values high-
+light the large uncertainties surrounding the estimates of the
+net economic benefits. These uncertainties are not only because
+of climate impact functions but also to the direct costs of
+2050
+2100
+2100
+2◦C
+1.5◦C
+0
+25
+50
+75
+100
+[%]
+0
+25
+50
+75
+100
+[%]
+0
+50
+100
+150
+[%]
+Proportion of scenarios with positive net beneﬁts
+Net beneﬁts
+(a)
+(b)
+Figure 3: Regional net beneﬁts from 2C and 1.5C climate policies. They are aggregated and compared using the ﬁve global regions as provided in the SR1.5C scenario
+database. (a) The share of scenarios with positive net beneﬁts in years 2050 and 2100. (b) The net beneﬁts relative to the baseline GDP with climate change in 2100. Net
+beneﬁts are computed using with median estimate of the global mean temperature for our main speciﬁcation: the growth-based damage function BHM SR, using the
+1000 bootstrap regression coefﬁcients [27].
+1.5C
+2C
+−25%
+0%
+25%
+50%
+−25%
+0%
+25%
+50%
+DJO 0L RP
+BHM LR RP
+BHM LR P
+BHM SR RP
+HS MKT
+TAKAKURA
+DICE
+DJO 10L P
+DJO 5L P
+DJO 0L P
+PRETIS
+HS NCAT
+KW LVL
+HS TOT
+ACEVODO
+DJO 10L RP
+BHM LR L
+HS TOT+P
+BHM SR
+DJO 5L RP
+HENSELER
+BT CNTRY
+BHM LR
+BT STATE
+KW BHM
+Policy benefits [%]
+Temperature
+percentile
+5th
+median
+95th
+Damage function
+growth−based
+level−based
+Statistics
+5%
+95%
+50%
+Parameters’ quality
+All signiﬁcant
+Not all signiﬁcant
+Figure 4: Inﬂuence of the damage function on the net present value of net beneﬁts from 2C and 1.5C climate policies. Each error bars report the uncertainty range (5–
+95%) across scenarios. The middle points present the median. Damage functions are ranked according to the median value of the median temperature percentile.
+Growth-based and level-based damage functions are differentiated by the shape of the middle points. The colours indicate the temperature percentiles (5%, 50% and
+95%), representing the climate sensitivity uncertainty. Damage functions with some non-signiﬁcant parameters (P-value > 0.05) are transparent. Parameters of the
+damage functions are reported in Supplementary Tables S1 and S2.
+Drouet et al.
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+reducing emissions. The macroeconomic repercussions of miti-
+gation are also poorly understood, with different assessments
+providing different magnitudes of economic losses. These dif-
+ferences can be ascribed to assumptions about underlying eco-
+nomic
+frameworks
+and
+about
+policy
+design.
+Economic
+frameworks involving distortions in markets and innovation
+processes, as well as multiple market failures, foresee lower
+(and possibly even negative) economic costs than neoclassical
+ones [33]. Policy design also matters: the extent to which poli-
+cies are harmonized across sources and countries, and how the
+revenues of interventions are used, can lead to very different
+economic implications of reducing emissions.
+In Fig. 4, we treated all damage function specifications
+equally, but conclusions have to be drawn carefully, as the meth-
+odologies and the sector and impact coverage vary across dam-
+age functions. The panel-based damage functions cover only the
+market impacts, while it is more varied for the level-based dam-
+age functions built from enumerative methods or from a comput-
+able generable equilibrium model. Supplementary Table S1
+reports the coverage of those functions. The damage function
+from Ref. [24] is built from a meta-analysis and can highlight the
+impact of the damage function coverage by using the various
+specifications. The more inclusive is the damage function, start-
+ing with market-only impacts, adding subsequently non-market
+impacts, catastrophic damages and productivity effect, the higher
+are the net benefits (Supplementary Fig. S14). This may suggest
+that the net benefits computed by level-based damage functions
+would be higher if additional impacts are considered, but the
+implications for those computed by the growth-based damage
+functions are unclear.
+Another critical aspect about the net present values is the
+extrapolation of the net benefits after 2100, as most of the data
+from the climate models and the detailed process IAMs is pro-
+vided until 2100. We show the implication of the interpolation
+for
+the
+avoided
+damages
+and
+the
+mitigation
+costs
+in
+Supplementary Fig. S15. The results are sensitive to how the
+avoided impacts are projected into the future. From the conser-
+vative assumption (constant extrapolation, our default one) to
+the more optimistic one (linear extrapolation), the net benefits
+shift towards the positive and this is much visible for the speci-
+fication with significant net benefits. This shows that there are
+some knowledge gaps and efforts should be devoted to model
+the implications of climate policies after 2100, in particular if we
+consider low discount rates. After 2100, the impacts from sea-
+level rise could become prominent, the panel-based damage
+function, calibrated on historical observations, would be applied
+far out of the sample and the growth-based damage functions
+can be hardly used, as they are, over a long-time horizon.
+Finally, we also look at the implication of time aggregation us-
+ing a social welfare function. Going beyond the unique discount
+rate parameter, we compute the scenario welfare using the isoe-
+lastic Constant Relative Risk Aversion utility function and we
+compare their Certainty, Equity and Balanced Growth Equivalent
+(CEBGE) (see Supplementary Material for details). The policy ben-
+efits, expressed as the difference in CEGBE, are mostly positive
+for a range of a pure rate of time preference from 0% to 3%. Also,
+in the welfare analysis, the order of the damage functions is simi-
+lar to the one in Fig. 4. One step further would be to look at the re-
+gional aggregation embedding the equity implication.
+CONCLUSION
+We have shown how to integrate economic costs and avoided
+damages from climate change using model scenarios. Overall,
+we find that despite large uncertainties, the current benefits
+and costs of attaining temperature goals of 1.5–2C are of com-
+parable magnitude and not statistically different from each
+other. We explored the asymmetric temporal and geographical
+distributions of benefits and costs, with benefits outweighing
+costs as time proceeds and developing countries exhibiting
+larger benefits.
+Major uncertainties and caveats exist. On the climate dam-
+age side, the reviewed literature is based on historical relations
+which do not account for many sources of impacts. These in-
+clude sea level rise and tipping points. Non-market damages
+are mostly not accounted for, despite their relevance [34].
+Finally, co-benefits of mitigation pathways, such as improved
+air quality, which would accrue in the early years of decarbon-
+ization, are not accounted in these calculations. Mitigation costs
+are also uncertain, although arguably less than the economic
+impacts of climate change. Mitigation costs will depend on how
+emission reduction policies will be implemented and might
+even benefit GDP (e.g. when policies trigger large enabling infra-
+structure investments). Evidence drawn from existing carbon
+taxes points to zero to a modest positive impact on GDP and to-
+tal employment growth rates [35], though much higher ambi-
+tion in policies than what has been so far implemented is
+needed to achieve Paris consistent temperatures. Overall, the
+presented estimates of the net economic benefits of 1.5–2C
+may be underestimated.
+These results have important policy implications. They sug-
+gest that ambitious, but well coordinated, emission reduction
+strategies are worthwhile from a pure economic standpoint.
+The announced climate neutrality goals of several major econo-
+mies are an important step forward, but are not enough to limit
+the temperature increase. Other countries, including developing
+economies, have a clear economic interest in keeping tempera-
+tures in check.
+SUPPLEMENTARY DATA
+Supplementary data are available at Oxford Open Climate
+Change online.
+ACKNOWLEDGEMENTS
+The authors thank the two anonymous reviewers for their
+valuable suggestions. They also thank the participants of
+the IAMC 2021 conference and the NAVIGATE/ENGAGE
+Expert Workshop for their feedbacks and comments.
+STUDY FUNDING
+This work has received funding from the European Union’s
+Horizon 2020 research and innovation programme under
+grant
+agreement
+Nos
+821471
+(ENGAGE)
+and
+821124
+(NAVIGATE).
+CONFLICT OF INTEREST
+There is no competing interest.
+AUTHORS’ CONTRIBUTIONS
+L.D., V.B. and M.T. designed the research. L.D. wrote the
+code and performed the simulations. L.D. and M.T. analysed
+the results and wrote and reviewed the manuscript.
+6
+|
+Oxford Open Climate Change, 2022, Vol. 2, No. 1
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024
+DATA AND CODE AVAILABILITY
+The IAMC 1.5C Scenario dataset is available in Zenodo
+(https://doi.org/10.1038/s41558-018-0317-4). The SSP dataset is
+from
+https://tntcat.iiasa.ac.at/SspDb/dsd.
+The
+reproducible
+source code used for the data analysis and the ﬁgures can be
+found at https://github.com/lolow/iampact-ipcc-sr15c.
+REFERENCES
+1. Nordhaus WD. Managing the Global Commons: The Economics of
+Climate Change. MIT Press.
+2. van Vuuren DP, van der Wijst K-I, Marsman S et al. The costs
+of achieving climate targets and the sources of uncertainty.
+Nat Clim Change 2020;10:329–34.
+3. Pretis F, Schwarz M, Tang K et al. Uncertain impacts on eco-
+nomic growth when stabilizing global temperatures at 1.5C
+or 2C warming. Phil Trans R Soc 2018;376:20160460.
+4. Diffenbaugh NS, Burke M. Global warming has increased
+global economic inequality. Proc Natl Acad Sci USA 2019;116:
+9808–13.
+5. Newell RG, Prest BC, Sexton SE. The GDP-temperature rela-
+tionship: implications for climate change damages. J Environ
+Econ Manage 2021;108:102445.
+6. Ricke K, Drouet L, Caldeira K et al. Country-level social cost of
+carbon. Nat Clim Change 2018;8:895–900.
+7. Bastien-Olvera BA, Moore FC. Use and non-use value of na-
+ture and the social cost of carbon. Nat Sustain, 2020;4:1–8.
+8. Drouet L, Bosetti V, Tavoni M. Selection of climate policies
+under the uncertainties in the Fifth Assessment Report of the
+IPCC. Nat Clim Change 2015;5:937–43.
+9. Fischer EM, Sippel S, Knutti R. Increasing probability of record-
+shattering climate extremes. Nat Clim Change 2021;11:689–95.
+10.Burke M, Davis WM, Diffenbaugh NS. Large potential reduc-
+tion in economic damages under UN mitigation targets.
+Nature 2018;557:549–53.
+11.Henseler M, Schumacher I. The impact of weather on eco-
+nomic growth and its production factors. Clim Change 2019;
+154:417–33.
+12.Kalkuhl M, Wenz L. The impact of climate conditions on eco-
+nomic production. evidence from a global panel of regions. J
+Environ Econ Manage 2020;103:102360.
+13.Ha¨nsel MC, Drupp MA, Johansson DJA et al. Climate econom-
+ics support for the UN climate targets. Nat Clim Change 2020;
+10:781–9
+14.Burke M, Hsiang SM, Miguel E. Global non-linear effect of
+temperature on economic production. Nature 2015;527:235–9.
+15.Rogelj J, Meinshausen M, Sedla´cek J et al. Implications of po-
+tentially lower climate sensitivity on climate projections and
+policy. Environ Res Lett 2014;9:031003.
+16.Howard PH, Sterner T. Few and not so far between: a meta-
+analysis of climate damage estimates. Environ Resource Econ
+2017;68:197–225.
+17.Nordhaus W. Evolution of modeling of the economics of
+global warming: changes in the DICE model, 1992–2017. Clim
+Change 2018;148:623–40.
+18.Kolstad CD, Moore FC. Estimating the economic impacts of
+climate change using weather observations. Rev Environ Econ
+Policy 2020;14:1–24.
+19.Gazzotti P, Emmerling J, Marangoni G et al. Persistent inequal-
+ity in economically optimal climate policies. Nat Commun
+2021;12:3421
+20.van der Wijst K-I, Hof AF, van Vuuren DP. On the optimality
+of 2C targets and a decomposition of uncertainty. Nat
+Commun 2021;12:2575.
+21.Glanemann N, Willner SN, Levermann A. Paris climate agree-
+ment passes the cost–beneﬁt test. Nat Commun 2020;11:110
+22.Weyant J. Some contributions of integrated assessment models
+of global climate change. Rev Environ Econ Policy 2017;11:115–37.
+23.Guivarch C, Lempert R, Trutnevyte E. Scenario techniques for
+energy and environmental research: an overview of recent
+developments to broaden the capacity to deal with complex-
+ity and uncertainty. Environ Model Softw 2017;97:201–10
+24.Burke M, Tanutama V. Climatic constraints on aggregate eco-
+nomic output. National Bureau of Economic Research 2019;
+Working Paper 25779.
+25.Ko¨berle AC, Vandyck T, Guivarch C et al. The cost of mitiga-
+tion revisited. Nat Clim Change 2021;11:1035–45.
+26.Intergovernmental Panel on Climate Change. Climate Change
+2014: Mitigation of Climate Change: Working Group III Contribution to
+the
+IPCC
+Fifth
+Assessment
+Report.
+Cambridge:
+Cambridge
+University Press, 2015.
+27.Takakura J, Fujimori S, Hanasaki N et al. Dependence of eco-
+nomic impacts of climate change on anthropogenically di-
+rected pathways. Nat Clim Change 2019;9:737–41.
+28.Tavoni M, Kriegler E, Riahi K et al. Post-2020 climate agree-
+ments in the major economies assessed in the light of global
+models. Nat Clim Change 2015;5:119–26.
+29.Metcalf GE, Stock JH. Measuring the macroeconomic impact
+of carbon taxes. AEA Pap Proc 2020;110:101–6.
+30.Nordhaus W. Projections and uncertainties about climate
+change in an era of minimal climate policies. Am Econ J Econ
+Policy 2020;10:333–60.
+31.Tol RSJ. Welfare speciﬁcations and optimal control of climate
+change: an application of FUND. Energy Econ 2002;24:367–76.
+32.Dell M, Jones BF, Olken BA. Temperature shocks and eco-
+nomic growth: evidence from the last half century. Am Econ J
+Macroecon 2012;4:66–95.
+33. [dataset] Huppmann D, Kriegler E, Krey V et al. IAMC 1.5C sce-
+nario explorer and data hosted by IIASA (release 2.0). zenodo
+2019; https://doi.org/10.5281/zenodo.3363345.
+34.Burke M, Hsiang SM, Miguel E. Global non-linear effect of
+temperature on economic production. Nature 2015;527:235–9.
+35.Acevedo S, Mrkaic M, Novta N et al. The effects of weather
+shocks on economic activity: what are the channels of im-
+pact? J Macroecon 2020;65:103207
+Drouet et al.
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/2/1/kgac003/6567378 by guest on 26 August 2024

@@ -1,0 +1,764 @@
+What’s Scope 2 good for?
+Marc Roston1,, Alicia Seiger1, Abigail Mathieson1,2 
+1Sustainable Finance Initiative, Precourt Institute for Energy, Stanford University, Palo Alto, CA 94305, United States 
+2Breakthrough Energy, New York, NY 10174, United States
+Corresponding author. Sustainable Finance Initiative, Precourt Institute for Energy, 559 Nathan Abbott Way, Stanford, CA 94305, United Sates.  
+E-mail: mroston@stanford.edu
+Abstract 
+The Greenhouse Gas Protocol’s Scope 2 has long been pivotal in addressing electricity's role in emissions, yet its effectiveness 
+in emissions accounting is limited. This paper critiques Scope 2 for its inadequate allocation of electricity-derived emissions and 
+for supporting misleading emissions reduction claims through market-based transactions. The paper investigates alternatives like 
+24/7 Carbon Free Electricity and Emissions First, noting their improvements over Scope 2, but also their failure to fully address grid 
+embodied emissions. The concept of carbon solvency is introduced as a superior model, compelling firms to align long-term 
+emissions liabilities with carbon removal assets, thus enabling more accurate emissions accounting and investment decisions 
+for grid decarbonization. This approach fosters clearer decision-making, particularly in electricity generation methods with variable 
+upstream emissions, such as hydrogen and biofuels. By redefining net zero within a rigorous, auditable framework, we propose a 
+shift from current practices towards a more accountable and environmentally impactful model.
+Keywords: emissions, carbon accounting, E-Liabilities, E-Assets, carbon solvency, Scope 2, GHG Protocol, embodied emissions, emis­
+sions liability management 
+Introduction
+The Greenhouse Gas Protocol started life as a risk management 
+tool for evaluating the incidence of an expected carbon tax or 
+similar legislative action. In more than two decades since its 
+launch, the Protocol has suffered mission creep: driven by activ­
+ist demand for measurement and accountability, they pulled the 
+Protocol into an accounting-like role beyond its capacity. 
+Currently, billions of dollars of planned investments and policy 
+prescriptions rely on the Protocol to justify decisions.
+Effective global economic transformation away from fossil 
+fuels demands massive investment, as much as $4.3 trillion an­
+nually by 2030 [1]. In support of this transition, activists and lead­
+ing firms race to voluntarily deploy limited resources effectively 
+while awaiting government action or, in some cases, supporting 
+and expanding mandatory compliance actions. A shift from car­
+bon counting to carbon accountability and from agitation to capi­
+tal allocation requires functional accounting. The limitations of 
+the Protocol as an accounting tool have moved to center stage, 
+hindering progress. The Protocol does not allocate emissions in a 
+mutually exclusive and comprehensively exhaustive way—an es­
+sential property of a functional accounting system. Therefore, 
+the Protocol cannot correctly assign responsibility, demand 
+accountability, or accurately inform investment decisions in sup­
+port of climate goals. Absent a functional accounting system, 
+corporate, national, and international emissions reduction goals 
+and progress evaluation will fall short.
+For more than two decades, firms have used the Protocol’s 
+Scope 2 guidance to estimate electricity-derived emissions and 
+inform electricity market transactions and related investment 
+decisions. Recent SEC rule making has concluded that disclo­
+sures and oversight in the United States will focus on Scope 1 
+and Scope 2 emissions, excluding Scope 3 [2]. (Scope 1 includes 
+direct emissions from combustion activities. Scope 2 includes 
+electricity, heating, and cooling. This paper focuses on electricity 
+without loss of generality as the accounting failures of Scope 2 
+apply to heating and cooling as well.) This bright line between 
+Scopes 1 & 2 and Scope 3 misses the point that the Scopes are not 
+separable and do not accurately attribute emissions. Only Scope 
+1 emissions enter the atmosphere. Scope 2 underestimates and 
+misattributes direct emissions (i.e. Scope 1) of others in an elec­
+tricity supply chain. Therefore, decisions designed to reduce 
+Scope 2 emissions risk misallocating limited resources. Rather 
+than repeatedly adjusting and patching flaws in Scopes, firms 
+and governments need to adopt valid accounting as the path to 
+effective climate-positive actions aligned with budgets that span 
+companies, nations, and the globe.
+Electricity grids must maintain stability across many sellers 
+with disparate technologies, innumerable buyers with demand 
+variation and divergent incentives, balancing authorities, trans­
+mission constraints and regulators. That electricity grids func­
+tion at all is nothing short of miraculous. Decarbonizing this 
+system requires massive investment and system change that 
+demands sound attribution and allocation based on a solid ac­
+counting foundation. Scope 2 does not correctly identify and allo­
+cate all electricity-derived emissions, rendering unsuitable 
+information to accurately measure and internalize the green­
+house gas externalities. Scope 2 also supports flawed claims of 
+emissions reductions by allowing for the distinction between 
+market- and location-based measures. Proposed variations to 
+Received: December 13, 2023. Revised: April 11, 2024. Accepted: June 3, 2024 
+© The Author(s) 2024. Published by Oxford University Press.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Oxford Open Climate Change, 2024, 4(1), kgae011  
+https://doi.org/10.1093/oxfclm/kgae011 
+Advance Access Publication Date: 17 July 2024 
+Perspective Article   
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+electricity emissions methodologies offer some substantial 
+improvements, but gaps remain.
+The paper’s first section describes Scope 2 challenges. Scope 2 
+counts only combustion emissions from the vantage point of the 
+electricity consumer, not an integrated grid. By implication, elec­
+tricity consumers will likely underinvest in their own emissions 
+reductions. The Protocol’s allowance for location- and market- 
+based estimates compounds those inaccuracies because it con­
+flates emissions that are difficult to measure and allocate but 
+have, in fact, occurred, with hypothetical counterfactual emis­
+sions. This approach risks misdirected investments from actions 
+that could reduce actual emissions.
+The second section considers two enhanced approaches to 
+electricity-derived emissions. Each approach has substantial 
+advantages over existing Scope 2 emissions counting. The first 
+approach, 24/7 Carbon Free Energy specifically challenges firms to 
+link market-based emissions transactions and investments to 
+time-sliced electricity-consumption driven emissions [3]. The 
+second approach, Emissions First Partnership, suggests firms opti­
+mize investments to maximize emissions avoidance system wide 
+[4]. Both viable approaches emphasize the importance of higher 
+frequency (or shorter measurement interval) emissions calcula­
+tions than current Scope 2 requires. Each allows for market- 
+based transactions with ambitious but ambiguous impacts. 
+Neither describes a closed system that solves for meaningful net 
+zero claims.
+The third section defines carbon solvency in contrast to corpo­
+rate net zero claims and the related patchwork of legal and 
+regulatory disclosure frameworks based on the Protocol. Carbon 
+solvency requires that firms match long-duration emissions lia­
+bilities with carbon removal assets, providing a measurable and 
+parsimonious budget constraint that defines net zero in a volun­
+tary setting, consistent and adaptable to a compliance regime.
+The last section provides an overview of implementation, sug­
+gesting that the most efficient path to understanding and allocat­
+ing grid emissions ought to occur at the balancing authority or 
+grid level, where the ability to balance the private and public 
+good characteristics of the electricity and related emissions align 
+most effectively. The conclusion presents both a research path 
+for incentives that align with emissions liability management, 
+and policy recommendations regarding complex (potentially) 
+clean energy systems such as biofuels and hydrogen.
+Scope 2
+Scope 2 emissions sound straightforward: indirect emissions 
+from electricity generation. The Protocol defines Scope 3 emis­
+sions as “indirect emissions resulting from value chain activities” 
+[5]. While indirect emissions from electricity generation fall 
+squarely in “value chain activities,” the Protocol chooses to carve 
+out Scope 2 as a special case. If Scope 2 captured all indirect emis­
+sions resulting from purchased electricity, that might be useful 
+accounting. This section identifies missing components to 
+accurate electricity emissions accounting, the Protocol design 
+features that incentivize inaccurate reduction claims and misdir­
+ected investments, and two novel approaches to improve on 
+Scope 2 that still fall short.
+Scope 2 and Scope 3 Category 3
+What does Scope 2 measure? Scope 2 counts only combustion 
+emissions based on end-user estimates from consumed electric­
+ity. That definition falls short: the sum of customer estimates 
+based on consumed electricity, even if correctly estimated, 
+excludes all transmission and distribution losses. In the U.S. and 
+India, such estimates would undercount by about 5% and at least 
+20%, respectively [6, 7]. More accurately, Scope 2 estimates a 
+firm’s emissions under the novel conditions that the firm had 
+onsite generation continuously matched to load, with a fixed 
+emissions factor equal to the grid annual average emissions fac­
+tor at the firm’s location. (Electricity rate setting incorporates 
+this concept of adjustments for losses. See “Electricity E-liability 
+Implementation” below.)
+Scope 3 Category 3 (“S3C3”) defines the complete set of exclu­
+sions from Scope 2 that make it an inaccurate measure of 
+electricity-derived emissions. S3C3 estimates the indirect emis­
+sions upstream in the electricity supply chain across a range of 
+activities, including everything from fossil fuel extraction to gen­
+eration facility construction to transmission and distribution in­
+frastructure manufacturing and installation and previously 
+noted transmission and distribution line losses [5].
+The Protocol’s distinction between S2 and S3C3 made more 
+sense in the original risk management context but falls short as a 
+capital allocation tool. S3C3 captures what are largely sunk or 
+fixed costs in the short run (e.g. transmission and distribution 
+infrastructure) and difficult-to-measure, higher order emissions 
+(e.g. diesel fuel to move coal from a mine to a power plant.) 
+Planning electricity systems transformation and growth, how­
+ever, cannot rely on S2 alone. First, the sum across all customers 
+on a grid of estimated S2 will not add-up to the actual emissions 
+of generators on the grid due to transmission and distribution 
+losses. Second, customer estimates do not include embodied 
+emissions in generation, transmission, and distribution systems. 
+More generally, customer-level estimated emissions cannot con­
+verge to actual generation emissions. Therefore, efforts to esti­
+mate emissions misdirect efforts, when grid operators could 
+report and allocate actual emissions to their customers. Counting 
+S2 emissions might be useful for back-of-the-envelope decisions 
+or disclosures, but it is not a useful tool for accountability. An ac­
+countable firm wants to invest appropriately to internalize emis­
+sions externalities, or even beyond, fully informed by accurate 
+accounts. Scope 2 underestimates that obligation. Scope 2 plus 
+S3C3 may be closer, but still uses difficult to reconcile estimates. 
+(The Net Zero and Carbon Solvency section below reviews a method 
+for true emissions accounting first described by Kaplan and 
+Ramanna [8] and an approach to accountability described by 
+Roston, Seiger and Heller [9].)
+Location versus market
+The Protocol suggests firms report Scope 2 emissions using two 
+methods: location-based and market-based. Location-based 
+Scope 2 emissions (“LBS2”) considers the physical location of a 
+load in a particular geography or attached to a particular grid, 
+and requires the firm combine its known electricity consumption 
+with average emissions factors (e.g. kg CO2e/MWh) for the 
+specific location.
+In a nod to accountability, market-based Scope 2 (“MBS2”) 
+allows a firm to report lower emissions than LBS2 by adjusting 
+for market-based activities that the Protocol accepts as offsets 
+against LBS2. Energy attribute transactions (“EATs”) comprise the 
+bulk of these investments. (Power purchase agreements account 
+for most EATs. While PPAs may not look like traditional invest­
+ments, the party entering a PPA provides capital to a counter­
+party building generation capacity—a form of an investment.) A 
+firm acknowledges its LBS2 but spends to report lower MBS2. 
+This distinction between LBS2 and MBS2 presents challenges for 
+net zero goals and distorts net zero claims. A company that has 
+2 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+done nothing to reduce LBS2 emissions might still report zero 
+MBS2 emissions through EATs. While the legal basis for EATs has 
+been well documented [10], the transactions violate accounting, 
+financial, and atmospheric CO2 logic. (Trading liabilities obscures 
+product embodied emissions; such actions are the financial ac­
+counting equivalent of separating prices from quantities [11]. 
+Subsequent sections examine these issues in more detail.
+Practically, most firms treat LBS2 as fixed, and costly to re­
+duce because emissions externalities are not (or were not) priced 
+in their capital expenditure decision to locate their facilities. 
+They focus their reporting and investing efforts on low-cost MBS2 
+reductions through EATs that do not reduce the firm’s emissions.
+Energy attribute trading
+Energy attribute trading, originally developed to subsidize de­
+ployment of non-economic renewable power generation, allows 
+power generators to separate delivered electricity from the gen­
+eration attributes of that power: an electricity consumer receives 
+electricity, another party receives the generation attributes of the 
+power. This market supports and encourages a perplexing notion 
+of setting emissions targets or tracking emissions reductions, 
+causing confusion or even deception. MBS2 reporting relies on 
+trading attributes of power generation, through time, across loca­
+tions, and detached from the actual generation technology of the 
+buyer or the seller. Two perverse results follow from this market: 
+First, electricity buyers may consume power with no emissions 
+attributes. Second, the emissions impact of an energy attribute 
+trade depends on the buyer’s electricity generation mix, not on 
+the product purchased. These inconsistencies inherent to Scope 
+2, support over-counting reductions, fail truth-in-advertising 
+type claims about electricity and cannot correctly attrib­
+ute emissions.
+Consider a standard energy attribute transaction. A renewable 
+power producer generates 1 MWh of electricity, delivered to its 
+grid. That power producer also issues a renewable energy certifi­
+cate (“REC”) saying it produced 1 MWh of renewable power con­
+sidered “carbon free.” (As previously noted, this power is not 
+carbon free: scope 2 and related electricity discussions generally 
+ignore Scope 3 Category 3.) An electricity consumer, potentially 
+on a different grid, buys that REC and now claims the right to say 
+their 1 MWh purchased electricity is “renewable”, “carbon free” or 
+“carbon neutral” under MBS2. (REC trading and PPAs both discon­
+nect emissions from electricity.)
+This transaction creates a novel electricity product: null power. 
+The Greenhouse Gas Protocol Scope 2 Guidance defines null 
+power as power that “can no longer be considered to contain the 
+energy attributes, including the type of energy (e.g. that it is 
+‘renewable’) and its GHG emissions rate (that it is ‘zero emis­
+sions/MWh’)” [19].
+A stylized example illustrates energy attribute trading and ex­
+actly where such transactions go wrong from an accounting per­
+spective. Imagine three unconnected grids with vertically 
+integrated utilities. Utility A has 100% hydroelectric generation. 
+Utility B burns natural gas, generating 0.47 t CO2/MWh; utility C 
+burns coal, generating 0.99 t CO2/MWh (EPA, 2020) [18]. Firms X, 
+Y and Z each operate on grids A, B and C, respectively (see Fig. 1).
+Grid A burns no fossil fuels, so firm X has no CO2 emissions 
+from electricity consumption. However, Utility A sells RECs for 
+each MWh generated, two in the example. Firms Y and Z com­
+pete to buy RECs from utility A to reduce their MBS2. MBS2 guid­
+ance allows either Y or Z to obtain a REC from utility A, match 
+that REC with their local electricity, throw away (“retire”) the 
+REC, and claim the purchased attribute as a substitute for their 
+actual electricity attribute. As a result of this transaction, X now 
+has 2 MWh of null power. Y and Z each has the right to claim 
+1 MWh of zero MBS2 electricity, while their LBS2 remains 
+unchanged. Because this market mechanism matches MWh 
+(versus emissions) the MBS2 impact of the transaction depends 
+on whether Y or Z buys, reducing buyer MBS2 by 0.47 t or 0.99 t.
+Firm X may not know that A sold its energy attributes and 
+delivered null power. Utility A transacts firm X’s emissions 
+attributes without consent.
+These transactions may look like typical financial market 
+swaps. They are not. Swaps require that both counterparties con­
+sent to swapping assets and liabilities. EATs allow the buyer to 
+claim the emissions of the seller without the seller accepting the 
+attribute of the buyer. Energy attribute swaps should, in princi­
+ple, be allowable. Under current market practice why would they 
+happen? Firm X might swap attributes with Y such that emis­
+sions do not disappear, but that only happens if X cares less 
+about emissions than Y—that’s good accounting but provides no 
+environmental gain. The final section on implementation exam­
+ines this more closely in the context of a universal carbon ac­
+counting strategy where EAT may result in system-wide 
+emissions reductions.
+Variant approaches
+Technology firms consume enormous quantities of electricity. A 
+mix of competitive forces, self-imposed accountability, and activ­
+ism drive these firms and many others to attempt to reduce 
+MBS2 and, to a lesser extent, LBS2. In their leadership roles and 
+acknowledging some of the weaknesses of Scope 2 and EATs, 
+technology firms have formed two leading coalitions proposing 
+Scope 2 variants. Both variants acknowledge the reality that LBS2 
+more closely aligns with their actual emissions, while attempting 
+to tighten the lax constraints of MBS2. First, they dispense with 
+the EAT anomaly that allows a megawatt of renewable electricity 
+generation to eliminate a megawatt of arbitrary fossil fuel emis­
+sions. Second, they reduce the interval for evaluating LBS2 and 
+MBS2 from one year to one hour, better reflecting variable emis­
+sions based on grid conditions—an important incentive for con­
+sumers with the ability to shift or vary their electricity loads, and 
+producers attempting to deliver lower emissions electricity dur­
+ing periods of highest demand. However, they neither attempt to 
+correct for S3C3 undercounting, nor estimated versus ac­
+tual emissions.
+The variants diverge on their implied investment strategies. 
+The United Nations 24/7 Carbon Free Energy Compact (“CFE”) signato­
+ries seek to invest in generation capacity that will reduce Scope 2 
+emissions for the grids on which they operate [3]. Such a 
+location-focused strategy likely means over-investment by an in­
+dividual firm: driving down emissions during the highest emis­
+sions hours demands investments that benefit the collective grid 
+customers more than the individual firm making the investment. 
+(Investment, in this context, might mean signing a long-term PPA 
+with a new solar plus storage generator that serves a grid on 
+which the investor operates.) CFE signatories propose recovering 
+incremental costs that reduce emissions for others through 
+hourly matched EATs that would defease much of the over- 
+investment. For example, financing solar plus storage generation 
+on a grid where the storage would displace high marginal emis­
+sions generation would be preferred over the same deployment 
+on a grid with relatively lower marginal emissions because the 
+EATs would be more attractive in the former case.
+Roston et al. | 3  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+In contrast, The Emissions First Partnership (“EF”) allows for 
+location-agnostic investments that avoid emissions most effi­
+ciently [4]. For example, a firm operating in California might in­
+vest in solar capacity in South Africa because the emissions 
+reductions for an additional solar farm in California might be 
+quite low, whereas South African solar capacity displaces high 
+emissions electricity. (As EF develops, practitioners may impose 
+some level of geographic constraints.)
+Both CFE and EF benefit from higher frequency marginal emis­
+sions factors in service of more accurate location- and time- 
+based emissions reductions (i.e. Scope 2), but the data serves dif­
+ferent ends: CFE to identify time periods that require additional 
+investment to reduce emissions when demand would be greatest 
+for EATs from similarly located buyers; EF to quantify marginal 
+emissions and match investment-driven avoided emissions.
+Large electricity buyers typically use power purchase agree­
+ments (“PPAs”) to acquire both electricity and energy attributes 
+(i.e. RECs). They argue that PPAs reduce their MBS2, potentially 
+help align with CFE or EF, and support deployment of non- 
+fossil generation.
+Non-fossil deployment support requires further examination. 
+PPA proponents argue that absent PPAs, banks would not finance 
+non-fossil generation projects. A highly simplified example: A 
+new project requires $10 million in up-front costs. The project 
+developer has $3 million to invest. A bank will not lend the proj­
+ect $7 million out of concern that electricity prices may not be 
+high enough to pay off the debt. The PPA buyer steps in to com­
+mit to buying the electricity at a minimum price, adequate to pay 
+off the loan.
+The PPA may look like an agreement to buy electricity. It is 
+not. It is more like a credit guarantee where the PPA buyer agrees 
+to pay the project in the event the project cannot generate 
+enough revenue selling electricity. Or it is an insurance policy of­
+fered by the PPA buyer to make up a loss by the project resulting 
+from a shortfall between an expected future electricity price and 
+the actual future electricity price. The PPA buyer provides contin­
+gent capital to the project in the event electricity prices fall short. 
+Financial economics describes the electricity market absent PPAs 
+as “incomplete” because there are securities that could trade that 
+do not [12].
+Most market participant intuition about PPA effectiveness 
+comes from a period when non-fossil generation costs exceeded 
+fossil generation costs substantially, and when state-level renew­
+able portfolio standards imposed constraints on fossil generation 
+in the United States. Disentangling the effects of renewable port­
+folio standards, substantially reduced non-fossil generation costs 
+and PPAs poses a challenging question beyond this paper's scope. 
+However, executing PPAs has nothing to do with effective carbon 
+emissions accounting, nor does it necessarily tie back to electric­
+ity consumption. In fact, a firm that has skill at negotiating PPAs 
+and believes PPAs expand non-fossil electricity might simply 
+grow their PPA activity based on capital allocation decisions, not 
+electricity consumption. (The PPA consumes corporate capital 
+like any other investment. A firm could choose to operate the 
+business profitably or chose to efficiently lose money in support 
+of energy transition.)
+PPAs support an important risk transfer function applied to 
+any power generation project. However, using PPAs in conjunc­
+tion with flawed emissions accounting propagates null power, 
+further compounding emissions misattribution and confusing 
+efforts to track emissions reductions.
+Much like the GHG Protocol draws a distinction between LBS2 
+and MBS2, reporting firms might choose to report the results of 
+their EATs as pro forma disclosures, but this should not be mis­
+taken for good accounting for electricity-derived emissions. Both 
+frameworks and their differing approaches signal firm action 
+around electricity emissions and climate action broadly. But they 
+do not address the essential emissions accounting problem.
+Net zero and carbon solvency
+Formal and informal net zero claims abound. The Science Based 
+Targets Initiative (SBTi), a non-profit partnership formed to sup­
+port aligning corporate action with consensus climate science, 
+serves as a leading arbiter of net zero targets. While logical in 
+theory, in practice SBTi-approved targets are based on transition 
+pathways with bold assumptions about technology diffusion and 
+Ulity A
+Ulity B
+Ulity C
+100% Hydroelectric
+0.0t CO  /MWh 
+100% Natural Gas
+0.47t CO  /MWh 
+100% Coal
+0.99t CO  /MWh
+REC 
+(1 MWh, 0t CO )
+Electricity
+(2 MWh, 0t CO  )
+REC 
+(1 MWh, 
+Oﬀsets 0.47t 
+)
++
+Electricity
+(1 MWh, 0.47t CO )
++
+Electricity
+(1 MWh, 0.99t CO )
+REC 
+(1 MWh, 
+Oﬀsets 0.99t 
+)
+FIRM Y
+Locaon Based: 0.47t CO
+Market Based: 0.0t CO
+FIRM Z
+Locaon Based: 0.99t CO
+Market Based: 0.0t CO
+FIRM X
+Locaon Based: “Null Power”
+Market Based: “Null Power”
+x2
+Figure 1. Energy attribute trading stylized example.
+4 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+adoption, in conjunction with scientifically reasonable yet politi­
+cally challenging budget constraints on future emissions [13]. 
+Informal claims of “net zero” or more likely “carbon neutrality” 
+often reflect vague corporate sustainability reports that may 
+point toward combinations of offsets, avoidance actions, and am­
+biguous (yet ambitious) plans.
+Most firms make pledges with the best of intentions. Firms 
+hire teams of sustainability analysts, GHG Protocol consultants 
+and other advisors to identify their GHG emissions. An extensive 
+literature illustrates the imprecise and incomplete nature of 
+these inventories [14]. Neither formal nor informal net zero 
+claims stop emissions from entering the atmosphere. The former 
+promises that at a future date, with future technologies, the firm 
+will no longer emit greenhouse gases on a net basis. The latter 
+says little about actual emissions at any point.
+What’s the alternative? Clarifying accounting principles and 
+practices will formalize net zero pledges and targets through au­
+ditable carbon solvency.
+Kaplan and Ramanna proposes an approach that resolves 
+weaknesses inherent to the GHG Protocol by applying cost ac­
+counting methods to carbon emissions tracking termed E-Liability 
+accounting [8]. This method recognizes the simple reality that only 
+Scope 1 emissions enter the atmosphere and that proper carbon ac­
+counting ought to allocate these emissions—only once—at the 
+point the emissions occur. E-liability accounting accumulates 
+embodied emissions in products and services, cradle to gate, 
+based on atmospheric emissions, passed from supplier to cus­
+tomer at each step in a supply chain. E-liabilities amount to 
+reported cumulative supply chain emissions in contrast to the 
+largely top-down, industry-aggregate collection of estimates ad­
+mitted under the GHG Protocol.
+Roston, Seiger and Heller (“RSH”) expands on the basic struc­
+ture of E-liabilities, providing a straightforward definition of a net 
+zero firm or product under Emissions Liability Management 
+(“ELM”) [9]. RSH proposes matching E-liabilities with carbon re­
+moval assets, or E-assets, in sufficient quantity to ensure emis­
+sions solvency: E-assets must meet or exceed E-liabilities both 
+with respect to quantity (tons of GHGs removed greater than or 
+equal to emissions) and duration (tons entering the atmosphere 
+persist essentially indefinitely—removals must persist as well). 
+ELM does not assume that only removals perform the heavy lift of 
+achieving net zero. Ex post removal cost will likely exceed ex ante 
+avoidance [9]. Therefore, firms will pressure their suppliers to re­
+duce emissions.
+Kaplan, Ramanna and Roston (“KRR”) establishes accounting 
+principles for E-assets, noting that only carbon removals count as 
+E-assets [11]. That principle does not deny that avoiding emis­
+sions is a good thing to do. In fact, E-Liability accounting directly 
+incorporates incentives to avoid emissions because avoided 
+emissions lead to fewer liabilities and lower removal obligations.
+The definition of net zero that follows from RSH and KRR 
+imposes rigorous, auditable standards. Carbon solvency under 
+ELM ensures that a firm does not cause any atmospheric CO2 
+increase. Under this definition of net zero, a firm cannot defease 
+E-liabilities with counterfactual avoided emissions, or offsets 
+that result from someone else’s action to avoid creating an 
+E-liability [9]. As activist and policy-maker prescriptions focus on 
+electrifying everything and carbon-free electricity, they must also rec­
+ognize the implications for avoided emissions: the total future 
+demand for carbon-free electricity (replacing all current genera­
+tion plus the additional generation demanded by a growing world 
+economy) means that the theoretical avoidable emissions from 
+new generation exceed current actual emissions.
+Given this precise definition of net zero, firms can take actions 
+within their supply chains, particularly the complex electricity 
+supply chain, which will: encourage meaningful decarbonization; 
+internalize the externality of their own actions, and, ideally, halt 
+their own emissions. The subsequent section uses this compre­
+hensive notion of carbon solvency as the basis against which we 
+evaluate the efficacy of current practice to align firm carbon ac­
+counting, firm accountability, and electricity market policy and 
+regulations.
+Electricity E-liability implementation
+As noted previously, Kaplan and Ramanna establishes the foun­
+dations of E-liability accounting by applying activity-based cost 
+accounting methods to tracking and allocating actual carbon 
+emissions. In the language of the GHG Protocol, E-liability ac­
+counting attributes and allocates Scope 1 emissions to products 
+and services, passing known direct emissions to the relevant cus­
+tomers, rather than demanding customers to estimate suppliers’ 
+emissions, (i.e. upstream Scope 3 emissions).
+This method works in a straightforward fashion for most 
+products and services. Kaplan and Cooper (“KC”) provides the 
+conceptual foundations for activity-based accounting that apply 
+directly to E-liability accounting [15]. Under activity-based ac­
+counting, a firm knows the cost of purchased inputs. It also allo­
+cates overhead costs, (e.g., office space, administration, and 
+utilities,) with some level of discretion. The firm has leeway in 
+precise allocation, but competitive forces and auditing standards 
+provide guardrails. Allocating the CEO’s pay or all the electricity 
+expense to one product or product line would make that product 
+uncompetitive in the marketplace.
+Under E-Liability accounting, a widget manufacturer knows 
+the E-liabilities of input goods, the emissions generated by 
+firm operations, the E-liabilities of the widget factory, machinery, 
+and the E-liabilities passed from its utility or grid operator. 
+Therefore, the widget manufacturer determines the E-liabilities 
+of a widget by adding (a) E-liabilities of material inputs, (b) its 
+own direct emissions allocated appropriately, and (c) the allo­
+cated E-liabilities of the factory and machinery used. KC provides 
+guidance on allocation rules that apply to costs that directly 
+transfer to E-liability allocation rules. Importantly, neither cost 
+accounting 
+nor 
+E-liability 
+accounting 
+methods 
+uniquely 
+determine allocation of costs or E-Liabilities—accountants have 
+discretion over exact procedures—but accountants apply fair 
+and consistent standards.
+Electricity production itself does not follow that method so 
+easily. Electricity production and delivery straddles public and 
+private goods, violating the simplicity of strict boundaries as­
+sumed in KC and standard accounting methods. Electricity con­
+sumed by the widget manufacturer certainly fits the private good 
+mold: count the megawatt-hours the factory consumes, allocate 
+grid emissions appropriately to finished goods. However, the fact 
+that the electricity is always available with highly flexible de­
+mand to all grid customers from all grid-attached generators has 
+public good features [16]. All customers benefit from grid balanc­
+ing, contingent transmission and distribution resilience, excess 
+generation capacity, etc. More generally, grid redundancies bene­
+fit all customers whether they directly use them or not. (Cost ac­
+counting for resource capacity and highly variable demand, 
+obvious issues for grid operations, are discussed in KC, but are 
+beyond the scope of this paper.)
+While E-Liability accounting straightforwardly quantifies the 
+total emissions from electricity, emissions allocations to 
+Roston et al. | 5  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+individual customers are not uniquely determined or controlled 
+by any single electricity generator. Just like the widget factory ex­
+ample, accountants would establish procedures to allocate E- 
+Liabilities consistently. At the same time, customers would have 
+divergent views about any allocation method. Consider two firms 
+on the same grid. Firm F has a stable load 24/7 at one location. 
+Firm V has a variable load because it operates at less than capac­
+ity and has more than one facility. Firm F would prefer the grid 
+operator allocate all E-Liabilities uniformly across time. This allo­
+cation implicitly penalizes V for its variable operations. Firm V 
+would prefer the grid allocated at time intervals that aligned 
+with V’s ability to time or location shift production, thus mini­
+mizing V’s liability, and penalizing F for its inability to time shift.
+Any E-Liability allocation scheme at the regional transmission 
+organization or independent system operator determines incen­
+tives to grid participants. Today, rate setting incorporates these 
+disparate interests when allocating costs. Peak demand sur­
+charges, capacity payments, demand-response, grid connections 
+for rooftop solar, etc., all determine incentives to electricity con­
+sumers and producers. Rate setting responds to economic and 
+political incentives aligning reliability and affordability. Ideally, 
+public utility commissions or balancing authorities would set al­
+location procedures adding emissions reduction incentives into 
+their decision-making, aligned with KC methods. In the interim, 
+electricity customers might apply their own implicit allocation 
+schemes consistent with KC, as more promising long-term solu­
+tions than EF or CFE. For example, time-sensitive unexpected de­
+mand for computing power presumably has a higher price for 
+cloud computing. The same ought to hold for E-liabilities passed 
+from the cloud computing provider to the customer.
+Finally, in a world of E-Liability accounting, the EAT flaws dis­
+cussed in the first section resolve themselves. Once emissions 
+allocations are mutually exclusive and comprehensively exhaus­
+tive, then consenting parties may agree to an allocation such 
+that no emissions disappear from the system, and null power no 
+longer exists.
+Conclusion
+What is Scope 2 good for? For two decades, Scope 2 has informed 
+electricity consumers about the emissions impacts of their usage 
+and helped spur advocacy efforts for energy system transforma­
+tion. Today, energy system transformation is an investment 
+problem, not an advocacy problem. Investor decision making, 
+whether private or public, must internalize the externality of 
+emissions. As currently defined, Scope 2 cannot inform capital 
+allocation and investment required for energy system transfor­
+mation. Scope 3 Category 3 narrows the gap by incorporating 
+supply chains but cannot close it because estimates misalign 
+incentives. Scope 2 encourages energy attribute trading, which 
+violates logical accounting practices, allows companies’ presen­
+tation of flawed emissions measures, and reinforces overcount­
+ing and misattributing emissions reductions. Scope 2 cannot 
+drive toward the future the global economy needs in a voluntary 
+or mandatory reporting regime.
+Many stakeholders support CFE or EF approaches that amount 
+to useful but incomplete corrections to Scope 2 counting. While 
+these methods might impact emissions, they violate accounting 
+logic, mis-identify reductions, and do not align with carbon sol­
+vency goals or obligations. They certainly add substantially to 
+reporting complexity. These enhanced Scope 2 measures have 
+potential as pro forma signals, communicating firm intentions 
+and sincerity. However, they neither represent functional emis­
+sions accounting nor a path to accurate accountability.
+E-liability accounting provides accurate, mutually exclusive, 
+and comprehensively exhaustive measures of electricity-derived 
+emissions. Leading climate actors from the corporate sector, 
+NGOs and regulators should adopt E-liabilities rather than Scope 
+2 as their approach to accounting for their emissions and holding 
+themselves to account. Even E-liability estimates in the short-run 
+provide better capital allocation signals, better emissions attribu­
+tion, and likely better alignment with future policy-driven incen­
+tives. As governments consider expanded programs and 
+pathways for grid transformation, aligning real accounting and 
+incentives grows in importance. Future work will consider incen­
+tive structures and allocation methods aligning incremental E-li­
+ability adoption by individual actors with long-term uniform 
+application.
+Current debates about hydrogen impacts and incentives illus­
+trate the challenges of Scope 2. Hydrogen producers describe a 
+rainbow of colors for a colorless gas. This color variation seeks to 
+describe emissions upstream of the hydrogen itself—S3C3 emis­
+sions for hydrogen electrolysis. Surplus solar or wind? Green. 
+Natural gas with carbon capture and storage? Blue. Nuclear 
+power? Pink. Natural gas without carbon capture? Gray. Coal? 
+Brown. The list goes on [17]. This rainbow classification follows 
+directly from the failure of Scope 2 to account for upstream 
+emissions. Under Scope 2, nothing consuming hydrogen for 
+power has any greenhouse gas emissions. That makes no sense. 
+Under E-liability accounting, hydrogen consumers simply receive 
+the E-liabilities associated with their hydrogen. The colors are 
+shortcuts around current accounting failures.
+Author contributions
+Marc Roston (Conceptualization [lead], Writing—original draft 
+[equal], Writing—review & editing [equal]), Alicia Seiger 
+(Conceptualization 
+[equal], 
+Writing—original draft 
+[equal], 
+Writing—review & editing [equal]), and Abigail Mathieson 
+(Conceptualization [supporting], Writing—original draft [sup­
+porting], Writing—review & editing [supporting])
+Conflict of interest: None declared.
+Funding
+None declared.
+Data availability
+There is no data to make available.
+References
+01. Climate Policy Initiative. Global Landscape of Climate Finance - A 
+Decade of Data: 2011-2020. 2022. https://www.climatepolicyinitia 
+tive.org/wp-content/uploads/2022/10/Global-Landscape-of- 
+Climate-Finance-A-Decade-of-Data.pdf (20 June 2024, date 
+last accessed).
+02. United States Securities and Exchange Commission. The 
+Enhancement and Standardization of Climate-Related Disclosures: 
+Final Rule. 2024. https://www.sec.gov/files/33-11275-fact-sheet. 
+pdf (20 June 2024, date last accessed).
+03. 24/7 Carbon Free Energy Compact. https://gocarbonfree247.com/ 
+(20 June 2024, date last accessed).
+6 | Oxford Open Climate Change, 2024, Vol. 4, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024
+04.
+Emissions First Partnership. https://www.emissionsfirst.com/ (20 
+June 2024, date last accessed).
+05.
+World Resources Institute and World Business Council for 
+Sustainable Development. Corporate Value Chain (Scope 3) 
+Accounting and Reporting Standard. 2011 https://ghgprotocol.org/ 
+sites/default/files/standards/Corporate-Value-Chain-Accounting- 
+Reporing-Standard_041613_2.pdf (4 May 2024, date last 
+accessed).
+06.
+Energy Information Administration. United States Electricity 
+Profile 2021. Table 10. 2022. https://www.eia.gov/electricity/ 
+state/unitedstates/ (20 June 2024, date last accessed).
+07.
+Central Electricity Authority. Executive Summary on Power Sector 
+July 2022. 2022. https://cea.nic.in/wpcontent/uploads/execu 
+tive/2022/07/Executive_Summary_Jul_2022.pdf (20 June 2024, 
+date last accessed).
+08.
+Kaplan R, Ramanna K. Accounting for climate change. Harv Bus 
+Rev. 2021;99:120–31.
+09.
+Roston M, Seiger A, Heller T. What's next after carbon account­
+ing? Emissions liability management. Oxford Open Clim Change 
+2023;3.
+10.
+Center For Resource Solutions. The Legal Basis for Renewable 
+Energy Certificates. 2023 (20 June 2024, last date accessed).
+11.
+Kaplan R, Ramanna K, Roston M. Accounting for carbon offsets. 
+Harv Bus Rev 2023. 101(4):126–137.
+12. Newbery D. Missing money and missing markets: reliability, 
+capacity auctions and interconnectors. Energy Policy 2016; 
+94:401–10.
+13. Roston M, Marie J, Seiger A, Heller T. Pathways versus incen­
+tives: climate action to climate aligned portfolio management. 
+Oxford Open Clim Change, forthcoming.
+14. Jia J, Ranger N, Chaudhury A. Designing for Comparability: A 
+Foundational Principle of Analysis Missing In Carbon Reporting 
+Systems. 2023. https://dx.doi.org/10.2139/ssrn.4258460 (4 May 
+2024, date last accessed).
+15. Kaplan R, Cooper R. Cost and Effect. Cambridge: Harvard 
+University Press, 1997, Chapter 7.
+16. Toomey D et al. Reliability, electric power, and public versus 
+private goods: a new look at the role of markets. In: Proceedings 
+of the 38th Annual Hawaii International Conference on System 
+Sciences, Big Island, HI, USA, 2005.
+17. 24/7 Carbon Free Energy Compact. Hydrogen Color Wheel. http:// 
+gocarbonfree247.com/hydrogen-color-wheel/ (20 June 2024, 
+date last accessed).
+18. International Energy Agency. Projected Costs of Generating Electricity 
+2020. 2020. https://www.iea.org/reports/projected-costs-of-gener 
+ating-electricity-2020 (20 June 2024, date last accessed).
+19. Sotos M. GHG Protocol Scope 2 Guidance. 2023. https://ghgproto 
+col.org/sites/default/files/2023-03/Scope%202%20Guidance.pdf 
+(4 May 2024 date last accessed).
+© The Author(s) 2024. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/ 
+), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2024, 4, 1–7
+https://doi.org/10.1093/oxfclm/kgae011
+Perspective Article
+Roston et al. | 7  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae011/7715934 by guest on 26 August 2024

@@ -1,0 +1,990 @@
+RESEARCH ARTICLE
+The role of negative emissions in meeting China’s 2060
+carbon neutrality goal
+Jay Fuhrman
+1,2, Andres F. Clarens1, Haewon McJeon2, Pralit Patel2,
+Yang Ou
+2, Scott C. Doney
+3, William M. Shobe4 and Shreekar Pradhan1,*
+1Department of Engineering Systems and Environment, University of Virginia. Thornton Hall, P.O. Box 400259,
+Charlottesville, VA 22904-4259, USA, 2Joint Global Change Research Institute, University of Maryland and
+Paciﬁc Northwest National Laboratory. 5825 University Research Ct, College Park, MD 20740, USA,
+3Department of Environmental Sciences, University of Virginia. Clark Hall. 291 McCormick Rd P.O. Box 400123
+Charlottesville, VA 22904-4123, USA, 4Batten School of Leadership and Public Policy, University of Virginia 235
+McCormick Road P.O. Box 400893 Charlottesville, VA 22904-4893, USA
+*Correspondence address. Department of Engineering Systems and Environment, University of Virginia, Charlottesville, VA 22904, USA. Tel: þ1(434) 995-
+9382; E-mail: shreekar@virginia.edu
+ABSTRACT
+China’s pledge to reach carbon neutrality before 2060 is an ambitious goal and could provide the world with much-needed
+leadership on how to limit warming to þ1.5C warming above preindustrial levels by the end of the century. But the path-
+ways that would achieve net zero by 2060 are still unclear, including the role of negative emissions technologies. We use
+the Global Change Analysis Model to simulate how negative emissions technologies, in general, and direct air capture (DAC)
+in particular, could contribute to China’s meeting this target. Our results show that negative emissions could play a large
+role, offsetting on the order of 3 GtCO2 per year from difﬁcult-to-mitigate sectors, such as freight transportation and heavy
+industry. This includes up to a 1.6 GtCO2 per year contribution from DAC, constituting up to 60% of total projected negative
+emissions in China. But DAC, like bioenergy with carbon capture and storage and afforestation, has not yet been demon-
+strated anywhere approaching the scales required to meaningfully contribute to climate mitigation. Deploying NETs at
+these scales will have widespread impacts on ﬁnancial systems and natural resources, such as water, land and energy in
+China.
+Key words: negative emissions; direct air capture; China’s 2060 carbon neutrality goal; integrated assessment modeling;
+climate mitigation
+INTRODUCTION
+On 22 September 2020 China announced that it would pursue a
+plan to achieve ‘carbon neutrality’ in its economy by 2060 [1].
+China has previously committed to peaking its CO2 emissions
+before 2030 [2], and its new carbon neutrality commitment
+greatly strengthens its nationally determined contributions un-
+der the Paris Climate Agreement. There are a number of studies
+that have explored China’s decarbonization pathways [3–8], but
+Submitted: 6 January 2021; Received (in revised form): 15 April 2021. Accepted: 18 April 2021
+V
+C The Author(s) 2021. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+1
+Oxford Open Climate Change, 2021, 1(1): kgab004
+doi: 10.1093/oxfclm/kgab004
+Research Article
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+not much attention has been given to the role that negative
+emissions technologies (NETs) could play, especially the avail-
+ability of direct air capture (DAC). In our recent paper, we
+assessed the negative emissions requirement for meeting a
+þ1.5C target globally [9]. Our results indicated that DAC could
+play a large role with much of that activity concentrated in the
+USA and China because of their substantial capacity to carry out
+geologic carbon storage [9].
+The number of countries, regional governments and corpo-
+rations, which have been making carbon neutrality commit-
+ments, has been accelerating [10]. While China is distinct from
+many of the other countries and institutions making decarbon-
+ization pledges because of its size, its announcement was simi-
+lar to other national commitments, such as the UK’s and
+Japan’s that have provided few details about implementation
+and enforcement [11–13]. China today produces approximately
+one-third of global greenhouse gas (GHG) emissions, but up to
+30% of these emissions result from production of goods that are
+exported to other regions of the world [14–18]. In addition, en-
+ergy consumption in China is currently highly carbon intensive
+with most of its primary energy supply coming from coal com-
+bustion [19, 20]. Wang et al. [21] examined pathways to decar-
+bonize China’s power sector, including the use of bioenergy
+with carbon capture and storage (BECCS), and the early retire-
+ment of coal-fired generation units. But China has recently
+invested in 38 GW of new coal capacity in 2020 and has indi-
+cated intention to build hundreds of new coal-fired power
+plants in its most recent 5-year plan [22–24]. This is at odds with
+its stated efforts to decarbonize, as well as those to improve air
+quality. As reported by Wang et al., China’s late-stage industrial
+sector could rapidly reduce CO2 emissions over the coming dec-
+ades under global climate policy with a combination of energy
+efficiency improvements, fuel switching and carbon capture
+and storage (CCS). However, owing to its size related to other
+large economies, such as Western Europe, and the prohibitive
+expense of fully decarbonizing some industrial processes (e.g.
+iron and steel), China’s industrial sector could have over 1
+GtCO2 of residual emissions by 2050 [25]. Transportation in
+China and elsewhere is expected to remain recalcitrant to
+decarbonization relative to other sectors, owing to continued
+dominance of petroleum-derived liquid fuels, especially for
+freight [26–28]. Like other large economies, China’s CO2 emis-
+sions declined temporarily due to the COVID-19 pandemic.
+However, emissions in China and elsewhere are rebounding
+and are likely resume their historic growth trajectory without
+investment in lower carbon technologies and deliberate policy
+action to reduce them [29, 30]. In order to achieve its carbon-
+neutrality target, China will need to rapidly decarbonize its
+power, transportation and industrial sectors in the near term
+and will likely have to seek opportunities for negative emissions
+in the long term [31, 32].
+To achieve carbon neutrality, a country needs to balance
+emissions and sinks. For any large and complex economy, there
+will be sources of emissions that will be recalcitrant to decar-
+bonization, such as aviation, freight transport and high-temper-
+ature heat applications in industry. For this reason, there is a
+growing interest in approaches for actively removing emissions
+from the atmosphere [33]. So-called NETs are a suite of engi-
+neered or natural approaches, such as DAC, BECCS and affores-
+tation that remove carbon from the atmosphere and could play
+an important role in offsetting recalcitrant emissions, and/or
+reaching net-negative emissions globally or regionally. China
+has attempted afforestation projects to combat desertification
+and soil erosion in the past, with mixed success in initial phases
+[34–36]. Adapting forest protection and afforestation approaches
+based on lessons learned could reduce negative impacts on bio-
+diversity and water availability, and some studies indicate that
+the expanding forest cover in China may be generating large
+carbon sinks from the atmosphere [37]. Preventing further de-
+forestation and restoring previously deforested land to its natu-
+ral state has potential environmental and human health
+cobenefits, in addition to storing carbon from the atmosphere
+[38]. However, China’s experience with afforestation highlights
+the potential challenges of further expanding this approach for
+large-scale climate mitigation due to measurement uncertain-
+ties inherent to natural and managed forest systems, competi-
+tion with agricultural land demands, opposing goals of carbon
+storage and timber harvest, large land and water footprints, and
+the potential lack of permanence of forest carbon stocks in a
+warming world [39, 40]. As China’s government seeks to in-
+crease the standard of living for its citizens, large-scale bioen-
+ergy crop cultivation could also compete with food production,
+as well as environmental conservation objectives [41–43]. DAC
+is an emerging technology with a far lower land footprint than
+BECCS or afforestation, but large energy demand due to the
+thermodynamic unfavourability of separating atmospheric CO2
+at 415 PPM [44, 45]. With recent, more optimistic cost esti-
+mates for DAC, several large European and US-based companies
+have made investments in commercial DAC technologies, and
+still others have committed to using negative emissions includ-
+ing DAC to draw down their historical emissions from the atmo-
+sphere [46–50]. Given China’s currently large emissions, its
+capacity for geologic storage [51], and the large share of its car-
+bon-intensive exports in the global economy, DAC could poten-
+tially play a large role in deep decarbonization there. Yet there
+has not yet been modeling performed to understand the role
+and tradeoffs of DAC and other negative emissions in China in
+achieving its recently announced climate ambitions.
+At a global scale, integrated assessment models (IAMs) have
+been used to explore deep decarbonization pathways [52]. IAMs
+incorporate economic, geophysical, demographic and climate
+modules to study future policy scenarios. The International
+Panel on Climate Change (IPCC) uses a suite of IAMs to explore
+different scenarios and inform international commitments, in-
+cluding those laid out in the 2015 Paris Agreement [52]. Over the
+past several years, IAMs have been used to explore what it
+would take to limit future anthropogenic climate change to
+þ1.5C warming relative to preindustrial levels. All the IAMS
+used by the IPCC show that, in order to meet these aggressive
+decarbonization scenarios, NETs will be needed to help offset
+recalcitrant emissions. BECCS and afforestation are the most
+widely modeled technologies with median projected global
+deployments of respectively, 4 and 2 GtCO2 per year, projected
+by 2050 to limit warming to below 2C in 2100. Several recent
+modeling studies have also assessed engineered NETs, such as
+DAC, with even higher projected deployments to actively draw
+down atmospheric CO2 levels [9, 53–55]. Such large deployments
+of these NETs will entail enormous transitions for energy and
+land, as well as water use patterns, and it is critical to under-
+stand how these might unfold at the country level [9].
+The goal of this article is to estimate the potential role of
+DAC and other forms of negative emissions to help China meet
+its carbon neutrality goal, as well as their interactions with miti-
+gation efforts. In particular, we examine how the availability of
+different NETs might affect the required decarbonization of dif-
+ferent sectors and the extent to which each type of NET could
+be deployed. We estimate the costs and tradeoffs for land, water
+and energy systems of negative emissions deployment in
+2
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+China. The scale at which they could be needed in order to meet
+this target is quite large, so it is crucial to understand the trade-
+offs these technologies would represent. These results could
+also provide baseline cost estimates to inform where to target
+investments in innovation. To perform this analysis, we used
+the Global Change Analysis Model (GCAM) [56], a technology-
+rich IAM with embedded simplified versions of global climate
+and carbon dynamics. We modeled three main scenarios featur-
+ing estimates for DAC cost and energy intensity to assess how
+China might achieve its carbon neutrality target in 2060. In ad-
+dition, we conducted a sensitivity analysis to understand how
+key model assumptions could influence the projected role of
+DAC in China. These results provide insight about the techno-
+logical transitions, as well as financial, environmental and hu-
+man health impacts that could result from NETs deployments
+in China.
+MATERIALS AND METHODS
+We used the latest release of GCAM 5.3 [56], enhanced with the
+capability to model DAC, to simulate different paths by which
+China individually, as well as the rest of the world, collectively
+might reach net-zero emissions by 2060 (Table 1). We followed
+the near-term to net-zero approach described in Kaufman et al.
+[57] We assumed a linearly declining net CO2 emissions trajec-
+tory from 2021 until reaching zero net CO2 emissions in 2060 for
+both China separately and the rest of the world (ROW) together.
+This modeling approach for net-zero CO2 emissions pathways
+accommodates
+uncertainties
+and
+measurement
+difficulties
+while also helping guide near-term policy design. Specifically,
+while the prospective future availability of DAC and other NETs
+would tend to delay mitigation in modeling scenarios where the
+CO2 price rises at an assumed interest rate, this could prove to
+be a risky bet for real-world decision-makers if NETs and other
+uncertain technologies prove unable to scale up as rapidly as
+expected, and/or as impacts from climate change itself worsen
+[57–59]. With this CO2 constraint, we evaluated three parametri-
+zations for the cost, efficiency and availability of DAC (i.e. high-
+cost DAC, low-cost DAC and no DAC available). Population and
+gross domestic product (GDP) input assumptions follow the
+‘middle of the road’ scenario widely used in integrated model-
+ing studies and can be found in the Supplementary data [60].
+Prices on land-use change and correspondingly, subsidies for af-
+forestation, are specified as an increasing proportion of the fos-
+sil and industrial carbon emissions price, reaching 100% of the
+fossil carbon price by 2100. This is intended to represent gradu-
+ally improving institutions for pricing land-use change emis-
+sions, given that agriculture and land-use decisions now largely
+occur outside of regulatory frameworks in most countries [9].
+We modeled DAC as a process that uses an aqueous reaction
+between atmospheric CO2 and a hydroxide solution that has
+evaporative water losses at the air contactor [61–63]. The DAC
+technology requires energy input in the form of high-tempera-
+ture process heat and electricity, and financial inputs for capital
+expenditure and nonenergy operations and maintenance, given
+in Table 2. For low-cost DAC, financial and energy inputs are as-
+sumed to decline linearly between their 2020 and 2050 paramet-
+rizations, then remain constant after 2050. In the high-cost DAC
+cases, the technology is assumed to remain costly and energy-
+intensive over time. We assume that the process heat is high-
+temperature heat from natural gas combustion and not lower
+temperature waste heat or renewables. While there are other
+DAC archetypes that can use renewable electricity and/or waste
+heat input and do not consume water [64], we focused our
+analysis on this high-temperature process because it appears to
+be the most inexpensive and commercially mature at present
+[61, 65]. Geological carbon storage costs are treated endoge-
+nously by GCAM. Note that DAC is assumed to behave as a
+quasi-backstop technology, with no external constraints on its
+deployment outside the availability of energy, carbon storage,
+and its cost relative to other mitigation and NETs in meeting a
+binding cap on CO2 emissions. No constraints were imposed on
+the scaling rate of DAC or any other technology. We assumed a
+median lifetime for DAC plants of 40 years. No other technologi-
+cal, institutional or legal limitations are modeled with respect
+to DAC, which we assume can be deployed rapidly at scale in
+the model under appropriate conditions. Because of these
+assumptions, the simulated rate of DAC deployment at the
+costs specified may be considered as an upper bound.
+RESULTS
+Figure 1 presents the results for (a) global average temperature
+anomaly, (b) atmospheric CO2 concentration and (c) CO2 emis-
+sions over time for China as well as globally. The CO2 emission
+trajectories after 2020 follow directly from the constraints im-
+posed. If China and the ROW together reduce their emissions to
+net-zero by 2060, this results in approximately þ1.8C of warm-
+ing in 2100. Scenarios in which DAC is deployed show slightly
+higher warming in 2100 despite meeting the same CO2 emis-
+sions cap, owing to fugitive methane emissions from the pro-
+duction of natural gas which DAC takes as an input, as well as
+higher residual non-CO2 emissions from difficult-to-mitigate
+sectors. In all scenarios, criteria air pollutant emissions in China
+(e.g. black carbon, VOC, NOx and SO2) are projected to decline
+drastically from their current levels due to the phase-down of
+coal as an energy source, regardless of the availability of DAC.
+In relation to their 2010 levels, black and organic carbon particu-
+late emissions each decline by over 80%, NOx emissions decline
+Table 1: Description of the CO2 emissions constraint trajectories run in GCAM to understand the role of DAC in meeting these constraints
+Scenario name
+Description
+No climate policy
+A reference scenario with no climate mitigation policy (i.e. pricing or constraints on CO2 or other
+GHG emissions), but improving technological efﬁciency.
+China þ ROW net-zero 2060
+China, along with the rest of the world, achieves net-zero CO2 by 2060 in a linearly declining emis-
+sions trajectory. China’s emissions are individually constrained, but emissions from the
+remaining regions in the ROW are allowed to be individually greater than or less than a sepa-
+rately imposed emissions constraint, so long as their sum is less than or equal to this
+constraint.
+Fuhrman et al.
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+by 73% and SO2 emissions decline by 95%, highlighting impor-
+tant environmental and public health cobenefits of CO2 emis-
+sions
+reduction
+policy.
+Detailed
+projections
+for
+non-CO2
+emissions for our three main scenarios are provided in the
+Supplementary data.
+Figure 2 illustrates the extensive transformation China will
+need to make to its economy in order to achieve its 2060 net-
+zero target. The panel on the left shows the dominant current
+emission sectors: transportation, industrial and electric power.
+On the right, the panel shows the results of three permutations
+of the China þ rest of world net-zero 2060 scenario; one in
+which no DAC is available, one in which DAC is available but
+continues to be expensive, and one in which DAC is available
+and gradually improves in cost and energy efficiency by 2050
+(Table 2). In all three cases, China will rely on significant deploy-
+ment of negative emissions to achieve its net-zero target.
+Our results show that getting China and the ROW to net-
+zero by 2060 without DAC, would require China to deploy at
+least 1 GtCO2 per year of negative emissions from BECCS and af-
+forestation, which is in line with a recent study by Yu et al. [31]
+Achieving the net-zero CO2 target without DAC available, that
+is, relying only on BECCS and afforestation for negative emis-
+sions, would result in a marginal cost of over $800 per tCO2 in
+2060 ($2015 price). With DAC available, the world along with
+China could achieve net-zero CO2 emissions by 2060 at much
+lower marginal costs, in the range of US$200–400 per tCO2. This
+carbon price corresponds to the sum of the capture þ carbon
+storage costs for DAC, both of which become gradually more
+costly over time as geologic storage reservoirs and energy
+resources are consumed. Full carbon emissions price paths are
+reported in the Supplementary data.
+Under the low-cost DAC deployment, China would require
+about 3 GtCO2 per year of negative emissions to reach net-zero
+by 2060, much of it coming from DAC, with the remainder com-
+ing from BECCS and afforestation. If DAC does not improve in
+cost and energy efficiency, it would make-up a smaller percent-
+age of the negative emissions portfolio, which would still total 2
+GtCO2 per year. Residual, positive CO2 emissions from difficult-
+to-mitigate sectors require multiple GtCO2 of negative emis-
+sions to offset them in all scenarios. In the no DAC scenario, the
+industrial sector becomes a net sink of CO2 largely through hy-
+drogen production from biofeedstocks and CCS. Low-cost DAC
+availability allows up to 1 GtCO2 emissions from industrial en-
+ergy use in China to be offset at lower cost. Transportation is
+projected to be recalcitrant to decarbonization across all scenar-
+ios. While passenger transportation can decarbonize through
+electrification and hydrogen fuel cells, freight trucks using both
+liquid and natural gas fuels under the carbon policy result in
+large residual emissions. An electrified and/or hydrogen fuel
+cell
+freight
+truck
+fleet
+in
+China
+and
+elsewhere
+could
+Table 2: Input parameters for DAC technology [9, 61].
+Technology
+Natural gas (GJ/tCO2)
+Electricity (GJ/tCO2)
+Nonenergy cost
+Water
+(2015 $/tCO2)
+(m3/tCO2)
+2020
+2050
+2020
+2050
+2020
+2050
+Low-cost DAC
+8.1
+5.3
+1.8
+1.3
+300
+180
+4.7
+High-cost DAC
+8.1
+8.1
+1.8
+1.8
+300
+300
+4.7
+Notes: For low-cost DAC, we assume that the energy efﬁciency of the technology improves between 2020 and 2050. The energy and nonenergy cost inputs are as-
+sumed to decline linearly between year 2020 and 2050 and thereafter remain constant. For the high-cost DAC scenario, we assume that the technology will remain
+costly and energy-intensive.
+Figure 1: Model results show different trajectories for global temperature anomaly
+(a), even though CO2 concentration (b) and net CO2 emissions (c) over time are the
+same for the three scenarios simulated here. Globally net-zero emissions could
+limit end-of-century warming to below þ2C, but more ambitious near-term miti-
+gation and/or future net-negative emissions is required to meet a below þ1.5C
+goal. Historical data for emissions [65], CO2 concentrations [66] and temperature
+anomaly [67] are indicated by grey lines. Four data sources were used to report
+recorded historical temperature anomaly; the darker grey line indicates overlap or
+especially high agreement between different observations, which were plotted
+with slightly increased transparency for clarity. Projected warming is approxi-
+mately 0.1C higher in the low-cost DAC scenario owing to increased fugitive emis-
+sions from the natural gas supply chain to power DAC itself, as well as higher
+levels of non-CO2 residual emissions from other economic sectors.
+4
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+substantially reduce the need to deploy NETs to offset their
+emissions. Transportation emissions are slightly higher in the
+DAC scenarios due to higher service demand because the lower
+carbon emissions prices lead to correspondingly lower fuel pri-
+ces. There is also less need to switch from vehicles using petro-
+leum-derived fuels to electric, natural gas and hydrogen fuel
+cell vehicles if DAC is available to offset these distributed emis-
+sions. Detailed breakdowns of industrial and transportation CO2
+emissions in China, as well as transportation demand are made
+available in the Supplementary data.
+Figure 3 shows the projected primary energy transitions for
+China to reach net-zero CO2 emissions by 2060. At present, China
+relies heavily on coal and oil for its primary energy. To achieve
+net zero CO2 emissions will require a substantial rollout of
+renewable energy over the coming 40 years in addition to very
+large deployment of fossil CCS. For the three negative emissions
+cases described in Fig. 3 for the China þ rest of world net-zero by
+2060 scenario (no DAC available, high cost and low-cost DAC) we
+see
+important
+differences
+in
+energy
+consumption
+patterns.
+Notably, the deployment of DAC consumes natural gas for process
+heat on the same order of magnitude as all of China’s present-day
+gas consumption. The primary energy consumption of coal
+declines from 67% share in 2020 to 21% in 2060 without DAC. This
+includes 2% conventional coal and 19% coal-based CCS. With low-
+cost DAC deployment, the share of coal would decline to 22% in
+2060 with 4% conventional coal and 18% coal-based CCS.
+Figure 4 shows potential water consumption patterns for
+China in meeting its net-zero CO2 emissions by 2060 goal.
+Figure 2: Pathways for China to reach net-zero CO2 emissions by 2060 all involve deep emissions reductions and CO2 removal. The availability of DAC technology in
+China enables less use of BECCS and also offsets emissions from difﬁcult-to-mitigate sectors, such as transportation and industry, allowing higher emissions from
+these sectors relative to the no DAC case. Results shown here are for the China þ ROW net-zero 2060 scenario, which results in approximately 1.8C of warming from
+preindustrial in 2100.
+Figure 3: Historical and projected primary energy by fuel for China showing values for recent historical periods and for net-zero CO2 emissions in 2060 scenarios.
+Process heat for DAC (i.e. the primary energy from natural gas CCS devoted solely to CO2 removal) is reported separately in indigo (dark purple at top of bars) and sub-
+tracted from natural gas CCS to avoid double counting.
+Fuhrman et al.
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+Irrigation for agriculture comprises most of the historical and
+projected water consumption, and evapotranspiration from
+rainfed agriculture is not included in this figure. Agricultural
+water consumption is projected to decline slightly by 2060 ow-
+ing to technological improvements and exogenous assumptions
+of population peaking and then declining by mid-century. In all
+cases, irrigation for bioenergy crop cultivation expands from
+near-zero level in present day, to substantial fractions of overall
+water use in 2060. If no DAC is available, bioenergy crop irriga-
+tion grows to 7 km3 per year in 2060, which is nearly 3% of pro-
+jected water consumption for that year. If low-cost DAC can be
+deployed at scale in China, this could reduce bioenergy irriga-
+tion consumption to approximately 5 km3 per year. But, evapo-
+rative losses from DAC itself are projected to consume large
+amounts of water, over 7 km3 per year in 2060, nearly 80% of
+municipal water consumption in China in 2015.
+Figure 5 reports historical and projected land use for China if
+it and the ROW reach net-zero emissions by 2060, relative to a
+2005 base year. The existing historical trend of gradual forest
+expansion is greatly accelerated, whereas grasslands see a re-
+versal of recent historical growth as bioenergy and afforestation
+are scaled up. Land area for food cultivation (i.e. grains and sta-
+ple crops) is projected to decline by nearly 100 000 km2 from
+2005 levels in China in 2060 in the no DAC scenario, while bio-
+energy crop production expands to over 190 000 km2 and for-
+ested area gains approximately 430 000 km2. Low-cost DAC can
+reduce the decline in food production land slightly, to approxi-
+mately 90 000 km2, with 148 000 km2 being used for bioenergy
+crop cultivation, and 380 000 km2 net gain in forest area from
+2005 level. Without DAC available, weighted prices for major
+staple grain crops increase to 300% of their 2010 levels (200% in-
+crease) due to land competition from BECCS and afforestation.
+Low-cost DAC availability reduces this increase to approxi-
+mately 175% of their 2010 levels (75% increase). Figure 5 also
+reports how the availability of DAC could reduce biomass crop-
+land area required for mitigation and negative emissions in ma-
+jor river basins in China. In the most productive agricultural
+regions in eastern China, the availability of DAC could reduce
+biomass cropland area by 20–25%, freeing up more land for
+other
+agricultural
+activity
+or
+environmental
+conservation.
+Fractional land area devoted to biomass cropland in each water
+basin is reported in the Supplementary data.
+SENSITIVITY ANALYSIS
+To more fully assess the sensitivity of our projections for DAC
+deployment in China to input assumptions, we individually var-
+ied the cost and energy input parameters for DAC itself, as well
+as other model assumptions that are external to DAC but di-
+rectly influence its cost and/or requirement for its deployment.
+Table 3 summarizes the assumptions for our sensitivity analy-
+sis. Parametrizations for geologic carbon storage supply curves
+Figure 4: Recent historical and projected water consumption for China for net-zero CO2 emissions by 2060.
+Figure 5: Historical and projected land-use changes from 2005 in China for net-zero CO2 emissions by 2060 scenarios (a). Difference in biomass cropland area in major
+river basins in China between no DAC and low-cost DAC scenarios (b). White coloring indicates zero biomass cropland area in both scenarios and thus no change be-
+tween them.
+6
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+used in this sensitivity study, as well as population and GDP in-
+put assumptions for the ‘central’ and ‘low residual emissions’
+scenarios may be found in the Supplementary data. Figure 6
+reports how parametric variations from Table 3 influence DAC
+deployment in China in 2060. All scenarios are compared
+against the ‘Low-cost DAC’ scenario and hold all other input
+assumptions
+constant
+except
+for
+the
+indicated
+change.
+Assumptions for capital and nonenergy operating costs have
+large impacts on the projected level of DAC deployment, with a
+56% reduction in nonenergy cost (i.e. from $180 to $78 in 2060)
+leading to over an 80% increase in deployment. Conversely, a
+66% increase in nonenergy cost (i.e. from $180 to $300) reduces
+Table 3: Assumptions for sensitivity analysis
+Scenario name
+Description
+Central
+DAC energy and cost inputs follow the trajectory deﬁned in the ‘Low cost DAC’
+scenario (Table 2). Socioeconomic assumptions follow the ‘middle of the road’
+scenario in the GCAM core release. 90% of noncommercial land is assumed pro-
+tected from agricultural expansion.
+Best-case DAC capex þ nonenergy opex
+Nonenergy cost inputs decline linearly to $78 per tCO2, the most optimistic value
+found in today’s literature [63].
+High DAC capex þ nonenergy opex
+Nonenergy cost inputs do not improve between 2020 and 2060, remaining at $300
+per tCO2
+High-DAC process heat input
+Natural gas process heat requirement for DAC does not improve between 2020
+and 2060, remaining at 8.1 GJ per tCO2
+High-DAC electricity input
+Electricity input requirement for DAC does not improve between 2020 and 2060,
+remaining at 1.8 GJ per tCO2
+Unconstrained land for BECCS/afforestation/agriculture
+Removed 90% protection constraint on noncommercial lands, freeing up more
+land for bioenergy, forestry and other agricultural activity.
+Low-carbon storage availability
+Cost curves for geologic carbon storage follow the ‘highest cost CCS’ assumption
+from the GCAM core release. Offshore carbon storage reservoirs are assumed
+unavailable.
+High-carbon storage availability
+Cost curves for geologic carbon storage follow the highest availability of CCS as-
+sumed in the GCAM core release.
+Low residual emissions
+Population growth, technological improvement, and social preferences generally
+follow the ‘sustainable development’ scenario. Geologic carbon storage supply
+curves and land protection constraints are the same as in the central scenario.
+Note: All other input assumptions other than the one described in each scenario are held constant, including the CO2 emissions constraint.
+Figure 6: Sensitivity analysis for DAC deployment in China in 2060. Items marked with an asterisk (*) indicate direct changes to DAC input assumptions such as natural
+gas for process heat, electricity and nonenergy cost. The ‘high-cost low efﬁciency DAC’ scenario is marked with two asterisks (**) and is the same as the ‘high-cost DAC’
+scenario in Figs 2–5. Scenarios with no asterisks indicate changes to other GCAM assumptions that directly inﬂuence the cost and/or requirement for DAC.
+Fuhrman et al.
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+the potential of DAC in China by approximately 40%. The role of
+DAC is reduced by over 60% if land available for bioenergy, affor-
+estation and agricultural expansion is unconstrained, which
+could be at odds with other objectives, such as environmental
+conservation. The requirement for DAC could also be reduced
+by 45% if lower population growth and improved mitigation
+technologies reduce the amount of residual CO2 that needs to
+be offset with DAC and other NETs. Increasing the geologic car-
+bon storage cost by a factor of 10 reduces DAC deployment by
+30%. This substantial but relatively small response to such a
+large parametric variation occurs due to the small contribution
+of storage to the overall cost of DAC, as well as because it simi-
+larly increases costs for abatement using fossil CCS. Process
+heat and electrical input efficiencies remaining at the upper
+bounds of today’s literature instead of improving over time
+could reduce the role of DAC by 20 and 10%, respectively.
+CONCLUSIONS
+In 2018, the IPCC released a report describing what it would take
+to limit end-of-century global warming to þ1.5C above prein-
+dustrial levels, recognizing this target would require ambition
+and coordination far beyond what we have seen to date. The re-
+cent pledge from China to achieve carbon neutrality by 2060
+provides a major contribution toward limiting climate change
+to below þ2C above preindustrial levels. The ROW joining
+China’s carbon neutrality pledge would help achieving the com-
+mon goal of limiting climate warming to below þ2C, but greater
+near-term emissions cuts and/or long-term future net-negative
+emissions would be required to meet the below þ1.5C goal. We
+modeled these different futures in an effort to understand the
+role of NETs in helping to achieve the net-zero by 2060 target.
+NETs are being developed to offset recalcitrant emissions from
+transportation and industry and potentially draw down atmo-
+spheric CO2 levels in the future, even though they are generally
+considered to be more expensive than conventional decarbon-
+ization activities. We analyzed China’s options to achieve net-
+zero CO2 emissions using the Global Change Analysis Model
+(GCAM) with three major sources of negative emissions as fol-
+lows: BECCS, afforestation and DAC with carbon storage.
+Our findings show that DAC can play a large role in China to
+achieve its net-zero emissions target. This is particularly true if
+the ROW is decarbonizing alongside China. The extent to which
+DAC is deployed depends on its cost, which is expected to de-
+crease over time as technologies improve with widespread im-
+plementation. However, some of the radiative forcing benefit of
+CO2 removal with DAC is offset by fugitive methane emissions
+from its natural gas process heat requirement, and non-CO2
+emissions from increased residual fossil fuel use. Because of
+these effects, the global average temperature anomaly in 2100 is
+approximately 0.1C higher in the low-cost DAC scenario than
+in the no-DAC scenario, despite having the same CO2 emissions
+trajectories. If the leakage rate of the natural gas supply chain is
+higher, the net radiative forcing benefit of large-scale natural
+gas-fired DAC deployment would be correspondingly lower.
+Without DAC, China could reach net-zero CO2 emissions by
+2060 with 1.5 GtCO2 per year negative emissions, but this would
+need to come from BECCS and afforestation at an increasingly
+higher marginal cost per tCO2 than if DAC could be deployed
+alongside them. With DAC widely available, China’s carbon
+neutrality can be supported by more than 2–3 GtCO2 per year
+negative emissions to get to the net-zero CO2 emissions by 2060.
+Scaling-up DAC to this level would require investment on the
+order of US$200–280 billion per year in 2060, which is about 1–
+2% of China’s GDP in 2019 and 0.5–0.7% of its projected GDP in
+2060.
+Our results indicate that up to 30–60% of China’s negative
+emissions requirement could be fulfilled by DAC, with the re-
+mainder fulfilled by BECCS and afforestation. These results pro-
+vide insight into the country-scale changes in water, energy and
+land use when different forms of negative emissions are used in
+China. We also assessed sensitivity of DAC deployment to key
+parameters, such as its cost, energy efficiency, (lack of) con-
+straints on land for BECCS and forest expansion, carbon storage
+costs, and ability to reduce gross-positive CO2 emissions that
+need to be offset with DAC and other NETs. Improvements in
+DAC nonenergy costs could increase its deployment in China by
+up to 80%. We also find that DAC still plays an important role
+even under more pessimistic assumptions regarding its future
+cost and energy efficiency improvements, as well as under
+more optimistic assumptions for future gross-positive emis-
+sions reductions. This is due to high costs of decarbonizing the
+industrial and freight transportation sectors. DAC availability
+could reduce biomass cropland area in major river basins in
+China by up to 25%, freeing up more land for agricultural pro-
+duction and environmental conservation. While DAC reduces
+the extent of land-use dedicated to climate mitigation (i.e. for
+afforestation and bioenergy), they remain large. DAC also
+reduces the need for irrigation water consumption for bioenergy
+crops, but itself consumes large amounts of water. This results
+in little change to overall water consumption in China if DAC is
+available, but DAC availability may be able to shift water use
+away from agricultural regions with growing water stress. The
+large remaining land and water tradeoffs of negative emissions
+with DAC availability result from its displacement of emissions
+abatement, which offsets the impacts of reducing the need for
+other forms of negative emissions. In addition to improvements
+that reduce the financial and natural resource intensity of DAC
+and other NETs themselves, greater investment in technologies
+to enable emissions avoidance, such as transport and industrial
+electrification could also reduce the tradeoffs of negative emis-
+sions for offsets.
+SUPPLEMENTARY DATA
+Supplementary data are available at Oxford Open Climate
+Change online.
+ACKNOWLEDGEMENT
+The authors would like to acknowledge Katherine Holcomb
+of the UVA Advanced Research Computing Service for her
+assistance
+with
+setting
+up
+GCAM
+on
+UVA’s
+High-
+Performance Computing Cluster.
+STUDY FUNDING
+This work was supported by the University of Virginia’s
+Ofﬁce of the Vice President for Research—3 Cavaliers
+Program,
+the
+University
+of
+Virginia
+Environmental
+Resilience
+Institute,
+the
+Global
+Technology
+Strategy
+Program and the Alfred P. Sloan Foundation, Grant number
+G-2020-14023.
+APC FUNDING
+Waived.
+8
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+CONFLICT OF INTEREST
+The authors declare no conﬂicts of interest.
+AUTHORS’ CONTRIBUTIONS
+J.F., A.F., H.M., S.D., W.S., and S.P. contributed to the concep-
+tualization, investigation, and writing of the article. J.F. led
+the modeling activity and formal analysis. P.P. and Y.O. con-
+tributed to the development of the model and data process-
+ing. S.P. contributed to the project administration. All
+authors contributed to the reviewing and editing of the arti-
+cle and approved the submitted version.
+DATA AVAILABILITY
+GCAM is an open-source integrated assessment model
+available at: https://github.com/JGCRI/gcam-core. The addi-
+tional data underlying this article will be shared on reason-
+able request to the corresponding author.
+REFERENCES
+1. Statement by H.E. Xi Jinping President of the People’s
+Republic of China At the General Debate of the 75th Session
+of The United Nations General Assembly. https://www.
+fmprc.gov.cn/mfa_eng/zxxx_662805/t1817098.shtml
+(3 May
+2021, date last accessed).
+2. NDRC. Enhanced Actions on Climate Change: China’s Intended
+Nationally
+Determined
+Contributions,
+2015.
+https://www4.
+unfccc.int/sites/ndcstaging/PublishedDocuments/China
+First/China%27s First NDC Submission.pdf (3 May 2021, date
+last accessed).
+3. Chen W, Yin X, Zhang H. Towards low carbon development
+in China: a comparison of national and global models. Clim
+Change 2016;136:95–108.
+4. Zhou N, Fridley D, Khanna N et al. China’s energy and emis-
+sions outlook to 2050: Perspectives from bottom-up energy
+end-use model. Energy Policy 2013;53:51–62.
+5. Chai Q-M, Xu H-Q. Modeling an emissions peak in China
+around 2030: Synergies or trade-offs between economy, en-
+ergy and climate security. Adv Clim Change Res 2014;5:
+169–80.
+6. Qi Y. Annual Review of Low-Carbon Development in China: 2010.
+World Scientiﬁc: Singapore, 2013. doi:10.1142/8301.
+7. Zhou S, Kyle GP, Yu S et al. Energy use and CO2 emissions of
+China’s industrial sector from a global perspective. Energy
+Policy 2013;58:284–94.
+8. Pan X, Chen W, Zhou S et al. Implications of near-term miti-
+gation on China’s long-term energy transitions for aligning
+with the Paris goals. Energy Econ 2020;90:104865.
+9. Fuhrman J McJeon H, Patel P et al. Food–energy–water impli-
+cations of negative emissions technologies in a þ1.5C future.
+Nat Clim Change 2020;10:920–27.
+10.Climate Action Tracker. Countries with Submitted or Proposed
+NDC Updates, 2020. https://climateactiontracker.org/climate-
+target-update-tracker/.
+11.The Rt Hon Chris Skidmore MP. UK Becomes First Major
+Economy to Pass Net Zero Emissions Law—GOV.UK. Department
+for Business, Energy & Industrial Strategy 2019. https://www.
+gov.uk/government/news/uk-becomes-ﬁrst-major-econ
+omy-to-pass-net-zero-emissions-law (3 May 2021, date last
+accessed).
+12.Statement
+Attributable
+to
+the
+Spokesperson
+for
+the
+Secretary-General—On Japanese Prime Minister Suga’s Net-
+zero Announcement j United Nations Secretary-General.
+https://www.un.org/sg/en/content/sg/statement/2020-10-26/
+statement-attributable-the-spokesperson-for-the-secretary-
+general-japanese-prime-minister-suga’s-net-zero-announce
+ment (3 May 2021, date last accessed).
+13.UK Net Zero Target j The Institute for Government, 2020.
+https://www.instituteforgovernment.org.uk/explainers/net-
+zero-target (3 May 2021, date last accessed).
+14.Peters GP, Davis SJ, Andrew R. A synthesis of carbon in inter-
+national trade. Biogeosciences 2012;9:3247–76.
+15.Meng J, Mi Z, Guan, D et al. The rise of South-South trade and
+its effect on global CO2 emissions. Nat Commun 2018;9:1–7.
+16.Mi Z, Meng J, Green F et al. China’s “Exported Carbon” peak:
+patterns, drivers, and implications. Geophys Res Lett 2018;45:
+4309–18.
+17.Liu Z, Meng J, Deng Z et al. Embodied carbon emissions in
+China-US trade. Sci China Earth Sci 2020;63:1577–86.
+18.Zhang Z, Guan D, Wang R et al. Embodied carbon emissions
+in the supply chains of multinational enterprises. Nat Clim
+Change 2020;10:1096–101.
+19.CDIAC. Carbon Dioxide Information Analysis Center, 2017.
+https://cdiac.ess-dive.lbl.gov (3 May 2021, date last accessed).
+20.IEA. Global CO2 Emissions in 2019—Analysis, 2020. https://www.
+iea.org/articles/global-co2-emissions-in-2019 (3 May 2021,
+date last accessed).
+21.Wang H, Chen W, Zhang H et al. Modeling of power sector
+decarbonization in China: comparisons of early and delayed
+mitigation towards 2-degree target. Clim Change 2019;162:
+1843–56.
+22.Stanway D. China’s new coal power plant capacity in 2020
+more than three times rest of world’s: study. Reuters, 2021.
+https://www.reuters.com/article/us-china-coal/chinas-new-
+coal-power-plant-capacity-in-2020-more-than-three-times-
+rest-of-worlds-study-idUSKBN2A308U (3 May 2021, date last
+accessed).
+23.Myllyvirta L, Zhang S, Shen X. Analysis: will china build hun-
+dreds of new coal plants in the 2020s? Carbon Brief, 2020.
+https://www.carbonbrief.org/analysis-will-china-build-hun
+dreds-of-new-coal-plants-in-the-2020s (3 May 2021, date last
+accessed).
+24.Global Energy Monitor (GEM) and the Center for Research on
+Energy and Clean Air. China Dominates 2020 Coal Plant
+Development.
+https://globalenergymonitor.org/wp-content/
+uploads/2021/02/China-Dominates-2020-Coal-Development.
+pdf (2021) (3 May 2021, date last accessed).
+25.Wang H, Chen W. Modelling deep decarbonization of indus-
+trial energy consumption under 2-degree target: comparing
+China, India and Western Europe. Appl Energy 2019;238:
+1563–72.
+26.Yin X Chen W, Eom J et al. China’s transportation energy con-
+sumption and CO2 emissions from a global perspective.
+Energy Policy 2015;82:233–48.
+27.Zhang H, Chen W, Huang W. TIMES modelling of transport
+sector in China and USA: comparisons from a decarboniza-
+tion perspective. Appl Energy 2016;162:1505–14.
+28.Pietzcker RC, Longden T, Chen W et al. Long-term transport
+energy demand and climate policy: alternative visions on
+transport
+decarbonization
+in
+energy-economy
+models.
+Energy 2014;64:95–108.
+29.Le Que´re´ C, Jackson RB, Jones M et al. Temporary reduction in
+daily global CO2 emissions during the COVID-19 forced con-
+ﬁnement. Nat Clim Change 2020;10:647–53.
+Fuhrman et al.
+|
+9
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024
+30.Le Que´re´ C, Peters GP, Friedlingstein P et al. Fossil CO2 emis-
+sions in the post-COVID-19 era. Nat Clim Change 2021;11:197–99.
+31.Yu S, Cui R, McJeon H et al. Five Strategies to Achieve China’s
+2060 Carbon Neutrality Goal, 2020. https://www.efchina.org/
+Reports-en/report-lceg-20200929-en (3 May 2021, date last
+accessed).
+32.Zheng X, Lu Y, Yuan J et al. Drivers of change in China’s en-
+ergy-related CO2 emissions. Proc Natl Acad Sci USA 2020;117:
+29–36.
+33.Fuss S, Lamb M, Callaghan M et al. Negative emissions—Part
+2: costs, potentials and side effects. Environ Res Lett 2018;13:
+063002.
+34.Cao S. Why large-scale afforestation efforts have failed to solve
+the desertiﬁcation problem. Environ Sci Technol 2008;42:1826–31.
+35.Cao S, Chen L, Shankman D et al. Excessive reliance on affor-
+estation in China’s arid and semi-arid regions: lessons in eco-
+logical restoration. Earth Sci Rev 2011;104:240–45.
+36.Jia X, Shao, M., Zhu Y et al. Soil moisture decline due to affor-
+estation across the Loess Plateau, China. J Hydrol 2017;546:
+113–22.
+37.Wang J, Feng L, Palmer P et al. Large Chinese land carbon sink
+estimated from atmospheric carbon dioxide data. Nature
+2020;586:720–23.
+38.Fuhrman J, McJeon H, Doney SC et al. From zero to hero?: why
+integrated assessment modeling of negative emissions tech-
+nologies is hard and how we can do better. Front Clim 2019;1:11.
+39.NRC. Negative Emissions Technologies and Reliable Sequestration.
+National Academy Press, Washington, D.C., United States.
+2018. doi:10.17226/25259.
+40.Zastrow M. China’s tree-planting drive could falter in a
+warming world. Nature 2019;573:474–75.
+41.Muratori M, Calvin K, Wise M et al. Global economic conse-
+quences of deploying bioenergy with carbon capture and
+storage (BECCS). Environ Res Lett 2016;11:095004
+42.Popp A, Calvin K, Fujimori S et al. Land-use futures in the
+shared socio-economic pathways. Glob Environ Change 2017;
+42:331–45.
+43.Wise M, Calvin K, Thomson A et al. Implications of limiting
+CO2 concentrations for land use and energy. Science 2009;324:
+1183–86.
+44.Smith P et al. Biophysical and economic limits to negative
+CO2emissions. Nat Clim Change 2016;6:42–50.
+45.US
+Department
+of
+Commerce,
+NOAA
+Global
+Monitoring
+Laboratory—Carbon Cycle Greenhouse Gases. https://www.esrl.
+noaa.gov/gmd/dv/data/index.php?category¼Greenhouse%
+2BGases (2021) (3 May 2021, date last accessed).
+46.Microsoft. Progress on Our Goal to be Carbon Negative by 2030,
+2020.
+https://blogs.microsoft.com/on-the-issues/2020/07/21/
+carbon-negative-transform-to-net-zero/ (3 May 2021, date
+last accessed).
+47.ExxonMobil and global thermostat to advance breakthrough at-
+mospheric carbon capture technology. Business Wire. https://
+www.businesswire.com/news/home/20190627005137/en/
+ExxonMobil-Global-Thermostat-Advance-Breakthrough-
+Atmospheric-Carbon (3 May 2021, date last accessed).
+48.Chevron. Occidental invest in CO2 removal technology.
+Reuters.
+https://www.reuters.com/article/us-carbonengineer
+ing-investment/chevron-occidental-invest-in-co2-removal-
+technology-idUSKCN1P312R (3 May 2021, date last accessed).
+49.United Airlines. Invests in carbon-capture project to be 100%
+green by 2050. Reuters. https://www.reuters.com/article/
+united-arlns-climate-occidental/united-airlines-invests-in-
+carbon-capture-project-to-be-100-green-by-2050-idUSKBN2
+8K1NE (3 May 2021, date last accessed).
+50.Carbon engineering inks Shopify as its ﬁrst partner for carbon
+removal as a service. TechCrunch. https://techcrunch.com/
+2021/03/09/carbon-engineering-inks-shopify-as-its-ﬁrst-part
+ner-for-carbon-removal-as-a-service/ (3 May 2021, date last
+accessed).
+51.Yu S, Horing J, Liu Q et al. CCUS in China’s mitigation strategy:
+insights from integrated assessment modeling. Int J Greenh
+Gas Control 2019;84:204–18.
+52.Rogelj J, Shindell D, Jiang K et al. Mitigation pathways com-
+patible with 1.5C in the context of sustainable development.
+Spec Report Intergov Panel Clim Change, 2018. https://www.ipcc.
+ch/site/assets/uploads/sites/2/2019/05/SR15_Chapter2_Low_
+Res.pdf (3 May 2021, date last accessed).
+53.Realmonte G, Drouet L, Gambhir A et al. An inter-model as-
+sessment of the role of direct air capture in deep mitigation
+pathways. Nat Commun 2019;10:3277.
+54.Streﬂer J, Bauer N, Kriegler E et al. Between Scylla and
+Charybdis: delayed mitigation narrows the passage between
+large-scale CDR and high costs. Environ Rev Lett 2018;13:44015.
+55.Chen C, Tavoni M. Direct air capture of CO2 and climate stabi-
+lization: a model based assessment. Clim Change 2013;118:
+59–72.
+56.JGCRI. GCAM v5.3 Documentation: Global Change Analysis Model
+(GCAM), 2020. https://jgcri.github.io/gcam-doc/ (3 May 2021,
+date last accessed).
+57.Kaufman N, Barron AR, Krawczyk W et al. A near-term to net
+zero alternative to the social cost of carbon for setting carbon
+prices. Nat Clim Change 2020;10:1010–14.
+58.Bednar J, Obersteiner M, Wagner F. On the ﬁnancial viability
+of negative emissions. Nat Commun 2019;10:1783.
+59.Daniel KD, Litterman RB, Wagner G. Declining CO2 price
+paths. Proc Natl Acad Sci USA 2019;116:20886–91.
+60.Smith P, Davis S, Creutzig F et al. The marker quantiﬁcation
+of the Shared Socioeconomic Pathway 2: a middle-of-the-
+road scenario for the 21st century. Glob Environ Change 2017;
+42:251–67.
+61.Keith DW, Holmes G, St Angelo D et al. A process for captur-
+ing CO2 from the atmosphere. Joule 2018;2:1573–94.
+62.Zeman, F. Energy and material balance of CO2 capture from
+ambient air. Environ Sci Technol 2007;41:7558–63.
+63.Stolaroff JK, Keith DW, Lowry GV. Carbon dioxide capture
+from atmospheric air using sodium hydroxide spray. Environ
+Sci Technol 2008;42:2728–35.
+64.Fasihi M, Eﬁmova O, Breyer C. Techno-economic assessment
+of CO2 direct air capture plants. J Clean Prod 2019;224:957–80.
+65.Le Que´re´ C, Andrew R, Friedlingstein P et al. Global carbon
+budget 2018. Earth Syst Sci Data 2018;10:2141–94.
+66.US Department of Commerce, NOAA, E. S. R. L. ESRL Global
+Monitoring
+Division—Global
+Greenhouse
+Gas
+Reference
+Network. NOAA Research, 2019.
+67.Environment European Agency. Global Average Near Surface
+Temperatures Relative to the Pre-Industrial Period, 2019. https://
+www.eea.europa.eu/data-and-maps/daviz/global-average-air-
+temperature-anomalies-5#tab-dashboard-02 (3 May 2021, date
+last accessed).
+10
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab004/6284217 by guest on 26 August 2024

@@ -1,0 +1,1132 @@
+Index for climate change adaptation in China and its application
+FU Lina, CAO Yinga,*, KUANG Shu-Yaa, GUO Haob
+a National Center for Climate Change Strategy and International Cooperation, Beijing, 100035, China
+b Institute of Climate Change and Sustainable Development, Tsinghua University, Beijing, 100084, China
+Received 9 December 2020; revised 28 June 2021; accepted 28 June 2021
+Available online 10 July 2021
+Abstract
+With the increasing awareness of the risks and impacts of climate change, scholars tend to pay more attention to the applications of in-
+dicators, which access the effectiveness of climate change adaptation. This study aims to evaluate the overall progress of climate change
+adaptation in China during 2010e2018 in a quantitative manner. The Index for Climate Change Adaptation in China (ICCAC) has been thus
+developed by adopting the analytic hierarchy process weighting and expert scoring method. Namely, ICCAC is composed of national climate
+change impacts, adaptation actions in key sectors, adaptation progress in key sectors, and the national adaptation policy framework. Overall, the
+ICCAC and its four sub-indexes increased signiﬁcantly from 2010 to 2018, on a yearly-basis. Each sub-index implied that the socio-economic
+impacts caused by climate change in China have been alleviated gradually; speciﬁcally, the mainstream endeavor of key sectors has witnessed
+remarkable progress, however, it is worth noting that the gap between individual adaptation actions and policies still exists; the implementation
+effect of policies in key sectors is not as afﬂuent as that of actions; the current adaptation endeavor in key areas is still closely related to the
+mainstream business of corresponding competent ministries rather than adaptation-aimed actions; the national adaptation policy framework has
+been primarily formed, but there are still some deﬁciencies. As a result, the gap in China's adaptation process could be mainly manifested in the
+following ﬁve aspects: i) adaptation effectiveness assessment in forestry and urban infrastructure is urgently needed; ii) policies in marine and
+water resources sectors need structural reforms; iii) evaluation criteria for national adaptation are not necessarily sufﬁcient; iv) the improvement
+of adaptive management efﬁciency has stagnated recently; and v) the adaptation works of relevant Ministries should be coordinated and put
+forward the corresponding strategies. Finally, this study presents four proposals: conducting an evaluation of adaptation actions in all key sectors,
+integrating climate change impacts into sectoral planning decisions, launching concrete action plans for adaptation, establishing a complete
+policy framework on adaptation.
+Keywords: Climate change; Adaptation; Index; Evaluation; Risk assessment; Policy recommendation
+1. Introduction
+Nowadays, climate change, characterized by global warm-
+ing, has evolved into one of the most devastating crises for the
+global environment and global sustainable development, and
+further posed grave threats to social and economic activities of
+humanity (IPCC, 2018; Yan et al., 2016). The international
+community has paid increasing attention to climate change and
+taken active countermeasures, making adaptation now one of
+the core concepts in global change science (Bates et al., 2014;
+Cutter et al., 2008; Zhao, 2020).
+Since 2007, the Chinese government has formulated and
+implemented a series of policies on climate change adaptation
+(Marco et al., 2011), which propel the burgeoning of practices
+and research on climate change adaptation. In terms of policy
+evaluation, Peng et al. (2015) and Zhang et al. (2015b)
+reviewed China's policies on climate change adaptation and
+argued that although China's adaptation policies have been
+well promoted and deployed, most of them lack supervision
+* Corresponding author.
+E-mail address: caoying@ncsc.org.cn (CAO Y.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 12 (2021) 723e733
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2021.06.006
+1674-9278/© 2021 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+and evaluation. Zhang and Lin (2018) analyzed China's
+climate change response system with reference to climate
+change policies from 2007 to 2016, drawing conclusion that
+there are still some drawbacks in China's climate change
+adaptation policies, such as insufﬁcient supervision on adap-
+tation policies and weak evaluation of adaptation effects. The
+Third National Assessment Report on Climate Change brieﬂy
+evaluated the strategic research and key tasks of adaptation to
+climate change (PCTNARCC, 2015). China's Policies and
+Actions for Addressing Climate Change over the years pro-
+vided more insights into China's policies and actions for
+addressing climate change since 2008. However, the above
+studies and reports failed to review and evaluate China's
+climate change adaptation policies and actions with quantita-
+tive assessment tools or methods, thus unable to accurately
+identify and evaluate the annual and sub-regional progress in
+climate change adaptation.
+Emerging attention has been paid to indicator application
+for evaluating adaptation success (Arnott et al., 2016). Liter-
+ature evaluated the adaptation progress using a single or
+comprehensive index and through model simulation from so-
+cial, natural, and economic dimensions based on the qualita-
+tive description (Feng and Chao, 2020; Liu et al., 2019a; Wu,
+2019). For example, Chen et al. (2011) selected four systems
+of economy, agriculture, society, as well as resources and
+environment to be the evaluation subjects, established an index
+system for the regional climate system, and evaluate the
+climate change adaptation of Xianyang city. Zhu et al. (2020)
+selected 12 evaluation indicators categorized into resource and
+environment level, economic support capacity, social devel-
+opment level, and response and governance capability, upon
+which developed an evaluation system for climate change
+adaptation in Beijing, Tianjin, and Hebei province. Liu (2015)
+and Zhang et al. (2015a) framed an evaluation system of
+climate change adaptation for the water resources system in
+Beijing, with water supply, water demand, and water quality as
+three dimensions. Different studies have laid different em-
+phases on the selection of adaptation indicators in consider-
+ation of varying research objects, contents, and goals. These
+studies either structure an evaluation index system for a city or
+region or focus on a speciﬁc research ﬁeld. In general, pre-
+vious researches attached great importance to impact in-
+dicators related to adaptation rather than its physical effect or
+policies and actions, qualitative evaluation of policies and
+actions is far more than quantitative evaluation as well. Few
+studies explore establishing a national adaptation evaluation
+index based on China's national conditions (Yang et al., 2020).
+Most studies focus on certain sectors or speciﬁc ﬁelds, losing
+sight of the overall national progress and the inter-sector
+comparison Zhang et al. (2015b).
+We believe that quantitative measures would be a more
+accurate and straight-forward presentation than qualitative
+analysis. Grounded on the existing literature, this study eval-
+uates the progress of the Chinese government's adaptation to
+climate change in a quantitative way. Apart from adaptation
+actions and achievements in key areas, the policy objectives,
+management systems, and supporting mechanisms for climate
+change adaptation are also important parameters, especially
+for the national level. Therefore, this study introduces them to
+the evaluation system and gives them considerable weight to
+carry out a preliminary evaluation that may guide the policy
+practice in the next stage. Some of the policy indicators are
+highly correlative with the progress in national adaptation but
+are difﬁcult to be fully quantiﬁed. Considering that the ana-
+lytic hierarchy process method can provide a quantitative basis
+for analysis and decision-making by establishing a hierarchical
+structure of problems and pairwise comparison judgment
+matrix, it is applicable to resolve difﬁcult decisions with its
+hierarchical evaluation indicators and quantitative description
+of target value. Therefore, the analytic hierarchy process
+method is used to construct the evaluation system and deter-
+mine the weight of indicators. This study intends to provide a
+quantitative assessment tool for the progress assessment,
+drawbacks identiﬁcation and recommendations proposal of
+national adaptation.
+2. Data and methodology
+2.1. Data source
+Data and information for index evaluation from 2010 to
+2018 are collected and sorted out mainly from China's Sta-
+tistical Yearbooks (2011e2019) and China's Policies and
+Actions for Addressing Climate Change (2011e2019). Some
+data are gathered from other sources, including, but not
+limited to Statistic Bulletin on China Water Activities,
+Financial Yearbook of China, Water Resources Bulletin, China
+Urban-Rural
+Construction
+Statistical
+Yearbook,
+Annual
+Development Report of China Electric Power Industry, China
+Transportation
+Statistical
+Yearbook
+and
+Social
+Service
+Development Statistical Bulletin. More information on climate
+change adaptation has been collated extensively from the
+above sources for support and interpretation.
+2.2. Establishing the index for climate change
+adaptation in China (ICCAC)
+The index system should abide by the following four
+principles:
+(1) Scientiﬁcity and operability. Indicators must be in line
+with the basic issue proposed by UNFCCC, the Paris
+Agreement, and domestic demand on climate change
+adaptation while ensuring a clear conception and stan-
+dard method.
+(2) Representativeness and independence. Priority should be
+given to indicators that can accurately represent the
+connotation of the indicator framework while keeping
+the independence of all indicators as far as possible.
+(3) Policy orientation and guidance. Indicators selected
+should fully reﬂect the policy requirements of national
+climate change adaptation, while giving play to the
+724
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+guiding role of climate change adaptation territory and
+department.
+(4) Data credibility and availability. Ofﬁcial documents
+such as China Statistical Yearbook, and China's Policies
+and Actions for Addressing Climate Change, will be
+taken as the main data sources.
+The major process of developing ICCAC is as follows.
+First, based on existing literature (Chen et al., 2015; Wu, 2019;
+Yang et al., 2020; Zhang et al., 2015a; Arnott et al., 2016) and
+the existing best knowledge drawn from experts' judgment,
+ICCAC is deﬁned from four aspects: climate change impacts,
+adaptation actions in key sectors, adaptation progress in key
+sectors, and adaptation policy framework. Second, after
+comprehensively considering the connotation, data quality,
+availability of indicators, and current policy practices on
+climate change adaptation in China, all 43 indicators are
+developed accordingly. Third, the analytic hierarchy process
+method is introduced to determine the weighting of each in-
+dicator and aspect. The analytic hierarchy process method is a
+widely
+used
+decision-making
+method
+that
+decomposes
+decision-making related elements into objectives, criteria,
+schemes, etc. For both qualitative and quantitative analysis.
+Through judgment matrix and pairwise comparison, the ana-
+lytic hierarchy process method could be used to determine
+comparative sequencing of importance of each indicator for
+the purpose of indicator screening and weight conﬁrmation.
+The hierarchical structure of ICCAC consists of three layers:
+target layer, criterion layer, and indicator layer. Then, a
+judgment matrix on a scale from 1 to 9 is created, distributed
+to, and then gathered from several experts in different sectors.
+For the incomplete experts' judgment matrix, the average value
+of other experts' evaluation levels is used to complement the
+incomplete items. For the experts’ judgment matrix that fails
+the consistency test, automatic adjustment is operated using
+YAAHP software. After that, the expert assessment results are
+integrated via the expert weights using weighted arithmetic
+average in YAAHP software. Last, the weights of each indi-
+cator and sub-index are obtained.
+The 0e1 standardized method based on 2010 is also
+applied for dimensionless processing and scoring. For
+positive indexes, the equation should be Ui;n ¼
+Ai;nMinAi;n
+MaxAi;nMinAi;n,
+and
+for
+negative
+indexes,
+it
+is
+presented
+as
+Ui;n ¼
+MaxAi;nAi;n
+MaxAi;nMinAi;n, in which Ui,n represents the score of the i-th
+standardized evaluation index in the n-th year and Ai,n
+represents the initial data of the i-th evaluation index in the
+n-th year. Finally, the weighted sum of Ui,n is used to get the
+ICCAC evaluation result of the n-th year, that is, ICCACn ¼
+P
+i
+（Ui;n NWi）, where ICCACn represents the national
+climate change adaptation index of the n-th year, Ui,n
+Table 1
+The comprehensive evaluation system of the Index for Climate Change Adaptation in China (ICCAC).
+Subsystem level (S)
+Indicator level (A)
+S1 (0.128)
+National climate change impacts
+A1number of environmental emergency events (0.032); A2areas subject to natural disasters
+(0.032); A3direct economic loss caused by natural disasters (0.032); A4casualty rate caused
+by natural disasters (0.032)
+S2 (0.158)
+Adaptation actions in key sectors
+A5adaptation actions in agriculture (0.020); A6adaptation actions in forestry and ecosystems
+(0.020); A7adaptation actions in water resources (0.022); A8adaptation actions in marine
+sector (0.020); A9adaptation actions in public health (0.022); A10adaptation actions in
+disaster prevention, mitigation, and relief (0.022); A11adaptation actions in urban
+infrastructure (0.031)
+S3 (0.420)
+Adaptation progress in key sectors
+A12water-saving irrigated area (0.022); A13conservation tillage area (0.022); A14effective
+utilization coefﬁcient of farmland irrigation water (0.022); A15newly increased area for
+desertiﬁcation control (0.022); A16area of grain for green afforestation projects (0.022);
+A17prevention rate of forest pest plague (0.022); A18investment in ﬂood control engineering,
+water resources engineering, soil and water conservation and ecological engineering construction
+(0.022); A19area of soil erosion under control (0.021); A20water quality compliance rate of
+water environment functional zone (0.022); A21reuse rate of industrial water (0.022);
+A22expenditure of urban maintenance and construction fund (0.022); A23green-covered
+area as % of completed (0.022); A24average outage time of customers (0.022); A25input
+for transport infrastructure upgrade (0.022); A26length of water supply pipelines per urban
+built-up area (0.011); A27length of city sewage pipes per urban built-up area (0.011);
+A28number of urban households covered by affordable housing projects (0.012);
+A29number of rural poor households completing dilapidated house renovation (0.012);
+A30investment in underground utility tunnel (0.022); A31population covered by
+urban basic medical insurance per capita (0.022); A32number of medical technical
+personnel in healthcare institutions per 1000 persons (0.022)
+S4 (0.295)
+Adaptation policy framework
+A33pilot demonstration of climate change adaptation (0.025); A34top-level design for climate
+change adaptation (0.034); A35management system for addressing climate change (0.034);
+A36climate change adaptation input (0.036); A37popularization of disaster prevention and
+mitigation (0.022); A38climate change risk assessment (0.026); A39basic research and
+application of adaptation technology (0.026); A40comprehensive disaster risk monitoring
+and early warning (0.023); A41public coverage of natural disaster early warning (0.022);
+A42emergency management (0.023); A43number of emergency response times of national
+disaster relief (0.022)
+725
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+represents the index score of the i-th evaluation index in the
+n-th year, and NWi represents the weight of the i-th national
+evaluation index. Evaluation methods of the 16 qualitative
+indicators are as follows. Indicators concerning government
+action are scored according to China's Policies and Actions
+for Addressing Climate Change over the years, covering A5
+to A11. A33 and A37 are scored based on existing policies
+and their implementation. A34, A36, A38, A39 and A40 are
+scored based on the work carried out by relevant de-
+partments, while higher scores will be particularly given to
+comprehensive work. A35 and A42 are scored considering
+the current framework of the management system and new
+initiatives of each year.
+The consistency test result of ICCAC is 0.034 (<0.1),
+indicating that the consistency test has been passed. Eventu-
+ally, the ICCAC of 2010e2018 is obtained.
+3. Results and analysis
+3.1. Indicator system and weights
+Minor adjustments have been made according to literature
+review to avoid subjective deviation. Table 1 illustrates the
+framework and weighting of ICCAC. Given that the consis-
+tency test result is 0.034 (<0.1), the consistency test is reck-
+oned as passed.
+3.2. Overall progress of climate change adaptation in
+China
+The overall progress of ICCAC is marked using sequential
+data from 2010 to 2018 based on the above evaluation system.
+It shows that ICCAC rises year by year with an average annual
+growth rate of 14.9% (Table 2), which clearly mirrors China's
+progress in climate change adaptation. The great efforts that
+China has made in climate change adaptation led to an upward
+trend of all sub-indexes to varying degrees, substantially
+elevating the national capacity to adapt. National climate
+change impacts (S1, with an average annual growth rate of
+20.9%, the same below) and adaptation progress in key sectors
+(S2, 23.7%) register the highest annual growth rate, yet a 2010
+score of nearly zero indicates the signiﬁcant remediation on
+previous work. Remarkable annual growth rate was not
+observed in adaptation actions in key sectors (S3, 8.4%) and
+adaptation policy framework (S4, 10.3%), implying that sec-
+toral actions are neither adequate nor up to expectation.
+Therefore, it is in urgent need to accelerate the completion of
+policy and mechanism system.
+3.3. National climate change impacts
+Sub-index S1 displays a ﬂuctuating upward trend from
+2010 to 2018, suggesting that negative impacts of climate
+change on socio-economy have been gradually mitigated in
+China. Two distinct ﬂuctuations of sub-index S1 occurred in
+2013 and 2016 when the natural calamity took place, for
+instance, the earthquake in Yushu and the heavy mountain
+torrents and debris ﬂow in Zhouqu in 2010. The results of S1
+demonstrate that the number of emergent eco-environmental
+occurrences, the area affected by natural disasters, the pro-
+portion of direct economic losses induced by natural disasters
+to GDP, and the proportion of casualties caused by natural
+disasters
+have
+been
+ameliorated,
+with
+average
+annual
+improvement rates as 4.8%, 74.9%, 77.8%, and 67.5%,
+respectively. The overall downward trend of emergent eco-
+environmental occurrences in China from 2010 to 2018 il-
+lustrates that eco-environmental threats have been controlled
+to a certain extent (Yang et al., 2017). Despite that the climate
+change impacts China undergoes are increasing (PCTNARCC,
+2015), the degree of damage has decreased. This may be
+ascribed to the promulgation of national emergency manage-
+ment policies, represented by Measures for the Management
+of Emergency Plans1 and National Environmental Emergency
+Plan,2 etc. In general, viewing from the perspective of damage
+and loss reduction, the capacity to adapt has been evidently
+improved in China (Zhao et al., 2014).
+3.4. Actions and progress in key sectors
+Regarding the strong relationship between S2 and S3, this
+study combines the calculation results of the two. Since 2010,
+S2 and S3 have been distinctly increasing with annual growth
+rates of 8.4% and 23.7% respectively, reﬂecting apparent
+improvements. Nevertheless, the overall trend of A16 has been
+declining rather than rising since 2013, and the adaptation in
+the ﬁelds of water resources, marine sector, and public health
+needs to be further advanced.
+3.4.1. Agricultural sector
+Agriculture is one of the most vulnerable sectors in terms of
+adaptation (Tao et al., 2011). The annual growth rates of ac-
+tions taken and progress made in the ﬁeld of agriculture are
+14.7% and 75.0%, with respective scoring rates as 61.7% and
+66.7% in 2018, noting that China has carried out persistent
+adaptation for agriculture and achieved certain harvest. China
+Table 2
+Average annual growth rate in 2010e2018 and scoring rate of ICCAC indexes.
+Index
+Average
+annual
+growth
+rate
+(% per year)
+Scoring
+rate in
+2018 (%)
+ICCAC
+14.9
+91.4
+S1: National climate change impacts
+20.9
+96.9
+S2: Adaptation actions in key sectors
+8.4
+82.5
+S3: Adaptation progress in key
+sectors
+23.7
+86.8
+S4: National climate change
+adaptation policy framework
+10.3
+100.0
+1 http://www.gov.cn/zwgk/2013-11/08/content_2524119.htm.
+2 http://www.mee.gov.cn/ywgz/hjyj/yjzb/201912/t20191227_751708.shtml.
+726
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+has formulated a series of policies and regulations to facilitate
+the adaptation of agriculture, with the focus on water con
+servancy, water resources utilization of agriculture, etc. Con-
+cerning implementation effects, since 2010, all three indicators
+of agriculture have been obviously improved, each with
+average annual growth rates of 60.5%, 77.8% and 77.8%, as
+well as scoring rates all up to 100%. The signiﬁcantly
+enhanced agricultural
+adaptation
+can
+be manifested
+by
+improved soil water usage efﬁciency, soil erosion reduction,
+capacity-building of fertilizer conservation, etc.
+3.4.2. Forestry and ecosystems
+In respect of policy action, China has actively studied and
+formulated policies and measures on climate change adapta-
+tion to ensure the safety of forestry ecosystems. National
+Forestry and Grassland Administration has issued various
+action plans, covering forestry, grassland, wetland, and other
+key areas, to guide forestry to adapt to climate change and
+strengthen ecosystem preservation. The index layout that the
+average annual growth rates of adaptation actions and progress
+in forestry are 19.6% and 2.3%, with respective scoring rates
+as 100% and 49.7% in 2018, signifying that massive forestry
+adaptation actions have been taken but achieved limited suc-
+cess. As for policy implementation effects, the indexes of
+forest pest control, afforestation area completed by grain for
+green projects, and newly increased desertiﬁcation control
+area, have kept an upward trend since 2010. However, the
+former two witnessed an evident decline in 2017/2018. Results
+demonstrate that China's forestry adaptation has been gradu-
+ally enhanced, as desertiﬁcation land control projects and
+grain for green projects have engendered tangible beneﬁts, and
+the forest pest control has made huge progress. However, it is
+noteworthy that gaps still exist within individual indicators.
+3.4.3. Water resources sector
+For policy actions, China has issued policy documents to
+strengthen the uniﬁed management and protection of water
+resources, with the focus on the compliance rate of key
+drinking water sources, soil erosion control areas and other
+aspects, and to further optimize the water resource allocation
+in China. As calculated by the index evaluation, the average
+annual growth rates of adaptation actions and progress in the
+ﬁeld of water resources are 0% and 33.8%, and the respective
+scoring rates in 2018 are 60.0% and 72.4%. Even though the
+results reﬂect, remarkable progress made in the ﬁeld of water
+resources, the policy actions present a clear preference for
+water resource management and water conservation, rather
+than adaptation-related ecological restoration over the years.
+When it comes to policy implementation effects, four in-
+dicators in the ﬁeld of water resources have improved mark-
+edly with annual growth rates of 75.7%, 77.8%, 46.3% and
+4.7%, respectively. Consistent with the results of index eval-
+uation, China's investment in water resources has been grad-
+ually increasing, the effects of soil erosion control remain
+noticeable, and the water quality and utilization of water re-
+sources in water environment functional areas have been
+steadily improved.
+3.4.4. Marine sector
+Marine sector has been experiencing dramatic changes both
+at spatial and temporal scales, which in turn affects the human
+society that relies on marine services and resources (Jiao et al.,
+2015). To implement adaptation, the State Oceanic Adminis-
+tration of China has organized and carried out many speciﬁc
+projects including China's Marine Medium and Long-term
+Plan in Response to Climate Change (2011e2020), and is-
+sues the China Sea Level Bulletin and China Marine Disasters
+Bulletin on an annual basis. The evaluation for policy actions
+in marine sector have stayed unchanged since 2010, with a
+scoring rate of 66.0% in 2018. It's clear that China has been
+long working on the conservation and restoration of marine
+ecology, and the remediation of ecological functions along the
+coastline and islands. Nonetheless, the policy actions are
+noticeably inclined to periodically monitor and report, instead
+of putting forward countermeasures against sea-level rise and
+seawater recharge over the years. In terms of adaptation
+progress, according to Wang et al. (2020), the complete degree
+of the Yantai Blue Bay Plan is 68%. Other plans have not yet
+completed the evaluation.
+3.4.5. Urban infrastructure
+Climate change risks facing urban infrastructure is one of
+the major challenges for China's rapid urbanization (Liang
+et al., 2020; Edward and Chao, 2018), particularly those
+imposed upon, water supply and drainage pipelines (Dong
+et al., 2020), power supply system, etc. This study ﬁnds the
+annual growth rates of adaptation actions and progress in the
+ﬁeld of urban infrastructure to be 22.3% and 23.5%, with
+respective scoring rates as 100% and 67.2% in 2018, which
+unfolds that the adaptation policies and actions have been
+well-implemented for urban infrastructure in China and
+proved to be rather effectual. It might be attributed to the
+synergy effects brought by the increasing attention paid to
+residents' living conditions, urban maintenance and construc-
+tion, transportation infrastructure as well as underground
+utility tunnels. From 2010 to 2016, the average annual growth
+rate of urban maintenance and construction funds is 14.0%,
+implying that urban maintenance and construction work in
+China has been effectively guaranteed. Although index eval-
+uation results illustrate that the effect of policy implementa-
+tion is not as signiﬁcant as that of actions, a number of indexes
+have been progressing in recent years, e.g., green coverage
+rate of urban built-up areas, average outage time of users,
+average urban power supply reliability rate, the density of
+urban water supply and drainage pipelines, and number of
+completed affordable housing projects, etc.
+3.4.6. Public health
+Climate change highly impacts the occurrence and spread
+of infectious diseases. The temperature rise has created
+favorable conditions for the survival, and transmission of
+entomophagy-borne diseases such as malaria and dengue fever
+(Du et al., 2013). The annual growth rates of adaptation ac-
+tions and progress in the ﬁeld of public health are 22.1% and
+20.4%, with both scoring rates as 100% in 2018. It is clear that
+727
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+China has been hammering at public health actions against
+climate change since 2010, and has attained a certain degree of
+success in water quality improvement, infectious disease
+monitoring and prevention, and air quality monitoring. Allo-
+cated with a fund of 220 million CNY, local governments
+started monitoring drinking water sanitation in 2012, then
+impact of haze on public health in 2016, together with a pilot
+monitoring on health hazard factors in public places in the
+same year. A step further, public health improvement has been
+impressive yields, for example, the coverage rate of basic
+medical insurance and the number of health technical
+personnel per 1000 population in China have increased year by
+year during 2010e2018.
+3.4.7. Disaster prevention, mitigation, and relief
+The annual growth rate and scoring rate of disaster pre-
+vention actions respectively reached 10.5% and 100% in
+2018, telling of China's steady progress made and the stable
+level remained in the ﬁeld of disaster prevention and mitiga-
+tion. Through the implementation of the National Compre-
+hensive Disaster Prevention and Reduction Plan (2011e2015)
+and the National Meteorological Disaster Defense Plan
+(2009e2020), etc., China has built up the capacity of
+comprehensive disaster prevention and mitigation in both
+urban and rural areas for tackling climate change, and has
+launched a multi-type and multi-level platform system as
+planned. Particularly, drawing on disaster emergency lessons
+learned from such as the Yushu Earthquake and Zhouqu debris
+ﬂow, China National Emergency Broadcasting (2013) and
+National Emergency Early Warning Information Release
+System (2015) have been established successively. Monitoring
+and early warning systems for various emergencies have been
+developed, and the support capacity for handling disaster
+emergencies has been prominently enhanced in recent years
+(Liu et al., 2019b). The robust growth in disaster prevention
+and mitigation emergency system has made a proactive
+contribution to China's future disaster emergency manage-
+ment, even to the long-term economic and social stability.
+In summary, special planning constitutes the basis for both
+adaptation work in key sectors and the fulﬁllment of national
+climate change adaptation strategy. Directed by special plan-
+ning, policies have been formulated to potentially deploy and
+implement climate change adaptation in key sectors. Albeit
+promising, the adaptation effect of key sectors is not as distinct
+as adaptation progress. It may boil down to the limited
+consideration to climate change related objectives and priority
+tasks in corresponding special planning, given that most of the
+adaptation work is carried out by a few ministries in a short
+period of time. China's climate change adaptation lacks overall
+deployment and long-term planning, and the adaptation work
+is mainly carried out by relevant ministries rather than
+competent departments, which partly weakens the effect of
+adaptation. Nevertheless, adaptation work carried out by
+relevant ministries has been reviewed and integrated, laying a
+solid foundation for the future work of adaptation to climate
+change (see Fig. 1).
+Fig. 1. Variations of ICCAC in 2010e2018.
+728
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+3.5. Climate change adaptation policy framework
+3.5.1. Policy framework on climate change adaptation
+The annual growth rate of the adaptation policy framework
+index is 77.8% with a scoring rate of 100% in 2018, as China
+has structured a top-level design and special planning frame-
+work since 2010 (Fig. 2). By comparing sectoral adaptation
+planning and national climate change adaptation strategy, it is
+laid bare that many sectors have ﬁrst combined the adaptation-
+related requirements with their statutory duties and later
+formulated sectoral adaptation plans. Moreover, three levels of
+policy goals on climate change adaptation can be identiﬁed
+under the existing planning framework. At the highest level,
+there are overarching goals, such as to comprehensively
+reinforce adaptation by 2020. The mid-level ones are those
+key sector goals, for example, the newly increased area for soil
+erosion control. Speciﬁc action goals come at the lowest level
+to complete the management and policy framework for
+addressing climate change. Notwithstanding the planning
+framework and three levels of goals, the current adaptation
+decision-making process still ignores the assessment of non-
+climate factors, e.g., future risks (Peng et al., 2015).
+3.5.2. Current institutional system
+The pilot system generally plays a pivotal role in China's
+climate change adaptation. The annual growth rate of the
+institutional system index on adaptation is 9.1% with a scoring
+rate of 100% in 2018, implying that China has developed its
+underlying capability to adapt to climate change by practicing
+pilot demonstrations since 2010. China has consecutively
+carried out 100 national water-saving society pilot projects,
+seven water rights pilot projects, and 105 pilot projects of
+National Water Ecological Civilization Cities in recent years.
+To improve urban adaptation, the pilot projects of climate-
+adaptive cities were launched in 2017, with positive progress
+achieved (Peng et al., 2015). Even with the short-term pilot,
+some cities have substantially leveled up their capability to
+confront extreme weather events. Changde, a prefecture-level
+city in Hunan Province, could serve as an instance, as four
+rounds of heavy rainfall during 2016e2019 did not incur
+ﬂooding, casualties, or economic losses in its urban area
+(Feng, 2020). Overall, though the guiding theory and practices
+of building climate-adaptive cities in China are still in the
+phase of exploration, which entails further research, trials, and
+generalization. Besides, no regular evaluation mechanism in
+the institutional design has made it difﬁcult to accurately
+measure the actual progress of pilot projects (Fu et al., 2020a).
+3.5.3. Management system
+The evaluation results suggest that the system construction
+index increases by 4.6% annually and the scoring rate is 100%
+in 2018. Despite little progress made until now, China's system
+construction for addressing climate change has been gradually
+upgraded. A management system characterized by the uniﬁed
+leadership of the National Leading Group on Addressing
+Climate Change of China, centralized management by the
+Ministry of Ecology and Environment of the People's Republic
+of China, and division of responsibilities between relevant
+departments and local governments, has been initiated. After
+Fig. 2. Existing framework of China's climate change adaptation top-level design and sectoral adaptation planning.
+729
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+the institutional reform of the State Council of the People's
+Republic of China in 2018, the climate change division was
+transferred to the newly established eco-environmental sys-
+tem, thus consolidating the collaborative governance over
+climate change and pollution control. With the existing
+progress in urban climate adaptation pilots (Fu et al., 2020a),
+however, there still lacks effective restraints or incentive
+means to make the provincial departments of ecology and
+environment perform their duties more effectively. In addition,
+as departments of ecology and environment and relevant
+functional departments of climate change adaptation are
+administrative units at the same level, it is rather difﬁcult to
+push forward impactful coordination on climate change
+adaptation.
+3.5.4. Supporting mechanism
+The supporting mechanisms for climate change adaptation
+mainly include a funding mechanism, public awareness
+cultivation, risk assessment mechanism, science and technol-
+ogy (S&T) support mechanism, monitoring and early warning
+mechanism, emergency management mechanism, etc. The
+supporting mechanism index, as an aggregated one, grows at
+an annual rate of 12.6% and arrived at a scoring rate of 100%
+in 2018. In speciﬁc, the top-level design on climate change
+adaptation has been gradually developed, adaptation invest-
+ment has accrued, the publicity activities of disaster preven-
+tion and mitigation have remained in place, and the working
+framework of policies, funds, publicity, and education on
+climate change adaptation has initially taken shape.
+Adaptation requires long-term ﬁnancial input (Michele
+et al., 2020). The index evaluation results note that the adap-
+tation input index increases by 16.2% annually and its scoring
+rate of 2018 is 100%, which means that the government in-
+vestment in adaptation keeps accumulating and the capability
+of ﬁnancial support has been constantly elevated. To put it
+concretely, over 2.5 billion CNY was invested in climate
+change adaptation by the Ministry of Science and Technology
+of the People's Republic of China during the 10th Five-Year-
+Plan period. During the 12th Five-Year-Plan period, about
+3.9 trillion CNY was channeled to climate change adaptation.
+In addition, the departmental budget for ‘climate change
+management affairs’ was added in 2015, which further
+strengthened the ﬁnancial mechanism for adaptation. Never-
+theless, funds for adaptation to climate change of China have
+not yet been managed by competent departments of adapta-
+tion, but allocated in the hands of the Ministry of Science and
+Technology, and the Ministry of Finance, etc. The absence of
+long-term work deployment has resulted in inefﬁcient allo-
+cation of limited ﬁnancial resources to adaptation.
+China has paid great attention to the popularization and
+education of public disaster prevention and mitigation. Ac-
+cording to the evaluation results, the adaptation popularization
+index increases by 9.1% annually and its 2018 scoring rate is
+100%, proving that China has carried out science populari-
+zation and various forms of publicity and education activities
+to cultivate the public awareness of disaster prevention and
+mitigation. For instance, May 12 has been set as the national
+day for disaster prevention and mitigation since 2009, and
+October 13 has been taken as the international day for natural
+disaster reduction. Even so, studies have suggested that the
+overall level of popular science education in meteorological
+disaster prevention and mitigation is unsatisfactory (Liu and
+Wang, 2017).
+As for climate change risk assessment, the National
+Assessment Report on Climate Change (PCTNARCC, 2015)
+has comprehensively analyzed the impacts of climate change
+on China, and has completed the risk assessment of agricul-
+ture, water resources, coastal area, etc. Still, the existing
+analysis and research sources appear to be rather scattered. To
+raise an example, different departments issue their risk
+assessment reports at different frequencies and in varied
+forms, somehow hindering decision-makers’ judgment, and
+the formation of uniﬁed decision-making deployment. Mean-
+while, the existing risk assessment is limited to the natural
+ecosystems (forestry, marine, water resources, etc.) and the
+production sectors with high exposure to climate risks (agri-
+culture, animal husbandry, ﬁshery, etc.)
+Evaluation results show no change in basic research and
+adaptation technology promotion index since 2010 and its
+scoring rate to be 100% in 2018. Adaptation-related functional
+departments including the Ministry of Agriculture and Rural
+Affairs, the National Forestry and Grassland Administration,
+and the Ministry of Civil Affairs, have conducted basic
+research, as well as technology popularization and application
+for years. Still, China's adaptation technology is relatively
+dispersed, and there is no systematic adaptation technology
+system for different regions and ﬁelds.
+Evaluation results demonstrate that disaster risk monitoring
+and early warning index increases by 18.9% annually and the
+2018 scoring rate is 100%, which reveals that China's capacity
+of integrated processing of meteorological disaster data in-
+formation and the number of institutions have seen a dramatic
+improvement in recent years. Reﬁned meteorological service
+level and basic support capacity have been further advanced,
+beneﬁting from the strong support of meteorological moni-
+toring and forecasting infrastructure, and scientiﬁc and tech-
+nological capabilities. As proof, the National Emergency Early
+Warning Information Release System has gathered 76 kinds of
+early warning information from 16 departments, therefore the
+timeliness of meteorological disaster warnings could be
+shortened from 10 min to 5e8 min.
+Emergency management is essential for the national
+governance system and its capacity-building. With the emer-
+gency management index rises by 12.1% annually and the
+scoring rate as 100% in 2018, it can be concluded that great
+efforts have been made in the ﬁeld of disaster relief policy,
+emergency response mechanism, disaster relief funds, material
+supervision, and disaster emergency assessment. From 2010 to
+2018, China has launched 265 emergency responses in total
+but, witnessed a downward trend. China has also issued a
+series of disaster emergency management plans since 2010,
+and the composition department of emergency management
+has been ﬁrst established in 2018 by the latest institutional
+reform. Undoubtedly, it will be conducive to the development
+730
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+of a national governance system and capacity-building,
+featured by improved management and tighter regulations.
+3.6. Gaps in adaptation progress of China
+Four vital shortcomings are identiﬁed in China's climate
+change adaptation progress based on the index establishment,
+information collection, and evaluation results of ICCAC.
+3.6.1. Urgently needed effectiveness assessment in forestry
+and urban infrastructure
+Evaluation results illustrate that massive forestry adaptation
+actions have been taken but obtained limited success, with a
+100% scoring rate in actions but only 49.7% in progress for
+the year 2018. Likewise, evaluation results in urban infra-
+structure also point to insufﬁcient action progress, with a
+100% scoring rate in actions but 67.2% in progress for the year
+2018. In the light of such results, it might be imperative to
+evaluate the effectiveness of current adaptation actions in the
+above ﬁelds and to rectify the underlying policy deviation.
+3.6.2. Adjustment of policy structure is imperative in
+marine sector and water resources
+Noticeable policy inclination has been spotted in water
+resources and marine sector. Policy actions for marine sector
+prone to monitoring and reporting, whereas nearly three-
+quarters of policy actions for water resources focus on water
+conservation. Moreover, it is noteworthy that huge internal
+differences among the four indicators are observed during
+evaluation. Indicators A18, A19, and A20 achieve remarkable
+progress with an average annual growth rate above 70%, while
+A21 merely keeps an average annual growth rate below 20%.
+Policy structure adjustments in marine sector and water re-
+sources are thus urgently needed to boost the pertinence of
+adaptation.
+3.6.3. Absence of evaluation criteria for national
+adaptation
+Few indicators of the three layers of the national adaptation
+target system are quantiﬁed, which indubitably affects the
+evaluation method determination of ICCAC. Due to the lack of
+evaluation standards, the index can only be assessed by annual
+progress instead of the target complete rate. Similarly, quali-
+tative indicators, such as A34, A35, and A39, etc., also lack
+accurate periodical progression. Few speciﬁc system and
+institutional indicators are comprised in the target system,
+which might lead to confusion or neglect in adaptation system
+and institutional arrangement.
+3.6.4. The improvement of adaptive management efﬁciency
+has stagnated recently
+The 2018 institutional reform fails to raise the management
+efﬁciency of the competent department on adaptation. The
+identical evaluation results of indicator A35 for the years 2017
+and 2018 can be taken as testimony. Indicator A35 posed an
+annual growth rate of 5.2% from 2010 to 2017 while showed
+zero growth during 2018. Therefore, we believe that the
+institutional reform that happened in 2018 has not contributed
+to the governance efﬁciency improvement of climate change
+adaptation (Sun and Ai, 2019).
+3.6.5. Adaptation works by relevant ministries shall be in
+concordance organized
+Evaluation result of sub-index S2 ﬂuctuates drastically
+during 2010e2018, indicating that the adaptation goals in key
+areas had not been made clear enough. However, sub-index S3
+has been rising at a stable pace during the same period, which
+infers that there might be no positive correlation between S2
+and S3. It further infers that the adaptation actions gathered
+are incomplete. This is probably due to the inaccurate under-
+standing of adaptation by the ministries that provided infor-
+mation to China's Policies and Actions for Addressing Climate
+Change (2011e2019). Through the data collection of A36,
+A38, and A39, it is noted that actions of adaptation funds,
+climate change risk assessment, and adaptation technologies
+are still led by various ministries. The observed inconsistency
+between ministries' adaptation perceptions or actions with the
+national demands could hamper uniﬁed decision-making and
+implementation of adaptation in China (Peng et al., 2015;
+Zhao and Lei, 2019; Ding and Bo, 2020).
+3.7. Suggestions
+Some tentative suggestions are proposed here. 1) Adapta-
+tion work deployment should be implemented in line with the
+target of enhancing the effectiveness of existing policies and
+actions. The above-mentioned index-based assessment offers a
+preliminary result in key sectors, and conducting a consistent
+evaluation of adaptation actions in all key adaptation sectors is
+highly recommended. 2) It is suggested to integrates climate
+change impacts into all sectoral planning decisions. Climate
+risks are cross-ﬁelds, so shall be the adaptation solutions
+(GCA ORG, 2019). Thus, the governing political will is in
+urgent need for mobilizing cross-department coordination. 3)
+According to evaluation results of S1, there is a certain cor-
+relation between adaptation effects and policies. Concrete
+action plans for adaptation should therefore be developed
+following the release of a new national adaptation strategy (Fu
+et al., 2020b). 4) A complete policy framework on climate
+change adaptation shall be established in the long run. Long-
+term ﬁscal investment mechanism and development mode,
+risk monitoring and assessment mechanism, more frequent
+public awareness cultivation, as well as adaptation techno-
+logical systems for different ﬁelds, regions, and levels, are all
+integral parts to be developed for the ultimate policy frame-
+work of climate change adaptation.
+4. Discussion
+By and large, this study frames and introduces the Index for
+Climate Change Adaptation in China (ICCAC) for identifying
+progress and gaps in China's adaptation to climate change. It
+aims to lay a basis for future research to devise evaluation
+tools for China's climate change adaptation. So far, there
+731
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+reﬂect two noteworthy deﬁciencies in present studies on
+climate change adaptation evaluation. One is that most studies
+focus on certain sectors (e.g. agriculture, water resources) or
+speciﬁc ﬁelds (e.g., adaptation strategies, adaptation policies),
+losing sight of the overall national progress that is essential for
+decision-making in climate change adaptation (Zhang et al.
+2015b). Taking this into consideration, this study combines
+the available national policy with the existing studies, pays
+heed to data quality and proposes a rather practical alternative
+for decision-making. The other deﬁciency is that previous
+studies have not put forth effective quantitative evaluation
+tools. Yang et al. (2020) pioneered a national adaptation in-
+dicator system, yet applying no scoring methods to quantita-
+tively assess the adaptation status. A step further, we develop a
+quantitative evaluation index system and complete an index
+assessment based on the widely used the analytic hierarchy
+process method. This study not only acknowledges the prog-
+ress of adaptation that China has achieved, but also pinpoints
+shortcomings of each sub-index and puts forward corre-
+sponding suggestions. Compared to the previous ones, this
+study ﬁnds its originality in both the all-round perspective of
+national adaptation actions and the devised quantitative
+adaptation evaluation tool. This study, to some extent, can ﬁll
+up the deﬁciencies as discussed above. To buttress the
+decision-making of climate change adaptation, this study
+draws some implications from the evaluation results. Since the
+scoring of sub-index S1 plunged sharply in 2013 given the
+occurrence of natural disasters, it attests that China's adapta-
+tion capacity has not been that well consolidated to satisfy
+resilient ends. Meanwhile, considering the scoring of sub-
+index S2 and S3, aside from government actions, China's
+adaptation progress also beneﬁts from the positive actions
+taken by non-government organizations. However, this spec-
+ulation can not be veriﬁed in current research.
+Although this study has grasped some critical ﬁndings, its
+limitations are apparent as well. In the ﬁrst place, for those
+important but unavailable indicators, such as disaster impacts
+on crucial infrastructures (Yang et al., 2020), this study has to
+settle for the second-best. Some indicators shall be devised
+with more speciﬁcity. For instance, indicators for the ﬁeld of
+public health are currently apt to health insurance, yet
+particular attention could be further paid to vulnerable and
+sensitive groups, such as the elderly, children, and those with
+high-risk occupations. A few indicators, however, need extra
+reasoning. Indicator A21, for example, is regarded by some as
+irrelevant to adaptation but is selected here in response to the
+statement of strengthening the construction of water-saving
+society phrased in the national adaptation strategy. Next,
+since different scholars have their own approaches in indicator
+selection and weight setting (Wu et al., 2016; Sekhri et al.,
+2020), and the analytic hierarchy process method would then
+average the experts' scoring, to give clear explanations on the
+weight determination becomes rather difﬁcult. Third, since
+ICCAC is an integrated index, it certainly needs many experts
+who have a comprehensive understanding of China's climate
+change adaptation to participate in weighting determination
+process, rather than experts from various expertise. However,
+the number of comprehensive experts in adaptation is very
+few, weighting determinations could be affected inevitably by
+experts' specialties. Fourth, several indicators are not updated
+annually, such as indicator A9, which is only updated from
+2010 to 2014. Another few are unavailable in certain years.
+Thus, this article deprived the weighting of indicators in
+relevant years, which might also have a minor inﬂuence on the
+evaluation results of relevant sub-indexes, such as A9 from
+2015 to 2018.
+By and large, this study can serve as a stepping stone for
+future studies both on climate change adaptation in China and
+index development. One can improve and optimize the ratio-
+nale and operability of ICCAC from four aspects. First, with
+emerging adaptation related policy documents and the ever-
+growing
+statistical
+system,
+adjusting
+scoring
+standards,
+retooling methods, and updating evaluation indicators would
+become incomparably crucial. Second, indicator selection and
+weight determination are worth pondering over. It might also
+be necessary to conduct in-depth discussions with scholars
+from key adaptation ﬁelds and ofﬁcials from competent au-
+thorities. Third, it is worthwhile to conduct in-depth analysis
+of speciﬁc adaptation policies or sectoral adaptation policies,
+upon which one can propose corresponding evaluation in-
+dicators of each sub-index to improve the research precision
+and accuracy. Fourth, based on the course of each indicator,
+one can apply proper measurement models or certain rules to
+extend the current evaluation to an adaptation pathway
+research. Fifth, for indicators that already have a national
+target, such as A12, A13 and A19, one can consider measuring
+the sequential execution of target, instead of using the 0e1
+standardized method.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This research was supported by the Ministry of Science
+and Technology of China under the project The Design
+of
+Framework
+and
+Mechanisms
+of
+Global
+Stocktake
+(2017YFA0605301). We appreciate two anonymous referees
+for excellent comments and careful guidance. We thank Qin
+Yuanyuan, Research Associate from Department of Interna-
+tional Policy Research, NCSC, for editing the English.
+References
+Arnott, J., Moser, S., Goodrich, K., 2016. Evaluation that counts: a review of
+climate change adaptation indicators & metrics using lessons from effec-
+tive evaluation and science-practice interaction. Environ. Sci. Pol. 66,
+383e392. https://doi.org/10.1016/j.envsci.2016.06.017.
+Bates, S., Angeon, V., Ainouche, A., 2014. The pentagon of vulnerability and
+resilience: a methodological proposal in development economics by using
+graph
+theory.
+Econ.
+Modell.
+42,
+445e453.
+https://doi.org/10.1016/
+j.econmod.2014.07.027.
+Chen, M.P., Sun, F., Pam, B., et al., 2015. Integrated assessment of China's
+adaptive capacity to climate change with a capital approach. Climatic
+Change 28, 367e380. https://doi.org/10.1007/s10584-014-1163-7.
+732
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733
+Chen, T.G., Dong, J., Yan, J.P., et al., 2011. The evaluation of regional adap-
+tation to climatic change: the case study of Xianyang city. Prog. Geogr. 30
+(3), 319e324. https://doi.org/10.11820/dlkxjz.2011.03.009 (Chinese).
+Cutter, S.L., Barnes, L., Berry, M., et al., 2008. A place based model for
+understanding community resilience to natural disasters. Global Environ.
+Change 18 (4), 598e606. https://doi.org/10.1016/j.gloenvcha.2008.07.013.
+Ding, Q., Bo, Q.H., 2020. International experience in informatization con-
+struction of emergency management system. China Telecom. Trade (2),
+73e76 (Chinese).
+Dong, X., Jiang, L.K., Zeng, S.Y., et al., 2020. Vulnerability of urban water
+infrastructures to climate change at city level. Resour. Conserv. Recycl.
+161, 104918. https://doi.org/10.1016/j.resconrec.2020.104918.
+Du, Y.D., Wang, X.W., Yang, X.F., et al., 2013. Impacts of climate change on
+human health and adaptation strategies in South China. Adv. Clim. Change
+Res. 4 (4), 208e214. https://doi.org/10.3724/sp.j.1248.2013.208.
+Edward, N., Chao, R., 2018. China's adaptation to climate & urban climatic
+changes: a critical review. Urban Clim 23, 352e372. https://doi.org/
+10.1016/j.uclim.2017.07.006.
+Feng, A.Q., Chao, Q.C., 2020. An overview of assessment methods and
+analysis for climate change risk in China. Phys. Chem. Earth 117, 102861.
+https://doi.org/10.1016/j.pce.2020.102861.
+Feng, X.P., 2020. Effect and enlightenment of sponge city construction in
+Changde city. Environ. Ecol. 2 (Z1), 69e73 (Chinese).
+Fu, L., Cao, Y., Yang, X., 2020a. Progress analysis and policy recommendation
+on climate adaptation city pilots in China. Clim. Chang. Res. 16 (6),
+770e774 (Chinese).
+Fu, L., Zhou, Z.Y., Yang, X., 2020b. Experience and enlightenment on policy
+mechanisms for the international adaptation to climate change. Clim.
+Chang. Res. 16 (5), 641e651 (Chinese).
+Gca Org, 2019. Adapt now: a global call for leadership on climate resilience.
+https://gca.org/global-commission-on-adaptation/report
+(accessed
+26
+October 2020).
+IPCC, 2018. Global warming of 1.5 C. https://www.ipcc.ch/sr15/ (accessed
+26 October 2020).
+Jiao, N.Z., Chen, D.K., Luo, Y.M., et al., 2015. Climate change and anthro-
+pogenic impacts on marine ecosystems and countermeasures in China.
+Adv.
+Clim.
+Change
+Res.
+6
+(2),
+118e125.
+https://doi.org/10.1016/
+j.accre.2015.09.010.
+Liang, L., Deng, X.Z., Wang, P., et al., 2020. Assessment of the impact of
+climate change on cities livability in China. Sci. Total Environ. 726, 1e11.
+https://doi.org/10.1016/j.scitotenv.2020.138339.
+Liu, B., Wang, H.B., 2017. Current situation, countermeasures and develop-
+ment suggestions of popular science education of meteorological disaster
+prevention and mitigation in China. Sci. & Techno. Vis. 10, 12e13. https://
+doi.org/10.19694/j.cnki.issn2095-2457.2017.10.007 (Chinese).
+Liu, X.F., Qu, J.S., Liu, L.N., et al., 2019a. Research on the assessment of
+urban climate change adaptation capability in western China. Ecol. Econ.
+35 (4), 104e110 (Chinese).
+Liu, Y.F., 2015. Index system of adaptive capacity for city water resources to
+climate change: a case study of Beijing. Beijing University of Civil En-
+gineering and Architecture, doctoral dissertation (Chinese).
+Liu, Z.Y., Chen, P., Liu, W.J., 2019b. Development and effectiveness of
+disaster emergency management in China since the founding of New
+China. Studies on Party and Government, pp. 28e36. https://doi.org/
+10.13903/j.cnki.cn51-1575/d.20190124.001 (Chinese).
+Marco, G., Andreas, W., Lucie, M.V., 2011. Governing climate change adap-
+tation in the EU and China: an analysis of formal institutions. Adv. Clim.
+Change Res. 2 (1), 1e11. https://doi.org/10.3724/SP.J.1248.2011.00001.
+Michele, C., Lorenzo, F., Emilia, P., 2020. Climate change adaptation: the role
+of ﬁscal policy. Resour. Energy Econ. 59, 1e19. https://doi.org/10.1016/
+j.reseneeco.2019.07.005.
+PCTNARCC (Preparation Committee of the third National Assessment Report
+on Climate Change), 2015. The Third National Assessment Report on
+Climate Change. Science Press, Beijing (Chinese).
+Peng, S.Z., He, X.J., Zhang, J.T., et al., 2015. Current status, problems and
+recommendations on climate change adaptation policies in China. China
+Popul. Resour. & Environ. 25 (9), 1e7 (Chinese).
+Sekhri, S., Kumar, P., Furst, C., et al., 2020. Mountain speciﬁc multi-
+hazard risk management framework (MSMRMF): assessment and
+mitigation of multi-hazard and climate change risk in the Indian Hi-
+malayan Region. Ecol. Indicat. 118, 106700. https://doi.org/10.1016/
+j.ecolind.2020.106700.
+Sun, Y., Ai, G.Y., 2019. Problems and suggestions on China's work of
+addressing climate change in the new period. Environment and develop-
+ment
+31
+(10),
+221e223.
+https://doi.org/10.16647/j.cnki.cn15-1369/
+X.2019.10.122 (Chinese).
+Tao, S.C., Xu, Y.L., Liu, K., et al., 2011. Research progress in agricultural
+vulnerability to climate change. Adv. Clim. Change Res. 2 (4), 203e210.
+https://doi.org/10.3724/SP.J.1248.2011.00203.
+Wang, M.Q., Wang, X.H., Zhou, R., et al., 2020. An indicator framework to
+evaluate the Blue Bay remediation project in China. Reg. Stud. Mar. Sci.
+38, 101394. https://doi.org/10.1016/j.rsma.2020.101349.
+Wu, T., Hou, X.Y., Chen, Q., 2016. Coastal economic vulnerability to sea level
+rise of Bohai Rim in China. Nat. Hazards 80, 1231e1241. https://doi.org/
+10.1007/s11069-015-2020-3.
+Wu, X.Y., 2019. The construction of evaluation index system for urban
+adaptability
+to
+climate
+change.
+Modern
+Enterprise
+(10),
+93e94
+(Chinese).
+Yan, Z.W., Wang, J., Xia, J.J., et al., 2016. Review of recent studies of the
+climatic effects of urbanization in China. Adv. Clim. Change Res. 7 (3),
+154e168. https://doi.org/10.1016/j.accre.2016.09.003.
+Yang, X., Fu, L., Zhang, D.Y., 2020. Construction and application of
+evaluation index system Adapted to climate change. Yuejiang Acad. J.
+12 (2), 83e98þ130. https://doi.org/10.13878/j.cnki.yjxk.2020.02.008
+(Chinese).
+Yang, X.L., Gu, L.S., Zhao, Y., et al., 2017. Dynamic change of frequency and
+disaggregate approach of inﬂuencing factors of environmental pollution
+accidents in the Yangtze River Basin. Reform & Opening (13), 77e79.
+https://doi.org/10.16653/j.cnki.32-1034/f.2017.013.035 (Chinese).
+Zhang, F.X., Lin, X.F., 2018. Quantitative analysis of China's climate change
+policy text from 2007 to 2016. Reform & Opening 3, 96e99, 109. https://
+doi.org/10.16653/j.cnki.32-1034/f.2018.003.040 (Chinese).
+Zhang, J.Z., Liu, Y.F., Ma, W.L., et al., 2015a. Index system of adaptive ca-
+pacity for city water resources to climate change: a case study of Beijing. J.
+B. Univ. Civil Eng. Architecture 31 (2), 43e48. https://doi.org/10.3969/
+j.issn.1004-6011.2015.02.009 (Chinese).
+Zhang, X.Y., He, X.J., Sun, F., 2015b. Assessment on climate change adap-
+tation policies in China. China pop. Resour. Environ. 25 (9), 8e12
+(Chinese).
+Zhao, H.Y., Guo, J.Q., Zhang, C.J., et al., 2014. Climate change impacts and
+adaptation strategies in Northwest China. Adv. Clim. Change Res. 5 (1),
+7e16. https://doi.org/10.3724/SP.J.1248.2014.007.
+Zhao, L., Lei, D.F., 2019. Study on the early warning mechanism of meteo-
+rological disasters. Friends of Farmers to Become Rich, p. 227 (Chinese).
+Zhao, X.Q., 2020. Study of the city's climate vulnerability assessment and
+adaptability in Inner Mongolia. Inner Mongolia University, doctoral
+dissertation. https://doi.org/10.27224/d.cnki.gnmdu.2020.000638 (Chinese).
+Zhu, Q.T., Liu, Z.M., Tang, J.Y., et al., 2020. Construction and evaluation of
+climate change adaptation index system in Beijing, Tianjin and Hebei.
+Innov. Sci. Techno. 20 (1), 53e61. https://doi.org/10.19345/j.cxkj.1671-
+0037.2020.01.007 (Chinese).
+733
+FU L. et al. / Advances in Climate Change Research 12 (2021) 723e733

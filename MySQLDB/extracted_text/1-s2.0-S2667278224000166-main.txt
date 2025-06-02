@@ -1,0 +1,869 @@
+Review
+The impact of climate change on respiratory care: A scoping review
+Jacqueline R. Lewya, Amani N. Karima, Christian L. Lokotolab, Carol Shannonc,
+Hallie C. Prescottd,e,f, Mary B. Riceg, Kari C. Nadeauh, Hari M. Shankari, Alexander S. Rabind,e,*
+a University of Michigan Medical School, Ann Arbor, MI, USA
+b Stellenbosch University, Division of Family Medicine, Department of Family and Emergency Medicine, Cape Town, South Africa
+c Taubman Health Sciences Library, University of Michigan, Ann Arbor, MI, USA
+d Division of Pulmonary and Critical Care Medicine, University of Michigan, Ann Arbor, MI, USA
+e Pulmonary Section, Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, MI, USA
+f Veterans Affairs Center for Clinical Management Research, Ann Arbor, MI, USA
+g Division of Pulmonary, Critical Care and Sleep Medicine, Beth Israel Deaconess Medical Center, Boston, MA, USA
+h Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+i Division of Pulmonary, Allergy and Critical Care, Department of Medicine, University of Pennsylvania, Philadelphia, PA, USA
+A R T I C L E
+I N F O
+Article History:
+Received 17 January 2024
+Accepted 27 March 2024
+Available online 4 April 2024
+A B S T R A C T
+Background: Fossil fuel combustion and climate change are endangering respiratory health. As these threats
+increase, healthcare delivery systems must adapt and build resilience. In this scoping review, we aim to
+assess the current landscape of respiratory care impacts from climate change, identifying priorities for future
+study.
+Methods: We performed a scoping review of scientiﬁc and gray literature, and selected institutional websites,
+to understand the impacts of climate change on respiratory healthcare.
+Results: Medline, Embase, Scopus, Cochrane Library, Lens.org, and Google Scholar were searched from data-
+base inception through 28 July 2023. The initial search yielded 1207 unique articles. Of the 67 articles identi-
+ﬁed as relevant to the impacts of climate change on respiratory care, 50 (74.6 %) had been published
+between 2020 and 2023. The most studied climate change and severe weather exposures were extreme heat
+(n = 31, 46.3 %), particulate matter not from wildﬁres (n = 22, 32.8 %), and wildﬁres (n = 19, 28.4 %). Respira-
+tory-related hospital admissions (n = 33, 49.3 %) and emergency department visits (n = 24, 35.8 %) were the
+most common study outcomes. Few studies identiﬁed potential impacts on telehealth services, facility
+energy distribution, and pharmaceutical supplies.
+Discussion: Climate change is projected to increase respiratory-related emergency department visits and hos-
+pital admissions. Limited research is available on current and projected economic costs, infrastructure effects,
+and supply chain impacts. While climate change and extreme weather are increasing strain on respiratory
+care systems, additional work is needed to develop evidence-based strategies for climate adaptation.
+Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC license
+(http://creativecommons.org/licenses/by-nc/4.0/)
+Keywords:
+Respiratory care
+Climate change
+Emergency department
+Hospital admission
+Healthcare delivery
+Introduction
+Climate change has wide-ranging, deleterious effects on respira-
+tory health. The combustion of fossil fuels results in direct health
+impacts through the release of ﬁne particulate matter and other
+respiratory disease-promoting factors [1]. Fossil fuel pollution exerts
+further stress on the human respiratory system by driving anthropo-
+genic climate change. Extreme weather events, made more common
+in a warming world, including prolonged and intense heat waves [2],
+expansive droughts [3], profuse wildﬁres [4], and earlier and more
+intense allergy seasons [5], endanger the lung health of adults and
+children. These threats are of particular concern for populations
+already shown to be most vulnerable to the effects of climate change,
+including children [6], pregnant people [6], the elderly [7], patients
+with pre-existing lung disease [8], and those who have experienced
+the consequences of historic economic and/or systemic injustices [9].
+While the public health impacts of air pollution (e.g., ﬁne particu-
+late matter) and extreme climate change-exacerbated events (e.g.,
+wildﬁres) on respiratory health and mortality have been extensively
+studied and reviewed [1,10−12], the effects of climate change on
+respiratory healthcare delivery have not. To adequately respond to
+the climate crisis, patients, providers, and health systems must
+develop evidence-based solutions to reduce respiratory-related mor-
+bidity and mortality. Healthcare systems frequently provide the last
+* Corresponding author at: Pulmonary Section, Veterans Affairs Ann Arbor Health-
+care System, 2215 Fuller Road, Ann Arbor, MI 48105, USA.
+E-mail address: Alexander.Rabin@va.gov (A.S. Rabin).
+https://doi.org/10.1016/j.joclim.2024.100313
+2667-2782/Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/)
+The Journal of Climate Change and Health 17 (2024) 100313
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+line of defense for climate-related health emergencies, offering ref-
+uge to patients suffering the acute effects of poor air quality, severe
+heat, ﬂooding, and other extreme weather events. It is therefore
+important to understand how care providers have experienced cli-
+mate change, how they are adapting, and what innovations are wor-
+thy of further study and investment to protect respiratory health in a
+changing world.
+Methods
+Aims and research questions
+This scoping review aims to understand how respiratory care sys-
+tems worldwide experience the effects of climate change and
+extreme weather by answering the following research questions:
+ What are the key respiratory care delivery outcomes related to cli-
+mate change, and how are these impacts measured?
+ What evidence exists to improve climate adaptation and infra-
+structure “hardening” (i.e., building resilience to extreme weather
+and other natural disasters)?
+ Where are the greatest gaps in the literature, and which popula-
+tions or geographical locations demand urgent attention and
+future investigation?
+Study protocol and search strategy
+An experienced health sciences librarian (C.S.) generated search
+terms based on six sentinel articles [13−18]. Reference tracking was
+performed in Scopus. The original search strategies were developed
+in PubMed and translated as appropriate to the other databases using
+the Systematic Review Accelerator Polyglot tool [19]:
+((lung neoplasms[mh] OR "lung cancer*"[tw]) OR "pulmonary dis-
+ease, chronic obstructive"[mh] OR "pulmonary disease*"[tw] OR
+"respiratory
+disease*"[tw]
+OR
+"asthma"[tw])
+AND
+("climate
+change"[mh] OR "climate change"[tw] OR extreme weather[mh] OR
+"extreme weather"[tw] OR "global warming"[tw]) AND (health care
+[tw] OR "health care"[tw] OR delivery of healthcare[mh] OR "Patient
+Care Management"[mh] OR mitigation[tw] OR attitude to health[mh]
+OR awareness[mh] OR awareness[tw] OR education[mh] OR educa-
+tion[tw] OR "percep*"[tw] OR polic*[tw] OR knowledg*[tw])
+A systematic search of MEDLINE (PubMed), EMBASE (Embase.
+com), Scopus (Elsevier), and Cochrane Library - CENTRAL, was con-
+ducted from the time of inception of each database to identify articles
+addressing the impact of climate change on respiratory care. Gray lit-
+erature was identiﬁed by searching Google Scholar @ UM (the ﬁrst
+200 results were selected and screened), Lens.org, and selected insti-
+tutional websites (US Centers for Disease Control and Prevention,
+World Health Organization (WHO), and The Lancet) were searched
+manually [20]. Findings are reported according to the PRISMA Exten-
+sion for Scoping Reviews (PRISMA-ScR): Checklist and Explanation
+[21].
+All searches were completed by 23 August 2023. Citations were
+imported into EndNote 21 (Thomson Reuters, New York, NY) for
+deduplication (with the exception of records from Lens, which were
+directly imported into Covidence), then exported into Covidence [22]
+for further deduplication and analysis.
+For full details of the search strategy, please see the Supplemen-
+tary Appendix A.1.
+Eligibility criteria
+Peer-reviewed
+quantitative,
+qualitative,
+and
+mixed-methods
+studies, as well as reviews published from database inception
+through 28 July 2023 were considered for inclusion. Articles in
+English, French, and Russian were eligible for inclusion (languages
+selected based upon the native ﬂuency of the author group). The
+included articles were required to address the effects of climate
+change or extreme weather on respiratory care. Respiratory care was
+broadly deﬁned to include (1) hospital care, (2) emergency depart-
+ment (ED), or (3) ambulatory clinic care for respiratory illness; (4)
+respiratory medication procurement or supply chain delivery of
+durable medical equipment; (5) telehealth; and (6) any other aspect
+of healthcare delivery that could be viewed as relevant to patients
+with respiratory disease (e.g., pulmonary function testing, pulmonary
+rehabilitation, insurance coverage, cost, and quality and safety meas-
+ures) [23].
+Articles were excluded that did not investigate a climate change-
+driven event or extreme weather exposure or if there were no perti-
+nent respiratory care outcomes. Commentaries, editorials, case
+reports, and opinion pieces were also excluded.
+Data extraction and analysis
+A single reviewer (A.S.R.) completed a title and abstract review to
+identify relevant literature. Two authors (J.R.L. and A.S.R.) then com-
+pleted a full-text review. When there was a discrepancy in adjudica-
+tion, a conversation was initiated between authors to determine
+eligibility, and in every instance, consensus was achieved for ﬁnal
+inclusion. Single-reviewer data extraction was then completed by
+two authors (J.R.L. and A.N.K.) with oversight provided by the senior
+author (A.S.R.). The author group sorted articles to identify major
+themes according to descriptors and ﬁndings to generate a thematic
+synthesis [24−26].
+Results
+An initial search yielded 1271 articles. Of these, 64 duplicates
+were removed. After title and abstract screening, 720 articles were
+deemed irrelevant. The remaining 487 full-text studies were assessed
+for eligibility, of which 420 studies were excluded. The most common
+reason for exclusion was that the outcomes measured did not relate
+to respiratory care (n = 343). A total of 67 studies were included for
+data extraction (Supplementary Table A.1.), of which 50 studies
+(74.6 %) were published between 2020 and 2023. The article selection
+process is shown in the Preferred Reporting Items for Systematic
+reviews and Meta-Analyses (PRISMA) ﬂow diagram (Fig. 1) as well as
+a summary of study ﬁndings (Table 1).
+Respiratory healthcare utilization
+Climate change-related respiratory healthcare utilization was
+measured principally in terms of acute care (ED visits and hospital
+admissions), with 70.1 % of the reviewed articles adopting one or
+both as primary endpoints (Fig. 2).
+Although not all studies met thresholds for statistical signiﬁcance,
+studies conducted in different populations and geographies generally
+found that extreme heat was associated with higher odds of respira-
+tory-related acute care visits [27−32]. In a case-crossover study of
+chronic obstructive pulmonary disease (COPD) hospitalizations in
+England from 2007 to 2018, every 1 °C rise in temperature above
+23.2 °C was associated with a 1.47 % increase in hospitalization (95 %
+Credible Interval 1.19−1.73) [33]. Similarly, in the US state of Alaska,
+a heat index threshold above 21.1 °C (70°F) increased the odds of ED
+utilization, while ED visits for both asthma and pneumonia were
+highest the day after a heat event [34].
+The effects of wildﬁre smoke and air pollution similarly showed
+consistent trends toward increased acute care utilization for respira-
+tory causes. A 2016 review article by Reid et al. on the health impacts
+of wildﬁre smoke identiﬁed a number of prior studies showing
+increases in ED visits and hospitalizations [35]. More recent research
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+2
+bolstered these ﬁndings, including an Australian study of that coun-
+try’s 2019−20 bushﬁre season that demonstrated a 6 % (95 % empiri-
+cal Conﬁdence Interval [CI] 1.9−10.3) increase in ED visits for
+respiratory diseases in regions of the country with lower markers of
+socioeconomic status and high ﬁre density [36].
+Among the studies examining emergency medical service (i.e.,
+ambulance) utilization, there was evidence of increased utilization
+during extreme cold and heat. Sangkharat et al. found that extreme
+cold temperatures (less than 0 °C) in London, UK were associated
+with more ambulance dispatches for asthma, dyspnea, and respira-
+tory infections, with the relative risk (RR) ranging from 1.39 (95 %CI
+1.16−1.70) for asthma to 2.08 (95 %CI 1.67−2.57) for respiratory
+infections. Meanwhile, extreme heat (greater than 22.8 °C) was
+associated with increased ambulance calls for exacerbations of COPD
+(RR = 1.27, 95 %CI 1.18−1.36) [37]. Another study demonstrated that
+immediate exposure (within one hour) to a 10 mg/m3 increase in ﬁne
+particulate matter (PM2.5) during wildﬁre season was associated with
+more frequent ambulance dispatches for respiratory conditions [38].
+A more recent systematic review and meta-analysis of ambulance
+dispatches showed that for every 5 °C increase in mean temperature,
+the use of ambulance services increased for all-cause diagnoses and
+for cardiovascular disease, but not for respiratory-related diagnoses
+[39]. However, the authors identiﬁed potential biases, including pos-
+sible misclassiﬁcation of respiratory disease.
+Only one study investigated the impact of heat on primary care
+visits for respiratory-related diseases. Vashishtha et al. analyzed
+Fig. 1. Flow diagram of study selection
+PRISMA diagram demonstrates the selection of studies included in the scoping review.
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+3
+outpatient visits for heat-related illnesses, including respiratory dis-
+ease, during six heat wave events in southern California, US between
+2012 and 2016 and found no signiﬁcant relationship between heat
+and ambulatory care utilization as measured by assignment of a
+heat-related diagnosis code (adjusted odds ratio [OR] 1.35, 95 %CI
+0.86−1.36, p = 0.51) [40].
+Respiratory disease-related healthcare costs
+Future projections of healthcare costs attributable to climate
+change were limited, although several analyses suggested the
+likelihood of increased healthcare costs related to respiratory illness-
+related acute care in a warming climate. In a 2012 study, Lin et al.
+estimated that heat-related admissions for respiratory disease in the
+US state of New York would likely rise two to six fold by 2080−2090
+compared to a 1991−2004 baseline [28]. In a separate study, costs of
+respiratory-related care were similarly projected to rise in the west-
+ern United States owing to increasingly severe wildﬁre events [41]. A
+simulation study predicted that climate change-driven temperature
+increases in Australia could result in a 140 % increase in respiratory
+disease-related hospitalization costs by the 2050s [42].
+Effects on select and vulnerable populations and geographic distribution
+Of the 67 studies reviewed, 53 examined the effects of extreme
+weather on speciﬁc demographic groups. A series of studies showed
+that elderly populations were more affected by adverse weather
+events, as supported by increased ED visits [43], hospitalizations dur-
+ing times of high temperature variability [44], and prolonged heat
+wave duration [27]. In a nationwide time-series study of wildﬁre
+smoke-related hospital admissions from 2000 to 15 in Brazil, Ye at al.
+demonstrated that the very young and the old were at highest risk
+for all-cause hospital admission (RR 4.88, 95 %CI 4.47−5.28 for ages ≤
+4, RR 3.70, 95 %CI 3.2−4.2 for ages ≥80 vs. RR 0.83, 95 %CI 0.44−1.23
+for ages 30−39) [45]. The same study showed that for every 10 mg/
+m3 increase in wildﬁre-related PM2.5, there was a 5 % (95 %CI 4.73
+−5.44) increase in respiratory-related hospital admissions [45]. Other
+isolated effects of climate change appeared to occur independently of
+age. Among those seeking ED care for asthma on thunderstorm days
+with heavy precipitation and cool temperatures in Louisiana, for
+instance, the risk of exacerbation was higher among children com-
+pared to adults (RR 1.27, 95 %CI 1.06−1.53); the association with age
+did not carry over to non-thunderstorm days with heavy daily pre-
+cipitation [46].
+Among seven studies that focused on children [6,32,47−51],
+researchers identiﬁed those under the age of 18, and especially those
+under the age of 5 [51], to be at increased risk for climate-related
+respiratory exacerbations. The varied climatological exposures stud-
+ied included heavy precipitation [49]; drought [48]; wildﬁres
+[45,51,52]; temperature, humidity, and air pollution [32,50]; and
+aeroallergens [47]. Extremes of precipitation presented challenges to
+children’s respiratory health: heavy precipitation was associated
+with 11 % higher odds (95 %CI 1.02−1.21) of asthma exacerbation
+resulting in outpatient and inpatient acute care compared to non-
+precipitation days in the US [49]. In the Brazilian Amazon, a 2010
+drought was linked to wide-ranging increases in pediatric hospital-
+izations (1.2−267 %) in a large proportion of affected municipalities
+compared to the region’s 10-year mean [48]. The risk of hospitaliza-
+tion was in part believed to result from aerosolized particulate matter
+generated from a variety of human-exacerbated changes, including
+land use conversion [48].
+Ten articles noted differences in healthcare utilization based on
+race, ethnicity, and underlying disabilities among communities
+known to suffer disparate pulmonary health outcomes [9]. Some
+studies examined the disparate effects of speciﬁc natural disasters on
+vulnerable populations. For example, a survey of non-Hispanic black
+residents of Houston, Texas found higher odds of post-traumatic
+stress following Hurricane Harvey (OR 5.03, 95 %CI 1.90−13.10) and a
+non-signiﬁcant trend toward decreased healthcare access (OR 1.57,
+95 %CI 0.79−3.12); residents with a disability were signiﬁcantly more
+likely to face challenges accessing healthcare than those who did not
+have a disability (OR 3.19, 95 %CI 1.37−7.45) [53]. Severe wildﬁres in
+the Canadian subarctic during the summer of 2014 also dispropor-
+tionately affected the healthcare utilization of indigenous peoples
+[54], while infrastructure deﬁciencies and debt linked to longtime
+political marginalization likely contributed to the disastrous after-
+math of Hurricane Maria in Puerto Rico [55].
+Table 1
+Summary of included studies.
+N (%) of studies
+Year of publication
+Prior to 2000
+0 (0 %)
+2000−2009
+3 (4.5 %)
+2010−2019
+14 (20.9 %)
+2020−2023
+50 (74.6 %)
+WHO Region
+African
+2 (3.0 %)
+Americas
+29 (43.3 %)
+South-East Asia
+4 (6.0 %)
+European
+8 (11.9 %)
+Eastern Mediterranean
+0 (0 %)
+Western Paciﬁc
+12 (17.9 %)
+Multiple Regions
+12 (17.9 %)
+Primary Exposure (studies may be counted more than once if
+there were multiple primary exposures)
+Temperature - heat
+31 (46.3 %)
+Temperature - cold
+8 (11.9 %)
+Wildﬁres
+19 (28.4 %)
+Hurricanes
+8 (11.9 %)
+Thunderstorms
+4 (6.0 %)
+Temperature variability
+7 (10.4 %)
+Particulate matter (not primarily from wildﬁres)
+22 (32.8 %)
+Other
+15 (22.4 %)
+Primary outcome (studies may be counted more than once if
+there were multiple primary outcomes)
+Hospital Admission
+33 (49.3 %)
+Emergency Department Visit
+24 (35.8 %)
+Other Healthcare Utilization*
+20 (29.9 %)
+Health Outcomesy
+13 (19.4 %)
+Otherz
+5 (7.5 %)
+* Other healthcare utilization includes ambulance dispatches, costs, outpatient vis-
+its, and prescriptions.
+y Health outcomes include mortality and other measures of illness severity.
+z Other includes social disparities of health, clinical practice recommendations, and
+healthcare system recommendations.
+Fig. 2. Primary outcomes of included studies
+Hospital admissions and emergency department visits constituted the largest
+share of primary study outcomes. N.B. Studies may be counted more than once if there
+were multiple primary outcomes. *Other healthcare utilization includes ambulance
+dispatches, costs, outpatient visits, and prescriptions. yHealth outcomes include mor-
+tality and other measures of illness severity. zOther includes social disparities of health,
+clinical practice recommendations, and healthcare system recommendations.
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+4
+The geographic representation of authors and study locations was
+not representative of the global population. While most studies
+focused on North America, Europe, China, and southeast Asia, there
+was a paucity of studies from South American, Caribbean, African,
+and Asian countries. Of the ﬁve articles from South America, four
+originated from Brazil and one from Chile. There were only two
+papers examining the Caribbean region and two from the African
+continent; among the latter group, both were speciﬁc to the country
+of South Africa. In addition, review papers included in our analysis
+were often limited to an examination of English-speaking countries,
+excluding large swaths of the globe most vulnerable to the effects of
+climate change [56].
+The role of telehealth
+The scoping review found very few studies examining the rela-
+tionship between climate-related exposures and telehealth services
+and accessibility, or the inﬂuence of extreme weather on access to
+high-speed internet and electricity for respiratory care. Only one
+included paper evaluated climate-related exposures and telemedi-
+cine: In a trial of 62 patients in Germany with COPD experiencing
+“heat stress days” (i.e., days when the maximal temperature was
+greater than 25 °C), investigators randomized patients to tele-moni-
+toring (including COPD clinical assessment, daily lung function, and
+weekly 6-minute walk testing) versus usual care. The trial showed
+that over the 9-month study period, patients undergoing tele-moni-
+toring had fewer COPD exacerbations (7 vs. 22, p = 0.01), shorter
+cumulative hospital stays (34 vs. 97 days), and fewer specialist con-
+sultations (24 vs. 42, p = 0.04) as compared to controls [57].
+Power outages and adverse respiratory health outcomes
+It is known that climate change and adverse weather events affect
+critical infrastructure needed for healthcare delivery. Power grids
+supplying electricity essential to hospital operations are at elevated
+risk during wildﬁres, droughts, and other extreme weather events
+[58]. Although one study included in the review showed that power
+outages in New York City were associated with higher rates of COPD-
+related hospital admission (RR 1.61, 95 %CI 1.05−2.48 at day two fol-
+lowing power outage) [59], there was scant additional evidence
+exploring the effects of prior or projected future extreme events on
+respiratory care.
+Effects on respiratory medication supply chains
+While two studies commented on the need for healthcare pro-
+viders to ensure proper respiratory home medication supply in prep-
+aration for extreme heat events and/or poor air quality days [60,61],
+we did not uncover any primary research of climate change effects
+on respiratory medication supply or drug distribution. Many articles
+highlighted increased rescue medication utilization during extreme
+weather events, including a positive association between exposure to
+wildﬁre-related ﬁne particulate matter and salbutamol dispensations
+(RR 1.06 95 %CI 1.04−1.07 for every 10 mg/m3 increase in wildﬁre-
+related PM2.5) [62]. In addition, one included scoping review under-
+scored the risks of extreme weather to medication access following
+disasters such as hurricanes [63].
+The practice of respiratory medicine in a changing climate
+Four publications examined the effects of climate change on the
+practice of respiratory medicine, including the importance of educat-
+ing at-risk populations. George et al. explored how nurses can play a
+role in mitigating climate change by focusing research efforts on the
+effects of climate change while educating patients on planetary
+health [18]. Further, Balakrishnan et al. summarized the climate
+effects on respiratory healthcare with the aim of building climate lit-
+eracy among pulmonary providers [13].
+Adaptation for the future
+Very limited research on respiratory care system adaptation was
+identiﬁed. One exception was a pilot study of training on personal
+protective equipment use (e.g., N95 respirators) in the aftermath of
+Hurricane Harvey in 2017 [64]. Researchers noted a high incidence of
+respiratory symptoms in the weeks following the ﬂooding disaster,
+as well as high respirator utilization (98 %) [64]. Yet similar studies
+addressing health system resilience were generally lacking, with the
+included reviews consistently underscoring a lack of data on climate-
+disaster preparedness [60].
+Discussion
+This scoping review of respiratory healthcare impacts from cli-
+mate change and extreme weather shows that patients, and espe-
+cially vulnerable populations such as children and the elderly, are
+experiencing adverse respiratory health outcomes. These negative
+effects risk stressing under-resourced care delivery systems. Respira-
+tory healthcare utilization, as measured by ED visits and hospitaliza-
+tions, has increased. These impacts have been driven primarily by
+extreme weather events, including severe heat waves, wildﬁres, hur-
+ricanes, drought—and to a lesser extent extreme cold and ﬂoods.
+Nonetheless, our review highlights the vast knowledge gaps per-
+taining to respiratory disease management and health system adap-
+tation in a changing climate. Most of the literature identiﬁed in this
+ﬁeld has focused narrowly on acute, hospital-based care for cli-
+mate-related respiratory health, with relatively little attention
+paid to the effects of climate change on primary care for respira-
+tory illness or pre-hospital care. In addition, while previous work
+has shown an increased need for acute bronchodilator medication
+dispensation during wildﬁre smoke events [62,65] and increased
+demand for all respiratory medications during short-term expo-
+sure to extreme heat or cold [66], we did not identify any litera-
+ture examining the effects of climate change on medication
+distribution or pharmacy operations, which are basic necessities
+of respiratory disease management.
+Another key ﬁnding of this review was the scarcity of published
+research originating from large swaths of the Global South that are
+expected to confront the worst effects of climate change [56]. Areas
+of the developing world that have contributed the least to climate
+effects now also face increasingly severe weather and climate effects
+without the research or healthcare resources necessary to bolster
+healthcare systems [67]. This is of particular concern for respiratory
+disease management, as, worldwide, the WHO estimates that out-
+door air pollution results in over four million excess deaths per year
+[68].
+Despite the large content areas in need of scientiﬁc exploration,
+the increase in the number of reports generated on the topics of
+respiratory health and climate change in recent years has been nota-
+ble. A growing number of physician viewpoints and policy perspec-
+tives, although excluded from the present scoping review, highlight
+the increased awareness of climate change among respiratory care
+providers [69,70]. Still, scientiﬁc study of respiratory disease out-
+comes, economic costs, and innovations in climate resilience and
+adaptation are urgently needed to bolster healthcare systems as cli-
+mate change increasingly threatens care delivery.
+Strengths and weaknesses
+Strengths of our approach included the broad literature search
+comprising any aspect of respiratory healthcare that could be affected
+by climate change (performed using six databases, including a gray
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+5
+literature search). Over 1000 papers were considered in multiple lan-
+guages, and our multi-disciplinary review team included an experi-
+enced health sciences librarian.
+The targeted approach of our article inclusion process, focusing on
+climate change-related exposures (as opposed to weather impacts
+alone) and healthcare delivery outcomes, may have led to the exclu-
+sion of a substantial body of literature connecting respiratory care to
+climate change. This was evident upon further examination of review
+papers, including those by Reid et al. [35], showing that a number of
+cited articles on climate change-related respiratory health outcomes
+had been omitted from the present review [71]. As the primary focus
+of the article was to identify novel aspects of respiratory care delivery
+rather than to re-examine known epidemiological associations, we
+felt that these gaps did not substantially deter from the cumulative
+ﬁndings of the paper. In addition, the study may have been subject to
+misclassiﬁcation bias as respiratory-related outcomes frequently
+overlapped with cardiac or other organ-system outcomes. Future
+reviews may consider adopting knowledge maps to minimize the
+impact of such bias. Consistent with previously described scoping
+review methodology [26], we did not perform a quality assessment
+of the included articles. The inclusion of lower-quality studies may
+limit the strength of our conclusions.
+Future directions
+The scoping review has identiﬁed several key areas for future
+research to better elucidate the effects of climate change on respira-
+tory care:
+1. Understudied populations: Africa, South America, the Caribbean,
+and large portions of Asia, stand out as vastly under-researched
+geographies. Many healthcare systems in these areas of the Global
+South are likely to experience the worst impacts of climate
+change, yet they remain understudied and thus at risk of under-
+representation in future policymaking.
+2. Going beyond acute care: Studies to date have largely adopted ED
+visits and hospitalizations as proxies for healthcare utilization
+from climate change effects. Primary and specialty respiratory
+care utilization, emergency medical service calls, supply chain
+impacts, effects on long-term care and pulmonary rehabilitation,
+respiratory pharmaceutical availability, and studies of economic
+impacts would be useful to inform policies related to climate
+change preparedness and the provision of respiratory care.
+3. A focus on solutions: Studies have consistently demonstrated that
+fossil fuel pollution and climate change have exacerbated respira-
+tory health, yet there remains relatively little research focus on
+solutions. Telehealth is one such technology that may provide
+low-carbon, high-quality healthcare [72], but how best to inte-
+grate this tool in the areas most affected by climate change or
+extreme weather remains unexplored. Insurers, architects, urban
+planners, health system engineers, sustainability experts, regula-
+tors, and other related stakeholders must play a role in construct-
+ing a resilient healthcare system.
+Currently available resources
+There are several existing resources and tools to help respiratory
+care providers and investigators generate new research questions
+and healthcare-based interventions to improve climate resilience.
+The US government has a publicly available online “toolkit” with sug-
+gestions on the provision of healthcare during extreme weather
+events [73]; prominent journals have offered generalized ﬁndings
+and recommendations on how to improve healthcare delivery infra-
+structure in the face of climate change [74,75]; the WHO has created
+a report on the current status of healthcare systems [76]; and reports
+are available to supplement understanding of how allied health pro-
+fessionals can work together to create systemic change [77].
+Conclusions
+Our scoping review of climate change-related impacts on respira-
+tory healthcare delivery has identiﬁed important future research
+opportunities. Ambulatory care, medication availability, telehealth,
+and supply chain distribution for respiratory care are under-
+researched. More work is needed to address the lack of representa-
+tion in geographies most at risk of climate impacts and to develop
+systemic health interventions to ensure that patients in need of respi-
+ratory care can receive it.
+Author agreement
+The authors agree to terms and conditions of publication.
+Declaration of competing interest
+The authors declare the following ﬁnancial interests/personal
+relationships which may be considered as potential competing inter-
+ests:
+Alexander S. Rabin reports ﬁnancial support was provided by US
+Department of Veterans Affairs. Hallie C. Prescott reports ﬁnancial
+support was provided by US Department of Veterans Affairs. Kari C.
+Nadeau reports grants from National Institute of Allergy and Infec-
+tious Diseases (NIAID), National Heart, Lung, and Blood Institute
+(NHLBI), National Institute of Environmental Health Sciences (NIEHS),
+and Food Allergy Research & Education (FARE); stock options in IgGe-
+nix, Seed Health, ClostraBio, Cour, Alladapt; co-founder of Alladapt,
+Latitude, and IgGenix, before brands; committee memberships on
+the National Scientiﬁc Committee member at Immune Tolerance Net-
+work (ITN) and National Institutes of Health (NIH) clinical research
+centers; and patents (1) Mixed allergen com-position and methods
+for using the same (2) Granulocyte-based methods for detecting and
+monitoring immune system disorders, and (3) Methods and Assays
+for Detecting and Quantifying Pure Subpopulations of White Blood
+Cells in Immune System Disorders." If there are other authors, they
+declare that they have no known competing ﬁnancial interests or
+personal relationships that could have appeared to inﬂuence the
+work reported in this paper.
+CRediT authorship contribution statement
+Jacqueline R. Lewy: Writing −review & editing, Writing −origi-
+nal draft, Visualization, Formal analysis, Data curation. Amani N.
+Karim: Writing −review & editing, Validation, Data curation. Chris-
+tian L. Lokotola: Supervision, Methodology. Carol Shannon: Writing
+−review & editing, Supervision, Resources, Methodology. Hallie C.
+Prescott: Writing −review & editing, Methodology, Funding acquisi-
+tion. Mary B. Rice: Writing −review & editing. Kari C. Nadeau: Writ-
+ing −review & editing, Conceptualization. Hari M. Shankar: Writing
+−review & editing. Alexander S. Rabin: Writing −review & editing,
+Writing −original draft, Supervision, Methodology, Funding acquisi-
+tion, Formal analysis, Data curation.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2024.100313.
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+6
+References
+[1] Anjeni Keswani, Hana Akselrod, Anenberg Susan C. Health and clinical impacts of
+air pollution and linkages with climate change. NEJM Evidence 2022;1:EVI-
+Dra2200068.
+[2] Heeter KJ, Harley GL, Abatzoglou JT, Anchukaitis KJ, Cook ER, Coulthard BL, et al.
+Unprecedented 21st century heat across the Paciﬁc Northwest of North America.
+Npj Clim Atmospheric Sci 2023;6:1–9.
+[3] Salvador C, Nieto R, Vicente-Serrano SM, García-Herrera R, Gimeno L, Vicedo-Cab-
+rera AM. Public health implications of drought in a climate change context: a crit-
+ical review. Annu Rev Public Health 2023;44:213–32.
+[4] Rice MB, Henderson SB, Lambert AA, Cromar KR, Hall JA, Cascio WE, et al. Respira-
+tory impacts of wildland ﬁre smoke: future challenges and policy opportunities.
+An ofﬁcial american thoracic society workshop report. Ann Am Thorac Soc
+2021;18:921–30.
+[5] Singh AB, Kumar P. Climate change and allergic diseases: an overview. Front
+Allergy 2022;3:964987.
+[6] Solomon CG, Salas RN. Climate change, fossil-fuel pollution, and children’s health.
+N Engl J Med 2022. doi: 10.1056/NEJMra2117706.
+[7] Climate change: effects on the older adult. J Nurse Pract 2022;18:372–6.
+[8] Bayram H, Rice MB, Abdalati W, Akpinar Elci M, Mirsaeidi M, Annesi-Maesano I,
+et al. Impact of global climate change on pulmonary health: susceptible and vul-
+nerable populations. Ann Am Thorac Soc 2023;20:1088–95.
+[9] Morello-Frosch R, Obasogie OK. The climate gap and the color line — racial health
+inequities and climate change. N Engl J Med 2023;388:943–9. doi: 10.1056/
+NEJMsb2213250.
+[10] Schraufnagel DE, Balmes JR, Cowl CT, De Matteis S, Jung S-H, Mortimer K, et al. Air
+pollution and noncommunicable diseases: a review by the forum of international
+respiratory societies’ environmental committee, part 1: the damaging effects of
+air pollution. Chest 2019;155:409–16.
+[11] Liu C, Chen R, Sera F, Vicedo-Cabrera AM, Guo Y, Tong S, et al. Ambient particulate
+air pollution and daily mortality in 652 cities. N Engl J Med 2019;381:705–15.
+[12] Chen G, Guo Y, Yue X, Tong S, Gasparrini A, Bell ML, et al. Mortality risk attribut-
+able to wildﬁre-related PM2¢5 pollution: a global time series study in 749 loca-
+tions. Lancet Planetary Health 2021;5:e579–87.
+[13] Balakrishnan B, Callahan SJ, Cherian SV, Subramanian A, Sarkar S, Bhatt N, et al.
+Climate change for the pulmonologist: a focused review. Chest 2023;164. doi:
+10.1016/j.chest.2023.04.009.
+[14] G€otschke J, Mertsch P, Bischof M, Kneidinger N, Matthes S, Renner ED, et al. Per-
+ception of climate change in patients with chronic lung disease. PLoS One
+2017;12:e0186632.
+[15] Reddy GP, Rajamouli J, Arora KD, Jothula KY, Amaravadi S, Boda A. Knowledge,
+perceptions and practices of medical students towards climate change and global
+warming: a cross sectional study. J Family Med Prim Care 2022;11:2557–64.
+[16] Wilkinson A, Maslova E, Janson C, Xu Y, Haughney J, Quint JK, et al. Environmental
+sustainability in respiratory care: an overview of the healthcare-based environ-
+mental cost of treatment (CARBON) programme. Adv Ther 2022;39:2270–80.
+[17] Starup-Hansen J, Dunne H, Sadler J, Jones A, Okorie M. Climate change in health-
+care: exploring the potential role of inhaler prescribing. Pharmacol Res Perspect
+2020;8:e00675.
+[18] George M, Bruzzese JM, Matura LA. Climate change effects on respiratory
+health: implications for nursing. J Nurs Scholarsh 2017;49. doi: 10.1111/
+jnu.12330.
+[19] Clark JM, Sanders S, Carter M, Honeyman D, Cleo G, Auld Y, et al. Improving the
+translation of search strategies using the polyglot search translator: a randomized
+controlled trial. J Med Libr Assoc 2020;108. doi: 10.5195/jmla.2020.834.
+[20] Rethlefsen ML, Kirtley S, Waffenschmidt S, Ayala AP, Moher D, Page MJ, et al.
+PRISMA-S: an extension to the PRISMA statement for reporting literature
+searches in systematic reviews. Syst Rev 2021;10:1–19.
+[21] Tricco AC, Lillie E, Zarin W, O’Brien KK, Colquhoun H, Levac D, et al. PRISMA
+extension for scoping reviews (PRISMA-ScR): checklist and explanation. Ann
+Intern Med 2018;169. doi: 10.7326/M18-0850.
+[22] Covidence - better systematic review management. Covidence 2020. http://www.
+covidence.org (accessed November 29, 2023).
+[23] Patel I. Integrated respiratory care. Clin Integrated Care 2021;6:100053.
+[24] Ritchie J, Spencer L. Qualitative data analysis for applied policy research. Analyz-
+ing qualitative data, Routledge; 2002173–94.
+[25] Bryman A, Burgess B. Analyzing qualitative data. Routledge; 2002.
+[26] Arksey H, O’Malley L. Scoping studies: towards a methodological framework. Int J
+Soc Res Methodol 2005;8:19–32.
+[27] Mastrangelo G, Fedeli U, Visentin C, Milan G, Fadda E, Spolaore P. Pattern and
+determinants of hospitalization during heat waves: an ecologic study. BMC Public
+Health 2007;7:200.
+[28] Lin S, Hsu W-H, Van Zutphen AR, Saha S, Luber G, Hwang S-A. Excessive heat and
+respiratory hospitalizations in New York State: estimating current and future
+public health burden related to climate change. Environ Health Perspect
+2012;120:1571–7.
+[29] Phung D, Guo Y, Nguyen HTL, Rutherford S, Baum S, Chu C. High temperature and
+risk of hospitalizations, and effect modifying potential of socio-economic condi-
+tions: a multi-province study in the tropical Mekong Delta Region. Environ Int
+2016;92-93:77–86.
+[30] Requia WJ, Vicedo-Cabrera AM, de Schrijver E, Amini H, Gasparrini A. Association
+of high ambient temperature with daily hospitalization for cardiorespiratory dis-
+eases in Brazil: a national time-series study between 2008 and 2018. Environ Pol-
+lut 2023;331:121851.
+[31] Talukder MR, Chu C, Rutherford S, Huang C, Phung D. The effect of high tempera-
+tures on risk of hospitalization in northern Vietnam. Environ Sci Pollut Res Int
+2022;29:12128–35.
+[32] Leung SY, Lau SYF, Kwok KL, Mohammad KN, Chan PKS, Chong KC. Short-term
+association among meteorological variation, outdoor air pollution and acute
+bronchiolitis in children in a subtropical setting. Thorax 2021;76:360–9.
+[33] Konstantinoudis G, Minelli C, Vicedo-Cabrera AM, Ballester J, Gasparrini A, Blan-
+giardo M. Ambient heat exposure and COPD hospitalisations in England: a nation-
+wide case-crossover study during 2007-2018. Thorax 2022;77:1098–104.
+[34] Hahn MB, Kuiper G, Magzamen S. Association of temperature thresholds with
+heat illness- and cardiorespiratory-related emergency visits during summer
+months in Alaska. Environ Health Perspect 2023;131:57009.
+[35] Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. Critical review of
+health
+impacts
+of
+wildﬁre
+smoke
+exposure.
+Environ
+Health
+Perspect
+2016;124:1334–43.
+[36] Wen B, Wu Y, Xu R, Guo Y, Li S. Excess emergency department visits for cardio-
+vascular and respiratory diseases during the 2019-20 bushﬁre period in Australia:
+a two-stage interrupted time-series analysis. Sci Total Environ 2022;809:152226.
+[37] Sangkharat K, Mahmood MA, Thornes JE, Fisher PA, Pope FD. Impact of extreme
+temperatures
+on
+ambulance
+dispatches
+in
+London.
+UK.
+Environ
+Res
+2020;182:109100.
+[38] Yao J, Brauer M, Wei J, McGrail KM, Johnston FH, Henderson SB. Sub-daily expo-
+sure to ﬁne particulate matter and ambulance dispatches during wildﬁre seasons:
+a case-crossover study in British Columbia. Canada. Environ Health Perspect
+2020;128:67006.
+[39] Xu Z, Watzek JT, Phung D, Oberai M, Rutherford S, Bach AJE. Heat, heatwaves, and
+ambulance service use: a systematic review and meta-analysis of epidemiological
+evidence. Int J Biometeorol 2023;67:1523–42.
+[40] Vashishtha D, Sieber W, Hailey B, Guirguis K, Gershunov A, WK Al-Delaimy. Out-
+patient clinic visits during heat waves: ﬁndings from a large family medicine clin-
+ical database. Fam Pract 2018;35:567–70.
+[41] Stowell JD, Yang C-E, Fu JS, Scovronick NC, Strickland MJ, Liu Y. Asthma exacerba-
+tion due to climate change-induced wildﬁre smoke in the Western US. Environ
+Res Lett 2021;17:014023.
+[42] Tong M, Wondmagegn B, Xiang J, Hansen A, Dear K, Pisaniello D, et al. Hospitali-
+zation costs of respiratory diseases attributable to temperature in australia and
+projections for future costs in the 2030s and 2050s under climate change. Int J
+Environ Res Public Health 2022;19. doi: 10.3390/ijerph19159706.
+[43] Kim J, Lim Y, Kim H. Outdoor temperature changes and emergency department
+visits for asthma in Seoul, Korea: a time-series study. Environ Res 2014;135:15–
+20.
+[44] Makunyane MS, Rautenbach H, Sweijd N, Botai J, Wichmann J. Health risks of
+temperature variability on hospital admissions in Cape Town, 2011-2016. Int J
+Environ Res Public Health 2023;20. doi: 10.3390/ijerph20021159.
+[45] Ye T, Guo Y, Chen G, Yue X, Xu R, Co^elho M de SZS, et al. Risk and burden of hospi-
+tal admissions associated with wildﬁre-related PM2¢5 in Brazil, 2000-15: a
+nationwide time-series study. Lancet Planet Health 2021;5:e599–607.
+[46] Park J-H, Lee E, Fechter-Leggett ED, Williams E, Yadav S, Bakshi A, et al. Associa-
+tions of emergency department visits for asthma with precipitation and tempera-
+ture on thunderstorm days: a time-series analysis of data from Louisiana, USA,
+2010-2012. Environ Health Perspect 2022;130:87003.
+[47] Schmier JK, Ebi KL. The impact of climate change and aeroallergens on children’s
+health. Allergy Asthma Proc 2009;30:229–37.
+[48] Smith LT, Arag~ao LEOC, Sabel CE, Nakaya T. Drought impacts on children’s respira-
+tory health in the Brazilian Amazon. Sci Rep 2014;4:3726.
+[49] Schinasi LH, Kenyon CC, Moore K, Melly S, Zhao Y, Hubbard R, et al. Heavy precipi-
+tation and asthma exacerbation risk among children: a case-crossover study
+using electronic health records linked with geospatial data. Environ Res
+2020;188:109714.
+[50] Bernstein AS, Sun S, Weinberger KR, Spangler KR, Shefﬁeld PE, Wellenius GA.
+Warm season and emergency department visits to U.S. children’s hospitals. Envi-
+ron Health Perspect 2022;130:17001.
+[51] Ciciretti R, Barraza F, De la Barrera F, Urquieta L, Cortes S. Relationship between
+Wildﬁre Smoke and Children’s Respiratory Health in the Metropolitan Cities of
+Central-Chile. Atmosphere (Basel) 2021;13:58.
+[52] Hutchinson JA, Vargo J, Milet M, French NHF, Billmire M, Johnson J, et al. The San
+Diego 2007 wildﬁres and Medi-Cal emergency department presentations, inpa-
+tient hospitalizations, and outpatient visits: an observational study of smoke
+exposure periods and a bidirectional case-crossover analysis. PLoS Med 2018;15:
+e1002601.
+[53] Flores AB, Collins TW, Grineski SE, Chakraborty J. Disparities in health effects and
+access to health care among Houston area residents after hurricane harvey. Public
+Health Rep 2020;135:511–23.
+[54] Howard C, Rose C, Dodd W, Kohle K, Scott C, Scott P, et al. SOS! Summer of Smoke:
+a retrospective cohort study examining the cardiorespiratory impacts of a severe
+and prolonged wildﬁre season in Canada’s high subarctic. BMJ Open 2021;11:
+e037029.
+[55] Guerra Velazquez GR. Hurricane maría and public health in puerto rico: lessons
+learned to increase resiliency and prepare for future disasters. Ann Glob Health
+2022;88. doi: 10.5334/aogh.3869.
+[56] Mishra SK, Upadhyaya P, Fasullo JT, Keshri NP, Salunke P, Ghosh A, et al. A need
+for actionable climate projections across the Global South. Nat Clim Chang
+2023;13:883–6.
+[57] Jehn M, Donaldson G, Kiran B, Liebers U, Mueller K, Scherer D, et al. Tele-monitor-
+ing reduces exacerbation of COPD in the context of climate change−a randomized
+controlled trial. Environ Health 2013;12:1–8.
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+7
+[58] U.S. Government Accountability Ofﬁce. Electricity grid resilience: climate change
+is expected to have far-reaching effects and DOE and FERC should take actions n.d.
+https://www.gao.gov/products/gao-21-346 (accessed December 22, 2023).
+[59] Zhang W, Sheridan SC, Birkhead GS, Croft DP, Brotzge JA, Justino JG, et al. Power
+outage: an ignored risk factor for COPD exacerbations. Chest 2020;158:2346–57.
+[60] Sorensen CJ, Salas RN, Rublee C, Hill K, Bartlett ES, Charlton P, et al. Clinical impli-
+cations of climate change on US emergency medicine: challenges and opportuni-
+ties. Ann Emerg Med 2020;76:168–78.
+[61] Smirnova N, Shaver AC, Mehta AJ, Philipsborn R, Scovronick N. Climate change, air
+quality, and pulmonary health disparities. Clin Chest Med 2023;44. doi: 10.1016/j.
+ccm.2023.03.005.
+[62] Elliott CT, Henderson SB, Wan V. Time series analysis of ﬁne particulate matter
+and asthma reliever dispensations in populations affected by forest ﬁres. Environ
+Health 2013;12:11.
+[63] Hassan S, Nguyen M, Buchanan M, Grimshaw A, Adams OP, Hassell T, et al. Man-
+agement of chronic noncommunicable diseases after natural disasters in the
+Caribbean: a scoping review. Health Aff 2020;39:2136–43.
+[64] Li Y, Bakos-Block C, Rammah A, Magal R, Adekanye J, Esquenazi S, et al. The post
+hurricane harvey respiratory protection training program. J Occup Environ Med
+2020;62:842–6.
+[65] Tse K, Chen L, Tse M, Zuraw B, Christiansen S. Effect of catastrophic wildﬁres on
+asthmatic outcomes in obese children: breathing ﬁre. Ann Allergy Asthma Immu-
+nol 2015;114 308−11.e4.
+[66] Roye D, Tobías A, Figueiras A, Gestal S, Taracido M, Santurtun A, et al. Tempera-
+ture-related effects on respiratory medical prescriptions in Spain. Environ Res
+2021;202:111695.
+[67] Romanello M, di Napoli C, Green C, Kennard H, Lampard P, Scamman D, et al. The
+2023 report of the Lancet Countdown on health and climate change: the
+imperative for a health-centred response in a world facing irreversible harms.
+Lancet 2023;0. doi: 10.1016/S0140-6736(23)01859-7.
+[68] Types
+of
+pollutants
+n.d.
+https://www.who.int/teams/environment-climate-
+change-and-health/air-quality-and-health/health-impacts/types-of-pollutants
+(accessed January 9, 2024).
+[69] Rabin AS. It’s time for health professionals to break the climate Taboo. Ann Am
+Thorac Soc 2023. doi: 10.1513/AnnalsATS.202309-816VP.
+[70] Lachkar S, Crombag LMM, Musani AI. How interventional pulmonologists can
+address climate change. Respiration 2023;102:207–10.
+[71] Henderson SB, Johnston FH. Measures of forest ﬁre smoke exposure and their
+associations with respiratory health outcomes. Curr Opin Allergy Clin Immunol
+2012;12:221–7.
+[72] Patel KB, Gonzalez BD, Turner K, Tabriz AA, Rollison DE, Robinson E, et al. Esti-
+mated carbon emissions savings with shifts from in-person visits to telemedicine
+for patients with cancer. JAMA Netw Open 2023;6:e2253788.
+[73] Element 4: essential clinical care service delivery planning n.d. https://toolkit.cli-
+mate.gov/topics/human-health/building-health-care-sector-resilience/element-
+4-essential-clinical-care-service (accessed December 13, 2023).
+[74] Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, et al. Managing the health
+effects of climate change: lancet and University College London institute for
+global health commission. Lancet 2009;373:1693–733.
+[75] Climate change and extreme heat events: how health systems should prepare.
+NEJM Catalyst Innovations in Care Delivery 2022. doi: 10.1056/CAT.21.0454.
+[76] Website n.d. https://iris.who.int/bitstream/handle/10665/354542/9789240048102-
+eng.pdf.
+[77] McDermott-Levy R, Fick DM. Advancing gerontological nursing science in climate
+change. Res Gerontol Nurs 2020;13. doi: 10.3928/19404921-20191204-02.
+J.R. Lewy, A.N. Karim, C.L. Lokotola et al.
+The Journal of Climate Change and Health 17 (2024) 100313
+8

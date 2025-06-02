@@ -1,0 +1,966 @@
+Research article
+Climate emotions and anxiety among young people in Canada: A national
+survey and call to action
+Lindsay P. Galwaya,*, Ellen Fieldb
+a Department of Health Sciences, PhD, Lakehead University, Thunder Bay, Ontario, Canada
+b Department of Education, PhD, Lakehead University, Orillia, Ontario, Canada
+A R T I C L E
+I N F O
+Article History:
+Received 21 September 2022
+Accepted 6 January 2023
+Available online 10 January 2023
+A B S T R A C T
+Introduction: Young people have a unique positionality in relation to the mental and emotional dimensions of
+climate change: they have contributed the least to the crisis, they are and will be disproportionately
+impacted, and they have limited opportunities and invaluable perspectives for inﬂuencing action. Evidence
+increasingly illustrates that young people are particularly vulnerable to climate distress and anxiety.
+Methods: The purpose of this study was to generate knowledge about climate emotions and climate anxiety
+among young people using a representative survey. We surveyed 1000 young people (aged 16−25) across
+Canada. The online survey asked respondents about: (i) climate emotions and their impacts, (ii) perspectives
+on the future due to climate change, (iii) perspectives and feelings about government (in)action, (iv) perspec-
+tives on supports, programs, and resources needed to cope with climate emotions and anxiety, and (v) per-
+spectives on climate change education (including socio-emotional dimensions). Data were weighted to
+improve representativeness according to age, gender, and region. Descriptive analyses were conducted,
+scales were generated, and textual responses were analyzed using thematic analysis.
+Results: Young Canadians are experiencing a diversity of challenging climate emotions. At least 56% of
+respondents reported feeling afraid, sad, anxious, and powerless. 78% reported that climate change impacts
+their overall mental health and 37% reported that their feelings about climate change negatively impact daily
+functioning. Data also illustrate that climate change is contributing to negative perceptions about their
+future. For example, 39% of respondents report hesitation about having children due to climate change, 73%
+report thinking that the future is frightening, and 76% report that people have failed to take care of the
+planet. Respondents rated governmental responses to climate change negatively and reported greater feel-
+ings of betrayal than of reassurance. The data show that young Canadians need a diversity of coping supports
+and believe the formal education system should be doing more to support them.
+Conclusion: This study adds to the emerging and increasingly concerning evidence base on climate emotions
+and anxiety among young people. We conclude by summarizing key directions for future research.
+© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate anxiety
+Climate emotions
+Climate action
+Climate education
+Youth
+Young people
+Survey
+1. Introduction
+Climate change is a formidable threat to human and planetary
+health and an immense injustice [1]. The mental and emotional
+health dimensions of climate change are increasingly concerning as
+extreme events become more severe and common, extractivism and
+ecosystem destruction advance unheeded, and people become more
+knowledgeable about climate impacts and injustices [2−4]. Although
+the connections between the climate crisis and mental and emotional
+health have historically been overlooked, scholarly work in this realm
+has grown exponentially in the last decade [5]. One speciﬁc line of
+inquiry within this emerging body of research has focused on the
+experiences and implications of climate emotions and climate anxi-
+ety. Climate emotions are understood here as feelings, emotions, and
+affects related to climate change and climate injustices [5,6].
+Although there is no consistently agreed-upon deﬁnition of climate
+anxiety, it can be understood as heightened distress related to the cli-
+mate crisis that is characterised by a constellation of strong and inter-
+connected emotions such as worry, fear, sadness, anger, and
+powerlessness [7]. Climate anxiety is future-oriented and related to
+eco-anxiety more broadly; some scholars understand climate anxiety
+as a speciﬁc form of eco-anxiety [8,9]. The lived experiences of cli-
+mate emotions and climate anxiety are inﬂuenced by numerous fac-
+tors including geographic and social location, experiences of climate
+impacts, sense of agency and efﬁcacy, and knowledge of climate
+change and climate injustice [7,10−12] (see [4,5,7−10,13] for recent
+reviews and discussions around climate/eco-anxiety).
+* Corresponding author.
+E-mail address: lgalway@lakeheadu.ca (L.P. Galway).
+https://doi.org/10.1016/j.joclim.2023.100204
+2667-2782/© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 9 (2023) 100204
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+As the American Psychological Association outlines, strong cli-
+mate emotions and climate anxiety “do not constitute mental illness”
+[3]; climate anxiety is likely non-pathological for most [3,9]. How-
+ever, climate anxiety can be paralyzing and problematic [7]. Some
+evidence indicates that strong emotions and climate anxiety can be
+problematic for certain people and populations with impacts on func-
+tioning and overall well-being [4,14]. Despite the potential for cli-
+mate
+emotions
+and
+climate
+anxiety
+to
+result
+in
+negative
+consequences for well-being, many scholars and practitioners argue
+that strong emotional responses are appropriate considering the
+scale and urgency of the crisis [11,13,15,16]. Particularly concerning,
+the mental and emotional burden of climate change is disproportion-
+ately borne by young people who have contributed the least to rising
+greenhouse gas emissions (GHG) and the systems and structures that
+cause and fuel climate change [10,17−19].
+There is increasing evidence that climate anxiety is particu-
+larly prevalent among, and relevant to, youth and young adults
+[11,18,20]. Moreover, young people currently have limited oppor-
+tunities for inﬂuencing policy-making on climate change given
+that decision-making systems generally exclude them [21]. A
+recent multinational study by Hickman et al. [19] examined cli-
+mate anxiety in 10,000 young people in 10 countries with varying
+climate-related vulnerabilities: a concerning proportion of young
+people reported high levels of distressing emotions, associated
+impacts on functioning, and negative perceptions of their future.
+Distressing emotions, climate anxiety, and impacts on functioning
+were correlated with perceptions of inadequate action by govern-
+ments and feelings of betrayal [19]. The lack of meaningful and
+transformative climate action from governments, and the contin-
+ued lack of reparations for damages and impacts already caused,
+exacerbates the mental and emotional health impacts of climate
+change itself. Canada was not included in this global study, con-
+ducted by Hickman et al. [19], and no existing empirical and rep-
+resentative
+survey research has
+focused on the experiences,
+perspectives, and needs of young Canadians in relation to climate
+emotions and/or climate anxiety (at the time of publishing). Can-
+ada is a relevant context to explore climate emotions and anxiety
+among young people. As a country, Canada is warming twice as
+fast as the rest of the planet and impacts are rapidly unfolding
+[22]. Moreover, per capita GHG emissions are among the highest
+in the world, and Canada has a dismal record when it comes to
+cutting
+carbon
+emissions,
+fossil
+fuel
+extraction,
+and
+taking
+responsibility for climate injustices [23]. Calls for rigorous empiri-
+cal studies prioritizing young people’s voices and experiences of
+climate-induced distress [4], the inﬂuential Hickman et al. study
+[19], and existing knowledge gaps have inspired the research pre-
+sented herein. Importantly, although the literature on climate
+emotions and anxiety is rapidly advancing, many unanswered
+questions remain about lived experiences across diverse contexts
+and about how to best support young people coping with com-
+plex and challenging climate emotions. As Wu et al. argue, exist-
+ing data in this realm “preclude our ability to take action” [20].
+The purpose of this study was to generate knowledge about
+climate emotions and climate anxiety among young people (aged
+16−25) in Canada. We replicated the methods used by Hickman
+et al. [19] while also expanding on this existing research by col-
+lecting perspectives on the supports, programs, and/or resources
+that young people identify as helpful to cope with climate emo-
+tions and climate anxiety, as well as youth perspectives on
+advances needed in the formal education system. Replicating and
+expanding on the Hickman et al. [19] study enables global com-
+parisons while addressing knowledge gaps to inform action and
+making novel contributions to the literature. Furthermore, the
+data collected here will serve as a robust baseline for longitudinal
+monitoring of climate emotions and climate anxiety among young
+people in Canada.
+2. Methods
+2.1. Study context: climate impacts, (in)justice, and (in)action in Canada
+Across the country, climate-related impacts include more extreme
+heat, less extreme cold, changing growing seasons, shorter snow and
+ice cover seasons, thinning glaciers, thawing permafrost, rising sea
+levels, and increased frequency and severity of extreme events [22].
+Losses from extreme events are increasing: from 1983 to 2008, the
+cost of extreme weather events in insured damage averaged
+$420 million annually while between 2010 and 2020, it averaged
+$2.1 billion annually. For context, in 2021, the province of British
+Columbia experienced a fatal heat dome with 595 people dying from
+extreme heat [24]. The heat was followed by 1600 wildﬁres across
+the province affecting 9000 km2 of forest and increased climate
+change anxiety among British Columbians [25]. While many parts of
+Canada have been experiencing severe climate impacts, Canada’s
+action on climate policy is not aligned with calls for GHG reductions.
+Canada’s 2030 reduction plan is consistent with 2°C of warming
+rather than the Paris Agreement’s 1.5°C of warming limit [23]. Can-
+ada submitted a Nationally Determined Contribution commitment in
+2021 to reduce greenhouse gas emissions by 40−45% below 2005 lev-
+els, which would bring Canada’s rating from “highly insufﬁcient”
+(policies on track for 3°C of warming) to “almost sufﬁcient” (policies
+on track for 2°C of warming) [23]; however, the Canadian govern-
+ment has a track record of missing every climate target that has been
+set. Moreover, Canada continues to advance fossil fuel extraction,
+production, and export (crude oil in particular) while providing bil-
+lions of dollars in subsidies, tax breaks and ﬁnancial support to the
+fossil fuel industry annually [26].
+Beyond this, the existing inequities in Canada, such as poverty,
+social inequality, the ongoing effects of colonialism, and systemic rac-
+ism exacerbate how marginalised peoples experience and adapt to
+climate impacts [27]. The youth climate justice movement has grown
+to the largest environmental social movement in history. As many
+youth activists have continually asserted, climate injustices are not
+merely environmental issues but are racial and gender injustices
+[28]. The claims and experiences of youth climate activists are not
+homogenous and may be better understood as a ‘polyphonic move-
+ment’ [29]; however, youth climate activist messaging has a common
+characteristic that focuses on intergenerational injustices of climate
+impacts—that is, climate change will affect their futures and adults
+have not acted with moral responsibility and obligation [28].
+2.2. Data collection
+Study participants included young people in Canada aged 16−25
+(n = 1000). Abacus Data, an online Canadian polling and research
+ﬁrm, was contracted to administer the survey. The survey was trans-
+lated into French (second ofﬁcial language), programmed, and ﬁelded
+by Abacus Data.
+Potential participants were invited to complete the online survey
+from the Lucid exchange platform marketplace. A set of 21 partner
+panels, representing a total potential participant pool of approxi-
+mately 1,000,000 Canadians, was used. The panels are double opt-in
+survey panels and are blended to address any potential bias that
+could arise from a panel single source. De-duplication methods were
+to ensure that there was no duplication of respondents. The elec-
+tronic invitation included details about the study and informed con-
+sent. Potential participants were not able to access the survey, and no
+data were collected, before consent was obtained. A unique link was
+used to track each potential participant and enable the completion of
+the survey over more than one session. The Lucid exchange platform
+panel providers compensate survey takers in either cash, gift cards,
+or reward points. Incentives offered are minimal and unlikely to
+impact the voluntariness of participation or consent. The data
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+2
+collection process was compliant with the Canadian Research
+Insights Council’s Public Opinion Research Standards, the ESOMAR
+Code of Conduct as well as Marketing Research and Intelligence Asso-
+ciation standards. The study received ethical approval from the Lake-
+head University Research Ethics Board.
+The survey instrument included 15 questions (a mix of yes/no/
+prefer not to answer, Likert scale, and open-ended questions) and
+took 10−15 min to complete. The questions asked about: i) climate
+emotions and their impacts, ii) perspectives on the future due to cli-
+mate change, iii) perspectives and feelings about government (in)
+action, and iv) perspectives on supports, programs, and resources
+that young people identify as needed to cope with climate emotions
+and anxiety, and iv) perspectives on climate change education
+(including socio-emotional dimensions) in the formal education sys-
+tem. Information on age, gender, language, ethnicity, and region
+were also collected (See Supplemental ﬁle, indicating questions repli-
+cated from Hickman et al. [19] and additional questions for this
+study).
+Data collection began on February 23, 2022 and ended March 2,
+2022 once 1000 complete responses were obtained. The data were
+weighted (according to 2016 Census data) to improve representative-
+ness of the Canadian population according to age, gender, and region
+(following the approach used by Hickman et al. [19]. Descriptive ﬁnd-
+ings reported below use weighted data. Prior to weighting, the mean
+age of respondents was 21.2 years (SD 2.60), 54% were female, 44%
+were male, and 3% were non-binary or preferred not to answer. Most
+respondents completed the survey in English (84%). In terms of eth-
+nicity, half of the respondents identiﬁed as White/European, 13% as
+Southeast Asian, 12% as South Asian, 11% as Black, 5% as Indigenous
+(i.e., Inuit/First Nations/Metis), 5% as Arab and West Asian, 4% as Latin
+American, and 1% selected ‘Other’. We did not weight data by ethnic-
+ity as the question in our survey used different population groups
+than Statistics Canada suggests (following more recent best practices
+[30]. Statistics Canada is in the process of “consulting partners, stake-
+holders and the general public to establish a suitable terminology
+and classiﬁcation” to describe and gather data on ethnic population
+and racialized groups [31].
+2.3. Data analysis
+Descriptive statistics were calculated, and tables and graphs gen-
+erated where appropriate. We also generated the following 4 scales
+following Hickman et al. [19]: i) negative thoughts about climate
+change; ii) beliefs about government response; iii) feeling betrayed
+by government; and iv) feeling reassured by government. The nega-
+tive thoughts about climate change scale is a summative score rang-
+ing from 0 to 7 including all items for the question, “Does climate
+change make you think any of the following . . .” where “Yes” was coded
+as 1 and “No” was coded as “000. The beliefs about the government
+response scale included 9 items from the question, “In relation to cli-
+mate change, I believe that my government is . . .”. In this scale, “Yes”
+was coded as 2 and “No” was coded as “100. Reverse coding was
+applied where needed, total score ranged from 9 to 18. The feeling
+reassured by government scale reports a mean across 4 items mea-
+suring speciﬁc emotions related to government action indicating feel-
+ings of reassurance (“When I think about my government’s response to
+climate change, I feel . . . hopeful /valued/protected”) and reassurance
+generally (“I am reassured by my federal government’s action on climate
+change.”). All items were measured using a 5-point Likert scale. The
+feeling betrayed by government scale was constructed from the “neg-
+ative” emotions in response to government action (i.e., anguished,
+abandoned, afraid, angry, ashamed, belittled) on a 5-point Likert scale
+(1=not at all, 5=extremely). The score is a mean across 5 items. Those
+respondents selecting “Prefer not to say” were excluded resulting in
+varying sample sizes. Cronbach’s alpha was calculated for the
+betrayal and reassurance scales to assess internal consistency. Finally,
+a coding scheme was developed for the responses to all open-ended
+questions using an iterative thematic analysis approach and NVivo
+software. Non-responses and nonsensical responses were removed.
+2.4. Limitations
+There are limitations of this study in terms of design and methods
+that should be recognized when interpreting ﬁndings. First, given the
+cross-sectional design, data collection was conducted at one point in
+time. Emotional responses and impacts associated with climate
+change are likely transient and dynamic over time but our data are
+unable to capture such trends [32]. Second, the data have been
+weighted by age, gender, and region thereby increasing conﬁdence
+that our ﬁndings represent experiences and perspectives of our target
+population (young Canadians aged 16−25) on these factors, thereby
+reducing potential bias. However, we did not weight by ethnicity
+such that ﬁndings may under or overrepresent some population
+groups compared to Canadians aged 16−25 overall. Third, all meas-
+ures are self-reported which may threaten validity. Fourth, as [19]
+report, the survey instrument uses non-standardised measures and a
+three-factor scale (yes/no/prefer not to answer) to measure the exis-
+tence of speciﬁc climate emotions (not a Likert scale). Fifth, although
+these ﬁndings are very likely generalizable to Canada and similar
+contexts, they may not hold in all settings. Finally, although we pro-
+vided an opportunity for youth to share their experiences and per-
+spectives, the ﬁndings are still framed by, interpreted through, and
+shared from adult perspectives (the researchers).
+3. Results
+3.1. Climate emotions, climate anxiety, and coping
+Overall, the survey data illustrate that young people across Can-
+ada are experiencing a diversity of climate emotions at high rates. In
+terms of speciﬁc emotional impacts and responses, young people
+most commonly report feeling afraid (66%), sad (65%), anxious (63%),
+helpless (58%), and powerless (56%). The least commonly reported
+feelings were grief (34%), optimism (21%), and indifference (20%)
+(Fig. 1). Participants were also asked “I am worried that climate change
+threatens people and the planet.” Nearly half (48%) of all respondents
+reported feeling “very” or “extremely worried”: only 5% reported
+feeling “not at all” worried.
+Given the extent to which young Canadians are experiencing difﬁ-
+cult emotions, it is not surprising that young people also reported
+impacts on daily functioning and overall mental health. Only 22% of
+respondents reported that climate change does not at all impact their
+overall mental health and 37% reported that their feelings about cli-
+mate change negatively affect daily life at least moderately. The sur-
+vey data also illustrate that climate change is contributing in myriad
+ways to negative thoughts about their future. For example, 39%
+report hesitation about having children due to climate change, 48%
+believe that humanity is doomed, 53% think that they will not have
+access to the same opportunities that their parents had, 73% report
+thinking that the future is frightening, and 76% report that people
+have failed to take care of the planet. The negative thoughts about cli-
+mate change score was 4.13 out of 7 (SD 2.60) illustrating a generally
+negative outlook about the future.
+Our survey also collected perspectives on the supports, programs,
+and/or resources that young people think do and/or would help them
+cope with climate emotions and climate anxiety using an open-ended
+question. Table 1 summarizes the 8 themes, illustrative examples
+from the data, and the proportion of respondents coded under each
+theme. Variations of “don’t know” or cases where coders could not
+make sense of responses were excluded. Also, although talking about
+climate emotions is likely an important coping mechanism support-
+ing the processing of big and challenging emotions like anxiety,
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+3
+powerlessness, and sadness, 32% of participants reported that they do
+not talk about climate change with other people and 36% reported
+that when they do, they feel ignored or dismissed.
+3.2. Beliefs and feelings about government (in)action
+Our data illustrate that inaction at the systemic and structural lev-
+els shape the lived experiences of climate emotions and climate
+anxiety among young Canadians. Notably, 64% of survey respondents
+do not think that the Canadian government is doing enough to avoid
+climate catastrophe. The beliefs about government response scale
+indicates a negative perception of the Canadian government’s
+response to climate change, with a summative score of 14.96 (SD
+2.60) on a scale ranging from 9 to 18 (Table 2). The feeling betrayed
+by government scale is higher than the feeling reassured by govern-
+ment scale, with mean scores of 2.55 (SD 1.00) and 2.19 (SD 0.89).
+Table 1
+Coding scheme for open-ended question on the kinds of supports, programs, and/or resources that do or would help young people cope with feelings about climate change.
+Theme
+Illustrative Examples
+% of coded responses
+Seeking emotional and mental health support from/with others
+- "Psychologist”
+- "Talking with family and friends"
+- "Support groups about climate change"
+- ". . . a community of like-minded people who feel the same as I do, that might
+make me feel less alone in my efforts to make a difference."
+25
+Taking individual and collective climate action
+- "Trying to take part in initiatives that ﬁght against climate change from the
+ground, as well as become a less wasteful consumer."
+- "Donate to charities"
+25
+Formal education initiatives or programs
+- "Programs that educate people about climate change and all the ways we can
+contribute towards working on a solution."
+- "Awareness programs"
+- "Programs where they gave more information about the situation and provided
+possible long-term solutions."
+12
+Managing feelings and emotions through activities
+- "Meditation"
+- "I try to go outside on hikes."
+- "Video games"
+- "Music and reading are some coping mechanisms I used to help ease my
+feelings."
+11
+Not coping/not doing anything to cope
+- "I don’t cope, I stay miserable."
+- "Nothing, I suck it up."
+- "I don’t think support programs would help, because trying to make me feel
+better about things doesn’t change the fact that climate change is still happening
+and no one in power is doing anything to try and change it."
+8
+Seeking out information and solutions through informal learning
+- "Blogs discussing small things I can do to help."
+- "News Channels that give me hope."
+7
+Shifting perceptions and positive thinking
+- "I just stay optimistic"
+- "Taking it more seriously"
+6
+Systemic action needed from governments
+- "Maybe if our government started taking climate change seriously. Not just ours
+in Canada but all of them, worldwide."
+- "I also think the government taking more accountability and action would
+greatly improve people’s anxieties."
+4
+*Note: nonsensical responses and “Don’t know” were not coded.
+Fig. 1. Climate emotions reported by young people (aged 16−25) in Canada (n = 1000, weighted).
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+4
+The Cronbach’s alpha for the betrayal and reassurance scales were
+0.88 and 0.82 respectively, illustrating high internal consistency.
+When asked how the government’s response to climate change
+makes them feel, 35% of the sample report feeling “not at all” valued,
+32% report feeling “not at all” protected.
+3.3. Perspectives on social and emotional dimensions of climate change
+education
+Survey participants were asked their opinions about the formal
+education system and climate change education. Approximately 65%
+believe that the education system in Canada should be doing more or
+a lot more to educate young people about climate change. Similarly,
+60% believe that the formal education system should focus more on
+the social and emotional dimensions of climate change (described as
+“developing the emotional intelligence and/or interpersonal skills that
+enable learners to constructively cope with the emotions and feelings
+about climate change and its impacts and to more effectively collaborate,
+negotiate, and communicate with others to address climate change”). To
+elicit detailed perspectives on possible opportunities for integrating
+social and emotional dimensions into education, we also asked the
+participants to share their perspectives on “the most important thing
+the education system can do to support your mental and emotional
+health in the context of the climate crisis”. Table 3 reports 5 key themes
+which illustrate that young Canadians want more climate change
+content in schools and want to learn about solutions.
+4. Discussion and conclusion
+Using a national survey and replicating and expanding on the
+methods and ﬁndings from Hickman et al. [19], this study illustrates
+that climate emotions and climate anxiety are prevalent among 16 to
+25 year old Canadians. Overall, our ﬁndings illustrate a constellation
+of challenging climate emotions, negative thoughts around climate
+change and the future, concerning levels of climate change-related
+distress, and negative perceptions and emotional consequences of
+Canada’s response to climate change. The ﬁndings also highlight
+diverse supports that young Canadians are calling for to cope with
+challenging emotions and advancements needed in the education
+system to address the growing mental health burden of the climate
+crisis.
+A majority of young Canadians surveyed reported feeling afraid,
+sad, anxious, helpless, powerless, and angry while a minority
+reported feeling optimistic in relation to climate change. These ﬁnd-
+ings align closely with the global ﬁndings reported by Hickman et al.
+[19] where feeling afraid, sad, anxious, powerless, and angry were
+the most commonly reported climate emotions across 10 countries. A
+small minority, 5% of respondents in our study and across all 10
+Table 2
+Beliefs about the federal government’s response to climate change reported by young people (aged 16−25) in Canada (n = 1000,
+weighted).
+In relation to climate change, I believe that my government is ...
+Yes (n)
+No (n)
+Prefer not to say (n)
+Doing enough to avoid a climate catastrophe
+26.7% (267)
+63.8% (638)
+9.2% (92)
+Taking my concerns seriously enough
+26.9% (269)
+61.5% (615)
+11.9% (116)
+Protecting me, the planet and/or future generations
+31.8% (319)
+57.5% (575)
+10.7% (107)
+Failing young people across the world
+56.4% (564)
+33.4% (334)
+10.2% (102)
+Lying about the effectiveness of the actions they’re taking in relation to climate
+change
+53.5% (535)
+34.7% (347)
+11.8% (118)
+Acting in line with climate science
+36.5% (365)
+53.2% (532)
+10.3% (103)
+Can be trusted
+31.9% (319)
+52.4% (524)
+15.8% (158)
+Dismissing people’s distress
+47.9% (479)
+41.3% (413)
+10.7% (107)
+Betraying me and/or future generations
+48.4% (484)
+38.9% (389)
+12.7% (127)
+Table 3
+Coding scheme for open-ended question on the most important thing the education system can do to support mental and emotional health in the context of the climate crisis.
+Theme
+Illustrative Examples
+% of coded responses
+Increase climate change content in school
+- “Launch a variety of environmental programs.”
+- “Make climate change courses mandatory.”
+- “Education and accessible resources are key for youth understanding
+the climate crisis.”
+23
+Teach solutions
+- “Teach about what can be done to help climate change.”
+- “Educate us on the ways we can contribute to solving the climate
+crisis.”
+16
+Provide mental health supports and programming in the education system
+- “Offer counselling services.”
+- “Create student support groups.”
+- “Teach students about how to cope and take care of their mental and
+emotional health around the climate crisis.”
+- Make it feel safe to speak about our feelings and hold a safe space with
+training.
+16
+Engage in reassurance, positive, and hopeful messaging
+- “Reassure the youth and have resources for them if they want to learn
+and help.”
+- “Give supports to individuals who feel distress and help reassure
+them.”
+9
+Teach about climate risk and urgency
+- “Teach the real reality.”
+- “Educate about the danger.”
+- “Be honest and not give students false hope.”
+- “Simply telling the truth about climate change.”
+7
+*Note: nonsensical responses and “Don’t know” were not coded.
+5
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+countries in the Hickman et al. [19] study, reported feeling not at all
+worried about climate change. Our ﬁndings are also consistent with
+an emerging consensus in the literature highlighting that fear, sad-
+ness, anger, powerlessness, and worry about the future are core char-
+acteristics of climate anxiety among young people [9]. Although this
+study adds to the rapidly growing literature on experiences of climate
+emotions among young people, more work is needed to better under-
+stand how lived experiences vary across identity, culture, and con-
+text, to better understand those factors inﬂuencing experiences and
+impacts of climate emotions, and to advance our collective under-
+standing of the interplay between climate emotions and (in)
+action. We plan to further analyze these survey data to better under-
+stand how and why climate emotions vary across age, gender, and
+ethnicity and are currently undertaking qualitative research to com-
+plement this work.
+Concerningly, our data illustrate that the climate crisis is impact-
+ing the overall mental health and daily functioning of young Cana-
+dians: 8 in 10 reported that climate change impacts their overall
+mental health and 4 in 10 reported that their feelings about climate
+change negatively impact daily functioning. In terms of impacts on
+daily functioning, our ﬁndings align closely with data from Australia
+(32%), France (35%), and Portugal (37%) but differ markedly from
+countries in the Global South including Nigeria (66%), India (74%) and
+the Philippines (75%) as reported by Hickman et al. [19]. Overall, our
+ﬁndings align most closely with the so-called Global North countries
+suggesting that contributions to GHG emissions, vulnerability, and
+levels of governmental (in)action that vary across countries and con-
+texts likely play a role in shaping experiences and impacts of climate
+emotions and climate anxiety among young people. Also noteworthy,
+beliefs about governmental response to climate change and negative
+emotional impacts of government response (as measured by the
+betrayal scale) illustrate consistency with Australian and American
+data [19]. This is perhaps not surprising given similarities in terms of
+government failings to take meaningful action against climate
+change, economies that are heavily reliant on resource extraction,
+ongoing settler-colonialism, and high levels of per capita GHG emis-
+sions.
+Like others, we consider strong climate emotions and anxiety
+appropriate responses to the climate crisis, while also recognizing
+the mental and emotional that burden young people are bearing
+[11,33]. Supports, policies, and programmes are necessary to enable
+young people to cope with climate-related distress, foster emotional
+resiliency, and prevent harm. However, it is essential to recognize
+that young Canadians are experiencing distress and mental health
+consequences because of the failure of adults, decision-makers, and
+governments to adequately address the climate crisis. As one survey
+participant expressed, “. . .the government taking more accountabil-
+ity and action would greatly improve people’s anxieties”. The inac-
+tion from adults and the wholly inadequate response to the climate
+crisis in Canada and globally illustrates a lack of care, and can also be
+seen as a form of youth mistreatment, harm, and neglect [16]. Echo-
+ing the voices and perspectives of young Canadians, we call for
+urgent and transformative climate action to protect the mental and
+emotional health of young people.
+Our data illustrate that young people feel powerless and betrayed
+and do not feel cared for, valued, or protected when it comes to cli-
+mate change and Canada’s response. It is therefore also imperative
+that young people are heard by decision makers, feel heard, and have
+access to diverse safe spaces to voice their experiences of climate
+change and priorities for climate action [34]. Beyond a moral impera-
+tive, being heard and feeling heard by adults can address feelings of
+powerlessness and betrayal while building allyship and support
+through social networks. Implementing participatory models [35] for
+meaningful youth engagement in decision-making can address struc-
+tural and actual disempowerment experienced by young people
+[21,36]. However, existing models of youth engagement—youth
+councils for example—can be tokenistic or exploitative if equity and
+positionality are not considered throughout youth-adult engagement
+and governance [37] or if adult involvement is not focused on listen-
+ing to and empowering young people [38]. Another pitfall of youth-
+adult engagement can occur when adult allies download the respon-
+sibility for climate action to young people or future generations. This
+reinforces a view that young people are isolated, and neglects the
+role of adults and communities to engage in systemic and societal
+responses to climate change in conjunction with youth-led move-
+ments [39]. Meaningful engagement with young people requires
+adult-allies
+that
+work
+to
+support
+youth
+empowerment
+while
+acknowledging intergenerational injustices, respecting and support-
+ing young people’s capabilities, and validating emotional experien-
+ces.
+An important contribution of this study is hearing young people’s
+perspectives on speciﬁc programs and/or resources that can support
+coping with challenging climate emotions. The most frequently
+coded theme from our data was Seeking emotional and mental health
+support from/with others, talking with family and friends or seeing a
+psychologist for example. Notably, approximately two-third of young
+Canadians reported that they either don’t talk to others about climate
+change or feel dismissed or ignored if they do. Similar ﬁndings were
+reported by in the UK, the USA, and Australia [19] illustrating what
+we call a ‘climate of silence’ in these contexts [19,40]. Breaking this
+constructed silence by creating and offering a diversity of safe spaces
+for young people to talk about climate change and their experiences
+of climate emotions is therefore critical [34]. There are a growing
+number of support groups, networks, and group therapy approaches
+offering non-judgemental and safe spaces for young people to come
+together to recognize, voice, and work with their emotions related to
+the climate crisis. However, these tend to be through non-proﬁt
+organizations rather than widely available to youth through school
+programs and may not be accessible to marginalised groups. Our
+study emphasizes the growing need for accessible initiatives and
+spaces pointing to the importance of enhanced ﬁnancial support,
+research, and policy to expand this work. These ﬁndings also high-
+light the need for increased training and knowledge about climate
+emotions generally and among professionals who work with young
+people; educational and mental health professionals in particular
+[41]. The second most frequently coded theme was Taking individual
+and collective climate action. Our data support the emerging consen-
+sus in the literature on the important links between climate emotions
+and climate action. Speciﬁcally, there is emerging evidence indicating
+that emotions can motivate and promote climate action and that
+engaging in climate action, collective action in particular, can help
+people cope with challenging emotions and climate anxiety [42].
+Overall, the 8 themes illustrating young people’s perspectives on pro-
+grams and/or resources to support their coping exemplify the three
+main coping strategies that Ojala has identiﬁed working with young
+people in Northern Europe: “(1) Problem-focused coping, i.e., think-
+ing about, planning, and trying to do something to ﬁght climate
+change; (2) Emotion-focused coping, for instance getting rid of nega-
+tive emotions with distancing strategies; (3) Meaning-focused coping
+and hope, i.e., being able to switch perspective and see both negative
+and positive trends, and putting trust in more powerful societal
+actors.” [43]
+An additional contribution of this work is in identifying possibili-
+ties for change within the formal education system. Secondary and
+post-secondary institutions provide formative learning experiences
+and the knowledge and skills that young people need for their lives
+post-graduation; schools are where young people spend much of
+their time. As reported above, 6 in 10 young Canadians believe that
+the education system in Canada should do more, or a lot more, to
+educate them about climate change and should focus more, or a lot
+more, on the social and emotional dimensions of climate change. We
+interpret these ﬁndings as a call to action from young people and
+6
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+point to the thematic analysis results as suggested direction from
+young people to improve their experiences through providing sup-
+ports within education systems. Speciﬁcally, young people want the
+formal education system to support their mental and emotional
+health by integrating more climate change content in schools.
+Respondents suggested a variety of environmental and climate-
+focused extra-curricular programs and activities, such as making cli-
+mate change courses mandatory and integrating project-based and
+design-thinking learning processes focused on addressing climate
+issues into classroom instruction. The data also indicate that young
+people want solutions-focused instruction and learning opportunities
+within the education system. This is supported by analysis of regional
+curricula across Canada [44] and ﬁndings internationally on how to
+improve climate change education [45]. In the words of one survey
+participant, “Educate us on the ways we can contribute to solving the
+climate crisis”. Teaching about climate solutions and providing
+opportunities to take and support climate action may address feel-
+ings of powerlessness, betrayal, fear, and worry while also providing
+opportunities to talk about climate change with peers and adult-
+allies. Our ﬁndings also show that young people want mental health
+supports within the education system, such as access to counselling
+services, student support/discussion groups, and instruction that
+integrates explicit teaching on coping strategies in response to cli-
+mate change. These ﬁndings add to the currently limited research on
+climate change education gaps in formal education systems [45] and
+challenge formal education systems to provide relevant knowledge
+and understanding, skills, and mental or emotional supports that
+young people indicate they need.
+Drawing on our ﬁndings and existing knowledge and practice
+gaps we conclude with a set of directions that we see as priorities for
+advancing this ﬁeld of research and protecting the mental and emo-
+tional well-being of young people in the context of the climate crisis.
+First, we argue for additional empirical research on climate emotions
+among young people across diverse places and cultures, generally,
+and a focus on understanding the ways in which social location, iden-
+tity,
+and
+marginalization
+shape
+climate
+emotions
+speciﬁcally.
+Although more survey data and analytical work is certainly needed,
+qualitative data is also needed to deepen our understanding of com-
+plex climate emotions and intersections with identity and (in)action.
+Therefore, both quantitative and qualitative methodologies are
+needed and an intersectional approach, rooted in the notion that
+multiple socially constructed positions intersect to shape experiences
+[46], will be particularly helpful here. Second, more research is
+needed on the ways in which youth are (or are not) coping with chal-
+lenging climate emotions and the ways in which adult-allies can sup-
+port the development of adaptive and culturally-relevant coping
+skills within and beyond the formal education system [4]. Relatedly,
+research to better understand unique challenges and possibilities for
+schools (primary, secondary, and higher education) to become safe
+spaces to foster coping skills and emotional resiliency to climate
+change is currently lacking. Third, there is a growing need for
+research to better understand the knowledge, attitudes, and skills of
+mental health professionals and educators in relation to climate
+change generally and the emotional dimensions of climate change
+speciﬁcally. Robust evidence is needed to inform training and skill-
+building opportunities with mental health professionals and educa-
+tors around climate literacy and best practices for supporting young
+people in relation to the emotional burden of the climate crisis [33].
+Fourth, efforts are needed to explicitly examine and learn from the
+existing interventions aimed at offering non-judgemental and safe
+spaces for young people to recognize, voice, and process climate
+emotions with others. Finally, research that not only prioritizes
+young people’s voices and experiences but also empowers young
+people through the research process itself is promising direction
+[21].
+Participatory
+methodologies
+oriented
+towards
+conducting
+research with the people affected by a given issue and aimed at
+change are particularly relevant. For example, participatory action
+research with young people aimed at learning how best to involve
+them in climate action and policy-making processes or curricular
+reform that also acknowledges and recognizes emotional dimensions
+of the climate crisis is a promising direction forward. Participatory
+action research can also explicitly foster intergenerational relation-
+ship building and youth-adult allyship which we see as imperative to
+both addressing climate distress and co-creating a safe, healthy, and
+equitable future.
+Contributions
+LPG and EF contributed to conceptualization, literature synthesis,
+study design, data collection, data analysis, writing and editing. Both
+authors had full access to the data and accept responsibility for publi-
+cations.
+Data sharing
+Authors
+will
+consider
+making
+de-identiﬁed
+data
+available
+between 5 months and 5 years after publishing to parties submitting
+rigorous and justiﬁed proposals for analysis. Those requesting data
+would have to sign a data access agreement.
+Author agreement statement
+We the undersigned declare that this manuscript is original, has
+not been published before and is not currently being considered for
+publication elsewhere.
+We conﬁrm that the manuscript has been read and approved by
+all named authors and that there are no other persons who satisﬁed
+the criteria for authorship but are not listed. We further conﬁrm that
+the order of authors listed in the manuscript has been approved by
+all of us.
+We understand that the Corresponding Author is the sole contact
+for the Editorial process. He/she is responsible for communicating
+with the other authors about progress, submissions of revisions and
+ﬁnal approval of proofs.
+Funding
+This study was funded by the Social Sciences and Humanities
+Research Council which had no role in data collection, analysis, or
+reporting.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+We would like to thank the Social Sciences and Humanities
+Research Council and the Canada Research Chair program for sup-
+porting this research. We would also like to acknowledge Paul Berger,
+Carmen Kinniburgh, and Aynsley Klassen for their thoughtful review
+and copyediting. Finally, we acknowledge Brigitte Champaigne-Klas-
+sen for support with thematic data analysis.
+Supplementary materials
+Supplementary material associated with this article can be found
+in the online version at doi:10.1016/j.joclim.2023.100204.
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+7
+References
+[1] P€ortner H.O., Roberts D.C., Adams H., et al. Climate change 2022: impacts, adapta-
+tion and vulnerability. 2022.
+[2] Hayes K, Blashki G, Wiseman J, et al. Climate change and mental health: risks,
+impacts and priority actions. Int J Ment Health Syst 2018;12:1–12.
+[3] Clayton S, Manning C, Krygsman K, et al. Mental health and our changing climate:
+impacts, implications, and guidance. Washington, D.C: American Psychological
+Association and ecoAmerica; 2017 https://scholar.google.com/scholar_lookup?
+title=Mental%20Health%20and%20Our%20Changing%20Climate%3A%20Impacts%
+2C%20Implications%2C%20and%20Guidance&author=S.%20Clayton&
+publication_year=2017 accessed 25 February 2022.
+[4] Ojala M, Cunsolo A, Ogunbode CA, et al. Anxiety, worry, and grief in a time of
+environmental and climate crisis: a narrative review. Annu Rev Environ Resour
+2021;46:35–58.
+[5] Pihkala P. Toward a taxonomy of climate emotions. Front Clim 2022;3:738154.
+[6] Galway LP, Beery T. Exploring climate emotions in canada’s provincial north.
+Front
+Psychol
+2022;13
+https://www.frontiersin.org/articles/10.3389/
+fpsyg.2022.920313 2022, accessed 30 August.
+[7] Ray S.J. A ﬁeld guide to climate anxiety: how to keep your cool on a warming
+planet. 2020.
+[8] Coffey Y, Bhullar N, Durkin J, et al. Understanding eco-anxiety: a systematic scop-
+ing review of current literature and identiﬁed knowledge gaps. J Clim Change
+Health 2021;3:100047.
+[9] Pihkala P. Anxiety and the ecological crisis: an analysis of eco-anxiety and climate
+anxiety. Sustainability 2020;12:7836.
+[10] Cianconi P, Betro S, Janiri L. The impact of climate change on mental health: a sys-
+tematic descriptive review. Front Psychiatry 2020;11:74.
+[11] Crandon TJ, Scott JG, Charlson FJ, et al. A social−ecological perspective on climate
+anxiety in children and adolescents. Nat Clim Chang 2022;12:123–31.
+[12] Clayton S. Climate anxiety: psychological responses to climate change. J Anxiety
+Disord 2020;74:102263.
+[13] Charlson F, Ali S, Augustinavicius J, et al. Global priorities for climate change and
+mental health research. Environ Int 2022;158:106984.
+[14] Searle K, Gow K. Do concerns about climate change lead to distress? Int J Clim
+Change Strat Manag 2010;2:362–79.
+[15] Wullenkord MC, Tr€oger J, Hamann KRS, et al. Anxiety and climate change:
+a validation of the Climate Anxiety Scale in a German-speaking quota
+sample
+and
+an
+investigation
+of
+psychological
+correlates.
+Clim
+Change
+2021;168:20.
+[16] Benoit L, Thomas I, Martin A. Review: ecological awareness, anxiety, and actions
+among youth and their parents −a qualitative study of newspaper narratives.
+Child Adoles Ment Health 2022;27:47–58.
+[17] Palinkas LA, Wong M. Global climate change and mental health. Curr Opin Psy-
+chol 2020;32:12–6.
+[18] Clayton S, Karazsia BT. Development and validation of a measure of climate
+change anxiety. J Environ Psychol 2020;69:101434.
+[19] Hickman C, Marks E, Pihkala P, et al. Climate anxiety in children and young people
+and their beliefs about government responses to climate change: a global survey.
+Lancet Planet Health 2021;5:e863–73.
+[20] Wu J, Snell G, Samji H. Climate anxiety in young people: a call to action. Lancet
+Planet Health 2020;4:e435–6.
+[21] Arora R, Spikes ET, Waxman-Lee CF, et al. Platforming youth voices in planetary
+health leadership and advocacy: an untapped reservoir for changemaking. Lancet
+Planet Health 2022;6:e78–80.
+[22] Bush E., Lemmen D.S. Canada’s changing climate report; government of Canada.
+Ottawa, Ontario, 2019.
+[23] Climate Action Tracker. Canada, https://climateactiontracker.org/countries/can-
+ada/(2022, accessed 29 August 2022).
+[24] Kotyk A., ca ReporterCtvn, F| Contact. 595 people died due to B.C.’s extreme sum-
+mer heat, latest coroner data reveals. British Columbia, https://bc.ctvnews.ca/
+595-people-died-due-to-b-c-s-extreme-summer-heat-latest-coroner-data-
+reveals-1.5646936 (2021, accessed 30 August 2022).
+[25] Bratu A, Card KG, Closson K, et al. The 2021 Western North American heat dome
+increased climate change anxiety among British Columbians: results from a natu-
+ral experiment. J Clim Change Health 2022;6:100116.
+[26] FUnd EnvironmentalDefence. The running list of federal fossil fuel subsidies in
+Canada in 2022. Environ Defence 2022 https://environmentaldefence.ca/federal-
+fossil-fuel-subsidies-tracking/(accessed 30 August.
+[27] Berry P., Schnitter R. Health of Canadians in a changing climate: advancing our
+knowledge for action. Ottawa, ON: Health Canada.
+[28] Karsgaard C, Davidson D. Must we wait for youth to speak out before we listen?
+International youth perspectives and climate change education. Educ Rev
+2021;0:1–19.
+[29] Bowman B. They don’t quite understand the importance of what we’re doing
+today’: the young people’s climate strikes as subaltern activism. Sustain Earth
+2020;3:16.
+[30] Canadian Institute for Health Information. Guidance on the use of standards for
+race-based and indigenous identity data collection and health reporting in Can-
+ada. Ottawa, Canada: Canadian Institute for Health Information; 2022.
+[31] Visible minority concept consultative engagement, https://www.statcan.gc.ca/en/
+consultation/2022/visible-minority-concept (accessed 8 December 2022).
+[32] Brosch T. Affect and emotions as drivers of climate change perception and action:
+a review. Curr Opin Behav Sci 2021;42:15–21.
+[33] Cunsolo A, Harper SL, Minor K, et al. Ecological grief and anxiety: the start of a
+healthy response to climate change? Lancet Planet Health 2020;4:e261–3.
+[34] Hickman C. We need to (ﬁnd a way to) talk about. . . Eco-anxiety. J Soc Work Pract
+2020;34:411–24.
+[35] Hart RA. Stepping back from ‘The ladder’: reﬂections on a model of participatory
+work with children. Springer; 2008. p. 19–31.
+[36] Hart R., Fisher S., Kimiagar B. Beyond projects: involving children in community
+governance as a fundamental strategy for facing climate change. Chall Clim
+Change Children Front 2014; 92−97.
+[37] Spajic L, Behrens G, Gralak S, et al. Beyond tokenism: meaningful youth engage-
+ment in planetary health. Lancet Planet Health 2019;3:e373–5.
+[38] Elsen F, Ord J. The role of adults in “youth led” climate groups: enabling empow-
+erment. Front Political Sci 2022;3 https://www.frontiersin.org/articles/10.3389/
+fpos.2021.641154 (2021, accessed 8 September.
+[39] Wood B. Youth-led climate strikes: fresh opportunities and enduring challenges
+for youth research - commentary to Bowman. Fennia 2020;198:217–22.
+[40] Galway LP, Beery T, Buse C, et al. What drives climate action in Canada’s provin-
+cial north? Exploring the role of connectedness to nature, climate worry, and talk-
+ing with friends and family. Climate 2021;9:146.
+[41] Allen KA. Climate change, a critical new role for educational and developmental
+psychologists. Educ Dev Psychol 2020;37:1–3.
+[42] Bright ML, Eames C. From apathy through anxiety to action: emotions as motiva-
+tors for youth climate strike leaders. Aust J Environ Educ 2022;38:13–25.
+[43] Ojala M. Young people and global climate change: emotions, coping, and engage-
+ment in everyday life. In: Ansell N, Klocker N, Skelton T (eds) Geographies of
+global issues: change and threat. Singapore: Springer, pp. 329−46.
+[44] Wynes S, Nicholas KA. Climate science curricula in Canadian secondary schools
+focus on human warming, not scientiﬁc consensus, impacts or solutions. PLoS
+One 2019;14:e0218305.
+[45] McKenzie M. Climate change education and communication in global review:
+tracking progress through national submissions to the UNFCCC Secretariat. Envi-
+ron Educ Res 2021;27:631–51.
+[46] Bauer GR. Incorporating intersectionality theory into population health research
+methodology: challenges and the potential to advance health equity. Soc Sci Med
+2014;110:10–7.
+L.P. Galway and E. Field
+The Journal of Climate Change and Health 9 (2023) 100204
+8

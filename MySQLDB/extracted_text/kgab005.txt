@@ -1,0 +1,1365 @@
+REVIEW
+Climate change adaptation to extreme heat: a global
+systematic review of implemented action
+Lyne´e L. Turek-Hankins
+1,*, Erin Coughlan de Perez
+2,3, Giulia Scarpa
+4,
+Raquel Ruiz-Diaz
+5,6, Patricia Nayna Schwerdtle
+7,8,9, Elphin Tom Joe
+10,
+Eranga K. Galappaththi
+11,12, Emma M. French
+13, Stephanie E. Austin
+14,
+Chandni Singh
+15, Mariella Si~na
+16,17, A. R. Siders
+18, Maarten K. van
+Aalst
+2,19,20, Sienna Templeman
+21,22, Abraham M. Nunbogu
+23,
+Lea Berrang-Ford
+24, Tanvi Agrawal
+25, the Global Adaptation Mapping
+Initiative team and Katharine J. Mach
+26,27
+1Environmental Science and Policy Graduate Program, Leonard and Jayne Abess Center for Ecosystem Science and
+Policy, University of Miami, Coral Gables, FL, USA, 2Red Cross Red Crescent Climate Centre, The Hague, the
+Netherlands, 3Friedman School of Nutrition Science and Policy, Tufts University, Boston, MA, USA, 4School of
+Environment and Nutrition, University of Leeds, Woodhouse, Leeds, UK, 5Future Oceans Lab, CIM-Universidade de
+Vigo, Vigo, Spain, 6Centre for Fisheries Ecosystems Research, Fisheries and Marine Institute of Memorial
+University of Newfoundland, St. John’s, NL, Canada, 7Heidelberg Institute of Global Health, Heidelberg University,
+Heidelberg, Germany, 8Nursing and Midwifery, Faculty of Medicine, Nursing and Health Sciences, Monash University,
+Australia, 9Medecins Sans Frontieres, Glebe, New South Wales, Australia, 10Economics Center, World Resources
+Institute, New Delhi, India, 11Department of Geography, McGill University, Montreal, QC, Canada, 12Department
+of Biology, Laval University, Que´bec City, QC, Canada, 13Department of Urban Planning, Luskin School of
+Public Affairs, University of California Los Angeles, CA, USA, 14Weiden Business School, Ostbayerische
+Technische Hochschule Amberg-Weiden, Weiden, Germany, 15School of Environment and Sustainability, Indian
+Institute for Human Settlements, Bangalore, Karnataka, India, 16School of Public Health and Administration,
+Cayetano Heredia University, Lima, Peru, 17Department of Geosciences, National Taiwan University, Taipei,
+Taiwan, 18Disaster Research Center, Biden School of Public Policy and Administration, Geography and Spatial
+Sciences, University of Delaware, Newark, DE, USA, 19Faculty of Geo-information Science and Earth Observation,
+University of Twente, Enschede, the Netherlands, 20International Research Institute for Climate and Society,
+Columbia University, New York City, NY, USA, 21National Aeronautics and Space Administration,
+Washington, DC, USA, 22Earth Institute, Columbia University, New York City, NY, USA, 23Department of
+Geography and Environmental Management, University of Waterloo, ON, Canada, 24Priestley International
+Centre for Climate, University of Leeds, Woodhouse, Leeds, UK, 25Ashoka Trust for Research in Ecology and
+the Environment, Bangalore, India, 26Rosenstiel School of Marine and Atmospheric Science, University of
+Submitted: 18 December 2020; Received (in revised form): 3 April 2021. Accepted: 29 April 2021
+V
+C The Author(s) 2021. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+1
+Oxford Open Climate Change, 2021, 1(1): kgab005
+doi: 10.1093/oxfclm/kgab005
+Advance Access Publication Date: 1 June 2021
+Review
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+Miami, Miami, FL, USA, 27Leonard and Jayne Abess Center for Ecosystem Science and Policy, University of
+Miami, Coral Gables, FL, USA
+*Correspondence address: 1365 Memorial Dr #230, Coral Gables, FL 33146. E-mail: lturek@miami.edu
+ABSTRACT
+Extreme heat events impact people and ecosystems across the globe, and they are becoming more frequent and intense in a
+warming climate. Responses to heat span sectors and geographic boundaries. Prior research has documented technologies
+or options that can be deployed to manage extreme heat and examples of how individuals, communities, governments and
+other stakeholder groups are adapting to heat. However, a comprehensive understanding of the current state of imple-
+mented heat adaptations—where, why, how and to what extent they are occurring—has not been established. Here, we
+combine data from the Global Adaptation Mapping Initiative with a heat-speciﬁc systematic review to analyze the global ex-
+tent and diversity of documented heat adaptation actions (n ¼ 301 peer-reviewed articles). Data from 98 countries suggest
+that documented heat adaptations fundamentally differ by geographic region and national income. In high-income, devel-
+oped countries, heat is overwhelmingly treated as a health issue, particularly in urban areas. However, in low- and middle-
+income, developing countries, heat adaptations focus on agricultural and livelihood-based impacts, primarily considering
+heat as a compound hazard with drought and other hydrological hazards. 63% of the heat-adaptation articles feature indi-
+viduals or communities autonomously adapting, highlighting how responses to date have largely consisted of coping strate-
+gies. The current global status of responses to intensifying extreme heat, largely autonomous and incremental yet wide-
+spread, establishes a foundation for informed decision-making as heat impacts around the world continue to increase.
+Key words: climate change; extreme heat; adaptation; climate justice.
+INTRODUCTION
+Extreme heat jeopardizes the well-being of people and ecosys-
+tems globally. Individuals, communities, and governments are
+adapting to extreme heat, but the extent and types of these
+adaptations vary widely, along with the actors promoting and
+implementing measures [1, 2]. Additionally, there is limited in-
+formation about monitoring, evaluation and learning in these
+adaptation efforts [3, 4]. Whereas climate change impacts are
+increasingly detected and attributed to human-induced climate
+change, the global status of climate change adaptation is much
+less understood [5, 6]. This article provides a systematic review
+of how heat adaptation responses are unfolding globally as
+reported in the scientific literature, building from the Global
+Adaptation Mapping Initiative (GAMI).
+Anthropogenic climate change is increasing the frequency
+and intensity of extreme heat events in many regions [7].
+Defining an extreme heat event is highly context dependent
+and can be a technical and contested exercise, but under any
+definition,
+the
+frequency
+of
+these
+events
+is
+growing
+[8].
+Attribution studies have demonstrated significant increases in
+the likelihood of recent heat waves due to climate change [5],
+for instance, in Europe [9], Asia [10] and Russia [11]. Under 1.5C
+global mean temperature increase above preindustrial levels,
+around 13.8% of the global population will experience severe
+heat waves twice a decade (e.g. heat waves similar to the 2007
+Balkans
+or
+2015
+Central
+European
+heat
+waves)
+[12,
+13].
+Considering heat and humidity in a 4C warming scenario, a
+heat wave with a magnitude greater than the 2010 Russian heat
+wave—an event that killed over 50 000 people—would have over
+a 10% annual chance of occurring in Central Europe, India and
+many regions in Africa and a greater than 50% annual chance of
+occurring in the Eastern United States, Northern Latin America
+and China [14]. Other studies have highlighted the Middle East,
+North America and South Asia as regions of concern for heat
+exposure approaching extreme heat survivability and adaptabil-
+ity thresholds under high magnitude climate change [15–17]. In
+addition to the dangers of chronic extreme heat in the Earth’s
+hottest regions, projected increases in the magnitude and vari-
+ability of acute heat in cooler places also pose substantial risks
+[18, 19]. The severity of a heat wave relative to the mean local
+and seasonal climate is a key driver of impact [18, 20]. The urban
+heat island effect further exacerbates exposure [21–23]. Hence,
+under global warming, extreme heat is a major, multifaceted
+global threat.
+The impacts from extreme heat across the world are multi-
+fold. Heat threatens physical and mental health [20, 24–27], agri-
+cultural yields and land-based livelihoods [28, 29], outdoor
+workers and their health and productivity [30, 31], transporta-
+tion infrastructure [32], energy supply [33, 34], biodiversity and
+ecosystems [35] and human security [36, 37]. These impacts can
+exacerbate the consequences of other climate-related hazards,
+such as drought or wildfires, or stressors not related to climate,
+such as air pollution or civil unrest [38–40]. Extreme heat alone
+or in combination with other hazards can trigger cascading
+impacts affecting multiple systems, sectors or regions and chal-
+lenge effective management of the risks. For example, in India,
+concurrent heat waves and droughts in 2002 and 2009 nega-
+tively impacted agriculture, health and economic sectors and
+caused terrestrial water storage losses and electricity shortages
+[41, 42]. Similarly, in 2013, a heat wave in Buenos Aires over-
+whelmed the electrical grid, leaving 800 000 people without
+power, which triggered protests around the city [43]. More re-
+cently, the 2020 heat wave in Siberia thawed the tundra, causing
+an unprecedented summer fire in the Russian Arctic [44].
+Differences in exposure and vulnerability cause some com-
+munities to be more affected by extreme heat than others.
+Heat-relevant trends that increase exposure or exacerbate sen-
+sitivity include urbanization, aging populations and population
+2
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+growth [45–47]. Exposure and vulnerability [4] to extreme heat
+are temporally and spatially variable, and the two often influ-
+ence each other. For example, redlining—a historic practice of
+disinvestment in Black and brown communities in the USA—is
+associated with greater heat exposure [48]. Measuring vulnerabil-
+ity to heat is convoluted as aspects that may make some com-
+munities more vulnerable to extreme heat impacts may be
+irrelevant to others. For example, the drivers of vulnerability in
+urban communities, such as lack of tree canopy coverage or si-
+multaneous air pollution, are not necessarily the same in rural
+communities [49]. Critically, those with less capacity to adapt to
+extreme temperatures, such as people living in informal settle-
+ments, daily wage earners, the elderly, people who are socially
+isolated, and people living with mental health issues or chronic
+disease, are also often most at risk due to nonclimatic drivers
+[50–56]. Active promotion and focus on equity and justice in cli-
+mate adaptation have emerged in the literature as a response to
+these disparities. Adaptations that incorporate distributive, pro-
+cedural and recognition justice can address the root causes of in-
+equity [57,58]. Likewise, the extent to which local knowledge
+and/or Indigenous knowledge figure into adaptation is a critical
+feature of equitable adaptation [59, 60]. Beyond perpetuating past
+harms, failure to meaningfully include local knowledge or
+Indigenous knowledge can prevent the adoption and persistence
+of strategies and overlooks existing on the ground capacity.
+There is no single strategy that can be uniformly applied across
+all communities. A plethora of research exists on various adapta-
+tion responses deployed at local scales, but an integrative under-
+standing of what measures have actually been implemented to
+manage heat extremes is lacking. This study addresses this knowl-
+edge gap by systematically assessing global adaptation responses
+to extreme heat or heat in combination with other hazards across
+sectors. It complements recent studies that reviewed urban heat
+modeling [61], planning for heat [21] and the urban heat-health
+nexus [22]. In addition to considering what measures are being
+implemented, we explore why and how these adaptive responses
+are occurring, as documented in the scientific literature. Through a
+systematic review building from the GAMI dataset, we explore the
+following questions: (i) What impacts most commonly lead to ad-
+aptation to extreme heat? (ii) What are the roles of different actors
+in adaptation to extreme heat across scales of implementation?
+(iii) What types of responses are deployed? and (iv) How are equity,
+local knowledge and Indigenous knowledge incorporated into heat
+adaptation responses?
+METHODS
+Developing the implemented heat adaptation dataset
+This work combined data collected from the GAMI project with
+a systematic review of the literature using heat-specific adapta-
+tion searches. GAMI screened peer-reviewed literature pub-
+lished from 2013–19 to identify studies that documented human
+responses
+to
+climate
+change.
+After
+48 316
+articles
+were
+screened, 1682 articles were coded based on 65 questions re-
+lated to response type, depth, scope and speed; actors; hazards
+and vulnerability; evidence of risk reduction; limits to adapta-
+tion; and equity. The methods used to create this database are
+detailed in the protocols for each stage [62–64]. GAMI follows
+the ‘RepOrting standards for Systematic Evidence Syntheses’
+guidelines [65].
+Here, we first filtered the original GAMI dataset to identify
+articles describing implemented responses to extreme heat
+under climate change. We included only articles with ‘increased
+frequency and intensity of extreme heat’ coded in the hazards
+category, which returned 475 articles (Fig. 1). Because some of
+these
+articles
+described
+responses
+to
+mean
+temperature
+increases, rather than extreme heat, we filtered for the extreme
+heat relevant articles by searching for the phrases ‘heat’, ‘hot
+day’, ‘hot night’, ‘extreme temperature’, ‘temperature extreme’,
+‘extreme minimum’, ‘extreme maximum’ and ‘high tempera-
+ture’ in the hazards, responses, implementation, reduced risk,
+exposure and risk quotes sections of the GAMI database and
+then manually confirming the relevance of each article to ex-
+treme heat adaptation. A total of 202 articles on implemented
+adaptation to extreme heat or to heat as a compound hazard
+were thereby extracted from the GAMI database.
+We then systematically searched for heat-specific adapta-
+tions in the literature to identify articles that may have been
+overlooked in the machine-learning algorithms applied to
+screen the literature by GAMI. Following the GAMI screening
+protocol, we included studies that documented or analyzed
+implemented climate change adaptation in our analysis. We ex-
+cluded articles that did not include human-assisted responses,
+that focused on greenhouse gas emissions mitigation, that did
+not focus on climate change responses, or that were purely con-
+ceptual, theoretical, or simulated and model-based. Unlike
+GAMI, we considered activities such as implemented coordina-
+tion between government agencies or the creation and adminis-
+tration
+of
+adaptation
+policies
+or
+plans
+as
+implemented
+adaptations. Further, we included papers that featured adapta-
+tions to extreme heat occurring either in isolation or simulta-
+neously with other hazards such as drought.
+Our search, therefore, used additional heat and adaptation-
+relevant key phrases. Using Harzing’s Publish or Perish software
+[66], which prioritizes most relevant articles, we screened 1000
+articles from Web of Science, 500 articles from Google Scholar
+and 200 articles from Scopus (the allowed software maximum)
+using the search string (‘extreme heat’ OR ‘heat extreme’ OR ‘ur-
+ban heat’ OR ‘heat wave’ OR ‘heatwave’ OR ‘heat health’ OR
+‘heat-health’ OR ‘hot day’ OR ‘hot night’ OR ‘heat day’) AND (ad-
+aptation OR preparedness OR ‘action plan’ OR management OR
+‘hazard mitigation’ OR resilience). The term ‘heat’ by itself was
+Figure 1: Systematically reviewed articles on implemented extreme-heat adap-
+tation. In total, 301 articles from the GAMI database and additional literature
+searches met our inclusion criteria for implemented climate change adaptation
+speciﬁc to extreme heat. Numbers in the parentheses represent the articles at
+each stage in the process.
+Turek-Hankins et al.
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+not included because it returned many articles irrelevant to cli-
+mate change. All articles published after 2013 were included. Of
+the 1700 articles screened, 99 met the inclusion criteria and
+were not already in the GAMI dataset. Hence, our final sample
+size rose to n ¼ 301 articles.
+Analyzing heat adaptations
+The primary goal of this work was to investigate where, why
+and how adaptation to extreme heat is unfolding globally. All
+articles were coded accordingly. The included GAMI data and
+the additional articles were analyzed to answer questions about
+impacts addressed, types of responses, actors and inclusion of
+Indigenous knowledge and local knowledge across geographic
+regions, as defined by the United Nations [67]. We also consid-
+ered country groupings by World Bank national income level
+[68]. A map of country income levels applied is available in
+Supplementary Fig. S1.
+We employed five analyses to address this study’s main
+aim. First, the number of articles for each region was mapped.
+Second, we sought to understand the specific heat impacts
+addressed by the adaptations documented in the articles. We
+grouped these impacts into five overarching categories: health
+and well-being, economic and human security, agriculture and
+subsistence livelihoods, infrastructure and the built environ-
+ment, and socio-cultural impacts. For each of these categories,
+we also documented all the specific heat impacts addressed
+through observed adaptations (Supplementary Figs S2 and S3).
+Both primary and secondary impacts were relevant to docu-
+mented adaptations. Primary impacts occur in direct response
+to heat exposure, such as crop failure or decreased productivity.
+Secondary impacts occur in response to the primary impact,
+such as loss of income. Third, the hundreds of adaptations to
+extreme heat were summarized and grouped as infrastructural
+or technological, institutional, behavioral or cultural, or ecosys-
+tem-based adaptations [69]. These categories were chosen over
+alternatives, such as response vs. preparation and design vs.
+risk management solutions [21], to match common practices in
+the climate adaptation literature. Complete detail on the cate-
+gorization of adaptation strategies is available in our dataset in
+Supplementary Table S1. Fourth, we analyzed how different
+actors are involved in extreme heat adaptation. Four actor
+groups were included: individuals or communities; government;
+academics, nonprofits and civil society; and private sector, tech-
+nical professionals and industry. We reviewed each GAMI code
+and newly identified article to document how and where adap-
+tations were being implemented and by whom. We include
+analysis of the actors and response types by country in
+Supplementary Fig. S4. Finally, given that equity and justice
+concerns are central to adaptation, we examined how equity
+considerations are incorporated into adaptation responses.
+Specifically,
+we
+considered
+how
+local
+knowledge
+and/or
+Indigenous knowledge was incorporated; the integration of eq-
+uity; timing of stakeholder interactions in and throughout adap-
+tation; agency of local and Indigenous people; recognition and
+role of local and Indigenous people; and how information was
+gathered
+from
+or
+with
+these
+groups
+across
+the
+articles.
+Selection of these categories was informed by recent work on
+co-produced research and Indigenous knowledge in adaptation
+[59, 78–80]. All observations for this part of the analysis were
+purely descriptive and do not represent any normative claims
+from the authors about how participation and knowledge from
+local or Indigenous groups should be included. Here, the term
+local communities refers to non-Indigenous Peoples.
+RESULTS
+By analyzing 301 peer-reviewed articles, this study documents
+where, why and how people are adapting to the impacts of ex-
+treme heat or heat in combination with other hazards across
+the globe. First, we determine countries and regions in which
+implemented extreme heat adaptation has been documented.
+Next, we analyze the diverse heat impacts to which people are
+responding, the types of adaptations implemented and the
+actors involved. Finally, we document how local or Indigenous
+knowledge and/or involvement are incorporated into the heat
+adaptations. Through this analysis, we assess the global status
+of implemented extreme heat adaptations.
+Extreme heat adaptation by region
+Global regions are unequally represented in the heat adaptation
+literature. Some countries are disproportionately represented in
+existing literature while others are not documented at all (Fig.
+2a). Ninety-eight countries are included in at least one article in
+our dataset. Australia and the USA are the most studied coun-
+tries; they are discussed in 49 (16%) and 48 (16%) articles, respec-
+tively. India (8%), the UK (8%), Germany (7%), China (7%),
+Canada (6%), France (6%), Ghana (5%), Nigeria (4%), Bangladesh
+(4%) Italy (4%) and Spain (4%) are all included in more than 10
+articles. Very few articles involve analysis of extreme heat adap-
+tation in Latin America and the Caribbean. Bolivia is most men-
+tioned for the region; however, it is only included in 4 (1%)
+articles. Eastern Europe, Central Asia and Western Asia have
+the fewest articles; countries in these regions are covered in 14
+(5%) articles, 10 of which are review studies that cover multiple
+countries across the globe. The exclusion of articles in lan-
+guages other than English may explain the lack of articles about
+implemented heat adaptations in Russia, despite its severe 2010
+heat wave.
+Heat impacts relevant to adaptation
+A variety of impacts from extreme heat emerge as relevant to
+implemented adaptation responses. Impacts are grouped into
+five categories: health and well-being, economic and human se-
+curity, agriculture and subsistence livelihoods, infrastructure
+and the built environment, and sociocultural impacts (Fig. 2b
+and c). The articles discuss both primary and secondary impacts
+of extreme heat. Some impacts appear frequently in relation-
+ship to implemented responses, whereas others come up in a
+few articles (Supplementary Figs S2 and S3). The agriculture and
+subsistence livelihood category substantially overlaps the eco-
+nomic and human security category. These heat impacts are
+commonly discussed together: 88% of articles that include agri-
+cultural and subsistence livelihood impacts also discuss eco-
+nomic and security impacts, and 77% of articles that include
+economic and security impacts also discuss agricultural and
+subsistence livelihood impacts. Health and well-being heat
+impacts are most common in the adaptation-response litera-
+ture (59% of articles). Health and well-being heat impacts com-
+monly co-occur with socio-cultural impacts and impacts to
+infrastructure and the built environment. In total, 79% of
+articles that discuss socio-cultural impacts also include health
+and well-being impacts, and 79% of articles that discuss impacts
+to infrastructure and the built environmental also include
+health and well-being impacts.
+Heat impacts are prioritized differently across regions and
+income levels. Heat-adaptation articles about low- and middle-
+income
+countries
+are
+primarily
+focused
+on
+heat
+as
+an
+4
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+agricultural and economic issue (Fig. 2c). This finding holds for
+Africa, Eastern Asia, Southern Asia and South-eastern Asia (Fig.
+2b). Agriculture-focused articles primarily consider heat in the
+context of the hydrological system, especially with drought.
+Consideration of heat as a compound hazard is much less com-
+mon in the other impact categories. Articles in high-income
+countries consider the health and well-being; infrastructure
+and built environment; and socio-cultural impact categories
+(Fig. 2c).
+Types of implemented heat adaptation
+A range of adaptation options is observed in response to differ-
+ent heat or compound heat impacts. Outside of Northern
+America, Europe and Eastern Asia and in low- and middle-in-
+come countries, behavioral or cultural responses are the most
+common (Fig. 3a and b). Infrastructural or technological (28%),
+behavioral or cultural (26%), and institutional (43%) responses
+are observed in similar proportions in Southern, Northern and
+Western Europe. In Northern America, institutional responses
+are the most common (55%). Across all regions, ecosystem-
+based responses account for fewer than 15% of adaptations.
+Each response type is rich with a variety of adaptation options
+(Table 1) and activities (Supplementary Table S1). For example,
+‘using weather or climate information’ captures the use of
+scientific forecasts and the use of local skills or Indigenous
+knowledge to anticipate the weather. Agricultural and subsis-
+tence-focused responses are particularly diverse, with many
+kinds of options discussed across the articles.
+Actors involved in heat adaptation
+Overall, adaptation to heat, including as a compound hazard, is
+primarily implemented by individuals and communities. Two
+hundred and twenty-three (74%) articles discuss communities
+or individuals involved in adaptation—nearly half (48%) of
+which do not consider any other actor group (Table 2). Focus on
+different kinds of actors is most prevalent in Northern America
+where all groups are above 12% (Fig. 3a). There, adaptation by
+individuals or communities, with or without other actors, is the
+Figure 2: The number of articles about heat adaptations and the impacts they discuss differs by country and region. (a) The distribution of implemented heat adapta-
+tion articles by country. Fill color represents the number of articles that mention a country, with the darkest shade specifying more than 30 articles. Articles that dis-
+cuss multiple countries are counted multiple times. Borders correspond to United Nations regions. The numbers of articles that describe the impacts of heat across
+ﬁve categories are shown in panels (b) and (c). The total number of articles represented by each bar is listed to its right in panel (c)—these values are the same across
+(b) and (c). Articles that discuss multiple impact categories are counted in each relevant category. Colors from (b) correspond to the regions in (a), and colors in (c) repre-
+sent country income level; colors are weighted for articles that span multiple regions. Percentages for each region or income level are shown over each color if they are
+greater than or equal to 15%.
+Turek-Hankins et al.
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+focus in 30% of the articles. Similarly, actors are most evenly
+proportioned in high-income countries, where all groups are
+above 9% (Fig. 3b). In low- and middle-income countries, at least
+half of the articles discuss communities or individuals adapting.
+Across contexts, the most common actor/implementation com-
+bination is individuals autonomously adapting (63% of articles).
+Individuals or communities are also involved in adaptation
+from engagement with the creation of plans, to leading commu-
+nity-level responses, to leveraging social networks for collective
+and personal good.
+Other actors (government; academics, nonprofits and civil
+society; and the private sector, technical professionals and in-
+dustry) are involved in adaptation to extreme heat to varying
+degrees. Overall, government is the second most observed ac-
+tor group, occurring in 161 articles (53%; Table 2). Government
+includes local to national-level involvement. Over a third of
+the articles in the Americas, Europe, Western Asia and Oceania
+involve government in adaptation (Fig. 3a). Heat adaptations in
+high-income (40%) countries have similar government involve-
+ment as upper-middle- (38%) and low- (36%) income countries.
+However, despite similar proportions of articles discussing
+government for each income level, proportions of institutional
+adaptation differ substantially. High-income countries have a
+greater proportion (44%) of institutional adaptations than low-
+(24%), lower-middle- (18%) and upper-middle- (25%) income
+countries (Fig. 3b). High-income countries are also the only in-
+come-level group that includes the private sector, technical
+professionals and industry greater than 10% of the time. Low-
+income countries include this actor group in only 2% of
+articles. Actor/implementation combinations occur at varying
+frequency (Table 2). Government and the private sector, tech-
+nical
+professionals
+and
+industry
+are
+primarily
+observed
+planning, coordinating and educating about risk (Table 2, Row
+1). Adaptations for hard infrastructure, such as greening the
+urban environment, or soft infrastructure, such as developing
+rosters of at-risk groups for the health sector, are somewhat
+common.
+Indigenous communities and local communities
+Indigenous and local communities are reported to be involved
+in initiatives led by government or other external stakeholders
+to different degrees. Overwhelmingly the most common way
+that Indigenous people and knowledge are discussed in the
+articles is in adapting autonomously using traditional knowl-
+edge, animal breeds, crop varieties, practices, rituals, etc. There
+are a handful of examples of Indigenous or local communities
+involved in planned adaptation or research on adaptations. We
+document how these communities are included in knowledge
+incorporation, integration of equity, the timing of interactions,
+the agency of local and Indigenous people, and the tools used
+for gathering information (Table 3). Some forms of engagement
+such as targeting resources to vulnerable communities or en-
+gaging communities in decision-making processes are some-
+what common. However, most observations are rare, occurring
+in only a couple of articles and many only once. Most studies
+use mixed methods approaches, such as interview or focus
+group data alongside quantitative data, to assess community or
+individual perceptions of heat impacts and adaptations. This is
+primarily the research method used to study autonomous adap-
+tations. Few studies include Indigenous people and local people
+in research teams from conception of adaptation responses or
+partner with citizen scientists. We find that Indigenous knowl-
+edge and local knowledge are primarily used to fill gaps in
+Table 1: Examples of extreme heat responses: behavioral or cultural, institutional, infrastructural or technological, and ecosystem-based
+adaptations
+Type
+Examples in the literature
+Behavioral or Cultural
+‘The most common spontaneous adaptation behaviors were “drinking more water”, “opening windows”,
+and “resting in the shade”. The less commonly reported behaviors were “using a sunshade or sunhat”,
+“bathing frequently” and “going to a public place with air conditioning.”’ China [70]
+‘[A]daptation measures [include] . . . changing from farming to non-farming activities when it is difﬁcult
+to work on the farm due to intense heat.’ Nigeria [71]
+Institutional
+The Heat Health Prevention Plan ‘includes weather forecasts by the State Meteorology Agency, which
+establishes thresholds to activate different actions of the plan . . . [A]ctions include dissemination of
+preventive information to the general population and speciﬁc high-risk groups and activation of a
+general hotline and emergency services.’ Spain [72]
+Responses from most to least common included ‘communication about heat risks and outreach or edu-
+cation to the public[,] . . . collaboration with other organizations, opening cooling centers, or activating
+existing heat plans[,] . . . assisting with relocation during electrical outages, providing ﬁnancial assis-
+tance, providing transportation, or hiring new staff in response to the heat.’ United States [73]
+Infrastructural or Technological
+Actions included ‘installation of air-conditioning, the installation of solar panels to offset electricity
+costs during periods of high air-conditioning use, insulation, and passive cooling structural
+design. . .As the increasing frequency and severity of heatwaves was their primary climate change-re-
+lated concern, the household had built the “cool retreat” which continues to be effective in the event
+of a blackout.’ Australia [74]
+‘Respondents dug deep ponds inside the shrimp ﬁelds so that shrimps could take refuge from heat
+stress during summer season.’ Bangladesh [75]
+Ecosystem-based
+‘A cocoa agroforestry farmer said that farmers have increasingly planted fruit trees in agricultural plots
+to create shade to work in.’ Bolivia [76]
+‘Households either planted or retained trees around their homes and farms to provide shade. This
+helped to combat intense sunshine and associated extremely high temperatures that were expected
+to induce heat stress.’ South Africa [77]
+Illustrative descriptions of types of adaptation to extreme heat or heat as a compound hazard are listed for different countries. As indicated, quotes are edited for read-
+ability and brevity. A full summary of all adaptation options is included in Supplementary Table S1.
+6
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+datasets to test existing theories or to assess autonomous
+adaptation.
+DISCUSSION
+Across the world individuals, communities, government and
+nongovernmental actors are adapting to extreme heat. We sys-
+tematically review 301 peer-reviewed articles about adaptations
+to heat and heat in combination with other hazards, building
+foundational understanding of the global status of implemented
+responses to climate change.
+The framing of extreme heat varies substantially by region
+and national income levels. Health and well-being, infrastruc-
+tural and built environment, and socio-cultural heat impacts
+are primarily recognized in high-income, developed countries
+(Fig. 2b and c). This finding parallels a recent review that found
+similar geographic biases in the urban heat-health literature
+[22]. However, in low- and middle-income countries, agricul-
+tural and subsistence livelihood, as well as economic and hu-
+man security, impacts are most common. Focus on these
+impacts is especially prominent for articles about African coun-
+tries. These trends are surprising given that much previous
+work has linked health and well-being as well as agriculture
+impacts to increased heat exposure across country income lev-
+els [81–84]. One study suggests balanced consideration of live-
+stock impacts and adaptation across developing and developed
+countries, but this review spanned many kinds of hazards, not
+just heat [85]. Some previous research, however, supports our
+finding, showing that farmers in high-income countries have
+low-risk perception of climate change and therefore are likely
+not actively adapting to it [86]. One alternative explanation
+could be that in high-income, developed countries articles
+about agriculture, and particularly crop adaptation, focus on the
+hydrological impacts without the intersection of heat. There
+could also be a disconnect between researchers studying
+impacts of heat and those studying heat adaptation in low- and
+middle-income, developing countries. Finally, in high-income,
+developed countries, the urban heat island effect may receive
+more attention.
+Adaptation actors and types of responses also vary across
+the world. As for heat impact, the types of heat adaptation and
+actors involved are associated with a country’s region and in-
+come level. Heat adaptations in high-income countries are
+evenly spread across different types of responses and actors.
+Figure 3: Adaptation response type and implementing actors differ by region and country income level. (a and b) plot documented heat response types (top bar) and
+implementing actors (bottom bar). Numbers at the end of each bar signify the total number of articles for that region (a) or country income level (b). Percentages of
+each adaptation type and actor category are speciﬁed within each bar if they are greater than or equal to 15%.
+Turek-Hankins et al.
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+Table 2: Actors planning, implementing and evaluating adaptations in different capacities
+Individuals or communities (223)
+Government (161)
+Academics, nonprofits and civil society (60)
+Private sector, technical professionals and
+industry (68)
+Planning, coordinating, educating and advocating
+• Engaging in adaptation planning with gov-
+ernment or nongovernment actors**
+• Mobilizing or advocating for adaptations or
+adaptation policies
+• Planning their own adaptations*
+• Creating adaptation frameworks, planning
+documents or indices**
+• Coordinating and collaborating across
+agencies or sectors or creating task forces**
+• Developing policies or issuing directives**
+• Addressing risk awareness or disseminat-
+ing information**
+• Creating, changing or regulating standards
+or codes
+• Facilitating, organizing or promoting
+adaptations
+• Assisting in the creation of adaptation
+plans or strategies
+• Organizing informational workshops and
+trainings (with industry)
+• Promoting or educating people about adap-
+tation activities
+• Technical professionals (engineers, doc-
+tors, etc.) providing advice and
+recommendations**
+• Industry, professional boards, or NGOs de-
+veloping or advocating or creating policies
+for standards or codes*
+• Industry groups researching adaptation
+options
+Funding, subsidizing and building capacity
+• Funding adaptation research or seed
+projects*
+• Building local or tribal capacity*
+• Financing, subsidizing, stimulating or in-
+centivizing adaptation**
+• Providing loans, insurance or economic as-
+sistance programs*
+• Cooperatives creating incentives and mar-
+ketplaces or providing economic support
+• Industry, engineers or architects adopting,
+inﬂuencing, and normalizing adaptation
+technologies or practices
+• Private actors (citizens, businesses, project
+developers, associations, etc.) investing in
+or ﬁnancing adaptation.
+Implementing, monitoring and evaluating
+• Using local or traditional knowledge to in-
+form adaptation**
+• Individuals autonomously adapting***
+• Leading, organizing and/or initiating com-
+munity adaptations*
+• Leveraging social networks to ensure well-
+being of community members*
+• Monitoring adaptation effectiveness
+• Tracing illnesses and keeping track of
+individuals*
+• Distributing supplies, technologies or open-
+ing cooling centers
+• Adapting soft or hard infrastructure**
+• Monitoring or evaluating adaptations
+• Researchers modeling, simulating or evalu-
+ating adaptations that are in place*
+• Checking on or monitoring the well-being
+of residents
+• Implementing, leading, funding or facilitat-
+ing adaptation efforts**
+• Managers, companies, or unions imple-
+menting or leading adaptations*
+Observations of how different actors are involved in heat and compound heat hazard adaptations in the literature are included for each actor column. Numbers in parentheses represent the number of articles that include that ac-
+tor—many articles feature several actors. The number of asterisks beside an entry represents the frequency of that observation in the literature. Zero, one and two stars correspond to observations being observed in 2–10, 11–30 and
+greater than 30 articles, respectively. The bolded observation with three stars occurred in 178 articles.
+8
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+Previous work reviewing heat planning supports this result [21].
+In low- and middle-income countries, by contrast, adaptations
+are primarily behavioral or cultural adaptations implemented
+by communities and/or individuals. Across all 301 articles, indi-
+viduals autonomously adapting using behavioral or cultural
+responses are the most common form of extreme heat response
+(Table 2). This is especially true in low- and middle-income, de-
+veloping countries (Fig. 3b). People, crops and livestock have an
+optimum climate niche [47] and upper tolerances to heat and hu-
+midity exposure. Many regions could approach the human upper
+limit for survivability under a changing climate [15–17], raising
+questions about potential limits to autonomous, behavioral
+adaptations in some locations under increasing climate change.
+For health impacts, a simple response is greater adoption and
+use of air conditioning, shown to be extremely effective in reduc-
+ing detrimental impacts [87]. However, relying on air condition-
+ing also has well-documented barriers and drawbacks such as its
+cost, reliance on electricity and exacerbation of climate change
+[88]. The potential for risk reduction from technological, infra-
+structural, agricultural and subsistence adaptation to heat at sur-
+vivability thresholds also has uncertainties. Shifting locations of
+industries, agriculture and human settlements may be other
+responses increasingly deployed [89–91].
+Adaptation to extreme heat presents a significant opportu-
+nity to address historic injustices. Inequities in impacts—distri-
+butional consequences—are the fourth most common heat
+impact, reinforcing extreme heat as a hazard with justice impli-
+cations (Supplementary Figs S2 and S3). We also find that local
+communities and Indigenous communities are involved to dif-
+ferent degrees in planned adaptations (Table 3). Previous work
+has provided recommendations for or documented examples of
+co-produced adaptation, which can support procedural justice
+in the adaption process [92]. However, our results suggest that
+globally there has been minimal implementation of these tech-
+niques to respond to extreme heat. Examples of distributive and
+recognition justice were more common; many studies discuss
+Table 3: Incorporation of knowledge, leadership, participation and agency of local communities or Indigenous people in documented heat
+adaptations
+Less
+Degree of inclusion
+More
+Knowledge incorporation
+Local and Indigenous people are
+consulted with the aim of
+identifying vulnerable groups
+or collectives that are or will
+be highly impacted by heat
+events.
+Local or Indigenous people are
+consulted to understand their
+perception of heat wave
+impacts on resources or sec-
+tors and to identify potential
+adaptation solutions (includ-
+ing autonomous adaptations).*
+Engagement of local or
+Indigenous people into the de-
+cision-making process and/or
+policies. Coproduction of
+knowledge in heat adaptation
+activities and/or policies.
+Integration of equity
+Addressing inequalities or target-
+ing resources to a vulnerable
+collective.**
+Government required to consider
+equity and vulnerable groups
+in making decisions.
+Heat adaptation responses ac-
+count for different forms of eq-
+uity and vulnerable collectives.
+They have been reached and
+consulted with prior to and
+during the research.
+Timing of interaction
+Contractual or consultative—
+researchers interact with
+stakeholders to test or diag-
+nose problems.*
+Collaborative action or research.
+Adaptation or knowledge of
+the adaptation is cogenerated
+in partnership, and interac-
+tions are continuous and on-
+going. Social learning beyond
+the end of the project is
+enabled.
+Agency of local and Indigenous
+people
+Indigenous people, local people
+or vulnerable groups are con-
+sulted as stakeholders in ex-
+ploring the problem or
+designing the heat
+adaptations.*
+Scaling up and supporting exist-
+ing or new indigenous or local
+adaptations.
+There is a meaningful transfer of
+power in which Indigenous
+people, local people, or vulner-
+able groups own and have
+agency over the adaptation
+activity.
+Valuing of local and Indigenous
+people
+Indigenous knowledge or local
+knowledge serves to supple-
+ment scientiﬁc knowledge.
+Indigenous knowledge and/or lo-
+cal knowledge serve to provide
+governance value.
+Tools for gathering information
+Use of mixed methods
+approaches by researchers,
+combining quantitative survey
+data with qualitative data
+from focus group discussions
+or interviews.***
+Community members engaged
+as citizen scientists, collecting
+data or information, but not in
+research design.
+Indigenous or local people in-
+cluded in research teams from
+conception. Engagement with
+researchers, governments,
+communities, organizations,
+and Indigenous knowledge-
+keepers and leaders.
+The ﬁrst column (bold) lists the categories of local or Indigenous peoples’ involvement. The other three columns describe the degree of inclusion of local knowledge
+and Indigenous knowledge into heat adaptation as a spectrum from less (left) to more (right). Entries originate from the dataset and reﬂect the language used in the in-
+dividual studies for strategies found in the systematically reviewed articles. Zero, one and two stars correspond to observations being observed in 1–10, 11–30, and
+greater than 30 articles, respectively. The observation with three stars occurred in 136 articles.
+Turek-Hankins et al.
+|
+9
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+targeting resources to or identifying vulnerable collectives.
+Although our results highlight examples of substantial involve-
+ment of local communities and Indigenous communities in
+planned heat adaptations, these were not the norm. We
+expected more incorporation of equity given its prevalence in
+climate adaptation literature, particularly for urban areas [5, 57, 93].
+This suggests a need to prioritize equity and justice in heat
+adaptation.
+Although we strived to be as consistent and comprehensive
+as possible in systematically reviewing the global status of heat
+adaptation, there are several limitations to this study. First, this
+work is a product of GAMI and therefore subject to its screening
+and coding [62–64]. Second, as emphasized, there are many
+ways to define extreme heat, and the delineation between heat
+and mean temperature increases is not always consistent
+across articles. A GAMI article is included in our dataset if it was
+coded for extreme heat in the designated hazard question, in-
+cluded one of the heat-related keywords and was not obviously
+about general temperature increases. Third, following GAMI’s
+inclusion and exclusion criteria, we have studied peer-reviewed
+literature. GAMI included articles in all languages, but our sup-
+plemental systematic review only considered documents writ-
+ten in English. This may have led us to overlook articles in
+certain regions or about Indigenous groups. Information about
+Indigenous groups and their actions may further be limited in
+our dataset due to data sovereignty and protection of traditional
+knowledge. Grey literature may also capture how some actors
+are adapting to heat better than peer-reviewed literature.
+Finally, an analysis of the efficacy or adequacy of adaptation
+was not included in this study. An effective strategy is multifac-
+eted, including the ease of implementation, timing and duration
+of benefits, and reduction of harm or impact [6, 94]. Properly
+assessing these factors for individual adaptation options was
+outside of the capacity of our dataset.
+Adaptation to extreme heat is happening globally in re-
+sponse to different impacts and at different scales of implemen-
+tation. We document the status of heat adaptation in 301
+articles and across 98 countries. Overall, treatment of extreme
+heat is fundamentally different across regions and country in-
+come levels. This result raises additional questions about future
+approaches to heat mitigation measures given the changing na-
+ture of extreme heat across low and high latitude countries in a
+warming world. Strategies applied in already heat burdened
+regions can inform and inspire future adaptation options in
+other parts of the world. Adaptation is primarily occurring
+through individuals or communities autonomously responding
+and coping. Climate change and urbanization will continue to
+increase the likelihood and severity of extreme heat events,
+magnifying the need for planned adaptation. Beyond imple-
+mented adaptations, there is abundant analysis of adaptation
+technologies or strategies that could potentially reduce heat ex-
+posure, but these responses only matter if they are used.
+Although there is a lot of work ahead, the diversity and scope of
+adaptation to heat across the world are an encouraging sign.
+SUPPLEMENTARY DATA
+Supplementary data is available at OXFCLM Journal online.
+ACKNOWLEDGEMENTS
+We thank J. Niemann for technical and research assistance.
+FUNDING
+This research was funded by the Environmental Science
+and Policy graduate program at the Abess Center for
+Ecosystem Science and Policy and the Rosenstiel School of
+Marine and Atmospheric Science at the University of Miami.
+AUTHORS’ CONTRIBUTIONS
+L.L.T.-H., E.C.d.P. and K.J.M. conceptualized and designed re-
+search. L.L.T.-H., G.S., E.T.J., E.K.G., E.M.F. and S.E.A. assisted
+with data collection. L.L.T.-H., R.R.-D., P.N.S. and E.M.F. as-
+sisted with data analysis. L.L.T.-H. drafted the manuscript
+and visualized data. All authors provided input to drafts.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conﬂicts of interest.
+REFERENCES
+1. Smith KR, Woodward A, Campbell-Lendrum D et al. Human
+health: Impacts, adaptation, and co-beneﬁts. Climate Change 2014:
+Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral
+Aspects. Contribution of Working Group II to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change, 2014.
+https://www.ipcc.ch/report/ar5/wg2/
+(30
+November
+2020,
+date last accessed).
+2. Ebi KL, Balbus JM, Luber G et al. Human Health. Vol. II, Impacts,
+Risks, and Adaptation in the United States: Fourth National Climate
+Assessment. Washington, DC, 2018. https://nca2018.global
+change.gov/chapter/health (30 November 2020, date last
+accessed).
+3. Klein
+RJT,
+Midgley
+GF,
+Preston
+BL
+et
+al.
+Adaptation
+Opportunities, Constraints, and Limits. Climate Change 2014:
+Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral
+Aspects. Contribution of Working Group II to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change, 2014.
+https://www.ipcc.ch/report/ar5/wg2/
+(30
+November
+2020,
+date last accessed).
+4. Field
+CB,
+Barros
+VR,
+Dokken
+DJ
+et
+al.
+Summary
+for
+Policymakers. Climate Change 2014: Impacts, Adaptation, and
+Vulnerability. Part A: Global and Sectoral Aspects. Contribution of
+Working
+Group
+II
+to
+the
+Fifth
+Assessment
+Report
+of
+the
+Intergovernmental Panel on Climate Change, 2014. https://www.
+ipcc.ch/report/ar5/wg2/
+(30
+November
+2020,
+date
+last
+accessed)
+5. de Coninck H, Revi A, Babiker M et al. Strengthening and
+Implementing the Global Response. Global Warming of 1.5C.
+An IPCC Special Report on the impacts of global warming of 1.5C
+above pre-industrial levels and related global greenhouse gas emis-
+sion pathways, in the context of strengthening the global response to
+the threat of climate change, 2018. https://www.ipcc.ch/report/
+sr15/chapter-4-strengthening-and-implementing-the-
+global-response/ (30 November 2020, date last accessed).
+6. UNEP. The Adaptation Gap Report. Nairobi, 2014. https://www.
+unep.org/resources/report/adaptation-gap-report-prelimi
+nary-assessment-report
+(30
+November
+2020,
+date
+last
+accessed).
+7. Hoegh-Guldberg O, Jacob D, Taylor M et al. Impacts of 1.5C
+Global Warming on Natural and Human Systems. Global
+Warming of 1.5C. An IPCC Special Report on the Impacts of
+Global Warming of 1.5C above Pre-Industrial Levels and Related
+Global Greenhouse Gas Emission Pathways, in the Context of
+10
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+Strengthening the Global Response to the Threat of Climate
+Change,
+2018.
+https://www.ipcc.ch/sr15/chapter/chapter-3/
+(30 November 2020, date last accessed).
+8. Horton RM, Mankin JS, Lesk C et al. A review of recent advan-
+ces in research on extreme heat events. Curr Clim Chang
+Reports 2016;2:242–59.
+9. Vautard R, Van Aalst M, Boucher O et al. Human contribution
+to the record-breaking June and July 2019 heatwaves in
+Western Europe. Environ Res Lett 2020;15: 1–9.
+10.Imada Y, Shiogama H, Takahashi C et al. Climate change in-
+creased the likelihood of the 2016 heat extremes in Asia. Bull
+Am Meteorol Soc 2018;99:S97–101.
+11.Trenberth KE, Fasullo JT. Climate extremes and climate
+change: the Russian heat wave and other climate extremes of
+2010. J Geophys Res Atmos 2012;117:1–12.
+12.Dosio A, Mentaschi L, Fischer EM et al. Extreme heat waves un-
+der 1.5c and 2c global warming. Environ Res Lett 2018;13: 1–10.
+13.Russo S, Sillmann J, Fischer EM. Top ten European heatwaves
+since 1950 and their occurrence in the coming decades.
+Environ Res Lett 2015;10: 1–15.
+14.Russo S, Sillmann J, Sterl A. Humid heat waves at different
+warming levels. Sci Rep 2017;7:1–7.
+15.Raymond C, Matthews T, Horton RM. The emergence of heat
+and humidity too severe for human tolerance. Sci Adv 2020;6:
+1–8.
+16.Im E, Pal JS, Eltahir EAB. Deadly heat waves projected in the
+densely populated agricultural regions of South Asia. Sci Adv
+2017;3: 1–7.
+17.Pal JS, Eltahir EAB. Future temperature in southwest Asia pro-
+jected to exceed a threshold for human adaptability. Nat Clim
+Chang 2016;6:197–200.
+18.Perkins SE. A review on the scientiﬁc understanding of heat-
+waves — their measurement, driving mechanisms, and
+changes at the global scale. Atmos Res 2015;164–165:242–67.
+19.Perkins-Kirkpatrick SE, Gibson PB. Changes in regional heat-
+wave characteristics as a function of increasing global tem-
+perature. Sci Rep 2017;7:1–12.
+20.Gasparrini A, Guo Y, Sera F et al. Projections of temperature-
+related excess mortality under climate change scenarios.
+Lancet Planet Heal 2017;1:360–7.
+21.Keith L, Meerow S, Wagner T et al. Planning for extreme heat:
+a review. J Extrem Events 2019;6: 2050003-1-27.
+22.Ellena M, Breil M, Soriani S. The heat-health nexus in the ur-
+ban context: a systematic literature review exploring the
+socio-economic vulnerabilities and built environment char-
+acteristics. Urban Clim 2020;34: 1–27.
+23.Zhao L, Oppenheimer M, Zhu Q et al. Interactions between ur-
+ban heat islands and heat waves. Environ Res Lett 2018;13:
+1–11.
+24.Knowlton K, Rotkin-Ellman M, King G et al. The 2006 California
+heat wave: impacts on hospitalizations and emergency de-
+partment visits. Environ Health Perspect 2009;117:61–7.
+25.Burke M, Gonza´lez F, Baylis P et al. Higher temperatures in-
+crease suicide rates in the United States and Mexico. Nat Clim
+Chang 2018;8:723–9.
+26.Berry HL, Bowen K, Kjellstrom T. Climate change and mental
+health: a causal pathways framework. Int J Public Health 2010;
+55:123–32.
+27.Mitchell D, Heaviside C, Vardoulakis S et al. Attributing hu-
+man mortality during extreme heat waves to anthropogenic
+climate change. Environ Res Lett 2016;11: 1–8.
+28.Barlow KM, Christy BP, O’Leary GJ et al. Simulating the impact
+of extreme heat and frost events on wheat crop production: a
+review. F Crop Res 2015;171:109–19.
+29.Gourdji SM, Sibley AM, Lobell DB. Global crop exposure to crit-
+ical high temperatures in the reproductive period: historical
+trends and future projections. Environ Res Lett 2013;8: 1–10.
+30.Lucas RAI, Epstein Y, Kjellstrom T. Excessive occupational
+heat exposure: a signiﬁcant ergonomic challenge and health
+risk for current and future workers. Extrem Physiol Med 2014;3:
+1–8.
+31.Flouris AD, Dinas PC, Ioannou LG et al. Articles Workers’
+health and productivity under occupational heat strain: a
+systematic review and meta-analysis. Lancet Planet Heal 2018;
+2:e521–31.
+32.Underwood BS, Guido Z, Gudipudi P et al. Increased costs to
+US pavement infrastructure from future temperature rise.
+Nat Clim Chang 2017;7:704–7.
+33.A~nel JA, Ferna´ndez-Gonza´lez M, Labandeira X et al. Impact of
+cold waves and heat waves on the energy production sector.
+Atmosphere 2017;8:1–13.
+34.Burillo D, Chester MV, Pincetl S et al. Electricity infrastructure
+vulnerabilities due to long-term growth and extreme heat
+from climate change in Los Angeles County. Energy Policy
+2019;128:943–53.
+35.Handmer J, Honda Y, Kundzewicz Z et al. Changes in Impacts
+of Climate Extremes: Human Systems and Ecosystems.
+Managing the Risks of Extreme Events and Disasters to
+Advance Climate Change Adaptation, 2012. https://www.
+ipcc.ch/report/managing-the-risks-of-extreme-events-and-
+disasters-to-advance-climatechange-adaptation/
+(30
+November 2020, date last accessed).
+36.Wu CYH, Zaitchik BF, Gohlke JM. Heat waves and fatal trafﬁc
+crashes in the continental United States. Accid Anal Prev 2018;
+119:195–201.
+37.Sanz-Barbero B, Linares C, Vives-Cases C et al. Heat wave and
+the risk of intimate partner violence. Sci Total Environ 2018;
+644:413–9.
+38.Nolte CG, Dolwick PD, Fann N et al. Air Quality. Vol. II, Impacts,
+Risks, and Adaptation in the United States: Fourth National Climate
+Assessment. Washington, DC, 2018. https://nca2018.global
+change.gov/chapter/13/
+(30
+November
+2020,
+date
+last
+accessed).
+39.Raymond C, Horton RM, Zscheischler J et al. Understanding
+and managing connected extreme events. Nat Clim Chang
+2020;10:611–21.
+40.Burke M, Hsiang SM, Miguel E. Climate and conﬂict. Annu Rev
+Econom 2015;7:577–617.
+41.Gadgil S, Vinayachandran PN, Francis PA et al. Extremes of
+the Indian summer monsoon rainfall, ENSO and equatorial
+Indian Ocean oscillation. Geophys Res Lett 2004;31:2–5.
+42.Panda DK, Wahr J. Spatiotemporal evolution of water storage
+changes in India from the updated GRACE-derived gravity
+records. Water Resour Res 2016;52:135–49.
+43.Procupez V. The perfect storm: heat waves and power out-
+ages in Buenos Aires. Public Cult 2016;28:351–7.
+44.Stone M. A heat wave thawed Siberia’s tundra. Now, it’s on
+ﬁre. National Geographic, July 2020. https://www.nationalgeo
+graphic.com/science/2020/07/heat-wave-thawed-siberia-now-
+on-ﬁre/ (30 November 2020, date last accessed).
+45.Luo M, Lau NC. Increasing heat stress in urban areas of east-
+ern China: acceleration by urbanization. Geophys Res Lett 2018;
+45:13,060–13,069.
+46.Oleson KW, Monaghan A, Wilhelmi O et al. Interactions be-
+tween urbanization, heat stress, and climate change. Clim
+Change 2015;129:525–41.
+47.Xu C, Kohler TA, Lenton TM et al. Future of the human cli-
+mate niche. Proc Natl Acad Sci USA 2020;117:11350–5.
+Turek-Hankins et al.
+|
+11
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+48.Hoffman JS, Shandas V, Pendleton N. The effects of historical
+housing policies on resident exposure to intra-urban heat: a
+study of 108 US urban areas. Climate 2020;8:1–15.
+49.Turek-Hankins LL, Hino M, Mach KJ. Risk screening methods
+for extreme heat: implications for equity-oriented adapta-
+tion. PLoS One 2020;15:1–20.
+50.Harlan SL, Brazel AJ, Prashad L et al. Neighborhood microcli-
+mates and vulnerability to heat stress. Soc Sci Med 2006;63:
+2847–63.
+51.Eisenman DP, Wilhalme H, Tseng CH et al. Heat Death
+Associations with the built environment, social vulnerability
+and their interactions with rising temperature. Heal Place
+2016;41:89–99.
+52.Uejio CK, Wilhelmi OV, Golden JS et al. Intra-urban societal
+vulnerability to extreme heat: the role of heat exposure and
+the built environment, socioeconomics, and neighborhood
+stability. Heal Place 2011;17:498–507.
+53.Li T, Horton RM, Bader DA et al. Aging will amplify the heat-
+related mortality risk under a changing climate: projection
+for the elderly in Beijing, China. Sci Rep 2016;6:1–9.
+54.Zemtsov S, Shartova N, Varentsov M et al. Intraurban social
+risk and mortality patterns during extreme heat events: a
+case study of Moscow, 2010–2017. Heal Place 2020;66: 1–14.
+55.Whitman S, Good G, Donoghue ER. Mortality in Chicago at-
+tributed to the July 1995 heat wave Public Health Briefs
+Mortality in Chicago Attributed to the July 1995 Heat Wave.
+Am J Public Health 1997;87:1515–8.
+56.Reid CE, O’Neill MS, Gronlund CJ et al. Mapping community
+determinants of heat vulnerability. Environ Health Perspect
+2009:1730–6.
+57.Shi L, Chu E, Anguelovski I et al. Roadmap towards justice in
+urban climate adaptation research. Nat Clim Chang 2016;6:
+131–7.
+58.Malloy JT, Ashcraft CM. A framework for implementing so-
+cially just climate adaptation. Clim Change 2020;160:1–14.
+59.Latulippe N, Klenk N. Making room and moving over: knowl-
+edge co-production, Indigenous knowledge sovereignty and
+the politics of global environmental change decision-making.
+Curr Opin Environ Sustain 2020;42:7–14.
+60.Klenk N, Fiume A, Meehan K et al. Local knowledge in climate
+adaptation research: moving knowledge frameworks from
+extraction to co-production. WIREs Clim Chang 2017;8: 1–15.
+61.Krayenhoff ES, Broadbent AM, Zhao L et al. Cooling hot cities:
+a systematic and critical review of the numerical modelling
+literature. Environ Res Lett 2021;2:0–31.
+62.Berrang-Ford L, Lesnikowski A, Fischer AP et al. The Global
+Adaptation Mapping Initiative (GAMI): Part 1 – Introduction
+and overview of methods, 2021. https://protocolexchange.
+researchsquare.com/article/pex-1240/v1 (18 May 2021, date
+last accessed).
+63.Fischer AP, Callaghan M, Berrang-Ford L et al. The Global
+Adaptation Mapping Initiative (GAMI): Part 2 – Screening pro-
+tocol, 2021. https://protocolexchange.researchsquare.com/ar
+ticle/pex-1241/v1 (18 May 2021, date last accessed)
+64.Lesnikowski A, Berrang-Ford L, Siders AR et al. The Global
+Adaptation Mapping Initiative (GAMI): Part 3 – Coding proto-
+col, 2021. https://protocolexchange.researchsquare.com/arti
+cle/pex-1242/v1 (18 May 2021, date last accessed).
+65.Haddaway NR, Macura B, Whaley P et al. ROSES Reporting
+standards for Systematic evidence syntheses: pro forma,
+ﬂow-diagram and descriptive summary of the plan and con-
+duct of environmental systematic reviews and systematic
+maps. Environ Evid 2018;7:1–8.
+66.Harzing A. Publish or Perish, 2007. https://harzing.com/resour
+ces/publish-or-perish (1 October 2020, date last accessed).
+67.United Nations. Geographic Regions, 1999. https://unstats.un.
+org/unsd/methodology/m49/
+(30
+October
+2020,
+date
+last
+accessed).
+68.World Bank. World Bank Country and Lending Groups, 2019.
+https://datahelpdesk.worldbank.org/knowledgebase/articles/
+906519-world-bank-country-and-lending-groups (30 October
+2020, date last accessed).
+69.Noble IR, Huq S, Anokhin YA et al. Adaptation Needs and
+Options.
+Climate
+Change
+2014:
+Impacts,
+Adaptation,
+and
+Vulnerability. PartA: Global and Sectoral Aspects. Contribution of
+Working
+Group
+II
+to
+the
+Fifth
+Assessment
+Report
+of
+theIntergovernmental Panel on Climate Change, 2014. https://www.
+ipcc.ch/report/ar5/wg2/ (30 November 2020, date last accessed).
+70.Liu T, Xu YJ, Zhang YH et al. Associations between risk per-
+ception, spontaneous adaptation behavior to heat waves and
+heatstroke in Guangdong province, China. BMC Public Health
+2013;13: 1–14.
+71.Tambo JA, Abdoulaye T. Smallholder farmers’ perceptions of
+and adaptations to climate change in the Nigerian savanna.
+Reg Environ Chang 2013;13:375–88.
+72.Martı´nez-Solanas E`, Basaga~na X. Temporal changes in tem-
+perature-related mortality in Spain and effect of the imple-
+mentation of a Heat Health Prevention Plan. Environ Res 2019;
+169:102–13.
+73.White-Newsome JL, Ekwurzel B, Baer-Schultz M et al. Survey
+of county-level heat preparedness and response to the 2011
+summer heat in 30 U.S. States. Environ Health Perspect 2014;
+122:573–9.
+74.Cornes IC, Cook B. Localising climate change: heatwave
+responses in urban households. Disaster Prev Manag 2018;27:
+159–74.
+75.Shameem MI, Momtaz S, Kiem AS. Local perceptions of and
+adaptation to climate variability and change: the case of
+shrimp
+farming
+communities
+in
+the
+coastal
+region
+of
+Bangladesh. Clim Change 2015;133:253–66.
+76.Jacobi J. Agroforestry in Bolivia: opportunities and challenges
+in the context of food. Environ Conserv 2016;43:307–16.
+77.Ofoegbu C, Chirwa PW, Francis J et al. Assessing forest-based
+rural communities’ adaptive capacity and coping strategies
+for climate variability and change: the case of Vhembe dis-
+trict in South Africa. Environ Dev 2016;18:36–51.
+78.Mach KJ, Lemos MC, Meadow AM et al. Actionable knowledge
+and the art of engagement. Curr Opin Environ Sustain 2020;42:
+30–7.
+79.Lemos MC, Arnott JC, Ardoin NM et al. To co-produce or not
+to co-produce. Nat Sustain 2018;1:722–4.
+80.Walter M, Suina M. Indigenous data, indigenous methodolo-
+gies and indigenous data sovereignty. Int J Soc Res Methodol
+2019;22:233–43.
+81.Kjellstrom T, Briggs D, Freyberg C et al. Heat, human perfor-
+mance, and occupational health: a key issue for the assess-
+ment of global climate change impacts. Annu Rev Public Health
+2016;37:97–112.
+82.Kjellstrom T, Holmer I, Lemke B. Workplace heat stress,
+health and productivity-an increasing challenge for low and
+middle-income countries during climate change. Glob Health
+Action 2009;2.
+83.Green H, Bailey J, Schwarz L et al. Impact of heat on mortality
+and morbidity in low and middle income countries: a review
+of the epidemiological evidence and considerations for future
+research. Environ Res 2019;171:80–91.
+12
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024
+84.Teixeira EI, Fischer G, Van Velthuizen H et al.
+Global hot-
+spots of heat stress on agricultural crops due to climate
+change. Agric For Meteorol 2013;170:206–15.
+85.Escarcha JF, Lassa JA, Zander KK. Livestock under climate
+change: a systematic review of impacts and adaptation.
+Climate 2018;6: 1–17.
+86.Prokopy LS, Arbuckle JG, Barnes AP et al. Farmers and climate
+change: a cross-national comparison of beliefs and risk per-
+ceptions in high-income countries. Environ Manage 2015;56:
+492–504.
+87.Barreca A, Clay K, Deschenes O et al. Adapting to climate
+change: the remarkable decline in the US temperature-mor-
+tality relationship over the twentieth century. J Polit Econ
+2016;124:105–59.
+88.Lundgren-kownacki K, Hornyanszky ED, Chu TA et al.
+Challenges of using air conditioning in an increasingly hot
+climate. Int J Biometeorol 2018;62:401–12.
+89.Beillouin D, Schauberger B, Bastos A et al. Impact of extreme
+weather conditions on European crop production in 2018.
+Philos Trans R Soc 2020;375: 1–13.
+90.Siders AR, Hino M, Mach KJ. The case for strategic and man-
+aged climate retreat. Science 2019;365:761–4.
+91.Kates RW, Travis WR, Wilbanks TJ. Transformational adapta-
+tion when incremental adaptations to climate change are in-
+sufﬁcient. Proc Natl Acad Sci USA 2012;109:7156–61.
+92.Jagannathan K, Arnott JC, Wyborn C et al. Great expectations?
+Reconciling the aspiration, outcome, and possibility of co-
+production. Curr Opin Environ Sustain 2020;42:22–9.
+93.Reckien D, Creutzig F, Fernandez B et al. Climate change, eq-
+uity and the Sustainable Development Goals: an urban per-
+spective. Environ Urban 2017;29:159–82.
+94.Magnan AK, Schipper ELF, Duvat VKE. Frontiers in climate
+change adaptation science: advancing guidelines to design
+adaptation pathways. Curr Clim Chang Reports 2020;6:166–77.
+Turek-Hankins et al.
+|
+13
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab005/6290719 by guest on 26 August 2024

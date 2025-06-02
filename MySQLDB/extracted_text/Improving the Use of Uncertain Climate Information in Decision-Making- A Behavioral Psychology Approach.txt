@@ -1,0 +1,2673 @@
+ 
+ 
+ 
+ 
+THOUGHT PAPER 
+IMPROVING THE USE OF UNCERTAIN CLIMATE 
+INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH 
+April 2019 
+ 
+ 
+This document was produced for review by the United States Agency for International Development. It was prepared by 
+the Climate System Analysis Group (CSAG) at the University of Cape Town and Chemonics International for the 
+Climate Change Adaptation Thought Leadership and Assessments (ATLAS) Task Order No. AID-OAA-I-14-00013, 
+under the Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (REPLACE) IDIQ. 
+CSAG Contact: 
+Anna Steynor, Head of Climate Services 
+(asteynor@csag.uct.ac.za)  
+Climate System Analysis Group 
+Environmental and Geographical Science 
+University of Cape Town 
+Rondebosch, 7701 
+ 
+ 
+ATLAS reports and other products are available on the Climatelinks website: https://www.climatelinks.org/projects/atlas 
+ 
+Cover Photo: Stephen Brooks, USAID/Burma Tenure and Global Climate Change Project 
+ 
+Chemonics contact:  
+Chris Perine, ATLAS Chief of Party  
+(cperine@chemonics.com) 
+Chemonics International Inc.  
+1717 H Street NW  
+Washington, DC 20006 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE 
+INFORMATION IN DECISION-MAKING:  
+A BEHAVIORAL PSYCHOLOGY APPROACH 
+ 
+ 
+ 
+ 
+April 2019 
+ 
+ 
+Prepared for:  
+United States Agency for International Development  
+Climate Change Adaptation Thought Leadership and Assessments (ATLAS) 
+ 
+ 
+Prepared by: 
+Lorena Pasquini, Anna Steynor, Chris Jack, and Katinka Waagsaether of the Climate System 
+Analysis Group (CSAG) of the University of Cape Town 
+ 
+Chemonics International 
+ 
+This report is made possible by the support of the American people through the United States Agency for 
+International Development (USAID). The contents of this report are the sole responsibility of the Climate System 
+Analysis Group and do not necessarily reflect the views of USAID or the United States government. 
+Neither the University of Cape Town, nor its affiliates, nor their third-party providers guarantee the accuracy, 
+completeness, timeliness, or availability of any information provided in this report. The University of Cape Town, 
+its affiliates or their third-party providers and their directors, officers, shareholders, employees, or agents are not 
+responsible for any errors or omissions, regardless of the cause, or for the results obtained from the use of such 
+information. The University of Cape Town, its affiliates, and their third-party providers disclaim any and all 
+express or implied warranties, including, but not limited to, any warranties of merchantability or fitness for a 
+particular purpose or use. In no event shall the University of Cape Town, its affiliates, or their third-party 
+providers and their directors, officers, shareholders, employees, or agents be liable to any party for any direct, 
+indirect, incidental, exemplary, compensatory, punitive, special, or consequential damages, costs, expenses, 
+legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection 
+with any use of such information even if advised of the possibility of such damages. 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  i 
+ 
+CONTENTS 
+EXECUTIVE SUMMARY ·················································································· 2 
+OVERVIEW ..................................................................................................................... 2 
+BACKGROUND ............................................................................................................... 2 
+STUDY APPROACH ....................................................................................................... 3 
+KEY FINDINGS ............................................................................................................... 3 
+UNDERSTANDING DECISION DRIVERS THROUGH CO-LEARNING .......................... 5 
+SUMMARY AND RECOMMENDATIONS ........................................................................ 6 
+1. INTRODUCTION AND CONTEXT ·································································· 7 
+2. OVERVIEW OF THE LITERATURE ································································ 8 
+2.1 EXPERIENTIAL VS. ANALYTICAL DECISION-MAKING .......................................... 8 
+2.2 THE FRAMING EFFECT ........................................................................................... 9 
+2.3 DELAY AND PROBABILITY DISCOUNTING .......................................................... 10 
+CONCLUSION .............................................................................................................. 13 
+3. METHODOLOGY ·······················································································14 
+3.1 EXPERIENTIAL COMMUNICATION: NARRATIVES AND INFOGRAPHICS .......... 14 
+3.2 FEEDBACK ON THE NARRATIVES FOR DECISION-MAKING .............................. 15 
+3.3 INVESTIGATING MESSAGE FRAMING ................................................................. 15 
+4. RESULTS AND DISCUSSION ······································································18 
+4.1 EXPERIENTIAL FORMATS OF COMMUNICATION ............................................... 18 
+4.2 MESSAGE FRAMING EXPERIMENTS ................................................................... 20 
+4.3 DISCUSSION .......................................................................................................... 28 
+5. MOVING BEYOND CLIMATE INFORMATION: UNDERSTANDING 
+DECISION DRIVERS THROUGH CO-LEARNING ······································33 
+5.1 CO-VISIONING THE CLIMATE INFORMATION DECISION CONTEXT .................. 33 
+6. SUMMARY AND RECOMMENDATIONS ·······················································37 
+7. REFERENCES ··························································································39 
+ANNEX 1: MAPUTO RISK NARRATIVES AND INFOGRAPHICS ··························44 
+ANNEX 2: SURVEY QUESTIONS ····································································51 
+ANNEX 3: SURVEY STATISTICS ····································································63 
+ 
+ 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  2 
+ 
+EXECUTIVE SUMMARY 
+ 
+OVERVIEW 
+Climate change information is presented with a range of uncertainty about the extent of potential 
+risks and the impacts of those risks that can be overwhelming to nonscientists. This is often an 
+acknowledged barrier to the uptake and use of climate information to inform decisions, raising 
+questions about people’s perception and planning in an environment of uncertainty, risk, and 
+gaps in knowledge. This study applied principles from behavioral psychology to explore 
+decision-making with uncertain climate information to explore the utility of these principles for 
+influencing decision-makers to use uncertain climate information. 
+ 
+BACKGROUND 
+A review of the behavioral psychology literature identified three principles that are relevant to 
+decision-making under the uncertainties of climate information—experiential information, the 
+message-framing effect, and delay and probability discounting: 
+• 
+Information needs to target the experiential system. The human brain relies on two 
+processing systems to guide decision-making, the experiential and the analytical. 
+Experiential thinking is more prevalent than analytical thinking. However, climate 
+change information is generally communicated and presented in abstract and analytical 
+language, especially to decision-makers. Some of the many ways in which information 
+could be shaped to appeal to the experiential processing system include scenarios; 
+translations of information into images, emoticons or stories; and tailoring to the 
+emotional context of the audience.  
+• 
+Message framing can help to elicit action. A number of studies argue that a solution 
+to the possible inaction that results from communicating the uncertainties of climate 
+change information may lie in the framing of uncertain messages. For example, 
+framing a climate change message as either a loss or a gain may result in different 
+levels of action on the message.  
+• 
+Willingness to take action is driven by the immediacy of the benefit or loss, no 
+matter how small. Because climate change information presents a long-term uncertain 
+risk as opposed to a present risk, action is influenced accordingly. Behavioral 
+psychology describes this as delay and probability discounting. In decision theory, 
+discounting refers to how much the value of a reward (or punishment) is decreased 
+when its occurrence is either delayed or uncertain. People generally prefer a small 
+reward sooner over a large reward later, and it is generally assumed that this relates to 
+the subjective value of a delayed reward being discounted, while an immediate reward is 
+not. Responses to probabilistic rewards have been found to elicit similar effects, in that 
+individuals would prefer a smaller certain reward over a larger probabilistic reward. 
+  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  3 
+ 
+STUDY APPROACH 
+A practitioner workshop and a widely distributed survey garnered insights into people taking 
+action under uncertainty. The workshop and surveys also tested the influence of different 
+communication techniques on people’s propensity to act. 
+ 
+For experiential communication formats, the study explored climate risk narratives and 
+infographics. Climate risk narratives are a set of text-based stories, each presenting a possible 
+future, and the set spanning the range of uncertainty. These risk narratives were also presented 
+as infographics, a visual representation with minimal text. The narratives and infographics were 
+both investigated and compared in a workshop that was held with health sector specialists in 
+Mozambique on 21 June 2017.  
+ 
+To test the effect of message framing, and due to the requirements for a large sample, online 
+surveys were developed and distributed widely through sector-specific mailing list networks. 
+This was undertaken in two phases: the phase 1 survey for the health sector garnered a total of 
+119 responses, though some of these were incomplete (leaving 102 for full analysis); phase 2 
+included two surveys, one for the health sector and one for the water, sanitation, and hygiene 
+(WASH) sector, garnering 90 responses from the health sector and 58 responses from the 
+WASH sector. Unlike the phase 1 survey, the phase 2 surveys included a sector-specific 
+scenario for both a seasonal timescale (short term) and climate change timescale (long term). 
+The inclusion of the climate change scenario allowed for investigation of the effect of delay 
+discounting on decision-making.  
+ 
+KEY FINDINGS 
+EXPERIENTIAL COMMUNICATION FORMATS 
+In the workshop, practitioners generally preferred the infographic, with its clarity and ease of 
+interpretation, to the more detailed climate risk narrative. They generally agreed, however, that 
+the two are complementary and required for different purposes.  
+ 
+More importantly, people place a heavy emphasis on changing impacts as opposed to changing 
+climate variables such as rainfall and temperature, which calls for more information on detailed 
+impacts or solutions. Also, there was generally very little engagement on the influence of 
+uncertainty on decisions. In fact, only when prompted by the facilitators did the group discuss 
+uncertainties.  
+ 
+MESSAGE FRAMING AND DISCOUNTING EXPERIMENTS  
+The widely distributed surveys allowed for insight into the effect of message framing and delay 
+discounting on action. With the goal of examining whether and how the framing of gain vs. loss 
+influences policymakers and practitioners under uncertainty, the survey data revealed no 
+statistically significant difference in action across the gain-and-loss framings. However, all 
+experiments demonstrated that participants had a marked bias toward taking action, irrespective 
+of the climate probability or framing assigned to the scenario.  
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  4 
+ 
+To better understand these findings, the responses were analyzed qualitatively:  
+• 
+Respondents made decisions using fairly simple guiding principles, rules, or 
+conventions, adopting pre-existing “rules” to guide decision-making. 
+• 
+Respondents appeared to focus on their personal experience and the potential 
+negative outcomes of a scenario, regardless of whether the scenario was framed 
+positively or negatively, and regardless of the probability of the described climate 
+change.  
+• 
+Respondents tended to ignore the information provided by the climate probability, and 
+thus the uncertainty in the climate projections did not necessarily constitute a barrier to 
+action. 
+• 
+The respondents’ decisions were influenced by the information that was provided, as 
+well as the information that respondents decided to focus on within what was provided. 
+ 
+DISCUSSION AND OPPORTUNITIES 
+Dominant rules and principles for action 
+In complex decision-making environments, it would appear that rather than take into 
+consideration climate data, policymakers and practitioners rely on their known “tried-and-tested” 
+strategies to guide decision-making, allowing them to make judgments quickly and efficiently. 
+These “tried-and-tested” strategies may represent a form of status quo bias for general groups 
+or sectors, rather than individuals. Hence, efforts to communicate climate information might 
+benefit from: 
+(I) 
+Understanding the dominant rules or principles for action to which decision-makers 
+subscribe in particular contexts 
+(II) 
+Determining whether those rules or principles naturally align with desired or ideal 
+climate change adaptation and mitigation actions 
+Bringing messages “closer to home” encourages people to act 
+The results suggest that respondents applied their “tried-and-tested” principles for action not 
+only because this is their fallback response, but also because they were sufficiently convinced 
+that the risk was significant enough to require action. This aligns well with other research which 
+suggests that proximizing climate change, bringing it “closer to home” for people, will make 
+them more likely to engage with the issue. It is possible that the use of the climate risk 
+narratives (which situate the respondent temporally close to the climate impact) may have had 
+that effect.  
+Fear-framing encourages action 
+The surveys may have emotively struck respondents by being inadvertently “fear framed” 
+through the use of emotive language in the decision scenario. Evidence from the field of 
+psychology suggests that fear framing can indeed be effective in motivating change of various 
+behaviors, which may, in part, explain the bias toward taking action. 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  5 
+ 
+Laying out a course of action encourages action  
+The literature suggests that a feeling of efficacy is one key determinant of action, and the 
+messages most effective for achieving a change in behavior stress the negative consequences 
+of the current behavior while recommending ways to avoid the negative consequences. Most 
+respondents took action, and in part this might have been because the survey provided a 
+course of action—which is consistent with recommendations for increasing people’s perceived 
+efficacy to act. 
+ 
+Framing risks to communities rather than individuals encourages action 
+Framing climate change as a societal risk could increase its relevance for practitioners or 
+policymakers who have to make decisions for communities or society at large. In practice, this 
+suggests that individual decisions, where one is making a choice for oneself, will differ from 
+decisions for a community or society. This could explain respondents’ bias toward taking action: 
+many were decision-makers working for a wider community. Community risk and decision-
+making is a topic worthy of future investigation.  
+ 
+Climate data justified rather than influenced actions   
+Both in the workshop exercises and in the message-framing survey, there was generally little 
+engagement with climate data and with the notion of uncertainty. Where survey respondents 
+took climate information into account, they often interpreted the climate projection in ways that 
+allowed them to justify decisions made on other grounds, rather than to “objectively” use the 
+climate data in decision-making. The implication for the climate services/communication fields is 
+that moderating the uncertainty in climate data—or even communicating such uncertainty more 
+effectively—may not matter as much as has been assumed. 
+ 
+UNDERSTANDING DECISION DRIVERS THROUGH CO-LEARNING 
+Co-learning can foster greater uptake of climate information. Working with decision-
+makers to identify and design climate messages under specific decision contexts is also 
+called transdisciplinary co-learning. Transdisciplinary co-learning enhances understanding of 
+the decision context by making explicit the current knowledge, values, norms, and approaches 
+to decision-making, not just among the decision-makers but all those with climate expertise and 
+other relevant expertise, including climate scientists. See box below for more information on 
+transdisciplinary approaches. 
+One example of a co-learning approach was the co-visioning exercise during the development 
+of climate risk narratives to be used in the survey instruments. Together with practitioners, the 
+research team envisioned, described, and documented (using their own terminology) a holistic 
+future of their sector or region, excluding potential climate changes. This co-visioning makes 
+explicit the goals and drivers of decisions in the sector. Understanding the goals and drivers is 
+arguably more important for integrating climate information into decision-making than the end-
+product of the climate risk narrative itself. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  6 
+ 
+SUMMARY AND RECOMMENDATIONS 
+The following approaches can help engage decision-makers on climate change issues: 
+• 
+Frame climate information, impacts, and solutions in ways that are consistent with 
+the rules and principles for decision-making within a sector.  
+• 
+Focus on providing information that resonates with the backgrounds, 
+characteristics, and real-world experiences of decision-makers, taking advantage of 
+the effects of fear framing and perceived efficacy to act.  
+• 
+Target the experiential processing system by providing examples of climate impacts 
+that are concrete, personalized, and vivid. 
+• 
+Acknowledge that information alone will be insufficient to change behavior. There 
+will be situations where the status quo and context for decision-making do not align well 
+with addressing climate change, and there will be situations in which the backgrounds, 
+characteristics, and real-world experiences of decision-makers also may work against 
+climate change decision-making and action. In these cases, there is an even greater 
+need for sustained transdisciplinary approaches to integrate climate knowledge into 
+decision-making. 
+ 
+TRANSDISCIPLINARY CO-LEARNING IN A NUTSHELL 
+ 
+Transdisciplinary co-learning is a set of research approaches aimed at bridging boundaries between science 
+and practice in order to develop knowledge that can help to solve or prevent societal problems. Originally 
+applied to sustainable development, the approaches are oriented to real-world issues, accommodate complexity, 
+and integrate different knowledge systems.   
+ 
+A variety of participatory dialogues and methods have been used to facilitate this research, including scenarios, 
+Co-visioning, and institutional mapping, among others.  
+ 
+The aim of these approaches is to: 
+
+Jointly produce targeted products for science, policy, and practitioners 
+
+Integrate results to resolve or mitigate a problem 
+
+Integrate the results into the scientific body of knowledge 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  7 
+ 
+1. INTRODUCTION AND 
+CONTEXT 
+A critical problem of the climate change field is effective communication under uncertainty. 
+Shortcomings of current approaches to climate change communication include the lack of 
+tailoring to specific audiences and the use of jargon. This results in a disconnect between 
+climate science and application in society, which is well documented in the literature. Climate 
+change communication is often led by climate scientists and thus approached through a climate 
+science lens, with little cognizance of other disciplines.  Multidisciplinary approaches to solving 
+problems are rare in academia. Applying knowledge from psychology, behavioral economics, 
+risk analysis, and other fields may enhance/transform climate change communication, including 
+“climate services.”   
+ 
+Overall, the study called into question the common 
+perception that climate uncertainty is a prominent 
+barrier to engagement with climate information. Rather 
+than focusing on climate information, decision-makers 
+tend to focus on impact and solutions-based 
+information and rely largely on personal experience and 
+pre-existing principles and rules. 
+WHAT ARE CLIMATE SERVICES? 
+According to the World Meteorological 
+Organization (WMO), a climate service 
+is a decision-aide derived from climate 
+information that assists individuals and 
+organizations in society to improve 
+decisions. 
+ 
+Source: WMO 2013. 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  8 
+ 
+2. OVERVIEW OF THE 
+LITERATURE  
+The climate change sector poses a problem known as “deep uncertainty” in the literature. Deep 
+uncertainty in a problem is not likely to be reduced by additional research within the time in 
+which a decision must be made. Decision-making under deep uncertainty is one of the most 
+crucial problems in policymaking, and decision-making in climate change is complicated further 
+by uncertainty about the actions to cope with the new climate conditions and impacts. The 
+literature exploring the psychology of decision-making under uncertainty has much to offer 
+climate change communication. The focus here is on the psychology literature that informed the 
+methodology for the study: experiential information, the message-framing effect, and the role of 
+delay and probability discounting.  
+ 
+2.1 EXPERIENTIAL VS. ANALYTICAL DECISION-MAKING 
+Decades of research in social, cognitive, and clinical psychology have shown that the human 
+brain relies on two information processing systems (e.g., Sloman 1996; Chaiken and Trope 
+1999). One system is experiential: it is intuitive, automatic, emotional, and fast. The other 
+system is analytical: it is deliberate, effortful, rational, and slow. While these two systems act 
+together to guide judgment and decision-making, experiential thinking is more prevalent than 
+analytical thinking (e.g., Slovic et al. 2005; Marx and Weber 2012). How we intuitively feel about 
+a situation often has a strong influence on our decision-making. Climate change is studied in 
+statistical terms (e.g., by analyzing long-term changes in temperature and precipitation 
+patterns), and, hence, it is generally presented in abstract and analytical language, especially to 
+decision-makers. This approach, however, assumes that people process uncertain information 
+in a logical and analytical matter, an assumption that has been shown to be generally incorrect.  
+ 
+Marx and Weber (2012) reflect on using scenarios (worst case, best case, most likely case) to 
+help people navigate making decisions with uncertain information. Although sometimes 
+scenarios are criticized as not expounding the full range of uncertainties, they appeal to the 
+experiential processing system. They are most effective if presented alongside contingency 
+plans, especially for the worst-case scenarios. Winkler (2016) further recognizes that few 
+decision-makers can directly use projections of climate variables. Instead, they respond better 
+to information about the change in a parameter that is influenced by the altered climate, for 
+example, frequency of floods (Tribbia and Moser 2008; Prudhomme et al. 2010).  
+ 
+Similarly, Marx et al. (2007) and Harold et al. (2016) suggest that analytical information is best 
+understood when it is tailored to the context of the decision-maker’s situation. This tailoring is 
+best achieved by translating information into images, emotions, or stories of relevance to the 
+decision-maker. Climate information that is tailored to the emotional experiences of the 
+audience has more impact and can attract more public attention. Scenarios, narratives, and 
+analogies can help the audience to engage with climate information and envisage a future 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  9 
+ 
+where the potential consequences of climate change are played out. These influence both 
+personal behavior as well as public policy and is more likely to result in contingency planning. 
+Leiserowitz (2006) reiterates that communication about climate change should be tailored to the 
+needs and predispositions of the target audience.  
+However, while it is beneficial to draw on experience-based decision-making in communication, 
+experiential processing is beset with its own biases, such as the finite pool of worry and single-
+action bias, which refers to the tendency of people, when responding to a threat, to take only 
+one action, even when it provides only incremental risk reduction and may not be the most 
+effective option (Leiserowitz 2006; Shome and Marx 2009). There is also a recent trend in the 
+research about finding ways of communicating that transcend audience segmentation. How 
+does one communicate to a wide range of people across many different audiences in order to 
+overcome the high transactional costs of tailored communication approaches (e.g., Corner et al. 
+2014)? 
+Marx et al. (2007) conclude that both systems—analytic and experiential—should be considered 
+in the format and communication of climate information. If experiential decision-making is not 
+taken into account, many decision-makers will not take into account climate information. The 
+challenge remains to engage both analytic and experiential systems in both group and individual 
+decision-making. 
+ 
+2.2 THE FRAMING EFFECT 
+All information is “framed” by its context. Framing involves emphasizing certain dimensions of 
+an issue over others, setting the context for perception and discussion around specific causes, 
+risks, policy actions, and costs/benefits that might result from these actions (Myers et al. 2012: 
+1106). For example, suggesting that a treatment has a 20% chance of death emphasizes a 
+negative outcome, while suggesting that it has an 80% chance of survival highlights a positive 
+outcome (Morton et al. 2011). Framing can have a significant impact on perceptions of issues 
+and prescriptions for addressing them (e.g., Morton et al. 2011; Baumer et al. 2017). Thus, the 
+framing effect is an example of cognitive bias in which people react to a choice in different ways 
+depending on how it is presented. Framing effects have been studied in a variety of areas, and 
+research on framing and climate change has shown the importance that framing choices can 
+have on climate change perceptions and communication (e.g., Antilla 2005; Myers et al. 2012; 
+Scannell and Gifford 2013). For example, framing a climate change message in terms of loss as 
+opposed to gain is outlined in the prospect theory literature (discussed in subsequent sections).  
+A solution to the inaction resulting from the uncertainties of climate change communication may 
+lie in the framing of uncertain messages (Bertolotti and Catellani 2014; Botzen and van den 
+Bergh 2012; Kumarasiri and Gunasekarage 2017; Morton et al. 2011; Spence and Pidgeon 
+2010). For example, focusing on decision-making among executives in large Australian 
+companies, Kumarasiri and Gunasekarage (2017) found that decision-makers are threat-biased 
+and thus more likely to act on carbon emission management when climate change is framed as 
+a threat rather than an opportunity. They further showed that financial pressure from regulations 
+and threats to a company’s reputation were the main drivers of action among the executives.  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  10 
+ 
+However, the nuances that emerge in studies vary, reflecting how the loss-versus-gain framing 
+is but one factor that interacts with other factors influencing communication. Bertolotti and 
+Catellani (2014) go beyond the “simple” loss-and-gain framing, showing that other levels of 
+message framing and the content of messages are also factors. For example, they found that 
+policy messages on renewable energy sources are more persuasive when the positive 
+outcomes of the policy are presented, especially when emphasizing the benefits to economic 
+growth. However, policy messages on greenhouse gas emissions are more persuasive when 
+the negative outcomes that can be avoided through policy are presented, with an emphasis on 
+safety: for example, avoiding the risk from specific extreme events such as floods or droughts. 
+Spence and Pidgeon (2010) explore the role of both the amount of information remembered 
+from communications and the role of fear in attitudes and action on climate change mitigation.  
+ 
+2.3 DELAY AND PROBABILITY DISCOUNTING 
+Discounting refers to the decrease in the value of a reward (or punishment) when it is either 
+delayed or uncertain (Richards et al 1999: 121). As an old saying goes, “A bird in the hand is 
+worth two in the bush,” and, thus, people tend to prefer what is certain over what is uncertain 
+(Jones and Oaksford 2011). Individuals have been found to prefer a small reward sooner over a 
+large reward later, and it is generally assumed that this relates to the subjective value of a 
+delayed reward being discounted while an immediate reward is not (Myerson et al. 2011). 
+Responses to probabilistic rewards have been found to elicit similar effects, in that individuals 
+would prefer a smaller certain reward over a larger probabilistic reward, and it is generally 
+assumed that this relates to the value of a probabilistic reward being discounted while a certain 
+reward is not (Myerson et al. 2011).  
+ 
+Various studies look at probability and delay discounting (also called temporal discounting), 
+highlighting similarities but also emphasizing the differences. Richards et al. (1999) assess 
+human impulsivity in the context of drug abuse by measuring delay and probability discounting. 
+Their results indicate that there is a positive correlation between delay and probability 
+discounting within subjects, meaning that an individual that displays steep delay discounting 
+also displays steep probability discounting.  
+ 
+Delay discounting predicts that people will be risk-averse for delayed gains and risk-seeking for 
+delayed losses (delay discounting is discussed in greater detail below). Empirical evidence for 
+this effect parallels findings of similar effects on risk-orientation due to probabilistic uncertainty 
+(the appropriate representation for expert judgments of uncertainty presented as a probability 
+distribution for the unknown quantity of interest), as in Kahneman and Tversky’s (1979) prospect 
+theory.  Given the importance of prospect theory (Fiedler and von Sydow 2015), this review 
+considers probability discounting through a prospect theory lens, discussed in further detail 
+below. 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  11 
+ 
+DELAY DISCOUNTING 
+As defined by Odum (2011: 427), “delay discounting is the decline in present value of a reward 
+with delay to its receipt.” Values have been found to decline hyperbolically as the reward 
+becomes more remote. This is the case across different species and populations, as well as 
+across different reward types (Odum 2011).  
+ 
+Kaplan et al. (2014) look at the influence of the delay of an impact on concern about the impact 
+and willingness to act. In their study on the discounting of an environmental loss, participants 
+were given a short narrative that placed them as the owner of a farm exposed to groundwater 
+pollution. Prompted by the time it would take for this impact to make their vegetables inedible, 
+they answered questions about their level of concern as well as the time which they were willing 
+to spend to solve the groundwater pollution challenge. This was repeated for delays of one 
+month, six months, one year, three years, five years, and ten years. Interestingly, they found 
+that with every delay, people discounted the willingness to spend time to solve the challenge at 
+a higher rate than they discounted the level of concern.  
+ 
+While climate change projections are increasingly focusing on near-term timescales, to the 
+extent that a climate change signal is evident in the near term, the strongest messages around 
+projected change tend to focus on the medium-term (mid-century) and distant future (end of the 
+century). Discourse among scientists, the media, and policymakers has mostly considered the 
+consequences of climate change over varying timescales (e.g., 50 to 150 years). Many people 
+view climate change as a psychologically distant, future threat (Leiserowitz 2005; Spence et al. 
+2012), which inhibits action. The influence of delays on prioritization and implementation of 
+climate change adaptation is an interesting area of research to which the delay discounting lens 
+could be applied. Frydman and Camerer (2016) note, in the context of decision-making under 
+uncertainty in the financial field, that when people think about future rewards that are timed to 
+personally important events (for example, saving for college), it increases their motivation, 
+probably because such events make the future more likely and real.  
+ 
+PROBABILITY DISCOUNTING 
+Prospect theory is an account of probabilistic decision-making in economics. It is the most 
+influential theory on decision-making under uncertainty (Botzen and van den Bergh 2012) and 
+provides one lens for further understanding climate change decision-making. Prospect theory 
+departs from the normative theories, which assume the rationality of economic agents; 
+heuristically biased assessments of probability and utility had a strong impact on the theory 
+(Kahneman and Tversky 1979). Developed to explain decisions under uncertainty, prospect 
+theory is grounded in the notion that “decision framing influences the way individuals perceive a 
+problem which then leads to different actions” (Elijido-Ten 2017: 958). In the most basic sense, 
+if considering gains and losses of equal amount, prospect theory assumes that the threat of a 
+loss is generally given more weight than the opportunity to gain (Elijido-Ten 2017). For just one 
+example of the empirical support for prospect theory, Barberis et al. (2001) note that investors 
+are more sensitive to reductions in financial wealth than to increases.  
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  12 
+ 
+In some of their initial work on prospect theory, Tversky and Kahneman (1981) provided 
+experiment participants with a choice between two competing disease treatment programs, one 
+treatment representing risk and uncertainty and the other representing safety and certainty. 
+These were presented through the lens of lives saved or lives lost, yet with the same absolute 
+outcome. When framed in terms of lives saved, people chose the more certain option, while 
+when framed in terms of lives lost, people leaned toward the more uncertain. Prospect theory 
+thus considers people to be more inclined to take risks to avoid losses than they are to take 
+risks when considering gains (Spence and Pidgeon 2010).  
+ 
+Prospect theory emphasizes decision weights over subjective probabilities, in that people are 
+seen as giving more weight to the amount of a possible gain than to the probability of that gain 
+(Myerson et al 2011). For example, people may be aware of the probability of winning when 
+buying a lottery ticket; however, they give more weight to the amount of the possible win. In a 
+similar vein, Botzen and van den Bergh (2012) note that people tend to either neglect or 
+overweight low-probability risks, and that the way in which such risks are communicated plays a 
+large role in shaping subsequent action or inaction. People also tend to neglect or overweight 
+low-probability risks when their personal perception of risk is distant in both time and space.  
+ 
+For climate change decision-making under uncertainty, prospect theory has two major 
+implications:  
+ 
+People have a strong preference for certainty, tending to overvalue options that are certain 
+and be risk-averse for gains. Individuals would rather get an assured, lesser win than take the 
+chance to win more but also risk getting nothing, even though the overall expected value, or 
+outcome, of each choice is equal. Losses are treated in the opposite manner. When aiming to 
+avoid a loss, people become risk-seeking and take the gamble over a sure loss in the hope of 
+losing nothing. Again, both options have equal expected values. These effects could possibly 
+explain why decision-makers are reluctant to implement adaptation measures where the costs 
+exceed the benefits in the present. For example, increasing the design standard of a road 
+surface to cope with possible future increased rainfall intensity only has benefits if that road has 
+to withstand storms of such magnitude. This is an uncertain gain where predictions about future 
+rainfall are uncertain. The costs, however, are incurred in the present. Thus, if decision-makers 
+continue using current design standards, they face a sure gain (money saved) or avoid a larger 
+loss, over an uncertain gain; whereas changing design standards is a sure current loss in return 
+for a future uncertain gain or larger future loss.  
+ 
+People are loss-averse and therefore tend to give losses more weight than gains. Most people 
+act to minimize losses, even though the probability of those losses is tiny. Loss aversion, 
+combined with the tendency to overvalue small probabilities to guard against losses, means that 
+even though the probability of a costly event may be tiny, people would rather accept a smaller, 
+sure loss than risk a large loss. This explains why people take out health or crop insurance, 
+preferring to make a small (but predictable and ongoing) payment to avoid a potentially large 
+loss (usually a loss larger than the premiums they are willing to pay). People’s reactions to 
+losses are more extreme than their reactions to gains.  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  13 
+ 
+Communication of climate science poses a challenge in that details around timescales, 
+magnitudes, and consequences remain uncertain.  In the public eye, that uncertainty erodes the 
+authority of science. The need for further research on integrating the findings of behavioral 
+psychology in climate change communication is evident. 
+ 
+CONCLUSION 
+This literature review made evident the relevance of a better understanding of behavioral 
+psychology and its applications to climate services. Awareness of the theories and research 
+findings of behavioral psychology are valuable for those engaging with decision-makers directly 
+or through websites or publications.   
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  14 
+ 
+3. METHODOLOGY  
+The study methodology focuses on the elements of experiential communication, message 
+framing, and delay and probability discounting.  
+  
+ 
+3.1 EXPERIENTIAL COMMUNICATION: NARRATIVES AND 
+INFOGRAPHICS   
+Narratives are an experimental approach to the communication of uncertain future climates that 
+the Climate System Analysis Group (CSAG) has been testing through the Future Resilience of 
+African Cities and Lands (FRACTAL) project. This study further develops CSAG narratives 
+(described below) to communicate climate information, in combination with infographics.  
+Narratives were a response to frustrations with current climate change communication: “telling 
+stories of future climate” was seen as a more engaging means for climate scientists to explain 
+the science and to communicate for decision-making. Climate scientists assess climate 
+projections for a particular location and describe plausible futures for decision-makers in a set of 
+two to four “stories” that cover a range of future uncertainties. Each story places the reader in 
+the future and describes the location (e.g., Maputo) as it would be 15 to 50 years from the 
+present. For instance, the narrative may start “It is 2035 and average early summer 
+temperatures are 1.5°C higher than they were back in the late 20th century, while winter 
+temperatures are around 1°C higher. Heat waves (more than 5 days above 36°C combined with 
+warm nights) are more common than they used to be….” The narrative goes on to hypothesize 
+the experiential impact of the changed climate, for instance, “Wealthier residents have invested 
+in air conditioning in response, but this, combined with rapid population growth, has contributed 
+to increases in electricity demand, particularly during the summer months.”  
+In some cases, the stories vary considerably from each other. For instance, one narrative may 
+describe a wetter future and another a drier future. Their critical importance, however, is that 
+they describe the interconnection between climate indices in a way that analytical and graphical 
+information cannot. Graphical information provides the scientific basis for the stories. 
+ 
+A few characteristics of relevance to the application of narratives include: 
+• 
+Each of the narratives represents a possible future, within the range of uncertainty, but 
+should not be seen as a definitive projection or representing a certainty about a particular 
+future. They represent speculative futures based on the current evidence and scientific 
+judgment. 
+• 
+Each of these narratives should be seen as equally likely. Therefore, in considering 
+decision-making using these narratives, all the narratives should be taken into account. 
+• 
+These narratives should be used with the underlying evidence in the detailed projection 
+analysis. They should not be used as stand-alone evidence, as they do not represent the 
+entire range of possible futures. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  15 
+ 
+ 
+A graphic designer produced infographics of the information in the narratives. One infographic 
+was developed for each narrative to show explicitly that it was one of many possible future 
+stories. The tabbed illustration at the top of each infographic illustrates and communicates this 
+range of possible futures. The infographics were not accompanied by the graphical information 
+used to develop the narratives. The narratives and infographics for Maputo are in Annex 1.  
+ 
+3.2 FEEDBACK ON THE NARRATIVES FOR DECISION-MAKING 
+To facilitate feedback on the narrative/infographic approach, a workshop was held with the 
+health sector in Mozambique on 21 June 2017. The National Institute of Health in Mozambique 
+(INS) helped to coordinate the workshop participants to get maximum participation in the event. 
+The 18 participants ranged from national government health-related officials to heads of health 
+programs and district health officials. There was also representation from the National 
+Meteorological Service (INAM), the National Institute for Disaster Management (INGC), and 
+Eduardo Mondlane University (Maputo).  
+ 
+One session of the workshop tested the utility of the narratives and the infographics for 
+decision-making. Participants were initially given either the narratives, which included 
+supporting evidence in the form of graphs displaying projections for various variables for 
+Maputo, or the infographics, and asked to spend 15 minutes studying them. Their written 
+answers to questions relating to their recall and comprehension of the information provided 
+insights into the primary messages conveyed by both types of communication. The four 
+discussion groups, each comprising between four to six participants, then provided qualitative 
+feedback with the help of group facilitators.   
+ 
+All materials for the workshop, including narratives and infographics, as well as large parts of 
+the workshop process itself, were translated into Portuguese. An in-house climate scientist from 
+Mozambique translated climate-related workshop materials, and professional simultaneous 
+translators were hired for the day of the workshop. For either of these translation processes, 
+some nuances may have been lost or concepts misunderstood. 
+ 
+3.3 INVESTIGATING MESSAGE FRAMING 
+To test message framing on an uncertain message, a large data collection sample was 
+required. An online survey was developed as a method to garner a large number of responses 
+from two target audiences, health and WASH professionals working for development or 
+planning agencies. Survey respondents were presented with a sector-specific scenario of the 
+future in narrative form (see box on the following page and Annex 2). 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  16 
+ 
+ 
+ 
+The online surveying research was undertaken in two phases. Phase 1 surveyed 119 
+respondents from the health sector using a seasonal health-related scenario (Annex 2). The 
+scenario was structured around the temperature drivers of malaria infection in the coming 
+season.  
+ 
+Phase 2 comprised two surveys for the health sector and the water, sanitation, and hygiene 
+(WASH) sector, respectively. The health sector scenario was structured around heat wave 
+impacts on health, and the WASH scenario focused on the sustainability of the water supply 
+(see Annex 2). A total of 148 responses were received, 90 from the health sector and 58 from 
+the WASH sector.1  
+                                               
+1 A randomization error meant that a disproportional number of WASH participants (n=36) responded to one of the four scenarios, 
+leading to a sampling bias. 
+FRAMING OF CLIMATE MESSAGES IN THE STUDY 
+The scenarios were framed in terms of losses (e.g., lives will be lost) and gains (e.g., lives will be 
+saved) under a climate scenario with a high (65%) and a low (35%) probability of occurrence. 
+This led to four scenarios: 
+• 
+Low climate probability scenario framed as a loss (-) 
+• 
+Low climate probability scenario framed as a gain (+) 
+• 
+High climate probability scenario framed as a loss (-) 
+• 
+High climate probability scenario framed as a gain (+) 
+ 
+Below is an example of a high climate probability/loss scenario (left) and a low climate 
+probability/gain scenario (right).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All scenarios then led to the same final question: 
+Given this information, you need to make a decision. Will you take 10% from 
+the rest of your health budget and invest this into a heatwave planning and 
+response unit? This would mean that you have 10% less funds to address 
+other pressing health concerns. 
+Available seasonal forecast projections 
+indicate a 65% (high) probability that the 
+summer season will be associated with 
+extended and severe heat waves, leading to 
+an increased number of deaths due to 
+heatstroke, respiratory disease, and 
+cardiovascular disease.  
+In order to have the time to set up the 
+required response programs, you would 
+need to set up a heatwave planning and 
+response unit now. If there are extended and 
+severe heat waves in the coming season 
+and you have NOT established the unit, 
+then at least 20% additional people will 
+die from heat-related illnesses in the next 
+summer season.  
+Available seasonal forecast projections 
+indicate a 35% (low) probability that the 
+summer season will be associated with 
+extended and severe heat waves leading to 
+an increased number of deaths due to 
+heatstroke, respiratory disease, and 
+cardiovascular disease. 
+In order to have the time to set up the 
+required response programs, you would 
+need to set up a heatwave planning and 
+response unit now. If there are extended and 
+severe heat waves in the coming season 
+and you have established the unit, then at 
+least 20% additional people will be saved 
+from heat-related illnesses in the next 
+summer season.  
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  17 
+ 
+While only two sectors could be investigated within the scope of the study, the similarities in 
+results between the two sectors suggests that the broad findings could extend to other sectors, 
+though further research will be required to confirm the theoretical generalizability of the findings.    
+ 
+Unlike the phase 1 surveying, the phase 2 surveys included a sector-specific scenario for both 
+the seasonal timescale and climate change timescale (see Annex 2). The inclusion of the 
+climate change scenario allowed for investigation of the effect of delay discounting in decision-
+making. Each respondent was first asked to make an action decision based on a seasonal 
+scenario and, thereafter, the same respondent was asked to make a decision based on a 
+longer-term climate change timescale.  
+ 
+The surveys were distributed widely through mailing list networks. Survey respondents took part 
+on a voluntary basis (with no reward) and included a range of professional functions within each 
+sector, from academics to private- and government-sector practitioners.  
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  18 
+ 
+4. RESULTS AND DISCUSSION 
+Much of the analysis was exploratory and inductive, and therefore many of the insights from the 
+workshop and surveys emerged as a result of the process. 
+4.1 EXPERIENTIAL FORMATS OF COMMUNICATION 
+Infographics were commonly preferred, with their clarity and ease of interpretation, to the longer 
+and more detailed narratives. It was generally agreed, however, that they were complementary 
+and required for different purposes. The narratives provided supporting evidence and the 
+infographic provided an entry point and communication tool for those who do not need to 
+understand the details and science. As noted by one participant, “I think from the middle level 
+manager, he can read this [narrative] and communicate this to the top-level manager.”   
+In addition to this insight, a number of inductive insights emerged. The tasks and discussions 
+provided initial support for the appeal of the impact- and solutions-based information ahead of 
+climate information, as well as the appeal of experiential communication techniques. 
+Importantly, the workshop began to highlight what appears to be a lack of emphasis on 
+uncertainty. Both the focus on negative information and the lack of awareness of uncertainty are 
+explored further in the results from the phase 2 survey. While the workshop methodology was 
+exploratory and not intended to draw out quantitative or representative conclusions, these 
+inductive insights are outlined in more detail below.  
+A FOCUS ON THE IMPACTS RATHER THAN THE DRIVERS OF CLIMATE CHANGE 
+The interactions with both the narratives and infographics reflect an emphasis on changing 
+impacts as opposed to changing climate variables. This supports the argument in the literature 
+that people are generally more responsive to changes in the parameter influenced by a 
+changing climate than to a change in climate per se (Tribbia and Moser 2008; Prudhomme et al. 
+2010). The majority of the information that people remembered were impacts, especially health 
+impacts. All but one person noted health impacts, and several people noted more than one 
+health impact, reflecting that people are drawn to the impacts on their sector.  
+Group discussions also tended toward emphasis on impacts. Discussion of the climate variables 
+was nearly absent. There was a sense that impacts are more tangible, “and you know the 
+impact, it is something that is measurable, not abstract, yes you know,” yet that even more 
+tangible impact information is desired: “So for decision-making, I agree with him, we need 
+numbers. You cannot just say it is expensive, how expensive?” and “Maybe estimate the 
+number of people, especially for the politicians, if they see the numbers, they can say, ‘Wow’.” 
+This is nothing new. The call for more detailed impact information, and in particular the desire 
+for costing, whether of the impact or of the adaptation option, have been widely documented. 
+This shows the importance of ensuring that the impacts described in scenarios, whether 
+presented in a narrative or infographic, are grounded in an understanding of the link between 
+the climate driver and the impact. Much of the presentation will be context-specific  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  19 
+ 
+and thus require thorough understanding of the local context.  This raises ethical issues about 
+who interprets scientific information and how their biases might play a role. 
+ 
+LACK OF AWARENESS OF SCENARIOS AND UNCERTAINTY  
+When prompted to speak about the four scenarios and their meaning, several discussants 
+across the various groups emphasized the similarity of impacts in the two scenarios that they 
+received. As noted in one group, “In both scenarios, they both have increasing temperature and 
+it has impact on malaria,” and as noted in another group, “The majority of the impacts are 
+similar, both in one or the other option.” In another group, a discussant merely noted that, “I 
+would plan with [for] the worst [scenario],” while another sentiment expressed was, “So, it 
+doesn’t matter which scenarios we choose, but because of climate change we’re going to have 
+some impacts.” This nearly contradicts the above-noted call for more detail, yet it may reflect 
+that unless the impacts in the scenarios are clearly distinguishable, people may not notice that 
+there are two scenarios. This observation is supported by the statement, “When you come to 
+this kind of thing, where you have two scenarios, for example, but I see the message is more or 
+less the same. If we could get some information, extract some numbers.” 
+ 
+There was also the sense of increased confidence from the perceived similarity of the impacts: 
+“Although the majority of the impacts are similar, both in one or the other option, the fact that 
+they give us two options makes me think that there is no certainty regarding what’s going to 
+happen. But if they were very different impacts, my doubts would be even bigger, but it is 
+reduced because the impact is almost the same.” However, there was generally little 
+engagement with the notion of uncertainty, unless prompted by the facilitators. In fact, when 
+asked to write down what they could remember, having had 15 minutes to study either the 
+infographic or the narratives, no one mentioned uncertainty, nor did anyone make any reference 
+to there being two different scenarios and what this may imply. When asked to note down the 
+predominant climate uncertainties from the scenarios, most participants just listed projections, 
+with three exceptions—one response noted the uncertainty of the timing of rainfall projections, 
+one noted the timing of temperature projections, and one noted greenhouse gas emissions into 
+the future. Temperature was the most common variable listed, with the majority of responses 
+mentioning temperature in some form, of which four focused solely on temperature. The 
+emphasis on temperature, which was the more certain and consistent projected variable, 
+indicates that the exercise itself was not sufficiently explained and understood, and/or that the 
+concept of uncertainty is not well understood.  
+ 
+When asked to note down the predominant impact uncertainties, most participants (with a few 
+exceptions) again seemed to misunderstand the exercise and/or uncertainty as a concept. Most 
+just listed impacts in a manner that did not reflect a focus on uncertainty. Some answers, such 
+as, “Buying air conditioning as a way of adapting,” “Need more prevention,” and “Local dam 
+(pequenos Libombos) is generally dry,” further confirmed the sense that uncertainty as a 
+concept was misunderstood. Only a few responses seemed to reflect on the uncertainty of an 
+impact: 
+• 
+“Mosquito developmental condition” 
+• 
+“Changes in agricultural crops with changes in the beginning of the rainy season” 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  20 
+ 
+• 
+“Increased number of malaria cases” 
+• 
+“Socio-economic changes? How does this play out?” 
+• 
+“Where exactly do coastal erosion impacts occur? Are there people in these places and 
+or infrastructures?” 
+Discussions of scenarios and uncertainty, while much prompted by the facilitators, did lead to 
+some reflections and unpacking of nuances. While there were comments like, “One of these two 
+will happen, and are happening now,” there were also comments such as, “It is difficult to 
+measure what to expect in the future taking into consideration that the two realities are two 
+extreme points.” And, “There is no “one plus one equals two” in the meteorological forecasts. So 
+these are scenarios, these are forecasts but sometimes they fail.”  
+ 
+Narrative scenarios are not necessarily an educational endpoint tool in themselves. However, in 
+workshop group discussions, narratives can trigger discussions on uncertainty, and, as noted by 
+Marx and Weber (2012), help people navigate decision-making under uncertainty.  
+ 
+4.2 MESSAGE FRAMING EXPERIMENTS 
+Much research in the health field aimed at increasing the persuasiveness of promotional 
+messages has focused on the effect of gain/loss message framing (Bosone and Martinez 2017). 
+Less research on how practitioners and policymakers react to gain/loss framing appears to have 
+been conducted (compared with that conducted on the general public). Further, no research 
+appears to have been carried out on the effect of gain/loss framing on decision-making under 
+uncertainty, when the uncertainty lies not in the outcomes, but in the climate driver in a 
+scenario. Therefore, this study investigated how a gain/loss framing might influence the 
+decisions of policymakers and practitioners under uncertainty on either health or WASH 
+scenarios affected by climate parameters. The total number of respondents who voted yes or no 
+to the action questions is summarized below. There were no statistically significant differences 
+between gain framing and loss framing in the phase 1 and phase 2 health surveys (refer to 
+Annex 3). While the WASH survey had strong significance, the test results are not reliable due 
+to the highly skewed sample sizes among the four pairs of scenarios (Annex 3).2  
+ 
+Phase 1 
+Yes 
+No 
+Health Sector Seasonal Scenario 
+91 
+28 
+ 
+Phase 2 
+Yes 
+No 
+Health Sector Seasonal Scenario 
+56 
+34 
+Health Sector Long-Term Scenario 
+63 
+27 
+                                               
+2 To mitigate the skewed sample sizes, a more uniform sample size was modelled for the WASH survey (using the 
+percentages to extrapolate what would have been expected given 15 samples on each question), and the result was 
+not significant at any reasonable probability for the WASH questions. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  21 
+ 
+Phase 2 
+Yes 
+No 
+WASH Seasonal Scenario 
+41 
+17 
+WASH Long-Term Scenario 
+49 
+9 
+ 
+Neither the gain nor the loss framing had an effect on respondents’ choices. Thus, in these 
+experiments, it would appear that a gain/loss framing approach cannot modify health or WASH 
+practitioners’ or policymakers’ decision-making under climate uncertainty. On the other hand, all 
+experiments demonstrated that participants had a marked bias toward taking action, irrespective 
+of the climate probability or framing assigned to the scenario: in all surveys, the proportion of 
+respondents replying “yes” to the decision to invest was statistically significantly higher than the 
+proportion of respondents replying “no” (Annex 3).3 This preference toward taking action was 
+particularly significant under the long-term climate change scenarios. The proportions of 
+respondents replying, “Yes, they would invest” or “No, they would not invest” also did not 
+change (in a statistically significant manner) between all the low-probability scenarios and all the 
+high-probability scenarios, or between all the gain-framed scenarios and all the loss-framed 
+scenarios, i.e., summing across all surveys (Annex 3).4 To better understand these findings, the 
+respondents’ reasons for their choices were qualitatively analyzed. The main findings from the 
+qualitative analysis are discussed below. 
+ 
+APPLYING PRE-EXISTING “RULES” TO GUIDE DECISION-MAKING 
+In the first place, the qualitative analysis suggests that people in groups or sectors make 
+decisions using simple guiding principles, rules, or conventions, for example, in the health field, 
+the principle that “prevention is better than cure/treatment.”  Understanding and being explicit 
+about these “rules” may be important to understanding how a given audience will respond to 
+certain scenarios and an important part of the discussion. 
+ 
+Respondents5 who replied, “Yes, they would invest,” to the decision statement in the phase 1 
+survey prevalently gave a “prevention is better than cure” reason to explain their decision (82% 
+of those replying “yes”). This included both general “prevention is better than treatment” 
+responses or qualified responses (i.e., prevention is better than treatment because it is more 
+cost-effective, or because it saves more lives/prevents illnesses). Examples of typical responses 
+include: 
+“Preventing additional cases of malaria may result in lower future cost of treatment for 
+malaria and therefore a potential reduction in spending on treatment.” 
+                                               
+3 Naturally, a survey question cannot measure whether a participant would actually act or not act as stated if 
+confronted by the same decision in a real-life situation, but can only provide a proxy measure.  
+4 In other words, the proportion of respondents replying “no,” for instance, did not change significantly under either high- 
+or low-probability scenarios, or under gain or loss scenarios. 
+5 Please note that although in phase 2 a respondent replied to both the seasonal and the long-term climate scenarios, 
+their responses were counted as if they were different respondents because the qualitative reasons for their 
+responses were in many cases different for the different scenarios. Hence, when the word “respondent” is used, in 
+reality it stands for “response.” Further, when total numbers of respondents are given, this refers to the total number 
+of respondents who provided an answer to explain their decision. The minority of respondents who did not provide 
+answers to explain their decision are not counted, as they could not be part of the qualitative analysis. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  22 
+ 
+“The 'proactive' approach is way much better than the 'reactive' approach. Simply put, 
+'prevention is better than cure.'” 
+“On balance [you] can reduce the burden of malaria disease more with prevention than 
+treating the limited number of cases the budget will allow.” 
+Respondents who replied, “Yes, they would invest” to the decision statement in the phase 2 
+health survey also prevalently gave a “prevention is better than cure” reason to explain their 
+decision (70% of those replying “yes”).  
+A similar principle explained the majority of responses in the WASH surveys. Respondents who 
+replied, “Yes, they would invest” in response to both the seasonal change scenario and the 
+climate change scenario usually cited this principle to explain their decision (76% of those 
+replying “yes”). Typical responses illustrating the dominance of this principle in the WASH sector 
+include: 
+“What is clear however is that the provision of a sustainable water service MUST 
+[respondent’s own capitalization] be based on long term thinking. Therefore, we must 
+make difficult decisions now that may only bear fruit in the medium to long term.” 
+ 
+“Water planning is [a] long term planning [activity] and not a reactive activity.” 
+The comments illustrate respondents’ belief that taking anticipatory action is more important 
+than taking reactive action, regardless of whether the probability of the climate projection in the 
+scenario was low (as in the case of the first comment) or high (as in the case of the second 
+comment).  
+The reliance of practitioners/decision-makers on the “prevention is better than cure” frame could 
+be interpreted as an example of status quo bias at work. The status quo bias is an example of a 
+key behavioral economics concept relevant to decision-making (e.g., Matjasko et al. 2016). 
+Status quo bias refers to the tendency of people to inertia and to not deviate from the default 
+option or reverse their earlier decisions. When faced with difficult choices, people are more 
+likely to choose the status quo (Fleming et al. 2010). In this study, practitioners and policy-
+makers deciding on an action under uncertainty and incomplete information may have relied on 
+their known default response, that of “prevention is better than cure,” as evinced by the large 
+majority of respondents who used this mantra to explain their decision. However, it is likely that 
+the default responses guiding the decisions of practitioners and policymakers under uncertainty 
+will vary by sector; “prevention is better than cure” is a principle long associated with the health 
+sector, and apparently has relevance also for the WASH sector. But it may not guide or explain 
+decision-making across all sectors.  
+A FOCUS ON POTENTIAL NEGATIVE OUTCOMES AND PERSONAL EXPERIENCE 
+Respondents appeared to focus on the potential negative outcomes of a scenario, regardless of 
+whether the scenario was framed positively or negatively, and regardless of the actual climate 
+probability. Thus, regardless of the probability of an outcome, the potential that such an 
+outcome might occur appeared to “loom large” for respondents.  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  23 
+ 
+For example, regardless of a high or low chance that malaria prevalence might increase (as a 
+result of an increase in temperature), and regardless of “lives lost” or “lives saved” framing, 
+respondents appeared to focus on the fact that malaria could increase (or that heat-related 
+deaths could increase, or that water demand might exceed supply).  
+In the phase 1 survey, 36% of the respondents who chose to take action (replied “yes” to the 
+investment decision) showed a concern about the potential negative outcomes of the scenario 
+in the explanation for their decision. In phase 2, this proportion was 25% for the health survey 
+and 39% for the WASH survey. In the following comments, respondents express concerns with 
+the size of the potential loss (first and second comment) and/or the consequences of the loss 
+(third and fourth comments), as well as their focus on the possibility of negative outcomes, 
+rather than the actual probability (second and fourth comments): 
+“My KPI [key performance indicator] is to reduce death/loss of life. 120 000 people is 
+significant enough for me to justify expenditure.” (phase 1 survey, 65% probability) 
+“Although there is a low probability, the possibility of the projected 20% increase in 
+deaths affected my decision.” (phase 2 health survey, 35% probability) 
+“Water is life! If you do not apply water restrictions, not only do people suffer, but 
+industry and other services also suffer, with consequences way beyond a 15% loss in 
+income.” (phase 2 WASH survey, 65% probability) 
+“There is a possibility that failure to implement restrictions will result in the city running 
+out of water in the following season. Knowing this, yet failing to implement restrictions, is 
+taking a gamble with stakes that are too high.” (phase 2 WASH survey, 35% probability) 
+As such, the respondents’ decisions might be influenced by the psychological bias of 
+“negativity.” The negativity bias gives greater value to negative information than to positive 
+information: the effect describes situations in which there is a greater impact of negative versus 
+positive stimuli on a subject, and as such, evidence suggests that negative information in 
+general has a stronger impact on decision-making than equivalent positive information. The 
+effect embraces a wide range of empirical phenomena (Peeters and Czapiński 1990; 
+Baumeister et al. 2001). In general, compared with positive information, negative information is 
+more likely to seize attention, receives more thorough and conscious processing, and 
+contributes more strongly to forming impressions (Baumeister et al. 2001).  
+Consistent with the literature, negativity bias was expected to manifest as loss aversion, which 
+is an important concept of prospect theory. It predicts that losses motivate behavior more than 
+equal gains (Kahneman and Tversky 1979). It was expected that respondents’ decision-making 
+might be different under gain vs. loss framings, but no such effect was observed, as stated 
+previously. However, the qualitative responses suggest that negativity bias may indeed be 
+affecting respondents, but not in the framing of the scenario. Respondents appear to be swayed 
+more by the possibility that a negative outcome might occur at all than by the frame in which the 
+scenario is couched (or, as stated, by the probability of a negative outcome).  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  24 
+ 
+Quite simply, respondents in the health surveys appeared to care about the possibility that lives 
+might be lost above other considerations. This may, of course, simply be a reflection of another 
+dominant mentality in the health sector, that “lives cannot be costed.” However, this focus on 
+negative outcomes appeared in the WASH surveys as well, even more strongly than in the other 
+surveys. Respondents in the WASH examples appeared to care about the possibility that water 
+might run out, a life-threatening situation, above considerations of the probability of this outcome 
+or its framing. 
+Respondents’ focus on potential negative outcomes might be explained in part by their own 
+experiences and knowledge of the “real world.” Some respondents explicitly drew upon their 
+own knowledge and experiences to explain their responses, rather than the information 
+presented in the scenario—10% of respondents across all surveys (and 84% of these were 
+respondents who replied “yes” to the decision about whether to invest). Other respondents 
+might also have been drawing upon their personal experiences without making this as clear in 
+their responses.  
+A key behavioral economics concept relevant to decision-making is the availability heuristic, 
+which refers to the tendency of people to judge the probability of an event by how readily an 
+example comes to mind (e.g., Matjasko et al. 2016). Retrievability of an instance (cognitive 
+“availability” of the instance) is critical for this type of heuristic and is favored by personal 
+experience and the salience and vividness of the instance itself (Tversky and Kahneman 1974; 
+Sunstein 2006). As such, the availability heuristic may have played a role in respondents’ 
+decision-making because the surveys were sent primarily to participants in sectors directly 
+related to the scenarios in each survey; i.e., health scenarios were primarily sent to participants 
+from the health sector, and the WASH scenarios were primarily sent to participants from the 
+WASH sector. Thus, it would have been easy for the participants to bring examples of the risks 
+in the scenarios to mind. For example, Matjasko et al. (2016: S14) note that “diseases or 
+conditions faced by a friend or which are the topic of news coverage and advertising tend to 
+increase an individual’s perception of their personal risk of the disease.” In a similar vein, health 
+sector respondents familiar with malaria (for example) might easily think of examples of malaria 
+outbreaks, thus affecting their decision-making. The following quote is from a respondent who 
+appears to have learned to take action from his experiences of malaria in his country:  
+“I come from a seriously infected malaria country […]. I know the impact on the 
+community, especially on poor people.” 
+A WASH survey respondent provided an example of relying upon her recent and personal 
+experiences with a water shortage event: the respondent is from South Africa and references 
+“Day Zero” to explain her decision to take action. “Day Zero” is the day when Cape Town 
+officials will be forced to cut off the normal piped water supply to 75% of the city's households, 
+following a severe 3-year drought (e.g., AFP 2018). 
+“Being prepared well in advance costs less in the long run than ignoring the trend, and 
+then having to spend in a hurry, without sufficient planning, when 'Day Zero' is 
+imminent!”  
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  25 
+ 
+UNCERTAINTY IS NOT NECESSARILY A BARRIER TO ACTION 
+In general, the analysis suggests that people tend to ignore the climate probability, which was 
+expected to help them navigate the complexity of the decision. In fact, the analysis 
+demonstrated that only around a third of respondents mentioned the climate probability in their 
+response (27% of respondents in the phase 1 survey, 36% in the phase 2 health survey, and 
+33% in the phase 2 WASH survey). A third of respondents is not a significant proportion 
+because the climate probability was emphasized in the scenario. 
+ 
+The analysis suggests that participants’ pre-existing beliefs, perceptions, and/or knowledge 
+might be playing a greater role in motivating their decision-making than the climate information 
+in the scenarios. This inference comes from two main findings: 
+• 
+8% of respondents who replied ”yes” to the investment decision in phase 1, 25% 
+of respondents in the phase 2 health survey, and 13% in the WASH survey, 
+brought up their expectation that climate change would make the risk outlined in 
+the scenario more probable. While these proportions, apart from the phase 2 
+health example, are not high, they are interesting because the scenarios did not 
+mention “climate change” per se and would thus not have prompted respondents 
+to raise the issue (the same way the mention of the climate probability would 
+have been expected to prompt them to mention this factor).  
+• 
+Respondents who raised their beliefs regarding the impacts of climate change 
+did so autonomously, and two-thirds brought up these beliefs as a reason for the 
+decision in their responses without even mentioning the climate probability in the 
+scenario. Some quotes of respondents who brought up their climate change 
+beliefs as part of their explanations for their decision follow: 
+ 
+“With climate change, the temperatures may increase every year, meaning the malaria 
+may become more of a problem. Malaria is so hard to contain. I would suggest the 10% 
+increase from this year” (phase 1 survey, 35% climate probability) 
+ 
+“I recognize that heat waves are a consequence of climate change, and we need to be 
+able to respond to such public health threats appropriately” (phase 2 health survey, 
+seasonal statement, 35% probability) 
+ 
+“Investing in alternative water sources is good long-term planning. Even if rainfall does 
+not decline within the period stated, investments in alternative water sources could pay 
+dividends in future years or in the event of other types of emergency. With no evidence 
+that the effects of climate change will reduce in severity in the out-years, this seems to 
+be a reasonable budget expenditure for both the long- and short-term” (WASH survey, 
+long-term statement, 35% probability) 
+ 
+As the quotes make evident, respondents did not bring up the climate probability and relied 
+upon their pre-existing belief/knowledge of climate change to explain their decision, even when 
+the scenario gave a low probability for temperature increase.  
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  26 
+ 
+The second finding about the importance of participants’ pre-existing beliefs and perceptions 
+was that respondents often appeared to read and/or “use” the probability in ways that justified 
+their desired course of action, rather than “objectively” evaluating the probability.  
+ 
+Across all the surveys, similar proportions of participants who replied “Yes, they would invest” 
+and “No, they would not invest” noticed the climate probability (30% of the “yes” respondents 
+and 39% of the “no” respondents). However, interesting results emerge when considering 
+whether respondents interpreted the climate probability in the manner/direction they would have 
+been expected to, i.e., whether they interpreted it as “high” or “low” consistent with how it was 
+set out in the scenario. Across all the surveys, when the climate probability was 65%, all the 
+“yes” respondents who noticed the climate probability interpreted it “as expected,” i.e., they 
+interpreted it as a “high” probability. When the climate probability was 35%, all the “no” 
+respondents who noticed the climate probability interpreted it “as expected,” i.e., they 
+interpreted it as a “low” probability. However, when the climate probability was 35%, the vast 
+majority of the “yes” respondents who noticed the climate projection (85%, across all surveys), 
+perceived it in a manner contrary to that which would have been expected: they did not perceive 
+it as low, in some cases even interpreting it as evidence that the negative outcomes were, in 
+fact, likely to manifest.  
+ 
+“Based on a 35% probability of an increase in temperature […] I would allocate 20% 
+more.” (phase 1 survey, 35% probability) 
+ 
+ “35% is not low - it is about 1/3.” (phase 2 WASH survey, statement based on seasonal 
+scenario, 35% climate probability) 
+ 
+“The long-range prediction assures that there will be an event with severe 
+consequences.” (phase 2 health survey, statement based on climate-change scenario, 
+35% climate probability) 
+ 
+“Yes, because you know with certainty that at least an additional 20% will die from heat-
+related illnesses.” (phase 2 health survey, statement based on seasonal scenario, 35% 
+climate probability) 
+ 
+The first two quotes demonstrate how respondents take the 35% climate probability as sufficient 
+for action, while the latter two quotes highlight how some respondents go so far as to take the 
+35% probability as a certainty that negative effects will occur. Finally, across all the surveys, 
+when the climate probability was 65%, the majority of “No, they would not invest” respondents 
+who noticed the climate probability, perceived it in a manner contrary to that which would have 
+been expected (4 out of 5, i.e., 80%): they did not perceive it as high, or a sufficiently high 
+probability. 
+ 
+Additionally, phase 2 respondents were significantly more likely to take action under the long-
+term climate change scenarios. This is surprising because of delay discounting and research 
+reporting that many people view climate change as a psychologically distant, future threat 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  27 
+ 
+(Leiserowitz 2005; Spence et al. 2012). Unfortunately, the qualitative analysis did not suggest 
+any strong explanations for this finding. However, among the responses of participants to the 
+long-term scenarios who interpreted a 35% climate probability contrary to what would have 
+been expected, about two-thirds interpreted a 35% probability over the long term as being 
+somehow “more convincing” (of a risk that a negative consequence would occur) than a 35% 
+probability for one season. Research could explore people’s understanding of probabilities over 
+the short term and long term, and the effect this understanding might have on their decision-
+making. 
+ 
+In conclusion, respondents appear more likely to “use” climate data to justify decisions taken on 
+other grounds, than to use the data for decision-making. This may be an instance of assimilation 
+bias, or the tendency for people who hold pre-existing assumptions and expectations to 
+mistakenly perceive new information or evidence as confirming those assumptions (discussed 
+further in section 4.3). High uncertainty can be used to justify not taking action, and low 
+uncertainty can be used to justify taking action, but high uncertainty will not stop people from 
+taking action, and low uncertainty is not necessarily enough to prompt people to take action. In 
+fact, because people were overwhelmingly action-biased, it would appear that climate 
+uncertainty itself does not constitute a big part of their decision-making. As such, it may be 
+necessary to question current efforts by the climate science community to “reduce” uncertainty, 
+or efforts to get climate data users “more comfortable” with uncertainty in climate projections 
+(Corner et al. 2015; Monroe et al. 2015). The results suggest further research to better 
+understand the extent to which uncertainty in climate projections is itself a barrier to action.   
+ 
+THE CHOICE OF INFORMATION PROVIDED INFLUENCES THE DECISION 
+Across all the surveys, 39% of the respondents who chose not to take action mentioned the 
+climate probability as part of their reason. As discussed in the previous section, the vast majority 
+of this 39% had received a low-probability/high uncertainty scenario (35% probability of 
+temperature increase), and all of them drew upon the low probability to justify their decision. 
+More than a third of respondents who did not take action (36%) mentioned in their response that 
+the scenario did not provide enough information to make an informed decision or that the 
+scenario did not sufficiently represent the complexity of the “real world.” Of those answering 
+“No, they would not invest,” 28% focused on potential negative outcomes, although in this case, 
+they demonstrated concern with the potential negative outcomes of taking action rather than the 
+potential negative outcomes of not taking action. The vast majority of these responses were in 
+the phase 2 health survey, and the explanation appears to be that the scenarios did not quantify 
+the number of deaths from heat-related illnesses but gave instead a percentage increase in 
+deaths (20%). Thus, this scenario differed significantly from the phase 1 health survey, which 
+quantified the number of people contracting (or being saved from contracting) malaria (120,000 
+people). The percentage increase in deaths given in the phase 2 survey appeared to make the 
+scenario less “tangible” for decision-makers. They were unable to relate the percentage 
+increase to actual numbers of people affected, as the following comments illustrate: 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  28 
+ 
+“I don't have enough information to understand exactly how this translates into real-world 
+risk. 20% additional people might be a very small number or a very large number. How 
+many people will die from re-allocating those 10% of funds from other programs?” 
+(phase 2, health survey) 
+ 
+“I need more info. I'm not sure what the numerator and denominator are. Does the 20% 
+mean 2 fatalities are avoided or 2,000? Then I would compare it to the number of lives 
+saved from the program from which I'm taking the funds” (phase 2, health survey) 
+ 
+This finding bears on the issue of “fear framing,” which will be discussed in the section below.  
+ 
+Finally, in the WASH survey, 26 respondents chose not to take action. The majority (17) 
+received the seasonal scenarios, and the remainder (9), the long-term climate change 
+scenarios. It is interesting to note that 59% of the “No, they would not invest” respondents to the 
+seasonal scenarios provided the following reason for not taking action: they would defer the 
+decision until later in the season and monitor dam levels in the meantime—a specific action that 
+could conceivably be a standard approach (default option) for some officials in the water 
+management sector. The following respondent highlights this approach as a default modus 
+operandi: 
+ 
+“[…] We would rather monitor the rainfall and decrease in dam levels through the season 
+and call on whether to implement restrictions based on what actually occurs. We have 
+dam level thresholds, per month, and if these are exceeded then we would look at 
+implementing restrictions.” 
+ 
+For the long-term climate change scenarios, five of the nine “No” respondents mentioned that 
+rather than investing in permanent alternative water production technology, they would choose a 
+different approach to ensuring water supply. They were not necessarily averse to taking action 
+to mitigate the risk of water demand exceeding supply but were simply averse to the suggested 
+action.  
+ 
+4.3 DISCUSSION  
+The dominant decision drivers emerging from the communication format and message-framing 
+experiments are discussed below.  
+ 
+DOMINANT RULES AND PRINCIPLES FOR ACTION 
+In complex decision-making environments, policymakers and practitioners appear to rely on 
+their known, “tried-and-tested” strategies rather than considering climate data; this allows them 
+to make judgments quickly and efficiently. These “tried-and-tested” strategies shorten decision-
+making time and allow people to function in complex situations with insufficient information and 
+uncertainty. As discussed, these “tried-and-tested” strategies may represent a form of status 
+quo bias. Hence, efforts to communicate climate information might benefit from: 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  29 
+ 
+• 
+Determining the dominant rules or principles for action that decision-makers subscribe to in 
+particular contexts. In both the health and WASH surveys, “prevention is better than cure” 
+appeared to be the dominant principle. 
+• 
+Determining whether those rules or principles naturally align with desired or ideal climate 
+change adaptation and mitigation actions. The “prevention is better than cure” principle for 
+decision-making is obviously consistent with both climate change mitigation and adaptation. 
+This is an example of a “low regrets” strategy leading to measures that yield benefits even in 
+the absence of climate change (Hallegatte 2009). In such contexts, reducing uncertainty or 
+improving the communication of uncertainty to decision-makers may not be as important as 
+generally assumed.  
+However, some of the rules or principles for decision-making in a sector will not necessarily be 
+consistent with climate change action. The seasonal WASH surveys potentially represent such 
+an example. In the seasonal WASH scenarios, most respondents who replied, “No, they would 
+not invest,” said that they would defer the decision until later in the season and monitor dam 
+levels, which, as mentioned in the preceding section, might represent the status quo approach 
+for some in the water management sector. The most dominant rule guiding decision-making 
+across the WASH survey was clearly “prevention is better than cure.” But the sizeable 
+proportion of “no” respondents who would defer the decision suggests there are other rules for 
+decision-making in the water management sector. A “defer until later” strategy might not align 
+with ideal climate change adaptation actions as nicely as the “prevention is better than cure” 
+strategy, given, as one example, the possibility that respondents could wait until too late to 
+trigger water restrictions.  
+MESSAGE PROXIMIZING AND RISK PERCEPTION 
+Respondents applied their “prevention is better than cure” principles for action not only because 
+this is their fallback response, but also because they were sufficiently convinced that the risk 
+was significant enough to require action. This conviction did not appear to come from the 
+climate probability or gain/loss framing. What, then, might have convinced respondents of the 
+significance of the risk presented? Climate change is, for many people, a psychologically distant 
+issue. This means that people are expected to perceive it as being most likely to impact “distant” 
+people and places (Lorenzoni and Pidgeon 2006; Spence et al. 2012; McDonald et al. 2015; 
+Jones et al. 2017). Such research has led to the hypothesis that bringing climate change “close 
+to home” for people will make them more likely to engage with the issue (Jones et al. 2017). In 
+part, the surveys may have had that effect, as evinced by respondents who drew upon their own 
+knowledge and experiences of the “real world” to answer the question; the majority of these 
+respondents indicated that they would take action to prevent the potential consequences in the 
+scenarios.  
+The risk perceptions literature has established that concern for an issue follows from people 
+personally experiencing threats or hazards (e.g., Weber 2006). Personal experiences can raise 
+strong emotions, therefore making them more memorable and dominant in information 
+processing (Loewenstein et al. 2001). Indeed, people's emotional reactions to risks often 
+depend on the vividness with which negative consequences can be imagined (Loewenstein et 
+al. 2001; Weber 2006).  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  30 
+ 
+FEAR-FRAMING EFFECT 
+More significantly, the scenario-based surveys may have emotively struck respondents by being 
+inadvertently “fear framed.” Spence and Pidgeon (2010: 658) describe fear framing as “in effect 
+a more extreme version of a negatively focused loss frame.” They highlight that gain and loss 
+outcomes can be described simply, for example, as whether people will live or not live, or, in the 
+case of the phase 1 survey, as whether people will contract malaria or be saved from 
+contracting malaria. Spence and Pidgeon go on to explain that the threat content of a message 
+can, however, be more strongly emphasized, for example, by describing the size and 
+consequence of the potential loss, e.g., the number and type of deaths. Such language is much 
+more emotive and expected to provoke a greater emotional reaction, and as such, could 
+constitute fear framing. Evidence from the field of psychology suggests that fear framing can 
+indeed be effective in motivating change across various behaviors (e.g., Witte and Allen 2000). 
+The surveys might have, with their language, unintentionally evoked fear framings. They 
+focused on numbers of additional people at risk of contracting malaria, on the percentage of 
+additional people at risk from heat-related illnesses, as well as on the risk that water demand 
+might exceed supply. In retrospect, the surveys used other potentially emotive language when 
+setting the scene, such as “malaria is a life-threatening disease […] malaria is a major cause of 
+illness and death, especially among children,” “extended and severe heat waves leading to an 
+increased number of deaths due to heatstroke, respiratory disease and cardiovascular disease,” 
+“Your city relies solely on dam storage for water supply […] would not be sufficient by a 
+significant margin to meet the demand for water.” The hypothesis that fear framing was 
+inadvertently a part of the surveys is strengthened by the anomaly encountered in the phase 2 
+health survey, in which (unlike in the phase 1 or WASH surveys), a sizeable proportion of the 
+“No, they would not invest” respondents focused on the potential negative consequences of not 
+taking action. This appeared to be explained by the fact that the scenario provided them with a 
+percentage increase in deaths, rather than an absolute number. Respondents in this survey 
+might have had fewer emotional reactions to the risk compared with, for instance, the phase 1 
+survey scenario, in which numbers of people contracting (or being saved from contracting) 
+malaria were given.  
+ 
+EFFICACY TO ACT 
+As stated above, the literature has shown that fear-based, threatening messages can be 
+effective, but the literature has also shown that these narratives are likely to be 
+counterproductive—because they drive down people’s feelings of self-efficacy—unless they are 
+coupled with messages that are empowering. Thus, the messages most effective for changing 
+behavior stress the negative consequences of the current behavior while providing 
+recommendations for avoiding the negative consequences (e.g., Witte and Allen 2000; O’Neill et 
+al. 2013). This study supports this notion: many respondents focused on the size and 
+consequence of the potential losses under the scenarios. At the same time, most respondents 
+chose to act, and in part this might have been because the survey scenario provided a course of 
+action.  
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  31 
+ 
+PERSONAL VS. SOCIETAL FRAMINGS 
+On a side note, people distinguish between personal and societal impacts of climate change, 
+and they judge their personal risks of climate change to be lower than the risks to society (e.g., 
+Leiserowitz 2005). Thus, framing climate change as a personal risk could lead people to 
+underestimate the problem.  It is also possible to extrapolate from such studies that framing 
+climate change in terms of societal risks could increase the relevance of the issue for 
+practitioners or policymakers who have to make decisions for national or urban populations. 
+Such an extrapolation could potentially explain some of the action bias that was observed in the 
+surveys and is a topic worthy of future investigation.  
+ 
+THE ROLE OF CLIMATE DATA AND UNCERTAINTY  
+Finally, there was generally little engagement with climate data and with the notion of 
+uncertainty. In the workshop exercises, where participants explored experiential information 
+formats through narratives and infographics, the two future scenarios in either of these formats 
+received no mention except when prompted by facilitators. In the message-framing experiment, 
+the majority of respondents did not appear to take the climate information into consideration. 
+Where they did, respondents appeared more likely to interpret the climate projection in ways 
+that allowed them to justify decisions taken on other grounds, than to “objectively” use the 
+climate data in decision-making. This finding might be a result of assimilation bias/biased 
+assimilation, which is the tendency for people who hold pre-existing assumptions and 
+expectations to mistakenly perceive new information or evidence as confirming those 
+assumptions and expectations—in other words, to be assimilated into pre-existing assumptions 
+and expectations (Lord and Taylor 2009). Biased assimilation, for instance, has been used to 
+explain why people less skeptical and more skeptical about climate change evaluate in 
+markedly different ways the persuasiveness and reliability of newspaper editorials that make 
+opposing claims about the reality and seriousness of climate change (Corner et al. 2012). 
+However, as was illustrated in the workshop, scenarios presented through experiential 
+information, such as narratives and infographics, can trigger exploration and discussion of 
+climate-related uncertainty and what it means in a local or specific context. Hence, co-
+exploration of experiential information, to work toward strengthening robust decision-making 
+under climate uncertainty, may be warranted. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  32 
+ 
+It is important to note that the qualitative results are exploratory and are to be viewed as theory-
+generating and not theory-testing. The strength of qualitative analysis lies in its in-depth, 
+inductive approach, rather than an extensive or numerical approach. It is employed to develop 
+hypotheses, as opposed to testing them (Malterud 2001). 
+ 
+ 
+TRANSDISCIPLINARY CO-LEARNING IN A NUTSHELL 
+ 
+Transdisciplinary co-learning is a set of research approaches aimed at bridging boundaries between science 
+and practice in order to develop knowledge that can help to solve or prevent societal problems. Originally 
+applied to sustainable development, the approaches are oriented to real-world issues, accommodate complexity, 
+and integrate different knowledge systems.   
+ 
+A variety of participatory dialogues and methods have been used to facilitate this research, including scenarios, 
+Co-visioning, and institutional mapping, among others.  
+ 
+The aim of these approaches is to: 
+
+Jointly produce targeted products for science, policy, and practitioners 
+
+Integrate results to resolve or mitigate a problem 
+
+Integrate the results into the scientific body of knowledge 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  33 
+ 
+5. MOVING BEYOND CLIMATE 
+INFORMATION: UNDERSTANDING 
+DECISION DRIVERS THROUGH 
+CO-LEARNING 
+While the overall feedback from providing experiential communication techniques (narratives 
+and infographics) to the decision-makers was positive, there was a perceived gap between the 
+information provided and the information required for decision–making. This gap was expressed 
+as a lack of information on specific impacts within a particular sector, and a lack of information 
+pointing decision-makers toward solutions or responses. This latter reason, in particular, raises 
+a question about the limits of climate information and whether the expectation of solution-
+oriented information is achievable within the current approach to climate services.  
+A fundamental gap lies in understanding the context of decision-making and the principles and 
+rules guiding decision-making. The solution to this challenge possibly lies in transdisciplinary co-
+learning (outlined in the next section) to make explicit the knowledge, values, norms, and 
+approaches to decision-making among all people with knowledge to contribute, including 
+producers of information, intermediaries, users of information, and climate scientists. We outline 
+a case study of the most recent evolution of climate risk narrative development using co-
+learning. process.  
+5.1 CO-VISIONING THE CLIMATE INFORMATION DECISION CONTEXT 
+During the early stages of testing the concept of climate risk narratives, the draft stories were 
+first written solely by the climate scientist, meaning that they mainly represented a single 
+perspective of someone detached from the context. These stories were then relayed to the 
+intended users to add nuance and correct inaccuracies (as was the case for the workshop 
+narratives in this study). As the climate risk narrative process has evolved, so has the need to 
+shift the responsibility for story development from the climate scientist to the users. The users 
+are tasked with envisioning, describing, and documenting (using their own terminology) a 
+holistic future of their sector or region, excluding potential climate changes. These visions 
+typically include sociodemographic changes, infrastructure changes, and political stagnation or 
+transformation and are more accurate for the sector than could be written by an outside 
+scientist. Projected climate information is then integrated into the story to form multiple possible 
+futures.  
+As primary responsibility has shifted from the climate scientist to the user, it has become evident 
+that the development process itself is more valuable than the final climate risk narratives. The 
+development process elucidates rich information about the decision context, dominant mindsets 
+of the target audience, and the terminology that resonates with them. Participant comments 
+expressed this sentiment:  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  34 
+ 
+• 
+“If nothing else, the narrative process provided a great platform for information sharing 
+and learning what others are actually doing. This is an ongoing challenge.”6  
+• 
+“Discussion was so valuable; especially discussions around worst-case scenarios”6  
+• 
+“Allowed me to think broader.”7  
+The climate risk narrative process has shifted from developing a communication device to co-
+producing, making knowledge explicit, and integrating knowledge across knowledge holders in a 
+decision context. Making this contextual knowledge explicit increases user awareness of and 
+buy-in to the potential impacts of a changing climate, and it starts discussions about actions that 
+could mitigate climate change  
+The case study described below documents a recent climate risk narrative development 
+process and the learning associated with it.  
+CASE STUDY: CLIMATE RISK NARRATIVE DEVELOPMENT IN THE MAPUTO WATER 
+SECTOR  
+Through the Future Resilience for African Cities and Lands (FRACTAL) project, a City Water 
+Dialogue was held with 22 representatives of the water sector in Maputo in February 2018. 
+Water sector representatives included local, regional, and national government entities, 
+parastatal organizations, and scientific institutions. Several institutions are responsible for water 
+governance in Maputo. During the dialogue, the participants were tasked with undertaking a 
+“three time horizons” mapping’ exercise (Figure 1). Participants first documented the challenges 
+inherent in the current water supply system as experienced by each institution. Second, they 
+performed a group visioning of an ideal scenario for the sector in 2040 alongside a worst-case 
+scenario. Finally, elements of the transition phase were identified—elements that would allow 
+the sector to transition from its current form (business-as-usual) to that of the ideal 2040 
+scenario. This process also allowed for identification of “seeds” of the current situation that may 
+act as catalysts for the transition to an ideal future scenario.  
+Using the results of this visioning exercise, a FRACTAL-embedded city researcher and a 
+FRACTAL climate scientist jointly collated the vision into a set of climate risk narratives for the 
+Maputo water sector. These will be used as a basis for discussion during the next Maputo city 
+water dialogue.  
+While the aim of the process was to develop a climate risk narrative for decision-making, the 
+climate risk narratives have not proved the most beneficial part of the co-productive process. 
+The visioning process provided a forum for rich debate and discussion about the failings and 
+achievements of the water supply sector in Maputo. It brought together actors from across the 
+water sector who had previously not interacted with each other and, thereby, started a process 
+of network building that is essential for the sustainability of the water supply. It elicited 
+discussion of the goals and principles that drive decisions within the Maputo water sector, which 
+brought to light critical contextual knowledge. 
+                                               
+6 Quoted from feedback on the narrative development process in Blantyre. 
+7 Quoted from the feedback on the narrative development process in Gaborone. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  35 
+ 
+In addition to the transdisciplinary visioning process, there are many potentially useful 
+approaches to making explicit the guiding principles and rules for decision-making, such as 
+stakeholder and institutional mapping, discourse analysis and sociocultural studies. For climate 
+services, however, the visioning process may be a first step toward better integration of climate 
+information into decision-making. 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  36 
+ 
+ 
+Figure 1: Visioning long term change in Maputo 
+ 
+Note: The results of the three horizons (H1, H2 and H3) mapping exercise performed for the Maputo water sector (Maputo city learning dialogue: FRACTAL 
+project). Source: Steynor et al. 2016 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  37 
+ 
+6. SUMMARY AND 
+RECOMMENDATIONS 
+While the study set out to test the effect of message framing and format on the uptake of 
+uncertain climate information, the results were inconclusive and raised further questions. 
+However, the secondary learning that resulted from the process was arguably more informative 
+than the original learning objectives. 
+It appears that people act on a future risk (whether it is short term or long term) based on 
+sector-specific, generically applicable rules or principles for taking action in situations where a 
+risk may increase. For both the health and WASH sectors, the main principle for action appears 
+to be “prevention is better than cure.” Meanwhile, people’s perceptions that a risk might 
+increase and lead to negative outcomes appear to be informed by (i) whether the decision 
+scenario and outcomes are sufficiently “fear framed”; (ii) their background/characteristics, 
+including their pre-existing beliefs, and (iii) their experiences and knowledge of the “real world.” 
+Through both the workshop and the surveys, it also emerged that decision-makers be provided 
+with a specific solution or action they can take to deal with the risk (for example, the decision to 
+reallocate budget in a specific suggested manner), which might increase their perceived efficacy 
+to act.  
+Again, through both the workshop and the survey, the uncertainty in the climate information did 
+not appear to play a significant role in influencing decision-making. Most people in the study did 
+not note differing future scenarios as a barrier to engagement and instead focused on particular 
+messages of impact that were interesting to them. In addition, when a climate probability was 
+introduced, they did not appear to notice it, nor to be influenced by whether it was “objectively” 
+high or low. They seemed to prefer instead to “read” it in a way that was consistent with their 
+chosen course of action.  
+Under these conditions, focusing on communicating climate uncertainty to decision-makers may 
+be less important than other strategies. The study suggests the following approaches for 
+engaging decision-makers on climate change issues:  
+• 
+Through transdisciplinary co-learning approaches, gain a common understanding of the 
+problem space, the actors within that space, the real nature of the problem (which is often 
+poorly understood and even contested) and the rules and principles that guide decision-
+making. One potential approach is co-visioning to explore scenarios of change and options 
+to mitigate unwanted changes/impacts (see section 5). Through the understanding gained in 
+a transdisciplinary process, consider framing climate information, impacts, and solutions in 
+ways that are consistent with the rules and principles for decision-making within a sector. Do 
+the rules or principles align with desired climate adaptation and mitigation actions? If the 
+rules and principles do not align, consider changing the status quo through sustained 
+transdisciplinary engagements and other engagement mechanisms (see final point).  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  38 
+ 
+• 
+Assess whether the backgrounds, characteristics (e.g., values and beliefs), and real-world 
+experiences of decision-makers might already lead them to believe that a particular climate-
+related risk is significant and that it will result in negative outcomes. Communication and 
+engagement efforts can focus on resonating with the backgrounds, characteristics, and real-
+world experiences of decision-makers, using fear framing and increasing perceived efficacy 
+to act. For instance, climate-related messages and engagement techniques can be tied to 
+the risks and negative consequences that people experience in their personal or 
+professional capacities, and, through co-exploration processes, outline courses of action to 
+avert the risks.  
+• 
+The above is consistent with the literature suggesting that information on climate change 
+should be presented in ways that are concrete, personalized, and vivid, i.e., that it should 
+target the experiential processing system of the brain (e.g., Marx and Weber 2012). Most 
+often, however, climate information is communicated in an analytical format.  
+• 
+There will be situations where the status quo and context for decision-making do not align 
+well with dealing with climate change (as already noted). Further, there will be situations in 
+which the backgrounds, characteristics, and real-world experiences of decision-makers also 
+may work against climate change decision-making and action. As such, and as widely noted 
+in the behavior change literature, the provision of information alone (as much of the current 
+climate services field relies on) will not be sufficient to change behavior (e.g. McKenzie-Mohr 
+2011). In these cases, there is an even greater need for sustained transdisciplinary 
+engagements to integrate climate knowledge into decision-making.  
+• 
+Finally, the behavioral economics literature suggests that people’s tendency to follow the 
+status quo—i.e., to choose the “default” option—can be used to influence their decision-
+making by making the desired option the default option. Matjasko et al. (2016) provide 
+examples from the health field of shifting people to healthier diets with strategies such as 
+substituting sliced apples for French fries in children’s meals or limiting portion sizes in 
+restaurants and other catering environments. In climate change, Weber (2015: 577) also 
+notes that behavior change can be facilitated by “innovative no-choice defaults” and 
+“changes in the status quo.” She cites the example of Germany and other countries that 
+outlawed incandescent lightbulbs, thereby changing the status quo for consumers (by 
+making compact fluorescent lightbulbs the status quo). These examples of using strategies 
+from the fields of behavioral economics and psychology have been discussed primarily in 
+terms of influencing decision-making of the general public and consumers. More work will be 
+required that considers modifying the context in which practitioners and policymakers 
+operate, to make their default choices—when faced with uncertainty—consistent with 
+desired climate change mitigation and adaptation actions.  
+ 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  39 
+ 
+7. REFERENCES 
+ 
+AFP (2018, February 8) As Cape Town drought bites, what is 'Day Zero'? News24. Available at: 
+https://www.news24.com/SouthAfrica/News/as-cape-town-drought-bites-what-is-day-zero-
+20180208 
+ 
+Antilla, L. (2005). Climate of skepticism: US newspaper coverage of the science of climate 
+change. Global Environmental Change, 15(4): 338-352. 
+ 
+Barberis, N., Huang, M., and Santos, T. (2001). Prospect theory and asset prices. Quarterly 
+Journal of Economics, 116(1): 1-53. 
+ 
+Baumeister, R.F., Bratslavsky, E., Finkenauer, C., and Vohs, K.D. (2001). Bad is stronger than 
+good. Review of General Psychology, 5(4): 323-370. 
+ 
+Baumer, E.P., Polletta, F., Pierski, N., and Gay, G.K. (2017). A simple intervention to reduce 
+framing effects in perceptions of global climate change. Environmental Communication, 11(3): 
+289-310. 
+ 
+Bertolotti, M., and Catellani, P. (2014). Effects of message framing in policy communication on 
+climate change. European Journal of Social Psychology, 44(5): 474-486. 
+ 
+Bosone, L., and Martinez, F. (2017). When, how and why is loss-framing more effective than 
+gain- and non-gain-framing in the promotion of detection behaviors? International Review of 
+Social Psychology, 30(1): 184-192, DOI: https://doi.org/10.5334/irsp.15 
+ 
+Botzen, W.J., and van den Bergh, J.C. (2012). Risk attitudes to low-probability climate change 
+risks: WTP for flood insurance. Journal of Economic Behavior and Organization, 82(1): 151-166. 
+ 
+Chaiken, S., and Trope, Y. (Eds.). (1999). Dual-process theories in social psychology. New 
+York: Guilford Press. 
+ 
+Corner, A., Lewandowsky, S., Phillips, M. and Roberts, O. (2015). The Uncertainty Handbook. 
+Bristol: University of Bristol.  
+ 
+Corner, A., Markowitz, E., and Pidgeon, N. (2014). Public engagement with climate change: the 
+role of human values. Wiley Interdisciplinary Reviews: Climate Change, 5(3): 411-422. 
+ 
+Corner, A., Whitmarsh, L., and Xenias, D. (2012). Uncertainty, skepticism and attitudes towards 
+climate change: biased assimilation and attitude polarization. Climatic Change, 114: 463-478. 
+ 
+Elijido-Ten, E.O. (2017). Does recognition of climate change related risks and opportunities 
+determine sustainability performance? Journal of Cleaner Production, 141: 956-966. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  40 
+ 
+ 
+Fiedler, K., and von Sydow, M. (2015). Background to the classic study. Cognitive Psychology: 
+Revisiting the Classic Studies, 146. 
+ 
+Fleming, S.M., Thomas, C.L., Dolan, R.J. (2010). Overcoming status quo bias in the human 
+brain. PNAS, 107 (13): 6005-6009. 
+ 
+Frydman, C., and Camerer, C.F. (2016). The psychology and neuroscience of financial decision 
+making. Trends in Cognitive Sciences, 20(9): 661-675. 
+ 
+Hallegatte, S. (2009). Strategies to adapt to an uncertain climate change. Global Environmental 
+Change 19: 240-247. 
+ 
+Harold, J., Lorenzoni, I., Shipley, T. F., and Coventry, K.R. (2016). Cognitive and psychological 
+science insights to improve climate change data visualization. Nature Climate Change, 6(12): 
+1080-1089. 
+ 
+Jones, C., Hine, D.W. and Marks, A.D. (2017). The future is now: reducing psychological 
+distance to increase public engagement with climate change. Risk Analysis, 37(2): 331-341. 
+ 
+Jones, S., and Oaksford, M. (2011). Transactional problem content in cost discounting: Parallel 
+effects for probability and delay. Journal of Experimental Psychology: Learning, Memory, and 
+Cognition, 37(3): 739. 
+ 
+Kahneman, D., and Tversky, A. (1979). Prospect theory: An analysis of decision under risk. 
+Econometrica, 263-291. 
+ 
+Kaplan, B.A., Reed, D.D., and McKerchar, T.L. (2014). Using a visual analogue scale to assess 
+delay, social, and probability discounting of an environmental loss. Psychological Record, 64(2): 
+261-269. 
+ 
+Kumarasiri, J., and Gunasekarage, A. (2017). Risk regulation, community pressure and the use 
+of management accounting in managing climate change risk: Australian evidence. British 
+Accounting Review, 49(1): 25-38. 
+ 
+Leiserowitz, A. (2005). American risk perceptions: Is climate change dangerous? Risk Analysis, 
+25: 1433-1442. 
+ 
+Leiserowitz, A. (2006). Climate change risk perception and policy preferences: The role of 
+affect, imagery, and values. Climatic Change, 77(1): 45-72. 
+ 
+Loewenstein, G.F., Weber, E.U., Hsee, C.K., and Welch, E. (2001). Risk as feelings. 
+Psychological Bulletin, 127(2): 267-286. 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  41 
+ 
+Lord, C.G., and Taylor, C.A. (2009) Biased assimilation: Effects of assumptions and 
+expectations on the interpretation of new evidence. Social and Personality Psychology 
+Compass, 3(5): 827-841. 
+ 
+Lorenzoni, I., and Pidgeon, N.F. (2006). Public views on climate change: European and USA 
+perspectives. Climatic Change, 77(1-2): 73-95. 
+ 
+Malterud, K. (2001). Qualitative research: Standards, challenges, and guidelines. Lancet, 
+358(9280): 483-488. 
+ 
+Marx, S., and Weber, E.U. (2012). Decision making under climate uncertainty: The power of 
+understanding judgment and decision processes. In T. Dietz and D.C. Bidwell (Eds.), Climate 
+change in the Great Lakes region: Navigating an uncertain future. East Lansing, MI: Michigan 
+State University Press. 
+ 
+Marx, S.M., Weber, E.U., Orlove, B.S., et al. (2007). Communication and mental processes: 
+Experiential and analytic processing of uncertain climate information. Global Environmental 
+Change, 17: 47-58. 
+ 
+Matjasko, J., Cawley, J.H, Baker-Goering, M.M., and Yokum D.V. (2016). Applying behavioral 
+economics to public health policy: illustrative examples and promising directions. American 
+Journal of Preventive Medicine 50(5) Supplement 1: S13-S19. 
+ 
+McDonald, R.I., Chai, H.Y. and Newell, B.R. (2015). Personal experience and the ‘psychological 
+distance’ of climate change: An integrative review. Journal of Environmental Psychology, 44: 
+109-118. 
+ 
+McKenzie-Mohr, D. (2011). Fostering sustainable behavior: an introduction to community based 
+social marketing. Gabriola Island, B.C.: New Society Publishers. 
+ 
+Monroe, M.C., Bode, C.L., and Megalos, M.A. (2015). Challenges in communicating climate 
+change to extension audiences. FOR324, School of Forest Resources and Conservation, 
+UF/IFAS Extension. 
+ 
+Morton, T.A., Rabinovich, A., Marshall, D., and Bretschneider, P. (2011). The future that may (or 
+may not) come: How framing changes responses to uncertainty in climate change 
+communications. Global Environmental Change 21: 103-109. 
+ 
+Myers, T.A., Nisbet, M.C., Maibach, E.W., and Leiserowitz, A.A. (2012) A public health frame 
+arouses hopeful emotions about climate change. Climatic Change 113: 1105-1112. 
+ 
+Myerson, J., Green, L., and Morris, J. (2011). Modeling the effect of reward amount on 
+probability discounting. Journal of the Experimental Analysis of Behavior, 95(2): 175-187. 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  42 
+ 
+O’Neill, S.J., Boykoff, M., Niemeyer, S., and Day, S.A. (2013). On the use of imagery for climate 
+change engagement. Global Environmental Change, 23(2): 413-421. 
+ 
+Odum, A. L. (2011). Delay discounting: I'm a k, you're a k. Journal of the Experimental Analysis 
+of Behavior, 96(3): 427-439. 
+ 
+Peeters, G., and Czapiński J. (1990). Positive–negative asymmetry in evaluations: the 
+distinction between affective and informational negativity effects. European Review of Social 
+Psychology, 1: 33-60. 
+ 
+Prudhomme, C., Wilby, R.L., Crooks, S., Kay, A.L., and Reynard, N.S. (2010). Scenario-neutral 
+approach to climate change impact studies: Application to flood risk. Journal of Hydrology, 390: 
+198-209. 
+ 
+Richards, J.B., Zhang, L., Mitchell, S.H., and Wit, H. (1999). Delay or probability discounting in a 
+model of impulsive behavior: effect of alcohol. Journal of the Experimental Analysis of 
+Behavior, 71(2): 121-143. 
+ 
+Scannell, L., and Gifford, R. (2013). Personally relevant climate change: the role of place 
+attachment and local versus global message framing in engagement. Environment and 
+Behavior 45: 60-85. 
+ 
+Shome, D., and Marx, S. (2009). The psychology of climate change communication: a guide for 
+scientists, journalists, educators, political aides, and the interested public. New York: Center for 
+Research on Environmental Decisions, Columbia University. 54 pp. 
+ 
+Sloman, S.A. (1996). The empirical case for two systems of reasoning. Psychological Bulletin, 
+119: 3-22. 
+ 
+Slovic, P., Peters, E., Finucane, M.L., and MacGregor, D.G. (2005). Affect, risk, and decision 
+making. Health Psychology, 24(4, Suppl): S35-S40. 
+ 
+Spence, A., and Pidgeon, N. (2010). Framing and communicating climate change: The effects 
+of distance and outcome frame manipulations. Global Environmental Change 20: 656-667. 
+ 
+Spence, A., Poortinga, W., and Pidgeon, N.F. (2012). The psychological distance of climate 
+change. Risk Analysis, 32(6): 957-972. 
+ 
+Steynor, A., Padgham, J., Jack, C., et al. (2016). Co-exploratory climate risk workshops: 
+Experiences from urban Africa, Climate Risk Management, 13: 95-102. doi: 
+10.1016/j.crm.2016.03.001. 
+ 
+Sunstein, C.R. (2006). The availability heuristic, intuitive cost-benefit analysis, and climate 
+change. Climatic Change 77: 195-210. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  43 
+ 
+ 
+Tribbia, J., and Moser, S.C. (2008). More than information: What coastal managers need to 
+prepare for climate change. Environmental Science and Policy 11: 315-28. 
+ 
+Tversky, A. and Kahneman, D. (1974). Judgment under uncertainty: heuristics and biases. 
+Science, 185:1124-1131. doi: 10.1126/science.185.4157.1124. 
+ 
+Weber, E.U. (2006). Evidence-based and description-based perceptions of long-term risk: why 
+global warming does not scare us (yet). Climatic Change, 77(1-2): 103-120. 
+ 
+Weber, E.U. (2015). Climate change demands behavioral change: what are the challenges? 
+Social Research 82(3): 561-580. 
+ 
+Winkler, J.A. (2016). Embracing complexity and uncertainty. Annals of the American Association 
+of Geographers, 106(6): 1418-1433. 
+ 
+Witte, K., and Allen, M. (2000). A meta-analysis of fear appeals: implications for effective public 
+health campaigns. Health Education and Behavior 27: 591-615. 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  44 
+ 
+ANNEX 1: MAPUTO RISK 
+NARRATIVES AND 
+INFOGRAPHICS 
+ 
+MAPUTO NARRATIVES 
+ 
+Narrative 1: Warmer and decreasing rainfall 
+It is 2035 and average early summer temperatures are 1.5C higher than they were back in the 
+late 20th century, while winter temperatures are around 1C higher. Heat waves (more than 5 
+days above 36C combined with warm nights) are more common than they used to be in the 
+summer months, which starts causing an increase in heat-stress–related health problems, 
+particularly for the elderly. Wealthier residents have invested in air conditioning in response, but 
+this, combined with rapid population growth, has contributed to increases in electricity demand, 
+particularly during the summer months.  
+ 
+Higher average temperatures mean that the malaria season is now longer in the city and 
+surrounds, as mosquitoes and parasites are able to breed more rapidly when temperatures are 
+higher. While reductions in rainfall have reduced the occurrence of standing water to some 
+extent, this hasn’t mitigated the effect of increasing temperatures except for particularly dry 
+years. In addition, while the frequency of very wet summers has declined, they do still occur, 
+and when they do, the combination of high temperatures and standing water produces acute 
+rates of malaria infection in the city and more so in the surrounding peri-urban areas. 
+ 
+Rising sea levels and storm surges associated with tropical cyclones and strong tropical storm 
+systems have caused extensive erosion along unprotected sections of the coastline, impacting 
+newer residential and tourism developments along the coastline. 
+ 
+The peri-urban areas around Maputo have shifted their small-scale agriculture to different crops 
+because average rainfall has dropped, and the season has shifted towards later. Higher 
+temperatures mean that some crops commonly grown in the late 20th century are now no 
+longer viable. Wealthier farmers have implemented irrigation, drawing from groundwater. 
+ 
+The city has resorted to increased groundwater extraction to match the rapidly growing demand 
+for water in the city as a result of urbanization and population growth. Groundwater levels are 
+now critically low and associated costs are climbing. The local dam (Pequenos Libombos) that 
+used to provide water to Maputo is now generally dry and the city is actively investigating 
+alternative water sources, including pumping water from the Limpopo River 200 km to the 
+northeast. Energy demand for water extraction and transfers compounds with the increased 
+energy demand for cooling, stressing the energy supply networks and limiting water supply 
+options. 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  45 
+ 
+ 
+A reduction in rainfall and reduction in the frequency of heavy rainfall events means the flooding 
+is typically less of a problem in Maputo than it used to be. However, high sea-levels mean that 
+drainage rates have changed and many low-lying areas along the coastline flood more 
+frequently than they used to. 
+ 
+Narrative 2 | Hotter and increasing rainfall extremes 
+It is 2035 and average early summer temperatures are 2C higher than they were back in the 
+late 20th century, while winter temperatures are around 1.5C higher. Heat waves (more than 5 
+days above 36C combined with warm nights) are twice as common as they used to be in the 
+summer months, which has caused an acute increase in heat-stress–related health problems, 
+particularly for the elderly. Wealthier residents have invested in air conditioning in response, but 
+this, combined with rapid population growth, has contributed to increases in energy demand, 
+particularly during the summer months.  
+ 
+Higher average temperatures mean that the malaria season is now longer in the city and 
+surrounds as mosquitoes and parasites are able to breed more rapidly when temperatures are 
+higher. While average summer rainfall hasn’t changed significantly from the late 20th century, 
+when periodic wet summers do occur, the combination of high temperatures and standing water 
+result in acute rates of malaria infection. Even in dry years, the reduction in standing water does 
+not mitigate the effect of increasing temperatures, and malaria rates remain higher than in the 
+late 20th century. 
+ 
+Rising sea levels and storm surges associated with tropical cyclones and strong tropical storm 
+systems have caused extensive erosion along unprotected sections of the coastline, impacting 
+newer residential and tourism developments along the coastline. 
+ 
+Even though total rainfall has not significantly decreased, increased evaporation rates and the 
+rapidly increasing population growth and urbanization and resultant increase in water demand 
+has forced the city to increase groundwater extraction and investigate alternative waters 
+sources, including pumping water from the Limpopo River 200 km to the northeast. 
+ 
+While average rainfall has not changed significantly, the intensity of rainfall events and the 
+frequency of heavy rainfall events during the main rainy season are higher than they used to be, 
+particularly in wet years. The combination of this with increased area coverage of hard surfaces 
+and poor drainage means that some areas of Maputo experience flooding more often than they 
+used to, resulting in health and economic impacts. This is made worse by higher sea levels, 
+which means that drainage rates have changed and many low-lying areas along the coastline 
+flood far more frequently than they used to. 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  46 
+ 
+SUPPORTING EVIDENCE 
+ 
+Figure A1: Shows consistent increase in average temperatures across the year.  DJF= December-January-
+February, MAM = March-April-May, JJA= June-July-August, SON= September-October-November. 
+ 
+ 
+ 
+Figure A2: Shows consistent increase in frequency of days above 35C.  DJF= December-January-February, 
+MAM = March-April-May, JJA= June-July-August, SON= September-October-November. 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  47 
+ 
+Figure A3: Some model projections show decreasing rainfall in winter (Jul-Aug) and the early rainy season 
+(Sep-Nov) on the order of 25% reduction by the 2030s. 
+ 
+ 
+Figure A4: Some model projections show increasing frequency of 95th percentile rainfall events in the core 
+rainy season (Dec-Feb), and some show decreasing frequency, particularly in winter (Jun-Aug) and the early 
+rainy season (Sep-Nov). 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  48 
+ 
+ 
+Figure A5: Some model projections show increasing average intensity of rainfall in the core rainy season 
+(Dec-Feb), and some show decreasing intensity, particularly in winter (Jun-Aug) and the early rainy season 
+(Sep-Nov). 
+ 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  49 
+ 
+MAPUTO INFOGRAPHICS
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  50 
+ 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  51 
+ 
+ANNEX 2: SURVEY QUESTIONS 
+PHASE 1 SURVEY: SEASONAL HEALTH SCENARIO 
+This exercise seeks to understand the ways climate information might influence decision-
+making in the health sector. Please imagine you are a policy-maker for the health sector in 
+Mozambique. Your task is deciding how to allocate the new malaria budget for the coming 
+year.   
+  
+One of the key diseases that the Mozambican health sector has to manage and control is 
+malaria. Malaria is a life-threatening disease caused by parasites that are transmitted to people 
+through the bites of infected mosquitoes. In Mozambique, malaria is a major cause of illness 
+and death, especially among children. According to the historical records, up to 6 million people 
+contract malaria in Mozambique every year. Episodes of increased temperature have been 
+shown to relate to increases in malaria transmission. 
+  
+There is a decision that needs to be made: 
+[participants are given one of the following four scenarios] 
+ 
+Scenario 1: High climate probability scenario framed as a gain (-) 
+The available seasonal forecast projections indicate a 65% probability that temperatures will be 
+1 degree higher than average in the coming season, meaning that more people will be at risk of 
+contracting malaria in the country. If the average seasonal temperature in Mozambique is 1 
+degree above historical average (unusually hotter for the season) and if you choose to invest in 
+further preventative measures in malaria-affected areas, at least  
+120 000 additional people will be saved from contracting malaria. 
+ 
+Scenario 2: Low climate probability scenario framed as a gain (-) 
+The available seasonal forecast projections indicate a 35% probability that temperatures will be 
+1 degree higher than average in the coming season, meaning that more people will be at risk of 
+contracting malaria in the country. If the average seasonal temperature in Mozambique is 1 
+degree above historical average (unusually hotter for the season) and if you choose to invest in 
+further preventative measures in malaria-affected areas, at least  
+120 000 additional people will be saved from contracting malaria. 
+ 
+Scenario 3: High climate probability scenario framed as a loss (-) 
+The available seasonal forecast projections indicate a 65% probability that temperatures will be 
+1 degree higher than average in the coming season, meaning that more people will be at risk of 
+contracting malaria in the country. If the average seasonal temperature in Mozambique is 1 
+degree above historical average (unusually hotter for the season) and if you choose not to 
+invest in further preventative measures in malaria-affected areas, at least 120 000 additional 
+people will contract malaria. 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  52 
+ 
+Scenario 4: Low climate probability scenario framed as a loss (-) 
+The available seasonal forecast projections indicate a 35% probability that temperatures will be 
+1 degree higher than average in the coming season, meaning that more people will be at risk of 
+contracting malaria in the country. If the average seasonal temperature in Mozambique is 1 
+degree above historical average (unusually hotter for the season) and if you choose not to 
+invest in further preventative measures in malaria-affected areas, at least 120 000 additional 
+people will contract malaria. 
+ 
+Given this information on the probability of the seasonal projection and the associated risk of 
+contracting malaria, you need to decide whether you will invest in further preventative measures 
+by allocating 20% of your funds from the malaria treatment budget into the malaria prevention 
+budget.  
+ 
+Would you take 20% from the treatment budget to invest the additional 20% in prevention? 
+Yes/No 
+ 
+Part 2 
+Socio-economic Questions  
+Please tick one box only or fill in the answer where appropriate 
+ 
+1. Please explain your main reason for making the decision you made regarding the budget 
+__________ 
+ 
+2. Have you or any of your immediate family members ever had malaria? Yes/No 
+ 
+3. Which of the following three statements do you personally believe? 
+a. Climate change (global warming) is happening, caused mainly by human activities. 
+b. Climate change (global warming) is happening, but caused mainly by natural forces. 
+c. Climate change (global warming) is NOT happening. 
+d. None of the above 
+4. Do you believe that an increase in temperature has an influence on malaria? Yes / no / don’t 
+know 
+5. Gender:  
+a. Female  
+b. Male  
+6. Age: 18-24 years old / 25-34 years old / 35-44 years old / 45-54 years old / 55-64 years old / 
+65-74 years old / 75 years or older 
+7. What is your first language? 
+8. Is your profession in, or directly related to, the health field? Yes/No 
+9. Is your profession in, or directly related to, climate science? Yes/No 
+ 
+ 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  53 
+ 
+PHASE 2 SURVEY: HEALTH AND WASH SCENARIOS 
+Health 
+Please imagine you are a policy-maker in the health sector. Your task is deciding how to 
+allocate the health budget. You will be presented with a pair of scenarios (this page and the next 
+page). Please answer both. These scenarios do not represent the complexity of real life and 
+may seem unfeasible and/or unrealistic; however, please take them as hypothetical and answer 
+them based on the information you are given.  
+ 
+Please imagine you are a policy-maker for the national health sector. Your task is deciding how 
+to allocate the health budget for the coming year.   
+ 
+[participants are given one of the following four pairs of scenarios] 
+Scenario 1 
+There is a decision that needs to be made: 
+The available seasonal forecast projections indicate a 65% (high) probability that the summer 
+season will be associated with extended and severe heat waves leading to an increased 
+number of deaths due to heatstroke, respiratory disease and cardiovascular disease.   
+ 
+In order to have the time to set up the required response programs, you would need to set up a 
+heatwave planning and response unit now. If there are extended and severe heatwaves in the 
+coming season and you choose not to establish the planning and response unit now, then at 
+least 20% additional people will die from heat-related illnesses in the next summer season. 
+ 
+Given this information on the probability of the seasonal projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest in a heatwave planning and 
+response unit now by allocating 10% of your funds from the rest of your health budget into 
+development of the unit? This would mean that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+planning and response unit? 
+ 
+ Yes/No 
+ 
+There is another decision that needs to be made: 
+The available climate projections indicate a 65% (high) probability that severe heatwaves will 
+occur at least once a year from 2030 onwards, leading to an increased number of deaths due to 
+heatstroke, respiratory disease and cardiovascular disease.   
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  54 
+ 
+If this scenario occurs and you choose not to invest now in a long-term process for integrating 
+heat-related illness response measures into standard operating procedures, it will mean that at 
+least 20% additional people each year will die from heat related illnesses from 2030 onwards. 
+ 
+Given this information on the probability of the climate projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest now in establishing a process 
+that enables the national health service to integrate heat-related illness response measures into 
+standard operating procedures? This would mean allocating 10% of the funds from the rest of 
+your health budget into the program, meaning that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+preparedness process? 
+ 
+ Yes/No 
+ 
+Scenario 2  
+There is a decision that needs to be made: 
+The available seasonal forecast projections indicate a 35% (low) probability that the summer 
+season will be associated with extended and severe heat waves leading to an increased 
+number of deaths due to heatstroke, respiratory disease and cardiovascular disease.  
+In order to have the time to set up the required response programs you would need to set up a 
+heatwave planning and response unit now. If there are extended and severe heat waves in the 
+coming season and you choose not to establish the planning and response unit now, then at 
+least 20% additional people will die from heat-related illnesses in the next summer season. 
+ 
+Given this information on the probability of the seasonal projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest in a heatwave planning and 
+response unit now by allocating 10% of your funds from the rest of your health budget into 
+development of the unit? This would mean that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+planning and response unit? 
+ 
+Yes/No 
+ 
+There is another decision that needs to be made: 
+The available climate projections indicate a 35% (low) probability that severe heat waves will 
+occur at least once a year from 2030 onwards, leading to an increased number of deaths due to 
+heatstroke, respiratory disease and cardiovascular disease.   
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  55 
+ 
+If this scenario occurs and you choose not to invest now in a long-term process for integrating 
+heat-related illness response measures into standard operating procedures, it will mean that at 
+least 20% additional people each year will die from heat-related illnesses from 2030 onwards. 
+ 
+Given this information on the probability of the climate projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest now in establishing a process 
+that enables the national health service to integrate heat-related illness response measures into 
+standard operating procedures? This would mean allocating 10% of the funds from the rest of 
+your health budget into the program, meaning that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+preparedness process? 
+ 
+Yes/No 
+ 
+Scenario 3: 
+There is a decision that needs to be made: 
+The available seasonal forecast projections indicate a 65% (high) probability that the summer 
+season will be associated with extended and severe heatwaves leading to an increased number 
+of deaths due to heatstroke, respiratory disease and cardiovascular disease.   
+ 
+In order to have the time to set up the required response programs, you would need to set up a 
+heatwave planning and response unit now. If there are extended and severe heatwaves in the 
+coming seasons and you choose to establish the planning and response unit now, then at least 
+20% additional people will be saved from heat-related illnesses in the next summer season. 
+ 
+Given this information on the probability of the seasonal projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest in a heatwave planning and 
+response unit now by allocating 10% of your funds from the rest of your health budget into 
+development of the unit? This would mean that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into the heatwave 
+planning and response unit? 
+ 
+Yes/No 
+ 
+There is another decision that needs to be made: 
+The available climate projections indicate a 65% (high) probability that severe heat waves will 
+occur at least once a year from 2030 onwards, leading to an increased number of deaths due to 
+heatstroke, respiratory disease and cardiovascular disease.  
+  
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  56 
+ 
+If this scenario occurs and you choose to invest now in a long-term process for integrating heat-
+related illness response measures into standard operating procedures, it will mean that at least 
+20% additional people each year will be saved from heat related illnesses from 2030 onwards. 
+ 
+Given this information on the probability of the climate projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest now in establishing a process 
+that enables the national health service to integrate heat-related illness response measures into 
+standard operating procedures? This would mean allocating 10% of the funds from the rest of 
+your health budget into the program, meaning that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+preparedness process? 
+ 
+Yes/No 
+ 
+Scenario 4: 
+There is a decision that needs to be made: 
+The available seasonal forecast projections indicate a 35% (low) probability that the summer 
+season will be associated with extended and severe heatwaves leading to an increased number 
+of deaths due to heatstroke, respiratory disease and cardiovascular disease.   
+ 
+In order to have the time to set up the required response programs, you would need to set up a 
+heatwave planning and response unit now. If there are extended and severe heat waves in the 
+coming seasons and you choose to establish the planning and response unit now, then at least 
+20% additional people will be saved from heat-related illnesses in the next summer season. 
+ 
+Given this information on the probability of the seasonal projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest in a heatwave planning and 
+response unit now by allocating 10% of your funds from the rest of your health budget into 
+development of the unit. This would mean that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into the heatwave 
+planning and response unit? 
+ 
+Yes/No 
+ 
+There is another decision that needs to be made: 
+The available climate projections indicate a 35% (low) probability that severe heatwaves will 
+occur at least once a year from 2030 onwards, leading to an increased number of deaths due to 
+heatstroke, respiratory disease and cardiovascular disease.   
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  57 
+ 
+If this scenario occurs and you choose to invest now in a long-term process for integrating heat-
+related illness response measures into standard operating procedures, it will mean that at least 
+20% additional people each year will be saved from heat related illnesses from 2030 onwards. 
+ 
+Given this information on the probability of the climate projection and the associated risk of 
+heat-related illness, you need to make a decision. Will you invest now in establishing a process 
+that enables the national health service to integrate heat-related illness response measures into 
+standard operating procedures? This would mean allocating 10% of the funds from the rest of 
+your health budget into the program, meaning that you have 10% less funds to address other 
+pressing health concerns. 
+ 
+Would you take 10% from the rest of your health budget and invest this into a heatwave 
+preparedness process? 
+ 
+Yes/No 
+ 
+WASH 
+Please imagine you are a policy-maker in the water sector. Your task is deciding how to allocate 
+the water budget. You will be presented with two different scenarios (this page and the next 
+page). Please answer both. These scenarios do not represent the complexity of real life and 
+may seem unfeasible and/or unrealistic; however, please take them as hypothetical and answer 
+them based on the information you are given.  
+ 
+[participants are given one of the following four pairs of scenarios] 
+ 
+Scenario 1: 
+There is a decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available seasonal forecast projects 
+a 65% (high) probability that rainfall in the coming rainy season will be lower than average, 
+meaning that the recharge of the dams would not be sufficient by a significant margin to meet 
+the demand for water in the coming dry season. 
+ 
+If this scenario occurs and you decide not to institute water restrictions for the coming year, then 
+demand for water will exceed supply. 
+ 
+Given this information on the probability of the seasonal forecast, you need to decide whether 
+you will institute water restrictions. This would mean you would receive 15% less income from 
+water usage tariffs in the coming year, and you would have 15% less funds to address other 
+pressing water management concerns. 
+ 
+Would you institute water restrictions?  
+  
+ Yes/No 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  58 
+ 
+There is another decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available climate projections 
+indicate a 65% (high) probability that rainfall will decrease by 10% or more by 2030, meaning 
+that there will be insufficient water available from dam storage by as early as 2025. 
+Corresponding projections of demand show that demand will remain stable up to 2030.  
+ 
+If this scenario occurs and you decide not to start investing in permanent alternative water 
+production this year, then demand for water will start exceeding supply in the foreseeable future. 
+ 
+Given this information on the probability of the climate projection, you need to decide whether 
+you will start investing in alternative water sources now, in order to be ready. To do this, you 
+would need to allocate 8% of each year’s water supply budget over the next 7 years into 
+permanent alternative water production technology. This would mean that you have 8% less 
+funds to address other pressing water management concerns. 
+ 
+Would you allocate 8% of your overall annual budget, each year for the next 7 years, to 
+investing in alternative water sources? 
+ 
+Yes/No 
+ 
+Scenario 2: 
+Please imagine you are a policy-maker in the water sector. Your task is deciding how to allocate 
+the water budget for the coming year.   
+ 
+There is a decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available seasonal forecast projects 
+a 35% (low) probability that rainfall in the coming rainy season will be lower than average, 
+meaning that the recharge of the dams would not be sufficient by a significant margin to meet 
+the demand for water in the coming dry season. 
+ 
+If this scenario occurs and you decide not to institute water restrictions for the coming year, then 
+demand for water will exceed supply. 
+ 
+Given this information on the probability of the seasonal forecast, you need to decide whether 
+you will institute water restrictions. This would mean you would receive 15% less income from 
+water usage tariffs in the coming year, and you would have 15% less funds to address other 
+pressing water management concerns. 
+ 
+Would you institute water restrictions? 
+ 
+ Yes/No 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  59 
+ 
+There is another decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available climate projections 
+indicate a 35% (low) probability that rainfall will decrease by 10% or more by 2030, meaning 
+that there will be insufficient water available from dam storage by as early as 2025. 
+Corresponding projections of demand show that demand will remain stable up to 2030. 
+ 
+If this scenario occurs and you decide not to start investing in permanent alternative water 
+production this year, then demand for water will start exceeding supply in the foreseeable future. 
+ 
+Given this information on the probability of the climate projection, you need to decide whether 
+you will start investing in alternative water sources now, in order to be ready. To do this, you 
+would need to allocate 8% of each year’s water supply budget over the next 7 years into 
+permanent alternative water production technology. This would mean that you have 8% less 
+funds to address other pressing water management concerns. 
+ 
+Would you allocate 8% of your overall annual budget, each year for the next 7 years, to 
+investing in alternative water sources? 
+ 
+Yes/No 
+ 
+Scenario 3:  
+Please imagine you are a policy-maker in the water sector. Your task is deciding how to allocate 
+the water budget for the coming year.  
+  
+There is a decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available seasonal forecast projects 
+a 65% (high) probability that rainfall in the coming rainy season will be lower than average, 
+meaning that the recharge of the dams would not be sufficient by a significant margin to meet 
+the demand for water in the coming dry season. 
+ 
+If this scenario occurs and you decide to institute water restrictions for the coming year, then 
+demand for water will not exceed supply. 
+ 
+Given this information on the probability of the seasonal forecast, you need to decide whether 
+you will institute water restrictions. This would mean you would receive 15% less income from 
+water usage tariffs in the coming year, and you would have 15% less funds to address other 
+pressing water management concerns. 
+ 
+Would you institute water restrictions? 
+ 
+ Yes/No 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  60 
+ 
+There is another decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available climate projections 
+indicate a 65% (high) probability that rainfall will decrease by 10% or more by 2030, meaning 
+that there will be insufficient water available from dam storage by as early as 2025. 
+Corresponding projections of demand show that demand will remain stable up to 2030. 
+ 
+If this scenario occurs and you decide to start investing in permanent alternative water 
+production this year, then demand for water will not start exceeding supply in the foreseeable 
+future. 
+ 
+Given this information on the probability of the climate projection, you need to decide whether 
+you will start investing in alternative water sources now, in order to be ready. To do this, you 
+would need to allocate 8% of each year’s water supply budget over the next 7 years into 
+permanent alternative water production technology. This would mean that you have 8% less 
+funds to address other pressing water management concerns. 
+ 
+Would you allocate 8% of your overall annual budget, each year for the next 7 years, to 
+investing in alternative water sources? 
+ 
+Yes/No 
+ 
+Scenario 4: 
+Please imagine you are a policy-maker in the water sector. Your task is deciding how to allocate 
+the water budget for the coming year.   
+ 
+There is a decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available seasonal forecast projects 
+a 35% (low) probability that rainfall in the coming rainy season will be lower than average, 
+meaning that the recharge of the dams would not be sufficient by a significant margin to meet 
+the demand for water in the coming dry season. 
+ 
+If this scenario occurs and you decide to institute water restrictions for the coming year, then 
+demand for water will not exceed supply. 
+ 
+Given this information on the probability of the seasonal forecast, you need to decide whether 
+you will institute water restrictions. This would mean you would receive 15% less income from 
+water usage tariffs in the coming year, and you would have 15% less funds to address other 
+pressing water management concerns. 
+ 
+Would you institute water restrictions? 
+Yes/No 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  61 
+ 
+There is another decision that needs to be made: 
+Your city relies solely on dam storage for water supply. The available climate projections 
+indicate a 35% (low) probability that rainfall will decrease by 10% or more by 2030, meaning 
+that there will be insufficient water available from dam storage by as early as 2025. 
+Corresponding projections of demand show demand will remain stable up to 2030. 
+ 
+If this scenario occurs and you decide to start investing in permanent alternative water 
+production this year, then demand for water will not start exceeding supply in the foreseeable 
+future. 
+ 
+Given this information on the probability of the climate projection, you need to decide whether 
+you will start investing in alternative water sources now, in order to be ready. To do this, you 
+would need to allocate 8% of each year’s water supply budget over the next 7 years into 
+permanent alternative water production technology. This would mean that you have 8% less 
+funds to address other pressing water management concerns. 
+ 
+Would you allocate 8% of your overall annual budget, each year for the next 7 years, to 
+investing in alternative water sources? 
+Yes/No
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  62 
+ 
+[Follow-on Questions] 
+1. Please explain your main reason for your decision on the budget. 
+2. Which of the following three statements do you personally believe? 
+a. Climate change (global warming) is happening, caused mainly by human 
+activities. 
+b. Climate change (global warming) is happening, but caused mainly by natural 
+forces. 
+c. Climate change (global warming) is NOT happening. 
+d. None of the above 
+3. Do you believe that heatwaves have health implications?  
+Yes              
+No         
+Don’t know 
+ 
+4. Gender you identify as 
+a. Male 
+b. Female 
+c. Transgender 
+d. Non-binary 
+e. None of these 
+5. Your age 
+a. 18-24 years old 
+b. 25-34 years old 
+c. 35-44 years old 
+d. 45-54 years old 
+e. 55-64 years old 
+f. 65-74 years old 
+g. 75 years or older 
+6. What is your first language? 
+7. Which country do you currently live in? 
+8. Is your profession in, or directly related to, the [health/WASH] field? 
+a. Yes/no 
+9. Is your profession in, or directly related to, climate science? 
+a. Yes/no 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  63 
+ 
+ANNEX 3: SURVEY STATISTICS 
+ 
+RESULTS OF THE FOUR SURVEY VARIATIONS  
+Phase 1: Seasonal health survey 
+Contingency table of GAIN responses 
+ 
+Gain Frame 
+Loss Frame 
+High 
+20 
+21 
+Low 
+25 
+25 
+The Fisher test results are: p-value = 1.0 (not significant at any level) 
+The chi2 test: chi2 = 0.009 and a p-value of 0.924 (not significant at any level) 
+Phase 2: Health seasonal and climate change scenario 
+Seasonal scenario 
+Contingency table of GAIN responses  
+ 
+ 
+The Fisher test results are: p-value = 1.0 (not significant at any level) 
+The chi2 test: chi2 = 0.0048 and a p-value of 1.0 (not significant at any level) 
+ 
+Climate change (long-term) scenario 
+Contingency table of GAIN responses  
+ 
+ 
+ 
+The Fisher test results are: p-value = 0.6 (not significant at 90%) 
+The chi2 test: chi2 = 0.128 and a p-value of 0.72 (not significant at 90%) 
+ 
+Phase 2: WASH: Seasonal and climate change scenario 
+Seasonal scenario 
+Contingency table of GAIN responses 
+ 
+Gain Frame 
+Loss Frame 
+High 
+6 
+4 
+Low 
+6 
+25 
+The Fisher test results are: p-value = 0.04 (significant at > 95%)* 
+The chi2 test: chi2 = 0.0048 and a p-value of 0.039 (significant at > 95%)* 
+ 
+Gain Frame 
+Loss Frame 
+High 
+12 
+19 
+Low 
+9 
+16 
+ 
+Gain Frame 
+Loss Frame 
+High 
+11 
+21 
+Low 
+13 
+18 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  64 
+ 
+Climate change (long-term) scenario  
+Contingency table of GAIN responses  
+ 
+Gain Frame 
+Loss Frame 
+High 
+6 
+4 
+Low 
+7 
+32 
+ 
+The Fisher test results are: p-value = 0.014 (significant at > 95%)* 
+The chi2 test: chi2 = 0.128 and a p-value of 0.022 (significant at > 95%)* 
+*Note that the significance is an artefact of the skewed sample. 
+ 
+TOTAL YES’S AND NO’S ACROSS ALL FOUR SCENARIOS  
+Phase 1: Seasonal health survey 
+Phase 1 
+Yes 
+No 
+Health Sector Seasonal Scenario 
+91 
+28 
+p-value < 0.001 (significant at >99%) 
+ 
+Phase 2: Health seasonal and climate change scenario 
+ 
+Phase 2 
+Yes 
+No 
+Health Sector Seasonal Scenario 
+56 
+34 
+Health Sector Climate Change (Long-Term) Scenario 
+63 
+27 
+p-value = 0.02 (significant at 95%) 
+p-value < 0.002 (significant at 99%) 
+ 
+ 
+ 
+Phase 2: WASH: Seasonal and climate change scenario 
+ 
+Phase 2 
+Yes 
+No 
+WASH Seasonal Scenario 
+41 
+17 
+WASH Climate Change (Long-Term) Scenario 
+49 
+9 
+p-value = 0.0016 (significant at 95%) 
+p-value < 0.002 (significant at 99%) 
+ 
+ 
+IMPROVING THE USE OF UNCERTAIN CLIMATE INFORMATION IN DECISION-MAKING: 
+A BEHAVIORAL PSYCHOLOGY APPROACH  |  65 
+ 
+TOTAL YES’S AND NO’S ACROSS THE PROBABILITY AND FRAMING 
+SCENARIOS 
+ 
+ 
+Yes 
+No 
+ALL 35% 
+scenarios 
+174 
+69 
+ALL 65% 
+scenarios 
+126 
+43 
+chi2 = 0.3 and p-value 0.58 
+ 
+ 
+Yes 
+No 
+ALL gain 
+scenarios 
+115 
+52 
+ALL loss 
+scenarios 
+184 
+60 
+chi2 = 1.83 and p-value 0.17 

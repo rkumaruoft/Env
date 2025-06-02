@@ -1,0 +1,1426 @@
+Glacier geoengineering to address sea-level rise: A geotechnical approach
+Andrew LOCKLEYa, Michael WOLOVICKb, Bowie KEEFERc, Rupert GLADSTONEd,
+Li-Yun ZHAOb,e, John C. MOOREb,d,*
+a University College London (Bartlett School), London, WC1H 0QB, UK
+b College of Global Change and Earth System Science, Beijing Normal University, Beijing, 100875, PR China
+c 120 Manastee Road, Galiano Island, British Columbia, BC V0N 1P0, Canada
+d Arctic Centre, University of Lapland, Rovaniemi, 96101, Finland
+e Southern Marine Science and Engineering Guangdong Laboratory, Zhuhai, 519082, China
+Received 15 January 2020; revised 3 August 2020; accepted 27 November 2020
+Available online 5 December 2020
+Abstract
+It is remarkable that the high-end sea level rise threat over the next few hundred years comes almost entirely from only a handful of ice
+streams and large glaciers. These occupy a few percent of ice sheets’ coastline. Accordingly, spatially limited interventions at source may
+provide globally-equitable mitigation from rising seas. Ice streams control draining of ice sheets; glacier retreat or acceleration serves to greatly
+increase potential sea level rise. While various climatic geoengineering approaches have been considered, serious consideration of geotechnical
+approaches has been limited e particularly regarding glaciers. This study summarises novel and extant geotechnical techniques for glacier
+restraint, identifying candidates for further research. These include draining or freezing the bed; altering surface albedo; creating obstacles:
+retaining snow; stiffening shear margins with ice; blocking warm sea water entry; thickening ice shelves (increasing buttressing, and
+strengthening fractured shelves against disintegration); as well as using regional climate engineering or local cloud seeding to cool the glacier or
+add snow. Not all of these ideas are judged reasonable or feasible, and even fewer are likely to be found to be advisable after further
+consideration. By describing and evaluating the potential and risks of a large menu of responses e even apparently hopeless ones e we can
+increase the chances of ﬁnding one that works in times of need.
+Keywords: Climate intervention; Targeted geoengineering; Antarctica; Greenland; Glaciers; Sea level rise
+1. Introduction
+Glaciers are slow moving, river-like bodies of ice. The
+continental ice sheets of Greenland and Antarctica are drained
+through huge, relatively fast-ﬂowing glaciers or ice streams
+(Rignot et al., 2011; Joughin et al., 2010), ﬂowing at rates of
+1e5 km per year; while the majority of the ice sheets move
+around 10 m per year. Just ﬁve dynamically thinning glaciers
+in Greenland, < 1% by area, contributed >12% of recent net
+ice loss (McMillan et al., 2016).
+The ﬂow of ice streams is largely through sliding over the
+bed, and their rate of slip is determined by basal drag which is
+often locally concentrated in ‘sticky spots’ (Alley, 1993),
+related to bed roughness and geometry e either directly as a
+bedrock bump, or by affecting subglacial water and till. Ice
+streams may change dramatically: for example, Kamb ice
+stream on Antarctica's Siple coast became stagnant during the
+last few centuries (Retzlaff and Bentley, 1993). The driving
+mechanism is bed water supply, varying because of water
+piracy between adjacent ice streams or basal freeze-on
+* Corresponding author. College of Global Change and Earth System Sci-
+ence, Beijing Normal University, Beijing, 100875, PR China.
+E-mail address: john.moore.bnu@gmail.com (MOORE J.C.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 11 (2020) 401e414
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2020.11.008
+1674-9278/Copyright © 2020, National Climate Center (China Meteorological Administration). Production and hosting by Elsevier B.V. on behalf of KeAi.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+(Tulaczyk
+et
+al.,
+2000;
+Anandakrishnan
+et
+al.,
+1997;
+Bougamont et al., 2011).
+Climate change affects ice sheets: warmer air can hold
+more water, increasing snowfall. Warmer ice is softer, and
+would accelerate e although warming the ice at depth
+would take millennia. More importantly, warming oceans
+melt ice rapidly where it starts to ﬂoat. Where bedrock
+deepens away from the coast, acceleration because of
+warming will be dramatic, as warm seawater advances under
+the ice e ice ﬂow increases due to a deepening grounding
+line (Alley et al., 2015; Joughin et al., 2012; Turner et al.,
+2017). Of global sea level rise, 3.4 m is held in unstable
+marine basins in West Antarctica, 19 m is in basins in East
+Antarctica that are potentially unstable (Fretwell et al.,
+2013), and only 60 cm is outside the Greenland and Ant-
+arctic ice sheets, in ~200,000 mountain glaciers and ice caps
+(Grinsted, 2013). Ice stream acceleration and ice sheet
+collapse poses a major risk to coastal cities (Jevrejeva et al.,
+2016; Hinkel et al., 2014).
+Geoengineering, the deliberate modiﬁcation of the climate
+system, has been proposed to address anthropogenic global
+warming (AGW), possibly complementing a full range of
+strategies to keep temperatures below thresholds, e.g. 1.5 C
+above pre-industrial (Jones et al., 2018). Commonly discussed
+forms of geoengineering are climatic; seeking to address im-
+pacts (like sea-level rise) by controlling global average surface
+temperature (MacMartin and Kravitz, 2019). These ap-
+proaches are controversial (Sugiyama et al., 2020), partly due
+to concerns that changes will be contested (Buck, 2018),
+causing political strife. Even if carbon emissions fall (per the
+Paris Agreement e Kitous and Keramidas, 2015), approaching
+zero sometime after 2050, the oceans will likely continue
+rising anyway, and the risk remains of dramatic centennial sea
+level rise (Jevrejeva et al., 2016).
+Consequently, this study considers potential geotechnical
+geoengineering solutions. These do not act on climate;
+instead aiming to reduce glacier ﬂow rates, restrain the ice
+sheets which they drain, and/or reduce ablation. The limited
+literature on ice sheet conservation focuses on blocking
+warm ocean waters accessing ice shelf cavities (Moore et al.,
+2018; Wolovick and Moore 2018; Hunt and Byers, 2019)
+and increasing snow fall (Frieler et al., 2016; Feldmann
+et al., 2019). Here, we expand the options available to
+address sea level rise, outlining new potential interventions.
+We are not endorsing or recommending any of these tech-
+niques; the best of them come with serious unresolved sci-
+entiﬁc and engineering challenges, while the worst of them
+may have fatal ﬂaws which preclude further development.
+We are merely expanding the overall menu of societal op-
+tions and brieﬂy outlining the major issues involved with
+each one.
+We provide a background to ice sheets and sea level rise,
+with a focus on ice/ocean interactions. For an overview on
+solar radiation management geoengineering's effect on ice
+sheets, see analyses of Greenland (Moore et al., 2019), and
+Antarctica (McCusker et al., 2015), though see caveats in
+Irvine et al. (2018). Subsequently, we consider intervention
+possibilities, difﬁculties and potential. Finally, we discuss risk
+and precaution in real-world applications.
+2. An elementary primer on ice sheets and sea level
+Glaciers have an accumulation zone at high altitude, and (in
+warmer climes) an ablation zone at low altitude. Glaciers are
+characterised by termination (calving or melting) and base
+condition (warm e i.e. wet; or cold e i.e. dry). Calving ter-
+minations are hard to deal with numerically (Moore et al.,
+2013; Åstr€om et al., 2014). A bed lubricated with water may
+be due to frictional melting of the glacier moving on the bed,
+geothermal heat, or surface inﬁltration. Dry-based glaciers
+ﬂow slowly, through internal deformation of the ice only
+(Moore et al., 2013). Dry glaciers react very slowly to
+changing climate conditions e on timescales, of millennia
+(Cuffey and Paterson, 2010). Glaciers terminating on land are
+relatively slow-responding e because the heat capacity of air
+is relatively low; melt rates are typically ~1 m per year. Gla-
+ciers terminating in water can have basal melt rates of order
+100 m per year as the ocean transfers heat more efﬁciently
+(Turner et al., 2017). Fast-ﬂow is controlled by sliding across
+their beds and is governed by the availability, pressure, and
+distribution of subglacial water.
+Subglacial water systems can be classiﬁed as either efﬁ-
+cient or inefﬁcient. Efﬁcient systems move large volumes of
+water through conduits governed by equilibrium between
+outward melting and inward creep closure (Rothlisberger,
+1972; Weertman, 1972; Nye, 1976; Rothlisberger and Lang,
+1987; Hewitt, 2013). Efﬁcient systems cover a small fraction
+of the basal area, running at lower pressure than the ice
+overburden, increasing basal drag and decreasing ice sliding.
+Efﬁcient systems dominate where surface melt is high e
+summer, Greenland ablation zone & downstream Antarctica
+(Schroeder et al., 2013).
+Inefﬁcient
+hydrology
+systems
+involve
+either
+poorly-
+connected subglacial water pockets, or water in saturated
+subglacial sediments (Blankenship et al., 1986; Walder, 1986;
+Kamb, 1987; Tulaczyk et al., 2000a, 2000b; Hewitt, 2013). In
+these systems water covers a large fraction of the basal area
+and is close to the ice pressure e reducing drag and promoting
+rapid sliding. In both efﬁcient and inefﬁcient systems, water
+exits at the ice margin or grounding line.
+Runoff from the surface and basal melt emerges at the
+grounding line as cold and fresh subglacial discharge, which is
+buoyant. This rises along the ice face as a buoyant plume
+(Jenkins, 1991, 2011). Turbulent mixing entrains warm salty
+ocean water. This reduces plume buoyancy but increases heat
+content, which controls the melt rate. Increased subglacial
+discharge and ocean heat content increase melting at the
+iceeocean interface, while also pushing calved tabular ice-
+bergs away from fragmenting ice shelf ocean margins.
+Marine terminating glaciers are held by buttressing.
+Bedrock high-points contact the ﬂoating ice base, acting as
+pinning points. Greenland fjords walls provide buttressing
+without pinning beneath. Sea ice and icebergs forming a
+melange reduce calving rates (Amundson et al., 2010; Robel
+402
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+2017), but do not substantially restrain ice ﬂux except in
+narrow fjords (Guo et al., 2019; Pollard et al., 2018).
+Glaciers terminating in the ocean and resting on bedrock
+that deepens inland are subject to Marine Ice Sheet Insta-
+bility (MISI), a positive feedback between ice ﬂux and
+grounding line depth (Hughes, 1973; Weertman, 1974;
+Thomas and Bentley, 1978; Schoof, 2007). As the grounding
+line retreats into a deepening basin, ice ﬂux across the
+grounding line increases, thus increasing the rate of dynamic
+thinning and accelerating retreat. The MISI is mechanical,
+driven by bedrock geometry; but ocean coupling will
+accelerate instability. The retreating grounding line and
+thinning shelf will increase sub-shelf cavity volume, allow-
+ing more vigorous circulation and increased basal melt
+(Jacobs et al., 2011).
+Greenland surface melting leads to about 1/2 present mass
+loss, the rest being by calving (van den Broeke et al., 2009).
+Water runs through the ice mass in a sub-glacial drainage
+system that is well-organised, channelized and efﬁciently
+drains to the ocean. Efﬁcient drainage means surface melt
+increases do not accelerate ice ﬂow. Nevertheless, meltwater
+induces further melting, via albedo. In Antarctica, essentially
+no surface melt is supplied to the bed, which is lubricated by
+water formed in situ and well-dispersed across the ice stream.
+Reducing production of water at the bed will have the effect of
+reducing lubrication and slowing the ice stream.
+Modifying
+either
+ice
+streams’
+basal
+conditions,
+or
+increasing buttressing will tend to restrain ﬂow. Increasing
+snowfall on ice sheets, or otherwise adjusting surface mass
+balance will accumulate ice, but will thicken and steepen the
+ice, leading to increasing ﬂow within a few centuries, thus
+acting against accumulation (Winkelmann et al., 2012).
+The most important factor controlling sea level rise un-
+certainty (Jevrejeva et al., 2016) are glaciers and ice streams
+susceptible to MISI. MISI may already be underway on Pine
+Island Glacier, Thwaites Glacier, and their smaller neighbors
+(Joughin et al., 2014; Favier et al., 2014; Rignot et al., 2014).
+Others might become important in the multi-centennial time-
+scale, but only a handful are of immediate concern (DeConto
+and Pollard, 2016); these are located in the Amundsen Sea
+sector of Antarctica. There is also much to be gained by
+observing and understanding relatively smaller systems, e.g. in
+Greenland (Fig. 1).
+3. Interventions
+3.1. Albedo management
+Attempts have already been made to preserve glaciers and
+sea ice by using insulating or reﬂecting materials (Field et al.,
+2018; Messenger, 2010). These may be useful on glaciers
+draining ice sheets. Where warm air contacts the glacier sur-
+face in the ablation zone these may prevent surface darkening,
+from dust or melt ponds.
+In the Greenland ablation zone, drainage (via surface
+drainage channels and then moulins) causes surface accumu-
+lation of dark material (dust and black carbon). Ice covered by
+thick debris (mountain glaciers), is insulated from solar heat-
+ing and warmed air, and melt rates may be very low. Polar
+debris cover is much thinner and tends to accelerate melting,
+by lowering albedo.
+Surface melt ponds are darker than surrounding ice and
+snow, absorbing much more energy from the sun. Draining
+ponds into moulins would negate this. Lake drainage would
+need to be gradual, as sudden lake drainage overwhelms the
+basal hydrology system and causes a surge in ice ﬂow (Das
+et al., 2008). Regulating drainage rates at many separate
+lakes and monitoring basal hydrologic response would present
+major difﬁculties in implementing this intervention.
+Alternatively, pond water may be used for snow making,
+when air temperature is low enough. Unlike earlier ideas that
+intended snow making to add bulk mass to the ice sheet
+(Feldmann et al., 2019), our goal is to adjust albedo. Only thin
+layers need be applied; water and energy requirements are far
+lower than when adding mass to compensate for sea level rise.
+These machines are efﬁcient in air temperatures < ~5 C.
+Albedo modiﬁcation has been investigated for Arctic sea
+ice. The ‘Ice 911’ proposal considers addition of reﬂective,
+sand-like material (Field et al., 2018). This may be beneﬁcial,
+outperforming artiﬁcial snow in warmer conditions. Achieving
+the desired mono-layer is challenging even for ﬂat sea ice,
+where icebreaker ships may be positioned rather arbitrarily.
+Glaciers are difﬁcult and dangerous environments for ma-
+chinery or pedestrians, due to crevasses, severe weather con-
+ditions, difﬁculties of search & rescue, and remoteness.
+Aircraft spreading has some similarities with crop-spraying
+where economic coverage is the primary concern, but is
+likely to be prohibitively costly when extended over vast areas
+of Greenland.
+Instead of covering dark material, a conceivable alternative
+is removal. Polluted snow is darker; this is ampliﬁed during
+the melt season, as dark particles concentrate on the surface.
+Specialist machines (perhaps based on ploughs, bulldozers or
+dragline excavators) might be developed to scrape the dirty
+surface layer of relatively stable glaciers into piled windrows,
+powered by smokeless fuel such as hydrogen to avoid black
+carbon emissions exacerbating the problem. This could use-
+fully create packed snow berms as windbreaks.
+Where a mountain glacier is thinly covered in rubble, al-
+bedo may dominate thermal insulation. Removing rubble may
+be a locally-effective intervention e but such alpine glaciers
+contribute little to sea level rise. Nevertheless, this may pro-
+vide a local ecosystem service.
+The dark region of Greenland is extensive. There is no
+leverage from working only the fast outlet glaciers, because
+surface melt does not affect their ﬂow. Any surface albedo
+modiﬁcations would be extensive, and costly. Dark material is
+conﬁned to the surface decimetres, but this is rough, with
+surface crevassing, sastrugi (wind-formed features), and melt
+ponds making complex topography. Removal of the dirty top
+layer would expose the next layer to summer melting and
+renewed surface concentration of dark contaminants in that
+layer. Continued deposition of airborne black carbon aerosols
+from industrial pollution and potentially-increasing boreal
+403
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+forest wildﬁres will continue the accumulation of dark
+contaminants.
+In summary, such albedo modiﬁcation techniques do not
+appear practical at the largest scale. Deployment would be
+required over a large fraction of the ablation zone, in order to
+have a meaningful inﬂuence on sea level rise. Operations on
+smaller, rubble-covered mountain glaciers may help local
+preservation, but the energy and cost requirements of dealing
+with the entire ablation zone are prohibitive. Albedo modiﬁ-
+cation techniques may ﬁnd a niche in areas around the equi-
+librium line where snow loss and albedo reduction were just
+beginning, but these techniques do not seem to be feasible at
+large scales.
+3.2. Anchoring techniques
+The gravitational driving forces in large glaciers and ice
+streams are much too large for ice sheet movement to be more
+than inﬁnitesimally slowed by mechanical anchoring or stiff-
+ening with steel cables or chains, by bedrock blasting to
+roughen the glacier bed, or by somehow installing artiﬁcial
+protrusions, such as stub piles embedded in subglacial till or
+drilled into bedrock.
+Some degree of ice shelf stabilization might be possible,
+with the objectives of maintaining buttressing of inland gla-
+ciers, preventing marine ice-cliff instability (DeConto and
+Pollard, 2016), and reducing the draft of released icebergs
+that could endanger any artiﬁcial subsea barriers installed to
+block deep warm seawater intrusion. The horizontal resistive
+stress due to buoyancy of a free-ﬂoating ice shelf 500 m thick
+is about 250 kPa, much too large for any reasonable tensile
+reinforcement of the shelf surface to exert more than minor
+inhibition of crevasse fracturing and rift propagation. How-
+ever, tensile reinforcement by anchored steel cables or buried
+chains could delay ﬁnal rupture of tabular iceberg rifts by
+mooring emergent icebergs in place. Large drifting icebergs
+cannot plausibly be restrained, but it could be possible to
+prevent them from initial drifting until much later in the
+process of ice shelf thinning and decay.
+Iceberg drift away from a shelf margin is driven by wind
+and ocean currents. These include outward-ﬂowing buoyant
+plumes of subglacial meltwater: these are often also associated
+with polynyas, which form as surface water and ﬂoating ice is
+pushed away from the shelf margin. These forces might be
+restrained by cable networks with self-embedding plough
+devices for load transfer to the ice, and post-tensioning by ice
+shelf spreading and weighted cable hanging over the active
+shelf edge. With icebergs moored to the parent shelf, rifts will
+tend to heal by winter freezing. This has taken place naturally
+in the case of the Brunt ice shelf, in which a ﬂotilla of
+mutually jammed icebergs has been frozen together in a
+reconstituted ice shelf. In suitable weather conditions, pump-
+ing water onto the surface may speed this fusion.
+Deployment of tensioning cables across rough and treach-
+erous ice shelf surfaces would be difﬁcult. Cables hanging
+over the shelf edge will eventually drop to the seabed, from
+which they might later be salvaged for recycling or reuse.
+Investigation of stresses, fracture modes and stability man-
+agement of the new calving front would require much further
+research. Any such intervention would certainly be extremely
+Fig. 1. The Antarctic and Greenland ice sheets showing their surface ice velocities, and an enlargement of the Amundsen Sea embayment with the Pine Island
+Thwaites glaciers, that are rapidly losing mass to the ocean. Particular outlet glaciers are marked that might present opportunities for engineering, for local
+community beneﬁts, engineering testing, or large sea level rise commitments.
+404
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+expensive in terms of material, installation and continuing
+operational costs.
+Splitting of ﬂoating shelves into icebergs is not fully un-
+derstood. Fatigue by ﬂexing from tides and waves (Pritchard
+and Vaughan 2007), and damage from pre-existing fractures
+contributes to rapid shelf disintegration (Liu et al., 2015),
+especially when thinned by melting from below. It is aided by
+freeze-thaw hydrofracturing by surface meltwater (Scambos
+et al., 2003), the draining of which could be a useful inter-
+vention e again, depending on weather conditions.
+Tensile reinforcements to suppress the breakup (e.g. as
+described above), would ideally have a designed preload to
+create compression across the potential split, while with-
+standing loads from wind and ocean currents, as well as
+ﬂexing from tides and low frequency ocean swell. It is chal-
+lenging to locate future fractures, and to put sufﬁcient re-
+inforcements in place.
+Ice streams are often ﬂanked by narrow and highly frac-
+tured shear margins, across which velocities increase from
+near-zero to full speed. As ice streams accelerate, shear mar-
+gins become more chaotic, damaged, and provides less but-
+tressing (Alley et al., 2019; Guo et al., 2019).
+Strengthening shear margins might add buttressing. Forces
+on grounded ice ﬂows are much too large to control with steel
+e but, particularly where streams ﬂoat (forming ice shelves), it
+might be feasible to stiffen shear margins with ice. Stream
+margins are strengthened naturally in cases where they merge
+into shelves and conditions allow accumulation of basal
+‘marine ice’ underneath them (Holland et al., 2009). Marine
+ice inﬁlls basal crevasses with saline ice which is more ductile
+than freshwater ice, and strengthens suture zones between
+streams (Kulessa et al., 2014). Inﬁlling ﬂoating shear margins
+might work, naturally penetrating the crevassed zone and
+freezing rapidly in cold ice. This speed may be attractive,
+although slower freezing and fresher marine ice accumulation
+might be important for mechanical strengthening, since the
+brine trapped affects its rheology (Khazendar et al., 2009;
+Moore et al., 1994).
+3.3. Bed drying
+Warm-based glaciers tend to ﬂow fast because they have
+liquid water lubricating their beds. That bed may be hard rock,
+but more likely is soft sedimentary material.
+The Kamb ice stream in Antarctica switched off (Retzlaff
+and Bentley, 1993) when its water supply was lost e either
+to the adjacent ice stream or to freezing (Alley et al., 1994;
+Tulaczyk
+et
+al.,
+2000;
+Anandakrishnan
+et
+al.,
+1997;
+Bougamont et al., 2011). Hence natural basal drying is known
+to slow ice streams.
+Bed water may be organized in various ways: from
+dispersed pockets, to dendritic channels. The more connected
+the drainage system, the less the water introduced affects
+sliding; a concentrated, efﬁcient drainage system occupies a
+small area and has lower pressure than the ice overburden
+(Rothlisberger, 1972; Nye, 1976; Rothlisberger and Lang,
+1987; Hewitt, 2013). Rapid pulses of water into an efﬁcient
+system (days or less) can overwhelm its capacity, causing
+pressure
+to
+increase
+and
+water
+spreading,
+temporarily
+increasing sliding (Das et al., 2008; Schoof, 2010).
+In Greenland, basal water volume is large, due to surface
+melt; this promotes efﬁcient drainage. In Antarctica, water
+comes from basal melt via plastic deformation, compression
+melt, geothermal ﬂux, and bed friction (friction is dominant in
+faster ﬂows). In the upper reaches of Antarctica's fast outlets
+(e.g. Pine Island and Thwaites, Fig. 2), drainage is inefﬁcient
+and water dispersed. As ice streams approach the coast, and
+larger volumes of melt are available, drainage systems become
+more organized. Radar shows Thwaites Glacier's drainage
+becomes channelized <50 km from the grounding line
+(Schroeder et al., 2013). To slow glaciers subject to rapid
+MISI, reducing water in the bed at elevations above the
+threshold for channelized ﬂow is likely to be desirable.
+However, modelling downstream impacts is critical, to ensure
+that this intervention does not impede channel formation
+downstream. Once water is channelized there is little impact
+on glacier speed. The objective would be to either drain
+distributed systems (i.e. drain subglacial sediment); or convert
+distributed drainage to channelized, which does not seem
+possible.
+Removing basal water requires challenging engineering.
+The oil industry offers relevant techniques. Simple drilling
+(rotary bits, hot water drilling) allows creation of routes from
+bed to surface, from which water can be extracted. Directional
+drilling is possible, enabling a branched network of boreholes
+from a single surface well.
+Such extraction may not be simple; the base will typically
+be close to freezing point, while higher layers are colder. The
+water temperature must be raised to prevent freezing and
+borehole blockage. Electrical heat tracing along borehole
+casings is needed, with enough heating power to compensate
+unavoidable conductive heat ﬂow into surrounding ice. Heat
+loss into the surrounding ice will be greatest during initial
+operation of a drainage well. Filament-wound ﬁberglass pipe
+can be used as well casings, with advantages of lower thermal
+conductivity and much lower weight than steel. A braided
+insulation sleeve of robust thermoplastic material could
+somewhat reduce heat tracing power consumption, and could
+help manage stresses in the casing from deformation of the
+glacier.
+The sediment bed is a sensitive system. Porosity and
+permeability depend on pore water pressure. When pressur-
+ised, porosity and permeability are high, as sediment grains
+are water-separated. Reduction in pressure collapses water
+pockets, severely reducing bed permeability (Tulaczyk et al.,
+2000) especially in tills with high clay content. Further
+reduction in suction pressure to drive adequate water ﬂux will
+greatly
+increase
+pumping
+power
+requirements,
+while
+increasing the risk of blockage by ice formation. Removing
+water from a wide area will be more difﬁcult than pumping it
+from one hole, unless careful adjustment of pressures and
+water ﬂow are achieved. It may be impracticable to extract
+water over ~30 m basal distances in a distributed drainage
+system. A network of boreholes is probably needed e unless
+405
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+good surveys of basal water pockets can be made (e.g. with
+ice-penetrating radar, seismic surveys, or down-hole cameras).
+Optimal borehole locations could be determined by ice dy-
+namics simulations.
+Reservoir engineering expertise from the petroleum in-
+dustry may be helpfully applied to subglacial drainage chal-
+lenges. Enhanced oil recovery (EOR) techniques based on
+nitrogen or CO2 injection into failing wells would be affected
+by the energy cost of compressing air or nitrogen, or capturing
+and liquefying atmospheric CO2. This would greatly exceed
+the pumping power for lifting the water displaced by that ﬂuid
+injection. However, such approaches may be required to dry
+porous beds, where pressures are limited by the packing of
+loose bed material. Were such techniques used, a delicate
+balance would need to be maintained: over-pressurization
+would result in local jacking of the glacier, removing fric-
+tion; while under-pressurization would cause a drop in
+porosity, blocking ﬂow towards the borehole.
+Water extraction would not need to remove all bed water.
+Pine Island Glacier produces about 50 m3 s1 of melt over its
+whole area, or around 10 mm per year (Joughin et al., 2009);
+disposal would be difﬁcult. Stress transfer means that
+increasing basal friction in a small area would slow the glacier.
+This is especially true in areas with both low driving stress and
+drag; the addition of localized sticky spots could substantially
+increase
+integrated
+drag.
+Conservatively
+assuming
+that
+0.1 m3 s1 represents a quantity of water that could reasonably
+be disposed of at the surface, and taking 10 mm per year as an
+average basal melt rate, that suggests capacity to create
+roughly 300 km2 of sticky spots. Freezing this much water at
+the surface would release 33 MW of latent heat; if we
+conservatively assume that 1 W m2 represents a reasonable
+area-averaged heat ﬂow that could be dispersed at the surface,
+then this would correspond to spreading the water over an area
+of 33 km2, or a square just under 6 km on a side. A vastly
+reduced surface area would be required in the polar night,
+where temperatures are often tens of Celsius below zero. It is
+impossible to know how much water could actually be
+removed without far more detailed design and engineering
+analysis, but changing the amount of water that could be
+removed would change the amount of sticky area that could be
+created (proportionally, under the simplistic assumptions that
+melt rate is spatially constant, and complete and even drying
+can be achieved). Coupled ice dynamic and basal hydrology
+modelling would be required to optimise the distribution of
+sticky spots across the ice stream. The resulting water could be
+Fig. 2. Schematic representation of glacier intervention engineering schemes. Note that in this cartoon the ice area relative to the interventions is about 1 million
+times smaller than in reality, and it would be unlikely to utilize more than one method on any particular glacier. Albedo: reﬂective materials, draining melt ponds,
+snow making machines; cloud seeding. Bed drying & binding:melt removal; thermosyphon base freezing; enhanced Oil Recovery analogues; CO2 hydrate for-
+mation; CO2 fracking-chilling. Ice shelf buttressing: enhancing pinning points; thickening/strengthening ice with pumps, snow making machines, thermosyphons
+and wind breaks; draining shelf melt; tensile reinforcement. Environmental modiﬁcation: cloud brightening, underwater berms/sheets, manipulating ocean/air
+currents, regional solar radiation management.
+406
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+frozen easily in winter near drilling sites. Spraying water
+would aid cooling, and it may also need to be settled/ﬁltered,
+removing dark till that would exacerbate summer melting.
+Removing water ﬂowing along the bed could have advan-
+tages beyond the bed. Meltwater discharge at the grounding
+line is many hundred meters below the surface, generating a
+buoyantly-rising plume, which turbulently entrains warmer
+seawater to wash against the ice front e causing rapid melting
+(Jenkins, 1991, 2011). Subsea ablation from mixed meltwater/
+seawater weakens the glacier from below, encouraging calving
+fragmentation. If the buoyant plume rises to the surface, it
+pushes ﬂoating ice fragments out to sea, removing any but-
+tressing, which would otherwise prop the glacier before sub-
+sequent calving. A large fraction of total meltwater would
+require removal to achieve this additional beneﬁt.
+An organized drainage network is the least effective way
+for water to affect ice speeds. Only a tiny fraction of the
+glacier is then in contact with the water (rather than most of
+the glacier, in a distributed system), and water pressures are
+lower. There is nothing to be gained by disrupting or draining
+channelized networks; it is the drainage type that draining the
+bed (Moore et al., 2018) is seeking to mimic.
+While subglacial water drainage could greatly reduce bed
+lubrication, total energy costs will be very high for drilling
+wells, heat tracing wells through cold ice, pumping the water
+to the surface, and excess pressurization for water disposal by
+winter freezing or snow-making. A dense ﬁeld of wells over a
+substantial area would probably be required for stable for-
+mation of an ice stream ‘sticky spot’. Designing and oper-
+ating
+the
+well
+ﬁeld
+will
+be
+challenging,
+considering
+hydrologically active terrain on a moving glacier and a dy-
+namic sedimentary bed.
+3.4. Basal freezing
+Bed freezing equates to drying (Moore et al., 2018).
+Conceivably, coolant could be circulated through boreholes
+with winter cooling at the surface, or between the bed and cold
+layers at intermediate depth. This would create frozen plugs
+around active ends of cooling wells. There are great technical
+challenges. Firstly, holes need accurate drilling (near or within
+basal melt), including installation of impermeable sleeves.
+Secondly, bottom heat transfer, to take up the latent heat of
+freezing, is restricted by ice's low thermal conductivity. The
+heat transfer limitation also applies to dissipation into cold
+intermediate ice layers, as opposed to air cooling. Thirdly, heat
+transport by sensible heat coolants is impaired by thermal
+equalization between counter-current coolant supply and re-
+turn ﬂows e potentially necessitating separate wells. Fourth,
+numerous parallel boreholes would be needed to cool any
+substantial basal area, with costs compounded by limited life
+of boreholes in moving glaciers.
+Heat transport by latent heat of vaporization is more
+effective than by sensible heat of a liquid coolant. For sub-
+glacial freezing, liquid air, liquid nitrogen or liquid CO2 might
+be technically feasible direct contact refrigerants. The exces-
+sively high energy cost of air or nitrogen liquefaction would
+limit pragmatically possible application of those cryogens to
+small scale ﬂash freezing applications. CO2 captured from the
+atmosphere might conceivably be a more viable direct contact
+refrigerant because of the further incentive for carbon
+sequestration, if applied to inland glacier regions sufﬁciently
+far from unstable margins.
+The low temperature and low humidity of polar air reduces
+the theoretical energy consumption of capturing CO2 from
+ambient air. Atmospheric CO2 capture is now being performed
+at pilot scale in temperate climates by adsorption on special
+solid adsorbents with high afﬁnity for CO2, followed by
+thermal swing regeneration of the adsorbent (Wurzbacher
+et al., 2012). Low temperatures over polar ice sheets would
+facilitate use of zeolite or activated carbon adsorbents to
+concentrate CO2, followed by cryogenic liquefaction. The CO2
+will be gravitationally pressurized in delivery down the ﬁrst
+compartment of a dual compartment well with annular casings
+as shown in Fig. 3. The ﬁrst compartment between outer and
+inner casings would be pressurized above basal pressure, while
+the second compartment inside the inner casing would contain
+low pressure CO2 being returned to the surface. A remotely
+actuated closed-centre switching valve at the base of the
+casing could sequentially open each compartment to the basal
+formation while closing the other compartment. This switch-
+ing valve would in a ﬁrst position deliver a pulse of cold liquid
+CO2 at well above the lithostatic pressure into the porous
+subglacial till formation to act as fracking ﬂuid, and in a
+second position vent ﬂash vaporizing CO2 back from the
+formation into the second compartment for mechanical
+recompression at the surface. The vapour pressure should be
+less than 2 MPa at the base of the second compartment in
+order to avoid CO2 condensation in the inner casing of the
+vertical pipe. A refrigeration cycle would thus be provided
+between basal heat uptake from CO2 vaporization in the basal
+area surrounding the borehole, and heat release from relique-
+faction at the surface.
+The switching valve sequentially opens the liquid and
+vapour compartments to the subglacial till, while never con-
+necting the liquid and vapour compartments together. The
+switching valve might be a rotary valve whose actuator would
+be energized by the pressure difference between ﬁrst and
+second compartments, and controlled by a solenoid pilot valve
+responding to basal pressure transducers. The injection/release
+cycle period would likely be hours or possibly days. Designing
+this cycle would be a very challenging exercise for collabo-
+ration with petroleum reservoir engineers, and requiring
+experimental work on fracturing frozen ice/till composites. A
+critical issue will be satisfactory release and return of CO2
+vapour, as a majority fraction of CO2 liquid injected.
+Following typical petroleum industry fracking practices, par-
+ticulate proppants may be injected with the liquid CO2 to keep
+ﬂow passages sufﬁciently open during the low-pressure vapour
+release step.
+A portion of the liquid CO2 injected into the subglacial till
+formation would remain there and gradually bind with basal
+water to form clathrate hydrates. CO2 hydrates have a higher
+melting temperature at subglacial pressures than ice, and in
+407
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+massive forms have superior mechanical properties. Methane
+hydrates may have contributed to ‘sticky spots’ in palae-
+oglacial
+ice
+streams
+under
+the
+present
+Barents
+Sea
+(Winsborrow et al., 2016). Bed drying by hydrate formation
+sequesters CO2 from the atmosphere, however exothermicity
+of hydrate formation would require supplemental basal
+refrigeration to avoid melting adjacent ice. One mole of
+liquid CO2 binding with about 6.5 mol of water ice to form
+hydrate at the basal freezing temperature would release
+12.8 kJ mol1(CO2), enough heat to melt another 2.1 mol of
+ice (Anderson, 2003). As the latent heat of CO2 vaporization
+at the freezing point of water is 10.3 kJ mol1, the majority
+of the descending liquid CO2 must be returned to the surface
+as vapour in order for any net basal refrigeration to be ach-
+ieved after any remaining CO2 has converted to hydrate. The
+fraction of the injected CO2 remaining in the till formation
+must be small to avoid compromising the basal refrigeration
+purpose by exothermic hydrate formation. Nevertheless, the
+ﬁgures above still show a net increase in solid material in the
+wet system, even without heat removal.
+This direct contact CO2 cyclical injection/release refriger-
+ation concept should have a very high coefﬁcient of perfor-
+mance in winter conditions, before allowing for the energy
+cost of the CO2 fraction permanently deposited under the ice.
+The cost of CO2 capture from the atmosphere may be sup-
+ported by carbon sequestration credits, but would not apply to
+locations in fast-moving ice anywhere near ice sheet margins.
+The above speculative concept is fraught with many chal-
+lenges and uncertainties, but could provide a worthwhile
+multidisciplinary research topic. Difﬁculties include reduction
+of glacier bed permeability by high effective pressure when
+CO2 vapour is being released to the surface, and the risk of ice
+plugging the well if liquid water breaks through the deeply
+frozen area being formed around the well. Complexity, un-
+certainty and costs of this approach may well be excessive.
+The above direct contact CO2 refrigeration concept is
+closely related to closed thermosyphons that are widely used
+for passive winter cooling of foundations in permafrost zones
+(Wagner, 2014). Thermosyphons are essentially vertically
+oriented heat pipes lifting heat from working ﬂuid evaporation
+at their warmer bottom end and rejecting heat from conden-
+sation at their colder top end. CO2 and anhydrous ammonia are
+typical working ﬂuids for thermosyphons. While the direct
+contact
+CO2 refrigeration
+approach requires mechanical
+compression and pumping energy consumption to maintain the
+necessary pressure differences between injection and release
+steps during coolant escape, the “closed thermosyphon” using
+either CO2 or NH3 working ﬂuid is entirely passive without
+any need for external power.
+Thermosyphons are a device for moving latent heat, so heat
+exchange across the walls needs to be balanced for process
+stability with condensation at the colder top end and evapo-
+ration at the warmer bottom end. With condensation at lower
+temperature and evaporation at higher temperature, these de-
+vices are actually low grade geothermal heat engines, sup-
+porting their internal ﬂuid circulation against frictional
+pressure drops.
+Specialized thermosyphons might possibly be adapted for
+cooling glacier beds. Glaciers approaching their terminus
+typically have a very cold layer near their base, as a result of
+advection from the frigid high elevation interior. The tem-
+perature gradient is quite steep in the ﬁrst 100 m above the
+base, while greatly ﬂattening toward the surface. There is thus
+a choice between rejecting heat into the cold ice about 100 m
+Fig. 3. Direct contact basal refrigeration by cyclic liquid CO2 injection and vapour release.
+408
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+above the base (as suggested in Fig. 4), or into the atmosphere
+at the surface (perhaps 1000 m above the base). While heat
+exchange into ice is conductivity-limited, the ice 100e200 m
+above the base may be colder than the summer surface tem-
+perature. Suitable thermosyphons contain an initially pres-
+surized charge of working ﬂuid in a hermetically sealed pipe
+enclosure installed in a vertical borehole. The nominal internal
+vapour working pressure in glacier applications must be in-
+termediate between the vapour pressure of the working ﬂuid
+evaporating at the freezing temperature of subglacial water,
+and the vapour pressure of the working ﬂuid condensing at a
+practicable average heat rejection temperature about 20 C
+colder. Higher pressure would prevent condensation in the heat
+exchanger. This nominal internal vapour working pressure
+would be about 2.5e3 MPa in CO2 thermosyphons, and an
+order of magnitude smaller in NH3 thermosyphons. Ammonia
+would be a suitable working ﬂuid because of its much lower
+molecular weight and vapour pressure at temperatures near the
+freezing point of water, avoiding the steeper gravitational
+pressure gradient of compressed CO2 vapour in a long vertical
+pipe. Nevertheless, ammonia releases would not be as envi-
+ronmentally benign as CO2.
+Conventional thermosyphons are typically no more than
+about 10 m tall, while glacier applications require taller de-
+vices by one or two orders of magnitude. The density of
+saturated liquid CO2 at 273 K is 927 kg m3, intermediate
+between the densities of water and ice. Density of saturated
+liquid NH3 at 273 K is 638 kg m3. The vertical gradient of
+boiling point elevation resulting from hydrostatic pressure will
+be about 0.1 K m1 for CO2 and about 0.27 K m1 for NH3.
+Because of the high thermal resistances faced at both ends by a
+thermosyphon embedded in ice, such small temperature gra-
+dients across the evaporation section may critically affect
+operating performance, in the direction of shutting down with
+excessively deep ﬂooding. The suggestion of a ﬂoat valve
+controlled liquid level may thus be helpful for extremely tall
+thermosyphons.
+Further
+study
+should
+engage
+qualiﬁed
+specialist expertise and perform detailed thermal and hydro-
+dynamic modeling to assess feasibility of thermosyphons
+(with or without liquid reservoirs and ﬂoat valves) as a
+completely passive approach to subglacial
+refrigeration.
+Careful attention should be devoted to two-phase ﬂow con-
+ditions, internal pressure distribution and operational stability
+of thermosyphons at least an order of magnitude taller than
+any used in present applications. To avoid destructive bending
+and crushing, thermosyphons should not be installed in active
+basal fault zones. For extremely tall thermosyphons as here
+contemplated, liquid draining downward from the top end
+condensation section may be collected in a reservoir (Fig. 4)
+provided by a vertically elongated compartment extending
+between the upper condensation and lower evaporation sec-
+tions of the thermosyphon, with a ﬂoat actuated valve in the
+evaporator controlling depressurization and admission of the
+working ﬂuid liquid to the evaporation section where exces-
+sive ﬂooding or drying must be avoided. Failure of ﬂuid
+control will result in instability of partial/complete failure of
+the device.
+The low thermal conductivity of ice will greatly impair the
+basal cooling effectiveness of thermosyphons, though they
+may have elongated near-horizontal extensions of their evap-
+oration section into the ice for greater contact area. Dense
+ﬁelds of thermosyphons and corresponding large numbers of
+boreholes are may well be prohibitively expensive.
+3.5. Ice shelf buttressing
+Floating ice shelves provide buttressing, resisting ice ﬂux
+and mitigating MISI (Gudmundsson, 2013). This force is
+derived from points which contact the Earth, either at its un-
+derside where it grounds (forming rises/rumples); or at lateral
+margins, contacting an embayment or fjord. Even small nat-
+ural pinning points have wide-ranging impact (Fu¨rst et al.,
+2015).
+There are two ways to increase buttressing provided by
+ﬂoating ice shelves. Firstly, building artiﬁcial pinning points
+(Wolovick and Moore, 2018). Secondly, increase thickness or
+structural strength of the ice shelf, so it contacts more natural
+points, or transmits more force from existing pinning points.
+Fig. 4. Closed thermosyphon for basal refrigeration.
+409
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+These techniques mostly require work on the ice shelf.
+Fringing shelves, ubiquitous around Antarctica, vary in size
+and accessibility. Floating glacier tongues and shelves of the
+Amundsen Sea are small and chaotically crevassed, because of
+rapid sub shelf melting driven by the warm ocean currents
+contacting grounding lines. Some crevasse-free regions may
+be available, providing a base for work.
+Artiﬁcially-raised pinning points might be constructed on
+bedrock reefs in open water just outside present ice shelf
+margins, to enable glacier regrounding after ice margin
+advance has been stimulated by other methods such as subsea
+barriers (discussed in the next section) to block deep warm
+water ablation. Such pinning points should be strongly arm-
+oured, and might be formed as interlocking arrays of ﬂoated-in
+reinforced concrete caissons anchored by drilled piles. The
+caissons may be built by slip forming in the same way as
+offshore petroleum platforms, and designed to accept some
+crushing iceberg impact damage without loss of overall
+cohesive integrity. Structural durability of such artiﬁcial
+pinning points would need to be evaluated by future feasibility
+studies. Deep ice sheets would apply very high forces to such
+caissons, which would be subject to a variety of failure modes:
+being torn off moorings; snapping under bending/shear loads;
+surface abrasion from till; shearing of square corners; salt-
+water corrosion of rebar; freeze-thaw fracking of concrete;
+denting or crushing of hollow members; etc.
+Ice shelf thickening may be applied evenly across the ice
+shelf, or it may be possible to organize thickening into useful
+shapes, such as a compressive arch (Kulessa et al., 2014) or on
+the shear margins. Pumping water through ice shelves via
+boreholes onto the surface could thicken ice in cold seasons
+(perhaps integrating brine rejection). A similar concept has
+been suggested to manage Arctic sea ice (Desch et al., 2017).
+Winter cooling may be applied to the ice shelf base, using
+thermosyphons. The limited cooling area available (small heat
+exchangers, as compared to the top surface of the ice) limits
+use to well-chosen locations e likely with mechanical strength
+importance, as opposed to being a way of simply increasing
+ice volume. The syphon base will quickly become encased in
+ice, limiting heat transfer. Further investigation of such ther-
+mosyphons may explore possibilities for shedding at least
+some encasing ice, through use of ice-phobic coatings and
+perhaps cyclic mechanical impulses or water-hammer de-
+ﬂections generated by abrupt releases of gravitationally pres-
+surized liquid working ﬂuid from an internal reservoir into the
+evaporation section e akin to a ﬂushing toilet. The combina-
+tion of small surface area and modest heat ﬂux (once encased)
+will mandate a forest of devices, probably excessively
+increasing costs.
+About 3.1 Gt per year of snow is blown to the sea around
+Antarctica (Palm et al., 2019). Coastal Antarctica is subject to
+katabatic winds; gravity ﬂows of cold air from the interior.
+These dominate stable weather patterns, except during sum-
+mers. Wide ﬂat plains ensure that much wind-blown snow
+ends up in the sea. Windbreaks may retain some of this snow
+and may fashion functional structures, e.g. arches. Windbreaks
+can be created by erecting fencing, or bulldozing snow.
+Similar techniques prevent desertiﬁcation, dune movement
+and wind erosion in loose soils1. In Antarctica, structures
+quickly become buried e creating aerodynamically smooth
+features. These stop accumulating snow; windbreaks need
+constant maintenance.
+Similarly, given the right suitable weather conditions,
+pumping water on top of the glacier to form an ice layer will
+serve to bind any snow which is there. While ice has a lower
+albedo than does snow, any fresh falls onto the ice surface will
+tend to brighten it. Ensuring that ice is laid down only in
+winter will minimise heating from albedo effects.
+Snow control techniques could also be used on the upper
+reaches of glaciers, and would be more energy efﬁcient that
+either pumping seawater to refreeze, or generating artiﬁcial
+snow.
+In summary, increasing ice shelf thickness and strength are
+keys to stabilizing against MISI. Both reducing melting from
+warmer oceans and increasing stability by surface accumula-
+tion of snow might be worthwhile. Addition of water onto ice
+shelves however carries risks from hydrofracturing, but there
+is plentiful windblown snow that could usefully be restrained
+and sculpted.
+3.6. Environmental modiﬁcations
+Glaciers and ice sheets exist within a wider environment,
+bordered by air, rock and ocean. All can be modiﬁed, to
+transfer less heat into the ice, or more heat out.
+Thermosyphons could passively cool basal ice or sur-
+rounding rock, though severely constrained by low thermal
+conductivity of that ice. Operational challenges of installation
+are not trivial e especially if cooling at depth. Valuable de-
+vices may be damaged or destroyed after emplacement too
+deeply in basal shear zones. Intervention at scale would be
+costly. Carefully targeted interventions may be justiﬁed.
+There are already techniques which could be used to cool
+water contacting ice. Marine cloud brightening (MCB) pos-
+tulates ships spraying ﬁne seawater mist (Latham et al., 2012),
+making clouds whiter to reﬂect sunlight to space (Stjern et al.,
+2018). Similarly, marine micro bubbles brighten the ocean
+(Gabriel et al., 2017). Local MCB has been proposed to pro-
+tect the Great Barrier Reef from warming (McDonald et al.,
+2019).
+Various authors have suggested erection of underwater
+berms or suspended sheets of metal to prevent warm water
+reaching beneath ice sheets; modelling suggests that this is
+likely effective, although with challenging civil engineering
+(Moore et al., 2018; Wolovick and Moore, 2018; Hunt and
+Byers, 2018; Gurses et al., 2019). Current ongoing in-
+vestigations
+are
+considering
+alternative
+approaches
+for
+installing such barriers in ice-infested waters, with suitably
+resilient conﬁgurations of reinforced tensile fabric. The
+‘seabed anchored curtains’ would rise from the ocean ﬂoor to
+1 Scottish Natural Heritage, 2020. Dune fencing. https://www.coastal
+management.eu/dune-fencing.
+410
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+intercept the thermocline a few hundred meters below the
+surface, while allowing free passage of cooler water and
+ﬂoating ice above the thermocline. Further work is needed to
+determine cost-effectiveness of technically viable designs,
+though this approach seems quite promising.
+Changing mesoscale marine currents was suggested (Hunt
+et al., 2019) with a focus on the Arctic. Such techniques
+would not necessarily be helpful in preserving local ice sheets,
+except possibly in special locations such as the Amundsen
+embayment, where the Antarctic Circumpolar Current loops
+around the Ross Gyre and impinges on the Amundsen Sea
+shelf with deep warm water entering the troughs along the
+continental shelf edge. Very careful simulation would be
+necessary, before any practical attempts.
+Changing heat transfer from the atmosphere is difﬁcult.
+The atmosphere absorbs ~20%e25% of solar radiation
+(Trenberth et al., 2009). Heat transfer from air could be locally
+controlled. Windbreaks and insulating sheeting are already in
+commercial use to preserve ski resort snow pack over the
+summer period. Changes to air circulation can cause local
+cooling but may not scale. Nevertheless, this may have some
+limited use in particular topographies, where crucial elements
+were desirable to preserve.
+Falling snow matches air temperature and is difﬁcult to
+change. Manipulating snow might be beneﬁcial for other
+reasons. Fresh-fallen snow has a higher albedo. Cloud seeding
+may be beneﬁcial, but would rely on appropriate temperatures
+and humidity levels; much of Antarctica has extremely low
+humidity. Coastal regions are the exception and cloud seeding
+may conceivably strengthen ice shelves, giving extra leverage
+to sea level mitigation.
+Modifying the global radiation budget would certainly help.
+Boreal forest wildﬁres darken Greenland ice (Thomas et al.,
+2017). There is presently inadequate effort to control wild-
+ﬁres, except where settlements are endangered. Remedial
+silvicultural can protect boreal forest carbon stocks, while
+simultaneously reducing darkening of Greenland ice by black
+carbon fallout. Encouragement can be given to signiﬁcant
+polluters (Russia, China) to accelerate their move away from
+coal.
+Alternatively, using general solar radiation management
+may be a more achievable and realizable option than many of
+those presented here. While broad intervention over both
+polar regions would be essentially part of a globalised
+climate intervention (Moore et al., 2019), localised in-
+terventions could also be envisaged. These may include
+tropospheric aerosols, especially during heat waves. Contin-
+uous distribution would be costly, as persistence is limited.
+Acting only during heat waves may prove effective in
+Greenland, or to prevent accumulation of meltwater on ice
+shelves slowing hydrofracture.
+In summary, modifying the non-ice environment is prob-
+ably more complex in terms of side-effects than conﬁning
+action to the glaciers. There are possible high-leverage loca-
+tions where localized ocean currents can feasibly be diverted
+from MISI-sensitive glaciers. Large-scale solar radiation
+management is also expected to conserve ice sheets, due to
+general cooling; this continues to be actively researched across
+the world.
+4. Precautionary principles
+An obvious guiding principle for choosing climate in-
+terventions is no net harm. Thus, we should look critically at
+installing equipment needing later removal. Removal or
+weakening ice during construction, particularly of buttressing,
+should be viewed suspiciously. Temporarily removing ice,
+particularly ﬂoating ice, implies potential containment failure
+e more so than proposals that increase buttressing or thicken
+ice. Risky interventions include: removing ice shelves to build
+buttresses on the seabed; fracturing sea ice to promote
+increased heat exchange or precipitation.
+A distinction can be drawn between destructive versus
+constructive approaches: ‘destructive’ being any intervention
+which deliberately damages a part of the ice sheet system that
+adds stability, such as destroying a portion of an ice shelf to
+build an artiﬁcial pinning point or warm-water barrier under-
+neath it. A constructive (or preservative) version would be
+building the same structure with submersibles underneath the
+ﬂoating shelf.
+Destructive interventions should not be summarily dis-
+missed; though it seems unlikely that such approaches would
+be recommended after careful analysis. Because nonlinear
+feedbacks exist (and are uncertain), any intervention disturb-
+ing a stabilizing part of the system must be subjected to
+increased and extremely cautious scrutiny. Destroying shelves
+could trigger runaway marine ice-cliff failure (DeConto and
+Pollard, 2016). When in doubt, we should fear nonlinearities
+in the system. Implementing the destructive version thus re-
+quires more conﬁdence in predicting ice fracture than imple-
+menting the constructive version.
+In contrast, distributed hydrology systems are destabilizing.
+So subglacial drying would not be “destructive”, because it is
+not deliberately damaging a stabilizing element.
+The timescale of harms and beneﬁts must also be consid-
+ered. Thickening glaciers by increasing snowfall or slowing
+advance will build gravitational driving stresses. Eventually,
+this will overcome basal friction, potentially leading to rapid
+acceleration and ice release if glacier retreat has been reversed
+to the point of substantial sea level drawdown. What timescale
+would such a release require? Observed behaviour of ice
+streams switching on centennial to millennial periods (Joughin
+et al., 2002; Tulaczyk et al., 2000) implies this would be far
+into the future; human-kind may be better able to cope than in
+the 21st century. Glacial geoengineering techniques should be
+designed with full controllability, so that interventions can
+readily be moderated or ended as required for overall stability.
+What happens to the energy used to melt ice if it is diver-
+ted? Gurses et al. (2019) used an ocean model to explore
+blocking warm water entering the Amundsen and Belling-
+shausen Seas in West Antarctica e that is larger than in-
+terventions
+simulated
+by
+Wolovick
+and
+Moore
+(2018),
+conserving Thwaites glacier. They found diverted warm water
+would intensify melting of neighbouring ice shelves, but these
+411
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+ice shelves were not involved in critical buttressing on un-
+stable glaciers (MISI). The area simulated to melt faster is the
+most stable parts of West Antarctica. Hence, it could be
+considered a success that warm water is directed to less
+damaging places.
+5. Conclusions
+This study lists techniques, some more realistic than others,
+to conserve ice sheets against collapse e and resulting sea
+level rise. These techniques all require: geo-technical analysis,
+ensuring efﬁcacy; projecting engineering scrutiny, ensuring
+deliverability and cost-effectiveness e particularly considering
+the harsh, inaccessible, pristine environments involved.
+There will be visual impacts and ecosystem changes, during
+and often after construction. The techniques listed have no
+guarantee of efﬁcacy; they are not a ‘get out of jail free card’
+for sea level rise.
+Methods discussed include:
+increasing albedo of glaciers by removing or burying dust,
+or by adding artiﬁcial or induced snow;
+drying the glacier bed by draining sediments or freezing in
+situ e using closed-loop thermosyphons, open-loop CO2
+injection, or bedrock fracking;
+thickening and thus strengthening ice shelves e by adding
+water in winter, anchoring emerging tabular icebergs,
+raising pinning points, adding artiﬁcial or induced snow, or
+by using windbreaks to retain natural snow;
+jamming glacier ﬂow e using cold shear margin water
+injection, ice shelf thickening & buttressing, and by
+creating marine pinning points;
+altering glaciers' wider environment, using climate engi-
+neering technologies.
+Inclusion on this list does not constitute recommendation,
+save for further analysis. Indeed, all approaches considered are
+somewhat problematic, and it is difﬁcult to see how some
+could be made to work technically or economically.
+Probably more important than technical feasibility is soci-
+etal acceptance (Buck, 2018; Moore et al., 2020). Working in
+Greenland requires agreement by the Greenland home rule
+and, in Antarctica, from Antarctic Treaty voting members.
+The interventions we outline require polar activities far
+more costly and invasive than those in recent years on the
+polar ice sheets. However, during the Cold War era of the
+1960s, large numbers of men and associated equipment were
+stationed in Greenland, including substantial infrastructure on
+the ice sheet. The investment and commitment of the 1960s is
+alien to present ice sheet professionals, and most of the
+indigenous population. If ice sheets once again became stra-
+tegic e as we suggest they must, because of the potential for
+catastrophic sea level rise e such infrastructure would be
+reinstated.
+Conserving ice sheets tackles sea level rise at source, rather
+than mandating local adaptations. It beneﬁts rich and poor
+equally, and may save small island states and coastal or low-
+lying areas from disappearance. Accordingly, future research
+is promising.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This study was supported by National Basic Research
+Program of China (2016YFA0602701), National Natural
+Science Foundation of China (41941006, 41530748), and
+National
+Key
+Research
+and
+Development
+Program
+of
+China (2018YFC1406104).
+References
+Alley, K.E., Scambos, T.A., Alley, R.B., et al., 2019. Troughs developed in ice-
+stream shear margins precondition ice shelves for ocean-driven breakup.
+Sci. Adv. 5, eaax2215.
+Alley, R.B., 1993. In search of ice-stream sticky spots. J. Glaciol. 39 (133),
+447e454.
+Alley, R.B., Anandakrishnan, S., Bentley, C.R., et al., 1994. A water-piracy
+hypothesis for the stagnation of ice stream C, Antarctica. Ann. Glaciol.
+20 (1), 187e194.
+Alley, R.B., Anandakrishnan, S., Christianson, K., et al., 2015. Oceanic
+forcing of ice-sheet retreat: west Antarctica and more. Annu. Rev. Earth
+Planet
+Sci.
+43
+(1),
+207e231.
+https://doi.org/10.1146/annurev-earth-
+060614-105344.
+Amundson, J.M., Fahnestock, M., Truffer, M., et al., 2010. Ice melange dy-
+namics and implications for terminus stability, Jakobshavn Isbræ,
+Greenland. J. Geophys. Res.-Earth 115 (F1). https://doi.org/10.1029/
+2009JF001405.
+Anandakrishnan, S., Alley, R.B., 1997. Stagnation of ice stream C, West
+Antarctica by water piracy. Geophys. Res. Lett. 24, 265e268.
+Anderson, G.K., 2003. Enthalpy of dissociation and hydration number of
+carbon dioxide hydrate from the clapeyron equation. J. Chem. Thermodyn.
+35, 1171e1183.
+Åstr€om, J.A., Vallot, D., Sch€afer, M., et al., 2014. Termini of calving glaciers
+as self-organized critical systems. Nat. Geosci. 7 (12), 874e878. https://
+doi.org/10.1038/ngeo2290.
+Blankenship, D.D., Bentley, C.R., Rooney, S.T., et al., 1986. Seismic mea-
+surements reveal a saturated porous layer beneath an active Antarctic ice
+stream. Nature 322 (6074), 54e57. https://doi.org/10.1038/322054a0.
+Bougamont, M., Price, S., Christoffersen, P., et al., 2011. Dynamic patterns of
+ice stream ﬂow in a 3-D higher-order ice sheet model with plastic bed and
+simpliﬁed hydrology. J. Geophys. Res. 116, F04018. https://doi.org/
+10.1029/2011JF002025.
+Buck, H.J., 2018. Perspectives on solar geoengineering from Finnish Lapland:
+local insights on the global imaginary of Arctic geoengineering. Geoforum
+91, 78e86.
+Cuffey, K.M., Paterson, W.S.B., 2010. The Physics of Glaciers, fourth ed.
+Butterworth-Heineman/Elsevier, Burlington.
+Das, S.B., Joughin, I., Behn, M.D., et al., 2008. Fracture Propagation to the
+Base of the Greenland ice sheet during supraglacial lake drainage. Science
+320 (5877), 778e781. https://doi.org/10.1126/science.1153360.
+DeConto, R.M., Pollard, D., 2016. Contribution of Antarctica to past and
+future sea-level rise. Nature 531 (7596), 591e597. https://doi.org/10.1038/
+nature17145.
+Desch, S.J., Smith, N., Groppi, C., et al., 2017. Arctic ice management. Earth’s
+Future 5 (1), 107e127. https://doi.org/10.1002/2016ef000410.
+Favier, L., Durand, G., Cornford, S.L., et al., 2014. Retreat of Pine Island
+Glacier controlled by marine ice-sheet instability. Nat. Clim. Change 4,
+117e121. https://doi.org/10.1038/nclimate2094.
+Feldmann, J., Levermann, A., Mengel, M., 2019. Stabilizing the West Ant-
+arctic ice sheet by surface mass deposition. Science Advances 5 (7).
+https://doi.org/10.1126/sciadv.aaw4132 eaaw4132.
+412
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+Field, L., Ivanova, D., Bhattacharyya, S., et al., 2018. Increasing Arctic sea ice
+albedo using localized reversible geoengineering. Earth's Future 6,
+882e901. https://doi.org/10.1029/2018 EF000820.
+Fretwell, P., Pritchard, H.D., Vaughan, D.G., et al., 2013. Bedmap2: improved
+ice bed, surface and thickness datasets for Antarctica. Cryosphere 7 (1),
+375e393. https://doi.org/10.5194/tc-7-375-2013.
+Frieler, K., Mengel, M., Levermann, A., 2016. Delaying future sea-level rise
+by storing water in Antarctica. Earth System Dynamics 7, 203e210.
+https://doi.org/10.5194/esd-7-203-2016.
+Fu¨rst, J.J., Durand, G., Gillet-Chaulet, F., et al., 2015. Assimilation of Ant-
+arctic velocity observations provides evidence for uncharted pinning
+points. Cryosphere 9, 1427e1443. https://doi.org/10.5194/tc-9-1427-2015.
+Gabriel, C.J., Robock, A., Xia, L., et al., 2017. The G4Foam experiment:
+global climate impacts of regional ocean albedo modiﬁcation. Atmos.
+Chem. Phys. 17 (1), 595e613. https://doi.org/10.5194/acp-17-595-2017.
+Grinsted, A., 2013. An estimate of global glacier volume. Cryosphere 7,
+141e151. https://doi.org/10.5194/tc-7-141-2013.
+Gudmundsson, G.H., 2013. Ice-shelf buttressing and the stability of marine ice
+sheets. Cryosphere 7, 647e655. https://doi.org/10.5194/tc-7-647-2013.
+Guo, X., Zhao, L., Gladstone, R., et al., 2019. Simulated retreat of jakobshavn
+isbræ during the 21st century. Cryosphere 13, 3139e3153. https://doi.org/
+10.5194/tc-13-3139-2019.
+Gurses, O., Kolatschek, V., Wang, Q., et al., 2019. Brief communication: a
+submarine wall protecting the Amundsen Sea intensiﬁes melting of
+neighboring ice shelves. Cryosphere 13 (9), 2317e2324. https://doi.org/
+10.5194/tc-13-2317-2019.
+Hewitt, I.J., 2013. Seasonal changes in ice sheet motion due to melt water
+lubrication. Earth Planet Sci. Lett. 371e372, 16e25. https://doi.org/
+10.1016/j.epsl.2013.04.022.
+Hinkel, J., Lincke, D., Vafeidis, A.T., et al., 2014. Coastal ﬂood damage and
+adaptation costs under 21st century sea-level rise. P. Natl. Acad. Sci. USA
+111, 3292e3297. https://doi.org/10.1073/pnas.1222469111.
+Holland, P.R., Corr, H.F., Vaughan, D.G., et al., 2009. Marine ice in Larsen ice
+shelf. Geophys. Res. Lett. 36 (11), L11604.
+Hughes, T., 1973. Is the West Antarctic ice sheet disintegrating? J. Geophys.
+Res. 78 (33), 7884e7910. https://doi.org/10.1029/JC078i033p07884.
+Hunt, J.D., Byers, E., 2018. Reducing sea level rise with submerged barriers
+and dams in Greenland. Mitig. Adapt. Strategies Glob. Change 24, 779.
+https://doi.org/10.1007/s11027-018-9831-y.
+Hunt, J.D., Nascimento, A., Diuana, F.A., et al., 2020. Cooling down the world
+oceans and the earth by enhancing the North Atlantic Ocean current. SN
+Appl. Sci. 2, 15. https://doi.org/10.1007/s42452-019-1755-y.
+Irvine, P.J., Keith, D.W., Moore, J.C., 2018. Brief communication: under-
+standing solar geoengineering's potential to limit sea level rise requires
+attention from cryosphere experts. Cryosphere 12, 2501e2513.
+Jacobs, S.S., Jenkins, A., Giulivi, C.F., et al., 2011. Stronger ocean circulation
+and increased melting under Pine Island Glacier ice shelf. Nat. Geosci. 4
+(8), 519e523. https://doi.org/10.1038/ngeo1188.
+Jenkins, A., 1991. A one-dimensional model of ice shelf-ocean interaction. J.
+Geophys. Res. 96 (C11), 20671e20677.
+Jenkins, A., 2011. Convection-driven melting near the grounding lines of ice
+shelves and tidewater glaciers. J. Phys. Oceanogr. 41 (12), 2279e2294.
+https://doi.org/10.1175/JPO-D-11-03.1.
+Jevrejeva, S., Jackson, L.P., Riva, R.E.M., et al., 2016. Coastal sea level rise
+with warming above 2
+C. P. Natl. Acad. Sci. USA 113 (47),
+13342e13347. https://doi.org/10.1073/pnas.1605312113.
+Jones, A.C., Hawcroft, M.K., Haywood, J.M., et al., 2018. Regional climate
+impacts of stabilizing global warming at 1.5 K using solar geoengineering.
+Earth’s Future 6 (2), 230e251. https://doi.org/10.1002/2017EF000720.
+Joughin, I., Alley, R.B., Holland, D.M., 2012. Ice-sheet response to oceanic
+forcing. Science 338 (6111), 1172. https://doi.org/10.1126/science.
+1226481.
+Joughin, I., Smith, B.E., Medley, B., 2014. Marine ice sheet collapse poten-
+tially underway for the Thwaites Glacier Basin, West Antarctica. Science
+344 (6185), 735e738. https://doi.org/10.1126/science.1249055.
+Joughin, I., Tulaczyk, S., Bindschadler, R., et al., 2002. Changes in West
+Antarctic ice stream velocities: observation and analysis. J. Geophys. Res.
+107 (B11), 2289. https://doi.org/10.1029/2001JB001029.
+Joughin, I., Tulaczyk, S., Bamber, J.L., et al., 2009. Basal conditions for Pine
+Island and Thwaites glaciers, West Antarctica, determined using satellite
+and airborne data. J. Glaciol. 55, 245e257.
+Joughin, I., Smith, B.E., Howat, I.M., et al., 2010. Greenland ﬂow variability
+from ice-sheet-wide velocity mapping. J. Glaciol. 56 (197), 415e430.
+https://doi.org/10.3189/002214310792447734.
+Kamb, B., 1987. Glacier surge mechanism based on linked cavity conﬁgura-
+tion of the basal water conduit system. J. Geophys. Res. 92 (B9),
+9083e9100. https://doi.org/10.1029/JB092iB09p09083.
+Khazendar, A., Rignot, E., Larour, E., 2009. Roles of marine ice, rheology, and
+fracture in the ﬂow and stability of the Brunt/Stancomb-Wills Ice Shelf. J.
+Geophys. Res. 114 (F4), F04007.
+Kitous, A., Keramidas, K., 2015. Analysis of Scenarios Integrating the INDCs.
+European Commission.
+Kulessa, B., Jansen, D., Luckman, A.J., et al., 2014. Marine ice regulates the
+future stability of a large Antarctic ice shelf. Nat. Commun. 5 (1), 3707.
+https://doi.org/10.1038/ncomms4707.
+Latham, J., Bower, K., Choularton, T., et al., 2012. Marine cloud brightening.
+Phil. Trans. Roy. Soc. A 370, 4217e4262. https://doi.org/10.1098/
+rsta.2012.0086.
+Liu, Y., Moore, J.C., Cheng, X., et al., 2015. Ocean-driven thinning enhances
+iceberg calving and retreat of Antarctic ice shelves. P. Natl. Acad. Sci.
+USA 112 (11), 3263e3268. https://doi.org/10.1073/pnas.1415137112.
+MacMartin, D.G., Kravitz, B., 2019. Mission-driven research for stratospheric
+aerosol geoengineering. P. Natl. Acad. Sci. USA 116, 1089e1094.
+McCusker, K.E., Battisti, D.S., Bitz, C.M., 2015. Inability of strato-
+spheric sulfate aerosol injections to preserve the West Antarctic Ice
+Sheet. Geophys. Res. Lett. 42 (12), 4989e4997. https://doi.org/10.
+1002/2015GL064314.
+McDonald, J., McGee, J., Brent, K., et al., 2019. Governing geoengineering
+research for the great barrier reef. Clim. Pol. 19 (7), 801e811. https://
+doi.org/10.1080/14693062.2019.1592742.
+McMillan, M., Leeson, A.A., Shepherd, A., et al., 2016. A high resolution
+record of Greenland mass imbalance. Geophys. Res. Lett. 43, 7002e7010.
+https://doi.org/10.1002/2016GL069666.
+Messenger, S., 2010. Melting glacier in Italy gets a giant thermal blanket.
+Treehugger.
+https://www.treehugger.com/clean-technology/melting-
+glacier-in-italy-gets-a-giant-thermal-blanket.html/.
+(Accessed
+10
+January 2020).
+Moore, J.C., Reid, A.P., Kipfstuhl, J., 1994. Microstructure and electrical
+properties of marine ice and its relationship to meteoric and sea ice. J.
+Geophys. Res. 99, 5171e5180.
+Moore, J.C., Grinsted, A., Zwinger, T., et al., 2013. Semi-empirical and
+process-based global sea level projections. Rev. Geophys. 51 (3),
+484e522. https://doi.org/10.1002/rog.20015.
+Moore, J.C., Gladstone, R., Zwinger, T., et al., 2018. Geoengineer polar gla-
+ciers to slow sea level rise. Nature 555, 303e305.
+Moore, J.C., Yue, C., Zhao, L., et al., 2019. Greenland ice sheet response to
+stratospheric aerosol injection geoengineering. Earth's Future 7. https://
+doi.org/10.1029/2019EF001393.
+Moore, J.C., Metti€ainen, I., Wolovick, M., et al., 2020. Targeted geo-
+engineering: local interventions with global implications. Global Policy.
+https://doi.org/10.1111/1758-5899.12867.
+Nye, J.F., 1976. Water ﬂow in glaciers: jokulhlaups, tunnels, and veins. J.
+Glaciol. 17 (76), 181e207.
+Palm, S., Yang, Y., Kayetha, V., 2019. New perspectives on blowing snow in
+Antarctica and implications for ice sheet mass balance. In: Kanao, M.
+(Ed.), Antarctica, A Key to Global Change. IntechOpen. https://doi.org/
+10.5772/intechopen.81319.
+Pollard, D., DeConto, R.M., Alley, R.B., 2018. A continuum model (PSU-
+MEL1) of ice melange and its role during retreat of the Antarctic Ice Sheet.
+Geosci. Model Dev. (GMD) 11, 5149e5172. https://doi.org/10.5194/gmd-
+11-5149-2018.
+Pritchard, H.D., Vaughan, D.G., 2007. Widespread acceleration of tidewater
+glaciers on the Antarctic Peninsula. J. Geophys. Res. 112 (F3), F03S29.
+Retzlaff, R., Bentley, C.R., 1993. Timing of stagnation of Ice Stream C, West
+Antarctica, from short-pulse radar studies of buried surface crevasses. J.
+Glaciol. 39, 553e561.
+413
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414
+Rignot, E., Mouginot, J., Scheuchl, B., 2011. Ice ﬂow of the antarctic ice sheet.
+Science 333 (6048), 1427e1430. https://doi.org/10.1126/science.1208336.
+Rignot, E., Mouginot, J., Morlighem, M., et al., 2014. Widespread, rapid
+grounding line retreat of pine island, Thwaites, smith and kohler glaciers,
+west Antarctica from 1992 to 2011. Geophys. Res. Lett. 41, 3502e3509.
+https://doi.org/10.1002/2014GL060140.
+Robel, A.A., 2017. Thinning sea ice weakens buttressing force of iceberg
+melange and promotes calving. Nat. Commun. 8, 14596. https://doi.org/
+10.1038/ncomms14596.
+Rothlisberger, H., 1972. Water pressure in intra- and subglacial channels. J.
+Glaciol. 11 (62), 177e203.
+Rothlisberger, H., Lang, H., 1987. Glacial hydrology. in: Gurnell, A.M.,
+Clark, M.J. (Eds.), Glacio-ﬂuvial Sediment Transfer: an Alpine Perspec-
+tive. John Wiley and Sons, New York, pp. 207e284.
+Scambos, T.A., Hulbe, C.L., Fahnestock, M.A., 2003. Climate-induced ice
+shelf disintegration in the Antarctic Peninsula. Antarct. Res. 79, 79e92.
+https://doi.org/10.1029/AR079p0079.
+Schoof, C., 2007. Ice sheet grounding line dynamics: steady states, stability,
+and hysteresis. J. Geophys. Res. Earth 112 (F3), F03S28. https://doi.org/
+10.1029/2006JF000664.
+Schoof, C., 2010. Ice-sheet acceleration driven by melt supply variability.
+Nature 468 (7325), 803e806. https://doi.org/10.1038/nature09618.
+Schroeder, D.M., Blankenship, D.D., Young, D.A., 2013. Evidence for a
+water system transition beneath Thwaites glacier, west Antarctica. P.
+Natl. Acad. Sci. USA 110 (30), 12225e12228. https://doi.org/10.
+1073/pnas.1302828110.
+Stjern, C.W., Muri, H., Ahlm, L., et al., 2018. Response to marine cloud
+brightening in a multi-model ensemble. Atmos. Chem. Phys. 18, 621e634.
+https://doi.org/10.5194/acp-18-621-2018.
+Sugiyama, M., Asayama, S., Kosugi, T., 2020. The NortheSouth Divide on
+public perceptions of stratospheric aerosol geoengineering? A survey in six
+Asia-Paciﬁc
+countries.
+Environmental
+Communication
+1752e4040.
+https://doi.org/10.1080/17524032.2019.1699137.
+Thomas, R.H., Bentley, C.R., 1978. A model for holocene retreat of the West
+Antarctic ice sheet. Quat. Res. 10 (2), 150e170.
+Thomas, J.L., Polashenski, C., Soja, A.J., et al., 2017. Quantifying black
+carbon deposition over the Greenland ice sheet from forest ﬁres in
+Canada.
+Geophys.
+Res.
+Lett.
+44,
+7965e7974.
+https://doi.org/10.
+1002/2017GL073701.
+Trenberth, K., Fasullo, J., Kiehl, J., 2009. Earth's global energy budget. BAMS
+311e323. https://doi.org/10.1175/2008BAMS2634.1.
+Tulaczyk, S., Kamb, W.B., Engelhardt, H.F., 2000a. Basal mechanics of ice
+stream B, west Antarctica: I. Till mechanics. J. Geophys. Res.-Sol. Ea. 105
+(B1), 463e481. https://doi.org/10.1029/1999JB900329.
+Tulaczyk, S.M., Kamb, B., Engelhardt, H.F., 2000b. Basal mechanics of ice
+stream B, west Antarctica. II. Plastic-bed model. J. Geophys. Res. 105
+(B1), 483e494.
+Turner, J., Orr, A., Gudmundsson, G.H., et al., 2017. Atmosphere-ocean-ice
+interactions in the Amundsen Sea embayment, west Antarctica. Rev.
+Geophys. 55 (1), 235e276. https://doi.org/10.1002/2016RG000532.
+van den Broeke, M., van den Broeke, M., Bamber, J.L., et al., 2009. Parti-
+tioning recent Greenland mass loss. Science 326, 984e986.
+Wagner, A.M., 2014. Review of thermosyphon applications, report ERDC/
+CRREL TR-14-1. Cold Regions Research and Engineering Laboratory,
+Engineer Research and Development Center.
+Walder, J., 1986. Hydraulics of subglacial cavities. J. Glaciol. 32, 439e445.
+Weertman, J., 1972. General theory of water ﬂow at the base of a glacier or ice
+sheet. Rev. Geophys. Space Phys. 10, 287e333.
+Weertman, J., 1974. Stability of the junction of an ice sheet and an ice shelf. J.
+Glaciol. 13 (67), 3e11.
+Winkelmann, R., Levermann, A., Martin, M.A., et al., 2012. Increased future
+ice discharge from Antarctica owing to higher snowfall. Nature 492
+(7428), 239e242. https://doi.org/10.1038/nature11616.
+Winsborrow, M., Andreassen, K., Hubbard, A., et al., 2016. Regulation of ice
+stream ﬂow through subglacial formation of gas hydrates. Nat. Geosci. 9
+https://doi.org/10.1038/ngeo2696.
+Wolovick, M., Moore, J.C., 2018. Stopping the ﬂood: could we use targeted
+geoengineering to mitigate sea level Rise. Cryosphere 12, 2955e2967.
+https://doi.org/10.5194/tc-12-2955-2018.
+Wurzbacher, J.A., Gebald, C., Piatkowski, N., et al., 2012. Concurrent
+separation of CO2 and H2O from air by a temperature-vacuum
+swing adsorption/desorption cycle. Environ. Sci. Technol. 46 (16),
+9191e9198.
+414
+LOCKLEY A. et al. / Advances in Climate Change Research 11 (2020) 401e414

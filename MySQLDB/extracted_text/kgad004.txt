@@ -1,0 +1,2176 @@
+Marine methods for carbon dioxide removal:
+fundamentals and myth-busting for the wider
+community
+Eelco J. Rohling
+1,2,*
+1Research School of Earth Sciences, Australian National University, Canberra, ACT 2600, Australia
+2Ocean and Earth Science, National Oceanography Centre, University of Southampton, Southampton SO14 3ZH, UK
+*Correspondence address. Research School of Earth Sciences, Australian National University, Canberra, ACT, Australia. E-mail: eelco.rohling@anu.edu.au
+Abstract
+To avoid global warming in excess of 1.5C under the current sluggish adoption of drastic reductions in global greenhouse gas emis-
+sions, application of methods to remove carbon dioxide from the atmosphere will become essential in the near future; yet, develop-
+ment of these methods is in its infancy. Land-based methods are further developed than marine methods, but it is likely that
+similar-scaled application will be necessary in both realms. There are many misconceptions in discussion groups and fora about the
+‘simplicity’ or ‘ease’ of proposed marine applications, partly because the complex marine carbon cycle is insufﬁciently understood by
+the proponents, having been discussed in largely inaccessible, technical texts only. This review outlines the basic operation of the
+marine carbon cycle in straightforward terms, with some simpliﬁcations, to help advance the debate among the wider community.
+Break-out boxes provide additional detail where desired, and references (and the sources cited therein) provide avenues for further
+study. The review then discusses two potential marine methods for atmospheric carbon removal that are thought to offer the great-
+est potential in terms of carbon removal mass: ocean iron fertilization and ocean alkalinity enhancement. Finally, six statements/
+arguments that seem to regularly crop up in carbon removal discussion groups are evaluated within the perspective of the compiled
+and reviewed information.
+Keywords: marine; carbon dioxide; removal; fundamentals; myth-busting
+INTRODUCTION
+With every passing year of continuing, unabated emissions, the
+likelihood of failure to limit global warming to 1.5C above pre-
+industrial levels through net-zero emissions alone is rapidly in-
+creasing [1]. This realization is driving a wave of interest in meth-
+ods for greenhouse gas removal from the climate system. With
+respect to carbon, the focus of this review, these are described in
+various guises as negative emissions technologies, carbon se-
+questration (CS) and carbon dioxide (CO2) removal approaches.
+These methods target removal of carbon (CO2 and/or CH4) from
+the atmosphere, ‘locking it away’ for long periods of time (in ex-
+cess of several centuries) in a wide variety of semi-permanent
+‘reservoirs’ (for overviews, see Refs [2–4]).
+During pre-industrial history, the ocean dominated atmo-
+spheric CO2 concentrations because it contains 60 times more
+carbon and because natural dynamics of CO2 exchange between
+the ocean and atmosphere were slow enough. In fact, the ocean
+is the largest reservoir of carbon after sedimentary rocks. As a re-
+sult, there is a lot of interest in potential atmospheric carbon re-
+moval using long-term storage in the ocean. Not all methods are
+about improved carbon uptake into the ocean—methods that
+aim to ‘switch off’ long-standing sources of carbon outgassing
+from the ocean into the atmosphere are equally important.
+Essentially, some methods aim to add carbon into the oceanic
+reservoir, while others aim to prevent escape of carbon from the
+oceanic reservoir; both increase net carbon storage in the ocean
+There is particular interest in methods that use ocean chemistry,
+physics and/or biology for CO2 capture and then store it for
+multi-centennial to millennial timescales in the deep-sea, or per-
+manently in seafloor sediments. Although total atmospheric car-
+bon removal potential for marine methods is very uncertain, two
+of these methods are often listed as having the greatest atmo-
+spheric carbon removal potentials: (i) ocean iron fertilization and
+(ii) ocean alkalinity enhancement (OAE) [2–4]. These methods will
+be discussed in more detail toward the end of this paper. A third
+method that receives quite a lot of attention is artificial upwell-
+ing, but its carbon removal potential is still thought to be much
+lower than that of the other two methods (see synthesis in Ref.
+[4]); hence, it is not included in the discussion here. In addition,
+the two methods discussed already highlight the main benefits,
+feedbacks and side-effects that need to be considered with all
+marine methods.
+Participation
+to
+atmospheric
+carbon
+removal
+discussion
+groups
+(e.g.
+carbondioxideremoval@googlegroups.com)
+has
+revealed a lively debate among researchers, engineers, inventors,
+entrepreneurs and engaged members of the public on atmo-
+spheric carbon removal methods, their potentials and their
+impacts. Yet, it has also revealed that ocean-focused ideas and
+Received: November 18, 2022. Revised: April 17, 2023. Accepted: April 19, 2023
+V
+C The Author(s) 2023. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2023, 3(1), kgad004
+https://doi.org/10.1093/oxfclm/kgad004
+Advance Access Publication Date: 21 April 2023
+Review
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+concepts (which sometimes include calls for immediate imple-
+mentation) often would be well-served by a deeper appreciation
+of the oceanic carbon cycle, and especially of the intricate feed-
+backs and interdependences between biological and a-biological
+carbon cycling that affect the efficacies and potential side-effects
+of the ideas proposed. The oceanic carbon cycle is among the
+most challenging topics in oceanography, and most available lit-
+erature is highly technical. To assist the wider community inter-
+ested in oceanic methods for atmospheric carbon removal, this
+paper reviews and synthesizes the essence of the marine carbon
+cycle in straightforward terms (with some simplifications), while
+providing key references to guide further in-depth study. It will
+specifically address a series of statements or arguments that
+seem to come up rather frequently in carbon drawdown discus-
+sion groups, namely:
+1) Oceanic CO2 uptake with changing temperature may be cal-
+culated simply with physical solubility arguments.
+2) Carbonate formation should be promoted because it causes
+carbon drawdown.
+3) Ocean iron fertilization will draw down carbon and store it
+in increased ﬁsh populations (which are commercially in-
+teresting).
+4) Ocean iron fertilization has only positive (enriching) side-
+effects.
+5) Enhanced primary production will be buried in sediments
+without major detrimental impacts.
+6) Impacts of regionally applied methods in the ocean can be
+conﬁned to that region.
+This review outlines the nature of the system that proposed
+methods aim to influence, and highlights the types of (sometimes
+far-reaching) trade-offs and side-effects that need to be considered.
+It starts with an overview of the fundamental bio-geo-chemical
+reactions that govern the physical, chemical and biological controls
+on carbon movements through the ocean, and of the key interac-
+tions between these controls (Sections ‘Fundamentals’, ‘Spatial
+property distributions’ and ‘Vertical gradients—carbon transport
+into the ocean interior’). Then follows a discussion of two main oce-
+anic methods for atmospheric carbon removal, along with their im-
+mediate drawbacks and potential for unexpected, remote or
+delayed side-effects (Section ‘Using ocean biogeochemistry to miti-
+gate CO2 emissions’). Finally, the compiled information is used to
+debunk the above six frequent statements/arguments collected
+from carbon drawdown discussion groups (Section ‘Debunking fre-
+quently encountered statements/arguments’). The article does not
+go into detail about ecological consequences (such as species-
+dominance changes, bio-physical adaptation pressures, food-web
+changes and foreign species invasion), as these are highly applica-
+tion and location specific. Most numbers and concentrations
+reported in this article are indicative rather than precise; for precise
+numbers, rigorous corrections to standard reference conditions
+would need to be made throughout, but the core arguments made
+here are not affected.
+FUNDAMENTALS
+For detailed descriptions of the reactions and interactions in-
+volved in the marine carbon cycle, see the overviews of Refs
+[5–12], and their cited sources.
+Molecules of CO2 (as for any gas) continually cross the air–sea
+interface; the flows into and out of the water are known as fluxes.
+When influx and outflux are identical, then the air and water gas
+reservoirs are said to be in equilibrium. The abundance of
+atmospheric CO2 is expressed in terms of its partial pressure in
+dry air; i.e. after removal of all water vapor (pCOatm
+2
+, in micro-
+atmospheres, latm). The concentration of non-ionized CO2 dis-
+solved in sea water is indicated with [CO2], where the square
+brackets indicate ‘concentrations of’ and the units are lmol kg1.
+Finally, measurement of pCO2 in water (pCOw
+2 ) is not possible in a
+similar manner to the measurement of pCOatm
+2
+, and pCOw
+2 is in-
+stead defined as the pCOatm
+2
+that would be reached if there were a
+perfect equilibrium with [CO2] (Henry’s Law; [13]). The equilib-
+rium relationship between [CO2] and pCOw
+2 is determined by K0,
+the
+largely
+temperature-dependent
+and
+somewhat
+salinity-
+dependent solubility of CO2: K0 ¼ [CO2]/pCOw
+2 (Fig. 1). For illustra-
+tion, K0 for CO2 is 0.033 mol kg1 atm1 at a temperature of 20C
+and salinity of 34.5 g kg1 [11]. Hence, for a modern pCO2 of
+410 latm, the equilibrium value of [CO2] in subtropical waters
+at the
+aforementioned temperature and
+salinity would be
+0.033  410 ¼ 13.53 lmol kg1. As for all soluble gases, the solubil-
+ity (K0) of CO2 increases with lowering of temperature and/or
+salinity (Fig. 1). For CO2, K0 ranges from minima of 0.02–0.03 mol
+kg1
+atm1
+in
+warm
+tropical
+and
+subtropical
+regions,
+to
+0.06–0.07 mol kg1 atm1 in cold polar regions [11].
+Net air–sea CO2 exchange into or out of surface sea water
+occurs whenever pCOw
+2 is out of equilibrium with pCOatm
+2
+. When
+pCOw
+2 is lower than pCOatm
+2
+, there will be CO2 influx from the at-
+mosphere into the sea water and vice versa. For example, a cool-
+ing of the water would increase K0 and thus the water’s capacity
+to absorb CO2, with the opposite for a warming. However, there is
+a complication in that CO2—contrary to other atmospheric gases
+such as O2 and N2—not only dissolves molecularly but also
+undergoes rapid dissociation reactions with water to form bicar-
+bonate and carbonate ions (HCO
+3 and CO2
+3 , respectively). The
+following equilibria are involved: CO2 þ H2O  HCO
+3 þ Hþ 
+CO2
+3
+þ 2Hþ. Note that release of Hþ lowers seawater pH because
+pH ¼ log10 [Hþ]. The sum of CO2, HCO
+3 and CO2
+3
+concentrations
+is known as Dissolved Inorganic Carbon: DIC ¼ [CO2] þ [HCO
+3 ] þ
+[CO2
+3 ]. Rather than DIC, some studies refer to this sum as RCO2
+(e.g. ‘total CO2’) [5]. Total DIC can be measured by acidifying a
+seawater sample and then measuring the amount of extracted
+unionized CO2 [6]; as with all concentration measurements (in-
+cluding salinity), DIC is sensitive to dilution/concentration associ-
+ated with freshwater fluxes and is therefore often standardized
+to a reference salinity. There is a distinct relationship between
+the relative concentrations of the three so-called carbonate spe-
+cies (CO2, HCO
+3 and CO2
+3 ) and seawater pH (Fig. 2). In surface
+sea water, with pH between 8.0 and 8.2, HCO
+3 dominates the
+DIC, while CO2
+3
+accounts for 10% and CO2 for only 0.6% [11].
+Another concept that is essential when discussing the ocean
+carbon cycle is alkalinity. A comprehensive overview of different
+definitions is given by Middelburg et al. [10]; here we consider a
+simplified representation. Sea water contains so-called conserva-
+tive ions from strong electrolytes that are completely ionized un-
+der
+all
+conditions,
+and
+non-conservative
+ions
+from
+weak
+electrolytes that are partially ionized in relation to temperature,
+salinity and/or pH [11]. The most abundant conservative cations
+(positive ions) are Naþ, Mg2þ, Ca2þ and Kþ and the key anions
+(negative ions) are Cl and SO2
+4 . The charge concentrations (con-
+centration times 1 for single-charged ions or times 2 for double-
+charged ions) of all conservative cations and anions add up to
+þ605.6 and 603.2 milli-mol (mmol) kg1. This indicates a
+charge imbalance of 2.400 mmol kg1 (i.e. 2400 lmol kg1) which
+is known as total alkalinity (ALKT). However, sea water is highly
+conductive, and cannot maintain a net charge. Therefore, the net
+2
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+positive charge imbalance left by the conservative ions must be
+balanced by an equal-sized net negative charge imbalance due to
+the total non-conservative ions of 2400 lmol kg1 [11, 12]. Note
+that this example is simplified for clarity and that more (minor)
+ions are involved in reality. More precisely, mean ocean alkalinity
+is 2.32–2.35 mmol kg1 [10, 11].
+The dominant non-conservative ions are the anions HCO
+3 and
+CO2
+3 . B(OH)4
+ is next, but has an 5 times smaller charge con-
+centration than CO2
+3 , and OH has an 20 times smaller charge
+concentration still [11]. Hþ is the only non-conservative cation of
+note, but has a negligible charge concentration (yet, it determines
+pH). In other words, ALKT is the net positive charge that must be
+Figure 1. CO2 solubility in sea water between 0 and 35C, at three different salinities. After Weiss [16]. Salinity (S) was gravimetrically determined, in g
+kg1. As summarized in Bailey et al. [14], the dependence of K0 to temperature and salinity that is commonly used in climate models (Orr et al., 2017)
+[15] derives from the work of Weiss [16]: ln(K0) ¼ 60.2409 þ 93.4517 (100/T) þ 23.3585 ln(T/100) þ S f0.023517  0.023656 (T/100) þ 0.0047036 (T/100)2g,
+where T is temperature in Kelvin (K ¼ C þ 273.15) and S is salinity (see also [6, 12]). Note that Bailey et al. [14] argue that this relationship may
+underestimate K0 by up to 10% at natural salinities and sub-zero temperatures down to 2C (polar extremes).
+Figure 2. Bjerrum plot of carbonate species in sea water relative to pH. Here, CO2 includes dissolved molecular CO2 and H2CO3. Pre-industrial ocean pH
+was 8.2, at which HCO
+3 is clearly dominant.
+Marine methods for carbon dioxide removal
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+balanced by the dominant anions HCO
+3 and CO2
+3
+(to be precise,
+B(OH)4
+ should be included here too) [5], and it can be measured
+using some form of acidimetric titration [6]; it is independent
+from temperature and pressure, but sensitive (along with salin-
+ity) to dilution/concentration associated with freshwater fluxes.
+Given that HCO
+3 and CO2
+3
+dominate the non-conservative ion
+charge concentration, the so-called carbonate alkalinity (ALK)
+can be described as the sum of their charge concentrations, and
+ALK then explains more than 95% of ALKT [8, 11, 12]. ALK pro-
+vides a useful measure of the degree to which CO2 has reacted
+with water to form HCO
+3 and CO2
+3
+[8], and it is commonly as-
+sumed that ALKT  ALK ¼ [HCO
+3 ] þ 2[CO2
+3 ].
+Besides ALKT  ALK ¼ [HCO
+3 ] þ 2[CO2
+3 ], a second very useful
+simplification can be made, namely that DIC  [HCO
+3 ] þ [CO2
+3 ] be-
+cause CO2 contributes very little to DIC in natural sea water.
+Combination of these two relationships allows approximating the
+concentration of CO2
+3
+from ALKT and DIC measurements because
+ALKT – DIC  [CO2
+3 ]. Moreover, given that ALKT is much larger than
+[CO2] (which equals K0 pCOatm
+2
+; see top of this section), and that
+ALKT  [HCO
+3 ] þ 2[CO2
+3 ], it is evident that the charge balance of
+the ocean—and thus its alkalinity—creates a massive (two orders of
+magnitude) increase in the ocean’s capacity to store carbon in the
+form of bicarbonate and carbonate ions, relative to a scenario with-
+out ocean alkalinity [11]. In other words, ocean alkalinity is critical
+to CO2 storage in sea water. Moreover, the unique characteristic of
+CO2 of reacting with water causes the total oceanic carbon concen-
+tration to be some 60 times larger than that in the atmosphere,
+which in turn caused the ocean to dominate atmospheric pCO2 un-
+der natural conditions over timescales of a few millennia (a few
+ocean overturnings).
+SPATIAL PROPERTY DISTRIBUTIONS
+Williams and Follows [11] present maps of surface-water [CO2],
+[HCO
+3 ], [CO2
+3 ], DIC and ALKT distributions. In summary, modern
+surface-water [CO2] varies from minima of 5–10 lmol kg1 in
+tropical and subtropical regions, to maxima of 20–25 lmol kg1 in
+high latitudes, especially in the Southern Ocean. The surface-
+water [HCO
+3 ] distribution is similar, varying from minima of
+1600–1700 lmol kg1 in tropical regions, to maxima of 2000–
+2100 lmol kg1 in high latitudes, especially in the Southern
+Ocean. The surface-water [CO2
+3 ] distribution shows an opposite
+pattern, from minima of 100–150 lmol kg1 in high latitudes, to
+maxima of 250–300 lmol kg1 in tropical to subtropical regions.
+Surface-water ALKT shows a virtually linear relationship with sa-
+linity, with minima of 2100–2250 lmol kg1 in high-precipitation
+regions in the tropics and some high latitudes, to maxima of
+2400–2500 lmol kg1 in the highly evaporative centers of subtrop-
+ical gyres. The surface-water DIC distribution, by definition, com-
+bines those of [CO2], [HCO
+3 ] and [CO2
+3 ].
+The spatial ALKT distribution is dominated by evaporation and
+precipitation/freshwater input, whereas the DIC distribution
+reflects both the influences of evaporation and precipitation/
+freshwater input, and changes in CO2 solubility with tempera-
+ture. There is a further complication in that full potential air–sea
+CO2 exchange (equilibration) is not commonly realized—the real-
+istic air–sea gas exchange is smaller than the potential air–sea
+gas exchange.
+Influence of CO2 solubility
+Solubility determines the equilibrium amount of absorption for any
+gas, while the rate of air–sea gas transfer is affected by physical pro-
+cesses that include molecular diffusion, turbulent mixing, waves,
+bubbles and spray [11, 17]. These processes are rapid; e.g. oxygen
+reaches air–sea equilibrium within a month. If this were the case
+also for CO2, then its air–sea exchange would keep pace with pro-
+cesses that tend to drive pCOw
+2 away from equilibrium, creating a
+surface ocean with uniform pCOw
+2 and a steady DIC increase with
+cooling from the equator to the poles [5]. However, the equilibration
+period for CO2 is some 10 times longer because it involves the size-
+able surface-water DIC reservoir through the reaction H2O þ CO2 þ
+CO2
+3
+ 2HCO
+3 (Box 1) [5, 8, 10]. The approximately 10months
+needed for the DIC reservoir in the upper 50m of surface water to
+equilibrate with the atmosphere is long relative to the typical
+surface-water residence time of a few days to years [8, 18]. In conse-
+quence, seasonal temperature may have changed since CO2 equili-
+bration started, and/or surface water may have traveled hundreds
+or thousands of kilometers into another region where local condi-
+tions are out of equilibrium. Thus, surface water pCOw
+2 is forever
+chasing to reach equilibrium, but in most places never quite gets
+there (i.e. the system only reaches a so-called quasi-steady state).
+Surface ocean pCOw
+2 overall is >80% saturated [8, 19, 20].
+Spatial patterns in surface-water DIC, therefore, reflect both sol-
+ubility with temperature, and superimposed deviations due to solu-
+bility changes that are more rapid than equilibration (e.g. due to
+seasonal temperature changes or temperature changes along flow
+pathways, as discussed before). But there are two more critical pro-
+cesses that cause superimposed deviations, namely: organic matter
+production and remineralization (decomposition), including upwell-
+ing of deep waters that have been enriched in carbon due to organic
+matter remineralization at depth; and calcium carbonate (CaCO3)
+production and dissolution [5, 7, 8, 11, 12]. These processes relate to
+the so-called biological pump, by which biological processes drive
+important changes in oceanic carbon and alkalinity gradients. The
+biological pump consists of two processes: the soft tissue pump
+(photosynthesis/respiration) and the carbonate or alkalinity pump.
+These pumps are discussed in the following section.
+Influence of the soft tissue and carbonate, or
+alkalinity, pumps
+The soft tissue pump relates to the cycling of organic matter. In
+its most basic representation, the reaction for photosynthetic
+generation of organic matter (CH2O) or—in reverse—respiration
+of organic matter, is CO2 þ H2O  CH2O þ O2. In this form, the re-
+lationship suggests that nutrients play no role, but this is not the
+case; in more detail, marine organic matter is better represented
+Box 1 CO2 exchange involves a negative (buffering) feed-
+back. Through the buffering reaction H2O þ CO2 þ CO2
+3
+
+2HCO
+3 , CO2 added to sea water is scavenged by CO2
+3
+ions. A
+minor portion of the produced HCO
+3 will then dissociate:
+HCO
+3 ! Hþþ CO2
+3 . This lowers the pH while, overall, there
+will be a net decrease in the proportion of CO2
+3
+in DIC [12].
+The result of this buffering process is that an increase of
+10% in pCOatm
+2
+after full equilibration leads to a 10% in-
+crease in seawater [CO2] along with an 1% increase in DIC;
+the 1:10 ratio depends on the so-called Revelle factor (B),
+which scales with DIC/[CO2
+3 ] and ranges from 8 in warm
+waters to 16 in cold waters [5, 10, 11, 21]. Under warming
+due to anthropogenic CO2 increase, both CO2 solubility
+and—importantly—B will decrease, which makes the ocean
+less efﬁcient at absorbing CO2.
+4
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+by C106H175O42N16P1 or C106H177O37N16P1S0.4 [9], in which the in-
+volvement of the main nutrients N and P is evident. This more
+detailed version also reveals the C:N:P ratio of 106:16:1, which is
+found throughout much of the ocean and is known as the
+Redfield ratio, although different studies using different methods
+find slightly different proportions [5, 7, 8, 22–24]. So, when or-
+ganic matter is formed through photosynthesis, both carbon and
+nutrients (N and P) are taken from sea water, while oxygen is re-
+leased. Conversely, when organic matter is respired, oxygen is
+consumed from sea water while carbon and nutrients are re-
+leased
+into
+it.
+Including
+oxygen,
+the
+C:N:P:O2
+ratio
+is
+106:16:1:170. Hence, the ratio of oxygen consumption for respi-
+ration relative to phosphate (PO3
+4 ) release by that respiration is
+170 to 1 [11, 25], although recent estimates suggest that this ratio
+may be closer to 150 or 154 to 1 [9].
+Photosynthesis occurs in the sunlit upper hundred meters or
+so of the water column (the so-called photic layer), while respira-
+tion occurs both within the photic layer and below it (respiration
+of dead organic matter that sinks below the photic layer). Thus,
+the processes of photosynthesis, sinking and respiration of or-
+ganic matter (also known as soft tissue) drive carbon and
+nutrients from the surface into the deep sea. This action is
+known as the so-called soft tissue pump. Apart from its impacts
+on carbon and nutrients, the soft tissue pump is a powerful agent
+for deep-water deoxygenation through the oxygen utilization in
+respiration, especially if there is limited replacement by new, ox-
+ygenated deep water.
+Across all biota, the standing stock of marine biomass
+amounts to some 6 GtC, and about half of this concerns photo-
+synthesizing marine primary producers [26]. This standing stock
+of 3 GtC of marine primary producers drives a global mean new
+primary production rate of 50 GtC y1 [27–29], which reflects the
+short lifespan (high turn-over rate) of marine phytoplankton of,
+on average, 22 days (3/50 years). Typically, marine ecosystems
+are highly efficient at recycling, with high levels of remineraliza-
+tion of dead organic matter already within the photic layer. There
+is 11 GtC of net export production of organic matter from the
+photic layer, the vast majority (>90%) of which is remineralized
+in the water column at depth (it becomes DIC—and most of the
+remineralization happens within the upper 1000 m of the water
+column), while considerable remineralization also happens at
+the sea floor and in the sediments. On average, only 0.2 GtC of
+organic matter (as particulate organic carbon) gets preserved in
+seafloor sediments [27–30]; i.e. less than 0.1% of the initial pro-
+duction (Fig. 3). More than 80% of this burial occurs in coastal
+and ocean margin sediments, with deep sea burial estimated at
+<0.01 GtC [33], so that water depth appears to be a critical con-
+trolling factor for organic carbon burial potential. The soft-tissue
+pump causes a major reduction in surface-water DIC and pCOw
+2
+through photosynthesis, and raises DIC and pCOw
+2
+at depth
+through respiration (Fig. 3). It also causes a minor increase in
+ALKT of surface waters and minor decrease in ALKT at depth be-
+cause of uptake and release of nutrients (e.g. [5, 56]).
+The carbonate or alkalinity pump relates to the processes in-
+volved in hard (CaCO3) body part formation and dissolution. In its
+most basic form, the reaction involved in the formation and dis-
+solution of CaCO3 is: Ca2þ þ CO2
+3
+ CaCO3, but it is often repre-
+sented in relation to the much more common bicarbonate ion:
+Ca2þ þ 2HCO
+3  CaCO3 þ H2O þ CO2. The latter might seem to
+suggest that 1 mol of CO2 is produced for every 1 mol of CaCO3
+production, but this is misleading because most of the liberated
+CO2 immediately reacts with water following the equilibrium
+reactions CO2 þ H2O  HCO
+3 þ Hþ  CO2
+3
+þ 2Hþ (Box 2), so that
+the actual CO2 increase is in the range of 0.6–0.8 depending on
+pH/pCO2 of the water [12, 36]. The amount of CaCO3 permanently
+deposited on the ocean floor is determined by the flux of calcium
+into the ocean from rivers [7] and occurs mainly through forma-
+tion of CaCO3 tests of marine organisms, especially planktic fora-
+minifera and calcareous nannoplankton [37] and to a lesser
+extent coral reefs and inorganic precipitates [38, 39]. The CaCO3-
+bound carbon is referred to as particulate inorganic carbon (PIC).
+Rivers were thought to bring 0.2 GtC y1 of PIC into the ocean
+(although recent estimates indicate that this number may be
+some 7 times smaller [40] and 1 GtC y1 of PIC is formed in the
+surface ocean. About 0.3 GtC y1 of PIC is buried as CaCO3 in
+shallow-water sediments. Some 0.9 GtC y1 of PIC is exported
+(sinks) to below the photic zone (80%) [7, 37, 41, 42], of which
+0.8 GtC y1 is dissolved into deeper waters (it becomes DIC—
+about half of this dissolution happens in the upper 1–2 km of the
+water column), and only 0.1 GtC y1 is buried into deep-sea
+sediments (Fig. 3) [27–30]. CaCO3 formation reduces ALKT and
+DIC and somewhat raises pCOw
+2 in surface waters, while dissolu-
+tion of CaCO3 at depth increases ALKT and DIC and somewhat
+lowers pCOw
+2 in deep water (Box 2 and Fig. 4).
+VERTICAL GRADIENTS—CARBON
+TRANSPORT INTO THE OCEAN INTERIOR
+For vertical gradients, the ‘pumps’ discussed in Section ‘Influence
+of the soft tissue and carbonate, or alkalinity, pumps’ are of criti-
+cal importance. Overall, some 4–5 times more carbon is exported
+from the photic layer by the soft tissue pump (st) than by the car-
+bonate pump (carb). This proportionality is represented by the
+so-called rain ratio (Cst/Ccarb ¼ 4:1 to 5:1) [5, 8, 11, 12, 43, 44]. As a
+consequence, the soft tissue pump dominates vertical DIC gra-
+dients in the ocean. Because the soft tissue pump involves also
+PO3
+4
+(in Redfield ratio relative to carbon), while the carbonate
+pump does not affect PO3
+4 , the contributions of the soft tissue
+and carbonate pumps to measured vertical DIC gradients can be
+disentangled using measured vertical PO3
+4
+gradients. Conversely,
+the contributions of the carbonate pump can be approximated
+using the ALKT distribution (Fig. 4) [8, 35]. It is critical to empha-
+size that use of the PO3
+4 (phosphate)-based estimate for the soft
+tissue pump and the ALKT-based estimate for the carbonate
+pump yields DIC changes that would result from these pumps if
+there were no concomitant air–sea gas exchange working to ‘re-
+set’ the carbon equilibrium. Notably, air–sea gas exchange, in
+combination with ocean circulation, would over time allow some
+of the accumulating deep CO2 to outgas back into the atmo-
+sphere. Hence, real vertical DIC changes are expected to differ
+somewhat from the sum of the P-based estimate for the soft tis-
+sue pump and the ALKT-based estimate for the carbonate pump
+[8]. In fact, combining these two estimates reveals that the soft
+tissue pump (DCst) can explain at most 220 lmol kg1, or 70%, of
+the observed vertical DIC gradient (DDIC) of 315 lmol kg1 of
+pre-industrial times (before anthropogenic CO2 emissions), and
+the carbonate pump (DCcarb) at most 60 lmol kg1, or 20% [8]. The
+residual effect of 35 lmol kg1, or 10% of DDIC, relates to the
+net effect of the so-called gas-exchange pump [8] (Box 3 and
+Fig. 5). To understand why the net gas-exchange effect is positive,
+a bit more detail is needed.
+Combination of the net biological (bio) and gas-exchange
+(gasx) pumps determines the relationship that drives DDIC,
+according to DDIC¼ DCbioþ DCgasx. We have seen above that DCbio
+splits into the soft tissue (st) and carbonate (carb) pumps, so that
+DDIC ¼ DCstþ DCcarbþ DCgasx. The gas-exchange pump in turn can
+Marine methods for carbon dioxide removal
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+also be split into two components. One is temperature dominated,
+with a small influence of freshwater fluxes [8, 45], and reflects the
+physical transfer of cold, carbon-rich water from the surface at high
+latitudes into the deep sea; this is known as the solubility pump (or
+thermal gas-exchange pump; DCgasx(sol)), which enhances DIC at
+depth [8, 11, 46]. The second component of the gas-exchange pump
+is driven by surface carbon chemistry changes that result from bio-
+logical processes; this is the biological gas-exchange component
+(DCgasx(bio)) [8]. Note that the latter is not technically a ‘pump’ in
+that it does not act against a gradient. Instead, it concerns the
+respiration driver behind high DIC and pCOw
+2 values at depth that,
+upon upwelling, fuel outgassing into the atmosphere. Thus, the
+complete relationship becomes: DDIC¼ DCst þ DCcarb þ DCgasx(sol) þ
+DCgasx(bio) (Fig. 5). Because DCgasx(bio) represents the gas-exchange-
+related ‘dampening’ of DIC gradients relative to the potential PO3
+4 -
+based estimates of DCbio, values for DCgasx(bio) are negative. In other
+words, the two gas-exchange terms (DCgasx(sol) and DCgasx(bio)) have
+opposing influences. The net gas-exchange pump influence is only
+about a third of what would be expected based on thermal gas-
+exchange arguments alone (Box 3) [8].Because the soft tissue pump
+and carbonate pump have different impacts on ALKT, DIC and
+pCOw
+2 , the net effect of the total biological pump on both surface-
+water and deep-water chemistry over time depends on the rain rate
+of organic carbon to CaCO3-bound carbon [5, 8, 11, 12]. Other plank-
+ton groups, notably diatoms and radiolaria, build their hard body
+parts out of opal (SiO2), and yet others are organic-walled (e.g. dino-
+flagellates). These groups affect only the soft tissue pump; they do
+not contribute to the carbonate pump. Hence, when considering
+processes that utilize marine primary production and the biological
+pump to enhance CO2 removal from the atmosphere into the
+ocean, diatoms are of particular interest because they completely
+lack the carbonate pump, but even the dominant carbonate-
+bearing coccolithophores remain of interest because their soft tis-
+sue pump component outperforms their carbonate pump compo-
+nent. Moreover, the presence of mineral (especially carbonate) hard
+body parts provides ballasting of organic carbon, which increases
+biological pump efficiency [48, 49].
+Figure 3. Pre-industrial ﬂow of carbon through the ocean system. Pathways, reservoir sizes (regular font, in GtC) and ﬂuxes (italic numbers, in GtC y1)
+are indicated with different colors for: PIC (red), dissolved inorganic carbon (DIC; blue) and particulate and dissolved organic carbon (POC and DOC;
+brown). DOC is the organic matter that can ﬁt through a ﬁlter, while POC is the organic matter that is too large and thus is ﬁltered out (common ﬁlter
+sizes between 0.7 and 0.22 lm). Basis diagram after Sabine and Feely [29]. *, Marine biota total biomass value of 6 GtC after Bar On et al. [26]; **, surface
+sediment total 150 GtC [26, 27, 29] and 1600 GtC [11, 34] and ***, exponential decrease with depth due to respiration [32].
+Box 2. Somewhat counterintuitively, surface-water produc-
+tion of CaCO3 does not reduce surface-water pCOw
+2 , but in-
+stead increases it. This is because CO2
+3
+is consumed in the re-
+action Ca2þ þ CO2
+3
+! CaCO3. The CO2
+3
+reduction leads to
+partial compensation for this loss via a shift in the buffering
+reaction 2HCO
+3  H2O þ CO2 þ CO2
+3
+(here reorganized to in-
+dicate the direction of shift from left to right), which implies a
+release of CO2 and thus an increase in surface-water pCOw
+2 .
+The CO2 release can also be viewed from the fact that CaCO3
+formation reduces surface-water ALKT by twice as much as
+DIC because of the double charge of Ca2þ versus the single C
+atom used, so that the CaCO3 arrow crosses pCOw
+2 contours to
+higher values (Fig. 4). The opposite applies to carbonate disso-
+lution, which drives a reduction in pCOw
+2 [5].
+6
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+USING OCEAN BIOGEOCHEMISTRY TO
+MITIGATE CO2 EMISSIONS
+Carbon storage mechanisms
+Broecker and Peng [5] argue that simple physical solution would
+have resulted in ocean uptake of only 3% of humanity’s CO2
+emissions since the onset of the industrial revolution (almost all
+of the emissions would have remained in the atmosphere).
+However, early estimates suggested that the ocean has instead
+taken up 40% of humanity’s historical CO2 emissions [50], while
+the uptake fraction of current emissions is 23 6 5% (measured for
+2009–18) [5, 51]. Broecker and Peng [5] also state that the only two
+pathways for significant amounts of CO2 to enter into the oceanic
+DIC reservoir are the buffering reaction (H2O þ CO2 þ CO2
+3
+
+2HCO
+3 ) that affects CO2 entering surface waters via air–sea ex-
+change and deeper water via organic matter remineralization,
+and the CaCO3 dissolution reaction (CaCO3 þ H2O þ CO2  Ca2þ
+þ 2HCO
+3 ). The CO2
+3
+in the first equation is that dissolved in the
+ocean, and the CaCO3 in the second equation is entirely domi-
+nated by the massive mass of interchangeable carbonate in ma-
+rine surface sediments, which is estimated between 150 GtC
+(1250 GtCaCO3) [27, 28, 30] and 1600 GtC (13 330 GtCaCO3) [34, 11]
+(Fig. 3).
+CaCO3 dissolution is determined by the so-called saturation
+state of sea water (X), which is a function of the carbonate ion con-
+centration; [CO2
+3 ] [5, 12]. If we assume that [Ca2þ] is more or less
+uniform and constant in the ocean, then the saturation state of sea-
+water is given by: X ¼ [CO2
+3 ]/[CO2
+3 ]sat, where [CO2
+3 ] is the actual
+concentration in a seawater sample, and the subscript sat indicates
+saturation at the pressure, temperature and salinity of the sample.
+CaCO3 tends to grow under supersaturated conditions (X > 1), and
+to
+dissolve
+under
+undersaturated
+conditions
+(X < 1).
+Because
+[CO2
+3 ]sat is a weak function of temperature and salinity but a strong
+function of water depth (pressure), deeper waters are more corro-
+sive to CaCO3 than shallower waters [52, 53]. In essence, CaCO3
+becomes more soluble with lowering temperatures, and especially
+with increasing pressure (depth). At typical deep-sea temperatures
+(2C), CaCO3 is about twice as soluble at 500 atmospheres (atm) of
+pressure (¼5000m depth) as at 1atm of pressure (surface) [5]. An
+approximate relationship relative to pressure only is [CO2
+3 ]sat 
+(4.35 107/[Ca2þ]) e(P/511) [53], where P is water pressure at the
+depth evaluated and [Ca2þ] is almost constant at 10.2  103mol
+kg1 [54], so that the relationship further simplifies to [CO2
+3 ]sat 
+4.27 105 e(P/511). The seawater saturation state (X) contrasts the
+actual [CO2
+3 ] with the saturation value [CO2
+3 ]sat, and it is especially
+the biological pump that causes fluctuations in [CO2
+3 ]. Its com-
+bined soft-tissue and carbonate processes lead to a strong increase
+in DIC and a considerable increase in ALKT (Box 4 and Fig. 6), which
+drive a rapid decrease in [CO2
+3 ] and, hence, reduce X. This makes
+deep water that has received more mineralization products more
+Box 3.
+The solubility or thermal gas-exchange pump
+(DCgasx(sol)) is affected by the (slow) surface water pCOw
+2
+equilibration discussed above and its interaction with the
+large-scale oceanic surface-to-deep water circulation. For
+an average surface-to-deep water cooling of 18C and a DIC
+solubility change of 9 lmol kg1 C1 [47], DCgasx(sol) would
+be expected to contribute 155 lmol kg1 to DDIC, if pCOw
+2
+equilibration were instantaneous [8]. The slowness of the
+realistic air-sea pCOw
+2 equilibration, discussed above, reduces
+the expected DCgasx(sol) contribution to 100 lmol kg1 [8, 45].
+This is still some 3 times greater than the net DCgasx contribu-
+tion to DDIC (35lmol kg1). The discrepancy arises from the
+impact of the second component of the gas-exchange pump
+(DCgasx(bio)), and its impact can therefore be estimated as
+DCgasx(bio) ¼ DCgasx – DCgasx(sol) ¼ 35 – 100 ¼ 65lmol kg1
+(Fig. 5). The potential effect of the biological pump on vertical
+DIC gradients was determined by DCbio ¼ DCst þ DCcarb ¼
+220þ 60¼ 280lmol kg1. Now, we see that biology-related gas
+exchange moderates that value to a realistic net value of
+280  65¼ 215lmol kg1. The biology-related gas-exchange
+component (DCgasx(bio)¼ 65 lmol kg1) appears to offset two-
+thirds
+of
+the
+solubility-related
+gas-exchange
+component
+(DCgasx(sol) ¼ 100 lmol kg1). Hence, simple solubility-based
+arguments about carbon storage in the interior of the ocean
+may produce overestimates by a factor of 3. And if the simple
+solubility arguments fail to account for slowness of the realis-
+tic air-sea pCOw
+2 equilibration, then this overestimation rises
+to a factor of 5.
+Box 4. To illustrate the impacts of soft tissue remineralization
+and carbonate dissolution on seawater [CO2
+3 ], an example is
+borrowed from Broecker and Peng [5]. Both soft tissue reminer-
+alization and carbonate dissolution increase DIC; in more
+detail, the soft tissue remineralization maximum resides shal-
+lower than the carbonate dissolution maximum, but this is ig-
+nored here. However, the effects of nitrate (NO
+3 ) in the soft
+tissue pump (NO
+3 ) need to be included (Fig. 6). For every 1mol
+of C in soft tissue, some 0.15 moles of NO
+3 are included (see
+Redﬁeld ratio). For a molar rain rate of 4:1 for carbonate-pro-
+ducing
+plankton,
+remineralization
+at
+depth
+releases
+4  0.15¼ 0.6moles of NO
+3 (a change in charge concentration
+of 0.6 moles in deep-water ALKT). Hence, combined reminer-
+alization and dissolution increase deep-water DIC  [HCO
+3 ] þ
+[CO2
+3 ] by 5moles. Meanwhile, deep-water ALKT increases by
+þ2 (release of 1mole of Ca2þ) and 0.6 moles (due to NO
+3
+release)¼ 1.4moles in total. There are many additional inﬂu-
+ences, which will be ignored here for clarity [10]. The change
+in ALKT, therefore, is 28% of the change in DIC. Starting with a
+water mass with DIC ¼ 2000lmol kg1 and ALKT¼ 2200lmol
+kg1, and assuming that this water parcel would undergo a to-
+tal DIC change of 200lmol kg1 due to remineralization and
+dissolution (to 2200lmol kg1), then this water parcel would
+have undergone a (1.4/5) 200¼ 60lmol kg1 increase in
+ALKT (to 2260lmol kg1). Given the relationship between
+[CO2
+3 ], ALKT and DIC discussed previously, [CO2
+3 ]  ALKT –
+DIC ¼ 2200 2000¼ 200lmol kg1 in the original water parcel,
+while [CO2
+3 ]  ALKT – DIC¼ 2260 2200 ¼ 60lmol kg1 in the
+modiﬁed water parcel. Hence, [CO2
+3 ] has dropped greatly due
+to the combined effect of remineralization and dissolution, re-
+ducing X and making deep water more corrosive to CaCO3.
+Meanwhile, given the simpliﬁcation DIC  [HCO
+3 ] þ [CO2
+3 ] dis-
+cussed previously, original [HCO
+3 ] was 2000 200¼ 1800lmol
+kg1, while the modiﬁed-water [HCO
+3 ] is 2200 60¼ 2140lmol
+kg1; i.e. [HCO
+3 ] has gone up by 340lmol kg1. This is because
+the CO2 released from mineralization of soft tissue exceeds the
+amount of CO2
+3
+released by dissolution of carbonate, and
+the buffering reaction (H2O þ CO2 þ CO2
+3
+ 2HCO
+3 ) combines
+the excess released CO2 with CO2
+3
+that was in the water
+already, producing HCO
+3 .
+Marine methods for carbon dioxide removal
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+corrosive to CaCO3 (Box 4). As a result, CaCO3 can exist in marine
+sediments only down to a certain depth, and is absent below that
+level because of dissolution (below). Given that presence of CaCO3
+makes marine sediments pale beige or gray in color, and that its ab-
+sence leaves dark brown-gray colors (clay minerals), one can imag-
+ine a sort of ‘snow line’ with CaCO3 present above it, but not below
+it [55].
+Several important levels have been identified with regard to
+carbonate dissolution in the ocean. The shallowest marks the
+depth below which notable CaCO3 dissolution occurs (it is often
+referred to as the lysocline, although this term is through the lit-
+erature used for a variety of slightly different, related concepts).
+Considering seafloor sediments, this level is commonly recog-
+nized at a depth where overlying water is still supersaturated
+(X > 1); the observed carbonate dissolution is driven by saturation
+reduction due to respiration within sediment pore waters (e.g.
+[31]). The next level down is the saturation horizon, where ocean
+water itself first becomes undersaturated (X ¼ 1). Note that the
+discussion here focuses entirely on calcite and ignores the meta-
+stable form aragonite(e.g. [5, 12]). Roughly a kilometer below the
+saturation horizon lies the compensation depth, which geochem-
+ically is the level where dissolution at the sediment–water inter-
+face exactly balances the rain of CaCO3 from above [53, 57–59],
+and which geologically is the level where the sedimentary CaCO3
+content drops to 10% due to dissolution [53, 60–62]. Finally, the
+so-called snow line is recognized, below which no solid calcite is
+found in the sediment due to dissolution [53, 55].
+The compensation depth and the snow line are identical when
+the system is in steady state. However, when a large CO2 pertur-
+bation makes its way into the ocean interior (e.g. the anthropo-
+genic emissions signal), the saturation horizon and geochemical
+compensation depth shift to shallower water, and the CaCO3 that
+had accumulated above the snowline now falls below the com-
+pensation depth, causing intense dissolution. This so-called car-
+bonate compensation process is the ultimate natural mechanism
+Figure 4. Effect of key processes on pCO2 in ALKT–DIC space. Seawater pCO2 (orange lines and numbers, in latm) is calculated at a temperature of 25C,
+salinity of 35 and pressure of 1 atm (water depth of 0 m). CaCO3 dissolution increases seawater ALKT and DIC in a ratio of 2:1, with a net effect of
+decreasing seawater pCO2. CaCO3 formation has the opposite effects. CO2 invasion and release into/from the ocean only affects seawater DIC.
+Photosynthesis mainly consumes seawater DIC and only slightly increases seawater ALKT due to nutrient uptake; respiration has the reverse effect.
+Modiﬁed after Yu et al. [35].
+Figure 5. Total vertical DIC gradient and its component parts. The total
+vertical DIC gradient (purple) comprises the soft tissue (brown),
+carbonate/alkalinity (cream) and net gas exchange (red) contributions.
+The net gas exchange contribution (red) results from a solution
+component (blue) and a biological component (green).
+8
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+for ‘cleaning up’ a major CO2 perturbation [11, 34]. It requires the
+large-scale ocean circulation (transporting the CO2) to make
+many passes through the deep sea where the CaCO3 lies; each
+pass takes many centuries to a millennium, and during each
+pass only a fraction of the ocean volume interacts with the sedi-
+mentary CaCO3 [5]. Hence, carbonate compensation is an intrin-
+sically slow process. Over many tens of thousands of years, the
+CO2 anomaly gets smaller and smaller following an exponentially
+decaying curve, and eventually only up to 10% of the original
+emissions spike remains in the atmosphere [11, 34, 63–65]. In spe-
+cific locations in the deep western North Atlantic, enough an-
+thropogenic CO2 has now been transported into the deep sea via
+North Atlantic Deep Water formation to have started the process
+of carbonate compensation (the calcite compensation depth has
+risen 300 m) [66].
+Given that there is no conceivable way of accelerating carbon-
+ate compensation to timescales short enough to be of relevance
+to society, oceanic methods for anthropogenic CO2 capture in-
+stead need to consider shorter-term processes. This means stor-
+age of the sequestered carbon (i) in the vast oceanic DIC reservoir
+with multi-centennial timescales and/or (ii) through burial in
+sea-floor sediments with timescales up to millions of years. To
+achieve this, methods have been proposed that manipulate either
+the soft tissue pump, or ocean alkalinity.
+Using the soft-tissue pump
+The soft tissue pump is responsible for the majority of carbon
+transport from the ocean surface into the ocean interior, and even
+into sea-floor sediments (Fig. 3). It involves the reaction CO2 þ H2O
+ CH2O þ O2, with the understanding that carbon changes go
+hand-in-hand with similar-sign changes in N and P, and opposite-
+sign
+changes
+in
+O2,
+following
+ratios
+of
+approximately
+C:N:P:O2 ¼ 106:16:1:170 [11, 25]; although recent estimates for the
+O2:P and O2:C ratios suggest 150 to 154 and 1.45, respectively
+[9]. Thus, the soft tissue pump brings not only C into deeper wa-
+ters, but also the major (or macro-) nutrients P and N. Upwelling of
+waters enriched in these elements back into the photic layer will
+trigger new production, consuming C, N and P in roughly similar
+proportions as they occur in the water. However, not only P and N
+are important, but also trace amounts of other elements following
+the extended Redfield ratio: C124,000 N16,000 P1,000 S1,300 K1,700 Mg560
+Ca500 Sr5 Fe7.5 Zn0.8 Cu0.38 Co0.19 Cd0.21 Mo0.03 [67, 68]. In some oce-
+anic regions, high macro-nutrient conditions exist but productivity
+remains low (i.e. concentrations of chlorophyll, the main com-
+pound involved in photosynthesis, remain low); these are known
+as high nutrient low chlorophyll (HNLC) regions, and productivity
+in these regions is often limited by a shortage of iron in a
+bio-available form (e.g. [69–75] and references therein). Biological
+production in 30% of the modern surface ocean is thought to be
+limited primarily by Fe [68, 76]. Upwelling in a HNLC region leads
+to CO2 outgassing because of a lack of new biological production to
+consume the carbon that accumulated in the water through remi-
+neralization; thus pCOw
+2 > pCOatm
+2
+. In consequence, there is consid-
+erable interest in ‘fertilizing’ such areas (notably the Southern
+Ocean, Equatorial Pacific and North Pacific) with iron to stimulate
+biological productivity and thus reduce pCOw
+2 , which in turn would
+minimize outgassing and possibly even achieve net CO2 sequestra-
+tion—the scale of the net CO2 impact remains debated [74–75].
+Due to uptake of the nutrients NO
+3 and PO3
+4 , enhanced photosyn-
+thesis also leads to an increase in surface-water alkalinity (Fig. 4),
+which promotes further CO2 uptake (see also next section). For
+such fertilizing approaches to be successful, a means needs to be
+found to make newly produced POC sink rapidly into the deep sea
+(preferably to the sea floor), to avoid immediate reversal of the pro-
+cess by remineralization in shallow water (Box 5). However, several
+issues need to be considered; notably oxygen utilization and nutri-
+ent robbing, as discussed next.Respiration of sinking organic mat-
+ter utilizes oxygen, both in the water column while the organic
+matter is sinking, and on/in the sea floor once organic matter has
+accumulated there. Even if burial of a larger than normal propor-
+tion of organic matter in sediments could somehow be achieved,
+the fraction buried will still be only a minor portion of the total ex-
+port production; the vast majority of sinking organic matter will be
+respired in the water column (as mentioned, water depth thus
+exerts an important control on burial rates), and both on the sea
+floor and at shallow burial depths inside the sediments. For exam-
+ple, 3–5% of gross primary production ends up on the seafloor to-
+day and only a tenth to a fifth of this is preserved in sediments
+while the rest is remineralized within the sediments through fur-
+ther oxidation using oxygen and then sulfate (2CH2O þ SO2
+4
+!
+2HCO
+3 þ H2S) and subsequent microbial methanogenesis (2CH2O
+! CO2 þ CH4) [9, 77]. Even in modern regions of optimum net or-
+ganic carbon burial fluxes, burial represents only 1% of primary
+production [78]. A region’s existing type of ecosystem plays an im-
+portant role; ecosystems with high nutrient retention and a super-
+efficient microbial loop (notably, in warm water, which accelerates
+respiration rates; e.g. the Red Sea) have much lower proportions of
+carbon burial relative to new production than other, less efficiently
+recycling ecosystems [79].
+Modeling of future warm (high CO2) conditions with doubled
+phosphorus and iron input indicates that organic carbon burial in
+marine sediments might eventually draw down a total of
+Figure 6. Schematic impacts of the soft-tissue (black) and carbonate/alkalinity (green) pumps on deep-water DIC and ALKT. Values in molar units. The
+example considers the inﬂuences of soft (organic) tissue and carbonate formed in the upper water column that sink with an assumed rain ratio of 4:1,
+and then remineralize and dissolve in deeper waters. Following an example presented in Broecker and Peng [5].
+Marine methods for carbon dioxide removal
+|
+9
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+1600 GtC, although this would take tens of thousands of years,
+and will be associated with massive spatial expansion of anoxic
+deep-water conditions, similar to that during two major oceanic
+anoxic events in Earth’s history [80]. However, 1600 GtC greatly
+exceeds what may be needed to limit global warming to 1.5C
+above pre-industrial levels, which instead requires 70–280 GtC re-
+moval by 2100 [81]. Land-based CO2 removal of 100 GtC may be
+conceivable with large-scale reforestation and soil regeneration
+(especially when including soil biochar enrichment) and techno-
+logical solutions may increase this ([4, 82–85] and references
+therein). Hence, a similar marine contribution of 100 GtC would
+be a useful target, which would avoid the worst of the side-
+effects of the 1600 GtC model of Ruvalcaba Baroni et al. [80]. For
+example, model experiments by Oschlies et al. [86] considered
+70 GtC over a 100-year period.
+The key challenge for ocean iron fertilization methods is to de-
+vise effective ways of transporting organic matter to the sea floor
+(which is especially difficult in deep waters) and achieve burial
+with as little remineralization as possible, to avoid complications
+such as seawater de-oxygenation [75, 86–89] and substantial
+downstream return-flow of CO2 from sea water (see Oschlies et al.
+[86] for the Southern Ocean and Gnanadesikan et al. [90] for the
+tropical Pacific). Ref. [75] reviewed all major iron fertilization
+experiments to date, and concluded that ‘. . . detection of signifi-
+cant carbon export below the winter mixed layer following an
+[iron-triggered] increase in primary productivity required at least
+three conditions: (1) a shift to a diatom-dominated community;
+(2) low bacterial respiration and grazing-pressure rates within the
+mixed layer and (3) a sufficient experimental duration [to allow
+observation of] both immediate and delayed responses to iron ad-
+dition’. Possibilities for artificially accelerating organic-matter
+transport to the sea floor include ballasting of phytoplankton
+blooms with clay minerals or other detrital (e.g. dust) material
+[48, 91–94, 134], and/or specifically triggering phytoplankton
+blooms in regions where the physical circulation assists excess
+DIC transport into the deep sea, such as the Ross Sea near
+Antarctica [95]. The latter condition may more broadly apply to
+the region around Antarctica to the south of the so-called
+Southern Ocean Biogeochemical Divide, where circulation accu-
+mulates macro-nutrients that can sustain major productivity
+increases, and where rapid sinking of waters assists excess DIC
+transport from the surface into the deep sea [96].Achieving rapid
+sinking and burial of organic matter in fertilized HNLC regions
+has negative side-effects as well; the associated nutrient export
+from surface waters and their accumulation at and above the
+sea floor represent significant changes in the long-standing
+ecosystem operation of these regions, with repercussions
+throughout their food webs. Moreover, nutrient deprivation in
+areas downstream of the fertilized HNLC regions, a process
+called nutrient-robbing (e.g. [69, 86, 100–102]), is also likely to
+have adverse impacts on ecosystem operation (see also Box 6).
+Finally,
+cessation
+of
+iron
+fertilization
+in
+many
+locations
+appears to result in a ‘rebound’ effect of net CO2 outgassing
+that has a major negative impact on the efficiency of iron fer-
+tilization [95]. The wide range of ecosystem impacts of iron fer-
+tilization must be much better understood before large-scale
+implementation of the method is contemplated because they
+include potentially disastrous (i) marine feedbacks that partly
+or entirely offset the CO2 sequestration gains in the fertilized
+HNLC region, including production of the powerful greenhouse
+gases N2O or methane, and a rebound effect when iron fertili-
+zation is stopped, which would quickly erode the net benefit
+(and cost efficiency) of iron fertilization (e.g. [74, 75, 86, 87, 90,
+95, 103]); (ii) toxic algal bloom development [75, 104, 105]; (iii)
+water-column de-oxygenation [75, 86–89] and/or (iv) side-
+effects to critical ecosystem services over a much wider spatial
+domain [69, 74, 97] (Box 6).
+Box 5. It is possible that marine biomass stocks, including
+those potentially interesting to ﬁsheries, might increase in a
+fertilized region. However—even ignoring that this growth
+may be (partially) offset by a decline in downstream
+regions—such growth would be a one-time change only, fol-
+lowed by a new steady state where ﬂux in equals ﬂux out.
+Even if a doubling or tripling of the 3 GtC global biomass
+stock in classes larger than single-celled plankton [26] could
+be achieved, such a one-time change would only represent a
+few percent of the oceanic C sequestration desired. Hence,
+the bulk of productivity-based oceanic C sequestration must
+be done by action of the soft-tissue pump, with focus on the
+rapidly
+overturning
+single-celled
+phytoplankton,
+rather
+than by a marine biomass stock expansion at higher trophic
+levels (but note that there are also proposals for artiﬁcial up-
+welling as a method for carbon removal that focuses on
+multi-cellular macro-algae; e.g. Sargassum).
+Box 6. Recent work on iron transport and limitation further
+emphasizes concerns that nutrient-robbing associated with
+fertilizing HNLC regions may affect nutrient cycling and eco-
+system interdependences on a global scale, and casts doubt
+over the net CO2 sequestration potential of iron fertilization. It
+proposes that, over geological time, a global macronutrient
+and micronutrient colimitation with optimized net productiv-
+ity may have developed in the oceans, which is mediated by
+macronutrient, iron, and ligand redistribution via ocean circu-
+lation;
+the
+so-called
+ligand-iron-microbe
+feedback
+[69].
+Ligands are phytoplankton- and other microbe-produced ‘or-
+ganic molecules that bind to iron and act as a refuge from loss
+by scavenging and precipitation, and [.. .] most oceanic dis-
+solved [bio-available] iron is associated with organic chelating
+ligands’ [69]. The authors propose that ligands produced by
+phytoplankton using nutrients in the dust-replete North
+Atlantic, which is (via Antarctic Intermediate Water) down-
+stream of the Southern Ocean HNLC region, cause iron trans-
+port via deep currents back into the Southern Ocean, where it
+feeds phytoplankton. This feedback keeps iron available in the
+ocean in ‘just enough’ amounts. Following this framework,
+further iron additions to the Southern Ocean are unlikely to
+drive appreciable increases in net global productivity (thus,
+CO2 sequestration) on a global scale, although major detri-
+mental ecosystem impacts may be caused [69, 97]. Yet, the
+framework represents a highly idealized representation of the
+complex iron cycle in the ocean [68], which casts doubt on its
+inferred perfectly closed loop. Moreover, ocean carbon inven-
+tory changes in the geological past in part reﬂect an important
+contribution of iron fertilization in ocean C sequestration (e.g.
+[98, 99]), which challenges the conclusion of Lauderdale et al.
+[69] that iron additions would not appreciably affect CO2 se-
+questration.
+10
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+All this should not be taken to mean that ocean iron fertiliza-
+tion should be discarded as a potential method for atmospheric
+carbon removal. Instead, it emphasizes that careful work is
+needed to better understand the true scale of the benefits, and
+the likelihood of side-effects that might potentially offset any
+benefits. There are not enough data to fully assess what exactly
+might be expected from ocean iron fertilization. Because of the
+potentially wide-ranging impacts, a targeted research effort is
+needed to resolve the governing framework of processes and
+interactions before large-scale implementation is sought.
+Altering ocean alkalinity
+Theoretically, there is vast potential for CO2 sequestration into
+the interior of the ocean via ocean alkalinity enhancement (OAE)
+(e.g. [4, 88, 106–109]). This leads to storage in the oceanic DIC res-
+ervoir, over multi-decadal to multi-centennial timescales. The
+method essentially works by artificially increasing the positive
+charge concentration of cations in sea water, with specific inter-
+est in Ca2þ and Mg2þ. This increase would be realized through ad-
+dition of ground silicate rock or industrially produced lime (Box 7)
+to coasts in warm regions where wave agitation keeps mobilizing
+and pulverizing the material and high temperatures maximize
+weathering rates, or to open-ocean surface waters (e.g. [106, 109],
+and references therein). Note that the direct CO2 consumption
+during chemical weathering in this method is strongly aug-
+mented by indirect CO2 drawdown associated with the method’s
+alkalinity addition to the ocean (see below).The mining effort
+needed to obtain sufficient silicate rock and/or limestone (for
+lime production) for removal of several gigatons of CO2 per year
+is similar to the mining effort for the current global cement in-
+dustry (7 Gt of source rock per year [109]. Other proposals in-
+clude so-called accelerated weathering of limestone using CO2-
+rich industrial flue-gas [116–119] (Box 8), and various electro-
+chemical processes [109, 120–122] including a concept focused on
+Cl reduction via electrodialysis [123, 124].
+Addition of alkalinity to the ocean helps to offset ocean acidifi-
+cation (the lowering of ocean pH due to anthropogenic CO2 ab-
+sorption)
+[106,
+108],
+which
+is
+a
+major
+threat
+to
+marine
+ecosystems [106, 125, 126]. More relevant to this review, the in-
+creasing positive charge concentration due to OAE will force an
+increase in the negative charge concentration of the dominant
+anions [HCO
+3 ] and [CO2
+3 ], through a reduction in dissolved [CO2].
+Visualized in Fig. 2, the process drives a shift to the right along
+the X-axis, with increases in [HCO
+3 ] and [CO2
+3 ] along with a de-
+crease in dissolved [CO2]. The dissolved [CO2] reduction implies a
+drop in pCOw
+2 , and thus increases atmospheric CO2 absorption.
+But the slowness of air-sea CO2 equilibration then comes into
+play, which means that intensive OAE could cause severe tempo-
+rary/regional CO2 depletion, causing intense pCOw
+2 gradients be-
+tween well-mixed waters and the OAE source. In extreme cases,
+spots with CO2 limitation of productivity might develop, when
+pCOw
+2
+locally falls below 100 latm, although mixing (and/or
+more diffuse addition) will alleviate that and overall productivity
+is thought to remain limited by nutrient and light availability
+[106, 127–131]. More significantly, OAE increases X, [HCO
+3 ] and
+pH, and thus promotes calcification (CaCO3 formation). Yet, cal-
+cification reduces alkalinity (Box 2 and Fig. 4), and thus offsets
+the desired effects of OAE. This, combined with further biogeo-
+chemical feedbacks—e.g. changes in the rain rate, including an
+enhanced carbonate pump as well as enhanced carbonate bal-
+lasting of POC—makes the net impacts of OAE difficult to quan-
+tify [106]. Much deeper understanding of this complex network of
+feedbacks is needed before such quantifications become feasible,
+and the expanded understanding needs to include also the
+impacts of addition of silica, Mg versus Ca, and trace elements
+through OAE [106]. Note also that OAE applied in an indiscrimi-
+nate manner may trigger detrimental feedbacks that might offset
+(or worse) the CO2 drawdown targeted with the OAE, which calls
+for careful monitoring of the seawater saturation state during the
+addition, so that the volume of alkalinity added can be adjusted
+accordingly [132].Renforth and Henderson [109] compared differ-
+ent ocean biogeochemical model experiments and found that,
+under certain hypothetical scenarios of pure alkalinity addition
+and
+ideal
+(immediate)
+dissolution
+of
+the
+added
+materials,
+166 GtC can be sequestered by 2100 [88], or that 0.6 GtC can be
+sequestered each year for every Gt of olivine added to the surface
+ocean per year [110]. In the latter study, 57% of the sequestration
+arose from alkalinity increase, and 37% and 6% from the addi-
+tions of iron and silicon derived from the olivine, respectively; but
+note that assuming ideal (immediate) dissolution is rather unre-
+alistic in the case of olivine. A specific benefit of OAE is that it can
+(regionally at least) help keep the ocean at a higher carbonate
+(aragonite) saturation state, which will contribute to continued
+Box 7. Silicate mineral weathering in essence follows reac-
+tions similar to that for olivine: Mg2SiO4 þ 4CO2 þ 4H2O !
+2Mg2þ þ 4HCO
+3 þ H4SiO2. Other silicate minerals have dif-
+ferent cations instead of Mg (e.g. Ca) and thus produce dif-
+ferent ions (e.g. Ca2þ), and/or clay minerals instead of dis-
+solved
+silicic
+acid
+(H4SiO4).
+CO2
+sequestration
+using
+industrially produced lime uses the reverse calcination
+reaction CaO þ CO2 ! CaCO3. The CaO would need to be
+industrially produced with CO2 capture, to ensure a net CO2
+sequestration effect. In a natural state, throughout Earth
+history, CO2 levels changed because of minor imbalances
+between removal of CO2 by weathering and addition by
+volcanism, which over hundreds of thousands to millions of
+years changed the carbon inventory enough to inﬂuence
+climate (e.g. [30, 77, 109–113]). Reported natural global CO2
+consumption ﬂuxes by chemical weathering of silicate rock
+range from 0.22 to 0.29 GtC y1 [114, 115], so that an increase
+of the weathering rate by a factor of 100 would contribute
+signiﬁcantly to anthropogenic carbon removal on timescales
+that are relevant to society. Therefore, the key challenge in
+artiﬁcial
+weathering
+methods
+for
+anthropogenic
+CO2
+sequestration, such as OAE, is to achieve acceleration of this
+process.
+Box 8. The method of accelerated weathering of limestone
+using CO2-rich industrial ﬂue-gas [116–119] focuses on
+concentrated CO2 that is captured at source from industrial
+emissions and is then fed through reactors with sea water
+and ground carbonate (e.g. industrial limestone or shell
+waste), to employ the CaCO3 dissolution reaction CaCO3 þ
+H2O þ CO2 ! Ca2þ þ 2HCO
+3 . The water containing the
+reaction end products can then be distributed back into the
+ocean, where it helps restore seawater alkalinity and
+combat ocean acidiﬁcation
+Marine methods for carbon dioxide removal
+|
+11
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+coral reef health [109]. The survival of corals is under threat be-
+cause we are getting uncomfortably close to their tolerances for
+thermal
+stress
+(þ2C)
+and
+carbonate-ion
+concentrations
+([CO2
+3 ] ¼ 200 lmol
+kg1,
+approximate
+aragonite
+saturation
+Xaragonite ¼ 3.3; [CO2]atm ¼ 480 ppm) [133].
+Finally, Renforth and Henderson [109] discuss the longevity of
+C sequestration through OAE, and conclude that it might be of
+the order of hundreds to thousands of years. But—similar to Bach
+et al. [106]—they argue that too many uncertainties remain about
+potential feedback processes (including carbonate precipitation,
+which removes alkalinity), casting doubt on the robustness of
+this longevity range. This again emphasizes an urgent need for
+targeted research into the feedback processes, where the urgency
+arises from the fact that OAE seems to be a feasible, largely safe
+and potentially long-lasting method for CO2 sequestration.
+DEBUNKING FREQUENTLY ENCOUNTERED
+STATEMENTS/ARGUMENTS
+Based on the reviewed material, we can now evaluate the state-
+ments or arguments that are frequently encountered in discus-
+sion groups, as listed in the introduction.
+Statement 1: ‘Oceanic CO2 uptake with changing temperature
+may simply be calculated with physical solubility arguments’.
+This is incorrect. Such simple calculations may produce results
+that are off by as much as a factor 3–5. The complete suite of pro-
+cesses involved was found to be much more complicated, with
+major roles for (changes in) the temperature-sensitive Revelle
+factor (Box 1), the discrepancy between air–sea CO2 equilibration
+timescales and circulation timescales (especially relevant if sur-
+face waters become involved in deep-water formation), and out-
+gassing
+of
+biological
+pump-related
+CO2
+(DCgasx(bio))
+from
+subsurface waters upon upwelling. Changing temperatures will
+therefore need to considered along with changing surface-water
+residence times and changing rates of deep-water formation, bio-
+logical pump activity and upwelling (Box 3).
+Statement 2: ‘Carbonate formation should be promoted be-
+cause it causes carbon drawdown’. This is incorrect. Carbonate
+precipitation causes a decrease in alkalinity and DIC, and an in-
+crease in pCOw
+2
+(Fig. 4), which is opposite to the expectation
+expressed in this statement. Organisms with carbonate hard
+body parts only cause net carbon drawdown because organic car-
+bon is also formed and the soft tissue pump dominates following
+the 4:1 to 5:1 rain rate. Organisms with non-carbonate hard body
+parts (opal or organic compounds) are more effective at carbon
+drawdown. If, for some reason, approaches are desired that must
+only work with carbonate, then the focus for CO2 removal must
+be on carbonate dissolution reactions (the exact opposite of the
+often proposed carbonate formation).
+Statement 3: ‘Ocean iron fertilization will draw down carbon
+and store it in increased fish populations (which are commer-
+cially interesting)’. This may be the case, but the impact on car-
+bon drawdown is very limited. Expansion of fish stocks would be
+a one-time change only. Once the expansion has stabilized, a
+new steady state will exist where flux in equals flux out.
+Moreover, even under extreme assumptions of fish-stock expan-
+sion to 2 or 3 times the present-day global stock, such a one-time
+change would only represent a few percent of the oceanic C
+sequestration that is desired. The heavy lifting in productivity-
+based oceanic C sequestration must be done by continuous ac-
+tion of the soft tissue pump, driven by rapidly overturning single-
+celled plankton (Box 5).
+Statement 4: ‘Ocean iron fertilization has only positive (enrich-
+ing) side-effects’. This is incorrect. Nutrients are used/depleted
+from surface waters and transported into deep water within or-
+ganic matter sinking from successful iron fertilization regions.
+This causes surface waters downstream of these regions to be-
+come nutrient-depleted, with impacts on ecosystems that used
+to rely on the imported nutrients. Also, the nutrients in sinking
+organic matter will be released at depth through remineraliza-
+tion, and then remain absent from surface waters until upwelling
+circulation brings them back up (along with CO2). Furthermore,
+oxygen is utilized during remineralization, and deep-water de-ox-
+ygenation underneath and downstream of iron fertilization
+regions poses a threat to communities that used to rely on the
+presence of sufficient oxygen. Finally, a host of insufficiently un-
+derstood feedbacks can lead to production of other powerful
+greenhouse gases, as well as a rebound effect when iron fertiliza-
+tion is stopped, which would severely diminish the net benefits of
+the initial iron fertilization (Section ‘Using the soft-tissue pump’).
+Statement 5: ‘Enhanced primary production will be buried in
+sediments without major detrimental impacts’. This is a highly
+simplified view. First, only a fraction of productivity ever gets
+buried in the sediments, due to highly efficient remineralization
+in the water column, at the sea floor and within sediments.
+Second, organic carbon burial potential decreases greatly with in-
+creasing water depth, so that most of the burial occurs in shallow
+marine environments, and only a tiny fraction in the deep sea.
+Stimulating phytoplankton (or seaweed) growth therefore is only
+one critical part of the problem; the other critical part is how to
+ensure that this new production will actually reach the sea floor
+to stand a chance of being buried, rather than being remineral-
+ized within the water column. Third, the fraction of productivity
+lost to the sediments depends strongly on the type of ecosystem;
+some ecosystems (e.g. the Red Sea) have much lower proportions
+of carbon burial relative to new production than other ecosys-
+tems, so that not all regions are suitable for carbon removal
+through productivity enhancement. Moreover, in all cases, the in-
+crease in carbon burial that might be realized is only a small frac-
+tion of the additional productivity driven by fertilization, so that
+very large-scale fertilization is needed to trigger substantial in-
+crease in carbon burial fluxes. Optimization strategies may focus
+on: (i) fertilization in areas with anoxic waters/sediments because
+this promotes preservation of the organic flux to the sea floor
+and (ii) implementation in relatively shallow environments, given
+the great reduction in organic burial potential with increasing
+water depth. With respect to iron fertilization, this is problematic
+because hardly any sizeable HNLC regions overlie relatively shal-
+low waters that are already anoxic or severely de-oxygenated be-
+cause HNLC regions are by their very nature characterized by
+limited subsurface oxygen demand for remineralization, given
+their normally low organic matter flux. Creating anoxia in such
+regions poses a major threat to communities that used to rely on
+the presence of sufficient oxygen, and leads to feedbacks that
+can cause the release of other powerful greenhouse gases
+(Section ‘Using the soft-tissue pump’).
+Statement 6: ‘Impacts of regionally applied methods in the
+ocean can be confined to that region’. This is a complete miscon-
+ception. The ocean is not a stationary body. It has both large-
+scale circulation that covers multi-centennial to millennial time-
+scales, and medium to small-scale circulation (currents, eddies
+and turbulence) over all spatial scales and with typical timescales
+of seconds to centuries. All ocean properties get transported
+along in this dynamic environment. While being transported,
+both chemical and biological processes interact with many of
+12
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+these properties (especially carbon, nutrients and oxygen). No re-
+gionally applied method can be contained to only regional
+impacts. This complex of lateral transport and mixing is also
+what makes it so difficult to verify the carbon drawdown effi-
+ciency of any method. Enrichment of one region may lead to eco-
+system change (e.g. different communities/species), and there
+are potential downstream impacts in terms of environmental
+conditions (e.g. nutrient robbing, de-oxygenation and inorganic
+carbonate precipitation) and even foreign species invasion. The
+dynamic ocean environment also generates potential problems
+in CO2-drawdown credit attribution (as well as further legal and
+societal implications), where one country’s intervention (e.g. al-
+kalinity enhancement) can lead to CO2 drawdown in a down-
+stream country’s economic zone.
+CONCLUSIONS
+• The alkalinity of the ocean creates a massive increase in the
+ocean’s capacity to store carbon, relative to a scenario with-
+out ocean alkalinity.
+• Ocean warming causes decreases in both CO2 solubility and
+the Revelle factor (B), which make the ocean less efﬁcient at
+absorbing CO2. Moreover, opposing inﬂuences of the two key
+air–sea gas exchange terms cause simple solubility-based
+arguments about carbon storage in the interior of the ocean
+to produce overestimates by a factor of 3–5.
+• Surface-water production of CaCO3 drives an increase rather
+than a decrease in surface-water pCOw
+2 , but carbonate-
+bearing productivity remains of interest for carbon drawdown
+because the soft tissue pump component outperforms the
+carbonate pump component.
+• Carbonate compensation (dissolution of sedimentary carbon-
+ate) is nature’s ultimate mechanism for ’cleaning up’ a major
+CO2 perturbation, but it requires many tens of thousands of
+years and cannot conceivably be accelerated to timescales
+relevant to society. Hence, research concentrates on carbon
+storage (a) in the vast oceanic DIC reservoir with multi-
+centennial timescales and/or (b) through burial in sea-ﬂoor
+sediments with timescales up to millions of years. To achieve
+this, proposals focus on manipulation of either the soft tissue
+pump or ocean alkalinity.
+• Many uncertainties remain with respect to soft tissue pump
+manipulation (notably, through ocean iron fertilization).
+These include: (i) feedbacks that partly or entirely offset the
+CO2 sequestration gains, including production of N2O or
+methane that would quickly erode the net greenhouse gas
+beneﬁt (and cost efﬁciency) of iron fertilization; (ii) the likeli-
+hood of toxic algal bloom development; (iii) the potential for
+water-column de-oxygenation and (iv) side-effects to critical
+ecosystem services over a wider spatial domain due to, e.g.,
+nutrient robbing.
+• A key challenge in ocean alkalinity enhancement (OAE) is to
+develop the required mineral processing and distribution/dis-
+solution mechanisms at volumes and timescales that are rel-
+evant to society. Estimates for the longevity (hundreds to
+thousands of years) and potential mass (tens to more than a
+hundred GtC by 2100) of C sequestration through OAE are
+highly relevant to the problem of anthropogenic CO2 removal,
+but many uncertainties remain about feedback processes.
+There is speciﬁc urgency in accelerating research into these
+feedbacks for OAE because it seems to be a feasible, largely
+safe and potentially long-lasting method for CO2 sequestra-
+tion.
+• As yet, the data and process understanding remain insufﬁ-
+cient for predicting the plethora of underpinning processes,
+feedbacks and downstream impacts involved in oceanic
+methods for atmospheric carbon removal. Major interna-
+tional research investment is needed to address this gap in
+fundamental understanding, before well-intentioned, but po-
+tentially harmful, large-scale implementations are under-
+taken with insufﬁcient scientiﬁc oversight.
+• Finally, given the broad scope and potentially large spatial
+scales of feedbacks and impacts, it is imperative that large-
+scale oceanic methods for atmospheric carbon removal, once
+implemented, remain subject to ongoing and entirely inde-
+pendent, multi-national scientiﬁc monitoring, oversight and
+validation.
+ACKNOWLEDGMENTS
+I thank Lennart Bach, Jelle Bijma and Jack Middelburg for feed-
+back on earlier drafts and formal review comments, and Lennart
+Bach, Jelle Bijma, Phil Boyd, Wally Broecker and Jimin Yu for
+stimulating carbon-cycle discussions over the years.
+FUNDING
+This study contributes to the Climate Recovery Institute, a broad
+collaboration on climate solutions (https://climaterecoveryinsti
+tute.com.au).
+CONFLICTS OF INTEREST STATEMENT
+The author is an Editor of the journal and the article was there-
+fore entirely handled and edited by another Associate Editor
+through peer review.
+AUTHORS’ CONTRIBUTIONS
+Eelco Rohling (Conceptualization, Formal analysis, Funding ac-
+quisition, Investigation, Methodology, Project administration,
+Resources, Validation, Visualization, Writing—original draft and
+Writing—review & editing [equal]).
+References
+1.
+Meinshausen M, Lewis J, McGlade C et al. Realization of Paris
+Agreement pledges may limit warming just below 2C. Nature
+2022;604:304–9.
+2.
+GESAMP. High level review of a wide range of proposed marine
+geoengineering techniques. GESAMP Rep Stud 2019;98:143.
+3.
+National Academies of Sciences, Engineering, and Medicine.
+Negative Emissions Technologies and Reliable Sequestration: A
+Research Agenda. Washington, DC: The National Academies
+Press, 2019.
+4.
+Rohling EJ. Rebalancing Our Climate: The Future Starts Today. New
+York, NY: Oxford University Press, 2021, 303.
+5.
+Broecker WS, Peng TH. Tracers in the Sea. Palisades, NY:
+Lamont-Doherty Geological Observatory, Columbia University,
+1982, 690.
+6.
+Dickson AG. The carbon dioxide system in seawater: equilib-
+rium chemistry and measurements. In: Riebesell U, Fabry VJ,
+Hansson L et al. (eds.), Guide to Best Practices for Ocean
+Marine methods for carbon dioxide removal
+|
+13
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+Acidiﬁcation Research and Data Reporting, Vol. 1. Luxembourg:
+Publications Ofﬁce of the European Union; 2010, 17–40.
+7.
+Gieskes JM. The alkalinity-total carbon dioxide system in sea-
+water. In: Goldberg ED (ed.), The Sea, Vol. 5. New York, NY:
+Wiley, 1974, 123–51.
+8.
+Gruber NI, Sarmiento JL. Large-scale biogeochemical–physical
+interactions in elemental cycles. The Sea 2002;12:337–99.
+9.
+Middelburg JJ. Marine Carbon Biogeochemistry. Springer Briefs in
+Earth System Sciences. Cham, Switzerland: Springer, 2019,
+57–75.
+10.
+Middelburg JJ, Soetaert K, Hagens M. Ocean alkalinity, buffer-
+ing
+and
+biogeochemical
+processes.
+Rev
+Geophys
+2020;58:
+e2019RG000681.
+11.
+Williams RG, Follows MJ. Ocean Dynamics and the Carbon Cycle:
+Principles and Mechanisms. Cambridge: Cambridge University
+Press, 2011, 404.
+12.
+Zeebe RE, Wolf-Gladrow D. CO2 in seawater: equilibrium, ki-
+netics, isotopes. In: Halpern D (ed.), Elsevier Oceanography Series,
+Vol. 65. Amsterdam, The Netherlands: Elsevier, 2001, 346.
+13.
+Henry, W. Experiments on the quantity of gases absorbed by
+water, at different temperatures, and under different pres-
+sures. Phil Trans Roy Soc Lond 1803:93;29–43.
+14.
+Bailey N, Papakyriakou TN, Bartels C et al. Henry’s Law con-
+stant for CO2 in aqueous sodium chloride solutions at 1 atm
+and sub-zero (Celsius) temperatures. Mar Chem 2018;207:
+26–32.
+15.
+Orr JC, Najjar RG, Aumont O, Bopp L, Bullister JL, Danabasoglu
+G, Doney SC, Dunne JP, Dutay JC, Graven H, Grifﬁes SM.
+Biogeochemical protocols and diagnostics for the CMIP6 Ocean
+Model
+Intercomparison
+Project
+(OMIP).
+Geoscientiﬁc
+Model
+Development 2017 Jun 9;10(6):2169–99.
+16.
+Weiss R. Carbon dioxide in water and seawater: the solubility
+of a non-ideal gas. Mar Chem 1974;2:203–15.
+17.
+Ja¨hne B, Haußecker H. Air–water gas exchange. Ann Rev Fluid
+Mech 1998;30:443–68.
+18.
+Broecker WS, Peng TH. Gas exchange rates between air and
+sea. Tellus 1974;26:21–35.
+19.
+Takahashi T, Feely RA, Weiss RF et al. Global air-sea ﬂux of
+CO2: an estimate based on measurements of sea–air pCO2 dif-
+ference. Proc Nat Acad Sci 1997;94:8292–9.
+20.
+Takahashi T, Wanninkhof RH, Feely, RA et al. Net sea–air CO2
+ﬂux over the global oceans: an improved estimate based on the
+sea–air pCO2 difference. In: Nojiri Y (ed.), Proceedings of the 2nd
+International Symposium on CO2 in the Oceans. Tsukuba, Japan:
+Center for Global Environmental Research, National Institute
+for Environmental Studies, Environmental Agency of Japan,
+1999, 9–15.
+21.
+Revelle R, Suess HE. Carbon dioxide exchange between atmo-
+sphere and ocean and the question of an increase of atmo-
+spheric CO2 during the past decades. Tellus 1957:9;18–27.
+22.
+Anderson LA. On the hydrogen and oxygen content of marine
+phytoplankton. Deep-Sea Res I 1995;42;1675–80.
+23.
+Anderson LA, Sarmiento JL. Redﬁeld ratios of remineralization
+determined by nutrient data analysis. Glob Biogeochem Cycles
+1994;8;65–80.
+24.
+Redﬁeld AC, Ketchum BH, Richards FA. The inﬂuence of organ-
+isms on the composition of sea-water. In: Hill MN (ed.), The Sea:
+Composition of Sea Water, Vol. 2. New York, NY: Wiley-
+Interscience, 1963, 26–77.
+25.
+Takahashi T, Broecker WS, Langer S. Redﬁeld ratio based on
+chemical data from isopycnal surfaces. J Geophys Res Oceans
+1985;90:6907–24.
+26.
+Bar-On YM, Phillips R, Milo R. The biomass distribution on
+Earth. Proc Natl Acad Sci U S A 2018;115:6506–11.
+27.
+IPCC AR4. Intergovernmental Panel on Climate Change. AR4 Climate
+Change 2007: The Physical Science Basis. 2007. https://www.ipcc.
+ch/report/ar4/wg1/ (15 March 2023, last accessed).
+28.
+Rohling EJ. The Oceans: A Deep History. Princeton, NJ: Princeton
+University Press, 2017, 272.
+29.
+Sabine CL, Feely RA. The oceanic sink for carbon dioxide. In:
+Reay D, Hewitt N, Grace J et al. (eds). Greenhouse Gas Sinks, 2007,
+31–49.
+30.
+Rohling EJ. The Climate Question: Natural Cycles, Human Impact,
+Future Outlook. New York, NY: Oxford University Press, 2019,
+162.
+31.
+Hales
+B.
+Respiration,
+dissolution,
+and
+the
+lysocline.
+Paleoceanography 2003:18;1099.
+32.
+Wagner S, Schubotz F, Kaiser K et al. Soothsaying DOM: a cur-
+rent perspective on the future of oceanic dissolved organic car-
+bon. Front Mar Sci 2020;7:341.
+33.
+Berner RA. Burial of organic carbon and pyrite sulfur in the
+modern ocean; its geochemical and environmental signiﬁ-
+cance. Am J Sci 1982;282;451–73.
+34.
+Archer DE. An atlas of the distribution of calcium carbonate in
+sediments of the deep sea. Glob Biogeochem Cycles 1996;10:
+159–74.
+35.
+Yu J, Anderson RF, Rohling EJ. Deep ocean carbonate chemistry
+and
+glacial–interglacial
+atmospheric
+CO2
+changes.
+Oceanography 2014;27:16–25.
+36.
+Frankignoulle M, Canon C, Gattuso JP. Marine calciﬁcation as a
+source of carbon dioxide: positive feedback of increasing atmo-
+spheric CO2. Limnol Oceanogr 1994;39:458–46.
+37.
+Berger WH. Sedimentation of planktonic foraminifera. Mar Geol
+1971;11:325–58.
+38.
+Broecker WS, Takahashi T. Calcium carbonate precipitation on
+the Bahama Banks. J Geophys Res 1966;71:1575–602.
+39.
+Cloud PE. Carbonate precipitation and dissolution in the ma-
+rine environment. Chem Oceanogr 1965;2:127–58.
+40.
+Mu€ller G, Bo€rker J, Sluijs A et al. Detrital carbonate minerals in
+Earth’s
+element
+cycles.
+Glob
+Biogeochem
+Cycles
+2022;36:
+e2021GB007231.
+41.
+Berger WH. Biogenous deep-sea sediments: fractionation by
+deep-sea circulation. Geol Soc Am Bull 1970;81:1385–402.
+42.
+Li YH, Takahashi T, Broecker WS. Degree of saturation of
+CaCO3 in the oceans. J Geophys Res 1969;74:5507–25.
+43.
+Milliman JD. Production and accumulation of calcium carbon-
+ate in the ocean: budget of a nonsteady state. Glob Biogeochem
+Cycles 1993;7:927–57.
+44.
+Milliman JD, Droxler AW. Neritic and pelagic carbonate sedi-
+mentation in the marine environment: ignorance is not bliss.
+Geol Rundsch 1996;85:496–504.
+45.
+Murnane RJ, Sarmiento JL, Le Que´re´ C. Spatial distribution of
+air-sea CO2 ﬂuxes and the interhemispheric transport of car-
+bon by the oceans. Glob Biogeochem Cycles 1999;13:287–305.
+46.
+Volk T, Hoffert MI. Ocean carbon pumps: analysis of relative
+strengths and efﬁciencies in ocean-driven atmospheric CO2
+changes. In: Sundquist ET, Broecker WS (eds.), The Carbon Cycle
+and Atmospheric CO2: Natural Variations Archean to Present,
+Geophysical Monograph Series, Vol. 32. Hoboken, NJ: Wiley, 1985;
+99–110.
+47.
+Takahashi T, Olafsson J, Goddard JG et al. Seasonal variation of
+CO2 and nutrients in the high-latitude surface oceans: a com-
+parative study. Glob Biogeochem Cycles 1993;7:843–78.
+48.
+Armstrong RA, Lee C, Hedges JI et al. A new, mechanistic model
+for
+organic
+carbon
+ﬂuxes
+in
+the
+ocean
+based
+on
+the
+14
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+quantitative association of POC with ballast minerals. Deep Sea
+Res II: Top Stud Oceanogr 2001;49:219–36.
+49.
+Klaas C, Archer DE. Association of sinking organic matter with
+various types of mineral ballast in the deep sea: implications
+for the rain ratio. Glob Biogeochem Cycles 2002:16;1116.
+50.
+Sabine CL, Tanhua T. Estimation of anthropogenic CO2 inven-
+tories in the ocean. Ann Rev Mar Sci 2010;2:269–92.
+51.
+Hauck J, Zeising M, Le Que´re´ C et al. Consistency and chal-
+lenges in the ocean carbon sink estimate for the global carbon
+budget. Front Mar Sci 2020;7:571720.
+52.
+Barker S, Ridgwell A. Ocean acidiﬁcation. Nat Educ Knowl 2012;
+3:21.
+53.
+Boudreau BP, Middelburg JJ, Meysman FJR. Carbonate compen-
+sation dynamics. Geophys Res Lett 2010;37:L03603.
+54.
+He H, Li Y, Wang S, Ma Q et al. A high precision method for cal-
+cium determination in seawater using ion chromatography.
+Front Mar Sci 2020;7:231.
+55.
+Zeebe RE, Westbroek PA. A simple model for the CaCO3 satura-
+tion state of the ocean: the “Strangelove,” the “Neritan,” and
+the “Cretan” ocean. Geochem Geophys Geosyst 2003;4:1104.
+56.
+Wolf-Gladrow DA, Zeebe RE, Klaas C et al. Total alkalinity: the
+explicit conservative expression and its application to biogeo-
+chemical processes. Mar Chem 2007;106:287–300.
+57.
+Schink DR, Guinasso NL Jr. Modeling the inﬂuence of bioturba-
+tion and other processes on carbonate dissolution on the sea
+ﬂoor. In: Anderson NR, Malahoff A (eds.), The Fate of Fossil Fuel
+CO2 in the Oceans. New York, NY: Plenum, 1977, 375–99.
+58.
+Takahashi T, Broecker WS. Mechanisms for calcite dissolution
+on the sea ﬂoor. In: Anderson NR, Malahoff A (eds.), The Fate of
+Fossil Fuel CO2 in the Oceans. New York, NY: Plenum, 1977, 455–77.
+59.
+Tyrrell T. Calcium carbonate cycling in future oceans and its
+inﬂuence on future climates. J Plankton Res 2008;30:141–156.
+60.
+Broecker WS. A need to improve reconstructions of the ﬂuctua-
+tions in the calcite compensation depth over the course of the
+Cenozoic. Paleoceanography 2009;23:PA1204.
+61.
+Kennett JP. Marine Geology. Englewood Cliffs, NJ: NJ Prentice
+Hall, 1982, 813.
+62.
+Morse JM, Mackenzie FT. Geochemistry of sedimentary carbo-
+nates. Developments in Sedimentology, Vol. 48. Amsterdam, The
+Netherlands: Elsevier, 1990, 707.
+63.
+Goodwin P, Ridgwell A. Ocean-atmosphere partitioning of an-
+thropogenic carbon dioxide on multimillennial timescales.
+Glob Biogeochem Cycles 2010;24:GB2014.
+64.
+Lord NS, Ridgwell A, Thorne MC et al. An impulse response
+function for the “long tail” of excess atmospheric CO2 in an
+Earth system model. Glob Biogeochem Cycles 2016;30:2–17.
+65.
+Ridgwell A, Hargreaves JC. Regulation of atmospheric CO2 by
+deep-sea sediments in an Earth system model. Glob Biogeochem
+Cycles 2007;21:GB2008.
+66.
+Sulpis O, Boudreau BP, Mucci A et al. Current CaCO3 dissolution
+at the seaﬂoor caused by anthropogenic CO2. Proc Natl Acad Sci
+U S A 2018;115:11700–5.
+67.
+Ho TY, Quigg A, Finkel ZV et al. The elemental composition of
+some marine phytoplankton 1. J Phycol 2003:39;1145–59.
+68.
+Horner TJ, Little SH, Conway TM et al. Bioactive trace metals
+and their isotopes as paleoproductivity proxies: an assessment
+using GEOTRACES-era data. Glob Biogeochem Cycles 2021;35:
+e2020GB006814.
+69.
+Lauderdale JM, Braakman R, Forget G et al. Microbial feedbacks
+optimize ocean iron availability. Proc Natl Acad Sci U S A 2020;
+117:4842–9.
+70.
+Martin JH. Glacial–interglacial CO2 change: the iron hypothe-
+sis. Paleoceanography 1990;5:1–3.
+71.
+Martin JH, Fitzwater SE. Iron deﬁciency limits phytoplankton
+growth in the north-east Paciﬁc subarctic. Nature 1988;331:341–3.
+72.
+Raven JA, Falkowski PG. Oceanic sinks for atmospheric CO2.
+Plant Cell Environ 1999;22:741–55.
+73.
+Wallace D, Law C, Boyd P et al. Ocean Fertilization: A Scientiﬁc
+Summary for Policy Makers. Paris: IOC/UNESCO (IOC/BRO/2010/
+2), 2010, 18.
+74.
+Williamson P, Wallace DW, Law CS et al. Ocean fertilization for
+geoengineering:
+a review
+of effectiveness, environmental
+impacts and emerging governance. Process Saf Environ Prot
+2012;90:475–88.
+75.
+Yoon JE, Yoo KC, Macdonald AM et al. Reviews and syntheses:
+ocean iron fertilization experiments–past, present, and future
+looking to a future Korean Iron Fertilization Experiment in the
+Southern Ocean (KIFES) project. Biogeosciences 2018;15:5847–89.
+76.
+Moore CM, Mills MM, Arrigo KR et al. Processes and patterns of
+oceanic nutrient limitation. Nat Geosci 2013;6:701–10.
+77.
+Wallmann K, Aloisi G. The global carbon cycle: geological pro-
+cesses. In: Knoll AH, Canﬁeld DE, Konhauser KO (eds.),
+Fundamentals of Geobiology, Hoboken, NJ: John Wiley & Sons,
+2012, 20–35.
+78.
+Hayes CT, Costa KM, Anderson RF et al. Global ocean sediment
+composition and burial ﬂux in the deep sea. Glob Biogeochem
+Cycles 2021;35:e2020GB006769.
+79.
+Boscolo-Galazzo F, Crichton KA, Barker S et al. Temperature de-
+pendency of metabolic rates in the upper ocean: a positive
+feedback to global climate change? Glob Planet Change 2018;
+170:201–12.
+80.
+Ruvalcaba Baroni I, Palastanga V, Slomp CP. Enhanced organic
+carbon burial in sediments of oxygen minimum zones upon
+ocean deoxygenation. Front Mar Sci 2020;6:839.
+81.
+Rogelj J, Den Elzen M, Ho¨hne N et al. Paris agreement climate
+proposals need a boost to keep warming well below 2C. Nature
+2016;534:631–9.
+82.
+Hansen J, Kharecha P, Sato M et al. Assessing “dangerous cli-
+mate change”: required reduction of carbon emissions to pro-
+tect young people, future generations and nature. PLoS ONE
+2013;8:e81648.
+83.
+Hansen J, Sato M, Kharecha P et al. Young people’s burden: re-
+quirement of negative CO2 emissions. Earth Syst Dyn 2017;8:
+577–616.
+84.
+Buss W, Yeates K, Rohling EJ et al. Enhancing natural cycles in
+agro-ecosystems to boost plant carbon capture and soil stor-
+age. Oxf Open Clim Change 2021;1:kgab006.
+85.
+Buss W, Wurzer C, Manning DA et al. Mineral-enriched biochar
+delivers enhanced nutrient recovery and carbon dioxide re-
+moval. Commun Earth Environ 2022;3:67.
+86.
+Oschlies A, Koeve W, Rickels W et al. Side effects and account-
+ing aspects of hypothetical large-scale Southern Ocean iron
+fertilization. Biogeosciences 2010;7:4017–35.
+87.
+Fuhrman JA, Capone DG. Possible biogeochemical consequen-
+ces of ocean fertilization. Limnol Oceanogr 1991;36:1951–9.
+88.
+Keller DP, Feng EY, Oschlies A. Potential climate engineering
+effectiveness and side effects during a high carbon dioxide-
+emission scenario. Nat Commun 2014;5:3304.
+89.
+Sarmiento JL, Orr JC. Three-dimensional simulations of the im-
+pact of Southern Ocean nutrient depletion on atmospheric CO2
+and ocean chemistry. Limnol Oceanogr 1991;36:1928–0.
+90.
+Gnanadesikan A, Sarmiento JL, Slater RD. Effects of patchy
+ocean fertilization on atmospheric carbon dioxide and biologi-
+cal production. Glob Biogeochem Cycles 2003;17:1050.
+91.
+Iversen MH, Ploug H. Ballast minerals and the sinking carbon
+ﬂux in the ocean: carbon-speciﬁc respiration rates and sinking
+Marine methods for carbon dioxide removal
+|
+15
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+velocity of marine snow aggregates. Biogeosciences 2010;7:
+2613–24.
+92.
+Ploug H, Iversen MH, Fischer G. Ballast, sinking velocity, and
+apparent diffusivity within marine snow and zooplankton fe-
+cal pellets: implications for substrate turnover by attached
+bacteria. Limnol Oceanogr 2008;53:1878–86.
+93.
+Ploug H, Iversen MH, Koski M et al. Production, oxygen respira-
+tion rates, and sinking velocity of copepod fecal pellets: direct
+measurements
+of
+ballasting
+by
+opal and
+calcite.
+Limnol
+Oceanogr 2008;53:469–76.
+94.
+van der Jagt H. The role of zooplankton and mineral ballasting in
+the biological carbon pump. Ph.D. Thesis, University of Bremen,
+2019. doi:10.26092/elib/63 (15 March 2023, last accessed).
+95.
+Sarmiento JL, Slater RD, Dunne J et al. Efﬁciency of small scale
+carbon mitigation by patch iron fertilization. Biogeosciences
+2010;7:3593–624.
+96.
+Xie Y, Tamsitt V, Bach LT. Localizing the southern ocean bio-
+geochemical divide. Geophys Res Lett 2022;49:e2022GL098260.
+97.
+Evans M. Climate ﬁx? ‘Fertilizing’ oceans with iron unlikely to
+sequester more carbon. Mongabay Series: Sea Change 2020, 4
+March. https://news.mongabay.com/2020/03/climate-ﬁx-fertil
+izing-oceans-with-iron-unlikely-to-sequester-more-carbon/
+(15 March 2023, last accessed)
+98.
+Chalk TB, Hain MP, Foster GL et al. Causes of ice age intensiﬁca-
+tion across the Mid-Pleistocene Transition. Proc Nat Acad Sci
+2017;114:13114–9.
+99.
+Yu J, Menviel L, Jin ZD et al. Sequestration of carbon in the deep
+Atlantic during the last glaciation. Nat Geosci 2016;9:319–24.
+100.
+Dutkiewicz S, Follows MJ, Parekh P. Interactions of the iron and
+phosphorus cycles: a three-dimensional model study. Glob
+Biogeochem Cycles 2005;19:GB1021.
+101.
+NIWA. 2010. Iron Fertilisation. https://niwa.co.nz/iron-fertilisa
+tion (15 March 2023, last accessed).
+102.
+Royal Society. Geoengineering the Climate: Science, Governance and
+Uncertainty. London: The Royal Society, 2009, 84.
+103.
+Jin X, Gruber N. Offsetting the radiative beneﬁt of ocean iron
+fertilization by enhancing N2O emissions. Geophys Res Lett
+2003;30:2249.
+104.
+Silver MW, Bargu S, Coale SL et al. Toxic diatoms and domoic
+acid in natural and iron enriched waters of the oceanic Paciﬁc.
+Proc Natl Acad Sci U S A 2010;107:20762–7.
+105.
+Trick CG, Bill BD, Cochlan WP et al. Iron enrichment stimulates
+toxic diatom production in high-nitrate, low-chlorophyll areas.
+Proc Natl Acad Sci U S A 2010;107:5887–92.
+106.
+Bach LT, Gill SJ, Rickaby RE et al. CO2 removal with enhanced
+weathering and ocean alkalinity enhancement: potential risks and
+co-beneﬁts for marine pelagic ecosystems. Front Clim 2019;1:7.
+107.
+Kheshgi HS. Sequestering atmospheric carbon dioxide by in-
+creasing ocean alkalinity. Energy 1995;20:915–22.
+108.
+Ko€hler P, Hartmann J, Wolf-Gladrow DA. Geoengineering po-
+tential of artiﬁcially enhanced silicate weathering of olivine.
+Proc Natl Acad Sci U S A 2010;107:20228–33.
+109.
+Renforth P, Henderson G. Assessing ocean alkalinity for carbon
+sequestration. Rev Geophys 2017;55:636–74.
+110.
+Hauck J, Ko¨hler P, Wolf-Gladrow D, Vo¨lker C. Iron fertilisation
+and century-scale effects of open ocean dissolution of olivine
+in a simulated CO2 removal experiment. Environmental
+Research Letters 2016;11(2):024007.
+111.
+Berner RA, Lasaga AC, Garrels RM. Carbonate-silicate geo-
+chemical cycle and its effect on atmospheric carbon dioxide
+over the past 100 million years. Am J Sci 1983;283:641–83.
+112.
+Garrels RM, Perry EA. Cycling of carbon, sulphur, and oxygen
+through geologic time. In: Goldberg ED (ed.), The Sea, Vol. 5.
+New York, NY: Wiley, 1974, 303–36.
+113.
+Gernon TM, Hincks TK, Merdith AS et al. Global chemical
+weathering dominated by continental arcs since the mid-
+Palaeozoic. Nat Geosci 2021;14:690–6.
+114.
+Gaillardet J, Dupre´ B, Louvat P et al. Global silicate weathering
+and CO2 consumption rates deduced from the chemistry of
+large rivers. Chem Geol 1999; 159: 3–30.
+115.
+Hartmann J, Jansen N, Du¨ rr HH et al. Global CO2-consumption
+by chemical weathering: what is the contribution of highly ac-
+tive weathering regions? Glob Planet Change 2009;69:185–94.
+116.
+Langer WH, Juan CA, Rau GH et al. Accelerated weathering of
+limestone for CO2 mitigation opportunities for the stone and
+cement industries. In: SME Annual Meeting and Exhibit and
+CMA’s 111th National Western Mining Conference, Denver, CO, Vol.
+1. United States Geological Survey Publications Warehouse.
+2009, 310–5.
+117.
+Rau GH. CO2 mitigation via capture and chemical conversion
+in seawater. Environ Sci Technol 2011;45:1088–92.
+118.
+Rau GH, Caldeira K. Enhanced carbonate dissolution: a means
+of sequestering waste CO2 as ocean bicarbonate. Energy Convers
+Manag 1999;40:1803–13.
+119.
+Rau GH, Knauss KG, Langer WH et al. Reducing energy-related
+CO2 emissions using accelerated weathering of limestone.
+Energy 2007;32:1471–7.
+120.
+House KZ, House CH, Schrag DP et al. Electrochemical accelera-
+tion of chemical weathering as an energetically feasible ap-
+proach to mitigating anthropogenic climate change. Environ Sci
+Technol 2007;41:8464–70.
+121.
+Rau GH. Electrochemical splitting of calcium carbonate to
+increase solution alkalinity: implications for mitigation of
+carbon dioxide and ocean acidity. Environ Sci Technol 2008;42:
+8935–40.
+122.
+Rau GH, Carroll SA, Bourcier WL et al. Direct electrolytic dissolution
+of silicate minerals for air CO2 mitigation and carbon-negative H2
+production. Proc Natl Acad Sci U S A 2013;110:10095–100.
+123.
+de Lannoy CF, Eisaman MD, Jose A et al. Indirect ocean capture
+of atmospheric CO2: part I. prototype of a negative emissions
+technology. Int J Greenh Gas Control 2018;70:243–53.
+124.
+Eisaman MD, Rivest JL, Karnitz SD et al. Indirect ocean capture
+of atmospheric CO2: part II. Understanding the cost of negative
+emissions. Int J Greenh Gas Control 2018;70:254–61.
+125.
+Doney SC, Fabry VJ, Feely RA et al. Ocean acidiﬁcation: the
+other CO2 problem. Ann Rev Mar Sci 2009;1;169–92.
+126.
+Gattuso JP, Magnan A, Bille´ R et al. Contrasting futures for
+ocean and society from different anthropogenic CO2 emissions
+scenarios. Science 2015;349:aac4722.
+127.
+Bach LT, Riebesell U, Schulz KG. Distinguishing between the
+effects of ocean acidiﬁcation and ocean carbonation in the
+coccolithophore Emiliania huxleyi. Limnol Oceanogr 2011;56:
+2040–50.
+128.
+Goldman JC. Inorganic carbon availability and the growth of
+large marine diatoms. Mar Ecol Prog Ser 1999;180:81–91.
+129.
+Hansen PJ. Effect of high pH on the growth and survival of ma-
+rine phytoplankton: implications for species succession. Aqua
+Microb Ecol 2002;28:279–88.
+130.
+Riebesell U, Wolf-Gladrow DA, Smetacek V. Carbon dioxide
+limitation of marine phytoplankton growth rates. Nature 1993;
+361:249–51.
+16
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024
+131.
+Sett S, Bach LT, Schulz KG et al. Temperature modulates cocco-
+lithophorid sensitivity of growth, photosynthesis and calciﬁca-
+tion to increasing seawater pCO2. PLoS ONE 2014;9:e88308.
+132.
+Moras CA, Bach LT, Cyronak T et al. Ocean alkalinity enhance-
+ment–avoiding runaway CaCO3 precipitation during quick and
+hydrated lime dissolution. Biogeosciences 2022;19:3537–57.
+133.
+Hoegh-Guldberg O, Poloczanska ES, Skirving W et al. Coral reef
+ecosystems under climate change and ocean acidiﬁcation.
+Front Mar Sci 2017;4:158.
+134.
+Iversen MH, Robert ML. Ballasting effects of smectite on aggre-
+gate formation and export from a natural plankton commu-
+nity. Mar Chem 2015;175:18–27.
+Marine methods for carbon dioxide removal
+|
+17
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad004/7135823 by guest on 26 August 2024

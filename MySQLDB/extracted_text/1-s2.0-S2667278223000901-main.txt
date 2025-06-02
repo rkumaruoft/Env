@@ -1,0 +1,727 @@
+Research article
+Role model stories can increase health professionals’ interest and
+perceived responsibility to engage in climate and sustainability actions
+J. Kotchera,*, N. Badullovicha, M. Ahmeda, D. De Alwisb, E.W. Maibacha
+a Center for Climate Change Communication, George Mason University, Fairfax Virginia, United States
+b University of Maryland School of Medicine, Baltimore, MD, United States
+A R T I C L E
+I N F O
+Article History:
+Received 15 September 2023
+Accepted 1 December 2023
+Available online 5 December 2023
+A B S T R A C T
+Background: Climate change is one of the most signiﬁcant threats to human and planetary health. As trusted
+sources, health professionals have a unique opportunity to help protect society from the impacts of climate
+change by educating key publics including policymakers about solutions to climate change, as well as reduc-
+ing their sector’s contribution to climate change by promoting sustainable practices in the workplace. Devel-
+oping methods to activate health professionals as climate educators and advocates is an important step in
+activating this opportunity. Drawing on the practice of behavioral journalism, this study tests the effective-
+ness of role model stories at increasing attitudinal and behavioral engagement of health professionals with
+sustainability.
+Methods: Participants in this study (n = 39) were employees of a network of U.S. hospitals and urgent care
+centers that were subscribed to a sustainability e-newsletter published by the healthcare system. Partici-
+pants were randomly assigned to a control group that only received the regular newsletter, or a treatment
+group that received an additional series of emails featuring stories about sustainability role models in their
+healthcare system.
+Results: We found that receiving the role model stories increased participant’s belief that health professionals
+have a responsibility to support sustainability efforts and their willingness to receive more information about
+joining a climate and health advocacy organization, although there were no between-group differences on
+other dependent variables.
+Conclusion: This study although limited by a small sample size provides evidence that role model stories can
+play a role in activating healthcare professionals to participate in sustainability initiatives and advocate for
+climate and health solutions.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Sustainability champions
+Role model stories
+Healthcare professionals
+Climate change
+1. Introduction
+As climate change causes adverse impacts across many facets of
+society, there is growing recognition of the signiﬁcant threat it
+presents to human health. The most recent Lancet Countdown report
+[1] underscores the effect climate change is already having on human
+health. Among these are an increase in heat-related deaths, height-
+ened spread of infectious diseases like malaria, and associated
+economic effects as a result of those health impacts [1]. The Intergov-
+ernmental Panel on Climate Change (IPCC) in their latest assessment
+report (AR6) identiﬁed that there still remain signiﬁcant climate-
+health adaptation gaps despite some progress [2], indicating more
+work still needs to be done. While recognition of the health impacts
+of climate change is growing in the United States [3], most Americans
+cannot name a speciﬁc health threat worsened by climate change
+[4,5].
+Raising awareness of the health implications of climate change is
+critical for building public engagement and advocating for enduring
+climate policy solutions, and healthcare professionals are in a power-
+ful position to do just that. As of 2022, healthcare professionals rank
+as one of the most trusted sources of global warming information in
+the United States, especially among those who are politically conser-
+vative and Republican [6]. Furthermore, healthcare professionals
+have a key role to play in helping achieve emissions reductions
+within their working sector. The healthcare sector contributes
+roughly 5 % of global greenhouse gas emissions with the U.S. contrib-
+uting the greatest amount on a country basis in terms of healthcare
+emissions [1,7]. There is a critical need to decarbonize the health sec-
+tor and healthcare professionals are positioned to be potentially
+strong advocates in calling for and supporting wide-spread emissions
+reductions and sustainability in their sector [8].
+* Corresponding author.
+E-mail address: jkotcher@gmu.edu (J. Kotcher).
+https://doi.org/10.1016/j.joclim.2023.100291
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 18 (2024) 100291
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+Framing climate change as a health challenge is a topic that has
+received growing attention in academic literature [9]. Issue frames
+represent different communication lenses, created through the inten-
+tional (or not) choice of speciﬁc elements that can speak to causes,
+problems, judgments, and remedies [10,11]. Previous studies have
+highlighted the potential of the health frame to increase public
+engagement across the political spectrum, especially when efforts
+include information about the health risks of climate change, the
+health beneﬁts of climate solutions, opponents who stand in the way
+of efforts to address climate change, and social normative informa-
+tion about others who are taking action [12−16]. Given high levels of
+trust towards healthcare professionals, they are uniquely positioned
+to use their voices to help convey the importance of climate change
+as a public health issue [5,17,18].
+Despite the potential for health professionals to act as effective
+advocates for climate change and sustainability action, there are chal-
+lenges to mobilizing these trusted voices. A multi-national survey of
+healthcare professionals identiﬁed a number of barriers impeding
+their public engagement efforts [19]. Barriers pertaining to a lack of
+time, perceived lack of knowledge, and belief that their participation
+would not make a difference, were among the most prevalent [19]. In
+this study, we test the effectiveness of role model narratives as one
+potential method to help health professionals overcome these bar-
+riers and enable them as more active advocates for sustainability and
+climate change action.
+Social cognitive theory posits that perceptions of self-efﬁcacy and
+outcome expectancies are central in enabling behavior change [20−22].
+Recent research suggests feelings of low self-efﬁcacy may act as a bar-
+rier for healthcare professionals when it comes to engaging others on
+the climate and health [19]. One potential pathway for helping build
+self-efﬁcacy is through behavioral journalism which uses insights from
+behavioral science to construct effective role model stories [23,24].
+These stories provide the role model’s personal account of their behav-
+ior change journey, which can then encourage similar changes in the
+reader through identiﬁcation with the story’s subject [25].
+Previous research on role model narratives−and behavioral jour-
+nalism speciﬁcally−has tended to focus on promoting healthy life-
+style behaviors in the general population, such as improved nutrition
+and physical activity, smoking cessation, and avoidance of sexually
+transmitted diseases [26,27]. Fewer studies have investigated the
+effectiveness of behavioral journalism in promoting sustainability or
+climate-friendly actions (although see, [28]). We extend previous
+work in this area by testing the effectiveness of role model narratives
+to encourage health professionals to become more engaged in
+advancing workplace sustainability and climate change advocacy.
+Past research ﬁnds that deepening an individual’s relationship to an
+organization (whether it’s a workplace sustainability ofﬁce or an
+advocacy organization) is an important antecedent to speciﬁc advo-
+cacy behaviors [29]. This is because organizations help to foster and
+coordinate individual actions of their members toward collective
+goals, which leads to greater impact than acting alone [30]. Therefore
+we investigate willingness to personally support workplace sustain-
+ability initiatives as well as willingness to get involved in advocacy as
+past research has highlighted the important role of collective action
+[31]. Speciﬁcally, we posit the following hypothesis:
+H1: Exposure to role model stories will result in greater support
+for sustainability and climate change action through the following
+outcomes:
+(a)
+Higher support for workplace sustainability initiatives;
+(b)
+Lower perceived barriers to supporting those initiatives;
+(c)
+Greater willingness to promote workplace sustainability;
+(d)
+Greater interest in receiving information on how to get involved
+with workplace sustainability;
+(e)
+Greater willingness to join a climate and health advocacy orga-
+nization;
+(f)
+Lower perceived barriers to joining a climate and health advo-
+cacy organization;
+(g)
+Greater interest in receiving information on how to join a cli-
+mate and health sustainability organization; and
+(h)
+Greater sense of personal responsibility when it comes to being
+an advocate for the connections between climate change and
+health.
+2. Materials and methods
+2.1. Participants
+To test our hypothesis, we conducted a ﬁeld experiment in part-
+nership with a large, nonproﬁt healthcare system located in Northern
+Virginia, U.S. The partner organization focuses on providing immedi-
+ate and preventive healthcare through direct consultation and treat-
+ment, as well as through education and community engagement. As
+part of their sustainability program to reduce the overall environ-
+mental impact of their operations, the partner organization produces
+and maintains a regular e-newsletter on workplace sustainability dis-
+tributed once a month.
+Participants for the study were employees sourced from the sus-
+tainability newsletter email list of the partner organization which
+contained a total of 771 people. The study consisted of two waves of
+data collection in 2022. The ﬁrst wave of data collection (T1) took
+place over the period of March 9th −30th, 2022. The second (T2) was
+ﬁelded over the period of June 23rd −September 22nd, 2022, and
+occurred after treatment group participants were exposed to the
+experimental stimuli. The number of survey respondents differed for
+the baseline (n = 152) and post-test surveys (n = 121) with a smaller
+number of participants completing both waves (n = 39).
+In preparing the dataset, we removed duplicate responses (i.e.,
+those that took the same survey twice), responses from individuals
+who had multiple email addresses subscribed to the sustainability
+list that happened to get assigned to different experimental condi-
+tions, and responses from individuals that were featured as role mod-
+els in the stimulus material. Additionally, we restricted our analysis
+only to those who completed both waves of the survey. Taken
+together, the ﬁnal sample size for analysis was n = 39. Based on a
+post-hoc sensitivity power analysis conducted in G*Power (assuming
+ɑ = 95 %; 1-b = 0.8; and numerator df = 1) the minimum detectible
+effect size for this sample was Cohen’s d = 0.92, which constitutes a
+large effect size [32,33].
+2.2. Study design
+Prior to sending out surveys, subscribers to the email list were
+randomly assigned into either a control or treatment group. The con-
+trol group received the regular monthly sustainability newsletter,
+whereas the treatment group received the regular newsletter in addi-
+tion to a series of six role model stories each spaced about two weeks
+apart.
+The role model stories were detailed, personal accounts featuring
+a fellow employee and their experience in getting involved with cli-
+mate, health, and sustainability (see Supplementary ﬁle 2). All of the
+role models were actual employees of the partner organization to
+increase the likelihood that readers perceived the role models as sim-
+ilar to themselves and belonging to a common peer group [34]. Each
+story contained a different role model, but consisted of similar narra-
+tive elements, including: (a) how the role model became interested
+in climate change/sustainability, (b) barriers encountered in their
+journey to becoming a sustainability leader, (c) how they overcame
+those barriers, and (d) what they are doing now to sustain their
+efforts over time. These stories were developed through careful role
+J. Kotcher, N. Badullovich, M. Ahmed et al.
+The Journal of Climate Change and Health 18 (2024) 100291
+2
+model selection in collaboration with sustainability staff from the
+partner organization and in-depth interviewing of the role models
+[34].
+2.3. Survey measures
+2.3.1. Support for sustainability initiatives
+To measure support for sustainability initiatives, participants
+were asked “How much do you support or oppose [partner organiza-
+tion] focusing on the following sustainability goals?” and were pro-
+vided with seven sustainability initiatives including: increasing clean
+energy use, reducing food waste, and educating government ofﬁcials
+on the connection between climate and health. Responses options
+included: 1 = strongly oppose, 2 = moderately oppose, 3 = slightly
+oppose, 4 = neither support nor oppose, 5 = slightly support, 6 = mod-
+erately support, and 7 = strongly support. Wording for all matrix-
+style questions is available in Supplementary ﬁle 1. All seven items
+were combined into a single 7-point index at T1 (ɑ = 0.763) and T2
+(ɑ = 0.623).
+2.3.2. Willingness to help promote workplace sustainability
+Willingness to help promote workplace sustainability was mea-
+sured by asking “How willing or unwilling would you be to get
+involved [in promoting sustainability within the organization]?” and
+responses recorded on a 5-point scale: 1 = I deﬁnitely would not do
+it, 2 = I probably would not do it, 3 = I probably would do it, 4 = I deﬁ-
+nitely would do it, and 5 = I am already getting involved.
+2.3.3. Barriers to promoting workplace sustainability
+To assess potential barriers, we asked “To what extent do these
+factors limit your willingness to get involved with promoting sustain-
+ability at [partner organization]?” and provided ﬁve barriers scored
+on a 5-point scale: 1 = not at all, 2 = a little, 3 = a moderate amount,
+4 = a good amount, and 5 = a great deal. Examples of the items asked
+include a lack of time, lack of support from my peers, and it won’t
+make a difference. All ﬁve items were averaged into a combined bar-
+riers to promoting sustainability index at T1 (ɑ = 0.721) and T2
+(ɑ = 0.610).
+2.3.4. Interest in information on how to get involved with promoting
+workplace sustainability
+To assess interest in learning more about how to promote sustain-
+ability at work we asked “How interested are you in receiving more
+information on how to get involved with promoting sustainability at
+[partner organization]?”. Participants responded on a 5-point scale:
+1 = not at all interested, 2 = a little interested, 3 = moderately inter-
+ested, 4 = very interested, and 5 = extremely interested.
+2.3.5. Willingness to join a climate and health advocacy organization
+To assess willingness to join a climate and health advocacy orga-
+nization we asked “Next, we are interested in your thoughts about
+joining an organization of health workers to educate policy makers
+about policies that can address climate change and improve health
+(for example, Virginia Clinicians for Climate Action). How willing or
+unwilling would you be to join such an organization?”. Responses
+were recorded on a 5-point scale: 1 = I deﬁnitely would not do it,
+2 = I probably would not do it, 3 = I probably would do it, 4 = I deﬁ-
+nitely would do it, and 5 = I am already participating in an organiza-
+tion like this now.
+2.3.6. Barriers to joining a climate and health advocacy organization
+To measure perceived barriers to joining a climate and health
+advocacy organization we asked “To what extent do these factors
+limit your willingness to join an organization of health workers to
+educate policy makers about policies that can address climate change
+and improve health?” and provided seven barriers, such as: a lack of
+time, lack of support from my peers, and the topic is too controver-
+sial. The items were measured on a 5-point scale: 1 = not at all, 2 = a
+little, 3 = a moderate amount, 4 = a good amount, and 5 = a great deal
+with all seven items averaged into a single index at T1 (ɑ = 0.718)
+and T2 (ɑ = 0.667).
+2.3.7. Interest in information on how to join a climate and health
+advocacy organization
+To measure interest in receiving information about joining a cli-
+mate and health advocacy organization we asked “How interested
+are you in receiving more information about joining such an organi-
+zation?” following the organizational description provided in the
+question above. Responses were recorded on a 5-point scale: 1 = not
+at all interested, 2 = a little interested, 3 = moderately interested,
+4 = very interested, and 5 = extremely interested.
+2.3.8. Perceived responsibility of health professionals
+Participants were asked three conceptually related statements
+about whether healthcare professionals had a responsibility to com-
+municate about and educate the public and policy makers on the con-
+nections between climate and health. Responses were measured on a
+7-point scale and the three statements were: “Health workers have a
+responsibility to bring the health effects of climate change to the
+attention of the public.”, “Health workers have a responsibility to
+bring the health effects of climate change to the attention of govern-
+ment ofﬁcials.”, and “Health workers have a responsibility to reduce
+the healthcare sector’s contribution to greenhouse gas emissions that
+cause climate change.”. The three statements were averaged into a
+single index at T1 (ɑ = 0.854) and T2 (ɑ = 0.808) and retained the
+same 7-point scale: 1 = strongly disagree, 2 = disagree, 3 = somewhat
+disagree, 4 = neither agree nor disagree, 5 = somewhat agree,
+6 = agree, and 7 = strongly agree.
+A series of additional demographic variables were also measured,
+including gender, age, education, working position (i.e., clinical, or
+non-clinical), and focus area of degrees earned (see Supplementary
+ﬁle 1 for the full survey instrument).
+2.4. Analysis
+To address our hypothesis, we conducted a series of one-way
+analysis of covariance (ANCOVA) tests to assess the effect of the role
+model narratives on the dependent variables. Measures at T2 were
+treated as the main dependent variable with measures at T1 treated
+as a covariate. Utilizing a mixed design with repeated measures
+increases statistical power, especially when sample sizes are small
+[35]. We present our analyses below without multiple-comparison
+correction because such adjustments are applied arbitrarily and
+inconsistently, can increase Type II error, and are not a substitute for
+replication [36,37]. Analyses were conducted using IBM SPSS Statis-
+tics [38] and Jamovi [39−41], with ﬁgures generated in R [42,43].
+Finally, we identiﬁed one demographic variable (working position)
+that was not balanced across the experimental conditions. We have
+chosen to report the unadjusted models in the main text due to bal-
+ancing test and adjustment procedures being advised against in ran-
+domized
+experiments
+[44].
+However,
+we
+have
+included
+a
+supplementary table (SM3.2) with the adjust models −controlling
+for the position variable −for transparency.
+J. Kotcher, N. Badullovich, M. Ahmed et al.
+The Journal of Climate Change and Health 18 (2024) 100291
+3
+3. Results
+3.1. Assessing the effect of experimental condition
+We found that the role model narratives signiﬁcantly increased
+perceived responsibility of healthcare professionals (F(1, 38) = 8.33,
+p = .007, d = 0.932 [0.240, 1.62]) and willingness to receive more
+information about joining a climate and health advocacy organization
+(F(1, 38) = 4.17, p = .049, d = 0.660 [0.015, 1.33]); see Fig. 1. We did
+not detect signiﬁcant effects of the role model narratives on any of
+the other outcome variables (see Table 1).
+4. Discussion
+This study contributes to the understanding of whether role
+model stories can help encourage healthcare professionals to support
+and participate in pro-climate and sustainability behaviors. As
+trusted sources of information, healthcare professionals are in a pow-
+erful position to help advocate for climate and health solutions. How-
+ever, encouraging pro-climate behaviors and advocacy among health
+professionals can be challenging [19]. We tested the efﬁcacy of role
+model stories to address these challenges through a ﬁeld experiment
+that measured a variety of outcomes related to support for sustain-
+ability initiatives and climate advocacy. Despite a small sample size,
+we found that the role model narratives signiﬁcantly increased will-
+ingness to receive more information on joining a climate and health
+advocacy organization and perceived responsibility of healthcare
+professionals to advance climate and health solutions in the work-
+place as well as among the public and policy makers.
+Supporting sustainable initiatives and those designed to curb car-
+bon-intensive practices is an important ﬁrst step toward broader
+societal change. According to one estimate, the healthcare sector con-
+tributes to roughly 5 % of global GHG emissions [1], and therefore has
+a signiﬁcant opportunity to help reduce global emissions. Decarbon-
+izing the healthcare sector provides multiple beneﬁts to health, not
+just by reducing the negative consequences of climate change, but
+also through directly lowering pollution levels by utilizing clean elec-
+tricity [1]. However, in order to achieve the ambitious goals set forth
+n the Paris Climate Agreement −and ensure these shifts are enduring
+[45]
+−
+support
+from
+healthcare
+professionals
+is
+critical
+[46].
+Highlighting the leadership of sustainability role models is one
+method that could boost support for various sustainability initiatives.
+In this study, participants who received role model stories exhibited
+an increase in their desire to receive more information about joining
+a climate and health advocacy organization. Although the effect size
+was large (d = 0.660), this ﬁnding should be interpreted with caution
+given that the p-value was just below conventional cutoff criteria for
+statistical signiﬁcance (p = .049) and the effect size conﬁdence inter-
+val crosses zero −likely due to the small sample size. Moreover, this
+effect was not robust when we controlled for a demographic imbal-
+ance between the experimental conditions (see Supplementary ﬁle 3,
+Table SM3.1). Although further research is needed with a larger sam-
+ple, these ﬁndings suggest that role modeling could be an effective
+means to build and maintain healthcare professional participation in
+climate advocacy, which is critical to advancing broader policy and
+structural change within the sector. Furthermore, this support can
+work towards legitimizing the efforts of organizations that aim to
+facilitate workplaces in adopting sustainable policies.
+The second important ﬁnding from this study relates to level of
+responsibility healthcare professionals put on themselves as trusted
+communicators of climate and health. We found that role model sto-
+ries had a large effect (d = 0.932) on health professionals’ perceived
+responsibility to educate government ofﬁcials and the public about
+the impacts of climate change on health. A previous multinational
+study based on correlational data found perceived responsibility to
+be
+a signiﬁcant predictor
+of climate advocacy, speciﬁcally in
+Fig. 1. Estimated marginal means for control and treatment groups for (a) willingness to receive more information about joining a climate and health advocacy organization and (b)
+perceived responsibility of health professionals. Error bars represent 95 % conﬁdence interval around the mean.
+Table 1
+Summary of all ANCOVA analyses testing the effect of experimental condition and controlling for baseline scores as the covariate.
+F
+p
+Cohen’s d
+95 % CI (d)
+T2 marginal mean:
+control (SE)
+T2 marginal mean:
+treatment (SE)
+Support for sustainability initiatives
+3.98
+.054
+0.664
+0.029, 1.36
+6.53 (0.092)
+6.78 (0.081)
+Willingness to help promote workplace sustainability
+0.500
+.484
+.229
+0.431, 0.890
+3.43 (0.160)
+3.58 (0.141)
+Barriers to promoting workplace sustainability
+0.831
+.368
+0.300
+0.970, 0.371
+2.51 (0.164)
+2.31 (0.144)
+Interest in more information on getting involved with promoting workplace
+sustainability
+0.199
+.658
+0.146
+0.520, 0.812
+3.64 (0.225)
+3.78 (0.197)
+Willingness to join a climate and health advocacy organization
+0.102
+0.752
+0.103
+0.553, 0.760
+2.74 (0.214)
+2.83 (0.188)
+Barriers to joining a climate and health advocacy organization
+1.62
+0.211
+0.423
+1.11, 0.259
+2.37 (0.155)
+2.10 (0.136)
+Interest for more information on joining a climate and health advocacy
+organization
+4.17
+.049
+0.660
+0.015, 1.33
+2.56 (0.219)
+3.16 (0.193)
+Perceived responsibility of health professionals
+8.33
+.007
+0.932
+0.240, 1.62
+5.39 (0.236)
+6.30 (0.207)
+J. Kotcher, N. Badullovich, M. Ahmed et al.
+The Journal of Climate Change and Health 18 (2024) 100291
+4
+participating in a global campaign to strengthen commitments to the
+Paris Agreement [47]. Other research has also found feelings of
+responsibility to be a predictor of climate advocacy in the general
+population [48]. While these correlational studies have found per-
+ceived responsibility to be an important predictor of climate advo-
+cacy behaviors, our study extends these ﬁndings by demonstrating
+that role model stories can have a causal effect on perceived responsi-
+bility, and therefore represent one effective means to encourage sup-
+port for climate advocacy among health professionals.
+This study is not without its limitations. First, because this
+research was conducted in a single healthcare organization in the
+United States, we cannot speak to how generalizable these ﬁndings
+will be in other organizational settings. However, one point of prom-
+ise is that the role model stories substantively increased information
+seeking and perceived responsibility even though these participants
+had a pre-existing interest in sustainability (i.e., they had already
+opted to receive emails from their employer’s sustainability ofﬁce)
+and displayed relatively high baseline levels of engagement. Hence,
+we believe this strategy should be explored in other healthcare set-
+tings regardless of previous levels of prior climate and sustainability
+engagement. Second, the sample size for this study is quite small and
+future research should aim to test this strategy on a larger sample
+with more statistical power. However, we believe the fact that some
+of the observed effect sizes were large enough reach statistical signif-
+icance despite these limitations is an intriguing ﬁnding that warrants
+further investigation into role model stories as a engagement strategy
+in this context. Our study establishes a set of expected effects sizes to
+help guide power calculations for future studies. Finally, we mea-
+sured behavioral intentions and not actual behavior. While the con-
+cept of role modeling appears to be a promising strategy, future
+research should implement behavioral measures such as signing peti-
+tions or signing up for a campaign to better gauge the effects of the
+intervention on behavioral outcomes.
+5. Conclusions
+Healthcare professionals are trusted sources of information, and
+they can be invaluable in communicating the health implications of
+climate change and sustainability now, and into the future. Their
+actions in raising awareness, educating, and advocating for policy sol-
+utions −both in the workplace as well as in society more broadly −
+can help build a public mandate for climate and sustainability action.
+This study analyzed the effect role model stories can have in encour-
+aging healthcare professionals to be advocates for climate and sus-
+tainability health solutions.
+Our analysis shows that role model stories were effective in both
+increasing interest in receiving more information on how to join a climate
+and health advocacy organization, as well as boosting perceptions of
+responsibility when it comes to educating the public and government
+ofﬁcials on climate and health. These results are promising, although
+must be caveated with the fact this sample was restricted in terms of size.
+Activating healthcare professionals to advocate for sustainability
+and climate and health solutions is critical for policy progress, as has
+been seen in previous examples like the role that health professionals
+played in the nuclear weapons non-proliferation treaty and manage-
+ment of the COVID-19 pandemic [49]. Although behavior change can
+be challenging, role models that share their personal journey of
+change can be effective in helping inspire others to action. Highlight-
+ing the stories of inﬂuential healthcare role models may be one
+important method of mobilizing more health professionals to take up
+the critical role of climate and sustainability advocacy.
+Author agreement
+I certify that all authors have seen and approved the ﬁnal version
+of the manuscript being submitted. I warrant that the article is the
+authors’ original work, hasn’t received prior publication and isn’t
+under consideration for publication elsewhere.
+Declaration of competing interest
+The authors declare the following ﬁnancial interests/personal
+relationships which may be considered as potential competing inter-
+ests:
+The George Mason University Center for Climate Change Commu-
+nication (the employer of several of the authors) provides funding to
+help support the Virginia Clinicians for Climate Action, an outside
+organization which was not involved in the research reported in this
+paper.
+CRediT authorship contribution statement
+J. Kotcher: Conceptualization, Formal analysis, Funding acquisi-
+tion, Investigation, Methodology, Project administration, Supervision,
+Writing −original draft, Writing −review & editing. N. Badullovich:
+Formal analysis, Writing −original draft, Writing −review & editing.
+M. Ahmed: Conceptualization, Funding acquisition, Methodology,
+Project administration, Writing −review & editing. D. De Alwis:
+Investigation, Methodology, Writing −review & editing. E.W. Mai-
+bach: Conceptualization, Funding acquisition, Investigation, Writing
+−review & editing.
+Acknowledgements
+We extend our great thanks to Charles “Chip” Goyette and Kate
+Luong for their help and efforts in assisting us with this study. We
+also extend our thanks to the role models for offering their time and
+personal stories, thereby helping us develop the messaging stimulus
+material. We thank the George Mason University Institute for a Sus-
+tainable Earth for funding this research. The funder had no role in the
+study design, data collection, analysis and interpretation of the data,
+the writing of the report, or in the decision to submit the article for
+publication.
+Supplementary materials
+Supplementary material associated with this article can be found
+in the online version at doi:10.1016/j.joclim.2023.100291.
+References
+[1] Romanello M, Di Napoli C, Drummond P, Green C, Kennard H, Lampard P, et al.
+The 2022 report of the Lancet Countdown on health and climate change: health
+at the mercy of fossil fuels. The Lancet 2022;400(10363):1619–54.
+[2] Intergovernmental Panel on Climate Change. Climate change 2022: impacts, adapta-
+tion and vulnerability [Internet]. 2022 p. 1−3056. (Working Group II contribution to
+the sixth assessment report of the intergovernmental panel on climate change).
+Available
+from:
+https://report.ipcc.ch/ar6/wg2/IPCC_AR6_WGII_FullReport.pdf
+[Accessed 2023 May 9].
+[3] Roser-Renouf C., Maibach E., Leiserowitz A., Rosenthal S., Kotcher J. Understand-
+ing the health harms of climate change: a Six Americas analysis [Internet]. Center
+for climate change communication & yale program on climate change communi-
+cation; 2021. Available from: https://www.climatechangecommunication.org/all/
+understanding-the-health-harms-of-climate-change-a-six-americas-analysis/.
+[Accessed 2023 May 9]
+[4] Hathaway J, Maibach EW. Health implications of climate change: a review of the
+literature about the perception of the public and health professionals. Curr Envi-
+ron Health Rep 2018;5(1):197–204.
+[5] Maibach EW, Kreslake JM, Roser-Renouf C, Rosenthal S, Feinberg G, Leiserowitz
+AA. Do Americans understand that global warming is harmful to human health?
+Evidence from a national survey. Ann Glob Health 2015;81(3):396.
+[6] Leiserowitz A., Maibach E., Rosenthal S., Kotcher J., Carman J., Neyens L., et al. Poli-
+tics and global warming: april 2022 [Internet]. New Haven, CT: Yale University
+and george mason university; 2022 Apr p. 1−82. (Politics & Global Warming).
+Report No.: april 2022. Available from: https://climatecommunication.yale.edu/
+publications/politics-global-warming-april-2022/ [Accessed 2023 May 9].
+J. Kotcher, N. Badullovich, M. Ahmed et al.
+The Journal of Climate Change and Health 18 (2024) 100291
+5
+[7] Eckelman MJ, Huang K, Lagasse R, Senay E, Dubrow R, Sherman JD. Health care
+pollution and public health damage in the United States: an update. Health Aff
+(Millwood) 2020;39(12):2071–9.
+[8] Salas RN, Maibach E, Pencheon D, Watts N, Frumkin H. A pathway to net zero
+emissions for healthcare. BMJ 2020:m3785.
+[9] Badullovich N, Grant WJ, Colvin RM. Framing climate change for effective com-
+munication: a systematic map. Environ Res Lett 2020;15(12).
+[10] Entman RM. Framing: toward clariﬁcation of a fractured paradigm. J Commun
+1993;43(4):51–8.
+[11] Chong D, Druckman JN. Framing theory. Annu Rev Polit Sci 2007;10:103–26.
+[12] Myers TA, Nisbet MC, Maibach EW, Leiserowitz AA. A public health frame arouses
+hopeful emotions about climate change. Clim Change 2012;113(3−4):1105–12.
+[13] Maibach EW, Nisbet M, Baldwin P, Akerlof K, Diao G. Reframing climate change as
+a public health issue: an exploratory study of public reactions. BMC Public Health
+2010;10(299).
+[14] Kotcher J, Maibach E, Montoro M, Hassol SJ. How Americans respond to informa-
+tion about global Warming’s health impacts: evidence from a national survey
+experiment. GeoHealth 2018;2(9):262–75.
+[15] Kotcher J, Feldman L, Luong KT, Wyatt J, Maibach E. Advocacy messages about cli-
+mate and health are more effective when they include information about risks,
+solutions, and a normative appeal: evidence from a conjoint experiment. J Clim
+Change Health 2021;3:100030.
+[16] Kotcher J, Luong K, Charles J, Gould R, Maibach E. Calling attention to opponents
+of climate action in climate and health messaging. Lancet Planet Health 2023;7
+(11):e938–46.
+[17] Maibach E, Frumkin H, Ahdoot S. Health professionals and the climate crisis:
+trusted voices, essential roles. World Med Health Policy 2021;13(1):137–45.
+[18] Kreslake JM, Sarfaty M, Roser-Renouf C, Leiserowitz AA, Maibach EW. The critical
+roles of health professionals in Climate change prevention and preparedness. Am
+J Public Health 2018;108(S2):S68–9.
+[19] Kotcher J, Maibach E, Miller J, Campbell E, Alqodmani L, Maiero M, et al. Views of
+health professionals on climate change and health: a multinational survey study.
+Lancet Planet Health 2021;5(5):e316–23.
+[20] Luszczynska A, Schwarzer R. Social cognitive theory editor. In: Conner M, editor.
+repr, 2009, p. Predicting health behaviour: research and practice with social cog-
+nition models. 2. ed. Maidenhead: Open Univ. Press; 2009. p. 127–69.
+[21] Bandura A. Health promotion by social cognitive means. Health Educ Behav
+2004;31(2):143–64.
+[22] Bandura A. Self-efﬁcacy: toward a unifying theory of behavioral change. Psychol
+Rev 1977;84(2):191–215.
+[23] McAlister A, Fernandez M. Behavioral Journalism” accelerates diffusion of healthy
+innovations editor. In: Hornik RC, editor. (LEA's communication series), 2002, p.
+Public health communication: evidence for behavior change. Mahwah, N.J: L. Erl-
+baum Associates; 2002. p. 315–26.
+[24] McAlister A, Johnson W, Guenther-Grey C, Fishbein M, Higgins D, Behavioral
+O’Reilly K. Journalism for HIV prevention: community newsletters inﬂuence risk-
+related attitudes and Behavior. J Mass Commun Q 2000;77(1):143–59.
+[25] Corby NH, Enguídanos SM, Kay LS. Development and use of role model stories in a
+community level HIV risk reduction intervention. Public Health Rep 1996;111
+(Supplement 1):54–8.
+[26] Ranjit N, Menendez T, Creamer M, Hussaini A, Potratz CR, Hoelscher DM. Narra-
+tive communication as a strategy to improve diet and activity in low-income fam-
+ilies: the use of role model stories. Am J Health Educ 2015 Mar 4;46(2):99–108.
+[27] McAlister A. Behavioral journalism in health and risk messaging. Oxford research
+encyclopedia of communication [Internet]; Available from: https://oxfordre.
+com/communication/display/10.1093/acrefore/9780190228613.001.0001/acre-
+fore-9780190228613-e-326;jsessionid=DB8F4D62BC2A57A65E19120ABEE-
+CA044 [Accessed 2023 May 13].
+[28] O’Donnell NH, Karabas I, Hill A. Reducing food waste during COVID-19: testing
+role model stories as a strategy for promoting conservation behaviors. Front Com-
+mun [Internet] 2022;7 Available from: https://www.frontiersin.org/articles/
+10.3389/fcomm.2022.774009 [Accessed 2023 Jun 14].
+[29] Han H. The organizational roots of political activism: ﬁeld experiments on creat-
+ing a relational context. Am Polit Sci Rev 2016;110(2):296–307.
+[30] Han H. How organizations develop activists: civic associations and leadership in
+the 21st century. USA: Oxford University Press; 2014.
+[31] Charles J, Lois AN, Mukhopadhyay C, Maibach E, Patz JA. Health professionals as
+advocates for climate solutions: a case study from Wisconsin. J Clim Change
+Health 2021;4:100052.
+[32] Faul F, Erdfelder E, Lang AG, G* Buchner A. Power 3: a ﬂexible statistical power
+analysis program for the social, behavioral, and biomedical sciences. Behav Res
+Methods 2007;39(2):175–91.
+[33] Cohen J. Statistical power analysis for the behavioral sciences. 2nd ed. NJ: Erl-
+baum: Hillsdale; 1988.
+[34] Stanforth D, Manika D, Stout P, Becker H, Calfa N, Hammer E. Behavioral Journal-
+ism How-To Guide: Developing a Role Model Narrative. Austin, TX: University of
+Texas at Austin.
+[35] Clifford S, Sheagley G, Piston S. Increasing precision without altering treatment
+effects: repeated measures designs in survey experiments. Am Polit Sci Rev
+2021;115(3):1048–65.
+[36] O’Keefe DJ. Colloquy: should familywise alpha be adjusted? Hum Commun Res
+2003;29(3):431–47.
+[37] Feise RJ. Do multiple outcome measures require p-value adjustment? BMC Med
+Res Methodol 2002;2(1):8.
+[38] IMB SPSS Statistics for Macintosh, Version 28.0. Armonk, NY: IMB Corp; 2021.
+[39] jamovi (version 2.3) [computer software]. The jamovi project [Internet]. 2022.
+Available from: https://www.jamovi.org [Accessed 2023 June 14].
+[40] Lenth R. emmeans: estimated marginal means, aka Least_Squares means. [R pack-
+age] [Internet]. 2020. Available from: retrieved from: https://cran.r-project.org/
+package=emmeans [Accessed 2023 June 14].
+[41] Fox J., Weisberg. car: companion to applied regression. [R package] [Internet].
+2020. Available from: Retrieved from: https://cran.r-project.org/package=car
+[Accessed 2023 June 14].
+[42] Core Team R. R: a language and environment for statistical computing. r [Inter-
+net]. Vienna, Austria: Foundation for Statistical Copmuting; 2023. Available from
+https://www.R-project.org [Accessed 2023 June 14].
+[43] Wickham H, Averick M, Bryan J, Chang W, McGowan L, Fran¸cois R, et al. Welcome
+to the tidyverse. J Open Source Softw 2019;4(43):1686.
+[44] Mutz DC, Pemantle R, Pham P. The perils of balance testing in experimental
+design: messy analyses of clean data. Am Stat. 2019;73(1):32–42.
+[45] Goldberg MH, Gustafson A, Linden SVD. Leveraging social science to generate
+lasting engagement with climate change solutions. One Earth 2020;3(3):314–
+24.
+[46] Maibach EW, Sarfaty M, Mitchell M, Gould R. Limiting global warming to 1.5 to
+2.0°C—a unique and necessary role for health professionals. PLOS Med 2019;16
+(5):e1002804.
+[47] ryeon Lee H, I Pagano, Borth A, Campbell E, Hubbert B, Kotcher J, et al. Health pro-
+fessional’s willingness to advocate for strengthening global commitments to the
+Paris climate agreement: ﬁndings from a multi-nation survey. J Clim Change
+Health 2021;2:100016.
+[48] Munson S, Kotcher J, Maibach E, Rosenthal SA, Leiserowitz A. The role of felt
+responsibility in climate change political participation. Oxf Open Clim Change
+2021;1(1):kgab012.
+[49] Maibach E, Miller J, Armstrong F, El Omrani O, Zhang Y, Philpott N, et al. Health
+professionals, the Paris agreement, and the ﬁerce urgency of now. J Clim Change
+Health 2021;1:100002.
+J. Kotcher, N. Badullovich, M. Ahmed et al.
+The Journal of Climate Change and Health 18 (2024) 100291
+6

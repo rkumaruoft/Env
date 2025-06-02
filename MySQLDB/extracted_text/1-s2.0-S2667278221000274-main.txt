@@ -1,0 +1,876 @@
+Research article
+Advocacy messages about climate and health are more effective when
+they include information about risks, solutions, and a normative appeal:
+Evidence from a conjoint experiment
+John Kotchera,*, Lauren Feldmanb, Kate T. Luonga, James Wyattc, Edward Maibacha
+a George Mason University, 4400 University Drive, MS 6A8, Fairfax, VA, 22030, USA
+b Rutgers University, 4 Huntington Street, New Brunswick, NJ 08901, USA
+c Climate Nexus, 1140 Connecticut Ave, Suite 609, Washington, DC 20036 USA
+A R T I C L E
+I N F O
+Article History:
+Received 9 June 2021
+Accepted 18 July 2021
+Available online 21 July 2021
+A B S T R A C T
+Previous research has shown that providing information about the health consequences of climate change
+can increase climate change issue engagement and support for mitigation policies. Here, we extend that
+research by testing the motivational value of three categories of climate information (termed information
+categories): health consequences of climate change; health beneﬁts of climate solutions; and calls-to-action
+intended to motivate people to engage in political advocacy for climate solutions. The use of choice-based
+conjoint analysis enabled us to determine the effectiveness of each information category, as well the effec-
+tiveness of speciﬁc types of information within each category. Research participants were adults quota-sam-
+pled to represent the U.S. population (n=7,596). We found that each of these categories−consequences,
+solutions, and a call-to-action−enhanced the overall motivational value of the message, with solution infor-
+mation being the most inﬂuential. Of the 360 message combinations tested, the most compelling ﬁrst
+described the negative impacts of climate change on air quality, then explained how transitioning to clean
+energy will beneﬁt people’s health, and ended by explaining that most Americans support this solution, and
+many are taking action to advocate for it. These ﬁndings are consistent with a large body of risk communica-
+tion theory, and provide practical insights to health professionals and others seeking to build public and
+political will for actions that reduce the health threats posed by climate change.
+© 2021 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Climate advocacy
+Risk communication
+Health communication
+Conjoint analysis
+1. Introduction
+Climate change impacts on human health have been well-docu-
+mented over the past two decades and are projected to drastically
+increase if mitigation responses remain inadequate [1,2]. Rising
+global temperatures directly heighten the frequency and intensity of
+extreme weather events, including heat waves, hurricanes, wildﬁres,
+ﬂoods, and droughts, directly damaging public health across broad
+geographical locations [2,3]. Furthermore, shifting climate patterns
+lead to an increase in the prevalence of vector-borne diseases, a
+reduction in crop yields and nutritional values, contamination of food
+and water, and rising socio-political conﬂicts [3,4].
+Research on the nexus of climate change and health has corre-
+spondingly grown [5]. Extant public health recommendations stress
+the urgent importance of implementing policies to mitigate and
+adapt to climate change—including integrating these plans into
+health policies—if we are to protect the public’s health and our health
+systems [6,7]. Yet, when it comes to understanding climate change
+impacts on health, there is still a persistent disconnect between
+experts, such as researchers and health professionals, and non-
+experts, such as policy makers and the lay public, especially in the
+United States.
+In general, climate change as an issue is considered psychologi-
+cally distant and not personally relevant for many Americans. Most
+people perceive themselves, their families, and people in their com-
+munity to be at less risk from climate change than people who are
+spatially (e.g., in developing countries) or temporally distant (e.g.,
+future generations) [8]. In April 2020, fewer than half of American
+adults felt that people in the United States are being harmed by cli-
+mate change right now, although this number did increase 13 per-
+centage points between 2015 and 2020 [8]. A similar pattern follows
+for climate change impacts on health. In a 2014 survey, 61% of
+respondents reported having given little thought to this topic, and
+* Corresponding author.
+E-mail addresses: jkotcher@gmu.edu (J. Kotcher), lauren.feldman@rutgers.edu
+(L. Feldman), tluong8@gmu.edu (K.T. Luong), jwyatt@climatenexus.org (J. Wyatt),
+emaibach@gmu.edu (E. Maibach).
+https://doi.org/10.1016/j.joclim.2021.100030
+2667-2782/© 2021 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 3 (2021) 100030
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+most respondents could not name speciﬁc affected health conditions
+[9]. Few people indicated that their own health (17%) or the health of
+Americans (31%) are currently being impacted by climate change,
+although greater proportions (27% and 39% respectively) expected
+such impacts in the future [9]. Similar to overall climate change risk
+perceptions, these numbers have grown recently. Between 2014 and
+2020, signiﬁcantly more people came to understand that climate
+change will cause a range of speciﬁc health conditions to become
+more common in their community over the next ten years. Depend-
+ing on the health condition, this growth in awareness ranged from 13
+percentage points (from 38% to 51% for pollen-related allergies) to 28
+percentage points (from 26% to 54% for bodily harm from wildﬁres)
+[10].
+In short, despite present, serious and growing impacts of climate
+change on health, most Americans do not accurately assess these
+risks, especially for themselves, their families, and people in their
+community. Although risk perceptions are increasing, more efforts
+are needed to bridge the gap between experts’ risk assessments and
+the lay public’s understanding. Promoting public understanding of
+the health risks of climate change is important because it can help
+people and families make better risk management decisions, and
+because prior research has shown it to be an effective way to increase
+support for climate change policies and actions that can reduce those
+risks and improve public health. Presenting information about the
+health implications of climate change and air pollution from fossil
+fuels has been shown to be novel, engaging, and personally relevant
+to people across the spectrum of views about climate change [11].
+This approach promotes risk perceptions and policy support [12],
+affective assessment and assessment certainty [13], and hopeful
+emotions [14]. Focusing on the health impacts of climate change also
+has the potential to reduce political polarization around the issue, as
+people across the political spectrum, especially moderates and mod-
+erate conservatives, respond well to this information [12,13], making
+it a promising way to communicate information about this hyper-
+politicized topic.
+A guiding principle offered by Fischhoff [15] and Maibach [16] for
+improving public understanding of climate change involves creating
+and testing simple, clear, accurate, relevant messages that, if shown
+to be helpful, can be delivered by a variety of trusted sources. In this
+study we developed brief messages—based on ﬁndings from peer-
+reviewed research on climate and health—and tested them to iden-
+tify which message categories, and which speciﬁc messages, were
+the most compelling to American adults. Speciﬁcally, we evaluated
+messages in terms of their ability to promote political advocacy on
+climate change. While individual mitigation actions have a role to
+play in reducing emissions [17], such efforts need to be comple-
+mented by greater systemic emissions reductions that can only be
+brought about through policy change [18,19]. Increasing citizen
+advocacy is one means to cultivate the political will necessary for pol-
+icy change [20,21]. Building on previous research in this area, we
+examined several key questions.
+First, we evaluated the effects of information about various types
+of health harms caused or exacerbated by climate change to identify
+their relative effectiveness in encouraging advocacy actions. Prior
+studies have demonstrated the effectiveness of exposure to informa-
+tion about the health impacts of climate change on pro-mitigation
+cognitive and affective outcomes [11,14], and one study examined
+audience evaluations of speciﬁc types of climate change-related
+health harms and found that food-, water-, and vector-borne illnesses
+were especially worrisome to Americans [13]. However, research has
+not yet assessed the effects of exposure to speciﬁc types of health
+impact information on political advocacy. Our ﬁrst research question
+thus asked:
+RQ1. Which types of health impacts from climate change are consid-
+ered most compelling in prompting advocacy actions?
+Second, because there is an extensive literature demonstrating
+that many of the proposed climate change mitigation and adaptation
+measures also have direct or indirect beneﬁts for human health (typi-
+cally called “health co-beneﬁts”) [22,23], we also examined the effect
+of presenting information on health beneﬁts of climate change solu-
+tions. Extant research has primarily focused on conveying climate
+change impacts on health, but some studies suggest advantages to
+adding solution information, especially when such information is
+framed in terms of health solutions. Maibach et al. [11] found that
+information on the health beneﬁts of mitigation policies was rated as
+clearer and more useful than information on impacts. Moreover, per-
+ceived beneﬁts of mitigation have been shown to be positively
+related to intentions to engage in advocacy [24]. These ﬁndings are
+consistent with the Extended Parallel Process Model [25] which pos-
+tulates: Risk information is more inﬂuential in changing behaviors
+when accompanied by efﬁcacy information, or information indicat-
+ing the presence and effectiveness of a solution. Therefore, we
+hypothesized:
+H1. Messages with health solution information will be considered
+more compelling in prompting advocacy actions than messages with-
+out such information.
+Similar to impact information, we are also interested in identify-
+ing the most compelling types of health solutions and thus asked the
+second research question:
+RQ2. Which types of health solutions to climate change are consid-
+ered most compelling in prompting advocacy actions?
+Third, we tested multiple ways to enhance the call-to-action pre-
+sented after the impact and solution information. A call-to-action is
+an explicit request for the audience to engage in a certain action or
+behavior (e.g., ‘donate now’, ‘click to learn more’, etc.), often contain-
+ing assertive or directive language [26]. It can be accompanied by an
+incentive (e.g., ‘50% off’) [27] or appeal (e.g., ‘76% of people in your
+neighborhood save regularly’) [28] for the recommended action or
+behavior. Calls-to-action are frequently included as part of the design
+of environmental and climate change messages [29,30], but their
+effectiveness has not been speciﬁcally tested.
+Among the appeals to accompany a call-to-action, we were partic-
+ularly interested in descriptive norms [31] and external efﬁcacy
+[32,33]. Positive descriptive norms −when a majority of the refer-
+ence group engages in the behavior −have previously been found to
+increase climate change advocacy actions [34,35]. The evidence for
+negative descriptive norms −when only a minority of the reference
+group engages in the behavior −is more mixed. In their recommen-
+dations for climate change messaging, Fielding and Hornsey [36]
+advised against using negative descriptive norms. Hassell and Wyler
+[37], however, found that negative descriptive norms had a positive
+impact on willingness to take advocacy actions. Hence, there is a
+need to directly compare the effectiveness of these two descriptive
+norms appeals in the climate change context.
+External efﬁcacy refers to individuals’ beliefs about how respon-
+sive the government and political system are to public opinions and
+demands. This type of efﬁcacy has been shown to positively inﬂuence
+people’s willingness to take climate change advocacy actions [38,39].
+However, media coverage of climate change rarely includes this type
+of information [40,41], potentially creating the impression that gov-
+ernment actions are effective but not feasible, or that individual
+efforts cannot instigate such actions [42]. Thus, an external efﬁcacy
+appeal may be effective in motivating people to engage in advocacy
+action. Here, two different operationalizations of external efﬁcacy
+were created and tested, which we refer to as surplus efﬁcacy −
+which emphasizes that policy makers are responsive and individual
+actions are already making a difference −and deﬁcit efﬁcacy −which
+emphasizes that policy makers will be responsive once they learn
+what the public demands. This latter operationalization was inspired
+by past research which found that policymakers and their staff often
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030
+2
+do not have an accurate perception of their constituents’ preferences
+[43,44]. Our ﬁnal research question is concerned with the effective-
+ness of these different types of appeals.
+RQ3. Which type of call-to-action appeal is considered most compel-
+ling in prompting advocacy actions?
+2. Material and Methods
+2.1. Sample
+We surveyed a large, demographically diverse group of U.S.
+adults, quota-sampled to approximate a nationally representative
+sample (n = 7,596). Respondents were recruited by Climate Nexus
+Polling (June 26-30, 2020), which utilized several market research
+panels in the U.S. and recruited respondents using stratiﬁed sampling
+methods. Each panel vendor recruited individual respondents into
+their panel using various methods (cold calls, in person recruitment
+at shopping malls/events, email, online ads, etc.). Climate Nexus
+directly sampled from these panels and worked with all partners to
+de-duplicate and uniquely identify each respondent to eliminate
+overlap that may occur across panels. Climate Nexus utilizes ﬁxed
+stratum proportions of the population, sets quotas, and identiﬁes
+population parameters for sampling from their certiﬁed vendors.
+Respondents that met the speciﬁc quota requirements became part
+of the target population and a select random set of respondents were
+contacted (via email or application notiﬁcation) to take the survey.
+Contact and recruitment into the survey was directly handled by
+their panel vendors. Quotas for this study were set to match census
+parameters for sex, race, age, education, income, and geographic
+region. Demographic characteristics of the sample can be found in
+Table A.1 in Appendix A.
+2.2. Protocol
+All of the following procedures were reviewed and approved by
+the George Mason University Ofﬁce of Research Integrity and Assur-
+ance (IRBNet #1576828). After informed consent was obtained, par-
+ticipants engaged in a choice-based conjoint (CBC) exercise that
+revealed which message categories and speciﬁc message types were
+most likely to motivate them to contact their member of Congress.
+CBC is a method typically used to ascertain which attributes in a
+product or message are most inﬂuential on consumers’ or respond-
+ents’ decision-making.
+The messages all had the same basic structure, beginning with a
+section titled “The Problem” that brieﬂy described one type of health
+harm associated with climate change; followed by a second section
+titled “The Solution” that described a type of climate solution and its
+health beneﬁts; and concluding with a section titled “How you can
+help” that included a call to action which speciﬁcally asked partici-
+pants to contact their member of Congress and urge them to address
+this issue. Thus, each section represented a different information cat-
+egory and each category had multiple information types or variations
+of content that were randomly generated on each screen of the CBC
+exercise.1 On each screen, participants were presented two messages
+and asked to select the message that would make them most likely to
+contact their member of Congress (see Figure 1 for an example of
+how the messages were presented to participants). Every participant
+evaluated four pairs of randomly selected messages presented across
+multiple screens.
+The ﬁrst information category varied in terms of the type of health
+impact described; we tested 8 different types of health impacts
+derived from past research [13,46], including extreme heat, poor air
+quality, extreme weather, water-borne illness, food-borne illness,
+vector-borne illness, hunger and malnutrition, and mental health.
+The second information category varied in terms of the type of solu-
+tion proposed; we tested 7 different types of solutions partially
+inspired by those outlined by Project Drawdown [47], including solu-
+tions focused on more sustainable energy, cities and communities,
+consumption, nature spaces, transportation, buildings, and food. The
+third information category varied in terms of the language used to
+strengthen the call-to-action, including positive descriptive norms,
+negative descriptive norms, surplus efﬁcacy, and deﬁcit efﬁcacy. Each
+information category included a variation which omitted that cate-
+gory of information from the message in order to estimate the effect
+of excluding that information category (e.g., an appeal without
+impact information). The exact language used in the stimulus mate-
+rial is available in Tables 1-3.
+Using a Hierarchical Bayesian estimation method developed by
+Sawtooth Software [45], we used responses from the choice exercise
+to calculate individual, respondent-level utility scores for each spe-
+ciﬁc type of information within an information category and an
+importance score for each information category. In CBC analysis, utili-
+ties are numerical interval-level variables that represent the relative
+preference for each speciﬁc type of information within an informa-
+tion category, with higher values indicating greater preference. Utili-
+ties are scaled to sum to zero within each information category.
+Utilities cannot be compared between information categories. For
+example, we can compare the average utility for the poor air quality
+impact to the mental health impact, but we cannot compare the aver-
+age utility for the poor air quality impact to the energy solution.
+Importance scores allow us to compare the relative importance of
+each information category in shaping overall message preference.
+Importance scores represent the range in utility scores within each
+information category, such that information categories with larger
+ranges have larger importance scores. In sum, this process allowed us
+to identify the most compelling speciﬁc types of information within
+each information category, as well as the most compelling combina-
+tion of information out of a total of 360 different possible message
+combinations.
+3. Results
+Based on the average utility scores, we found that the most com-
+pelling type of health impact was poor air quality (RQ1), followed by
+food-borne illness, and extreme weather (Table 1). The least compel-
+ling impact was extreme heat.
+The most compelling type of solution focused on the health bene-
+ﬁts of transitioning to clean energy (RQ2), followed by more healthy
+cities/communities,
+and
+more
+healthy
+forms
+of
+consumption
+(Table 2). The least effective solution was focused on healthy food.
+The most effective call-to-action leveraged positive descriptive
+norms to encourage people to contact their member of Congress
+(RQ3), followed by negative descriptive norms and surplus efﬁcacy
+(Table 3). The least compelling call-to-action was the deﬁcit efﬁcacy
+statement.
+Importantly, the presence of each category of information, includ-
+ing solution information (H1), substantially increased the effective-
+ness
+of
+the
+appeal.
+When
+we
+excluded
+certain
+information
+categories, the effectiveness of the appeals declined greatly (indi-
+cated by the lower utility scores for the no information control within
+each information category). For example, this means that an appeal
+with both impacts and solutions together was more far more compel-
+ling than focusing on just impacts or just solutions alone.
+When we compared the relative inﬂuence of each information
+category, the solutions category had a greater impact on the overall
+effectiveness of an appeal than the impacts category (Table 4). The
+call-to-action category was the least inﬂuential of the three informa-
+tion categories we tested.
+1 In the language of CBC analysis, each information category represented an attribute
+and the information types represented different levels within an attribute (45).
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030
+3
+In a supplementary analysis, we found little variation in terms of
+how participants ranked the different types of information across
+race and party identiﬁcation (Tables B.1-B.8 in Appendix B). The air
+quality impact/energy solution/positive descriptive norm call-to-
+action combination was the most effective overall message for every
+racial and partisan subgroup with one exception: Republicans viewed
+the solution focused on cities and communities as slightly more com-
+pelling than the energy solution, but otherwise ranked the other
+information categories similarly to Democrats and Independents.
+4. Discussion
+Our ﬁndings extend prior research by helping to identify the spe-
+ciﬁc categories and types of information about climate change and
+health that are likely to generate greater public demand for policy-
+makers to address this issue. Importantly, we found that the inclusion
+of each information category (i.e., impact information, solution infor-
+mation, and call-to-action appeal) enhanced the effectiveness of the
+overall message. Of these categories, the solution information was
+the most important in determining overall message effectiveness,
+consistent with prior research showing that statements regarding
+solutions were perceived more positively than those regarding
+impacts [11], and that including information about solutions in cli-
+mate change communication is beneﬁcial [39,48]. Speciﬁcally, we
+found that the most compelling message is comprised of information
+about the negative impacts of climate change on air quality, how
+clean energy can address this problem, and how this solution is
+supported by and advocated for by most Americans. Moreover, we
+found that this message had consistently broad appeal across racial
+and partisan groups (see Appendix B).
+Although a previous study found that people viewed food- and
+water-borne illness as especially novel and worrisome health impacts
+of climate change [13], we found that poor air quality was more com-
+pelling in a message designed to increase advocacy. This may partly
+be due to the intuitive links between the burning of fossil fuels, air
+pollution, and respiratory illness. Surprisingly, we found that extreme
+heat was the least compelling impact, which may be due to the fact
+that many Americans fail to perceive the health risks associated with
+extreme heat, even those with increased vulnerability [46].
+To our knowledge, our study is the ﬁrst to evaluate public
+responses to different categories of solutions to address the health
+effects of climate change. We found that in the context of promoting
+advocacy on climate change, emphasizing the beneﬁts of clean
+energy was the most effective. This may be partly attributable to the
+heavy emphasis on energy-related actions in government efforts to
+educate people about individual mitigation behaviors [49]. Prior
+research has also found that people tend to underestimate the miti-
+gation potential of transportation and food-related actions, which
+could explain why these solutions were less compelling as a justiﬁca-
+tion for advocacy [50].
+Among the appeals accompanying the call-to-action, we found
+that descriptive norms were more effective than efﬁcacy appeals, and
+that positive descriptive norms were more compelling than negative
+descriptive norms. These ﬁndings accord with past research which
+Fig. 1. Example of how messages were presented to participants
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030
+4
+Table 1
+Rankings, means, and 95% conﬁdence intervals for impact information utilities.
+Type
+Text
+Rank
+Mean
+LLCI
+ULCI
+Poor air quality
+Climate change reduces air quality by increasing smog, smoke from more wildﬁres, pollen, and mold from
+higher humidity and ﬂooding. This can lead to more lung infections, asthma and allergy attacks, bronchi-
+tis, chest pains, and even death.
+1
+18.37
+17.69
+19.04
+Food-borne disease
+Climate change is causing higher water temperatures, heavier downpours, and more ﬂooding that can
+spread bacteria, viruses, and parasites from animal and human feces into ﬁelds where food is growing.
+People who eat contaminated food can suffer from diarrhea, vomiting, and in severe cases, paralysis,
+organ failure, and death.
+2
+14.91
+14.29
+15.53
+Extreme weather
+Climate change is causing increases in the frequency and severity of some extreme weather events such as
+major storms, ﬂoods, and droughts, which can lead to injury, displacement, reduced availability of safe
+food and water, and can make it harder to get medical care by damaging roads, bridges, and power lines.
+3
+13.06
+12.57
+13.55
+Water-borne disease
+Climate change is causing higher water temperatures, heavier downpours, and more ﬂooding that can
+spread bacteria, viruses, and parasites from animal and human feces into waterways. People who drink or
+swim in the contaminated water can suffer from diarrhea, vomiting, and in severe cases, paralysis, organ
+failure, and death.
+4
+10.96
+10.38
+11.54
+Vector-borne disease
+Climate change is increasing temperatures and changing rainfall in ways that increase the geographic range
+of disease-carrying mosquitoes, ﬂeas, ticks, and rodents that can spread harmful illnesses like Lyme dis-
+ease, West Nile virus, Dengue fever, Malaria, and Zika virus.
+5
+1.12
+0.47
+1.76
+Hunger and malnutrition
+The level of carbon dioxide in our air is increasing, and the resulting climate change is increasing tempera-
+tures, heavy rainfall, and ﬂooding. More carbon dioxide in the air decreases the nutritional value of food
+by causing plants to produce less protein, more starch and sugar, and take in fewer essential minerals.
+6
+-0.67
+-1.35
+0.01
+Mental health
+Climate change is causing increases in extreme weather events such as ﬂoods, droughts, and major storms.
+Many people exposed to the worst of these events experience severe stress and mental health effects
+including depression, anxiety, post-traumatic stress disorder (PTSD), and increases in suicidal thoughts.
+7
+-4.69
+-5.25
+-4.13
+Extreme heat
+Climate change is causing more very hot days, greater humidity, and longer, hotter, and more frequent heat
+waves, which can lead to heat-related illness and death from heat stroke and dehydration, and can make
+some chronic diseases worse.
+8
+-8.72
+-9.28
+-8.16
+Control (no impact info)
+N/A
+9
+-44.34
+-45.11
+-43.57
+Note: LLCI and ULCI represent the lower and upper levels of the 95% conﬁdence interval around the mean; Control means that information category was absent
+Table 2
+Rankings, means, and 95% conﬁdence intervals for solution information utilities.
+Type
+Text
+Rank
+Mean
+LLCI
+ULCI
+Energy
+Using cleaner forms of energy such as solar and wind power in homes, schools and businesses will give us
+cleaner air and water, and reduce the pollution that causes climate change.
+1
+27.25
+26.43
+28.06
+Cities and communities
+Improving the design of our communities by adding trees and parks, and making it easier and safer to get
+around on foot, bike and mass transit will help people become more physically active and lose weight,
+and reduce the pollution that causes climate change.
+2
+25.19
+24.58
+25.80
+Consumption
+Encouraging recycling and reusing materials at home, work, and in factories will give us cleaner air and
+water, save energy, reduce waste, and reduce the pollution that causes climate change.
+3
+23.27
+22.70
+23.84
+Nature spaces
+Restoring and protecting forests will give us cleaner air and water, and capture and store carbon dioxide,
+the main form of pollution that causes climate change.
+4
+14.53
+13.91
+15.15
+Transportation
+Using cleaner forms of transportation, such as electric vehicles and more fuel-efﬁcient airplanes will give us
+cleaner air and water, and reduce the pollution that causes climate change.
+5
+-7.10
+-7.74
+-6.47
+Buildings
+Upgrading our homes and buildings to be better insulated, use more energy-efﬁcient heating, cooling, and
+lighting will give us cleaner air−both outside and indoors−and reduce the pollution that causes climate
+change.
+6
+-7.32
+-7.93
+-6.71
+Food
+Encouraging local and organic farming, reducing food waste at stores and in restaurants, and encouraging
+consumption of more fruits and vegetables and less beef will help people eat more healthfully and reduce
+the pollution that causes climate change.
+7
+-14.04
+-14.99
+-13.09
+Control (no solution info)
+N/A
+8
+-61.77
+-62.52
+-61.03
+Note: LLCI and ULCI represent the lower and upper levels of the 95% conﬁdence interval around the mean; Control means that information category was absent
+Table 3
+Rankings, means, and 95% conﬁdence intervals for call-to-action information utilities.
+Type
+Text
+Rank
+Mean
+LLCI
+ULCI
+Positive descriptive norms
+Most Americans agree that we want healthy communities and a healthy climate, and many of us are
+taking action.
+1
+8.84
+8.39
+9.30
+Negative descriptive norms
+Most Americans agree that we want healthy communities and a healthy climate, but not enough of us
+are taking action.
+2
+6.85
+6.46
+7.24
+Surplus efﬁcacy
+The actions of people like you are already making a difference. Policymakers are listening.
+3
+4.66
+4.16
+5.17
+Control (no call-to-action info)
+N/A
+4
+-9.60
+-10.11
+-9.08
+Deﬁcit efﬁcacy
+Policymakers don’t know what we want, but they will listen if we tell them.
+5
+-10.76
+-11.29
+-10.23
+Note: LLCI and ULCI represent the lower and upper levels of the 95% conﬁdence interval around the mean; Control means that information category was absent
+5
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030
+found that positive descriptive norms are strongly associated with
+climate advocacy [34,35]. Interestingly, we found that the deﬁcit efﬁ-
+cacy information was the least effective call-to-action, and less com-
+pelling than the control version that omitted this information
+category. It is possible that some people found the suggestion that
+policymakers are simply unaware of constituent preferences to be
+implausible and reacted more negatively to this appeal as a result,
+though more research is needed to develop a more deﬁnitive expla-
+nation for this ﬁnding.
+Finally, the high degree of consistency in how participants ranked
+the various types of information across racial and partisan groups is
+notable given that climate change is a politically polarized issue. That
+said, it is important to be mindful that choice-based conjoint analysis
+only provides an estimate of the relative effectiveness of certain mes-
+sages compared to others. For example, although Republicans and
+Democrats ranked the messages similarly, it is still reasonable to
+expect that Democrats would be more responsive to the same mes-
+sage relative to Republicans given their higher willingness to engage
+in climate advocacy.
+Our study is not without limitations. Our ﬁndings rely upon par-
+ticipants' perceptions of which messages are most likely to motivate
+them to contact their member of Congress, and no observations of
+actual advocacy behavior in response to the messages tested were
+obtained. Although some validation studies suggest that preferences
+revealed through conjoint experiments correspond to actual behavior
+in the real world [51], the larger question of whether measures of
+perceived message effectiveness are valid predictors of actual mes-
+sage effectiveness remains a subject of debate [52]. Future research
+could address this limitation by testing a range of message combina-
+tions included in this study in a ﬁeld experiment to assess the eco-
+logical validity of our ﬁndings. Participants in our study were limited
+to adults in the United States. Given the importance of increasing
+public support for climate action globally [53], future research should
+endeavor to understand how well these ﬁndings generalize to other
+national contexts.
+The compelling climate-health information identiﬁed in our study
+is especially useful for the large numbers of health professionals who
+are interested in and willing to promote sustainability [54] and cli-
+mate actions [55−58]. Although some may worry that advocating for
+speciﬁc climate solutions could harm their credibility, research sug-
+gests that as long as experts advocate for popular solutions, such
+advocacy can actually enhance their perceived credibility relative to
+discussing impacts alone [51,52]. Furthermore, health professionals
+are especially well-positioned to communicate about climate change
+to a variety of audiences. For example, they can explain the health
+relevance of climate change and climate solutions to patients, clients,
+colleagues, and the general public; advocate to hospital systems and
+policy makers; and educate future practitioners [4]. Notably, a 2014
+survey found that primary care physicians were rated the most
+trusted source of information about the health effects of climate
+change, with the CDC as the second most trusted [9]. Thus, there
+exists a strong and established relationship between health profes-
+sionals and the lay public, as well as a commitment to viewing cli-
+mate and health as connected issues −both of which can facilitate
+the dissemination of climate change and health information.
+Increasing public demand for more ambitious government action
+to address climate change is essential to improving global health [2].
+Our study provides useful insights for health professionals and other
+advocates seeking to advance public engagement and political will
+around this issue, and we hope it catalyzes further research on how
+best to communicate the health implications of climate change.
+Author statement
+John Kotcher - Conceptualization, formal analysis, funding acqui-
+sition, investigation, methodology, project administration, supervi-
+sion, writing - original draft, writing - review & editing
+Lauren Feldman - Conceptualization, writing - review & editing
+Kate T. Luong - Writing - original draft, writing - review & editing
+James Wyatt - Funding acquisition, investigation, methodology,
+writing - review & editing
+Edward Maibach - Conceptualization, funding acquisition, writing
+- review & editing
+Declaration of Competing Interests
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgments
+We thank The Energy Foundation for providing grant funding to
+support this research. The funder had no role in the study design,
+data collection, analysis and interpretation of the data, the writing of
+the report, or in the decision to submit the article for publication.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2021.100030.
+References
+[1] Ebi KL, Balbus J, Luber G, Bole A, Crimmins A, Glass G, et al. Human health editors.
+In: Reidmiller DR, Avery CW, Easterling DR, Kunkel KE, Lewis KLM, Maycock TK,
+et al., editors. Impacts, Risks, and Adaptation in the United States: Fourth National
+Climate Assessment, Volume II [Internet]. Washington, DC, USA: U.S: Global
+Change Research Program; 2018. p. 539–71 Available from: doi:. doi: 10.7930/
+NCA4.2018.CH14.
+[2] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Beagley J, Belesova K, et al. The
+2020 report of the lancet countdown on health and climate change: responding
+to converging crises. Lancet 2021 Jan;397(10269):129–70.
+[3] Haines A, Kovats RS, Campbell-Lendrum D, Corvalan C. Climate change and
+human health: Impacts, vulnerability and public health. Public Health 2006
+Jul;120(7):585–96.
+[4] Maibach E, Miller J, Armstrong F, El Omrani O, Zhang Y, Philpott N, et al. Health
+professionals, the Paris agreement, and the ﬁerce urgency of now. J Clim Change
+Health 2021 Mar;1:100002.
+[5] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Belesova K, Berry H, et al. The 2018
+report of the Lancet Countdown on health and climate change: shaping the health
+of nations for centuries to come. Lancet [Internet]; [cited 2018 Nov 30]Available
+from http://www.sciencedirect.com/science/article/pii/S0140673618325947.
+[6] Fox M, Zuidema C, Bauman B, Burke T, Sheehan M. Integrating public health into
+climate change policy and planning: state of practice update. Int J Environ Res
+Public Health 2019 Jan3232;16(18).
+[7] Morton S, Pencheon D, Bickler G. The sustainable development goals provide an
+important framework for addressing dangerous climate change and achieving
+wider public health beneﬁts. Public Health 2019 Sep;174:65–8.
+[8] Leiserowitz A, Maibach E, Rosenthal S, Kotcher J, Bergquist P, Goldberg M, et al.
+Climate Change in the American Mind. New Haven, CT: Yale University and
+George Mason University; April 2020. p. 2020.
+[9] Maibach EW, Kreslake JM, Roser-Renouf C, Rosenthal S, Feinberg G, Leiserowitz
+AA. Do Americans understand that global warming is harmful to human health?
+Evidence from a national survey. Ann Glob Health 2015 May;81(3):396–409.
+[10] Kotcher J, Maibach E, Rosenthal S, Gustafson A, Leiserowitz A. Americans Increas-
+ingly Understand that Climate Change Harms Human Health. New Haven, CT:
+Yale University and George Mason UniversityYale Program on Climate Change
+Communication; 2020.
+Table 4
+Rankings, means and 95% conﬁdence intervals for importance scores
+Information category
+Rank
+Mean
+LLCI
+ULCI
+Solutions
+1
+44.29
+44.12
+44.45
+Impacts
+2
+35.63
+35.47
+35.78
+Call-to-action
+3
+20.09
+19.94
+20.24
+Note: LLCI and ULCI represent the lower and upper levels of the 95% conﬁdence inter-
+val around the mean
+6
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030
+[11] Maibach EW, Nisbet M, Baldwin P, Akerlof K, Diao G. Reframing climate change as
+a public health issue: an exploratory study of public reactions. BMC Public Health
+2010 Jun;10(1):299.
+[12] Kotcher J, Maibach E, Choi W-T. Fossil fuels are harming our brains: identifying
+key messages about the health effects of air pollution from fossil fuels. BMC Public
+Health 2019 Aug;19(1):1079.
+[13] Kotcher J, Maibach E, Montoro M, Hassol SJ. How Americans respond to informa-
+tion about global warming’s health impacts: evidence from a national survey
+experiment. GeoHealth 2018;2(9):262–75.
+[14] Myers T, Nisbet M, Maibach E, Leiserowitz A. A public health frame arouses hope-
+ful emotions about climate change. Clim Change 2012;113(3):1105–12.
+[15] Fischhoff B. Nonpersuasive communication about matters of greatest urgency:
+climate change. Environ Sci Technol 2007 Nov 1;41(21):7204–8.
+[16] Maibach E. Increasing public awareness and facilitating behavior change: Two
+guiding heuristics editors. In: Hannah L, Lovejoy T, editors. Climate Change and
+Biodiversity. 2nd ed. Yale University Press; 2019.
+[17] Dietz T, Gardner GT, Gilligan J, Stern PC, Vandenbergh MP. Household actions can
+provide a behavioral wedge to rapidly reduce US carbon emissions. Proc Natl
+Acad Sci 2009 Nov 3;106(44):18452–6.
+[18] Ockwell D, Whitmarsh L, O’Neill S. Reorienting climate change communication for
+effective mitigation forcing people to be green or fostering grass-roots engage-
+ment? Sci Commun 2009 Mar;30(3):305–27.
+[19] Wynes S, Motta M, Donner SD. Understanding the climate responsibility associ-
+ated with elections. One Earth 2021 Mar;4(3):363–71.
+[20] Han H, Barnett-Loro C. To Support a Stronger Climate Movement, Focus Research
+on Building Collective Power. Front Commun. 2018;3:55.
+[21] Leiserowitz A. Building public and political will for climate change action editor..
+In: Esty D, editor. A Better Planet: 37 Big Ideas for a Sustainable Future. Yale Uni-
+versity Press; 2019. p. 155–62.
+[22] Haines A. Health co-beneﬁts of climate action. Lancet Planet Health 2017 Apr 1;1
+(1):e4–5.
+[23] West JJ, Smith SJ, Silva RA, Naik V, Zhang Y, Adelman Z, et al. Co-beneﬁts of miti-
+gating global greenhouse gas emissions for future air quality and human health.
+Nat Clim Change 2013 Oct;3(10):885–9.
+[24] Hart PS, Feldman L. The beneﬁt of focusing on air pollution instead of climate
+change: how discussing power plant emissions in the context of air pollution,
+rather than climate change, inﬂuences perceived beneﬁts, costs, and political
+action for policies to limit emissions. Sci Commun 2021 Apr;43(2):199–224.
+[25] Witte K. Fear control and danger control: a test of the extended parallel process
+model (eppm). Commun Monogr 1994 Jun;61(2):113.
+[26] Reavey B, Puzakova M, Andras TL, Kwak H. The multidimensionality of anthropo-
+morphism in advertising: the moderating roles of cognitive busyness and asser-
+tive language. Int J Advert 2018 May;37(3):440–62.
+[27] Li H, Li A, Zhao S. Internet advertising strategy of multinationals in China. Int J
+Advert 2009 Jan 1;28(1):125–46.
+[28] Yoon HJ, Ferle CL, Edwards SM. A normative approach to motivating savings
+behavior: the moderating effects of attention to social comparison information.
+Int J Advert 2016 Sep 2;35(5):799–822.
+[29] Newman CL, Howlett E, Burton S, Kozup JC, Tangari AH. The inﬂuence of con-
+sumer concern about global climate change on framing effects for environmental
+sustainability messages. Int J Advert 2012 Jan;31(3):511–27.
+[30] Wilson RT, Lohmeier JH, Lustick DS, Chen RF. Using transit advertising to improve
+public engagement with social issues. Int J Advert 2020 Aug;0(0):1–27.
+[31] Cialdini RB, Reno RR, Kallgren CA. A focus theory of normative conduct: Recycling
+the concept of norms to reduce littering in public places. J Pers Soc Psychol
+1990;58(6):1015–26.
+[32] Balch GI. Multiple indicators in survey research: the concept" sense of political
+efﬁcacy". Polit Methodol 1974:1–43.
+[33] Finkel SE. Reciprocal effects of participation and political efﬁcacy: a panel analy-
+sis. Am J Polit Sci 1985;29(4):891–913.
+[34] Ballew MT, Goldberg MH, Rosenthal SA, Cutler MJ, Leiserowitz A. Climate change
+activism among latino and white Americans. Front Commun 2019;3.
+[35] Doherty KL, Webler TN. Social norms and efﬁcacy beliefs drive the Alarmed seg-
+ment’s public-sphere climate actions. Nat Clim Change 2016 May.
+[36] Fielding KS, Hornsey MJ. A social identity analysis of climate change and environ-
+mental attitudes and behaviors: insights and opportunities. Front Psychol [Inter-
+net] 2016 Feb 11;7 Available from: http://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4749709/.
+[37] Hassell HJG, Wyler EE. Negative descriptive social norms and political action:
+people aren’t acting, so you should. Polit Behav 2019 Mar;41(1):231–56.
+[38] Feldman L, Hart PS. Using political efﬁcacy messages to increase climate activism
+the mediating role of emotions. Sci Commun 2016 Feb;38(1):99–127.
+[39] Hart PS, Feldman L. The inﬂuence of climate change efﬁcacy messages and efﬁ-
+cacy beliefs on intended political participation. PLOS ONE 2016 Aug;11(8):
+e0157658.
+[40] Feldman L, Hart PS, Milosevic T. Polarizing news? Representations of threat and
+efﬁcacy in leading US newspapers’ coverage of climate change. Public Underst Sci
+2017 May;26(4):481–97.
+[41] Hart PS, Feldman L. Threat without efﬁcacy? Climate Change on U.S. Network
+News. Sci Commun. 2014 Jun;36(3):325–51.
+[42] Crosman KM, Bostrom A, Hayes AL. Efﬁcacy foundations for risk communication:
+how people think about reducing the risks of climate change. Risk Anal 2019;39
+(10):2329–47.
+[43] Broockman DE, Skovron C. Bias in perceptions of public opinion among political
+elites. Am Polit Sci Rev 2018 Aug;112(3):542–63.
+[44] Hertel-Fernandez A, Mildenberger M, Stokes LC. Legislative staff and representa-
+tion in congress. Am Polit Sci Rev 2019 Feb;113(1):1–18.
+[45] Orme B, Chrzan K. Becoming an Expert in Conjoint Analysis: Choice Modeling for
+Pros. Orem, UT: Sawtooth Software, Inc.; 2017.
+[46] USGCRP. In: Crimmins A,, editor. editor312 p, 2016, editor. The Impacts of Climate
+Change on Human Health in the United States: A Scientiﬁc Assessment. Washing-
+ton, DC: U.S. Global Change Research Program; 2016. editor312 p.
+[47] Solutions [Internet]. Project Drawdown.
+[cited 2021 May 17]. Available from:
+https://www.drawdown.org/solutions.
+[48] Feldman L, Hart PS. Is there any hope? How climate change news imagery and
+text inﬂuence audience emotions and support for climate mitigation policies.
+Risk Anal 2018;38(3):585–602.
+[49] Wynes S, Nicholas KA. The climate mitigation gap: education and government
+recommendations miss the most effective individual actions. Environ Res Lett
+2017 Jul;12(7):074024.
+[50] Wynes S, Zhao J, Donner SD. How well do people understand the climate impact
+of individual actions? Clim Change 2020 Oct;162(3):1521–34.
+[51] Hainmueller J, Hangartner D, Yamamoto T. Validating vignette and conjoint sur-
+vey experiments against real-world behavior. Proc Natl Acad Sci 2015 Feb;112
+(8):2395–400.
+[52] Nabi RL. On the value of perceived message effectiveness as a predictor of actual
+message effectiveness: an introduction. J Commun 2018 Oct 1;68(5):988–9.
+[53] Leiserowitz A, Carman J, Buttermore N, Rosenthal S, Mulcahy K. International
+Public Support for Climate Action. New Haven, CT: Yale Program on Climate
+Change Communication; 2021.
+[54] Hubbert B, Ahmed M, Kotcher J, Maibach E, Sarfaty M. Recruiting health profes-
+sionals as sustainability advocates. Lancet Planet Health 2020 Oct;4(10):e445–6.
+[55] Kotcher J, Maibach E, Miller J, Campbell E, Alqodmani L, Maiero M, et al. Views of
+health professionals on climate change and health: a multinational survey study.
+Lancet Planet Health 2021 May;5(5):e316–23.
+[56] Sarfaty M, Mitchell M, Bloodhart B, Maibach EW. A survey of African american
+physicians on the health effects of climate change. Int J Environ Res Public Health
+2014 Dec;11(12):12473–85.
+[57] Sarfaty M, Kreslake J, Ewart G, Guidotti TL, Thurston GD, Balmes JR, et al. Survey of
+international members of the american thoracic society on climate change and
+health. Ann Am Thorac Soc N Y. 2016 Oct;13(10):1808–13.
+[58] Sarfaty M, Kreslake JM, Casale TB, Maibach EW. Views of AAAAI members on
+climate change and health. J Allergy Clin Immunol Pract Amst 2016 Mar;4(2):
+333–5.
+7
+J. Kotcher, L. Feldman, K.T. Luong et al.
+The Journal of Climate Change and Health 3 (2021) 100030

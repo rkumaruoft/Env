@@ -1,0 +1,695 @@
+Research article
+TagedH1Escalating costs of billion-dollar disasters in the US: Climate change
+necessitates disaster risk reductionTagedEnd
+TagedPVijai Bholaa,b,*, Attila Hertelendya,c, Alexander Harta,d,e, Syafwan Bin Adnana,b,
+Gregory Ciottonea,bTagedEnd
+TagedPa Disaster Medicine Fellowship, , Boston, MA, USA
+b Harvard Medical School, Boston, MA, USA
+c Department of Information Systems and Business Analytics, College of Business, Florida International University. 11200 SW 8th St, Miami, Fl 33199, USA
+d Department of Emergency Medicine, Hartford Hospital, Hartford, CT, USA
+e University of Connecticut School of Medicine, Farmington, CT, USA
+TagedEnd
+TAGEDPA R T I C L E
+I N F O
+Article History:
+Received 30 July 2022
+Accepted 28 December 2022
+Available online 4 January 2023TagedEnd
+TAGEDPA B S T R A C T
+Introduction: The United States (US) spends a staggering amount on costs secondary to natural disasters, over
+$2 trillion between 1980 and 2021, during which time 15,347 disaster related deaths also occurred [1]. We
+assess the relationship between CO2, temperature, and the number and economic costs of billion-dollar
+disaster events in the US during this period.
+Materials & Methods: Data on the annual number of inﬂation-adjusted billion-dollar disasters in the US,
+global CO2 levels, average temperature, and fatalities were obtained from the National Oceanic and Atmo-
+spheric Administration (NOAA) for the period 1980−2021. Spearman’s correlation (rs) was calculated to ana-
+lyze the relationship between these variables.
+Results: Over this 41-year period, CO2 levels, temperature, and the number of billion-dollar disasters in the
+US all increased and are strongly correlated. The rate of events over this period increased along with
+increases in CO2 (Spearman’s correlation (rs)=0.841) and temperature (rs =0.748).
+Conclusions: CO2 levels and temperature have increased over the past 4 decades and are strongly positively
+correlated with the number of and total cost due to billion-dollar disasters. This strong correlation suggests
+that the annual number of events in the US will continue to increase along with their economic burden, so
+measures are needed to mitigate those costs. We recommend a focus on Disaster Risk Reduction (DRR) as an
+immediate cost savings measure, in keeping with United Nations Disaster Risk Reduction and UN Sustainable
+Development Goals recommendations. Additional research on the healthcare costs associated with natural
+disasters is needed.
+© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)TagedEnd
+TagedEndTagedPKeywords:
+Disaster risk reduction
+Climate change
+Disaster deaths
+Healthcare costs TagedEnd
+TagedH11. IntroductionTagedEnd
+TagedPBeginning in the late 1700s, the industrial revolution [2] ushered
+in a period of rapid economic expansion powered by fossil fuels, con-
+sequently increasing atmospheric CO2 concentrations. During the
+1800s, there emerged concepts of the interrelatedness between
+TagedEndTagedPatmospheric CO2 concentrations, changes in global temperature, and
+changes in climate [3−5]. Throughout the 1900s, appreciation of
+global warming and anthropogenic climate change increased [6,7]. A
+major consequence is the increase in the global frequency and sever-
+ity of natural disasters such as cyclones, heatwaves, heavy precipita-
+tion leading to ﬂoods, and drought [8]. The US has been no exception,
+battered by increasingly devastating and expensive disasters, espe-
+cially tropical cyclones, storms, and extreme heat/drought events,
+sometimes with accompanying wildﬁres [9−11].TagedEnd
+TagedPIn order to maintain a historical record of severe weather events
+and their economic impacts, the National Oceanic and Atmospheric
+Administration (NOAA) maintains a database under The National
+Center for Environmental Information (NCEI). NCEI has, since 1980,
+maintained a record of disasters which exceed a total of $1 billion in
+costs, such as hurricanes, drought and heat waves, inland ﬂoods,
+TagedEndTagedEndAbbreviations: BCR, Beneﬁt-cost-ratio; CMS, Centers for Medicare and Medicaid Serv-
+ices; CDC, Centers for Disease Control; DRR, Disaster Risk Reduction; FEMA, Federal
+Emergency and Management Agency; NASA, National Aeronautics and Space Adminis-
+tration; NCEI, National Centers for Environmental Information; NOAA, National Oce-
+anic and Atmospheric Administration; NIBS, National Institute of Building Sciences;
+UNDRR, United Nations Ofﬁce for Disaster Risk Reduction; UNSDG, United Nations Sus-
+tainable Development Goals
+TagedEndTagedEnd* Corresponding author at: BIDMC. Beth Israel Deaconess Medical Center. 330
+Brookline Avenue, Boston MA 02215, USA.
+E-mail address: vijaibhola@gmail.com (V. Bhola).
+https://doi.org/10.1016/j.joclim.2022.100201
+2667-2782/© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+TagedEndThe Journal of Climate Change and Health 10 (2023) 100201
+TagedFigure
+TagedEnd
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+TagedFigure
+TagedEnd
+TagedEndTagedPsevere local storms, wildﬁres, crop freeze events, winter storms and
+cold waves. NCEI performs cost assessments using public and private
+data sources, such as the Insurance Services Ofﬁce, Federal Emer-
+gency and Management Agency (FEMA), US Department of Agricul-
+ture,
+National
+Interagency
+Fire
+Center,
+Energy
+Information
+Administration, US Army Corps, and state agencies. Costs which are
+factored in include physical damage to property; infrastructure such
+as roads, bridges, and offshore energy platforms; asset classes such as
+vehicles and contents of buildings; agricultural losses; wildﬁre sup-
+pression costs and disaster restoration; and time element losses such
+as business interruption.TagedEnd
+TagedPThese costs therefore represent a combination of immediate, sub-
+acute, and longer-term restoration estimates. What they do not
+reﬂect, however, are factors such as natural capital, or loss of life, and
+therefore signiﬁcantly underestimate the true cost of disasters [12].TagedEnd
+TagedPBillion-dollar disasters can serve as a uniquely useful metric, spe-
+ciﬁcally identifying large magnitude disasters. Another economic
+aspect of disasters that draws little attention is the increased impact
+on the already overburdened US healthcare system [13−18]. During
+the 19900s there was an important international paradigm shift from
+the concept of Disaster Management to Disaster Risk Reduction
+(DRR). DRR emphasizes understanding societies’ risks during disas-
+ters and taking steps to decrease disasters themselves and reduce the
+impact of disasters on society [19−24]. Institution of DRR measures
+has been extensively studied in the US, and has shown that investing
+in up front disaster research and preventive measures can greatly
+reduce the economic impact of natural disasters. The National Insti-
+tute of Building Sciences (NIBS), funded by three federal and four pri-
+vate sector agencies, released the ﬁrst Natural Hazard Mitigation
+Saves study in 2005. It estimated a beneﬁt-cost-ratio (BCR) for miti-
+gation measures of 4:1, meaning four dollars saved for every dollar of
+mitigation [19]. This report has since been updated and the 2019
+NIBS Mitigation Saves report indicates that disaster mitigation meas-
+ures can have an overall BCR of 11:1 [24]. This is achieved through
+building and infrastructure measures such as adopting the latest
+building codes or utilization of above-code designs; private sector
+building retroﬁts; retroﬁtting critical disaster infrastructure lifelines
+such as telecommunications, roads, power, and water; and increasing
+federal grants directed toward mitigation measures. For example,
+Greenville Utilities of North Carolina utilized a grant to raise a berm
+and ﬂoodwall around its water treatment plant, which therefore was
+protected from 3-foot ﬂoodwaters during Hurricane Matthew in
+2016 by a simpler, competitively low-cost mitigation measure. Such
+measures represent comparatively simple but markedly cost-effec-
+tive strategies to save money and lives, and are also in keeping with
+the recommendations from the United Nation Disaster Risk Reduc-
+tion (UNDRR) goals as well as the United Nations Sustainable Devel-
+opment Goals (UNSDG [21,22]. Our study therefore set out to assess
+and highlight the trend of costs due to disasters in the US between
+1980 and 2021, assess any possible statistical relationship with the
+climate change parameters of CO2 and temperature, and make a case
+for greater need for DRR to reduce the economic burden of disasters.
+We mention the ﬁnancial impact of disasters on healthcare costs to
+highlight its importance, but more in-depth discussion of healthcare
+speciﬁcally is beyond the scope of this study.TagedEnd
+TagedH12. Materials and methodsTagedEnd
+TagedH22.1. Data procurementTagedEnd
+TagedPEconomic disaster costs were obtained from publicly available data
+from NOAA. Under the NCEI (National Center for Environmental Infor-
+mation), data on the number and costs of disasters which crossed the
+billion-dollar threshold have been kept since 1980 [25]. NCEI monitors
+the cost impacts of hurricanes, drought and heat waves, inland ﬂoods,
+severe local storms, wildﬁres, crop freeze events, winter storms, and
+TagedEndTagedPcold waves. Importantly, to ensure costs can be compared over the
+time mentioned, the Adjusted Consumer Price Index (CPI) [26,27] is
+used. The CPI can be deﬁned as the average change over time in prices
+paid for a representative market basket of goods and services and is
+affected by inﬂation. By using Adjusted CPI ﬁnancial data, decadal costs
+can be better compared over the time period in question. Global tem-
+perature data were obtained from NOAA. Temperature here is deﬁned
+as the average global temperature change, compared to the overall
+average of twentieth century levels, in degrees Celsius. CO2 level data
+(in parts per million, ppm) were also obtained from NOAA’s Global
+monitoring laboratory, Mauna Loa Observatory and ‘Our World in Data’,
+a publicly available database, which also collates data from NOAA
+[28,29]. Death data is also maintained by NCEI’s Storm Events Database
+[30,31], which compiles fatality statistics using media, insurance, law
+enforcement, and county, state, and federal reporting.TagedEnd
+TagedH22.2. Data analysisTagedEnd
+TagedPStatistical analysis was performed using Statistical Analysis Soft-
+ware (SAS). Spearman’s Correlations over the period from 1980 to
+2021 were performed between the number of billion-dollar disasters
+and global temperature and global CO2 concentration changes. The
+relationship between CO2 concentrations and temperature also was
+assessed. Sub-analysis correlations were also made between the
+roughly double decade periods 1980−2020 and 2001−2021. The
+choice of Spearman’s correlation (rs) was based on its ability to assess
+a monotonic relationship between two variables, even when the rela-
+tionship is nonlinear, distribution free and with a small sample size,
+as was applicable to our data. The period 1980−2021 was chosen
+because this represented the period of reliable data availability. Given
+the positive correlations within this period, post hoc sub-analyses
+into double decadal and decadal periods were performed to investi-
+gate for any change in the strength of the associations between
+events, temperature, and CO2 concentrations, over these smaller
+time periods. This explored the possibility of not just linear, but non-
+linear or exponential correlations.TagedEnd
+TagedH13. ResultsTagedEnd
+TagedH23.1. Relationship between billion-dollar disasters and temperatureTagedEnd
+TagedPFig. 1 shows that during the period 1980−2021, temperature lev-
+els, indicated on the right y-axis) increased steadily, by almost 1 °Cel-
+sius. On the left y-axis, we also see a steady increase in billion-dollar
+disasters, from just 3 in 1980 to 22 in 2020.TagedEnd
+TagedPTable 1 shows the statistical relationships between numbers of
+billion-dollar disasters, and change in temperature over the period
+1980−2021, as well as for the roughly two double decade periods
+1980−2000 and 2001−2021.Table 1 shows that there is a robust cor-
+relation coefﬁcient of 0.78 between temperature and number of bil-
+lion-dollar disasters during the period 1980−2021. Furthermore, if
+we were to examine how this relationship changes over time, we see
+that the strength of the correlation increases as temperature
+increases. Between 1980−2000, rs =0.136, but for 2001−2021, rs
+increases to 0.576. This increase in correlation suggests that as tem-
+perature increases, there is not just a proportional, but exponential
+increase in events, within the studied range.TagedEnd
+TagedH23.2. Relationship between billion-dollar disasters and CO2 levelsTagedEnd
+TagedPLooking at the left y-axis of Fig. 2, we see that CO2 levels have
+steadily increased over the period 1980−2021, increasing from
+338.7 ppm in 1980 to 416.4 in 2021, whilst the right y-axis represents
+the increase in billion-dollar disasters. Table 2 shows the statistical
+relationship between the number of billion-dollar disasters and CO2
+over the period 1980−2021 as well as during the double decade
+TagedEndV. Bhola, A. Hertelendy, A. Hart et al.
+The Journal of Climate Change and Health 10 (2023) 100201
+2
+TagedEndTagedPperiods 1980−2000, and 2001−2021. Table 2 shows that the statisti-
+cal correlation between CO2 levels and number of billion-dollar dis-
+asters is strong, rs = 0.841.TagedEnd
+TagedPBreaking this down into roughly double decade periods, we do see
+an increasing correlation between CO2 levels and events as CO2 lev-
+els increase. Between 1980−2000, rs = 0.505, but between 2001 and
+2021, rs increases to 0.871. This again supports an exponential
+increase in events with increasing CO2 levels.TagedEnd
+TagedH23.3. Relationship between temperature and CO2 concentrationTagedEnd
+TagedPThe graph in Fig. 3 displays the relationship between CO2 levels
+on the left y-axis and temperature change on the right y-axis, demon-
+strating this close correlation. Table 3 shows the statistical relation
+between CO2 levels and temperature change over the period 1980
+−2021, as well as during the roughly double decade periods 1980
+−2000 and 2001−2021. In Table 3 we see that statistically there is a
+very
+strong correlation between CO2
+and temperature,
+0.916
+between 1980 and 2021. Looking at the two roughly double decade
+periods, this correlation increases as CO2 levels increase, with
+rs = 0.642 from 1980 to 2000, increasing to 0.789. in 2001−2021.TagedEnd
+TagedH23.4. Overview, by decadal periods and 5-year period of annualized
+events, of costs, deaths, CO2 and temperatureTagedEnd
+TagedPTable 4 modiﬁed from NCEI data [1,] outlines the average events
+and deaths per year for the four decadal periods between 1980 and
+TagedFigure
+Fig. 1. Number of Billion Dollar Disasters in the US between 1980 and 2021 vs change in Global Temperature.TagedEnd
+TagedEnd
+Table 1
+Spearman’s Correlations between Number of Billion Dollar
+Disasters in the US between 1980 and 2021 vs change in
+Global Temperature.
+Time Period
+Spearman’s Correlation
+N
+P Value
+1980−2021
+0.78
+42
+<0.001
+1980−2000
+0.136
+21
+0.5568
+2001−2021
+0.576
+21
+0.0063
+TagedFigure
+Fig 2. Number of Billion Dollar Disasters in the US between 1980 and 2021 vs change in CO2.TagedEnd
+TagedEndV. Bhola, A. Hertelendy, A. Hart et al.
+The Journal of Climate Change and Health 10 (2023) 100201
+3
+TagedEndTagedP2019, and adds average annual events and deaths for the 5-year
+period 2017−2021. From 1980−1989, there were just 3.1 events per
+year and 297 deaths per year, and this was at an annual yearly tem-
+perature change of 0.277 and yearly CO2 level of 345.5 ppm. By 2010
+−2019, yearly CO2 increased to 400.2, and temperature change
+increased to 0.791. This rise was associated with 12.8 annual events,
+and annual deaths of 523. This has accelerated within the last 5 years
+as events increased to 17.8 per year, with 911 deaths per year, also
+associated with an increase of CO2 to 411.4. This shortened observa-
+tion period saw events increase to 17.8 per year and deaths increase
+to 911 per year. These 5- and 10-year views illustrate the increasing
+rate of number of events and also highlight the increasing loss of life
+over this time.TagedEnd
+TagedH23.5. Overview of the economic and human impact of the three highest-
+impact types of disasters (tropical cyclones, severe storms, and drought/
+heatwaves), from 1980 to 2021TagedEnd
+TagedPNatural disasters have become an increasingly prominent occur-
+rence within the US, with different disaster categories exerting differ-
+ing impacts, shown in Table 5. Tropical cyclones are the costliest in
+terms of both ﬁnances and human life, accounting for 52.6% of all
+costs (1157.1 / 2199.7), and 43.7% of all deaths (6708 / 15,347). Severe
+storms are the most common event at 47% (152 / 323), but with the
+lowest average cost per event at $2.3B. The highest death tolls are
+due to tropical cyclones with 43.7% (6708 / 15,347) followed next by
+drought/heat wave events at 27% (4139 / 15,347) and then severe
+storms at 12.8% (1972 / 15,347) [1].TagedEnd
+TagedH14. DiscussionTagedEnd
+TagedPOver the last four decades, we have seen signiﬁcant increases in
+the number of billion-dollar disasters, total attributable cost per year,
+TagedEndTagedPand their frequency, severity, and diversity. This increase is closely
+correlated with increases in global temperature and CO2 concentra-
+tions. Of particular concern, the frequency of billion-dollar events is
+increasing on an almost yearly basis. The number of events per year,
+and total cost of disasters per year, are strongly correlated with
+increases in temperature and CO2. This can be seen by comparing the
+two double decade periods including 1980−1999 and 2000−2021, as
+described above (Tables 1, 2 and 3).TagedEnd
+TagedPOf interest, the CPI-adjusted costs per year have increased over
+time. As illustrated in Table 4, annual disaster cost within each of the
+last 4 decades increased steadily: $19.5B, $29.8B, $55.8B, $89.2B. Fur-
+thermore, the annual average for the last 5 years has been even more
+expensive, at $153.0B. This closely supports the idea that as CO2 lev-
+els increase, there is an ever-increasing cost associated with each
+increment in CO2 level and corresponding temperature change. Not
+only is cost per year on average increasing, but cost per event, and
+numbers of deaths per year, also have increased steadily. For exam-
+ple, if we look at decade 1 (1980−1989), we see a mean yearly CO2
+level of 354.54 ppm, which is associated with a mean yearly tempera-
+ture change of 0.277°. This was associated with a cost per year of
+$19.5 B, and deaths per year of 297. By decade 4, the mean yearly
+CO2 increased to 400.23 ppm, which was associated with a mean
+yearly temperature of 0.791°, but that increased translated into a
+more than fourfold increase in disaster cost of $89.2 B, and almost
+double the death rate to 523. However, increases within just the last
+ﬁve years 2017−2021 raise the concern for an even steeper environ-
+mental change to human cost factor. Within just this 5-year interval,
+mean CO2 increased by a seemingly innocuous 11 ppm over decade
+4, to 411.48, which translated into a 0.1° temperature increase, to
+0.898. However, within just this period, yearly average disaster costs
+and deaths both almost doubled, to $153B per year and 911 deaths
+per year.TagedEnd
+TagedEnd
+Table 2
+Spearman’s Correlations between Number of Billion Dollar Dis-
+asters in the US between 1980 and 2021 vs change in CO2
+levels.
+Time Period
+Spearman’s Correlation
+N
+P Value
+1980−2021
+0.841
+42
+<0.0001
+1980−2000
+0.505
+21
+0.194
+2001−2021
+0.871
+21
+<0.0001
+TagedFigure
+Fig 3. Global CO2 concentration change vs change in temperature between 1980 and 2021.TagedEnd
+TagedEnd Table 3
+Spearman’s correlation between Global CO2 concentration change vs change in tem-
+perature between 1980 and 2021.
+Spearman’s correlation between global atmospheric CO2 levels and temperature
+Time Period
+Spearman’s Correlation
+N
+P Value
+1980−2021
+0.916
+42
+<0.0001
+1980−2000
+0.642
+21
+0.0017
+2001−2021
+0.789
+21
+<0.0001
+TagedEndV. Bhola, A. Hertelendy, A. Hart et al.
+The Journal of Climate Change and Health 10 (2023) 100201
+4
+TagedPThese ﬁndings are in keeping with the increased correlation in the
+roughly second double decade period over the ﬁrst double decade
+period (Tables 1, 2 and 3), suggesting that the relationship is nonlin-
+ear and is following a more exponential pattern. This concerning pat-
+tern suggests less predictability regarding the consequences of future
+disasters. If an ever tightening, exponential relationship between
+CO2 levels, temperature, and disasters continues, this could translate
+into increased disaster frequency, severity, unpredictability, eco-
+nomic and healthcare costs, healthcare utilization and deaths in
+America.TagedEnd
+TagedPAs an example of the tremendous multistate impact of a billion-
+dollar disaster, in June 2021, the historic Paciﬁc Northwest heat
+dome struck, during which Portland, Oregon saw a record high of
+116° Fahrenheit. This single disaster led to 229 deaths and $8.9B in
+damages, and the event is considered virtually impossible in the
+absence of anthropogenic climate change [11]. This event led to a
+69 times increase in heat related emergency room visits between
+June 25−30, 2021 compared to the same period in 2019. However,
+despite the astronomic disaster recovery costs, there is still a paucity
+of economic data regarding the costs to the healthcare system [13].TagedEnd
+TagedPThere is an unseen, intermediate term beneﬁt of disaster risk
+reduction, and that is the cost savings from mitigation, as noted in
+the Introduction. Additional research is needed to assess the cost
+impact speciﬁcally on the healthcare system. The health care eco-
+nomic burden due to climate change and fossil fuel use is poorly cal-
+culated [13]. The latter is of particular importance as US health care
+spending totaled $4.1 trillion in 2020, or 19.7% of US GDP [1,32] so
+even a fraction of this is economically signiﬁcant.TagedEnd
+TagedPHowever, to mitigate the economic impacts of disasters in a more
+comprehensive manner, policies for combating CO2 emissions and
+therefore temperature change are required. The UNSDG emphasizes
+the need to keep temperature below the target of 1.5 °Celsius above
+preindustrial levels, as outlined in the 2015 Paris agreement [23], and
+lists this as a metric to combat climate change while highlighting the
+need for climate ﬁnance.TagedEnd
+TagedPFraming disasters in this economic light can bring more attention
+and motivation for change as economic concerns tends to be the
+number one priority of US voters [33,34], and potentially can serve to
+alter policymakers’ decisions. The idea of disaster risk reduction as a
+cost saving opportunity is a strong potential motivator to policy-
+makers [35,]. Loss of human life due to disasters is another conse-
+quence which is less emphasized but requires focus and attention in
+keeping with the UNDRR goals [21]. The 2015 Paris agreement
+focuses on climate funding, reducing carbon emissions, and targeting
+TagedEndTagedPa temperature target under 1.5° of warming. Keeping with these tar-
+gets as outlined by the UNSDG [22,23] also should decrease human
+and economic costs.TagedEnd
+TagedH15. LimitationsTagedEnd
+TagedPClimate science itself has its inherent challenges. Data collection is
+typically retrospective. Randomization and control of different
+approaches are not possible since there is only one planet. NOAA esti-
+mates that billion-dollar disasters account for 80% of total US disaster
+costs but using only the cost of billion-dollar disasters as was done in
+this paper underestimates cost of disasters related to climate change.
+NCEI costs also do not capture losses due to natural capital assets,
+loss of life, utilization burden to the healthcare system, or health care
+economic costs. Finally, another limitation is that CO2 is the only
+greenhouse gas considered in this study because it is well studied,
+has a long half-life, historically been attributed to temperature
+change, and accounts for 79% of all US greenhouse gas emissions [19].TagedEnd
+TagedH16. ConclusionsTagedEnd
+TagedPIn conclusion, we report strong and increasing correlations
+between temperature and CO2 levels, and with the economic cost of
+disasters in the US. Furthermore, the strength of the correlations
+seem to be increasing with increases in temperature and CO2 levels
+over time. We highlight that the economic impact of natural disasters
+in the US is staggering, tallying over $2.1 trillion over the last
+42 years.TagedEnd
+TagedPPoorly appreciated factors include the economic impact on the
+health care system and the number of fatalities attributable to these
+disasters. Finally, we also recommend a national focus on DRR as a
+cost savings measure.TagedEnd
+TagedH1Declaration of Competing InterestTagedEnd
+TagedPThe authors declare the following ﬁnancial interests/personal
+relationships which may be considered as potential competing inter-
+ests:TagedEnd
+TagedPVijai Bhola reports statistical analysis was provided by Harvard
+University Harvard Catalyst. One of the authors, Dr Atilla Hertelendy
+serves an editor on The Journal of Climate Change and Health.TagedEnd
+TagedEnd
+Table 4
+Number of events and number of deaths per year, along with average yearly temperature and CO2, over 1980−2021, grouped into decadal periods (from
+1980 to 2019), and the subsequent ﬁve-year period (2017−2021).
+Time Period
+Total events
+Events/Year
+Costs/Year/Billions
+Deaths/Year
+Avg Yearly Temp change
+Avg yearly CO2 (ppm)
+1980s (1980−1989)
+29
+3.1
+19.5
+297
+0.277
+345.54
+1990s (1990−1999)
+53
+5.5
+29.8
+306
+0.409
+360.46
+2000s (2000−2009)
+63
+6.7
+55.8
+310
+0.593
+378.58
+2010s (2010−2019)
+123
+12.8
+89.2
+523
+0.791
+400.23
+Last 5 Years (2017−2021)
+86
+17.8
+153
+911
+0.898
+411.48
+All Years (1980−2021)
+323
+7.7
+52.4
+365
+0.536
+373.85
+TagedEnd
+Table 5
+Breakdown of the top three categories of billion-dollar disasters by economic and loss of life impacts 1980−2021.
+Disaster Type
+Events
+Percentage Frequency
+Total Costs $Billions
+Percentage total costs
+Cost/Event/ Billions
+Deaths
+Tropical Cyclone
+57
+17.6
+1157.1
+52.6
+20.3
+6708
+Severe Storm
+152
+47.1
+344.8
+15.7
+2.3
+1972
+Drought/heatwave
+29
+9.0
+291.1
+13.2
+10.0
+4139
+All Disasters
+323
+100
+2199.7
+100
+6.8
+15,347
+TagedEndV. Bhola, A. Hertelendy, A. Hart et al.
+The Journal of Climate Change and Health 10 (2023) 100201
+5
+TagedH1AcknowledgementsTagedEnd
+TagedPThis work was conducted with support from Harvard Catalyst | The
+Harvard Clinical and Translational Science Center (National Center for
+Advancing Translational Sciences, National Institutes of Health Award
+UL1 TR002541) and ﬁnancial contributions from Harvard University
+and its afﬁliated academic healthcare centers. The content is solely the
+responsibility of the authors and does not necessarily represent the
+ofﬁcial views of Harvard Catalyst, Harvard University and its afﬁliated
+academic healthcare centers, or the National Institutes of Health.TagedEnd
+TagedH1Supplementary materialsTagedEnd
+TagedPSupplementary material associated with this article can be found
+in the online version at doi:10.1016/j.joclim.2022.100201.TagedEnd
+TagedH1ReferencesTagedEnd
+TagedP [1] Smith AB, Arndt D, Crouch J, Blunden J, Lindsey R. National Oceanic and Atmo-
+spheric Administration. 2021 U.S. billion-dollar weather and climate disasters in
+historical context; 2022. [Internet] [cited 2022 Apr 29]. Available from: https://
+www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-
+and-climate-disasters-historicalTagedEnd.
+TagedP [2] The Editors Encyclopaedia Brittanica. Industrial revolution | deﬁnition, history,
+dates, summary, & facts. The Encyclopedia Britannica; 2022. [Internet][citedJun
+2]Available from: https://www.britannica.com/event/Industrial-RevolutionTagedEnd.
+TagedP [3] Ortiz JD, Jackson R. Understanding Eunice Foote’s 1856 experiments: heat absorp-
+tion by atmospheric gases. R Soc J Hist Sci 2020;76(1):67–84 [Internet] Aug 26
+[cited 2022 Jun 2]. Available from: https://royalsocietypublishing.org/doi/full/
+10.1098/rsnr.2020.0031TagedEnd.
+TagedP [4] Arrhenius S. On the inﬂuence of carbonic acid in the air upon the temperature of
+the ground. Lond, Edinburgh, Dublin Philos Mag J Sci 1896;41(251):237–76
+[Internet] Apr 8 [cited 2022 May 25]. Available from: https://www.tandfonline.
+com/doi/abs/10.1080/14786449608620846TagedEnd.
+TagedP [5] Fourier JBJ. On the temperatures of the terrestrial sphere and interplanetary
+space. Memoires de l’Academie (royale) des sciences de l’Institut de France 1827
+[Internet] [cited 2022 Jun 2]. Available from: www.wmc.care4free.net/sci/fourierTagedEnd.
+TagedP [6] Callendar GS. The artiﬁcial production of carbon dioxide and its inﬂuence on tem-
+perature. Q J R Meteorolog Soc 1938;64(275):223–40 [Internet] Apr 1 [cited 2022
+Jun
+2].
+Available
+from:
+https://onlinelibrary.wiley.com/doi/full/10.1002/
+qj.49706427503TagedEnd.
+TagedP [7] Plass GN. The carbon dioxide theory of climatic change. Tellus A: Dyn Meteorol
+Oceanogr 1956;8(2):140–54 [Internet] May 1 [cited 2022 Jun 2]. Available from:
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.2153-3490.1956.tb01206.xTagedEnd.
+TagedP [8] Masson-Delmotte V., Zhai P., Chen Y., Goldfarb L., Gomis M.I., Matthews J.B.R., et
+al. Intergovernmental panel on climate change policymaker summary 2021. 2021
+[cited 2022 Jan 30]; Available from: www.ipcc.ch.TagedEnd
+TagedP [9] Hsiang S, Kopp R, Jina A, Rising J, Delgado M, Mohan S, et al. Estimating economic
+damage from climate change in the United States. Science 2017;356(6345):1362–
+9 (1979) [Internet] Jun 30 [cited 2022 Apr 29]. Available from: https://www.sci-
+ence.org/doi/10.1126/science.aal4369TagedEnd.
+TagedP[10] Shultz JM, Kossin JP, Hertelendy A, Burkle F, Fugate C, Sherman R, et al. Mitigating
+the twin threats of climate-driven Atlantic hurricanes and COVID-19 transmis-
+sion. Disaster Med Public Health Prep 2020;14(4).TagedEnd
+TagedP[11] World Weather Attrition. Western North American extreme heat virtually impos-
+sible without human-caused climate change [Internet]. 2021 [cited 2022 May
+22]. Available from: https://www.worldweatherattribution.org/western-north-
+american-extreme-heat-virtually-impossible-without-human-caused-climate-
+change/.TagedEnd
+TagedP[12] National Centers for Environmental Information. Billion-dollar disasters: calculat-
+ing the costs [Internet]. 2021 [cited 2021 Dec 6]. Available from: https://www.
+ncdc.noaa.gov/monitoring-references/dyk/billions-calculations.TagedEnd
+TagedP[13] Salas RN, Friend TH, Bernstein A, Jha AK. Adding a climate lens to health policy in
+the United States. Health Aff 2020;39(12):2063–70 [Internet]Dec 7 [cited 2021
+Dec 4]. doi: 10.1377/hlthaff.2020.01352.TagedEnd
+TagedP[14] Schramm PJ, Vaidyanathan A, Radhakrishnan L, Gates A, Hartnett K, Breysse P,
+et al. Heat-related emergency department visits during the northwestern heat
+wave — United States, June 2021. Centers Dis Control Morb Mortal Wkly Rep
+TagedEndTagedP2021;70(29):1020–1 [Internet] Jul 23 [cited 2022 May 22]. Available from:
+https://www.cdc.gov/mmwr/volumes/70/wr/mm7029e1.htmTagedEnd.
+TagedP[15] Emanuel EJ, Fuchs VR. The perfect storm of overutilization. JAMA 2008;299
+(23):2789–91 [Internet] Jun 18 [cited 2022 May 24]. Available from: https://jama-
+network.com/journals/jama/fullarticle/182076TagedEnd.
+TagedP[16] Segal JB, Sen AP, Glanzberg-Krainin E, Hutﬂess S. Factors associated with overuse
+of health care within US health systems: a cross-sectional analysis of medicare
+beneﬁciaries from 2016 to 2018. JAMA Health Forum 2022;3(1):e214543 [Inter-
+net]Jan 4 [cited 2022 May 24]−e214543. Available from: https://jamanetwork.
+com/journals/jama-health-forum/fullarticle/2788097TagedEnd.
+TagedP[17] Heo J, Adams PJ, Gao HO. Public health costs of primary PM2.5 and inorganic
+PM2.5 precursor emissions in the United States. Environ Sci Technol 2016;50
+(11):6061–70 [Internet] Jun 7 [cited 2022 May 22]. Available from: https://
+pubmed.ncbi.nlm.nih.gov/27153150/TagedEnd.
+TagedP[18] Sorensen C, House JA, O’Dell K, Brey SJ, Ford B, Pierce JR, et al. Associations
+between wildﬁre-related PM2.5 and intensive care unit admissions in the United
+States, 2006−2015. Geohealth 2021;5(5).TagedEnd
+TagedP[19] National Institute of Building Sciences. Natural hazard mitigation saves: an inde-
+pendent study to assess the future savings from mitigation activities. [Internet]
+[cited 2022 May 25]. Available from: https://www.nibs.org/reports/natural-haz-
+ard-mitigation-saves-independent-study-assess-future-savings-mitigationTagedEnd.
+TagedP[20] International Strategy for Disaster Reduction, United Nations. Living with risk. A
+global review of disaster reduction initiatives 2004 version [Internet]. [cited 2022
+Sep 4]. Available from: https://web.archive.org/web/20040803191318/http://
+www.unisdr.org/eng/about_isdr/bd-lwr-2004-eng.htmTagedEnd
+TagedP[21] United Nations Ofﬁce for Disaster Risk Reduction. Sendai framework for disaster
+risk reduction 2015 - 2030 [Internet]. [cited 2022 Jun 1]. Available from: https://
+www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-
+2030TagedEnd
+TagedP[22] United Nations. The sustainable development goals (SDGs), 2021 | United Nations.
+UN; 2021. [Internet] [cited 2022 Jun 15]. Available from: https://unstats.un.org/
+sdgs/report/2021/TagedEnd.
+TagedP[23] United Nations Framework Convention on Climate Change. The Paris Agreement.
+New York, 2016. Available at https://unfccc.int/process-and-meetings/the-paris-
+agreement/the-paris-agreement.TagedEnd
+TagedP[24] National Institute of Building Sciences. Natural hazard mitigation saves 2019
+report. 2019. Available from: https://www.nibs.org/ﬁles/pdfs/NIBS_MMC_Mitiga-
+tionSaves_2019.pdf.TagedEnd
+TagedP[25] Adam S. National centers for environmental information. Billion-Dollar Weather
+and Climate Disasters; 2020. [Internet] [cited 2022 May 25]. Available from:
+https://www.ncei.noaa.gov/access/billions/TagedEnd.
+TagedP[26] U.S. Bureau of Labor Statistics. The consumer price index [Internet]. [cited 2022
+Nov 19]. Available from: https://www.bls.gov/cpi/.TagedEnd
+TagedP[27] U.S. Bureau of Labor Statistics. Consumer price index. Estimation of seasonal
+effects. Adjustment 2022 [Internet] [citedNov 19]. Available from: https://www.
+bls.gov/cpi/seasonal-adjustment/estimation-seasonal-effects.htmTagedEnd.
+TagedP[28] National Oceanic and Atmospheric Administration, Global Monitoring Laboratory.
+Trends in atmospheric carbon dioxide [Internet]. [cited 2022 May 25]. Available
+from: https://gml.noaa.gov/ccgg/trends/.TagedEnd
+TagedP[29] Ritchie H., Roser M., Rosado P., Our world in data. CO₂ and greenhouse gas emis-
+sions [Internet]. [cited 2022 Sep 20]. Available from: https://ourworldindata.org/
+co2-and-other-greenhouse-gas-emissions#atmospheric-concentrations-of-co2-
+continue-to-rise.TagedEnd
+TagedP[30] National Centers for Environmental Information. Storm events database [Inter-
+net]. [cited 2022 Nov 19]. Available from: https://www.ncdc.noaa.gov/storme-
+vents/.TagedEnd
+TagedP[31] Murphy J. National weather service instruction. Storm Data Preparation; 2021.
+Jun 26 [cited 2022 Nov 22]Available from: http://www.nws.noaa.gov/directives/TagedEnd.
+TagedP[32] Lindsey R, Dahlmann L. National Oceanic and Atmospheric Administration. Cli-
+mate Change: Global Temperature; 2022. [Internet] [cited 2022 May 24]. Avail-
+able
+from:
+https://www.climate.gov/news-features/understanding-climate/
+climate-change-global-temperatureTagedEnd.
+TagedP[33] Brenan Megan. Economy tops voters’ list of key election issues. Gallup; 2020.
+[Internet]Oct 5 [cited 2022 Nov 17]; Available from: https://news.gallup.com/
+poll/321617/economy-tops-voters-list-key-election-issues.aspxTagedEnd.
+TagedP[34] Badullovich N. Framing climate change for effective communication: a systematic
+map. Environ Res Lett 2020;15(12):1–16 [Internet] Dec 1 [cited 2022 Dec 19].
+Available from: https://iopscience.iop.org/article/10.1088/1748-9326/aba4c7TagedEnd.
+TagedP[35] Niessen LW, Bridges J, Lau BD, Wilson RF, Sharma R, Walker DG, et al. Assessing
+the impact of economic evidence on policymakers in health care—a systematic
+review Assessing the impact of economic evidence on policymakers in health
+care—a systematic review [Internet]. Agency for Healthcare Research and Quality
+(US); 2012. [cited 2022 Jun 4]. Available from: https://www.ncbi.nlm.nih.gov/
+books/NBK114636/TagedEnd.
+TagedEndV. Bhola, A. Hertelendy, A. Hart et al.
+The Journal of Climate Change and Health 10 (2023) 100201
+6

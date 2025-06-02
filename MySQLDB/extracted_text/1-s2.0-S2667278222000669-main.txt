@@ -1,0 +1,910 @@
+Research article
+Bridging the divide on climate solutions: Development, implementation,
+and evaluation of an online workshop for climate volunteers
+Beth A. Malowa,c,*, Maryanne Colterc, Connie Shortesc, Steve E. Saltwickc, Bruce W. Morlanc,
+M. Susan Adamsc, William J. Dohertyb,c
+a Department of Neurology, Vanderbilt University Medical Center, 1161 21st Avenue South, Room A-0116, Nashville, TN 37232-2551, USA
+b Family Social Science Department, University of Minnesota, St. Paul, MN, USA
+c Braver Angels, 733 Third Avenue, New York, NY 10017
+A R T I C L E
+I N F O
+Article History:
+Received 27 May 2022
+Accepted 22 September 2022
+Available online 30 September 2022
+A B S T R A C T
+Introduction: A critical component to addressing climate change is effective communication with the public
+and legislators about urgency for action. Health professionals have a vital role to play in climate advocacy.
+However, several key barriers to public advocacy have been identiﬁed, including limited communication
+skills to effectively advocate with others.
+Methods: We describe the development, implementation, and evaluation of a novel online workshop, whose
+goal is to teach volunteers to communicate more effectively on climate change with those holding differing
+views regarding potential solutions (e.g., role of government vs. private sector). The development phase
+included seeking input from multiple stakeholders about the workshop’s focus and creating speciﬁc exam-
+ples and prompts. The workshop was then pilot-tested, and reﬁnements were made based on evaluations.
+Volunteers within a climate organization then took the workshop and evaluations were collected.
+Results: Evaluations from 312 attendees were analyzed, including 14% in healthcare-related ﬁelds. On a 10-
+point scale (10 being highest), volunteers reporting a median score of 8 in their conﬁdence level for setting a
+constructive tone in conversations with people holding differing views on climate solutions. Qualitative anal-
+ysis of participants’ responses “Single most important learning?”, “What was most important to share?”, and
+“What would you like to see changed?” by two independent observers supported almost perfect agreement
+(kappa of 0.88) in themes that included Learning New Skills, Developing New Ways of Being, Format, and
+Additional Training/Suggested Enhancements.
+Discussion: Our workshop increased participant conﬁdence in having conversations on climate change solu-
+tions, an important part of climate advocacy.
+© 2022 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Communication
+Education
+Introduction
+A stable climate is a critical component of human health [1].
+Advocacy related to promoting a stable climate requires effective
+communication with the public and legislators about the urgency for
+action. The United States population’s perspective on climate change
+forms a spectrum, described by Leiserowitz et al, as the Six Americas,
+consisting of the Alarmed, Concerned, Cautious, Disengaged, Doubt-
+ful, and Dismissive [2]. Political afﬁliation plays an important role in
+this spectrum, as Democrats have migrated over time to the Con-
+cerned and Alarmed segments, while the Doubtful and Dismissive
+are more likely to be politically conservative Republicans. As of Sep-
+tember 2021, most Americans sorted into the Alarmed (33%)
+segments, followed by concerned (25%) and cautious (17%). However,
+5% were Disengaged, 10% were Doubtful, and 9% were Dismissive [3].
+Climate advocates often encounter political sectarianism, deﬁned
+as the “tendency to adopt a moralized identiﬁcation with one politi-
+cal group and against another” [4], which poses a major barrier to
+accomplishing policy decisions around climate change. This political
+sectarianism, which has also been termed “affective polarization” [5]
+(an offshoot of partisan group identity in which Americans divide the
+world into an in group being their own political party and an out-
+group being the opposing party) threatens democracy and a nation’s
+ability to address challenges. Political party differences and polariza-
+tion around climate change have been described as the product of
+contrasting, deeply entrenched worldviews that play on fear, distrust,
+and intolerance [6].
+Effective climate change advocacy requires mitigation of affective
+polarization, allowing people to work together to solve problems.
+* Corresponding author.
+E-mail address: beth.malow@vumc.org (B.A. Malow).
+https://doi.org/10.1016/j.joclim.2022.100177
+2667-2782/© 2022 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 7 (2022) 100177
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+Bipartisan organizations like Braver Angels (braverangels.org, a non-
+proﬁt citizens’ organization uniting conservative and liberal Ameri-
+cans in a working alliance to depolarize America) were created to
+help overcome affective polarization. These organizations have
+developed a variety of forums on political issues, and workshops, for
+members to learn communications skills for talking less divisively
+with others with whom they disagree.
+Health professionals represent an important subset of climate
+advocates who may beneﬁt from these communication skill work-
+shops. First, given the importance of a stable climate in human
+health, health professionals have a vital role to play in addressing cli-
+mate change [1]. Second, the health sector contributes a sizable pro-
+portion (4.4−4.6%) of net global greenhouse gas emissions and 8.5%
+of domestic US greenhouse gas emissions [7]. Most health professio-
+nals are keenly aware of climate change, and place themselves on the
+Alarmed portion of the Six Americas spectrum, reporting that climate
+change will harm their patients (77%) or communities (81%) [8].
+However, while supportive of engaging in climate advocacy, health
+professionals identify a range of barriers to advocating for climate
+change solutions, including lack of time, knowledge, and perception
+that the topic is too controversial to engage in professionally [8,9].
+On a more hopeful note, these same health professionals also identi-
+ﬁed a high degree of interest in developing the communication skills
+necessary to effectively advocate for a stable climate.
+In this report, we describe the development and implementation
+of an online workshop designed by Braver Angels within a national
+climate organization. The volunteers, which include health professio-
+nals, share common values that climate change is happening and
+needs to be addressed, but differ on solutions to climate change,
+including the role of government vs. the private sector [10]. The
+workshop is novel given its goal of teaching this targeted audience to
+communicate more constructively with each other and with the gen-
+eral public, including how they message solutions to climate change,
+and moving away from binary solutions that are “either/or” to those
+that are “yes/and.” We were speciﬁcally interested in building volun-
+teer conﬁdence in setting a constructive tone in conversations with
+people holding differing views on climate change solutions, a ﬁrst
+step toward reducing affective polarization.
+Materials and methods
+Vanderbilt
+University’s
+Institutional
+Review
+Board
+provided
+approval for this study. Bridging the Divide on Climate Solutions
+(BTD/CS) was designed for volunteers in a non-proﬁt, national cli-
+mate organization that empowers members to meet with their mem-
+bers of Congress, write letters to the editor, and engage in related
+outreach activities. The workshop is based on an existing online
+Braver Angels workshop, Skills for Bridging the Divide, that teaches
+skills for having respective conversations that clarify differences,
+search for common ground, and afﬁrm the importance of relation-
+ships with others who hold differing political views [11].
+Workshop structure
+The workshops were conducted using Zoom, a popular on-line
+meeting system that includes the ability to share visuals and to hold
+sub-group meetings (breakout rooms) that are the on-line equivalent
+to moving to a separate room for discussions. Participants were asked
+to share their breakout room experiences in the main meeting after
+breakouts.
+At the start of the workshop, a volunteer from the climate organi-
+zation welcomed participants, reviewed logistical details related to
+the online experience, and described the importance of the workshop
+to the work of the organization and its resonance with the organiza-
+tion’s mission. One or two Braver Angels moderator(s), who previ-
+ously completed a structured training program, then led participants
+through goals and principles, including (1) Respect, curiosity, and
+openness tend to elicit the same from the other person; (2) Everyone
+needs to save face—no one is portrayed as ignorant, duped, or ill-
+motivated; and (3) Most people who know each other have some
+common values and concerns that can be unearthed. A Participant
+Guide (Supplemental Materials) was provided summarizing work-
+shop content.
+An overview of the speciﬁc skills was then presented. Each spe-
+ciﬁc skill was introduced, accompanied by examples. Listening skills
+included: (a) Paraphrasing— to repeat back in one’s own words what
+the conversational partner said, in order to show understanding and
+that they were heard, such as — “You want to ensure the environ-
+ment is protected for future generations”; (b) Clarifying— asking
+questions to increase understanding, such as “I’m curious about how
+you came to your viewpoint on climate change”; and (c) Agreeing
+(when possible)/Acknowledging values and concerns— “It sounds
+like we both want to limit the role of the federal government in cli-
+mate policy.” Speaking skills included (a) Pivoting— signaling that
+one is about to share their point of view, and asking permission to do
+so, as in “I see things somewhat differently. Can I share an article I
+read last week that got me thinking?” and (b) providing Perspective
+— sharing one’s point of view using “I” statements (“I believe we can
+solve climate change and strengthen the economy at the same time
+through free-market solutions”), expressing worry or concern (“I’m
+very concerned that we will run out of time to solve this problem
+unless we get going now”), or sharing personal stories. Participants
+were provided with examples of statements that would shut down
+the dialogue because they represent dogmatically stated views lack-
+ing “I” statements, such as “If we don’t act now, our coastal cities will
+be abandoned in 75 years,” or “If we listen to the climate change acti-
+vists, we are going to destroy our way of life and go back to the stone
+age.” Participants were also provided with a section on “Handling Dif-
+ﬁcult Moments,” with education on staying focused on the topic, not
+returning provocative statements, and exiting the conversation when
+needed to avoid escalating a heated encounter.
+Characters were introduced that served as prompts for partici-
+pants to take part in the interactive activities—reﬂections, breakout
+sessions, and group shares—in which they practiced the speciﬁc
+skills. These interactive activities were used throughout the work-
+shop, usually in combination (reﬂection followed by breakout ses-
+sion, followed by group share) and sometimes as stand-alone
+activities (group share only). The character prompts focused equally
+on “Red” (conservative in Braver Angels terminology) and “Blue” (lib-
+eral/progressive) characters. Example characters and their corre-
+sponding prompts are presented in Fig. 1.
+For example, in learning the Paraphrasing Skill, participants were
+ﬁrst presented with example text and asked to paraphrase what was
+said (Table 1).
+They were then presented with one of the characters and their
+corresponding statement and asked to paraphrase, ﬁrst in individual
+reﬂection, then in a breakout room, and ﬁnally in a group share. As
+the workshop progressed, additional skills were introduced and prac-
+ticed (Table 1). To maintain participants’ focus throughout the 2 1/2 h
+workshop, brief stretch breaks and one longer ten-minute break
+were included. The moderator and a second presenter also engaged
+in role-plays for the participants, concluding with a “Putting it All
+Together” demo in which the two characters had a conversation
+using all of the skills and participants were asked to follow along.
+They were encouraged to identify skills on their Participant Guide
+and provided with an answer key.
+The workshop closed with an anonymous evaluation, during
+which participants were asked to answer questions related to the
+content
+of
+the
+workshop
+and
+provide
+optional
+demographic
+responses (Table 2). A group share summarizing what participants
+gained from the workshop, followed by additional ways they could
+extend their learning, and a group photo completed the workshop.
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+2
+After each workshop, the presenting team debriefed on how the
+workshop went and what could be improved upon, referencing the
+evaluations along with their own observations.
+Development of focus of workshop, and characters and examples
+Development of the online workshop occurred between July and
+October 2020. It was accomplished by involving multiple stakehold-
+ers from across the political spectrum within the national climate
+organization (progressive and moderate liberals and conservatives,
+staff, leaders of speciﬁc volunteer teams, and volunteers). While our
+initial focus was on developing skills for communicating with those
+who were skeptical about climate change, after receiving feedback
+from our stakeholders, the focus shifted to that of climate change sol-
+utions. This focus on solutions was in response to the needs of the
+Fig. 1. Character prompts. These prompts were used in the workshop for participants to practice skills.
+Table 1
+Example prompt for paraphrasing.
+Consider an individual who thinks averting climate change does not require
+aggressive action who says:
+“I know you’re into the climate thing and you think we need to take drastic meas-
+ures. Lots of efforts are being done now with little federal intervention. We have
+more efﬁcient appliances and lots of people are recycling and composting. Those
+individual actions along with a few new initiatives, like planting more trees,
+should be enough to avert climate change. I favor an approach to stopping cli-
+mate change that incentivizes people −I don’t want punitive measures like
+more taxes and bigger government!”
+Before you respond with your counter points, paraphrase what
+you heard.
+“So you understand that the climate is changing. You want to see changes
+at the federal level only if they provide incentives.”
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+3
+climate organization, whose members were accepting of climate
+change and wanted to be able to communicate better with each other
+and with local and national policymakers about how to address cli-
+mate change effectively. Stakeholders reviewed the character depic-
+tions and prompts, along with examples that were drafted by two of
+the authors (BAM and CS). They suggested modiﬁcations to the char-
+acters to make their positions less extreme and more realistic. To
+avoid gender bias (women being associated with the more liberal
+position and men with the more conservative position), the woman
+character (Margaret) was portrayed as having more conservative
+views and the male character (Lester) was portrayed as having more
+liberal views. Examples were also modiﬁed to provide a more bal-
+anced view and promote credibility. For example, in Margaret’s
+prompt (Fig. 1), we included the statement “our carbon emissions
+have steadily dropped since 2005” to reﬂect that, while the pace of
+reduction in emissions has been slow, there has been a true reduction
+in carbon dioxide emissions [12].
+Pilot testing
+We performed pilot testing of the online workshop in November
+2020, recruiting volunteers nationally. There were 45 participants.
+The original workshop was planned to be 2 h in duration, but was
+closer to 2 1/2 h in practice, and therefore was extended to 2 1/2 h for
+future sessions. Time in breakout sessions was viewed as appropriate
+by volunteers completing an end-of-session survey. In response to
+the evaluations, a complete “Putting it All Together” dialogue going
+through all of the steps—paraphrase, clarify, acknowledge, pivot, and
+perspective—was added. In addition, a group share for Handling Dif-
+ﬁcult Moments was added to give participants more experience with
+this part of the workshop.
+Workshop implementation and evaluation within the climate
+organization
+After the workshop was pilot tested, 403 adults participated in
+eight workshops between December 2020 and October 2021. These
+workshops were presented to volunteers in the climate organization,
+with volunteers from across the United States participating. Most of
+these workshops attracted a national audience while a few were held
+as part of regional conferences. A consistent structure was provided,
+following the outline in Table 2.
+See Table 3 for questions asked of participants on the evaluation
+form. Questions assessed skills learned in ﬁve categories (scale of 1 to
+10), and whether the length of speciﬁc sections (e.g., breakout rooms)
+was appropriate, qualitative questions with open-ended responses,
+and optional demographics questions. As these were ordinal data,
+the Mann-Whitney U test was performed. We described responses
+for the entire sample. For the questions assessing skills learned in
+ﬁve categories, we compared responses for health professionals and
+non-health professionals. Using the median number of participants
+in workshops (n = 30) as a cut-off, we also compared workshops that
+were relatively small (30 or fewer attendees) vs. those that were rela-
+tively large (more than 30 attendees). Age range (18-50 years vs.
+51 years and older) and sex (female vs. male) were also compared for
+health professionals and non-health professionals using a chi-square
+test for equality of proportions. Data were analyzed using R (The R
+Foundation for Statistical Computing, Vienna, Austria). Signiﬁcance
+was set at a p value ≤0.05.
+Qualitative questions included: (a) the single most important
+learning or what was most important to share, (b) what the partici-
+pant would like to see changed, and (c) how the online experience
+could be improved. Two authors (BAM and MC), after meeting to dis-
+cuss options for themes, independently categorized the responses to
+questions (a) and (b) into themes (Table 4). Some participants pro-
+vided responses to both the single most important learning and what
+was most important to share, although the two parts to this question
+shared common themes. A kappa analysis was performed to deter-
+mine inter-rater agreement [13]. The two raters, BAM and MC,
+reviewed the few discrepant ratings and came to a consensus on the
+appropriate theme.
+Table 2
+Bridging the divide on climate solutions workshop outline.
+I. Goals, Expectations to Abandon, Core Principles
+a Reﬂection on what points presented so far would be most useful to keep in
+mind as we approach conversations with someone who has a different per-
+spective on climate change solutions
+b Breakout rooms to discuss
+c Group Share
+II. Listening Skills
+a Introduction −Paraphrasing and Clarifying Skills
+b Presentation of characters, Margaret and Lester
+c Role Play Example of Listening Skills
+d Reﬂection
+e Breakout rooms to discuss
+f Group share
+g Introduction −Agreeing/Acknowledging Values and Concerns
+h Reﬂection
+i Group share to identify Margaret’s and Lester’s values
+Break
+III.Speaking Skills
+a Introduction- Pivot
+b Role Play Example of Pivot
+c Reﬂection
+d Breakout rooms to discuss
+e Group share
+f Introduction −Perspective
+g Reﬂection
+h Breakout rooms to discuss
+i Group share
+IV.Putting it All Together
+a Role Play (Entire Sequence of Skills)
+b Group Share
+V. Handling Difﬁcult Moments
+a Introduction of Skills
+b Group Share
+VI.Evaluation
+VII. Check out- What will you work on?
+Table 3
+Evaluation questions.
+1 How fully did you participate in today’s workshop? (Scale of 1-10)
+2 How conﬁdent do you feel that you can set a constructive tone when start-
+ing conversations with someone who differs with you on climate solutions?
+(Scale of 1-10)
+3 Can you listen to people on the other side in a way that they feel heard?
+(Scale of 1-10)
+4 Can you express your views in a way that helps people on the other side
+hear you? (Scale of 1-10)
+5 To what extent was this workshop well designed and run? (Scale of 1-10)
+6 Your single most important learning, or the most important thing you want
+to share about this workshop.
+7 The one aspect of the workshop you would like to see changed
+8 Time in the breakout rooms was... about right, too short, too long
+9 Time in the group shares was... about right, too short, too long
+10 Gender
+11 Race/Ethnicity
+12 Education
+13 Occupation
+14 State
+15 Political leaning
+16 Age
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+4
+Best practices for online workshops
+We carried out speciﬁc practices that helped us conduct effective
+workshops. First, moderators were trained in how to moderate work-
+shops online, supplementing the standardized training curriculum
+that Braver Angels provides to all moderators. The workshop orga-
+nizer [BAM], a Braver Angels moderator herself, also met with each
+moderator prior to their conducting this speciﬁc workshop, to pro-
+vide an overview of the workshop and of the climate organization.
+Second, we provided our workshop team with a manual that
+included details related to breakout room conﬁguration, messages to
+place in the chat, and instructions for how to handle latecomers and
+Zoom bombers. Each workshop team met before each workshop to
+carry out a practice run to ensure that Zoom settings were optimized
+and that each team member understood their role. Third, we ensured
+that participants were comfortable and competent in the online envi-
+ronment. We overcame this limitation by including time in our work-
+shops for a participant orientation to Zoom, including muting/
+unmuting, hand raising, renaming, and other features.
+Results
+We received 312 evaluations from attendees (77% response rate).
+Demographics are illustrated in Fig. 2. The majority of participants
+were white, older than 50 years, female, and college graduates (many
+with additional post-graduate training). Of those specifying an occu-
+pation, 14% were in health care or counselling (Table 5). Health pro-
+fessionals did not differ from non-health professionals in age groups
+(18−50 years vs. 51 years or older). There was a higher proportion of
+women in the health professional group (Table 6).
+Attendance ranged from 15 to 65 participants per workshop
+(mean 36.6, standard deviation of 17.8) and a median number of 30
+participants.
+Quantitative analyses
+Fig. 3 illustrates the ratings for the following questions: (a) How
+fully did you participate in today’s workshop? (median = 9 on a 10-
+point scale); (b) How conﬁdent do you feel that you can set a construc-
+tive tone when starting conversations with someone who differs from
+you on climate solutions? (median = 8); (c) Can you listen to people on
+the other side in a way that they feel heard? (median = 9); (d) Can you
+express your views in a way that helps people on the other side hear
+you? (median = 8); and (e) To what extent was this workshop well
+designed and run? (median = 10). Health professionals did not differ
+from non-health professionals on these ratings (Table 6). Workshops
+with 30 or fewer participants (relatively smaller workshops) did not dif-
+fer from workshops with more than 30 participants (relatively larger
+workshops) on these ratings (p > 0.10).
+Qualitative analyses
+Responses to each of the qualitative questions were characterized
+by several themes. For Question 1 “Your single most important learn-
+ing,” or “What was most important to share" themes included: (a)
+New Skills; (b) Need to Practice; (c) Need to develop “New Ways of
+Being”; (d) Format; and (e) Overall Comments. Some participants
+answered Question 1 by providing a response better suited for Ques-
+tion 2-what the participant would like to see changed—and in that
+case, these responses were analyzed along with the Question 2
+responses. The kappa value for interobserver agreement on Question
+1 was 0.879, supporting almost perfect agreement.
+The most common response to Question 1 was “Learn New Skills,”
+(44% of responses) consisting of Paraphrasing, Clarifying, Acknowledg-
+ing/Agreeing, Pivot, Sharing Perspective. “Develop New Ways of Being”
+was the second most common response (13.5%), consisting of cultivat-
+ing patience, acknowledging where others are coming from, cultivating
+respect, developing new values, building conﬁdence, and developing
+curiosity. “Need to Practice” was recognized in 7.9% of responses and
+“Format” in 7% of responses (e.g., value of breakout room structure,
+interactive nature). Others commented on the value of combining activ-
+ities focused on practice with scripted scenarios—reﬂections, breakouts,
+and group shares. Overall comments were provided in 27%
+of
+responses. Examples of the different themes are provided in Table 5.
+Speciﬁc responses are provided in Table 7, and included comments
+about the complementary nature of breakout rooms and group shares,
+Table 4
+Themes.
+Question 1: n= 341
+Your single most important learning,” or “What was most important to share"
+Learn New Skills
+PCAPP Overall (Paraphrasing, Clarifying, Acknowledging/Agreeing, Pivot, Sharing Perspective)
+44.6%
+Listening Overall
+Speaking Overall
+Paraphrasing
+Clarifying
+Acknowledging/Agreeing
+Pivot
+Sharing Perspective
+Need to Practice
+7.9%
+Develop New Ways of Being
+Cultivate Patience
+13.5%
+Acknowledge where others are coming from
+Cultivate Respect
+Develop New Values
+Build Conﬁdence
+Develop Curiosity
+Format
+Breakout Rooms, Group Shares
+7.0%
+Overall Comments
+27.0%
+Question 2: n=267
+Additional Training/Suggested Enhancements/Content of Examples
+More practice, another workshop
+33.0%
+Audience Composition
+.7%
+Format
+Less/more time for breakout sessions, extend time for discussion
+27.7%
+Moderator Delivery
+Less reading of scripts, more expressive delivery
+1.9%
+Logistics/Availability
+Registration, Accessing Participant Guide, Availability of Offerings
+5.6%
+Technical
+Zoom challenges
+2.6%
+Participant Management
+Encouraging people to speak, not calling on same person
+2.2%
+No Changes Recommended
+26.2%
+5
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+Fig. 2. Demographics. Participant age, gender, political leaning, geographic distribution, level of education, and race/ethnicity. Number of participants is on x-axis.
+6
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+along with speciﬁc ways on how the material could be used in advo-
+cacy (e.g., lobbying meetings, letters to the editor).
+For Question 2 “What the participant would like to see changed,”
+themes included: (a) Additional Training/Suggested Enhancements/
+Content of Examples; (b) Audience Composition; (c) Format; (d)
+Moderator Delivery; (5) Logistics/Availability; (f) Technical; (g) Par-
+ticipant Management; and (h) No Changes Recommended. Some par-
+ticipants answered Question 2 by providing a response better suited
+for Question 1−for what their single most important learning was or
+what was most important to share—and in that case, these responses
+were analyzed along with the Question 1 responses. The kappa value
+for Question 2 was 0.88, supporting almost perfect agreement.
+The most common response to Question 2 was “Additional Train-
+ing/Suggested
+Enhancements/Content
+of
+Examples,”
+(33%
+of
+responses) such as providing more practice or taking another work-
+shop. Format was the second most common response (27.7%), with
+comments focused on the amount of time devoted to breakout ses-
+sions and group shares. No changes were recommended by 26.2% of
+participants. Examples of the different themes are provided in Table 4.
+Discussion
+In this manuscript, we describe the development, implementa-
+tion, and evaluation of a novel skills workshop designed to help
+participants, including health professionals, communicate more con-
+structively on climate change solutions. Participants provided posi-
+tive evaluations about the workshop, with a median score of 10
+describing the extent to which the workshop was well designed/run
+and a median score of 9 describing how fully they participated. They
+gained conﬁdence in their ability to engage in conversations with
+those they differed with, including setting a constructive tone, listen-
+ing, and expressing their views (median scores of 8 and 9). Partici-
+pants appreciated the time devoted to practicing skills through
+reﬂections, small groups, and larger group shares. This workshop
+provided brief training (one 2 1/2 h session) which resonates with the
+needs of health professionals [8,9]. Our workshop design also appeals
+to the concerns of health professionals in advocating for the climate
+being too risky personally or professionally, or too controversial. This
+is because our workshop teaches communication strategies that are
+grounded in respect and curiosity. These strategies foster building
+relationships with others, instead of divisiveness which can contrib-
+ute to personal/professional risk and controversy.
+Our workshop design had several unique features. First, we
+engaged a variety of stakeholders in the development process to
+ensure that our workshop met the needs of the sponsoring organiza-
+tion, which was nonpartisan and consisting of volunteers who
+accepted that climate change was real. This proved to be critical to
+the relevance of the workshop. The focus was on practical solutions
+to climate change, rather than convincing others that climate change
+was happening. While a rare attendee asked for more workshop
+prompts to deal with those dismissive of climate change, the majority
+of attendees found the prompts focused on solutions to be compel-
+ling and useful. Second, we grounded our workshop in a multiple-
+year foundation of workshops developed by Braver Angels, overseen
+by a seasoned professor in family studies and licensed psychologist
+and marriage/family therapist [WJD]. Taking a systematic approach
+to online content design, as has been recommended by others con-
+ducting online teaching [14], contributed to our success. For example,
+we started with the desired outcomes for our workshop and designed
+learning activities that were aligned with these outcomes. Third, we
+used a mixed methods approach, combining both quantitative and
+qualitative data which were analyzed simultaneously. This proved to
+be an informative approach given this novel area of inquiry. The qual-
+itative responses allowed for a more in-depth examination of the par-
+ticipant experience.
+Workshops had a variable number of participants. While work-
+shop size did not affect qualitative ratings, we did observe that
+smaller workshops provided more opportunities for individual par-
+ticipants to speak in the group shares, sometimes on repeated occa-
+sions. However, the larger workshops allowed for a greater variety of
+responses in the group shares. By including breakout rooms, in which
+the same group of four participants met repeated times throughout
+the workshop, each person had an equal opportunity to contribute.
+One participant noted this allowed for development of a relationship
+where they could honestly express their concerns and feelings
+(Table 7). This held even if the workshop was relatively large, which
+served to normalize the experience across workshops. Participants
+speciﬁcally commented on how they enjoyed both the breakout
+rooms and the group shares.
+Our workshop shares common features with other approaches to
+improving communication skills, such as motivational interviewing.
+nonviolent communication, active listening, and deep engagement.
+Motivational interviewing (MI) uses reﬂective listening to draw out a
+person’s concern [15]. Grounded in social-psychological theory,
+including cognitive dissonance, social cognitive theory, and self-efﬁ-
+cacy, MI has been used by healthcare professionals to address COVID-
+19 vaccine hesitancy [16]. MI has also been used to communicate cli-
+mate-related health impacts during patient encounters [17]. Nonvio-
+lent
+communication
+(NVC)
+strengthens
+relationships,
+defuses
+conﬂict, promotes awareness of self and personal responsibility, and
+Table 6
+Comparison of health professionals and non-health professionals.
+Characteristics
+Health
+Professionals
+Non-Health
+Professionals
+p- value
+N = 43
+N = 257
+Age count (percentage)
+0.14
+18-50 years
+6 (14%)
+55 (21.4)
+51 years and older
+36 (84%)
+195 (75.9)
+Missing
+1 (2.3)
+7 (2.7)
+Sex count (percentage)
+0.01
+Female
+34 (79%)
+151 (59%)
+Male
+7 (16%)
+98 (38%)
+Missing
+2 (5%)
+8 (3%)
+Ratings on Quantitative
+Questions median (minimum,
+maximum, IQR)
+Fully participate?
+9 (4, 10, 2)
+9 (4, 10, 2)
+0.72
+Conﬁdent in setting constructive
+tone?
+8 (4, 10, 2)
+8 (3, 10, 2)
+0.67
+Listen to people in a way they
+feel heard?
+8 (6, 10, 1)
+9 (1, 10, 2)
+0.24
+Express views in a way that
+helps people hear you?
+8 (3, 10, 2)
+8 (2, 10, 2)
+0.19
+Workshop well designed and
+run?
+10 (7, 10, 1.5)
+10 (3, 10, 1)
+0.44
+SD = standard deviation; IQR = interquartile range.
+Table 5
+Categories of health professions represented by participants (Number of participants in
+that category in parenthesis).
+Dentist (1)
+Health Care (5)
+Medical writer (2)
+Nurse (10)
+Nurse practitioner (2)
+Nutritionist (2)
+Physician (4)
+Physical Therapist (1)
+Psychologist (4)
+Psychotherapist (1)
+Speech-Language Pathologist (2)
+Social Worker/Counselor/Therapist (9)
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+7
+Fig. 3. Responses to ﬁve qualitative skill questions. Response (scale of 1 to 10 with 10 being highest) is on x-axis and number of participants with that response is on y-axis.
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+8
+increases empathy [18]. Active listening allows participants (who are
+receiving the active listening responses) to feel more understood and
+satisﬁed with their conversations [19]. Deep engagement involves
+having one’s conversational partner generate active thinking about
+climate change, thereby connecting themselves to the issue, rather
+than relying on persuasive appeal [20]. The skills taught in our work-
+shop, along with other skills focused on MI, NVC, active listening, and
+deep engagement, are critical to climate change conversations. These
+conversation skills, rooted in public engagement and other participa-
+tory models, are receiving increasing attention in the science com-
+munity. They represent an alternative to one-way conversations on
+climate that focus on providing evidence to ﬁll deﬁcits in public
+knowledge [21].
+Our workshop had several limitations. First, all phases were con-
+ducted entirely online. The online manner in which our workshops
+were conducted may have affected participant engagement (e.g.,
+more distractions when skills were presented- people may have cho-
+sen to turn their cameras off and engage in other activities such as
+checking email or social media) but also provided an opportunity to
+reach more stakeholders during the development phase, and more
+diverse national audiences during the implementation phase. The
+online environment also was characterized by occasional technical
+challenges, such as loss of connectivity on the part of participants,
+who had to re-enter the Zoom meeting, or on the part of the work-
+shop team. Some of these challenges, such as reminding people to
+unmute themselves to speak and re-mute themselves after speaking,
+were mitigated by building in an orientation to Zoom for our partici-
+pants within the workshop. Over the course of our workshops,
+as participants became more familiar with Zoom, these challenges
+subsided.
+Second, with a good but not universal 77% response rate, our
+results may have been subjected to non-response bias (people chose
+not to respond to the evaluation if they did not ﬁnd the workshop
+useful). Third, the demographics of participants were not reﬂective
+of the US population as a whole—our participants were predomi-
+nantly older (highest category was 61−70 years followed by 71 years
+or older), female, white, and liberal, with the majority having gradu-
+ated college. This limitation is particularly relevant when consider-
+ing that those from the same demographic group are believed to
+have an advantage as “trusted messengers” in interactions about cli-
+mate change with others [22]. A community of political conserva-
+tives, racial minorities, or younger individuals may be more willing
+to listen to those receiving communications training who resemble
+them. Fourth, we did not speciﬁcally assess whether participants
+did participate in conversations with others who disagreed with
+them on climate change solutions, and what the outcome was (e.g.,
+did they feel conﬁdent in these situations, did they express their
+beliefs in these conversations, did they feel heard by their conversa-
+tional partner).
+We developed, pilot tested, and implemented the workshop during
+the COVID-19 pandemic which may have inﬂuenced our project in
+other ways beyond taking it online. For example, the pandemic was
+characterized by conﬂict between self-interest and collective interest
+(e.g., vaccine mandates, mask wearing) in the face of uncertainty about
+outcomes; similarities in respect to short-term self-interests vs. long-
+term collective interests have also been noted in relation to climate
+change [23]. While we did not speciﬁcally collect data on this aspect, it
+is possible that the presence of the COVID-19 pandemic may have moti-
+vated participants to take part in our workshops to explore this conﬂict.
+For example, they may have wished to gain a deeper understanding of
+human cooperation and its relationship to the pull of in-groups, as
+reviewed by VanLange and Rand [23]. Others may have recognized par-
+allels between the COVID-19 pandemic and climate change in terms of
+social inequality [24] and misinformation [23] and wished to engage in
+Table 7
+Examples of participant responses to themes for qualitative questions.
+Question 1: “Your single most important learning,” or “What was most important to share"
+Theme
+Example
+A Learn New Skills
+“The importance of respectful curiosity and openness as applied through clarifying questions and
+pivot statements. I really want to focus on applying those steps in real life conversations”
+“Not to launch into a lecture, especially without making sure the person feels heard, and without
+doing a pivot ﬁrst.”
+B Need to Practice
+“Practicing is key. I feel it will give me more conﬁdence and courage to take on the difﬁcult
+conversations.”
+C New Ways of Being
+“In spite of the urgency of addressing climate change, patience and respect are essential. Better to
+walk away and try again later (or not) than compromise those two values.”
+D Format
+“I liked the combination of sharing in small groups (breakouts), and in the larger group.”
+“Lots of breakout rooms with the same four people were great because we began to develop a rela-
+tionship where we could honestly express our concerns and feelings”
+E Overall Comments
+“I’m thinking how I can apply this in lobbying meetings or in writing Letters to the Editor”
+“I feel empowered on how to broach the topic of climate change. . . beforehand I had lacked
+conﬁdence. . .”
+“To convey climate knowledge in a fruitful manner”
+Question 2: “The one aspect of the workshop you would like to see changed”
+A Additional Training/Suggested Enhancements/Content of Examples
+“Have some workshops that we can come back to for practicing the skills”
+“How to start a conversation about climate change”
+“Add diversity by invoking words of wisdom from people of color”
+“Deal with harder climate denier conversations”
+B Format
+“Slightly longer breakout rooms”
+“Some of the tasks needed more time to really reﬂect”
+C Logistics/Availability
+“Emphasize that the participant guide should be printed out beforehand”
+D Technical
+“Zoom aspects did not always run smoothly (ﬂow to breakout rooms)”
+E Participant Management
+“Encourage everyone to speak”
+F Moderator Delivery
+“I’d like to see more examples that weren’t in the participant guide and more ‘ad-libbing’”
+G Audience Composition
+“Bring more conservatives who care about climate change to future trainings”
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+9
+our workshops to gain practical skills, given the perceived impact of
+COVID-19 on their lives.
+Conclusions and future directions
+We present our experiences with a novel workshop designed to
+improve communication skills related to climate change solutions.
+There are several important future directions for this work. First, a
+study limited to health professionals, with a large and diverse total
+sample, would allow us to characterize quantitative and qualitative
+responses more thoroughly and also examine the role of age, gender,
+race/ethnicity, political afﬁliation and other factors. Second, future
+studies should incorporate speciﬁc questions to determine if speciﬁc
+volunteer advocacy goals are achieved based on workshop trainings -
+such as meeting with Congress, writing a letter to the editor, engag-
+ing in outreach, and other advocacy activities. While our qualitative
+responses did include statements about some of these activities,
+being explicit about whether the workshop furthered engagement in
+these activities would provide clear relevance for climate advocacy
+organizations. Third, having participants practice skills with those
+who disagree on climate solutions, rather than with other partici-
+pants who were generally in agreement on climate solutions, would
+help solidify these skills and make it easier to apply in real-world set-
+tings, such as when advocating for climate solutions to legislators.
+Finally, harnessing multimedia (e.g., brief video roleplays of people
+with differing positions on climate solutions that model skills for vol-
+unteers) may be appealing to younger volunteers and those who
+have limited time to attend workshops. They can be incorporated
+into chapter meetings and other venues within climate organizations
+as a springboard for practice among volunteers.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2022.100177.
+References
+[1] Maibach EM, Miller J, Armsterong F, El Omrani O, Zhang Y, Philpott N, et al. Health
+professionals, the Paris agreement, and the ﬁerce urgency of now. J Clim Change
+Health 2021;1. doi: 10.1016/j.joclim.2020.100002.
+[2] Leiserowitz A, Roser-Renouf C, Marlon J, Maibach E. Global warming’s Six Ameri-
+cas: a review and recommendations for climate change communication. Curr
+Opin Behav Sci 2021;42:97–103. doi: 10.1016/j.cobeha.2021.04.007.
+[3] Leiserowitz A, Maibach E, Rosenthal S, Kotcher J, Neyens L, Marlon J, et al. Global
+warming’s six Americas September 2021. Yale University and George Mason Uni-
+versity. New Haven, CT: Yale Program on Climate Change Communication;
+2022https://climatecommunication.yale.edu/publications/global-warmings-six-
+americas-september-2021/ [accessed 28 August 2022].
+[4] Finkel EJ, Bail CA, Cikara M, Ditto PH, Iyengar S, Klar S, et al. Political sectarianism
+in America. Science 2020;370(6516):533–6. doi: 10.1126/science.abe1715.
+[5] Iyengar S, Lelkes Y, Levendusky M, Nalhotra N, Westwood SJ. The origins and con-
+sequences of affective polarization in the United States. Annu Rev Political Sci
+2019;22:129–46. doi: 10.1146/annurev-polisci-051117-073034.
+[6] Hoffman A. How culture shapes the climate change debate. California: Stanford
+University Press; 2015.
+[7] Eckelman MJ, Huang K, Lagasse R, Senay E, Dubrow R, Sherman JD. Health care
+pollution and public health damage in the United States: an update: study exam-
+ines health care pollution and public health damage in the United States. Health
+Affairs 2020;39(12):2071–9 Dec 1.
+[8] Kotcher J, Maibach E, Miller J, Campbell E, Alqodmani L, Maiero M, et al. Views of
+health professionals on climate change and health: a multinational survey
+study. Lancet Planet Health 2021;5(5):e316–23. doi: 10.1016/S2542-5196(21)
+00053-X.
+[9] Luong KT, Kotcher J, Miller J, Campbell E, Epel E, Sarfaty M, et al. Prescription for
+healing the climate crisis: insights on how to activate health professionals to
+advocate for climate and health solutions. J Clim Change Health 2021;4. doi:
+10.1016/j.joclim.2021.100082.
+[10] Gilligan JM, Vandenbergh MP. A framework for assessing the impact of private cli-
+mate governance. Energy Res Soc Sci 2020;60. doi: 10.1016/j.erss.2019.101400.
+[11] Braver Angels Skills for Bridging the Divide. https://braverangels.org/what-we-
+do/skills-bridging-divide/; 2022 [accessed 28 August 2022].
+[12] CarbonBrief. Analysis: why US carbon emissions have fallen 14% since 2005.
+https://www.carbonbrief.org/analysis-why-us-carbon-emissions-have-fallen-14-
+since-2005/; 2017 [accessed 28 August 2022].
+[13] Cohen J. A coefﬁcient of agreement for nominal scales. Educ Psychol Meas
+1960;20:37–46.
+[14] Martin F, Ritzhaupt A, Kumar S, Budhrani K. Award-winning faculty online teach-
+ing practices: course design, assessment and evaluation, and facilitation. Internet
+High Educ 2019;42:34–43. doi: 10.1016/j.iheduc.2019.04.001.
+[15] Rollnick S, Butler CC, Kinnersley P, Gregory J, Mash B. Motivational interviewing.
+BMJ 2010;340:c1900. doi: 10.1136/bmj.c1900.
+[16] Gabarda A, Butterworth SW. Using best practices to address COVID-19 vaccine
+hesitancy: the case for the motivational interviewing approach. Health Promot
+Pract 2021;22(5):611–5. doi: 10.1177/15248399211016463.
+[17] Sun MD, Boos MD, Coates SJ. Addressing climate-related health impacts during
+the patient encounter: a practical guide for pediatric dermatologists. Dermatol
+Clin 2022;40(1):109–16. doi: 10.1016/j.det.2021.09.007.
+[18] Museux AC, Dumont S, Careau E, Milot É. Improving interprofessional collabora-
+tion: the effect of training in nonviolent communication. Soc Work Health Care
+2016;55(6):427–39. doi: 10.1080/00981389.2016.1164270.
+[19] Weger H, Castle Bell G, Minei EM, Robinson MC. The relative effectiveness of
+active listening in initial interactions. Int J Listening 2022;28(1):13–31. doi:
+10.1080/10904018.2013.813234.
+[20] Goldberg MH, Gustafson A, van der Linden S. Leveraging social science to gener-
+ate lasting engagement with climate change solutions. One Earth 2020;3(3):314–
+24. doi: 10.1016/j.oneear.2020.08.011.
+[21] Pearce W, Brown B, Nerlich B, Koteyko N. Communicating climate change: con-
+duits, content, and consensus. Wiley Interdiscip Rev 2015;6(6):613–26. doi:
+10.1002/wcc.366.
+[22] Moser SC. Communicating climate change: history, challenges, process and future
+directions. Wiley Interdiscip Rev 2010;1(1):31–53. doi: 10.1002/wcc.11.
+[23] Van Lange PA, Rand DG. Human cooperation and the crises of climate change,
+COVID-19, and misinformation. Annu Rev Psychol 2022;73(1):379–402. doi:
+10.1146/annurev-psych-020821-110044.
+[24] Manzanedo RD, Manning P. COVID-19: Lessons for the climate change emer-
+gency. Sci Total Environ 2020;742:140563. doi: 10.1016/j.scitotenv.2020.140563.
+B.A. Malow, M. Colter, C. Shortes et al.
+The Journal of Climate Change and Health 7 (2022) 100177
+10

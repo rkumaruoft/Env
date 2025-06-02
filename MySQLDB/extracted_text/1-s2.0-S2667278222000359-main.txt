@@ -1,0 +1,1211 @@
+Research article
+What predicts climate change activism?: An examination of how
+depressive symptoms, climate change distress, and social norms are
+associated with climate change activism
+Carl Latkina,b,*, Lauren Daytona, Melissa Scherkoskea, Kennedy Countessc, Johannes Thruld,e
+a Department of Health, Behavior and Society, Bloomberg School of Public Health, Johns Hopkins University, Maryland
+b Division of Infectious Diseases, School of Medicine, Johns Hopkins University, Maryland
+c Department of Environmental Health and Engineering, Bloomberg School of Public Health, Johns Hopkins University, Maryland
+d Department of Mental Health, Bloomberg School of Public Health, Johns Hopkins University, Maryland
+e Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Maryland
+A R T I C L E
+I N F O
+Article History:
+Received 19 February 2022
+Accepted 1 June 2022
+Available online 6 June 2022
+A B S T R A C T
+Background: The current and future harms caused by climate change are highly distressing. Different theoret-
+ical models suggest diverse impacts of distress on behavior. We examined how psychological distress, cli-
+mate change distress, and social norms may foster or impede climate change activism.
+Methods: As part of an ongoing online longitudinal study in the US beginning in March 2020, respondents
+were assessed on their depressive symptoms (CES-D 10), climate change distress, climate change mitigation
+social norms, and six outcomes of the climate change activism behaviors of writing letters, e-mailing, or
+phoning government ofﬁcials; voting for candidates who support measures to reduce climate change; sign-
+ing petitions; volunteering with organizations; donating money to organizations; and attending protests.
+Results: Of the 775 respondents, 53% were female, 72% white, 12% Black, 7% Hispanic, and 6% Asian. Climate
+change social norms predicted all six climate change actions in the bivariate and multivariable cross-sec-
+tional logistic regression models. A similar ﬁnding was observed with the brief climate change distress scale
+(BCCDS), except it was not associated with volunteering in the multivariable model. Depressive symptoms
+were associated with greater odds of contacting government ofﬁcials and signing petitions in the bivariate
+models but did not retain signiﬁcance in the multivariable models. Longitudinal models indicated a weak
+association between depressive symptoms and climate change activism.
+Conclusions: Climate change distress and social norms are positively associated with climate change activism.
+Although climate change distress may not usually impede climate change activism, organizations addressing
+climate change should consider providing social support to members and assisting those with high levels of
+psychological and climate change distress. Social norms around climate change activism should be fostered.
+© 2022 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Activism
+Collective action
+Mental health
+Climate change distress
+Depression
+Social norms
+Introduction
+Climate change mitigation is an enormous undertaking. It requires
+moving a global economy off fossil fuels. Massive amounts of capital,
+political organization, and well-functioning governments are needed
+to limit global warming to reach the goals outlined in the Paris Agree-
+ment [1]. There are also entrenched business interests and political
+parties opposed to meaningful climate mitigations. Developing and
+implementing policies to address climate change will require exten-
+sive and sustained collective action. Collective action can provide the
+co-beneﬁts of social cohesion, a sense of community, and social
+support, which can, in turn, foster sustainable collective action. This
+manuscript examines engagement in advocacy actions to address cli-
+mate change and mental health and social predictors of climate
+change activism.
+At the individual level, climate change is causing concern or worry
+for many Americans. The Yale Climate Change in the American Mind
+project documented an increase in worry about climate change in
+the last decade. By 2021, 70% of Americans reported that they were
+at least “somewhat worried,” and 35% of respondents reported that
+they were “very worried” about global warming [2]. The burgeoning
+ﬁeld of mental health and climate change research has produced
+detailed measures of and identiﬁed different types of climate change-
+related psychological distress [3]. There is an emerging body of
+research on “eco-anxiety,” which is an experience of fear about
+* Corresponding author.
+E-mail address: clatkin@jhsph.edu (C. Latkin).
+https://doi.org/10.1016/j.joclim.2022.100146
+2667-2782/© 2022 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 8 (2022) 100146
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+environmental damage or disaster. A systematic scoping review in
+2021 identiﬁed nine studies on eco-anxiety [4]. This research domain
+has linked anxiety about climate change to poor mental health [5].
+The percentage of Americans who reported that climate change
+“probably” or “deﬁnitely” affects their mental health rose from 47%
+in 2019 to 68% in 2020 [6], after a season of devastating wildﬁres and
+tropical storms. Given that the impact of climate change is increas-
+ingly felt by many, more research investigating associations between
+eco-anxiety and mental health is needed.
+Climate change mitigation and adaptation require system-level
+change, yet there is a critical lack of “political will” for climate action
+[7]. This situation necessitates the mobilization of citizens advocating
+for policymakers to enact meaningful climate change policies. There-
+fore, it is essential to know if distress about climate change impedes
+or facilitates behaviors to address climate change when fostering cli-
+mate change activism. However, the relationship between psycho-
+logical distress and engagement in climate change action is not well
+understood.
+Some theories of behavior change suggest that psychological dis-
+tress may impede action. For example, social cognitive theories of
+behavior change hypothesize that anxiety and depression can reduce
+self-efﬁcacy and hence reduce the probability of effective behavior
+change [8]. Additionally, the theory of learned helplessness would
+suggest that experiences of helplessness, which could be caused by
+an individual-level inability to address climate change, may lead to
+lower motivation levels to engage in climate change action [9]. In a
+study of Canadian college students, Landrey et al. found that learned
+helplessness moderated the relationship between environmental
+concern and pro-environmental behavior [10]. Anxiety and depres-
+sion may also lead to burnout [11] and reduce climate change actions.
+In distinction from the perspective that negative mood states may
+impede climate change action is the perspective that negative mood
+states may impel action. If people are overloaded with demands on
+their time, energy, and attention, they are more likely to attend to
+highly salient information with strong emotional valance [12]. Fur-
+thermore, evidence suggests that negative as compared to positive
+events are more memorable; hence, it may be that negative emotions
+are more likely than positive mood states to lead people to act on cli-
+mate change [12]. In contrast to these hypothesized and observed
+relationships between psychological distress and climate change
+action, Clayton and Karazsia reported that climate anxiety was not
+correlated with individual-level pro-environmental behavior in an
+online sample [13]. Previous research has produced conﬂicting ﬁnd-
+ings on the potential relationship between psychological distress and
+climate change action, and additional studies are needed to elucidate
+these associations.
+While working to understand the directionality of the relationship
+between mental health and climate change action, it is also essential
+to examine the relationship between climate change-related distress
+and potentially pathological states, such as depression. Often nega-
+tive mood states and cognitions such as depression, anxiety, worry,
+and feelings of helplessness are highly correlated. Yet, depression
+and climate-speciﬁc distress may play different roles in engagement
+in climate change action. For example, an Australian study found that
+eco-anger was negatively associated with anxiety and depression, as
+measured by the DASS-21 [14], and greater engagement in pro-cli-
+mate activism [15]. However, the study also found that eco-anxiety
+was associated with higher general anxiety levels and a lower likeli-
+hood of collective climate action. In the present analysis, we assess
+the relationship between depressive symptoms and climate change
+distress as well as examine the independent and adjusted association
+of climate-change distress and depressive symptoms on climate
+change actions.
+Climate change activism is also impacted by factors other than
+psychological well-being, and it is important to understand the social
+dynamics that may foster it. Social network norms may impact
+engagement in climate change activism. When faced with complex
+issues, such as climate change mitigation, social inﬂuence often plays
+a role in behavioral responses [16]. How others act can motivate
+engagement in similar behaviors. Additionally, peers can serve as
+heuristics or models of climate change action behaviors [16]. Doherty
+and Webler’s study of Vermont residents found that social norms
+impacted engagement in climate change political activism, including
+contacting government ofﬁcials, voting for “green” candidates, and
+protesting [17]. A greater understanding of social inﬂuence processes
+may be helpful in designing programs to promote climate change
+activism. Social norm interventions have successfully promoted
+energy conservation and are linked to a range of pro-environmental
+behaviors [18]. These same social dynamics likely inﬂuence climate
+change activism.
+This study assesses climate change activism behaviors, such as
+contacting elected representatives, supporting organizations working
+on the issue, and attending climate change rallies [19]. We examine
+three questions: (1) How are social norms associated with engage-
+ment in climate change actions? (2) What is the relationship between
+climate change distress and climate change actions? (3) What is the
+relationship between depressive symptoms, climate change distress,
+and climate change action?
+Methods
+Procedures and participants
+Study participants were from the online longitudinal COVID-19
+and Well-Being Study, which started in March 2020 [20]. This study
+examines individual, social, and societal-level ﬂuctuations amid the
+rapidly changing landscape of the COVID-19 pandemic. Questions
+about climate change were included in the study, as climate change
+impacts health and well-being in the current era [21]. Study assess-
+ments occurred every few months and aimed to capture changes in
+COVID-19-related information, behaviors, and health status. Partici-
+pants were recruited through Amazon’s Mechanical Turk (MTurk).
+MTurk is a crowdsourcing platform for recruiting individuals from
+over 40 countries to work on different tasks. Researchers can gener-
+ate a HIT (Human Intelligence Task) that gives MTurk users a descrip-
+tion of the online task, compensation, and anticipated time to
+complete the task. Although MTurk is open to anyone age 18 or older
+with internet access, study-speciﬁed qualiﬁcation requirements can
+restrict potential participants to those who are eligible. For example,
+qualiﬁcation requirements can restrict the audience based on geo-
+graphic location, number of HITs completed, quality of prior work,
+and age. This platform is regularly used by health, social, and behav-
+ioral researchers, as it allows for diverse samples to be collected rap-
+idly and in a timely manner [22]. Previous research suggests that
+MTurk provides better-quality data in less time than other conve-
+nience samples [23]. Study populations recruited through MTurk are
+not nationally representative but outperform other samples on sev-
+eral dimensions [24]. Studies using MTurk have demonstrated good
+reliability [25]. Moreover, despite the COVID-19 pandemic, the demo-
+graphic characteristics of MTurk respondents have been stable [26].
+The study protocols followed MTurk’s best practices, including
+ensuring participant conﬁdentiality, protecting study integrity, gen-
+erating unique completion codes, integrating attention and validity
+checks throughout the survey, repeating study-speciﬁc qualiﬁcation
+questions,
+and
+removing
+ineligible
+participants
+[23,27,28].
+To
+enhance data quality, the study enrollment criteria were embedded
+in a screener that did not explicitly delineate the study criteria. This
+method reduces the bias to over-report speciﬁc attributes to enroll in
+the study. Individuals were paid for the screener and those who were
+eligible were invited to join the study. Eligibility criteria included
+being age 18 or older, living in the United States, being able to speak
+and read English, having heard of the coronavirus or COVID-19, and
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+2
+providing written informed consent. Additionally, to enhance reli-
+ability, eligible participants were required to pass attention and
+validity checks embedded in the survey [29]. These checks included
+survey questions with exceedingly low probabilities, such as deep-
+sea ﬁshing in Alaska and having several appendages removed.
+We also repeated questions to ensure consistency. Finally, we
+examined participants’ time to complete the survey and veriﬁed data
+completeness.
+In the current study, we utilized data from wave 1 (baseline,
+March 24th-27th, 2020), wave 4 (November 18th-29th, 2020), and
+wave 7 (November 16th-29th, 2021). We chose these waves to exam-
+ine whether the association might differ by phase of the pandemic
+and to have a longitudinal analysis component. Depressive symptoms
+were assessed at each study wave, while climate change activism,
+distress, and social norms were only assessed at wave 7. Participants
+were compensated $2.50 for wave 1 and $4.25 for wave 4 and wave
+7. This amount was equivalent to approximately $12 per hour. The
+study protocols were approved by the Johns Hopkins Bloomberg
+School of Public Health Institutional Review Board.
+Measures
+Climate change actions
+The six climate change activism behaviors were derived from
+Doherty and Webler [17]. These items asked about participation (yes/
+no) in the following actions in the last year: “Wrote letters, e-mailed,
+or phoned government ofﬁcials to urge them to take action to reduce
+climate change,” “Voted for candidates who support measures to
+reduce climate change,” “Signed a petition to curb climate,” “Volun-
+teered with organizations working to curb climate change,” “Donated
+money to organizations working to reduce climate,” and “Attended
+protests or rallies to reduce climate change.” These items were indi-
+vidually modeled as it was hypothesized that variables associated
+with each item might differ. The six climate activism behavior items
+were also added together for a composite measure of the level of
+climate change action [17]. Engagement in climate change activism
+behaviors was assessed at wave 7.
+Climate change distress
+The brief climate change distress scale (BCCDS) assessed depres-
+sion, anxiety, worry, and feelings of helplessness and hopelessness
+associated with thinking about climate change. The ﬁve questions
+included “News about climate change tends to depress me,” “Think-
+ing about climate change makes me anxious,” “I worry about the
+future because of climate change,” “I sometimes feel hopeless about
+the future because of climate change,” and “I feel helpless to do any-
+thing about climate change.” The response categories were “Strongly
+agree,” “Agree,” “Neither agree nor disagree,” “Disagree,” and
+“Strongly disagree.” A Principal Component Analysis revealed one
+factor that accounted for 70.1% of the variance and an Eigenvalue of
+3.5 (Cronbach’s alpha 0.89, range 5-25). Climate change distress was
+assessed at wave 7.
+Depressive symptoms
+Depressive symptoms were assessed using the 10-item Center for
+Epidemiologic Studies Depression Scale (CES-D 10), which has been
+well validated [30, 31,32]. The questionnaire asks respondents to
+indicate how often they experienced 10 possible symptoms of
+depression during the past week. The response categories were:
+Rarely or none of the time (1=less than 1 day), Some or a little of the
+time (2=1-2 days), Occasionally or a moderate amount of the time
+(3=3-4 days), and All of the time (4=5-7 days) (Cronbach’s alpha 0.90,
+range 10-40). The 10 items were summed after reverse coding the
+two positively worded items. The CES-D 10 was assessed at each
+study wave.
+Climate change mitigation social norms
+Social norms were assessed at wave 7 on 5-point scales with the
+items “Most of my friends are trying to act in ways that reduce cli-
+mate change,” “My family and friends think it is important that I take
+action to reduce climate change,” and “How much of an effort do
+your family and friends make to reduce climate change?” The three
+questions were summed to create a scale (Cronbach’s alpha 0.83,
+range 3-15) with higher scores indicating greater pro-climate change
+mitigation social norms.
+Sociodemographics
+Demographic variables were analyzed and included age and sex,
+assessed as biological sex at birth. The categories for race/ethnicity
+were White, Non-Hispanic Black, Hispanic, Asian, Mixed, and Other.
+Due to small sample sizes, multiracial and “other” categories were
+collapsed into one category. Political party afﬁliation was assessed
+with the question, "Do you consider yourself Republican, Democrat,
+Independent, Libertarian or Other?" Due to the small cell size, the
+Libertarian and the “Other” groups were collapsed into the “Other”
+group. Educational attainment was dichotomized as a bachelor’s
+degree and higher versus an associate degree or less. Family income
+was assessed and dichotomized, based on the median, at less than
+$60,000 versus $60,000 or more.
+Analyses
+Descriptive statistics of means, standard deviations, and percen-
+tages were ﬁrst calculated, and a correlation matrix was used to
+examine the relationship among the ﬁve climate change distress
+items. Then logistic regression models were used to examine associa-
+tions between sociodemographic factors, climate change mitigation
+social norms, level of climate change distress, depressive symptoms
+and the six dichotomous climate change actions outcomes. Scale
+items were converted to z-scores to facilitate comparisons between
+the scales. For the multivariable logistic regression models, all socio-
+demographic variables (age, sex, income, race/ethnicity, and educa-
+tion) were included as potential confounds, and other variables with
+a p-value of <0.20 in the bivariate models were also included in the
+adjusted model. This approach allows for both the measurement and
+the control of potential confounds. We also graphically assessed the
+relationship between the mean number of climate change actions
+and climate change mitigation social norms, brief climate change
+distress scale scores, and depressive symptoms (CES-D 10 scores) to
+better understand the whole distribution. In a ﬁnal analysis, we
+examined the correlations among the waves 1, 4, and 7 depressive
+symptoms (CES-D 10 scores), climate change distress at wave 7, and
+the number of different types of climate change actions at wave 7.
+Climate change distress scale scores were controlled to examine the
+unique contribution of the level of depressive symptoms to the num-
+ber of climate change actions in the prior year. The sample size was
+not determined for the speciﬁc analyses; instead, the goal was to
+obtain a sample for the longitudinal study and have sufﬁcient power
+to detect a 15% difference with 500 respondents.
+Results
+The mean age of subjects in the sample was 41, and slightly more
+than half (53%) were female (Table 1). There was a substantial distri-
+bution by race/ethnicity in the sample, with 72% white, 12% Black, 7%
+Hispanic, and 6% Asian. There was also a distribution of political afﬁli-
+ation with 23% Republican, 46% Democrat, 27% Independent, and 4%
+other. The sample was well educated, with 60% reporting a bachelor’s
+degree or higher, and 44% reporting an annual household income of
+more than $60,000. The sample also reported a high level of climate
+change action participation in the prior year, with 51% voting for a
+candidate who supported measures to address climate change, 24%
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+3
+signing a petition, and 25% donating money to organizations working
+to reduce climate change. Other activities were less frequently
+reported, with 11% reporting that they volunteered with organiza-
+tions working to curb climate change, 11% wrote letters, e-mailed, or
+phoned government ofﬁcials to urge them to take action to reduce
+climate change, and 7% attended protests or rallies to reduce climate
+change. Participation in no climate change actions was reported by
+42% of the sample; 24% reported one, 15% reported two, 10% reported
+three, 5% reported four, 2% reported ﬁve, and 3% reported all six
+actions. The mean score on the CES-D 10 was 17.86 (Range: 10-40) at
+wave 7. The ﬁve items on the brief climate change distress scale were
+all statistically signiﬁcantly correlated (p<.01), with Spearman’s cor-
+relations ranging from 0.41 to 0.75 (Table 2).
+In the multivariable logistic regression models of the six climate
+change actions (Table 3), age was positively associated with voting
+and negatively associated with volunteering and attending rallies or
+protests. Sex was not associated with any of the outcomes. There was
+a consistent ﬁnding of Democratic political party afﬁliation linked to
+all climate change action outcomes in the bivariate models and con-
+tacting governmental ofﬁcials, voting, and donating in the multivari-
+able models. A higher level of education was also associated with all
+outcomes except petition signing in the bivariate models and four of
+the six outcomes in the multivariable models (not petition signing or
+donating). Lower income was associated with two outcomes (con-
+tacting governmental ofﬁcials and attending protests or rallies) in the
+bivariate and multivariable models.
+In all the bivariate and multivariable models, climate change miti-
+gation social norms were associated with all six climate change
+actions. A similar ﬁnding was observed with climate change distress,
+except it was not signiﬁcantly associated with volunteering in the
+multivariable model. The level of depressive symptoms was only
+associated with greater odds of contacting government ofﬁcials and
+signing petitions in the bivariate models. These associations did not
+retain signiﬁcance in the multivariable models.
+The subsequent analyses graphically examined the association
+between depressive symptoms, climate change distress, climate
+change social norms, and the number of different types of climate
+change actions in the prior year. As seen in Fig. 1, there is a linear
+association between climate change distress and the number of
+different types of climate change actions. However, at the right
+end of the climate change distress distribution, there appears to
+be a drop-off in the number of different types of climate change
+actions.
+In
+comparison,
+there
+is
+a
+clear
+linear
+relationship
+between the level of climate change mitigation social norms and
+the number of different types of climate change actions. The rela-
+tionship between the level of depressive symptoms and the num-
+ber of types of climate change actions is modest and curvilinear,
+with those reporting very high levels of depressive symptoms
+less likely to be engaged in climate change actions. The measure
+of depressive symptoms and the climate change distress distribu-
+tion (Fig. 2) also demonstrates a deviation from linearity at the
+right end.
+The ﬁnal analyses examined the relationship between prior levels
+of depressive symptoms (baseline and wave 4), climate change dis-
+tress (wave 7), and the number of climate change actions reported
+(wave 7) among the 414 participants who completed all three waves
+(Table 4). Level of climate change distress was strongly associated
+with the number of climate change actions in the prior year (p<.01,
+r=.46). Wave 1 and wave 4 CES-D 10 scores predicted the number of
+climate change actions in the prior year in wave 7 (r=.17, p<.01,
+r=.11, p<.05). However, after adjusting for climate change distress at
+wave 7, neither wave 1 nor wave 4 CES-D 10 scores predicted the
+level of climate change action at wave 7.
+Table 1
+Background, demographics, and climate change behaviors among respondents at
+wave seven (N=775).
+n (%), mean (SD)
+Age, in years, mean (SD)
+40.84 (11.91)
+Sex, female
+414 (53.42%)
+Race/Ethnicity
+White
+557 (71.87%)
+Non-Hispanic Black
+96 (12.39%)
+Hispanic
+55 (7.10%)
+Asian
+43 (5.55%)
+Other
+24 (3.10%)
+Political Afﬁliation
+Republican
+176 (22.71%)
+Democrat
+356 (45.94%)
+Independent
+211 (27.23%)
+Other
+32 (4.13%)
+Education, undergraduate degree or higher
+463 (59.74%)
+Annual income, >$60,000
+342 (44.13%)
+Scale scores
+Climate change mitigation social norms, mean (SD)
+9.81(1.70)
+Depressive symptoms (CES-D 10), mean (SD)
+17.86 (6.50)
+Brief climate change distress scale, mean (SD)
+15.56 (5.43)
+Six Climate Change Actions (in past year)
+Wrote letters, e-mailed, or phoned government ofﬁcials
+88 (11.35%)
+Voted
+399 (51.48%)
+Petition
+190 (24.52%)
+Volunteered
+86 (11.10%)
+Donated
+186 (24.00)
+Attended protests or rallies
+55 (7.10)
+SD=standard deviation, CES-D= Centers for Epidemiological Studies Depression
+Scale.
+Table 2
+Spearman correlation matrix for ﬁve climate change distress survey items and the sum of six climate change actions (N=775).
+News about climate
+change tends to
+depress me
+Thinking about
+climate change
+makes me anxious
+I worry about the
+future because of
+climate change
+I sometimes feel hopeless
+about the future because of
+climate change
+I feel helpless to do
+anything about
+climate change
+Six climate change
+actions added
+together
+News about climate change tends
+to depress me
+1.00
+Thinking about climate change
+makes me anxious
+0.75
+1.00
+I worry about the future because of
+climate change
+0.63
+0.71
+1.00
+I sometimes feel hopeless about
+the future because of climate
+change
+0.62
+0.72
+0.70
+1.00
+I feel helpless to do anything about
+climate change
+0.50
+0.50
+0.41
+0.62
+1.00
+Six climate change actions added
+together
+0.40
+0.45
+0.51
+0.43
+0.27
+1.00
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+4
+Discussion
+This study identiﬁed climate change distress and social norms
+about climate change mitigation as strong and independent factors
+associated with engaging in climate change activism behaviors. How-
+ever, Clayton and Karazsia reported that their measure of climate
+change anxiety was not associated with pro-environmental behav-
+iors [13]. Yet, their measures of behaviors were individual pro-envi-
+ronmental such as recycling and turning off lights, while the current
+study assessed climate change activism behaviors. One key question
+to further explore is whether depression, anxiety, and climate change
+distress have similar inﬂuences on individual-level pro-environmen-
+tal behaviors. Future research should also examine the relationship
+between individual-level pro-environmental behaviors and collective
+actions and assess if promoting individual-level pro-environmental
+behaviors leads to collective actions.
+The current analysis expands on Doherty and Webler’s ﬁndings
+that identiﬁed climate change mitigation social norms as a predictor
+of engagement in climate change action [17]. Doherty and Webler’s
+analysis included Vermont residents who were highly concerned
+about climate change. The current analysis generalizes these ﬁndings
+using a US population sample with diverse views about climate
+change mitigation.
+Another key ﬁnding from this study is that climate change distress
+and depressive symptoms have a differential impact on climate
+change activism behaviors. The measure of climate change distress
+included items that assessed depression, anxiety, worry, hopeless-
+ness, and helplessness. These ﬁve items were all signiﬁcantly associ-
+ated, with correlations ranging from 0.41 to 0.75, with anxiety and
+depression having the highest correlation. These strong associations
+suggest that we are measuring the construct of climate change dis-
+tress which, albeit correlated, is distinct from clinical depression and
+anxiety. One advantage of the current study was that the brief mea-
+sure of climate change distress was strongly associated with several
+climate change activism behaviors. We encourage other researchers
+to use this brief measure in studies of other populations.
+The relationship between depressive symptoms and climate
+change distress was slightly linear. However, it demonstrated a devi-
+ation from linearity at the right end, suggesting that this relationship
+may plateau at high levels. Despite the correlation between the level
+Table 3
+Unadjusted and adjusted logistic regression models for six climate change actions (N=775).
+Model 1: Wrote letters, e-mailed, or phoned government ofﬁcials
+Model 2: Voted
+Model 3: Petition
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+Age
+0.99 (0.97, 1.01)
+1.00 (0.98, 1.03)
+0.99 (0.98, 1.01)
+1.02 (1.01, 1.04) 0.98 (0.97, 0.99) 0.99 (0.98, 1.01)
+Sex
+1.17 (0.75, 1.83)
+1.18 (0.73, 1.91)
+0.98 (0.74, 1.30)
+0.82 (0.58, 1.16)
+1.38 (0.99, 1.93)
+1.38 (0.96, 2.00)
+Race/Ethnicity (ref: White)
+Non-Hispanic Black
+0.44 (0.19, 1.05)
+0.52 (0.21, 1.31)
+0.93 (0.61, 1.44)
+1.09 (0.65, 1.84)
+0.98 (0.59, 1.64)
+1.35 (0.76, 2.41)
+Hispanic
+0.52 (0.18, 1.48)
+0.47 (0.16, 1.43)
+1.12 (0.64, 1.95)
+1.28 (0.66, 2.48)
+1.40 (0.76, 2.56)
+1.61 (0.81, 3.17)
+Asian
+0.50 (0.15, 1.65)
+0.35 (0.10, 1.25)
+0.89 (0.48, 1.66)
+0.51 (0.25, 1.07)
+0.71 (0.32, 1.58)
+0.57 (0.24, 1.35)
+Other
+0.60 (0.14, 2.62)
+0.51 (0.11, 2.38)
+0.93 (0.41, 2.11)
+1.02 (0.39, 2.64)
+1.29 (0.52, 3.17)
+1.28 (0.48, 3.44)
+Political Afﬁliation (ref:
+Republican)
+Democrat
+4.89 (2.19, 10.95)
+2.61 (1.11, 6.14)
+5.66 (3.80, 8.44)
+2.85 (1.76, 4.61) 3.26 (1.98, 5.36) 1.47 (0.84, 2.58)
+Independent
+2.39 (0.98, 5.82)
+1.80 (0.70, 4.62)
+2.27 (1.48, 3.48)
+1.58 (0.95, 2.62)
+2.06 (1.19, 3.57) 1.37 (0.74, 2.53)
+Other
+1.61 (0.32, 8.12)
+1.49 (0.27, 8.29)
+1.60 (0.73, 3.52) 1.65 (0.66, 4.10)
+1.96 (0.76, 5.07)
+1.51 (0.52, 4.36)
+Education
+1.92 (1.18, 3.15)
+2.26 (1.30, 3.91)
+1.63 (1.22, 2.18)
+1.54 (1.07, 2.21)
+0.93 (0.67, 1.30)
+0.88 (0.60, 1.29)
+Income
+0.62 (0.39, 0.99)
+0.54 (0.32, 0.90)
+1.13 (0.85, 1.50)
+1.26 (0.87, 1.81)
+0.75 (0.54, 1.05)
+0.86 (0.59, 1.27)
+Climate change mitigation
+social norms scale (z-score)
+2.13 (1.65, 2.74)
+1.74 (1.30, 2.33)
+2.24 (1.90, 2.66)
+1.60 (1.31, 1.96) 2.07 (1.71, 2.51) 1.78 (1.43, 2.21)
+CES-D, Depressive symptoms
+scale (z-score)
+1.25 (1.02, 1.54)
+1.22 (0.95, 1.56)
+0.99 (0.87, 1.15)
+0.84 (0.70, 1.02)
+1.21 (1.03, 1.42) 1.07 (0.88, 1.30)
+Brief climate change distress
+scale (z-score)
+2.35 (1.78, 3.09)
+1.74 (1.26, 2.42)
+3.03 (2.52, 3.65)
+2.88 (2.29, 3.63) 2.55 (2.07, 3.14) 2.15 (1.68, 2.75)
+Model 4: Volunteer
+Model 5: Donated
+Model 6: Attended protests or rallies
+OR (95% CI)
+aOR (95% CI)1
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)3
+Age
+0.96 (0.93, 0.98)
+0.95 (0.93, 0.98)
+0.99 (0.97, 1.00)
+0.99 (0.98, 1.01)
+0.95 (0.93, 0.98)
+0.95 (0.92, 0.98)
+Sex
+1.11 (0.71, 1.75)
+1.16 (0.70, 1.94)
+0.96 (0.69, 1.34)
+0.92 (0.64, 1.34)
+0.90 (0.52, 1.55)
+0.82 (0.44, 1.51)
+Race/Ethnicity (ref: White)
+Non-Hispanic Black
+1.06 (0.55, 2.05)
+1.51 (0.68, 3.32)
+0.88 (0.53, 1.46)
+1.06 (0.59, 1.89)
+0.602 (0.23, 1.54)
+0.69 (0.24, 1.99)
+Hispanic
+0.28 (0.07, 1.18)
+0.26 (0.06, 1.16)
+0.74 (0.37, 1.47)
+0.76 (0.36, 1.60)
+0.202 (0.03, 1.49)
+0.15 (0.02, 1.15)
+Asian
+0.76 (0.26, 2.20)
+0.33 (0.10, 1.05)
+0.67 (0.31, 1.49)
+0.41 (0.17, 0.98)
+0.532 (0.12, 2.26)
+0.21 (0.04, 1.02)
+Other
+0.68 (0.16, 2.94)
+0.54 (0.10, 2.84)
+0.59 (0.20, 1.76)
+0.55 (0.16, 1.88)
+1.002
+1.00
+Political Afﬁliation (ref: Republican)
+Democrat
+2.391 (1.30, 4.41)
+1.08 (0.52, 2.24)
+3.70 (2.25, 6.08)
+1.98 (1.12, 3.49)
+3.691 (1.53, 8.86)
+1.83 (0.69, 4.83)
+Independent
+0.641 (0.28, 1.44)
+0.48 (0.19, 1.19)
+1.49 (0.84, 2.63)
+1.16 (0.62, 2.17)
+1.111 (0.38, 3.28)
+0.87 (0.27, 2.83)
+Other
+1.001
+1.00
+1.00 (0.32, 3.12)
+1.05 (0.31, 3.57)
+1.001
+1.00
+Education
+3.92 (2.17, 7.09)
+4.41 (2.27, 8.57)
+1.52 (1.08, 2.15)
+1.26 (0.84, 1.87)
+3.25 (1.61, 6.55)
+4.37 (2.00, 9.55)
+Income
+1.11 (0.71, 1.75)
+0.89 (0.52, 1.50)
+1.25 (0.90, 1.75)
+1.33 (0.91, 1.96)
+0.54 (0.30, 0.98)
+0.39 (0.20, 0.75)
+Climate change mitigation social norms
+scale (z-score)
+3.06 (2.29, 4.08)
+2.67 (1.90, 3.76)
+2.54 (2.07, 3.13)
+2.00 (1.60, 2.51)
+2.69 (1.93, 3.75)
+2.17 (1.46, 3.22)
+CES-D, Depressive symptoms scale (z-score)
+1.02 (0.82, 1.27)
+1.22 (0.93, 1.62)
+0.96 (0.81, 1.13)
+0.94 (0.77, 1.16)
+1.15 (0.89, 1.49)
+1.20 (0.87, 1.66)
+Brief climate change distress scale (z-score)
+2.00 (1.54, 2.61)
+1.34 (0.95, 1.89)
+2.17 (1.78, 2.64)
+1.77 (1.38, 2.26)
+2.38 (1.69, 3.36)
+1.58 (1.04, 2.41)
+OR= odds ratio, aOR=adjusted odds ratio, CI=conﬁdence interval, CES-D= Centers for Epidemiological Studies Depression Scale.
+1 n=743.
+2 n=751.
+3 n=721.
+5
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+of climate change distress and depressive symptoms, depressive
+symptoms were not independently associated with engagement in
+climate change action. In contrast, scores on the brief climate change
+distress scale were consistently and independently associated with
+climate change activism behaviors. This study also identiﬁed a non-
+linear relationship between climate change distress and engagement
+in climate change action. A drop-off was evident at the extreme right-
+hand tail of the plot of climate change distress and climate change
+action. These ﬁndings suggest that severe levels of climate change
+distress and depressive symptoms may impede climate change
+actions.
+Study ﬁndings suggest that it is important to acknowledge climate
+change distress and promote methods of channeling it into climate
+change activism behaviors and ensuring that it does not lead to psy-
+chopathology or deleterious coping mechanisms. Providing social
+support by climate action organizations may be beneﬁcial. This sup-
+port can be accomplished by structuring climate change action activi-
+ties in small groups, providing personal feedback and support to
+members, and providing opportunities for activists to get to know
+each other and support each other. It may also be beneﬁcial to
+acknowledge in forums with climate change activists that climate
+change distress is an appropriate reaction to the current situation
+and that climate change distress is not pathological or irrational.
+Leaders of climate change action organizations should also be trained
+to recognize signs of clinical depression and obtain professional sup-
+port for those who have high levels of anxiety and depression
+Fig. 1. Mean number of climate change actions by climate change distress, climate change social norms, and CES-D 10 scores.
+CES-D: Centers for Epidemiological Studies Depression Scale.
+Fig. 2. Mean climate change distress scores by CES-D 10 scores.
+CES-D: Centers for Epidemiological Studies Depression Scale.
+6
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+symptomology. Moreover, since the relationship between high levels
+of climate change distress and climate change actions may become
+negatively correlated, it is also important that climate change action
+organizations monitor and address high levels of climate change dis-
+tress. Finally, as the study was cross-sectional, we do not know if
+heightening climate change distress will lead to increased actions.
+Consequently, future research should longitudinally examine these
+associations.
+The empirical literature suggests that social norms interventions
+can promote pro-environmental behaviors [18]. These types of inter-
+ventions could be expanded to include climate change actions. Poten-
+tial strategies include communication campaigns that promote
+positive climate change mitigation social norms, mechanisms and
+strategies for managing climate change distress, and educating indi-
+viduals to be peer educators about climate change and mitigation
+strategies. As climate change mitigation requires collective action,
+individuals who engage in climate change activism can notify their
+friends of these actions to heighten social norms about climate
+change activism. Moreover, given the association between climate
+change distress and climate change activism behaviors, support from
+friends to engage in climate change action can buffer stress while
+heightening climate change activism social norms.
+In line with other research, Democrats were more likely than
+Republicans to report voting for a candidate who supported address-
+ing climate change [33]. We also found that Democrats were more
+likely than Republicans to donate to organizations working to reduce
+climate change. Organizations that address climate change may want
+to consider greater outreach to Republicans. Democrats tend to per-
+ceive Republicans as less concerned about climate change than they
+actually are [34, 35]. This dynamic may impede outreach to Republi-
+cans, who may be an essential constituency for groups promoting
+climate change activism since Republicans may have more contacts
+with Republican legislators and, hence, well-positioned to lobby
+them.
+Study limitations should be noted. The survey was not completed
+by a random or representative sample, which limited the generaliz-
+ability of the ﬁndings. However, attrition was low for an online sam-
+ple, and wave 7 had substantial diversity in race/ethnicity and
+political party afﬁliation. The measure of social norms has not been
+validated, and the cross-sectional analyses limit causal inferences.
+Although we used a validated climate activism measure, there is no
+standard deﬁnition of these behaviors. Hence key behaviors may
+have been omitted, and future studies should systematically delin-
+eate these activities. This longitudinal study was initiated early in the
+COVID-19 pandemic, and we did not assess climate change actions or
+climate change distress in the early waves since the pandemic was
+overshadowing other important issues. It is also likely that the pan-
+demic increased levels of depression and anxiety [36, 37]. In addition,
+due to the strong correlation between depression and anxiety symp-
+toms, separate measurements of the two conditions were not
+included as that can lead to multicollinearity if both are included in
+one statistical model [33, 38]. As the sample was comprised only of
+adults, the ﬁndings cannot be generalized to children. The sample
+size also was not determined a priori due to the longitudinal nature
+of the study and unknown effect sizes. We encourage other research-
+ers to replicate the ﬁndings in other populations, given the study lim-
+itations. As many racial minorities and ethnic groups are at increased
+risk from climate change, we also encourage researchers to work
+with these populations to study climate change distress, mental
+health, and climate activism.
+There are many avenues of research that warrant further atten-
+tion. Future research should examine those with very low levels of
+climate change distress, both those engaged in climate change action
+and those who are not. This will allow for a greater understanding of
+the role of psychological distress in engaging in climate change
+action. Moreover, future research should validate ﬁndings with other
+online platforms that have documented high-quality data, such as
+Proliﬁc [39]. Organizations that work towards addressing climate
+change should monitor and address high levels of depressive symp-
+toms and climate change distress. However, they should not patholo-
+gize climate change distress. Future research should examine the role
+of both depression and climate change distress in burnout from cli-
+mate change activism. It is also important to examine how people
+felt about their climate change actions or psychosocial factors that
+helped them maintain climate change action.
+Climate change distress can be viewed as a normal and appropri-
+ate reaction to the current climate change emergency. Although there
+is a substantial level of concern among the general population in
+many countries about global warming, there is far too little action to
+ensure that the temperature of the earth’s atmosphere does not rise
+to a level that will cause massive destruction and adverse consequen-
+ces for all life on the planet. Key questions for the community of cli-
+mate change researchers and practitioners are how to support
+individuals who report climate change distress and psychological
+Table 4
+Correlations and partial correlations of measures of depression, climate change actions, and climate change distress over three waves of data collection (N=414).
+Variables
+Number of change
+climate actions
+CES-D 10 at wave 7 CES-D 10 at wave 4 CES-D 10 at wave 1 Brief climate change
+distress scale
+Pearson correlations, (p-values in parentheses)
+Pearson correlation
+coefﬁcients
+Number of climate change
+actions
+1.000
+.059
+.111
+.168
+.449
+.
+(.228)
+(.023)
+(.001)
+(.000)
+CES-D 10
+Wave 7
+.059
+1.000
+.789
+.734
+.239
+(.228)
+.
+(.000)
+(.000)
+(.000)
+CES-D 10
+Wave 4
+.111
+.789
+1.000
+.763
+.238
+(.023)
+(.000)
+.
+(.000)
+(.000)
+CES-D 10
+Wave 1
+.168
+.734
+.763
+1.000
+.250
+(.001)
+(.000)
+(.000)
+.
+(.000)
+Brief climate change distress
+scale
+.449
+.239
+.238
+.250
+1.000
+(.000)
+(.000)
+(.000)
+(.000)
+.
+Partial correlation con-
+trolling climate
+change distress
+Number of climate change
+actions
+1.000
+-.055
+.005
+.065
+.
+(.261)
+(.915)
+(.189)
+CES-D 10
+Wave 7
+-.055
+1.000
+.777
+.717
+(.261)
+.
+(.000)
+(.000)
+CES-D 10
+Wave 4
+.005
+.777
+1.000
+.748
+(.915)
+(.000)
+.
+(.000)
+CES-D 10
+Wave 1
+.065
+.717
+.748
+1.000
+(.189)
+(.000)
+(.000)
+.
+CES-D: Centers for Epidemiological Studies Depression Scale.
+414 respondents completed all three waves of data collection: wave 1 (baseline, March 2020), wave 4 (November, 2020), and wave 7 (November, 2021).
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+7
+distress while channeling climate change distress effectively into
+action and how to foster pro-climate change action social norms to
+increase global action on climate change. It also may be beneﬁcial
+to examine the types of social norms most effective at facilitating
+climate change activism.
+Author agreement
+Ethical Approval
+The research protocols were approved by the Johns Hopkins
+Bloomberg School of Public Health IRB.
+Consent to Participate
+All study participants were provided an informed consent form
+and indicated that they agreed to participate.
+Consent to Publish
+All authors read and approved the ﬁnal version.
+Authors Contributions
+CL and LD conducted analyses. CL and LD conceptualized the study
+and supervised data collection. All authors were involved in the writ-
+ing and editing of the manuscript.
+Availability of data and materials
+This is an ongoing longitudinal study. A deidentiﬁed data set is
+available from the authors.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Funding
+Grants from the National Institute on Drug Abuse (R01 DA040488)
+and Johns Hopkins Alliance for a Healthier World were provided to
+the ﬁrst author.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2022.100146.
+References
+[1] U.N. Environment. Emissions gap report 2021. UNEP - UN Environment Pro-
+gramme;
+2021
+http://www.unep.org/resources/emissions-gap-report-2021
+(accessed February 11, 2022).
+[2] Leiserowitz A, Maibach E, Rosenthal S, Kotcher J, Carman J, Neyens L, Marlon J,
+Lacroix K, Goldberg M. Climate change in the American mind. New Haven, CT:
+Yale University and George Mason University; 2021.
+[3] Hogg TL, Stanley SK, O’Brien LV, Wilson MS, Watsford CR. The Hogg eco-anxiety
+scale: development and validation of a multidimensional scale. Glob Environ
+Chang 2021;71:102391. doi: 10.1016/j.gloenvcha.2021.102391.
+[4] Coffey Y, Bhullar N, Durkin J, Islam MS, Usher K. Understanding eco-anxiety: a
+systematic scoping review of current literature and identiﬁed knowledge gaps.
+J Climate Chang Health 2021;3:100047. doi: 10.1016/j.joclim.2021.100047.
+[5] Hrabok M, Delorme A, Agyapong VIO. Threats to mental health and well-being
+associated with climate change. J Anxiety Disord 2020;76:102295. doi: 10.1016/j.
+janxdis.2020.102295.
+[6] New APA poll reveals that Americans are increasingly anxious about climate
+change’s impact on planet, mental health, (Oct. 21, 2020). https://www.psychia-
+try.org/newsroom/news-releases/climate-poll-2020 (accessed February 4, 2022).
+[7] Building public and political will for climate change action. Yale School Environ
+2020
+https://environment.yale.edu/news/article/building-public-and-political-
+will-for-climate-change-action (accessed February 4, 2022).
+[8] Boone T, Reilly AJ, Sashkin M. Social learning theory. Albert Bandura Englewood
+Cliffs, N.J.: Prentice-Hall; 1977. p. 247..
+[9] Peterson C, Maier SF, Seligman MEP. Learned helplessness: a theory for the age of
+personal control. Oxford University Press; 1993.
+[10] Landry N, Gifford R, Milfont TL, Weeks A, Arnocky S. Learned helplessness moder-
+ates the relationship between environmental concern and behavior. J Environ
+Psychol 2018;55:18–22. doi: 10.1016/j.jenvp.2017.12.003.
+[11] Koutsimani P, Montgomery A, Georganta K. The relationship between burnout,
+depression, and anxiety: a systematic review and meta-analysis. Front Psychol
+2019;10:284. doi: 10.3389/fpsyg.2019.00284.
+[12] Bowen HJ, Kark SM, Kensinger EA. NEVER forget: negative emotional valence
+enhances recapitulation. Psychon Bull Rev 2018;25:870–91. doi: 10.3758/
+s13423-017-1313-9.
+[13] Clayton S, Karazsia BT. Development and validation of a measure of climate
+change
+anxiety.
+J
+Environ
+Psychol
+2020;69:101434.
+doi:
+10.1016/j.jenvp.
+2020.101434.
+[14] Antony MM, Bieling PJ, Cox BJ, Enns MW, Swinson RP. Psychometric properties of
+the 42-item and 21-item versions of the depression anxiety stress scales in clini-
+cal groups and a community sample. Psychol Assess 1998;10:176–81. doi:
+10.1037/1040-3590.10.2.176.
+[15] Stanley SK, Hogg TL, Leviston Z, Walker I. From anger to action: Differential
+impacts of eco-anxiety, eco-depression, and eco-anger on climate action and
+well-being.
+J Climate
+Chang Health 2021;1:100003.
+doi: 10.1016/j.joclim.
+2021.100003.
+[16] Sparkman G, Howe L, Walton G. How social norms are often a barrier to address-
+ing climate change but can be part of the solution. Behav Public Policy
+2021;5:528–55. doi: 10.1017/bpp.2020.42.
+[17] Doherty KL, Webler TN. Social norms and efﬁcacy beliefs drive the alarmed seg-
+ment’s public-sphere climate actions. Nature Clim Change 2016;6:879–84. doi:
+10.1038/nclimate3025.
+[18] J. Nolan, Social Norms and Their Enforcement, in: The Oxford Handbook of Social
+Inﬂuence, Oxford University Press, Oxford, n.d.: pp. 147−164.
+[19] Roser-Renouf C, Maibach EW, Leiserowitz A, Zhao X. The genesis of climate
+change activism: from key beliefs to political action. Clim Change 2014;125:163–
+78. doi: 10.1007/s10584-014-1173-5.
+[20] Latkin CA, Dayton L, Strickland JC, Colon B, Rimal R, Boodram B. An assessment of
+the rapid decline of trust in US sources of public information about COVID-19. J
+Health Commun 2020;25:764–73. doi: 10.1080/10810730.2020.1865487.
+[21] Zang SM, Benjenk I, Breakey S, Pusey-Reid E, Nicholas PK. The intersection of cli-
+mate change with the era of COVID-19. Public Health Nurs 2021;38:321–35. doi:
+10.1111/phn.12866.
+[22] Crequit P, Mansouri G, BenchouﬁM, Vivot A, Ravaud P. Mapping of crowdsourc-
+ing in health: systematic review. J Med Internet Res 2018;20:e187. doi: 10.2196/
+jmir.9330.
+[23] Chandler J, Shapiro D. Conducting clinical research using crowdsourced conve-
+nience samples. Annu Rev Clin Psychol 2016;12:53–81. doi: 10.1146/annurev-
+clinpsy-021815-093623.
+[24] Follmer DJ, Sperling RA, Suen HK. The role of MTurk in education research: advan-
+tages, issues, and future directions. Edu Res 2017;46:329–34. doi: 10.3102/
+0013189X17725519.
+[25] Huff C, Tingley D. "Who are these people?” Evaluating the demographic charac-
+teristics and political preferences of MTurk survey respondents. Res Politics
+2015;2:205316801560464. doi: 10.1177/2053168015604648.
+[26] Moss AJ, Rosenzweig C, Robinson J, Litman L. Demographic stability on mechani-
+cal Turk despite COVID-19. Trends Cogn Sci 2020;24:678–80. doi: 10.1016/j.
+tics.2020.05.014.
+[27] J. Young J, Young K. Don’t get lost in the crowd: best practices for using Amazon’s
+Mechanical Turk in behavioral research. Journal of the Midwest Association for
+Information Systems (JMWAIS) 2019:7–34. doi: 10.17705/3jmwa.000050.
+[28] Strickland JC, Stoops WW. The use of crowdsourcing in addiction science
+research: Amazon Mechanical Turk. Exp Clin Psychopharmacol 2019;27:1–18.
+doi: 10.1037/pha0000235.
+[29] Rouse SV. A reliability analysis of Mechanical Turk data. Comput Hum Behav
+2015;43:304–7. doi: 10.1016/j.chb.2014.11.004.
+[30] Irwin M, Artin KH, Oxman MN. Screening for depression in the older adult:
+criterion validity of the 10-item center for epidemiological studies depression
+scale
+(CES-D).
+Arch
+Intern
+Med
+1999;159:1701.
+doi:
+10.1001/archinte.
+159.15.1701.
+[31] Gonzalez P, Nu~nez A, Merz E, Brintz C, Weitzman O, Navas EL, Camacho A, Buelna
+C, Penedo FJ, Wassertheil-Smoller S, Perreira K, Isasi CR, Choca J, Talavera GA,
+Gallo LC. Measurement properties of the center for epidemiologic studies depres-
+sion scale (CES-D 10): ﬁndings from hchs/sol. Psychol Assess 2017;29:372–81.
+doi: 10.1037/pas0000330.
+[32] Mohebbi M, Nguyen V, McNeil JJ, Woods RL, Nelson MR, Shah RC, et al. Psycho-
+metric properties of a short form of the Center for Epidemiologic Studies Depres-
+sion (CES-D-10) scale for screening depressive symptoms in healthy community
+dwelling older adults. Gen Hosp Psychiatry 2018;51:118–25. doi: 10.1016/j.gen-
+hosppsych.2017.08.002.
+[33] Environmental Protection Rises on the Public’s Policy Agenda As Economic Con-
+cerns Recede. Pew Research Center - U.S. Politics & Policy; 2020 https://www.
+pewresearch.org/politics/2020/02/13/as-economic-concerns-recede-environ-
+mental-protection-rises-on-the-publics-policy-agenda/TagedEnd (accessed February 4,
+2022).
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+8
+[34] A. Tyson. On climate change, Republicans are open to some policy approaches,
+even as they assign the issue low priority, Pew Research Center. https://www.
+pewresearch.org/fact-tank/2021/07/23/on-climate-change-republicans-are-
+open-to-some-policy-approaches-even-as-they-assign-the-issue-low-priority/
+(accessed February 4, 2022).
+[35] Van Boven L, Ehret PJ, Sherman DK. Psychological barriers to bipartisan public
+support for climate policy. Perspect Psychol Sci 2018;13:492–507. doi: 10.1177/
+1745691617748966.
+[36] Riehm KE, Holingue C, Smail EJ, Kapteyn A, Bennett D, Thrul J, et al. Trajectories of
+mental distress among US Adults during the COVID-19 pandemic. Ann Behav
+Med 2021;55:93–102. doi: 10.1093/abm/kaaa126.
+[37] Holingue C, Kalb LG, Riehm KE, Bennett D, Kapteyn A, Veldhuis C, et al.
+Mental distress in the United States at the beginning of the COVID-19 pan-
+demic. Am J Public Health 2020;110(2020):1628–34. doi: 10.2105/ajph.2020.
+305857.
+[38] Kroenke K, Baye F, Lourens SG. Comparative validity and responsiveness of PHQ-
+ADS
+and
+other
+composite
+anxiety-depression
+measures.
+J
+Affect
+Disord
+2019;246:437–43. doi: 10.1016/j.jad.2018.12.098.
+[39] Eyal P, David R, Andrew G, Zak E, Ekaterina D. Data quality of platforms and pan-
+els for online behavioral research. Behav Res Methods 2021. doi: 10.3758/
+s13428-021-01694-3.
+C. Latkin, L. Dayton, M. Scherkoske et al.
+The Journal of Climate Change and Health 8 (2022) 100146
+9

@@ -1,0 +1,2221 @@
+Supported by:
+•	 Sold Price
+•	 Days on Market 
+•	 Houses on Market 
+•	 Mortgage Arrears & Deferrals
+Flooding Impact 
+on House Price     
+-8.2%
+February 2022
+Kathryn Bakos
+Dr. Blair Feltmate
+Chris Chopik
+Cheryl Evans
+TREADING WATER: 
+IMPACT OF 
+CATASTROPHIC 
+FLOODING 
+ON CANADA’S 
+HOUSING MARKET
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+2
+ABOUT THE INTACT CENTRE ON CLIMATE ADAPTATION
+The Intact Centre on Climate Adaptation (Intact Centre) is an applied research centre at the University of 
+Waterloo. The Intact Centre was founded in 2015 with a gift from Intact Financial Corporation, Canada’s 
+largest property and casualty insurer. The Intact Centre helps homeowners, communities and businesses to 
+reduce risks associated with climate change and extreme weather events. For additional information, visit: 
+www.intactcentreclimateadaptation.ca
+ABOUT THE UNIVERSITY OF WATERLOO
+The University of Waterloo is Canada’s top innovation university. With more than 42,000 full and part-time 
+students (Fall 2020), the university is home to the world’s largest co-operative education system of its kind. The 
+university’s unmatched entrepreneurial culture, combined with an intensive focus on research, powers one of the 
+top innovation hubs in the world. For additional information, visit: www.uwaterloo.ca
+ABOUT THE GLOBAL RISK INSTITUTE
+The Global Risk Institute (GRI) is a premier organization that defines thought leadership in risk management for 
+the financial industry. GRI brings together leaders from industry, academia, and government to draw actionable 
+insights on risks globally. For more information, visit: https://globalriskinstitute.org
+ABOUT CANADA MORTGAGE AND HOUSING CORPORATION
+Canada Mortgage and Housing Corporation (CMHC) is Canada’s national housing agency. For additional 
+information visit: https://www.cmhc-schl.gc.ca/en
+ABOUT INTACT FINANCIAL CORPORATION
+Intact Financial Corporation (TSX: IFC) is the largest provider of property and casualty (P&C) insurance in 
+Canada, a leading provider of global specialty insurance, and, with RSA, a leader in the U.K. and Ireland. Our 
+business has grown organically and through acquisitions to over $20 billion of total annual premiums. In Canada, 
+Intact distributes insurance under the Intact Insurance brand through a wide network of brokers, including its 
+wholly-owned subsidiary BrokerLink, and directly to consumers through belairdirect. Intact also provides affinity 
+insurance solutions through the Johnson Affinity Groups. In the U.S., Intact Insurance Specialty Solutions provides 
+a range of specialty insurance products and services through independent agencies, regional and national brokers, 
+and wholesalers and managing general agencies. Outside of North America, the Company provides personal, 
+commercial and specialty insurance solutions across the U.K., Ireland, Europe and the Middle East through the 
+RSA brands. For more information, visit: https://intactfc.com/  
+ACKNOWLEDGMENTS
+The Intact Centre thanks GRI, CMHC and IFC for their support of the report. We are grateful to Whitehall 
+Realty, Sotheby’s Reality Associates and multiple real estate agents and brokers who helped to secure housing price 
+data for the report. A special thanks to Joanna Eyquem for supporting the French translation of this document.
+CITATION
+Bakos, K., Feltmate, B., Chopik, C. & Evans, C. (2022). Treading Water: Impact of  Flooding on Canada’s Residential 
+Housing Market. Prepared by the Intact Centre on Climate Adaptation, University of Waterloo.
+For information about this report, contact Kathryn Bakos: kbakos@uwaterloo.ca
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+3
+LIST OF CONTRIBUTORS
+A special thank you to: 									
+• Marissa Boone, REALTOR®, RE/MAX East Coast Elite Realty, Fredericton, 
+New Brunswick, Canada
+• Marie Champagne, REALTOR®, Engel & VÖlkers Montreal, Canada
+• Chris Chopik, REALTOR®, Sotheby’s International Realty Canada, Brokerage, 
+Toronto, Canada
+• Alexandra Cote, REALTOR®, Toronto, Canada
+• Alisa Goodwin, REALTOR®, Ottawa, Canada
+• AJ Lamba, REALTOR®, Real Estate Coach & Broker Owner, Whitehill Reality 
+Int. Inc., AJ Lamba Academy Inc., Toronto, Canada
+• Paul Shreenan, REALTOR®, Nelson, British Columbia, Canada
+• Rebecca Steeves, REALTOR®, RE/MAX East Coast Elite Realty, Fredericton, 
+New Brunswick, Canada, and
+• others who contributed their time and requested to remain anonymous 
+Photo credits (Dreamstime.com): cover 185250625 / Flooding Montreal © Marc Bruxelle, p.5 109045164 © Ian Dean, p.8 
+2704928 © Shuttermama, p.10 97997102 © Zhukovsky, p.16 94986296 © Marc Belair, p.28  5087235 © Tabitha Godin
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+4
+Table of Contents
+Executive Summary	
+5
+Residential Real Estate 
+7
+Residential Mortgages
+8
+Mitigating Residential Flood Risk
+9
+Introduction: The Landscape of Residential Flood Risk in Canada		
+11
+Method: Drilling Down on Flood Risk 	
+16
+City and Community Selection Criteria
+17
+Control for Spatial Pseudoreplication
+18
+Community Descriptive Characteristics
+19
+Results: Residential Flood Risk Revealed 
+22
+Attribution of Flood Impact
+23
+Real Estate Variables
+23
+Average Sold Price of Houses 
+23
+Average Days on Market 
+25
+Average Number of Houses on Market
+26
+Case Study – Fredericton
+27
+Mortgage Variables
+30
+Arrears and Deferrals
+30
+Discussion: Keeping Canada’s Housing Market Above Water 
+31
+Housing Market
+32
+Rental Market
+33
+Mortgage Market
+34
+Mortgage Securitization
+34
+Actions to Mitigate Residential/Community Flood Risk
+35
+Home Flood Protection Guidance
+35
+Climate Adaptation Home Rating Program (CAHRP)
+37
+Flood Risk Maps
+37
+Residential Flood Risk Scores
+38
+Natural Infrastructure
+38
+Community Flood Risk Mitigation
+39
+Conclusion
+41
+References
+43
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+5
+Executive Summary	
+3.3 million
+Canadians live
+in the
+100-year ﬂoodplain
+3.9 million
+Canadians live
+in the
+200-year ﬂoodplain
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+6
+The most costly impact of climate change affecting 
+Canadians is residential basement flooding, that is 
+often made worse through poor land-use planning 
+and management.
+With about 9% (3.3 million) and 11% (3.9 million) of the Canadian population 
+residing in 1-in-100 and 1-in-200-year floodplains, respectively, these percentages are 
+expected to increase as floodplains expand in response to more extreme precipitation 
+driven by climate change (Mohanty and Simonivic 2021) and to the loss of natural 
+infrastructure (e.g., forests, grasslands and wetlands that act as “sponges”).  Also, 
+outside the boundary of floodplains, residential flooding is impacting an increasing 
+number of homes and communities due to high intensity precipitation events – 
+referred to colloquially as “water bombs” – that render historically safe communities 
+vulnerable to flooding.
+Against this backdrop, this study examined whether catastrophic flooding affects 
+Canadian residential real estate (house sold price, days on market and number of 
+listings) and mortgage markets (arrears and deferrals). The primary audience to 
+which findings of this report bears direct relevance includes homeowners, mortgage 
+providers, municipalities and financial regulators.   
+Five cities that experienced one-or-two catastrophic floods (i.e., events triggering 
+upwards of $25 million in insurable claims), from 2009-2020, were considered 
+in the real estate component of the study: Grand Forks (British Columbia: 2018), 
+Burlington (Ontario: 2014), Toronto (Ontario: 2019), Ottawa (Ontario:  2019 and 
+2017) and Gatineau (Quebec: 2017).  Two cities were considered relative to the 
+impact of flooding on mortgage arrears and deferrals.  Aggregated mortgage arrears 
+and deferrals data was provided by a Canadian financial institution which requested 
+that the cities analyzed remain anonymous.
+Relative to study design, the impact of flooding on the real estate and mortgage 
+markets was measured for periods of six months pre- vs. post-catastrophic flood 
+event.  For example, if a flood event occurred on January 1, 2020, the time period 
+under investigation would include six months pre-flood (July 1, 2019 to December 
+31, 2019) and six months post-flood (January 1, 2020 to June 30, 2020).  Attribution 
+of “flood only impacts” was determined by juxtaposing (or “subtracting out”) 
+changes in nearby non-flooded control communities (i.e., areas with virtually 
+identical demographic and housing characteristics) over identical times of six months 
+pre- vs. post-flooding.  Thus, all data presented in this report reflects the isolated or 
+“net effects” of flooding.
+The primary 
+audience to which 
+findings of this 
+report bears direct 
+relevance includes 
+homeowners, 
+mortgage providers, 
+municipalities and 
+financial regulators
+Executive Summary
+44.3% reduction 
+in average houses listed 
+for sale
+8.2% reduction 
+in average sold price 
+of house
+19.8% increase 
+in average days on 
+market to sell a house
+$
+FOR
+SALE
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+7
+Residential Real Estate 
+The net impacts of catastrophic flooding on residential housing, averaged across the 
+five aforementioned cities (and six flood events), for six months pre- vs. post-flood 
+event, were as follows:
+As context, for a house that would sell at the Canadian average price of $713,500 (as 
+of December 2021; WOWA 2021), if the neighbourhood was subject to catastrophic 
+flooding, and assuming the average 8.2% impact of flooding on price, the house 
+would be sold for $654,993, reflecting a “flood discount” of $58,507.
+A 19.8% longer time period to sell a house in a flooded community may not be 
+material to sellers, as the median time to sell a house in Canada is 65 days (Realtor 
+2021), which would translate into an additional 13 days on market.  This longer 
+time frame may reflect caution on the part of buyers practicing due diligence when 
+purchasing a house in a flood prone community. 
+A 44.3% reduction in the number of houses listed for sale following a catastrophic 
+flood may be due to: (a) expectation of a lower listing price in the aftermath of 
+flooding, (b) waiting for the “stigma” of flooding to pass, and/or (c) time required to 
+remediate a house following flood damage prior to listing (Hino and Marshall 2020; 
+Sanders et al. 2020).  Arguably, 44.3% fewer house listings reflects stress on those 
+who would otherwise position their house on the market – additionally, stakeholders 
+in the real estate sector, including real estate agents, stagers, lawyers, mortgage 
+brokers and lenders, would also realize an impact (Zhang and Leonard 2019).
+A case study (Fredericton, NB) suggested that for communities within cities that flood 
+on a near annual basis for at least a decade (vs. one or two catastrophic floods per 
+decade), the impact of flooding can be priced into the real estate market permanently.
+Executive Summary
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+8
+Residential Mortgages
+When evaluating the net impacts of catastrophic flooding on residential mortgage 
+arrears and deferrals for two Canadian cities, for six months pre- vs. post-flood event, 
+the results showed no consistent or material impact. Post-flood mortgage arrears 
+and deferrals increased in the flood-impacted region of one community (relative to 
+the non-flood impacted control), while in the second city, the results reversed. This 
+outcome suggests that factors other than flooding may be consequential to mortgage 
+arrears and deferrals (Balmbra 2021).
+Importantly, the rate of mortgage arrears and deferrals in flooded vs. non-flooded 
+communities largely fell within market norms.  The total number of arrears and 
+deferrals in flood-impacted and control regions ranged from 0.32 – 7.07 per 1,000 
+homes over a six-month period, which translates to a worse-case scenario of 1.18 
+arrears and deferrals per 1,000 homes per month.  The consequences of  flooding 
+appear to be relatively immaterial regarding mortgage arrears, particularly 
+considering that impacts would generally last only a few months post-flood (Zhang 
+and Leonard 2019).
+Executive Summary
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+9
+Mitigating Residential Flood Risk
+Currently, available and/or suggested developments to help limit the impact of 
+flooding at the community and/or individual house level include, but are not limited 
+to, the following:
+•	 Home Flood Protection Guidance: Banks, credit unions, real estate 
+brokers, mortgage providers and Property & Casualty insurers are increasingly 
+distributing the infographic Three Steps to Cost-Effective Home Flood 
+Protection, to provide direction to homeowners regarding practical actions 
+to lower risk of basement flooding. Most steps in this infographic are 
+deployable with no special expertise and for minimal cost. https://www.
+intactcentreclimateadaptation.ca/wp-content/uploads/2021/03/3-Steps-to-
+Home-Flood-Protection_March-2021_Space-for-Partner-Logo.pdf
+•	 Climate Adaptation Home Rating Program (CAHRP): The federal 
+government of Canada launched the CAHRP in 2021, as a companion to 
+EnerGuide home energy audits.  CAHRP can help homeowners to navigate the 
+flood retrofit process, and expand on the eligibility requirements of the Canada 
+Mortgage and Housing Corporation’s (CMHC) deep home retrofit program 
+and Canada Greener Home Grants to include more climate resilience/
+flood risk mitigation measures. https://liberal.ca/wp-content/uploads/
+sites/292/2021/08/wildfires-ENG-1.pdf 
+•	 Flood Risk Maps: Federal, provincial, territorial and municipal governments 
+are updating flood risk maps to aid city planners, developers, engineers and 
+municipal risk officers to identify and remediate areas at high risk of flooding.  
+These maps, where publicly available, may guide homeowners to make 
+informed decisions to limit flood risk. 
+•	 Residential Flood Risk Scores: Federal, provincial, territorial and 
+municipal governments should develop a system that establishes a flood risk 
+score for any residential property, based on address/postal code (as exists in the 
+US - https://floodfactor.com/).
+•	 Natural Infrastructure: Federal, provincial, territorial and municipal 
+governments should develop and enforce guidelines and standards to retain and 
+restore natural infrastructure (e.g., forests, grasslands, wetlands) to limit current 
+and future flood risk. In addition to government led initiatives, residents should 
+also be proactive and use natural infrastructure, for example, to a greater extent 
+on their personal properties (e.g., wild gardens and naturalized driveways). 
+•	 Community Flood Risk Mitigation: Through guidelines supported 
+by the Standards Council of Canada and the National Research Council, 
+Executive Summary
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+10
+communities can act now to identify areas at high risk of flooding, and 
+subsequently deploy actions to mitigate risks (in some cases flood risk protection 
+may be beyond practical and cost-effective remediation). https://www.
+intactcentreclimateadaptation.ca/wp-content/uploads/2019/01/Weathering-
+the-Storm.pdf
+The “bad news” regarding the impact of flooding on residential housing is that 
+climate change and extreme weather-related flood risk, at times combined with poor 
+land-use planning, will get more challenging across many regions of Canada (IPCC 
+2021), and if left unchecked, will increasingly distress the residential housing market.  
+The “good news” is that Canada has developed, or is in the process of developing, a 
+wealth of guidance to help homeowners and communities to mitigate flood risk.
+The challenge going forward is to apply known and evolving best practices, guidelines 
+and standards to mitigate home and community-level flood risk with a sense of 
+urgency, which is the applied and philosophical centerpiece of Canada’s National 
+Adaptation Strategy (https://www.canada.ca/en/services/environment/weather/
+climatechange/climate-plan/national-adaptation-strategy.html).
+The challenge 
+going forward is 
+to apply known 
+and evolving best 
+practices, guidelines 
+and standards to 
+mitigate home and 
+community-level 
+flood risk with a 
+sense of urgency
+Executive Summary
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+11
+Introduction: The 
+Landscape of Residential 
+Flood Risk in Canada		
+Average change in 
+number of houses 
+listed for sale
+Average ﬁnal sold 
+price of a house
+Average days 
+on market to 
+sell a house
+$
+Average change in 
+mortgage arrears 
+and deferrals
+FOR
+SALE
+$
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+12
+Property-level residential flooding of detached, 
+semi-detached and row housing is occurring 
+more frequently across Canada, driven in part 
+by “increasing trends in extreme precipitation in 
+North America”, which models and theory suggest 
+will continue as the climate warms (Kirchmeier-
+Young and Zhang 2020).  
+With about 9% (3.3 million) and 11% (3.9 million) of the Canadian population 
+residing in 1-in-100 and 1-in-200 year floodplains, respectively – and with flood risk 
+on the rise (Mohanty and Simonovic 2021; IPCC 2021) – if left unchecked flooding 
+may impact the “safety and soundness of the Canadian financial system” (OSFI 2021).
+Testimony to the adverse impact of flooding is the increase in Canadian home 
+insurance premiums of 20-25% over the period 2015-2019, with more than half 
+of this upturn attributable to flood damage (Moudrak and Feltmate 2020).  The 
+Property & Casualty (“P&C”) insurance implications of residential flooding are 
+material and understood.  What is not known, and therefore is the focus of this study, 
+is the impact severe flooding may have on Canada’s housing market, relative to:
+If left unchecked 
+flooding may 
+impact the “safety 
+and soundness 
+of the Canadian 
+financial system”
+A North American 
+examination of 
+catastrophic loss 
+impacts on real 
+estate values has 
+shown that “the 
+homeowner has 
+the most financial 
+risk associated with 
+climate impacts”
+Quantitative documentation regarding the effects of flooding on real estate 
+parameters is available primarily from the United States and the United Kingdom 
+(Belanger et al. 2018).  Consistent with this, a North American examination of 
+catastrophic loss impacts on real estate values has shown that “the homeowner has 
+the most financial risk associated with climate impacts” (Chopik 2019).  
+Canadian studies have tended to be more anecdotal, yet insightful – as suggested by 
+Appraisal Institute of Canada CEO Keith Lancastle, “challenges stemming from climate 
+change have resulted in individual property owners seeing reductions in the value of  their property, 
+or the need to take additional steps to help protect that property from the impacts of  climate change” 
+(Meyer 2020).
+Introduction
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+13
+As profiled in Canada’s Changing Climate Report 2019 (ECCC 2019), and by the 
+Intergovernmental Panel on Climate Change (IPCC 2021), climate change and extreme 
+weather are effectively irreversible, and will continue to challenge Canada’s real 
+estate market.  Although initiatives within Canada, and globally, to mitigate 
+greenhouse gas emissions (e.g., Canadian Net-Zero Emissions Accountability Act 
+2020) and sequester carbon are commendable, these efforts will slow, but not stop, 
+climate change.
+Relative to insurable losses, flooding is the most pervasive and costly extreme weather 
+risk in Canada (Feltmate et al. 2020).  More specifically, catastrophic insured losses 
+(i.e., events that trigger > $25 million in claims) associated with extreme weather 
+in Canada over the period from 1983-2021 are presented in Figure 1.  From 1983-
+2008, insurance losses averaged $250-$450 million per year.  From 2009-2021 
+losses increased, averaging $1.96 billion per year, and for 12 of 13 years (finishing 
+2021) annual losses were in excess of $1 billion per year. The causal factor driving 
+over 50% of the escalating claims was “too much water in the wrong place”, and 
+specifically, residential basement flooding.
+Introduction
+2017
+2019
+2015
+2013
+2011
+2009
+2007
+2005
+2003
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+1987
+1985
+1983
+4.0
+3.0
+2.0
+1.0
+5.0
+0.0
+Loss and Loss Adjustment Expenses
+Estimated Trend
+2021
+$CAD Billions
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+14
+Figure 1: Catastrophic Insurable Claims ($ Can/billions) in Canada, 1983-
+2021.  Blue bars represent loss + loss adjusted expenses.  $1 in insured 
+loss reflects an “insurance gap” of $3-4. 
+Source: IBC (2022) & CatIQ (2022)
+Note: claims have been normalized for inflation ($2021) and per capita wealth accumulation.
+In addition to increasing residential insurance premiums, cap rates (i.e., the 
+maximum level of flood insurance available) for basement flooding are trending 
+lower, while the percentage of homes in cities across Canada deemed uninsurable 
+relative to flooding is migrating upwards (IBC 2020; Malik 2019).  Beyond the 
+financial impacts, in worst case scenarios severe flooding has “turned basement 
+apartments into death traps.” (Zaveri et al. 2021).  
+The insurance ramifications and general stigma of flooding may affect the price 
+that buyers are willing to pay for a home (Ortega and Taspinar 2018; Macdonald 
+2019).  Beyond the mental stress of owning a flood prone home, the financial burden 
+of a higher insurance premium, lower flood risk cap and/or lack of insurance 
+coverage, may make a property undesirable to a potential buyer in the absence of an 
+adjustment on purchase price (Chopik 2021).
+The average cost of remediating weather-induced flooded basements in Canada is 
+$43,000 (Moudrak and Feltmate 2019). If homeowners are without flood insurance, 
+or if flood insurance is limited at a low cap, then restoring an impacted basement 
+can be a sizable financial challenge. This may be especially true for homeowners 
+under conditions where they are “cash strapped” (48% of Canadians report a 
+monthly surplus of < $200; CPA 2019).  As such, the cost of basement flood 
+remediation could factor into the purchase/sale price of a property.
+$43,000
+Average cost of remediating
+weather-induced ﬂooded
+basements in Canada
+Introduction
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+15
+Flood risk could influence the potential for mortgage arrears, either today or in the 
+future if flood risk is left unchecked.  For example, flood risk resulting in a substantial 
+increase in an insurance premium could prove problematic for a homeowner with 
+limited liquidity (i.e., those with limited surplus monthly cash flow).  Alternatively, 
+following a flood, if insurance coverage was materially below remediation costs, or 
+there was no flood coverage, homeowners might have to draw down on limited funds 
+to remediate damage (for which not acting is not an option with a basement full of 
+sewer water), thus potentially forcing the owner into mortgage arrears.
+To address these issues, the quantitative method to assess the impact of catastrophic 
+flooding on the Canadian real estate and mortgage markets follows below.  
+Additionally, practical and cost-effective actions that are within the power of 
+homeowners and communities to “get ahead of the curve on flood risk”, rather than 
+chasing it, are profiled.    
+Flood risk could 
+influence the 
+potential for 
+mortgage arrears... 
+in the future if 
+flood risk is left 
+unchecked
+Introduction
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+16
+Method: Drilling 
+Down on Flood Risk 	
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+17
+The impact of  community-level residential 
+flooding was assessed relative to four categories 
+of  response variable: 
+Average final sold price of a house
+Average days on market to sell a house
+Average change in number of houses 
+listed for sale
+Average change in mortgage arrears 
+and deferrals*
+* Mortgage arrears refers to a contractual agreement that has not received payment on interest or 
+principal by its due date, and that is generally not agreed upon by the lender and borrower.  Mortgage 
+deferrals refers to the inability of the borrower to make timely payments on interest or principal 
+owed. In these instances, borrowers may defer contractual payments, and restart regular payments once 
+the deferral period expires.  The lender and borrower generally agree upon deferrals.  
+City and Community Selection Criteria
+Cities and communities considered for inclusion in the study were those that 
+experienced significant flooding, following the rationale that if flooding had the 
+potential to be impactful, it would manifest under a worst-case scenario (otherwise 
+referred to as a “sledgehammer” effect; Schindler 1987).
+Consistent with the above rationale, flood-impacted cities and communities included 
+in the study shared at least two of the following three characteristics:
+a.	 experienced P&C insurance claims post-flood event > $25 million (i.e., the 
+definition of a “catastrophic” event)
+b.	 magnitude of flooding > 1-in-50 year event (i.e., a major flood), and
+c.	 community did not have a history of catastrophic level flooding, as otherwise 
+flood risk may be priced into the market
+The geographic range of cities included in the study was Pan-Canadian 
+(representing western, central and eastern Canada). Cities in Canada’s territories 
+were not included, as historically flooding has tended to be less problematic in most 
+northern communities (Feltmate and Moudrak 2021).
+Method
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+18
+Residential housing examined in the study was either detached, semi-detached or 
+row housing (1-2 story dwellings only).
+The period over which flood events were considered was 2009-2020, during which 
+time insured losses related to natural catastrophic events escalated to an average of 
+approximately $2 billion per year, compared with $422 million per year from 1983-
+2008 (Feltmate and Moudrak 2021). In 2021 alone, insured losses were $2.1 billion.  
+Accordingly, the potential for catastrophic flooding to impact residential housing and 
+mortgage arrears, if at all, would be most evident from 2009 onwards.
+Canadian cities/communities meeting the above criteria were identified utilizing 
+several sources, including media reporting of major flood events in Canada from 
+2009 onwards, and public reports issued by IBC (http://www.ibc.ca/on/disaster/
+water/flooding-in-canada).
+Provinces and cities that met the above criteria included:
+•	 Provinces: British Columbia, Ontario, Quebec, New Brunswick
+•	 Cities: Grand Forks (BC), Burlington (ON), Toronto (ON), Ottawa (ON), 
+Gatineau (QC) 
+Inclusion of the above cities in the study was also dependent on the availability of 
+data pertaining to:
+•	 Real Estate: Average change in (a) sold price of a house, (b) days on market to 
+sell a house, and (c) number of houses listed for sale, and
+•	 Mortgage: Average change in (a) mortgage arrears, and (b) mortgage deferrals
+The primary real estate brokerages that helped to secure real estate data were 
+Sotheby’s Realty Associates® and Whitehill Realty International Inc®.
+Aggregated mortgage arrears and deferrals analyses were performed for two flooded 
+communities (within Canada), based on anonymized data made available by a 
+Canadian financial institution which requested that the cities for which the data was 
+provided remain anonymous.
+Control for Spatial Pseudoreplication
+Real estate value and mortgage arrears considered in this study could be influenced 
+by factors unrelated to catastrophic flooding (e.g., a factory closing, coincident with 
+a flood, could depress housing prices in a community independent of the flood). 
+To limit the erroneous conclusion of flood effects when none were present (i.e., 
+Type 1 errors; Sokal and Rolff 1981), changes in real estate and mortgage variables 
+Method
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+19
+were quantified in flooded vs. non-flooded communities, in close promixity, over 
+identical time frames (as described below). The net differential, or delta, in variable 
+changes between flooded vs. non-flooded communities could then, with confidence, 
+be attributed to flooding and not to extraneous factors. For example, if the average 
+price of housing in a “flood-impacted” community increased 6% for six months 
+pre- vs. post-flooding, and increased 10% in the “non flood-impacted” control, the 
+impact of flooding on price would be the delta, or minus 4%.
+To limit the misattribution of flood impact between flooded vs. non-flooded 
+communities, due to spatial psuedoreplication (Hurlbert 1984), care was taken to 
+ensure both communities had similar characterists in terms of the following: 
+a.	 geographic proximity (< 1 km apart), or contiguous
+b.	 population density/size (+/- 5%) 
+c.	 demographics (age distribution of home owners, educational level,  income 
+level, marital status, languages spoken)
+d.	 average sold price of houses, average days on market, average number of 
+houses on market (prior to flood events that impacted flooded communities)
+e.	 own vs. rent
+f.	 houses considered in both communities included detached, semi-detached 
+and row housing, 1-2 story dwellings only
+Community Descriptive Characteristics
+Characteristics of flooded vs. non-flooded control communities examined in this 
+study are presented in Table 1.
+Table 1 (a-f): Descriptive statistics of flooded vs. non-flooded control communities (all data/statistics 
+pertain to 2021: https://www.realtor.ca/en 2021).*
+ 
+a) Grand Forks, BC (2018)
+Flooded Community
+Control Community (non-flooded)
+Median age
+55
+51
+Household income
+$63,883
+$66,388
+Education status
+15% university, 21% highschool, 37% diploma, 
+25% apprenticeship, etc.
+11% university, 35% highschool, 21% diploma, etc.
+Marital status
+43% married, 22% single, 11% common law, 
+21% divorced/widowed, etc.
+46% married, 22% single, 14% common law, 
+13% divorced/widowed, etc.
+Languages
+96% English, 4% other
+87% English, 6% Russian, 7% other
+Ownership
+80% own, 20% rent
+79% own, 21% rent
+Method
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+20
+b) Burlington, ON (2014)
+Flooded Community
+Control Community (non-flooded)
+Median age
+44
+39
+Household income
+$99,452
+$89,095
+Education status
+29% university, 27% highschool, 22% diploma, etc.
+33% university, 25% highschool, 20% diploma, etc.
+Marital status
+51% married, 21% single, 10% common law, 
+10% divorced/widowed, etc.
+51% married, 26% single, 8% common law, 
+10% divorced/widowed, etc.
+Languages
+82% English, 18% other
+82% English, 18% other
+Ownership
+83% own, 17% rent
+84% own, 16% rent
+c) Toronto, ON (2019)
+Flooded Community
+Control Community (non-flooded)
+Median age
+42
+47
+Household income
+$99,664
+$97,630
+Education status
+31% university, 25% highschool, 36% diploma, etc.
+20% university, 29% highschool, 40% diploma, etc.
+Marital status
+53% married, 28% single, 7% common law, 
+11% divorced/widowed, etc.
+42% married, 31% single, 5% common law, 
+16% divorced/widowed, etc.
+Languages
+66% English, 7% Italian, 12% other
+52% English, 11% Italian, 19% other
+Ownership
+91% own, 9% rent
+81% own, 19% rent
+d) Ottawa, ON (2019)
+Flooded Community
+Control Community (non-flooded)
+Median age
+36
+41
+Household income
+$87,710
+$84,924
+Education status
+19% university, 25% highschool, 39% diploma, etc.
+26% university, 25% highschool, 31% diploma, etc.
+Marital status
+42% married, 35% single, 9% common law, 
+6% divorced/widowed, etc.
+40% married, 32% single, 9% common law, 
+9% divorced/widowed, etc.
+Languages
+70% English, 8% French, 12% other
+68% English, 8% Italian, 10% other
+Ownership
+45% own, 55% rent
+60% own, 40% rent
+Method
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+21
+e) Ottawa, ON (2017)
+Flooded Community
+Control Community (non-flooded)
+Median age
+38
+38
+Household income
+$83,056
+$81,470
+Education status
+48% university, 24% highschool, 20% diploma, etc.
+42% university, 22% highschool, 22% diploma, etc.
+Marital status
+48% married, 29% single, 9% common law, 
+10% divorced/widowed, etc.
+41% married, 36% single, 8% common law, 
+8% divorced/widowed, etc.
+Languages
+65% English, 7% French, 16% other
+61% English, 8% French, 17% other
+Ownership
+69% own, 31% rent
+60% own, 40% rent
+f) Gatineau, QC (2019)
+Flooded Community
+Control Community (non-flooded)
+Median age
+43
+38
+Household income
+$106,305
+$108,334
+Education status
+31% university, 17% highschool, 30% diploma, etc.
+41% university, 14% highschool, 22% diploma, etc.
+Marital status
+49% married, 22% single, 11% common law, 
+12% divorced/widowed, etc.
+41% married, 26% single, 18% common law, 
+10% divorced/widowed, etc.
+Languages
+52% French, 36% English, 12% other
+68% French, 11% English, 21% other
+Ownership
+62% own, 38% rent
+63% own, 37% rent
+* Note: Real estate analytics (average sold price, average days on market, average number 
+of houses on market) were applied to all communities (a – f).
+Results pertaining to the influence of community-level flooding, across Canadian 
+communities, follow below relative to real estate and mortgage market impacts. 
+Method
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+22
+Results: Residential Flood 
+Risk Revealed 
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+23
+Attribution of Flood Impact
+The attribution of flooding, as 
+the causal mechanism affecting 
+real estate and mortgage 
+arrears examined in this study, 
+is definitive, based on controls 
+to account for the spatial 
+pseudoreplicative design of this 
+study (Eberhardt and Thomas 
+1991; Hurlbert 1984).
+Specifically, attribution of flooding to explain 
+differences in real estate variables and mortgage 
+arrears, between flooded vs. non-flooded control 
+communities, rested on two precautionary steps. First, 
+communities were contiguous or in close proximity 
+(< 1 km), and as such, non-flood influences would 
+likely have a blanket geographic effect.  Second, there 
+were no material differences between communities 
+regarding median age, household income, education status, 
+marital status, languages spoken and home ownership (see Table 
+1).  Seemingly, therefore, flooded and non-flooded 
+communities were financial and social analogues.
+Additionally, across all communities (i.e., flooded and control), 93% (+/- 1%) 
+of houses had finished basements. Detached, semi-detached and row housing 
+characterized all communities in virtually identical proportions.
+Real Estate Variables
+Average Sold Price of Houses 
+Net change in the average sold price of houses, across five Canadian cities (and six 
+flood events), spanning six months pre- vs. post-flooding, was 8.2% lower (ranging 
+from -1.1% to -17.1%) in flooded vs. non-flooded communities (see Figure 2 a-f).  
+Additionally, change in average sold housing price was consistently negatively 
+impacted, without exception, in flooded vs. non-flooded communities, suggesting that 
+Results
+Pre
+Post
+Pre
+Post
+-7.0%
+-24.1%
+Net ∆
+-17.1%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in
+Average
+Price
+$400,000
+$200,000
+$0
+$600,000
+f) Gatineau, Quebec
+May 2017
+Average Sold Price
+Pre
+Post
+Pre
+Post
+10.5%
+1.5%
+Net ∆
+-9.0%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in
+Average
+Price
+$400,000
+$200,000
+$0
+$600,000
+e) Ottawa, Ontario
+April 2017
+Average Sold Price
+Pre
+Post
+Pre
+Post
+6.9%
+3.6%
+Net ∆
+-3.3%
+Chi2 
+P>0.05
+Flood
+Control
+% Change 
+in
+Average
+Price
+$500,000
+$0
+$1,000,000
+c) Toronto, Ontario
+March 2019
+Average Sold Price
+Pre
+Post
+Pre
+Post
+11.6%
+1.5%
+Net ∆
+-10.1%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in
+Average
+Price
+$400,000
+$200,000
+$0
+$600,000
+d) Ottawa, Ontario
+April 2019
+Average Sold Price
+Pre
+Post
+Pre
+Post
+9.5%
+1.0%
+Net ∆
+-8.5%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in
+Average
+Price
+$400,000
+$200,000
+$0
+$600,000
+b) Burlington, Ontario
+August 2014
+Average Sold Price
+% Change 
+in
+Average
+Price
+Average Sold Price
+Pre
+$400,000
+$200,000
+$0
+Post
+Pre
+Post
+-1.0%
+-2.1%
+Net ∆
+-1.1%
+Chi2 
+P>0.05
+Flood
+Control
+a) Grand Forks, British Columbia
+May 2018 
+Average sold price
+8.2% 
+lower in ﬂooded 
+vs. non-ﬂooded 
+communities
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+24
+flooding was the causal mechanism affecting a lower sold price – i.e., the probability 
+that an unknown or spurious factor would consistently mimic the expected impact of 
+flooding on housing price is low (Balmbra 2021).
+Figure 2 (a-f): Change in average sold price of housing in flooded (blue) 
+vs. non-flooded (green) communities within identified cities, for periods 
+six months pre- vs. post-flooding.  The date on each chart is the month in 
+which flooding occurred.  Net Δ refers to the difference in percent change 
+in house sold price between flooded and non-flooded communities, pre- 
+vs. post-flooding (Chi2 < 0.05 reflects a statistical difference in response 
+variable between flooded vs. non-flooded communities).  Note: Total 
+number of houses sold across all communities analyzed ranged from 30-
+700 houses per community.   
+Results
+Pre
+Post
+Pre
+Post
+-44.0%
+-45.2%
+Net ∆
+1.2%
+Chi2 
+P>0.05
+Flood
+Control
+% Change
+in Average
+Days on
+Market
+-50
+250
+f) Gatineau, Quebec
+May 2017
+Average Days on Market
+0
+50
+100 150 200
+Pre
+Post
+Pre
+Post
+-42.0%
+-21.5%
+Net ∆
+-20.5%
+Chi2 
+P<0.05
+Flood
+Control
+% Change
+in Average
+Days on
+Market
+0
+100
+e) Ottawa, Ontario
+April 2017
+Average Days on Market
+80
+60
+40
+20
+120
+Pre
+Post
+Pre
+Post
+-80.5%
+-6.7%
+Net ∆
+-73.8%
+Chi2 
+P<0.05
+Flood
+Control
+% Change
+in Average
+Days on
+Market
+0
+50
+c) Toronto, Ontario
+March 2019
+Average Days on Market
+40
+30
+20
+10
+60
+Pre
+Post
+Pre
+Post
+-17.9%
+-10.4%
+Net ∆
+-7.5%
+Chi2 
+P>0.05
+Flood
+Control
+% Change
+in Average
+Days on
+Market
+80
+100
+d) Ottawa, Ontario
+April 2019
+Average Days on Market
+60
+40
+20
+0
+Pre
+Post
+Pre
+Post
+-3.7%
+14.8%
+Net ∆
+-18.5%
+Chi2 
+P<0.05
+Flood
+Control
+% Change
+in Average
+Days on
+Market
+0
+35
+b) Burlington, Ontario
+August 2014
+Average Days on Market
+10
+20
+30
+5
+15
+25
+% Change
+in Average
+Days on
+Market
+Average Days on Market
+Pre
+160
+0
+Post
+Pre
+Post
+-28.5%
+-29.0%
+Net ∆
+0.5%
+Chi2 
+P>0.05
+Flood
+Control
+a) Grand Forks, British Columbia
+May 2018 
+80
+40
+120
+Days on market to 
+sell a house
+19.8% 
+longer in ﬂooded 
+vs. non-ﬂooded 
+communities
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+25
+Average Days on Market 
+Net change in the average number of days on market to sell a house, across five 
+Canadian cities (and six flood events), spanning six months pre- vs. post-flooding, 
+was 19.8% longer (ranging from +1.2% to -73.8%) in flooded vs. non-flooded 
+communities within those cities (see Figure 3 a-f).
+Figure 3 (a-f): Change in average days on market for houses sold in flooded 
+(blue) vs. non-flooded (green) communities within identified cities, for 
+periods of six months pre- vs. post-flooding.  The date on each chart is the 
+month in which flooding occurred.  Net Δ refers to the difference in percent 
+change in days on market between flooded and non-flooded communities, 
+pre- vs. post-flooding (Chi2 < 0.05 reflects a statistical difference in response 
+variable between flooded vs. non-flooded communities). 
+Results
+Pre
+Post
+Pre
+Post
+78.1%
+-13.3%
+Net ∆
+-91.4%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in No. 
+of Houses
+0
+80
+f) Gatineau, Quebec
+May 2017
+No. of Houses on Market
+60
+40
+20
+100
+Pre
+Post
+Pre
+Post
+108.1%
+61.1%
+Net ∆
+-47.0%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in No. 
+of Houses
+0
+500
+e) Ottawa, Ontario
+April 2017
+No. of Houses on Market
+400
+300
+200
+100
+600
+Pre
+Post
+Pre
+Post
+200.0%
+100.0%
+Net ∆
+-100.0%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in No. 
+of Houses
+0
+25
+c) Toronto, Ontario
+March 2019
+No. of Houses on Market
+20
+15
+10
+5
+30
+Pre
+Post
+Pre
+Post
+92.2%
+49.5%
+Net ∆
+-42.7%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in No. 
+of Houses
+500 600
+d) Ottawa, Ontario
+April 2019
+No. of Houses on Market
+300
+200
+100
+0
+400
+Pre
+Post
+Pre
+Post
+-13.7%
+6.0%
+Net ∆
+19.7%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in No. 
+of Houses
+0
+300
+b) Burlington, Ontario
+August 2014
+No. of Houses on Market
+100
+200
+50
+150
+250
+% Change 
+in No. 
+of Houses
+No. of Houses on Market
+Pre
+70
+0
+Post
+Pre
+Post
+-21.3%
+-25.4%
+Net ∆
+-4.1%
+Chi2 
+P>0.05
+Flood
+Control
+a) Grand Forks, British Columbia
+May 2018 
+50
+40
+60
+20
+10
+30
+Houses listed
+44.3%
+less in ﬂooded 
+vs. non-ﬂooded 
+communities 
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+26
+Average Number of Houses on Market
+Net change in the average percent of houses listed for sale, across five Canadian 
+cities (and six flood events), spanning six months pre- vs. post-flooding, was 44.3% 
+less (ranging from +19.7% to -100%) in flooded vs. non-flooded communities within 
+those cities (see Figure 4 a-f).
+Figure 4 (a-f): Change in the average number of houses listed on the 
+multiple listing service (MLS) market, in flooded (blue) vs. non-flooded 
+(green) communities within identified cities, for periods of six months 
+pre- vs. post-flooding.  Net Δ refers to the difference in percent change 
+in average number of houses listed between flooded and non-flooded 
+communities, pre- vs. post-flooding (Chi2 < 0.05 reflects a statistical 
+difference in response variable between flooded vs. non-flooded 
+communities). 
+Results
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+27
+Case Study – Fredericton
+This case study considered the impact of catastrophic flooding on real estate parameters within a city 
+subject to flooding on a near annual basis.  The hypothesis was that under conditions where flooding 
+is “often and predictable”, the impacts of flooding should be permanently factored into the real estate 
+market.  Relative to flooding in a specific year, if the hypothesis is correct, there would be no statistical 
+difference (over a period of six months pre- vs. post-flooding) between flood-impacted and non-flood 
+control communities, regarding average sold price of a house, days on market to sell a house, and 
+number of houses listed for sale. 
+As a candidate city, Fredericton, 
+NB, met the criteria to test the 
+above hypothesis.
+Fredericton experienced major 
+floods every year from 2008-2018, 
+with the single exception of 2016.  
+These floods varied in impact 
+between communities within the 
+city, due to varying combinations 
+of heavy precipitation, ice jams, 
+snowmelt, heavy snowfall and late 
+spring thaw.  Losses due to flooding 
+ranged from $1.4-$25 million in 
+insurable claims, with average 
+losses of $13.4 million/year 
+(excluding 2011, 2015 and 2017, 
+for which specific $ losses could not 
+be verified).
+In April, 2019, Fredericton 
+experienced a catastrophic flood 
+(CBC 2019).  For six months pre- 
+vs. post this flood event, real estate 
+variables were measured for flooded 
+and non-flooded communities.
+Results
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+28
+Fredericton, NB: Descriptive statistics of flooded vs. non-flooded control communities (all 
+data/statistics pertain to 2021: https://www.realtor.ca/en 2021). 
+There was no statistically 
+significant difference in the sold 
+price of houses and days on 
+market to sell a house, for the six 
+months pre- vs. post-flooding, 
+between flood and non-flood 
+impacted communities in 
+Fredericton relative to the 2019 
+flood (see figures on next page).  
+This result is consistent with 
+the hypothesis that regular and 
+predictable flood risk does factor 
+into home sale price and the 
+time to sell a property.
+Fredericton, NB (2021)
+Flooded Community
+Control Community (non-flooded)
+Median age
+40
+46
+Household income
+$77,510
+$90,172
+Education status
+20% university, 21% highschool, 46% 
+diploma, etc.
+29% university, 18% highschool, 32% 
+diploma, etc.
+Marital status
+53% married, 26% single, 11% common law, 
+9% divorced/widowed, etc.
+51% married, 26% single, 8% common law, 
+10% divorced/widowed, etc.
+Languages
+92% English, 6% French, 2% other
+85% English, 9% French, 6% other
+Ownership
+80% own, 20% rent
+88% own, 12% rent
+Results
+Pre
+Post
+Pre
+Post
+68.6%
+-10.7%
+Net ∆
+-79.3%
+Chi2 
+P<0.05
+Flood
+Control
+% Change 
+in
+Total
+Houses
+600
+0
+800
+Average Number of 
+Houses on Market
+April 2019
+No. of Houses on Market
+400
+200
+Pre
+Post
+Pre
+Post
+-25.3%
+-28.9%
+Net ∆
+3.6%
+Chi2 
+P>0.05
+Flood
+Control
+% Change 
+in
+Days on
+Market
+40
+20
+0
+120
+Average Days 
+on Market
+April 2019
+Average Days on Market
+100
+80
+60
+% Change 
+in
+Average
+Price
+Average Sold Price
+Pre
+$200,000
+$100,000
+$0
+Post
+Pre
+Post
+8.3%
+8.4%
+Net ∆
+0.1%
+Chi2 
+P>0.05
+Flood
+Control
+Average Sold Price
+April 2019
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+29
+However, following the 2019 flood, the number of houses listed for sale in flooded communities was 
+statistically less, compared to the non-flooded control, for six months pre- vs. post-flooding.  Fewer 
+houses listed for sale, post-flooding, may be attributable to:
+a.	 expectation of a lower listing price in the aftermath of flooding, 
+b.	 waiting for the “stigma” of flooding to pass, and/or 
+c.	 time required to remediate a home following flood damage prior to listing. 
+The most notable outcome of repeated flooding across communities is the large-scale incorporation of 
+flood risk into housing price, independent of a community being flooded in a given year.  Conversely, in 
+communities where flooding is infrequent and not geographically pervasive, the impact of flooding on 
+house price is community-specific.  
+The most notable outcome 
+of repeated flooding 
+across communities is the 
+large-scale incorporation 
+of flood risk into housing 
+price, independent of a 
+community being flooded 
+in a given year
+Results
+Pre
+Post
+Pre
+Post
+401.4%
+-28.8%
+Net ∆
+-430.2%
+Chi2 
+P<0.05
+Flood
+Control
+% Change
+in Arrears
+and Deferrals
+-2
+10
+b)  Community B
+Arrears and deferrals per 1000
+homes per 6-month period
+0
+4
+8
+2
+6
+% Change
+in Arrears
+and Deferrals
+Arrears and deferrals per 1000
+homes per 6-month period
+Pre
+1.5
+0
+Post
+Pre
+Post
+10.5%
+103.1%
+Net ∆
+92.6%
+Chi2 
+P<0.05
+Flood
+Control
+a)  Community A 
+0.5
+1.0
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+30
+Mortgage Variables
+Arrears and Deferrals
+The net change in average mortgage arrears and deferrals, across two Canadian 
+cities, spanning six months pre- vs. post-flooding, differed between communities A 
+and B.  In Community A, the mortgage arrear and deferral rate (per 1,000 homes) 
+was higher in the flooded community, whereas in Comminity B, the arrear and 
+deferral rate was higher in the non-flooded community (see Figure 5 a-b).
+Notably, the total number of arrears and deferrals ranged from 0.32/1,000 homes 
+(Figure 5a, pre-flood) to 7.07/1,000 homes (Figure 5b, post-control), in both cases 
+over six months.  Accordingly, the “worst case scenario” of arrears and deferrals of 
+7.07/1,000 homes, per six months, translates to 1.18 arrears and deferrals per 1,000 
+homes per month.  This rate of mortgage arrears and deferrals, on a monthly basis, 
+in flooded and non-flooded communities, suggests that flooding is not debilitating 
+relative to Canada’s residential mortgage market, particularly considering that 
+impacts would generally last only a few months (Zhang and Leonard 2019).   
+Figure 5 (a-b): Change in the rate of mortgage arrears and deferrals, in flooded (blue) vs. non-
+flooded (green) communities within two Canadian cities, for periods six months pre- vs. post-
+flooding.  Net Δ refers to the difference in percent change in total number of mortgage arrears and 
+deferrals between flooded and non-flooded communities, pre- vs. post-flooding (Chi2 < 0.05 reflects 
+a statistical difference in response variable between flooded vs. non-flooded communities). 
+**Note: Based on data availability the above correction for mortgage arrears and deferrals per 1000 homes does not 
+distinguish between homes with/without mortgages.  According to Statistics Canada, the national average of homeowners 
+having not paid off the mortgage on their principal residence equals 57% (as of 2016) (Statistics Canada, 2019).
+The implications of flooding to the Canadian residential real estate market follow below, presented with practical 
+and affordable actions to mitigate risks at the household and community-level.
+Results
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+31
+Discussion: Keeping 
+Canada’s Housing Market 
+Above Water 
+44.3% reduction 
+in average houses listed 
+for sale
+8.2% reduction 
+in average sold price 
+of house
+19.8% increase 
+in average days on 
+market to sell a house
+$
+FOR
+SALE
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+32
+The magnitude and frequency of climate change 
+and extreme weather-related flood risk is becoming 
+increasingly challenging globally (IPCC 2021), 
+and across many regions of Canada (ECCC/Bush 
+and Lemmen 2019).  The consequences of this 
+risk convey material costs to real estate markets 
+internationally (Mackenzie 2021) and within 
+Canada, with relevance to the primary stakeholders 
+of this report: homeowners, mortgage providers, 
+municipalities and financial regulators. 
+Over the period 1983-2008, catastrophic insurable claims in Canada hovered around 
+$250-450 million per year, whereas from 2009-2021 claims average $1.96 billion 
+per year, with more than half of this escalation attributable to flooding (IBC 2022; 
+CatIQ 2022; Feltmate and Moudrak 2021).  It was against this backdrop that this 
+study examined the impacts of catastrophic flooding on Canada’s residential housing 
+and mortgage markets.
+Housing Market
+The impact of intermittent catastrophic flooding on the residential housing market 
+within communities across five Canadian cities and six flood events (Grand Forks, 
+BC, 2018; Burlington, ON, 2014; Toronto, ON, 2019; Ottawa, ON, 2019 and 2017; 
+Gatineau, QC, 2017) was significant. Average flood impacts on the real estate 
+housing market, for periods of six months pre- vs. post-flooding, were: 
+For every city 
+examined, the 
+percentage change 
+in the average sold 
+price of homes 
+was lower (less 
+advantageous), 
+without exception, 
+in flooded vs. non-
+flooded communities
+Notable was the fact that for every city examined, the percentage change in the 
+average sold price of houses, over the six-month period pre- vs. post-flooding, 
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+33
+was lower (less advantageous), without exception, in flooded vs. non-flooded 
+communities.  For most homeowners their home is their prime investment and 
+retirement fund, therefore, any compromise to the intrinsic value of this investment 
+is material (Claveau 2020; Macdonald 2019).
+Transactionally, in the aftermath of flooding, the seller determines asking price and 
+timing when listing a house for sale, and the buyer controls days on market and 
+purchase price.  Strategically, sellers and buyers would probably tend to under- and 
+over-weigh flood risk, respectively.
+Additionally, properties impacted by flooding would generally bear increased costs 
+for maintenance and repair, and increases in property taxes related to municipal 
+resilience and recovery investments.  Overall, real estate with higher climate-related 
+flood risk will have higher TMI costs (Taxes, Maintenance and Insurance) than lower 
+risk properties (Chopik 2021).
+Beyond the six-month post-flood period, the study did not examine whether real 
+estate parameters might rebound, as some studies suggest could happen (Clayton 
+et al. 2021; Pfeffer 2017; Zhang 2016).  A longer timeframe of examination is 
+suggested for the next stage of this study.
+Under conditions where a city experiences significant flooding on a near annual 
+basis, the impact of flooding can be incorporated permanently into the real estate 
+market (Macdonald 2019). Evidence of this effect was observed in this study.  
+More specifically, in Fredericton – which experienced ten major floods from 2008-
+2018 – for six months pre vs. post major flooding in 2019, no changes in average 
+housing price and days on market were observed between flooded and non-flooded 
+control communities.  However, fewer houses were listed for sale in flood-impacted 
+communities post-flooding, presumably due to the time required to prepare a house 
+for sale following a flood (Beltran et al. 2018; Zhang and Leonard 2019).
+Rental Market
+Although not considered in this study, the impact of residential flooding is relevant 
+to those renting basement apartments.  When rental homes are impacted by disasters 
+such as flooding, occupants have little say in when or how repairs are made, and 
+research indicates that these properties recover from flood damage more slowly than 
+owner-occupied residences (Wesseler 2021).  Additionally, those renting basement 
+apartments, as a group, tend to have lower incomes and are often forced to compete 
+for reasonably priced housing in tight markets – as a result, renters can find 
+themselves in poor-quality apartments in neighbourhoods struggling with inadequate 
+infrastructure (Wesseler 2021).  These suboptimal conditions can predispose those 
+Transactionally, in 
+the aftermath of 
+flooding, the seller 
+determines asking 
+price and timing 
+when listing a 
+house for sale, and 
+the buyer controls 
+days on market 
+and purchase price.  
+Strategically, sellers 
+and buyers would 
+probably tend to 
+under- and over-
+weigh flood risk, 
+respectively
+Real estate with 
+higher climate-
+related flood risk 
+will have higher 
+TMI costs (Taxes, 
+Maintenance and 
+Insurance) than 
+lower risk properties
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+34
+with limited resources to pay up to half their wages 
+for housing, making it difficult for them to save for 
+emergencies (Hino and Burke 2021). In addition, 
+only 50% of Canadian renters purchase tenant 
+insurance, leaving half of renters exposed to personal 
+property loss (e.g., loss of clothing and furniture), 
+liability costs (e.g., injury) and/or additional living 
+expenses (e.g., extended stay in a hotel) should a 
+home become uninhabitable following a weather 
+induced flood event (CBC 2018; Belairdirect 2021).  
+Accordingly, unexpected flood costs, compounded 
+by the potential for lost time from work to remediate 
+an apartment, can lead to homelessness.  Clearly, 
+residential flooding is a challenge for homeowners 
+and renters alike. 
+Mortgage Market
+In contrast to the substantial impacts of flooding on multiple characteristics of the 
+real estate market, there was no material impact on mortgage arrears and deferrals.
+Criteria to qualify for a mortgage in Canada appears to be sufficiently robust that 
+homeowners have adequate resources to absorb flood costs and restore their homes, 
+post-flood, without compromising their mortgage.  In jurisdictions where mortgage 
+qualification is less robust (e.g., in various states across the United States), borrowers 
+may suffer defaults (Duprey et al. 2021).
+Additionally, despite an average cost of $43,000 for weather-induced basement 
+flooding in Canada, homeowners may absorb the costs by drawing upon sewer-
+backup and/or overland flood insurance (overland flood insurance became available 
+in Canada starting on or about 2015, in the aftermath of catastrophic floods in 
+Calgary and Toronto in 2013) (Feltmate and Moudrak 2021).
+Mortgage Securitization
+Devaluation of a residential property due to flooding is relevant to both mortgage 
+providers and their insurers (e.g., Canada Mortgage and Housing Corporation, 
+Canada Guaranty Mortgage Insurance Company).  Mortgage approvals and 
+rates depend, in part, on the loan-to-value ratio of  an insured property.  If  the 
+“value” of  a mortgaged property is compromised by “unanticipated flood risk”, 
+lenders and insurers may erroneously approve, or misprice, mortgage rates and 
+Residential flooding 
+is a challenge for 
+homeowners and 
+renters alike
+Criteria to qualify 
+for a mortgage in 
+Canada appears to 
+be sufficiently robust 
+that homeowners 
+have adequate 
+resources to absorb 
+flood costs and 
+restore their homes, 
+post-flood, without 
+compromising their 
+mortgage
+To minimize this risk 
+against a backdrop 
+of escalating flood 
+impacts across 
+Canada, mortgage 
+providers and 
+insurers could 
+make home flood 
+assessment a 
+mandatory condition 
+for coverage
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+35
+mortgage insurance.  To minimize this risk against a backdrop of escalating flood 
+impacts across Canada (ECCC 2019), mortgage providers and insurers could make 
+home flood assessment a mandatory condition for coverage.  Additionally, as flood 
+susceptibility evolves, the capital reserves of lenders (e.g., those under the authority 
+of such agencies as the Office of the Superintendent of Financial Institutions) might 
+require adjustment depending on future risk.
+Actions to Mitigate Residential/Community 
+Flood Risk
+Clearly, the consequences of catastrophic flooding are material to the Canadian 
+residential housing market.  Arguably, the consequence of greatest concern to 
+homeowners would be property devaluation (Macdonald 2019).  Adding to the 
+financial burden of home remediation is the psychosocial or mental health stress 
+Canadians experience in the aftermath of flooding.  For up to three years following 
+a basement flood event, on a stress scale of 0-5 (with five being the worst), 48% of 
+impacted homeowners rank their stress as 4.5-to-5 when a major precipitation event 
+occurs, supported by such typical statements as, “It’s something you never want to experience 
+again in your life” (Decent and Feltmate 2018).
+Against this background, the discussion now turns to practical, meaningful and 
+cost-effective means to limit risk of community-level and residential flooding.  The 
+demand for disclosure of climate-risk is an important precursor to caveat emptor (buyer 
+beware), empowering the homeowner to understand, accept and respond to climate-
+risk and resilience in the context of property ownership (Chopik 2019).  Additionally, 
+communities and residents do not have to be victims of circumstance regarding flood 
+risk – although risk may not be eliminated, it can be managed by implementing a 
+number of flood mitigation measures, guidelines and standards developed in Canada 
+since approximately 2015 forward.
+Actions and guidelines to limit home and community-level flood risk include, but are 
+not limited to, the following.
+Home Flood Protection Guidance
+Banks, credit unions, real estate agents/brokers, Property & Casualty insurers, 
+and municipalities are increasingly distributing the infographic, Three Steps to Cost-
+Effective Home Flood Protection, to customers/clients (see Figure 6). This infographic 
+provides practical actions homeowners can take to reduce their risk of basement 
+flooding. Most steps in this infographic can be undertaken by homeowners or 
+renters, with no special expertise required, and for little cost (generally for less than 
+Communities and 
+residents do not 
+have to be victims 
+of circumstance 
+regarding flood risk 
+– although risk may 
+not be eliminated, it 
+can be managed 
+Most
+stressed
+Least
+stressed
+5
+0
+1
+2
+3
+4
+48% of homeowners
+whose basement ﬂooded in
+the past, rank their stress as
+4.5 – 5
+When a major storm occurs 
+Discussion
+Step 1: Maintain What You’ve Got at Least Twice per Year
+Step 2: Complete Simple Upgrades
+Step 3: Complete More Complex Upgrades
+Remove debris from 
+nearest storm drain 
+or ditch & culvert 
+Clean out eaves 
+troughs
+Check for leaks in 
+plumbing, fixtures 
+and appliances
+Test your sump 
+pump*
+Clean out your 
+backwater valve
+Do-It-Yourself 
+for $0
+Install window 
+well covers 
+(where fire escape 
+requirements 
+permit)*
+Extend downspouts 
+and sump discharge 
+pipes at least 2 m 
+from foundation
+Store valuables and 
+hazardous materials 
+in watertight 
+containers & secure 
+fuel tanks
+Remove 
+obstructions to floor 
+drain 
+Install and maintain 
+flood alarms
+Do-It-Yourself 
+for Under $250
+Install window wells 
+that sit 10-15 cm 
+above ground and 
+upgrade to water 
+resistant windows*
+Disconnect downspouts, 
+cap foundation drains 
+and extend downspouts 
+to direct water at least 
+2 m from foundation
+Correct grading to 
+direct water at least 
+2 m away from 
+foundation
+Install backwater 
+valve
+Install backup sump 
+pump and battery*
+Work with a 
+Contractor for 
+Over $250
+2 m (6’6”)
+2 m (6’6”)
+2 m (6’6”)
+10-15 cm
+(4-6”)
+30 cm 
+(12”)
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+36
+a few hundred dollars). https://www.intactcentreclimateadaptation.ca/wp-content/
+uploads/2021/03/3-Steps-to-Home-Flood-Protection_March-2021_Space-for-
+Partner-Logo.pdf.
+When a mortgage provider, real estate agent or insurance broker presents the Three 
+Steps to Cost-Effective Home Flood Protection guidance to homeowners, it is received as 
+a “value add” service.  Lenders, agents and brokers often send the flood protection 
+infographic to customers/clients, twice per year (spring and fall), as a reminder to 
+prepare their home for flood risk – in so doing, they build customer/client loyalty.
+Figure 6: Three Steps to Home Flood Protection.  Step 1 = actions for $0, 
+Step 2 = actions for < $250, Step 3 = actions for > $250.
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+37
+Climate Adaptation Home Rating Program (CAHRP)
+As suggested by the federal government of Canada, “as climate change intensifies, it will 
+only become more important for Canadians to understand what positive, affordable and practical 
+measures they can take to protect their homes and communities against flood.” In response, 
+CAHRP was launched in 2021, as a companion to EnerGuide home energy audits.
+CAHRP will help homeowners to navigate the flood retrofit process and expand on 
+the eligibility requirements of the CMHC deep home retrofit program and Canada 
+Greener Home Grants to include more climate resilience/flood risk mitigation 
+measures. https://liberal.ca/wp-content/uploads/sites/292/2021/08/wildfires-
+ENG-1.pdf
+Flood Risk Maps
+Federal, provincial, territorial and municipal governments are updating flood risk 
+maps to aid city planners, developers, engineers and risk officers to identify and 
+remediate areas at high risk of flooding.  In the Federal Government of Canada 
+Budget 2021, $63.8 million was dedicated, over three years, to Natural Resources 
+Canada, Environment and Climate Change Canada, and Public Safety Canada, to 
+work with provinces and territories to complete flood maps for higher risk areas in 
+Canada (GOC 2021a).
+As flood risk maps become available, homeowners, municipalities, builders and 
+developers should utilize this resource to deploy flood risk measures for homes and 
+properties at risk today, and avoid building in areas subject to flood risk tomorrow.
+Source: https://arcgis01.trca.on.ca/floodplain/
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+38
+Residential Flood Risk Scores
+Federal, provincial, territorial and municipal governments should develop a system to 
+establish a flood risk score for any residential property, based on address/postal code 
+(as exists in the US - https://floodfactor.com/).
+Approximately 142 million addresses in the US can receive a flood risk 
+score, for free, on a ten point scale (Brinkhurst 2020).  A system such as this 
+– sensu Flood Factor Canada – would motivate homeowners to protect 
+their property from flood risk in cases where scores were not favourable.
+As suggested by the designers, First Street Foundation: “the most important 
+element of  Flood Factor is its simplicity.  Behind the scenes, the team at First Street 
+Foundation has created a first-of-its-kind methodology that adjusts for the reality 
+of  a changing climate and how it will impact flood risk into the future, accounts for 
+local adaptation, and incorporates the four major contributors to flooding: tidal, rain, 
+riverine and storm surge, all at the level of  granularity needed to calculate flood risk for 
+individual properties.  Despite the complexity of  the modelling, the user experience is 
+accessible and compelling” (Brinkhurst 2020).
+Canadian homeowners and renters would benefit greatly, by way of home flood 
+protection, if they had access to a Flood Factor Canada-style system, which could also 
+be added to real estate listings.  This system would serve to pull, rather than push, 
+Canadians to protect their home from flooding.
+Natural Infrastructure
+Federal, provincial, territorial and municipal 
+governments should develop and enforce guidelines 
+and standards to retain and restore natural 
+infrastructure (e.g., forests, grasslands, wetlands), in 
+both urban and rural areas, to limit current and future 
+home and community-level flood risk.  This guidance 
+may consider both risk assessment and planning policy 
+reform.  In the Federal Government of Canada Budget 
+2021, $200 million was dedicated to Infrastructure 
+Canada, over three years starting 2021-22, to establish 
+a Natural Infrastructure Fund to support natural 
+and hybrid (built) infrastructure projects to mitigate 
+flood risk (GOC 2021a).
+Discussion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+39
+Discussion
+This directive, as presented by the Federal government, “will improve social well-being, 
+mitigate the impacts of  climate change, and prevent costly natural disasters.”  Home flood 
+protection touches upon all three of these benefits.
+As suggested by Brindamour and Feltmate (2021), “Forests, grasslands and 
+wetlands aren’t simply decoration on the landscape. They help with flood management 
+and protect us from drought, remove carbon emissions and provide clean water, all while 
+supporting a diverse habitat for plants and animals. Joint research between the Intact 
+Centre and the Insurance Bureau of  Canada report that through the preservation of  
+wetlands, we can reduce flood damage costs by up to 40 per cent. Natural infrastructure 
+also helps to keep our cities cool. On a sunny day in an urban centre, building and 
+road surfaces can get up to 50 degrees hotter, while natural surfaces remain closer to air 
+temperatures.  It’s clear why natural infrastructure is quickly gaining momentum as a 
+front-line climate adaptation solution. Climate mitigation, adaptation and economic benefits 
+make nature a winner. We need to protect the natural infrastructure we have and restore 
+what we’ve damaged.”
+In addition to government led initiatives, residents should also be proactive and use 
+natural infrastructure, for example, to a greater extent on their personal properties 
+(e.g., wild gardens and naturalized driveways).
+Community Flood Risk Mitigation
+Canada has a wealth of community-level, focused 
+flood risk mitigation guidelines, created and supported 
+by such organizations as: Standards Council of 
+Canada, National Research Council, Canadian 
+Standards Association, professional associations, 
+insurance providers, conservation authorities and 
+their equivalents, NGOs, academics, and builders and 
+developers (Moudrak and Feltmate 2019).
+These guidelines provide a practical and cost-
+effective framework to help larger cities, and smaller 
+communities with limited resources, to identify regions 
+within their boundaries that are subject to flooding, 
+while outlining actions to keep people and property out 
+of harm’s way.     
+Examples of community-level flood and risk mitigation 
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+40
+measures are profiled in Figure 7.  By definition, as communities improve their 
+flood risk profile, benefits will accrue to residential housing.  By deploying flood risk 
+measures “before the big storms hit”, communities and homeowners may avert the 
+need to deploy thousands of sandbags (generally under time-limited conditions).  
+Sandbags should be a measure of last resort in a community prepared for flood risk.
+Figure 7: Examples of flood risk and mitigation measures applicable to 
+communities and residential housing.  Refer to CSA Group’s Guideline 
+on Basement Flood Protection Risk Reduction, CSA-Z800-18, for 
+comprehensive practices to address storm and sewer back-up failures.
+Categories
+Examples of Flood-Resilient Design Considerations
+Riverine/Fluvial Flooding 
+Occurs when water levels in watercourses 
+rise and spill over their banks. Flooding is a 
+natural river process but may be exacerbated 
+by climate change, as well as past human 
+intervention in the watershed. Riverine 
+flooding is often seasonal, with contributing 
+and compounding factors including 
+snowmelt, spring thaw, extreme rainfall, ice 
+and debris jams.
+•	 Proactively maintain and replace culverts, bridges, dikes, levees, pump stations 
+and other flood-control structures, and resize these structures during infrastructure 
+replacement/renewal cycles to accommodate extreme weather event conditions.
+•	 Proactively manage vegetation and maintain riparian buffer zones — vegetated 
+“buffer-strips” — along watercourses, including debris removal.
+•	 Flood-proof properties on flood plains through the use of elevation, flood-resilient 
+materials and design, and the elevation of mechanical and electrical equipment, to 
+achieve a level of tolerable flood risk as defined by a local, regional or provincial/
+territorial authority.
+•	 Upstream of populated areas, attenuate and store stormwater and runoff using 
+natural systems and grey infrastructure.
+•	 In high-risk areas, build community-scale structural flood mitigation works (such as 
+berms and dikes) to supplement other flood-proofing measures.
+•	 In areas of chronic flood concern, buy out property owners and/or relocate properties.
+•	 Establish forecasting and warning systems that can provide sufficient operational 
+lead time to deploy flood-protection measures in case of a flood emergency.
+Overland/Pluvial Flooding 
+Occurs when excess stormwater flows over 
+private properties, entering homes through 
+their lowest openings (such as basement 
+windows and doors) and causing damage.
+•	 Proactively clear catch basins and culverts.
+•	 Remove snow from critical overland flow paths before the spring thaw.
+•	 Regrade lots and roadways to carry overland water away from properties, onto rights-
+of-way.
+•	 Attentuate and store stormwater and runoff using natural systems and grey 
+infrastructure.
+Storm/Sanitary Sewer Back-up
+Occurs when the storm and/ or sanitary sewer 
+systems are overloaded, causing surcharge 
+and backup into basements.
+•	 Install backwater valves on storm and sanitary sewer laterals.
+•	 Disconnect roof leaders from storm and sanitary sewers.
+•	 Seal and bolt manhole covers in low-lying areas, where stormwater accumulates and 
+has a higher risk of contributing to sewer surcharge.
+•	 Implement stormwater diversion projects (for example, install pipes to carry excess 
+stormwater from overwhelmed areas to areas with greater capacity).
+Foundation System Failures
+Occurs when foundation drainage systems 
+fail and water enters basements though 
+foundation drains or seeps through 
+foundation walls.
+•	 Disconnect downspouts and sump pump discharge pipes from foundation drains.
+•	 Install sump pumps and sump pump backup power systems, equipped with alarms.
+•	 Repair foundation cracks and install flood-damage-resistant materials in basements 
+during home renovations.
+•	 Install an impermeable layer of soil around homes (that is, in foundation backfill 
+areas) to reduce the risk of water infiltration and seepage through foundation walls.
+Discussion
+As communities 
+improve their flood 
+risk profile, benefits 
+will accrue to 
+residential housing
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+41
+Conclusion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+42
+In December 2020, as part of its strengthened 
+climate plan, the Government of Canada 
+committed to develop Canada’s first National 
+Adaptation Strategy with provincial, territorial 
+and municipal governments, Indigenous Peoples, 
+and other key partners.  
+A key directive of the strategy is to identify key priorities to “unite actors across Canada 
+through shared priorities, cohesive action, and a whole-of-Canada approach to 
+reducing climate change risks” (GOC 2021b).
+No shared priority will unite Canadians from coast-to-coast more than protecting 
+their homes, owned or rented, from flooding.  As this study quantified for the first 
+time, flooding in Canadian communities compromises the residential real estate 
+market in three material ways: (a) lower average sold price of houses, (b) increase 
+in average number of days on market to sell a house, and (c) reduction in average 
+number of houses listed on market.  The cohesive action to limit the residential 
+impact of flooding is in-hand, starting with the newly minted (2021) Climate 
+Adaptation Home Rating Program (CAHRP) to be developed as a companion 
+to EnerGuide home energy audits.
+The National Adaptation Strategy’s recognition of a whole-of-Canada approach 
+is key to advancing home flood protection.  The IPCC (2021) reported that there 
+will be no “new normal” on climate change, but rather escalating extreme weather. 
+With flood protection at its centerpiece, the National Adaptation Strategy 
+could help to secure what for many Canadians is their #1 financial investment – 
+their home.    
+No shared priority 
+will unite Canadians 
+from coast-to-
+coast more than 
+protecting their 
+homes, owned 
+or rented, from 
+flooding 
+There will be no 
+“new normal” on 
+climate change, but 
+rather escalating 
+extreme weather
+Conclusion
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+43
+References
+Balmbra, V. (2021). Floods Bring Climate of  Change for Mortgage Lending. Mortgage Finance Gazette. Metropolis 
+International Group Ltd. April 19, 2021. Accessed at: https://www.mortgagefinancegazette.com/market-
+commentary/flood-brings-climate-change-mortgage-lending-19-04-2021/
+Belairdirect. (2021). Fact: too many Canadian renters don’t have tenant insurance – where do you stand? Accessed at: https://
+www.belairdirect.com/blog/too-many-canadian-renters-dont-have-tenant-insurance 
+Belanger, P., Bourdeau-Brien, M. and M. Dumestre. (2018). The Impact of  Flood Zones Residential Property Prices: The 
+Case of  Canada. Journal of Sustainable Real Estate, Vol. 10. Accessed at: https://www.tandfonline.com/doi/abs/1
+0.1080/10835547.2018.12091907
+Beltran, A., Maddison, D. and R.J.R. Elliott. (2018). Is Flood Risk Capitalized into Property Values? Ecological 
+Economics, 146 (April), 668-685. Accessed at: https://isiarticles.com/bundles/Article/pre/pdf/113949.pdf
+Brindamour, C. and B. Feltmate. (2021). Let’s Manage Climate Risks, Not Disasters. Globe and Mail, Sept. 12, 2021. 
+Accessed at: https://www.theglobeandmail.com/business/commentary/article-lets-manage-climate-risks-not-disasters/
+Brinkhurst, M. (2020). Flood Factor: Mapping the flood risk of  142 million properties in America with Mapbox. Accessed at: 
+https://blog.mapbox.com/flood-factor-mapping-the-flood-risk-of-142-million-properties-in-america-with-
+mapbox-81cd41d644f8 
+Canada Net-Zero Emissions Accountability Act. (2020). Accessed at: https://www.canada.ca/en/services/
+environment/weather/climatechange/climate-plan/net-zero-emissions-2050/canadian-net-zero-emissions-
+accountability-act.html
+CatIQ. (2022).  Canadian Insured Losses From Catastrophic Events Exceed CAN $2 Billion In 2021. Accessed at: https://
+public.catiq.com/2022/01/11/canadian-insured-losses-from-catastrophic-events-exceed-can-2-billion-in-2021/ 
+CBC. (2019). Water levels in Fredericton surpass last year’s and keep rising downriver. Accessed at: https://www.cbc.ca/
+news/canada/new-brunswick/flooding-fredericton-rising-water-levels-1.5107001 
+CBC. (2018). What every renter needs to know about tenant’s insurance. Accessed at: https://www.cbc.ca/news/canada/
+toronto/displaced-st-james-town-fire-struggling-without-insurance-1.4805210 
+Claveau, J. (2020). The Canadian Housing Survey, 2018: Core Housing Need of  Renter Households Living in Social and 
+Affordable Housing. Government of Canada. Ottawa, On. Accessed at: https://www150.statcan.gc.ca/n1/
+pub/75f0002m/75f0002m2020003-eng.htm
+Clayton, J.; Devaney, S.; Sayce, S. and van de Wetering, J. (2021) Climate Risk and Commercial Property Values: a review 
+and analysis of  the literature. UNEP FI.  Accessed at: www.unepfi.org/publications/investment-publications/climate-
+risk-and-commercial-property-values
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+44
+Chopik, C. (2019). Property Value in an Era of  Climate Change. OCAS University Open Research Repository. p.60. 
+Accessed at: http://openresearch.ocadu.ca/id/eprint/2540/9/Chopik_Chris_2019_MDES_SFI.pdf 
+Chopik, C. (2021). Canada’s Real Estate Sector Needs to Own Up to Climate Risks. Corporate Knights. Accessed at: 
+https://www.corporateknights.com/built-environment/extreme-weather-impacting-real-estate-sector/
+ 
+CPA. (2019). FINANCIAL STRESS IN THE WORKPLACE COSTS CANADIAN ECONOMY $16 BILLION 
+ANNUALLY. Canadian Payroll Association’s Annual Survey Result. Accessed at: https://payroll.ca/PDF/
+NPW/2019/Media/2019-National-Payroll-Week-News-Release-National-F.aspx
+Decent, D. and B. Feltmate. (2018). After the Flood: The Impact of  Climate Change on Mental Health and Lost Time from 
+Work. Prepared for Manulife. Intact Centre on Climate Adaptation, University of Waterloo.  Accessed at: https://
+www.intactcentreclimateadaptation.ca/wp-content/uploads/2018/06/After-The-Flood.pdf
+Duprey, T., Jones, C., Symmers, C. and G. Vallee. (2021). Household Financial Vulnerabilities and Physical Climate Risks. 
+Bank of  Canada. Staff Analytical Note 2021-19 (English). Accessed at: https://www.bankofcanada.ca/2021/08/
+staff-analytical-note-2021-19/
+Eberhardt, L.L. and J.M. Thomas. (1991). Designing Environmental Field Studies. Ecological Monograph 61: 53-73. 
+Accessed at: https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1942999
+Environment and Climate Change Canada (ECCC). (2019). Bush, E. and D.S. Lemmen, editors: Canada’s Changing 
+Climate Report. Government of Canada, Ottawa, ON. 444. Accessed at: https://www.nrcan.gc.ca/sites/www.
+nrcan.gc.ca/files/energy/Climate-change/pdf/CCCR_FULLREPORT-EN-FINAL.pdf
+Feltmate, B., and M. Moudrak. (2021). Climate Change and the Preparedness of  16 Major Canadian Cities to Limit Flood 
+Risk. Prepared for the Canadian Red Cross. Intact Centre on Climate Adaptation, University of Waterloo. 
+Accessed at: https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2021/02/16-Cities-Flood-
+Preparedness.pdf
+Feltmate, B., Moudrak, N., Bakos, K. and B. Schofield. (2020). Factoring Climate Risk into Financial Valuation. Prepared 
+for Global Risk Institute and Scotiabank. Intact Centre on Climate Adaptation, University of Waterloo.  Accessed 
+at: https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2020/03/Factoring-Climate-Risk-into-
+Financial-Valuation.pdf
+Government of Canada [GOC]. (2021a). Budget 2021: A Recovery Plan for Jobs, Growth, and Resilience. Accessed at: 
+https://www.budget.gc.ca/2021/home-accueil-en.html 
+Government of Canada [GOC]. (2021b). Canada’s National Adaptation Strategy. Accessed at: https://www.canada.
+ca/en/services/environment/weather/climatechange/climate-plan/national-adaptation-strategy.html
+Hino, M. and M. Burke. (2021). The Effect of  Information about Climate Risk on Property Values. Proceedings of the 
+National Academy of Sciences of the United States of America 118 (17).  Accessed at: https://www.pnas.org/
+content/118/17/e2003374118
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+45
+Hino, M. and B. Marshall. (2020). Does Information About Climate Risk Affect Property Values? National Bureau of Economic 
+Research, no. 26807.  Accessed at: https://www.nber.org/system/files/working_papers/w26807/w26807.pdf
+Hurlbert, S. (1984). Pseudoreplication and the Design of  Ecological Field Experiments. Ecological Monographs 54: 187-211. 
+Accessed at: https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1942661
+IBC (Insurance Bureau of Canada). (2022). Severe Weather in 2021 Caused $2.1 Billion in Insured Damage. Media 
+Releases. Accessed at: http://www.ibc.ca/qc/resources/media-centre/media-releases/severe-weather-in-2021-
+caused-2-1-billion-in-insured-damage
+IBC (Insurance Bureau of Canada). (2020). 2020 Facts of  Property and Casualty Insurance Industry of  Canada. Accessed 
+at: http://assets.ibc.ca/Documents/Facts%20Book/Facts_Book/2020/IBC-2020-Facts.pdf 
+Intergovernmental Panel on Climate Change [IPCC]. (2021): Climate Change 2021: The Physical Science Basis. 
+Contribution of  Working Group I to the Sixth Assessment Report of  the Intergovernmental Panel on Climate Change [Masson-
+Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, 
+M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou 
+(eds.)]. Cambridge University Press.45. Accessed at: https://www.ipcc.ch/report/ar6/wg1/downloads/report/
+IPCC_AR6_WGI_SPM_final.pdf
+Kirchmerier-Young, M. and X. Zhang. (2020). Human Influence has Intensified Extreme Precipitation in North America. 
+PNAS June 16, 2020. 117 (24) 13308-13313. Accessed at: https://www.pnas.org/content/117/24/13308.long
+Macdonald, N. (2019). Updated Flood Plain Maps will send the Housing Market Underwater. CBC. Accessed at: https://
+www.cbc.ca/news/opinion/flood-plains-1.5135336 
+Mackenzie, N. (2021). APG Hires in-house Weatherman to Interpret Climate Data. Risk.Net. Accessed at: https://www.
+risk.net/investing/7875556/apg-hires-in-house-weatherman-to-interpret-climate-data
+Malik, A. (2019). How this year’s CAT losses are trending. Accessed at: https://www.canadianunderwriter.ca/
+catastrophes/latest-numbers-show-loss-pace-break-1b-1004165350/ 
+Meyer, C. (2020). What are Flood Maps? Your Property Value Depends on Them and They May be Dangerously Outdated. 
+National Observer. Accessed at: https://www.nationalobserver.com/2020/02/10/news/what-are-flood-maps-
+your-property-value-depends-them-and-they-may-be-dangerously 
+Mohanty, M.P. and S.P. Simonovic. (2021). Understanding Dynamics of  Population Flood Exposure in Canada with Multiple 
+High-Resolution Population Data Sets. Science of the Total Environment. 2021 Mar 10; 759:143559. Accessed at: 
+https://www.sciencedirect.com/science/article/abs/pii/S004896972037090X?via%3Dihub
+Moudrak, N. and B. Feltmate. (2020). Under One Umbrella: Practical Approaches for Reducing Flood Risks in Canada. Prepared for 
+Standards Council of  Canada. Intact Centre on Climate Adaptation, University of Waterloo. Accessed at: https://www.
+intactcentreclimateadaptation.ca/wp-content/uploads/2020/11/Under-One-Umbrella-1.pdf
+Treading Water: Impact of Catastrophic Flooding on Canada’s Housing Market
+46
+Moudrak, N. and B. Feltmate. (2019). Weathering the Storm: Developing a Canadian Standard for Flood-Resilient Existing 
+Communities. Accessed at: https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2019/01/
+Weathering-the-Storm.pdf 
+Office of the Superintendent of Financial Institutions [OFSI]. (2021). Home. Accessed at: https://www.osfi-bsif.
+gc.ca/Eng/Pages/default.aspx
+Ortega, F. and S. Taspinar. (2018). Rising Sea Levels and Sinking Property Values: Hurricane Sandy and New York’s Housing 
+Market. IDEAS. Accessed at: https://ideas.repec.org/a/eee/juecon/v106y2018icp81-100.html 
+Pfeffer, A. (2017). Sellers May Want to Wait a Year for Market to Recover, Agents Warn Flood Victims. CBC. Accessed at: 
+https://www.cbc.ca/news/canada/ottawa/wait-year-market-recover-ottawa-flood-1.4113966 
+Realtor.com [Realtor]. (2021). To each their home. Let’s find a home that perfect for you. Accessed at: https://www.realtor.com/
+Sanders, B.F., Schubert, J.E., Goodrich, K.A. Houston, D. Feldman, D.L., Basolo, V. and R.A. Matthew. (2020). 
+Collaborative Modelling with Fine-Resolution Data Enhances Flood Awareness, Minimizes Differences in Flood Perception, and 
+Produces Actionable Flood Maps. Earth’s Future, 8(1), 1-23. Accessed at: https://agupubs.onlinelibrary.wiley.com/doi/
+full/10.1029/2019EF001391
+Schindler, D.W. (1987). Detecting Ecosystem Responses to Anthropogenic Stress. Canadian Journal of Fisheries and 
+Aquatic Sciences. 44 (Suppl. 1): 6-25. Accessed at: https://cdnsciencepub.com/doi/abs/10.1139/f87-
+276?journalCode=cjfas
+Sokal, R. and J. Rohlf. (1981). Biometry. W.H. Freeman and Company. 859 pp.46 
+Statistics Canada. (2019). Homeownership, mortgage debt and types of  mortgage among Canadian Families. Accessed at: 
+https://www150.statcan.gc.ca/n1/pub/75-006-x/2019001/article/00012-eng.htm 
+Wesseler, S. (2021). Climate Change Increases Renters’ Risks. Yale Climate Connections. Accessed at: 
+https://yaleclimateconnections.org/2021/05/climate-change-increases-renters-risks/ 
+WOWA. (2021). Canadian Housing Market News. Accessed at: https://wowa.ca/reports/canada-housing-market 
+Zaveri, M., Haag, M., Playford, A. and N. Schweber. (2021). How the Storm Turned Basement Apartments into Death Traps. 
+The New York Times. Accessed at: https://www.nytimes.com/2021/09/02/nyregion/basement-apartment-
+floods-deaths.html 
+Zhang, L. and T. Leonard. (2019). Flood Hazards Impact on Neighborhood House Prices. The Journal of Real Estate 
+Finance and Economics, 58 (4), 656-674. Accessed at: https://www.proquest.com/docview/2056072275
+Zhang, L. (2016). Flood Hazards Impact on Neighborhood House Prices: A Spatial Quantile Regression Analysis. Regional 
+Science and Urban Economics, 60, 12-19. Accessed at: https://www.sciencedirect.com/science/article/abs/pii/
+S0166046216300540?via%3Dihub
+For further information about the report, please contact:
+Kathryn Bakos
+Director, Climate Finance and Science 
+Intact Centre on Climate Adaptation
+Faculty of Environment, University of Waterloo
+EV3 4334 - 200 University Avenue West
+Waterloo, ON, Canada N2L 3G1
+kathryn.bakos@uwaterloo.ca  |  519-572-1463
+www.intactcentreclimateadaptation.ca | Twitter @ICCA_Canada

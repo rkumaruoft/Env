@@ -1,0 +1,1449 @@
+Social bots’ role in climate change discussion on Twitter: Measuring
+standpoints, topics, and interaction strategies
+CHEN Chang-Fenga, SHI Wenb, YANG Jinga, FU Hao-Huanc,*
+a School of Journalism and Communication, Tsinghua University, Beijing, 100084, China
+b School of Journalism and Communication, Jinan University, Guangzhou, 510632, China
+c Department of Earth System Science, Tsinghua University, Beijing, 100084, China
+Received 2 February 2021; revised 2 August 2021; accepted 24 September 2021
+Available online 5 October 2021
+Abstract
+This study aims to explore social bots' role in online climate change discussions. By analyzing 491,279 climate-change-related tweets, we
+found that social bots were actively engaged in climate change discussions on Twitter and contributed up to 1.5.4% of related contents. Bots
+promote the saliency of energy, climate actions and climate strikes on public agenda. 83.1% of tweets posted by social bots support climate
+change activism, and 16.9% support climate change skepticism. However, social bot skeptics are more strategical than social bot activists in
+terms of launching conversations with opposing-minded humans, and avoiding ampliﬁcation of opposing voices. They are also more successful
+in inciting opposing-minded humans' initiative conversation and like-minded humans' ampliﬁcation. Based on the above ﬁndings, we suggest
+cultivating individuals’ media literacy in terms of distinguishing malicious social bots as a potential solution to deal with social bot skeptics
+disguised as humans, as well as making use of benign social bots for science popularization.
+Keywords: Climate change; Social media; Social bots; Climate skeptics
+1. Introduction
+Although scientists have achieved consensus on human-
+caused global climate change (Anderegg et al., 2010), dual-
+istic climate debates indicated intense disagreements between
+climate change activists and skeptics (Hobson and Niemeyer,
+2013). Climate activists recognize the fact of climate change
+and believe that it is necessary to mitigate climate change as it
+triggers a series of serious biological and social sequences.
+While driven by demographics, environmental factors and
+political beliefs, climate skeptics tend to show uncertainty
+about
+climate
+change
+facts
+and
+humans’
+contributions
+(Whitmarsh, 2011).
+Social media have become a new battleground for climate
+change discussions (Boussalis and Coan, 2016), where several
+climate denial discourses are prevalent (Jacques and Knox,
+2016). Multiple forces are actively engaged in online climate
+debates for the purpose of shaping public understanding of
+climate science (Sharman and Howarth, 2017). Climate sci-
+entists publicly raise their voices in climate debates as active
+communicators, information interpreters, and opinion makers
+(Newman, 2016; Walter et al., 2018, 2019). Whereas delib-
+erate and organized efforts of climate skepticism strategically
+undermine climate science by building echo chambers and
+pretending as credible scientiﬁc resources (Bloomﬁeld and
+Tillery, 2019).
+With the development of artiﬁcial intelligence technology,
+established studies have found social bots are used to inﬂuence
+online public opinion (Subrahmanian et al., 2016; Varol et al.,
+2017; Wojcik, 2018). Social bots are accounts controlled,
+entirely or in part, by software (Ferrara et al., 2016), which are
+* Corresponding author.
+E-mail address: haohuan@tsinghua.edu.cn (FU H.-H.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 12 (2021) 913e923
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2021.09.011
+1674-9278/© 2021 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+always created in batches and programmed to publish exces-
+sive amounts of contents continuously (Howard et al., 2016).
+They may disguise as humans by automatically sending
+friendship requests, sharing and liking contents (Boshmaf
+et al., 2011; Echeverria et al., 2017). Social bots can suc-
+cessfully distort public discussions by manufacturing fake
+support (Howard and Kollanyi, 2016) or inﬂating misinfor-
+mation on social media (Shao et al., 2018).
+Social bots' participation in climate change discussions have
+been noted in previous studies. In the 2016 U.S. presidential
+election, the volume of climate change tweets far surpassed that
+of other scientiﬁc topics in the dataset of Russian Internet
+Research Agency (Strudwicke and Grant, 2020). Social bots
+were disproportionately used for supporting President Donald
+Trump's decision to withdraw from the Paris Agreement in 2017
+(Marlow et al., 2020). However, as social bots' prosperity in
+politics have been widely recognized in political communica-
+tion studies (Ferrara, 2017; Howard and Kollanyi, 2016; Shao
+et al., 2018), it's hard to decide their participation in politic-
+related climate change events is a result of interest in politic
+topics or climate topics. Social bots' participation in regular
+climate change discussions have not been explored. Whether
+and how social bots have been used to shape public under-
+standing of climate issues remains unknown.
+Earlier studies have explored social bots’ participation in
+many other scientiﬁc topics. Social bots are found to sow the
+seeds of anti-vaccine sentiment in vaccination debates (Yuan
+et al., 2019), propagate e-cigarettes as helpful cessation de-
+vices (Broniatowski et al., 2018), amplify human sentiments in
+Covid-19 pandemic (Shi et al., 2020b), as well as suggest the
+medical use of cannabis (Allem et al., 2020). The tweeting
+frequency of social bots overwhelms that of average users
+(Yuan et al., 2019). One of their another strategies is to
+amplify the voices of both sides to manufacture misleading
+equivalency and undermine public consensus on scientiﬁc
+facts (Broniatowski et al., 2018). But the discussion above
+does not indicate that the existence of social bots is purely
+malicious. Some social bots are designed to help science
+popularization. For instance, some scientists have developed
+benign social bots for individualized anti-tobacco health
+intervention (Deb et al., 2018), which is proved effective in
+raising public health awareness.
+Social bots' participations in climate change discussion
+have been ignored. As more and more studies use social media
+data as sensors to capture public opinions towards climate
+change (Ghermandi and Sinclair, 2019), it remains to be
+examined to what extent social media contents can represent
+real human opinions. Besides, although climate scientists have
+noted deliberate and organized efforts were made to manipu-
+late public attitudes towards climate change (Bloomﬁeld and
+Tillery, 2019), social bots were hardly addressed as a novel
+kind of manipulation strategy in AI era. The neglect of social
+bots' role in climate change debates may lead to potential risks
+in terms of climate communication researches and practice.
+We tried to bridge the above research gap from the following
+aspects, which may help understand social bots' inﬂuence on
+public climate change discussions. Firstly, we measured the
+extent to which social bots are engaged in online climate
+change discussions and analyze their intentions. Secondly, we
+conduct content analysis to ﬁgure out social bots’ sub-topic
+preference and attitudes (skeptics or activists) in climate
+change discussions. Thirdly, we characterized the inﬁltration
+strategy of social bots by measuring their interaction behav-
+iors. Although the current Twitter mechanism makes it difﬁ-
+cult for us to know the behind-the-scenes manipulators of
+social bots, characterizing social bots' behavioral logic can
+make their intentions clearer and assist climate communicators
+to formulate more efﬁcient communication strategies. To be
+speciﬁc, the following questions are addressed.
+RQ1a: How much of different kinds of contents (original
+tweets, retweets, quotes, replies) is published by social bots in
+climate change discussions on Twitter?
+RQ1b: What are the major motivations of social bots ac-
+cording to their self-disclosed user proﬁles?
+RQ2a: What sub-topics do social bots prefer in climate
+change discussions?
+RQ2b: What's the standpoint of social bots? To be speciﬁc,
+how many of them are climate change activists and sceptics,
+respectively?
+RQ3a: How do social bots with different standpoints
+(activism and scepticism) interact (retweet, quote, reply and
+mentions) with humans?
+RQ3b: How do humans with different standpoints (activism
+and scepticism) interact (retweet, quote, reply and mentions)
+with social bots?
+Compared with earlier studies, this study shows two
+distinct characteristics. To be ﬁrst, we focus on regular climate
+change discussions rather than major political related climate
+change events on Twitter, allowing us to explore how social
+bots shape public understanding in daily discourse, which was
+ubiquitous but overlooked in previous studies. Moreover, this
+study provides a systemic examination of social bots' behavior,
+which includes both contents analysis and interaction analysis.
+Our ﬁndings may not only reveal social bots’ strategy of
+skewing public opinions, but also give hints about how to
+make use of benign social bots and deal with anti-science
+social bots to improve public awareness of climate change.
+2. Data and methods
+2.1. Data collection
+Twitter users usually anchor their tweets to speciﬁc topics
+with hashtags, providing other users with beacons to follow this
+topic and take part in public discussions (Small, 2011).
+Following previous studies (Holmberg and Hellsten, 2015;
+Pearce et al., 2019; Williams et al., 2015), we chose #clima-
+techange, #globalwarming, and #agw (short for anthropogenic
+global warming) to identify English-language tweets concern-
+ing global climate change with Twitter Standard Search API.
+We mainly consider two principles when setting the data
+collection period. Firstly, different from previous studies
+which focused on social bots' engagement in political-related
+climate change discussions, this study aimed at investigating
+914
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+social bots' role in regular climate change discussions. No
+major domestic political events (such as the United States’
+withdrawal from Paris Agreement) or international political
+events (such as COP) are expected to take place during the
+data collection period. Secondly, as Twitter regularly detects
+and suspends social bot accounts, we did not set the study
+period too long to avoid the probable bias. When the above
+two conditions are met, we follow (Williams et al., 2015) to
+use convenience sampling and chose 7 January 2020 as the
+start date and 27 January 2020 as end date.
+2.2. Social bot detection
+Following previous studies (Badawy et al., 2018; Badawy
+et al., 2019; Ferrara, 2017; Luceri et al., 2019b; Shao et al.,
+2018), we used the Botometer (formerly BotOrNot), a pro-
+gram developed by Indiana University to estimate the chances
+that an account is a bot. Based on machine learning algo-
+rithms, Botometer returns a bot-likelihood score (bot score)
+for the targeted account. The bot score is calculated based on
+network, user, friend, temporal, content, and sentiment fea-
+tures of accounts (Davis et al., 2016). The closer the bot score
+is to 1, the higher the probability that the account is a robot;
+the closer the bot score is to 0, there is a higher probability that
+the account belongs to humans. Although some study suggests
+that an account can be suspected as a bot if its bot score ex-
+ceeds 0.3 (Luceri et al., 2019b), we followed most of previous
+studies (Badawy et al., 2018, 2019; Ferrara, 2017; Shao et al.,
+2018) and labeled accounts with bot score greater than 0.5 as
+social bots and bot score less than 0.5 as humans. Botometer
+may fail to give bot score of accounts due to various reasons,
+such as authorization problems, account suspensions, and lack
+of tweets for analysis. The identities of these above accounts
+were documented as ‘unknown’. Unknown users accounted
+2.23% of all users and contributed to 2.39% of all the tweets.
+These accounts were excluded from further analysis.
+We collected 491,279 tweets, among which 446,166 tweets
+contain #climatechange, 32,619 contain #globalwarming and
+867 contain #agw. We randomly sampled 100 tweets in our
+dataset and ﬁnd 97% of them are related to climate change,
+suggesting that our dataset is suitable for analysis of climate
+change discussions. One noticeable feature of our data was
+that the ongoing Australia bushﬁre since July 2019 attracted
+lots of attention during the period of data collection, and was
+mentioned in 20% of the sampled tweets as a probable climate
+emergency.
+3. Results
+3.1. Basic statistics
+3.1.1. Social bots’ contributions to climate discussions on
+Twitter
+These 491,279 tweets collected can be classiﬁed into
+84,336 original tweets, 366,080 retweets, 18,125 quotes, and
+23,518 replies (the quotes and the replies intersect). 31,227
+social bots, 201,546 humans, and 5267 unknown users
+contributed to these tweets, among which social bots pub-
+lished a total of 15.4% of the tweets (see Table 1). 20.5% of
+the original tweets are attributed to social bots. Comparatively,
+social bots are not actively engaged in retweeting (14.9%),
+quoting (9.4%) and replying (9.8%). Although the volume of
+retweets overwhelms that of original tweets for both social
+bots and humans, compared with humans, social bots show
+stronger preference for original tweets rather than retweets.
+Fig. 1a shows bot score distribution of tweets containing
+any of the three hashtags. Generally speaking, #global-
+warming are the most contributed by social bots (21.4%) and
+hashtag #climatechange are the least (15.6%) contributed.
+Previous studies noted that, although global warming and
+climate change are always used interchangeably, they have
+slightly different connotations (Shi et al., 2020b). Global
+warming emphasizes more on the temperature rise on the
+Earth surface and its human causes (Whitmarsh, 2009).
+Compared with climate change, global warming is more likely
+to be associated with hoax frames and preferred by those who
+question climate change facts (Jang and Hart, 2015), because
+it's easy for skeptics to ﬁnd cues like snowstorms and
+extremely cold weather to challenge temperature rise facts
+(Schuldt and Roh, 2014). Social bots' preference of #global-
+warming may indicate that social bots intentionally target at
+scientiﬁc uncertainties. Social bots' preference of #global-
+warming may indicate that social bots intentionally target at
+scientiﬁc uncertainties. Fig. 1b displays the proportion of
+humans and social bots in all users, 100 the most active au-
+thors (high frequency of publishing tweets) and 100 the most
+inﬂuential (high frequency for getting retweeted) authors,
+respectively. Compared with the general population, active
+users consist of higher proportion of social bots, but the
+composition of most inﬂuential users does not show apparent
+differences. Notably, in our dataset, tweets posted by social
+bots were retweeted 735.5 times on average, and tweets posted
+by humans were retweeted 1131.0 times on average, indicating
+although social bots have equivalent chances as humans to be
+ranked in the top 100 most retweeted users, they are overall
+less capable of triggering retweet.
+3.1.2. Social bots’ self-disclosed intentions
+Twitter allows users to customize a ‘self-introduction’
+within 160 characters for identity disclosure. Text, emoticons,
+symbols, hyperlinks, and hashtags can all be used in the de-
+scriptions. Customizing social media proﬁle is a process of
+users' online identity construction and expression (Ahn, 2011),
+Table 1
+Contribution of social bots and humans to four types of tweets.
+Index
+Social bots
+Humans
+Unknown
+Total
+Original
+tweet
+17,275 (20.5%) 65,508 (77.7%)
+1553 (1.8%)
+84,336 (100%)
+Retweet 54,453 (14.9%) 302,590 (82.7%) 9037 (2.5%)
+366,080 (100%)
+Quote
+1699 (9.4%)
+16,046 (88.5%)
+380 (2.1%)
+18,125 (100%)
+Reply
+2315 (9.8%)
+20,569 (87.5%)
+634 (2.7%)
+23,518 (100%)
+Total
+75,649 (15.4%) 403,902 (82.2%) 11,585 (2.4%) 491,279 (100%)
+915
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+and thus previous studies regard self-disclosed proﬁles on
+social media as users' self-identity awareness (Tufekci, 2008).
+We took self-introductions for computational linguistic anal-
+ysis. It cannot be guaranteed that the statements in the proﬁle
+reﬂects the real intent of the account, but these results are
+proper tools to observe users' self-disclosed intentions. n-gram
+analysis (n ¼ 2) is used to extract the contiguous sequence of
+words in user proﬁles. This study uses two methods to obtain
+high-frequency word sequences in social bots' and humans'
+proﬁles. With the ﬁrst method, each user's weight is the same,
+that is, each user's description is calculated only once, and this
+result is recorded as the ‘unweighted’ result. With the second
+method, we weighted user proﬁles with the number of tweets
+the user posted in our dataset, where users who post more
+tweets are higher weighted. Results acquired with the second
+method is recorded as the ‘weighted’ result. Unweighted and
+weighted results are shown in Table 2, and non-English words
+have been excluded.
+Several top patterns in unweighted social bots' proﬁles
+showed apparent support for the U.S. President Donald Trump
+by frequently mentioning maga (short for Make America
+Great Again, Trump's motto in 2016) and kag (short for Keep
+America Great, Trump's new motto in 2020). Additionally,
+some social bots took reciprocal strategy by promising to
+‘follow back’ users who follow them in their proﬁles, which is
+in accordance with earlier ﬁndings (Ferrara, 2017). Compar-
+atively, for top patterns in weighted social bots' proﬁles, the
+support for Trump was not that apparent. Phrases about en-
+ergy, environment, and weather are ranked high, indicating
+users with these descriptions posted massive amounts of
+tweets. Words starting with ‘http’ (referring to hyperlinks) are
+salient in weighted results of social bots, suggesting active
+social bots' efforts of persuading users to visit certain hyper-
+links. Interestingly, some suspected social bots use family-
+related words such as married, husband, father in their pro-
+ﬁles, suggesting they may publish contents in disguise of
+humans.
+Unweighted results help to understand what kind of ac-
+count has an advantage in number, whereas weighted results
+can reveal what kind of account has an advantage in tweeting
+volume. The difference in the unweighted and weighted
+proﬁles of bots revealed that a large number of social bots
+showed pro-Trump standpoints in proﬁles, but social bots who
+declared to have particular interest in energy, environment,
+and weather are more productive in climate change related
+discussions. This result showed that many users discussing
+climate change topics might be political social bots, who
+probably hold similar standpoints with Trump. However, these
+political bots have no advantage in terms of tweeting volume
+when compared to climate social bots with speciﬁc interest in
+energy and environment issues. The role of these social bots in
+daily climate discussions might be under-estimated in previous
+studies about social bots in politics-related climate discus-
+sions. Humans’ typical proﬁles have different characteristics
+and show more about concern for human rights, animals, and
+social values.
+3.2. Content analysis
+3.2.1. Social bots’ topic preference
+Hashtags are widely used to anchor the topic of tweets on
+Twitter (Small, 2011). By counting the hashtags adopted by
+users, we investigated whether social bots tried to amplify
+speciﬁc sub-topics. Table 3 shows the top 20 hashtags used by
+social bots and humans, respectively. Following (Arlt et al.,
+2019), we calculated the relative popularity of hashtag h
+among social bots and humans as follows.
+Ph relative ¼logð Fh bot
+Fmax bot
+
+Fh human
+Fmax human
+Þ
+ð1Þ
+Firstly, we grouped the tweets into social bot dataset
+(n ¼ 75, 649) and human dataset (n ¼ 403, 902) according to
+the identity of authors. Fh bot is the frequency of hashtag h in
+social bot dataset. Fmax bot is the frequency of the most popular
+hashtag in social bot dataset.
+Fh
+bot
+Fmax
+bot refers to hashtag h's
+relative frequency in social bot dataset. Similarly,
+Fh
+human
+Fmax
+human
+refers to hashtag h's relative frequency in human dataset. The
+ratio of above two values refer to the hashtag's relative
+popularity in two datasets. Log-transformation of the ratio can
+make the results distributed on both sides of the Y-axis. Re-
+sults greater than 0 indicated that the hashtags were more
+frequently represented by humans, and results smaller than
+Fig. 1. Bot score distribution for tweets containing #climatechange, #globalwarming, and #agw (a), and (b) bot and human composition of all users, 100 most
+inﬂuential users, and 100 most active users.
+916
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+0 indicated that hashtags were more likely to appear in social
+bots' discourse. The top 20 hashtags in either of the two
+datasets were selected for visualization in Fig. 2.
+As shown in Fig. 2, hashtags about energy, such as
+#renewableenergy, #energy were more salient in social bots’
+discourse. Social bots were also found to popularize hashtags
+about climate actions (#actonclimate and #climateaction) and
+climate strikes (#climatestrike and #gretathunberg). They also
+tend to use hashtags arguing the urgency of climate issues, such
+as #climatecrisis, #climateemergency and #climatechangeisreal.
+Although Australia bushﬁre's associations with anthropo-
+genic climate change remains examinations (van Oldenborgh
+et al., 2020), hashtags about wild life and Australia bushﬁres
+were more salient in the human dataset. Humans were also
+more likely to talk about #disney, #rupertmurdoch, and
+#20thcenturyfox, which are used for criticizing climate skep-
+ticism standpoints of Rupert Murdoch. Humans' timely
+response to climate change emergency may be a feature to
+distinguish social bots and humans.
+3.2.2. Social bots: climate change activists or skeptics?
+Cimate activists and climate skeptics have long been two
+opposing sides in climate debates (Bloomﬁeld and Tillery,
+2019). In this part, we examined to what extent these two
+standpoints are supported by social bots and humans.
+Following previous studies (Guo et al., 2020; Schmid-Petri
+et al., 2020; Yuan et al., 2019), we used Support Vector
+Machine (SVM; Joachims, 1998), a well-established super-
+vised machine learning algorithm to classify the standpoints
+of tweets. We regarded tweets questioning climate change
+facts as climate change skepticism, and tweets recognizing
+the fact of climate change or appealing for climate actions as
+climate change activism (Williams et al., 2015). Two human
+coders were trained to manually distinguish these two
+standpoints. We used Cohen's kappa to recalculate the inter-
+coder reliability, which refers to the agreement between
+two raters when they decide the category of items. The value
+range of this Cohen's kappa is between 1 and 1. In our case,
+Cohen's kappa is 0.65, which means the inter-coder reliability
+is rather strong. Then we used 2800 skepticism tweets and
+2800 activism tweets labelled manually by two coders as
+training dataset of SVM model. Another 197 randomly
+selected tweets were used for model validation. The accuracy
+rate of our SVM model turned out to be 88.8%, a ﬁne per-
+formance compared with that of earlier studies (Guo et al.,
+2020; Schmid-Petri et al., 2020; Yuan et al., 2019), which
+means it's a qualiﬁed text classiﬁer and can be used for the
+following large scale text processing. The rest of the tweets in
+our dataset were used as test dataset and their climate change
+attitudes are calculated by the well-trained SVM model.
+SVM results showed that, for tweets posted by social bots,
+83.1% were classiﬁed as climate activisms, and 16.9% were
+classiﬁed as skepticism. As for tweets posted by humans,
+81.8% were identiﬁed as climate activism, and 18.2% were
+skepticism.
+Following previous studies (Guo et al., 2020; Williams
+et al., 2015), we further inferred the stances of users based
+on the standpoints of their tweets. For each account, we
+Table 2
+Top 20 results of n-gram (n ¼ 2) analysis of social bots' and human's description in proﬁle.
+Rank
+Social bots unweighted
+Weighted to number of tweets posted
+Humans unweighted
+Weighted to number of tweets posted
+Pattern
+Frequency
+Pattern
+Frequency
+Pattern
+Frequency
+Pattern
+Frequency
+1
+maga kag
+447
+climate change
+2382
+climate change
+2343
+climate change
+9200
+2
+climate change
+312
+maga kag
+1030
+human rights
+1127
+human rights
+3411
+3
+president trump
+177
+httpstcoqeqnxnyjy
+httpstcodnwchdl
+914
+maga kag
+1039
+social justice
+3220
+4
+trump supporter
+163
+renewable energy
+845
+animal lover
+858
+gender discrimination
+1742
+5
+trump maga
+138
+interested environment
+419
+husband father
+813
+grandmothers ingenuity
+1741
+6
+maga trump
+129
+weather climate
+410
+social justice
+796
+ingenuity overcame
+1741
+7
+happily married
+113
+global warming
+396
+wife mother
+569
+overcame gender
+1741
+8
+kag trump
+112
+energy meteorologist
+389
+rt endorsement
+556
+discrimination economic
+1741
+9
+follow back
+101
+meteorologist interested
+388
+social media
+548
+economic exploitation
+1741
+10
+god family
+100
+environment weather
+388
+views expressed
+517
+exploitation hostile
+1741
+11
+social media
+79
+climate check
+388
+rts endorsements
+513
+hostile society
+1741
+12
+renewable energy
+79
+check httpstcoeziuxla*
+388
+ofﬁcial twitter
+511
+society prove
+1741
+13
+phd student
+79
+httpstcoeziuxla facebook*
+388
+views mine
+506
+prove genius
+1741
+14
+husband father
+78
+facebook httpstcoridbegkb*
+388
+phd student
+499
+genius
+earthsoldierbookescs
+1741
+15
+ofﬁcial twitter
+77
+global point
+385
+follow back
+487
+animal lover
+1707
+16
+god bless
+76
+point forecasting
+385
+happily married
+479
+maga kag
+1547
+17
+family country
+73
+forecasting system
+385
+trump supporter
+479
+husband father
+1503
+18
+human rights
+72
+eco friendly
+362
+twitter account
+470
+rt endorsement
+1354
+19
+christian
+conservative
+71
+president trump
+356
+retweets endorsements
+439
+rts endorsements
+1299
+20
+love god
+67
+ﬁne art
+347
+phd candidate
+432
+global warming
+1171
+Note: Phrases with * are abbreviations or hyperlinks.
+917
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+calculated how much of its tweets support climate change
+activism. For example, if 8 out of 10 tweets posted by a certain
+account support climate change activism, the activism tweet
+proportion is 0.8. The distribution of activism tweet proportion
+for bots and humans is shown in Fig. 3. For most users, they
+show persistent climate change attitude, either activism or
+skepticism, amongst their tweets, which also conﬁrms the
+accuracy of SVM standpoint classiﬁcation. Whereas a small
+amount of users’ activism tweet proportions is around 0.5,
+suggesting hesitation or neutral standpoints. In further anal-
+ysis, users whose activism tweet proportion is no less than 0.6
+were documented as a climate change activist, and users with
+activism tweet proportion no greater than 0.4 were labeled as
+climate change skeptics. The standpoints of the rest of users
+were regarded as unclear and excluded from further analysis.
+Finally, 69.9% of social bots were identiﬁed as climate change
+activists, 14.4% were skeptics, and the rest did not have clear
+standpoints. 68.4% of humans were identiﬁed as activists, and
+13.6% were identiﬁed as skeptics. Climate change activists
+dominated both humans and social bots.
+Table 3
+Top 20 hashtags (#) used by social bots and humans.
+Social bots
+Frequency
+Humans
+Frequency
+Climatechange
+72,244
+climatechange
+390,472
+Globalwarming
+7244
+Auspol
+34,882
+Climatecrisis
+5974
+climatecrisis
+29,551
+Climateemergency
+5595
+climateemergency
+27,848
+Climateaction
+4539
+globalwarming
+26,598
+Climate
+3418
+climateaction
+19,570
+wef20
+3353
+wef20
+14,328
+Auspol
+3280
+australiaburning
+14,294
+Environment
+2942
+Tiredearth
+12,083
+Sustainability
+2902
+Climate
+10,800
+Tiredearth
+2001
+Kangaroos
+10,505
+Australia
+1803
+Wildlife
+9781
+Australiaburning
+1754
+Pollution
+9327
+Actonclimate
+1724
+Australia
+9088
+Energy
+1652
+Bushﬁres
+9062
+Climatestrike
+1600
+Ocean
+8908
+Pollution
+1532
+actonclimate
+8782
+Gretathunberg
+1375
+rupertmurdoch
+8252
+Climatechangeisreal
+1367
+Disney
+8151
+Bushﬁres
+1304
+20thcenturyfox
+8136
+Fig. 2. Relative frequency of top 20 hashtags (#) used by social bots and humans (A smaller score means the hashtag is more popular in social bots corpus, and vice
+versa).
+918
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+3.3. Interaction analysis
+Following the previous studies (Luceri et al., 2019a; Stella
+et al., 2018), we examined how social bots and humans with
+different standpoints interacted with each other. There were
+mainly four kinds of interaction networks on Twitter1 1)
+Retweet network, which describes the ﬂow of information
+through the retweet function on Twitter. In this network, if
+there is an edge from node A to node B, it indicates that user A
+interact with user B by retweeting. 2) Quote network, which is
+similar to retweet network but it allows users to add supple-
+ments or comments to the original tweet. The edge from node
+A to node B indicates that user A interact with user B by
+spreading the message and adding some new contents at the
+same time. 3) Reply network, which is used to describe the
+relationship of users in conversations. The edge from node A
+to node B indicates that user A replied to user B. 4) Mention
+network, which is used to describe the situations one user
+mentions another user with @. The edge from node A to node
+B indicates that user A mentioned B for purposes like drawing
+attention. The above four networks are all directed networks.
+Based on the four interaction networks mentioned above,
+we conducted chi-square analysis of interaction types and
+botehuman interactions (in Table 4), interaction types and
+humanebot interactions (in Table 5).
+As seen in Table 4, although mentions and retweets are
+dominant types for botehuman interactions, their proportions
+vary according to the standpoints of both sides.
+Comparing interaction compositions between like-minded
+entities and opposing minded entities, we found quotes and
+replies are more preferred in the latter situation. For instance,
+for the interactions between social bot skeptics and human
+skeptics, the proportion of reply is 0.005, which is signiﬁ-
+cantly lower than that (0.070) between social bot skeptics and
+human activists. This ﬁnding may indicate social bots’
+attempts to start conversations with opposing-minded people.
+In contrast, social bot skeptics strategically conduct less pro-
+portion of retweets when interacting with counterpart humans
+(0.184) than with like-minded humans (0.377), indicating they
+are comparatively reluctant to spread opposing voices.
+Another note is that social bot activists and social bot
+skeptics have slight differences in terms of their strategies
+towards humans with different opinions. Social bot skeptics
+show disproportionate higher interest (0.733) than social bot
+activists (0.574) in mentioning humans, which tells us that
+mentions may serve as a provocative strategy for social bot
+skeptics to manufacture debates or increase exposure. More-
+over, in this situation, the proportion of replies is signiﬁcantly
+higher (0.07 vs. 0.018) and retweets is smaller (0.184 vs.
+0.396) for social bot skeptics, referring to higher probability of
+conversations
+and
+smaller
+probability
+of
+ampliﬁcations
+respectively. These ﬁndings suggest that social bot skeptics are
+more strategical than social bot activists when encountering
+with opposing opinions.
+According to Table 5, some humans interact with social
+bots, conﬁrming social bots' capability of triggering humans'
+active interactions. It is worthy of noticing that, humans' ac-
+tivists mention and reply to opposing-minded social bots
+proactively, but they are unwilling to retweet from these social
+bots. The above ﬁndings suggest that although social bots
+cannot effectively attract opposing-minded humans to retweet,
+they are deceptive enough that humans tend to start conver-
+sations, where debates probably take place. Moreover, both
+social bot activists and social bot skeptics trigger higher pro-
+portion of retweet from like-minded humans (0.464 and 0.381)
+than from opposing-minded humans (0.390 and 0.286), sug-
+gesting humans’ relative preference to tweeting rises when
+faced with like-minded social bots.
+Besides, we examined how many of the humans were once
+affected by bots in the interaction networks (Table 6). We ﬁrst
+calculated the total number of human users in each network,
+and then obtained the number of human users who were
+successors of bots in graphs. By dividing the number of suc-
+cessors by the total number of human users in the network, we
+obtained the proportion of human users directly affected by the
+social bots in each kind of interaction. Humans in retweet and
+mention network were more likely to be successors of social
+bots. Speciﬁcally speaking, 18.7% of the users in the retweet
+network had retweeted from social bots, indicating that social
+bots promote certain information and contribute to a fake
+climate of opinions. Few humans once quoted or replied to
+social bots, suggesting social bots are not successful in trig-
+gering conversations.
+4. Discussion
+By analyzing 491,279 climate change related tweets posted
+between 7 January 2020 and 27 January 2020, we found that
+social bots were actively engaged in climate change discus-
+sions on Twitter and contributed up to 15.4% of contents. Bots
+promote the saliency of energy, climate actions and climate
+strikes on public agenda. 83.1% of tweets posted by social
+Fig. 3. The distribution of activism tweet proportion for social bots and
+humans.
+1 Twitter Help Center. Accessed on 2020. About different types of Tweets
+Retrieved 5 May, 2020, from https://help.twitter.com/en/using-twitter/types-
+of-tweets.
+919
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+bots support climate change activism, and 16.9% support
+climate change skepticism. However, social bot skeptics are
+more strategical than social bot activists in terms of launching
+conversations with opposing-minded humans, and avoiding
+ampliﬁcation of opposing voices. Social bot skeptics can also
+successfully trigger debates from opposing-minded humans
+and ampliﬁcation of like-minded humans.
+For future researches using social media climate change
+discussions as a substitute of polls, our results suggest that
+contents published by social bots should be identiﬁed and
+analyzed speciﬁcally. Suspected social bots were responsible
+for up to 15.4% of contents in climate change discussions on
+Twitter, suggesting part of our online information environment
+of climate change discussions is fake. Comparatively, social
+bots' contribution to climate debates is less than to political
+events. For example, social bots were found to be responsible
+for 31% of low-credibility contents in 2016 U.S. Presidential
+Election (Shao et al., 2018). In the Catalan referendum and the
+2016 U.S. Presidential Election, social bots contributed to
+23.6% and 19% of posts respectively on Twitter (Bessi and
+Ferrara, 2016; Stella et al., 2018). While the comparatively
+small percentage of social bots’ contribution drawn from our
+study does not necessarily mean that their inﬂuence is subtle in
+climate change debates. Previous studies have noted that a
+small number of social bots (5%e10% of the population) were
+sufﬁcient to trigger the spiral of silence and potentially
+reshape public recognition (Cheng et al., 2020).
+Climate change activism and skepticism are not equally
+promoted by social bots. Although most of the previous
+studies pay attention to social bots' malicious role in distorting
+public recognition of facts (Allem et al., 2020; Broniatowski
+et al., 2018; Strudwicke and Grant, 2020), we noted the ma-
+jority of social bots take the same standpoints as scientists in
+the climate activists/skeptics-dichotomy debates. They actu-
+ally helped promote the science of climate change and actions
+to mitigate climate change effects. Our ﬁndings show that
+social bots can change information environment by amplifying
+discussions about energy, climate actions and climate strikes.
+Social bots are less likely to talk about up-to-date climate
+emergencies, such as Australia bushﬁres, indicating that social
+bots were less sensitive to ongoing topics. It is beyond the
+scope of this study to identify the behind-the-scene people
+Table 5
+Crosstabulation of interaction types and humanebot interactions.
+Category
+Source-target
+Total
+Human_act‒bot_act
+Human_act‒bot_sec
+Human_sec‒bot_act
+Human_sec‒bot_sec
+Interaction
+Mention
+Count
+51,454a
+755b
+3172c
+1767c
+57,148
+Ratio within source-target (%)
+52.8
+67.1
+58.7
+59.9
+53.4
+Quote
+Count
+493a
+17b
+54b
+27b
+591
+Ratio within source-target (%)
+0.5
+1.5
+1.0
+0.9
+0.6
+Reply
+Count
+344a
+31b
+71c
+33c
+479
+Ratio within source-target (%)
+0.4
+2.8
+1.3
+1.1
+0.4
+Retweet
+Count
+45,225a
+322b
+2105c
+1125c
+48,777
+Ratio within source-target (%)
+46.4
+28.6
+39.0
+38.1
+45.6
+Total
+Count
+97,516
+1125
+5402
+2952
+106,995
+Ratio within source-target (%)
+100.0
+100.0
+100.0
+100.0
+100.0
+Note: Each superscript letter denotes a subset of Source-target categories whose column proportions do not differ signiﬁcantly from each other at the 0.05 level.
+Table 6
+Humans who once interacted with social bots in four interaction networks
+(retweet, quote, reply and mention).
+Index
+Retweet
+Quote
+Reply
+Mention
+Humans inﬂuenced by social
+bots
+30,960
+670
+540
+34,869
+Total number of humans in
+network
+166,036
+16,673
+16,719
+205,189
+Proportion (%)
+18.7
+4.0
+3.2
+17.0
+Table 4
+Crosstabulation of interaction types and botehuman interactions.
+Category
+Source-target
+Total
+Bot_act‒human_act
+Bot_act‒human_sec
+Bot_sec‒human_sec
+Bot_sec‒human_act
+Interaction
+Mention
+Count
+42,109a
+1228a
+5792b
+2929c
+52,058
+Ratio within source-target (%)
+58.4
+57.4
+61.5
+73.3
+59.4
+Quote
+Count
+558a
+26a,b
+20c
+50b
+654
+Ratio within source-target (%)
+0.8
+1.2
+0.2
+1.3
+0.7
+Reply
+Count
+367a
+38b
+51a
+279c
+735
+Ratio within source-target (%)
+0.5
+1.8
+0.5
+7.0
+0.8
+Retweet
+Count
+29,071a
+847a,b
+3548b
+737c
+34,203
+Ratio within source-target (%)
+40.3
+39.6
+37.7
+18.4
+39.0
+Total
+Count
+72,105
+2139
+9411
+3995
+87,650
+Ratio within source-target (%)
+100.0
+100.0
+100.0
+100.0
+100.0
+Note: Each superscript letter denotes a subset of source-targe categories whose column proportions do not differ signiﬁcantly from each other at the 0.05 level.
+920
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+who use social bots to disseminate climate change related
+contents. However, social bots' standpoints indicate that they
+might be used for science popularization by climate scientists
+or by organizations that will beneﬁt from climate mitigation
+policies. Although social bots contributed more to climate
+activism than to skepticism, it's important to stress that, social
+bots' promotion of climate change skepticism cannot be
+ignored. Considering scientiﬁc uncertainty is the focus of
+climate change debates (Whitmarsh, 2011), social bots may
+potentially increase public's hesitation and decrease their
+willingness of action by amplifying anti-science voices.
+As a politicalized scientiﬁc topic, climate change discus-
+sions on social media were always tied to controversial po-
+litical topics and government policy. Based on the analysis of
+social bots' proﬁle, we conclude that both political social bots
+and climate social bots are engaged in climate discussion on
+Twitter. We found that pro-Trump standpoints were the most
+evident characteristics of social bots' proﬁle, suggesting po-
+litical bots’ intention of inﬁltration in climate change topics.
+This ﬁnding conﬁrms recent research saying that tweets posted
+by Russian Internet Research Agency are 8.6 times more
+likely to be related to climate change than that of normal users
+(Strudwicke and Grant, 2020). Whereas when taking tweeting
+frequency into consideration, social bots interested in energy,
+environment, and weather contribute more to climate discus-
+sions than bots supporting Trump. We concluded that although
+political social bots have an advantage in the number of ac-
+counts, social bots with speciﬁc interest in climate contribute
+more to online climate change discussions. Our ﬁndings
+indicate that social bots targeted at speciﬁc scientiﬁc ﬁelds
+prospered, but their impact might have been overlooked in
+earlier social bot studies where political social bots attracted
+most academic attention.
+Previous studies noted social bots heavily fostered same
+opinion in debates (Yuan et al., 2019). We agreed that social
+bots actually serve as content providers for social media echo
+chamber, where similar voices are more likely to be ampliﬁed
+through humanebot interactions, whereas our study found that
+the situation was much complex for social bots in climate
+change discussions. Social bot skeptics strategically try to
+avoid spreading humans' opposing voices, but have conver-
+sations with them actively. In climate change discussion, being
+opinion interactors with counter-part humans help social bot
+skeptics exert inﬂuence on public consensus in the information
+ecosystem where climate skepticism does not predominate.
+The interactions conducted by humans also conﬁrmed social
+bots’ success in triggering debates and ampliﬁcation of their
+standpoints. As polarizing echo chambers and open forums
+have been proved to co-exist in online climate discussions
+(Williams et al., 2015), our results suggest that social bot
+skeptics may potentially reinforce similar standpoints by
+fostering the polarizing echo chamber and converse opposing
+standpoints by introducing conversations.
+The ﬁndings about social bots' interaction patterns provide
+climate communicators with some hints about promoting
+public consensus on climate change. Firstly, as social bot
+sceptics always intentionally incite debates with human, it's
+important for individuals to see through the disguise of social
+bots to ﬁnd qualiﬁed communicator on social media. Ac-
+cording to the present study, social bots show several different
+features from human, in terms of tweeting frequency, user
+proﬁle and interaction pattern, which may help human
+distinguish suspected social bots. Our ﬁnding may help to
+improve individuals' media literacy of distinguishing social
+bots and humans. Secondly, social bots can potentially be used
+by climate communicators for the purpose of science popu-
+larization. Social bots' ability of publishing large amounts of
+post in a short period of time can increase individuals' expo-
+sure to speciﬁc information. In particular, by highlighting
+keywords such as energy and climate emergencies, they help
+improve the saliency of climate change on the public agenda.
+Moreover, compared with social bot skeptics, social bot ac-
+tivists still have room for improvement in terms of commu-
+nication strategy, such as launching more conversations with
+opposing-minded humans and amplifying similar voices.
+As social media have revolutionized the platforms for
+climate discussions (Newman, 2016) and collective actions
+(Segerberg and Bennett, 2011), social bots' activity on social
+media may improve or suppress public awareness of climate
+change. We chose a three-week time window and quantitively
+measured social bots' contribution of publishing climate
+change related tweets; analyzed social bots' standpoints
+(activism vs. skepticism) and sub-topic preference; and eval-
+uated social bots' inﬁltration in social networks by observing
+their retweet, quote, reply and mention behavior. Our research
+moves forward the understanding of social bots’ engagement
+in regular public climate change discussions and provides
+hints for coping strategies.
+5. Conclusion
+Our ﬁndings outlined social bots' role in online climate
+discussions. For future
+climate
+change
+researchers,
+the
+assumption that climate change discussions on social media
+equals online users' opinion is challenged. It's necessary to pay
+special attention to contents posted by social bots when
+investigating public climate opinion with social media data.
+For climate change communicators, social bots, as a force to
+be reckoned in future communication practice, should be dealt
+with differentiated solutions based on their purposes. We
+suggested cultivating individuals' media literacy in terms of
+distinguishing malicious social bots as a potential solution to
+deal with social bot skeptics disguised as humans. We also
+suggested optimizing benign social bots' interaction strategy
+for the purpose of climate-related science popularization.
+Although this study characterized social bots' invasion of
+climate change discussion on social media by observing the
+behavioral pattern, standpoint, and interaction network of so-
+cial bots, this research has some limitations. The extent to
+which social bots' behavior can psychologically converse,
+activate or reinforce humans' climate stances remain to be
+examined. Several internal or external factors, such as users’
+demographic characteristics, features of social networks, and
+social-political context of the topics, may interfere with the
+921
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+inﬂuence of social bots. For example, Russian trolls have been
+found failed to change polarized opinion in short time (Bail
+et al., 2020). Furthermore, as it has been proved feasible to
+design social bots for online social experiments (Ledford,
+2020), researchers can build a simulated information envi-
+ronment for social bot studies. More experiments are expected
+to examine the causal relationships between social bots and
+the opinion formation of humans. Although these questions
+are beyond the scope of the current study, we think they are
+worthy of more academic attention in future studies.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This work was supported in part by the Major Project of
+National Social Science Foundation of China (18ZDA307),
+National Key Research and Development Program of China
+(2017YFA0604500), China Postdoctoral Science Foundation
+(2020M672754), Center for High Performance Computing and
+System Simulation, Pilot National Laboratory for Marine
+Science and Technology (Qingdao), and AI-Info Communi-
+cation Study (AIS) Scheme 2021/22 is supported by AI and
+Media Research Lab, Hong Kong Baptist University, China.
+References
+Ahn, J., 2011. The effect of social network sites on adolescents' social and
+academic development: current theories and controversies. J. Am. Soc. Inf.
+Sci. Technol. 62 (8), 1435e1445. https://doi.org/10.1002/asi.21540.
+Allem, J.P., Escobedo, P., Dharmapuri, L., 2020. Cannabis surveillance with
+twitter data: emerging topics and social bots. Am. J. Publ. Health 110 (3),
+357e362. https://doi.org/10.2105/ajph.2019.305461.
+Anderegg, W.R.L., Prall, J.W., Harold, J., et al., 2010. Expert credibility in
+climate change. Proc. Natl. Acad. Sci. U.S.A. 107 (27), 12107e12109.
+https://doi.org/10.1073/pnas.1003187107.
+Arlt, D., Rauchﬂeisch, A., Sch€afer, M.S., 2019. Between fragmentation and
+dialogue: twitter communities and political debate about the Swiss “nu-
+clear withdrawal initiative”. Environ. Commun. 13 (4), 440e456.
+Badawy, A., Ferrara, E., Lerman, K., 2018. Analyzing the digital traces of
+political manipulation: the 2016 Russian interference Twitter campaign.
+2018 IEEE/ACM International Conference on Advances in Social Net-
+works Analysis and Mining (ASONAM).
+Badawy, A., Lerman, K., Ferrara, E., 2019. Who falls for online political
+manipulation?. Companion Proceedings of The 2019 World Wide Web
+Conference, San Francisco. https://doi.org/10.1145/3308560.3316494.
+Bail, C.A., Guay, B., Maloney, E., et al., 2020. Assessing the Russian Internet
+Research Agency's impact on the political attitudes and behaviors of
+American Twitter users in late 2017. Proc. Natl. Acad. Sci. U.S.A. 117 (1),
+243e250. https://doi.org/10.1073/pnas.1906420116.
+Bessi, A., Ferrara, E., 2016. Social bots distort the 2016 US Presidential
+election online discussion. Clin. Hemorheol. and Microcirc. 21 (11e7).
+Bloomﬁeld, E.F., Tillery, D., 2019. The circulation of climate change denial
+online: rhetorical and networking strategies on Facebook. Environ. Com-
+mun. 13 (1), 23e34.
+Boshmaf, Y., Muslukhov, I., Beznosov, K., et al., 2011. The socialbot network:
+when bots socialize for fame and money. Proceedings of the 27th Annual
+Computer Security Applications Conference.
+Boussalis, C., Coan, T., 2016. Text-mining the signals of climate change
+doubt. Glob. Environ. Change-Human. Policy. Dimens 36, 89e100. https://
+doi.org/10.1016/j.gloenvcha.2015.12.001.
+Broniatowski, D.A., Jamison, A.M., Qi, S., et al., 2018. Weaponized health
+communication: twitter bots and Russian trolls amplify the vaccine debate.
+Am. J. Publ. Health 108 (10), 1378e1384. https://doi.org/10.2105/
+AJPH.2018.304567.
+Cheng, C., Luo, Y., Yu, C., 2020. Dynamic mechanism of social bots inter-
+fering with public opinion in network. Phys. A: Stat. Mech. Appl. 124163.
+https://doi.org/10.1016/j.physa.2020.124163.
+Davis, C.A., Varol, O., Ferrara, E., et al., 2016. Botornot: a system to evaluate
+social bots. Proceedings of the 25th International Conference Companion
+on World Wide Web, Montreal. https://doi.org/10.1145/2872518.2889302.
+Deb, A., Majmundar, A., Seo, S., et al., 2018. Social bots for online public
+health interventions. 2018 IEEE/ACM International Conference on Ad-
+vances in Social Networks Analysis and Mining (ASONAM).
+Echeverria, J., Besel, C., Zhou, S., 2017. Discovery of the Twitter bursty
+botnet.
+Data
+Science
+for
+Cyber-Security.
+https://doi.org/10.1142/
+9781786345646_007.
+Ferrara, E., 2017. Disinformation and social bot operations in the run up to the
+2017 French presidential election. Clin. Hemorheol. and Microcirc. 22 (8).
+https://doi.org/10.5210/fm.v22i8.8005.
+Ferrara, E., Varol, O., Davis, C., et al., 2016. The rise of social bots. Commun.
+ACM 59 (7), 96e104. https://doi.org/10.1145/2818717.
+Ghermandi, A., Sinclair, M., 2019. Passive crowdsourcing of social media in
+environmental research: a systematic map. Global Environ. Change 55,
+36e47. https://doi.org/10.1016/j.gloenvcha.2019.02.003.
+Guo, L., Rohde, J.A., Wu, H.D., 2020. Who is responsible for Twitter's echo
+chamber problem? Evidence from 2016 US election networks. Inf. Com-
+mun. Soc. 23 (2), 234e251. https://doi.org/10.1080/1369118X.2018.
+1499793.
+Hobson, K., Niemeyer, S., 2013. What sceptics believe: the effects of infor-
+mation and deliberation on climate change scepticism. Publ. Understand.
+Sci. 22 (4), 396e412. https://doi.org/10.1177/0963662511430459.
+Holmberg, K., Hellsten, I., 2015. Gender differences in the climate change
+communication on Twitter. Internet Res. 25 (5), 811e828. https://doi.org/
+10.1108/IntR-07-2014-0179.
+Howard, P.N., Kollanyi, B., 2016. Bots,# StrongerIn, and# Brexit: computa-
+tional propaganda during the UK-EU referendum. https://doi.org/10.2139/
+ssrn.2798311.
+Howard, P.N., Kollanyi, B., Woolley, S., 2016. Bots and automation over
+Twitter during the US election. Computational Propaganda Project:
+Working Paper Series.
+Jacques, P.J., Knox, C.C., 2016. Hurricanes and hegemony: a qualitative
+analysis of micro-level climate change denial discourses. Environ. Polit. 25
+(5), 831e852. https://doi.org/10.1080/09644016.2016.1189233.
+Jang, S.M., Hart, P.S., 2015. Polarized frames on “climate change” and “global
+warming” across countries and states: evidence from Twitter big data.
+Global Environ. Change 32, 11e17. https://doi.org/10.1016/j.gloenvcha.
+2015.02.010.
+Joachims, T., 1998. Text categorization with support vector machines: learning
+with many relevant features. European Conference on Machine Learning
+137e142. https://doi.org/10.1007/BFb0026683.
+Ledford, H., 2020. Social scientists battle bots to glean insights from online
+chatter. Nature 578 (7793). https://doi.org/10.1038/d41586-020-00141-1,
+17-17.
+Luceri, L., Deb, A., Badawy, A., et al., 2019a. Red bots do it better:
+comparative analysis of social bot partisan behavior. Companion Pro-
+ceedings of the 2019 World Wide Web Conference, San Francisco. https://
+doi.org/10.1145/3308560.3316735.
+Luceri, L., Deb, A., Giordano, S., et al., 2019b. Evolution of bot and human
+behavior during elections. Clin. Hemorheol. and Microcirc. 24 (9). https://
+doi.org/10.31235/osf.io/h6ktm.
+Marlow, T., Miller, S., Roberts, J., 2020. Twitter Discourses on Climate
+Change: Exploring Topics and the Presence of Bots. Published Place.
+Newman, T.P., 2016. Tracking the release of IPCC AR5 on Twitter: users,
+comments, and sources following the release of the working Group I
+922
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923
+summary for policymakers. Publ. Understand. Sci. 26 (7), 815. https://
+doi.org/10.1177/0963662516628477.
+Pearce, W., Niederer, S., €Ozkula, S.M., et al., 2019. The social media life of
+climate change: platforms, publics, and future imaginaries. Wiley Inter-
+discip. Rev. Clim. Change 10 (2), e569. https://doi.org/10.1002/wcc.569.
+Schmid-Petri, H., Reber, U., Arlt, D., et al., 2020. A dynamic perspective on
+publics and counterpublics: the role of the blogosphere in pushing the issue
+of climate change during the 2016 US presidential campaign. Environ.
+Commun.
+14
+(3),
+378e390.
+https://doi.org/10.1080/17524032.
+2019.1677738.
+Schuldt, J.P., Roh, S., 2014. Of accessibility and applicability: how heat-
+related cues affect belief in “global warming” versus “climate change”.
+Soc.
+Cognit.
+32
+(3),
+217e238.
+https://doi.org/10.1521/soco.2014.
+32.3.217.
+Segerberg, A., Bennett, W.L., 2011. Social media and the organization of
+collective action: using Twitter to explore the ecologies of two climate
+change protests. Commun. Rev. 14 (3), 197e215. https://doi.org/10.1080/
+10714421.2011.597250.
+Shao, C., Ciampaglia, G.L., Varol, O., et al., 2018. The spread of low-
+credibility content by social bots. Nat. Commun. 9 (1), 4787. https://
+doi.org/10.1038/s41467-018-06930-7.
+Sharman, A., Howarth, C., 2017. Climate stories: why do climate scientists
+and sceptical voices participate in the climate debate? Publ. Understand.
+Sci. 26 (7), 826e842. https://doi.org/10.1177/0963662516632453.
+Shi, W., Fu, H., Wang, P., et al., 2020a. Climatechange vs. globalwarming:
+characterizing two competing climate discourses on Twitter with semantic
+network and temporal analyses. Int. J. Environ. Res. Publ. Health 17 (3),
+1062. https://doi.org/10.3390/ijerph17031062.
+Shi, W., Liu, D., Yang, J., et al., 2020b. Social bots' sentiment engagement in
+health emergencies: a topic-based analysis of the COVID-19 pandemic
+discussions on Twitter. Int. J. Environ. Res. Publ. Health 17 (22), 8701.
+https://doi.org/10.3390/ijerph17228701.
+Small, T.A., 2011. What the hashtag? A content analysis of Canadian politics
+on Twitter. Inf. Commun. Society. 14 (6), 872e895. https://doi.org/
+10.1080/1369118X.2011.554572.
+Stella, M., Ferrara, E., De Domenico, M., 2018. Bots increase exposure to
+negative and inﬂammatory content in online social systems. Proc. Natl.
+Acad. Sci. Unit. States Am. 115 (49), 12435e12440. https://doi.org/
+10.1073/pnas.1803470115.
+Strudwicke, I.J., Grant, W.J., 2020. JunkScience: investigating pseudoscience
+disinformation in the Russian Internet Research Agency tweets. Publ.
+Understand. Sci. 29 (5), 459e472. https://doi.org/10.1177/09636625
+20935071.
+Subrahmanian, V., Azaria, A., Durst, S., et al., 2016. The DARPA Twitter bot
+challenge.
+Computer
+49
+(6),
+38e46.
+https://doi.org/10.1109/
+MC.2016.183.
+Tufekci, Z., 2008. Can you see me now? Audience and disclosure regulation in
+online social network sites. Bull. Sci. Technol. Soc. 28 (1), 20e36. https://
+doi.org/10.1177/0270467607311484.
+van Oldenborgh, G.J., Krikken, F., Lewis, S., et al., 2020. Attribution of the
+Australian bushﬁre risk to anthropogenic climate change. Nat. Hazards
+Earth Syst. Sci. 1e46. https://doi.org/10.5194/nhess-21-941-2021.
+Varol, O., Ferrara, E., Davis, C.A., et al., 2017. Online human-bot interactions:
+detection, estimation, and characterization. Eleventh International AAAI
+Conference on Web and Social Media, Montreal.
+Walter, S., De Silvaschmidt, F., Bruggemann, M., 2018. From “knowledge
+brokers” to opinion makers: how physical presence affected scientists'
+Twitter use during the COP21 climate change conference. Int. J. Commun.
+11, 570e591.
+Walter, S., Lorcher, I., Bruggemann, M., 2019. Scientiﬁc networks on Twitter:
+analyzing scientists' interactions in the climate change debate. Publ. Un-
+derstand.
+Sci.
+28
+(6),
+696e712.
+https://doi.org/10.1177/0963662
+519844131.
+Whitmarsh, L., 2009. What's in a name? Commonalities and differences in public
+understanding of “climate change” and “global warming”. Publ. Understand.
+Sci. 18 (4), 401e420. https://doi.org/10.1177/0963662506073088.
+Whitmarsh, L., 2011. Scepticism and uncertainty about climate change: di-
+mensions, determinants and change over time. Glob. Environ. Change.
+Human.
+Policy.
+Dimens
+21
+(2),
+690e700.
+https://doi.org/10.1016/
+j.gloenvcha.2011.01.016.
+Williams, H.T.P., Mcmurray, J.R., Kurz, T., et al., 2015. Network analysis
+reveals open forums and echo chambers in social media discussions of
+climate change. Glob. Environ. Change. Human. Policy. Dimens 32,
+126e138. https://doi.org/10.1016/j.gloenvcha.2015.03.006.
+Wojcik, S., 2018. 5 things to know about bots on Twitter retrieved. https://
+www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-
+on-twitter/ (accessed 5 May 2020).
+Yuan, X., Schuchard, R.J., Crooks, A.T., 2019. Examining emergent com-
+munities and social bots within the polarized online vaccination debate in
+Twitter.
+Soc.
+Media
+Soc.
+5
+(3).
+https://doi.org/10.1177/20563051
+19865465, 2056305119865465.
+923
+CHEN C.-F. et al. / Advances in Climate Change Research 12 (2021) 913e923

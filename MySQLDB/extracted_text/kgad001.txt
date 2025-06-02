@@ -1,0 +1,1907 @@
+The potential role of descriptive and dynamic norms in
+promoting climate change advocacy
+Eryn Campbell
+1, John E. Kotcher1*, Teresa Myers1, Sammi Munson
+1, Amanda C. Borth1, Seth A. Rosenthal2,
+Anthony Leiserowitz2, Edward Maibach
+1
+1Center for Climate Change Communication, George Mason University, Fairfax, Virginia, USA
+2Yale Program on Climate Change Communication, Yale University, New Haven, Connecticut, USA
+*Correspondence address. Center for Climate Change Communication, George Mason University, 4400 University Drive, Fairfax VA 22030, USA. Tel: 703-993-3174,
+Fax: 703-993-3205; E-mail: jkotcher@gmu.edu
+Abstract
+Political advocacy is arguably the most powerful form of action that citizens concerned about climate change can take. One motivator
+for political advocacy is the perception that there is a social norm (i.e. inherently understood social rules and standards that serve to
+guide social behaviors) for doing so. Using nationally representative survey data (N ¼ 1303), we examined the association of three
+types of social norms—descriptive norms (i.e. perceptions about how many other people perform a behavior), retrospective and pro-
+spective dynamic norms (i.e. perceptions that a behavior has become more or less common in the past or will in the future)—with
+intentions to engage in political advocacy in the upcoming year and past advocacy. We found that descriptive norms and prospective
+dynamic norms were positively related to advocacy intentions, while only prospective dynamic norms were positively related to past
+advocacy (retrospective dynamic norms were negatively related to both outcomes, contrary to our theorized direction). Furthermore,
+we examined whether the relationship between norms and intentions/behaviors differed based on political party identiﬁcation and
+four potential mediators of this relationship: identiﬁcation with climate activists; collective efﬁcacy (i.e. the belief that people can en-
+gage in climate advocacy and that it will make a difference); collective response efﬁcacy (i.e. beliefs about the results of advocacy);
+and injunctive norms (i.e. perceptions of others’ approval of advocacy). In the moderated mediation models, we found that party
+identiﬁcation moderated the relationships between descriptive norms and prospective dynamic norms and advocacy intention,
+while retrospective dynamic norms were not related as theorized. These relationships were mediated by identiﬁcation with climate
+activists and collective efﬁcacy as well as by injunctive norms in the case of descriptive norms. Party identiﬁcation also moderated
+the relationship between descriptive norms and past advocacy; this relationship was mediated by identiﬁcation with climate acti-
+vists and injunctive norms. Taken together, these ﬁndings underscore the potential importance of perceived descriptive norms and
+prospective dynamic norms on political advocacy to address climate change, extending both well-established and emerging research
+and providing insights useful for academics and practitioners alike.
+Lay Summary
+Political advocacy (e.g. contacting elected ofﬁcials via phone or email, attending a march or public demonstration, etc.) is a powerful
+form of climate action available to citizens in democratic societies. A relationship may exist between various forms of perceived so-
+cial norms (i.e. inherently understood social rules and standards that serve to guide social behaviors) about political advocacy and a
+citizen’s likelihood of engaging in such advocacy. To investigate, we examined the association of descriptive norms (i.e. perceptions
+about how many other people perform the behavior) and dynamic norms (i.e. perceptions about the behavior becoming more or less
+common in the recent past or in the near future) with climate advocacy. We found that descriptive norms were associated with advo-
+cacy intentions, and dynamic norms were associated with both advocacy intentions and behaviors although the dynamic norm
+about past behaviors was in the opposite direction of what we expected. We also examined the roles of several theoretically relevant
+beliefs—identiﬁcation with climate activists, collective efﬁcacy (i.e. the belief that people can engage in climate advocacy and that it
+will make a difference), collective response efﬁcacy (i.e. beliefs about the results of advocacy) and injunctive norms (i.e. perceptions
+of others’ approval of advocacy)—to determine if they help explain the relationship between perceived social norms and climate ad-
+vocacy, and to determine if the relationships differ between Democrats and Republicans. We found that the relationships between
+descriptive and dynamic norms about future changes and advocacy intentions differed by party identiﬁcation. Descriptive norms
+were related to increased advocacy intentions for Independents and Republicans, while dynamic norms were related to increased ad-
+vocacy intentions for Democrats. Identiﬁcation with climate activists, collective efﬁcacy and (for descriptive norms only) injunctive
+norms helped explain these relationships. The relationship between descriptive norms and past advocacy behaviors was the only re-
+lationship that differed by party identiﬁcation though we found other nuanced relationships. These ﬁndings indicate the potential
+importance of different social norms on climate advocacy.
+Keywords: climate advocacy; descriptive norms; dynamic norms; party identiﬁcation; moderated mediation model
+Received: March 08, 2022. Revised: December 09, 2022. Accepted: January 23, 2023
+V
+C The Author(s) 2023. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2023, 3(1), kgad001
+https://doi.org/10.1093/oxfclm/kgad001
+Advance Access Publication Date: 6 February 2023
+Research Article
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+Introduction
+Climate change is a complex issue with global implications.
+Numerous scientific assessments have concluded that there is a
+direct connection between the atmospheric warming resulting
+from greenhouse gas emissions and the profound environmental
+changes that follow [1, 2]. Furthermore, these changes are harm-
+ing the lives, communities and livelihoods of people worldwide,
+and are projected to worsen [2]. The extent to which these
+impacts get worse depends greatly on whether or not actions to
+combat climate change and adapt to its present and future risks
+are taken.
+In order to make progress on climate change mitigation and
+adaptation, a stronger climate policy is needed [3]. Increased citi-
+zen and interest group advocacy is one means to encourage gov-
+ernment officials to enact stronger climate policies [4–6]. In the
+USA, however, this is a relatively uncommon behavior; only 2%
+of Americans say that they are currently participating in a cam-
+paign to urge elected officials to do more on climate change [7].
+Prior research has identified the importance of descriptive social
+norms—beliefs about how many others are performing a behav-
+ior—in predicting political advocacy on climate change [8, 9].
+This study investigates how perceived descriptive and dy-
+namic norms and several mediators are related to climate advo-
+cacy. We extend previous research by examining dynamic
+norms’ (beliefs about how other people’s behavior is changing
+over time) and descriptive norms’ association with climate
+change advocacy. Furthermore, we examine several potential
+mechanisms by which descriptive and dynamic norms may pre-
+dict political advocacy—specifically, through shifting injunctive
+norms (the beliefs that others approve of climate advocacy), in-
+creasing identification with climate activists and increasing col-
+lective efficacy (both the beliefs that people are capable of
+engaging in climate advocacy and that it will make a difference).
+However, given the cross-sectional nature of the data, we do not
+draw direct conclusions about causality. While past research has
+investigated the influence of dynamic norms on conservation
+behaviors, to our knowledge, this study is the first to examine
+whether dynamic norms predict political advocacy on climate
+change [10, 11]. Below, we review previous research on climate
+change advocacy and social norms as well as several variables
+that may mediate the relationship between them.
+Literature review
+Climate advocacy
+Although the majority of Americans believe that climate change
+is occurring and are worried about it, climate advocacy has not
+been a commonplace in the USA [12]. Only 2% of Americans say
+that they are currently participating in a campaign to encourage
+elected officials to reduce climate change, and 13% of Americans
+say that they have contacted their elected officials about taking
+action on the issue of climate change over the course of the past
+year [7]. Although most Americans are not currently engaged in
+climate advocacy, there is significant potential for growth in such
+advocacy. As of April 2020, nearly one-third of Americans stated
+that they ‘definitely’ (8%) or ‘probably’ (24%) would be willing to
+participate in a campaign to convince elected officials to reduce
+climate change [7]. In this study, we operationalized climate ad-
+vocacy in two ways: having contacted an elected official during
+the past 12 months to urge them to take action on global warm-
+ing and intent to contact an elected official for this reason in the
+next 12 months. While contacting elected officials can be done
+through a variety of different channels, operationalizing it
+broadly (i.e. any type of contact) allows us to capture the small
+subset of individuals who engage in this type of advocacy on any
+level. The remainder of this literature review will describe varia-
+bles we hypothesize to be related to climate advocacy, which is
+the same for both past and intended climate advocacy.
+Social norms
+Social norms are the rules and standards that are inherently un-
+derstood by members of a group and serve to guide social behav-
+iors [13]. The ‘focus theory of normative conduct’ distinguishes
+between two types of social norms: injunctive and descriptive
+[14]. Injunctive norms demonstrate what is either approved or
+disapproved of in a situation, while descriptive norms demon-
+strate what is commonly done [15]. These norms inform and in-
+fluence
+the
+actions
+of
+individuals
+by
+defining
+and
+communicating what is socially acceptable [15].
+Previous studies have demonstrated that social norms are re-
+lated to political behaviors and attitudes (such as general and
+climate-related advocacy and voting intentions) [16–18]. Such
+prior studies demonstrate both the need and opportunity to ex-
+plore such relationships in the context of climate-specific advo-
+cacy behaviors. Below, we outline our expectations about the
+relationship between perceived descriptive norms and perceived
+dynamic norms with climate advocacy.
+Perceived descriptive norms
+Perceived descriptive norms are beliefs about what is typical or
+normal to do, believe, think or feel [19, 20]. Rather than referring
+to what ought to be done, believed, thought or felt (i.e. injunctive
+norms), descriptive norms refer to what is actually done, be-
+lieved, thought or felt [19]. Individuals who are important to a
+person, such as friends and family, coworkers, neighbors and
+others in an individual’s socio-physical context, can influence
+that person’s perceptions of what is commonly done [21].
+Perceived descriptive norms exert powerful influences on
+behaviors, beliefs and values because people tend not to want to
+deviate from socially defined standards [22]. These norms show
+what actions are likely to be effective and adaptive; if others are
+doing, thinking or believing something, then it must be a reason-
+able thing to do, think or believe [14]. This enables individuals to
+create mental shortcuts for making behavioral decisions in any
+given situation [14]. The availability, processing and communica-
+tion of normative information are important influences in social
+conformity. This allows perceived descriptive norms to influence
+behaviors, values and beliefs [23].
+Social norms have been shown to influence political advocacy
+behaviors and may be a key component to closing the gap be-
+tween those saying they ‘would participate’ and those who ‘are
+actually participating’ in such behaviors. Gerber and Rogers [18]
+experimentally tested several normative appeals around voting
+behaviors, including both descriptive and dynamic norms. They
+found that increasing perceived descriptive norms increased
+respondents’ intentions to vote, thus demonstrating a causal re-
+lationship. In a longitudinal study, Latkin et al. found that per-
+ceived
+social
+norms
+were
+associated
+with
+an
+individual’s
+willingness to engage in climate change advocacy communica-
+tions; however, the measure of social norms used by Latkin et al.
+[17] combined both descriptive and injunctive norms, which we
+distinguish from one another in the present study. Also using a
+combined measure of social norms, another study found that
+perceived social norms were significantly associated with percep-
+tions of global warming’s importance as a voting issue [24]. Other
+2
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+recent studies suggest that descriptive norms also predict climate
+advocacy, such as contacting elected officials or attending a pro-
+test about climate change [8, 9].
+H1: The perceived descriptive norm related to engaging in cli-
+mate advocacy will have a positive effect on climate advocacy
+intention and behavior.
+Dynamic norms
+Unlike perceived descriptive norms that refer to current percep-
+tions, perceived dynamic norms (sometimes referred to as ‘trend-
+ing norms’) refer to the perception of how a behavior, attitude or
+belief is changing over time [10, 11, 25, 26]. An example of a per-
+ceived dynamic norm is an individual’s perception that recycling
+is becoming more (or less) prevalent in their community, whereas
+the perceived descriptive norm is their belief about the current
+prevalence of the behavior.
+While prior research has investigated the influence of descrip-
+tive norms on behaviors, attitudes and beliefs, dynamic norms
+have received little attention until recently [10, 11, 25, 27, 28].
+These newer studies have found that dynamic norms can also in-
+fluence behaviors. Previous studies suggest that if a behavior is
+perceived to be increasing—even if still practiced only by a minor-
+ity of people—then there is a higher likelihood that people will
+adopt the behavior themselves. Mortensen et al. [10] conducted an
+experiment on the influence of dynamic norms on donations to
+environmental causes. They found that a message conveying a
+trending minority norm produced a higher amount of conformity
+to the behavior than both a control (no norm) condition and a cur-
+rent descriptive norm condition [10]. Moreover, they found the ef-
+fect was mediated by participants’ estimates about how the
+performance of the behavior was expected to change in the future.
+Sparkman and Walton [11] conducted a series of studies inves-
+tigating the influence of dynamic norms on meat consumption.
+Similar to Mortensen et al. [10], they found exposure to dynamic
+norm messages influenced participants’ intent to consume less
+meat as well as their actual meat consumption. Furthermore,
+Loschelder et al. [29] found that using dynamic norms as an inter-
+vention for sustainable consumption helped customers increase
+their usage of reusable alternatives to disposable plastic cups. In
+addition to perceived descriptive norms, Gerber and Rogers [18]
+also investigated dynamic norms—though they were not named
+as such—and found that communicating a positive dynamic
+norm (i.e. more people are voting) about voter turnout increases
+intentions to vote. Lastly, it has also been experimentally estab-
+lished that demonstrating dynamic norms about anger surround-
+ing political inaction can lead to increased policy support [30].
+In addition to perceived descriptive norms, the present study
+explores the relationship between perceived dynamic norms and
+climate advocacy. We distinguish between two types of dynamic
+norms: prospective and retrospective. We conceptualize retrospec-
+tive dynamic norms as perceptions of how others’ behaviors ‘have
+changed’ over a specified time in the recent past leading up to the
+present. In contrast, prospective dynamic norms refer to percep-
+tions of how others’ behaviors ‘will change’ in the future [11].
+H2: The perceived retrospective dynamic norm related to en-
+gaging in climate advocacy will have a positive effect on cli-
+mate advocacy intention and behavior.
+H3: The perceived prospective dynamic norm related to engag-
+ing in climate advocacy will have a positive effect on climate
+advocacy intention and behavior.
+Potential mediators
+Injunctive norms
+As previously stated, injunctive norms are another form of social
+norms. Injunctive norms refer to beliefs about the extent to
+which an attitude or behavior is approved or disapproved of in a
+given situation [15, 31]. Because people often infer others’ moti-
+vation based on observing their behavior, descriptive norms can
+sometimes shape injunctive norms [25, 32]. Moreover, when de-
+scriptive and injunctive norms are aligned, they can work to-
+gether to enforce a desired behavior [33]. In one recent study,
+injunctive norms were found to mediate the effect of perceived
+dynamic norms on behavioral intentions in the case of avoiding
+screen use before going to bed [25]. Based on these findings, in-
+junctive norms are hypothesized to serve as a mediator of the re-
+lationship between retrospective and prospective dynamic norms
+and the past and intended contacting of elected officials about
+global warming.
+Identification with climate activists
+Social identity is an important part of the self-concept and has
+proven to be a strong predictor of action when that behavior is
+perceived to be consistent with one’s identity [34, 35]. Moreover,
+identification plays a key role in advocacy behavior [36]; people
+who identify as an activist are more likely to engage in future ad-
+vocacy behavior, regardless of the issue [37]. This is an important
+consideration when seeking to engage people in climate advo-
+cacy. In November 2019, 38% of Americans identified with cli-
+mate activists, and 53% of Americans said that they support
+climate activists who are contacting elected officials [38]. How
+people perceive activists may play a role in their own engage-
+ment in advocacy as people’s willingness to even associate with
+activists has been shown to be influenced by their perceptions of
+such individuals [39]. Perceptions of descriptive and dynamic
+norms may help shift peoples’ perceptions of who can be a cli-
+mate activist by demonstrating that people like them engage in
+the behavior; this may influence their own ability to identify with
+such activists by eliminating common stereotypes associated
+with climate activists [39]. One study found that dynamic norms
+increased a variety of behaviors, such as avoiding sugary drinks,
+by increasing identification with those who choose not to con-
+sume them [25]. This indicates the potential for cultivating cli-
+mate action through identification with climate activists. Thus,
+we included identification with climate activists as a mediator in
+our hypothesized models.
+Efficacy
+Efficacy beliefs—the belief that one is capable of planning and
+performing a course of action—are a key antecedent to behavior
+[40]. Here, we focus specifically on perceived collective efficacy
+(perceptions that one’s group is capable of acting together to per-
+form its tasks), and collective response efficacy1 (beliefs about
+the outcome or results of the group’s work). Collective efficacy
+has been shown to predict engagement in advocacy generally,
+and in climate advocacy in particular [8, 9, 36, 41–43].
+Of particular interest here, Doherty and Webler [9] found that
+descriptive norms were a strong predictor of climate advocacy,
+having both a direct and indirect effect on advocacy through in-
+creased perceptions of collective efficacy and collective response
+1
+Bandura [40] terms this ‘outcome expectancy’ rather than ‘collective re-
+sponse efficacy’ as we have here. While we recognize this overlapping
+conceptualization, we have chosen to follow the categorization of forms
+of efficacy presented by Doherty and Webler [9] and use the term collec-
+tive response efficacy throughout this article.
+Campbell et al.
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+efficacy. Another study found that dynamic norms have an indi-
+rect effect on the avoidance of sugary drinks and smoking to-
+bacco via an increased sense of self-efficacy—showcasing the
+mediating role of self-efficacy in enacting behaviors [25]. We
+hypothesize:
+H4: A perceived descriptive norm will have a positive indirect
+effect on climate advocacy via (a) an increased injunctive
+norm about the importance of taking action to reduce global
+warming, (b) increased identification with climate activists, (c)
+increased perceived collective efficacy, and (d) increased col-
+lective response efficacy.
+H5: A retrospective dynamic norm will have a positive indirect
+effect on climate advocacy via (a) an increased injunctive
+norm about the importance of taking action to reduce global
+warming, (b) increased identification with climate activists, (c)
+increased perceived collective efficacy, and (d) increased col-
+lective response efficacy.
+H6: A prospective dynamic norm will have a positive indirect
+effect on climate advocacy via (a) an increased injunctive
+norm about the importance of taking action to reduce global
+warming, (b) increased identification with climate activists, (c)
+increased perceived collective efficacy, and (d) increased col-
+lective response efficacy.
+Party identification
+Party
+identification
+influences
+and
+predicts
+many
+climate
+change-related
+beliefs,
+attitudes
+and
+behaviors
+[44–46].
+Democrats are more likely than Republicans to understand that
+human-caused climate change is happening, express greater
+worry about it, support policies to address the problem and en-
+gage in advocacy around the issue [12, 38, 47]. Importantly, some
+evidence suggests that Republicans may be more sensitive than
+Democrats to normative information about others’ climate
+change beliefs [48]. This may be due to the greater importance
+the
+political
+conservatives
+(who
+comprise
+the
+majority
+of
+Republicans) place on ingroup loyalty and conformity [49, 50]. As
+a result, we expected party identification to function as a moder-
+ator in our study, specifically:
+H7: Party identification will moderate the direct and indirect
+effects of (a) perceived descriptive norms, (b) retrospective dy-
+namic norms, and (c) prospective dynamic norms on climate
+advocacy such that the direct and indirect effects will be
+weaker among Democrats compared to Republicans.
+We summarize our hypotheses in the conceptual framework
+depicted in Fig. 1.
+Methods
+Participants
+Data for this study were collected via a nationally representative
+survey of American adults (N ¼ 1303) aged 18 years and older
+from 8 November to 20 November 2019. The sample population
+was drawn from the Ipsos Knowledge Panel, an online panel of
+members chosen using probability sampling methods. The re-
+cruitment procedures included a combination of address-based
+sampling techniques and random digit dialing, which covered
+nearly
+all
+(noninstitutional)
+resident
+phone
+numbers
+and
+addresses in the USA. To ensure a representative cross-section of
+American adults regardless of access to technology, participants
+who chose to partake in the study but did not have access to the
+Internet were loaned computers and provided with Internet so
+that they could participate. The survey questionnaire took an av-
+erage of 25 min to complete. Supplementary Table S1 reports the
+demographic frequencies of the sample population in terms of
+gender, generation, education level, income bracket, race and
+location.
+Measures
+Independent variables
+Perceived descriptive norms
+To measure perceived descriptive norms, participants were asked
+about their perception of the current degree to which Americans
+contact their elected officials regarding global warming. The sur-
+vey item read, ‘In your estimation, over the past 12 months what
+percentage of adults (18 years and older) in the United States con-
+tacted elected officials to urge them to take action to reduce
+global warming? If you’re not sure, please provide your best esti-
+mate.’ To respond, participants were asked to use a sliding bar to
+indicate the percentage on a 0–100% scale, and, if the sliding bar
+failed to work, participants were instructed to manually enter
+their responses (M ¼ 26.8, SD ¼ 20.2). To match the range of the
+retrospective and prospective dynamic norms scales—and so
+make the results more easily and intuitively interpretable—we
+rescaled this item by dividing participant responses by 20
+(M ¼ 1.34, SD ¼ 1.0).
+Retrospective dynamic norms
+To measure retrospective dynamic norms, participants were
+asked to express how much they thought the percentage of
+American adults who contacted their elected officials had
+changed. The survey item asked, ‘Do you think over the past 12
+months that the percentage of adults in the United States who
+contacted elected officials to urge them to take action to reduce
+global warming increased, decreased, or stayed the same?’
+Responses
+were
+provided
+on
+a
+Likert-like
+scale
+with
+1 ¼ Decreased a lot and 5 ¼ Increased a lot (M ¼ 3.4, SD ¼ 0.7).
+Prospective dynamic norms
+In measuring prospective dynamic norms, the survey instrument
+asked respondents about how they anticipate the number of
+American adults who contacted their elected officials regarding
+global warming will shift in the future. The survey item asked,
+‘Do you think that over the next 12 months, the percentage of
+adults in the United States who will contact elected officials to
+urge them to take action to reduce global warming will increase,
+decrease, or stay about the same?’ Participants were prompted to
+respond on a Likert-like scale with 1 ¼ Decreased a lot and
+5 ¼ Increased a lot (M ¼ 3.4, SD ¼ 0.7).
+Mediators
+Identification with climate activists
+Survey participants were asked to what extent they identify with
+climate activists. The survey item read, ‘How much, if at all, do
+you identify with climate activists who urge elected officials to
+take action to reduce global warming?’ Response options were
+provided on a Likert-like scale with 1 ¼ Not at all and 4 ¼ A great
+deal (M ¼ 2.1, SD ¼ 1.1).
+Injunctive norms
+Injunctive norms were measured by asking participants, ‘How
+important is it to your family and friends that you take action to
+reduce global warming?’ Response options ranged from 1 ¼ Not
+at
+all
+important
+to
+5 ¼ Extremely
+important
+and
+included
+4
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+98 ¼ Don’t know (M ¼ 2.5, SD ¼ 1.2). ‘Don’t know’ responses were
+treated as missing data.
+Perceived collective efficacy
+The mediator—perceived collective efficacy—was computed us-
+ing three items within a grid question. The question read, ‘How
+confident are you that people like you, working together, can. . .?’
+The grid questions compiled for this mediator were, ‘. . .affect
+what the federal government does about global warming’,
+‘. . .affect what your state government does about global warm-
+ing’ and ‘. . .affect what your local government does about global
+warming’. Response options ranged from 1 ¼ Not at all confident
+Figure 1. Theoretical model depicting the pathways from descriptive and dynamic (retrospective and prospective) norms to the action of contacting
+elected ofﬁcials.
+Figure 2. Note: Moderated mediation results predicting advocacy intentions for perceived descriptive norms, retrospective dynamic norms and
+prospective dynamic norms. Party identiﬁcation moderated the indirect effect of prospective dynamic norms on intent to contact elected ofﬁcials for
+the mediator of identiﬁcation with climate activists, but not for the other mediators (H6b partially supported; Supplementary Tables S10–S13). The
+indirect effect of prospective dynamic norms via identiﬁcation with climate activists was positive and signiﬁcant for Democrats (b ¼ 0.08, SE ¼ 0.02,
+95% CI 0.04–0.13) and Independents (b ¼ 0.05, SE ¼ 0.02, 95% CI 0.03–0.08) but was nonsigniﬁcant for Republicans (b ¼ 0.03, SE ¼ 0.02, 95% CI 0.002,
+0.06). *P < 0.05, **P < 0.01, ***P < 0.001.
+Campbell et al.
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+to 5 ¼ Extremely confident. A score of perceived collective effi-
+cacy was calculated using these items (a¼0.92, M ¼ 2.3, SD ¼ 0.9).
+Collective response efficacy
+Collective response efficacy was measured by asking respondents
+to consider how much elected officials are influenced by civil ac-
+tion. The survey item asked, ‘When elected officials are consider-
+ing policies to reduce global warming, how much do you think
+they are influenced by the actions of citizens (for example, rallies,
+marches, petitions, phone calls, emails, and letters)?’ Response
+options ranged from 1 ¼ Not at all to 4 ¼ A great deal and included
+98 ¼ Don’t know (M ¼ 2.3, SD ¼ 0.9). ‘Don’t know’ responses were
+treated as missing data.
+Moderator
+Party identification
+Participants were asked to respond to the question, ‘Generally
+speaking, do you think of yourself as a. . ..’ Respondents could
+choose from Republican, Democrat, Independent, Other and No
+party/not interested in politics. Those who selected Independent
+or Other were prompted to identify, in a follow-up question,
+which party they lean toward via the question, ‘Do you think of
+yourself as closer to the. . .’, with the response options of the
+Republican party, Democratic party or Neither. These two items
+were combined and recoded into a new variable that sorted the
+responses into one of the five response categories: 1¼ Democrat,
+2 ¼ Lean Democrat, 3 ¼ Independent, 4 ¼ Lean Republican and
+5 ¼ Republican. Those who indicated ‘No party/not interested in
+politics’ were treated as missing (M ¼ 2.5, SD ¼ 2.0).
+Covariate
+Risk perception
+Because risk perception is a strong predictor of climate change
+advocacy, it was included as a covariate in the models [8]. The
+participants were given an 8-item measure asking how much
+they believe global warming will harm themselves, their families,
+people in the USA, future generations of people and plant and an-
+imal species. Response options were on the 4-point scale of
+0 ¼ Don’t know, 1 ¼ Not at all, 2 ¼ Only a little, 3 ¼ A moderate
+amount, and 4 ¼ A great deal. A score for risk perception was cal-
+culated by averaging these items (a ¼ 0.97). ‘Don’t know’
+responses were treated as missing. Only cases that answered one
+or more out of the eight items were included. For example, if only
+six out of eight questions were answered and ‘Don’t know’ was
+chosen for the other two, the average risk perception score was
+calculated using only the six questions that were answered
+(M ¼ 2.9, SD ¼ 1.0).
+Dependent variables
+Intent to contact elected officials
+To measure respondents’ likelihood to contact elected officials,
+three survey items were combined to create an index. The first
+asked participants, ‘How willing or unwilling would you be to join
+a campaign to convince elected officials to take action to reduce
+global warming?’ Answers were given on a Likert-like scale with
+1 ¼ I definitely would not do it and 5 ¼ I am participating in a
+campaign like this now. The response options 98 ¼ Not sure and
+99 ¼ Prefer not to answer were also available. The second and
+third items were a part of a matrix asking, ‘How likely would you
+be to do each of the following things if a person you like and re-
+spect asked you to?’ The participants were presented with a
+Figure 3. Note: Moderated mediation results predicting past advocacy behaviors for perceived descriptive norms, retrospective dynamic norms and
+prospective dynamic norms. The indirect effect of perceived descriptive norms via response efﬁcacy was moderated by party identiﬁcation such that it
+was negative and signiﬁcant for Independents (b ¼ 0.0810, SE ¼ 0.049, 95% CI 0.196, 0.0066) and Republicans (b ¼ 0.1507, SE ¼ 0.095, 95% CI
+0.389, 0.022), but not for Democrats (b ¼ 0.0208, SE ¼ 0.042, 95% CI 0.0622, 0.1084). Also, the indirect effect of prospective dynamic norms via
+identiﬁcation with climate activists was positive and signiﬁcant for Democrats (b ¼ 0.25, SE ¼ 0.09, 95% CI 0.11  0.47) and Independents (b ¼ 0.14, SE ¼
+0.07, 95% CI 0.05–0.32) but was nonsigniﬁcant for Republicans (b ¼ 0.06, SE ¼ 0.07, 95% CI 0.02, 0.25)]. *P < 0.05, **P < 0.01, ***P < 0.001.
+6
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+matrix of actions and were asked to rate their response to those
+actions
+with
+1 ¼ Definitely
+would
+not,
+4 ¼ Definitely
+would,
+98 ¼ Don’t know and 99 ¼ Prefer not to answer. The two matrix
+items used for computing our variable were, ‘Write letters,
+emails, or phone government officials about global warming’ and
+‘Meet with an elected official or their staff about global warming’.
+A variable was computed using the z-scores of these three items
+to account for the differences in scales (A¼0.91, M ¼ 0.0, SD ¼ 0.8).
+‘Don’t know’, ‘Not sure’ and ‘Prefer not to answer’ responses
+were treated as missing data.
+Past contacting of elected officials
+Using two survey items, a variable representing the past advo-
+cacy behavior of contacting elected officials was computed. One
+asked, ‘Over the past 12 months, how many times have you done
+the following? Written letters, emailed, or phoned government
+officials about global warming.’ The participants answered on a
+scale with 1 ¼ Never, 2 ¼ Once, 3 ¼ A few times (2–3), 4 ¼ Several
+times (4–5), 5 ¼ Many times (6þ) and 0 ¼ Don’t know. The partici-
+pants who responded to the previous questions with a 2, 3, 4 or 5
+were given a follow-up question: ‘When you contacted a govern-
+ment official did you. . ..’. Response options included 1 ¼ Urged
+them to take action to reduce global warming? 2 ¼ Urged them
+not to take action to reduce global warming? and 3 ¼ Other
+(please specify). The participants who chose ‘1’ in response to the
+follow-up question were coded as ‘1’ (n ¼ 143) and all other
+responses were coded as ‘0’ (n ¼ 1109). ‘Don’t know’ responses
+were treated as missing data.
+Analyses
+All hypotheses were made prior to conducting any analyses. We
+first analyzed the data by conducting simple and logistic regres-
+sions to assess overall associations between the three norm per-
+ceptions and advocacy intentions and past advocacy (total
+effects in mediation terminology). Next, we used Model 59 in the
+PROCESS macro for SPSS to test our hypothesized models, which
+uses an Ordinary Least Squares (OLS) regression path-analytical
+framework to estimate the moderated direct and indirect effects
+(n.b., we utilize the term ‘effects’ as it is the common terminology
+in mediation analyses literature; however, it should be empha-
+sized that our analysis is conducted by utilizing cross-sectional
+data, and as such results should be interpreted as correlational
+rather than causational) [51].
+The Model 59 provides bootstrapped point estimates and 95%
+confidence intervals for all indirect effects present in the model.
+Five thousand iterations were used to calculate bias-corrected
+bootstrap estimates. This allowed us to test for the direct and in-
+direct effects of perceived descriptive norms, retrospective dy-
+namic
+norms
+and
+prospective
+dynamic
+norms
+on
+past
+engagement in contacting elected officials as well as future
+intentions to do so. Specifically, the models sought to see if these
+relationships were mediated by identification with climate acti-
+vists, perceived collective efficacy, collective response efficacy or
+injunctive norms, and if any of the relationships in the models
+were moderated by party identification (moderation of indirect
+effects was assessed by the pairwise contrasts between the condi-
+tional indirect effects reported in the Supplementary materials).
+For simplicity, we report only the results from the model that
+included the moderation; however, as reported below, not all
+interactions were significant. For all effects that were not signifi-
+cantly moderated by party identification, reported coefficients
+represent the effect of the independent variable when party
+identification
+is
+equal
+to
+the
+mean
+of
+2.78
+(closest
+to
+‘Independents’ on the party identification scale). The sociodemo-
+graphic variables of age, education, gender, race, income and po-
+litical ideology as well as risk perception were included as
+controls in the model.
+More than 5% of the data were missing on some of the varia-
+bles used in the model, meaning that the data cannot be consid-
+ered missing completely at random; these variables were risk
+perception, advocacy intentions, collective response efficacy and
+injunctive norms. Therefore, to account for this missing data,
+Hot-deck imputation with the baseline variables of age, gender
+and education was utilized [52]. Correlations between all varia-
+bles in the model were examined to assess the potential influ-
+ence
+of
+multicollinearity
+on
+the
+analyses.
+No
+correlations
+exceeded 0.70, and simple linear regressions were run to evaluate
+variance inflation factors (VIFs) and tolerances, resulting in VIFs
+less than five and tolerance values greater than the minimum
+threshold of 0.20; therefore, multicollinearity is not a major
+concern [53].
+As the PROCESS macro utilizes OLS linear regression, we ran a
+post hoc sensitivity test using G*Power for a single regression co-
+efficient in a linear multiple regression (within the t-test family)
+[54]. For this test, our model had 80% power to detect an effect
+size of f2 ¼ 0.006 at an alpha level of 0.05 (two-tailed) for a model
+with 20 predictors (the sum of all covariates, interaction terms
+and predictors). These results indicate that our model was ade-
+quately powered (as the result demonstrated our model could de-
+tect an effect size substantially smaller than even a ‘small’ effect
+f2 ¼ 0.20, as described in Cohen [55]).
+The results of these analyses should be interpreted with cau-
+tion as using cross-sectional data in mediational analyses cannot
+establish causal claims and may falsely establish mediation [56,
+57]. As such, no causal conclusions about the relationships ob-
+served in this study can be made and alternative explanations for
+the identified relationships may exist.
+Results
+Advocacy intent
+To test H1–H3, we first conducted a linear regression to examine
+if the three types of norms—descriptive, retrospective and pro-
+spective—predicted intentions to engage in advocacy while con-
+trolling
+for
+age,
+gender,
+education,
+income,
+race,
+party
+identification, political ideology and risk perception.2 The analy-
+sis indicated that 49% of the variance in advocacy intentions
+could be explained by variance in the predictors, F(11, 1053) ¼
+94.04, P < 0.001. Descriptive norms (b ¼ 0.11, t ¼ 5.38, P < 0.001),
+retrospective dynamic norms (b ¼ 0.09, t ¼ 2.35, P ¼ 0.019) and
+prospective dynamic norms (b ¼ 0.16, t ¼ 4.35, P < 0.001) each
+accounted for significant variance in advocacy intentions; how-
+ever, retrospective dynamic norms and advocacy intentions were
+not related as hypothesized (Table 1; H1 and H3 supported; H2
+not supported).3 We next turn to the analyses that decompose
+these overall effects of the predictors into their direct and indirect
+effects.
+2
+A summary of the results in table format can be found in the
+Supplementary materials.
+3
+To help further illustrate the overall effects of the three different types of
+norms on advocacy intentions, we provide mean values for advocacy
+intentions at low versus high levels of norm perceptions with 95% CIs in
+the Supplementary materials.
+Campbell et al.
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+Perceived descriptive norms
+Our first full model investigated the relationship between per-
+ceived descriptive norms, the mediators and moderators, and
+individuals’ intent to contact elected officials regarding global
+warming (Fig. 2). The direct effect4 was significant (b ¼ 0.057,
+SE ¼ 0.022, P ¼ 0.008) and was moderated by party identification
+(binteraction ¼ 0.027, SE ¼ 0.012, P ¼ 0.03) such that perceived de-
+scriptive norms had no direct effect among Democrats but had a
+positive direct effect among Independents and Republicans, with
+the effect being strongest among Republicans (H7a partially sup-
+ported; Table 2). We also found partial support for H4. There was
+a positive and significant indirect effect of perceived descriptive
+norms on advocacy intentions through injunctive norms (H4a
+supported), identification with climate activists (H4b supported)
+and perceived collective efficacy (H4c supported), but there was
+no indirect effect through collective response efficacy (H4d not
+supported; Table 3). We found no evidence that party identifica-
+tion significantly moderated the indirect effect of perceived de-
+scriptive norms on intent to contact elected officials through any
+of the mediators (Supplementary Tables S2–S5).
+Retrospective dynamic norms
+Our second model investigated the relationship between retro-
+spective dynamic norms and an individual’s intent to contact
+elected officials regarding global warming (Fig. 2). The direct ef-
+fect
+of
+retrospective
+dynamic
+norms
+was
+not
+significant
+(b ¼ 0.064, SE ¼ 0.036, P ¼ 0.074) and was not moderated (binterac-
+tion ¼ 0.018, SE ¼ 0.017, P ¼ 0.285; H7b not supported).
+Additionally,
+retrospective
+dynamic
+norms
+had
+no
+indirect
+effects on advocacy intentions through any of our hypothesized
+mediators (H5 not supported; Table 4). Party identification did
+not moderate the indirect effects of perceived retrospective dy-
+namic norms on intentions to contact elected officials (H7b not
+supported; Supplementary Tables S6–S9).
+Prospective dynamic norms
+Our third model investigated the relationship between prospec-
+tive dynamic norms and intentions to contact elected officials re-
+garding global warming (Fig. 2). The direct effect was not
+significant (b ¼ 0.065, SE ¼ 0.036, P ¼ 0.07) but was moderated by
+party identification (binteraction ¼ 0.041, SE ¼ 0.02, P ¼ 0.02) such
+that the effect was positive and significant for Democrats, but
+not for Independents and Republicans (H7c not supported;
+Table 5). We also found partial support for H6. Prospective dy-
+namic norms had positive indirect effects on intent to contact
+elected officials through identification with climate activists and
+perceived collective efficacy, respectively (H6b and H6c sup-
+ported; Table 6). Prospective dynamic norms did not have an indi-
+rect effect on advocacy intentions via injunctive norms and
+collective response efficacy (H6a and H6d not supported). Party
+identification moderated the indirect effect of prospective dy-
+namic norms on intent to contact elected officials for the media-
+tor of identification with climate activists but not for the other
+mediators (H7c not supported; Supplementary Tables S10–S13).
+The indirect effect of prospective dynamic norms via identifica-
+tion with climate activists was positive for Democrats (indirect ¼
+0.08, SE ¼ 0.02, 95% CI 0.04–0.13) and Independents (indirect ¼
+0.05, SE ¼ 0.02, 95% CI 0.03–0.08) but was nonsignificant for
+Republicans (indirect ¼ 0.03, SE ¼ 0.02, 95% CI 0.002, 0.06); the
+opposite of expectations.
+Past advocacy
+To examine H1–H3, a logistic regression was run to examine if de-
+scriptive, retrospective and prospective norms predicted past ad-
+vocacy behavior while controlling for age, gender, education,
+income, race, party identification, political ideology and risk per-
+ception. The logistic regression model was statistically signifi-
+cant, v2(11) ¼ 145.65, P < 0.001. This model explained 23.7%
+(Nagelkerke R2) of the variance in past advocacy and correctly
+classified 88.3% of the cases. By a small margin, descriptive
+norms did not predict significant variance in past advocacy
+(b ¼ 0.19, odds ratio ¼ 1.22, P ¼ 0.054). Retrospective (b ¼ 0.428,
+odds ratio ¼ 0.65, P ¼ 0.024) and prospective (b ¼ 0.486, odds
+ratio ¼ 1.63, P ¼ 0.011) dynamic norms did predict significant vari-
+ance in past advocacy although retrospective norms did so in the
+opposite of the hypothesized direction (Table 7; H1 and H2 not
+supported; H3 supported). These results demonstrate that these
+social norms are likely important for understanding the past ad-
+vocacy behaviors.5
+Perceived descriptive norms
+Next, we turn to our model that investigated the relationship be-
+tween perceived descriptive norms, the mediators and modera-
+tors, and individuals’ past advocacy behaviors regarding global
+warming (Fig. 3). After including the mediators in the model, the
+direct effect was not significant (b ¼ 0.23, SE ¼ 0.15,P ¼ 0.123) but
+was moderated by party identification (binteraction ¼ 0.25, SE ¼
+0.09, P ¼ 0.005) such that there was no effect on Democrats and
+Independents but had a positive direct effect among Republicans
+(H7a partially supported; Table 8). We also found partial support
+for H4. There was a positive indirect effect of perceived descrip-
+tive norms on past advocacy behaviors through injunctive norms
+(H4a) and identification with climate activists (H4b; Table 9).
+However, there was no indirect effect of perceived descriptive
+norms on past advocacy via collective efficacy and a negative in-
+direct effect via collective response efficacy (H4c and H4d not
+supported; Table 9). This indirect effect via response efficacy was
+moderated by party identification though in the opposite pattern
+to expectations (Supplementary Table S16; H7a not supported). It
+Table 1. Results of the regression model for advocacy intentions
+Variable
+B
+SE
+b
+T
+P-value
+(Constant)
+1.36
+0.186
+7.296
+<0.001
+Age
+0.002
+0.001
+0.031
+1.361
+0.174
+Education
+0.025
+0.025
+0.025
+1.017
+0.309
+Gender
+0.111
+0.04
+0.062
+2.77
+0.006
+Income
+0.001
+0.005
+0.007
+0.289
+0.772
+Race
+0.125
+0.048
+0.062
+2.595
+0.01
+Party identiﬁcation
+0.063
+0.017
+0.119
+3.836
+<0.001
+Political ideology
+0.081
+0.025
+0.1
+3.26
+0.001
+Risk perception
+0.43
+0.026
+0.475
+16.305
+<0.001
+Descriptive norm
+0.114
+0.021
+0.129
+5.378
+<0.001
+Retrospective
+dynamic norm
+0.085
+0.036
+0.066
+2.346
+0.019
+Prospective dynamic
+norm
+0.158
+0.036
+0.127
+4.353
+<0.001
+Note. N ¼ 1065. Signiﬁcant predictors are bolded.
+4
+The terms ‘direct effect’ and ‘indirect effect’ used throughout the Results
+section are commonly used terms in reporting mediation results.
+However, such effects refer only to relationships between variables and
+are not meant to imply a causal mechanism.
+5
+To help further illustrate the relationship and overall effects of the three
+different types of norms on past advocacy, crosstabs and chi-squares of
+low versus high norm perceptions and past advocacy demonstrated that
+the variables are related (see Supplementary materials).
+8
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+was negative for Independents (b ¼ 0.08, SE ¼ 0.049, 95% CI
+0.197, 0.007) and Republicans (b ¼ 0.15, SE ¼ 0.096, 95% CI
+0.389, 0.022) but nonsignificant for Democrats (b ¼ 0.02, SE ¼
+0.043, 95% CI 0.062, 0.108). Party identification did not moderate
+any of the other hypothesized indirect effects (Supplementary
+Tables S14, S15 and S17).
+Retrospective dynamic norms
+The following model investigated the relationship between retro-
+spective dynamic norms and an individual’s past advocacy
+behaviors (Fig. 3). The direct effect was significant but negative
+(b ¼ 0.736, SE ¼ 0.28, P ¼ 0.009) and was not moderated by party
+identification (binteraction ¼ 0.14, SE ¼ 0.16, P ¼ 0.36; H7b not
+supported). Retrospective dynamic norms had no indirect effects
+on past advocacy behaviors through any of our hypothesized
+mediators (H5 not supported; Table 10). Additionally, party iden-
+tification did not moderate the indirect effects of retrospective
+dynamic
+norms
+on
+past
+advocacy
+(H7b
+not
+supported;
+Supplementary Tables S18–S21).
+Prospective dynamic norms
+Our final model investigated the relationship between prospec-
+tive dynamic norms and individuals’ past advocacy behaviors
+(Fig. 3). The direct effect was not significant (b ¼ 0.27, SE ¼ 0.27,
+P
+¼ 0.329)
+nor
+was
+it
+moderated
+by
+party
+identification
+(b ¼ 0.19, SE ¼ 0.16, P ¼ 0.23; H7c not supported). The results
+indicated that H6 was partially supported as prospective dy-
+namic norms had positive indirect effects on past advocacy
+behaviors through identification with climate activists and per-
+ceived collective efficacy (H6b and H6c supported), but no indi-
+rect effects through response efficacy and injunctive norms
+(H6a and H6d not supported; Table 11). Party identification mod-
+erated the indirect effects of prospective dynamic norms on in-
+tent to contact elected officials through identification with
+climate activists. The indirect effect of prospective dynamic
+norms via identification with climate activists was positive for
+Democrats (indirect ¼ 0.25, SE ¼0.09, 95% CI 0.12–0.48) and
+Independents (indirect ¼ 0.14, SE ¼ 0.07, 95% CI 0.05–0.31) but
+was nonsignificant for Republicans (indirect ¼ 0.06, SE ¼ 0.07,
+95% CI 0.02, 0.24); this pattern of results was the opposite of
+expectations (H7c not supported). Party identification did not
+moderate the indirect effects of prospective dynamic norms
+through collective efficacy, response efficacy or injunctive
+norms (Supplementary Tables S22–S25).
+Discussion
+This study aimed to test and extend theories about the relation-
+ship between social norms and climate advocacy. By examining
+three types of social norms, this study explored the extent to
+Table 2. Conditional direct effects of perceived descriptive norms on advocacy intentions at different levels of party identiﬁcation.
+Moderator: party identification
+Direct effect
+SE
+t
+P-value
+95% CI
+Democrats
+0.0120
+0.0281
+0.4265
+0.6698
+0.0432, 0.0672
+Independents
+0.0571
+0.0216
+2.6435
+0.0084
+0.0147, 0.0994
+Republicans
+0.1021
+0.0320
+3.1952
+0.0014
+0.0394, 0.1648
+Note: Values for the effects represent the unstandardized regression coefﬁcient. Values for the moderator represent the mean and 6 1 SD from the mean for party
+identiﬁcation.
+Table 3. Indirect effects of perceived descriptive norms on
+advocacy intentions
+Indirect effect
+95% CI
+Mediator
+Coeff.
+SE
+Injunctive norm
+0.0300
+0.0072
+0.0171, 0.0453
+Identiﬁcation with climate
+activists
+0.0392
+0.0005
+0.0011, 0.0029
+Collective efﬁcacy
+0.0270
+0.0070
+0.0144, 0.0417
+Collective response efﬁcacy
+0.0063
+0.0050
+0.0035, 0.0164
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+Table 4. Indirect effects of retrospective dynamic norms on
+advocacy intentions
+Indirect effect
+Mediator
+Coeff.
+SE
+95% CI
+Injunctive norm
+0.0099
+0.0089
+0.0279, 0.0078
+Identiﬁcation with climate
+activists
+0.0012
+0.0138
+0.0279, 0.0261
+Collective efﬁcacy
+0.0086
+0.0088
+0.0266, 0.0082
+Collective response efﬁcacy
+0.0006
+0.0023
+0.0038, 0.0062
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+Table 5. Conditional direct effects of perceived prospective
+dynamic norms on advocacy intentions at different levels of
+party identiﬁcation
+Moderator: party iden-
+tification
+Effect
+SE
+t
+P-value
+95% CI
+Democrats
+0.1342 0.0461
+2.9114 0.0037 0.0437, 0.2247
+Independents
+0.0649 0.0355
+1.8274 0.0680 0.0048, 0.1345
+Republicans
+0.0045 0.0450 0.0995 0.9208 0.0928, 0.0839
+Note: Values for the effects represent the unstandardized regression
+coefﬁcient. Values for the moderator represent the mean and 61 SD from the
+mean for party identiﬁcation.
+Table 6. Indirect effects of prospective dynamic norms on
+advocacy intentions
+Indirect effect
+Mediator
+Coeff.
+SE
+95% CI
+Injunctive norm
+0.0138
+0.0090
+0.0031, 0.0320
+Identiﬁcation with climate
+activistsa
+0.0535
+0.0153
+0.0249, 0.0847
+Collective efﬁcacy
+0.0264
+0.0092
+0.0097, 0.0457
+Collective response efﬁcacy
+0.0050
+0.0051
+0.0039, 0.0167
+a
+The indirect effects for prospective dynamic norms on advocacy
+intentions through identiﬁcation with climate activists was moderated, such
+that the effect was strongest for Democrats and nonsigniﬁcant for Republicans
+(see Supplementary Table S10).
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+Campbell et al.
+|
+9
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+which perceived descriptive norms, prospective dynamic norms
+and retrospective dynamic norms predict climate advocacy in
+the form of past contacting of and future intent to contact one’s
+elected officials about climate change.
+We found that perceived descriptive norms predicted advo-
+cacy intentions but did not predict (by a small margin) past advo-
+cacy, partially supporting our first hypothesis. This discrepancy
+indicates that descriptive norms may be important for driving fu-
+ture advocacy intentions but may have less of an impact on
+someone’s decision to actually take the action though we cannot
+make causal claims based on our data. In the moderated media-
+tion model, we found that perceived descriptive norms had a pos-
+itive direct effect on advocacy intentions among Independents
+and Republicans. This finding is consistent with past research
+that suggests Republicans are more positively influenced than
+Democrats by social consensus about climate change [48]. The
+fact that these results surfaced even with a national comparison
+level, rather than specifically other Republicans and friends/fam-
+ily, indicates the potential for descriptive norms to be useful for
+Republican audiences. Future research should explore additional
+mechanisms that may be responsible for this effect.
+Consistent with our expectations, we found that perceived de-
+scriptive norms had a positive indirect effect on both advocacy
+intentions and past advocacy through identification with climate
+activists and injunctive norms. This may suggest that as people
+perceive advocacy to be practiced by a greater number of people,
+they are more likely to identify with at least some members of
+that group and to perceive climate advocacy to be important to
+others, encouraging them to participate in climate advocacy
+themselves. However, as causality cannot be inferred from cross-
+sectional data, it is also possible that those who have engaged in
+climate advocacy in the past may have already self-identified as
+a climate activist or believed others thought advocacy was impor-
+tant prior to believing others are engaging in advocacy.
+Contrary to prior research [9], the effect of descriptive norms
+on advocacy intentions was mediated by collective efficacy but
+Table 7. Logistic regression results for past advocacy
+Variable
+B
+SE
+Wald
+df
+P-value
+Exp(B)
+95% CI for Exp(B)
+Constant
+6.569
+1.171
+31.491
+1
+<0.001
+0.001
+Age
+0.012
+0.006
+4.251
+1
+0.039
+1.012
+1.001
+1.024
+Education
+0.319
+0.132
+5.815
+1
+0.016
+1.376
+1.062
+1.784
+Gender
+0.195
+0.202
+0.93
+1
+0.335
+0.823
+0.554
+1.223
+Income
+0.005
+0.026
+0.045
+1
+0.832
+0.995
+0.946
+1.046
+Race
+0.087
+0.227
+0.146
+1
+0.702
+0.917
+0.588
+1.43
+Party identiﬁcation
+0.124
+0.089
+1.925
+1
+0.165
+0.883
+0.741
+1.053
+Political ideology
+0.35
+0.128
+7.438
+1
+0.006
+0.705
+0.548
+0.906
+Risk perception
+1.145
+0.219
+27.213
+1
+<0.001
+3.141
+2.043
+4.829
+Descriptive norm
+0.198
+0.103
+3.706
+1
+0.054
+1.219
+0.996
+1.49
+Retrospective dynamic norm
+0.428
+0.19
+5.061
+1
+0.024
+0.652
+0.449
+0.946
+Prospective dynamic norm
+0.486
+0.192
+6.427
+1
+0.011
+1.625
+1.116
+2.365
+Note: N ¼ 1105. Signiﬁcant predictors are bolded.
+Table 8. Conditional direct effects of perceived descriptive norms
+on past advocacy behaviors at different levels of party
+identiﬁcation
+Moderator: party
+identification
+Effect
+SE
+z
+P-value
+95% CI
+Democrats
+0.2006 0.1431 1.4021
+0.1609
+0.4810, 0.0798
+Independents
+0.2307 0.1497
+1.5411
+0.1233
+0.0627, 0.5240
+Republicans
+0.6619 0.2659
+2.4897
+0.0128
+0.1408, 1.1830
+Note: Values for the effects represent the unstandardized regression
+coefﬁcient. Values for the moderator represent the mean and 61 SD from the
+mean for party identiﬁcation.
+Table 9. Indirect effects of perceived descriptive norms on past
+advocacy behaviors
+Indirect effect
+Mediator
+Coeff.
+SE
+95% CI
+Injunctive norm
+0.1457
+0.0499
+0.0687, 0.2614
+Identiﬁcation with climate
+activists
+0.1068
+0.0446
+0.0448, 0.2177
+Collective efﬁcacy
+0.0702
+0.0517
+0.0058, 0.1987
+Collective response efﬁcacya
+0.0810
+0.0492
+0.1966, 0.0066
+a
+The indirect effects for perceived descriptive norms on past advocacy
+behaviors through response efﬁcacy was moderated (see Results section and
+Supplementary Table S16).
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+Table 10. Indirect effects of retrospective dynamic norms on past
+advocacy behaviors
+Indirect effect
+Mediator
+Coeff.
+SE
+95% CI
+Injunctive norm
+0.0415
+0.0471
+0.1462, 0.0422
+Identiﬁcation with climate
+activists
+0.0037
+0.0418
+0.0832, 0.0866
+Collective efﬁcacy
+0.0293
+0.0377
+0.1262, 0.0205
+Collective response efﬁcacy
+0.0113
+0.0245
+0.0726, 0.0280
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+Table 11. Indirect effects of prospective dynamic norms on past
+advocacy
+Indirect effect
+Mediator
+Coeff.
+SE
+95% CI
+Injunctive norm
+0.0643
+0.0516
+0.0152, 0.1869
+Identiﬁcation with climate
+activists
+0.1446
+0.0701
+0.0496, 0.3234
+Collective efﬁcacy
+0.0806
+0.0556
+0.0010, 0.2164
+Collective response efﬁcacy
+0.0536
+0.0496
+0.1794, 0.0138
+Note: Values for the coefﬁcients represent the unstandardized values when the
+moderator was equal to the mean (mean ¼ 2.7769—closest to ‘Independents’).
+10
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+not mediated by collective response efficacy. Previous research
+that found an indirect effect through collective efficacy and col-
+lective response efficacy did not account for the identification
+with climate activists and injunctive norms as mediators in their
+model [9]. This difference in the model specification or sampling
+may be responsible for the discrepant findings though future re-
+search should examine this issue more closely. Surprisingly, we
+found that among Independents and Republicans, descriptive
+norms had a negative indirect effect on past advocacy behavior
+via collective response efficacy. One possible explanation for this
+is that people in these groups may believe that there are many
+Americans demanding climate action from their elected officials
+with relatively little to show for it in terms of policy progress or
+reductions in emissions. For example, news coverage tends to
+emphasize information about the growing threat of climate
+change with relatively less attention to the success of govern-
+ment policy or the actions of advocates [58, 59]. As a result, these
+individuals may have drawn the conclusion that elected officials
+are unresponsive to the demands of average citizens and that
+such efforts are not worth their time. Future research should in-
+vestigate this and other explanations for this relationship.
+In line with our third hypothesis, we found that prospective
+dynamic norms—expectations about how climate advocacy will
+change in the near future (i.e. the next 12 months)—were related
+to advocacy intentions and past advocacy behavior. This finding
+indicates that prospective dynamic norms may be particularly
+important for shaping people’s climate advocacy intentions and
+behaviors though we cannot make causal claims based on our
+data. Furthermore, in the moderated mediation model, prospec-
+tive dynamic norms were indirectly related to both advocacy
+intentions and past advocacy via identification with climate acti-
+vists and collective efficacy. We found that partisanship moder-
+ated the positive indirect effect on both advocacy intentions and
+past advocacy through identification with climate activists such
+that the effect only emerged for Democrats and Independents
+contrary to our expectations that the effect would be stronger
+among
+Republicans.
+Although
+prior
+research
+suggests
+that
+Republicans
+and
+conservatives
+are
+more
+sensitive
+than
+Democrats and liberals to normative information, those findings
+were based on current norm perceptions, beliefs, attitudes and
+policy preferences—rather than advocacy, specifically [48]. It is
+possible that differential partisan sensitivity may follow a differ-
+ent
+pattern
+for
+dynamic
+norms
+and
+advocacy
+behaviors.
+Alternatively, it may be related to Republican resistance to identi-
+fying with climate activists, even when they perceive climate ad-
+vocacy to be on the rise. The fact that the indirect effect of
+prospective dynamic norms through collective efficacy was not
+moderated by partisanship suggests that addressing concerns
+about collective efficacy could be a useful strategy to encourage
+Republicans to engage in climate advocacy. These and other
+explanations should be explored in future research.
+In contrast, retrospective dynamic norms—perceptions about
+how climate advocacy has recently changed (i.e. over the past 12
+months)—did not predict advocacy intentions and negatively pre-
+dicted both advocacy intentions and past advocacy; the direction
+of this relationship was the opposite of what we hypothesized.
+The fact that prospective dynamic norms positively predicted cli-
+mate advocacy but retrospective norms did not have important
+practical implications. Past studies have operationalized dynamic
+norm messages by using a retrospective dynamic norm—telling
+recipients about how the adoption of behavior has increased in
+the recent past [10, 11]. Those studies found that the message
+effects
+were
+mediated
+by
+a
+prospective
+dynamic
+norm
+perception—the expectation that the adoption of the behavior
+would continue to increase in the future. Though not experimen-
+tal, our study may suggest that it is important to ensure that
+messages demonstrate to recipients that recent growth in a be-
+havior is not simply ephemeral, but that it will be sustained over
+time. Future research might test whether message content that
+explicitly states that a trend is expected to continue into the fu-
+ture helps enhance persuasiveness.
+Limitations
+Although the data come from a nationally representative survey,
+which provides more external validity than previous studies con-
+ducted with convenience samples, this analysis is purely correla-
+tional. Furthermore, mediational analyses—particularly those
+using cross-sectional data—have been criticized for their inability
+to establish causal claims [56, 57]. Hence, we cannot make any
+causal conclusions about the relationships observed in this
+study, and there may be alternative explanations for the relation-
+ships demonstrated in this study beyond those explored in the
+discussion section. Future research should employ experimental
+methods to examine these relationships further and work toward
+establishing causality, as such methods are most appropriate for
+mediational analyses [56, 57]. There is, however, ample reason to
+expect that the primary independent variables in this study—per-
+ceived descriptive and dynamic norms—are responsive to strate-
+gic communication given that the past research has successfully
+influenced these constructs through experimental treatments
+that ultimately result in behavior change [10, 11, 22]. That said,
+this study provides limited evidence about the most effective
+ways to operationalize descriptive and dynamic norms in mes-
+sages designed to increase climate advocacy.
+There are also several limitations associated with our meas-
+ures. Namely, our measures of descriptive and dynamic norms
+asked people to estimate the prevalence and trajectory of cli-
+mate advocacy among Americans as a whole. While our find-
+ings may suggest that this is an important referent group for
+the relationships we sought to test, it is likely that normative
+perceptions of closer, more familiar social groups such as fam-
+ily and friends are more consequential. Future research might
+examine which referent groups (e.g. one’s community, one’s po-
+litical party, one’s religious congregation) are the most impor-
+tant to activate when using descriptive and dynamic norms to
+motivate climate advocacy. Furthermore, several of our meas-
+ures consisted of only one item, potentially limiting their ability
+to assess the broader underlying latent construct. These in-
+cluded descriptive and dynamic norms, identification with cli-
+mate
+activists,
+injunctive
+norms
+and
+collective
+response
+efficacy. Future studies may benefit from including more indi-
+cators of each construct.
+Our measure of climate advocacy was limited to contacting
+elected officials and did not specify the mode of such contact.
+Future studies may seek to delineate between different chan-
+nels of contacting elected officials, such as in person or via
+phone or email. Furthermore, contacting elected officials is not
+the
+only
+way
+citizens
+can
+engage
+in
+climate
+advocacy.
+Additional studies could investigate how to use descriptive and
+dynamic norms to attract people to other types of advocacy
+behaviors such as donating money or attending protests, or
+how to move people up the ladder of engagement to higher ef-
+fort actions such as volunteering for leadership positions within
+advocacy organizations [60].
+Campbell et al.
+|
+11
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+The data for this study come from a single wave of a larger,
+ongoing survey project that collects new cross-sectional data
+twice a year to track various beliefs, attitudes, policy preferences
+and behaviors in the USA with respect to climate change.6 Some
+of the questions used in this analysis were originally written for
+tracking purposes and were therefore written prior to the concep-
+tualization of this specific manuscript. As a result, there are dis-
+crepancies in the referent groups of some of our measures,
+specifically descriptive and injunctive norms and collective and
+response efficacy.
+Lastly, behavioral intentions are not perfect predictors of
+behaviors. While our analyses investigated two dependent varia-
+bles to account for this, it is still an important limitation of this
+study. Furthermore, given that most Americans are worried
+about climate change, a social desirability bias may have been
+present amongst respondents, introducing the potential that cli-
+mate advocacy intentions and past behaviors were overreported.
+However, other nationally representative surveys have found
+similar rates to those described in this article, easing but not
+eliminating this concern.
+Conclusion
+This study provides new insights into the relationship between
+social norms and political advocacy, specifically that perceived
+descriptive norms and prospective dynamic norms may have im-
+portant relationships with climate advocacy. Beyond extending
+social norms theory, the results of this article have important
+practical implications by providing further insight into how peo-
+ple can be motivated to engage in climate change advocacy.
+Communicating social norms may be an important strategy to
+accelerate the American and global response to climate change.
+Supplementary data
+Supplementary data are available at Oxford Open Climate Change
+online.
+Funding
+Funding for this project is provided by the 11th Hour Project, the
+Energy Foundation, and the MacArthur Foundation.
+Conflicts of interest
+None declared.
+Authors’ contributions
+Eryn Campbell (Formal analysis, Methodology, Project adminis-
+tration, Writing —original draft, Writing—review and editing
+[lead]),
+John
+Kotcher
+(Conceptualization,
+Formal
+analysis,
+Methodology,
+Project administration, Writing—original
+draft,
+Writing—review and editing [equal]), Teresa Myers (Formal
+analysis, Methodology, Writing—review and editing [equal]),
+Sammi Munson (Methodology, Writing—original draft, Writing—
+review
+and
+editing
+[equal]),
+Amanda
+Catherine
+Borth
+(Methodology, Writing—original draft, Writing—review and edit-
+ing [equal]), Seth Rosenthal (Conceptualization, Funding acquisi-
+tion, Writing—review and editing [equal]), Anthony Leiserowitz
+(Conceptualization, Funding acquisition, Writing— review and
+editing [equal]) and Edward Maibach (Conceptualization, Funding
+acquisition, Writing—review and editing [equal]).
+Data Availability
+The data underlying this article will be shared on reasonable re-
+quest to the corresponding author.
+Acknowledgements
+We would like to thank the reviewers of this manuscript, whose
+comments helped us strengthen our work.
+References
+1.
+IPCC. Climate Change 2021: The Physical Science Basis. In:
+Masson-Delmotte V, Zhai P, et al. (eds.) Contribution of Working
+Group I to the Sixth Assessment Report of the Intergovernmental Panel
+on Climate Change. Cambridge University Press, Cambridge,
+United Kingdom and New York, NY, USA, 2021.
+2.
+USGCRP. Climate Science Special Report: Fourth National Climate
+Assessment, Wuebbles DJ, Fahey DW, Hibbard KA, et al. (eds.) Vol
+I. U.S. Global Change Research Program, Washington, DC, USA,
+2017.
+3.
+United Nations Environment Programme (UNEP). Emissions Gap
+Report 2020. Nairobi, Kenya, 2020.
+4.
+Ockwell D, Whitmarsh L, O’Neill S. Reorienting climate change
+communication for effective mitigation: forcing people to be
+green or fostering grass-roots engagement? Sci Commun 2009;30:
+305–27.
+5.
+Sabatier PA, Weible M. The Advocacy Coalition Framework:
+Innovations and Clariﬁcations. Theories of the Policy Process,
+Second Edition. 2nd ed. Routledge, 2007, 189–220.
+6.
+Leiserowitz A. Building public and political will or climate
+action. In: Etsy DC (ed.). A Better Planet. Yale University Press,
+2019, 155–62.
+7.
+Leiserowitz A, Maibach E, Rosenthal S et al. Politics & Global
+Warming, April 2020, 2020. Yale University and George Mason
+University. New Haven, CT: Yale Program on Climate Change
+Communication.
+8.
+Ballew MT, Goldberg MH, Rosenthal SA et al. Climate change ac-
+tivism among Latino and White Americans. Front Commun 2019;
+3:1–15.
+9.
+Doherty KL, Webler TN. Social norms and efﬁcacy beliefs drive
+the Alarmed segment’s public-sphere climate actions. Nature
+Clim Change 2016;6:879–84.
+10.
+Mortensen CR, Neel R, Cialdini RB et al. Trending norms: a lever
+for encouraging behaviors performed by the minority. Soc
+Psychol Personal Sci 2019;10:201–10.
+11.
+Sparkman G, Walton GM. Dynamic norms promote sustainable
+behavior, even if it is counternormative. Psychol Sci 2017;28:
+1663–1674.
+12.
+Ballew MT, Leiserowitz A, Roser-Renouf C et al. Climate change
+in the American mind: data, tools, and trends. Environment 2019;
+61:4–18.
+13.
+Cialdini RB, Trost MR. Social inﬂuence: social norms, conformity
+and compliance. The Handbook of Social Psychology, Vols 1–2, 4th
+edn. New York, NY, USA: McGraw-Hill, 1998, 151–92.
+14.
+Cialdini RB, Kallgren CA, Reno RR. A focus theory of normative
+conduct: a theoretical reﬁnement and reevaluation of the role
+6
+For more information on the Climate Change in the American Mind pro-
+gram,
+please
+see:
+https://climatecommunication.yale.edu/about/proj
+ects/climate-change-in-the-american-mind/
+12
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+of norms in human behavior. In: MP Zanna (ed.), Advances in
+Experimental Social Psychology. Academic Press, 1991;24:201–34.
+15.
+Cialdini RB, Reno RR, Kallgren CA. A focus theory of normative
+conduct: recycling the concept of norms to reduce littering in
+public places. J Pers Soc Psychol 1990;58:1015.
+16.
+Shulman HC, Levine TR. Exploring social norms as a group-level
+phenomenon: do political participation norms exist and inﬂu-
+ence political participation on college campuses? J Commun
+2012;62:532–52.
+17.
+Latkin C, Dayton L, Coyle C et al. The relationship between social
+norms, avoidance, future orientation, and willingness to engage
+in climate change advocacy communications. Int J Environ Res
+Public Health 2021;18:13037.
+18.
+Gerber AS, Rogers T. Descriptive social norms and motivation to
+vote: everybody’s voting and so should you. J Politics 2009;71:178–91.
+19.
+Cialdini RB. Descriptive social norms as underappreciated sour-
+ces of social control. Psychometrika 2007;72:263.
+20.
+Gelfand MJ, Harrington JR. The motivational force of descriptive
+norms: for whom and when are descriptive norms most predic-
+tive of behavior? J Cross-Cult Psychol 2015;46:1273–8.
+21.
+Kormos C, Gifford R, Brown E. The inﬂuence of descriptive social
+norm information on sustainable transportation behavior: a
+ﬁeld experiment. Environ Behav 2015;47:479–501.
+22.
+Schultz PW, Nolan JM, Cialdini RB et al. The constructive, de-
+structive, and reconstructive power of social norms. Psychol Sci
+2007;18:429–34.
+23.
+McDonald RI, Crandall CS. Social norms and social inﬂuence.
+Curr Opin Behav Sci 2015;3:147–51.
+24.
+Campbell E, Kotcher J, Maibach E et al. Predicting the importance
+of global warming as a voting issue among registered voters in
+the United States. Curr Res Ecol Soc Psychol 2021;2:100008.
+25.
+Sparkman G, Walton GM. Witnessing change: dynamic norms
+help resolve diverse barriers to personal change. J Exp Soc Psychol
+2019;82:238–52.
+26.
+Cialdini RB, Jacobson RP. Inﬂuences of social norms on climate
+change-related behaviors. Curr Opin Behav Sci 2021;42:1–8.
+27.
+Lede E, Meleady R. Applying social inﬂuence insights to encour-
+age climate resilient domestic water behavior: bridging the
+theory-practice gap. WIREs Climate Change 2019;10:e562.
+28.
+Liu J, Siegel L, Gibson LA et al. Toward an aggregate, implicit, and dy-
+namic model of norm formation: capturing large-scale media repre-
+sentations of dynamic descriptive norms through automated and
+crowdsourced content analysis. J Commun 2019;69:563–88.
+29.
+Loschelder DD, Siepelmeyer H, Fischer D et al. Dynamic norms
+drive sustainable consumption: Norm-based nudging helps cafe´
+customers to avoid disposable to-go-cups. J Econ Psychol 2019;75:
+102146.
+30.
+Sabherwal A, Pearson AR, Sparkman G. Anger consensus mes-
+saging can enhance expectations for collective action and sup-
+port for climate mitigation. J Environ Psychol 2021;76:101640.
+31.
+Ajzen I. The theory of planned behavior. Organ Behav Hum Decis
+Process 1991;50:179–211.
+32.
+Kelley HH. The processes of causal attribution. Am Psychol 1973;
+28:107.
+33.
+Rimal RN, Real K. How behaviors are inﬂuenced by perceived
+norms: a test of the theory of normative social behavior.
+Commun Res 2005;32:389–414.
+34.
+Tajfel H, Turner JC. An integrative theory of intergroup conﬂict.
+In: Hogg MA, Abrams D (eds.). Intergroup Relations: Essential
+Readings. New York, NY, US: Psychology Press, 2001, 94–109.
+35.
+Klandermans B. The demand and supply of participation:
+social-psychological correlates of participation in social move-
+ments. In: DA Snow, SA Soule, H Kriesi (eds), The Blackwell
+Companion to Social Movements. Oxford, UK: Blackwell Publishing
+Ltd, 2007, 360–79.
+36.
+Van Zomeren M, Postmes T, Spears R. Toward an integrative so-
+cial identity model of collective action: a quantitative research
+synthesis of three socio-psychological perspectives. Psychol Bull
+2008;134:504–35.
+37.
+Freedman JL, Fraser SC. Compliance without pressure: the foot-
+in-the-door technique. J Pers Soc Psychol 1966;4:195–202.
+38.
+Leiserowitz A, Maibach E, Rosenthal S et al. Climate Activism:
+Beliefs, Attitudes, and Behaviors. 2019. Yale University and George
+Mason University. New Haven, CT: Yale Program on Climate
+Change Communication.
+39.
+Stenhouse N, Heinrich R. Breaking negative stereotypes of cli-
+mate activists: a conjoint experiment. Sci Commun 2019;41:
+339–68.
+40.
+Bandura A. Social Foundations of Thought and Action: A Social
+Cognitive Theory. Englewood Cliffs, NJ, US: Prentice-Hall, Inc,
+1986, xiii, 617.
+41.
+Feldman L, Hart PS. Using political efﬁcacy messages to increase
+climate activism: the mediating role of emotions. Sci Commun
+2016;38:99–127.
+42.
+Hart PS, Feldman L. The inﬂuence of climate change efﬁcacy
+messages and efﬁcacy beliefs on intended political participa-
+tion. PLoS ONE 2016;11:e0157658.
+43.
+Roser-Renouf C, Maibach EW, Leiserowitz A et al. The genesis of
+climate change activism: from key beliefs to political action.
+Climatic Change 2014;125:163–78.
+44.
+Brulle RJ, Carmichael J, Jenkins JC. Shifting public opinion on cli-
+mate change: an empirical assessment of factors inﬂuencing
+concern over climate change in the U.S., 2002–2010. Climatic
+Change 2012;114:169–88.
+45.
+Hornsey MJ, Harris EA, Bain PG et al. Meta-analyses of the deter-
+minants and outcomes of belief in climate change. Nat Climate
+Change 2016;6:622–6.
+46.
+McCright AM, Dunlap RE. The politicization of climate change
+and polarization in the American public’s views of global warm-
+ing, 2001-2010. Sociol Quart 2011;52:155–94.
+47.
+Dunlap RE, McCright AM, Yarosh JH. The political divide on cli-
+mate
+change:
+partisan
+polarization
+widens
+in
+the
+U.S.
+Environment 2016;58:4–23.
+48.
+Goldberg MH, van der Linden S, Leiserowitz A et al. Perceived so-
+cial consensus can reduce ideological biases on climate change.
+Environ Behav 2019;52:495–517.
+49.
+Graham J, Haidt J, Nosek BA. Liberals and conservatives rely on
+different sets of moral foundations. J Person Soc Psychol 2009;96:
+1029–46.
+50.
+Jost JT, van der Linden S, Panagopoulos C et al. Ideological asym-
+metries in conformity, desire for shared reality, and the spread
+of misinformation. Curr Opin Psychol 2018;23:77–83.
+51.
+Hayes, A. Introduction to Mediation, Moderation, and Conditional
+Process Analysis, A Regression-Based Approach. 2nd edn. New
+York, NY: The Guilford Press, 2017.
+52.
+Myers TA. Goodbye, listwise deletion: presenting hot deck impu-
+tation as an easy and effective tool for handling missing data.
+Commun Methods Measures 2011;5:297–310.
+53.
+Tabachnick BG, Fidell LS. Using Multivariate Statistics. Boston:
+Pearson, 2018.
+54.
+Faul F, Erdfelder E, Buchner A et al. Statistical power analyses
+using G*Power 3.1: Tests for correlation and regression analyses.
+Behav Res Methods 2009;41:1149–60.
+55.
+Cohen J. Statistical Power Analysis for the Behavioral Sciences. 2nd
+edn. New York: Routledge, 1988.
+Campbell et al.
+|
+13
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024
+56.
+Bullock JG, Green DP, Ha SE. Yes, but what’s the mechanism?
+(don’t expect an easy answer). J Person Soc Psychol 2010;98:550.
+57.
+Bullock JG, Green DP. The failings of conventional mediation
+analysis and a design-based alternative. Adv Meth Pract Psychol
+Sci 2021;4:25152459211047228.
+58.
+Feldman L, Hart PS, Leiserowitz A et al. Do hostile media percep-
+tions lead to action? The role of hostile media perceptions,
+political efﬁcacy, and ideology in predicting climate change ac-
+tivism. Commun Res 2017;44:1099–124.
+59.
+Hart PS, Feldman L. Threat without efﬁcacy? Climate change on
+U.S. Network News. Sci Commun 2014;36:325–51.
+60.
+Han H. How Organizations Develop Activists: Civic Associations and
+Leadership in the 21st Century. New York: Oxford University Press,
+2014.
+14
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad001/7028493 by guest on 26 August 2024

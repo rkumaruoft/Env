@@ -1,0 +1,2946 @@
+Research article
+Do social vulnerability indices correlate with extreme heat health
+outcomes?
+Sahar Derakhshana,b, David P. Eisenmanc,d, Rupa Basue, Travis Longcorea,*
+a Institute of the Environment and Sustainability, University of California, 300 LaKretz Hall, Los Angeles, CA 90095, USA
+b Department of Geography & Anthropology, California State Polytechnic University, Pomona, CA, USA
+c David Geffen School of Medicine, University of California, Los Angeles, CA, USA
+d Center for Healthy Climate Solutions, Fielding School of Public Health, University of California, Los Angeles, CA, USA
+e Ofﬁce of Environmental Health Hazard Assessment, California Environmental Protection Agency, CA, USA
+A R T I C L E
+I N F O
+Article History:
+Received 16 June 2023
+Accepted 13 October 2023
+Available online 16 October 2023
+A B S T R A C T
+Introduction. Several frameworks exist to measure vulnerability to extreme heat events using a health equity
+approach, but little evidence validates these measures and their applications. We investigated the degree to
+which social vulnerability measures and their constituent elements correlate with excess emergency room
+visits as an outcome measure. Methods. The relationship between six commonly used social vulnerability
+indicators and measured excess emergency room visit rates (processed by including heat-related illnesses
+and all-internal causes diagnosis, with considerations for age and heat days) was tested through geospatial
+analytics and statistical regressions, for both California and Los Angeles County. Results. The vulnerability
+indicators and the outcome measure were signiﬁcantly positively associated at the census tract-level but
+weaker (»0.2 rs) at the scale of California and stronger (»0.6 rs) at the scale of Los Angeles County. Hazard-
+speciﬁc vulnerability indicators showed stronger relationships with outcome measures regardless of scale. A
+Poisson regression model showed a signiﬁcant inter-county variation, indicating the importance of localized
+assessments for equitable environmental policies. Conclusion. The ﬁndings identify communities that are
+overburdened by heat and pollution and highlight the need for use of both social vulnerability and indicators
+of adverse outcomes from excessive heat. Patterns are found across all measures that suggest that popula-
+tions facing accessibility barriers may be less likely to visit emergency rooms. This suggestion needs to be
+tested in other environmental settings to draw broader conclusions but has direct implications for environ-
+mental scientists and mitigation planners who use these methods.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Extreme heat
+Heat vulnerability
+Heat burden
+Environmental justice
+Climate change
+1. Introduction
+Heat causes more deaths than other weather-related hazards,
+although these could be reduced by up to 25% with effective mitiga-
+tion [1]. In addition to heat waves, which are becoming more intense,
+more frequent, and of longer duration, average temperatures are
+expected to rise, particularly in urban areas because of the urban
+heat island effect, increasingly affecting residents of densely popu-
+lated cities [2]. Impacts of heat events include hyperthermia, heat
+cramps, heat exhaustion, heat stroke, respiratory problems, wors-
+ened chronic conditions (e.g., cardiovascular disease), and increased
+mortality [3,4]. Even though most people can adapt to incremental
+increases in average temperatures, some susceptible groups may still
+suffer adverse effects [5], and adaptation can only occur to a certain
+degree.
+Heat disproportionately harms some of the most vulnerable com-
+munity members [6]. Several categories of people have been identi-
+ﬁed as being at a higher risk for heat-related health impacts [7,8]:
+children and infants [9]; age groups of 65 years and over [10]; socially
+isolated individuals, or from low-income populations [11]; residents
+of nursing homes, care facilities, or prisons without appropriate cool-
+ing measures [12,13]; persons living with chronic conditions such as
+disabilities, cardiovascular, pulmonary, or kidney and liver diseases,
+diabetes, or obesity [14−16]; pregnant women and their fetuses [17];
+persons living with mental health issues [18]; persons of various
+races/ethnicities, which can be proxies for socioeconomic status, dif-
+ferential exposure and health treatment, and access to health care;
+those who have language barriers [19,20]; or persons that are home-
+less [21]. Individuals with occupational exposure, exempliﬁed by the
+need to wear personal protective equipment [22], outdoor or agricul-
+tural workers [23,6], and workers in manufacturing locations without
+temperature control systems [24] are also susceptible to extreme
+heat.
+* Corresponding author.
+E-mail address: longcore@ucla.edu (T. Longcore).
+https://doi.org/10.1016/j.joclim.2023.100276
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 18 (2024) 100276
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+In a broader social-ecological system, socioeconomic factors such
+as income have shown stronger associations with heat exposure at
+home [25] due to the cost of air conditioning or other housing charac-
+teristics. Hence, a combination of socioeconomic and environmental
+factors together can represent heat exposure and vulnerability. Heat-
+related vulnerabilities have also been assessed in measurement
+schemes [26,27], and applied in a few cases like Atlanta, Georgia [28],
+Maricopa, Arizona [29], San Antonio, Texas [30], Georgia [31], and
+Massachusetts [32], although more studies are needed to show the
+effectiveness and use of these indicators. The “hazard of place” model
+identiﬁes elements of hazard exposure in combination with underly-
+ing vulnerabilities to describe the risk level [33], which motivates
+this study to test the relationship between vulnerability indicators.
+Interest in validating social vulnerability indicators (e.g., SoVI, SVI)
+and their ability to explain disaster event outcomes (e.g., losses) [34
+−36] has been growing. The challenges of measuring heat-event out-
+comes in terms of loss (ﬁnancial and non-ﬁnancial) adds to the com-
+plexities of validating vulnerability measures. Uejio et al. [37] applied
+mixed models to study heat mortality and distress calls by accounting
+for vegetation, temperatures, socioeconomic variables and neighbor-
+hood stability in Philadelphia, PA, and Phoenix, AZ. Similarly, Reid et al.
+[38] applied their Heat Vulnerability Index in metropolitan areas (in ﬁve
+U.S. states) and assessed the hospitalization and mortality counts in
+high-heat days using a Poisson regression, which showed strong associ-
+ations, but predicted higher vulnerability than what was observed in
+some areas. Also, Chuang and Gober [39] used hospitalization records in
+Phoenix, AZ, to test the accuracy of their Heat Vulnerability Index.
+California is the most populous state in the U.S. with a diverse
+population that is experiencing more frequent and intense heat
+waves with longer durations [40]. Model projections predict that
+more humid nighttime conditions and a lack of acclimatization in
+coastal populations will continue to exacerbate the impacts [41].
+Individual variables of income and ethnicity have been tested in rela-
+tion to heat exposure in California, which showed urban regions
+experience disparities in temperatures between the wealthiest and
+poorest neighborhoods [42]. The multi-dimensional construct of
+social vulnerability can identify inﬂuences of other socioeconomic
+factors in this context and several indices have been produced for
+vulnerability assessments in California. The state has developed sev-
+eral adaptation plans that use these indicators, to help target pro-
+grams and funding in high-risk areas [43]. In this study, we evaluated
+whether vulnerability metrics for California can explain the reported
+heat-related excess emergency room visit pattern changes during
+heat events and whether the scale of the analysis inﬂuences the
+results. We also tested the associations across individual variables
+that contribute to the vulnerability indicators as well. Our goal was to
+help scientists and policymakers interested in mapping vulnerability
+indices and outcome measures prioritize neighborhoods for heat
+adaptation and response programs.
+2. Material and methods
+2.1. Vulnerability indicators
+Social vulnerability as a concept is multi-dimensional and the spa-
+tial distribution of its place-based measurements can show the con-
+tributing factors to the abilities of communities to respond to hazard
+events. The “vulnerability of place” is tested through the indicators
+presented in previous studies and adopted plans as contributors to
+heat-related health impacts. The selected indicators from the com-
+monly used sources in California (Appendix A) include several varia-
+bles and methodologies:
+1) CalEnviroScreen (CES) 4.0 is the California Communities Environ-
+mental Health Screening tool developed in 2021, released by the
+California Ofﬁce of Environmental Health Hazard Assessment
+(OEHHA), which is a part of the California Environmental Protection
+Agency
+(CalEPA)
+[44].
+CalEnviroScreen
+considers
+cumulative
+impacts, is place-based, and includes 36 indicators of public health,
+environmental,
+and
+socioeconomic
+conditions.
+The
+CalEnvir-
+oScreen Score is the result of average exposure and environmental
+effects that consider sensitive populations and socioeconomic fac-
+tors [44]. The timeframe for each variable is different but covers
+2009 to 2019 and data are updated as newer versions are released.
+2) The California Healthy Places Index (HPI) is developed by the Public
+Health Alliance of Southern California in partnership with the
+UCLA Luskin Center for Innovation. The HPI applies a positive
+frame, includes indicators of socioeconomic conditions in addition
+to the environmental factors, and the HPI score combines 25 char-
+acteristics into a single score [45].
+3) The Climate Change & Health Vulnerability Indicators for California
+(CCHVIs) is produced by the Climate Change and Health Equity
+Section of the California Building Resilience Against Climate
+Effects (CalBRACE) Project that is part of the California Depart-
+ment of Public Health. The CCHVIs is a database, which does not
+include a composite score [46], and each variable has a different
+timeframe from 2010 to 2019.
+4) The development of California Heat Assessment Tool (CHAT) was
+funded by the California Natural Resources Agency as part of the
+California’s Fourth Climate Change Assessment and evaluations
+were conducted by a partnership of institutes [47]. The Heat
+Health Action Index is a statistically weighted result of indicators
+in three categories of social vulnerability, health, and environ-
+ment, which range from 0 to 100. The data for each variable comes
+from different timeframes, from 1984 for historical records to
+2050 for projected models.
+5) The Social Vulnerability Index (SoVI) using 5-year estimates for
+2017 Census data. The SoVI measurement is a multi-dimensional
+construct [33] that follows a Principal Component Analysis (PCA)
+of normalized indicators (by z-scores) with varimax rotation. The
+raw data from the American Community Survey (ACS) 2017 5-
+year estimates at census tract-level were processed to run the
+SoVI model separately for California and for Los Angeles County.
+The SoVI model for California has seven factors explaining 68% of
+the variation in input variables (Appendix D), and the model for
+Los Angeles County has eight factors that explain 72% of the varia-
+tion in input PCA variables [48].
+6) Social Vulnerability Index (CDC’s SVI) by the Centers for Disease
+Control and Prevention (CDC), using data from the ACS, ranks cen-
+sus tracts on 16 social factors and groups them into four themes
+of socioeconomic status, household characteristics, racial and eth-
+nic minority status, and housing type and transportation [49]. The
+SVI score is the sum of all 16 variables. The data used for this study
+is for year 2018.
+7) The study area of Los Angeles County includes one additional
+measure of vulnerability, which is the Social Sensitivity Scores
+from the Los Angeles County Chief Sustainability Ofﬁce published
+in 2021 with most recent data [50].
+2.2. Excess emergency room visits
+Excess emergency room visits rates are used as an outcome mea-
+sure of heat-related adverse health effects to gage the relationship
+between vulnerability indicators and the resulting outcomes and test
+the level of predictability of these indices. Our study duration for data
+used is truncated to only capture the timeline before the COVID-19
+pandemic (due to comorbidities). The data for emergency room visits
+were obtained from the California Department of Health Care Access
+and Information and analyzed to include diagnoses codes for emer-
+gency room visits due to heat-related illnesses and all-internal causes
+that are known to be exacerbated during heat events (up to 25
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+2
+diagnoses for each emergency room record) [51]. The analysis also
+considers age and heat event days during the meteorological summer
+and a lag of three days for each area (heat event days were deﬁned
+using the Spatial Synoptic Classiﬁcation (SSC) system version 3 that is
+adopted in climate and human health studies [23], and the SSC sta-
+tions included were 67 in California and 13 in neighboring states of
+Oregon, Nevada, and Arizona) [51]. The produced data for excess
+emergency room visits are available at county and sub-county levels
+(Fig. 1) [51]. The excess daily emergency room visit rate corresponds
+to the number of excess emergency room visits per day per 10,000
+persons in heat event days versus non-heat event days in that area
+(each rate was calculated separately for heat and non-heat event
+days then were age-adjusted, and ﬁnally subtracted to obtain the
+excess daily visit rates), which is computed for 2009 to 2018 (Using
+diagnoses ICD-9 codes of E900 or 992: “electrolyte imbalance (276);
+cardiovascular disease (390−398, 401−429, 430−438, 440−459);
+respiratory illness (460−519); acute kidney failure and chronic kid-
+ney disease (584−586); disease of urinary system (580−599); diabe-
+tes mellitus (250); dehydration (276.5) and disorders of ﬂuid,
+electrolyte and acid-base balance (276)”, for 2009−2016, and ICD-10
+codes of X30 or T67: “cardiovascular (I00−I99); respiratory (J00
+−J99); acute kidney failure and chronic kidney disease (N17−N19);
+Disease of urinary system (N00−N39); diabetes (E08−E13); dehydra-
+tion (E86); and disorders of ﬂuid, electrolyte, and acid-base balance
+(E87)”, for 2016−2018) [51].
+2.3. Analysis
+The scale of analysis, according to data constraints, are county and
+census tracts (counties are the primary spatial unit for operational levels
+of emergency management and public health in the US, and census
+tracts are their ﬁner-spatial units for a stable presentation of data). The
+vulnerability indicators are available at the census tract level, and the
+zip code boundaries do not match with the tract boundaries, thus we
+obtained excess emergency room visits data at the tract level by extract-
+ing the average, minimum, maximum, and variance of the zip code level
+data that covers each tract in ArcGIS Pro-using Python. We calculated
+the Spearman’s correlation between all vulnerability indicators and
+excess emergency room visit rates. For cross-comparisons, the variables
+are all standardized by converting them into percentiles, and for classiﬁ-
+cations of variables we have used the standard deviation from the mean
+(i.e., class 1< mean - 0.5 Std.Dev.; mean - 0.5 Std.Dev. < class 2 <
+mean + 0.5 Std.Dev.; and class 3> mean + 0.5 Std.Dev.).
+To answer the question regarding variation of associations across
+California, we applied three methods of geospatial mapping through
+bivariate maps, a geographically weighted regression (GWR), and a
+Poisson log-linear regression model for vulnerability indicators and
+counties, in relation to the excess emergency room visit rates, which
+follow the model of:
+LogðExcess emergency room visitratesÞ
+¼ a þ b1ðVulnerability indicatorÞ þ b2ðCounty
+
+1
+þ b3ðCounty
+
+2
+þ . . . þ biþ1ð CountyÞi
+Where a is the intercept, and b is the coefﬁcient for vulnerability
+indicator, and each of the counties (i = 58).
+For cross-comparison, the high and low classes of vulnerability
+indicators and the related classes of high and low excess emergency
+room visit rates are analyzed by concordant pairs (i.e., high-high, or
+low-low) or discordant pairs (i.e., high-low or low-high) to identify
+overlaps in classiﬁcations. Finally, to test the inﬂuence of individual
+indicators on the observed excess emergency room visit rates, the
+extremes of high and low rates are compared using an independent
+samples t-test. The highest and lowest rate groups were selected
+using two standard deviations from the mean (i.e., §1.5 Std.Dev.),
+which is approximately the same as the 1% top and 1% bottom (80
+census tracts—high and low—for California). Analyses were per-
+formed in RStudio, SPSS, JMP, GeoDa, and ArcGIS Pro.
+3. Results
+3.1. Geographical patterns
+The visual comparison of the spatial distribution of the excess
+emergency room visits rates and the vulnerability scores in bivariate
+maps indicate a similar pattern of association across the measurement
+Fig. 1. Quantiles of excess emergency room visit rates across California at County scale (left) and Census tract scale (right).
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+3
+schemes (Fig. 2). A concentration of high vulnerability and higher
+emergency room visit rates is seen in Del Norte, Yuba, Mendocino, San
+Benito, San Joaquin, Solano, and Alameda counties, while in Southern
+California a pattern of lower emergency room visits, and high vulnera-
+bility is observed. As expected, the patterns show higher variation by
+census tracts, where a concentration of higher emergency room visits
+and higher vulnerability follows an urban-rural pattern with concen-
+tration around Merced and Stanislaus counties, San Fernando Valley,
+and south-central Los Angeles County, western Riverside and San Ber-
+nardino counties, and central Monterey County.
+3.2. County-Scale analysis
+There are no strong correlations between the composite vulnera-
+bility scores and the rate of excess emergency room visits at the
+county scale for California (Table 1). The CCHVI method does not
+include a composite score and among their variables, the correlation
+is moderately signiﬁcant and negative for the excess emergency
+room visit rate and tree canopy coverage (rs = 0.31, p < 0.05), pro-
+jected number of extreme heat days (rs = 0.3, p < 0.01), and percent
+population without health insurance (rs = 0.28, p < 0.05) as is also
+Fig. 2. Bivariate maps of quantiles of ﬁve different vulnerability indicators and excess emergency room visit rates at county and census tract scales.
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+4
+reﬂected in Factor 5 of SoVI (rs = 0.38, p < 0.01) (Table 1). The dif-
+ference between the vulnerability scores for the counties with the
+highest and lowest excess emergency room visit rates is not signiﬁ-
+cant.
+3.3. Census tract-scale analysis
+The average excess emergency room visit rates for California at
+the scale of census tracts have a signiﬁcant but weak relationship
+with vulnerability scores (Table 2a, Fig. 3a), where the strongest asso-
+ciation is with CHAT (rs = 0.26, p < 0.01), followed by CDC’s SVI
+(rs = 0.23, p < 0.01) and SoVI (rs = 0.2, p < 0.01). The highest vulnera-
+bility score class shows a higher average of excess emergency room
+visits for the CHAT and SoVI indicators (Fig. 3). The relationship for
+the CCHVI’s indicators and the excess emergency room visit rates are
+also weak but signiﬁcant. The top 10 census tracts with the highest
+rate of heat-related excess emergency room visits are from Los
+Angeles, Monterey, and El Dorado counties, while the lowest rates
+are from San Francisco, Nevada, Placer, San Diego, and Siskiyou Coun-
+ties. The independent samples t-test for the highest and lowest rates,
+only indicates a signiﬁcant difference for SVI’s theme 4 (i.e., housing
+type and transportation) (t = 4.31, p < 0.001), CHAT (t = 3.6,
+p < 0.005), and CES (t = 3.79, p < 0.001).
+Table 1
+Correlation results for the county-scale measurements.
+Indicator
+County Daily excess rate of ER visit
+Spearman’s rho
+Sig. (2-tailed)
+CalEnviroScreen (CES) 4.0
+0.124
+0.353
+Healthy Places Index (HPI)
+0.012
+0.928
+CCHVIz
+Mean Tree Canopy
+0.308*
+0.019
+Projected Number Extreme heat 2040
+−2060
+0.372**
+0.004
+Projected Number Extreme heat 2080
+−2099
+0.337**
+0.010
+Percent Population without Health Insur-
+ance 2011−2015
+0.284*
+0.030
+Percent Population Age Below 5, 2011
+−2015
+0.076
+0.571
+Percent Pop Age 65 and more, 2011
+−2015
+0.014
+0.918
+Percent Without Car 2011−2015
+0.252
+0.056
+Percent Not speaking English 2011−2015
+0.105
+0.433
+Percent Less than College Education 2011
+−2015
+0.023
+0.862
+Particulate Matter (PM) 2.5, 2012−2014
+0.008
+0.954
+No Air Conditioning 2009
+0.153
+0.251
+CHAT Heat health index
+0.058
+0.665
+Social Vulnerability Index (SoVI)
+0.098
+0.463
+Factor 1 −Hispanic, education, linguistic
+isolation
+0.183
+0.169
+Factor 2 −Poverty, unemployment,
+mobile home
+0.118
+0.379
+Factor 3 −Race (African American)
+0.072
+0.594
+Factor 4 −Nursing House Residents
+0.038
+0.776
+Factor 5 −No Health insurance, Race
+(Native American)
+0.382**
+0.003
+Factor 6 −Female
+0.108
+0.418
+Factor 7 −No automobile access
+0.277**
+0.035
+CDC’s SVI Score
+0.035
+0.796
+SVI Theme 1 −socioeconomic
+0.008
+0.952
+SVI Theme 2 −Household composition/
+disability
+0.246
+0.063
+SVI Theme 3 −Minority status/language
+0.119
+0.375
+SVI Theme 4 −Housing type/
+transportation
+0.027
+0.839
+** Correlation is signiﬁcant at the 0.01 level (2-tailed).
+* Correlation is signiﬁcant at the 0.05 level (2-tailed).
+Table 2
+Correlation results (Spearman’s rho) for the census tract-scale measurements for
+a) California and b) Los Angeles County study areas.
+Indicator
+Zipcode Daily excess ER visit rate
+Avg
+Min
+Max
+Var
+Std.Dev.
+a) CALIFORNIA
+CalEnviroScreen
+(CES) 4.0 score
+.149**
+.192**
+.113**
+0.033**
+0.033**
+Healthy Places Index
+(HPI)
+0.140**
+0.150**
+0.117**
+.032**
+.032**
+Cal-heat.org
+(CHAT) Heat
+health action
+index
+.265**
+.337**
+.194**
+0.075**
+0.075**
+SoVI score
+.203**
+.123**
+.225**
+.130**
+.130**
+Factor 1 −Poverty,
+Education,
+Hispanic
+.239**
+.283**
+.192**
+0.049**
+0.049**
+Factor 2 −Depen-
+dence and Age
+(elderly)
+0.006
+0.080**
+.043**
+.119**
+.119**
+Factor 3 −No auto-
+mobile access,
+Renters
+.043**
+.030**
+.037**
+.009
+.009
+Factor 4 −Race
+(African Ameri-
+can), Female
+0.098**
+0.098**
+0.084**
+0.031**
+0.031**
+Factor 5 −Race
+(Native American)
+.001
+.097**
+0.055**
+0.109**
+0.109**
+Factor 6 −Popula-
+tion density
+.054**
+.031**
+.059**
+.059**
+.059**
+Factor 7 −Nursing
+home residents,
+Race (Asian)
+.064**
+.012
+.090**
+.064**
+.064**
+CDC’s SVI score
+.234**
+.266**
+.192**
+0.028*
+0.028*
+SVI Theme1 −
+socioeconomic
+.201**
+.224**
+.165**
+0.032**
+0.032**
+SVI Theme2 −
+Household com-
+position/disability
+.238**
+.230**
+.225**
+.039**
+.039**
+SVI Theme3 −
+Minority status
+/language
+.128**
+.217**
+.063**
+0.102**
+0.102**
+SVI Theme4 −Hous-
+ing type
+/transportation
+.170**
+.172**
+.150**
+.011
+.011
+b) LOS ANGELES
+COUNTY
+CalEnviroScreen
+(CES) 4.0
+.637**
+.641**
+.566**
+0.012
+0.012
+Healthy Places Index
+(HPI)
+0.587**
+0.606**
+0.504**
+.070**
+.070**
+Cal-heat.org (CHAT)
+Heat health action
+index
+.601**
+.625**
+.511**
+0.084**
+0.084**
+SoVI score
+.449**
+.392**
+.441**
+.109**
+.109**
+Factor 1 −Poverty,
+Hispanic,
+Education
+.555**
+.615**
+.457**
+0.090**
+0.090**
+Factor 2 −No auto-
+mobile access,
+Renters
+.045**
+0.006
+.061**
+0.018
+0.018
+Factor 3 −Depen-
+dence and Age
+(Elderly)
+0.048**
+0.075**
+0.010
+.086**
+.086**
+Factor 4 −Female
+0.015
+0.007
+.035
+.066**
+.066**
+Factor 5 −Race
+(African Ameri-
+can, not-Asian)
+.412**
+.377**
+.393**
+0.027
+0.027
+Factor 6 −Mobile
+home residents
+0.046*
+0.051*
+0.040
+.009
+.009
+Factor 7 −Race
+(Native American)
+0.008
+0.002
+0.013
+0.048*
+0.048*
+Factor 8 −Popula-
+tion density
+.086**
+.029
+.115**
+.112**
+.112**
+CDC’s SVI score
+.556**
+.583**
+.475**
+0.061**
+0.061**
+(continued)
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+5
+3.4. Regression
+The Poisson log-linear regression model for excess emergency
+room visit rates by each vulnerability score and county (using census
+tract data) shows variations across counties but a rather similar pat-
+tern across vulnerability scores (Appendix B). The results show the
+relationship is dependent on the location and local measures would
+be more predictive. The GWR results were not signiﬁcant (R2=0.001).
+3.5. Individual indicators
+Testing the individual indicators that are used to construct the
+vulnerability scores, shows variations in their associations with the
+outcome measure of excess emergency room visit rates. The individ-
+ual indicators are tested for the two groups at the top and the bottom
+1 % of census tracts, ranked by the average excess emergency room
+visit rates, in an independent sample t-test comparison of means
+(Appendix C). Individual indicators like lead pollution, asthma, car-
+diovascular disease, poverty,% households without a car, and %
+households without air conditioning have a signiﬁcant difference
+between the two groups with a large effect (i.e., Cohen’s d> 0.8) and
+a positive t-value referring to their impact in higher emergency room
+visit rates. A number of other indicators have a signiﬁcant difference
+and large effect size (i.e., Cohen’s d> 0.8) with a negative t-value, sug-
+gesting an inverse relationship with the higher emergency room visit
+rates, which include average ozone concentration (ppm),% elderly,%
+White, homeownership, per capita income, and no transit access.
+Some other indicators, with smaller effect sizes (Cohen’s d< 0.6), do
+show a signiﬁcant difference, like housing burden, unemployment,
+linguistic isolation, less college education, %Hispanic, %African Ameri-
+can, %Asian, and pollution burden.
+3.6. Los Angeles county
+Vulnerability indicators associated with the excess emergency
+room visits in Los Angeles County show a stronger relationship than
+across all tracts in California (Table 2b, Fig. 3b). This is even more pro-
+nounced in South-Central Los Angeles and San Fernando Valley
+(Fig. 4). There are more concordant pairs than discordant pairs of vul-
+nerability indicators and excess emergency room visit rates (i.e.,
+high-high, or low-low, than high-low) at both study areas, but the
+pairs are more synchronous at the Los Angeles County study area
+(with more than 70% overlap) than in California and (with more than
+30%overlap) across all indicators (Table 3). For example, there are
+low visit rates and low vulnerability ranges from 41.5% to 46.7%
+among the ﬁve indicators for the state, while for the high rates and
+Table 2 (Continued)
+Indicator
+Zipcode Daily excess ER visit rate
+Avg
+Min
+Max
+Var
+Std.Dev.
+Theme1 −
+socioeconomic
+.576**
+.596**
+.492**
+0.059**
+0.059**
+Theme2 −House-
+hold composition/
+disability
+.435**
+.452**
+.388**
+0.015
+0.015
+Theme3 −Minority
+status / language
+.444**
+.498**
+.360**
+0.092**
+0.092**
+Theme4 −Housing
+type /
+transportation
+.300**
+.293**
+.260**
+0.020
+0.020
+LA County Sensitiv-
+ity Score
+.379**
+.440**
+.299**
+0.124**
+0.124**
+Fig. 3. Boxplots of the average excess emergency room visit rates (by Log-scale) and vulnerability indicator classes (classiﬁed in three classes by standard deviation from the mean:
+low< mean −0.5 Std.Dev.; mean −0.5 Std.Dev. < medium < mean + 0.5 Std.Dev.; and high> mean + 0.5 Std.Dev.) for a) California, and b) Los Angeles County.
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+6
+high vulnerability the indicators range from 29.5% to 46.7%. At the Los
+Angeles County scale, the low rates and low vulnerability range from
+63.7% to 86.1% among the six indicators, while for the high rate and
+high vulnerability pairs, they also exceed 70% in each indicator (only
+exception is the County Sensitivity Score with a lower coverage, with
+46%).
+The CDC’s SVI score has a higher signiﬁcant association with the
+rate of excess emergency room visits (rs = 0.556, p < 0.001), which is
+close to SoVI score (rs = 0.449, p < 0.001); and the Factor 1 of SoVI has
+the strongest association among the factors (rs = 0.55, p < 0.001) rep-
+resenting poverty, linguistic isolation, and Hispanic population. The
+county sensitivity score has a moderate association with the excess
+emergency room visit rates (rs = 0.379, p < 0.001). The HPI has a mod-
+erate-strong negative association (rs = 0.587, p < 0.001), and the
+CHAT score has a stronger positive correlation (rs = 0.601, p < 0.001).
+Comparing the top and the bottom 1% census tracts with the highest
+excess emergency room visits for Los Angeles County, shows a signiﬁ-
+cant difference between the means for all the vulnerability scores
+tested, but not for all the individual variables (e.g., transit access,
+ozone exceedance, %Native American, %Asian American, park access,
+%with disabilities, %female, and %mobile home residents).
+4. Discussion and conclusion
+In response to climate change and the increase in number, extent,
+and duration of heat events, several vulnerability indicators have
+been proposed but it is uncertain how much they reﬂect observed
+disparities in the heat-impact across communities. In this study, we
+Fig. 4. Bivariate maps of quantiles of vulnerability indicators and excess emergency room visit rates for Los Angeles County by census tract.
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+7
+used the rate of excess emergency room visits as an outcome mea-
+sure to test the explanatory power of existing indicators for Califor-
+nia. Our ﬁndings have four main implications.
+First, while comparisons showed a similar statistical relationship
+with available vulnerability indicators, we observed a stronger rela-
+tionship with CHAT and CES. The relevance of heat-speciﬁc vulnera-
+bility indicators conﬁrms the appropriateness of hazard-speciﬁc
+vulnerability measures that has been seen in context of the COVID-19
+pandemic and ﬂoods as well [52]. Therefore, custom indicators that
+incorporate vulnerability attributes related to the hazard type might
+be more deﬁning than an all-hazards approach, at least in case of
+extreme heat. Single-hazard vulnerability assessments may be neces-
+sary for effective hazard preparedness and mitigation.
+Second, the observed strong patterns of differential impact
+between urban and rural areas with clusters for disproportionately
+high impacts in rural, northern California signiﬁes the necessity to
+identify regionally relevant policy solutions or infrastructural needs.
+Lack of acclimatization to heat, decreased availability of air condition-
+ing and lack of community experience forcing inadequate response
+might all be contributing factors.
+Third, the strength of association between vulnerability indicators
+and excess emergency room visit rates is higher at ﬁner scales. The
+two levels of analysis (i.e., county and census tracts) and the focused
+study area of Los Angeles County, highlight the importance of scale
+and unit of analysis, where associations vary across counties and
+within county (Figs. 2 and 4). There are more pairs that identify the
+similar level of susceptibility to suffer harm in the Los Angeles County
+study area (> 70 % overlap) than in California (> 30 % overlap) across
+all vulnerability indicators, demonstrating that these indicators may
+be closer in identifying the vulnerable tracts in a more focused study
+area. Therefore, this ﬁnding suggests that localized studies are more
+appropriate for mitigation planning and policy implementations.
+Fourth, individual variables tested against the rate of excess emer-
+gency room visits, indicated a signiﬁcant association with lead pollu-
+tion, asthma and cardiovascular disease, poverty, access to a car, and
+access to air conditioning. Based upon this ﬁnding one could consider
+the possibility of merging policies and mitigation plans with efforts
+on urban greening and public health to bring co-beneﬁts for overbur-
+dened communities (e.g. parts of Merced County, Stanislaus County
+near Turlock, and parts of Los Angeles County like south-central Los
+Angeles). In contrast, the inverse association between emergency
+room visits and some indicators (e.g., transit access), demonstrates
+that the outcome measure of emergency room visits might not repre-
+sent all vulnerable groups. The under-representations of some groups
+in emergency room visits could stem from not having the access to
+reach emergency rooms and seeking care in local clinics or not at all.
+However, the indicators for socioeconomic status or health seem to
+have a strong positive relationship with visit rates (e.g., poverty,
+asthma). Thus, some vulnerable populations (e.g., those with accessi-
+bility issues) might not be counted if we only use the outcome meas-
+ures such as emergency room visit rates for locating the populations
+in need of support, as they might be under-reported or under-repre-
+sented in those outcome data.
+There are a number of limitations in our study including those
+associated with data availability and timeframes for the selected indi-
+cators, and potential confounding bias or inaccuracy in accounting for
+heat exposure effects in the excess emergency room visit rate calcula-
+tions. Nevertheless, the stronger association with sub-county data
+validates the use of the vulnerability indicators for environmental
+policy implementation and highlights the need for both outcome
+measures and socio-environmental vulnerability indices. Conse-
+quently, we encourage further emphasis on local knowledge and
+assessments to identify — at the operational level —the priority
+groups for implementing mitigation measures or for response to heat
+events.
+Author agreement
+Instructions are not provided on the journal website regarding the
+content of the author agreement.
+All authors agree to submission and no other person qualiﬁes as
+an author but is not included.
+All authors have reviewed the order of the authors and agree to it.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgments
+This research was supported as part of the Heat Resilient LA proj-
+ect funded by the UCLA Sustainable LA Grand Challenge. Versions of
+this manuscript were improved by comments from Prof. Susan L. Cut-
+ter (University of South Carolina). The authors also appreciate com-
+ments from Amal Syed and discussions with members of the Heat
+Resilient LA project at UCLA.
+Table 3
+High and low classes of vulnerability indicators and the related classes of high and low excess emergency room visit rates (all classes classiﬁed by standard deviation
+from the mean) for a) California, and b) Los Angeles County.
+Excess emergency room visit rate
+CES
+HPI
+CHAT
+SoVI
+CDC’s SVI
+LA County Sensitivity Score
+CALIFORNIA (n = 8041)
+Low Vulnerability Score
+Low (n = 2175)
+46.1% (n = 1003)
+43.8% (n = 953)
+45.5% (n = 989)
+41.5% (n = 903)
+49.6% (n = 1080)
+−
+High (n = 1365)
+28% (n = 382)
+29.2% (n = 399)
+18.5% (n = 252)
+15.9% (n = 347)
+23% (n = 315)
+−
+High Vulnerability Score
+Low (n = 2175)
+20.4% (n = 443)
+19.8% (n = 430)
+14.4% (n = 314)
+22.6% (n = 309)
+21.3% (n = 464)
+−
+High (n = 1365)
+29.5% (n = 403)
+32.4% (n = 442)
+46.7% (n = 637)
+36.3% (n = 496)
+40.4% (n = 552)
+−
+LOS ANGELES COUNTY (n = 2320)
+Low Vulnerability Score
+Low (n = 201)
+86.1% (n = 173)
+78.1% (n = 157)
+79.1% (n = 159)
+64.2% (n = 129)
+77.1% (n = 155)
+63.7% (n = 128)
+High (n = 177)
+5.6% (n = 10)
+6.2% (n = 11)
+6.2% (n = 11)
+7.3% (n = 13)
+9.6% (n = 17)
+22.6% (n = 40)
+High Vulnerability Score
+Low (n = 201)
+2.5% (n = 5)
+4.5% (n = 9)
+4.5% (n = 9)
+2.5% (n = 5)
+6% (n = 12)
+9.9% (n = 20)
+High (n = 177)
+77.4% (n = 137)
+74% (n = 131)
+80.8% (n = 143)
+64.4% (n = 114)
+72.9% (n = 129)
+46.3% (n = 82)
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+8
+Appendix A. Data sources for selected variables and indicators for California
+Variable
+Source
+Socio-Economic and pre-existing conditions
+Independent variables
+CalEnviroScreen (CES) 4.0
+California Ofﬁce of Environmental Health Hazard Assessment (OEHHA)
+Healthy Places Index (HPI)
+Public Health Alliance of Southern California
+Climate Change & Health Vulnerability Indicators for California (CCHVIs)
+California Building resilience Against Climate Effects (CalBRACE)
+California Heat Assessment Tool (CHAT)
+California’s Fourth Climate Change Assessment
+Social Vulnerability Index (SoVI) for California
+Authors; raw variables from ACS
+Social Vulnerability Index (SVI)
+Centers for Disease Control and Prevention (CDC)
+Only for Los Angeles County Subset
+Social Sensitivity scores
+Los Angeles County Chief Sustainability Ofﬁce
+Social Vulnerability Index (SoVI) for Los Angeles County
+Authors; raw variables from ACS
+Outcome measure
+Dependent variables
+Excess emergency room visits
+California Department of Health Care Access and Information (2009−2018)
+Appendix B. Poisson log-linear regression model for excess emergency room visit rates by vulnerability indicators and county (census
+tract -scale data), standard error in parenthesis
+CES
+HPI
+CHAT
+SoVI
+CDC’s SVI
+Intercept
+0.845 (0.02)**
+1.066 (0.02)**
+0.753 (0.02)**
+1.074 (0.02)**
+0.612 (0.03)**
+Vulnerability indicator
+0.011 (0.00)**
+0.34 (0.01)**
+0.011 (0.00)**
+0.035 (0.00)**
+0.069 (0.00)**
+Alameda
+0.400 (0.03)**
+0.601 (0.03)**
+0.269 (0.03)**
+0.465 (0.03)**
+0.452 (0.03)**
+Alpine
+1.678 (0.25)**
+0.00 (0)
+1.750 (0.25)**
+1.237 (0.26)**
+1.464 (0.25)**
+Amador
+0.509 (0.14)**
+0.510 (0.15)**
+0.557 (0.14)**
+0.377 (0.15)*
+0.530 (0.14)**
+Butte
+0.01 (0.08)
+0.05 (0.08)
+0.01 (0.08)
+0.055 (0.08)
+0.03 (0.08)
+Calaveras
+0.204 (0.17)
+0.133 (0.18)
+0.253 (0.17)
+0.056 (0.17)
+0.174 (0.17)
+Colusa
+0.26 (0.28)
+0.25 (0.28)
+0.26 (0.28)
+0.110 (0.28)
+0.31 (0.28)
+Contra Costa
+0.260 (0.04)**
+0.436 (0.04)**
+0.182 (0.04)**
+0.311 (0.04)**
+0.318 (0.04)**
+Del Norte
+1.082 (0.12)**
+0.922 (0.13)**
+1.015 (0.12)**
+0.917 (0.13)**
+0.948 (0.12)**
+El Dorado
+0.277 (0.08)**
+0.111 (0.09)
+0.341 (0.08)**
+0.107 (0.08)
+0.220 (0.08)*
+Fresno
+0.58 (0.05)**
+0.48 (0.05)**
+0.54 (0.05)**
+0.321 (0.05)**
+0.46 (0.05)**
+Glenn
+0.137 (0.20)
+0.104 (0.20)
+0.176 (0.20)
+0.257 (0.21)
+0.118 (0.20)
+Humboldt
+1.081 (0.06)**
+1.046 (0.06)**
+1.014 (0.06)**
+0.975 (0.06)**
+1.026 (0.06)**
+Imperial
+0.62 (0.12)**
+0.56 (0.13)**
+0.63 (0.12)**
+0.465 (0.12)**
+0.60 (0.12)**
+Inyo
+0.40 (0.29)
+0.38 (0.29)
+0.50 (0.29)
+0.541 (0.29)
+0.45 (0.29)
+Kern
+0.71 (0.06)**
+0.68 (0.06)**
+0.67 (0.06)**
+0.496 (0.06)**
+0.62 (0.06)**
+Kings
+0.54 (0.13)**
+0.45 (0.13)**
+0.51 (0.12)**
+0.251 (0.13)
+0.43 (0.12)**
+Lake
+0.716 (0.10)**
+0.585 (0.10)**
+0.660 (0.10)**
+0.559 (0.11)**
+0.619 (0.10)**
+Lassen
+0.50 (0.26)
+0.68 (0.28)*
+0.59 (0.25)*
+0.718 (0.25)**
+0.57 (0.25)*
+Los Angeles
+0.58 (0.02)**
+0.41 (0.02)**
+0.52 (0.02)**
+0.344 (0.03)**
+0.42 (0.02)**
+Madera
+0.46 (0.13)**
+0.36 (0.14)*
+0.35 (0.13)*
+0.217 (0.13)
+0.35 (0.13)*
+Marin
+0.04 (0.08)
+0.134 (0.08)
+0.05 (0.08)
+0.121 (0.09)
+0.05 (0.08)
+Mariposa
+0.21 (0.26)
+0.25 (0.27)
+0.09 (0.26)
+0.395 (0.26)
+0.24 (0.26)
+Mendocino
+0.259 (0.11)*
+0.200 (0.11)
+0.234 (0.11)*
+0.189 (0.11)
+0.155 (0.11)
+Merced
+0.12 (0.07)
+0.014 (0.07)
+0.04 (0.07)
+0.193 (0.08)*
+0.000 (0.07)
+Modoc
+1.03 (0.48)*
+1.04 (0.51)*
+1.11 (0.48)*
+1.155 (0.48)*
+1.09 (0.48)*
+Mono
+0.321 (0.29)
+0.274 (0.29)
+0.337 (0.29)
+0.144 (0.29)
+0.288 (0.29)
+Monterey
+0.448 (0.05)**
+0.429 (0.05)**
+0.347 (0.05)**
+0.505 (0.05)**
+0.398 (0.05)**
+Napa
+0.07 (0.09)
+0.045 (0.10)
+0.09 (0.09)
+0.077 (0.09)
+0.07 (0.09)
+Nevada
+0.21 (0.15)
+0.23 (0.15)
+0.13 (0.15)
+0.383 (0.15)*
+0.21 (0.15)
+Orange
+0.70 (0.04)**
+0.55 (0.04)**
+0.70 (0.04)**
+0.594 (0.04)**
+0.63 (0.04)**
+Placer
+0.209 (0.06)*
+0.188 (0.06)*
+0.199 (0.06)*
+0.072 (0.06)
+0.191 (0.06)*
+Plumas
+0.12 (0.23)
+0.14 (0.27)
+0.11 (0.23)
+0.353 (0.24)
+0.12 (0.23)
+Riverside
+0.42 (0.04)**
+0.41 (0.04)**
+0.37 (0.03)**
+0.366 (0.04)**
+0.39 (0.03)**
+Sacramento
+0.177 (0.03)**
+0.269 (0.03)**
+0.132 (0.03)**
+0.215 (0.04)**
+0.213 (0.03)**
+San Benito
+0.388 (0.13)*
+0.490 (0.13)**
+0.394 (0.13)*
+0.529 (0.14)**
+0.435 (0.13)*
+San Bernardino
+0.36 (0.04)**
+0.30 (0.04)**
+0.31 (0.04)**
+0.218 (0.04)**
+0.27 (0.04)**
+San Diego
+0.29 (0.03)**
+0.23 (0.03)**
+0.36 (0.03)**
+0.272 (0.04)**
+0.28 (0.03)**
+San Francisco
+0.146 (0.04)**
+0.363 (0.04)**
+0.06 (0.04)
+0.159 (0.04)**
+0.156 (0.04)**
+San Joaquin
+0.104 (0.04)*
+0.225 (0.04)**
+0.145 (0.04)*
+0.329 (0.05)**
+0.206 (0.04)**
+San Luis Obispo
+0.05 (0.08)
+0.05 (0.09)
+0.08 (0.08)
+0.199 (0.09)*
+0.09 (0.08)
+San Mateo
+0.295 (0.04)**
+0.521 (0.04)**
+0.245 (0.04)**
+0.359 (0.05)**
+0.353 (0.04)**
+Santa Barbara
+0.02 (0.06)
+0.032 (0.06)
+0.05 (0.06)
+0.023 (0.07)
+0.05 (0.06)
+Santa Clara
+0.055 (0.03)
+0.215 (0.03)**
+0.00 (0.03)
+0.118 (0.04)*
+0.064 (0.03)
+Santa Cruz
+0.02 (0.08)
+0.046 (0.08)
+0.02 (0.08)
+0.038 (0.08)
+0.06 (0.08)
+Shasta
+0.04 (0.08)
+0.12 (0.09)
+0.05 (0.08)
+0.169 (0.09)
+0.10 (0.08)
+Sierra
+0.75 (0.84)
+0.84 (0.84)
+0.72 (0.84)
+0.975 (0.84)
+0.72 (0.84)
+Siskiyou
+0.333 (0.13)*
+0.308 (0.14)*
+0.337 (0.13)*
+0.203 (0.13)
+0.227 (0.13)
+Solano
+0.081 (0.05)
+0.179 (0.06)*
+0.04 (0.05)
+0.110 (0.06)
+0.134 (0.05)*
+Sonoma
+0.139 (0.06)*
+0.206 (0.06)**
+0.105 (0.06)
+0.093 (0.06)
+0.102 (0.06)
+(continued)
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+9
+(Continued)
+CES
+HPI
+CHAT
+SoVI
+CDC’s SVI
+Stanislaus
+0.07 (0.06)
+0.050 (0.05)
+0.012 (0.05)
+0.172 (0.06)
+0.032 (0.05)
+Sutter
+0.08 (0.12)
+0.00 (0.12)
+0.021 (0.12)
+0.082 (0.12)
+0.06 (0.12)
+Tehama
+0.000 (0.16)
+0.04 (0.16)
+0.015 (0.16)
+0.007 (0.17)
+0.04 (0.16)
+Trinity
+0.305 (0.22)
+0.014 (0.26)
+0.354 (0.22)
+0.016 (0.23)
+0.174 (0.22)
+Tulare
+0.70 (0.08)**
+0.63 (0.08)**
+0.60 (0.08)**
+0.398 (0.08)**
+0.61 (0.08)**
+Tuolumne
+0.399 (0.15)*
+0.387 (0.15)*
+0.434 (0.14)*
+0.254 (0.15)
+0.362 (0.14)*
+Ventura
+0.21 (0.05)**
+0.13 (0.05)*
+0.23 (0.05)**
+0.144 (0.05)*
+0.20 (0.05)**
+Yolo
+0.087 (0.08)
+0.199 (0.08)*
+0.084 (0.08)
+0.035 (0.00)**
+0.119 (0.08)
+Goodness of Fit
+Pearson Chi-Square
+6441.5
+4426.9
+6138.2
+6108.7
+6420.5
+Log Likelihood
+1491.3**
+1468.1**
+1509.1**
+1303.4**
+1446.1**
+** Signiﬁcant at the 0.001 level; *. Signiﬁcant at the 0.01 level.
+Appendix C. Independent samples t-test results for comparison of top 1 % and bottom 1 % of census tracts’ average emergency room visit
+rates (1 % = 80 census tracts), for all independent indicators by each measurement scheme (equal variance not assumed)
+Indicator
+Levene’s Test
+t
+df
+Signiﬁcance
+Mean Difference
+Std. Error
+Difference
+Cohen’s d
+F
+Sig.
+One-Sided p
+Two-Sided p
+ER rate
+71.34
+0.00
+15.95
+79.05
+0.00
+0.00
+13.00
+0.81
+2.52
+CES 4.0
+CES 4.0 score
+39.16
+0.00
+8.04
+100.76
+0.00
+0.00
+14.93
+1.86
+1.28
+Average ozone concentration (ppm)
+0.64
+0.42
+13.44
+154.19
+0.00
+0.00
+0.02
+0.00
+2.14
+Particulate Matter (PM) 2.5
+0.55
+0.46
+0.62
+154.99
+0.27
+0.54
+0.23
+0.38
+0.10
+Diesel Particulate Matter
+45.92
+0.00
+4.29
+97.73
+0.00
+0.00
+0.16
+0.04
+0.67
+Drinking Water
+23.62
+0.00
+1.03
+119.75
+0.15
+0.30
+27.05
+26.22
+0.16
+Lead risk from housing
+3.53
+0.06
+7.66
+146.34
+0.00
+0.00
+25.78
+3.37
+1.24
+Pesticides use (lbs/sq.mi.)
+8.67
+0.00
+1.54
+81.02
+0.06
+0.13
+55.65
+36.17
+0.24
+Toxic releases from facilities
+3.61
+0.06
+1.72
+141.30
+0.04
+0.09
+173.91
+101.34
+0.27
+Trafﬁc impacts
+7.99
+0.01
+0.50
+149.04
+0.31
+0.62
+59.74
+118.58
+0.08
+Cleanup sites
+23.10
+0.00
+3.48
+106.49
+0.00
+0.00
+6.09
+1.75
+0.55
+Groundwater threats
+2.63
+0.11
+2.21
+144.41
+0.01
+0.03
+21.22
+9.62
+0.35
+Hazardous waste generators and facilities
+2.56
+0.11
+1.50
+124.16
+0.07
+0.14
+0.42
+0.28
+0.24
+Solid waste sites and facilities
+7.92
+0.01
+2.68
+150.08
+0.00
+0.01
+2.07
+0.77
+0.43
+Pollution burden
+7.06
+0.01
+4.00
+146.20
+0.00
+0.00
+7.12
+1.78
+0.63
+Asthma
+65.18
+0.00
+7.74
+85.87
+0.00
+0.00
+51.60
+6.67
+1.22
+Cardiovascular disease
+43.24
+0.00
+8.01
+114.82
+0.00
+0.00
+6.44
+0.80
+1.27
+Linguistic isolation
+12.97
+0.00
+2.93
+112.94
+0.00
+0.00
+3.34
+1.14
+0.49
+Educational attainment
+27.80
+0.00
+5.73
+116.42
+0.00
+0.00
+10.06
+1.76
+0.93
+Poverty
+4.68
+0.03
+5.35
+144.42
+0.00
+0.00
+15.15
+2.83
+0.86
+Unemployment
+4.68
+0.03
+3.06
+122.60
+0.00
+0.00
+2.37
+0.77
+0.51
+Housing burden
+7.58
+0.01
+3.68
+137.17
+0.00
+0.00
+6.21
+1.69
+0.60
+Population characteristics
+14.37
+0.00
+8.56
+136.97
+0.00
+0.00
+25.00
+2.92
+1.38
+Total population
+1.20
+0.27
+3.22
+151.92
+0.00
+0.00
+985.72
+305.67
+0.51
+Children, less than 10 years (%)
+0.04
+0.84
+2.26
+153.57
+0.01
+0.03
+1.77
+0.78
+0.36
+Population between 10 and 64 years (%)
+5.34
+0.02
+5.73
+134.41
+0.00
+0.00
+11.09
+1.94
+0.92
+Elderly, more than 64 years (%)
+15.60
+0.00
+6.05
+118.11
+0.00
+0.00
+12.86
+2.13
+0.97
+Hispanic (%)
+9.11
+0.00
+2.84
+144.70
+0.00
+0.01
+8.45
+2.98
+0.45
+White (%)
+47.85
+0.00
+6.23
+122.03
+0.00
+0.00
+24.29
+3.90
+0.99
+African American (%)
+75.79
+0.00
+4.81
+84.00
+0.00
+0.00
+7.14
+1.49
+0.76
+Native American (%)
+16.92
+0.00
+2.68
+87.15
+0.00
+0.01
+1.60
+0.60
+0.42
+Asian American (%)
+39.43
+0.00
+3.56
+114.61
+0.00
+0.00
+5.26
+1.48
+0.57
+Other/Multiple (%)
+1.30
+0.26
+4.71
+151.20
+0.00
+0.00
+1.84
+0.39
+0.75
+HPI
+HPI score
+0.86
+0.35
+3.74
+131.03
+0.00
+0.00
+0.36
+0.10
+0.64
+Economic
+0.16
+0.69
+4.41
+132.00
+0.00
+0.00
+0.75
+0.17
+0.76
+Education
+0.76
+0.39
+1.81
+128.00
+0.04
+0.07
+0.29
+0.16
+0.31
+Insurance
+0.08
+0.77
+2.33
+131.55
+0.01
+0.02
+0.35
+0.15
+0.40
+Clean environment
+21.29
+0.00
+4.36
+107.00
+0.00
+0.00
+0.41
+0.09
+0.74
+Housing
+8.83
+0.00
+5.01
+124.73
+0.00
+0.00
+0.54
+0.11
+0.86
+Neighborhood
+2.43
+0.12
+3.28
+126.90
+0.00
+0.00
+0.38
+0.12
+0.57
+Social
+1.92
+0.17
+1.58
+128.41
+0.06
+0.12
+0.25
+0.16
+0.27
+Transportation
+2.23
+0.14
+1.50
+129.50
+0.07
+0.14
+0.11
+0.08
+0.26
+Above poverty
+3.75
+0.05
+5.21
+128.05
+0.00
+0.00
+0.15
+0.03
+0.89
+Automobile access
+56.95
+0.00
+6.09
+89.57
+0.00
+0.00
+0.08
+0.01
+1.03
+Bachelors’ education
+0.01
+0.94
+4.43
+131.36
+0.00
+0.00
+0.16
+0.04
+0.77
+Census response
+0.44
+0.51
+2.77
+129.95
+0.00
+0.01
+0.06
+0.02
+0.48
+Active commuting
+7.35
+0.01
+3.90
+122.55
+0.00
+0.00
+0.09
+0.02
+0.67
+Diesel Particulate Matter
+39.02
+0.00
+3.90
+90.83
+0.00
+0.00
+0.13
+0.03
+0.66
+(continued)
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+10
+(Continued)
+Indicator
+Levene’s Test
+t
+df
+Signiﬁcance
+Mean Difference
+Std. Error
+Difference
+Cohen’s d
+F
+Sig.
+One-Sided p
+Two-Sided p
+Employed
+1.48
+0.23
+0.66
+131.98
+0.25
+0.51
+0.01
+0.02
+0.11
+Drinking water contamination
+21.08
+0.00
+2.34
+101.86
+0.01
+0.02
+61.41
+26.24
+0.40
+Homeownership
+11.27
+0.00
+4.66
+126.03
+0.00
+0.00
+0.18
+0.04
+0.80
+House repair
+6.98
+0.01
+2.49
+100.10
+0.01
+0.01
+0.01
+0.00
+0.42
+In high school
+0.93
+0.34
+0.52
+130.23
+0.30
+0.60
+0.01
+0.02
+0.09
+In pre-school
+3.40
+0.07
+1.71
+124.73
+0.04
+0.09
+0.09
+0.05
+0.30
+Insured adults
+0.08
+0.77
+2.33
+131.55
+0.01
+0.02
+0.03
+0.01
+0.40
+Homeowner severe housing cost burden
+8.47
+0.00
+1.00
+101.63
+0.16
+0.32
+0.02
+0.02
+0.17
+Ozone
+0.05
+0.82
+14.89
+131.74
+0.00
+0.00
+0.02
+0.00
+2.57
+Park access
+0.07
+0.80
+1.38
+131.56
+0.09
+0.17
+0.08
+0.06
+0.24
+Per capita income
+13.98
+0.00
+4.76
+112.28
+0.00
+0.00
+27,477.37
+5777.97
+0.83
+Particulate Matter (PM) 2.5
+0.02
+0.89
+0.57
+131.19
+0.29
+0.57
+0.22
+0.39
+0.10
+Renter severe housing cost burden
+1.82
+0.18
+3.18
+131.80
+0.00
+0.00
+0.07
+0.02
+0.55
+Retail density
+12.19
+0.00
+2.22
+73.54
+0.01
+0.03
+5.83
+2.63
+0.37
+Tree canopy
+1.87
+0.17
+2.19
+128.81
+0.02
+0.03
+0.05
+0.03
+0.38
+Un-crowded housing
+27.15
+0.00
+5.02
+112.58
+0.00
+0.00
+0.06
+0.01
+0.85
+Voting
+25.51
+0.00
+6.61
+106.60
+0.00
+0.00
+0.10
+0.02
+1.12
+Latino (%)
+9.12
+0.00
+2.84
+144.69
+0.00
+0.01
+0.08
+0.03
+0.45
+White (%)
+47.80
+0.00
+6.23
+122.05
+0.00
+0.00
+0.24
+0.04
+0.99
+Black (%)
+75.71
+0.00
+4.81
+84.02
+0.00
+0.00
+0.07
+0.01
+0.76
+Asian (%)
+37.52
+0.00
+3.39
+115.29
+0.00
+0.00
+0.05
+0.01
+0.54
+Multiple (%)
+2.30
+0.13
+4.43
+150.10
+0.00
+0.00
+0.02
+0.00
+0.71
+Native American (%)
+16.98
+0.00
+2.69
+87.10
+0.00
+0.01
+0.02
+0.01
+0.43
+Paciﬁc Islander (%)
+11.85
+0.00
+2.27
+93.50
+0.01
+0.03
+0.00
+0.00
+0.36
+Other races (%)
+6.11
+0.01
+1.77
+114.79
+0.04
+0.08
+0.00
+0.00
+0.28
+CCHVI
+No tree Canopy_ Area Weight 2011 (%)
+9.60
+0.00
+2.91
+141.52
+0.00
+0.00
+8.61
+2.96
+0.46
+No tree Canopy _Pop Weight 2011 (%)
+0.21
+0.65
+1.80
+155.67
+0.04
+0.07
+5.24
+2.91
+0.29
+Households No AC _2009 (%)
+29.31
+0.00
+10.47
+125.77
+0.00
+0.00
+36.03
+3.44
+1.73
+Projected N extreme Heat Days 2040−2060
+0.92
+0.34
+8.14
+154.98
+0.00
+0.00
+10.49
+1.29
+1.30
+Ave Daily Max Ozone 2012−2014
+1.31
+0.25
+11.08
+152.20
+0.00
+0.00
+0.02
+0.00
+1.77
+Annual Mean (Particulate Matter 2.5) 2012−2014
+4.10
+0.04
+0.37
+154.32
+0.35
+0.71
+0.17
+0.45
+0.06
+Pop Age 65 plus_2010−2015 (%)
+19.29
+0.00
+5.23
+115.00
+0.00
+0.00
+11.23
+2.15
+0.84
+Pop Age Less 5 years_2011−2015 (%)
+0.13
+0.72
+2.44
+155.98
+0.01
+0.02
+1.14
+0.47
+0.39
+Violent Crime Per 1000 Pop Ave 2000−13
+25.65
+0.00
+2.06
+149.01
+0.02
+0.04
+0.53
+0.26
+0.33
+Population Disability_2011−2015 (%)
+0.65
+0.42
+0.58
+155.92
+0.28
+0.56
+0.62
+1.07
+0.09
+Less College Education_2011−2015 (%)
+0.02
+0.90
+3.89
+155.97
+0.00
+0.00
+13.77
+3.54
+0.62
+Without Health Insurance_2011−2015 (%)
+2.44
+0.12
+2.21
+145.41
+0.01
+0.03
+2.99
+1.35
+0.36
+Households No English_2011−2015 (%)
+26.60
+0.00
+3.91
+110.41
+0.00
+0.00
+4.45
+1.14
+0.63
+Population Working Outdoor_2011−2015 (%)
+0.07
+0.79
+1.99
+153.66
+0.02
+0.05
+1.71
+0.86
+0.32
+Households No Car_2011−2015 (%)
+44.78
+0.00
+5.94
+108.49
+0.00
+0.00
+7.24
+1.22
+0.95
+CHAT
+CHAT Heat health action index
+47.03
+0.00
+7.39
+107.01
+0.00
+0.00
+18.28
+2.47
+1.17
+Children (%)
+0.00
+0.96
+2.51
+153.97
+0.01
+0.01
+1.15
+0.46
+0.40
+No high school diploma (%)
+19.20
+0.00
+4.87
+127.89
+0.00
+0.00
+8.72
+1.79
+0.77
+Elderly (%)
+20.36
+0.00
+5.24
+112.71
+0.00
+0.00
+11.22
+2.14
+0.85
+Outdoor workers (%)
+0.02
+0.89
+1.80
+153.97
+0.04
+0.07
+1.52
+0.85
+0.29
+Population
+0.17
+0.68
+3.40
+155.05
+0.00
+0.00
+995.66
+292.97
+0.54
+Poverty (%)
+15.26
+0.00
+4.92
+123.16
+0.00
+0.00
+11.29
+2.29
+0.79
+Two races (%)
+15.18
+0.00
+5.67
+127.11
+0.00
+0.00
+2.25
+0.40
+0.90
+Non-white (%)
+37.01
+0.00
+5.79
+129.56
+0.00
+0.00
+23.25
+4.01
+0.92
+No vehicle access (%)
+32.43
+0.00
+5.73
+107.95
+0.00
+0.00
+6.13
+1.07
+0.93
+Linguistic isolation (%)
+26.06
+0.00
+3.85
+111.18
+0.00
+0.00
+4.34
+1.13
+0.62
+No transit access (%)
+0.99
+0.32
+8.46
+95.88
+0.00
+0.00
+60.49
+7.15
+1.65
+Asthma prevalence
+68.97
+0.00
+8.60
+90.18
+0.00
+0.00
+47.52
+5.53
+1.36
+Low birth weight (%)
+1.98
+0.16
+1.36
+121.71
+0.09
+0.18
+0.49
+0.36
+0.24
+Cardio disease prevalence
+18.23
+0.00
+6.59
+123.24
+0.00
+0.00
+3.03
+0.46
+1.05
+Ambulatory disability (%)
+0.10
+0.75
+1.24
+153.07
+0.11
+0.22
+0.82
+0.66
+0.20
+Cognitive disability (%)
+6.15
+0.01
+4.20
+136.17
+0.00
+0.00
+2.12
+0.50
+0.67
+Particulate Matter (PM) 2.5 concentration
+0.04
+0.83
+1.26
+146.22
+0.10
+0.21
+0.60
+0.48
+0.21
+Impervious surfaces (%)
+14.52
+0.00
+1.03
+142.94
+0.15
+0.30
+3.66
+3.54
+0.16
+Change in development
+35.69
+0.00
+5.99
+111.28
+0.00
+0.00
+12.27
+2.05
+0.95
+No tree canopy (%)
+0.75
+0.39
+1.06
+151.03
+0.15
+0.29
+3.10
+2.93
+0.17
+Urban heat island (UHII) average Delta T
+0.04
+0.83
+3.51
+32.30
+0.00
+0.00
+0.56
+0.16
+0.97
+Ozone exceedance
+352.11
+0.00
+7.49
+72.76
+0.00
+0.00
+0.12
+0.02
+1.23
+SoVI
+SoVI score
+2.74
+0.10
+0.77
+146.3
+0.22
+0.44
+0.41
+0.53
+0.12
+Factor 1 −Poverty, Education, Hispanic
+2.27
+0.13
+5.27
+149.5
+0.00
+0.00
+0.89
+0.17
+0.85
+Factor 2 −Dependence and Age (elderly)
+14.24
+0.00
+4.74
+121.6
+0.00
+0.00
+1.22
+0.26
+0.76
+Factor 3 −No automobile access, Renters
+24.80
+0.00
+1.75
+122.5
+0.04
+0.08
+0.26
+0.15
+0.93
+Factor 4 −Race (African American), Female
+0.00
+0.99
+3.38
+151.9
+0.00
+0.00
+0.50
+0.15
+0.54
+Factor 5 −Race (Native American)
+0.06
+0.80
+2.42
+152.8
+0.00
+0.02
+0.70
+0.29
+0.39
+Factor 6 −Population density
+0.83
+0.36
+0.96
+142.4
+0.17
+0.34
+0.14
+0.15
+0.15
+(continued)
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+11
+References
+[1] Kalkstein LS, Eisenman DP, de Guzman EB, Sailor DJ. Increasing trees and high-
+albedo surfaces decreases heat impacts and mortality in Los Angeles, CA. Int J Bio-
+meteorol 2022;66:911–25. doi: 10.1007/s00484-022-02248-8.
+[2] Hibbard K, Hoffman F, Huntzinger DN, West T. In: Wuebbles DJ, Fahey DW,
+Hibbard KA, Dokken DJ, Stewart BC, Maycock TK, editors. Climate science special
+report: fourth national climate assessment. Washington, DC: U.S. Global Change
+Research Program; 2017. p. 277–302 https://doi.org/10.7930/J0416V6X.
+[3] Centers for Disease Control and Prevention (CDC). Climate and health, tempera-
+ture extremes 2022. https://www.cdc.gov/climateandhealth/effects/temperatur-
+e_extremes.htm.
+[4] National Institute of Environmental Health Sciences (NIH). Temperature-related
+death and illness. 2022. https://www.niehs.nih.gov/research/programs/climate-
+change/health_impacts/heat/index.cfm.
+[5] Eisenman DP, Wilhalme H, Tseng CH, Chester M, English P, Pincetl S, et al. Heat
+death associations with the built environment, social vulnerability, and their
+interactions with rising temperature. Health Place 2016;41:89–99. doi: 10.1016/j.
+healthplace.2016.08.007.
+[6] Romanello M, McGushin A, Di Napoli C, Drummond P, Hughes N, Jamart L, et al.
+The 2021 report of the Lancet Countdown on health and climate change: code
+red for a healthy future. Lancet 2021;398(10311):1619–62. doi: 10.1016/S0140-
+6736(21)01787-6.
+[7] Mayrhuber EAS, D€uckers MLA, Wallner P, Arnberger A, Allex B, Wiesb€ock L, Kuta-
+lek R. Vulnerability to heatwaves and implications for public health interventions
+−
+scoping
+review.
+Environ
+Res
+2018;166:42–54.
+doi:
+10.1016/j.env-
+res.2018.05.021.
+[8] Basu R. High ambient temperature and mortality: a review of epidemiologic studies
+from 2001 to 2008. Environ Health 2009;8(1):40. doi: 10.1186/1476-069X-8-40.
+[9] Benmarhnia T, Deguen S, Kaufman JS, Smargiassi A. Vulnerability to heat-related
+mortality: a systematic review, meta-analysis, and meta-regression analysis. Epi-
+demiology 2015;26:781–93. doi: 10.1097/EDE.0000000000000375.
+[10] Bunker A, Wildenhain J, Vandenbergh A, Henschke N, Rocklov J, Hajat S, Sauer-
+born R. Effects of air temperature on climate-sensitive mortality and morbidity
+outcomes in the elderly; a systematic review and meta-analysis of epidemiologi-
+cal evidence. eBioMedicine 2016;6:258–68. doi: 10.1016/j.ebiom.2016.02.034.
+[11] Michelozzi P, de Donato F, Bisanti L, Russo A, Cadum E, DeMaria M, Perucci CA.
+The impact of the summer 2003 heat waves on mortality in four Italian cities.
+Euro Surveill 2005;10(7):556.
+[12] Klenk J, Becker C, Rapp K. Heat-related mortality in residents of nursing homes.
+Age Ageing 2010;39(2):245–52. doi: 10.1093/ageing/afp248.
+[13] Stafoggia M, Forastiere F, Agostini D, Biggeri A, Bisanti L, Cadum E, et al. Vulnera-
+bility to heat-related mortality: a multicity, population-based, case-crossover
+analysis.
+Epidemiology
+2006;17(3):315–23.
+doi:
+10.1097/01.
+ede.0000208477.36665.34.
+[14] Cheng J, Xu Z, Bambrick H, Prescott V, Wang N, Zhang Y, Hu W. Cardiorespiratory
+effects of heatwaves: a systematic review and meta-analysis of global epidemio-
+logical
+evidence.
+Environ
+Res
+2019;177:108610.
+doi:
+10.1016/j.
+envres.2019.108610.
+[15] Sun S, Tian L, Qiu H, Chan KP, Tsang H, Tang R, Wong CM. The inﬂuence of pre-
+existing health conditions on short-term mortality risks of temperature: evidence
+from
+a
+prospective
+Chinese
+elderly
+cohort
+in
+Hong
+Kong.
+Environ
+Res
+2016;148:7–14. doi: 10.1016/j.envres.2016.03.012.
+[16] Gronlund CJ, Zanobetti A, Schwartz JD, Wellenius GA, O’Neill MS. Heat, heat
+waves, and hospital admissions among the elderly in the United States, 1992
+−2006.
+Environ
+Health
+Perspect
+2014;122(11):1187–92.
+doi:
+10.1289/
+ehp.1206132.
+[17] Bekkar B, Pacheco S, Basu R, DeNicola N. Association of air pollution and heat
+exposure with preterm birth, low birth weight, and stillbirth in the USA: a sys-
+tematic review. JAMA Netw Open 2020;3(6):e208243. doi: 10.1001/jamanetwor-
+kopen.2020.8243.
+[18] Basu R, Gavin L, Pearson D, Ebisu K, Malig B. Examining the association between
+apparent temperature and mental health-related emergency room visits in Cali-
+fornia. Am J of Epidemiol 2018;187:726–35. doi: 10.1093/aje/kwy140.
+Appendix D. Social Vulnerability Index (SoVI) components for California (2017)
+Component
+Name
+% Variance Explained
+Dominant Variables
+1
+Poverty, Education, Ethnicity (Hispanic)
+26.10 %
+Percent with Less than 12th Grade Education
+Percent Female Headed Households
+Percent Hispanic
+Percent Employment in Service Industry
+Percent Speaking English as a Second Language with Limited English Proﬁciency
+Percent Poverty
+Percent Civilian Unemployment
+Percent Children Living in Married Couple Families
+Median Gross Rent
+Median Housing Value
+Percent Households Earning over $200,000 annually
+Per Capita Income
+2
+Dependence and Age (Elderly)
+10.70 %
+Percent Households Receiving Social Security Beneﬁts
+Percent Population under 5 years or 65 and over
+Median Age
+3
+No automobile access, Renters
+8.70 %
+Percent of Housing Units with No Car
+Percent Renters
+4
+Race (African American), Female in labor force
+7.70 %
+Percent Employment in Extractive Industries
+Percent Black
+Percent Female Participation in Labor Force
+5
+Race (Native American)
+5.90 %
+Percent Mobile Homes
+Percent Native American
+Percent Unoccupied Housing Units
+6
+Population density
+4.60 %
+People per Unit
+Percent Female
+7
+Nursing home residents, Race (not Asian)
+4.30 %
+Nursing Home Residents Per Capita
+Percent Asian
+(Continued)
+Indicator
+Levene’s Test
+t
+df
+Signiﬁcance
+Mean Difference
+Std. Error
+Difference
+Cohen’s d
+F
+Sig.
+One-Sided p
+Two-Sided p
+Factor 7 −Nursing home residents, Race (Asian)
+0.24
+0.62
+2.67
+152.0
+0.00
+0.00
+0.29
+0.11
+0.42
+CDC’s SVI
+CDC’SVI Score
+0.93
+0.34
+6.65
+156.26
+0.00
+0.00
+2.15
+0.32
+1.05
+Theme1_ socioeconomic
+0.58
+0.45
+6.56
+156.39
+0.00
+0.00
+0.88
+0.13
+1.04
+Theme2_ Household composition/disability
+14.71
+0.00
+0.72
+133.97
+0.23
+0.47
+0.07
+0.10
+0.11
+Theme3_ Minority status /language
+27.70
+0.00
+5.14
+129.44
+0.00
+0.00
+0.40
+0.08
+0.81
+Theme4_ Housing type /transportation
+0.70
+0.40
+5.84
+157.00
+0.00
+0.00
+0.79
+0.14
+0.92
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+12
+[19] Jesdale BM, Morello-Frosch R, Cushing L. The racial/ethnic distribution of heat
+risk-related land cover in relation to residential segregation. Environ Health Per-
+spect 2013;121(7):811–7. doi: 10.1289/ehp.1205919.
+[20] Hansen A, Bi L, Saniotis A, Nitschke M. Vulnerability to extreme heat and climate
+change: is ethnicity a factor? Glob Health Action 2013;6(1):21364. doi: 10.3402/
+gha.v6i0.21364.
+[21] Schwarz L, Castillo EM, Chan TC, Brennan JJ, Sbiroli ES, Carrasco-Escobar G, et al.
+Heat waves and emergency department visits among the homeless, San Diego,
+2012−2019.
+Am
+J
+Public
+Health
+2022;112:98–106.
+doi:
+10.2105/
+AJPH.2021.306557.
+[22] Honda H, Iwata K. Personal protective equipment and improving compliance
+among healthcare workers in high-risk settings. Curr Opin Infect Dis 2016;29
+(4):400–6. doi: 10.1097/QCO.0000000000000280.
+[23] Riley K, Wilhalme H, Delp L, Eisenman DP. Mortality and morbidity during
+extreme heat events and prevalence of outdoor work: an analysis of community-
+level data from Los Angeles County, California. Int J Environ Res Public Health
+2018;15(4):580. doi: 10.3390/ijerph15040580.
+[24] Ciuha U, Pogacar T, Bogataj LK, Gliha M, Nybo L, Flouris AD, Mekjavic IB. Interac-
+tion between indoor occupational heat stress and environmental temperature
+elevations during heat waves. Weather Clim Soc 2019;11(4):755–62. doi:
+10.1175/WCAS-D-19-0024.1.
+[25] Bernhard MC, Kent ST, Sloan ME, Evans MB, McClure LA, Gohlke JM. Measuring
+personal heat exposure in an urban and rural environment. Environ Res
+2015;137:410–8. doi: 10.1016/j.envres.2014.11.002.
+[26] Gamble JL, Schmeltz MT, Hurley B, Hsieh J, Jette G, Wagner H. Mapping the vulnera-
+bility of human health to extreme heat in the united states. EPA; 2018 August.
+[27] Bradford K, Abrahams L, Hegglin M, Klima K. A heat vulnerability index and adap-
+tation solution for Pittsburgh, Pennsylvania. Environ Sci Technol 2015;49:11303–
+11. doi: 10.1021/acs.est.5b03127.
+[28] Manangan AP, Uejio CK, Saha S, Schramm P, Marinucci GD, Brown CL, et al.
+Assessing health vulnerability to climate change: a guide for health departments.
+Atlanta, GA: Centers for Disease Control and Prevention, National Center for Envi-
+ronmental Health, Division of Environmental Hazards, and Health Effects; 2014.
+[29] Harlan SL, Declet-Barreto JH, Stefanov WL, Petitti DB. Neighborhood effects on
+heat deaths: social and environmental predictors of vulnerability in Maricopa
+County, Arizona. Environ Health Perspect 2013;121(2):197–204. doi: 10.1289/
+ehp.1104625.
+[30] Zottarelli LK, Sharif HO, Xu X, Sunil TS. Effects of social vulnerability and heat index
+on emergency medical service incidents in San Antonio, Texas, in 2018. J Epidemiol
+Community Health 2021;75(3):271–6. doi: 10.1136/jech-2019-213256.
+[31] Lehnert EA, Wilt G, Flanagan B, Hallisey E. Spatial exploration of the CDC’s Social
+Vulnerability Index and heat-related health outcomes in Georgia. Int J Disaster
+Risk Reduct 2020;46:101517. doi: 10.1016/j.ijdrr.2020.101517.
+[32] Santacroce L, Dellaripa PF, Costenbader KH, Collins J, Feldman CH. Association of
+area-level heat and social vulnerability with recurrent hospitalizations among
+individuals with rheumatic conditions. Arthritis Care Res 2023;75(1):22–33. doi:
+10.1002/acr.25015.
+[33] Cutter SL, Boruff BJ, Shirley WL. Social vulnerability to environmental hazards. Soc
+Sci Q 2003;84(2):242–61. doi: 10.1111/1540-6237.8402002.
+[34] Emrich CT, Tate E, Larson SE, Zhou Y. Measuring social equity in ﬂood recovery fund-
+ing. Environ Hazards 2019;19(3):228–50. doi: 10.1080/17477891.2019.1675578.
+[35] Tellman B, Schank C, Schwarz B, Howe PD, De Sherbinin A. Using disaster out-
+comes to validate components of social vulnerability to ﬂoods: ﬂood damage and
+property
+damage
+across
+the
+USA.
+Sustainability
+2020;12(15):6006.
+doi:
+10.31235/osf.io/byrgu.
+[36] Goodman ZT, Stamatis CA, Stoler J, Emrich CT, Llabre MM. Methodological chal-
+lenges to conﬁrmatory latent variable models of social vulnerability. Nat Hazards
+2021;106:2731–49. doi: 10.1007/s11069-021-04563-6.
+[37] Uejio CK, Wilhelmi OV, Golden JS, Mills DM, Gulino SP, Samenow JP. Intra-urban
+societal vulnerability to extreme heat: the role of heat exposure and the built
+environment, socioeconomics, and neighborhood stability. Health Place 2011;17
+(2):498–507. doi: 10.1016/j.healthplace.2010.12.005.
+[38] Reid CE, Mann JK, Alfasso R, English PB, King GC, Lincoln RA, et al. Evaluation of a
+heat vulnerability index on abnormally hot days: an environmental public health
+tracking study. Environ Health Perspect 2012;120(5):715–20. doi: 10.1289/
+ehp.1103766.
+[39] Chuang WC, Gober P. Predicting hospitalization for heat-related illness at the cen-
+sus-tract level: accuracy of a generic heat vulnerability index in Phoenix, Arizona
+(USA). Environ Health Perspect 2015;123(6):606–12. doi: 10.1289/ehp.1307868.
+[40] California Hazard Mitigation Plan. California governor’s ofﬁce of emergency serv-
+ices (Cal OES). 2018.
+[41] Hulley GC, Dousset B, Kahn BH. Rising trends in heatwave metrics across South-
+ern
+California.
+Earths
+Future
+2020;8(7):e2020EF001480.
+doi:
+10.1029/
+2020EF001480.
+[42] Dialesandro J, Brazil N, Wheeler S, Abunnasr Y. Dimensions of thermal inequity:
+neighborhood social demographics and urban heat in the Southwestern U.S. Int J
+Environ Res Public Health 2021;18:941. doi: 10.3390/ijerph18030941.
+[43] Protecting Californians from extreme heat: a state action plan to build commu-
+nity resilience. State of California: Action plan located on the California Natural
+Resources Agency website: resources.ca.gov; 2022.
+[44] CalEnviroScreen
+4.0.
+2021.
+https://oehha.ca.gov/media/downloads/calenvir-
+oscreen/report/calenviroscreen40reportf2021.pdf [accessed 22 Sep 2023].
+[45] California healthy places index: extreme heat edition. 2022. Technical Report and
+User Guide. https://innovation.luskin.ucla.edu/wp-content/uploads/2022/06/HPI-
+Heat-Edition-Technical-Report-and-User-Guide.pdf. [accessed 22 Sep 2023].
+[46] Climate Change & Health Vulnerability Indicators for California (CCHVIs). 2022.
+https://skylab.cdph.ca.gov/CCHVIz/. [accessed 22 Sep 2023].
+[47] California Heat Assessment Tool (CHAT). 2022. https://www.cal-heat.org/explore
+[accessed 22 Sep 2023].
+[48] Derakhshan S, Bautista TN, Bouwman M, Huang L, Lee L, Tarczynski J, et al. Smart-
+phone locations reveal patterns of cooling center use as a heat mitigation strat-
+egy. Appl Geogr 2023;150:102821. doi: 10.1016/j.apgeog.2022.102821.
+[49] Social vulnerability index (SVI) documentation. Centers for Disease Control and
+Prevention
+(CDC);
+2020
+https://www.atsdr.cdc.gov/placeandhealth/svi/docu-
+mentation/pdf/SVI2020Documentation_08.05.22.pdf [accessed 22 Sep 2023].
+[50] Los Angeles county climate vulnerability assessment. 2021. https://ceo.lacounty.
+gov/wp-content/uploads/2021/10/LA-County-Climate-Vulnerability-Assessment-
+1.pdf [accessed 22 Sep 2023].
+[51] Eisenman D.P., Yu Y., Garcia-Gonzales D., Jerrett M. UCLA heat maps: a tool for
+building California’s climate resilience. University of California, Los Angeles Cen-
+ter for Health Climate Solutions, and Center for Public Health and Disasters 2022.
+https://sites.google.com/g.ucla.edu/uclaheatmaps/about [accessed 22 Sep 2023].
+[52] Fekete A, Rufat S. Should everyone in need be treated equally? a European survey
+of expert judgement on social vulnerability to ﬂoods and pandemics to validate
+multi-hazard vulnerability factors. Int J Disaster Risk Reduct 2023;85:103527.
+doi: 10.1016/j.ijdrr.2023.103527.
+S. Derakhshan, D.P. Eisenman, R. Basu et al.
+The Journal of Climate Change and Health 18 (2024) 100276
+13

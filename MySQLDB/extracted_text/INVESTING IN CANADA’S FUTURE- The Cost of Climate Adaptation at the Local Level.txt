@@ -1,0 +1,3164 @@
+1
+FINAL REPORT - FEBRUARY 2020
+I N V E S T I N G I N C A N A DA’S F U T U R E:
+The Cost of Climate Adaptation
+at the Local Level
+2
+Contents
+Executive Summary	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+1	
+Introduction	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+7
+2	
+What is Climate Change Adaptation?	
+	
+	
+	
+	
+	
+	
+8
+3	
+Why is Climate Change Adaptation Needed?	
+	
+	
+	
+	
+	
+8
+3.1	
+Costs of Climate Change	 	
+	
+	
+	
+	
+	
+	
+8
+3.2	
+Benefits of Climate Change Adaptation	
+	
+	
+	
+	
+	
+13
+3.3	
+Climate Change Adaptation in Canada	
+	
+	
+	
+	
+	
+14
+4	
+Investment in Climate Change Adaptation	 	
+	
+	
+	
+	
+	
+17
+4.1	
+Research Approach	
+	
+	
+	
+	
+	
+	
+	
+18
+4.1.1	
+Collect Adaptation Cost Studies	
+	
+	
+	
+	
+	
+19
+4.1.2	
+Extract Adaptation Cost Estimates		
+	
+	
+	
+	
+19
+4.1.3	
+Obtain/Derive GDP for the Study Locations		
+	
+	
+	
+20
+4.1.4	
+Calculate Adaptation Cost as a Percent of GDP	
+	
+	
+	
+20
+4.1.5	
+Establish a Range of GDP Percentages	
+	
+	
+	
+	
+20
+4.2	
+Results	 	
+	
+	
+	
+	
+	
+	
+	
+	
+20
+4.2.1	
+Adaptation Cost Database	
+	
+	
+	
+	
+	
+20
+4.2.2	
+Adaptation Cost as a Percentage of GDP	
+	
+	
+	
+	
+25
+4.2.2.1	
+Adaptation Cost as a Percentage of GDP for All Studies	
+	
+25
+4.2.2.2	
+Adaptation Cost by Location	
+	
+	
+	
+	
+26
+4.2.2.3	
+Adaptation Cost by Infrastructure	 	
+	
+	
+	
+28
+4.2.2.4	
+Adaptation Cost by Climate Risk	
+	
+	
+	
+	
+29
+4.2.2.5	
+Adaptation Cost by Population	
+	
+	
+	
+	
+29
+4.2.2.6	
+National Level of Investment in Adaptation		
+	
+	
+31
+5	
+Conclusion	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+32
+Appendix A – Climate Impacts to Public Infrastructure	
+	
+	
+	
+	
+	
+35
+Appendix B - The Cost of Future Climate Change Risks	
+	
+	
+	
+	
+	
+39
+Appendix C – Approach for Deriving GDP Estimates	
+	
+	
+	
+	
+	
+40
+Appendix D – List of Administrative Actions	
+	
+	
+	
+	
+	
+	
+41
+Appendix E – Community Profiling	
+	
+	
+	
+	
+	
+	
+	
+45
+Appendix F – Municipal Costs of Extreme Weather	 	
+	
+	
+	
+	
+	
+51
+Appendix G – References	
+58
+3
+Contents
+LIST OF TABLES 
+Table 1. Disaster Financial Assistance Arrangements program	
+	
+	
+	
+	
+11
+Table 2. Projected average annual losses, 2016-2020 ($millions)	
+	
+	
+	
+	
+11
+Table 3. Cumulative losses, DFAA and insurance payments (2005-2014) ($millions 2014)	
+	
+12
+Table 4. Examples of federal adaptation activities	
+	
+	
+	
+	
+	
+	
+15
+Table 5. Examples of provincial/territorial and municipal Adaptation Efforts	
+	
+	
+	
+16
+Table 6. Public and private investment in adaptation	
+	
+	
+	
+	
+	
+17
+Table 7. Communities represented in the climate adaptation cost database	
+	
+	
+	
+21
+Table 8. Cost estimates by infrastructure type	
+	
+	
+	
+	
+	
+	
+22
+Table 9. Cost estimates by climate risk	
+	
+	
+	
+	
+	
+	
+	
+23
+Table 10. Cost estimates by climate risk and infrastructure type	
+	
+	
+	
+	
+24
+Table 11. Estimate of national adaptation investment	
+	
+	
+	
+	
+	
+31
+LIST OF FIGURES
+Figure 1. Catastrophic Insured Losses from Natural Disasters, 1983 to 2019 (VALUES in 2019 CAN$)	
+9
+Figure 2. Catastrophic losses from natural disasters, 1980-2016 (values in US$2016)	
+	
+	
+10
+Figure 3. Climate adaptation spending as a percent of city GDP, 2014/2015	
+	
+	
+	
+18
+Figure 4. Overview of approach for assessment of climate adaptation costs	
+	
+	
+	
+18
+Figure 5. Number of communities in the climate adaptation cost database by region	 	
+	
+21
+Figure 6. Number of community cost estimates by cost of adaptation as a percentage of GDP	 	
+25
+Figure 7. Adaptation cost as a percentage of GDP  by region		
+	
+	
+	
+	
+27
+Figure 8. Adaptation cost as a percentage GDP by infrastructure type	
+	
+	
+	
+28
+Figure 9. Adaptation cost as a percentage of GDP by climate risk	
+	
+	
+	
+	
+29
+Figure 10. Number of community cost estimates by population	
+	
+	
+	
+	
+30
+Figure 11. Adaptation cost as a percentage of GDP by population	
+	
+	
+	
+	
+30
+Acknowledgements 
+Green Analytics Corp. was commissioned by the Federation of Canadian Municipalities (FCM) and Insurance Bureau 
+of Canada (IBC) to establish a credible estimate of investment in climate change disaster adaptation infrastructure 
+to reduce the cost of climate change in Canada.
+4
+Executive Summary 
+Climate change is increasing the frequency and severity of extreme weather events across Canada. In 2019, the 
+federal government released the report Canada’s Changing Climate. It found that the annual average temperature 
+in Canada has increased by 1.7°C since 1948, with higher temperature increases in Canada’s North, the Prairies 
+and northern British Columbia. While every region in Canada experiences the impacts of the warming climate 
+differently, evidence indicates an increase in the severity of heat waves and drought, more frequent and intense 
+rainfall events, changes in snow and ice cover, and more frequent and intense storm surges in coastal regions. For 
+Canada and its economy, the consequences are severe. While a number of studies have attempted to measure the 
+cost of climate change in terms of the damage it will cause or the impact it will have on the economy, there is more 
+to be done to estimate the cost of adapting to climate change.
+Climate change adaptation, or disaster mitigation, means taking strategic actions to reduce a community’s 
+vulnerability to the impacts of climate change. In the past decade, climate adaptation in Canada has progressed 
+from research, to public engagement, to actions to reduce the impacts of climate change. All levels of government 
+have developed climate change adaptation strategies and are investing in specific adaptation measures. The 
+Federation of Canadian Municipalities (FCM) and Insurance Bureau of Canada (IBC) commissioned Green 
+Analytics to establish a credible estimate of the investment in municipal infrastructure and local adaptation 
+measures needed to reduce the impacts of climate change in Canada. 
+Municipalities, as the owners and operators of 60% of the public infrastructure in Canada, are on the frontlines 
+of both the impacts of climate change and the solutions to protect Canadians. However, addressing climate risks 
+by retrofitting existing infrastructure and implementing new adaptation measures poses an additional burden 
+on the limited financial capacity of municipalities. Municipalities cannot shoulder the cost of adapting to climate 
+change alone. Climate change adaptation is a shared responsibility among all orders of government, and will 
+require a long-term commitment to action. This study is the first attempt to estimate the long-term need for 
+investment in climate change adaptation measures at the local level.
+METHODOLOGY:
+To estimate how much investment is required to help communities adapt to climate change and reduce disaster 
+risk, Green Analytics collected adaptation cost estimates for a variety of communities across Canada and housed 
+those estimates in an adaptation cost database. The estimates were based on vulnerability and risk assessments 
+done at the local level, usually by a municipality. The adaptation cost estimates were adjusted to allow them to be 
+compared between communities and added up at the national level. Other information in the database for each 
+adaptation cost estimate includes location, such as province or territory; infrastructure type, such as buildings, 
+green infrastructure, roads and water treatment; and climate risk, such as drought, erosion, flood, heat wave and 
+wildfire. The final database contained 414 adaptation cost estimates for 34 communities across the country. For each 
+community, the gross domestic product (GDP) values were obtained or established and added to the database. The 
+cost of adapting to climate change was then determined relative to the size of the local economy, expressed as a 
+percentage of local GDP. 
+5
+Finally, the adaptation cost as a percentage of local GDP collected for each community within a region of the country 
+(West, Prairies, North, Central, East) was analyzed to determine the average percentage for that region. The five regional 
+percentages were then weighted by the region’s respective share of the national GDP. Combined, these regional 
+results were added together to obtain a national estimate of the cost of adaptation as a percentage of national GDP. 
+RESULTS:
+The analysis determined that an average annual investment in municipal infrastructure and local adaptation 
+measures of $5.3 billion is needed to adapt to climate change. In national terms, this represents an annual expenditure 
+of 0.26% of GDP. This estimate represents the total annual cost of the actions that need to be taken at the local level for 
+public infrastructure. These investments would typically be cost-shared between each order of government. Given 
+the scale of the long-term cost of adapting to climate change, public funding may need to be leveraged by new 
+forms of private capital. Flood, erosion and permafrost melt are associated with the highest cost as a percentage 
+of GDP at 1.25%, 0.12% and 0.37%, respectively. These climate risks require the greatest investment in adaptation. 
+From an infrastructure perspective, buildings, dikes and roads require the greatest investment in adaptation; 
+they are associated with the highest costs as a percentage of GDP at 2.01%, 1.18% and 0.47%, respectively. Grey 
+infrastructure has the highest average cost at 0.75%, green infrastructure has an average cost of 0.05% and soft 
+infrastructure (or administrative action) has an average cost of 0.03%. From a regional perspective, Canada’s East, 
+at 3.20%, and North, at 0.37%, have higher average costs. The four highest costs as a percentage of GDP in the 
+database are coastal communities in Eastern Canada. 
+The results of this research, finding an annual average investment equivalent to 0.26% of national GDP, generally 
+align with historical investments made by leading cities outside of Canada, and with international research on 
+future needs. In 2014-15, the cities of London, New York and Paris spent approximately 0.22% of their respective 
+GDP on public and private expenditures on climate change adaptation. Looking forward, an international 
+assessment concluded that countries should be spending between 0.60% and 1.25% of GDP on adaptation 
+measures to minimize the worst impacts of climate change across sectors of the economy, including but not limited 
+to municipally owned infrastructure.
+This research is the first attempt to quantify what Canadian governments need to be spending on local disaster 
+mitigation and adaptation projects to reduce the impacts of climate change. In releasing this report, IBC and FCM 
+hope to contribute to the growing body of knowledge on climate change adaptation in the Canadian context. The 
+cost of climate change adaptation will continue to be better understood as more data on adaptation investments 
+becomes available and additional research along these lines is undertaken. While better data and additional 
+research will further clarify long-term costs, what this research clearly shows is that an ambitious long-term climate 
+adaptation investment plan—including infrastructure funding commitments and efforts to improve local capacity 
+to better assess climate risk as called for by both IBC and FCM—is urgently needed now.
+6
+7
+Introduction
+The cost of climate change is rising in Canada. The Government of Canada’s 2019 report, Canada’s Changing Climate, 
+documenting the latest evidence of a changing climate, found that the annual average temperature in Canada 
+increased by 1.7°C since 1948, when nation-wide records became available. Higher temperature increases have 
+occurred in Canada’s North, the Prairies and northern British Columbia. While regions in Canada experience impacts 
+of a warming climate differently, evidence indicates an increase in the severity of heatwaves and drought, more 
+intense rainfall events, changes in snow and ice cover and greater storm surges in coastal regions. The 2019 report 
+concluded that trends of more frequent and intense weather extremes will continue, increasing flood and wildfire 
+risks, among other impacts.1 The potential consequences to the well-being of Canadians and our economy are 
+severe. 
+Public infrastructure is particularly vulnerable to impacts from climate change as municipalities in Canada struggle 
+with the cost of maintaining these crucial assets. As of 2016, one-third of Canadian municipal infrastructure was 
+considered to be in fair, poor or very poor condition.2 However, research is showing that investments in adaptation 
+and risk mitigation measures can help ensure Canadian communities are resilient to threats caused by a changing 
+climate, including risks to our public infrastructure. Some studies have shown a return on investment around 6:1, 
+meaning that for every dollar invested in mitigation measures, $6 is saved in future damages.  
+Given the benefits of investing in disaster mitigation and adaptation, what is the level of investment that federal, 
+provincial/territorial, and municipal governments should be making? International research of investment rates in 
+climate adaptation measures in the United States, United Kingdom and the European Union suggests that national 
+governments need to be investing 0.66-1.25% of GDP in adaptation measures to minimize the worst impacts of 
+extreme weather events.3 As a percentage of Canada’s GDP in 2018, this would be $13.5-$25.6 billion per year. 
+However, a national level study of investment on adaptation measures in Canada is currently lacking, both in terms 
+of how much Canada is already spending on adaptation and how much Canada should be spending. The goal of 
+this research project was therefore to start to answer the latter question and gain a better understanding of the 
+level of investment needed for disaster mitigation and climate change adaptation measures in Canada.
+1 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+2 Canadian Infrastructure Report Card, 2016, available at: http://canadianinfrastructure.ca/downloads/Canadian_Infrastructure_Report_2016.pdf
+³ Martinez-Diaz, L., 2018, Investing in resilience today to prepare for tomorrow’s climate change. Bulletin of the Atomic Scientists, 74:22, pp. 66-72.
+SECTION 1
+8
+What is Climate Change Adaptation?
+Why is Climate Change 
+Adaptation Needed?
+Adaptation is any alteration in the structure or function of something or any of its parts that makes it better 
+suited for its environment. In the context of climate change, this means adjusting to projected or actual changing 
+climates to become more resilient to those changes. While there are numerous working definitions of climate 
+adaptation,4,5,6 the common theme is that adaptation is a response to climate impacts. Many definitions also 
+recognize the intent of adaptation, which is to reduce the negative effects of climate change. The European 
+Commission and European Environment Agency differentiate between three types of adaptation: grey, green and 
+soft. Grey adaptation focuses on human-made physical infrastructure such as dikes, sea walls, expanded water 
+treatment capacity and fire-resistant building materials. Green adaptation includes protecting, strengthening 
+and modifying natural systems such as wetlands, mangroves, forests and soil nutrition. Soft adaptation, on the 
+other hand, focuses on legal, socio-cultural, political and financial management policies and systems that enable 
+adaptation.7 Climate adaptation is unique from climate change mitigation, which focuses on activities that 
+reduce or eliminate the release of greenhouse gases that contribute to climate change.⁸  
+To date, the majority of efforts to combat climate change have focused on the mitigation side, reducing or eliminating 
+the release of greenhouse gases that contribute to climate change itself. However, as the 2019 Canada’s Changing 
+Climate report demonstrates, communities in Canada are already facing the impacts of climate change and so while 
+adaptation can have many benefits, including employment, reduced energy costs, improved air and water quality, 
+and improved livability,9 one of the main benefits is avoiding the high cost of the predicted climate change impacts. 
+3.1 COSTS OF CLIMATE CHANGE
+In 2011, the National Round Table on Environment and Economy (NRTEE) estimated the economic impacts of 
+climate change for Canada to be $5 billion per year by 2020 and between $21 billion and $43 billion per year 
+by 2050, assuming a global warming scenario of slightly under 2°C. That report, however, only focused on three 
+key areas–flooding damages to coastal dwellings resulting from climate change–induced sea level rise and storm 
+surges, timber supply impacts through changes in pests and fires, and health care system costs due to poorer air 
+quality in Toronto, Montreal, Vancouver and Calgary.10 A more comprehensive assessment of the current costs of 
+climate change given more recent knowledge and data is likely to be much higher.
+SECTION 2
+SECTION 3
+4 Feltmate, B. and J. Thistlewaite, Climate Change Adaptation: A Priorities Plan for Canada, Report of the Climate Change Adaptation Project (Canada).
+5 IPCC, 2007, Climate Change 2007: Synthesis Report, Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on 
+Climate Change [Core Writing Team, Pachauri, R.K and Reisinger, A. (eds.)]. IPCC, Geneva, Switzerland.
+6 Warren, F.J. and Lemmen, D.S., 2014, Synthesis. In F.J. Warren and D.S. Lemmen (Eds.), Canada in a changing climate: Sector perspectives on impacts and adaptation, 
+Ottawa, ON: Government of Canada.
+7 Climate-ADAPT, 2018, Adaptation Options. European Commission and European Environment Agency. Retrieved from: https://climate-adapt.eea.europa.eu/
+knowledge/adaptation-information/adaptation-measures
+8 Feltmate, B. and J. Thistlewaite, Climate Change Adaptation: A Priorities Plan for Canada, Report of the Climate Change Adaptation Project (Canada).
+9 City of Surrey, City of Surrey Climate Adaptation Strategy. 
+10 National Round Table on Environment and Economy. 2011. Paying the Price: The Economic Impacts of Climate Change for Canada. 
+9
+Now that the original forecast date of 2020 has been reached, support for this significant estimate by the NRTEE 
+can be seen in the data on insurance payouts and disaster financial assistance. Insurance Bureau of Canada (IBC) 
+reports insurable losses dating back to 1983. The time series data in Figure 1 clearly indicates a rising trend in 
+insurance payouts as a result of natural disasters. For nine of the last ten years (2010-2019), insurance payouts 
+for catastrophic losses from natural disasters have exceeded $1 billion per year. For the 26 years prior to 2009, 
+insurable payouts averaged $400 million per year. 
+However, insured losses only account for a portion of the full costs attributed to catastrophic weather-related events. 
+An accepted standard for capital losses is for every dollar of losses borne by insurers in Canada, $3-4 are borne by 
+governments, households and businesses.11 The spread will vary depending on the type of catastrophic event. For 
+example, insurance policies are less likely to cover flood protection versus fire protection.12 The spread of losses 
+borne by governments, households and businesses would be even greater if indirect costs were included. Figure 2 
+provides an example of the additional costs associated with uninsurable losses from catastrophic events in Canada.
+11 Moudrak, N., Feltmate, B., Venema, H., Osman, H. 2018. Combating Canada’s Rising Flood Costs: Natural infrastructure is an underutilized option. Prepared 
+for Insurance Bureau of Canada. Intact Centre on Climate Adaptation, University of Waterloo.
+12 Moudrak, N.; Feltmate, B. 2017. Preventing Disaster Before It Strikes: Developing a Canadian Standard for New Flood-Resilient Residential Communities. 
+Prepared for Standards Council of Canada. Intact Centre on Climate Adaptation, University of Waterloo.
+FIGURE 1. CATASTROPHIC INSURED LOSSES FROM NATURAL DISASTERS, 1983 TO 2019 
+(VALUES IN 2019 CAN$)
+*Insured losses for a given disaster are deemed catastrophic when they total $25 million or more.
+Catastrophic losses for a year are the sum total of insured losses from these natural disasters. 
+Source: Insurance Bureau of Canada
+$ BILLION
+5.5
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+LOSS + LOSS ADJUSTMENT EXPENSES
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+10
+Evidence of the growing cost of climate change in Canada is also demonstrated by the trend in government 
+sponsored disaster relief payments. The rising severity of extreme weather events has led to a significant increase 
+in provinces and territories seeking assistance under the federal Disaster Financial Assistance Arrangements (DFAA) 
+program. The program was set up in 1970 to help provinces and territories recover from natural disasters. The Office 
+of the Auditor General Canada reports that from 2009 to 2015, DFAA’s compensation to the provinces and territories 
+was greater than the previous 39 fiscal years combined.13 The fund’s payouts for the past five years (2013-2014 to 
+2017-2018) totalled $3.3 billion.14 The increase in DFAA costs over the past 10 years is attributed to more extreme 
+weather events with greater intensity.15 Recognizing its escalating liability associated with the DFAA program, in 
+2015 the Government of Canada changed the expense thresholds at which federal funding is triggered (Table 1). 
+These threshold changes reduce the share of disaster-related recovery costs borne by the federal government and 
+shift those costs to municipal and provincial governments, homeowners and businesses in impacted regions.16
+13 Office of the Auditor General Canada. 2016. Spring 2016 Reports of the Commissioner of the Environment and Sustainable Development, Report 2: 
+Mitigating the Impacts of Severe Weather Events. Also reported in Moudrak et al., 2018. 
+14 Parliamentary Budget Officer of Canada. 2016. Estimate of the Average Annual Cost for Disaster Financial Assistance Arrangements due to Weather Events.
+15 Parliamentary Budget Officer of Canada. 2016. Estimate of the Average Annual Cost for Disaster Financial Assistance Arrangements due to Weather Events.
+16 Public Safety Canada. 2019. Guidelines for the Disaster Financial Assistance Arrangements (DFAA). [online] Available at: https://www.publicsafety.gc.ca/
+cnt/mrgnc-mngmnt/rcvr-dsstrs/gdlns-dsstr-ssstnc/index-en.aspx
+FIGURE 2. CATASTROPHIC LOSSES FROM NATURAL DISASTERS, 
+1980-2016 (VALUES IN US$2016) 
+*costliest event(s) in the respective year 
+Source: From Moudrak, N.; Feltmate, B. 2017. Based on 2017 Munich Re, Geo Risks Research, NatCatSERVICE. As of February 2017.
+US$ BILLION
+8
+6
+4
+2
+0
+UNINSURED LOSSES
+(in 2016 values)
+INSURED LOSSES
+(in 2016 values)
+WINTER
+ DAMAGE*
+WILDFIRE,
+FLOODS*
+SEVERE STORM,
+ TORNADOES, FLOODS*
+FLOODS*
+ICE STORM*
+FLOODS*
+WILDFIRE*
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+11
+A 2016 report by the Parliamentary Budget Officer (PBO) projected the costs for disaster financial assistance 
+arrangements due to weather events for 2016 to 2020 at $4.9 billion of which DFAA would cover $902 million, or 
+18%. The analysis considered hurricanes, floods, convective storms (hail, rain and wind) and winter storms. Wildfires, 
+which can be a result of dry weather associated with climate change and can trigger DFAA support, were not included. 
+Floods accounted for the largest percentage of the projected annual DFAA costs at $673 million (Table 2).
+As part of the report, the PBO also completed a historical assessment of cumulative losses and DFAA and insurance 
+payments from extreme weather events for the period 2005 to 2014. Total cumulative losses were estimated to be 
+$31 billion, of which 16% were covered by DFAA and 47% were covered by insurance payments. It can therefore be 
+inferred that the outstanding $11 billion in losses (37%) were borne by households, businesses, and municipal and 
+provincial governments in affected regions (Table 3).17
+17 Parliamentary Budget Officer of Canada. 2016. Estimate of the Average Annual Cost for Disaster Financial Assistance Arrangements due to Weather Events.
+TABLE 1. DISASTER FINANCIAL ASSISTANCE ARRANGEMENTS PROGRAM ($DOLLARS) 
+TABLE 2. PROJECTED AVERAGE ANNUAL LOSSES, 2016-2020 ($MILLIONS)
+Source: Public Safety Canada. 2019.
+$0 to $1
+$1 to $3
+$3 to $ 5
+$5 plus
+DFAA ASSISTANCE
+PRIOR TO FEBRUARY 2015
+DFAA THRESHOLD LEVELS
+AS OF JANUARY 2019
+FEDERAL
+SHARE
+PROVINCIAL
+SHARE
+$0 to $3.19
+$3.19 to $6.39
+$6.39 to $ 12.78
+$12.78 plus
+0%
+50%
+75%
+90%
+100%
+50%
+25%
+10%
+Source: Parliamentary Budget Officer of Canada. 2016.
+WEATHER EVENT
+PROJECTED ANNUAL LOSS
+DFAA PORTION
+$98.7
+$671
+$1,720
+$2,430
+$4,920
+$19.0
+$1.83
+$208
+$673
+$902
+Hurricanes
+Convective storms
+Winter storms 
+Floods 
+Total 
+12
+While cost assessments of extreme weather events typically report insurable losses and/or direct capital losses 
+only, damages to infrastructure cascade into other losses. As an example, productivity losses resulting from 
+damaged infrastructure are substantial. A 2016 economic analysis of the cost of flooding in Canada estimated 
+productivity losses ranging from 27% to 42% of capital costs depending on the severity of the flooding event 
+and length of recovery period.18
+Statistics Canada completed a detailed analysis on the impact of flooding in Southern Alberta in June 2013 on 
+hours worked in the province. The analysis found that during the last two weeks in June, 300,000 Albertans (or 
+13.5% of the employed population in Alberta) working in the private sector lost 7.5 million hours of work due to 
+workplace closures because of the flood event.19 Damages to infrastructure caused by extreme weather events can 
+hinder broader economic activity that is not captured by replacement cost estimates. When such costs are taken 
+into account, adaptation measures become even more justifiable.  
+Not surprisingly, given the trends presented above, the rising occurrence of extreme weather events attributed to 
+climate change is leading to higher costs for municipal insurance policies. Henstra and Thistlewaite (2017) note that 
+increased premiums, higher deductibles and changes to municipal insurance policies limiting liability followed the 
+large insured and uninsured losses in 2013. As examples, the authors reference the Toronto and Calgary municipal 
+policies. The Toronto policy (2015) cost $5.1 million with a deductible of $5 million providing $100 million in liability 
+coverage and $1.8 billion for property damage. Calgary’s policy, after the 2013 flood event, included a loss limit of 
+$700 million for damage to property, with a deductible of $2 million.20 In Ontario between 2007 and 2016, municipal 
+liability premiums increased by 22.2% to account for increased liability coverage. 
+Home policies are going up as well. Climate change was cited as the reason for insurance companies across Canada 
+increasing home insurance rates for 2019 by 5-10% on top of inflation. In addition, premiums and deductibles for 
+sewer backup and overland flood insurance have also increased.21 Elsewhere, insurers have warned that climate 
+change may make insurance coverage for most people unaffordable. This proclamation came after $24 billion in 
+losses resulted from wildfires in California.22
+18 Davies, J. 2016. Economic analysis of the costs of flooding. Canadian Water Resources Journal / Revue canadienne des ressources hydriques, 41:1-2, 204-219.  
+19 Government of Alberta, Alberta Enterprise & Advanced Education. 2013. Impact of Southern Alberta Flooding on Hours Worked and GDP. Alberta Government 
+Economic Commentary. Available online: www.albertacanada.com/files/albertacanada/SP-Commentary_09-06-13.pdf . 
+20 Henstra, D., and Thistlewaite, J. 2017. Climate Change, Floods, and Municipal Risk Sharing in Canada. Munk School of Global Affairs (UoT). [online] Available at: 
+https://munkschool.utoronto.ca/imfg/uploads/373/1917_imfg_no_30_online_final.pdf
+21 Osental, D. 2019. Broker points to climate change as reason for rising home insurance rates. Insurance business industry magazine. 2019. 
+22 https://www.theguardian.com/environment/2019/mar/21/climate-change-could-make-insurance-too-expensive-for-ordinary-people-report
+TABLE 3. CUMULATIVE LOSSES, DFAA AND INSURANCE PAYMENTS 
+(2005-2014) ($MILLIONS 2014)
+Source: Parliamentary Budget Officer of Canada. 2016.
+Total loss
+DFAA
+Insurance
+Outstanding
+FLOODS
+CONVECTION
+STORMS
+HURRICANES
+WINTER STORMS
+TOTAL
+LOSSES
+% OF 
+TOTAL
+$12,505
+$3,465
+$4,982
+$4,058
+$7,314
+$20
+$5,726
+$1,568
+$718
+$138
+$436
+$144
+$10,452
+$1,267
+$3,552
+$5,633
+$30,989
+$4,890
+$14,696
+$11,403
+100%
+28%
+40%
+32%
+100%
+0%
+78%
+21%
+100%
+19%
+61%
+20%
+100%
+12%
+34%
+54%
+100%
+16%
+47%
+37%
+LOSSES
+LOSSES
+LOSSES
+LOSSES
+% OF 
+TOTAL
+% OF 
+TOTAL
+% OF 
+TOTAL
+% OF 
+TOTAL
+13
+3.2 BENEFITS OF CLIMATE CHANGE ADAPTATION
+With the evidence piling up on the actual and predicted costs of climate change, the benefit of climate adaptation in 
+reducing those costs becomes very important. The 2016 Office of the Auditor General’s report on federal government 
+support for mitigating the effects of severe weather notes the potential cost effectiveness of disaster mitigation 
+measures for government and society, citing Public Safety Canada’s estimate that every dollar invested in mitigation 
+in Canada saves $3 to $5 in recovery costs. As an example, the report notes the $63 million invested to build the 
+Manitoba Red River Floodway in 1960, which is estimated to have saved $8 billion by 2008 in avoided flood recovery 
+costs.23 In 2017/2018 the US National Institute of Buildings Sciences looked at the results of 23 years of federally funded 
+mitigation grants provided by the Federal Emergency Management Agency (FEMA), U.S. Economic Development 
+Administration (EDA) and U.S. Department of Housing and Urban Development (HUD) and found mitigation funding 
+can save the nation $6 in future disaster costs, for every $1 spent on hazard mitigation.24 
+The NRTEE (2011) found that adaptation strategies are cost, effective ways to reduce the economic impacts of climate 
+change ranging in a benefit-to-cost ratio of 38:1 under a high climate change, high growth scenario, to 9:1 under a 
+low climate change, slow growth scenario. In coastal areas, for example, prohibiting new construction in areas at risk 
+of flooding as well as undertaking strategic retreat by gradually abandoning dwellings once flooded, reduces the 
+costs of climate change to only 3-4% of what the costs would have been without adaptation. The NRTEE also found 
+that the cost to build a new house, bridge or transmission line that is adapted to climate change for its lifecycle only 
+adds 0-5% to the construction costs.  This is significantly cheaper than retrofitting buildings, or restoring or rebuilding 
+infrastructure post-damage. The 0-5% addition to the construction cost range is generally recognized as a rule of 
+thumb for the cost of incorporating adaptation initiatives into the design of a new structure.  
+Demonstrating the value of administrative adaptation measures (or soft infrastructure), Green Analytics 
+estimated the value of Ontario flood plain regulations (Section 28 of the Conservation Authorities Act).25 The 
+study drew on evidence from a study of the potential impact of flooding on the City of Waterloo prepared by 
+the Intact Centre for Climate Adaptation. The Intact analysis examined the expected property damage to the 
+333 structures located within the Regulatory Laurel Creek floodplain resulting from a flood proportionate to 
+Hurricane Hazel. The projected direct damages to these buildings was estimated at $85 million.26 A subsequent 
+analysis of productivity losses associated with a Hurricane Hazel flood of Laurel Creek assuming a six-month 
+recovery period estimated such losses at $17 million.27
+Green or natural infrastructure also holds significant promise as an adaptation measure to reduce the cost of climate 
+impacts. Green infrastructure is often considered an umbrella term that includes natural infrastructure (wetlands, forests, 
+shorelines), enhanced natural infrastructure (bioswales, rain gardens, urban parks) and engineered infrastructure (green 
+roofs, rain barrels, permeable pavement).28 Research confirms that investments in natural infrastructure in particular is an 
+effective adaptation strategy. For example, a study by the Intact Centre on Climate Adaptation demonstrated that natural
+23 Office of the Auditor General of Canada. 2016.
+24 National Institute of Building Sciences. 2018. Natural Hazard Mitigation Saves: 2018 Interim Report. Retrieved from: https://www.nibs.org/page/mitigationsaves
+25 Green Analytics, 2018, Economic Benefits of Floodplain Regulation. A report prepared for the Ontario Ministry of Natural Resources.
+26 Moudrak, N.; Hutter, A.M.; Feltmate, B. 2017. When the Big Storms Hit: The Role of Wetlands to Limit Urban and Rural Flood Damage. Prepared for the Ontario 
+Ministry of Natural Resources and Forestry.
+Intact Centre on Climate Adaptation, University of Waterloo.
+27 Green Analytics, 2019, Productivity Analysis of Floodplain Regulation. A report prepared for the Ontario Ministry of Natural Resources.
+28 Municipal Natural Assets Initiative, 2017, Defining and Scoping Municipal Natural Assets
+14
+wetlands can reduce the costs of flood damage by 29% in rural areas and 38% in urban areas.29 The community of 
+Gibsons, BC, recognizing the importance of their natural infrastructure, was the first municipality in North America 
+to declare natural infrastructure assets as municipal assets.30 The town then committed to operate and maintain its 
+natural assets in the same manner as storm sewers, roads and other traditional engineered assets.50 An assessment 
+of the naturally occurring ponds in the town’s White Tower Park found that the ponds provided the same stormwater 
+management services as engineered assets that would have cost about $3.5 million to $4 million to construct. These 
+assessments led Gibsons to protect its ponds from proposed new housing developments in order to save the capital 
+costs of constructing engineered stormwater infrastructure. Other Canadian communities are now following suit, 
+adapting the framework initiated by Gibsons and developed through the Municipal Natural Assets Initiative (MNAI) 
+and employing green infrastructure as an adaptation strategy.
+3.3 CLIMATE CHANGE ADAPTATION IN CANADA 
+Climate adaptation is increasing in the country as it has been recognized as a necessary response to climate change; 
+one that enhances the resilience of Canadians to climate change impacts.31 Experience in Canada clearly demonstrates 
+that there is a solid awareness in the country of the impacts of climate change and the need to adapt.  There is also 
+increasing evidence that resources are being mobilized and capacity is building to adapt through various federal, 
+provincial, territorial and local government adaptation plans as well as consortiums and collaborative efforts related 
+to adaptation (e.g., Pacific Climate Impacts Consortium). 
+As an example, in response to the urgent need for adaptation measures to protect municipal infrastructure, 23 
+Canadian municipalities are part of ICLEI Canada’s Building Adaptive and Resilient Communities (BARC) program. The 
+program provides a framework and comprehensive planning methodology to support municipalities in developing 
+and implementing climate change adaptation plans.32 Climate change impacts that ranked highest among BARC 
+member municipalities that have completed climate adaptation plans include:  
+•   More frequent freezing and thawing causing damage to roads, sidewalks, bridges and stormwater ponds.
+•   Overburdened stormwater systems caused by intense precipitation events.
+•   Damage to transportation infrastructure and public property due to flooding. 
+•   Damage to electrical distribution systems and parks and greenspaces as a result of more severe storms. 
+Among the BARC program municipalities that have completed climate adaptation plans, all recognize the exposure of 
+public infrastructure to climate change impacts as a rationale for adaptation measures and strong action. 
+29 Moudrak, N.; Hutter, A.M.; Feltmate, B. 2017. When the Big Storms Hit: The Role of Wetlands to Limit Urban and Rural Flood Damage. Prepared for the Ontario Ministry 
+of Natural Resources and Forestry. Intact Centre on Climate Adaptation, University of Waterloo.
+30 Town of Gibsons, Towards an Eco-Asset Strategy in the Town of Gibsons. Retrieved from: https://mnai.ca/media/2018/01/EcoAsset_Strategy.pdf
+31 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+32 ICLEI. BARC Program.[online] Available at: http://icleicanada.org/programs/adaptation. 
+15
+Progress is less evident in the implementation of adaptation measures.33 According to the most recent national 
+assessment of Climate Change Adaptation, the majority of adaptation measures assessed in Canada involved 
+research, monitoring, assessing vulnerabilities and opportunities, developing strategies and mainstreaming 
+adaptation within existing policies and planning. The balance of the measures were implemented to prevent or 
+offset harm from climate-related risks.34 Table 4 summarizes some of the main federal adaptation efforts, while 
+Table 5 provides examples of provincial and municipal structural adaptation implementation.
+33 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+34 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+35 https://www.canada.ca/en/services/environment/weather/climatechange/pan-canadian-framework.html
+36 https://www.canada.ca/en/environment-climate-change/services/climate-change/federal-adaptation-policy-framework.html
+37 https://www.nrcan.gc.ca/climate-change/impacts-adaptations/adapting-our-changing-climate/10027
+38 https://www.publicsafety.gc.ca/cnt/mrgnc-mngmnt/dsstr-prvntn-mtgtn/ndmp/index-en.aspx
+39 https://www.infrastructure.gc.ca/plan/crbcpi-irccipb-eng.html
+TABLE 4. EXAMPLES OF FEDERAL ADAPTATION ACTIVITIES
+TITLE
+DESCRIPTION
+Pan-Canadian Framework on Clean 
+Growth and Climate Change
+Federal Adaptation Policy 
+Framework 
+Arctic Policy Framework
+Emergency Management Strategy for 
+Canada: Towards a Resilient 2030
+Canada’s Climate Change 
+Adaptation Platform
+Disaster Mitigation and 
+Adaptation Fund (DMAF)
+National Disaster Mitigation 
+Program (NDMP)
+Climate-Resilient Buildings and Core 
+Public Infrastructure Initiative
+The federal government’s climate change plan, developed with the provinces, territories and Indigenous Peoples. 
+The plan describes emission reduction and resilient building initiatives including climate adaptation actions.35
+This framework guides domestic action by the Government of Canada to address adaptation to the impacts of climate 
+variability and change. It sets out a vision for adaptation in Canada, objectives, roles of the federal government and 
+provides criteria for setting priorities for action.36
+Looking ahead to the year 2030, the framework will guide the federal government’s involvement in the North, 
+including supporting adaptation action.
+The strategy is a collaborative, whole-of-society roadmap to strengthen Canada’s ability to assess risks, prevent/
+mitigate, prepare for, respond to and recover from disasters.
+Established in 2012, Canada’s Climate Change Adaptation Platform is a national forum that brings together key 
+groups in Canada to collaborate on climate change adaptation priorities. Members include representatives from 
+federal, provincial, and territorial governments, industry, communities, academics, and Indigenous, professional, 
+and not-for-profit organizations.37
+Funding for built and natural, large-scale infrastructure projects that help build the resilience of infrastructure to 
+natural disasters, extreme weather events and climate change.
+Budget 2014 earmarked $200 million over five years, from 2015 to 2020, to establish the NDMP. The NDMP addresses 
+rising flood risks and costs, and builds the foundation for informed mitigation investments that could reduce, or even 
+negate, the effects of flood events.38
+This initiative will develop capacity in Canada’s construction industries to adapt to the demands on built infrastructure 
+attributed to climate change. The program is intended to drive innovation and provide partners with the knowledge 
+and tools they need to make sound decisions about how to design, operate, and maintain their infrastructure assets.39
+16
+40 Lemmen, D.S., Warren, F.J., James, T.S. and Mercer Clarke, C.S.L. editors, 2016, Canada’s Marine Coasts in a Changing Climate; Government of Canada, Ottawa, ON.
+41 Palko, K., 2017, Synthesis. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 2016 (pp. 12-25). 
+Ottawa, ON: Government of Canada.
+42 Lemmen, D.S., Warren, F.J., James, T.S. and Mercer Clarke, C.S.L. editors, 2016, Canada’s Marine Coasts in a Changing Climate; Government of Canada, Ottawa, ON.
+43 Lemmen, D.S., Warren, F.J., James, T.S. and Mercer Clarke, C.S.L. editors, 2016, Canada’s Marine Coasts in a Changing Climate; Government of Canada, Ottawa, ON.
+44 Palko, K., 2017, Synthesis. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 2016 (pp. 12-25). 
+Ottawa, ON: Government of Canada.
+45 Palko, K., 2017, Synthesis. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 2016 (pp. 12-25). 
+Ottawa, ON: Government of Canada.
+46 Palko, K., 2017, Synthesis. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 2016 (pp. 12-25). 
+Ottawa, ON: Government of Canada.
+TABLE 5. EXAMPLES OF PROVINCIAL/TERRITORIAL AND MUNICIPAL 
+ADAPTATION EFFORTS
+LOCATION
+DESCRIPTION
+Halifax, NS
+Surrey, BC
+Ottawa, ON
+British Columbia
+Northwest Territories
+New Brunswick
+Quebec
+The Municipal Planning Strategy and Land Use By-Law for the downtown Halifax waterfront area prescribes 
+minimum elevation for any ground-floor development – to protect against sea level rise and flooding.40
+To help their coastal communities become more resilient, the city is developing a Coastal Flood Adaptation Strategy 
+(CFAS) for Surrey’s coastal floodplain area. The flood adaptation measures will increase flood resilience and protect 
+over 125,000 commuters, residents, homes and businesses who are at high risk of coastal flooding.
+Norman Wells Airport and Ottawa International Airport have grooved their runways to improve traction and drainage 
+during heavy precipitation. 41
+British Columbia provincial guidelines for development in flood-risk areas identify the need for Flood Construction 
+Levels in line with the increased risk presented by sea-level rise. 42
+The Northwest Territories Housing Corporation is adapting housing construction to protect against melting 
+permafrost through the use of new foundation systems (e.g., using larger diameter and deeper pile installations) 
+designed to better respond to and absorb the additional stress caused by shifts in the ground beneath buildings. 
+The use of thermosyphons (that keep permafrost cold through passive heat exchange) and other technologies to 
+preserve permafrost are also being used.43
+The New Brunswick Department of Transportation rebuilt and raised a bridge on the main road into Pointe-du-Chêne 
+to accommodate future sea level rise.44
+The Quebec Ministry of Transportation has oversized the diameter of culverts by 10% to help manage heavy 
+precipitation events.45 
+The Quebec Ministry of Transportation has introduced a thermal monitoring program for 13 airport runways in 
+Nunavik that are built on land sensitive to permafrost thaw.46 
+17
+This chapter presents the results of an examination of the cost of adaptation in Canada. The objective was to generate 
+a credible estimate of the level of investment that government should be making in municipal infrastructure and 
+other adaptation measures at the local level to reduce the cost of climate change impacts in Canada.
+ 
+As outlined above, numerous studies confirm that investments in adaptation and risk mitigation projects provide 
+a payback in abated future disaster and climate change related costs.47 However, despite the importance of 
+adaptation as a strategy to address climate impacts, and the evidence of significant cost avoidance, a limited 
+number of studies have quantified the cost of pursuing adaptation measures. Those that have been completed 
+are mostly at a global scale, such as the 2010 World Bank study which estimated the global annual cost of 
+adaptation at between $70 billion and $100 billion up to 2050 (in 2005 dollars). Following a similar methodology, 
+annual adaptation costs have been estimated to be approximately $40 billion in Asia and the Pacific over the 
+period 2010-2050.48 The United Nations estimates that industrialized countries would have to spend $22-105 
+billion annually by 2030 on adaptation to climate-proof infrastructure.  Similarly, a study for Europe estimated 
+the cost of climate-proofing new infrastructure at $4.6-58 billion per year.50
+Estimates at a national or local scale are also scarce. Table 6 demonstrates actual public and private expenditures 
+on climate adaptation for three major cities. To put the estimates from the table below into perspective, 
+a study on international resilience investment suggests governments need to be investing 0.66-1.25% of GDP 
+in adaptation measures to minimize the worst impacts of extreme weather events.51 Figure 3 presents climate 
+adaptation as a percentage of GDP for a select number of countries, demonstrating the range of investment from 
+a high of approximately 0.325% in Beijing to a low of 0.14% in Addis Ababa.
+47 Martinez-Diaz, L., 2018, Investing in resilience today to prepare for tomorrow’s climate change. Bulletin of the Atomic Scientists, 74:22, pp. 66-72.
+48 Adaptation to Climate Change Team, 2015, Paying for Urban Infrastructure Adaptation in Canada: An Analysis of Existing and Potential Economic Instruments for 
+Local Governments, Simon Fraser University.
+49 Georgeson L. et. al., 2016, Adaptation responses to climate change differ between global megacities. Nature Climate Change volume 6, pages 584–588 (2016). 
+Retrieved from: https://www.nature.com/articles/nclimate2944
+50 Springmann, 2012
+51 Martinez-Diaz, L., 2018, Investing in resilience today to prepare for tomorrow’s climate change. Bulletin of the Atomic Scientists, 74:22, pp. 66-72.
+52 Martinez-Diaz, L., 2018, Investing in resilience today to prepare for tomorrow’s climate change. Bulletin of the Atomic Scientists, 74:22, pp. 66-72.  
+Investment in Climate 
+Change Adaptation
+SECTION 4
+TABLE 6. PUBLIC AND PRIVATE INVESTMENT IN ADAPTATION52 
+CITY
+SPENDING 2014/2015
+SPENDING AS A
+% OF GDP
+PER CAPITA
+SPENDING
+$2,779 million
+$1,696 million
+$1,543 million
+0.22%
+0.23%
+0.22%
+$270
+$167
+$563
+New York, USA
+London England, UK
+Paris, France
+18
+4.1 RESEARCH APPROACH
+Given the limited number of existing national level assessments of the investment needed for climate change 
+adaptation measures, and the limited amount of Canadian data to work with, it was necessary to develop 
+a methodology that would be comparable to existing estimates but still reflect the unique experience in Canada 
+and work with the various data available. Climate change adaptation costs for a small town on the east coast 
+will be very different compared to the costs for the City of Saskatoon, for example. Figure 4 depicts the overall 
+approach that was used to complete the assessment of climate adaptation costs in Canada and the level of 
+investment needed at a national scale. 
+53 Georgeson L. et. al. (2016). Adaptation responses to climate change differ between global megacities. Nature Climate Change volume 6, pages 584–588 (2016). 
+Retrieved from: https://www.nature.com/articles/nclimate2944
+FIGURE 3. CLIMATE ADAPTATION SPENDING AS A PERCENTAGE OF CITY GDP, 2014/201553
+FIGURE 4. OVERVIEW OF APPROACH FOR ASSESSMENT OF CLIMATE ADAPTATION COSTS
+0.35%
+0.30%
+0.25%
+0.20%
+0.15%
+0.10%
+0.05%
+0.00%
+BEIJING
+LONDON
+NEW
+YORK
+PARIS
+MEXICO
+CITY
+SAO
+PAULO
+ADDIS
+ABABA
+MUMBAI
+JAKARTA
+LAGOS
+FOR EACH STUDY:
+Extract adaptation
+cost estimate
+Obtain/derive GDP
+for the study area
+Scale up to
+national % GDP
+Collect adaptation
+cost studies for
+Canada
+Establish an
+average % GDP for
+each region across
+Canada
+(weighted based on region’s
+share of national GDP)
+Calculate adaptation
+cost as a % of GDP
+19
+4.1.1 COLLECT ADAPTATION COST STUDIES 
+The analysis of adaptation costs for Canada began with collecting studies that have quantified the cost of 
+adaptation at the community level from across the country. These studies are distinct from those that describe 
+actual spending (as this is not necessarily a reflection of what should be spent but rather what has been spent) 
+and from studies that quantify the cost of climate impacts (which are known to exceed the cost of adaptation). 
+The objective was to obtain studies that describe the cost of adaptation from a range of locations (East, West, 
+Central and Northern Canada), population sizes and climate risks. The studies were collected and reviewed and 
+adaptation cost estimates extracted. 
+4.1.2 EXTRACT ADAPTATION COST ESTIMATES
+Adaptation cost estimates and details pertaining to their derivation were extracted from the climate adaptation 
+studies and entered into a database. The database contains the following details extracted from each study:
+•   Location
+•   Province/Territory
+•   Adaptation Measures
+•   Infrastructure Type
+•   Climate Risk Applicable to Adaptation Measures
+Information added to the database for each of the studies includes:
+•   Population	
+	
+ •   Lifespan of Infrastructure	
+	
+•   Gross Domestic Product
+The cost estimates for each study needed to be adjusted to allow for tallying across actions and communities. To 
+do this, several steps were taken. First, it was necessary to establish a planning horizon. This is the time period 
+over which total adaptation costs would be estimated. For this project a planning horizon of 50 years was applied. 
+The timeframe, combined with the lifespan of the infrastructure, determines the total cost of the adaptation 
+measure for a community. Costs associated with infrastructure with shorter lifespans will recur numerous times 
+over the planning horizon, while costs associated with infrastructure with longer lifespans will occur less times 
+over the planning horizon. All cost estimates were then translated into annual cost values. This was done by 
+taking the cost estimate and dividing it by the number of years the associated action is implemented over (a 
+time horizon specified in the studies or assumed to be 1). Present values were then established (at a 2% discount 
+rate) and estimated over the 50-year planning horizon taking the frequency of the cost into account. Final cost 
+estimates were converted to a common year (2019) to facilitate comparisons across studies. Cost estimates that 
+could not be converted to total cost values, for example studies with costs per kilometre of road or per bridge, 
+were removed from the database. Studies that covered geographic regions for which a GDP estimate could not 
+be established, for example studies that did not specify specific communities, were removed from the database. 
+It should be noted that the climate change scenario (i.e., 1.5 or 2 degree warming) was not standardized across 
+studies given the limited data available.
+•   Cost
+•   Study Timeframe
+•   Study Year
+•   Discount Rate
+•   Reference Details
+20
+4.1.3 OBTAIN/DERIVE GDP FOR THE STUDY LOCATIONS 
+For the study locations corresponding to the adaptation cost estimates, an estimate of GDP was then obtained 
+or derived. If the study area was a CMA (census metropolitan area), the GDP estimate corresponding to the study 
+location was obtained from Statistics Canada. If the study area was something other than a CMA, a GDP estimate 
+was derived. Appendix C describes the approach employed to derive GDP estimates for study locations. 
+4.1.4 CALCULATE ADAPTATION COST AS A PERCENT OF GDP
+The adaptation cost estimates (4.1.2 above) for each community were then calculated as a percent of GDP (4.1.3 
+above) for the same community. 
+4.1.5 ESTABLISH A RANGE OF GDP PERCENTAGES
+The percentage of GDP was then tallied across all of the communities to estimate an average adaptation cost as a 
+percentage of GDP. Percentages were also examined by region (West, East, North, Central Canada), infrastructure 
+type, climate risk and population. 
+4.2 RESULTS
+This section of the report presents the results of the assessment. Details pertaining to the climate adaptation 
+cost database are provided along with the range of adaptation costs as a percentage of GDP that were derived. 
+4.2.1 ADAPTATION COST DATABASE
+The final database employed for the study contains 414 adaptation cost estimates for 34 different locations 
+across the country. Table 7 shows the number of communities represented in the database by province. There are 
+more communities in Alberta than other locations because numerous communities in Alberta have completed 
+the “Climate Resilience Express” program. The Climate Resilience Express program is a streamlined process for 
+developing climate resilience action plans for smaller communities. Through this program, communities identify 
+climate risks and quantify relevant adaptation costs.54 No such program was identified for other jurisdictions, 
+with the exception of the nationally available BARC program through ICLEI Canada (See section 3.4).
+54 http://allonesky.ca/climate-resilience-express-project/
+21
+Figure 5 demonstrates the distribution of the communities by region. The database contains cost estimates for 
+17 communities in Alberta, Saskatchewan and Manitoba (Prairie region) with the majority of those studies for 
+Alberta communities (13 of the 17 communities). Thirteen communities are from eastern provinces (Nova Scotia, 
+New Brunswick, Newfoundland & Labrador, and Prince Edward Island), 9 are from central provinces (Ontario and 
+Quebec), and the remainder are from western provinces (British Columbia) and northern territories (Northwest 
+Territory, Yukon). No studies were identified from Nunavut.
+TABLE 7. COMMUNITIES REPRESENTED IN THE CLIMATE ADAPTATION COST DATABASE
+FIGURE 5. NUMBER OF COMMUNITIES IN THE CLIMATE ADAPTATION 
+COST DATABASE BY REGION
+PROVINCE
+NUMBER OF COMMUNITIES REPRESENTED
+4
+13
+1
+3
+4
+4
+1
+4
+4
+1
+2
+2
+1
+2
+British Columbia
+Alberta
+Saskatchewan
+Manitoba
+Ontario
+Quebec
+Ontario and Quebec
+Nova Scotia
+New Brunswick
+Nova Scotia and New Brunswick
+Newfoundland Labrador
+Prince Edward Island
+Yukon Territory
+Northwest Territories
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+WEST
+NUMBER OF
+COMMUNITIES
+PRAIRIE
+CENTRAL
+EAST
+NORTH
+REGION
+CENTRAL
+PRAIRIES
+WESTERN
+NORTHERN
+EASTERN
+22
+Fifteen categories of infrastructure are represented in the database. Table 8 demonstrates the number of cost 
+estimates in the database by infrastructure type. Roads and green infrastructure are well represented in the 
+database at 33 and 28 cost estimates, respectively. A large number of cost estimates were identified for dikes 
+(25), water treatment (21) and technology and equipment (21).
+The table above does not include the administrative cost estimates that were identified and included in the 
+database. Two hundred and twenty-nine administrative cost estimates are included in the database. The majority 
+of the administrative costs are for communities that have participated in Alberta’s Climate Resilience Express 
+program. Appendix D lists the specific administrative measures that are included in the database for all locations, 
+demonstrating how they relate to public infrastructure.
+TABLE 8. COST ESTIMATES BY INFRASTRUCTURE TYPE
+INFRASTRUCTURE TYPE
+NUMBER OF COST ESTIMATES
+1
+13
+12
+25
+28
+12
+3
+33
+2
+10
+21
+4
+21
+Bridges
+Buildings
+Combined
+Dikes
+Green Infrastructure
+Maintenance
+Other
+Roads
+Seismic
+Sewer
+Technology & Equipment
+Utilities
+Water Treatment
+23
+Nine climate risks are captured in the database. Table 9 demonstrates the distribution of the cost estimates 
+across climate risks. As is evident, flood is the most well represented climate risk in the database. 
+TABLE 9. COST ESTIMATES BY CLIMATE RISK
+CLIMATE RISK
+NUMBER OF COST ESTIMATES
+74
+70
+15
+138
+4
+6
+11
+45
+51
+Combined
+Drought
+Erosion
+Flood
+Heatwave
+Other*
+Permafrost Melt
+Storm
+Wildfire
+*Shifting agriculture growing season due to changing temperature patterns
+24
+Table 10 demonstrates the distribution of cost estimates by climate risk and infrastructure type (excluding 
+administration). As is noted above, flood risk is associated with the greatest number of cost estimates. It is also 
+associated with the widest range of infrastructure types.
+TABLE 10. COST ESTIMATES BY CLIMATE RISK AND INFRASTRUCTURE TYPE
+CLIMATE RISK
+NUMBER OF COST ESTIMATES
+1
+2
+2
+3
+2
+4
+1
+2
+5
+2
+2
+2
+1
+4
+4
+2
+4
+6
+6
+18
+13
+7
+1
+14
+2
+10
+5
+19
+6
+6
+11
+2
+9
+4
+1
+2
+3
+4
+3
+4
+2
+1
+6
+Combined
+Drought
+Erosion
+Flood
+Heatwave
+Storm
+Wildfire
+Buildings
+Combined
+Green Infrastructure
+Maintenance
+Roads
+Technology & Equipment
+Utilities
+Dikes
+Green Infrastructure
+Other
+Technology & Equipment
+Water Treatment
+Bridges
+Dikes
+Green Infrastructure
+Maintenance
+Roads
+Buildings
+Combined
+Dikes
+Green Infrastructure
+Maintenance
+Other
+Roads
+Seismic
+Sewer
+Technology & Equipment
+Water Treatment
+Other
+Admin
+Permafrost Melt
+Buildings
+Roads
+Buildings
+Dikes
+Green Infrastructure
+Roads
+Technology & Equipment
+Utilities
+Combined
+Green Infrastructure
+Roads
+Technology & Equipment
+INFRASTRUCTURE TYPE
+25
+4.2.2 ADAPTATION COST AS A PERCENTAGE OF GDP 
+As is noted in Section 4.1, after the adaptation cost database was cleaned and adjusted as needed, the cost 
+estimates were summed by community and the adaptation cost as a percentage of GDP for each community was 
+established. The percentages are presented in this section of the report, assuming a 50-year planning horizon 
+and a 2% discount rate. The following sections provide a summary of how the adaptation costs as a percentage 
+of GDP differs according to location, infrastructure type, climate risk, and population. The final section provides 
+the methodology and results of scaling up the regional results to estimate a national level of investment in 
+adaptation as a percentage of GDP.
+4.2.2.1 ADAPTATION COST AS A PERCENTAGE OF GDP FOR ALL STUDIES
+Figure 6 shows the distribution of the adaptation cost as a percentage of GDP for all studies. The majority of 
+the results are less than 0.5% of GDP but range from a low of 0.00005% to a high of 14%. The average of all 
+results rounds to 1.0% from 0.99698%. The median value is 0.06%. The three highest percentages are from small 
+coastal towns on the east coast of Canada (the fourth highest percentage is from a coastal area in NB and NS). 
+These communities have relatively small GDPs and high adaptation costs given their vulnerability to coastal 
+climate risks.
+FIGURE 6. NUMBER OF COMMUNITY COST ESTIMATES BY COST OF ADAPTATION 
+AS A PERCENTAGE OF GDP 
+30
+25
+20
+15
+10
+5
+0
+LESS THAN
+0.25
+NUMBER OF
+COMMUNITIES
+COST OF ADAPTATION AS A PERCENTAGE OF GDP (%)
+0.25
+0.5
+1.75
+6.25
+9.0
+14.0
+26
+Given the number of estimates in the database that relate to administrative costs (i.e., 229 cost estimates for 
+administrative actions relative to 185 cost estimates for all other infrastructure types), a percentage of GDP was 
+derived excluding the administrative cost estimates from the analysis. Doing so resulted in the elimination of two 
+communities (i.e., there were two communities for which the only infrastructure type captured in the adaptation cost 
+estimates was administration; other communities had administration costs but also costs for other infrastructure 
+types). The average adaptation cost as a percentage of GDP for the remaining communities (excluding administrative 
+costs) is 1.05%, somewhat higher than the average when administrative costs are included.
+4.2.2.2 ADAPTATION COST BY LOCATION
+Figure 7 presents adaptation cost as a percentage of GDP by region. The Central region contains estimates from 
+Ontario and Quebec, the West region contains estimates from British Columbia, the Prairie region is comprised 
+of estimates from Alberta, Manitoba and Saskatchewan, the East region reflects estimates from Nova Scotia, New 
+Brunswick, Newfoundland & Labrador and Prince Edward Island, while the North region is comprised of studies 
+from Yukon and Northwest Territory. No studies were identified from Nunavut. 
+The average percentage of GDP for the East region is 3.20%. The North region has the next highest average at 
+0.37%. This is followed by the Central region, where the average percentage is 0.12%, the Prairie region which has 
+an average percentage of 0.06%, and the West region, which has an average percentage of 0.015%. While the higher 
+percentage observed for the East region in Figure 7 may appear as an outlier relative to the other regions, this may 
+not be the case. On the contrary, given the relatively small dataset employed in this analysis, the higher percentages 
+observed for eastern communities might be representative of a larger population of communities in that region 
+(i.e., if more data points were available, the gap between the upper and lower averages may be filled). The four 
+highest percentages in the database are from coastal communities in eastern provinces (two from Newfoundland & 
+Labrador, one from New Brunswick and Nova Scotia combined and one from Nova Scotia). These communities have 
+relatively low GDP and relatively high risk given that they are located on the coast. Thus, the percentages observed 
+for these communities could very well be representative of numerous small coastal communities in eastern Canada. 
+Upon investigation, it was revealed that 20 communities in the eastern region match the profile of the communities 
+in the database with these high percentages. These communities are located on the coast and have populations of 
+6,000 or less (see Appendix E for a list of comparable communities and a description of how they were identified). 
+27
+As was noted earlier, more cost estimates were obtained for the province of Alberta than other provinces and 
+territories due to the number of communities that have participated in the Climate Resilience Express program. 
+Given this, it was deemed appropriate to derive an Alberta-only climate adaptation cost as a percentage of 
+GDP. To that end, cost estimates from 13 Alberta communities were used to derive an average percentage for 
+the province of Alberta. Assuming a 50-year planning horizon and a 2% discount rate (as was assumed for all 
+other results presented in this report), the percentage for just Alberta is 0.06%. The percentages for Alberta 
+communities range from a low of 0.00047% to a high of 0.16%. The majority of the percentages fall between 
+0.03% and 0.08%.
+FIGURE 7. ADAPTATION COST AS A PERCENTAGE OF GDP BY REGION
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+COST OF ADAPTATION AS A
+WEST
+PRAIRIE
+CENTRAL
+NORTH
+EAST
+REGION
+28
+4.2.2.3 ADAPTATION COST BY INFRASTRUCTURE
+Figure 8 shows adaptation as a percent of GDP by infrastructure type. The relatively higher estimates for 
+buildings, dikes and roads are visible in the figure below. The average percentage for buildings is 2.01%, for dikes 
+is 1.18% and for roads is 0.47%. The average percentage for green infrastructure and water treatment is 0.05%; 
+for administration it is 0.03%.
+Grouping the infrastructure types as grey, green and soft reveals the following information. Grey infrastructure 
+has the highest average percentage of GDP at 0.75%. For green infrastructure it is 0.05% and for soft infrastructure 
+(or administrative actions) it is 0.03%. Adaptation costs as a percentage of GDP by climate risk are presented in 
+Figure 9. The figure demonstrates the relatively higher cost for floods. 
+FIGURE 8. ADAPTATION COST AS A PERCENTAGE GDP BY INFRASTRUCTURE TYPE
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+COST OF ADAPTATION AS A
+PERCENTAGE OF GDP (%)
+INFRASTRUCTURE TYPE
+BUILDINGS
+DIKES
+ROADS
+COMBINED
+GREEN
+INFRASTRUCTURE
+WATER
+TREATMENT
+SEWER
+ADMINISTRATION
+OTHER
+MAINTENANCE
+SIESMIC
+TECHNOLOGY
+AND EQUIPMENT
+UTILITIES
+29
+4.2.2.4 ADAPTATION COST BY CLIMATE RISK
+Adaptation costs as a percentage of GDP by climate risk are presented in Figure 9. The figure demonstrates the 
+relatively higher cost for floods. The average percentage of GDP for flooding is 1.25%, for permafrost is 0.37% 
+and for erosion is 0.12%. 
+4.2.2.5 ADAPTATION COST BY POPULATION
+Figure 10 shows the number of cost estimates within the database by population size. As is clear in the figure, the 
+majority of the cost estimates are for relatively smaller communities (less than 190,000). Figure 11 demonstrates 
+how the cost estimates translate into average percentages of GDP across a range of community population 
+thresholds. The higher percentages are associated with lower population communities (less than 5,600). Such 
+communities have relatively lower GDP values but potentially significant adaptation costs, depending on their 
+location and climate risks. For example, communities with low GDP located on the east coast and prone to flood 
+and erosion impacts, have the highest adaptation costs as a percentage of GDP. The average percentage of GDP 
+for communities with populations under 5,600 is 2.8%. For communities with populations of more than 5,600 but 
+less than 71,900 the average percentage is 0.2% and for communities with populations greater than 71,900 it is 
+0.07%.
+FIGURE 9. ADAPTATION COST AS A PERCENTAGE OF GDP BY CLIMATE RISK
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+COST OF ADAPTATION AS A
+PERCENTAGE OF GDP (%)
+FLOOD
+PERMAFROST
+MELT
+EROSION
+WILDFIRE
+DROUGHT
+STORM
+COMBINED
+OTHER
+HEAT WAVE
+CLIMATE RISK
+30
+FIGURE 10. NUMBER OF COMMUNITY COST ESTIMATES BY POPULATION
+FIGURE 11. ADAPTATION COST AS A PERCENTAGE OF GDP BY POPULATION
+25
+20
+15
+10
+5
+0
+0.7-34
+NUMBER OF
+COMMUNITIES
+POPULATION (THOUSANDS)
+70-190
+400
+780
+930
+1,700
+2,400
+2,700
+3,900
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+0.7-5.6
+COST OF ADAPTATION AS A
+PERCENTAGE OF GDP (%)
+POPULATION RANGE (THOUSANDS)
+5.6-71.9
+71.9-390
+31
+4.2.2.6 NATIONAL LEVEL OF INVESTMENT IN ADAPTATION
+To derive dollar estimates for the amount of required expenditure on a regional basis, GDP values were calculated 
+for the respective regions and the % GDP by region applied to them. (Table 11). These regional results were 
+then combined to give an estimate of the annual national level of investment in adaptation at the local level. 
+The analysis determined that an average annual investment in municipal infrastructure adaptation measures 
+of $5.3 billion is needed to adapt to climate change. In national terms, this represents an annual expenditure of 
+0.26% of GDP. This estimate represents the total cost of the actions that need to be taken at the municipal level 
+and would typically be cost-shared between each order of government.
+TABLE 11. ESTIMATE OF THE ANNUAL NATIONAL LEVEL OF INVESTMENT  
+IN ADAPTATION AT THE LOCAL LEVEL
+REGION
+REGIONAL GDP 
+($ BILLIONS)
+% NATIONAL
+GDP
+AVG REGIONAL COST OF 
+ADAPTATION : GDP (%)
+AVG REGIONAL COST OF 
+ADAPTATION : GDP ($ BILLION)
+$111.6
+$10.1
+$1,168.82
+$453.7
+$265.3
+5.55
+0.50
+58.15
+22.57
+13.20
+3.2
+0.37
+0.12
+0.06
+0.015
+$3.6
+$0.04
+$1.4
+$0.3
+$0.04
+$5.3
+East
+North
+ON/QC
+Prairie
+West
+TOTAL
+32
+Trends in climate adaptation in Canada in the past five-to-ten years have progressed from research, to expanded 
+engagement, to more and more examples of implementation. Communities and governments have moved past 
+awareness and are increasingly pursuing specific measures to reduce the impact of climate change.55 Today, 
+in Canada, there are examples of adaptation measures at all levels of government, within industry groups and 
+individual companies.56  Despite the growing trend in adaptation measures in Canada, few studies have quantified 
+the cost of adaptation and such studies are particularly lacking at local and municipal levels.57
+The objective of this study was to establish a credible estimate of government spending on climate change 
+adaptation measures to reduce the cost of climate change in Canada. Studies that have quantified the cost of 
+adaptation from across the country were used to estimate an average investment in adaptation as a percentage 
+of GDP and to examine whether such data varies by location, population, infrastructure type and climate risk. 
+The analysis revealed an average percentage, weighted by regional variations, across all studies, populations, 
+communities, locations, climate risks and infrastructure types of 0.26% of national GDP or $5.3 billion annually. 
+This figure represents adaptation investment in local public infrastructure only that would be cost-shared 
+between the three levels of government.
+Flood, erosion and permafrost are associated with the highest adaptation costs at 1.25%, 0.12% and 0.37% of 
+GDP, respectively. These are the climate risks requiring the greatest investment in adaptation. Grouping the 
+infrastructure types as grey, green and soft reveals that grey infrastructure has the highest average adaptation cost 
+as a percentage of GDP at 0.75%. The percentage for green infrastructure is 0.05% and that for soft infrastructure 
+(or administrative actions) is 0.03%, indicating relatively lower costs for these adaptation measures. From a regional 
+perspective, the East, at 3.20%, and the North, at 0.37%, are characterized by relatively higher costs as a percentage 
+of GDP, indicating that these regions are most in need of adaptation spending to protect against climate risks.
+When considering the results presented above, it is important to keep in mind the number of cost estimates 
+employed in the analysis. As noted in section 4, the database contains 414 cost estimates from 34 locations in 
+Canada. This is a relatively small sample size given the number of communities of varying sizes and exposure 
+to climate risks across the country. Particular gaps in the database exist for mid-sized cities and communities in 
+British Columbia. There are more cost estimates for Alberta than any other province with a total of 13 communities 
+represented in the database. While this may be, relatively speaking, an overrepresentation of Alberta communities, 
+the key consideration is the degree to which the Alberta communities are representative, in terms of size, 
+GDP and climate risks, of a larger population of similar communities across the country. Given the reliance on 
+Alberta-specific data, community profiling was undertaken to examine the degree to which the Alberta 
+communities are representative of a larger sample of communities across the country. Upon investigation, 134 
+such communities were identified. These communities, from Saskatchewan, Ontario, Manitoba and Quebec, face 
+a similar climate risk profile, are not coastal communities, and have similar populations and land areas. Other data 
+points that may appear as outliers, such as the percentages for the small coastal communities in eastern Canada, 
+warrant the same consideration (see Appendix E for the approach employed for community profiling as well as 
+communities identified as similar in nature to the Alberta and east coast communities contained in the database). 
+Conclusion
+SECTION 5
+55 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+56 Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation; Government of Canada, Ottawa, ON.
+57 Adaptation to Climate Change Team, 2015, Paying for Urban Infrastructure Adaptation in Canada: An Analysis of Existing and Potential Economic Instruments for 
+Local Governments, Simon Fraser University.
+33
+The results presented here rely on previous studies that have quantified the cost of adaptation for communities 
+in Canada. There is an underlying assumption that the studies have targeted the major climate risks that each 
+community is exposed to. To the extent that the cost estimates represent a portion of the total climate risk for any 
+given community, the percentages will underestimate adaptation spending. Related to this point, it is obvious 
+that there is a lack of studies that have quantified adaptation costs for communities in Canada. Results from 
+FCM’s Municipalities for Climate Innovation Program (funded by Infrastructure Canada), point to an ongoing 
+need to continue to build municipal capacity to assess climate risk and identify the optimal responses. As more 
+communities conduct climate risk and vulnerability assessments and identify the cost of action, future research 
+can shed more light of the cost of climate impacts to help build the case for continued and expanded investment 
+in climate adaptation in this country. As well, given the size of the estimated investment needed at the local level, 
+the role of the private sector and how private finance can support enhanced community resilience should also 
+be considered in future research and analysis.
+This research is the first attempt to quantify what Canadian governments need to be spending on local disaster 
+mitigation and adaptation projects to reduce the impacts of climate change. In releasing this report, IBC and FCM 
+hope to contribute to the growing body of knowledge on climate change adaptation in the Canadian context. 
+The cost of climate change adaptation will continue to be better understood as more data on adaptation 
+investments becomes available and additional research along these lines is undertaken. 
+34
+35
+Climate Impacts to
+Public Infrastructure
+APPENDIX A
+58 Boyle J. et. al., 2013, Climate Change Adaption and Canadian Infrastructure. The International Institute for Sustainable Development.  Winnipeg, Manitoba.
+TABLE A1. CLIMATE CHANGE AND INFRASTRUCTURE IMPACTS: LAND TRANSPORTATION58
+CLIMATE HAZARD AND/OR 
+WEATHERING PROCESS LIKELY 
+AFFECTED BY A CHANGING CLIMATE
+POTENTIAL INFRASTRUCTURE IMPACTS
+Permafrost degradation and 
+greater frequency of freeze-thaw 
+cycles in winter months
+Hotter, drier summers
+Milder winters
+Sea-level rising, increased 
+frequency of storm surges, 
+higher tides and flooding
+•	
+Soil instability, ground movement and slope instability
+•	
+Triggered instability of embarkments and pavement structures (ditches, culverts, drains, street 
+hardware, bridges, tunnels)
+•	
+Increased frequency, duration and severity of thermal cracking, rutting, frost heave and thaw 
+weakening
+•	
+Pavement softening
+•	
+Reduction in the maximum loads that can be safely transported
+•	
+Asphalt-covered surfaces are more susceptible to damage during heat waves
+•	
+Increase in flushing or bleeding of older pavement
+•	
+Shortened ice road seasons by several weeks
+•	
+Change in the timing and duration of seasonal load restrictions and winter weight premiums
+•	
+Increased challenges in pavement construction process
+•	
+Shortened life expectancy of highways, roads and rail
+•	
+Drier conditions affecting the life cycle of bridges and culverts
+•	
+Increased flow of streams and rivers, which increases need to replace ice bridges
+•	
+Augmentation of urban heat island effect
+•	
+Longer construction season, fewer pothole repairs
+•	
+Less frost damage for southern roads
+•	
+Decreased damage from fewer freeze-thaw cycles
+•	
+Changes to maintenance schedules 
+•	
+Capacity of culverts and storm sewer systems are more frequently exceeded; road damage, 
+bridge washouts, underpass and basement flooding, increased repair bills and insurance costs
+•	
+Causeways, bridges and low-lying roads have a high risk of being inundated or damaged
+•	
+Coastal roads may be required to be moved or be rebuilt at higher elevation to avoid or reduce 
+flooding
+36
+59 Boyle J. et. al., 2013, Climate Change Adaption and Canadian Infrastructure. The International Institute for Sustainable Development.  Winnipeg, Manitoba.
+TABLE A2. CLIMATE CHANGE AND INFRASTRUCTURE IMPACTS: BUILDINGS59
+CLIMATE HAZARD AND/OR 
+WEATHERING PROCESS LIKELY 
+AFFECTED BY A CHANGING CLIMATE
+INFRASTRUCTURE IMPACTS
+Permafrost degradation
+Hotter, drier summers 
+and heat waves
+Increased precipitation
+Increased rainfall, storm surges 
+and higher tides
+Hurricanes, tornadoes, hail, 
+windstorms and ice storms
+•	
+Soil subsidence and buckling can damage a property’s foundation infrastructure
+•	
+Loss of strength in buildings, which can cause them to become uninhabitable
+•	
+Reduced strength and reliability of containment structures and other physical infrastructure
+•	
+Building damage has sometimes been observed when clay soils dry out
+•	
+Forest fires can damage entire homes and businesses
+•	
+Premature weathering
+•	
+Increased indoor air temperature and reliance on cooling systems
+•	
+Reduced structural integrity of building components through mechanical, chemical 
+and biological degradation
+•	
+Accelerated deterioration of building facades
+•	
+Premature weathering of input materials
+•	
+Increased fractures and spalling in building foundations
+•	
+Decreased durability of materials
+•	
+Increased efflorescence and surface leaching concerns
+•	
+Increased corrosion
+•	
+Increased mold growth
+•	
+Damaged or flooded structures
+•	
+Slope stability and integrity of engineered berms are also vulnerable to extreme precipitation
+•	
+Coastal infrastructure inducted
+•	
+Wharves to be rebuilt, moved or raised to avoid inundation
+•	
+Increased risk of basement and localized flooding
+•	
+Increased corrosion in metals or deterioration in concrete
+•	
+Property destruction
+•	
+Damaged building infrastructure
+•	
+Reduction of design safety margins
+•	
+Reduced service life and functionality of components and systems
+•	
+Increased risk for catastrophic failure
+•	
+Increased repair, maintenance, reserve fund contingencies and energy costs
+37
+60 Boyle J. et. al., 2013, Climate Change Adaption and Canadian Infrastructure. The International Institute for Sustainable Development.  Winnipeg, Manitoba.
+61 Boyle J. et. al., 2013, Climate Change Adaption and Canadian Infrastructure. The International Institute for Sustainable Development.  Winnipeg, Manitoba.
+TABLE A3. CLIMATE CHANGE AND INFRASTRUCTURE IMPACTS: WATER INFRASTRUCTURE60
+TABLE A4. CLIMATE CHANGE AND INFRASTRUCTURE IMPACTS: MARINE INFRASTRUCTURE61
+CLIMATE HAZARD AND/OR 
+WEATHERING PROCESS LIKELY 
+AFFECTED BY A CHANGING CLIMATE
+INFRASTRUCTURE IMPACTS
+Drought
+Permafrost degradation
+Rising sea level
+Flooding
+•	
+Increased water demands and pressure on infrastructure
+•	
+Water apportion issues
+•	
+Loss of potable water
+•	
+Increased water quality problems
+•	
+Increased risk of flooding
+•	
+Dam failures
+•	
+Rupture of drinking water lines
+•	
+Rupture of water storage tanks
+•	
+Increased turbidity and sediment loads in drinking water
+•	
+Saltwater intrusion in groundwater aquifers
+•	
+Water-borne health effects from increased flooding
+•	
+Volatilization of toxic chemicals
+•	
+Summer taste/odour problems in municipal water supply
+CLIMATE HAZARD AND/OR 
+WEATHERING PROCESS LIKELY 
+AFFECTED BY A CHANGING CLIMATE
+INFRASTRUCTURE IMPACTS
+Less ice cover; remaining ice is 
+more mobile and wave action 
+is more intense
+Flooding, coastal erosion, 
+storm surges
+Flooding
+•	
+Marine infrastructure becomes more vulnerable to storm surges and extreme weather
+•	
+Accelerated erosion and sedimentation of marine infrastructure
+•	
+Affects the future design and operation of near shore and shore infrastructures
+•	
+Increased construction of marine infrastructure, expansion of ports, associated with higher and 
+less seasonal marine traffic as Arctic Sea melt continues
+•	
+More extensive coastal inundation; flooding of marine infrastructure
+•	
+Increased force exerted on docks
+•	
+Saltwater intrusion into freshwater aquifers
+•	
+Coastal erosion makes coastal infrastructure unstable
+•	
+Land-based installations, such as oil storage reservoirs or storage facilities must be protected 
+with seawalls to avoid damage
+•	
+Cargo ships unable to access marine infrastructure during low tide
+38
+62 Boyle J. et. al., 2013, Climate Change Adaption and Canadian Infrastructure. The International Institute for Sustainable Development.  Winnipeg, Manitoba.
+TABLE A5. CLIMATE CHANGE AND INFRASTRUCTURE IMPACTS: WASTEWATER INFRASTRUCTURE62
+CLIMATE HAZARD AND/OR 
+WEATHERING PROCESS LIKELY 
+AFFECTED BY A CHANGING CLIMATE
+INFRASTRUCTURE IMPACTS
+Permafrost degradation
+Hotter, drier summers and 
+heat waves
+Increase in rainfall
+Increased frequency of storm 
+surges and higher tides
+•	
+New containment structures in continuous permafrost zone may need to be built
+•	
+Potential rupture of drinking water and sewage lines, sewage storage tanks
+•	
+Potential seepage from sewage storage
+•	
+Failure of frozen-core dams on tailing ponds due to thawing and differential settlement
+•	
+Increased demand for water delivery and collection systems
+•	
+Stormwater infrastructure more frequently exceeded
+•	
+Require increased capacity on wastewater treatment facilities
+•	
+Urban drainage systems could fail, causing problems such as sewer backups and 
+basement flooding
+•	
+Implications for large urban drainage systems
+•	
+Potential impact on the strength in wastewater systems
+•	
+Sinking of land surfaces
+•	
+Buildings, tankage, housed process equipment affected by flooding
+•	
+Overtaxing of drainage facilities
+•	
+Pipeline ruptures
+39
+The Cost of Future 
+Climate Change Risks
+APPENDIX B
+63 Fraser Basin Council. 2016. Lower Mainland Flood Management Strategy, Phase 1 Summary report. May 2016. 
+64 Fraser Basin Council. 2016. Lower Mainland Flood Management Strategy, Phase 1 Summary report. May 2016. 
+65 Insurance Bureau of Canada. 2015. The Economic Impacts of the Weather Effects of Climate Change on Communities.
+As the frequency and intensity of extreme weather events increase due to climate change, so too do the impacts 
+and associated costs. The Fraser Basin Council (2016) modelled economic loss projections using the HAZUS model 
+for four major Lower Mainland flood scenarios to inform the Lower Mainland Flood Management Strategy.63 
+Scenarios modelled included two coastal flood scenarios (2016 and 2100) and two Fraser River flood scenarios 
+(2016 and 2100). Analysis of total economic loss projections under flood scenarios focused on building-related 
+losses and damage costs for infrastructure and agriculture and lost productivity attributed to interrupted cargo 
+shipments only. The two 2016 flood scenarios were estimated to result in losses of $19.3 billion (coastal flood) 
+and $22.9 billion (Fraser River flood). The flood damages for the 2100 scenarios were estimated to result in 
+losses of $24.7 billion to $32.7 billion. Estimated damage to infrastructure under the four scenarios ranged from 
+$1.4 billion to $5 billion (Table B1). Any one of the four major Lower Mainland flood scenarios analyzed would 
+be expected to trigger the costliest natural disaster in Canadian history to date, creating severe strain on the 
+regional, provincial and national economies.64
+An analysis completed by Green Analytics and the Ontario Centre for Climate Impacts and Adaptation Resources for 
+the Insurance Bureau of Canada (2015) modelled the potential costs of climate related extreme weather events on 
+two communities, namely Halifax Regional Municipality (HRM) and Mississauga. The study calculated the expected 
+cost of direct and secondary impacts from asset damage and business interruptions (lost economic output) due 
+to climate-related extreme events assuming no climate adaptation actions are taken. The case study analysis for 
+the HRM focused on the costs of storm surge flooding and extreme wind. The expected annual damage of direct 
+and secondary impacts attributed to climate change by 2040 for storm surge flooding is over $35 million of gross 
+domestic product ($2013) and over $140 million of gross domestic product ($2013) for extreme wind.65
+Source: Fraser Basin Council. 2016. 
+TABLE B1. TOTAL ECONOMIC LOSS PROJECTIONS UNDER FLOOD SCENARIOS (FRASER BASIN), $ BILLIONS
+FIGURE 11. ESTIMATE OF NATIONAL ADAPTATION INVESTMENT
+FLOOD 
+SCENARIO
+COMMERCIAL
+RESIDENTIAL
+INDUSTRIAL
+PUBLIC/
+INSTITUTIONAL
+BUILDINGS
+INTERRUPTED
+CARGO
+SHIPMENTS
+INFRASTRUCTURE
+AGRICULTURE
+TOTAL
+$6.3
+$8.6
+$3.8
+$7.6
+$5.6
+$7.1
+$2.6
+$6.6
+$1.6
+$2.6
+$1.6
+$2.9
+$0.72
+$0.91
+$0.88
+$1.2
+$3.6
+$3.6
+$7.7
+$7.7
+$1.4
+$1.8
+$4.6
+$5.0
+$0.1
+$0.2
+$1.6
+1.6
+$19.3
+$24.7
+$22.9
+$32.7
+Coastal 
+(2016)
+Coastal
+(2100)
+River
+(2016)
+River
+(2100)
+40
+The case study analysis for Mississauga focused on the costs of stormwater flooding and freezing rain. The 
+expected annual damage of direct and secondary impacts attributed to freezing rain and stormwater flooding 
+by 2040 are $30 million of GDP ($2013) and $70 million of GDP ($2013) respectively.
+Given the potential costs facing municipalities, the analysis affirms the business case for investing in community-
+level adaptation measures.66
+As part of developing a climate adaptation plan, the city of Edmonton completed an economic analysis of the 
+future cost of potential climate impacts on the city. The analysis estimated an increase in costs of $8.0 billion by 
+2050 and $18.2 billion by 2080 compared to time of the study (year 2018). Costs considered included financial 
+losses, health costs and environmental losses. The study predicts that Edmonton’s GDP will be $3.2 billion and 
+$7.4 billion lower by 2050 and 2080, respectively, compared to 2018, as a result of climate change impacts. 
+The analysis found that costs for Edmonton increase with each degree of additional warming.67
+To derive GDP estimates for the study locations, a GDP value from the respective province was scaled to the 
+location using labour force statistics. More specifically, to tailor provincial data for regional use, GDP values were 
+scaled to reflect the relative concentration of industry sectors in the region as compared to the province more 
+broadly. The regionalization of GDP was performed by calculating location quotients (LQ) using Statistics Canada’s 
+Labour Force Survey data. An LQ is a ratio that compares labour force concentrations of industry sectors within 
+a region (i.e., the study area) to a larger reference region (i.e., the province). LQs are calculated by comparing the 
+industry’s share of regional employment with its share of provincial employment as per the following equation:
+ 	
+	
+	
+	
+	
+	
+	
+	
+where
+ei = local labour force population in industry i
+e = total local labour force population
+Ei = provincial labour force population in industry i
+E = total provincial labour force population	
+	
+	
+By regionalizing the provincial GDP values using LQs, the analysts were able to derive GDP estimates that are 
+reflective of the study areas under consideration (i.e., the study areas that correspond to the adaptation cost 
+estimates in the database). 
+Approach for Deriving GDP Estimates
+APPENDIX C
+LQ =
+ei / e
+Ei / E
+66 Insurance Bureau of Canada. 2015. The Economic Impacts of the Weather Effects of Climate Change on Communities. 
+67 City of Edmonton. 2018. Climate Resilient Edmonton: Adaptation Strategy and Action Plan.
+41
+List of Administrative Actions
+APPENDIX D
+18 additional staff to implement stormwater plan
+Agency exercises to plan for large-scale wildfire 
+Assess and prioritize actions in Stormwater Management Master Plan
+Assessment of natural aquifer
+Change regulation to prohibit development in high-risk flooding zones
+Communicate efforts to the public 
+Community preparation, response and recovery support 
+Complete the Business Continuity Plan
+Conduct a detailed engineering vulnerability assessment 
+Conduct a heat wave vulnerability study
+Conduct a regional groundwater assessment
+Conduct a regional water planning process
+Conduct a review of the 2010 Stony Plain hail event 
+Consider climate change in infrastructure design, construction, and maintenance
+Continue shoreline impact education program
+Crop management education program for farmers 
+Develop a Climate Resiliency Strategy
+Develop a FireSmart education campaign
+Develop a FireSmart program 
+Develop a long-term water management plan 
+Develop a map of all dugouts and water sources in the county 
+Develop a model for a Spruce Grove stormwater utility, paid for by local fees 
+Develop a regional team for emergency response planning 
+Develop a rural drinking water security plan 
+Develop a tree and vegetation management initiative 
+Develop a water conservation policy/bylaw 
+Develop a watershed hydrologic model, and continue lake monitoring program 
+Develop a wetland management plan 
+Develop a wetland protection incentive program
+Develop an Asset Management Plan 
+Develop an Emergency Communications Plan 
+Develop an emergency education program 
+42
+Develop an infiltration / in-flow control strategy
+Develop an inter-municipal emergency evacuation plan
+Develop an outdoor water use bylaw & restrictions 
+Develop and implement a policy for low impact development 
+Develop bylaw for residential discard into streets and catch basins 
+Develop comprehensive water plan 
+Develop education campaign for water conservation 
+Develop Master Drainage Strategy to retain natural drainage systems with a low-impact-develop approach
+Develop public communications plan for water and sewer issues 
+Develop strategic plan for water preservation
+Develop travel-to-work policy for city staff during extreme events
+Develop water conservation education materials
+Develop wetland and riparian area education program 
+Disseminate information on tornado preparedness to city staff 
+Educate residents on storm impacts and actions 
+Educate residents on stormwater drainage 
+Education campaign for stormwater awareness 
+Education materials on flood risk management best practices 
+Educational program for households 
+Encourage all farmers with water allocations to obtain water licenses 
+Encourage drought-tolerant landscaping
+Encourage farmers to stockpile 2 years’ supply of water and feed 
+Encourage use of non-potable water for all permitted uses 
+Enhance community education on wildfire risks and mitigation
+Enhance contractor management to improve the resilience of scaffold systems
+Enhance drought education
+Enhance education on impacts to agriculture 
+Enhance internal and external stormwater management education programs
+Enhance public awareness of the Emergency Preparedness Guide 
+Enhance the Regional Municipal Emergency Plan to deal with increasing wildfire risk 
+Evaluate municipal long-term drinking water storage
+Event response and recovery 
+43
+Examine feasibility of a flexible working policy for city staff 
+Expand and improve Emergency Response Plan 
+Explore connecting to regional ecological network for resiliency of Winnipeg and surrounding municipalities 
+Fire response preparedness
+Foster resiliency of the city’s natural landscape
+Fund County Agriculture Department 
+Funding and convening support for watershed management planning
+Hire a Municipal Emergency Plan (MEP) Coordinator 
+Identify and implement incentives to promote green infrastructure
+Identify crops suitable for the future climate in the region 
+Identify new and existing best management practices for green infrastructure, land-use planning, and design
+Identify wetlands to preserve, and develop techniques for temporary water storage using wetlands
+Implement automatic water restrictions throughout the summer season 
+Improve and expand the existing Junior Forest Rangers Program
+Improve flood mapping and develop a flood management plan 
+Improve inter-municipal wildland firefighting training 
+Improve landscaping policy education for municipalities and residents
+Improve public education of emergency evacuation planning
+Improve response times by cross-utilizing firefighting equipment and personnel
+Include FireSmart policies in all planning and development 
+Include wildfire within emergency response plans 
+Increase agricultural land preservation through ALUS, county bylaws and policies 
+Increase collaboration efforts with producer and research groups
+Increase standby emergency response staff 
+Integrating adaptation into operation & planning
+Inventory local wetlands for stormwater management 
+Investigate the potential for greenhouses to support large-scale agricultural production
+Launch a public awareness campaign to highlight opportunities for residential climate resilience initiatives
+Lobby the provincial government for surface and groundwater quality monitoring
+Modify water pricing mechanisms
+Monitor projected water supply and water demand
+Partner with local stewardship groups to promote water conservation and re-use 
+44
+Promote wetland conservation and protection 
+Provide ongoing funding and support for adaptation projects 
+Provide tax incentives and rebates for fire proofing improvements
+Raise public awareness of tornado precautions 
+Require hydration / cooling stations in planning application guide 
+Research post-disaster construction standards for new critical infrastructure
+Research burying future transmission lines 
+Research future water sources and treatment options
+Research groundwater and sources
+Research need for tornado-safe spaces in existing civic facilities and buildings
+Research trapping spring runoff for irrigation
+Review and update County Emergency Response plans 
+Review and update disaster services policy 
+Review and update the snow and ice removal policy
+Target economic development to low water use businesses 
+Train municipal staff 
+Update bylaws for appropriate water usage and pricing
+Update Intensity-Duration-Frequency curves
+Update Municipal Development Plan and subdivision standards to ensure retention of wetlands
+Update municipal plans to support improved flood management and stormwater retention
+Update stormwater engineering standards for future rainfall intensities
+Update the Land Use Bylaw with FireSmart planning principles 
+Updated design standards for installation of stormwater infrastructure 
+Wildfire education, awareness, policy, and risk analysis
+45
+Community Profiling
+APPENDIX E
+Green Analytics examined the extent to which some of the data in the adaptation cost database might be 
+reflective of a larger sample of communities in Canada. The approach employed for the examination involved 
+taking several key characteristics of the communities in the database and identifying other communities with 
+the same characteristics. This was done using data from Statistics Canada. A +/- 20% range from the population 
+and land area of the target communities (i.e., the communities in the adaptation cost database) was applied to 
+a larger geographic area to identify communities with similar populations and land areas. These communities 
+were then filtered such that only communities facing similar climate risks were included (i.e., only coastal 
+communities on the east coast meeting the population and land area criteria were included). The result was a list 
+of communities facing a similar climate risk profile, with similar populations and similar land areas. 
+Profiling was done for the small east coast communities that are associated with the highest cost estimates in the 
+database. Profiling was also done for the set of Alberta communities that have completed the Climate Resilience 
+Express program and that have populations of less than 100,000. 
+The target east coast communities are Marystown, NL (population 5,316), Little Anse, NS (population 3,150) and 
+Bay Bulls-Witless Bay, NL (population 3,119). These communities have adaptation cost to GDP ratios of 8.9, 6.2 
+and 14.0, respectively. Using the approach identified above, 20 communities with similar populations, land areas 
+and climate risk profiles were identified. The adaptation cost to GDP ratios contained in the cost database (noted 
+above) may be representative of the range of ratios that may be observed in these additional 20 communities. 
+The communities and their populations are listed in Table E1.
+CENTRAL
+PRAIRIES
+WESTERN
+NORTHERN
+EASTERN
+46
+The Alberta communities for which profiling was done (i.e., those communities in the cost database that have 
+completed the Climate Resilience Express program and that have populations of less than 100,000) are listed in the 
+COMMUNITY
+POPULATION
+3156
+3448
+2875
+4858
+4067
+5249
+2995
+3620
+3496
+2653
+2971
+4288
+4248
+1067
+3126
+5331
+5348
+3628
+6271
+3422
+Bishop’s Falls
+Bonavista
+Botwood
+Carbonear
+Channel-Port aux Basques
+Deer Lake
+Harbour Grace
+Pasadena
+Placentia
+Spaniard’s Bay
+Springdale
+Beresford
+Caraquet
+Dalhousie
+Dalhousie
+Sackville
+Cornwall
+Westville
+Kentville
+Eskasoni 3
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NL
+NB
+NB
+NB
+NB
+NB
+PEI
+NS
+NS
+NS
+PROVINCE
+COMMUNITY NAME
+COST TO GDP RATIO
+0.0772
+0.1621
+0.0605
+0.1000
+0.0395
+0.0220
+0.0795
+0.0084
+0.0415
+0.0538
+Beaver County
+Big Lakes County
+Brazeau County
+Bruderheim
+Lacomb County
+Leduc
+Mackenzie County
+Spruce Grove
+Sylvan Lake
+Turner Valley & Black Diamond
+5,905
+5,672
+7,771
+1,308
+10,303
+29,993
+11,171
+34,066
+14,816
+5,259
+POPULATION
+TABLE E1. EAST COAST COMMUNITIES WITH SIMILAR CLIMATE RISK PROFILE, LAND AREA AND 
+POPULATION TO THREE COMMUNITIES IN COST DATABASE
+TABLE E2. ALBERTA COMMUNITIES CONTAINED IN COST DATABASE FOR WHICH PROFILING WAS DONE
+47
+Using the climate risk profile, population data and land areas of these communities as guiding criteria, 134 communities 
+from Saskatchewan, Manitoba, Ontario and Quebec were identified. The adaptation cost to GDP ratios presented in 
+Table E2 above may be representative of this larger sample of communities in Canada (Table E3).
+COMMUNITY NAME
+POPULATION
+1,986
+1,642
+1,341
+1,237
+2,134
+1,501
+1,213
+1,128
+1,089
+1,232
+1,033
+1,826
+1,592
+1,046
+1,774
+1,759
+1,170
+1,481
+1,252
+1,099
+1,074
+1,061
+2,444
+2,640
+1,711
+1,288
+1,042
+1,479
+1,042
+1,125
+1,433
+1,840
+Terrasse-Vaudreuil
+Saint-Joseph-de-Sorel
+Vaudreuil-sur-le-Lac
+Osler
+Wendake
+Attawapiskat 91A
+Waldheim
+Cobalt
+Lac du Bonnet
+Arborg
+Birch Hills
+Dalmeny
+Uashat
+Gull Lake
+Deseronto
+Price
+St-Pierre-Jolys
+Pointe-des-Cascades
+Chemawawin 2
+Carnduff
+Kipling
+Eston
+Huntingdon
+Saint-Gabriel
+Grenville
+Wadena
+Redvers
+Englehart
+Melita
+Preeceville
+Fort-Coulonge
+Stanley 157
+QC
+QC
+QC
+SK
+QC
+ON
+SK
+ON
+MB
+MB
+SK
+SK
+QC
+SK
+ON
+QC
+MB
+QC
+MB
+SK
+SK
+SK
+QC
+QC
+QC
+SK
+SK
+ON
+MB
+SK
+QC
+SK
+PROVINCE
+TABLE E3. COMMUNITIES WITH SIMILAR CLIMATE RISK PROFILE, LAND AREA AND 
+POPULATION TO ALBERTA COMMUNITIES IN COST DATABASE
+48
+COMMUNITY NAME
+POPULATION
+1,374
+1,099
+1,910
+1,560
+1,380
+1,328
+1,201
+2,037
+1,083
+1,038
+1,124
+1,165
+1,993
+1,444
+2,389
+1,145
+1,145
+1,496
+1,824
+1,114
+1,557
+2,114
+2,560
+1,688
+1,033
+2,084
+1,048
+1,286
+1,185
+2,502
+1,305
+1,738
+1,765
+1,316
+1,714
+2,027
+1,798
+1,542
+2,233
+1,587
+Macklin
+Grenfell
+Indian Head
+Factory Island 1
+Lac-Simon
+Oxbow
+Teulon
+Point Edward
+Gravelbourg
+Delisle
+Moose Lake 31A
+Langenburg
+Mattawa
+Shellbrook
+Assiniboia
+Winnipeg Beach
+Regina Beach
+Langham
+Lumsden
+South River
+Notre-Dame-du-Bon-Conseil
+Ste. Anne
+Bedford
+Rosthern
+Sainte-Pétronille
+Maple Creek
+Davidson
+Thessalon
+Maidstone
+Esterhazy
+Roxton Falls
+Carberry
+Balgonie
+Powerview-Pine Falls
+Shaunavon
+Fort Qu’Appelle
+Wynyard
+Maliotenam
+Sainte-Madeleine
+Shawville
+SK
+SK
+SK
+ON
+QC
+SK
+MB
+ON
+SK
+SK
+MB
+SK
+ON
+SK
+SK
+MB
+SK
+SK
+SK
+ON
+QC
+MB
+QC
+SK
+QC
+SK
+SK
+ON
+SK
+SK
+QC
+MB
+SK
+MB
+SK
+SK
+SK
+QC
+QC
+QC
+PROVINCE
+49
+COMMUNITY NAME
+POPULATION
+2,165
+1,869
+1,047
+1,508
+2,137
+1,898
+2,584
+1,106
+1,141
+1,885
+2,818
+1,922
+1,059
+2,336
+1,052
+1,563
+2,024
+2,743
+2,279
+2,060
+1,061
+1,377
+1,026
+2,019
+2,199
+2,017
+1,011
+1,219
+2,573
+1,028
+2,318
+8,568
+6,975
+13,678
+21,346
+18,980
+15,872
+19,440
+20,484
+21,341
+Valcourt
+Pelican Narrows 184B
+Ayer’s Cliff
+Carlyle
+Pilot Butte
+Kamsack
+Ville-Marie
+Air Ronge
+Foam Lake
+Morris
+Thurso
+Cross Lake 19A
+Curve Lake First Nation 35
+Disraeli
+Pinehouse
+Chute-aux-Outardes
+Canora
+Moosomin
+Outlook
+Manawan
+Kimosom Pwatinahk 203 (Deschambault Lake)
+Lanigan
+Kerrobert
+Obedjiwan
+East Broughton
+Lac La Ronge 156
+Kettle Point 44
+Wilkie
+Unity
+Desbiens
+Léry
+Corman Park No. 344
+Portage la Prairie
+Thompson
+Brockville
+Dorval
+Tillsonburg
+Cobourg
+Joliette
+Owen Sound
+QC
+SK
+QC
+SK
+SK
+SK
+QC
+SK
+SK
+MB
+QC
+MB
+ON
+QC
+SK
+QC
+SK
+SK
+SK
+QC
+SK
+SK
+SK
+QC
+QC
+SK
+ON
+SK
+SK
+QC
+QC
+SK
+MB
+MB
+ON
+QC
+ON
+ON
+QC
+ON
+PROVINCE
+50
+COMMUNITY NAME
+POPULATION
+22,458
+13,304
+29,120
+15,829
+26,884
+31,465
+31,166
+16,604
+14,315
+21,793
+13,002
+16,864
+38,909
+17,059
+16,343
+26,394
+24,110
+18,585
+13,115
+13,656
+29,881
+33,890
+Beloeil
+Portage la Prairie
+Chambly
+Steinbach
+Boisbriand
+Stratford
+Orillia
+Swift Current
+North Battleford
+Collingwood
+Prévost
+Midland
+St. Thomas
+Saint-Basile-le-Grand
+Yorkton
+Saint-Bruno-de-Montarville
+La Prairie
+Mont-Saint-Hilaire
+Mercier
+Cowansville
+Sainte-Julie
+Moose Jaw
+QC
+MB
+QC
+MB
+QC
+ON
+ON
+SK
+SK
+ON
+QC
+ON
+ON
+QC
+SK
+QC
+QC
+QC
+QC
+QC
+QC
+SK
+PROVINCE
+51
+Municipal Costs of Extreme Weather
+APPENDIX F
+THE COSTS OF RECENT EXTREME WEATHER EVENTS
+Weather changes in Canada are happening abruptly with more communities experiencing extreme weather events.68 
+The Canadian Meteorological and Oceanographic Society reports that heat waves, extreme flooding and wildfires are 
+becoming more frequent and severe. Environment and Climate Change Canada, for example, has concluded that the 
+risk of western fires since 2015 has increased two to six times due to human-induced warming.69  The resulting impacts 
+of extreme weather events are placing a financial strain on communities, businesses and all levels of government. In 
+this section, we demonstrate the benefits of adaptation by highlighting examples of the economic costs associated 
+with recent extreme weather events (see Appendix B for an overview of studies that have estimated the future cost 
+of climate change impacts). A map of insured losses due to extreme weather events in Warren and Lemman (2014), 
+provides historical context, documenting the costliest impacts between 2004 and 2013 (Figure F1). The map includes 
+events up to July 2013 so does not include the flooding in Southern Alberta or the ice storm in Eastern Ontario. 
+Source: Warren, F.J. and Lemmen, D.S. 2014. Synthesis; in Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation, (ed.) F.J. Warren and D.S. 
+Lemmen; Government of Canada, Ottawa, ON. 
+68 Canadian Meteorological and Oceanographic Society. 2016. Canada’s Top Weather Stories for 2018. 
+69 Reported Canadian Meteorological and Oceanographic Society. 2016. From, Environment and Climate Change Canada. 2017. Climate Data and Scenarios for 
+Canada: Synthesis of Recent Observation and Modelling Results. Chapter 3.3: Extremes.
+FIGURE F1. INSURED LOSSES FROM EXTREME WEATHER EVENTS
+2011 HURRICANE
+New Brunswick, Ontario, Quebec
+$130 M
+2010 HURRICANE
+Newfoundland
+$70 M
+2003 HURRICANE
+Nova Scotia
+$132 M
+2010 WINTER STORM
+Atlantic Canada
+$51 M
+2013 STORM
+Toronto, Ontario
+$850 M
+2010 THUNDERSTORM
+Southern Ontario
+$120 M
+2005 FLOODING
+Manitoba
+$60 M
+2009 WINDSTORM
+Alberta
+$350 M
+2004 HAILSTORM
+Edmonton, Alberta
+$166 M
+2011 WILDFIRE
+Slave Lake, Alberta
+$700 M
+2005 FLOODING
+Alberta
+$300 M
+2006 STORM
+British Columbia
+$133 M
+2003 WILDFIRE
+British Columbia
+$200 M
+2011 TORNADO
+Goderich, Ontario
+$110 M
+2003 HAILSTORM
+Saskatchewan
+$30 M
+2013 FLOODING
+Southern Alberta
+$1700 M
+2010 HAILSTORM
+Calgary, Alberta
+$500 M
+2011 WINDSTORM
+Calgary, Alberta
+$200 M
+HURRICANE
+TORNADO
+FLOODING
+WILDFIRE
+STORM 
+(WINDSTORM, WINTER STORM, 
+HAILSTORM, THUNDERSTORM)
+52
+The year 2013 was a landmark year, as insurance companies incurred over $3.2 billion in losses due to extreme 
+weather events, a record high, which at the time dramatically exceeded previous highs. Below, three events that 
+occurred in 2013 are highlighted to demonstrate the magnitude of economic impacts from climate change and 
+the importance of adaptation measures. The 2013 events are the flooding in Southern Alberta, the July rainfall 
+event in Toronto, and the December ice storm in Ontario. The two extreme weather events hitting Toronto in 
+2013 demonstrate the financial burden that multiple extreme weather events can have on municipalities. The 
+combined costs incurred by the city were over $171 million. A new record in insurance losses was set in 2016, 
+attributed largely to the Fort McMurray fires, which is now the costliest natural disaster ever in Canada.70 In 
+addition, two examples of other recent extreme weather events, floods in Essex County, Ontario, and the 2018 
+Saint John river flood, demonstrate the financial toll these events are having and the need to ramp up adaptation 
+measures in communities across Canada. 
+The benefits of these adaptation measures have been acknowledged by local decision makers. According to 
+Tecumseh Mayor Gary McNamara, “[b]y making flood mitigation improvements, not only do we prevent flooding 
+for our townsfolk, we also save money by sending less water to Windsor to be treated.”71 The leaders in the 
+communities ravaged by the extreme rains of 2016 and 2017 recognize the importance of keeping water in the 
+ground, holding and controlling its flow and redirecting it away from the sewer system.72 In this regard, the use of 
+green infrastructure is an important part of the solution. Lakewood Park, for example, is a parcel of land bought 
+by the town of Tecumseh at a cost of $15 million. It rests above a water reservoir and large sanitary sewers and 
+is integrated with a storm channel and pumping station. The park is an important part of the flood adaptation 
+strategy for the community. 
+70 Insurance Bureau of Canada. 2014. Canada inundated by severe weather in 2013: Insurance companies pay out record breaking $3.2 billion to policyholders. January 20th, 2014. 
+71 https://windsorstar.com/news/local-news/a-year-after-the-flood-municipalities-spending-millions-to-mitigate-future-damage
+72 https://windsorstar.com/news/local-news/a-year-after-the-flood-municipalities-spending-millions-to-mitigate-future-damage
+53
+FORT MCMURRAY FIRE, MAY 2016 
+The Fort McMurray fire in May of 2016 displaced Fort McMurray’s 88,000 residents, damaged or destroyed 1,935 
+residential structures, 23 commercial and industrial buildings, and scorched 18,600 vehicles.73 The Conference 
+Board of Canada estimated the total direct cost of the disaster, including private expenditures, at $5.4 billion. This 
+includes $3.8 billion in insured losses, $1.2 billion in payments from federal, provincial and municipal governments 
+to help with the cleanup and rebuilding, and $500 million in costs incurred by the private sector and households. 
+In addition, the Alberta Government spent $369 million in extra wildfire-fighting costs.74 The estimated 
+$3.8 billion in insured losses makes it the costliest natural disaster for Canadian insurers ever. Catastrophe Indices 
+and Quantification Inc. estimated the breakdown of insurance losses as follows: 27,000 personal property claims; 
+5,000 commercial claims; and 12,000 car claims.75
+The fire caused substantial economic disruption to the Wood Buffalo region and resulted in temporary shutdowns 
+to oil sands operations. Real (inflation‑adjusted) GDP in the Wood Buffalo region was estimated to have declined 
+by 14.6 per cent in 2016 due to the fire. Shutdowns of oil sands production created losses of 47 million barrels of 
+oil and cost producers $1.4 billion in revenues.76,77 Other economic costs include $300 million in lost taxes and 
+royalties to the province, $167 million in lost federal taxes, $458 million in lost labour income and $55 million in 
+lost revenue to Fort McMurray businesses.78 
+While the emphasis is on the direct cost of the fires, the toll on the community in terms of health impacts was 
+substantial as well. For example, Agyapong and colleagues (2018) in a study on depression prevalence of Fort 
+McMurray residents following the 2016 wildfires found a fourfold increase in the point prevalence of major likely 
+depressive disorders when compared to the general population in the province. The prevalence rate of major 
+likely depressive disorders 6 months after the disaster was 14.8% compared to the 3.3% prevalence rate in the 
+general public in Alberta. The study also identified a significant twofold or greater likelihood of suffering from 
+problematic drug use, harmful or hazardous drinking or alcohol dependence, or moderate to high nicotine 
+dependence among those suffering from likely depression.79
+  
+73 Canadian Meteorological and Oceanographic Society. 2016. Canada’s Top Weather Stories for 2016. 
+74 McIntyre, Jane. Moving Forward: The Economic Impact of Rebuilding the Wood Buffalo Region’s Economy. Ottawa: The Conference Board of Canada, 2017.
+75 Canadian Underwriter Magazine. 2017. Government of Alberta advances Disaster Recovery Program funding to help with Fort McMurray uninsurable costs. February 17, 2017. 
+76 McIntyre, Jane. Moving Forward: The Economic Impact of Rebuilding the Wood Buffalo Region’s Economy. Ottawa: The Conference Board of Canada, 2017.
+77 Conference Board of Canada. 2016. Fort McMurray Wildfires: Assessing the Economic Impacts. Briefing November 2016. 
+78 Reporting research by Dr. Rafat Alam (MacEwan University). Canadian Press. 2017. Almost $10B: Research outlines costs of Fort McMurray wildfire. January 17th, 2017. 
+79 Agyapong, V., Juhás, M., Brown, M., Omege, J., Denga, E., Nwaka, B., Akinjise, I., Corbet,t S., Hrabok, M., Li, X., Greenshaw, A., & Chue, P. 2019. Prevalence rates and correlates of 
+probable major depressive disorder in residents of Fort McMurray 6 months after a wildfire. Int J Mental Health Addict, 17:120–136.  
+54
+TORONTO, ONTARIO ICE STORM, DECEMBER 21-22, 2013
+While the 2013 ice storm impacted Eastern Ontario, parts of Quebec and New Brunswick, the Toronto area was 
+among the hardest hit regions by the storm. Over 300,000 customers in the Greater Toronto Area (GTA) lost 
+electrical power, and many households and businesses lost power for several days. Transportation systems came 
+to a halt. Forty percent of power transmission lines were affected, while more than 20% of the City of Toronto’s 
+tree canopy was destroyed.80 The winter storm event cost City of Toronto divisions, agencies and corporations 
+over $106 million.81 Table F1 provides a breakdown of costs by service provider. In addition to costs incurred 
+directly by the city, the federal government contributed $120 million under the DFAA program to offset recovery 
+and repair costs.82 Insurance losses were estimated to cost over $200 million.83
+80 Toronto Public Libraries. 2016. Remembering the December 20-23, 2013 Ice Storm: Snapshots in History. December 28, 2016  
+81 City of Toronto. 2014. Staff Report:  Impacts from the December 2013 Extreme Winter Storm Event on the City of Toronto. January 8th, 2014. 
+82 Parliamentary Budget Officer of Canada. 2016. Estimate of the Average Annual Cost for Disaster Financial Assistance Arrangements due to Weather Events.
+83 City of Toronto. 2014. Staff Report:  Impacts from the December 2013 Extreme Winter Storm Event on the City of Toronto. January 8th, 2014. 
+Notes: 
+(1) Forestry costs consist mainly of emergency response including removal of tree limbs affecting hydro wires ($1.8M), inspection and elimination 
+of hazards on streets, parks, sidewalks, roads, entrances to centres ($30.4M), inspect and assess remedial work, canopy repair, stump removal and 
+tree replacement ($16.6M). As well, estimated damage to Parks assets ($2.1M) and loss of revenue for recreation centres and costs for staffing and 
+supplies at warming centres ($1.3M) 
+(2) Transportation Services costs consist mainly of clean up of road hazards ($7.1M), and emergency responses ($1.2M) 
+(3) Solid Waste Management costs consist mainly of chipping wood ($6.2M), haulage of wood from curbside ($16.2M), creation of temporary 
+storage sites ($1.5M), and miscellaneous ($0.5). 
+(4) Toronto Hydro costs consist mainly of costs to restore power ($12.9M), and lost revenues ($1M). 
+(5) TTC estimated costs do not include revenue losses. 
+Source: City of Toronto. 2014.
+CITY OF TORONTO SERVICES
+TOTAL COSTS ($)
+52,213,000
+1,009,000
+8,802,961
+1,506,560
+24,474,797
+1,703,477
+13,900,000
+245,000
+700,000
+53,996
+2,145,337
+187,000
+106,941,128
+Parks, Forestry and Recreation (1)
+Employment and Social Services
+Transportation Services (2)
+Toronto Water
+Solid Waste Management Services (3)
+Other city divisions
+Toronto Hydro (4)
+Toronto Police Service
+Toronto Transit Commission (5)
+Toronto Library
+Toronto Community Housing
+Toronto Zoo
+Total 
+TABLE F1. SUMMARY OF DECEMBER 21-22 WINTER STORM COST ESTIMATES
+55
+TORONTO, ONTARIO RAINFALL EVENT, JULY 2013
+Record rainfall on July 8, 2013 caused severe flooding in Toronto. More than ninety millimetres of rain fell in a 
+two-hour period. Subways were closed due to flooding, GO trains were evacuated by police boats, and drivers 
+faced washed-out roads.84
+The rainfall event resulted in more than $850 million in insured property losses across the GTA. A City of Toronto 
+assessment of the storm-related costs estimated the city (municipal government) incurred $59.2 million in capital 
+costs and $10.9 million in operating costs associated with response and recovery (Table F2).85
+The storm had a wide economic impact causing major transit delays, road closures, power outages, flight 
+cancellations and business closures lasting in many cases several days to deal with flood recovery and clean-up. 
+The combination of the Toronto December ice storm (discussed above) and July rainfall event resulted in losses 
+and costs to the city of over $171 million. The events placed substantial financial strain on the city to address 
+budget shortfalls.86 
+84 Casello, J., and Towns, W. 2017. Urban. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 
+2016 (pp. 264-309). Ottawa, ON: Government of Canada.
+85 City of Toronto. 2013. Staff Report: Follow-up on the July 8, 2013 Storm Event. 
+86 City of Toronto. 2014. Staff Report:  Impacts from the December 2013 Extreme Winter Storm Event on the City of Toronto. January 8th, 2014.
+TABLE F2. ECONOMIC COSTS, JULY 8TH STORM EVENT
+Source: City of Toronto. 2013.
+Toronto Water 
+Parks, Forestry and Rec.
+Other City Divisions 
+Agencies and corporations 
+TRCA 
+Total 
+OPERATING ($)
+CITY STORM 
+RELATED COSTS
+CAPITAL ($)
+TOTAL COSTS ($)
+1,704,755
+2,116,370
+4,115,546
+1,844,926
+3,600
+9,785,217
+-
+207,507
+920,157
+-
+1,127,664
+1,704,755
+2,323,877
+4,115,546
+2,765,083
+3,600
+10,912,881
+6,843,100
+10,360,208
+2,843,971
+3,125,668
+36,050,014
+59,222,961
+8,547,875
+12,684,085
+6,959,517
+5,890,751
+36,053,614
+70,135,842
+EXPENDITURE
+REVENUE LOSSES 
+INCURRED
+TOTAL OPERATING 
+IMPACT
+TOTAL CAPITAL 
+IMPACT
+OPERATING AND 
+CAPITAL
+56
+SOUTHERN ALBERTA FLOODING, JUNE 2013 
+The 2013 flood in Southern Alberta damaged an estimated 4,000 businesses and 13,500 homes. One hundred 
+thousand people were evacuated and five people died. The flood caused extensive damage to infrastructure, 
+with 1,000 km of roads destroyed and hundreds of bridges and culverts washed out.87 In total, an estimated 
+278 cities, towns and villages were affected.88
+The flood was estimated to cost over $6 billion in capital losses of which about $2 billion represented insured 
+losses.89 The federal government contributed $1.35 billion under the  DFAA program to support flood recovery. 
+In addition, the City of Calgary, one of the hardest hit regions, received $55 million in direct federal support to 
+help repair damaged infrastructure and to pay for the costs of emergency response and staff.90
+SAINT JOHN RIVER FLOOD, 2018
+While seasonal flooding is a common occurrence along the Saint John River in New Brunswick, the 2018 flood 
+was well beyond the realms of normality for the river. The flooding occurred in early April and was the result of 
+the winter accumulation of snow colliding with extremely warm temperatures and significant rainfall within a 
+48 hour period. Temperatures in the province reached 29°C immediately before a heavy rainstorms moved into 
+the province. Rain fell for 31 of 32 days and totalled 152 mm. The result was water in the Saint John River rising 
+2 metres above flood levels.91 Water levels in the capital city were more than 8 metres above sea level.92 
+The trifecta of conditions culminated in the largest, most impactful flood in modern New Brunswick history. 
+The impact to public infrastructure was significant as the Trans-Canada Highway between Fredericton and 
+Moncton was closed along with over 150 roads, bridges, and culverts across the province.93  
+When the Saint John River flooded in 2008, more than $23 million in damages were incurred as over 600 
+properties were impacted and 1,000 people were displaced from their homes. At the time, it was the worst spring 
+flood since 1973.94 The impact from the 2018 spring flood far exceeded that of 2008. In 2018, 12,000 properties 
+were impacted. The cost to the federal and provincial government was $80 million.95 The 2018 flood became the 
+most damaging flood in New Brunswick in more than 50 years.96 
+FLOODS IN ESSEX COUNTY, ONTARIO, 2016 AND 2017
+In September 2016, Essex County, Ontario experienced extreme rainfall. The volume of rainfall varied by 
+neighbourhood, but exceeded 200 mm in some communities (e.g., Riverside and Tecumseh). In Windsor, the city’s 
+stormwater infrastructure could not manage the deluge of water; the volume was well beyond the maximum 
+capacity of the system. The result was inundated roads, fields and yards as well as dirty sewer water in flooded 
+basements. Over 6,000 insurance claims were made as a result of the 2016 rainfall event.97 The total cost of such 
+claims was over $153 million. Of course, the insurance costs are a fraction of the total costs. Recall that for every 
+dollar spent on insurance, $3 to $4 are incurred by governments, households and businesses. 
+87 Andrey, J., and Palko, K. (2017). Introduction. In K. Palko and D.S. Lemmen (Eds.), Climate risks and adaptation practices for the Canadian transportation sector 2016 (pp. 2-10). 
+Ottawa, ON: Government of Canada.
+88 Davies, J. 2016. Economic analysis of the costs of flooding. Canadian Water Resources Journal / Revue canadienne des ressources hydriques, 41:1-2, 204-219.  
+89 Alberta Water Portal Society. Economic Impacts of Flooding. Available online: albertawater.com/what-are-the-consequences-of-flooding/economic#ftnt2. 
+90 Expert Management Panel on River Flood Mitigation. 2014. “Calgary’s Flood Resilient Future.” Calgary, AB: Expert Management Panel on River Flood Mitigation.
+91 https://bulletin.cmos.ca/canadas-top-ten-weather-stories-of-2018/
+92 https://www.cbc.ca/news/canada/new-brunswick/fredericton-closes-streets-as-flood-waters-rise-1.754450
+93 https://bulletin.cmos.ca/canadas-top-ten-weather-stories-of-2018/
+94 https://www.cbc.ca/news/canada/new-brunswick/st-john-river-flood-2018-monday-1.4641176
+95 https://www.cbc.ca/news/canada/new-brunswick/flood-new-brunswick-2018-1.4668529
+96 https://www.macintyrepurcell.com/books/new/new-brunswick-underwater-the-2018-saint-john-river-flood-1-detail
+97 https://www.cmos.ca/site/top_ten?a=2016&language=en_CA
+57
+Less than a year later, on August 28, 2017, another extreme rain event hit the region flooding the same area. 
+Within 48 hours, 222 mm of rain had fallen in southwest Windsor and 140 mm to 200 mm in Riverside-Tecumseh. 
+The neighbouring community of LaSalle was hit even harder when 125 mm of rain fell on August 28 and another 
+160 mm of rain fell the next day. In total, 285 mm of rain fell on LaSalle in 32 hours.98 
+Once again, stormwater infrastructure in these neighbourhoods and communities was overpowered as rainwater 
+smothered roads, fields and yards and filled thousands of basements. Insurance payouts for the 2017 rain event 
+totaled $165 million – the most expensive single-storm loss across Canada that year. In addition to insurance 
+claims, the province of Ontario paid out another $1.4 million through the provincial Disaster Recovery Fund.99 
+Between the two events, 11,000 households experienced flooding.
+Factors that contributed to the record breaking claims and high cost of these extreme rainfall events include 
+climate change, the disappearance of wetlands and aging infrastructure.100 In response, municipalities are 
+investing millions of dollars ($120 million as of September 2018) in adaptation measures including improvements 
+to sewer systems, modified roads to support overland water flows, and upgrades to pumping stations in 
+the hardest hit neighbourhoods.101,102 Infrastructure upgrades to manage extreme volumes of water that are 
+underway in the municipalities include:103  
+•	
+A nearly $90-million plan for the Riverside area that includes sewer replacements, upgrades to pumping 
+stations and sewers and rebuilding roads. 
+•	
+Improvements to the Lennon Drain in South Windsor and the Riverside Vista project, both of which will aid 
+storm water management.
+•	
+A $30.3-million plan for Tecumseh to cover the Manning Road ditches and improve sewers and pump 
+capacity along Riverside Drive.
+•	
+A $3-million project in LaSalle to turn a park and sports recreational area into a dry pond in the Heritage 
+Estates and Oliver Farm areas. 
+•	
+Lakeshore’s priorities are making improvements in its sewers and pump capacity in the western end of the 
+town that got hit hard in 2016 and 2017 and to expand its wastewater treatment plan.
+98 https://www.cmos.ca/site/top_ten?a=2016&language=en_CA
+99 https://www.insurancebusinessmag.com/ca/news/flood/windsor-flooding-one-year-on-what-were-the-lessons-learned-110051.aspx
+100 https://www.insurancebusinessmag.com/ca/news/flood/windsor-flooding-one-year-on-what-were-the-lessons-learned-110051.aspx
+101 http://www.windsorpubliclibrary.com/?page_id=63749
+102 https://windsorstar.com/news/local-news/a-year-after-the-flood-municipalities-spending-millions-to-mitigate-future-damage
+103 https://windsorstar.com/news/local-news/a-year-after-the-flood-municipalities-spending-millions-to-mitigate-future-damage
+58
+References
+APPENDIX G
+AGECO (2019). Vers De Grandes Villes Résilientes: Le Cout De L’Aadaptation Aux Changements Climatiques.
+Aubé M. et. al. (2016) Cost Benefit Analysis of Climate Change Adaptation Strategies for the Acadian Peninsula. 
+Research Institute Inc. Green Analytics. For Province of New Brunswick
+Circé, M., Da Silva, L., Boyer-Villemaire, U., Duff, G., Desjarlais, C. and Morneau, F. (2016) Cost-Benefit Analysis for 
+Adaptation Option in Quebec’s Coastal Areas – Synthesis Report. Ouranos, Montréal. 88 pages and appendices.
+City of Moncton (2018). Flood Mitigation Study for Two Residential Areas. FINAL REPORT. Crandal Engineering 
+Ltd. IBI Group.
+City of Thunder Bay. (2015). Climate-Ready City. City of Thunder Bay Climate Adaptation Strategy.
+City of Vancouver. (2012). Climate Change Adaptation Strategy.
+City of Winnipeg. (2018). Winnipeg’s Climate Action Plan. Planning for climate change; Acting for people. Report.
+Delcan (2012). Cost of Adaptation -Sea Dykes & Alternative Strategies: Final Report. British Columbia Ministry of 
+Forests, Lands, and Natural Resoruce Operations. Natural Resources Canada.
+Dore H.I.M. and Burton I. (2001). The Costs of Adaption to Climate Change in Canada: A Stratified Estimate by 
+Sectors and Regions. Social Infrastructure. Climate Change Laboratory, Brock University. St. Catherines, ON.
+Epcor. (2019) Stormwater Integrated Resource Plan (SIRP) – Capital and Operational Plan Alternatives. Utility 
+committee report. Retrieved from: https://www.epcor.com/products-services/drainage/flood-mitigation/
+Pages/plan.aspx
+Félio (2012) for the Canadian Society for Civil Engineering (CSCE), the Canadian Public Works Association 
+(CPWA), the Canadian Construction Association (CCA) and the Federation of Canadian Municipalities (FCM)
+Lamont, G. et. al. (2014): Greening Shorelines to Enhance Resilience. An Evaluation of Approaches for 
+Adaptation to Sea Level Rise; guide prepared by SNC-Lavalin Inc. for the Stewardship Centre for B.C. and 
+submitted to Climate Change Impacts and Adaptation Division, Natural Resources Canada (AP040), 46p.
+Lane D. (2013). Adaptation Support Community Case Study: Little Anse, Isle Madame, Cape Breton. Volume 2 - 
+Participants’ Workshop. C-Change, Canada-Caribbean, Coastal Climate Adaption Strategies.
+Moudrak, N., Feltmate, B., Venema, H., Osman, H. 2018. Combating Canada’s Rising Flood Costs: Natural 
+infrastructure is an underutilized option. Prepared for Insurance Bureau of Canada. Intact Centre on Climate 
+Adaptation, University of Waterloo.
+Municipal Climate Change Action Center. (2016). Mackenzie County Climate Resiliance Action Plan. Climate 
+Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Town of Bruderheim Climate Resiliance Action Plan. Climate 
+Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Town of Black Diamond & Town of Turner Valley Climate 
+Resiliance Action Plan. Climate Resiliance Express; An action kit for Alberta communities.
+59
+Municipal Climate Change Action Center. (2016). Lacomb County Climate Resiliance Express Action Plan. 
+Climate Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Brazeau County Climate Resiliance Express Action Plan. 
+Climate Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Town of Sylvan Lake Climate Resiliance Express Action Plan. 
+Climate Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). City of Spruce Grove Climate Resiliance Express Action Plan. 
+Climate Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Big Lakes County Climate Resiliance Express Action Plan. 
+Climate Resiliance Express; An action kit for Alberta communities.
+Municipal Climate Change Action Center. (2016). Beaver County Climate Resiliance Express Action Plan. Climate 
+Resiliance Express; An action kit for Alberta communities.
+Natural Resources Canada. (2016). Canadian Wildfire Strategy: A 10-year Review and Renewed Call to Action. 
+Canadian Council of Forest Ministers.
+Parnham, H., S. Arnold and A. Fenech (eds.) (2015) Using cost–benefit analysis to evaluate climate change 
+adaptation options in Atlantic Canada. Submitted to Climate Change Impacts and Adaptation Division, 
+Natural Resources Canada, 90p + appendices. Accessed at: http://atlanticadaptation.ca/en/islandora/object/
+acasa%3A799
+Rescan. 2012. Climate Change Adaptation: Cost-benefit Analysis of Adaptation Options in Water Use. Prepared 
+for Saskatchewan Watershed Authority by Rescan Environmental Services Ltd.: Saskatoon, Saskatchewan.
+Société de Développement communautaire de Montreal (2018). RUELLES BLEUES-VERTES Rapport de l’étude 
+de faisabilite. Projet N° 15-611C
+Zhou, F., A. Zhang, R. Li, R. Hoeve, and A. Majid. 2007. Potential Climate Change-Induced Permafrost 
+Degradation and Building Foundations: An Assessment of Impacts and Costs for Five Case Communities in the 
+Northwest Territories. September 2007.
+Zukiwsky J. et. al. (2014). Weather and Climate Readiness Plan. City of Leduc. All One Sky Foundation.
+60

@@ -1,0 +1,901 @@
+Pathways versus incentives: climate activism to climate 
+aligned portfolio management
+Marc Roston 
+1,, Julien Maire1, Alicia Seiger1, Thomas Heller1,2 
+1Sustainable Finance Initiative, Precourt Institute for Energy, , Stanford Doerr School of Sustainability, Stanford University, Stanford, CA 94305, United States 
+2Stanford Law School, Stanford University, Stanford, CA 94305, United States
+Corresponding author. Sustainable Finance Initiative, Precourt Institute for Energy, Stanford Doerr School of Sustainability, Stanford University, 473 Via Ortega, 
+Stanford, CA 94305. USA. E-mail: mroston@stanford.edu
+Abstract 
+Climate activists have pressured financial institutions to accelerate global decarbonization by aligning portfolios with Paris 
+Agreement transition pathways and targets. We trace the progression from the Intergovernmental Panel on Climate Change (IPCC) 
+and International Energy Agency (IEA) scenarios to corporate target setting via the Science-Based Targets Initiative (SBTi) and finan­
+cial institutions’ portfolio alignment methods. We identify three critical weaknesses that will limit efficacy: the absence of rigorous 
+GHG emissions accounting, reliance on centrally planned pathways, and tension with fiduciary duties. These issues undermine the 
+theory of change behind activist and financial sector efforts. As an alternative, we propose Emissions Liability Management (ELM) 
+which treats emissions as liabilities matched by removal assets, directing firms to maintain emissions solvency. Rather than chasing 
+pathways, ELM provides incentives for emissions reductions and removals consistent with shareholder obligations derived from 
+market prices. By reframing climate action in financial terms, ELM can engage financial markets as agents of change in a manner 
+grounded in sound economics.
+Keywords: carbon accounting, financed emissions, portfolio alignment, emissions liability management, transition finance, transi­
+tion pathways 
+Introduction
+In late 2019, Bill McKibben, a leader of the fossil fuel divestment 
+movement, challenged climate activists to follow the money [1]. 
+Financial institutions quickly supplanted fossil fuel companies 
+as the primary targets of a coordinated effort to accelerate decar­
+bonization by applying stakeholder pressure and pursuing regu­
+latory oversight. In less than 2 years, a global coalition of 
+financial services firms announced the formation of the Glasgow 
+Financial Alliance for Net Zero (“GFANZ”) at COP26. By 
+September 2023, GFANZ had assembled more than 550 financial 
+firms across fifty countries representing more than $150 trillion 
+of assets committed to alignment with 2050 Paris Agreement tar­
+gets. GFANZ advocates operate under a theory of change that fi­
+nancial institutions can drive the global economy to net zero 
+emissions in 2050 by harmonizing portfolios with Paris-aligned 
+pathways, targets, and plans.
+The practice of portfolio alignment builds on disclosures of 
+emissions inventories and estimates of financed emissions to 
+steer toward a series of target dates for reductions consistent 
+with a global budget determined in the absence of government 
+action and voluntarily agreed to by capital allocators. In theory, 
+portfolio alignment with targets functions like a report card on 
+transition progress.
+This paper challenges the efficacy of portfolio alignment as a 
+means either to drive, or even to evaluate, capital allocation in 
+support of the economic transformation required by global 
+climate ambitions. We identify foundational flaws, not idiosyn­
+crasies of particular implementations. We propose emissions lia­
+bility management (ELM) first described in Roston, Seiger and 
+Heller as a fit-to-purpose course correction [2]. Coherent carbon 
+accounting and the pursuit of carbon solvency uproot the disclo­
+sure and divestment genealogy of portfolio alignment, clearing 
+the path to investments favoring a low carbon economy.
+In the first section, we describe the links from climate scenar­
+ios to transition pathways and corresponding corporate climate 
+targets at the sectoral level. We then describe the various tools 
+used by financial institutions that attempt to measure portfolio 
+alignment with sectoral transition pathways. We also review cur­
+rent transition plan frameworks that provide guidance on the 
+ways companies and financial institutions should disclose their 
+strategy to reach climate targets.
+In the second section, we identify three critical concerns that 
+impede financial institutions as change agents under current 
+practice. First, carbon emissions counting practices inherent to 
+the Greenhouse Gas (GHG) Protocol distort emissions quantifica­
+tion and attribution thereby undermining the information essen­
+tial to capital allocation efforts. Second, the portfolio alignment 
+process demands investors hew to exogenous prescriptive tech­
+nological pathways. Third, portfolio managers and corporate 
+executives will struggle to reconcile their fiduciary obligations 
+with prescriptive pathways. These concerns conspire to under­
+mine current practice, reducing the likelihood of significant 
+emissions reductions.
+Received: October 24, 2023. Revised: May 08, 2024. Accepted: June 03, 2024 
+© The Author(s) 2024. Published by Oxford University Press.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Oxford Open Climate Change, 2024, 4(1), kgae013  
+https://doi.org/10.1093/oxfclm/kgae013 
+Advance Access Publication Date: 29 July 2024 
+Perspective Article   
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+In the third section, we discuss ELM as a parsimonious alter­
+native to portfolio alignment tools. ELM treats GHG emissions 
+as a liability that must be defeased by a carbon removal asset. 
+A firm with carbon assets greater than or equal to emissions lia­
+bilities is solvent. Firms decarbonize operations and supply 
+chains because the price of carbon removal assets exceeds decar­
+bonization costs. Portfolio managers allocate capital to optimize 
+investment returns considering expected future carbon removal 
+costs. A framework that flows from an endogenous carbon price 
+ensures effective capital allocation consistently applied either by 
+voluntary actors or agents under a compliance regime. We con­
+clude with further implications for portfolio management prac­
+tice in the context of well-established economic theory.
+Corporate targets and portfolio alignment
+All firms, financial and non-financial, engage in investment ac­
+tivities. Applying pressure via investment activities to financial 
+institutions, therefore, requires understanding non-financial 
+firm alignment as a set of initial conditions. We begin with the 
+basis for corporate (non-financial) target setting aligned with 
+transition pathways and scenarios. We then turn to financial- 
+institution-specific measures of target setting and alignment. We 
+do not intend to exhaustively discuss all portfolio alignment 
+methods. They share fundamental approaches and characteris­
+tics that we will evaluate in the next section.
+The Science-Based Targets Initiative (SBTi) provides primary 
+guidance to the corporate sector on emissions reduction path­
+ways informing company-specific emissions reduction targets at 
+different time horizons (e.g. 2030, 2050). The Intergovernmental 
+Panel on Climate Change (IPCC) and the International Energy 
+Agency (IEA) develop climate scenarios and sectoral pathways 
+based on an IPCC Paris-Aligned global carbon budget. SBTi trans­
+lates climate scenarios and sectoral pathways into methods by 
+which a company sets its own targets. Finally, SBTi approves 
+those 
+targets. 
+Complementarily, 
+the 
+Transition 
+Pathway 
+Initiative (TPI) provides a heuristic approach to evaluating corpo­
+rate alignment with sectoral climate targets in the short-, me­
+dium- and long-term.
+We first review portfolio alignment approaches developed by 
+SBTi and GFANZ, that subsumed earlier work by the Portfolio 
+Alignment Team [3, 4]. Then, we turn to the Paris Agreement 
+Capital Transition Assessment (PACTA) approach that aggregates 
+physical assets at the security level to evaluate alignment. 
+Finally, we review the recently announced Transition Plan 
+Taskforce (TPT) framework. Figure 1 illustrates the relationships 
+between the various organizations and approaches discussed in 
+this section.
+Corporate targets
+SBTi sets standards for aligning companies’ targets with emis­
+sions reduction pathways [5, 6]. SBTi strategy takes as given the 
+global carbon budget (i.e. the aggregate net emissions allowable 
+to limit temperature rise with some probability, e.g. 1.5C with 
+50% probability) and an emissions scenario (i.e. the carbon bud­
+get distribution through time and across sectors), then provides 
+an allocation method (i.e. how a carbon budget is allocated 
+across companies.)
+SBTi-compliant firms then use one of two methods to set their 
+own targets. The absolute contraction approach (ACA) requires com­
+panies reduce their absolute emissions at the same rate, versus 
+the sectoral decarbonization approach (SDA) (sometimes called 
+the sector-specific intensity convergence approach) that requires 
+each company within a sector reduce its emissions intensity to a 
+sector-specific, target-date-specific level, based on market share. 
+ACA applies to sectors lacking technological pathways for decar­
+bonization; SDA to sectors with well-defined technological path­
+ways, or homogenous carbon-intensive sectors described with a 
+single physical indicator [7]. For instance, SBTi recommends us­
+ing the ACA for the apparel and footwear sector because no ap­
+parent technology drives reductions. In contrast, power sectors 
+have demand-projected pathways dependent on feasible, if 
+costly, technology.
+Two-thirds of companies with SBTi-approved targets follow 
+the ACA [8]. This method calculates minimum annual reduction 
+rates to limit warming well-below 2C. SBTi aligns with an enve­
+lope scenario aggregated from IPCC scenarios that differ by decar­
+bonization rate, peak emissions year, and carbon offset-reliance. 
+Additionally, the envelope scenario excludes ACA scenarios 
+where emissions do not peak in the 2020 timestep and where an­
+nual linear reduction (2020–2035) is in the least ambitious 20th 
+percentile. According to the ACA, Paris Agreement alignment 
+requires 4.2% annual reductions [8].
+The SDA method relies on IEA sectoral mitigation pathways 
+derived from Integrated Assessment Models (IAMs) tailored to 
+the specificities and constraints of each sector. Such pathways 
+require assumptions about highly uncertain technology-specific 
+future marginal abatement costs and economic growth inherent 
+to all IAMs.
+The Transition Pathway Initiative (TPI), overseen by the 
+Grantham Research Institute at the London School of Economics 
+and supported by asset owners and managers, provides a compli­
+mentary approach to SBTi [9]. TPI’s carbon performance metric 
+measures corporate alignment based on individual firm’s dis­
+closed deviations from a sector-based carbon intensity measure 
+for short-, medium- and long-term targets for 2025, 2030 and 
+2050, respectively. TPI has several other climate assessment 
+tools, including a pilot framework examining banks’ forward- 
+looking preparedness for and support of a climate transition [10].
+Portfolio alignment
+Portfolio alignment for a financial institution requires metrics 
+allowing aggregation of underlying corporate targets and prog­
+ress toward such targets. With some implementation variation, 
+financial institutions follow three steps to align their portfolios: 
+climate metric choice (e.g. absolute emissions, emissions inten­
+sity, implied temperature rise, attribution factor, inclusion of 
+Scope 3 emissions, etc.), climate scenario choice, and climate tar­
+get definition. SBTi is one instantiation of this three-step process.
+SBTi for financial institutions
+SBTi guidance for financial institutions parallels transition path­
+ways defined for any other sector, adding the distinction between 
+operational emissions and financed emissions (e.g. from invest­
+ment and lending activities) [11]. Operational emissions targets 
+for financial institutions function similarly to any other services 
+firm. Tackling portfolio emissions involves multiple possible 
+approaches, such that SBTi recommends one of three options: 
+the sectoral decarbonization approach (SDA) applied at the port­
+folio level, the portfolio coverage approach, or the temperature 
+rating approach. (However, Roston notes that (a) the concept of 
+aggregating financed emissions that include Scope 3 across firms 
+violates the GHG Protocol guidance against aggregating down­
+stream emissions across firms, and (b) financed emissions 
+applies inconsistently across service sector firms, e.g. consulting 
+and transportation [12].)
+2 | Roston et al.  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+Under portfolio-level SDA, financial institutions begin by cal­
+culating baseline GHG Protocol emissions (Scopes 1, 2 and 3) for 
+all portfolio companies. These measures serve as inputs into 
+Partnership for Carbon Accounting Financials (PCAF) attribution 
+approaches based on the particular securities or investments 
+held and PCAF’s role as the arbiter of financed emissions under 
+Scope 3 Category 15 [13]. The financial institution seeks to avoid 
+investments that drive deviations from SDA convergence.
+Under the portfolio coverage approach, the share of portfolio 
+firms with SBTi targets informs decision-making (e.g. an asset 
+manager commits that 30% of its portfolio for an asset class or a 
+specific sector will have targets by 2025.) Again, implementation 
+drives an investor or bank to reduce exposure to non-compliant 
+investments.
+The temperature rating approach aims to translate portfolio 
+companies’ climate targets into a long-term temperature score. 
+First, a financial institution, following SBTi’s or their proprietary 
+methods, estimates the relationship between companies’ targets 
+and global temperature outcomes. Second, by portfolio level ag­
+gregation (by various weighting schemes) the financial institution 
+calculates an emissions impact measure. Finally, the emissions 
+impact measure from the second step maps to a temperature 
+outcome from the first step.
+GFANZ
+In parallel, GFANZ has proposed four tools to evaluate portfolio 
+Paris-alignment with the stated goal of moving beyond divest­
+ment and toward effective practitioner engagement [14]. 
+GFANZ’s binary targets metric closely aligns with the SBTi 
+portfolio coverage approach, encouraging increasing target set­
+ting for a portfolio’s holdings. The implied temperature rise metric 
+mirrors the SBTi temperature rating approach attempting to cal­
+culate a portfolio-aligned temperature.
+The novel benchmark divergence metric, with no SBTi analog, 
+compares a company’s projected cumulative emissions with a 
+sector specific benchmark to identify under- and over-shooting 
+reductions at the portfolio level.
+The final GFANZ tool assigns companies based on quantita­
+tive and qualitative factors to performance categories (“aligned,” 
+“aligning,” “committed to aligning,” or “not aligned”) including 
+criteria 
+of 
+stated 
+targets, 
+past 
+performance, 
+disclosure, 
+and governance.
+PACTA
+PACTA provides yet another method to measure portfolio align­
+ment with transition pathways [15]. Unlike GFANZ and SBTi that 
+focus on emissions, PACTA is technology focused and takes a 
+bottom-up approach linking financial instruments to specific 
+physical assets (e.g. a firm’s particular steel smelting technol­
+ogy), then evaluating asset alignment with technological decar­
+bonization 
+pathways. 
+This 
+method 
+more 
+directly 
+links 
+technologies with Paris Agreement goals and favors engagement 
+over divestment.
+Importantly, PACTA departs from targeting financed emis­
+sions and instead primarily focuses on deployment of technolo­
+gies that could reach Paris Agreement goals, thereby avoiding 
+direct reliance on the GHG Protocol.
+Porolio Alignment Tools
+SBTi Financial Sector and GFANZ
+Corporate Sector Targets
+SBTi
+Global Carbon Budget
+IPCC & IEA
+Carbon Coun!ng
+GHG Protocol
+Scope 1
+Scope 2
+Scope 3 
+PCAF
+Progress Evalua!on
+TPI
+Planning Frameworks
+GFANZ and TPT
+Technology Alignment
+PACTA
+Technology
+Sectors
+Time
+Alignment Measures
+Figure 1. Corporate and financial transition: targets, pathways and tools. The IPCC defines a global carbon budget and the IPCC and IEA allocate 
+emissions based on identified technologies across sectors and through time. SBTi and other target-setting organizations filter the global carbon budget 
+through the GHG Protocol carbon counting practices. The corporate sector sets targets, typically approved by SBTi. GFANZ and TPT provide methods to 
+define financial institution plans. SBTi and GFANZ tools evaluate portfolio alignment, and TPI assesses financial institutions alignment progress. 
+GFANZ, TPT, TPI plans and tools interact with each other over time. PACTA bypasses emissions counting, relying on prescribed technologies to 
+assess alignment.
+Pathways versus incentives | 3  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+Transition Plan Taskforce
+Setting targets is easy. Many companies have set climate targets 
+following SBTi or other approaches. Few provide clarity into tran­
+sition plans for achieving targets. Similarly, portfolios may set 
+PACTA or GFANZ informed targets, but laying plans to meet 
+those targets raises a different set of challenges discussed in the 
+Conclusion of the paper. The Transition Plan Taskforce (TPT) has 
+emerged as a leading force providing clarity and guidance into 
+transition plans to meet targets [16].
+TPT, launched by HM Treasury, aims to become the arbiter of 
+transition plans. Unlike other frameworks and standards, TPT 
+grew out of the need for the Financial Conduct Authority (FCA), 
+the UK financial regulator, to implement new climate disclosure 
+rules [17]. TPT implementation requires firms to: disclose objec­
+tives, priorities, and targets at various time horizons as well as 
+impacts on their business models; prepare implementation strat­
+egy and underlying assumptions supporting that strategy; de­
+scribe stakeholder engagement approaches; and establish 
+internal evaluation metrics and governance strategy.
+Evaluating progress and potential
+The corporate target-setting methods and portfolio alignment 
+tools described in the previous section share core characteristics, 
+in large part because they are successive tools attempting to 
+build upon and improve earlier iterations. This patchwork ap­
+proach does not solve the three fundamental weaknesses de­
+scribed in this section: (i) faulty carbon accounting; (ii) inflexible, 
+centrally planned pathways; and (iii) difficult-to-reconcile chal­
+lenges with fiduciary obligations.
+Faulty counting foundations
+SBTi targets rely on GHG Protocol Scopes 1, 2 and 3, (direct emis­
+sions, purchased-energy emissions, and value-chain emissions, 
+respectively.) A company setting targets and forward commit­
+ments, therefore, must estimate its own future direct emissions 
+under ACA or SDA, its electricity provider’s future emissions un­
+der SDA, and its entire future value chain under ACA or SDA, as 
+appropriate, for the varied sectors of their suppliers and custom­
+ers. This methodology raises serious credibility concerns. Only 
+Scope 1 emissions enter the atmosphere. Scope 2 attempts to 
+count another firm’s emissions attributed to purchased electric­
+ity, heating, and cooling but in practice falls short, only counting 
+a subset of combustion emissions [18]. Scope 3, due to ambiguous 
+boundaries and implementation discretion, arbitrarily, inconsis­
+tently, and unknowably overcounts emissions [12, 19]. A com­
+pany cannot credibly commit to current or future targets tied to 
+ambiguous boundaries or activities outside its control.
+Rekker et al. also notes that SBTi allows firms to select favor­
+able baseline measures [20]. SBTi transition pathways are un­
+likely to add-up globally, as emerging markets and developing 
+economies face technological and financial constraints to SDA 
+alignment. Finally, recent empirical work has considered SBTi 
+target-setting efficacy, finding limited support [21, 22].
+The challenges compound for financial institutions as a 
+change-agent. Roston observes the inherent contradiction in 
+Scope 3 calculations: the GHG Protocol Corporate Standard spe­
+cifically prohibits comparing emissions across firms yet financed 
+emissions calculations (Scope 3 Category 15) require adding 
+them—which only makes sense if they are comparable [12]. As 
+Jia et al. and Roston, Seiger and Heller note a carbon accounting 
+system must be mutually exclusive and comprehensively ex­
+haustive [2, 23]. As more tools build on the GHG Protocol, it 
+crumbles as a foundation for identifying and evaluating emis­
+sions reductions.
+The limits of central planning
+Transition pathways fail reasonable tests of robustness because 
+they depend on exogenously specified, deterministic technologi­
+cal diffusion rather than endogenous investment decisions or 
+capital allocation.
+Climate scenarios
+The IPCC proposes climate scenarios describing a representative 
+outcome of aggregated uncertainty across underlying model var­
+iants and risks. Thus, any particular climate scenario represents 
+one possible path for emissions, economic activity, technological 
+diffusion, and other risks and uncertainties. Investors have 
+slowly repurposed climate scenarios as normative pathways de­
+spite their origins as policy tools. SBTi treats scenarios as deter­
+ministic, much like technological pathways—planned normative 
+outcomes—not flexible drivers of incentives and investment.
+Decarbonization approaches
+Under SBTi’s SDA, firm carbon intensities converge to sector tar­
+gets by 2050. Financial institutions might identify holdings devi­
+ating from these pathways, but identifying deviations does not 
+inform effective decision-making for investors. These rules tell 
+investors which companies should enter a portfolio, and which 
+should not, based on current characteristics. Nothing in this ap­
+proach tells investors how to make tradeoffs between the two, or 
+why investors might benefit. Indeed, any approach focused on 
+current financed emissions more likely supports divestment (an­
+other exogenous rule) rather than engagement or transforma­
+tion. (See, e.g. [24]. We distinguish between absolute and relative 
+divestment strategies. Absolute divestment rules likely hit other 
+binding constraints on portfolio construction. Engagement and 
+transformation require expectations of future costs, to which we 
+return in the concluding section.) SBTi’s ACA takes a further 
+step, constructing reduction pathways to which firms must hew, 
+without a technological (or other) basis.
+The global emissions budget allocation defining sectoral tran­
+sition pathways does not allow for economic or financial varia­
+tion. For example, developing economies likely cannot follow 
+transition pathways of wealthier nations. SDA convergence 
+around the globe demands more than a central authority point­
+ing to identifiable technologies that exist. Failing to account for 
+these limitations, especially in the short- and medium-run, 
+undermines the relevance and efficacy of any sector allocation of 
+the global carbon budget, sectoral transition pathways, or cli­
+mate targets.
+TPI’s carbon performance metric sidesteps the details of SBTi 
+targets, presenting asset managers a simpler, potentially compli­
+mentary approach. TPI jumps over the company specific initial 
+conditions and approaches to sectoral pathways or evaluations 
+of commitment intentions, instead relying entirely on alignment 
+with general sectoral pathways. While TPI might remove judge­
+ment from pathway deviations, it still ties firms most closely to 
+central planning approaches.
+Fiduciary obligations
+Ostensibly committed to limiting global warming to 1.5C, Paris- 
+aligned firms must confront their obligations to pursue climate 
+goals while maximizing shareholder value over a given time hori­
+zon. (Shareholder value may simply follow Friedman, focusing 
+on shareholder returns, or broader measures with ethical or 
+4 | Roston et al.  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+external implications, following Hart and Zingales, among others 
+[25, 26].) Similarly, asset managers must reconcile climate goals 
+with obligations to serve their clients’ interests. And the apparent 
+need for coordination absent legislative action must align with 
+(real or imagined) anti-trust concerns.
+Asset managers have many ways to justify the pursuit of net 
+zero targets in the best interest of shareholders and clients. For 
+example, Roston argues that climate change and carbon emis­
+sions might logically indicate exposures to risk factors that could 
+impact a firm or a portfolio in the future [27]. A manager’s pur­
+suit of net zero therefore amounts to an insurance-like action 
+taken considering an uncertain future. Corporate executives and 
+boards regularly make risky investment decisions with share­
+holder capital that might diverge from consensus. They do not 
+exclusively focus on generally known risks or opportunities. In 
+fact, those decisions describe executive “skill.” The reason a 
+board employs a particular CEO is her unique perspective that 
+deviates from competitors’ tactics or strategy.
+The same holds for investment managers: disparate invest­
+ment decisions driven by proprietary data or insights describe 
+the elusive “alpha” or excess returns in investment portfolios. 
+Shareholders and investors reconcile these differences within the 
+framework of fiduciary expectations.
+While supporting emissions reductions to ensure long-term 
+sustainability of individual firms, portfolios, or even clients 
+themselves supports global interests [28], firms and portfolio 
+managers pursuing the transition should not hide the fact that 
+emissions reductions, beyond a certain threshold, involve trade­
+offs with fiduciary obligations [29]. If a company or portfolio 
+manager significantly decreases its emissions (footprint or fi­
+nancing) in the short-run, short-term performance may suffer 
+even 
+when 
+shareholders 
+or 
+clients 
+clearly 
+understand 
+the tradeoffs.
+These tradeoffs are particularly salient in the case of current 
+climate-target setting to the extent that companies and financial 
+institutions have no legal or financial obligation to align with a 
+1.5C trajectory. Current approaches to corporate and financial 
+institution alignment ignore this entirely, limiting the scope of 
+most actions to pre-emptive compliance functions, likely jeopar­
+dizing success.
+To overcome fiduciary concerns, companies and financial 
+institutions must be clear about their approach to climate risks, 
+explaining tradeoffs between climate risks, long-term opportuni­
+ties, and near-term returns. Finally, stakeholders and regulators 
+alike must understand that meaningful climate strategy provides 
+competitive advantages, not a disclosure and compliance func­
+tion. Figure 2 identifies, relative to Fig. 1, the incidence of the pre­
+ceding weaknesses.
+Incentive alignment
+Climate target setting and transition pathway management have 
+fundamental challenges that will continue to limit practitioners’ 
+ability to achieve desired outcomes. This section presents a more 
+robust and effective approach to accelerate decarbonization, 
+building on the well-understood financial tools of cost account­
+ing and asset-liability matching that provide managers and 
+investors decision-useful incentives to align with a low car­
+bon future.
+Carbon accounting
+To effectively transition our global economy from high- to low- 
+carbon, a system of transparent and expedient information shar­
+ing must emerge. A critical foundation is functional carbon 
+accounting. The GHG Protocol—the system that underpins cur­
+rent measurement—was not designed as an accounting system 
+though it is being used for that purpose today [12].
+Kaplan and Ramanna [19] developed the E-liability method as 
+a functional carbon accounting system. This approach applies 
+principles of cost accounting to carbon emissions, passing actual 
+emissions from supplier to customer in a similar fashion to the 
+transfer of goods and services. At each step in a supply chain, a 
+firm inherits input goods and services from suppliers and the as­
+sociated embodied emissions of those goods and services, adds 
+its direct emissions to products or services, and passes those in­
+cremental emissions to customers. Thus, any firm knows and 
+reports its cradle-to-gate emissions simply by receiving E-Liabilities 
+from direct suppliers and knowing its own direct emissions. No esti­
+mates. No industry averages. (A detailed treatment of E-Liability 
+accounting falls beyond the scope of this paper. Readers unfamil­
+iar should review the source material.)
+E-liability accounting is mutually exclusive and comprehen­
+sively exhaustive—an essential characteristic of a valid account­
+ing system [23]. E-liability accounting maintains consistency at 
+any level of aggregation: across a supply chain, at a regional, na­
+tional, or global level. Finally, E-liability accounting enables fi­
+nancial institutions to accurately calculate financed emissions. 
+The next section describes a method to coherently endogenize 
+carbon pricing across a supply chain, financial portfolio, or the 
+global economy in the absence of global regulation.
+Emissions liability management
+While accurate carbon accounting through the E-liability method 
+is a necessary step to reduce emissions, it will not be sufficient to 
+achieve climate goals defined by the Paris Agreement. Roston, 
+Seiger and Heller propose Emissions Liability Management (ELM) 
+as a method that equates a net zero claim with carbon balance 
+sheet solvency: carbon emissions create long duration liabilities 
+(E-liabilities) that a firm must defease with duration-matched 
+carbon removal assets (E-Assets) [2]. (For a detailed discussion of 
+E-assets, see [30].)
+A firm accounts for cradle-to-gate embodied emissions—in 
+GHG Protocol language, actual upstream Scope 3 (versus esti­
+mates), actual emissions from purchased heat and electricity (not 
+Scope 2 estimates [18]), and Scope 1 emissions. The firm may al­
+locate those E-Liabilities appropriately to goods or services 
+passed to customers. Or, the firm may retain those E-Liabilities, 
+matching them with E-Assets on a solvent carbon balance sheet.
+Under this approach, a “net zero” firm removes from the atmo­
+sphere all the emissions it produces, from cradle to gate. As impor­
+tantly, a net zero firm will reduce supply chain emissions directly 
+because the cost of defeasing E-Liabilities with E-Assets typically 
+will exceed the cost of avoiding E-Liabilities in the first place. 
+Similarly, a firm produces a net zero product by passing zero E-li­
+abilities to customers, retaining all supply chain E-liabilities.
+In this framework, the market price of durable removals pro­
+vides the price signal to internalize the externality of emissions. 
+A firm would prefer spending to reduce emissions rather than 
+paying the price to remove emissions. Thus, ELM defines a target 
+outcome (“no additional atmospheric CO2,” or a meaningful defi­
+nition of “net zero”) that leads to effective emissions reductions 
+(“reductions cost less than removals.”) For ELM motivation and 
+details, see [2].
+Capital allocation
+In contrast to SBTi and other frameworks, ELM does not tie firm 
+risks to particular climate scenarios, requires no predictions of 
+Pathways versus incentives | 5  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+technological pathways or assumptions about diffusion of such 
+technologies, and builds on the way financial institutions already 
+think about capital allocation and investment decisions.
+For example, In the language of asset management, Roston 
+[27] and Bolton, Kacperczyk and Samama [31] trade-off current 
+period emissions with tracking error without incorporating dispa­
+rate beliefs about strategy, credibility, or forward-looking goals in 
+a single period optimization. Both simply set a current portfolio 
+decarbonization target, optimize, and construct a portfolio. 
+Portfolio alignment tools attempt the same exercise over longer 
+horizons which violates rules of economic theory, discussed fur­
+ther in the conclusion. Capital consumption attributed to 
+expected costs of E-Assets under ELM would function as differen­
+tiated signals based on public and private information.
+Carbon solvency sets an unambiguous standard for firm net 
+zero goals. Calculate liabilities. Calculate assets. If assets meet or 
+exceed liabilities, carbon solvency holds. Absent carbon solvency, 
+a firm cannot make net zero claims. While Kaplan, Ramanna and 
+Roston [24] suggest the emissions liability duration ought to be 
+one thousand years, in practice firms might simply set a duration 
+liability and a plan to increase that duration. Investors and lend­
+ers would see current and future expected capital consumption 
+demanded by E-asset purchases, allowing them to evaluate emis­
+sions reduction pathways of individual firms based on specific 
+circumstances and actions. Whether a firm chooses its own lia­
+bility duration, or policymakers impose one, the duration drives 
+a market for the appropriate removals. Moreover, in the absence 
+of legislative action, ELM relies on market prices for E-assets to 
+drive decarbonization—rather than an arbitrary and potentially 
+fraught consensus-driven exogenous price. (An explicit call for 
+all firms to set an internal carbon price at someone’s estimate of 
+the social cost of carbon, for example, might look like collusion. 
+A call for all firms to declare a liability duration for their emis­
+sions, and thereby derive a market price for their liabilities based 
+on traded E-assets entirely avoids such concerns.)
+ELM provides a sound and precise basis for stakeholder en­
+gagement. Financial institutions might pressure firms on capital 
+allocation toward emissions reductions because they would oth­
+erwise consume more capital purchasing E-assets. Activists and 
+aligned financial investors could pressure firms to increase their 
+stated liability duration.
+Conclusion
+Climate activism has pursued ambitious goals to accelerate 
+economy-wide decarbonization, but current approaches using 
+transition pathways, targets, and financial institution portfolio 
+alignment face fundamental challenges. The reliance on flawed 
+carbon accounting methods, rigid and technologically prescribed 
+pathways, and tension with fiduciary obligations limit the effi­
+cacy of existing frameworks.
+To overcome these weaknesses, ELM and carbon solvency pro­
+vide a firm foundation for climate action. Treating greenhouse 
+gas emissions as auditable liabilities that emitters must match 
+with verifiable removal assets makes net zero claims unambigu­
+ous. Accurate disclosures become a means to an end where emis­
+sions accounting provides a quantity signal to a removals 
+market. The market price of true carbon removals incentivizes 
+emissions reductions, as abatement costs will likely be lower 
+than removal costs. The demand for removal assets also signals 
+the need for further development of carbon removal methods, in­
+cluding nature-based solutions.
+Porolio Alignment Tools
+SBTi Financial Sector and GFANZ
+Corporate Sector Targets
+SBTi
+Global Carbon Budget
+IPCC & IEA
+Carbon Coun!ng
+GHG Protocol
+Scope 1
+Scope 2
+Scope 3 
+PCAF
+Progress Evalua!on
+TPI
+Planning Frameworks
+GFANZ and TPT
+Technology Alignment
+PACTA
+Technology
+Sectors
+Time
+Alignment Measures
+Fiduciary Obligations
+Invalid Accounting
+Central Planning
+Figure 2. Transition pathway challenges. The financial sector approach to portfolio alignment faces three challenges. First, the global carbon budget 
+allocation relies on centrally planned technology diffusion. Second, the carbon budget allocation filters through the lens of the GHG Protocol so that 
+emission counts are not mutually exclusive nor comprehensively exhaustive. Third, implementation must align with fiduciary obligations and avoid 
+anti-trust concerns.
+6 | Roston et al.  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+The formal incorporation of expected future carbon removal 
+prices is essential to resolving a cautionary criticism from macro­
+economic policymaking known as the Lucas Critique [32]. 
+Sargent explains that “Lucas (1976) criticized a range of econo­
+metric policy evaluation procedures because they used models 
+that assumed private agents’ decision rules to be invariant with 
+respect to the laws of motion they faced” [33]. Kahn explains that 
+“at the heart of the Lucas Critique is the idea that rational agents 
+re-optimize as the ‘rules of the game change.’ While Lucas fo­
+cused on how optimal consumption and investment behavior 
+evolves as government policy changes, the same logic can be ap­
+plied to ‘Mother Nature’ changing the rules of the game” [34]. An 
+endogenous market price for carbon removals captures the es­
+sential expectations-driven information aggregation essential for 
+effective capital allocation. This price incorporates wide variation 
+in “rules of the game” changes from emissions-to-temperature 
+response functions to temperature-to-damage functions; from 
+government policy changes and technological developments to 
+effectiveness of climate activism.
+Absent the incorporation of carbon price expectations into in­
+vestment decisions, the only action investors take is relative di­
+vestment. Roston [27] and Bolton, Kacperczyk and Samama [31] 
+demonstrate this with straightforward portfolio construction 
+methods. They construct portfolios with arbitrary levels of emis­
+sions reductions based on the current period benchmark. They 
+cannot possibly construct portfolios that include firms not in a 
+benchmark. They cannot systematically overweight firms in a 
+benchmark that investors expect to change their operations in 
+favorable ways. So, they divest from high emitting firms and real­
+locate toward lower emitting firms only based on tracking error 
+“costs” subject to tracking error limits. Nothing in this structure 
+provides information to invest in other firms. That problem per­
+sists throughout the variants of portfolio alignment tools. An in­
+vestor may align with a known benchmark or portfolio consisting 
+of firms known today, engaged in business known today. When 
+rules of the game change, incorporating future information 
+through expectations is the only possible solution.
+Recent attempts by GFANZ to describe portfolio management 
+approaches fall short for identical reasons. Incorporating current 
+metrics, characteristics, plans and pledges can only resolve today. 
+An expected carbon price focuses attention on a future that cap­
+tures all the changes to the rules of the game. In other words, to 
+have positive impact, portfolio alignment requires aligning with 
+a moving target that incorporates the collective expectations for 
+the economy, political economy, and environment of the future.
+For climate stakeholders, from activists to investors, and exec­
+utives to customers, current and expected carbon prices and 
+quantities are the most important decision-useful information 
+for Paris-Alignment. Reframing climate risk in terms of capital 
+requirements, cost of capital, and asset-liability management 
+aligns with financial institution expertise. Rather than relying on 
+rigid pathways detached from actual firm economics, ELM inte­
+grates climate objectives into financial decision-making and 
+challenges firms to reach meaningful net zero commitments in­
+stead of vague promises. This market-driven, incentive-compati­
+ble approach centered on positive climate outcomes has greater 
+potential to drive meaningful emissions reductions across 
+the economy.
+At first blush, this approach may seem unsatisfying to climate 
+activists. Pathways and targets look much easier and more direct. 
+That is an illusion, which imagines capital allocators can predict 
+a complex future over a long time-horizon. In reality, the future 
+emissions budget is unknowable. Even if a total future emissions 
+budget emerges, there is no globally acceptable allocation for 
+that budget. Even if there were a globally acceptable allocation 
+for that budget, there would be no enforcement mechanism.
+Investor behavior changes when investor expectations 
+change. Activists have successfully pressured regulators to man­
+date disclosures and firms to pledge portfolio alignment with 
+normative targets. This has shifted corporate and investor 
+expectations 
+about 
+reporting 
+and 
+compliance 
+costs. 
+Unfortunately, this pressure has not shifted investor expecta­
+tions of carbon prices. Climate action should focus on the 
+expected price. What are activists to do? Pressure individual 
+firms to acknowledge emissions liabilities and therefore invest in 
+avoiding liabilities and acquiring removal assets. This strategy 
+both solves for a firm’s obligations and raises the expectations of 
+market participants that the future will demand emissions sol­
+vency. At the same time, activist pressure to mandate emissions 
+liabilities provides the strongest signal for the value of avoided 
+emissions and the price of removal assets. Activism should not 
+follow the money. Activism should drive the price.
+Author contributions
+Marc Roston (Conceptualization [lead], Formal analysis [equal], 
+Methodology [equal]), Julien Maire (Conceptualization [support­
+ing], Formal analysis [equal], Methodology [equal]), Alicia Seiger 
+(Conceptualization 
+[supporting], 
+Formal 
+analysis 
+[equal], 
+Methodology [equal]), and Thomas Heller (Conceptualization, 
+Supervision, Validation [supporting])
+Conflict of interest: None declared.
+Funding
+None declared.
+References
+01. McKibben B. Money is the oxygen on which the fire of global 
+warming burns. The New Yorker, 17 September 2019.
+02. Roston M, Seiger A, Heller T. What's next after carbon account­
+ing? Emissions liability management. Oxford Open Climate 
+Change 2023;3:1. https://doi.org/10.1093/oxfclm/kgad006.
+03. Portfolio Alignment Team. Measuring Portfolio Alignment: 
+Assessing the position of companies and portfolios on the path 
+to 
+Net 
+Zero, 
+2020. 
+https://www.tcfdhub.org/wp-content/ 
+uploads/2020/10/PAT-Report-20201109-Final.pdf (3 May 2024, 
+date last accessed).
+04. Portfolio Alignment Team. Measuring Portfolio Alignment: Technical 
+Considerations, 
+2021. 
+https://www.tcfdhub.org/wp-content/ 
+uploads/2021/10/PAT_Measuring_Portfolio_Alignment_Technical_ 
+Considerations-9.8.pdf (3 May 2024, date last accessed).
+05. Science-Based Target Initiative. Foundations of Science-Based Target 
+Setting, 2019. https://sciencebasedtargets.org/resources/files/ 
+foundations-of-SBT-setting.pdf (3 May 2024, date last accessed).
+06. Science-Based Targets Initiative. Pathways to Net-Zero: SBTi 
+Technical 
+Summary, 
+2021. 
+https://sciencebasedtargets.org/ 
+resources/files/Pathway-to-Net-Zero.pdf (4 May 2024, date 
+last accessed).
+07. Science Based Targets Initiative. Getting Started Guide For Science- 
+Based Target Setting, 2024. https://sciencebasedtargets.org/ 
+resources/files/Getting-Started-Guide.pdf (4 May 2024, date 
+last accessed).
+Pathways versus incentives | 7  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024
+08.
+Science Based Targets Initiative. Understanding the Methods for 
+Science-based Climate Action, 2021. https://sciencebasedtargets. 
+org/news/understand-science-based-targets-methods-climate- 
+action (4 May 2024, date last accessed).
+09.
+Transition Pathways Initiative. Methodology Report: Management 
+Quality and Carbon Performance, 2021. https://www.transition 
+pathwayinitiative.org/publications/90.pdf?type=Publication (4 
+May 2024, date last accessed).
+10.
+Transition Pathways Initiative. Transition Pathways Initiative— 
+Banks, 
+2024. 
+https://www.transitionpathwayinitiative.org/ 
+banks (4 May 2024, date last accessed).
+11.
+Science-Based Targets Initiative. Financial Sector Science-Based 
+Targets Guidance, 2022. https://sciencebasedtargets.org/resour 
+ces/files/Financial-Sector-Science-Based-Targets-Guidance.pdf 
+(4 May 2024, date last accessed).
+12.
+Roston, M. The road from scope 3 to net zero. In: Heller T, Seiger 
+A (eds), Settling Carbon Accounts. Palgrave Macmillan, Cham, 
+Switzerland 2021, pp. 59–70. https://doi.org/10.1007/978-3-030- 
+83650-4_4
+13.
+Partnership for Carbon Accounting Financials. The Global GHG 
+Accounting and Reporting Standard Part A: Financed Emissions, 2022. 
+https://carbonaccountingfinancials.com/files/downloads/PCAF- 
+Global-GHG-Standard.pdf (4 May 2024, date last accessed).
+14.
+Glasgow Financial Alliance for Net Zero. Measuring Portfolio 
+Alignment: Driving Enhancement, Convergence, and Adoption, 2022. 
+https://assets.bbhub.io/company/sites/63/2022/09/Measuring- 
+Portfolio-Alignment-Enhancement-Convergence-and-Adoption- 
+November-2022.pdf (4 May 2024, date last accessed).
+15.
+Two Degrees Investing Initiative. Credit Portfolio Alignment: An 
+Application of the PACTA Methodology by Katowice Banks in 
+Partnership with 2DII, 2020. https://2degrees-investing.org/wp- 
+content/uploads/2020/09/Katowice-Banks-2020-Credit-Portfolio- 
+Alignment.pdf (4 May 2024, date last accessed).
+16.
+Transition Plan Taskforce. The Transition Plan Taskforce Disclosure 
+Framework, 2022. https://transitiontaskforce.net/wp-content/ 
+uploads/2022/11/TPT-Disclosure-Framework.pdf (4 May 2024, 
+date last accessed).
+17.
+Transition Plan Taskforce. Transition Plan Taskforce—About. https:// 
+transitiontaskforce.net/about/ (4 May 2024, date last accessed).
+18.
+Roston M, Seiger A, Matheison A. What's scope 2 good for? 
+Oxford Open Climate Change 2024. https://doi.org/10.1093/ 
+oxfclm/kgae011
+19. Kaplan R, Ramanna K. Accounting for Climate change. Harv Bus 
+Rev 2021;99:120–31.
+20. Rekker S, Ives MC, Wade B et al. Measuring corporate paris com­
+pliance using a strict science-based approach. Nat Commun 
+2022;13:4441.
+21. Bolton P, Kacperczyk M. Firm commitments. Naional Bureau of 
+Economic Research Working Paper Series No. 31244, 2023. 
+https://doi.org/10.3386/w31244
+22. Comello S, Reichelstein J, Reichelstein, S. Corporte carbon 
+pledges: an effective mitigation tool to mitigate climate 
+change?, Working Paper, 2021.
+23. Jia J, Chaudhury A, Ranger N. Designing for Comparability: A 
+Foundational Principle of Analysis Missing In Carbon Reporting 
+Systems, 
+Oxford 
+Smith 
+School 
+of 
+Enterprise 
+and 
+the 
+Environment, Working Paper No. 23-04, 2023. https://dx.doi. 
+org/10.2139/ssrn.4258460.
+24. Broccardo E, Hart O, Zingales L. "Exit versus voice. J Pol Econ 
+2022;130:3101–45.
+25. Friedman M. The social responsibility of business is to increase 
+profits, New York Times, Magazine, 13 September 1970.
+26. Hart O, Zingales L. Companies should maximize shareholder 
+welfare not market value. LFA 2017;2:247–75.
+27. Roston M. A portfolio approach to hedging climate risk. In: 
+Heller T, Seiger A (eds), Setting Climate Accounts. Palgrave 
+Macmillan, Cham, Switzerland, 2021, 15–38.
+28. Lipton M. Understanding the Role of ESG and Stakeholder Governance 
+Within the framework of Fiduciary Duties, 2022. https://corpgov. 
+law.harvard.edu/2022/11/29/understanding-the-role-of-esg-and- 
+stakeholder-governance-within-the-framework-of-fiduciary- 
+duties/ (4 May 2024, date last accessed).
+29. Gosling T. Trouble Ahead for GFANZ, 2022. https://www.tom- 
+gosling.com/blog/trouble-ahead-for-gfanz (4 May 2024, date 
+last accessed).
+30. Kaplan R, Ramanna K, Roston M. Accounting for carbon offsets. 
+Harvard Business Review 2023;101:126–37.
+31. Bolton P, Kacperczyk M, Samama F. Net-zero carbon portfolio 
+alignment. Financ Anal J 2022;78:19–33.
+32. Lucas R. Econometric policy evaluation: a critique. Carn Roch 
+Conf Serie Pub Pol 1976;1:19–46.
+33. Sargent T. Dynamic Macroeconomic Theory. Cambrige: Harvard 
+University Press, 1987.
+34. Kahn M. Climate change adaptation: lessons from urban eco­
+nomics. SBE 2015;5:1–30.
+© The Author(s) 2024. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/ 
+), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2024, 4, 1–8
+https://doi.org/10.1093/oxfclm/kgae013
+Perspective Article
+8 | Roston et al.  
+Downloaded from https://academic.oup.com/oocc/article/4/1/kgae013/7723598 by guest on 26 August 2024

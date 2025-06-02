@@ -1,0 +1,2649 @@
+Research article
+Human health and climate change −an evolving discourse:
+A bibliometric citation analysis of top-cited articles within health
+sciences databases
+Maya R. Kolskya,*, Ehud Grossmanb, Yuval Levyc, Eyal Klangd,e
+a School of public health, Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel
+b The Chaim Sheba Medical Center, Tel Hashomer, Faculty of Medicine, Tel Aviv University, Israel
+c The Chaim Sheba Medical Center, Tel Hashomer, Israel
+d Division of Data-Driven and Digital Medicine (D3M), Icahn School of Medicine at Mount Sinai, New York, New York, USA
+e The Charles Bronfman Institute of Personalized Medicine, Icahn School of Medicine at Mount Sinai, New York, New York, USA
+A R T I C L E
+I N F O
+Article History:
+Received 9 July 2023
+Accepted 28 September 2023
+Available online 5 October 2023
+A B S T R A C T
+Background: The body of scientiﬁc literature on climate change and human health has exponentially grown
+over the past two decades, outlining a diverse list of health risks, vulnerable populations, protocols, and pub-
+lic policy frameworks. However, not all of these topics resonated equally among the health sciences commu-
+nity. This bibliometric citation analysis sets out to explore the priorities and interests reﬂected in the top
+cited articles on climate change and human health.
+Methods: We searched the PubMed database for all publications containing the term "climate change" in
+either title, abstract, or keywords, published after January 1st, 2009. The NCBI Entrez API was used to collect
+citation counts for the retrieved articles. The search yielded 55,590 articles. The top 200 cited publications
+were manually analyzed and classiﬁed according to topic and type of article.
+Findings: : Out of the 200 top-cited articles containing “Climate change” in either the title, abstract, or key-
+words, 40 articles engaged directly with human health or food security, receiving a total of 13,857 citations,
+with a range of 233−1865 citations (mean = 407.5, median = 316). Only 11 of the 40 articles were original
+studies. Infectious diseases were discussed in 24 of the 40 articles - 23 discuss vector-borne diseases. In com-
+parison, only 11 refer to temperature extremes, 10 discuss nutritional insecurity and only 3 discuss migration
+and climate refugees. 50.9 % of all citations were published in either “Science” or “The Lancet”.
+Interpretation: While climate change and human health had captured the attention of public policymakers,
+the consistent selection of resources and topics −favoring the Lancet commissions over environmental
+health publications and the IPCC, citing infectious diseases more frequently than mental health, air pollution,
+and extreme weather, and the overall relatively low number of citations −could indicate a low level of inter-
+est amongst the broader health sciences community.
+© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate Health
+Climate change
+Bibliometric analysis
+Narrative review
+Public perceptions
+Public health
+Introduction
+Climate change is increasingly garnering interest across scientiﬁc
+disciplines [1], spilling over from earth sciences and meteorology
+publications to life sciences, medicine, social sciences, and more [2].
+Both the World Health Organization (WHO) and the United
+Nations’ Intergovernmental Panel on Climate Change (the IPCC) have
+identiﬁed climate as a major threat to human health and stressed the
+need for adaptation measures [3−5]. Accordingly, over the last
+decade, a growing body of literature has been published on the
+various direct and indirect effects of climate change on human health.
+Research on climate change and human health often focuses on a sin-
+gle manifestation of climate change and its correlation with morbid-
+ity, mortality, disease vectors, and other health indices, producing a
+versatile list of associated health threats and impacts [4].
+Comprehensive reviews, such as the Lancet’s Annual Countdown
+on Climate and Health [6−8], and the IPCC’s assessment reports [4,5]
+take pains to list a wide variety of threats and impacts in an equal
+manner. However, within the health research sphere, the promi-
+nence and importance ascribed to different threats and impacts (as
+assessed by citation quantity and quality) may vary.
+Furthermore, the permeation of these threats into the wider med-
+ical, public health, and epidemiological spheres is still largely
+* Corresponding author.
+E-mail addresses: mrkolsky@gmail.com, mayarachelk@mail.tau.ac.il (M.R. Kolsky).
+https://doi.org/10.1016/j.joclim.2023.100272
+2667-2782/© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 14 (2023) 100272
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+questioned. Studies assessing the views and perceptions of health
+practitioners on climate change have shown that while respondents
+were overwhelmingly aware of climate change as a threat, a majority
+of respondents felt they lacked the information, training, or resources
+to properly engage with the issue [9,10].
+This bibliometric citation analysis sets out to outline and weigh
+the topics discussed in 40 of the most cited articles on climate change
+and human health published between 2009 and 2020 and assess
+their relative prominence within the current health sciences dis-
+course. Bibliometric analyses have been used as a form of meta-anal-
+ysis, aggregating the use of articles and studies in research,
+education, and clinical settings through citation count, downloads,
+combined impact factors, and more. Analyzing the manner in which
+people use published studies can help highlight disparities between
+the knowledge cited and the knowledge used in day-to-day clinical
+work [11], assess the rate and trends in research developments
+[12,13], assess the scientiﬁc impact of different clinical approaches
+[14,15], or assess the implication of studies in speciﬁc sub-ﬁelds on a
+larger topic (for example, COVID-19) [16].
+By performing a bibliometric citation analysis on the climate
+change and human health literature and the prevalence of various cli-
+mate risks and their contexts in top-cited articles within the health
+sciences research community, we seek to understand the research
+priorities, trends, and implied use in clinical and research settings. In
+other words - what do we actually talk about when we talk about cli-
+mate change and health?
+Methods
+Search strategy
+We searched the PubMed database for the most cited publications
+concerning climate change and human health. The database was que-
+ried using the public application programming interface (API) of the
+U.S. National Center for Biotechnology Information (NCBI). The open-
+access PyMed Python package was used to query the PubMed API.
+We decided to search for the term “climate change” rather than
+the extreme weather events associated with climate change (i.e.,
+ambient temperatures, heatwaves, particulate matter, ﬂoods, storms,
+etc.). This was done since climate change is a somewhat politicized
+term referring to a widely acknowledged emergency. Evoking the
+term “Climate change” in the title, abstract, or keywords taps into the
+crisis of climate change as an important, pivotal event, the discourse
+around which is the subject of our analysis.
+The search was performed on June 17th, 2022. We retrieved all
+publications containing the term "climate change" in either title,
+abstract, or keywords. We limited the entries to studies published
+after January 1, 2009. The following data were retrieved for each pub-
+lication: PubMed unique article ID (PMID), title, publishing journal,
+abstract text, keywords (if any), and authors’ afﬁliations. The NCBI
+Entrez API was used to collect citation counts for the retrieved
+articles. The top 200 cited publications were manually labeled
+according to their theme (Agriculture and Agronomy; Extreme
+Weather; Biology, Ecology, and Biodiversity; Diseases; Air quality;
+Sustainable development; Assorted health climate risks; Climate sci-
+ence) and region of origin for all contributing authors’ afﬁliated insti-
+tutions (Southern/Eastern Europe, Western Europe, Australia, North
+America, Latin America, Middle East, South-East Asia, and Africa), and
+were assigned an average Human development index (HDI) score as
+a proxy for the authors’ country of origin level of development [17]. A
+modiﬁed ordinal ranking was also assigned for development levels,
+ranging from “Top” to “Medium” according to the average HDI score
+(See Table S1 in the supplemental ﬁle).
+The top 200 list was manually sorted according to engagement
+with human health: direct, indirect, or none. Articles were included
+in the direct risk if they mentioned human health in a meaningful
+context (i.e., not a single reference, or as an item in a list of topics).
+Articles were included in the indirect list if they engaged with topics
+that have known impacts on human health (such as agronomy or
+cyanobacteria) but did not explicitly mention human health in the
+article itself.
+The top 40 cited articles were ﬁltered for their connection to
+human health and labeled according to health-related topics and cli-
+mate hazards. Information on each article’s funding, the ﬁrst author’s
+nationality (based on the location of the institutions from which they
+obtained their bachelor’s degrees), and that country’s HDI and cli-
+mate vulnerability (assessed through ND-GAIN scores [18]) were col-
+lected and assigned manually.
+ND-GAIN was used as a proxy for the country of origin’s vulnera-
+bility to climate change [18].
+Data retrieval, processing, and visualization were written in
+Python (Ver. 3.6.5, 64 bits)
+Statistical analysis
+Data were analyzed using descriptive statistics to provide insights
+into the citation patterns of the academic literature. Means, medians,
+and ranges were calculated for summarizing citation metrics across
+various categories.
+The relative citation ratio was employed to normalize each publi-
+cation’s citation count. Relative Citation Ratio (RCR) values are an
+NIH iCite tool [19] that measures the scientiﬁc inﬂuence of each
+paper by ﬁeld and time-adjusting the citations it has received, and
+benchmarking to the median for NIH publications.
+The relationship between the year of publication and the citation
+count was assessed using the Pearson correlation coefﬁcient.
+In addition, average and median HDI scores were collected for
+each theme in the 200 top-cited articles. The participation of authors
+from different regions was aggregated in a frequency table and
+grouped according to themes. The level of cross-regional cooperation
+was also assessed by dividing articles into groups (single region, 2-
+region, and multi-region), displayed in a frequency table according to
+identiﬁed themes.
+The relationship between themes and HDI rankings and interna-
+tional collaboration in the 200 top-cited articles list was assessed
+using a Chi-square test.
+In the top 40 human health-related articles list, the association
+between speciﬁc themes and ND-Gain, HDI ranking, and funding
+types were assessed using a Chi-square test.
+Results
+The total number of articles found in the PubMed database for all
+articles containing "climate change" was 55,599. The annual number
+of publications has been increasing each year as can be seen in Fig. 1.
+Fig. 2 displays the average relative citation score for climate change
+publications by year.
+Top 200 geographic and theme distribution
+Of the 200 top-cited articles, 109 were concerned with plant and
+animal biology, ecology, or biodiversity issues. 23 discussed agricul-
+ture and agronomy, 19 concerned diseases and sustainable develop-
+ment, 14 concerned climate science, and the others discussed
+extreme weather (6), air quality (5), and various climate health risks
+(5) (See Table 1).
+The majority of articles originated from a single origin (90 out of
+200) (See Fig. 3). Multi-region and 2-region collaborations had a
+lower average HDI score compared to single-region articles, suggest-
+ing most articles have originated from highly developed nations,
+with less developed nations included mostly in collaborations (See
+Fig. 3).
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+2
+190 of the articles had an average HDI ranking of over 0.8, deﬁned
+by the United Nations Development Program as “Very high develop-
+ment level” (Mean = 0.899, Median = 0.921) [17].
+The dominance of developed nations led the authors of this study
+to create a new sub-category for average HDI score of over 0.9, titled
+“Top”. 156 of the 200 top-cited studies had an average score of 0.9 or
+more (See Table 2)
+Countries with high and medium average HDI categories were
+disproportionally represented in the agriculture and biology themes
+and under-represented in all other themes (xð200;df ¼ 21Þ2 ¼ 39.08,
+p = < 0.01).
+In terms of regional distribution, authors from Western Europe
+and North America have participated in 119 and 137 of the top 200
+cited articles, respectively. Australia and Southeast Asia follow, with
+contributions to 55 and 43 articles, respectively (See Table 3).
+Out of the 200 most cited articles in Pubmed, only 37 engage
+directly with human health, 3 more engage with food insecurity as
+an explicit threat to human wellbeing (see Table 4), and 23 involve
+indirect human health indices: crop diseases and pests, air pollution
+metrics, algal blooms, etc. (see table 5).
+Citation metrics
+The 40 top-cited articles on climate change and human health
+received a total of 15,897 citations, with a range of 233−1865 citations
+(mean = 397.43, median = 360). The additional 21 top-cited articles
+relating indirectly to climate change and human health had received a
+total of 8706 citations, with a range of 297−1069 (mean = 414.6,
+median = 361.5). The top-rated article received signiﬁcantly more cita-
+tions (1865) than the other 39 articles (233−801) (see Fig. 4).
+A weak correlation (r = -0.28) was found between the year of pub-
+lication and the citation count, and therefore we did not adjust for
+publication year in our analysis.
+Fig. 1. Number of publications on climate change by year.
+Fig. 2. Average relative citation score by year.
+Table 1
+200 top-cited articles theme and cross-regional collaboration distributions.
+Cross-regional collaboration
+Topic
+N
+1 region
+2 regions
+multi-region
+Agriculture & agronomy
+23
+10
+7
+6
+Extreme Weather
+6
+1
+3
+2
+Biology, Ecology, and Biodiversity
+109
+55
+31
+23
+Diseases
+19
+9
+7
+3
+Air quality
+5
+1
+4
+0
+Sustainable development
+19
+9
+4
+5
+Health Climate risks
+5
+0
+1
+4
+Climate science
+14
+5
+4
+5
+All articles
+200
+90
+62
+48
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+3
+Fig. 3. 200 top-cited articles cross-regional collaboration distribution and average HDI score.
+Table 2
+200 top-cited articles HDI ranking by theme.
+HDI Ranking
+HDI Average
+HDI Median
+Topic
+N
+Top (> 0.9)
+Very high
+(0.8−0.899)
+High
+(0.7−0.799)
+Medium
+(0.55−0.699)
+Low
+(< 0.599)
+Agriculture and agronomy
+23
+15
+4
+1
+3
+0
+0.859043
+0.92
+Extreme Weather
+6
+4
+2
+0
+0
+0
+0.8935
+0.9
+Biology, Ecology, and Biodiversity
+109
+94
+10
+3
+2
+0
+0.908394
+0.921
+Diseases
+19
+15
+3
+1
+0
+0
+0.901895
+0.921
+Air quality
+5
+3
+2
+0
+0
+0
+0.8916
+0.9
+Sustainable development
+19
+14
+5
+0
+0
+0
+0.898789
+0.915
+Health Climate risks
+5
+1
+4
+0
+0
+0
+0.865
+0.85
+Climate science
+14
+10
+4
+0
+0
+0
+0.9045
+0.921
+All articles
+200
+156
+34
+5
+5
+0
+0.8990
+0.921
+Table 3
+200 top-cited articles region distribution by theme.
+Region
+Topic
+N
+Southern/ Eastern Europe
+Western Europe
+Australia
+North America
+LATAM
+Middle East
+SE Asia
+Africa
+Food Security
+23
+12 %
+2
+9 %
+17
+14 %
+5
+9 %
+13
+9 %
+2
+8 %
+3
+21 %
+7
+16 %
+3
+20 %
+Extreme Weather
+6
+3 %
+3
+14 %
+3
+3 %
+4
+7 %
+4
+3 %
+2
+8 %
+0
+0 %
+3
+7 %
+0
+0 %
+Biology, Ecology, and Biodiversity
+109
+55 %
+9
+41 %
+59
+50 %
+34
+62 %
+73
+53 %
+13
+50 %
+5
+36 %
+18
+42 %
+4
+27 %
+Diseases
+19
+10 %
+2
+9 %
+11
+9 %
+4
+7 %
+14
+10 %
+3
+12 %
+1
+7 %
+3
+7 %
+2
+13 %
+Air quality
+5
+3 %
+1
+5 %
+3
+3 %
+0
+0 %
+3
+2 %
+0
+0 %
+0
+0 %
+1
+2 %
+0
+0 %
+Sustainable development
+19
+10 %
+1
+5 %
+11
+9 %
+3
+5 %
+15
+11 %
+2
+8 %
+2
+14 %
+4
+9 %
+2
+13 %
+Health Climate risks
+5
+3 %
+2
+9 %
+5
+4 %
+3
+5 %
+5
+4 %
+3
+12 %
+3
+21 %
+4
+9 %
+3
+20 %
+Climate science
+14
+7 %
+2
+9 %
+10
+8 %
+3
+5 %
+10
+7 %
+1
+4 %
+0
+0 %
+2
+5 %
+1
+7 %
+All articles
+200
+22
+(11 %)
+119
+(60 %)
+55
+(28 %)
+137
+(69 %)
+26
+(13 %)
+14
+(7 %)
+43
+(22 %)
+15
+(8 %)
+Note:
+%: The proportion of articles on a speciﬁc theme compared to the total regional contribution.
+( %) −proportion of total regional contribution
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+4
+Table 4
+List of climate change and human health articles included in the analysis.
+PMID
+Title
+Type
+Publication year Topics
+Publication
+Citation
+count
+Year
+adjusted
+citations
+Average
+Citations
+per year
+Reference
+20,110,467 Food security: the challenge of feed-
+ing 9 billion people *
+Review
+30/01/2010
+food security, policy
+Science (New York, N.Y.)
+1865
+1888.5
+586.5
+[38]
+26,003,380 Mortality risk attributable to high
+and low ambient temperature: a
+multicountry observational study.
+Study
+2015−05−25
+heat, cold
+Lancet (London, Eng-
+land)
+801
+941.8
+541
+[39]
+19,857,523 Present and future arboviral threats.
+Review
+2009−10−28
+insect-born diseases
+Antiviral Research
+774
+774.0
+774
+[40]
+30,700,377 The Global Syndemic of Obesity,
+Undernutrition, and Climate
+Change: The Lancet Commission
+report.
+Report
+2019−02−01
+food security
+Lancet (London, Eng-
+land)
+617
+851.6
+349.8
+[41]
+26,111,439 Health and climate change: policy
+responses to protect public health.
+Report
+2015−06−27
+policy
+Lancet (London, Eng-
+land)
+565
+705.8
+541
+[42]
+23,908,230 Climate change and infectious dis-
+eases: from evidence to a predic-
+tive framework.
+Review
+2013−08−03
+infectious diseases
+Science (New York, N.Y.)
+483
+576.9
+403.75
+[43]
+23,990,732 Epidemiology of dengue: past, pres-
+ent and future prospects.
+Review
+2013−08−31
+infectious diseases,
+insect-borne
+diseases
+Clinical Epidemiology
+466
+559.9
+403.75
+[44]
+23,281,838 Driving forces for changes in geo-
+graphical distribution of Ixodes
+ricinus ticks in Europe.
+review
+2013−01−04
+infectious diseases
+Parasites & Vectors
+461
+2013
+403.75
+[45]
+28,360,268 Biodiversity redistribution under cli-
+mate change: Impacts on ecosys-
+tems and human well-being *
+review
+2017−04−01
+food security; vec-
+tor-borne
+diseases
+Science (New York, N.Y.)
+454
+641.7
+329
+[46]
+21,485,694 Control of the leishmaniases.
+Report
+2010−01−01
+infectious diseases
+World Health Organiza-
+tion Technical Report
+Series
+443
+466.5
+586.5
+[47]
+20,153,070 Food-borne diseases - the challenges
+of 20 years ago still persist while
+new ones continue to emerge.
+Review
+2010−02−16
+food-borne diseases
+International Journal of
+Food Microbiology
+405
+428.5
+586.5
+[48]
+22,763,636 Human and animal diroﬁlariasis: the
+emergence of a zoonotic mosaic.
+Review
+2012−07−06
+infectious diseases
+Clinical Microbiology
+Reviews
+389
+2012
+268
+[49]
+23,908,229 Climate change impacts on global
+food security *
+review
+2013−08−03
+food security
+Science (New York, N.Y.)
+380
+473.9
+403.75
+[50]
+25,388,133 Leptospirosis in humans.
+Review
+2014−11−13
+infectious diseases
+Current topics in Micro-
+biology and
+Immunology
+373
+490.3
+323.5
+[51]
+21,252,339 Animal migration and infectious dis-
+ease risk.
+Review
+2011−01−22
+insect-born diseases
+Science (New York, N.Y.)
+370
+416.9
+343
+[52]
+33,278,353 The 2020 report of The Lancet Count-
+down on health and climate
+change: responding to converging
+crises.
+Report
+2020−12−06
+heat, extreme
+weather events,
+infectious dis-
+eases, food secu-
+rity, policy
+Lancet (London, Eng-
+land)
+369
+627.1
+313
+[8]
+25,111,501 Cryptosporidium species in humans
+and animals: current understand-
+ing and research needs.
+review
+2014−08−12
+infectious diseases
+Parasitology
+350
+2014
+323.5
+[53]
+30,336,830 Air Pollution and Cardiovascular Dis-
+ease: JACC State-of-the-Art
+Review.
+Review
+2018−10−20
+extreme weather
+Journal of the American
+College of Cardiology
+347
+558.2
+292
+[35]
+30,650,330 The Imperative for Climate Action to
+Protect Health.
+Review
+2019−01−17
+heat, extreme
+weather events,
+infectious dis-
+eases, food secu-
+rity, policy
+The New England Jour-
+nal of Medicine
+321
+555.6
+349.8
+[54]
+23,671,097 Zoonosis emergence linked to agri-
+cultural intensiﬁcation and envi-
+ronmental change.
+study
+2013−05−15
+infectious diseases
+Proceedings of the
+National Academy of
+Sciences of the United
+States of America
+317
+2013
+403.75
+[55]
+21,824,855 Ambient temperature and morbid-
+ity: a review of epidemiological
+evidence.
+Review
+2011−08−10
+heat
+Environmental Health
+Perspectives
+316
+362.9
+343
+[37]
+31,733,928 The 2019 report of The Lancet Count-
+down on health and climate
+change: ensuring that the health of
+a child born today is not deﬁned
+by a changing climate.
+Review
+2019−11−18
+heat, extreme
+weather events,
+infectious dis-
+eases, food secu-
+rity, policy
+Lancet (London, Eng-
+land)
+316
+550.6
+349.8
+[7]
+21,084,239 Heat waves in the United States:
+mortality risk during heat waves
+and effect modiﬁcation by heat
+wave characteristics in 43 U.S.
+communities.
+Study
+2010−11−19
+heat
+Environmental Health
+Perspectives
+312
+335.5
+586.5
+[56]
+(continued)
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+5
+Type of article
+29 out of 40 of the most cited articles on climate change and
+human health were reviews and reports, with only 11 of the 40
+articles being original studies. Reports and reviews have received
+3.67 times the citations as original studies (see Table 6).
+Topic distribution
+The reviewed articles have engaged with one or more of the fol-
+lowing 8 topics −ambient temperatures (heat or cold), extreme
+weather events (ﬂoods, storms, or wildﬁres), infectious diseases (vec-
+tor-borne, water-borne, diarrheal, food-borne), air quality, sustain-
+able development and policy, migration and refugees, mental health,
+and nutritional security.1
+Of the top cited 61 articles (direct and indirect human health indi-
+ces combined), 26 and 24 articles, respectively, have discussed food
+insecurity and infectious diseases, followed by temperatures, policy,
+and extreme weather events (mentioned in 11, 7, and 7 of the
+articles, respectively). Each topic was discussed in an average of 9.9
+articles (see Table 7).
+Among the top 40 climate and human health articles, the leading
+topic is infectious diseases, discussed in 24 of the 40 articles (Fig. 5).
+Of these, 23 discuss vector-borne diseases −namely Malaria, Chikun-
+gunya, Dengue, and West Nile Virus. In comparison, only 11 refer to
+temperature extremes, 7 refer to extreme weather events (storms,
+ﬂoods, and wildﬁres), 5 refer to air quality, 10 discuss nutritional
+insecurity and only 3 discuss migration and climate refugees
+(Mean = 8.5, see Table 8).
+Table 4 (Continued)
+PMID
+Title
+Type
+Publication year Topics
+Publication
+Citation
+count
+Year
+adjusted
+citations
+Average
+Citations
+per year
+Reference
+23,200,503 Drivers, dynamics, and control of
+emerging vector-borne zoonotic
+diseases.
+Review
+2012−12−04
+vector-borne
+diseases
+Lancet (London, Eng-
+land)
+301
+371.4
+268
+[57]
+29,096,948 The Lancet Countdown on health and
+climate change: from 25 years of
+inaction to a global transformation
+for public health.
+Review
+2017−11−04
+heat, extreme
+weather events,
+infectious dis-
+eases, food secu-
+rity, migration
+and population
+displacement
+Lancet (London, Eng-
+land)
+296
+483.7
+329
+[58]
+23,518,546 Policy: Sustainable development
+goals for people and planet.
+Editorial
+2013−03−23
+policy
+Nature
+286
+379.9
+403.75
+[59]
+25,166,878 Global variation in the effects of
+ambient temperature on mortal-
+ity: a systematic evaluation.
+Study
+2014−08−29
+heat, cold
+Epidemiology (Cam-
+bridge, Mass.)
+274
+391.3
+323.5
+[60]
+27,082,891 Critical Review of Health Impacts of
+Wildﬁre Smoke Exposure.
+Review
+2016−04−16
+extreme weather
+Environmental Health
+Perspectives
+269
+433.2
+255.5
+[61]
+21,097,384 Global inﬂuenza seasonality: recon-
+ciling patterns across temperate
+and tropical regions.
+Review
+2010−11−26
+infectious diseases
+Environmental Health
+Perspectives
+263
+2010
+586.5
+[62]
+30,833,735 Past and future spread of the arbovi-
+rus vectors Aedes aegypti and
+Aedes albopictus.
+Study
+2019−03−06
+vector-borne
+diseases
+Nature Microbiology
+262
+496.6
+349.8
+[63]
+22,284,927 Fungi and allergic lower respiratory
+tract diseases.
+Review
+2012−01−31
+air quality
+The Journal of Allergy
+and Clinical
+Immunology
+260
+2012
+268
+[64]
+32,154,200 Environmental and Health Impacts
+of Air Pollution: A Review.
+Review
+2020−03−11
+air pollution
+Frontiers in Public
+Health
+257
+515.1
+313
+[36]
+26,479,830 Impact of climate change on human
+infectious diseases: Empirical evi-
+dence and human adaptation.
+Review
+2015−10−20
+infectious diseases
+Environment
+International
+257
+397.8
+541
+[65]
+20,696,913 Inﬂuence of climate on malaria
+transmission depends on daily
+temperature variation.
+Study
+2010−08−11
+infectious diseases
+Proceedings of the
+National Academy of
+Sciences of the United
+States of America
+256
+279.5
+586.5
+[66]
+27,846,577 The broad footprint of climate
+change from genes to biomes to
+people.
+Review
+2016−11−16
+food security, infec-
+tious diseases
+Science (New York, N.Y.)
+242
+406.2
+255.5
+[67]
+20,637,065 The impact of heat waves on mortal-
+ity in 9 European cities: results
+from the EuroHEAT project.
+Study
+2010−07−20
+heat
+Environmental Health:
+A Global Access Sci-
+ence Source
+238
+261.5
+586.5
+[68]
+29,615,227 Health co-beneﬁts from air pollution
+and mitigation costs of the paris
+agreement: a modeling study.
+modeling
+study
+2018−04−05
+policy, air pollution
+The Lancet. Planetary
+Health
+237
+448.2
+292
+[69]
+29,066,781 Global hotspots and correlates of
+emerging zoonotic diseases.
+modeling
+study
+2017−10−27
+vector-borne
+diseases
+Nature Communications
+237
+424.7
+329
+[70]
+23,050,931 Optimal temperature for malaria
+transmission is dramatically lower
+than previously predicted.
+modeling
+study
+2012−10−12
+vector-borne
+diseases
+Ecology Letters
+235
+305.4
+268
+[71]
+31,182,801 The current and future global distri-
+bution and population at risk of
+dengue.
+modeling
+study
+2019−06−12
+vector-borne
+diseases
+Nature Microbiology
+233
+467.6
+349.8
+[72]
+*Articles engaging purely in food security
+1 An article −especially reviews or policy reports −will often concern more than a
+single topic, and therefore the sum of all topics mentions exceeds 61.
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+6
+Geographic and funding distribution
+As in the top 200 distribution, most authors in the 40 human
+health-related articles originated from either North America (13)
+or Western Europe (18), with 33 and 36 of the 40 authors origi-
+nating from either top-developed nations (HDI > 0.9) or very
+high developed nations (HDI > 0.8), respectively. 20 and 16
+authors have originated from countries with either a high or very
+high ND-GAIN index, indicating low climate vulnerability (See
+Table 9).
+A chi-square test of independence showed that there was a signif-
+icant association between the Authors’ ND-Gain scores and the
+articles’ primary topic,2 (xð40;df ¼ 18Þ2 ¼ 42.86, p = < 0.05). No sig-
+niﬁcant association was found between the primary topic and the
+authors’ HDI ranking.
+25 of the 40 articles received funding from sources dedicated to
+medical research, 15 from sources dedicated to climate research, and
+5 from both. The authors of 5 articles did not disclose their funding.
+Most of the articles received public funding, with 75 % of articles
+funded, at least in part, by national or international agencies. 50 %
+Table 5
+List of articles indirectly related to climate change and human health included in the analysis.
+PMID
+Title
+Type
+Publication
+year
+topics
+Publication
+Citation
+count
+References
+25,231,863
+High secondary aerosol contribution to par-
+ticulate pollution during haze events in
+China.
+study
+2014−09−19
+Air pollution
+[causes]
+Nature
+1069
+[73]
+21,551,030
+Climate trends and global crop production
+since 1980.
+study
+2011−05−10
+food security
+Science (New York, N.Y.)
+633
+[74]
+21,893,330
+Climate change: links to global expansion of
+harmful cyanobacteria.
+study
+2011−09−07
+food security
+Water Research
+490
+[75]
+26,738,594
+Inﬂuence of extreme weather disasters on
+global crop production.
+study
+2016−01−08
+food security
+Nature
+485
+[76]
+23,314,096
+Harmful cyanobacterial blooms: causes, con-
+sequences, and controls.
+review
+2013−01−15
+food security
+Microbial ecology
+458
+[77]
+23,914,193
+Plant tolerance to high temperature in a
+changing environment: scientiﬁc funda-
+mentals and production of heat stress-tol-
+erant crops.
+review
+2013−08−06
+food security
+Frontiers in plant science
+431
+[78]
+20,713,389
+Livestock production: recent trends, future
+prospects.
+model
+2010−08−18
+food security
+Philosophical Transactions of the
+Royal Society of London. Series
+B, Biological sciences
+420
+[79]
+23,267,105
+Population genomic and genome-wide asso-
+ciation studies of agroclimatic traits in sor-
+ghum.
+study
+2012−12−26
+food security
+Proceedings of the National Acad-
+emy of Sciences of the United
+States of America
+375
+[80]
+21,568,700
+Emerging virus diseases transmitted by
+whiteﬂies.
+review
+2011−05−17
+food security
+Annual review of phytopathology
+374
+[81]
+30,718,852
+The global burden of pathogens and pests on
+major food crops.
+study
+2019−02−06
+food security
+Nature Ecology and Evolution
+363
+[82]
+28,706,531
+Crop Production under Drought and Heat
+Stress: Plant Responses and Management
+Options.
+review
+2017−07−15
+food security
+Frontiers in plant science
+360
+[83]
+28,811,375
+Temperature increase reduces global yields
+of major crops in four independent esti-
+mates.
+study
+2017−08−16
+food security
+Proceedings of the National Acad-
+emy of Sciences of the United
+States of America
+345
+[84]
+30,305,731
+Options for keeping the food system within
+environmental limits.
+study
+2018−10−12
+food security,
+policy
+Nature
+337
+[85]
+20,811,450
+The impacts of climate change on water
+resources and agriculture in China.
+study
+2010−09−03
+food security
+Nature
+337
+[86]
+25,737,642
+Soil salinity: A serious environmental issue
+and plant growth promoting bacteria as
+one of the tools for its alleviation.
+review
+2015−03−05
+food security
+Saudi journal of biological sciences
+331
+[87]
+21,345,482
+Controlling harmful cyanobacterial blooms in
+a world experiencing anthropogenic and
+climatic-induced change.
+review
+2011−02−25
+ecology
+The Science of the Total
+Environment
+329
+[88]
+21,802,765
+The interdependence of mechanisms under-
+lying climate-driven vegetation mortality.
+review
+2011−08−02
+food security
+Trends in ecology & evolution
+324
+[89]
+23,576,718
+Record-setting algal bloom in Lake Erie
+caused by agricultural and meteorological
+trends consistent with expected future
+conditions.
+study
+2013−04−12
+ecology
+Proceedings of the National Acad-
+emy of Sciences of the United
+States of America
+320
+[90]
+22,457,972
+Progress in understanding harmful algal
+blooms: paradigm shifts and new technol-
+ogies for research, monitoring, and man-
+agement.
+Review
+2012−03−31
+ecology
+Annual review of marine science
+319
+[91]
+24,344,314
+Assessing agricultural risks of climate change
+in the 21st century in a global gridded crop
+model intercomparison.
+study
+2013−12−18
+food security
+Proceedings of the National Acad-
+emy of Sciences of the United
+States of America
+309
+[92]
+22,622,576
+Warming experiments underpredict plant
+phenological responses to climate change.
+study
+2012−05−25
+food security
+Nature
+297
+[93]
+2 For the purpose of this analysis, the 40 top cited articles directly relating to human
+health have been labeled according to a single primary topic, with reviews concerning
+multiple topics labeled under “Multiple climate health risks”.
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+7
+(20) of the articles relied solely on public funding, and 25 % of articles
+relied only on funding from private foundations or commercial enter-
+prises (see Fig. 6).
+No signiﬁcant association was found between funding source or
+type and the article’s primary topic (See Table 10).
+Distribution of publications
+13 of the 40 articles were published in either the Lancet (7, an
+average of 466 citations per article) or Science (6, an average of 632
+citations per article), with Environmental Health Perspectives follow-
+ing (4, an average of 290 citations per article) (see table 11).
+Discussion
+Publications and sources
+The health sciences community tends to cite articles published in
+its own top-tier publications −namely The Lancet and Science. The
+top citations, however, do not reﬂect the general publication land-
+scape of most climate change and human health publications.
+A bibliometric analysis conducted on all climate change and
+human health articles found an average of 22.5 (Median = 6) citations
+per article, with most of the articles published in “Environmental
+Health Perspectives” - one of the leading journals in the ﬁeld of envi-
+ronmental health [20]. However, among the top 40 articles, only 4 of
+the most cited articles in the wider health research community were
+published in Environmental Health Perspectives. Overall, only 9 of
+the top cited articles appeared in publications dedicated to public
+health or environmental health −most of them receiving the lowest
+number of citations.
+Among the top 200 most cited articles on climate, the IPCC’s
+assessment reports were absent. Both assessment reports relevant to
+our analysis’s time horizon −the 6th and 5th assessment reports
+published in 2022 and 2014, respectively −included a dedicated
+chapter on human health. The reports include a detailed and system-
+atical assessment of the scientiﬁc evidence on the impact of climate
+Fig. 4. Citation distribution by list (articles discussing direct and indirect human health indices).
+Table 6
+Citation count by type of article among the 40 top-cited articles discussing direct
+human health indices.
+Article Type
+Count
+Sum of Citation Count
+Average Citation Count
+Editorial
+1
+286
+286
+Modeling study
+4
+942
+235.5
+Report
+4
+1994
+498.5
+Review
+24
+10,215
+425.625
+Study
+7
+2460
+351.43
+Grand Total
+40
+15,897
+397.425
+Table 7
+Topic and subtopic distribution among the 61 top-cited articles (direct and indirect human health indices).
+Topics
+Mentions
+% (out of the 61 articles)
+Subtopic
+Mentions
+% (out of the 61 articles)
+Ambient temperatures
+11
+18 %
+heat
+11
+18 %
+cold
+4
+7 %
+Extreme weather events
+7
+11 %
+ﬂoods
+6
+10 %
+storms
+3
+5 %
+wildﬁres
+3
+5 %
+Infectious diseases
+24
+39 %
+Vector-borne
+23
+38 %
+water-borne
+4
+7 %
+diarrheal
+2
+3 %
+food-borne
+4
+7 %
+Air pollution
+6
+10 %
+Policy
+7
+11 %
+Migration
+3
+5 %
+Mental health
+1
+2 %
+Food insecurity
+26
+43 %
+Ecology
+4
+7 %
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+8
+change on human health, similar to those featured in The Lancet’s
+annual countdowns. The IPCC’s Assessment reports are considered
+the gold standard in climate change research and policymaking and
+are widely circulated among decision-makers. Within the health sci-
+ences community, however, they are less widely cited. While it
+stands to reason that the chapter on human health in the latest
+Assessment report, cited overall only 105 times, is too recent to
+aggregate citations, the same could not be said for the IPCC’s 5th
+assessment report. Chapter 15 of the report, “Human Health:
+Impacts, Adaptation, and Co-Beneﬁts”, received 1103 citations
+overall −yet few of them (less than 233- the lowest citation num-
+ber in the top 200) were cited by researchers in the health sciences
+Fig. 5. Topic distribution across the 40 top-cited articles (direct human health indices only).
+Table 8
+Topic and sub-topic distribution among the 40 top-cited articles discussing direct human health indices.
+Topics
+Mentions
+% (out of the 51 articles)
+Subtopic
+Mentions
+% (out of the 51 articles)
+Temperatures
+11
+32 %
+heat
+11
+32 %
+cold
+4
+12 %
+Extreme weather events
+7
+21 %
+ﬂoods
+6
+18 %
+storms
+3
+9 %
+wildﬁres
+3
+9 %
+Infectious diseases
+24
+71 %
+vector-borne
+23
+68 %
+water/air-borne
+4
+12 %
+diarrheal
+2
+6 %
+food-borne
+4
+12 %
+Air pollution
+5
+15 %
+Sustainable development and policy
+7
+21 %
+Migration
+3
+9 %
+Mental health
+1
+3 %
+Nutritional insecurity
+10
+29 %
+Table 9
+Author nationality, climate vulnerability, and HDI ranking distribution by primary topic of the 40 top-cited articles (direct human health indices only).
+Author nationality
+ND-GAIN ranking
+Author HDI category
+Topic
+N
+S/E EU
+W EU
+AUS
+NA
+SE Asia
+Low
+Medium
+High
+Very High
+Top
+Very high
+High
+Medium
+Air quality
+2
+1
+1
+2
+1
+1
+Extreme weather
+2
+1
+1
+1
+1
+1
+1
+Infectious diseases
+19
+9
+9
+1
+1
+12
+6
+18
+1
+Multiple
+6
+4
+1
+1
+2
+4
+6
+Nutritional security
+3
+2
+1
+3
+3
+Sustainable development
+3
+3
+3
+3
+Temperatures
+5
+2
+1
+2
+2
+3
+1
+2
+2
+Total
+40
+3
+18
+2
+13
+4
+1
+3
+20
+16
+33
+3
+3
+1
+Legend:
+S/E EU −Southern/ Eastern Europe
+W EU −Western Europe
+AUS −Australia and New Zealand
+NA −North America
+SE ASIA −Southeast Asia
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+9
+community. The Lancet Countdowns, on the other hand, were cited
+extensively, while containing roughly similar conclusions and a
+wide range of sub-topics. One possible explanation for this disparity
+in reference patterns between the health sciences community and
+the scientiﬁc and policy-making community writ large regarding
+the Lancet countdown and the IPCC volume on human health is the
+frequency of publication (annual vs. once every 6−7 years) and the
+media channels through which they are promoted. While the IPCC
+conclusions are widely covered by climate and political correspond-
+ents, the Lancet countdown is discussed in health-related profes-
+sional circles.
+Number of citations
+The
+40
+most
+cited
+articles
+received
+233−1865
+citations
+(mean = 397.43 median = 316.5), compared to top-cited articles in
+ﬁelds such as obstetrics [21], gastroenterology and hepatology [22],
+or childhood obesity [23], receiving a range of 1340−9204, 1049
+−5500, and 365−10,789, accordingly (see Fig. 7). Articles purely dis-
+cussing food security challenges in a changing climate had received a
+signiﬁcantly higher number of citations, with the top cited article
+receiving 1865 citations- more than double the second highest cited
+article (801), and almost 6 times the median (316.5).
+One could argue that the limited time horizon of our analysis
+(2009−2022) may naturally result in fewer citations for the top-cited
+articles. However, an analysis of climate change and human health
+articles, conducted in 2020 and ranging between 1980−2019, shows
+similar patterns and a range of 0−1481 [20]. Furthermore, the spike
+in interest in climate change following international agreements and
+deadly extreme weather episodes over the last decade would suggest
+that articles published within that time frame will receive a greater
+echoing within the health sciences community.
+An analysis of mobile health (deﬁned by the WHO as medical and
+public health practice supported by mobile devices, such as mobile
+phones, patient monitoring devices, personal digital assistants
+(PDAs), and other wireless devices” [24]), offers another interesting
+point of comparison. The analysis reviewed articles published
+between 2006−2016 [25] −years before the digital health boom fur-
+thered by COVID-19 and the business and technology-driven advan-
+ces in the ﬁeld. Even so, the citation range for all articles in the ﬁeld
+was 0−449, with the top 10 cited articles receiving between 276
+−449 citations. Thus, pre-COVID-19 mobile health was cited more
+extensively than most articles on climate change and human health
+in an era where climate change is declared as the greatest threat to
+human health [3].
+The research on climate change and human health is proliferating
+[1,2,26], but the relatively low number of citations of articles on the
+subject within the health sciences community suggests that climate
+change and human health remains of relatively limited interest in
+the medical and health sciences community.
+Fig. 6. Funding type distribution.
+Table 10
+Funding type and bodies by primary topic of the 40 top-cited articles (direct human health indices only).
+Funding
+Funding bodies
+Topic
+N
+Climate
+Medical
+Both
+Unknown
+Public
+Private foundation/
+commercial
+Academic
+Mixed resources
+Unknown
+Air quality
+2
+1
+1
+2
+Extreme weather
+2
+1
+1
+1
+1
+Infectious diseases
+19
+3
+11
+2
+3
+12
+4
+3
+Multiple
+6
+2
+3
+1
+3
+2
+1
+Nutritional security
+3
+2
+1
+2
+1
+Sustainable development
+3
+1
+1
+1
+1
+1
+1
+Temperatures
+5
+1
+3
+1
+4
+1
+Total
+40
+10
+20
+5
+5
+20
+5
+0
+10
+5
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+10
+Type of articles
+29 out of the top 40 articles are either reviews (24), reports (4), or
+editorials (1), (see Table 6). 9 of the top 40 dealt with more than one
+or two health impacts, and are therefore less clinically or epidemio-
+logically oriented, and aim at either policy making or a scoping of the
+climate risk landscape. Citing general, wide reviews suggest that
+these risks are not being cited in association with speciﬁc clinical spe-
+cialties or epidemiological research.
+For instance, consider the topic of premature births and heat-
+waves. Despite an abundance of research on premature births and
+pregnancy risks, and despite heatwaves being an established risk fac-
+tor for premature labor, the low number of citations for studies such
+as “High environmental temperature and preterm birth: a review of
+the evidence [27]” (126 citations) or “Climate changes reproductive
+and children’s health: a review of risks, exposures, and impacts
+[28]”(37 citations), suggests the issue is rarely used to stress the
+importance of a given study or alarmingly −that heat is not factored
+in as a potential confounder in some studies.
+Topics discussed
+While the impacts of climate change on human health as a disci-
+pline has a signiﬁcant natural overlap with environmental health,
+most of the articles that received the highest number of citations
+belong more to the ﬁeld of tropical medicine and epidemic modeling
+Table 11
+Citation count of the 40 top-cited articles (direct human health indices only) by publication.
+Publications
+Number of articles
+Sum of Citation count
+Antiviral research
+1
+774
+Clinical epidemiology
+1
+466
+Current Topics in Microbiology and Immunology
+1
+373
+Ecology Letters
+1
+235
+Environment International
+1
+257
+Environmental Health: A Global Access Science Source
+1
+238
+Environmental Health Perspectives
+4
+1160
+Epidemiology (Cambridge, Mass.)
+1
+274
+Frontiers in Public Health
+1
+257
+International Journal of Food Microbiology
+1
+405
+Journal of the American College of Cardiology
+1
+347
+Lancet (London, England)
+7
+3265
+Nature
+1
+286
+Nature Communications
+1
+237
+Nature Microbiology
+2
+495
+Proceedings of the National Academy of Sciences of the United States of America
+2
+573
+Science (New York, N.Y.)
+6
+3794
+The Lancet. Planetary Health
+1
+237
+The New England Journal of Medicine
+1
+321
+World Health Organization Technical Report series
+1
+443
+Parasites & vectors
+1
+461
+Clinical Microbiology Reviews
+1
+389
+Parasitology
+1
+350
+The Journal of Allergy and Clinical Immunology
+1
+260
+Grand Total
+40
+15,897
+Fig. 7. Citation range of various top-cited medical ﬁelds
+*Top 40 articles in this analysis
+**Top 100 articles [21],
+***Top 100 articles [22]
+****Top 100 articles [23].
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+11
+than to environmental risk factors such as heat, cold, air pollution,
+ﬂoods, etc.
+Diseases were mentioned in 24 of the 40 top-cited articles and
+were the primary topic of 19. By contrast, when combined, air qual-
+ity, temperatures, and weather extremes were mentioned in 23 of
+the articles, and were the primary topic of 9 (see Table 12)
+The risks of ailments treatable by medicine and pharmaceuticals
+appear to be cited more widely than those that engage in systematic
+public health policy changes and infrastructure creations. Sustainable
+development and policy were the primary topics of only 3 of the 40
+articles and were mentioned as secondary topics in 4 of the review
+articles. This selective focus on certain topics may limit the under-
+standing of the broader impacts of climate change on human health
+and of the measures necessary to mitigate them.
+This selective focus could have a perpetuating effect. Bias against
+novel research in funding has been shown in other areas of study,
+where grant reviewers gave novel research proposals lower marks
+[29,30]. More established areas of research, that have a more robust
+body of knowledge and widespread expertise, are more likely to
+receive funding - compared to issues relating to more marginalized
+people or rarer conditions. This potential bias in funding could even-
+tually may lead to fewer publications [31] and path dependency in
+climate change and human health research, as had happened in tech-
+nological ﬁelds [32].
+Nutritional security stands out in both the sum of its top citations
+and the number of articles engaging in the topic (see Table 12). As
+the impacts of climate on food security have only recently started to
+unfold, the topic has garnered more citations compared to acute
+threats such as heatwaves. Unlike heatwaves, which are analyzed in
+retrospect, are often linked to mortality and are studied in developed
+nations, food insecurity is a largely prospective concern that will
+impact developing nations ﬁrst and foremost. The high citation count
+for food security (2863, M = 954) compared to ambient temperatures
+(1944, M = 388.2) could suggest a greater level of awareness of cli-
+mate vulnerabilities −in line with ﬁndings showing a rising interest
+in vulnerability considerations and research [33,34].
+Geographic distribution
+Our data indicates that authors originating from more climate-
+vulnerable countries such as India [35], Greece [36], or China [37] are
+better represented in articles concerning environmental hazards to
+human health, such as ambient temperatures and extreme weather
+events.
+Articles primarily concerning infectious diseases have most often
+originated from a single highly developed region, or two highly
+developed regions such as Western Europe or North America. Articles
+on temperatures, on the other hand, originate from cross-regional
+collaborations between more and less-developed regions. Reviews
+concerning multiple topics and sustainable development articles
+were often led by authors from highly developed nations, but their
+average HDI score and high proportion of cross-regional collabora-
+tion indicate the involvement of a range of researchers from various
+backgrounds and nationalities (See Table 14) tend to receive lower
+author HDI and ND-GAIN scores (see Table 13).
+The prominence of developed nations in the top-cited articles list
+may stem from the correlation between funding and amount of pub-
+lications [31]. As developed nations have more government research
+funds to distribute, it stands to reason that these nations’ bodies of
+work will have some dominance in the list. What is more intriguing
+is the regional topic distribution, with developed nations investing
+heavily in articles on infectious diseases −the most frequently men-
+tioned topic on the list. Paradoxically, available funding could be
+encouraging a narrower focus on climate change and health research
+due to the prominence of this single topic and the tendency to prefer
+less novel topics that are considered more publishable [30,29].
+Study limitations
+This study has several limitations stemming from the nature of
+bibliometric analyses and the manual way data was processed.
+Firstly, as the body of knowledge on climate change and human
+health continues to grow and evolve, so will its use by the medical
+community. Since our list of 200 top-cited had been extracted there
+have been likely shifts in the citation patterns and composition of the
+list, which will require periodic follow-ups. These could enable
+Table 12
+Topic and citation distribution by primary topic for the 40 top-cited articles discussing
+direct human health indices.
+Primary Topic
+Primary topic
+Mentions
+citation sum
+Citation average
+Air quality
+2
+5
+517
+258.5
+Extreme weather
+2
+7
+616
+308
+Infectious diseases
+19
+24
+6875
+361.8421
+Multiple
+6
+N/A
+1998
+333
+Nutritional security
+3
+10
+2862
+954
+Sustainable
+development
+3
+7
+1088
+362.6667
+Temperatures
+5
+11
+1941
+388.2
+Total
+40
+15,897
+397.425
+Table 13
+Region of origin level of development and climate vulnerability by primary topic for the 40 top-cited articles discussing direct human health indices.
+Main Topic
+HDI average (all authors)
+HDI average (ﬁrst Author)
+ND-Gain (ﬁrst author)
+Author nationality
+S/E EU
+W EU
+AUS
+NA
+SE Asia
+Air quality
+0.91
+0.90
+63.80
+1
+1
+Extreme weather
+0.93
+0.78
+56.00
+1
+1
+Infectious diseases
+0.90
+0.92
+67.38
+9
+9
+1
+Multiple health climate risks
+0.86
+0.93
+69.45
+4
+1
+1
+Nutritional security
+0.89
+0.93
+70.17
+2
+1
+Sustainable development and policy
+0.86
+0.93
+70.10
+3
+Temperatures
+0.88
+0.85
+60.84
+2
+1
+2
+All health-related articles
+0.891675
+0.906275
+66.54
+3
+18
+2
+13
+4
+Legend:
+S/E EU −Southern/ Eastern Europe
+W EU −Western Europe
+AUS −Australia and New Zealand
+NA −North America
+SE ASIA −Southeast Asia
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+12
+researchers to track the evolution of the ﬁeld over time and highlight
+imbalances in research focal points.
+Secondly, the search strategy used to extract data in this study
+had been intentionally unsophisticated, aiming to detect uses of the
+politicized term, “climate change”, in the medical literature. Future
+studies may perform more inclusive or restrictive searches, or even
+compare search strategies, as is commonplace in bibliometric analy-
+ses.
+Thirdly, due to the manual way the articles were ﬁltered and
+labeled, and in which additional data was collected, errors in the
+analysis are not unlikely. Better-funded studies, using more sophisti-
+cated data extraction and validation methodologies, may yield differ-
+ent results.
+Fourthly, the 200 top-cited articles were sorted and grouped
+according to explicit references to human health, in line with our
+searching strategy that searched for explicit references to “climate
+change”. Our decision to focus on explicit terminology was meant to
+simplify and focus the analysis on the characterization of the impacts
+of climate change on human health in health sciences discourse.
+Other analyses may select different inclusion criteria or groupings
+that serve different research questions and may reach other conclu-
+sions.
+Lastly, our broad search strategy eventually yielded a relatively
+low number of relevant articles, engaging in a wide variety of topics.
+More speciﬁc search strategies, focusing on speciﬁc climate hazards
+or regions will likely yield interesting and instructive results that can
+be used to direct future research and highlight gaps in professional
+training.
+Conclusion
+This bibliometric citation analysis sets out to outline the topics
+and references health science professionals most often draw from
+the versatile pool of climate risks. In other words: what do we talk
+about when we talk about climate?
+The results suggest a focus on research originating from highly
+developed nations and centering around the spread of infectious dis-
+eases, rather than environmental risks such as ambient temperatures,
+air pollution, and extreme weather. The high citation count is a proxy
+for prominence in overall research, creating a potential path depen-
+dency for speciﬁc climate change and human health topics. Path
+dependency is a common phenomenon in technology development
+and research [32] where the most established path (or ﬁeld) is stud-
+ied rather than the most appropriate path (or ﬁeld). Coupled with
+funding bias toward established research [30,29], the correlation
+between funding and publishing [31], and a higher citation count, cli-
+mate change and human health research is at risk of developing path
+dependency toward infectious diseases.
+Tracking this potential path dependency in climate and human
+health research is important, as it could come at the expanse of envi-
+ronmental health hazards that will affect vulnerable populations on a
+day-to-day basis and may necessitate major reforms in healthcare
+system structures as a result of climate change.
+Furthermore, the overall relatively low number of citations, and
+the dominance of review articles covering multiple topics, suggest
+the conversation on the health threats posed by climate change is not
+conducted often or with an applicable, clinical focus. Citing the rele-
+vant literature more often and widely can help to promote a much-
+needed change and connect medical practitioners and researchers to
+the challenges posed by climate change.
+Author declaration
+We hereby agree to the submission to “The journal of climate
+change and health”
+Maya R. Kolsky
+Prof. Ehud Grossman
+Dr. Yuval Levi
+Dr. Eyal Klang
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Supplementary materials
+Supplementary material associated with this article can be found
+in the online version at doi:10.1016/j.joclim.2023.100272.
+References
+[1] Haunschild R, Bornmann L, Marx W. Climate change research in view of biblio-
+metrics. PLoS ONE 2016;11:e0160393. doi: 10.1371/journal.pone.0160393.
+[2] Fu H-Z, Waltman L. A large-scale bibliometric analysis of global climate change
+research between 2001 and 2018. Climatic Change 2022;170:36. doi: 10.1007/
+s10584-022-03324-z.
+[3] WHO. COP24 special report: health and climate change. 2018.
+Table 14
+Regional contribution and cross-regional collaboration distribution by primary topic for the 40 top-cited articles discussing direct human health indices.
+Cross-regional collaboration
+Article origins
+HDI average
+(all authors)
+Topic
+N
+1 region
+2 regions
+Multi-region
+SE EU
+W EU
+AUS
+NA
+LAT AM
+ME
+SE Asia
+AF
+Air quality
+2
+0
+2
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0.913
+Extreme weather
+2
+1
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0.931
+Infectious diseases
+19
+9
+7
+3
+2
+11
+4
+14
+3
+1
+3
+2
+0.902
+Multiple
+6
+0
+1
+5
+2
+6
+4
+6
+4
+3
+5
+4
+0.863
+Nutritional security
+3
+2
+0
+1
+0
+3
+1
+1
+1
+1
+1
+1
+0.886
+Sustainable development
+3
+0
+1
+2
+1
+3
+1
+2
+0
+0
+2
+1
+0.863
+Temperatures
+5
+1
+2
+2
+3
+3
+3
+3
+2
+0
+3
+0
+0.884
+Total
+40
+13
+14
+13
+9
+28
+14
+29
+10
+5
+14
+8
+0.892
+Legend:
+S/E EU −Southern/ Eastern Europe
+W EU −Western Europe
+AUS −Australia and New Zealand
+NA −North America
+LATAM −Latin America
+ME −Middle East
+SE Asia −South-East Asia
+AF −Africa
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+13
+[4] Smith K, Woodward A, Campbell-Lendrum D, Chadee D, Honda Y, Liu Q, et al.
+Human health: impacts, adaptation, and co-beneﬁts. Climate Change 2014:
+Impacts, Adaptation, and Vulnerability Part A: Global and Sectoral Aspects Contri-
+bution of Working Group II to the Fifth Assessment Report of the Intergovern-
+mental Panel on Climate Change; 2014. p. 709–54.
+[5] Cisse G, McLeman R, Adams H, Aldunce P, Bowen K, Campbell-Lendrum D, et al.
+Health, wellbeing, and the changing structure of communities. Climate Change
+2022.
+[6] Romanello M, McGushin A, Di Napoli C, Drummond P, Hughes N, Jamart L, et al.
+The 2021 report of the Lancet countdown on health and climate change: code red
+for a healthy future. Lancet 2021;398:1619–62. doi: 10.1016/S0140-6736(21)
+01787-6.
+[7] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Belesova K, Boykoff M, et al. The
+2019 report of The Lancet countdown on health and climate change: ensuring
+that the health of a child born today is not deﬁned by a changing climate. Lancet
+2019;394:1836–78. doi: 10.1016/S0140-6736(19)32596-6.
+[8] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Beagley J, Belesova K, et al. The
+2020 report of The Lancet countdown on health and climate change: responding
+to converging crises. Lancet 2021;397:129–70. doi: 10.1016/S0140-6736(20)
+32290-X.
+[9] Hathaway J, Maibach EW. Health implications of climate change: a review of the
+literature about the perception of the public and health professionals. Curr Envi-
+ron Health Rep 2018;5:197–204. doi: 10.1007/s40572-018-0190-3.
+[10] Kotcher J, Maibach E, Miller J, Campbell E, Alqodmani L, Maiero M, et al. Views of
+health professionals on climate change and health: a multinational survey study.
+Lancet Planet Health 2021;5:e316–23. doi: 10.1016/S2542-5196(21)00053-X.
+[11] Baek S, Yoon DY, Lim KJ, Cho YK, Seo YL, Yun EJ. The most downloaded and most
+cited articles in radiology journals: a comparative bibliometric analysis. Eur
+Radiol 2018;28:4832–8. doi: 10.1007/s00330-018-5423-1.
+[12] Xue J-H, Hu Z-P, Lai P, Cai D-Q, Wen E-S. The 100 most-cited articles in Parkin-
+son’s disease. Neurol Sci 2018;39:1537–45. doi: 10.1007/s10072-018-3450-y.
+[13] Navarro-Ballester A, Merino-Bonilla JA, Ros-Mendoza LH, Marco-Domenech SF.
+Publications on COVID-19 in radiology journals in 2020 and 2021: bibliometric
+citation and co-citation network analysis. Eur Radiol 2023;33:3103–14. doi:
+10.1007/s00330-022-09340-y.
+[14] Yeung AWK, Mozos I. The innovative and sustainable use of dental panoramic
+radiographs for the detection of osteoporosis. Int J Environ Res Public Health
+2020;17. doi: 10.3390/ijerph17072449.
+[15] Grzybowski A, Shtayer C, Schwartz SG, Moisseiev E. The 100 most-cited papers on
+age-related macular degeneration: a bibliographic perspective. BMJ Open Ophth
+2021;6:e000823. doi: 10.1136/bmjophth-2021-000823.
+[16] Rivera-Sotelo N, Vargas-Del-Angel R-G, Ternovoy SK, Roldan-Valadez E. Global
+research trends in COVID-19 with MRI and PET/CT: a scoping review with biblio-
+metric and network analyses. Clin Transl Imaging 2021;9:625–39. doi: 10.1007/
+s40336-021-00460-x.
+[17] Nations U.. Human development index. Hum Develop Rep n.d.
+[18] ND-GAIN. Country index rankings | ND-GAIN index n.d. https://gain-new.crc.nd.
+edu/ranking (accessed September 6, 2023).
+[19] Hutchins BI, Yuan X, Anderson JM, Santangelo GM. Relative citation ratio (RCR): a
+new metric that uses citation rates to measure inﬂuence at the article level. PLoS
+Biol 2016;14:e1002541. doi: 10.1371/journal.pbio.1002541.
+[20] Sweileh WM. Bibliometric analysis of peer-reviewed literature on climate change
+and human health with an emphasis on infectious diseases. Global Health
+2020;16:44. doi: 10.1186/s12992-020-00576-1.
+[21] Brandt JS, Hadaya O, Schuster M, Rosen T, Sauer MV, Ananth CV. A bibliometric
+analysis of top-cited journal articles in obstetrics and gynecology. JAMA Netw
+Open 2019;2:e1918007. doi: 10.1001/jamanetworkopen.2019.18007.
+[22] Azer SA, Azer S. Bibliometric analysis of the top-cited gastroenterology and hepa-
+tology articles. BMJ Open 2016;6:e009889. doi: 10.1136/bmjopen-2015-009889.
+[23] Kawuki J, Musa TH, Ghimire U, Obore N, Papabathini SS. The 100 top-cited articles
+on childhood obesity: a bibliometric analysis. Global Health J 2022;6:136–48. doi:
+10.1016/j.glohj.2022.07.003.
+[24] Adibi S. editor. Mobile health editor, 5. Springer International Publishing; 2015.
+doi: 10.1007/978-3-319-12817-7.
+[25] Sweileh WM, SW Al-Jabi, AbuTaha AS, Zyoud SH, Anayah FMA, Sawalha AF. Bib-
+liometric analysis of worldwide scientiﬁc literature in mobile - health: 2006-
+2016. BMC Med Inform Decis Mak 2017;17:72. doi: 10.1186/s12911-017-0476-7.
+[26] Berrang-Ford L, Sietsma AJ, Callaghan M, Minx JC, Scheelbeek PFD, Haddaway NR,
+et al. Systematic mapping of global research on climate and health: a machine
+learning review. Lancet Planet Health 2021;5:e514–25. doi: 10.1016/S2542-5196
+(21)00179-0.
+[27] Carolan-Olah M, Frankowska D. High environmental temperature and preterm
+birth: a review of the evidence. Midwifery 2014;30:50–9. doi: 10.1016/j.mid-
+w.2013.01.011.
+[28] Anderko L, Chalupka S, Du M, Hauptman M. Climate changes reproductive and
+children’s health: a review of risks, exposures, and impacts. Pediatr Res
+2020;87:414–9. doi: 10.1038/s41390-019-0654-7.
+[29] Ayoubi C, Pezzoni M, Visentin F.. Does it pay to do novel science? the selectivity
+patterns in science funding. Sci Pub Pol 2021, https://doi.org/10.1093/scipol/
+scab031.
+[30] Boudreau KJ, Guinan EC, Lakhani KR, Riedl C. Looking across and looking beyond
+the knowledge frontier: intellectual distance, novelty, and resource allocation in
+science. Manage Sci 2016;62:2765–83. doi: 10.1287/mnsc.2015.2285.
+[31] Heyard R, Hottenrott H. The value of research funding for knowledge creation and
+dissemination: a study of SNSF research grants. Humanit Soc Sci Commun
+2021;8:217. doi: 10.1057/s41599-021-00891-x.
+[32] Peacock MS. Path dependence in the production of scientiﬁc knowledge. Soc Epis-
+temol 2009;23:105–24. doi: 10.1080/02691720902962813.
+[33] Wang B, Pan S-Y, Ke R-Y, Wang K, Wei Y-M. An overview of climate change vul-
+nerability: a bibliometric analysis based on web of science database. Nat Hazards
+2014;74:1649–66. doi: 10.1007/s11069-014-1260-y.
+[34] Sweileh WM. Bibliometric analysis of peer-reviewed literature on food security in
+the context of climate change from 1980 to 2019. Agric Food Secur 2020;9:11.
+doi: 10.1186/s40066-020-00266-6.
+[35] Rajagopalan S, Al-Kindi SG, Brook RD. Air pollution and cardiovascular disease:
+JACC state-of-the-art review. J Am Coll Cardiol 2018;72:2054–70. doi: 10.1016/j.
+jacc.2018.07.099.
+[36] Manisalidis I, Stavropoulou E, Stavropoulos A, Bezirtzoglou E. Environmental and
+health impacts of air pollution: a review. Front Public Health 2020;8:14. doi:
+10.3389/fpubh.2020.00014.
+[37] Ye X, Wolff R, Yu W, Vaneckova P, Pan X, Tong S. Ambient temperature and mor-
+bidity:
+a
+review
+of
+epidemiological
+evidence.
+Environ
+Health
+Perspect
+2012;120:19–28. doi: 10.1289/ehp.1003198.
+[38] Godfray HCJ, Beddington JR, Crute IR, Haddad L, Lawrence D, Muir JF, et al. Food
+security: the challenge of feeding 9 billion people. Science 2010;327:812–8. doi:
+10.1126/science.1185383.
+[39] Gasparrini A, Guo Y, Hashizume M, Lavigne E, Zanobetti A, Schwartz J, et al. Mor-
+tality risk attributable to high and low ambient temperature: a multicountry
+observational study. Lancet 2015;386:369–75. doi: 10.1016/S0140-6736(14)
+62114-0.
+[40] Weaver SC, Reisen WK. Present and future arboviral threats. Antiviral Res
+2010;85:328–45. doi: 10.1016/j.antiviral.2009.10.008.
+[41] Swinburn BA, Kraak VI, Allender S, Atkins VJ, Baker PI, Bogard JR, et al. The global
+syndemic of obesity, undernutrition, and climate change: the Lancet commission
+report. Lancet 2019;393:791–846. doi: 10.1016/S0140-6736(18)32822-8.
+[42] Watts N, Adger WN, Agnolucci P, Blackstock J, Byass P, Cai W, et al. Health and cli-
+mate change: policy responses to protect public health. Lancet 2015;386:1861–
+914. doi: 10.1016/S0140-6736(15)60854-6.
+[43] Altizer S, Ostfeld RS, Johnson PTJ, Kutz S, Harvell CD. Climate change and infec-
+tious diseases: from evidence to a predictive framework. Science 2013;341:514–
+9. doi: 10.1126/science.1239401.
+[44] Murray NEA, Quam MB, Wilder-Smith A. Epidemiology of dengue: past, pres-
+ent and future prospects. Clin Epidemiol 2013;5:299–309. doi: 10.2147/CLEP.
+S34440.
+[45] Medlock JM, Hansford KM, Bormane A, Derdakova M, Estrada-Pe~na A, George J-C,
+et al. Driving forces for changes in geographical distribution of Ixodes ricinus ticks
+in Europe. Parasit Vectors 2013;6:1. doi: 10.1186/1756-3305-6-1.
+[46] Pecl GT, Araujo MB, Bell JD, Blanchard J, Bonebrake TC, Chen I-C, et al. Biodiversity
+redistribution under climate change: impacts on ecosystems and human well-
+being. Science 2017;355. doi: 10.1126/science.aai9214.
+[47] World Health Organization. Control of the leishmaniases. World Health Organ
+Tech Rep Ser 2010:XII–XIII 1.
+[48] Newell DG, Koopmans M, Verhoef L, Duizer E, Aidara-Kane A, Sprong H, et al.
+Food-borne diseases - the challenges of 20 years ago still persist while new ones
+continue to emerge. Int J Food Microbiol 2010;139(Suppl 1):S3–15. doi: 10.1016/
+j.ijfoodmicro.2010.01.021.
+[49] Simon F, Siles-Lucas M, Morchon R, Gonzalez-Miguel J, Mellado I, Carreton E, et al.
+Human and animal diroﬁlariasis: the emergence of a zoonotic mosaic. Clin Micro-
+biol Rev 2012;25:507–44. doi: 10.1128/CMR.00012-12.
+[50] Wheeler T, von Braun J. Climate change impacts on global food security. Science
+2013;341:508–13. doi: 10.1126/science.1239402.
+[51] Haake DA, Levett PN. Leptospirosis in humans. Curr Top Microbiol Immunol
+2015;387:65–97. doi: 10.1007/978-3-662-45059-8_5.
+[52] Altizer S, Bartel R, Han BA. Animal migration and infectious disease risk. Science
+2011;331:296–302. doi: 10.1126/science.1194694.
+[53] Ryan U, Fayer R, Xiao L. Cryptosporidium species in humans and animals: current
+understanding
+and
+research
+needs.
+Parasitology
+2014;141:1667–85.
+doi:
+10.1017/S0031182014001085.
+[54] Haines A, Ebi K. The imperative for climate action to protect health. N Engl J Med
+2019;380:263–73. doi: 10.1056/NEJMra1807873.
+[55] Jones BA, Grace D, Kock R, Alonso S, Rushton J, Said MY, et al. Zoonosis emergence
+linked to agricultural intensiﬁcation and environmental change. Proc Natl Acad
+Sci USA 2013;110:8399–404. doi: 10.1073/pnas.1208059110.
+[56] Anderson GB, Bell ML. Heat waves in the United States: mortality risk during heat
+waves and effect modiﬁcation by heat wave characteristics in 43 U.S. communi-
+ties. Environ Health Perspect 2011;119:210–8. doi: 10.1289/ehp.1002313.
+[57] Kilpatrick AM, Randolph SE. Drivers, dynamics, and control of emerging vector-
+borne zoonotic diseases. Lancet 2012;380:1946–55. doi: 10.1016/S0140-6736
+(12)61151-9.
+[58] Watts N, Amann M, Ayeb-Karlsson S, Belesova K, Bouley T, Boykoff M, et al. The
+Lancet countdown on health and climate change: from 25 years of inaction to a
+global transformation for public health. Lancet 2018;391:581–630. doi: 10.1016/
+S0140-6736(17)32464-9.
+[59] Griggs D, Stafford-Smith M, Gaffney O, Rockstr€om J, Ohman MC, Shyamsundar P,
+et al. Policy: sustainable development goals for people and planet. Nature
+2013;495:305–7. doi: 10.1038/495305a.
+[60] Guo Y, Gasparrini A, Armstrong B, Li S, Tawatsupa B, Tobias A, et al. Global varia-
+tion in the effects of ambient temperature on mortality: a systematic evaluation.
+Epidemiology 2014;25:781–9. doi: 10.1097/EDE.0000000000000165.
+[61] Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. Critical review of
+health
+impacts
+of
+wildﬁre
+smoke
+exposure.
+Environ
+Health
+Perspect
+2016;124:1334–43. doi: 10.1289/ehp.1409277.
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+14
+[62] Tamerius J, Nelson MI, Zhou SZ, Viboud C, Miller MA, Alonso WJ. Global inﬂuenza
+seasonality: reconciling patterns across temperate and tropical regions. Environ
+Health Perspect 2011;119:439–45. doi: 10.1289/ehp.1002383.
+[63] Kraemer MUG, Reiner RC, Brady OJ, Messina JP, Gilbert M, Pigott DM, et al. Past
+and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus. Nat
+Microbiol 2019;4:854–63. doi: 10.1038/s41564-019-0376-y.
+[64] Knutsen AP, Bush RK, Demain JG, Denning DW, Dixit A, Fairs A, et al. Fungi and
+allergic lower respiratory tract diseases. J Allergy Clin Immunol 2012;129:280–91
+quiz 292. doi: 10.1016/j.jaci.2011.12.970.
+[65] Wu X, Lu Y, Zhou S, Chen L, Xu B. Impact of climate change on human infectious
+diseases: empirical evidence and human adaptation. Environ Int 2016;86:14–23.
+doi: 10.1016/j.envint.2015.09.007.
+[66] Paaijmans KP, Blanford S, Bell AS, Blanford JI, Read AF, Thomas MB. Inﬂuence of
+climate on malaria transmission depends on daily temperature variation. Proc
+Natl Acad Sci USA 2010;107:15135–9. doi: 10.1073/pnas.1006422107.
+[67] Scheffers BR, De Meester L, Bridge TCL, Hoffmann AA, PandolﬁJM, Corlett RT, et al.
+The broad footprint of climate change from genes to biomes to people. Science
+2016;354. doi: 10.1126/science.aaf7671.
+[68] D’Ippoliti D, Michelozzi P, Marino C, de’Donato F, Menne B, Katsouyanni K, et al.
+The impact of heat waves on mortality in 9 European cities: results from the Euro-
+HEAT project. Environ Health 2010;9:37. doi: 10.1186/1476-069X-9-37.
+[69] Markandya A, Sampedro J, Smith SJ, Van Dingenen R, Pizarro-Irizar C, Arto I, et al.
+Health co-beneﬁts from air pollution and mitigation costs of the Paris Agreement:
+a modelling study. Lancet Planet Health 2018;2:e126–33. doi: 10.1016/S2542-
+5196(18)30029-9.
+[70] Allen T, Murray KA, Zambrana-Torrelio C, Morse SS, Rondinini C, Di Marco M,
+et al. Global hotspots and correlates of emerging zoonotic diseases. Nat Commun
+2017;8:1124. doi: 10.1038/s41467-017-00923-8.
+[71] Mordecai EA, Paaijmans KP, Johnson LR, Balzer C, Ben-Horin T, de Moor E, et al.
+Optimal temperature for malaria transmission is dramatically lower than previ-
+ously predicted. Ecol Lett 2013;16:22–30. doi: 10.1111/ele.12015.
+[72] Messina JP, Brady OJ, Golding N, Kraemer MUG, Wint GRW, Ray SE, et al. The cur-
+rent and future global distribution and population at risk of dengue. Nat Microbiol
+2019;4:1508–15. doi: 10.1038/s41564-019-0476-8.
+[73] Huang R-J, Zhang Y, Bozzetti C, Ho K-F, Cao J-J, Han Y, et al. High secondary aero-
+sol contribution to particulate pollution during haze events in China. Nature
+2014;514:218–22. doi: 10.1038/nature13774.
+[74] Lobell DB, Schlenker W, Costa-Roberts J. Climate trends and global crop produc-
+tion since 1980. Science 2011;333:616–20. doi: 10.1126/science.1204531.
+[75] Paerl HW, Paul VJ. Climate change: links to global expansion of harmful cyanobac-
+teria. Water Res 2012;46:1349–63. doi: 10.1016/j.watres.2011.08.002.
+[76] Lesk C, Rowhani P, Ramankutty N. Inﬂuence of extreme weather disasters on
+global crop production. Nature 2016;529:84–7. doi: 10.1038/nature16467.
+[77] Paerl HW, Otten TG. Harmful cyanobacterial blooms: causes, consequences, and
+controls. Microb Ecol 2013;65:995–1010. doi: 10.1007/s00248-012-0159-y.
+[78] Bita CE, Gerats T. Plant tolerance to high temperature in a changing environment:
+scientiﬁc fundamentals and production of heat stress-tolerant crops. Front Plant
+Sci 2013;4:273. doi: 10.3389/fpls.2013.00273.
+[79] Thornton PK. Livestock production: recent trends, future prospects. Philos Trans R
+Soc Lond B Biol Sci 2010;365:2853–67. doi: 10.1098/rstb.2010.0134.
+[80] Morris GP, Ramu P, Deshpande SP, Hash CT, Shah T, Upadhyaya HD, et al.
+Population genomic and genome-wide association studies of agroclimatic
+traits in sorghum. Proc Natl Acad Sci USA 2013;110:453–8. doi: 10.1073/
+pnas.1215985110.
+[81] Navas-Castillo J, Fiallo-Olive E, Sanchez-Campos S. Emerging virus diseases trans-
+mitted by whiteﬂies. Annu Rev Phytopathol 2011;49:219–48. doi: 10.1146/
+annurev-phyto-072910-095235.
+[82] Savary S, Willocquet L, Pethybridge SJ, Esker P, McRoberts N, Nelson A. The global
+burden of pathogens and pests on major food crops. Nat Ecol Evol 2019;3:430–9.
+doi: 10.1038/s41559-018-0793-y.
+[83] Fahad S, Bajwa AA, Nazir U, Anjum SA, Farooq A, Zohaib A, et al. Crop production
+under drought and heat stress: plant responses and management options. Front
+Plant Sci 2017;8:1147. doi: 10.3389/fpls.2017.01147.
+[84] Zhao C, Liu B, Piao S, Wang X, Lobell DB, Huang Y, et al. Temperature increase
+reduces global yields of major crops in four independent estimates. Proc Natl
+Acad Sci USA 2017;114:9326–31. doi: 10.1073/pnas.1701762114.
+[85] Springmann M, Clark M, Mason-D’Croz D, Wiebe K, Bodirsky BL, Lassaletta L, et al.
+Options for keeping the food system within environmental limits. Nature
+2018;562:519–25. doi: 10.1038/s41586-018-0594-0.
+[86] Piao S, Ciais P, Huang Y, Shen Z, Peng S, Li J, et al. The impacts of climate change on
+water resources and agriculture in China. Nature 2010;467:43–51. doi: 10.1038/
+nature09364.
+[87] Shrivastava P, Kumar R. Soil salinity: A serious environmental issue and plant
+growth promoting bacteria as one of the tools for its alleviation. Saudi J Biol Sci
+2015;22:123–31. doi: 10.1016/j.sjbs.2014.12.001.
+[88] Paerl HW, Hall NS, Calandrino ES. Controlling harmful cyanobacterial blooms in a
+world experiencing anthropogenic and climatic-induced change. Sci Total Envi-
+ron 2011;409:1739–45. doi: 10.1016/j.scitotenv.2011.02.001.
+[89] McDowell NG, Beerling DJ, Breshears DD, Fisher RA, Raffa KF, Stitt M. The interde-
+pendence of mechanisms underlying climate-driven vegetation mortality. Trends
+Ecol Evol 2011;26:523–32. doi: 10.1016/j.tree.2011.06.003.
+[90] Michalak AM, Anderson EJ, Beletsky D, Boland S, Bosch NS, Bridgeman TB, et al.
+Record-setting algal bloom in Lake Erie caused by agricultural and meteorological
+trends consistent with expected future conditions. Proc Natl Acad Sci USA
+2013;110:6448–52. doi: 10.1073/pnas.1216006110.
+[91] Anderson DM, Cembella AD, Hallegraeff GM. Progress in understanding harmful
+algal blooms: paradigm shifts and new technologies for research, monitoring,
+and management. Ann Rev Mar Sci 2012;4:143–76. doi: 10.1146/annurev-
+marine-120308-081121.
+[92] Rosenzweig C, Elliott J, Deryng D, Ruane AC, M€uller C, Arneth A, et al. Assessing
+agricultural risks of climate change in the 21st century in a global gridded crop
+model intercomparison. Proc Natl Acad Sci USA 2014;111:3268–73. doi: 10.1073/
+pnas.1222463110.
+[93] Wolkovich EM, Cook BI, Allen JM, Crimmins TM, Betancourt JL, Travers SE, et al.
+Warming experiments underpredict plant phenological responses to climate
+change. Nature 2012;485:494–7. doi: 10.1038/nature11014.
+M.R. Kolsky, E. Grossman, Y. Levy et al.
+The Journal of Climate Change and Health 14 (2023) 100272
+15

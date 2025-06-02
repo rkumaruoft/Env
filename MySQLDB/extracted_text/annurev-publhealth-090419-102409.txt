@@ -1,0 +1,1021 @@
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Annual Review of Public Health
+Climate Change
+Disinformation and
+How to Combat It
+Stephan Lewandowsky
+School of Psychological Science, University of Bristol, Bristol BS8 1TU, United Kingdom;
+email: stephan.lewandowsky@bristol.ac.uk
+School of Psychological Science, University of Western Australia, Perth, Western Australia 6009,
+Australia
+Oceans and Atmosphere, CSIRO, Hobart, Tasmania 7004, Australia
+Annu. Rev. Public Health 2021. 42:1–21
+First published as a Review in Advance on
+December 23, 2020
+The Annual Review of Public Health is online at
+publhealth.annualreviews.org
+https://doi.org/10.1146/annurev-publhealth-
+090419-102409
+Copyright © 2021 by Annual Reviews. This work is
+licensed under a Creative Commons Attribution 4.0
+International License, which permits unrestricted
+use, distribution, and reproduction in any medium,
+provided the original author and source are credited.
+See credit lines of images or other third-party
+material in this article for license information.
+Keywords
+climate change, science denial, disinformation, communicating science
+Abstract
+Climate change presents a challenge at multiple levels: It challenges our
+cognitive abilities because the effect of the accumulation of emissions is dif-
+ficult to understand. Climate change also challenges many people’s world-
+view because any climate mitigation regime will have economic and politi-
+cal implications that are incompatible with libertarian ideals of unregulated
+free markets. These political implications have created an environment of
+rhetorical adversity in which disinformation abounds, thus compounding
+the challenges for climate communicators. The existing literature on how
+to communicate climate change and dispel misinformation converges on
+several conclusions: First, providing information about climate change, in
+particular explanations of why it occurs, can enhance people’s acceptance
+of science. Second, highlighting the scientific consensus can be an effective
+means to counter misinformation and raise public acceptance. Third, cul-
+turally aligned messages and messengers are more likely to be successful.
+Finally, climate misinformation is best defanged, through a process known
+as inoculation, before it is encountered, although debunking techniques can
+also be successful.
+1
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Misinformation:
+information that turns
+out to be false
+1. CLIMATE CHANGE: PHYSICAL SCIENCE VERSUS
+SOCIAL COGNITION
+1.1. A Century of Emerging Consensus
+More than 160 years ago, on 10 June 1859, John Tyndall reported to the Royal Society the re-
+sults of an experiment that he had conducted, which showed that “carbonic acid,” despite being
+a perfectly colorless and invisible gas, was able to absorb heat radiation. Unlike the atmosphere,
+carbonic acid was nearly opaque to radiant heat. We now refer to carbonic acid as CO2, and, fol-
+lowing on the heels of Tyndall’s discovery, scientists recognized before the end of the nineteenth
+century that industrial CO2 emissions were bound to alter Earth’s climate (4).
+During the last 30 years, the evidence that humans are altering the climate has become un-
+equivocal. There is near unanimity (around 97% or more) among domain experts that Earth’s cli-
+mate is being altered by emissions of CO2 and other greenhouse gases, mainly from the burning
+of fossil fuels (3, 35, 36). The Intergovernmental Panel on Climate Change (IPCC) periodically
+summarizes the scientific consensus in their Assessment Reports (ARs). The latest report (AR5)
+has underscored the urgency of the problem and the need for mitigation policies (78).
+The impacts of climate change on human health are now being felt. Climate change has mea-
+surably increased the capacity for the transmission of vector-borne and waterborne diseases, such
+as dengue fever and malaria (172). Warming has also been tied to an increase in the prevalence of
+mental health problems in the United States (128).
+1.2. Decades of Public Hesitancy
+Notwithstanding the pervasive scientific agreement and measurable adverse consequences of cli-
+mate change, the public in many countries remain partially unconvinced that climate change
+presents a societal risk and is caused by fossil-fuel combustion. Meta-analyses of survey data be-
+tween 2002 and 2017 have shown that public concern with climate change peaked in 2008 but
+then declined until 2011–2013 (5, 28), before showing a rebound since then (5). Although the rel-
+evance of those fluctuations in public opinion is unclear (47), there is no doubt that many Ameri-
+cans [around 36% (47)] are currently not worried about climate change and that a similar number
+or more do not accept its human origins (5, 66). One of the most extensive and long-standing
+surveys of the American public, by Yale University and George Mason University, has found that
+the share of people who accept that climate change is happening has been hovering around 70%
+between 2016 and 2020, although the share of people who are “extremely” or “very” sure that
+global warming is happening has risen from ∼40% to more than 50% during the same period
+(98).
+The American public also widely underestimates the extent of the scientific consensus. As of
+2016,less than 70% of the public recognized that most scientists agree on climate change,although
+that share has increased from 50% in 2010 (65). In 2017, only 13% of Americans were aware that
+the scientific consensus is over 90% (99), although that share has risen to 21% in 2020 (98).
+One pervasive aspect of US public opinion on climate change is its increasing polarization
+along party lines: Whereas Republican and Democrat voters differed little from each other in
+their level of concern in the 1990s, there has been a marked and increasing divergence since about
+2000. By 2016, only 40% of Republicans worried about climate change, compared with 84% of
+Democrats (47). Similar gaps exist for other measures, such as acceptance of the scientific con-
+sensus and the human causes of climate change (66). Analysis of the factors that contribute to this
+polarization is crucial to mapping out the psychological, cognitive, and sociological landscape on
+which climate misinformation and potential countermeasures unfold. The political polarization of
+2
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Skepticism:
+careful scrutiny of all
+evidence, central to
+the scientific ethos and
+method
+Denial: motivated
+rejection of evidence
+in favor of political or
+personal views
+climate change is particularly acute in the United States but also transcends national boundaries.
+It turns out to reflect two principal components: first, a pervasive and global association between
+right-wing political views and climate “skepticism” and, second, specific actions involving parts of
+the American political and economic leadership.
+1.3. Drivers of Climate Skepticism
+Research has identified the main drivers of climate skepticism and denial. The most important
+variables are people’s personal worldviews and elite cues.
+1.3.1. The worldview challenge of climate mitigation. Dealing with climate change will re-
+quire a transformation of the global economy. Although numerous instruments for climate mit-
+igation exist, the required cuts to CO2 emissions cannot be achieved without some new policies
+or regulations—from carbon taxes to explicit emission controls—that will transform a fossil fuel–
+based economy into one based on renewable sources of energy. Mitigation therefore presents a
+deep challenge to people whose personal identity and worldviews are tied up with free-market
+economics.
+It is unsurprising, therefore, that countless surveys have shown a strong association between
+right-wing or libertarian worldviews and the rejection of climate science.This association is partic-
+ularly strong in Anglophone countries (146), accounting for nearly 50% of the variance in Ameri-
+cans’ attitudes toward climate change (105), whereas it is somewhat attenuated in other countries
+(113). Nonetheless, the association has been found in Australia (33), the United Kingdom (27),
+and 22 European countries and Israel (135), using a variety of different worldview measures. A re-
+cent meta-analysis confirmed the presence of the association across 56 nations around the world
+(75). Irrespective of how worldviews are measured (e.g., as free-market libertarianism or as po-
+litical conservatism) and irrespective of what instrument is used to assess climate attitudes (e.g.,
+endorsement of the science or policy support), the strong association between right-wing politi-
+cal attitudes and climate skepticism represents one of the most robust—and large, up to 50% of
+variance accounted for (105)—findings in the literature on people’s acceptance of science.
+1.3.2. Anti-elitism and conspiracism. The recent surge in populism around the world has
+also caught up with climate science. At the heart of populism is the Manichaean view of a binary
+conflict between the virtuous “people” and a corrupt “elite” (170). The “elite” are constructed dif-
+ferently in different contexts and often include established institutions such as mainstream media,
+the judiciary, and academics and experts (123). Climate denial has therefore become a pervasive
+attribute of many, though not all, populist movements (116) and many, though not all, far-right
+European parties and actors (54). More detailed empirical examinations of the underlying vari-
+ables for the association between populism and climate denial have identified exclusionism (e.g., as
+reflected in opposition to multiculturalism) and social dominance orientation (i.e., endorsement
+of group-based hierarchies) as the main drivers in Sweden (85) and Brazil (84).
+Populist rhetoric is frequently aligned with the rhetoric of conspiracy theories (9). Both “offer
+the same binary scheme to understand events and a state of affairs, based on a similar polarised
+worldview, discursively creating an external threat to the inner group” (9, p. 170). Conspiracy
+theories are thus often encountered in science denial (12, 89, 107), at least in part because they
+offer an escape from compelling scientific agreement when a consensus can be reinterpreted as
+reflecting a conspiracy among scientists in pursuit of some ulterior motive (33, 103). Accordingly,
+considerable evidence supports a link between climate denial and endorsement of conspiracies, at
+least in the United States (76, 105, 108, 157, 165).
+www.annualreviews.org • Climate Change Disinformation
+3
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+The involvement of conspiracy theories in climate denial is problematic for at least two reasons:
+First, evidence shows that mere exposure to conspiracy theories about climate change (e.g., that
+scientists doctored the data) diminishes people’s intentions to reduce their carbon footprint (42,
+81, 158). Conspiratorial rhetoric may therefore have adverse consequences on political discourse,
+beyond the effects on the beholders of such views themselves. Second, conspiracy theories are
+notoriously difficult to debunk because of their “self-sealing” nature. Contrary evidence is often
+reinterpreted as confirmatory evidence (152).
+1.3.3. The role of elite cues. Worldviews, populism, and conspiratorial rhetoric do not occur
+in a vacuum. Instead, these variables take effect in a political and rhetorical context that is shaped
+by the media and by political and cultural elites. This context may affect people’s selection of
+sources that they consider reliable and believable (43), and people’s opinions may be formed quite
+rationally on the basis of information from chosen sources (33).
+Notwithstanding populist antielite rhetoric, empirical evidence indicates that elite cues are a
+major determinant of climate-related attitudes, even among conservatives. For example, in the late
+1990s, at a time when some Democratic and Republican leaders were still aiming for bipartisan
+climate legislation, political affiliation had little discernible effect on their climate attitudes. In
+fact, highly educated conservatives were slightly more likely than their liberal counterparts to
+accept that scientists agreed on climate change (156). By 2010, the issue had become intensely
+polarized, and conservatives and liberals no longer shared a common ground (156). A longitudinal
+statistical analysis of data from 2001–2013 identified elite cues (e.g., votes in Congress, tone of
+press releases by members of Congress), amplified by the media, as the greatest determinant of
+public concern about climate change (28). These conclusions have been supported by another
+recent study that analyzed US media coverage and found that messages from Democratic elites—
+which nearly exclusively favored climate policies and endorsed climate science—increased during
+the 25 years from 1990 to 2015, whereas the number of messages from Republican elites decreased
+and more mixed messages were sent (125). The shift in media coverage may have had flow-on
+consequences, increasing the public’s polarization (125).
+The importance of elite cues has also been repeatedly established in experiments. In one study
+in Australia, participants were found to become more polarized when leaders took diverging posi-
+tions, whereas their polarization lessened when leaders converged on a policy position (96). In an
+American study, participants being informed that “more Democrats and Republicans in Congress
+than ever before” accepted the facts of human-caused climate change significantly affected atti-
+tudes, including (marginally) for a subsample of conservatives (156).
+1.3.4. Social cognition of climate change. In summary, as a first approximation, attitudes to-
+ward climate change are driven largely by motivated cognition that seeks to protect individuals
+against scientific evidence that is ideologically or economically threatening. Although elite cues
+can attenuate those processes or steer them in different directions, there is no doubt overall of the
+important role that worldviews play in the rejection of climate science. However, this rejection is
+not the only challenging aspect of the climate problem. Even in the absence of interference from
+worldviews or other forms of motivated cognition, climate change presents multiple challenges to
+human cognition.
+2. CLIMATE CHANGE VERSUS HUMAN COGNITION
+2.1. The Power of the Anecdote
+In February 2015, US Senator James Inhofe (Republican from Oklahoma) famously brought a
+snowball to the floor of the US Senate in an apparent attempt to prove that global warming is a
+4
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Disinformation:
+intentionally
+disseminated false
+information
+hoax and to question the fact that 2014 had just clocked in as the hottest year on record. (The sub-
+sequent five years, 2015–2019, have all been hotter than 2014.) Although scientifically ludicrous,
+the snowball stunt was well aligned with the human tendency to be influenced by anecdotes, im-
+ages, and personal experiences.
+Accordingly, much evidence indicates that people’s acceptance of climate change is a function
+of perceived temperature on a specific day (115). Climate attitudes in a US county (90) or US state
+(10) can be linked to the prevailing local climate indices. Local temperatures also find expression
+in Twitter discourse about climate change (92); even opinion pieces about climate change in major
+American media have been found to be more likely to reflect the scientific consensus after particu-
+larly warm seasons, whereas skeptical opinions are more prevalent after cooler temperatures (41).
+Effects on attitudes can also be observed in response to extreme events. In a quasi-naturalistic
+experiment, New Jersey residents’ attitudes toward climate change were found to become consid-
+erably more proenvironment after Hurricane Sandy (143). A discernible effect of extreme events
+was also observed when survey data from 130,000 respondents were linked to local climatic events
+(95). The effect holds across 24 countries (20), including the United Kingdom (155).
+Some qualifications do apply, however, to the effects of events on attitude. First, a recent study
+has argued that the effects of extreme events on climate attitudes and willingness to act are limited
+to individuals who attributed their extreme weather experience to climate change (129). Second,
+when the effects of climatic conditions are statistically compared with the role of worldviews, the
+latter are found to exert a considerably larger influence (120).
+2.2. Stock and Flow Problems
+Whereas people tend to put undue weight on anecdotes and events, they systematically underap-
+preciate the implications of carbon emissions. The extent of global warming is determined by the
+concentration of CO2 in the atmosphere (93),which has been built up by all emissions since the on-
+set of industrialization.Current emissions increase that concentration,even though roughly half of
+CO2 emissions are taken up by natural carbon sinks such as the oceans and terrestrial biomass. Re-
+ducing emissions will therefore not immediately reduce concentrations; it will merely slow the fur-
+ther accumulation of CO2 in the atmosphere, just as the level of water in a bathtub will rise as long
+as the flow from the faucet exceeds the flow out through the drain. It is only when emissions cease
+completely, or nearly so, that carbon sinks will begin to draw CO2 from the atmosphere (93, 147).
+This relationship between emissions and atmospheric concentrations, known as a stock-and-
+flow problem, is difficult for most people to appreciate (149). Even highly skilled individuals (e.g.,
+with a background in science, engineering, mathematics, or economics) erroneously believe that
+CO2 concentrations can be kept from increasing by stabilizing—rather than eliminating—current
+CO2 emissions (151). Formal training in system dynamics cuts the error rate in half, from 50%
+to 25%, but fails to eliminate it (150). This cognitive limitation conspires against recognition of
+the urgency and magnitude of the challenge: The mistaken belief that reducing emissions will
+immediately reduce warming leads people to believe, falsely, that there is still plenty of time, that
+we can wait and see how bad climate change will be before acting because the climate will respond
+quickly to policies designed to cut emissions.
+People’s overreliance on anecdotes, combined with their failure to understand the nature of
+stock-and-flow problems, provides a soft target for disinformation.
+3. CLIMATE SCIENCE VERSUS DISINFORMATION
+Opposition to climate science typically claims the mantle of “skepticism” and purports to defend
+“sound science” against the alleged “politicization” of mainstream climate science. This rhetoric
+www.annualreviews.org • Climate Change Disinformation
+5
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+resembles the tobacco industry’s campaigns to undermine the medical evidence about the health
+risks from smoking (137). Those claims do not withstand scrutiny. Several analyses of skepti-
+cal arguments have shown them to be flawed methodologically (8) as well as logically (32, 102).
+Contrarian argumentation is frequently incoherent, for example when it is simultaneously argued
+that (a) global temperature cannot be reliably measured and (b) it has been cooling for 10 years
+(102). Guides to detect flawed argumentation are available (32). Blind expert tests have also re-
+vealed contrarian interpretations of climate data to be misleading and unsuitable for policy advice
+(100, 111).
+3.1. Organized Disinformation
+Disinformation does not erupt spontaneously.It is actively disseminated.Recent research has iden-
+tified the sources and mechanisms underlying the dissemination of disinformation.
+3.1.1. Disinformation funding and lobbying. Research has clearly established that disinfor-
+mation about climate change is disseminated in an organized manner through well-funded net-
+works. One avenue is through the publication of environmentally skeptical books, which can be
+traced back to conservative think tanks (44, 79). More than 90% of such books published in the
+United States have been linked to think tanks (79), and a similar proportion has not undergone
+peer review (44).
+Analysis of Internal Revenue Service data has revealed that the overall annual income of think
+tanks involved in climate disinformation reached $900 million between 2003 and 2010 (22), al-
+though how much of that money is spent specifically on climate disinformation is unknown. Dur-
+ing the last 20 years, the network of think tanks and other actors promulgating scientific misin-
+formation has also become increasingly integrated into American philanthropy (52). A content
+analysis of 16,000 documents produced by think tanks has revealed that the relative prevalence of
+statements casting doubt on mainstream science has increased between 1998 and 2013 (16).
+At the political level, studies have estimated that between 2000 and 2016, more than $2 billion
+was spent on lobbying Congress concerning climate change legislation (23), money that was ex-
+pended primarily on legislators who had an antienvironmental track record (59). To illustrate,
+the Lieberman–McCain Climate Stewardship Act of 2007 attracted lobbying expenditures of
+$443 million, and the Clean Energy and Security Act of 2009 attracted $716 million.
+Archival historical work has revealed that the fossil fuel industry was aware of the anticipated
+consequences of climate change at least as early as 1965 (55). This knowledge was expressed in-
+consistently, however. In an analysis of Exxon’s climate change communications between 1977 and
+2014, more than 80% of internal documents and peer-reviewed articles acknowledged the reality
+of human-caused climate change, whereas only 12% of public-facing “advertorials” did (153).
+3.1.2. Disinformation networks and impact. The effectiveness of organized disinformation
+can be examined by tracing the dissemination of content into mainstream media and the political
+sphere (see the sidebar titled Rhetorical Strategies of Disinformation). A recent computational
+content analysis of more than 40,000 documents from 164 skeptical organizations produced be-
+tween 1993 and 2013 showed that the most central actors in this network—but not those at the
+periphery—had received funding from Exxon or Koch Family Foundations (KFF) (51). These
+funded actors were more likely to have produced and disseminated material to further polarize
+the climate change issue (50). Moreover, the similarity between skeptical content and reporting
+on climate change in three major US news outlets significantly increased over time, as did the
+similarity between skeptical content and the speech produced by US presidents (51). Documents
+6
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+RHETORICAL STRATEGIES OF DISINFORMATION
+The rhetorical strategies employed by climate disinformation have been curated by public relations professionals
+(45, 53).
+■Undermine and question the scientific consensus (49).
+■Highlight scientific uncertainty and demand certainty as a condition for climate action (57).
+■Attack individual scientists to undermine their credibility (145).
+■Undermine institutions generally, such as peer review (45).
+■Project pseudoscientific alternatives through a network of blogs (48, 69, 103).
+produced by actors with corporate funding found more echo in the media than did those by non-
+funded skeptical sources.
+These computational analyses illustrate the links from corporate funders, through a network
+of think tanks and other organizations, to the media and even the president’s rhetoric. Recent
+theoretical and modeling work has shown that even fairly subtle biases (173) and even just a few
+evidence-resistant agents (110) are sufficient to prevent a network of rational agents from accept-
+ing the best available scientific knowledge in the presence of disinformation.
+3.2. Disinformation versus the Public
+The demonstrated political success of climate disinformation (50, 51) is accompanied by dis-
+cernible effects on public attitudes.
+3.2.1. Media coverage and social media. A long-standing journalistic norm is the assumption
+that there are always two sides to an issue. Accordingly, US mainstream media and TV gave con-
+trarian voices equal coverage with climate scientists for a long time (17, 18). Although the situation
+has gradually improved, with the media no longer presenting pervasive false balance (21), the few
+contrarian scientists continue to be given disproportionate representation in the media (133). In
+addition, even quality media coverage has ignored very basic facts about climate change (140). For
+example, The New York Times rarely mentions the mechanics of the basic greenhouse effect (140).
+False-balance coverage constitutes one of the most insidious, albeit sometimes inadvertent,
+forms of climate misinformation. When people see two sides arguing a complicated scientific is-
+sue,they come away with the impression of an ongoing equally split scientific debate.False-balance
+media coverage demonstrably reduces the public’s understanding of the strength of scientific evi-
+dence (94) and reduces the public’s perception of the scientific consensus (34).
+One way to present conflicting viewpoints without misleading is by presenting weight-of-
+evidence or weight-of-experts information. These approaches acknowledge multiple sides to a de-
+bate while also evaluating which side is supported by evidence and a scientific consensus (46). This
+approach fosters more accurate beliefs while also acknowledging contrarian viewpoints (30, 46).
+Although mainstream media coverage has arguably improved during the last 10 years [with the
+exception of polarizing outlets such as Fox News (13, 62)], social media continue to misrepresent
+scientific knowledge about climate change. For example, the majority of YouTube videos about
+climate change espouse antiscientific viewpoints (1).
+3.2.2. Effects of disinformation on people’s attitudes. Misinformation demonstrably un-
+dermines the public’s knowledge and acceptance of climate change. Just a handful of misleading
+www.annualreviews.org • Climate Change Disinformation
+7
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+numbers often used by “skeptics” can lower acceptance of climate change (138). Misinformation
+can also cancel out the impact of accurate information. When people are presented with two con-
+flicting pieces of information, the two can cancel each other out (34, 121, 162). In a comparison of
+different disinformation strategies, a petition that purports to show that 31,000 scientists disagree
+with the scientific consensus (virtually none of the signatories have relevant scientific credentials)
+has been identified as particularly damaging (162). The most frequently shared climate article on
+social media in 2016 featured this misleading petition (139).
+With regard to social media, comments on blog posts have been shown to alter people’s own
+attitudes and perceptions of others’ attitudes (71, 101). Even very subtle cues, such as the number
+of times a YouTube video has been viewed, can affect people’s perceptions of the salience of the
+climate issue (148).
+3.3. Disinformation versus Scientists
+The adverse effects of contrarian activities are not limited to the public at large.Several researchers
+have suggested that the constant barrage of public criticism and attacks on individual scientists
+(145) has induced the scientific community to exercise undue caution (56, 109) or to “err on the
+side of least drama” (25). Indeed, the language used in the IPCC assessment reports has been far
+more cautious than that used by climate change–denying think tanks (124). The mean confidence
+expressed by the IPCC in the findings reported in its latest report is “medium,” and only a small
+share of the findings are reported with “very high” confidence (70).
+Direct empirical evidence for the assertion that the scientific community has been unduly cau-
+tious in response to denial is difficult to assemble. However, interviews with researchers have
+revealed that some forms of contrarian activities, such as the use of freedom-of-information re-
+quests, have led to changes in how scientists communicate and have imposed an additional work
+burden that draws time away from research (114). At a theoretical level, agent-based simulations
+have shown how readily knowledge accumulation by a scientific community can be delayed or
+disrupted by bad-faith actors (110, 173).
+4. COMMUNICATING CLIMATE CHANGE IN AN ADVERSARIAL
+ENVIRONMENT
+The terrain for climate communication is treacherous and requires suitable rhetorical tools (see
+the sidebar titled Communicating in an Adversarial Environment). The implications of climate
+change challenge many people’s worldviews and have created an adversarial political and rhetor-
+ical environment. The physics of climate change pose a challenge to cognition for everyone. To
+top it off, the stakes could hardly be higher and, as the consequences of climate change become
+increasingly apparent, the emotions could hardly be more fraught.
+COMMUNICATING IN AN ADVERSARIAL ENVIRONMENT
+Communicators must take care to select the right tools to operate in an adversarial environment.
+■Acknowledge and use the nuances of emotion but avoid focusing on fear.
+■Affirm the science through culturally appropriate messages and by highlighting the scientific consensus.
+■Counter disinformation by inoculation or well-designed debunking.
+■Focus on policies instead of climate attitudes.
+8
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+4.1. Emotion, Visuals, and the Arts
+Delaying climate mitigation will magnify adverse consequences and increase the difficulty of solv-
+ing the climate problem. Many communicators have therefore used fear as a motivator, and at-
+tributes such as “terrifying” or “catastrophic” are commonplace in media reports about climate
+change (130).
+Fear campaigns, however, are not without their critics. Fear is known to be motivating in sit-
+uations where the threat is readily averted (175). Those circumstances do not hold in climate
+change where no quick-fix solutions exist (130). When no easy solution exists, fear appeals may
+be counterproductive because a frightening but unsolvable problem is often avoided or denied
+(64). In a recent review of the evidence relating to climate change, Hornsey & Fielding (73,
+p. 23) concluded that “unrealistic apocalyptic messaging runs the risk of diluting the integrity
+of all climate-related messages. But caution should be exercised in simply assuming that fear mes-
+sages around the climate are leading to disengagement.”
+This nuanced view of emotions meshes well with other recent proposals to recognize emo-
+tions as essential components of motivation (61) rather than levers that can be pulled at will to
+achieve some desired result (29). One way in which people’s emotions can be engaged construc-
+tively is through art. Unlike conventional means of communication, art uses novel metaphors
+and narratives, which demand the viewer’s attention (142). Art can therefore challenge viewers in
+constructive ways that unidirectional communication cannot (26).
+Even simple visuals can be effective. For example, maps of sea-level rise increase acceptance
+of sea-level rise specifically and climate change generally (167). When maps of sea-level rise are
+animated, they are particularly effective and can weaken the effects of contrarian counterframes,
+thus helping overcome politicization (15). When engagement is taken a step further by letting
+people make their own policy decisions in a realistic climate simulation, affective engagement and
+knowledge increase considerably (141).
+However, use of visuals and art also requires care: First, some images (e.g., of floods) that are
+highly salient and illustrate the threat from climate change are also demotivating (131). Highlight-
+ing efficacy requires different visuals (e.g., solar panels) (131). Second, researchers need to avoid
+the anecdotal snowball trap and to illustrate the consequences of climate change with images
+that are scientifically legitimate—for example, showing retreating glaciers legitimately illustrates
+long-term trends, whereas a picture of a dying crop does not (112). Helpful guidelines for the
+construction of visuals have been proposed (171).
+4.2. Affirming the Science
+Calls to educate the public are traditionally made by stakeholders when public attitudes and be-
+liefs diverge from scientific evidence on the assumption that additional information will redress
+the situation (39). This deficit model of science communication has been the target of trenchant
+critique by researchers who highlight the role of culture (i.e., people’s worldviews and ideolo-
+gies) in the processing of scientific information (87). On this cultural-cognition view, people are
+not lacking information but processing it differently and in a manner that is consistent with their
+culture. Hence, liberals who endorse climate science are not in possession of more knowledge
+than conservatives who reject it, but both groups weight information—i.e., the relative risks of
+unmitigated climate change versus the risks to economic activity from emission cuts—differently
+(87).
+Although the literature has often dichotomized those two views, this approach is unhelpful in
+practice (164). Evidence supports (a) the success of providing additional information and (b) for
+doing so in a culturally appropriate manner.
+www.annualreviews.org • Climate Change Disinformation
+9
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+4.2.1. Providing information. Numerous research findings demonstrate that people’s knowl-
+edge about climate change matters. For example, specific knowledge about the causes of climate
+change was associated with an attenuation of the effect of conservative worldviews in an Australian
+sample (63). In experiments, providing a causal explanation of the greenhouse effect in 35 words
+has been shown to significantly increase acceptance of the science and orient toward mitigative
+action (138).
+Similarly, asking participants to focus on mechanistic explanations can reduce polarization
+(80), and focusing on the absence of such explanations in contrarian argumentations can reduce
+the impact of those false arguments across the party divide (80). When conservative participants
+first acknowledge several general contributions of science, they subsequently report significantly
+stronger beliefs in climate science than do conservatives who were asked only about their beliefs
+(58). It appears that the need for consistency—e.g., to recognize the value of science regardless of
+domain—can overcome ideological reflexes.
+Providing scientific information also raises people’s recognition of the importance of climate
+policies, in particular among people who are skeptical of climate change (39). This result was
+obtained across party lines and in the United States as well as in Germany (39). Notably, inter-
+ventions that avoid fear and guilt but highlight climate mitigation actions (e.g., reducing meat
+consumption) are particularly effective in stimulating proenvironmental intentions among people
+who reject the human causes of climate change (74).
+In summary, the preponderance of evidence suggests that, in line with the deficit model, pro-
+viding information can be helpful. Information is particularly valuable if it provides an explanation
+(or highlights the absence of an explanation in contrarian arguments). Although these effects
+transcend political partisanship, culturally appropriate messaging is known to be particularly
+effective.
+4.2.2. Culturally appropriate messaging. Messages that are designed to align with an individ-
+ual’s cultural frame of reference are particularly easy to understand (83) and have greater impact.
+For example, when messages emphasize free-market solutions to climate change, acceptance of
+the science increases among conservatives (40). When stories are created that contain heroes and
+villains (e.g., the libertarian Cato Institute versus the egalitarian Club of Rome; both can be hero
+or villain depending on people’s worldview), the extent of positive affect for the hero predicted
+outcome measures such as perceived risk from climate change or policy preferences. For exam-
+ple, people’s affect for the Cato Institute predicted their endorsement of cap-and-trade policies
+when Cato was presented as a hero, whereas no such association existed when the Club of Rome
+was presented as hero—in that case, affect for the hero was associated with support for renewable
+energy (82).
+There is little doubt that culturally consonant messages [and messengers (86)] are received
+more favorably than are their culturally misaligned counterparts. This approach has been labeled
+“jiu jitsu” persuasion (72), on the basis of the idea that rather than tackling people’s expressed
+attitudes (such as climate denial) directly, communicators should understand the underlying roots
+of those expressed attitudes (e.g., a person’s identity as a free-market adherent), yield to those
+values, and then align messages accordingly. A nuanced review of the roles of culture and values
+was provided by climate communication practitioner Adam Corner and colleagues (37).
+4.2.3. Consensus messaging. One of the most popular climate disinformation strategies is to
+question the scientific consensus (49, 139). It is also the most damaging rhetorical tool (162), which
+is unsurprising because people’s perceptions about scientific agreement are a key “gateway belief”
+to their acceptance of science and policy support (161, 166). The status of perceived consensus
+10
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+as a gateway belief to acceptance of (climate) science has since been confirmed by a number of
+independent studies (14, 19, 122).
+Numerous studies have leveraged the scientific consensus as a communication tool, and in
+many instances highlighting the 97% consensus has increased acceptance of climate science or
+increased policy support (38, 60, 91, 106, 160). The boost is particularly pronounced when videos
+rather than text are used to highlight the consensus (60). The evidence base includes at least one
+successful preregistered replication of the main initial findings (174).
+The effects of perceived consensus persist longitudinally (using a cross-lagged design). Specif-
+ically, estimates of the scientific consensus were associated with acceptance of climate change six
+months later, with the reverse association being weaker (159). In an experimental context, consen-
+sus messaging has also had a relatively long-lasting effect (119).
+There are, however, some reported exceptions to consensus messaging. For example, the mes-
+sage can produce reactance—that is, an oppositional response—among people who are predis-
+posed to disbelieve climate change (33, 118). However, those effects tend to be limited to a subset
+of individuals.
+4.3. Countering Disinformation
+Much research effort has uncovered ways in which disinformation can be countered (for reviews,
+see 31, 53; see the sidebar titled Countering Disinformation). The take-home message from this
+research is that (a) corrections are frequently only partially effective, and the effects of misinfor-
+mation linger even if people acknowledge a correction; and (b) inoculating people against misin-
+formation by alerting them to how they are being misled before they encounter misinformation
+is a promising approach.
+4.3.1. Inoculation or prebunking. Inoculation involves two elements: first, an explicit warn-
+ing of an impending disinformation attempt and, second, a refutation of an anticipated argument
+that exposes its fallacy. To illustrate, one study applied inoculation to climate change by presenting
+participants with (a) a warning that political operatives often attempt to cast doubt on the scien-
+tific consensus and (b) a detailed explanation of the dissenting fake experts technique that is used
+to feign a lack of scientific consensus. Following this inoculation, people were resilient against the
+subsequent misinformation (the petition discussed in Section 3.2.2), and their responses to vari-
+ous climate-related items were indistinguishable from a control condition that received no mis-
+information. In another condition that was not inoculated, the misinformation had a discernible
+detrimental effect (34).
+COUNTERING DISINFORMATION
+The political and economic contexts in which climate disinformation is disseminated must be considered at all
+times. Precedents from other pseudoscientific disinformation campaigns, for example by the tobacco industry, are
+helpful to understand these contexts (67).
+■Inoculation or “prebunking” is often helpful (34, 163).
+■Inoculation can involve exposing the misleading strategies being used to disinform (34, 67, 163).
+■Debunking can be successful, in particular if it uses culturally aligned messengers (7) and highlights reasoning
+errors in the disinformation (169).
+■Debunking can often correct factual misperceptions but may not shift attitudes or policy preferences (136).
+www.annualreviews.org • Climate Change Disinformation
+11
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Several studies have demonstrated the efficacy of inoculation against climate change disinfor-
+mation (163, 169). In one preregistered study, the inoculation effect was shown to be stable over
+a week-long delay (119).
+An extension of the conventional inoculation approach involves interventions that encourage
+people to engage in critical thinking. For example, people’s ability to differentiate climate disin-
+formation from valid information increases significantly after people consider a set of guidelines
+about how to evaluate news online (117).
+4.3.2. Debunking. The effects of corrections are nuanced and rarely straightforward. One per-
+vasive finding in the literature is that people will remember, acknowledge, and believe a correction
+(104) but may continue to rely on the information they now know to be wrong in other ways (e.g.,
+while drawing inferences about a situation). In the political domain, this tendency expresses itself
+when people recognize that a politician’s statements are false without that realization affecting
+voting intentions or favorability judgments (154). Similarly, when climate-related misinformation
+issued by US President Donald Trump is corrected in an experiment, people are responsive—that
+is, they update their factual understanding irrespective of partisanship—but their policy attitudes
+toward climate change remain unaffected (136). Correction of specific pieces of misinformation
+can be achieved equally well with fact-based and logic-based corrections (169). Logic-based cor-
+rections that target reasoning flaws in disinformation have the advantage that they can be applied
+across domains of misinformation (144).
+Debunking has been shown to be more effective when the ideology of messengers is consonant
+with that of the audience—in particular, a Republican messenger correcting misinformation from
+a Republican source (e.g., Senator Inhofe). In this instance, the response variable comprised items
+probing the perceived consensus, the human origins of climate change, and the seriousness of the
+problem: All three were affected by the correction, hinting at the possibility that attitudes may be
+shifted by an ideologically aligned messenger (7).
+Although debunking is often successful (though see 168), there is limited evidence that this
+strategy is sufficient to shift people’s attitudes toward climate change. The possibility of bypassing
+attitudes and debunking altogether has therefore attracted research attention.
+4.4. Changing Views on Policies Not Attitudes
+Attitudes are notoriously difficult to change, in particular if they are central to a person’s identity
+(72). Fundamental beliefs about climate change are also not necessarily a barrier to mitigation: If
+the public endorses renewable energies and societies achieve emission cuts, then people’s views on
+climate change are of no political consequence. Researchers have therefore increasingly focused
+on the communication of specific policies rather than climate change in general (132).
+These endeavors have focused mainly on framing climate policies in different ways, for ex-
+ample by underscoring the health benefits that result from emission cuts rather than focusing on
+environmental benefits (134). Many, but not all, of those efforts have been successful. For exam-
+ple, underscoring health benefits was successful in one study (134) but failed to find support in
+another (11). A recent large-scale study in four high-income European countries found the effects
+of framing mitigation within a health frame to be significant (2). Unlike in previous studies, these
+researchers presented the health benefits as a “private good,” that is as a direct positive conse-
+quence to the individual rather than as a societal benefit (2).
+In another study, framing carbon emissions as “pollution” rather than referring to global warm-
+ing was shown to increase policy support (126). This result relates well to an earlier finding that
+12
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+simply calling a surcharge for an airline ticket a carbon offset, rather than a tax, more than doubled
+Republicans’ willingness to pay the surcharge and raised it to equal that of Democrats (68).
+Finally, a substantial effect of framing was observed in a study that presented the effects of emis-
+sion cuts on the economy either as a loss or a foregone gain (77). Opponents of emission cuts usu-
+ally paint a dire picture of the consequences by highlighting the expected economic “losses.” Al-
+though substantial emission cuts are expected to impede economic growth, the economy is widely
+expected to continue growing albeit at a reduced pace. Thus, an identical economic impact can be
+described either as a loss relative to a business-as-usual future or as a foregone gain relative to the
+current size of the economy. The latter frame increased participants’ support for more rigorous
+mitigation policies (77).
+4.5. Long-Term Outlook: Benefits of Education
+There are encouraging signs that education can have long-term effects. For example, analysis of
+the Longitudinal Study of American Youth has revealed an association between interest in sci-
+ence at age 12–14 and increased trust in climate scientists 20 years later (127). Other indicators,
+such as quantitative ability or science knowledge, did not exhibit a longitudinal association. Sim-
+ilar findings involving an instrument that measures “science curiosity” have been reported cross-
+sectionally with adults (88).
+Misinformation can be a valuable educational tool if it forms the basis of detailed refutation,
+an approach known as “agnotology” (6). Much evidence indicates that refutational learning is a
+more effective way to acquire knowledge than are conventional techniques (97).
+5. CONCLUSION
+Communication by scientists and their allies by itself will not move climate mitigation forward. As
+sociologist Robert Brulle and colleagues (24) noted, “[T]he barriers to action on climate change
+are based in the distribution of social power in the economic, political, and cultural spheres. In-
+troducing new messages or information into an otherwise unchanged socioeconomic system will
+accomplish little” (p. 185). But socioeconomic and political systems are not impervious to change.
+A Swedish school girl taught the world that lesson in 2019.
+SUMMARY POINTS
+1. Climate change challenges our cognitive abilities and the worldviews of many.
+2. Because addressing climate change has serious economic and political implications, any
+communication takes place in an environment of adversity.
+3. Providing information about climate change, in particular about the scientific consensus
+and explanations of why it occurs, can enhance people’s acceptance of science.
+4. Culturally aligned messages and messengers are more likely to be successful.
+5. Through a process known as inoculation, climate misinformation can be rebutted or,
+ideally, defanged before it is encountered.
+DISCLOSURE STATEMENT
+At the time of this writing, funding has been provided by the Australian Research Council; the
+Economic and Social Research Council [in part through the Center for Research and Evidence on
+www.annualreviews.org • Climate Change Disinformation
+13
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+Security Threats (CREST)]; Horizon 2020, European Commission; Jigsaw (technology incubator
+created by Google); the Natural Environment Research Council; UK Research and Innovation
+(UKRI) through Centre of Excellence REPHRAIN; VaxAtt (Finland); and the Volkswagen Foun-
+dation (Germany). S.L. provided both paid and unpaid consultation to the Joint Research Centre
+of the European Commission and unpaid consultation to Facebook. An up-to-date list of funding
+and consultancies (paid and unpaid) can be found at http://www.cogsciwa.com/.
+ACKNOWLEDGMENTS
+The author has no funding to acknowledge for this particular article. The author thanks Sander
+van der Linden for helpful comments on an earlier version of the manuscript and Matthew
+Hornsey for discussion of the role of emotion.
+LITERATURE CITED
+1. Allgaier J. 2019. Science and environmental communication on YouTube: strategically distorted com-
+munications in online videos on climate change and climate engineering. Front. Commun. 4:36
+2. Amelung D, Fischer H, Herrmann A, Aall C, Louis VR, et al. 2019. Human health as a motivator for
+climate change mitigation: results from four European high-income countries. Glob. Environ. Change
+57:101918
+3. Anderegg WRL, Prall JW, Harold J, Schneider SH. 2010. Expert credibility in climate change. PNAS
+107:12107–109
+4. Arrhenius S. 1896. On the influence of carbonic acid in the air upon the temperature of the ground.
+Lond. Edinb. Dublin Philos. Mag. J. Sci. 41:237–76
+5. Ballew MT, Leiserowitz A, Roser-Renouf C, Rosenthal SA, Kotcher JE, et al. 2019. Climate change in
+the American mind: data, tools, and trends. Environ. Sci. Policy Sustain. Dev. 61:4–18
+6. Bedford D, Cook J. 2013. Agnotology, scientific consensus, and the teaching and learning of climate
+change: a response to Legates, Soon and Briggs. Sci. Educ. 22:2019–30
+7. Benegal SD, Scruggs LA. 2018. Correcting misinformation about climate change: the impact of parti-
+sanship in an experimental setting. Clim. Change 148:61–80
+8. Benestad RE, Nuccitelli D, Lewandowsky S, Hayhoe K, Hygen H, et al. 2016. Learning from mistakes
+in climate research. Theor. Appl. Climatol. 126:699–703
+9. Bergmann E. 2018. Conclusions: the politics of misinformation. In Conspiracy & Populism: The Politics of
+Misinformation, pp. 165–74. Cham, Switz.: Springer Int.
+10. Bergquist P, Warshaw C. 2019. Does global warming increase public concern about climate change?
+J. Politics 81:686–91
+11. Bernauer T, McGrath LF. 2016. Simple reframing unlikely to boost public support for climate policy.
+Nat. Climate Change 6:680–83
+12. Bessi A, Coletto M, Davidescu GA, Scala A, Caldarelli G, Quattrociocchi W. 2015. Science versus con-
+spiracy: collective narratives in the age of misinformation. PLOS ONE 10:e0118093
+13. Bolin JL, Hamilton LC. 2018. The news you choose: news media preferences amplify views on climate
+change. Environ. Politics 27:455–76
+14. Bolsen T, Druckman JN. 2015. Counteracting the politicization of science. J. Commun. 65:745–69
+15. Bolsen T, Palm R, Kingsland JT. 2019. Counteracting climate science politicization with effective frames
+and imagery. Sci. Commun. 41:147–71
+16. Boussalis C, Coan TG. 2016. Text-mining the signals of climate change doubt. Glob. Environ. Change
+36:89–100
+17. Boykoff MT. 2008. Lost in translation? United States television news coverage of anthropogenic climate
+change, 1995–2004. Climat. Change 86:1–11
+18. Boykoff MT, Boykoff JM. 2004. Balance as bias: global warming and the US prestige press. Glob. Environ.
+Change 14:125–36
+14
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+19. Brewer PR, McKnight J. 2017. “A statistically representative climate change debate”: satirical television
+news, scientific consensus, and public perceptions of global warming. Atl. J. Commun. 25:166–80
+20. Broomell SB, Budescu DV, Por H-H. 2015. Personal experience with climate change predicts intentions
+to act. Glob. Environ. Change 32:67–73
+21. Brüggemann M, Engesser S. 2017. Beyond false balance: how interpretive journalism shapes media cov-
+erage of climate change. Glob. Environ. Change 42:58–67
+22. Brulle RJ. 2013. Institutionalizing delay: foundation funding and the creation of US climate change
+counter-movement organizations. Climat. Change 122:681–94
+23. Brulle RJ. 2018. The climate lobby: a sectoral analysis of lobbying spending on climate change in the
+USA, 2000 to 2016. Climat. Change 149:289–303
+24. Brulle RJ, Carmichael J, Jenkins JC. 2012. Shifting public opinion on climate change: an empirical as-
+sessment of factors influencing concern over climate change in the U.S., 2002–2010. Climat. Change
+114:169–88
+25. Brysse K, Oreskes N, O’Reilly J, Oppenheimer M. 2013. Climate change prediction: erring on the side
+of least drama? Glob. Environ. Change 23:327–37
+26. Burke M, Ockwell D, Whitmarsh L. 2018. Participatory arts and affective engagement with climate
+change: the missing link in achieving climate compatible behaviour change? Glob.Environ.Change 49:95–
+105
+27. Capstick SB, Pidgeon NF. 2014. What is climate change scepticism? Examination of the concept using
+a mixed methods study of the UK public. Glob. Environ. Change 24:389–401
+28. Carmichael JT, Brulle RJ. 2017. Elite cues, media coverage, and public concern: an integrated path
+analysis of public opinion on climate change, 2001–2013. Environ. Politics 26:232–52
+29. Chapman DA, Lickel B, Markowitz EM. 2017. Reassessing emotion in climate change communication.
+Nat. Climate Change 7:850–52
+30. Clarke CE, Dixon GN, Holton A, McKeever BW. 2015. Including “evidentiary balance” in news media
+coverage of vaccine risk. Health Commun. 30:461–72
+31. Cook J. 2019. Understanding and countering misinformation about climate change. In Handbook of Re-
+search on Deception, Fake News, and Misinformation Online, ed. IE Chiluwa, SA Samoilenko, pp. 281–306.
+Hershey, PA: IGI Glob.
+32. Cook J, Ellerton P, Kinkead D. 2018. Deconstructing climate misinformation to identify reasoning er-
+rors. Environ. Res. Lett. 13:024018
+33. Cook J, Lewandowsky S. 2016. Rational irrationality: modeling climate change belief polarization using
+Bayesian networks. Top. Cogn. Sci. 8:160–79
+34. Cook J,Lewandowsky S,Ecker UKH.2017.Neutralizing misinformation through inoculation: exposing
+misleading argumentation techniques reduces their influence. PLOS ONE 12:e0175799
+35. Cook J, Nuccitelli D, Green SA, Richardson M, Winkler B, et al. 2013. Quantifying the consensus on
+anthropogenic global warming in the scientific literature. Environ. Res. Lett. 8:024024
+36. Cook J, Oreskes N, Doran PT, Anderegg WRL, Verheggen B, et al. 2016. Consensus on consensus: a
+synthesis of consensus estimates on human-caused global warming. Environ. Res. Lett. 11:048002
+37. Corner A, Markowitz EM, Pidgeon N. 2014. Public engagement with climate change: the role of human
+values. WIREs Climate Change 5:411–22
+38. Deryugina T,Shurchkov O.2016.The effect of information provision on public consensus about climate
+change. PLOS ONE 11:e0151469
+39. Diamond E, Bernauer T, Mayer F. 2020. Does providing scientific information affect climate change
+and GMO policy preferences of the mass public? Insights from survey experiments in Germany and the
+United States. Environ. Politics 29:1199–218
+40. Dixon G, Hmielowski J, Ma Y. 2017. Improving climate change acceptance among U.S. conservatives
+through value-based message targeting. Sci. Commun. 39:520–34
+41. Donner S, McDaniels J. 2013. The influence of national temperature fluctuations on opinions about
+climate change in the U.S. since 1990. Climat. Change 118:537–50
+42. Douglas KM, Sutton RM. 2015. Climate change: why the conspiracy theories are dangerous. Bull. Atomic
+Sci. 71:98–106
+www.annualreviews.org • Climate Change Disinformation
+15
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+43. Druckman JN, McGrath MC. 2019. The evidence for motivated reasoning in climate change preference
+formation. Nat. Climate Change 9:111–19
+44. Dunlap RE, Jacques PJ. 2013. Climate change denial books and conservative think tanks: exploring the
+connection. Am. Behav. Sci. 57:699–731
+45. Dunlap RE, McCright AM. 2011. Organized climate change denial. In The Oxford Handbook of Climate
+Change and Society, ed. JS Dryzek, RB Norgaard, D Schlosberg, pp. 144–60. Oxford, UK: Oxford Univ.
+Press
+46. Dunwoody S, Kohl PA. 2017. Using weight-of-experts messaging to communicate accurately about con-
+tested science. Sci. Commun. 39:338–57
+47. Egan PJ, Mullin M. 2017. Climate change: US public opinion. Annu. Rev. Political Sci. 20:209–27
+48. Elgesem D, Steskal L, Diakopoulos N. 2015. Structure and content of the discourse on climate change
+in the blogosphere: the big picture. Environ. Commun. 9:169–88
+49. Elsasser SW, Dunlap RE. 2013. Leading voices in the denier choir: conservative columnists’ dismissal
+of global warming and denigration of climate science. Am. Behav. Sci. 57:754–76
+50. Farrell J. 2016. Corporate funding and ideological polarization about climate change. PNAS 113:92–97
+51. Farrell J. 2016. Network structure and influence of the climate change counter-movement. Nat. Climate
+Change 6:370–74
+52. Farrell J.2019.The growth of climate change misinformation in US philanthropy: evidence from natural
+language processing. Environ. Res. Lett. 14:034013
+53. Farrell J, McConnell K, Brulle R. 2019. Evidence-based strategies to combat scientific misinformation.
+Nat. Climate Change 9:191–95
+54. Forchtner B. 2019. Climate change and the far right. WIREs Climate Change 10:e604
+55. Franta B. 2018. Early oil industry knowledge of CO2 and global warming. Nat. Climate Change 8:1024–
+25
+56. Freudenburg WR, Muselli V. 2010. Global warming estimates, media expectations, and the asymmetry
+of scientific challenge. Glob. Environ. Change 20:483–91
+57. Freudenburg WR, Muselli V. 2013. Reexamining climate change debates: scientific disagreement or
+scientific certainty argumentation methods (SCAMs)? Am. Behav. Sci. 57:777–95
+58. Gehlbach H, Robinson CD, Vriesema CC. 2019. Leveraging cognitive consistency to nudge conserva-
+tive climate change beliefs. J. Environ. Psychol. 61:134–37
+59. Goldberg MH, Marlon JR, Wang X, van der Linden S, Leiserowitz A. 2020. Oil and gas companies
+invest in legislators that vote against the environment. PNAS 117:5111–12
+60. Goldberg MH, van der Linden S, Ballew MT, Rosenthal SA, Gustafson A, Leiserowitz A. 2019. The
+experience of consensus: video as an effective medium to communicate scientific agreement on climate
+change. Sci. Commun. 41:659–73
+61. Guenther G. 2020. Communicating the climate emergency: imagination, emotion, action. In Standing
+Up for a Sustainable World: Voices of Change, ed. C Henry, J Rockström, N Stern, pp. 401–8. Cheltenham,
+UK: Edward Elgar
+62. Gustafson A, Rosenthal SA, Ballew MT, Goldberg MH, Bergquist P, et al. 2019. The development of
+partisan polarization over the Green New Deal. Nat. Climate Change 9:940–44
+63. Guy S, Kashima Y, Walker I, O’Neill S. 2014. Investigating the effects of knowledge and ideology on
+climate change beliefs. Eur. J. Soc. Psychol. 44:421–29
+64. Haltinner K, Sarathchandra D. 2018. Climate change skepticism as a psychological coping strategy.
+Sociol. Compass 12:e12586
+65. Hamilton LC. 2016. Public awareness of the scientific consensus on climate. SAGE Open 6. https://doi.
+org/10.1177/2158244016676296
+66. Hamilton LC, Hartter J, Lemcke-Stampone M, DW Moore, Safford TG. 2015. Tracking public beliefs
+about anthropogenic climate change. PLOS ONE 10:e0138208
+67. Hansson SO. 2018. Dealing with climate science denialism: experiences from confrontations with other
+forms of pseudoscience. Climate Policy 18:1094–102
+68. Hardisty DJ, Johnson EJ, Weber EU. 2010. A dirty word or a dirty world? Attribute framing, political
+affiliation, and query theory. Psychol. Sci. 21:86–92
+16
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+69. Harvey JA, van den Berg D, Ellers J, Kampen R, Crowther TW, et al. 2018. Internet blogs, polar bears,
+and climate-change denial by proxy. BioScience 68:281–87
+70. Herrando-Pérez S, Bradshaw CJA, Lewandowsky S, Vieitis DR. 2019. Statistical language backs conser-
+vatism in climate-change assessments. BioScience 69:209–19
+71. Hinnant A, Subramanian R, Young R. 2016. User comments on climate stories: impacts of anecdotal vs.
+scientific evidence. Climat. Change 138:411–24
+72. Hornsey MJ, Fielding KS. 2017. Attitude roots and jiu jitsu persuasion: understanding and overcoming
+the motivated rejection of science. Am. Psychol. 72:459–73
+73. Hornsey MJ, Fielding KS. 2020. Understanding (and reducing) inaction on climate change. Soc. Issues
+Policy Rev. 14:3–35
+74. Hornsey MJ, Fielding KS, McStay R, Reser JP, Bradley GL. 2016. Are people high in skepticism about
+anthropogenic climate change necessarily resistant to influence? Some cause for optimism. Environ.
+Behav. 48:905–28
+75. Hornsey MJ, Harris EA, Bain PG, Fielding KS. 2016. Meta-analyses of the determinants and outcomes
+of belief in climate change. Nat. Climate Change 6:622–26
+76. Hornsey MJ, Harris EA, Fielding KS. 2018. Relationships among conspiratorial beliefs, conservatism
+and climate scepticism across nations. Nat. Climate Change 8:614–20
+77. Hurlstone MJ, Lewandowsky S, Newell BR, Sewell B. 2014. The effect of framing and normative mes-
+sages in building support for climate policies. PLOS ONE 9:e114335
+78. IPCC (Intergov. Panel Climate Change). 2013. Summary for Policymakers, Book Section SPM. Cam-
+bridge, UK/New York: Cambridge Univ. Press. http://www.climatechange2013.org/images/report/
+WG1AR5_SummaryVolume_FINAL.pdf
+79. Jacques PJ, Dunlap RE, Freeman M. 2008. The organisation of denial: conservative think tanks and
+environmental scepticism. Environ. Politics 17:349–85
+80. Johnson DR. 2017. Bridging the political divide: highlighting explanatory power mitigates biased eval-
+uation of climate arguments. J. Environ. Psychol. 51:248–55
+81. Jolley D, Douglas KM. 2013. The social consequences of conspiracism: exposure to conspiracy theories
+decreases intentions to engage in politics and to reduce one’s carbon footprint. Br. J. Psychol. 105:35–56
+82. Jones MD. 2014. Cultural characters and climate change: how heroes shape our perception of climate
+science. Soc. Sci. Q. 95:1–39
+83. Jones MD, Song G. 2014. Making sense of climate change: how story frames shape cognition. Political
+Psychol. 35:447–76
+84. Jylhä KM, Cantal C, Akrami N, Milfont TL. 2016. Denial of anthropogenic climate change: social domi-
+nance orientation helps explain the conservative male effect in Brazil and Sweden.Personal.Individ.Differ.
+98:184–87
+85. Jylhä KM, Hellmer K. 2020. Right-wing populism and climate change denial: the roles of exclusionary
+and anti-egalitarian preferences, conservative ideology, and antiestablishment attitudes. Anal. Soc. Issues
+Public Policy. https://doi.org/10.1111/asap.12203
+86. Kahan DM, Braman D, Cohen GL, Gastil J, Slovic P. 2010. Who fears the HPV vaccine, who doesn’t,
+and why? An experimental study of the mechanisms of cultural cognition. Law Hum. Behav. 34:501–16
+87. Kahan DM, Jenkins-Smith H, Braman D. 2011. Cultural cognition of scientific consensus. J. Risk Res.
+14:147–74
+88. Kahan DM, Landrum AR, Carpenter K, Helft L, Jamieson KH. 2017. Science curiosity and political
+information processing. Political Psychol. 38:179–99
+89. Kalichman SC. 2009. Denying AIDS: Conspiracy Theories, Pseudoscience, and Human Tragedy. New York:
+Springer
+90. Kaufmann RK, Mann ML, Gopal S, Liederman JA, Howe PD, et al. 2017. Spatial heterogeneity of
+climate change as an experiential basis for skepticism. PNAS 114:67–71
+91. Kerr JR, Wilson MS. 2018. Changes in perceived scientific consensus shift beliefs about climate change
+and GM food safety. PLOS ONE 13:e0200295
+92. Kirilenko AP, Molodtsova T, Stepchenkova SO. 2015. People as sensors: mass media and local temper-
+ature influence climate change discussion on Twitter. Glob. Environ. Change 30:92–100
+www.annualreviews.org • Climate Change Disinformation
+17
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+93. Knutti R, Rogelj J. 2015. The legacy of our CO2 emissions: a clash of scientific facts, politics and ethics.
+Climat. Change 133:361–73
+94. Koehler DJ. 2016. Can journalistic “false balance” distort public perception of consensus in expert opin-
+ion? J. Exp. Psychol. Appl. 22:24–38
+95. Konisky DM, Hughes L, Kaylor CH. 2016. Extreme weather events and climate change concern. Climat.
+Change 134:533–47
+96. Kousser T, Tranter B. 2018. The influence of political leaders on climate change attitudes. Glob. Environ.
+Change 50:100–9
+97. Kowalski P, Taylor AK. 2017. Reducing students’ misconceptions with refutational teaching: for long-
+term retention, comprehension matters. Scholarsh. Teach. Learn. Psychol. 3:90–100
+98. Leiserowitz A, Maibach E, Rosenthal S, Kotcher J, Bergquist P, et al. 2020. Climate change in the
+American mind: April 2020. Tech. Rep., Yale Univ., George Mason Univ., New Haven, CT. https://
+climatecommunication.yale.edu/wp-content/uploads/2020/05/climate-change-american-
+mind-april-2020b.pdf
+99. Leiserowitz A, Maibach E, Roser-Renouf C, Rosenthal S, Cutler M. 2017. Climate change in the
+American mind: May 2017. Tech. Rep., Yale Univ., George Mason Univ., New Haven, CT. https://
+climatecommunication.yale.edu/publications/climate-change-american-mind-may-2017/
+100. Lewandowsky S, Ballard T, Oberauer K, Benestad R. 2016. A blind expert test of contrarian claims about
+climate data. Glob. Environ. Change 39:91–97
+101. Lewandowsky S, Cook J, Fay N, Gignac GE. 2019. Science by social media: attitudes towards climate
+change are mediated by perceived social consensus. Memory Cogn. 47:1445–56
+102. Lewandowsky S, Cook J, Lloyd E. 2018. The ‘Alice in Wonderland’ mechanics of the rejection of (cli-
+mate) science: simulating coherence by conspiracism. Synthese 195:175–96
+103. Lewandowsky S, Cook J, Oberauer K, Brophy S, Lloyd EA, Marriott M. 2015. Recurrent fury: conspir-
+atorial discourse in the blogosphere triggered by research on the role of conspiracist ideation in climate
+denial. J. Soc. Political Psychol. 3:142–78
+104. Lewandowsky S, Ecker UKH, Seifert C, Schwarz N, Cook J. 2012. Misinformation and its correction:
+continued influence and successful debiasing. Psychol. Sci. Public Interest 13:106–31
+105. Lewandowsky S, Gignac GE, Oberauer K. 2013. The role of conspiracist ideation and worldviews in
+predicting rejection of science. PLOS ONE 8:e75637
+106. Lewandowsky S, Gignac GE, Vaughan S. 2013. The pivotal role of perceived scientific consensus in
+acceptance of science. Nat. Climate Change 3:399–404
+107. Lewandowsky S, Oberauer K. 2016. Motivated rejection of science. Curr. Dir. Psychol. Sci. 25:217–22
+108. Lewandowsky S, Oberauer K, Gignac GE. 2013. NASA faked the moon landing—therefore (climate)
+science is a hoax: an anatomy of the motivated rejection of science. Psychol. Sci. 24:622–33
+109. Lewandowsky S, Oreskes N, Risbey JS, Newell BR, Smithson M. 2015. Seepage: climate change denial
+and its effect on the scientific community. Glob. Environ. Change 33:1–13
+110. Lewandowsky S, Pilditch TD, Madsen JK, Oreskes N, Risbey JS. 2019. Influence and seepage: an
+evidence-resistant minority can affect public opinion and scientific belief formation. Cognition 188:124–
+39
+111. Lewandowsky S, Risbey JS, Oreskes N. 2016. The “pause” in global warming: turning a routine fluctu-
+ation into a problem for science. Bull. Am. Meteorol. Soc. 97:723–33
+112. Lewandowsky S, Whitmarsh L. 2018. Climate communication for biologists: when a picture can tell a
+thousand words. PLOS Biol. 16:e2006004
+113. Lewis GB, Palm R, Feng B. 2018. Cross-national variation in determinants of climate change concern.
+Environ. Politics 28:793–821
+114. Ley AJ. 2018. Mobilizing doubt: the legal mobilization of climate denialist groups. Law Policy 40:221–42
+115. Li Y, Johnson EJ, Zaval L. 2011. Local warming: daily temperature change influences belief in global
+warming. Psychol. Sci. 22:454–59
+116. Lockwood M. 2018. Right-wing populism and the climate change agenda: exploring the linkages.
+Environ. Politics 27:712–32
+117. Lutzke L, Drummond C, Slovic P, Árvai J. 2019. Priming critical thinking: simple interventions limit
+the influence of fake news about climate change on Facebook. Glob. Environ. Change 58:101964
+18
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+118. Ma Y, Dixon G, Hmielowski JD. 2019. Psychological reactance from reading basic facts on climate
+change: the role of prior views and political identification. Environ. Commun. 13:71–86
+119. Maertens R, Anseel F, van der Linden S. 2020. Combatting climate change misinformation: evidence
+for longevity of inoculation and consensus messaging effects. J. Environ. Psychol. 70:101445
+120. Marquart-Pyatt ST, McCright AM, Dietz T, Dunlap RE. 2014. Politics eclipses climate extremes for
+climate change perceptions. Glob. Environ. Change 29:246–57
+121. McCright AM, Charters M, Dentzman K, Dietz T. 2016. Examining the effectiveness of climate change
+frames in the face of a climate change denial counter-frame. Top. Cogn. Sci. 8:76–97
+122. McCright AM, Dunlap RE, Xiao C. 2013. Perceived scientific agreement and support for government
+action on climate change in the USA. Climat. Change 119:511–18
+123. Mede NG, Schäfer MS. 2020. Science-related populism: conceptualizing populist demands toward sci-
+ence. Public Underst. Sci. 29:473–91
+124. Medimorec S, Pennycook G. 2015. The language of denial: text analysis reveals differences in language
+use between climate change proponents and skeptics. Climat. Change 133:597–605
+125. Merkley E, Stecula DA. 2018. Party elites or manufactured doubt? The informational context of climate
+change polarization. Sci. Commun. 40:258–74
+126. Mossler MV, Bostrom A, Kelly RP, Crosman KM, Moy P. 2017. How does framing affect policy support
+for emissions mitigation? Testing the effects of ocean acidification and other carbon emissions frames.
+Glob. Environ. Change 45:63–78
+127. Motta M. 2018. The enduring effect of scientific interest on trust in climate scientists in the United
+States. Nat. Climate Change 8:485–88
+128. Obradovich N, Migliorini R, Paulus MP, Rahwan I. 2018. Empirical evidence of mental health risks
+posed by climate change. PNAS 115:10953–58
+129. Ogunbode CA, Demski C, Capstick SB, Sposato RG. 2019. Attribution matters: revisiting the link
+between extreme weather experience and climate change mitigation responses. Glob. Environ. Change
+54:31–39
+130. O’Neill S, Nicholson-Cole S. 2009. “Fear won’t do it”: promoting positive engagement with climate
+change through visual and iconic representations. Sci. Commun. 30:355–79
+131. O’Neill SJ, Boykoff M, Niemeyer S, Day SA. 2013. On the use of imagery for climate change engage-
+ment. Glob. Environ. Change 23:413–21
+132. Patt AG, Weber EU. 2014. Perceptions and communication strategies for the many uncertainties rele-
+vant for climate policy. WIREs Climate Change 5:219–32
+133. Petersen AM, Vincent EM, Westerling AL. 2019. Discrepancy in scientific authority and media visibility
+of climate change scientists and contrarians. Nat. Commun. 10:3502
+134. Petrovic N, Madrigano J, Zaval L. 2014. Motivating mitigation: when health matters more than climate
+change. Climat. Change 126:245–54
+135. Poortinga W, Whitmarsh L, Steg L, Böhm G, Fisher S. 2019. Climate change perceptions and their
+individual-level determinants: a cross-European analysis. Glob. Environ. Change 55:25–35
+136. Porter E, Wood TJ, Bahador B. 2019. Can presidential misinformation on climate change be corrected?
+Evidence from internet and phone experiments. Res. Politics 6:205316801986478
+137. Proctor RN. 2011. Golden Holocaust: Origins of the Cigarette Catastrophe and the Case for Abolition. Berkeley:
+Univ. Calif. Press
+138. Ranney MA, Clark D. 2016. Climate change conceptual change: scientific information can transform
+attitudes. Top. Cogn. Sci. 8:49–75
+139. Readfearn G. 2016. Revealed: most popular climate story on social media told half a million people
+the science was a hoax. Desmog, Nov. 29. https://www.desmogblog.com/2016/11/29/revealed-most-
+popular-climate-story-social-media-told-half-million-people-science-was-hoax
+140. Romps DM, Retzinger JP. 2019. Climate news articles lack basic climate science. Environ. Res. Commun.
+1:081002
+141. Rooney-Varga JN, Sterman JD, Fracassi E, Franck T, Kapmeier F, et al. 2018. Combining role-play with
+interactive simulation to motivate informed climate action: evidence from the World Climate simulation.
+PLOS ONE 13:e0202877
+www.annualreviews.org • Climate Change Disinformation
+19
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+142. Roosen LJ, Klöckner CA, Swim JK. 2018. Visual art as a way to communicate climate change: a psycho-
+logical perspective on climate change–related art. World Art 8:85–110
+143. Rudman LA, McLean MC, Bunzl M. 2013. When truth is personally inconvenient, attitudes change: the
+impact of extreme weather on implicit support for green politicians and explicit climate-change beliefs.
+Psychol. Sci. 24:2290–96
+144. Schmid P, Betsch C. 2019. Effective strategies for rebutting science denialism in public discussions. Nat.
+Hum. Behav. 3:931–39
+145. Schmid-Petri H. 2017. Politicization of science: how climate change skeptics use experts and scientific
+evidence in their online communication. Climat. Change 145:523–37
+146. Smith EK, Mayer A. 2018. Anomalous Anglophones? Contours of free market ideology, political po-
+larization, and climate change attitudes in English-speaking countries, Western European and post-
+Communist states. Climat. Change 152:17–34
+147. Solomon S, Plattner G-K, Knutti R, Friedlingstein P. 2009. Irreversible climate change due to carbon
+dioxide emissions. PNAS 106:1704–9
+148. Spartz JT, Su LYF, Griffin R, Brossard D, Dunwoody S. 2017. YouTube, social norms and perceived
+salience of climate change in the American mind. Environ. Commun. 11:1–16
+149. Sterman JD. 2008. Risk communication on climate: mental models and mass balance. Science 322:532–33
+150. Sterman JD. 2010. Does formal system dynamics training improve people’s understanding of accumu-
+lation? Syst. Dyn. Rev. 26:316–34
+151. Sterman JD, Sweeney LB. 2007. Understanding public complacency about climate change: adults’ men-
+tal models of climate change violate conservation of matter. Climat. Change 80:213–38
+152. Sunstein CR, Vermeule A. 2009. Conspiracy theories: causes and cures. J. Political Philos. 17:202–27
+153. Supran G, Oreskes N. 2017. Assessing ExxonMobil’s climate change communications (1977–2014).
+Environ. Res. Lett. 12:084019
+154. Swire-Thompson B, Ecker UKH, Lewandowsky S, Berinsky AJ. 2020. They might be a liar but they’re
+my liar: source evaluation and the prevalence of misinformation. Political Psychol. 41:21–34
+155. Taylor A, Bruine de Bruin W, Dessai S. 2014. Climate change beliefs and perceptions of weather-related
+changes in the United Kingdom. Risk Anal. 34:1995–2004
+156. Tesler M. 2018. Elite domination of public doubts about climate change (not evolution). Political
+Commun. 35:306–26
+157. Uscinski JE, Douglas K, Lewandowsky S. 2017. Climate change conspiracy theories. In Oxford Research
+Encyclopedia of Climate Science, ed. MC Nisbet, SS Ho, E Markowitz, S O’Neill, MS Schäfer, J Thaker.
+New York: Oxford Univ. Press. https://doi.org/10.1093/acrefore/9780190228620.013.328
+158. van der Linden S. 2015. The conspiracy-effect: exposure to conspiracy theories (about global warming)
+decreases pro-social behavior and science acceptance. Pers. Individ. Differ. 87:171–73
+159. van der Linden S, Leiserowitz A, Maibach E. 2018. Perceptions of scientific consensus predict later
+beliefs about the reality of climate change using cross-lagged panel analysis: a response to Kerr and
+Wilson (2018). J. Environ. Psychol. 60:110–11
+160. van der Linden S, Leiserowitz A, Maibach E. 2018. Scientific agreement can neutralize politicization of
+facts. Nat. Hum. Behav. 2:2–3
+161. van der Linden S, Leiserowitz A, Maibach E. 2019. The gateway belief model: a large-scale replication.
+J. Environ. Psychol. 62:49–58
+162. van der Linden S, Leiserowitz A, Rosenthal S, Maibach E. 2017. Inoculating the public against misin-
+formation about climate change. Glob. Challenges 1:1600008
+163. van der Linden S, Maibach E, Cook J, Leiserowitz A, Lewandowsky S. 2017. Inoculating against misin-
+formation. Science 358:1141–42
+164. van der Linden S, Maibach E, Cook J, Leiserowitz A, Ranney M, et al. 2017. Culture versus cognition
+is a false dilemma. Nat. Climate Change 7:457–57
+165. van der Linden S, Panagopoulos C, Azevedo F, Jost JT. 2020. The paranoid style in American politics
+revisited: an ideological asymmetry in conspiratorial thinking.Political Psychol.https://doi.org/10.1111/
+pops.12681
+166. van der Linden SL, Leiserowitz AA, Feinberg GD, Maibach EW. 2015. The scientific consensus on
+climate change as a gateway belief: experimental evidence. PLOS ONE 10:e0118489
+20
+Lewandowsky
+Downloaded from www.annualreviews.org.  Guest (guest) IP:  142.189.146.117 On: Mon, 26 Aug 2024 21:30:04
+167. Velautham L, Ranney MA, Brow QS. 2019. Communicating climate change oceanically: sea level rise
+information increases mitigation, inundation, and global warming acceptance. Front. Commun. 4:7
+168. Vraga EK, Kim SC, Cook J. 2019. Testing logic-based and humor-based corrections for science, health,
+and political misinformation on social media. J. Broadcast. Electron. Media 63:393–414
+169. Vraga EK, Kim SC, Cook J, Bode L. 2020. Testing the effectiveness of correction placement and type
+on Instagram. Int. J. Press/Politics 25:632–52
+170. Waisbord S. 2018. Why populism is troubling for democratic communication. Commun. Cult. Crit.
+11:21–34
+171. Wang S, Corner A, Chapman D, Markowitz E. 2018. Public engagement with climate imagery in a
+changing digital landscape. WIREs Climate Change 9:e509
+172. Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Belesova K, et al. 2018. The 2018 report of the Lancet
+countdown on health and climate change: shaping the health of nations for centuries to come. Lancet
+392:P2479–514
+173. Weatherall JO, O’Connor C, Bruner JP. 2018. How to beat science and influence people: policymakers
+and propaganda in epistemic networks. Br. J. Philos. Sci. https://doi.org/10.1093/bjps/axy062
+174. Williams MN, Bond CMC. 2020. A preregistered replication of “Inoculating the public against misin-
+formation about climate change.” J. Environ. Psychol. 70:101456
+175. Witte K, Allen M. 2000. A meta-analysis of fear appeals: implications for effective public health cam-
+paigns. Health Educ. Behav. 27:591–615
+www.annualreviews.org • Climate Change Disinformation
+21

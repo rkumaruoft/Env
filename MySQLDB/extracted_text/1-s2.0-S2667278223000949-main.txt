@@ -1,0 +1,748 @@
+A scoping review of current climate change and vector-borne disease
+literacy and implications for public health interventions
+Meghan Matlacka,*, Hannah Covertb, Arti Shankarc, Wilco Zijlmansd, Firoz Abdoel Wahidb,
+Ashna Hindori-Mohangooe, Maureen Lichtveldb
+a School of Medicine, University of North Carolina at Chapel Hill, 321 S Columbia Street, Chapel Hill, NC 27514, United States of America
+b Department of Environmental and Occupational Health, University of Pittsburgh School of Public Health, 130 De Soto Street, Pittsburgh, PA 15261, United States
+of America
+c Department of Biostatistics and Data Science, Tulane University School of Public Health & Tropical Medicine, 1440 Canal Street, New Orleans, LA 70112, United
+States of America
+d Faculty of Medical Sciences, Discipline of Pediatrics, Anton de Kom University of Suriname, Leysweg 86, P.O. Box 9212, Paramaribo, Suriname
+e Foundation for Perinatal Interventions and Research in Suriname (Perisur), Anton Dragtenweg 93, Paramaribo, Suriname
+A R T I C L E
+I N F O
+Article History:
+Received 6 July 2023
+Accepted 17 December 2023
+Available online 20 December 2023
+A B S T R A C T
+Climate literacy assesses general understanding of climate, climate change, and its effects on the environ-
+ment as well as human health. Despite vast scientiﬁc evidence to support climate change and its associated
+consequences, particularly with regards to vector-borne diseases, climate change knowledge, attitudes, and
+behaviors among the general population is relatively poor. In this study, we conducted a thorough review of
+the current literature to evaluate the scope of global climate and health literacy studies and identify key areas
+for improvement. We found that very few climate and health literacy studies were based in low- and middle-
+income countries, and those that were did not make mention of signiﬁcant regional climate change impacts
+and speciﬁcally those that increase mosquito-borne disease transmission in high-risk areas. We also noted
+that of the twenty-three studies included in our ﬁnal review, most focused their assessments on general cli-
+mate and climate change knowledge, and not on literacy of the relationships between climate change and
+environmental impacts or subsequent health outcomes. Our ﬁndings make it clear that moving forward,
+there is a major need for climate and health literacy research to expand upon existing climate literature to
+include additional assessments of the relationships between certain climate change impacts and infectious
+diseases in particular, as well as to make available a more comprehensive overview of climate and health
+information to the public in the future.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Public health
+Literacy
+Knowledge
+Vector-borne disease
+Mosquitoes
+Introduction1
+Climate literacy, in the simplest of terms, can be deﬁned as
+“an understanding of human impacts on climate and the impacts
+of climate on human systems” [1]. Despite long-standing evidence
+among the scientiﬁc community that climate change is a real
+phenomenon with lasting human-, animal- and environmental
+health effects, skepticism surrounding climate change and climate
+change impacts still exist in many countries around the world
+[2]. Moreover, prior research has shown that most people among
+the general population do not know much about climate change
+principles, if at all [2−4]. In 2006, 85 % of Americans polled
+believed that climate change was probably occurring, although
+less than four out of ten were truly certain about it [5]. Prior
+studies have also found that there is extensive ignorance within
+the general population surrounding the causes and impacts of cli-
+mate change, as well as the degree of consensus among the scien-
+tiﬁc community concerning these issues [4,5]. One such study
+conducted among American teens and adults revealed that over
+half of American teens and 46 % of American adults have limited
+and often inadequate knowledge and understanding of climate
+change and its consequences [3]. These observations appear to be
+reﬂected in low- and middle-income countries (LMICs) as well. In
+Africa in particular, country-wide climate literacy rates range
+from as high as 62 % (Uganda) to 66 % (Mauritius) but are also as
+low as 23 % (Tunisia) to 25 % (Mozambique) [6]. Across 394 sub-
+national administrative units in Africa, thirty-seven had climate
+literacy rates lower than 20 %, and only eight had climate literacy
+* Corresponding author.
+E-mail address: matlackm@ad.unc.edu (M. Matlack).
+1 LMIC, low- and middle-income country; HIC, high-income country; KAP, knowl-
+edge, attitude, practice; VBD, vector-borne disease; DHF, dengue hemorrhagic fever
+https://doi.org/10.1016/j.joclim.2023.100295
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 15 (2024) 100295
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+rates over 80 % [6]. It is clear that climate education across the
+world is insufﬁcient, and more needs to be done to increase these
+numbers.
+One major consequence of climate change is the increased spread
+of mosquitoes and arboviral illnesses. Increases in global tempera-
+tures threaten to expand the range of Aedes aegypti mosquitoes, the
+primary vector of dengue, chikungunya, and Zika viruses [7]. Precipi-
+tation patterns are also likely to increase vector-borne disease (VBD)
+transmission −increased rainfall is likely to create more abundant
+vector breeding sites, while droughts are also predicted to provide
+more suitable breeding sites due to increased rainwater collection
+and storage [7]. Additionally, VBD transmission is incredibly complex,
+and can be inﬂuenced by a variety of other factors as well, including
+international travel, rapid urbanization, and socioeconomic factors
+such as poor waste disposal [8]. VBDs create a large impact on global
+disease burden [9], causing hundreds of millions of cases and over
+700,000 deaths annually [10,11]. The effect of these diseases is felt
+most strongly across tropical and subtropical regions, and often
+poorer communities are overwhelmingly affected [7,11]. Dengue of
+any serotype (I-IV) are some of the most prominent mosquito-borne
+illnesses in the world, and accounts for up to 390 million infections
+annually [7,12]. Dengue hemorrhagic fever (DHF), a serious complica-
+tion of dengue, manifests with additional symptoms such as abdomi-
+nal pain and internal bleeding and is a leading cause of mortality in
+children [12]. In the Americas, dengue is highly endemic, where
+nearly 500 million people are currently at risk for dengue and dengue
+incidence has dramatically increased over the last four decades [13].
+Over three million cases of dengue were reported in the Americas in
+2019, the highest annual number recorded [13]. Despite the preva-
+lence of arboviral diseases in over 100 countries, previous research
+has shown that VBD knowledge is limited, often among high-risk
+communities [14]. Mosquito-borne diseases such as dengue, espe-
+cially across the Americas, are known as neglected diseases because
+they are largely and inaccurately perceived as low-risk and thus not
+enough information is provided to communities to adequately pro-
+tect themselves [14].
+Additionally, research on climate and climate change literacy
+seems to focus mainly on high-income countries (HICs), such as the
+United States. To date, literature on climate or health literacy within
+LMICs is sparse, especially with regards to assessing climate change
+impacts on vulnerable communities. The Caribbean and South Amer-
+ica in particular are highly susceptible to changing climate patterns
+and extreme weather events [15], making them a major area of inter-
+est moving forward. The purposes of this scoping review are to evalu-
+ate the availability of current literature related to climate and health
+literacy in countries of all income levels as well as to identify major
+gaps in climate and health literacy among the general population.
+Another major goal for completing this scoping review is to inform
+the creation of a future comprehensive literacy scale to assess knowl-
+edge, attitudes, and behaviors towards climate change and its
+adverse health impacts, particularly with regards to mosquito-borne
+diseases. This effort is essential for determining the level of current
+knowledge and beliefs related to climate change and climate change
+impacts among vulnerable populations, and for evaluating the need
+for future community-based interventions to improve mosquito con-
+trol in high-risk areas.
+Material and methods
+We followed PRISMA guidelines for scoping reviews to conduct
+our literature search [16]. We searched two major open-access data-
+bases, PubMed and Scopus (ScienceDirect) for articles relating to cli-
+mate change or vector-borne disease literacy. We also scoped
+ProQuest for articles but did not use it in our ﬁnal review because the
+number of articles returned from our initial search was too large
+(>600,000), even with limiting parameters. Other databases consid-
+ered but not ultimately used to collect articles included GreenFile
+and Global Health through EBSCOhost. A quick search of these
+smaller databases using our search terms revealed that none of the
+articles captured were relevant to our review and thus were not fur-
+ther utilized. The timeline of interest for our article search spanned
+from January 2012 to December 2022 to capture the most recent
+articles to our subjects of interest. Search parameters set for each
+database are outlined in Table 1. We used two separate search state-
+ments to collect articles, the ﬁrst speciﬁc only to climate and climate
+change literacy, the second speciﬁc to mosquito-borne disease liter-
+acy, to capture articles that covered both ﬁelds as well as any overlap
+between the two. We used terms and phrases for our statements that
+were commonly found in other articles to assess climate or VBD liter-
+acy to ensure that we could capture articles relevant to our search.
+Statements were kept separate as a cursory search using only one
+statement yielded much fewer papers for review. The search state-
+ments used to query both PubMed and Scopus can be found in
+Table 2. Using both search statements, we collected a total of 3,347
+articles for title/abstract review. Forty-seven articles were removed
+after title/abstract review as duplicates. A further 3,249 articles were
+excluded from full text review based on the following criteria: no
+relation to climate or vector-borne disease literacy, no mention of
+any climate or vector-borne disease literacy topics, mentions of vec-
+tors other than mosquitoes, being a non-scientiﬁc article or a pre-
+print, having no available abstract, not being within the speciﬁed
+timeline, or not being available in English.
+Fifty-one articles were selected for full text review. An additional
+article was chosen for full text review after being referenced regard-
+ing vector-borne disease literacy in another selected article, with 52
+being the ﬁnal number of articles evaluated during full text review.
+Another 29 articles were excluded after full text review. Reasons for
+excluded articles, as well as a detailed diagram of our review process,
+can be found in Fig. 1. This left a total of 23 articles for our ﬁnal scop-
+ing review. Two of the articles selected after full text review were in
+English but only had questionnaires available in Spanish, which were
+translated to English by a member of our research team and then
+included. We then completed an annotated bibliography of these
+Table 2
+Search statements used to query PubMed and Scopus databases for climate and
+health literacy articles. Statements included all words and phrases as shown below.
+Statement 1
+Statement 2
+(climate OR "climate change") AND
+health AND (science OR education
+OR knowledge OR literacy)
+(mosquito OR vector) AND (disease OR
+illness) OR ("mosquito-borne illness”
+OR “vector-borne disease”) AND (edu-
+cation OR knowledge OR literacy)
+Table 1
+List of search parameters chosen from available parameters for PubMed and Scopus (ScienceDirect) databases prior to literature review.
+Databases searched
+Text availability
+Article type
+Speciﬁed search terms in
+keywords, title, abstract?
+Publication date/range
+Language
+PubMed
+Full text
+Books and documents, dictionary, historical article, multi-
+center study, observational study, practice guideline
+NA
+2012-present
+English
+Scopus
+NA
+Research articles, book chapters, encyclopedia, practice
+guidelines
+yes
+2012-present
+NA
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+2
+articles to summarize each and determine their importance for future
+development of a more inclusive climate and health literacy scale. A
+list of selected articles detailing which database and search statement
+was used (Table A1) and the annotated bibliography can be found in
+Appendices A and B, respectively.
+Results
+Limited knowledge of climate and VBD literacy in LMICs and focus on
+niche populations
+Our scoping review revealed that there are very few articles that
+focus on climate and health literacy across the world, and that several
+are restricted to high- or middle-income countries such as the United
+States, European Member States and China. Many of the studies con-
+ducted in HICs speciﬁcally focused on climate literacy within the con-
+text of improving education in medical or nursing school curricula or
+university education (United States, European Member States) or
+improving knowledge of climate change and climate change effects
+among government health ofﬁcials (China). Six of the studies
+included in this review focused on climate and health knowledge of
+medical or university students, which revealed that most students
+are at least aware of the occurrence of climate change, but they are
+uninformed about and unprepared to deal with the consequences of
+climate change. Researchers from Sapienza University in Rome found
+that medical students were able to correctly identify weather-related
+climate change effects, but less than half identiﬁed an increase in vec-
+tor-borne diseases as an effect of climate change [17]. In another
+study conducted with students from the University of Granada in
+Spain, researchers found that while students knew about climate
+change and felt that it was a current phenomenon, many were
+unaware of speciﬁc causes or consequences of climate change, and
+several mentioned having little to no information provided on cli-
+mate change during their studies [18]. Similarly, in infectious dis-
+ease-focused
+knowledge,
+attitude,
+and
+practice
+(KAP)
+studies,
+university students were aware of major mosquito-borne illnesses
+(dengue, Zika, chikungunya), but were unable to correctly identify
+symptoms, methods of transmission or mosquito biting periods and
+had overall poor knowledge of VBDs [19,20].
+Lack of climate and VBD literacy in the Caribbean
+While there were articles in our scoping review that focused their
+efforts on LMICs such as India and Bangladesh, there was a paucity of
+studies that centered on either climate or VBD literacy within the
+Caribbean. Out of the 23 articles that were included in our ﬁnal
+review, only one was based in the Caribbean. In this study conducted
+among Jamaican residents in Montego Bay, Alobuia et al. (2015)
+found that nearly all participants (90 %) had heard of dengue or
+malaria but less than 10 % had ever had the disease [21]. Though
+Fig. 1. Flow diagram outlining entire article review process, from title/abstract review to selections for ﬁnal review.
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+3
+malaria is not endemic to Jamaica [22], dengue is but is often asymp-
+tomatic [22,23]. Attitudes towards VBDs among this group were
+mixed, with many respondents holding the belief that while VBDs
+were serious, they were not a major problem [21]. The authors of this
+article also cite that poor VBD knowledge reﬂected in this paper was
+in large part due to the lack of consistent VBD control and awareness
+measures available in Jamaica [21].
+Non-Standardized questionnaires and lack of informational materials
+Inclusion of questionnaires used to collect participant responses
+was inconsistent among the selected articles. Over half of the papers
+selected for this scoping review only included selected questions
+within tables, did not include all questions asked during participant
+interviews, or did not reference a speciﬁc questionnaire used to col-
+lect data. Only ten of 23 articles had complete questionnaires pro-
+vided within their supplemental materials. There also seems to be no
+standardized set of items or questionnaires available to assess climate
+and health literacy. Large organizational websites, such as the United
+States Centers for Disease Control and Prevention (CDC), the World
+Health Organization (WHO), and the Pan American Health Organiza-
+tion (PAHO) all provide publicly available informational resources to
+help inform users of climate and health topics but offer no resources
+to help guide literacy assessments. A few papers that were selected
+for full text review referred to WHO’s Zika resource pack that con-
+tains relevant KAP items for questionnaire development [24], but
+otherwise no other climate- or infectious disease-speciﬁc KAP resour-
+ces existed for researchers to base their questionnaires on. Despite
+the overall lack of supporting materials for climate literacy studies,
+many of the included articles shared similar items among them.
+Some of the most common statements used during literacy assess-
+ments included variations of “Humans are responsible for climate
+change/global warming” [25−27], “Climate change will inﬂuence
+transmission of infectious diseases” [27−29] and “I have heard about
+dengue/Zika/chikungunya” [30,31].
+Limited understanding of relationships between climate change and vbd
+transmission
+We noted that while several of the participants interviewed in
+these studies tended to have decent knowledge of climate change
+overall, many of them were less conﬁdent in their understanding of
+how climate change affects human health. Eighty-ﬁve percent of Chi-
+na’s CDC health professionals interviewed by Tong et al. reported
+needing more information for understanding climate change impacts
+on health [28]. In a study among nurses surveyed in China, only 39 %
+reported knowing the main cause of climate change, though 96 %
+were willing to learn more about climate change and related health
+impacts [32]. With regard to climate impacts on VBDs in particular,
+van Wijk et al. found that only 30 % of all participants interviewed
+among the general public reported that they were well informed on
+climate change effects on infectious disease [27]. Of those partici-
+pants with a science background, less than half (40 %) reported being
+knowledgeable of the effects of climate change on infectious disease
+[27]. Another study conducted in both Laos and Thailand revealed
+that over 85 % of participants believed that changes to climate would
+inﬂuence dengue fever risk but were limited in their understanding
+of the speciﬁc impacts that would occur both locally and globally as a
+consequence [33]. An investigation conducted in Punjab, Pakistan,
+where dengue and DHF are endemic, found that out of the respond-
+ents, approximately 71 % of those who did suffer from DHF and 83 %
+of who did not suffer from DHF did not know or did not consider den-
+gue to be an infectious or endemic disease despite having decent cli-
+mate change knowledge [34]. Likewise, it appeared that many
+participants also had lower general knowledge of vector-borne dis-
+ease dynamics as well. Several reported at least hearing about major
+mosquito-borne diseases and could identify the causes and symp-
+toms of these illnesses, but very few were aware of speciﬁc vector
+ecology or transmission processes. In a study completed by Bota et al.
+in 2013, university students in interior Sindh, Pakistan, were sur-
+veyed for their KAP of dengue fever [19]. Their results showed that
+nearly all students (95 %) were aware of dengue, but only half could
+correctly identify the Aedes mosquito as its transmission source [19].
+In addition, many students were aware that water was important for
+mosquito breeding, but only a third were able to correctly identify
+stagnant water as an important breeding site [19].
+Ignorance towards actions and preventive behaviors in response to
+climate change and VBDs
+In addition, several participants across the reviewed studies
+showed general ignorance in implementing preventive measures
+against infectious diseases when asked. Around 60 % of urban resi-
+dents interviewed in Bangladesh reported that they were aware
+keeping a clean home could help prevent Aedes mosquito breeding
+but did not necessarily follow through [35]. Besides the use of bed
+nets, some of the most commonly practiced prevention measures
+were typically removal of standing water sources or use of mosquito
+repellant, though the percentage of participants regularly imple-
+menting these strategies was low [36]. In more rural areas, respond-
+ents tended to have much lower knowledge of the most effective
+VBD-prevention methods, contributing to their lack of reliable VBD
+practices [37]. This review also highlighted conﬂicting views con-
+cerning the role of government in VBD prevention. Approximately
+40 % of people interviewed in one study believed that mosquito pre-
+vention was solely the responsibility of the government [35]. How-
+ever, other studies revealed many participants believed that they
+personally were more responsible for preventing VBDs in their com-
+munities [38].
+Discussion
+Summary of results
+Our scoping review highlights the major lack of research studies
+concerning climate change and infectious disease literacy around the
+world. We found that several of the articles selected for this review
+were based within HICs centered around providing better climate
+education within medical or nursing curricula, versus providing cli-
+mate education or materials to communities that may otherwise not
+have access to these resources. The niche target audiences in these
+types of articles make it difﬁcult to generalize ﬁndings to other popu-
+lations, especially more vulnerable communities that are most likely
+to experience the more extreme consequences of climate change.
+These ﬁndings indicate that climate literacy is inadequate in many
+areas of the world, and most particularly among LMICs where resour-
+ces are already limited.
+Lack of standardization in questionnaires and missing topics
+We also found that there is currently no standardized climate or
+infectious disease literacy questionnaires geared toward general pop-
+ulations for use among researchers. Less than half of the articles had
+attached copies of their questionnaires included as supplemental
+materials, and those that did had several discrepancies between
+what kinds of questions appeared in the surveys. In several of the
+articles surrounding medical and nursing student knowledge and
+perceptions of climate change, the major focus of discussion was cen-
+tered around the inclusion of greater climate education within medi-
+cal curricula and healthcare practices [25,26,39] versus assessment of
+climate literacy among the general population. This was also
+observed in articles focused on government and public health
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+4
+ofﬁcials, where climate literacy was based speciﬁcally on knowledge
+and perceptions of mitigation policies or capacity for climate change
+induced infectious disease control [28,40]. The speciﬁcity of these
+types of questions fails to assess the comprehension of climate
+change and associated impacts within a generalized population and
+thus cannot be used to effectively assess climate or infectious disease
+literacy in any other community. Many of the articles reviewed also
+failed to mention several important climate change topics. Only one
+of the aforementioned articles focused efforts on a major implication
+of climate change other than vector-borne diseases [41]. Important
+climate change impacts such as sea level rise, warming of oceans,
+droughts, hurricanes and cyclones, and food/agricultural production
+were either vaguely referred to in surveys or not discussed at all. The
+lack of access to complete questionnaires and the major disconnect
+in climate change topics among articles makes it difﬁcult to truly
+assess the scope of previous climate change literature and literacy
+levels among the general population.
+Lack of region-speciﬁc or culturally adapted questionnaires
+More importantly, we noticed that nearly every article we
+reviewed included basic climate change or VBD-associated KAP ques-
+tions, but most did not include literacy items that assessed people’s
+general knowledge or understanding of climate change impacts that
+were speciﬁc to their countries or regions. This was particularly
+apparent when reviewing articles centered around Southeast Asia
+(India, Indonesia, Thailand, Bangladesh) as well as the single article
+focused on Jamaica. Southeast Asia and small island states, like the
+Caribbean, experience tropical and subtropical climates and are
+much more susceptible to climate change effects, especially concern-
+ing infectious disease transmission, compared to other regions of the
+world [42−44]. However, there were very few questions within these
+articles that addressed particular KAP centered around climate
+change impacts such as increased rainfall patterns, hurricane or mon-
+soon risks, heatwaves, and sea level rises that are more likely to occur
+in these regions. These types of events can cause increases in ﬂooding
+and create stagnant water sources, which can attract mosquitoes and
+provide more suitable breeding grounds. In turn, increased mosquito
+breeding areas and higher temperatures allow for greater numbers of
+adult disease-carrying mosquitoes as well as shorter disease incuba-
+tion periods and faster and more frequent rates of feeding [45−47].
+The exclusion of region-speciﬁc literacy items such as the ones
+described here thus largely ignores the relationships between speciﬁc
+climate change impacts and increased infectious disease transmission
+and does not sufﬁciently evaluate general knowledge of these topics.
+Limited understanding of the relationships between climate change
+effects and VBD transmission
+As stated previously, many of the articles in this review revealed
+that while people may be generally aware of climate change, they
+may not be aware of the relationship between climate change and
+increased mosquito-borne disease transmission, and thus typically
+tend to avoid implementing preventive measures, especially if they
+believe that they are not at risk. This was an interesting conclusion,
+as it showed us that while most people have at least some level of cli-
+mate change and/or infectious disease knowledge, there is a major
+lack of urgency among both the public and the government in imple-
+mentation of protective strategies, in addition to the low importance
+placed on teaching preventive methods to vulnerable communities.
+This conclusion is strengthened by the fact that many participants
+from included studies reported that there was not enough being
+done by their governments to mitigate increased spread of infectious
+diseases. Additionally, many of the most commonly reported infor-
+mation sources among participants were television, radio, and the
+internet/social media (e.g., Facebook). Despite their wide reach
+among the population, it is clear that these sources are not entirely
+successful in circulating climate change or infectious disease informa-
+tion to the public. In the included study by Darrow et al., 85 % of
+respondents reported television or radio as their main sources of Zika
+information, but few regarded this information as trustworthy [48].
+This sentiment was also reﬂected in the study done by Mazzalai et al.,
+who reported that most medical students surveyed cited television
+as their main source of climate information, but that there is wide-
+spread mistrust of the media among younger generations [17]. Trust-
+worthy sources of information were typically reported to be
+scientists, university professors, medical or community health pro-
+fessionals, public health departments, environmental protection
+agencies, or non-governmental organizations [26]. However, it
+appears that these sources tend to be underutilized when dissemi-
+nating critical climate change and infectious disease information. In
+order to expand the scope of global climate change and infectious
+disease literacy, it is necessary for local and state governments to
+fund and provide more opportunities for reliable health communica-
+tion programs and community outreach for improved climate
+literacy.
+Limitations
+There were a few limitations to the extent of our review. Only two
+major scientiﬁc databases were searched, and though these yielded
+adequate results, we may have missed articles that would have oth-
+erwise been included in our review from additional databases. More-
+over, our parameters may not have yielded the exact results we
+expected, and thus we potentially may have missed articles that
+could have been relevant to our search. For example, climate change
+is often used synonymously with global warming in spite of their dis-
+tinct deﬁnitions [49], and there is a chance that articles could have
+been missed if they referred to climate change as simply ‘global
+warming’, which was not included in our search terms.
+Future interventions and recommendations to improve knowledge gaps
+Looking at current gaps in the literature, an important next step to
+improving climate and infectious disease literacy is to create a more
+generalizable scale that assesses public knowledge of the relationship
+between climate change and infectious diseases, particularly in
+LMICs, mainly in the Caribbean and South and Central America. It is
+also important to provide a more standardized assessment tool for
+climate and health literacy, as one currently does not exist. Based on
+these knowledge gaps, we plan to expand on current KAP question-
+naires by developing, implementing, and validating a combined cli-
+mate and infectious disease literacy scale that will acknowledge a
+wider range of climate change and VBD topics in order to better eval-
+uate these associations, starting in Suriname. Based on the informa-
+tion gained from this scoping review, we also recommend greater
+emphasis on climate and infectious disease information dissemina-
+tion in LMICs, as currently there is major disconnect between reliable
+informational sources and effective community engagement. Finally,
+CDC, PAHO, and WHO should help guide future climate and health lit-
+eracy assessments by providing resources such as guided question-
+naires for researchers as well as readily available climate and health
+informational materials for target populations.
+Conclusions
+This scoping review has demonstrated that climate change liter-
+acy is insufﬁcient around the world, especially among more vulnera-
+ble communities. We particularly notice this discrepancy in the
+Caribbean, where we could only ﬁnd one research study that focused
+their efforts on this region despite being an area highly affected by
+climate change, and consequently, the continued spread of VBDs. Our
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+5
+review calls attention to the need for a more inclusive approach to
+climate change literacy in order to better understand climate change-
+induced infectious disease dynamics across the globe, and that more
+reliable information needs to be made readily available to at-risk
+communities moving forward.
+Funding
+This research was supported by the Fogarty International Center
+of
+the
+National
+Institutes
+of
+Health
+under
+award
+number
+D43TW009340. This content is solely the responsibility of the authors
+and does not necessarily represent the ofﬁcial views of the National
+Institutes of Health.
+Declaration of competing interest
+The authors declare the following ﬁnancial interests/personal
+relationships which may be considered as potential competing
+interests:
+Meghan Matlack reports ﬁnancial support was provided by John E
+Fogarty International Center.
+CRediT authorship contribution statement
+Meghan Matlack: Conceptualization, Data curation, Funding
+acquisition, Investigation, Project administration, Validation, Visuali-
+zation, Writing −original draft, Writing −review & editing, Method-
+ology. Hannah Covert: Conceptualization, Writing −review &
+editing, Methodology. Arti Shankar: Conceptualization, Writing −
+review & editing. Wilco Zijlmans: Conceptualization, Writing −
+review & editing, Project administration, Supervision. Firoz Abdoel
+Wahid: Conceptualization, Writing −review & editing. Ashna Hin-
+dori-Mohangoo: Conceptualization, Writing −review & editing.
+Maureen Lichtveld: Conceptualization, Methodology, Project admin-
+istration, Supervision, Writing −review & editing.
+Supplementary materials
+Supplementary material associated with this article can be found,
+in the online version, at doi:10.1016/j.joclim.2023.100295.
+References
+[1] Georgia State University. What is climate literacy?
+https://sites.gsu.edu/
+geog1112/what-is-climate-literacy/ [accessed 1 Feb 2023].
+[2] Azevedo J, Marques M. Climate literacy: a systematic review and model integra-
+tion. Int J Glob Warm 2017;12(3/4):414. doi: 10.1504/ijgw.2017.10005893.
+[3] Leiserowitz A, Smith N, Martin JR. American Teens’ knowledge of climate change.
+Yale Program Climate Change Commun 2011 [Accessed 8 Feb 2023] https://cli-
+matecommunication.yale.edu/publications/american-teens-knowledge-of-cli-
+mate-change/.
+[4] McCaffrey MS, Buhr SM. Clarifying climate confusion: addressing systemic holes,
+cognitive gaps, and misconceptions through climate literacy. Phys Geogr 2008;29
+(6):512–28.
+[5] Niepold F, Herring D, McConville D. The case for climate literacy in the 21st cen-
+tury. In: Fifth International Symposium on Digital Earth; 2007. p. San Francisco,
+CA1–11.
+[6] Simpson NP, Andrews TM, Kr€onke M, et al. Climate change literacy in Africa. Nat
+Clim Chang 2021;11:937–44. doi: 10.1038/s41558-021-01171-x.
+[7] Rockl€ov J, Dubrow R. Climate change: an enduring challenge for vector-borne dis-
+ease prevention and control. Nat Immunol 2020;21:479–83. doi: 10.1038/
+s41590-020-0648-y.
+[8] Murray NE, Quam MB, Wilder-Smith A. Epidemiology of dengue: past, present
+and future prospects. Clin Epidemiol 2013;5:299–309. doi: 10.2147/CLEP.S34440.
+[9] Paix~ao MM, Ballouz T, Lindahl JF. Effect of education on improving knowledge and
+behavior for arboviral diseases: a systematic review and Meta-analysis. Am J Trop
+Med Hyg 2019;101(2):441–7. doi: 10.4269/ajtmh.19-0170.
+[10] Khan W, Rahman A, Zaman S, Kabir M, Khan R, Ali W, et al. Knowledge, attitude
+and practices regarding dengue and its vector among medical practitioners in
+Malakand region, Pakistan. Brazil J Biol 2023;83:e244966. doi: 10.1590/1519-
+6984.244966.
+[11] World Health Organization. Vector-borne diseases, https://www.who.int/news-
+room/fact-sheets/detail/vector-borne-diseases; 2020 [accessed 21 Jan 2023].
+[12] World Health Organization. Dengue, https://www.who.int/teams/health-prod-
+uct-policy-and-standards/standards-and-speciﬁcations/vaccine-standardization/
+dengue; 2023 [accessed 09 May 2023].
+[13] Pan American Health Organization. Dengue - PAHO/WHO, https://www.paho.org/
+en/topics/dengue, 2023 [accessed 09 May 2023].
+[14] Nava-Doctor JE, Sandoval-Ruiz CA, Fernandez-Crispín A. Knowledge, attitudes,
+and practices regarding vector-borne diseases in central Mexico. J Ethnobiol Eth-
+nomed 2021 Jul 21;17(1):45. doi: 10.1186/s13002-021-00471-y.
+[15] IPCC. Small islands are increasingly affected by climate change: IPCC report.
+https://caribbean.un.org/en/173533-small-islands-are-increasingly-affected-cli-
+mate-change-ipcc-report, 2022 [accessed 18 May 2023].
+[16] Tricco AC, Lillie E, Zarin W, O’Brien KK, Colquhoun H, Levac D, Moher D, Peters
+MD, Horsley T, Weeks L, Hempel S, et al. PRISMA extension for scoping reviews
+(PRISMA-ScR): checklist and explanation. Ann Intern Med 2018;169(7):467–73.
+doi: 10.7326/M18-0850.
+[17] Mazzalai E, Chiappetta M, La Torre G. Knowledge on causes and consequences of
+Climate Change in a cohort of Italian students. Clin Ter 2022;173(5):443–52. doi:
+10.7417/CT.2022.2461.
+[18] Escoz-Roldan A, Gutierrez-Perez J, Meira-Cartea P. Education on climate risks and
+their implications for health. Procedia - Soc Behav Sci 2017;237:599–605. doi:
+10.1016/j.sbspro.2017.02.015.
+[19] Bota R, Ahmed M, Jamali MS, Aziz A. Knowledge, attitude and perception regard-
+ing dengue fever among university students of interior Sindh. J Infect Public
+Health 2014;7(3):218–23. doi: 10.1016/j.jiph.2013.11.004.
+[20] Ibrahim NK, Moshref RH, Moshref LH, Walid JB, Alsati HS. Knowledge and atti-
+tudes towards Zika virus among medical students in King Abdulaziz University,
+Jeddah, Saudi Arabia. J Infect Public Health 2018;11(1):18–23. doi: 10.1016/j.
+jiph.2017.02.015.
+[21] Alobuia WM, Missikpode C, Aung M, Jolly PE. Knowledge, attitude, and practices
+regarding vector-borne diseases in Western Jamaica. Ann Glob Health 2016;81
+(5):654–63. doi: 10.1016/j.aogh.2015.08.013.
+[22] Hickman T., Dokubo E.K., & Brown C. Jamaica. Centers for disease control and pre-
+vention.
+https://wwwnc.cdc.gov/travel/yellowbook/2024/itineraries/jamaica,
+2023 [Accessed 17 Oct 2023].
+[23] Christie CDC, Lue AM, Melbourne-Chambers RH. Dengue, chikungunya and zika
+arbovirus infections in Caribbean children. Curr Opin Pediatr 2023;35(2):155–65.
+doi: 10.1097/MOP.0000000000001229.
+[24] World Health Organization. Knowledge, attitudes and practice surveys: Zika virus
+disease and potential complications: resource pack. https://www.who.int/publi-
+cations/i/item/WHO-ZIKV-RCCE-16.2; 2016 [Accessed 24 November 2022].
+[25] Gomez J, Goshua A, Pokrajac N, Erny B, Auerbach P, Nadeau K, et al. Teaching
+medical students about the impacts of climate change on human health. J Climate
+Change Health 2021;3:100020. doi: 10.1016/j.joclim.2021.100020.
+[26] Liao W, Yang L, Zhong S, Hess JJ, Wang Q, Bao J, et al. Preparing the next genera-
+tion of health professionals to tackle climate change: are China’s medical students
+ready? Environ Res 2019;168:270–7. doi: 10.1016/j.envres.2018.10.006.
+[27] van Wijk M, Naing S, Diaz Franchy S, Heslop RT, Novoa Lozano I, Vila J, et al. Per-
+ception and knowledge of the effect of climate change on infectious diseases
+within the general public: a multinational cross-sectional survey-based study
+Mallhi
+TH,
+editor
+PLoS
+ONE
+2020;15(11):e0241579.
+doi:
+10.1371/journal.
+pone.0241579.
+[28] Tong MX, Hansen A, Hanson-Easey S, Xiang J, Cameron S, Liu Q, et al. Perceptions
+of capacity for infectious disease control and prevention to meet the challenges of
+dengue fever in the face of climate change: a survey among CDC staff in Guang-
+dong Province, China. Environ Res 2016 Jul;148:295–302. doi: 10.1016/j.env-
+res.2016.03.043.
+[29] Tong MX, Hansen A, Hanson-Easey S, Xiang J, Cameron S, Liu Q, et al. Dengue con-
+trol in the context of climate change: views from health professionals in different
+geographic regions of China. J Infect Public Health 2019;12(3):388–94. doi:
+10.1016/j.jiph.2018.12.010.
+[30] MdI Hossain, Alam NE, Akter S, Suriea U, Aktar S, Shifat SK, et al. Knowledge,
+awareness and preventive practices of dengue outbreak in Bangladesh: a coun-
+trywide study. Lahiri A, editor. PLOS ONE 2021 Jun;16(6):e0252852. doi: 10.1371/
+journal.pone.0252852.
+[31] Khairy S, Al-Surimi K, Ali A, Shubily HM, Al Walaan N, Househ M, et al. Knowl-
+edge, attitude and practice about malaria in south-western Saudi Arabia: a house-
+hold-based cross-sectional survey. J Infect Public Health 2017;10(5):499–506.
+doi: 10.1016/j.jiph.2016.09.021.
+[32] Xiao J, Fan W, Deng Y, Li S, Yan P. Nurses’ knowledge and attitudes regarding
+potential impacts of climate change on public health in central of China. Int J Nurs
+Sci 2016;3(2):158–61. doi: 10.1016/j.ijnss.2016.04.002.
+[33] Rahman MS, Overgaard HJ, Pientong C, Mayxay M, Ekalaksananan T, Aromseree S,
+et al. Knowledge, attitudes, and practices on climate change and dengue in Lao
+People’s Democratic Republic and Thailand. Environ Res 2021;193:110509. doi:
+10.1016/j.envres.2020.110509.
+[34] Bakhsh K, Sana F, Ahmad N. Dengue fever in Punjab, Pakistan: knowledge, per-
+ception and adaptation among urban adults. Sci Total Environ 2018;644:1304–
+11. doi: 10.1016/j.scitotenv.2018.07.077.
+[35] Bashar K, Mahmud S, Asaduzzaman Tusty EA, Zaman AB. Knowledge and beliefs
+of the city dwellers regarding dengue transmission and their relationship with
+prevention
+practices
+in
+Dhaka
+city,
+Bangladesh.
+Public
+Health
+Pract
+2020;1:100051. doi: 10.1016/j.puhip.2020.100051.
+[36] Earle-Richardson G, Prue C, Turay K, Thomas D. Inﬂuences of community inter-
+ventions on zika prevention behaviors of pregnant women, Puerto Rico, July 2016
+−June 2017. Emerg Infect Dis 2018;24(12):2251–61. doi: 10.3201/eid2412.
+181056.
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+6
+[37] Bashar K, Al-Amin HM, Reza MS, Islam M, Asaduzzaman Ahmed TU. Socio-demo-
+graphic factors inﬂuencing knowledge, attitude and practice (KAP) regarding
+malaria in Bangladesh. BMC Public Health 2012 Dec;12(1). doi: 10.1186/1471-
+2458-12-1084.
+[38] Desjardins MR, Casas I, Victoria AM, Carbonell D, Davalos DM, Delmelle EM. Knowl-
+edge, attitudes, and practices regarding dengue, chikungunya, and Zika in Cali,
+Colombia. Health Place 2020;63:102339. doi: 10.1016/j.healthplace.2020.102339.
+[39] Sambath V, Narayan S, Kumar P, Kumar P, Pradyumna A. Knowledge, attitudes
+and practices related to climate change and its health aspects among the health-
+care workforce in India −a cross-sectional study. J Climate Change Health
+2022;6:100147. doi: 10.1016/j.joclim.2022.100147.
+[40] Wei J, Bi P, Hansen A. Perception, attitude and behavior in relation to climate
+change: a survey among CDC Health professionals in Shanxi province, China.
+Environ Res 2014;134:301–8. doi: 10.1016/j.envres.2014.08.006.
+[41] van Loenhout JAF, Vanderplanken K, Moitinho de Almeida M, Kashibadze T,
+Giuashvili N, Gamkrelidze A. Heatwave preparedness in urban Georgia: a street
+survey in three cities. Sustain Citie Soc 2021;70:102933. doi: 10.1016/j.
+scs.2021.102933.
+[42] World Health Organization. Dengue and severe dengue. https://www.who.int/
+news-room/fact-sheets/detail/dengue-and-severe-dengue,
+2020
+[accessed
+09
+May 2023].
+[43] United Nations Framework Convention on Climate Change. Climate change:
+impacts, vulnerabilities, and adaptation in developing countries, https://unfccc.
+int/resource/docs/publications/impacts.pdf, 2007 [accessed 09 May 2023].
+[44] The Intergovernmental Panel on Climate Change. The regional impacts of climate
+change: an assessment of vulnerability, https://www.ipcc.ch/report/the-regional-
+impacts-of-climate-change-an-assessment-of-vulnerability/the-regional-
+impacts-of-climate-change-an-assessment-of-vulnerability/, 2023 [accessed 09
+May 2023].
+[45] Reinhold J, Lazzari C, Lahondere C. Effects of the environmental temperature on
+aedes aegypti and aedes albopictus mosquitoes: a Review. Insects 2018;9(4):158.
+doi: 10.3390/insects9040158.
+[46] Patz JA, Epstein PR, Burke TA, Balbus JM. Global climate change and emerging
+infectious diseases. JAMA 1996;275(3):217–23.
+[47] Watts DM, Whitmire RE, Burke DS, Nisalak A, Harrison BA. Effect of temperature
+on the vector efﬁciency of Aedes aegypti for Dengue 2 virus. Am J Trop Med Hyg
+1987;36(1):143–52. doi: 10.4269/ajtmh.1987.36.143.
+[48] Darrow W, Bhatt C, Rene C, Thomas L. Zika virus awareness and prevention prac-
+tices among university students in Miami: fall 2016. Health Educ Behav 2018;45
+(6):967–76. doi: 10.1177/1090198118760687.
+[49] NASA. Global warming vs. climate change, https://climate.nasa.gov/global-warm-
+ing-vs-climate-change/, 2023 [accessed 10 May 2023].
+M. Matlack, H. Covert, A. Shankar et al.
+The Journal of Climate Change and Health 15 (2024) 100295
+7

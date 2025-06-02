@@ -1,0 +1,793 @@
+Research article
+The 2021 Western North American heat dome increased climate change
+anxiety among British Columbians: Results from a natural experiment
+Andreea Bratua,b,*, Kiffer G. Cardc, Kalysha Clossona,b, Niloufar Aranb,c, Carly Marshallb,
+Susan Claytond, Maya K. Gislasonc,h, Hasina Samjic, Gina Martine, Melissa Lemf,
+Carmen H. Logieg,i, Tim K. Takaroc,h, Robert S. Hoggb,c,h
+a School of Population and Public Health, University of British Columbia, Vancouver, Canada
+b British Columbia Centre for Excellence in HIV/AIDS, Vancouver, Canada
+c Faculty of Health Sciences, Simon Fraser University, Burnaby, British Columbia, Canada
+d Psychology Department, The College of Wooster, Wooster, OH, United States
+e Faculty of Health Disciplines, Athabasca University, Canada
+f Canadian Association of Physicians for the Environment, Toronto, Ontario, Canada
+g Factor-Inwentash Faculty of Social Work, University of Toronto, Ontario, Canada
+h Planetary Health Research Group, Faculty of Health Sciences, Simon Fraser University, Burnaby, British Columbia, Canada
+i United Nations University Institute for Water, Environment, and Health, Hamilton, Ontario
+A R T I C L E
+I N F O
+Article History:
+Received 18 November 2021
+Accepted 16 January 2022
+Available online 19 January 2022
+A B S T R A C T
+Introduction: Extreme weather events caused by climate change pose a risk to mental health. Illustrating this
+reality, this study estimates the impact of the 2021 Western North American heat dome (June 25th, 2021 −
+July 1st, 2021) on climate change anxiety among British Columbians.
+Methods: We conducted an online survey of British Columbians, aged ≥16. Participants were recruited using
+paid advertisements on social media. Data were collected pre- and post- heat dome between May 12th, 2021
+−June 21st, 2021 (n = 439), and July 15th, 2021 −July 18th, 2021 (n = 420), respectively. A multivariable
+inverse Gaussian regression model tested differences in Climate Change Anxiety Scale (CCAS) scores pre- and
+post- heat dome. Potential confounders measured included age, gender, ethnicity, education, income, and
+political orientation. CCAS reliability was assessed using Cronbach’s alpha.
+Results: Most participants indicated that they were much (40.1%) or somewhat (18.4%) more worried about
+climate change due to the heat dome. Mean CCAS scores increased from 1.66 (standard deviation [SD]= 0.80)
+to 1.87 (SD = 0.87) pre- and post- heat dome, respectively. In multivariable modeling, this effect was signiﬁ-
+cant after controlling for potential confounders (Estimate = 0.057, standard error = 0.148, p < 0.001). The
+CCAS reliability was high (Cronbach’s alpha = 0.94).
+Discussion: Our results found that British Columbians had signiﬁcantly higher climate change anxiety follow-
+ing the 2021 Western North American heat dome. Ongoing monitoring of climate change anxiety is needed
+to understand the impact of individual and compounding climate change-related weather events over time.
+© 2022 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/)
+Keywords:
+Climate change
+Anxiety
+Mental health
+Extreme heat
+Environmental health
+Climate adaptation
+1. Introduction
+Climate change poses an urgent public health threat, in part due to
+its role in increasing the frequency, duration, and intensity of extreme
+weather events such as heat waves, ﬂoods, and droughts [1]. Scientists
+around the world have highlighted that high temperature extremes
+have worsened globally, and that average global temperatures are pro-
+jected to rise at least 1.5 °C above pre-industrial levels by 2040, posing
+substantial risks to human health [2]. Extreme weather events caused
+by temperature changes, in addition to direct impacts on morbidity
+and mortality, can signiﬁcantly disrupt interactions between socio-
+environmental factors and human health, leading to indirect health
+impacts due to consequent economic, food, housing, and job insecurity,
+or forced displacement [1]. Heat waves, described as temperatures
+above long-term averages where warm air masses are stagnant and
+high minimum temperatures occur successively over nights [3], can
+have multifaceted implications for public health, including elevated
+mortality [4], or exacerbation of pre-existing comorbidities such as car-
+dio-respiratory conditions [5]. Therefore, exposure to high tempera-
+tures
+can
+increase
+emergency
+room
+visits,
+hospitalizations,
+or
+* Corresponding author.
+E-mail address: abratu01@mail.ubc.ca (A. Bratu).
+https://doi.org/10.1016/j.joclim.2022.100116
+2667-2782/© 2022 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)
+The Journal of Climate Change and Health 6 (2022) 100116
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+community-based healthcare demands, thus creating a signiﬁcant bur-
+den on health systems [6].
+While the impact of intense heat on physical health is well docu-
+mented, the mental health repercussions from these events have
+received less attention, despite evidence showing that environmental
+hazards and the related mortality and morbidity from such hazards
+elevate the risk of certain mental health disorders [7,8]. Moreover,
+there is growing evidence that mental illness is one of the greatest
+health burdens worldwide [9]. Extreme weather events have been
+associated with an increase in various mental health problems such as
+anxiety, depression or post-traumatic stress disorder [10,11]. Anxiety,
+described as negative emotional state that causes physical symptoms
+and apprehension about the future [12], is seen as a particularly rele-
+vant psychological response to climate change, where it is referred to
+as climate change anxiety [13]. Heat waves speciﬁcally can cause stress
+that has been associated with mood and anxiety disorders [14] and ele-
+vated mortality in individuals with pre-existing mental illness [15].
+The increase of climate-related mental health concerns has drawn
+attention to the lack of validated instruments that can be used to accu-
+rately assess and quantify this population health concern. However,
+recent efforts within this ﬁeld have led to the development of a Climate
+Change Anxiety Scale (CCAS) by Clayton and Karazsia (2020) [16]. CCAS
+was developed in response to increasing concerns related to negative
+emotional responses to climate change. Considering their multifaceted
+impacts, it is reasonable to expect that extreme climate events may
+lead to certain levels of emotional distress (e.g., ‘normal reactions to
+abnormal situations’) [3]. Nonetheless, there is a risk of pathologizing
+such otherwise reasonable responses when conducting research
+assessing mental health in climate change contexts [13]. In contrast, as
+climate change risks increase, worries about the effects of climate
+change may lead to elevated levels of anxiety causing cognitive, emo-
+tional and functional impairment [13,16]. As such, it is important to dif-
+ferentiate between ‘adequate’ emotional responses and ‘extreme’
+psychosocial reactions in this context [16]. By integrating such consid-
+erations, the CCAS is an innovative tool aiming to identify signiﬁcant
+levels of climate change anxiety. Additionally, CCAS is a validated tool
+that can be used to track population-level changes to climate change
+anxiety and enhance efforts advocating for mental health support and
+services during and following climate disasters.
+The CCAS is a 22-item scale that measures emotional responses to
+climate change among adults and includes correlated sub-scales
+assessing cognitive and emotional impairment, functional impairment,
+and behavioural engagement related to climate change events.
+The unprecedented heat wave that took place in Western North
+America further demonstrates the implications of these concerns.
+Between June 25th and July 1st, 2021, most regions in the Paciﬁc
+Northwest experienced record-breaking temperatures reaching up to
+49.6 °C [17]. The intense and long-lasting heat contributed to the for-
+mation of a heat dome, described as large areas of scorching heat
+being trapped in the atmosphere [18]. In British Columbia (BC) alone,
+almost 750 excess deaths were considered directly attributable to the
+heat dome [19]. The event marked the hottest June on record in
+Western North America, highlighting crucial gaps in the current
+health system and climate adaptation strategies, especially in the
+realm of mental health concerns. Most signiﬁcantly, at present, there
+are no known indicators describing potential climate change impacts
+on mental health in Canada. Our study aims to address this gap and
+assess the effect of the 2021 heat dome on climate change anxiety
+levels among British Columbians using the CCAS scale.
+2. Methods
+2.1. Study design and data collection
+We conducted a quasi-experimental study analyzing the impact of
+the 2021 heat dome in relation to changes in CCAS scores among
+adults in BC. Data were collected as part of a serial cross-sectional
+online survey with independent samples using the Survey Monkey
+platform [20]. Participants were recruited using paid advertisements
+on Facebook and Instagram and incentivised to respond using a prize
+draw for a $200 CAD VISA Gift Card. We used a targeted sampling
+strategy, with advertisements being targeted to individuals aged
+≥16 years living in BC. A total of $6147.87 CAD was spent on adver-
+tisements, resulting in 880,047 impressions among 408,982 people.
+These impressions resulted in 11,735 clicks from 9916 people. The
+average cost per click was $0.52 CAD.
+We determined the sample size for this study by performing
+power analyses informed by Clayton and Karazsia (2020) [16], who
+originally tested the distribution of CCAS scores using a sample of
+297 respondents recruited in the US using Amazon’s Mechanical Turk
+platform. In their analyses of these responses, cognitive impairment
+subscale scores had a mean score of 1.75 with a standard deviation
+(SD) of 0.97 and functional impairment subscale scores had a mean
+score of 2.09 and an SD of 1.08.
+This study was powered to detect a mean difference of 0.20 on
+functional impairment subscale scores, as it had the larger SD of the
+two CCAS subscales. Setting alpha at 0.05 and power at 0.80, our
+power analyses indicated a required sample size of 458 responses
+per wave. We assumed a missing data rate of 37%, 10% greater than
+Clayton and Karazsia’s, since we assumed our online sampling
+method would recruit less experienced survey takers than Amazon’s
+Mechanical Turk platform. As such, our target recruitment rate was
+726 participants for each wave of the survey.
+The ﬁrst wave of data collection for our ﬁrst sample (n = 439) was
+conducted prior to the heat dome (May 12th, 2021- June 21st, 2021)
+as part of a research initiative aiming to descriptively explore the cur-
+rent levels and patterns of climate change anxiety among the general
+adult population in BC. The second wave of data collection (n = 420)
+for a distinct second sample was conducted between July 15th, 2021,
+and July 18th, 2021. The decision to pursue a second wave of data col-
+lection was inﬂuenced by the occurrence of the heat dome and the
+opportunity provided by this event to conduct more nuanced analy-
+ses and was not initially anticipated. Recruitment took longer for the
+ﬁrst wave due to advertising spending limits imposed by Facebook
+on new accounts. As the spending limits were gradually increased,
+wave 2 of the survey was completed faster.
+2.2. Variables of interest
+The variables of interest for our bivariable analysis were survey
+items related to changes in climate related concerns pre- and post-
+heat dome. Such items included participants’ evaluation of whether
+they were impacted by the heat dome (not impacted at all, impacted
+only a little, somewhat impacted, impacted to a great extent), partici-
+pants’ level of worry about climate change after the heat dome
+(much less worried, somewhat less worried, worry not changed,
+somewhat more worried, much more worried), whether participants
+were concerned about climate change impacting the industry they
+are working in (no, yes), or participants’ perception of potential risks
+that the area where they live will be devastated by climate change
+(don’t know/unsure, somewhat likely, somewhat unlikely, very
+unlikely).
+The outcome variable for our multivariable analysis was the mea-
+sure of climate change anxiety among British Columbians as deter-
+mined by the calculated CCAS scores, including the functional
+subscale, cognitive subscale, behavioural subscale, and overall CCAS
+scores, pre- and post- the 2021 heat dome. Of the total 22 items
+included in the scale, indicators 1−13 measure the overall climate
+change anxiety scale, as follows: (1) Items 1−8 assess cognitive-emo-
+tional impairment (i.e., CCAS Cognitive Subscale) with questions such
+as “I ﬁnd myself crying because of climate change”; and (2) Items 9
+−13 measure functional impairment (i.e., CCAS Functional Subscale)
+A. Bratu, K.G. Card, K. Closson et al.
+The Journal of Climate Change and Health 6 (2022) 100116
+2
+with indicators like “My concerns about climate change undermine
+my ability to work on my potential”. In addition, items 17−22 sepa-
+rately measure behavioural engagement in climate-related events
+(i.e., CCAS Behavioural Engagement Subscale) with questions such as
+“I feel guilty if I waste energy”) [16].
+The exposure variable was whether observations were made prior
+to or after the heat dome (i.e., wave 1 and wave 2 of data collection,
+respectively).
+We selected potential confounders based on empirical knowledge
+of factors that are likely associated with climate change anxiety and
+climate-related extreme weather events such as heat waves. Poten-
+tial confounders included in the multivariable inverse Gaussian
+regression analysis included age (<24, 25−44, 45−64, 65+ years),
+gender (man, woman, non-binary), ethnicity (white, Indigenous, Chi-
+nese, South Asian, other), education (bachelor’s degree, graduate
+training, advanced training below bachelors, high school diploma, or
+less), income (ten level variable starting from $10,000 to $19,999 to
+$100,000 and over), and political orientation (extremely liberal, mod-
+erately liberal, slightly liberal, neither liberal nor conservative,
+slightly conservative, moderately conservative, and extremely con-
+servative).
+2.3. Data analysis
+All statistical analyses were completed in R (version 4.0.3) [21].
+Observations with missing data on our selected outcome or explana-
+tory factor were excluded and a complete case analysis was per-
+formed. Descriptive statistics were calculated and stratiﬁed by wave
+of data collection. Chi-square tests assessed bivariable differences
+between wave 1 and wave 2 CCAS scores. A multivariable inverse
+Gaussian regression model tested differences in CCAS scores, with
+the wave of data collection as the primary explanatory variable,
+adjusting for age, gender, ethnicity, education, income, and political
+orientation. We used inverse Gaussian modeling due to the observa-
+tion that the outcome variable (i.e., CCAS scores) was right skewed
+and the linear regression models were heteroskedastic. In sensitivity
+analyses, we built multivariable models with Poisson and Linear
+regression −ﬁnding that the overall conclusions of our paper were
+not sensitive to model building approach beyond the magnitude of
+the effect size (Range: b = 0.05 using inverse Gaussian [p < 0.001],
+0.10 using Poisson regression [p < 0.001], and 0.18 using Linear
+regression [p < 0.048]). Model ﬁt was tested using standard visual
+diagnostic plots.
+2.4. Ethics
+Ethics approval for this study, including the use of the survey for
+research and an amendment to use the survey for a second wave of
+data collection, was received from the Research Ethics Board (REB) at
+Simon Fraser University (SFU) (REB#: 30000309). The amendment
+included minor modiﬁcations to the survey and received ethical
+approval by SFU REB prior to the start of the second wave of data col-
+lection.
+3. Results
+The survey was initiated by 1551 participants (N1 = 741, N2 = 810).
+We excluded 16 participants who did not agree to the consent form
+terms and 7 participants who did not live in BC. Among wave 2 par-
+ticipants, 9 had taken the survey during wave 1 and 36 were unsure
+if they had taken a survey. These individuals were excluded to ensure
+independence of observations. This resulted in a ﬁnal sample size of
+1438. For these analyses, we conducted a complete case analysis by
+omitting participants with missing data across any of the variables
+included in our ﬁnal multivariable model. This resulted in a ﬁnal ana-
+lytic sample size of 859 (N1 = 439, N2 = 420).
+Table 1 shows the socio-demographic characteristics of our popu-
+lation sample. The sample included approximately equal numbers of
+men and women in the pre- and post- heat dome samples (men: N
+[%]: 215 [49%] vs 217 [51.7%], women: N [%]: 201 [45.8%] vs 192
+[45.7%], pre- and post- heat dome, respectively), and a small number
+of non-binary individuals (N [%]: 23 (5.2%) vs 11 [2.6%]). Most partici-
+pants were white (82% vs 89% pre- and post- heat dome, respec-
+tively), and in the 25−64-year-old age category (69.3% vs 68.8%).
+Table 2 highlights the changes in climate related concerns pre-
+and post- heat dome. Overall, there was a signiﬁcant increase in the
+participants’ overall CCAS score pre-and post- heat dome (mean [SD],
+1.66 [0.80] vs 1.87 [0.87], p < 0.001), as well as in their CCAS Cogni-
+tive Subscale scores (mean [SD]: 1.65 [0.80] vs 1.84 [0.86], p = 0.001),
+and CCAS Functional Subscale Scores (mean [SD]: 1.68 [0.87] vs 1.92
+[0.98], p < 0.001). There was no signiﬁcant increase in the scores for
+the CCAS Behaviour Engagement Subscale (mean [SD]: 3.59 [0.83] vs
+3.60 [0.85], p = 0.931). CCAS reliability was high for the overall CCAS
+scale, as well as the CCAS Cognitive and CCAS Functional Subscales
+(Cronbach’s alphas = 0.94, 0.92 and 0.89, respectively).
+Additionally, there was a signiﬁcant increase in participants’ con-
+cern that the industry they are working in will be affected by climate
+change (p < 0.05), and that the area where they live will be devas-
+tated by climate change events such as ﬂoods or forest ﬁres
+Table 1
+Socio-demographic characteristics for individuals included in the pre- and post-
+2021 heat dome data collection stages (N = 859).
+Pre-heat dome
+Post- heat dome
+p-value*
+N (%)
+N (%)
+Age
+≤24
+69 (15.7)
+57 (13.6)
+0.559
+25−44
+175 (39.9)
+158 (37.6)
+45−64
+129 (29.4)
+131 (31.2)
+65+
+66 (15.0)
+74 (17.6)
+Gender
+Man
+215 (49.0)
+217 (51.7)
+0.133
+Woman
+201 (45.8)
+192 (45.7)
+Non-binary
+23 (5.2)
+11 (2.6)
+Ethnicity
+White
+361 (82.2)
+374 (89.0)
+0.007
+Indigenous
+24 (5.5)
+17 (4.0)
+Chinese
+18 (4.1)
+7 (1.7)
+South Asian
+15 (3.4)
+3 (0.7)
+Other
+21 (4.8)
+19 (4.5)
+Education
+Bachelor's degree
+139 (31.7)
+107 (25.5)
+0.098
+Graduate Training
+79 (18.0)
+89 (21.2)
+High school diploma or
+less
+69 (15.7)
+84 (20.0)
+Advanced Training, below
+Bachelors
+152 (34.6)
+140 (33.3)
+Income
+<$10,000
+76 (17.9)
+82 (18.6)
+0.078
+$10,000 to $19,999
+55 (12.5)
+34 (8.1)
+$20,000 to $29,999
+54 (12.3)
+46 (11.0)
+$30,000 to $39,999
+41 (9.3)
+33 (7.9)
+$40,000 to $49,999
+31 (7.1)
+36 (8.6)
+$50,000 to $59,999
+41 (9.3)
+38 (9.0)
+$60,000 to $69,999
+30 (6.8)
+28 (6.7)
+$70,000 to $79,999
+28 (6.4)
+20 (4.8)
+$80,000 to $89,999
+21 (4.8)
+19 (4.5)
+$90,000 to $99,999
+15 (3.4)
+22 (5.2)
+$100,000 and over
+58 (13.2)
+47 (11.2)
+Political Orientation
+Extremely liberal
+99 (22.7)
+117 (28.0)
+0.058
+Moderately liberal
+100 (22.9)
+118 (28.2)
+Slightly liberal
+24 (5.5)
+21 (5.0)
+Neither liberal nor
+conservative
+85 (19.5)
+75 (17.9)
+Slightly conservative
+31 (7.1)
+19 (4.5)
+Moderately conservative
+70 (16.0)
+52 (12.4)
+Extremely conservative
+28 (6.4)
+16 (3.8)
+* p-values calculated using chi-square and ﬁsher exact.
+A. Bratu, K.G. Card, K. Closson et al.
+The Journal of Climate Change and Health 6 (2022) 100116
+3
+(p < 0.001). Most participants reported that they were somewhat
+(40.8%) as well as greatly (17.4%) impacted by the heat dome. Simi-
+larly, most participants reported that they were much (40.1%) or
+somewhat more (18.4%) worried about climate change after the heat
+event.
+Table 3 outlines the inverse Gaussian multivariable model results,
+which suggest that the mental health impact of the heat dome, mea-
+sured by changes in CCAS scores pre- and post- heat dome, was sta-
+tistically signiﬁcant after controlling for potential confounders
+(Estimate = 0.057, standard error = 0.148, p < 0.001).
+4. Discussion
+The current study found that the 2021 Western North American
+heat dome was associated with a signiﬁcant increase in climate
+change anxiety and climate-related concerns among British Colum-
+bians.
+To our knowledge, this study is the ﬁrst to use a natural experi-
+ment design to describe the impact of climate-induced extreme heat
+on mental health and anxiety levels among the general public in BC.
+Our study is also the ﬁrst to use a validated climate change anxiety
+measurement tool to explore impacts of extreme heat on mental
+health, therefore providing uniquely novel insights that can forward
+emerging research in this ﬁeld. Other studies exploring the effect of
+heat on population health in Canada primarily focus on mortality or
+physical health outcomes. For example, one study showed that older
+individuals aged 45 to 64 years experienced increased odds of mor-
+tality during the 2009 heat wave in Vancouver [22]. Globally, our
+study results are largely consistent with other research exploring cli-
+mate-related mental health impacts. A recent systematic literature
+review identiﬁed 35 studies that suggest signiﬁcant associations
+between heat and various mental health outcomes [23]. Notably,
+there is growing literature describing concepts of ecological anxiety,
+which are used to highlight the increasing prevalence of distress and
+worries about climate change and its effects [24]. Nonetheless, this
+research ﬁeld remains largely underexplored in Canada. Our ﬁndings
+highlight the immediate reality of heat-dome-related anxiety as a
+signiﬁcant public health concern in BC and emphasize the need for
+additional studies that can inform climate change adaptation strate-
+gies that incorporate mental health considerations. Our results can
+be used to complement other national or global studies and inform
+larger, more comprehensive research efforts, such as developing
+mental health monitoring systems to inform relevant decision mak-
+ing and policy development. Including mental health indicators in
+health policy efforts is crucial to avoid potential socioeconomic losses
+caused by climate change-related mental health challenges.
+4.1. Strengths and limitations
+The most signiﬁcant strength of our study was the timeline of the
+data collection as part of our study design (i.e., pre- and post- heat
+Table 2
+Changes in Climate Related Concerns for individuals included in the pre- and post- the 2021 heat dome data collection stages (N = 859).
+Pre-heat dome
+Post- heat dome
+p-value*
+N (%)
+N (%)
+Have you ever been displaced due to a natural disaster or severe changes in your environment? (e.g., ﬂoods, forest ﬁres, drought, loss of agriculture)
+No
+407 (92.7)
+380 (91.1)
+0.468
+Yes
+32 (7.3)
+37 (8.9)
+How likely or unlikely do you think the industry you're working in will be affected by climate change?
+Very unlikely
+115 (26.8)
+87 (21.3)
+0.024
+Somewhat unlikely
+66 (15.4)
+43 (10.5)
+Unsure
+35 (8.2)
+33 (8.1)
+Somewhat likely
+63 (14.7)
+81 (19.8)
+Very likely
+150 (35.0)
+165 (40.3)
+Thinking of where you currently live, how likely or unlikely is it that your region will be devastated due to climate related changes? (e.g., ﬂoods, forest ﬁres, drought,
+loss of agriculture)
+Don't know or unsure
+15 (3.4)
+11 (2.6)
+<0.001
+Somewhat likely
+131 (29.8)
+148 (35.3)
+Somewhat unlikely
+77 (17.5)
+69 (16.5)
+Very unlikely
+139 (31.7)
+66 (15.8)
+Very likely
+77 (17.5)
+125 (29.8)
+In early July, British Columbia experienced a record-breaking heat wave referred to in the media as the "heat dome." Subsequent ﬁres across the province led to ﬁres
+in Lytton, British Columbia and other regions. To what extent were you impacted by the heat wave in early-July?
+I was not impacted at all
+−
+56 (13.4)
+−
+I was impacted only a little
+−
+119 (28.4)
+I was somewhat impacted
+−
+171 (40.8)
+I was impacted to a great extent
+−
+73 (17.4)
+As a result of the heat dome and subsequent ﬁres across the province, are you more or less worried about climate change?
+I am much less worried about climate change
+−
+17 (4.1)
+−
+I am somewhat less worried about climate
+−
+12 (2.9)
+My worry about climate change has not changed
+−
+145 (34.6)
+I am somewhat more worried about climate change
+−
+77 (18.4)
+I am much more worried about climate change
+−
+168 (40.1)
+Climate Change Anxiety Scores
+Overall CCAS Scores (Mean [SD])
+1.66 (0.80)
+1.87 (0.87)
+<0.001
+CCAS Cognitive Subscale Scores (Mean [SD])
+1.65 (0.80)
+1.84 (0.86)
+0.001
+CCAS Functional Subscale Scores (Mean [SD])
+1.68 (0.87)
+1.92 (0.98)
+<0.001
+CCAS Behavioural Engagement Subscale Scores (Mean [SD])
+3.59 (0.83)
+3.60 (0.85)
+0.931
+Abbreviations: CCAS- Climate Change Anxiety Scale; SD- standard deviation.
+* p-values calculated using chi-square and ﬁsher exact.
+Table 3
+Multivariable analysis results showing changes in CCAS scores pre- and post- heat
+dome (primary analysis).
+b*
+SE
+T
+P
+Before or After Heatwave (Ref = Before Heat
+dome)
+After heat dome
+0.057
+0.148
+3.826
+<0.001
+* Estimate. Potential Confounders included in the inverse Gaussian regression model:
+age, gender, ethnicity, education, income, and political orientation.
+A. Bratu, K.G. Card, K. Closson et al.
+The Journal of Climate Change and Health 6 (2022) 100116
+4
+dome). The ﬁrst wave of data collection ended four days prior to the
+start of the heat dome, and the wave 2 data collection commenced
+only two weeks after the heat dome ended. This provided an oppor-
+tunity to collect real-life and real-time data at two relevant time
+points that are highly relevant to the environmental phenomenon of
+interest (i.e., heat dome), therefore adding to the limited evidence
+examining heat-related health outcomes in a quasi-experimental set-
+ting [25]. While the serial cross-sectional methodology allowed us to
+evaluate climate change anxiety levels immediately before and after
+the heat dome, our results can inform studies exploring long-term
+effects of climate-related extreme weather events on mental health.
+Other signiﬁcant strengths include the signiﬁcant statistical power of
+our study, and the novel use of a validated climate anxiety scale to
+generate climate-related insights relevant to BC. While the CCAS
+scale was validated in a US setting, our study provides validity evi-
+dence for the use of the CCAS in a Canadian setting.
+The opportune timing of our data collection increases the ecologi-
+cal validity of the study, while reducing recall bias. Nonetheless, as
+with most self-reported data, there is a possibility that some partici-
+pants’ answers might not accurately reﬂect their behavior or situa-
+tion, therefore increasing response bias. This is particularly relevant
+in the context of our survey due to its focus on mental health and cli-
+mate change, which raises the potential for subjective measurements
+of wellbeing [26], as well as the risk of social desirability bias, previ-
+ously highlighted as a potential concern in environmental psychology
+research [27]. Additionally, the survey was randomly advertised and
+distributed on social media channels—and was not a paid by survey
+platform where the population completing the surveys differs from
+the general population. The use of social media for data collection
+was a cost-effective opportunity to reach an adequate sample size,
+which is consistent with literature highlighting the advantages of
+recruiting study participants via social media [28]. Notably, given
+that we only addressed the occurrence of the 2021 heat wave in BC,
+our results have reduced external validity and should be interpreted
+with caution in wider settings. Moreover, while the random selection
+of participants reduced the risk for sampling bias in our study, our
+survey was only completed by individuals with access to social
+media. Additionally, even though our advertisements included pho-
+tographs of ethnically diverse individuals, the survey largely failed to
+attract participants from diverse backgrounds, and our two samples
+included predominantly white individuals. This limits generalizabil-
+ity of the ﬁndings. Having a predominantly white sample also did not
+allow for an intersectional examination of the data. While our out-
+come measures a comprehensive range of elements related to climate
+change anxiety, future research should explore how climate-related
+events may differentially impact populations at risk of being dispro-
+portionally affected by climate change anxiety, such as Indigenous
+communities [29,30]. As such, integrating considerations relevant to
+social determinants of health is needed to inform inclusive and equi-
+table public health responses. In addition, our study can be used to
+inform more diversity-focused surveys and frames of reference for
+climate change impacts based on social and structural determinants
+of health, and emphasizes the need for further disaggregated data
+and analysis to forward this ﬁeld.
+4.2. Conclusion
+The impacts of climate-related extreme weather events such as
+heat waves are likely to continue to intensify in the following decade.
+Our study results highlight that British Columbians were negatively
+impacted by the 2021 Western North American heat dome (June
+25th, 2021 −July 1st, 2021), which was associated with increased cli-
+mate change anxiety in this region. This draws attention to climate
+change anxiety as an emerging and pressing public health concern
+across the province. As such, our ﬁndings indicate a compelling
+urgency to incorporate mental health indicators into future decision-
+making policies. Our results also indicate a strong need for capacity
+building aiming to increase psychosocial resilience as a crucial com-
+ponent of climate adaptation and mitigation strategies. While our
+study provides valuable insights into the potential threats posed by
+climate change-related extreme weather events, further research is
+urgently needed to explore potential monitoring, surveillance, and
+interventional solutions focused on addressing climate change anxi-
+ety across Canada.
+Funding
+This study was supported by the Canadian Institutes of Health
+Research (CIHR) through PI Dr. Robert Hogg’s CIHR Foundation
+Grant (#143342).
+Author agreement
+All the authors declare that they have seen and approved the ﬁnal
+version of the manuscript being submitted.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+We would like to thank all participants who completed the online
+survey for this project, as well as the collaborators part of the Mental
+Health and Climate Change Alliance for their support and involve-
+ment in the study. We would also like to thank the Michael Smith
+Foundation for Health Research (MSFHR) and CIHR for the additional
+funding supporting two of our co-authors. Dr. Kiffer Card was sup-
+ported by an MSFHR BC Scholar award (SCH-2021-1547). Dr. Maya K.
+Gislason was supported by an MSFHR BC Scholar award (SCH-2020-
+0563). Kalysha Closson was supported by a CIHR Vanier Canadian
+Graduate Scholarship award.
+References
+[1] Strihou, J.V. (2001). Overview of impacts, adaptation, and vulnerability to climate
+change.
+Available
+at:
+https://www.ipcc.ch/site/assets/uploads/2018/03/wg2T
+ARchap1.pdf. n.d.
+[2] IPCC. Climate change 2021: the physical science basis. In: Masson-Delmotte V,
+Zhai P, Pirani A, Connors SL, Pean C, Berger S, Caud N, Chen Y, Goldfarb L,
+Gomis MI, Huang M, Leitzell K, Lonnoy E, Matthews JBR, Maycock TK,
+Waterﬁeld T, Yelek¸ci O, Yu R, Zhou B, editors. Contribution of working group i to
+the sixth assessment report of the intergovernmental panel on climate change.
+Cambridge University Press; 2021. In Press. n.d.
+[3] Luber G, McGeehin M. Climate change and extreme heat events. Am J Prev Med
+2008;35:429–35. doi: 10.1016/j.amepre.2008.08.021.
+[4] Xu Z, FitzGerald G, Guo Y, Jalaludin B, Tong S. Impact of heatwave on mortality
+under different heatwave deﬁnitions: a systematic review and meta-analysis.
+Environ Int 2016;89-90:193–203. doi: 10.1016/j.envint.2016.02.007.
+[5] Cheng J, Xu Z, Bambrick H, Prescott V, Wang N, Zhang Y, et al. Cardiorespiratory
+effects of heatwaves: a systematic review and meta-analysis of global epidemio-
+logical evidence. Environ Res 2019;177:108610. doi: 10.1016/j.envres.2019.
+108610.
+[6] Liss A, Naumova EN. Heatwaves and hospitalizations due to hyperthermia in
+deﬁned climate regions in the conterminous USA. Environ Monit Assess
+2019;191:394. doi: 10.1007/s10661-019-7412-5.
+[7] IPCC, 2014: Climate change 2014: synthesis report. Contribution of working
+group ii to the ﬁfth assessment report of the intergovernmental panel on climate
+change. [Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)]. Geneva, Swit-
+zerland: IPCC; 2014. p. 151.
+[8] Watts N, Adger WN, Agnolucci P, Blackstock J, Byass P, Cai W, et al. Health and cli-
+mate change: policy responses to protect public health. Lancet 2015;386:1861–
+914. doi: 10.1016/S0140-6736(15)60854-6.
+[9] Vos T, Lim SS, Abbafati C, Abbas KM, Abbasi M, Abbasifard M, et al. Global burden
+of 369 diseases and injuries in 204 countries and territories, 1990−2019: a sys-
+tematic
+analysis
+for
+the
+Global
+Burden
+of
+Disease
+Study
+2019.
+Lancet
+2020;396:1204–22. doi: 10.1016/S0140-6736(20)30925-9.
+5
+A. Bratu, K.G. Card, K. Closson et al.
+The Journal of Climate Change and Health 6 (2022) 100116
+[10] Fergusson DM, Horwood LJ, Boden JM, Mulder RT. Impact of a major disaster on
+the mental health of a well-studied cohort. JAMA Psychiatry 2014. doi: 10.1001/
+jamapsychiatry.2014.652.
+[11] Berry HL, Bowen K, Kjellstrom T. Climate change and mental health: a causal
+pathways framework. Int J Public Health 2010. doi: 10.1007/s00038-009-0112-0.
+[12] Barlow DH. Anxiety and its disorders: the nature and treatment of anxiety and
+panic. 2nd ed. New York: Guilford Press. n.d; 2002.
+[13] Clayton S. Climate anxiety: psychological responses to climate change. J Anxiety
+Disord 2020;74:102263. doi: 10.1016/j.janxdis.2020.102263.
+[14] Padhy S, Sarkar S, Panigrahi M, Paul S. Mental health effects of climate change.
+Indian J Occup Environ Med 2015;19:3. doi: 10.4103/0019-5278.156997.
+[15] Martin-Latry K, Goumy M-P, Latry P, Gabinski C, Begaud B, Faure I, et al. Psycho-
+tropic drugs use and risk of heat-related hospitalisation. Eur Psychiatry
+2007;22:335–8. doi: 10.1016/j.eurpsy.2007.03.007.
+[16] Clayton S, Karazsia BT. Development and validation of a measure of climate change
+anxiety. J Environ Psychol 2020;69:101434. doi: 10.1016/j.jenvp.2020.101434.
+[17] Humans Rights Watch, 2021: Canada: Disastrous impact of extreme heat: failure to
+protect older people, People with Disabilities in British Columbia. Available at: https://
+www.hrw.org/news/2021/10/05/canada-disastrous-impact-extreme-heat#n.d.
+[18] National Ocean Service. What is a Heat Dome? 2022 Available at https://ocean-
+service.noaa.gov/facts/heat-dome.html n.d.
+[19] Henderson PhD SB, McLean MPH KE, Lee MSc M, Kosatsky MD, MPH T. Extreme
+heat events are public health emergencies. BCMJ November 2021;63(9):366–7
+Page(s)BCCDC. n.d.
+[20] SurveyMonkey Inc. San mateo, California, USA.: n.d.
+[21] R Core Team. R: a language and environment for statistical computing. Vienna,
+Austria: R Foundation for Statistical Computing; 2021. Available at https://www.
+R-project.org/ n.d.
+[22] Kosatsky T, Henderson SB, Pollock SL. Shifts in mortality during a hot weather
+event in Vancouver, British Columbia: rapid assessment with case-only analysis.
+Am J Public Health 2012;102:2367–71. doi: 10.2105/AJPH.2012.300670.
+[23] Thompson R, Hornigold R, Page L, Waite T. Associations between high ambient
+temperatures and heat waves with mental health outcomes: a systematic review.
+Public Health 2018;161:171–91. doi: 10.1016/j.puhe.2018.06.008.
+[24] Clayton S, Manning C, Krygsman K, Speiser M. Mental health and our changing
+climate: impacts, implications, and guidance. Wash DC: Am Psychol Assoc EcoA-
+merica; 2017.
+[25] Benmarhnia T, Bailey Z, Kaiser D, Auger N, King N, Kaufman JS. A difference-in-
+differences approach to assess the effect of a heat action plan on heat-related
+mortality, and differences in effectiveness according to sex, age, and socioeco-
+nomic status (Montreal, Quebec). Environ Health Perspect 2016;124:1694–9. doi:
+10.1289/EHP203.
+[26] Diener E. Subjective well-being: the science of happiness and a proposal for a
+national index. Am Psychol 2000;55:34–43. doi: 10.1037/0003-066X.55.1.34.
+[27] Vesely S, Kl€ockner CA. Social desirability in environmental psychology research:
+three meta-analyses. Front Psychol 2020;11:1395. doi: 10.3389/fpsyg.2020.
+01395.
+[28] Topolovec-Vranic J, Natarajan K. The use of social media in recruitment for medi-
+cal research studies: a scoping review. J Med Internet Res 2016;18:e286. doi:
+10.2196/jmir.5698.
+[29] Fuentes L, AH Belisle AC, Labra O. Impacts of environmental changes on well-
+being in indigenous communities in Eastern Canada. Int J Environ Res Public
+Health 2020;17:637. doi: 10.3390/ijerph17020637.
+[30] Cunsolo A, Ellis NR. Ecological grief as a mental health response to climate
+change-related loss. Nat Clim Change 2018;8:275–81. doi: 10.1038/s41558-018-
+0092-2.
+6
+A. Bratu, K.G. Card, K. Closson et al.
+The Journal of Climate Change and Health 6 (2022) 100116

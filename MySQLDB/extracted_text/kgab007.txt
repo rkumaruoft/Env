@@ -1,0 +1,1580 @@
+RESEARCH ARTICLE
+Probabilistic projections of future warming and climate
+sensitivity trajectories
+Philip Goodwin
+*
+School of Ocean and Earth Science, University of Southampton, Waterfront Campus, European Way,
+Southampton, SO14 3ZH, UK
+*Correspondence address. School of Ocean and Earth Science, University of Southampton, Waterfront Campus, European Way, Southampton, SO14 3ZH,
+UK. Tel: þ44 (0) 2380 596161; E-mail: P.A.Goodwin@soton.ac.uk
+ABSTRACT
+Projections of future global mean surface warming for a given forcing scenario remain uncertain, largely due to uncertainty
+in the climate sensitivity. The ensemble of Earth system models from the Climate Model Intercomparison Project phase 6
+(CMIP6) represents the dominant tools for projecting future global warming. However, the distribution of climate sensitivi-
+ties within the CMIP6 ensemble is not representative of recent independent probabilistic estimates, and the ensemble con-
+tains signiﬁcant variation in simulated historic surface warming outside agreement with observational datasets. Here, a
+Bayesian approach is used to infer joint probabilistic projections of future surface warming and climate sensitivity for
+shared socio-economic pathway (SSP) scenarios. The projections use an efﬁcient climate model ensemble ﬁltered and
+weighted to encapsulate observational uncertainty in historic warming and ocean heat content anomalies. The probabilistic
+projection of climate sensitivity produces a best estimate of 2.9C, and 5th–95th percentile range of 1.5–4.6C, in line with
+previous estimates using multiple lines of evidence. The joint projection of surface warming over the period 2030–40 has a
+50% or greater probability of exceeding 1.5C above preindustrial for all SSPs considered: 119, 126, 245, 370 and 585. Average
+warming by the period 2050–60 has a >50% chance of exceeding 2C for SSPs 245, 370 and 585. These results imply that
+global warming is no longer likely to remain under 1.5C, even with drastic and immediate mitigation, and highlight the im-
+portance of urgent action to avoid exceeding 2C warming.
+Key words: climate sensitivity; global warming; climate projection; climate feedback; climate change; climate models.
+PROJECTING FUTURE WARMING AND CLIMATE
+FEEDBACK TRAJECTORIES
+Projecting global mean surface warming (DT in K) and either cli-
+mate feedback (k in W m2 K1) or climate sensitivity (S in K)
+responses to anthropogenic forcing scenarios remain key priori-
+ties for climate science [1, 2]. Surface warming since the prein-
+dustrial average at time t, DT tð Þ is related to the time evolutions
+of radiative forcing, R in W m2, the net energy uptake of the
+Earth system, N in W m2, and either k or S via
+k tð ÞDT tð Þ ¼ R tð Þ  N tð Þ ¼
+R2CO2
+SðtÞ
+
+
+DT tð Þ
+(1)
+where, R2CO2 is the radiative forcing for a doubling of atmo-
+spheric CO2; the sign convention chosen has positive k, such
+Submitted: 29 January 2021; Received (in revised form): 2 July 2021. Accepted: 15 July 2021
+V
+C The Author(s) 2021. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+1
+Oxford Open Climate Change, 2021, 1(1): kgab007
+doi: 10.1093/oxfclm/kgab007
+Research Article
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+that k tð ÞDT tð Þ is the additional energy emitted to space due to
+surface warming in W m2; and most (around 93%) of N leads to
+the ocean heat content (OHC) anomaly [1]. This study uses
+warming above the 1850–1900 average to represent warming
+above preindustrial, DT tð Þ [1].
+Some of the terms in the energy (im)balance equation, (1),
+are historically constrained by observational datasets. Historic
+surface warming, DTðthistÞ, is well constrained from observa-
+tional datasets (Fig. 1, black) [3–5] while there is relatively more
+observational uncertainty in historic OHC anomaly, DOHChist
+[6, 7], giving greater uncertainty in the time average of Earth’s
+historic global energy imbalance, NðtÞ [8, 9]. To constrain future
+surface warming for a specified atmospheric composition sce-
+nario, we need to also constrain the radiative forcing from at-
+mospheric composition changes, RðtÞ, and the climate feedback,
+kðtÞ (or equivalently climate sensitivity, S) response and predict
+their future evolution, equation (1).
+However, the historic evolutions of k, S and R have proven
+difficult to constrain from observational datasets [10–14], in
+part, because there is large uncertainty in the magnitude of his-
+toric radiative forcing, R, principally from aerosols [1, 15, 16].
+Any climate model ensemble chosen to generate future DT pro-
+jections must also simulate (explicitly or implicitly) historic and
+future time evolutions of k, S, R and N, equation (1), and historic
+warming and OHC anomalies. Moreover, equation (1) reveals
+that there are multiple historic trajectories that k and R (or S
+and R) can take to reproduce the historic trajectories of DT and
+N consistent with observations.
+The aim here is to produce joint probabilistic projections of
+the future trajectory of global mean warming above preindus-
+trial average, DTfutureðtÞ in K,
+p DTðtfutureÞjDTðthistÞ; DOHCðthistÞ; i
+
+
+(2)
+and the future trajectory of either climate sensitivity, SðtfutureÞ in
+K or climate feedback, kðtfutureÞ,
+p SðtfutureÞ jDTðthistÞ; DOHCðthistÞ; i
+
+
+(3)
+p kðtfutureÞjDTðthistÞ; DOHCðthistÞ; i
+
+
+(4)
+for shared socio-economic pathway (SSP) scenarios [17] given
+information
+from observational
+reconstructions of historic
+surface warming, DTðthistÞ [3], historic OHC, DOHCðthistÞ [6], and
+other background information, i. This background information,
+i, will include prior uncertainty distributions for radiative forc-
+ing from a range of sources including aerosols [1, 15, 16] prior
+distributions for a range of climate model parameters and the
+functional form of a range of parameterizations within an effi-
+cient climate model with a box-model representation of heat
+and carbon fluxes in the atmosphere-ocean system [18–20]. To
+then assess whether the posterior efficient model ensemble is
+able to capture the qualitative response of the Earth system to
+forcing, it will be compared with the normalized responses of
+state-of-the-art Climate Model Intercomparison Project phase 6
+(CMIP6) models to idealized forcing scenarios.
+The primary tools for projecting future DT are process-based
+numerical climate models [21], whose performance can be in
+some way assessed against historic observational datasets
+[3–7]. The dominant climate model variants used to project DT
+by the Intergovernmental Panel of Climate Change (IPCC)
+Assessment Reports [1] are the CMIP ensemble of complex and
+high-resolution global climate and Earth system models [21],
+forced by a range of specified future scenarios [17].
+Climate processes relevant to 21st century surface warm-
+ing and climate feedback projections act over at least 14
+orders of magnitude in their spatial and temporal scales [22];
+e.g. from cloud droplet collisions up to global mean surface
+warming on decadal to century timescales. When projecting
+global mean surface warming to year 2100, computational
+resources limit state-of-the-art CMIP6 Earth system models,
+e.g. [23], to represent a maximum of 6 orders of magnitude
+in time, from a single time-step to a century, and 3 orders of
+magnitude in horizontal space, from grid-scale to global. The
+Figure 1: Eleven-year running mean surface temperature anomaly relative to the preindustrial (1850–1900) average from observations and simulations for a range of fu-
+ture scenarios. The HadCRUT5 observational dataset (black) shows the best estimate 11-year running mean (black line) and is shaded to the 11-year running mean of
+the 2.5th–97.5th percentile range. Complex model simulations (see Appendix A for model selection) show n ¼ 125 individual CMIP6 model simulations for ssp585 (a:
+grey lines). The efﬁcient model simulations show the median (colour lines) and 2.5th–97.5th percentile ranges (colour shading) of the efﬁcient model posterior ensem-
+ble, selected and weighted by an observational ﬁlter
+2
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+‘high-resolution’ Earth system models must therefore contain
+a great many parameterizations of processes acting on unre-
+solved spatial and temporal scales. These parameterizations
+include specifying the functional form of equations and their
+coefficient values.
+Parameterizations of unresolved processes significantly af-
+fect the historic and future trajectories of simulated warming
+and climate feedback, demonstrated by the large variation in
+historic simulations of surface warming from different CMIP
+models (Fig. 1 for CMIP6; see e.g. Ref. [1] for CMIP5), each contain-
+ing a different set of parameterizations. In their relatively high
+spatial and temporal resolution, these state-of-the-art models
+can only run between one and several-tens of simulations each
+due to their high computational cost, resulting in a total ensem-
+ble size for all CMIP6 models of up to a few hundreds of simula-
+tions for a given scenario. Thus, the CMIP climate models are
+unable to perform enough simulations with varied parameter-
+izations to identify all possible combinations of historic path-
+ways of kðtÞ
+and RðtÞ that produce observation-consistent
+historic pathways of DTðtÞ and NðtÞ (equation (1); Fig. 1a).
+Computationally efficient climate models [24] are able to uti-
+lize computational resources to resolve their own plausible
+combinations of parameterizations, through the construction of
+very large model ensembles. However, this parameterization
+resolution occurs at the expense of a much-reduced resolution
+of relevant climate processes. As the relative simplicity of effi-
+cient model representations may not capture the required com-
+plexity of the climate system, the ‘qualitative’ nature of their
+simulated projections may be too simplistic. For example, an ef-
+ficient climate model may use a single climate feedback value
+for all time and for all sources of radiative forcing, when in com-
+plex models (and the real climate system) climate feedbacks
+may vary over time and may respond differently to, say, local-
+ized aerosol forcing than to well-mixed greenhouse gases.
+Efficient climate models are therefore able to perform a quanti-
+tative assessment of uncertainties within their own model
+framework, but the qualitative form of their responses may not
+accurately reflect reality.
+Since no model can resolve all relevant processes, computa-
+tional resources introduce an inherent trade-off between resolv-
+ing relevant climate processes and resolving parameterization
+uncertainty. The greater the complexity and resolution of a cli-
+mate
+model
+the
+less
+possible
+parameterizations
+can
+be
+simulated.
+This study produces joint probabilistic projections of the fu-
+ture trajectories of global mean warming and climate feedback
+using
+an
+efficient
+model
+ensemble.
+Section
+‘Inferring
+Probabilistic Projections from Complex Model Ensembles’ con-
+siders existing methods for inferring future probabilistic projec-
+tions
+from
+complex
+model
+ensembles.
+Section
+‘Inferring
+Probabilistic
+Future
+Projections
+from
+an
+Efficient
+Model
+Ensemble’ presents a novel method for inferring joint probabil-
+istic projections of surface warming and climate feedback from
+an efficient model ensemble. Section ‘Inferred Probabilistic
+Projections of Temperature and Climate Sensitivity’ presents
+the future probabilistic projections generated with Section
+‘Discussion’ discussing the results and wider context.
+INFERRING PROBABILISTIC PROJECTIONS
+FROM COMPLEX MODEL ENSEMBLES
+By far the dominant quantitative projections of global mean
+surface warming in the scientific literature, as used in the
+Intergovernmental
+Panel
+on
+Climate
+Change
+Assessment
+Reports [1], are derived from relatively small ensembles of com-
+plex climate model output. The simplest method to develop
+probabilistic projections of global mean warming and climate
+sensitivity is to use the raw unadjusted CMIP ensemble simula-
+tions. This generation of probabilistic projections of surface
+warming and climate sensitivity, given the (considerable) back-
+ground information that goes into the design and integration of
+the CMIP models, iCMIP, is expressed as follows:
+p DTðtfutureÞjiCMIP
+
+
+(5)
+p SðtfutureÞjiCMIP
+
+
+(6)
+However, such unadjusted model output (e.g. Fig. 1a, grey
+lines for a sample of CMIP6 simulations) may give spurious
+probabilistic inferences, equations (5) and (6). For example, us-
+ing the frequency distribution of climate sensitivity values in
+the CMIP6 ensemble [25] to infer a probabilistic assessment of S
+would give results quite different from independent assess-
+ments using other lines of evidence [1, 2]: over 20% of CMIP6
+models analysed by Zelinka et al. [25] have climate sensitivity
+values >4.7 K, while Sherwood et al. [2] evaluate only a 5% prob-
+ability that climate sensitivity is >4.7 K.
+Also, consider the range of simulated CMP6 values of global
+temperature anomaly above preindustrial for the immediate fu-
+ture when following SSP585. The simulated 11-year running av-
+erage surface warming >1850–1900 in the year 2025 ranges
+from DT ¼ 0.9 to 2.4C in the sample of CMIP6 models in Fig. 1a
+(grey lines). To get to the lower end of these simulated near-
+future warming levels (Fig. 1a, grey) from our observed warming
+to the present day (Fig. 1a, black) would require the recent ob-
+served decadal rate of warming to reverse, just as radiative forc-
+ing is increasing. Meanwhile, to reach the upper end of these
+simulated near-future warming levels would require the recent
+decadal rate of warming (Fig. 1a, black) to suddenly increase by
+a factor of 6. As both of these extremes seem highly improbable,
+generating plausible future projection appears to require more
+information than just the (considerable) information put into
+the CMIP6 ensemble, iCMIP (equations 5 and 6).
+To account for any error in simulated historic warming, or
+bias in climate sensitivity, in CMIP ensemble members (Fig. 1a,
+grey and black), a method often applied in the literature is to
+use observations of historic surface warming to inform how the
+raw CMIP output should be interpreted in a probabilistic sense
+[1,
+26–31]:
+For
+temperature
+projections,
+this
+observation
+adjustment is expressed as a probability of future temperature
+anomaly given both historic observed temperature anomaly
+and the background information that goes into the CMIP
+ensemble.
+p DTðtfutureÞjDTðthistÞ; iCMIP
+
+
+(7)
+For climate sensitivity, one may use an emergent constraint
+based on the historic temperature record to produce a probabil-
+ity estimate for climate sensitivity given historic temperature
+records and background information in the CMIP ensemble [27].
+p SðtfutureÞjDTðthistÞ; iCMIP
+
+
+(8)
+The technique for projecting future warming above prein-
+dustrial, DTðtfutureÞ, adopted in IPCC AR5 [1] was simply to add
+historic observed warming up to the present time t0, DTobsðt0Þ,
+to the additional simulated warming in the future relative to
+Goodwin
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+simulated historic warming to the present day in the CMIP5
+models,
+DTsim tfuture
+ð
+Þ  DTsim t0
+ð
+Þ
+[1,
+Table
+12.3
+therein]:
+DTðtfutureÞ ¼ DTobsðt0Þ þ DTsim tfuture
+ð
+Þ  DTsim t0
+ð Þ
+
+.
+One
+issue
+with this approach is that simulations are used to support a re-
+gion of probability space for a different level of warming,
+DTðtfutureÞ,
+than
+the
+level
+of
+warming
+they
+simulate,
+DTsim tfuture
+ð
+Þ, equation (7). For example, applied to the CMIP6 en-
+semble in Fig. 1a, one ensemble member that simulates mean
+warming during 2020–30 of 2.32C above preindustrial would be
+used to support the probability of warming being only 1.56C
+over that period. Meanwhile, another ensemble member that
+simulates warming of 1.05C during 2020–30 (Fig. 1a, grey)
+would be used to support the probability that warming will be
+1.38C above preindustrial.
+Other, more sophisticated, statistical techniques have been
+proposed for making quantitative projections of observable
+properties such as warming and/or climate feedback (or climate
+sensitivity) using the CMIP model output and observational
+records (equations (7) and (8)), such as the application of emer-
+gent constraints [26–29, 32] and observational adjustments and
+weightings [30, 31]. Emergent constraints are used to analyse an
+ensemble of numerical climate simulations, where some func-
+tional relationship is thought or known to exist within the
+model ensemble between one observable property of the cli-
+mate system and the observable property for which projection
+is desired [26, 28].
+INFERRING PROBABILISTIC FUTURE
+PROJECTIONS FROM AN EFFICIENT MODEL
+ENSEMBLE
+Efficient climate models are specifically designed to allow the
+generation of large ensemble simulations, through reduced res-
+olution of relevant climate processes in space and time.
+Examples of models designed and configured in this way are
+found
+in the Reduced
+Complexity Model Intercomparison
+Project (RCMIP, [24]).
+For the complex model ensembles, the prior expectation for
+different quantities (such as climate feedback or climate sensi-
+tivity) is hidden within the background information put into the
+development of each of the models, iCMIP in equations (5)–(8).
+However, the individual model teams do not systematically
+vary the information put into each model such that the ensem-
+ble produces a distribution of each property (e.g. climate sensi-
+tivity) equal to some agreed prior belief. Instead, each model is
+developed independently according to the best estimates of the
+different model teams. As such, the complex model ensemble
+may under-sample the less likely values of climate system
+properties, since no model-team’s best estimate is to build a
+model with those properties.
+This study uses the Warming Acidification and Sea level
+Projector (WASP) [18, 19]: a box-model representation of heat and
+carbon fluxes across the atmosphere-ocean system and carbon
+fluxes between the atmosphere and terrestrial systems. Here, only
+the atmosphere-ocean components of the WASP model [18–20]
+are used. This consists of a well-mixed atmosphere box connected
+to a well-mixed surface ocean box, itself connected to four sub-
+surface ocean boxes representing the upper ventilated region of
+the ocean, the intermediate water region, the deep ocean water re-
+gion and the bottom water ocean region.
+WASP version 3 [19], with time-evolving climate feedbacks,
+is adopted and configured after Goodwin and Cael [20] with cli-
+mate feedback split into three components: the instantaneous
+(Planck) feedback, kP, fast feedbacks (operating on the timescale
+of water vapour residence in the atmosphere), kf, and multide-
+cadal feedbacks (operating on timescales representing the sea-
+surface
+temperature
+warming
+pattern
+adjustment),
+kmd
+(Appendix B).
+Here, the WASP model is utilized to generate a Monte Carlo
+prior ensemble of 2:4  107 efficient model simulations, with 25
+model parameters varied independently between ensemble
+members (e.g. Fig. 2) and each ensemble member having a
+unique randomly imposed energy imbalance using autoregres-
+sion AR1 noise to approximate the monthly and yearly observed
+noise from Ref. [8]. The computational efficiency of WASP
+allows all of these 2:4  107 to be integrated from preindustrial
+to the present day in 100 h on a single Linux cluster node using
+dual 2.0 GHz Intel Skylake processors. The prior simulations are
+assessed against historical observations (Table 1) and a poste-
+rior ensemble of 13 340 simulations is extracted and weighted.
+It then takes 5 min on a standard desktop or laptop computer
+to integrate the 13 340 members of the posterior ensemble from
+preindustrial to year 2300 for a given SSP scenario. When histor-
+ical output from a complex model ensemble (CMIP5) was used
+to extract the posterior ensemble in WASP [18, 35], the posterior
+future projection ranges agreed with the complex model en-
+semble for mitigated and unmitigated scenarios, both for future
+surface warming [18, 35] and future ocean heat uptake [35]. This
+provides confidence in the future WASP projections when
+observations are used to extract the posterior ensemble.
+The 25 varied parameters include climate feedback magni-
+tudes and timescales for the instantaneous Planck, fast and
+multidecadal climate feedbacks (Fig. 2), the radiative forcing
+sensitivity to atmospheric composition for different forcing
+agents including aerosols (Fig. 2b), and ocean ventilation time-
+scales for different ocean regions. A full list of parameters var-
+ied is found in Goodwin and Cael [20]. The prior distributions for
+the magnitude of climate feedback terms are updated here,
+with prior distributions for all other terms as described in
+Goodwin and Cael [20].
+New prior distributions of climate feedback parameters
+The prior model ensemble must contain some prior distribu-
+tions for climate feedback parameters. The prior distributions
+for climate feedback and climate sensitivity considered by a re-
+cent review by Sherwood et al. [2] assumed either uniform cli-
+mate feedback (k, W m2 K1) or uniform climate sensitivity (S,
+K). The difference between these two prior distributions makes
+a significant difference to the upper percentiles of the posterior
+distribution of climate sensitivity: the 95th percentile of climate
+sensitivity, S, is 1 K higher for a uniform-S prior than for a uni-
+form-k prior [2]. Both uniform-S and uniform-k priors imply
+regions with infinite prior probability: a uniform-S prior implies
+that the probability of k goes to infinity as k goes to 0, while a
+uniform-k prior implies that the probability of S goes to infinity
+as S goes to 0. To avoid these infinities, the priors are made dis-
+continuous [2].
+Here, new prior distributions for climate feedback parame-
+ters are presented and adopted, based on five conditions to pre-
+vent both infinities and discontinuities in prior probability. The
+4
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+following conditions on the prior distributions of climate feed-
+back and climate sensitivity are imposed over all timescales:
+• Condition 1: The climate feedback and climate sensitivity each
+can take any positive value, k 2 ð0; þ1Þ and S 2 ð0; þ1Þ, with
+both having continuous probability distributions.
+• Condition 2: The probability of k tends to zero as k tends to zero,
+p k
+ð Þ ! 0 as k ! 0, since the system’s radiation balance must re-
+spond to surface temperature perturbations.
+• Condition 3: The probability of k tends to zero as k tends to inﬁn-
+ity, p k
+ð Þ ! 0 as k ! 1, since the system’s radiation balance and
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+P
+-3
+-2
+-1
+0
+1
+Raero in 2011 (Wm-2)
+-
+P
+0
+P
+2
+P
+3
+P
+4
+P
+5
+P
+f
+normalised frequency
+-(
+P+
+f )
+0
+( P+
+f )
+2( P+
+f ) 3( P+
+f ) 4( P+
+f ) 5( P+
+f )
+md
+-5
+0
+5
+10
+f (Wm-2K-1)
+-10
+-5
+0
+5
+10
+md (Wm-2K-1)
+0
+2
+4
+6
+8
+10
+equil (Wm-2K-1)
+0
+5
+10
+15
+S (K)
+Equilibrium climate sensitivity
+Multidecadal feedback
+Planck feedback
+Aerosol radiative forcing
+Normalised multidecadal feedback
+Normalised fast feedback
+Fast feedback
+Total equilibrium feedback
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+Figure 2: Probability and frequency density distributions for a selection of prior and posterior model properties. Shown are the assumed probability distributions for cli-
+mate feedback terms (orange lines: a, c and d), frequency density distributions in the prior ensemble (black dotted lines) and weighted frequency density distributions
+in the posterior ensemble (red lines). Solid orange lines show the assumed lognormal probability distributions of climate feedback terms (a, c and d)
+Table 1: Table of observational constraints for global mean surface temperature, DT, and global mean sea surface temperature, DSST, used in
+the observational ﬁlter from the example efﬁcient model ensemble
+Historic observational constraint
+Observational estimate used in cost function,
+median (2.5th–97.5th percentile)
+Weighted distribution in posterior ensemble,
+median (2.5th–97.5th percentile)
+DT for 2008–18 relative to 1850–99
+0.973 (0.825–1.121) K
+1.026 (0.880–1.121) K
+DT for 2008–18 relative to 1900–19
+1.042 (0.908–1.176) K
+0.961 (0.880–1.052) K
+DT for 2008–18 relative to 1920–39
+0.820 (0.698–0.942) K
+0.804 (0.726–0.878) K
+DT for 2008–18 relative to 1940–59
+0.666 (0.538–0.794) K
+0.665 (0.576–0.744) K
+DT for 2008–18 relative to 1960–79
+0.706 (0.652–0.760) K
+0.695 (0.646–0.743) K
+DT for 2008–18 relative to 1980–99
+0.374 (0.323–0.420) K
+0.400 (0.357–0.441) K
+DSST for 1961–90 relative to 1850–99
+0.281 (0.071–0.491) K
+0.365 (0.212–0.499) K
+DOHC, in the upper 700 m of the ocean, for
+1960–69 relative to 2006–15
+177.8 (150.2–205.4) ZJ
+175.5 (152.8–198.3) ZJ
+DOHC, from 700 to 2000 m depth, for 1960–69
+relative to 2006–15
+75.6 (51.0–100.2) ZJ
+86.7 (68.0–108.3) ZJ
+DOHC for the whole ocean, for 2016 relative
+to 1960
+360 (290–430) ZJ
+323 (280–365) ZJ
+Whole ocean carbon content increase, from
+1982 to the start of 2018
+71.2 (22.6–119.8) PgC
+70.4 (59.6–84.9) PgC
+These observational constraints are based on: the HadCRUT5 for DT; the HadSST4 dataset for DSST [33]; the Cheng et al. [6] dataset for DOHC; and the Global Carbon
+Budget [34] for ocean carbon uptake. The likelihood of a simulation being consistent with each constraint is equal to the position of the simulated observable on the
+normal probability distribution.
+Goodwin
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+heat content responses to surface temperature perturbations
+must be ﬁnite.
+• Condition 4: The probability of S tends to zero as S tends to zero,
+p S
+ð Þ ! 0 as S ! 0, since the system’s global mean temperature
+must respond to a sustained perturbation of the radiation balance.
+• Condition 5: The probability of S tends to zero as S tends to inﬁn-
+ity, p S
+ð Þ ! 0 as S ! 1, since the system’s surface temperature
+responds in a ﬁnite way to perturbations in radiation balance.
+Uniform-S and uniform-k priors (e.g. considered in Ref. [2])
+each break at least three of the five conditions imposed here.
+Goodwin and Cael [20] defined three priors in terms of climate
+feedback terms acting on instantaneous (Planck), multiday
+(fast) and multidecadal timescales. They adopted a normal dis-
+tribution for the instantaneous Planck climate feedback, and
+uniform distributions for fast and multidecadal climate feed-
+backs. Again, these prior distributions employed in the WASP
+model in Ref. [20] break at least three of the five conditions
+adopted here.
+Here, lognormal-based distributions (Appendix C; Fig. 2) for
+Planck feedback, kP (Fig. 2a), fast feedback, kf (Fig. 2b and e), and
+multidecadal climate feedback, kmd (Appendix C: Fig. 2d and f),
+are chosen as being able to satisfy the above conditions 1–5; be-
+ing defined only for positive values of total climate feedback
+and with probability distributions tending to zero as the total
+climate feedback value tends to both zero and infinity on all
+timescales.
+The resulting prior distribution for equilibrium climate feed-
+back, kequil ¼ kP þ kf þ kmd, has a median value of 3.3 W m2 K1,
+a 66% (17th–83rd percentile) range of 1 to 9.4 W m2 K1 and a 95%
+(2.5th–97.5 percentile) range of 0.38–42 W m2 K1 (Fig. 2g). The
+equilibrium climate sensitivity, Sequil ¼ aCO2ln2=kequil, then has a
+prior distribution with median 1.1 K, 66% range 0.37–3.6 K and 95%
+range 0.07–9.6 K (Fig. 2h). The prior distributions used here are less
+heavily weighted to high climate sensitivity values than a uniform
+S prior, and less heavily weighted to low climate sensitivity values
+than a uniform k prior, and so represent a compromise between
+the uniform-S and uniform-k priors considered by Ref. [2].
+The distributions of all other model parameters in the WASP
+model are set to the distributions used in Ref. [20]. For example,
+the prior distribution of radiative forcing from aerosols in 2011
+varies with a skew-normal distribution, with a 95% range from
+–1.7 to –0.1 W m2 (Fig. 2b) reflecting uncertainty in direct and
+indirect aerosol forcing [1].
+Selecting and weighting the posterior ensemble
+Each of the prior ensemble members is integrated from prein-
+dustrial to the present day. A cost function is calculated by com-
+paring
+a
+set
+of
+11
+simulated
+observable
+quantities
+to
+reconstructions from historical observations (Table 1). For each
+historical constraint, the probability of the simulated value be-
+ing consistent with the observations, pðobsÞ, is calculated as-
+suming Gaussian uncertainty: pðobsÞ / e lx
+ð
+Þ2=2r2, where l is
+the observational best estimate; r is the observational standard
+deviation; and x is the simulated value of the observable. Note
+that Table 1 gives the median and 95% ranges for the 11 histori-
+cal constraints, corresponding to l, l þ 2r and l  2r. The over-
+all cost function for the ensemble member is then the product
+of each simulation’s probability of being consistent with the 11
+historical constraints,
+costfunction ¼
+Y
+11
+k¼1
+e
+ lkxk
+ð
+Þ2
+2r2
+k
+(9)
+Note that all 11 historical constraints are applied simulta-
+neously in the cost function (9) so that the filter does not find
+parameter value combinations corresponding to a local opti-
+mum for one historical constraint if that produces very low
+probability for other constraints [36].
+Here, a new method used to extract and weight a posterior
+ensemble, replacing the method used in Ref. [20]. This new
+method requires fewer prior ensemble members to be gener-
+ated, and so improves computational efficiency.
+Each prior ensemble member’s cost function is calculated
+(equation (9)). If the cost function is larger than a chosen auto-
+matic acceptance limit, then the ensemble member is accepted
+into the posterior ensemble and weighted by the ratio of the
+cost function to the automatic acceptance limit. If the cost func-
+tion is lower than the automatic acceptance limit, then the en-
+semble member is accepted or rejected into the posterior
+ensemble as follows. First, the value of the cost function is com-
+pared to a number drawn from a random distribution between 0
+and the automatic acceptance limit. If the cost function is
+greater than the random number, the simulation is accepted
+with a weighting of 1. If the cost function is less than the ran-
+dom number, the simulation is rejected.
+Using this method, all simulations whose cost functions
+(equation (9)) are x times larger than the automatic acceptance
+limit are accepted into the posterior ensemble, and assigned a
+relative probabilistic weighting of x. Simulations whose cost
+functions are y times smaller than the automatic acceptance
+limit are ‘not’ all accepted into the posterior with a probabilistic
+weighting of 1/y. Instead, they are represented in the posterior
+by every yth simulation (randomly chosen from those whose
+cost function is y times smaller than the automatic acceptance
+limit), with a relative weighting of 1.
+The automatic acceptance limit is set to give a balance be-
+tween computational load and data storage requirements:
+larger values require more prior simulations to be conducted to
+generate a sufficient number of posterior ensemble members,
+while smaller values require more data storage for annual out-
+puts of simulations that have very low relative weighting. Here,
+an automatic acceptance limit of 1  106 is set for the cost
+function, giving 13 340 posterior simulations from a prior en-
+semble size of 2:4  107. This leads to manageably sized data-
+sets (order 30 MB for annual output per scenario per simulated
+property, e.g. DT, k, S) being produced from a manageable com-
+putational load (100 CPU h for the prior ensemble, and 5 CPU
+min for subsequent scenarios with the posterior).
+The method of posterior ensemble extraction and weighting,
+from a prior ensemble using a cost function (equation 9;
+Table 1), has similarities to climate model tuning [36], especially
+Bayesian Uncertainty Quantification methods. However, here
+the climate model parameters are not being ‘tuned’ to extract
+some optimum parameter combination that is to be used for fu-
+ture numerical experiments. Instead, a large probabilistic poste-
+rior distribution of parameter value combinations (Fig. 2) are all
+integrated to generate joint probabilistic projections of future
+observables (Figs 1–4).
+Comparison of the posterior ensemble against complex
+models
+For idealized forcing scenarios, the qualitative responses of
+global surface temperature anomaly, DT, and heat imbalance, N,
+are now explored in complex models and the efficient model
+ensemble, equation (1). We are not considering the magnitude
+of the warming and heating responses, but the qualitative form
+6
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+of their time evolutions in CO2 only forcing scenarios. Figure 5
+shows
+the
+normalized
+warming
+and
+normalized
+heating
+responses for the efficient model ensemble (Fig. 5, blue lines
+and shading) and samples of complex model simulations from
+the CMIP6 ensemble (Fig. 5, grey lines) for sudden quadrupling
+of CO2 (4  CO2) and sustained 1% per year increase in CO2
+(1pctCO2) scenarios. The warming is normalized relative to
+years 95–105 in each simulation for both scenarios (Fig. 5a and
+c), while the heating is normalized relative to years 95–105 in
+the 1pctCO2 scenario (Fig. 5b) and year 1 following CO2 quadru-
+pling in the 4  CO2 scenario (Fig. 5d).
+The majority of complex model simulations lie within the
+spread of normalized warming and heating behaviours exhib-
+ited by the efficient model ensemble (Fig. 5, compare grey lines
+to blue lines and shaded areas). For the 1pctCO2 scenario, only a
+single complex model (grey dotted line in Fig 5a and b: NASA
+Figure 3: Projected global climate feedback, k (W m2 K1) and climate sensitivity, S (K), over time. Shown are the ensemble ranges for SSP585 future forcing (blue, solid
+line is median, dark shading and dashed lines 17th–83rd percentile range, and light shading and dotted lines 2.5th–97.5th percentile range) and SSP119 future forcing
+(red lines, solid line is median, dotted and dashed lines are percentile ranges). Values calculated using 11-year average for the values of R, N and DT, eq. (1)
+Figure 4: Cumulative probability distributions of global surface warming above the 1850–1900 period for SSP scenarios. Colours indicate 11-year average time periods
+from 2020–30 to 2090–2100. Dotted lines indicate the time-period has >50% likelihood of warming being <1.5 K target; dashed lines indicate >50% likelihood that sur-
+face warming <2.0K target; and solid lines indicate >50% likelihood of warming exceeding the 2.0 K target. Black dot-dashed line indicates the 2.0K target, and grey
+dot-dashed line indicates the 1.5 K target
+Goodwin
+|
+7
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+GISS-E2-1-G) shows qualitative behaviour significantly outside
+the variation found within the efficient model ensemble for sur-
+face warming: the warming gradient is significantly larger in
+the first half of the simulation than the second half; behaviour
+that is not reproduced within the efficient model ensemble.
+The responses of the efficient model ensemble are qualita-
+tively similar to complex climate models for idealized CO2-only
+forcing scenarios (Fig. 5), and quantitatively similar to observa-
+tions in the historic period (Fig. 1a, compare blue to black:
+Table 1), providing confidence in using the efficient model en-
+semble for making quantitative projections of future global
+mean surface warming (Fig. 1) and climate feedback (Fig. 3).
+INFERRED PROBABILISTIC PROJECTIONS OF
+TEMPERATURE AND CLIMATE SENSITIVITY
+The joint probabilistic projections of climate sensitivity (equa-
+tion (3)), climate feedback (equation 4) and surface warming
+above preindustrial (equation (2)) from the observation-filtered
+posterior model ensemble are now presented. The probabilistic
+projections are inferred from the weighted frequency distribu-
+tions within the posterior ensemble, and represent the probabil-
+ities given prior information, i and observational constraints
+(Table 1: DTðthistÞ; DOHCðthistÞ).
+Projections of climate feedback and climate sensitivity
+The posterior distribution of Planck feedback is similar to the
+assumed prior (Fig. 2a). The radiative forcing from aerosols has
+a narrower posterior distribution than the prior (Fig. 2b), with
+the observational filter rejecting prior ensemble members with
+the most strongly negative aerosol forcing.
+The prior distributions of kf
+and kmd both contain equal
+amounts of amplifying (k < 0) and damping (k > 0) ensemble
+members (Fig. 2c–f), equations (C1)–(C4). However, the posterior
+distributions show amplifying fast feedback (Fig. 2c and e, red),
+with a large peak of weaker amplifying values and a smaller peak
+of strongly amplifying values. These two peaks correspond to a
+larger peak of amplifying multidecadal feedback (Fig. 2d and f, red,
+k < 0) and a smaller peak of damping multidecadal feedback
+(Fig. 2d and f, red, k > 0). This gives rise to a posterior distribution
+of equilibrium climate feedback, kequil ¼ kP þ kf þ kmd, with a large
+peak at 0.9 W m2 K1 (weaker amplifying fast feedback and am-
+plifying multidecadal feedback) and a smaller peak at 2.1 W m2
+K1 (stronger amplifying fast feedback and damping multidecadal
+feedback).
+These posterior climate feedback distributions produce a
+posterior equilibrium climate sensitivity distribution with best
+estimate (median) value of Sequil ¼ 2:9 K; a 66% range of 1.7 to
+4.1 K and a 95% range of 1.4–5.0 K (Fig. 2h). Equilibrium climate
+sensitivity is often quoted at 90% confidence [1], for which the
+range is 1.5–4.6 K (5th–95th percentile). Note that both kequil and
+Sequil probability distributions here allow feedbacks on multide-
+cadal and shorter timescales to equilibrate fully to an imposed
+forcing, but ignore the impact of feedbacks that occur on time-
+scales longer than multidecadal [12, 37, 38].
+Now consider how future climate feedback and sensitivity
+are projected to evolve over time in response to the two extreme
+Figure 5: The normalized warming and heating responses in complex and efﬁcient model simulations for the 1pctCO2 and abrupt 4  CO2 idealized forcing scenarios.
+For both scenarios the normalized global mean surface warming (DT) and net downward top of atmosphere heating (N) responses show that the qualitative behaviour
+of the majority of complex model simulations (solid grey lines) are encapsulated within the efﬁcient model ensemble (blue line is ensemble median, dark and light
+blue shaded areas cover 17th–83rd and 2.5th–97.5th percentile ranges, respectively). For the 1pctCO2 scenario, a single complex model is shown as a grey dotted line
+(panels a and b: NASA GISS-E2-1-G). The normalized heating is the net downward heat ﬂux at the top of the atmosphere (N in W m2) and the normalized warming is
+the global mean surface temperature (DT in K). All values of warming and heating in (a–c) are normalized relative to the average values during years 95–105 of the simu-
+lations. In (d) the net downward heating is normalized relative to the heating in year 1 following CO2 increase
+8
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+SSP scenarios used: SSP585 and SSP119 (Fig. 3). For SSP585,
+where the system is continually warming in response to in-
+creasing radiative forcing (Fig. 1a), future climate feedback and
+climate sensitivity are projected to stay close to their present-
+day uncertainty ranges (Fig. 3, blue), as the radiative forcing
+increases too quickly for the multidecadal feedbacks to equili-
+brate. For SSP119, where the rate of warming ceases as radiative
+forcing is strongly mitigated (Fig. 1c, red) the uncertainty in cli-
+mate feedback and climate sensitivity increases going into the
+future as multidecadal feedbacks begin to equilibrate, with the
+median and uncertainty ranges approaching their equilibrium
+values towards year 2150 (Fig. 3, red, compare to Fig. 2g and h,
+red).
+By mid-21st century (2040–50 average) surface warming
+above preindustrial is projected to reach: 1.9 (1.7–2.2) K under
+SSP585 [median (2.5th–97.5th percentiles)]; 1.8 (1.7–2.1) K under
+SSP370; 1.8 (1.6–2.1) K under SSP245; 1.7 (1.4–2.0) K under
+SSP126; and 1.7 (1.3 to 2.0) K under SSP119. Towards the end of
+the 21st century (2090–2100 average) surface warming reaches:
+4.0 (3.3–4.8) K under SSP585; 3.5 (2.9–4.1) K under SSP370; 2.7
+(2.0–3.5) K under SSP245; 2.0 (1.3–2.7) K under SSP126; and 1.7
+(1.0–2.3) K under SSP119 (Figs 1 and 4).
+The median projections of average surface warming above
+preindustrial (1850–1900 average) reach or exceed 1.5 K average
+warming during the period 2030–40 (Figs 1 and 4) for all SSP sce-
+narios considered (Figs 1 and 4), and remain above 1.5 K for the
+rest of the 21st century. Only the SSP119 and SSP126 scenarios,
+each containing significant and rapid mitigation, have median
+projections that remain at or below the Paris Accord’s 2.0 K tar-
+get [39] over the 21st century (Figs 1 and 4).
+DISCUSSION
+Consider how the probabilistic projections presented here,
+equations (2)–(4), compare to projections inferred from raw
+complex model ensemble output, equations (5) and (6), and
+complex model ensemble output that has been adjusted or
+weighted by comparison to historical data, equations (7) and (8).
+There is (considerably) more background information about
+the climate and Earth system put into the CMIP6 models, iCMIP
+(equations (5)–(8)), than into the efficient WASP box model, i
+(equations (2)–(4)). A key question is then: Does the relative lack
+of climate information in the efficient WASP model ensemble
+impair the projections from capturing the qualitative global
+warming and heating responses of the climate system to radia-
+tive forcing, (equation 1), relative to the more complex CMIP6
+models? Previous studies have found that when the WASP
+model is trained against historic simulated warming and heat
+uptake ranges from a complex model ensemble, the future
+projection-ranges from WASP are in good agreement with those
+from the complex model ensemble [18, 35]. Here, this question
+is explored by comparing the normalized warming and heating
+responses of the posterior model ensemble to a sample of
+CMIP6 models for two idealized forcing scenarios (Fig. 5).
+The posterior weighted WASP model ensemble is able to rea-
+sonably capture the qualitative global mean surface warming,
+DT, and heating, N, responses of the much more complex CMIP6
+models for idealized scenarios with 1% per year CO2 increase
+and instantaneous 4  CO2 forcing (Fig. 5, compare blue shading
+to grey lines; equation (1)). This ability to reasonably capture the
+qualitative global average responses of complex climate models
+to idealized forcing scenarios provides confidence in using the
+efficient WASP model posterior ensemble for future projections.
+Future
+work
+will
+explore
+how
+to
+further
+improve
+a
+computationally efficient model ensemble’s ability to capture
+the qualitative global warming and heating responses of com-
+plex models to forcing (Fig. 5). It should be noted that the WASP
+model framework [19] cannot currently simulate non-linear
+transitions in the climate system, and so the future projections
+(Figs 1–4) assume that no such transitions occur. It may be that
+complex models also underestimate the likelihood of future
+instabilities [40].
+Now, consider the ability of the posterior WASP ensemble
+and complex CMIP6 models to quantitatively capture the histori-
+cally observed trajectories of DT and N (equation 1; e.g. Table 1).
+The posterior model ensemble is more quantitatively represen-
+tative of the observed historic global warming (Fig. 1, compare
+blue to black; Table 1) than the complex CMIP6 ensemble (Fig. 1,
+compare grey to black). The posterior WASP ensemble is also
+representative of the historic trajectory of N, as assessed by com-
+parison of OHC anomaly (Table 1). Individual CMIP6 models may
+agree well with historic surface warming (Fig. 1a). However, the
+CMIP6 ensemble does not contain enough simulations that agree
+well to sample all the possible ways that R and k could have
+evolved to reproduce the observed trajectories of DT and N,
+equation (1). Also, each CMIP model represents the best estimate
+of the model developers, and there is not a coordinated effort to
+sample parameter space across the different models.
+In contrast, the prior ensemble generated here samples tens
+of millions of possible historic R and k trajectory combinations
+(Fig. 2, black dashed lines) using a Monte Carlo approach with
+some assumed prior information (e.g. equations (C1)–(C4)).
+From these prior ensemble members, those that lead to historic
+DT and N representative of observed warming and heat content
+anomalies are extracted and weighted to form the posterior
+(Figs 1a and 2, red; Fig. 3; Table 1).
+The 90% range in equilibrium climate sensitivity in the joint
+probability distribution generated here (1.5–4.6 K) is similar to
+the ‘likely’ range in Ref. [1] of 1.5–4.5 K. The 50th, 83rd and 95th
+percentiles obtained here for Sequil, of 2.9, 4.1 and 4.6 K, are simi-
+lar to the baseline calculations in the recent Sherwood et al.’s re-
+view [2], of 3.1, 3.9 and 4.7 K, respectively. However, the 5th and
+17th percentiles obtained here for Sequil, of 1.5 and 1.7 K, are less
+than the Sherwood et al. [2] values, of 2.3 and 2.6 K, respectively,
+and more in keeping with the earlier IPCC assessment [1]. This
+agreement with the posterior probabilistic projection of equilib-
+rium climate sensitivity (Fig. 2h) to previous analyses [1, 2] pro-
+vides confidence with the joint probabilistic projections of
+surface warming and climate feedback presented here (Figs 1, 3
+and 4).
+The agreement with observational estimates of warming
+and independent estimates of climate sensitivity support that
+the probabilistic projections presented here (Figs 1–4; equations
+(2)–(4)) should be preferred to any projections inferred directly
+from the raw CMIP6 output, without making any correction for
+CMIP6 ensemble’s bias in historical simulation relative to obser-
+vational reconstructions, equations (5) and (6) (Fig. 1a, grey), or
+bias in climate sensitivity distribution relative to independent
+assessments [2, 25].
+The projections of climate sensitivity and surface warming
+produced here should be considered complementary to projec-
+tions made by weighting or adjusting the raw CMIP6 output us-
+ing real world data (equations (7) and (8); [27, 30]), because the
+approaches contain different sources of error. CMIP6 contains
+more process-based constraints within background informa-
+tion, whereas the projections presented here contain explicit in-
+formation
+from
+observational
+reconstructions
+of
+global
+temperature and heat content anomalies (Table 1).
+Goodwin
+|
+9
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+A key difference is that here, observational reconstructions of
+surface warming and OHC anomaly are used in the extraction of
+the posterior model ensemble. This means that an ensemble mem-
+ber is always and only used to support the probability of surface
+warming above preindustrial, or climate sensitivity, being equal to
+the value the ensemble member simulates. In contrast, observa-
+tional information is used to infer probabilistic projections from the
+CMIP ensembles [1, 27, 30] after they has been generated. This
+means that the CMIP models are used to infer projections of surface
+warming above preindustrial and/or climate sensitivity that are dif-
+ferent from the values simulated by those models [1, 27].
+Now consider the wider implications of the projections pro-
+duced here (Figs 1–4). The posterior distributions find double-
+peaks in fast and multidecadal climate feedback strengths
+(Fig. 2). The question arises, how can we distinguish between
+these double-peaks to further constrain the system and reduce
+uncertainty in future projections? The larger of the two peaks
+have total feedback strength that becomes more amplifying
+from timescales of days to timescales of decades, with weaker
+amplifying fast feedbacks (Fig. 2c) and amplifying multidecadal
+feedbacks (Fig. 2d). These larger peaks are consistent with two
+previous findings from the literature. First, it has been found
+that the short-timescale cooling from volcanic aerosols may be
+smaller than expected relative to the decadal trend in warming
+from greenhouse emissions [41]. Secondly, a majority of com-
+plex models tested show increasing amplifying feedbacks on
+multidecadal timescales from the sea surface temperature pat-
+tern effect [42]. Future work will consider how to rigorously
+combine the distributions identified here (Fig. 2) with other lines
+of evidence from the literature [41, 42] to help reduce uncer-
+tainty in future warming and climate sensitivity.
+The globally agreed Paris Climate Accord aims to restrict
+global mean surface warming to <2.0 K warning above prein-
+dustrial, and preferably <1.5 K above preindustrial [39]. The
+results of this study indicate that the current decade may be the
+last
+with
+average
+temperature
+anomaly
+below
+the
+Paris
+Accord’s 1.5 K target [39], even with rapid and significant miti-
+gation implemented as in scenarios SSP119 or SSP126. The pri-
+ority now is mitigating enough to remain under the 2.0 K target,
+with an almost 50% chance of 11-year average warming exceed-
+ing 2.0 K this century under SSP126 and a very high likelihood
+(>95%) of exceeding 2.0 K under SSP245.
+ACKNOWLEDGEMENTS
+P.G. acknowledges support from United Kingdom Research
+and Innovation Natural Environment Research Council
+(UKRI NERC) grant NE/T010657/1 and the University of
+Southampton IRIDIS4 high performance computing cluster,
+on which the efﬁcient model simulation was performed.
+The author thanks the groups providing CMIP6 model out-
+put used in this study (Table A1) made available via the
+World Climate Research Programme.
+DATA AND CODE AVAILABILITY
+CMIP6 model data are available for download through the
+World Climate Research Programme (WCRP) at: https://esgf-
+node.llnl.gov/projects/cmip6/.
+The HadCRUT5 temperature reconstruction dataset is avail-
+able for download at: https://www.metoffice.gov.uk/hadobs/had
+crut5/data/current/download.html. The efficient climate model
+(WASP version 3.0: Refs. [19, 20]) used for the example efficient
+model ensemble is available for download at: https://doi.org/10.
+5281/zenodo.4088074.
+CONFLICT OF INTEREST
+None declared.
+REFERENCES
+1. IPCC. Climate change 2013 the physical science basis. In:
+Contribution of Working Group I to the Fifth Assessment Report of
+the Intergovernmental Panel on Climate Change. Cambridge, UK
+and New York, NY, USA: Cambridge University Press, 2013.
+10.1017/CBO9781107415324.
+2. Sherwood S, Webb MJ, Annan JD et al. An assessment of
+Earth’s climate sensitivity using multiple lines of evidence.
+Rev Geophys 2020;58. https://doi.org/10.1029/2019RG000678
+3. Morice CP, Kennedy JJ, Rayner NA et al. An updated assess-
+ment of near-surface temperature change from 1850: the
+HadCRUT5 dataset. J Geophys Res 2020;126. doi:10.1029/201
+9JD032361
+4. Rohde R, Muller R, Jacobsen R et al. Berkeley earth tempera-
+ture averaging process. Geoinform Geostat 2013;01:1–13. https:
+//doi.org/10.4172/2327-4581.1000103
+5. Lenssen N, Schmidt G, Hansen J et al. Improvements in the
+GISTEMP uncertainty model. J Geophys Res-Atmos 2019;124:
+6307–26.
+6. Cheng L, Trenberth KE, Fasullo J et al. Improved estimates of
+ocean heat content from 1960 to 2015. Sci Adv 2017;3:
+e1601545.
+7. Levitus S, Antonov JI, Boyer TP et al. World ocean heat con-
+tent and thermosteric sea levelchange (0–2000 m), 1955–2010.
+Geophys
+Res
+Lett
+2012;39.
+https://doi.org/10.1029/2012GL0
+51106
+8. Trenberth KE, Fasullo JT, Balmaseda MA. Earth’s energy im-
+balance. J Clim 2014;27:3129–44.
+9. Trenberth KE, Fasullo JT, Kiehl J. Earth’s global energy budget.
+Bull Am Meteorol Soc 2009;90:311–24.
+10.Gregory JM, Andrews T. Variation in climate sensitivity and
+feedback parameters during the historical period. Geophys Res
+Lett 2016:43:3911–20.
+11.Gregory JM, Andrews T, Ceppi P et al. How accurately can the
+climate sensitivity to CO2 be estimated from historical cli-
+mate change? Clim Dyn 2019;54:129–57.
+12.Knutti R, Rugenstein M, Hegerl G. Beyond equilibrium climate
+sensitivity. Nature Geosci 2017;10:727–36.
+13.Lewis N, Curry JA. The implications for climate sensitivity of
+AR5 forcing and heat uptake estimates. Clim Dyn 2014;45:
+1009–23.
+14.Otto A, Otto FEL, Boucher, O et al. Energy budget constraints
+on climate response. Nat Geosci 2013;6:415–16.
+15.Andrews T, Forster PM. Energy budget constraints on histori-
+cal radiative forcing. Nat Clim Chang 2020;10:313–16.
+16.Zelinka MD, Andrews T, Forster PM et al. Quantifying compo-
+nents of aerosol-cloud-radiation interactions in climate mod-
+els. J Geophys Res 2014;119:7599–15.
+17.O’Neill BC, Tebaldi C, van Vuuren DP et al. The Scenario
+Model Intercomparison Project (ScenarioMIP) for CMIP6.
+Geosci Model Dev 2016;9:3461–82.
+10
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+18.Goodwin P. How historic simulation-observation discrepancy
+affects future warming projections in a very large model en-
+semble. Clim Dyn 2016;47:2219–33. CLDY-D-15-00368R2.
+19.Goodwin P. On the time evolution of climate sensitivity and
+future warming. Earth’s Future 2018;6:EFT2466.
+20.Goodwin P, Cael BB. Bayesian estimation of Earth’s climate
+sensitivity and transient climate response from observa-
+tional warming and heat content datasets. Earth Syst Dyn
+2021;12:709–23.
+21.Eyring V, Bony S, Meehl GA et al. Overview of the Coupled
+Model Intercomparison Project Phase 6 (CMIP6) experimental
+design and organization. Geosci Model Dev 2016;9:1937–58.
+22.Stocker
+T.
+Introduction
+to
+Climate
+Modelling,
+Advances
+in
+Geophysical and Environmental Mechanics and Mathematics.
+Berlin, Germany: Springer, p. 179, 2011.
+23.Williams KD, Copsey D, Blockley EW et al. The Met Ofﬁce
+Global Coupled model 3.0 and 3.1 (GC3.0 and GC3.1) conﬁgu-
+rations. J Adv Model Earth Syst 2017;10:357–80.
+24.Nicholls ZRJ., Meinshausen M, Lewis J et al. Reduced com-
+plexity model intercomparison project phase 1: protocol,
+results and initial observations. Geosci Model Dev 2020;13:
+5175–90.
+25.Zelinka MD, Myers TA, McCoy DT et al. Causes of higher cli-
+mate sensitivity in CMIP6 models. Geophys Res Lett 2020;47:
+e2019GL085782.
+26.Caldwell PM, Zelinka MD, Klein SA. Evaluating emergent con-
+straints on equilibrium climate sensitivity J Clim 2018;31:
+3921–42.
+27.Cox PM, Huntingford C, Williamson MS. Emergent constraint
+on equilibrium climate sensitivity from global temperature
+variability. Nature 2018;553:319–322.
+28.Hall A, Cox P, Huntingford C, Klein S. Progressing emergent
+constraints on future climate change. Nat Clim Chang 2019;9:
+269–78.
+29.Nijsse FJMM, Cox PM, Williamson MS. Emergent constraints
+on transient climate response (TCR) and equilibrium climate
+sensitivity (ECS) from historical warming in CMIP5 and CMIP6
+models. Earth Syst Dyn 2020;11:737–50.
+30.Tokarska KB, Stolpe MB, Sippel S et al. Past warming trend
+constrains future warming in CMIP6 models. Sci Adv 2020;6.
+https://doi.org/10.1126/sciadv.aaz9549
+31.Brunner L, Pendergrass AG, Lehner F et al. Reduced global
+warming from CMIP6 projections when weighting models by
+performance and independence, Earth Syst Dyn 2020;11:
+995–1012.
+32.Schlund M, Lauer A, Gentine P et al. Emergent constraints on
+equilibrium climate sensitivity in CMIP5: do they hold for
+CMIP6?. Earth Syst Dyn 2020;11:1233–58.
+33.Kennedy JJ, Rayner NA, Atkinson CP et al. An ensemble data
+set of sea-surface temperature change from 1850: the Met
+Ofﬁce Hadley Centre HadSST.4.0.0.0 data set. J Geophys Res
+Atmos 2019;124: 7719–63.
+34.Friedlingstein P, O’Sullivan M, Jones MW et al. Global Carbon
+Budget 2020. Earth Syst Sci Data 2020;12:3269–40.
+35.Goodwin P, Haigh ID, Rohling EJ et al. A new method for pro-
+jecting 21st century sea level rise and extremes. Earth’s Future
+2017;5:240–53.
+36.Hourdin F, Mauritsen T, Gettelman A et al. The art and sci-
+ence of climate model tuning. Bull Am Meteorol Soc 2017;98:
+589–602.
+37.Rohling EJG, Marino GL, Foster PA et al. Comparing climate
+sensitivity, past and present. Annu Rev Mar Sci 2018;10:261–88.
+38.PALAEOSENS Project Members. Making sense of palaeocli-
+mate sensitivity. Nature 2012;491:683–91.
+39.UNFCCC. Adoption of the Paris Agreement FCCC/CP/2015/L.9/
+Rev.1, 2015.
+40.Valdes P. Built for stability. Nat Geosci 2011;4:414–16.
+41.Gregory JM, Andrews T, Good P et al. Small global-mean cooling
+due to volcanic radiative forcing. Climate Dynamics, 2016;47:
+3979–91.
+42.Andrews T, Gregory JM, Webb MJ. The dependence of radiative
+forcing and feedback on evolving patterns of surface tempera-
+ture change in climate models. J Clim 2015;28:1630–48.
+43.Jones PD, Harpham C. Estimation of the absolute surface air
+temperature of the Earth. J Geophys Res Atmos 2013;118:
+3213–17
+Goodwin
+|
+11
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+APPENDICES
+APPENDIX A: CHOICE OF CMIP6 MODELS IN
+THE SAMPLE
+This study uses the sub-sample of CMIP6 models considered by
+Nijsse et al. [29] for the speciﬁc scenario and property relevant
+to each ﬁgure. Table A1 contains the list of models included
+within each ﬁgure panel.
+APPENDIX B: CLIMATE FEEDBACK FOR
+UNIFORM AND SPATIALLY VARYING FORCING
+The global average outgoing radiation (both shortwave and
+longwave) at the top of the atmosphere, Rout in W m2, is
+expressed using the Stefan–Boltzmann constant, rSB in W m2
+K4, the global average surface temperature, T in K, the local
+greenhouse fraction, f (the global average longwave radiation
+escaping into space divided by the longwave radiation emitted
+from the surface), the average solar radiation incident per unit
+area across the Earth’s surface, Isolar in W m2, and the local al-
+bedo a, via,
+Rout ¼ 4rSBfT4 þ Isolara
+(B1)
+The total climate feedback ktotal (for the sign convention used
+here) is deﬁned as the change in global outgoing radiation per
+unit global mean surface warming. Therefore, to express k we
+differentiate Rout with respect to T, noting that rSB and Isolar are
+unaffected by surface temperatures,
+ktotal ¼ @out
+@T
+¼ 4rSBfT3 þ rT4 @f
+@T þ Isolar
+@a
+@T
+(B2)
+where we note that the terms f, T, IS and a refer to global
+averages.
+It takes some ﬁnite amount of time for the greenhouse frac-
+tion, f, and the surface albedo, a, to change in response to a sur-
+face temperature, T. Thus, the instantaneous climate feedback
+response,
+known
+as
+the
+Planck
+feedback,
+is
+given
+by
+kP ¼ 4rSBfT3, equation (B2). Using an estimate of f ¼ 0:62 6 0:02
+(from the mean and standard deviation of ﬁve observational
+reconstructions in Ref. [9]), and global mean T ¼ 287 6 0:15 K
+(from Ref. [43]), gives kP ¼ 3:3 6 0:2 W m2 K1. The contribution
+of rT4 @f
+@T þ Isolar @a
+@T then evolves over different timescales as fast
+and multidecadal feedback processes respond. Here, we con-
+sider the impact of the instantaneous Planck feedback, kP, the
+fast climate feedback, kf , and the multidecadal feedback, kmd,
+such that on long timescales, ktotal ¼ kP þ kf þ kmd.
+APPENDIX C
+This study adopts the notation for a lognormal distribution of
+Lognormal l; r2
+
+
+, where l and r are the mean and standard de-
+viation of the underlying normal distribution such that el is the
+median of the lognormal distribution and r2 ¼ ln 1 þ r2
+LN=l2
+LN
+
+
+,
+where rLN and lLN are the standard deviation and mean of the
+lognormal distribution respectively.
+Since the conditions 1–5 (sub-section ‘New prior distributions
+of climate feedback parameters’) apply over all timescales, the
+conditions must apply separately to the each of the prior distri-
+butions for kP, kP þ kf and kequil ¼ kP þ kf þ kmd. For each climate
+feedback term, kP, kf and kmd; a translated lognormal distribu-
+tion is adopted with three choices to set: the distribution’s mini-
+mum value, median value and uncertainty. For the jth climate
+feedback term this translated lognormal distribution is written,
+kj  Lognormal
+ln lj  kj:min
+
+; ln
+1 þ
+r2
+j
+lj  kj:min
+
+2
+0
+@
+1
+A
+0
+@
+1
+A þ kj:min
+(C1)
+where kj:min is the minimum value that the jth climate feedback
+can take to satisfy the ﬁve conditions on climate feedback and
+sensitivity priors, lj  kj:min is the difference between the distri-
+bution’s median and the minimum values, and r2
+j is the vari-
+ance of the distribution.
+First, consider the Planck feedback term, kP. The instanta-
+neous climate feedback must satisfy condition 1, kP 2 ð0; þ1Þ,
+so the minimum possible value is kP:min ¼ 0. From observational
+constraints on kP (Appendix B), we have a best estimate
+Table A1: List of CMIP6 models included within this study, and the
+ﬁgure panels each model is included within
+Centre
+Model
+Inclusion in figures
+AWI
+AIW-CM-1-1-MR
+Fig. 1a; Fig. 5c
+BCC
+BCC-CSM2-MR
+Fig. 1a; Fig. 5a–d
+BCC
+BCC-ESM1
+Fig. 5a–d
+CAMS
+CAMS-CSM1-0
+Fig. 1a; Fig. 5a and c
+CAS
+FGOALS-fg-L
+Fig. 1a; Fig. 5c
+CAS
+FGOALS-g3
+Fig. 1a;
+CCCma
+CanESM5
+Fig. 1a; Fig. 5a–d
+CCCma
+CanESM5-CanOE
+Fig. 1a;
+CNRM-CERFACS
+CNRM-CM6-1
+Fig. 1a; Fig. 5a and c
+CNRM-CERFACS
+CNRM-CM6-1-HR
+Fig. 1a;
+CNRM-CERFACS
+CNRM-ESM2-1
+Fig. 1a; Fig. 5a and c
+CSIRO
+ACCESS-ESM1-5
+Fig. 1a; Fig. 5c and d
+CSIRO-ARCCSS
+ACCESS-CM2
+Fig. 1a; Fig. 5c and d
+DKRZ
+MPI-ESM1-2-HR
+Fig. 1a;
+DWD
+MPI-ESM1-2-HR
+Fig. 1a;
+E3SM-Project
+E3SM-1-0
+Fig. 5a and c
+EC-Earth-Consortium
+EC-Earth3
+Fig. 1a; Fig. 5c
+EC-Earth-Consortium
+EC-Earth3-Veg
+Fig. 1a; Fig. 5a–d
+INM
+INM-CM4-8
+Fig. 1a; Fig. 5c
+INM
+INM-CM5-0
+Fig. 1a; Fig. 5c
+IPSL
+IPSL-CM6A-LR
+Fig. 1a; Fig. 5a–d
+MIROC
+MIROC-ES2L
+Fig. 1a; Fig. 5c
+MIROC
+MIROC6
+Fig. 1a; Fig. 5a–d
+MOHC
+HadGEM3-GC31-LL
+Fig. 1a; Fig. 5a–d
+MOHC
+HadGEM3-GC31-MM
+Fig. 5c and d
+MOHC
+UKESM1-0-LL
+Fig. 1a; Fig. 5a–d
+MPI-M
+MPI-ESM1-2-LR
+Fig. 1a;
+MPI-M
+MPI-ESM1-2-HR
+Fig. 5c
+MRI
+MRI-ESM2-0
+Fig. 1a; Fig. 5a and c
+NASA-GISS
+GISS-E2-1-G
+Fig. 5a–d
+NASA-GISS
+GISS-E2-1-H
+Fig. 5a–d
+NCAR
+CESM2
+Fig. 1a; Fig. 5a–d
+NCAR
+CESM2-WACCM
+Fig. 1a; Fig. 5a–d
+NCC
+NorESM2-LM
+Fig. 1a; Fig. 5c
+NCC
+NorESM2-MM
+Fig. 1a;
+NOAA-GFDL
+GFDL-CM4
+Fig. 5a and c
+NOAA-GFDL
+GFDL-ESM4
+Fig. 5c
+NUIST
+NESM3
+Fig. 1a; Fig. 5c
+SNU
+SAM0-UNICON
+Fig. 5a–d
+UA
+MCM-UA-1-0
+Fig. 1a; Fig. 5c
+Some models contribute multiple realizations to a given ﬁgure panel.
+12
+|
+Oxford Open Climate Change, 2021, Vol. 1, No. 1
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024
+(median) of lP ¼ 3:3, and a standard deviation of rP ¼ 0:1 [2, 20].
+Substituting these values for kP:min, lP and rP into equation (9)
+gives the prior probability distribution (Fig. 2a),
+kP  Lognormal ln3:3; ln 1 þ 0:12
+3:32
+ 
+!
+ 
+!
+(C2)
+For the fast and multidecadal feedback terms a position of ig-
+norance is adopted to produce uninformed distributions. Now
+consider the fast feedback distribution, kf. First, the total cli-
+mate feedback on multiday timescales, the sum of the instanta-
+neous
+plus
+fast
+feedback
+terms,
+must
+be
+positive:
+kPlanck þ kf 2 ð0; þ1Þ. Thus, the minimum value that the fast cli-
+mate feedback term can take depends on the value has been
+assigned to the Planck feedback, and is equal to minus the
+Planck feedback, kf:min ¼ kP.
+Secondly, to adopt a prior position of ignorance about
+whether the fast feedback term will amplify or damp surface
+warming, the uninformed median of fast climate feedback dis-
+tribution must be lf ¼ 0. This produces a distribution such that
+fast feedbacks have an equal prior likelihood of amplifying
+(kf < 0) and damping (kf > 0) surface warming. Thus, the differ-
+ence between the median and minimum values of fast climate
+feedback distribution is also dependent on the value of the
+Planck feedback, lf  kf:min ¼ kP.
+Lastly, the uncertainty in the fast feedback distribution
+must be set. Too small an uncertainty would put too much
+prior likelihood to small magnitude fast climate feedback
+values, kf, while too large uncertainty would place too much
+prior likelihood on large magnitude climate feedback values
+leading to extreme amplifying or damping of warming. To
+strike an uninformed balance it is assumed that the prior
+uncertainty in fast feedback scales with the difference be-
+tween
+the
+median
+and
+minimum,
+r2
+f ¼ lf  kf:min
+ð
+Þ2 ¼ k2
+P.
+Thus, the standard deviation of the distribution is set to be
+equal to the magnitude of the maximum possible amplifying
+feedback, rf ¼ kP.
+Substituting these values for kf:min, lf and rf into equation
+(C1) gives the prior fast climate feedback distribution (Fig. 2c),
+kf  Lognormal lnkP; ln2
+ð
+Þ  kP
+(C3)
+These same arguments are now applied for the multideca-
+dal climate feedback distribution. The total climate feedback
+on multidecadal timescales, the sum of instantaneous, fast
+and
+multidecadal
+feedback
+terms,
+must
+be
+positive:
+kP þ kf þ kmd 2 ð0; þ1Þ, so kmd:min ¼  kP þ kf
+ð
+Þ. A position of ig-
+norance is assumed about whether multidecadal feedback
+will amplify or damp surface warming. Therefore, a best esti-
+mate (median) of lmd ¼ 0 is chosen, such that fast feedbacks
+have an equal prior likelihood of amplifying warming and
+damping warming, and the difference between the median
+and minimum values is lmd  kmd:min ¼ kP þ kf.
+The uncertainty in multidecadal feedback scales with the dif-
+ference between the median and minimum distribution values,
+r2
+md ¼ lmd  kmd:min
+ð
+Þ2 ¼ kP þ kf
+ð
+Þ2. Again, this gives a standard
+deviation of multidecadal climate feedback distribution equal to
+the
+maximum
+amplifying
+multidecadal
+feedback
+value,
+rmd ¼ kP  kf. Substituting these values for kmd:min, lmd and
+rmd into eq. (9) gives the prior fast climate feedback distribution
+(Fig. 2d),
+kmd  Lognormal ln kP þ kf
+ð
+Þ; ln2
+
+
+
+kP þ kf
+ð
+Þ
+(C4)
+For each simulation in the prior WASP model ensemble, the
+Planck feedback is selected ﬁrst from a Lognormal distribu-
+tion using equation (C2). Then, the value of the Planck feed-
+back is used to generate a fast climate feedback value from a
+Lognormal distribution using equation (C3). Lastly, the Planck
+and fast climate feedback values are used to generate a value
+for the multidecadal feedback from a Lognormal distribution
+using equation (C4). This method produces prior distributions
+that satisfy the ﬁve conditions adopted here for climate sensi-
+tivity and climate feedback values over all timescales (Fig. 2).
+Goodwin
+|
+13
+Downloaded from https://academic.oup.com/oocc/article/1/1/kgab007/6326790 by guest on 26 August 2024

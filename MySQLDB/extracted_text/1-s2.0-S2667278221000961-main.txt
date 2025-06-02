@@ -1,0 +1,1055 @@
+Research article
+The association between climate change attitudes and COVID-19
+attitudes: The link is more than political ideology✰,✰✰,$
+Carl Latkina,b,*, Lauren Daytona, Catelyn Coylea, Grace Yia, Abigail Winikera, Danielle Germana
+a Department of Health, Behavior and Society, Bloomberg School of Public Health, Johns Hopkins University
+b Division of Infectious Diseases, Johns Hopkins University School of Medicine
+A R T I C L E
+I N F O
+Article History:
+Received 12 September 2021
+Accepted 5 November 2021
+Available online 8 November 2021
+A B S T R A C T
+The COVID-19 pandemic and climate change are two current global threats. This study examined the rela-
+tionship between climate change attitudes and COVID-19 behaviors and risk perceptions. Drivers of climate
+change attitudes and COVID-19 behaviors were also assessed. Study participants were an online sample of
+520 respondents from a longitudinal study of COVID-19 and well-being in the US. Logistic regression models
+were used to examine the outcomes of climate change opinions and COVID-19 perceptions and prevention
+behaviors (perceived COVID-19 risk, mask wearing, social distancing, and vaccine intentions). Covariates
+included political ideology, conspiracy beliefs, and trust in scientiﬁc information about COVID-19. In the mul-
+tivariable models of COVID-19 perceptions and prevention behaviors, climate change opinions were also
+included as a covariate. In these models, climate change attitudes were signiﬁcantly associated with per-
+ceived risk of COVID-19, always wearing masks, decreased time spent with others due to COVID-19, and
+intention to get a COVID-19 vaccine. In adjusted models, the odds of wearing a mask increased 41% (CI: 1.11
+−1.78) for every 1-point increase on the climate attitude scale and decreased 13% (CI: 0.79−0.96) if the par-
+ticipant distrusted COVID-19 information. Those who reported distrust of COVID-19 information (aOR: 1.61,
+CI: 1.40−1.85), politically conservative ideology (aOR: 1.24, CI: 1.04−1.47), lower concern about climate
+change (aOR: 0.71, CI: 0.53−0.97), female sex (aOR: 2.39 CI: 1.38−4.13), and lower disbelief in conspiracy
+theories (aOR: 0.63, CI: 0.51−0.80) had higher odds of not intending to be vaccinated. These ﬁndings suggest
+that climate change attitudes are linked to COVID-19 behaviors and perceptions, which are not completely
+driven by political ideology or trust in scientiﬁc information.
+© 2021 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+While community, state, and national prevention resources are
+have been focused on mitigating the COVID-19 pandemic, climate
+change looms as a concurrent global crisis. Furthermore, climate
+change will likely accelerate the speed with which future infectious
+disease outbreaks occur, through increased interactions between
+humans and other species as well as altered geographic ranges of
+infectious disease vectors [1−3]. The two crises share commonalities,
+with each linked to political polarization, downplaying of severity,
+and distrust in science [4,5]. Given the commonalities of these crises,
+understanding factors associated with COVID-19 mitigation and the
+interplay between COVID-19 and climate change can provide critical
+insight into how the public can be motivated to address climate
+change and lessen future disasters. This study aims to assess how
+COVID-19 attitudes and behavior and climate change attitudes may
+be linked, ﬁrst by examining the associations between them and then
+by assessing whether we can decern common factors that may drive
+these two seemingly disparate phenomena. At the time of data col-
+lection fo rthis study, over 250,000 COVID-19 deaths and 12 million
+cases had been conﬁrmed in the US with over 4.5 million deaths and
+215 million cases worldwide. Regarding climate change, 2020 was
+tied for the warmest year ever recorded. In 2020, major climate
+events occurred, including vast Australian bush ﬁres which burned
+over 45 million acres; in the US, ﬁve of the 10 largest wildﬁres on
+record in California occurred, setting a state record for acres burned.
+Several shared drivers of attitudes about the COVID-19 and cli-
+mate change crises have been identiﬁed. One primary driver is politi-
+cal ideology. Multiple studies in the US have documented that
+political ideology is strongly linked to climate change attitudes. Indi-
+viduals who identify as liberal, as compared to conservative, are
+✰Ethical Approval: The research protocols were approved by the Johns Hopkins
+Bloomberg School of Public Health IRB.
+✰✰Consent to Participate: All study participants were provided an informed consent
+form and indicated that they agreed to participate.
+$Consent to Publish: All authors read and approved the ﬁnal version.
+* Corresponding author at: Professor Carl A Latkin, Johns Hopkins University, Bloom-
+berg School of Public Health, 624 N Broadway, Baltitmore, MD 21205, United States,
+410 955 3972.
+E-mail address: clatkin@jhsph.edu (C. Latkin).
+https://doi.org/10.1016/j.joclim.2021.100099
+2667-2782/© 2021 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 5 (2022) 100099
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+more likely to believe that climate change is caused by humans, to be
+concerned about harms caused by climate change, and to support
+actions to address it [6−11]. Political ideology has also impacted how
+the COVID-19 pandemic has both been handled by various govern-
+ments and perceived by their constituents [12,13]. In the US, the
+Trump administration’s decision to downplay the risk of COVID-19,
+ampliﬁed by conservative media outlets such as Fox News, facilitated
+political polarization in both perceptions of and responses to the pan-
+demic [14]. Indeed, political ideology was found to be associated with
+COVID-19 prevention behaviors such as mask wearing, frequent
+handwashing, decreased time spent with others, and standing at least
+6-feet apart when interacting with others [14−16].
+In addition to political ideology inﬂuencing attitudes and sources
+of information about climate change and the COVID-19 pandemic,
+political beliefs and ideologies might serve as a source of motivated
+reasoning, with conservatives avoiding information on the actual
+severity of the COVID-19 pandemic due in part to conservative lead-
+ers and media outlets downplaying the pandemic’s severity, thus
+engaging in fewer prevention behaviors. Motivated cognitions have
+been well-studied in the ﬁeld of climate change [17]. Prior research
+on motivative cognitions that ﬁnds that Republicans are less likely to
+spend time reading climate change articles or viewing graphs about
+global temperatures than Democrats [18,19].
+In the US, political polarization in recent decades has also been
+associated with greater distrust among conservatives in the use of
+scientiﬁc evidence to guide policymaking. Distrust in science may
+affect not only attitudes about the COVID-19 pandemic but also
+COVID-19 prevention behaviors and COVID-19 vaccine intentions [20
+−22]. Distrust in science is not unique to the COVID-19 pandemic.
+Trust in scientiﬁc information has previously been associated with
+climate change attitudes, with those who believe that scientists
+manipulate their data more likely to deny that climate change is real
+and report less trust in climate science agencies [23].
+Finally, another shared association between the COVID-19 pan-
+demic and climate change is the proliferation of conspiracy theories
+surrounding both crises. In the US, high levels of conspiracy theories
+have been documented in recent years. An NPR/Ipsos poll conducted
+in late December 2020 found that 40% of Americans surveyed believe
+that COVID-19 was created in a lab in China, 39% agreed there was a
+deep state working to undermine the Trump presidency [24], and
+almost one-quarter of Republicans thought that “A group of Satan-
+worshipping elites who run a child sex ring are trying to control our
+politics and media,” with an additional 38% responding “Don’t know”
+to this statement. Research on conspiracy theories and climate
+change attitudes ﬁnds a strong association between conspiracy
+beliefs and downplaying the current climate change emergency
+[25,26]. There is also an emerging body of literature on the associa-
+tion between belief in conspiracy theories and adoption of COVID-19
+prevention behaviors, such as mask wearing, social distancing, and
+intentions to obtain a COVID-19 vaccine [27−29]. Consequently, we
+examined the extent to which belief in conspiracy theories is associ-
+ated with attitudes toward climate change and COVID-19 attitudes.
+In the current study, using an online sample of US respondents,
+we ﬁrst examined the associations between attitudes towards cli-
+mate change and COVID-19 perceptions and preventions behaviors,
+including mask usage, social distancing, and vaccine intentions. We
+assessed whether these factors were also correlated with trust in
+information about COVID-19 from scientiﬁc organizations, political
+ideologies, and belief in conspiracy theories. We then used multivari-
+able logistic regression models to examine the independent associa-
+tion of climate change attitudes with COVID-19 attitudes and
+behaviors, adjusting for trust in information about COVID-19 from
+scientiﬁc organizations, political ideology, and conspiracy theories.
+We examined whether trust in information about COVID-19 from sci-
+entiﬁc organizations, political ideology, and conspiracy theories was
+independently associated with climate change attitudes. Finally, we
+examined the association between climate change attitudes and
+COVID-19 behaviors and attitudes and whether this association
+would be signiﬁcantly attenuated when adjusting for political ideol-
+ogy and distrust in scientiﬁc sources of COVID-19 information.
+Understanding these dynamics may help to tailor health communica-
+tion and public engagement strategies for both climate change and
+COVID-19 and potentially inform future pandemic responses.
+Methods
+Study respondents participated in an online longitudinal study
+that began in March 2020. The study aimed to examine individual,
+social, and societal-level ﬂuctuations in experiences and perceptions
+amidst the rapidly changing landscape of the COVID-19 pandemic.
+Study periods occurred every few months and sought to capture
+changes in scientiﬁc knowledge of infection, the extent of infectious
+spread, and progress in vaccine development. All respondents who
+successfully completed the ﬁrst survey were invited to participate in
+the subsequent rounds of data collection. Study respondents com-
+pleted the ﬁrst survey between March 24th-27th, 2020, after many
+governors had declared States of Emergency and enacted social dis-
+tancing measures. By March 24th, 2020, 15 states had implemented
+statewide Stay At Home orders, including California, Connecticut,
+Delaware, Illinois, Indiana, Louisiana, Massachusetts, Michigan, New
+Jersey, New Mexico, New York, Ohio, Oregon, Washington, and West
+Virginia. By March 26th, 2020, 21 states had enacted statewide Stay
+At Home orders. Study respondents were invited to participate in the
+second survey between May 5th-14th, 2020, and the third survey
+from July 22nd-30th, 2020. At that time, there had been over 140,000
+COVID-19 deaths in the US. The fourth wave of the study was admin-
+istered from November 18th-28th, 2020, after Pﬁzer- BioNTech
+(November 9th) and Moderna (November 16th) presented prelimi-
+nary Phase 3 data indicating that their COVID-19 vaccines were efﬁ-
+cacious but before any COVID-19 vaccine was approved by the US
+Food and Drug Administration or available to the public. There were
+584 valid surveys at wave four and 520 individuals who completed
+both wave three and wave four surveys.
+Study participants were recruited through Amazon’s Mechanical
+Turk (MTurk) service. This approach is regularly used by health
+researchers, as it allows for a diverse sample to be collected in a rapid
+and timely fashion [30]. Prior research has indicated that samples col-
+lected through MTurk provide better quality data in less time than
+other methods for recruiting convenience samples [31]. Study popu-
+lations recruited through MTurk are not nationally representative
+but have been documented to outperform other opinion samples on
+several dimensions [32]. Studies using MTurk have also demon-
+strated good reliability [33]. The survey followed MTurk's best practi-
+ces for research, which included ensuring participant conﬁdentiality,
+protecting study integrity, generating unique completion codes, inte-
+grating attention-checks throughout the survey, repeating study-spe-
+ciﬁc qualiﬁcation questions, and removing disqualiﬁed participants
+[31,34,35].
+Moreover, the demographic characteristics of MTurk appear to be
+stable [36]. Although MTurk is open to all US residents age 18 or
+older, respondents tend to be more liberal than the general public,
+but those who are conservative do not signiﬁcantly differ in their atti-
+tudes from conservatives recruited from other sources [37]. Eligibility
+included being age 18 or older, living in the United States, being able
+to speak and read English, having heard of the coronavirus or COVID-
+19, and providing written informed consent. To enhance study valid-
+ity, eligible participants had to pass attention and validity checks
+embedded in the survey. Participants were paid $2.50 for completing
+the ﬁrst survey, $3.00 for the second, $3.50 for the third, and $4.00
+for the fourth, which was equivalent to approximately $12 per hour.
+The study protocols were approved by the Johns Hopkins Bloomberg
+School of Public Health Institutional Review Board.
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099
+2
+Measures
+The outcome variables were engagement in COVID-19 prevention
+behaviors, perceived risk of COVID-19, and climate change attitudes.
+These items were measured at wave 4, which was administered prior
+to the availability of the COVID-19 vaccine. The three COVID-19 related
+behavioral outcome variables were mask wearing, social distancing,
+and vaccine intention. These were assessed with the survey items: “Do
+you wear a face mask when you are outside?” (with the options of
+“Never,” “Sometimes,” and “Always,” which was dichotomized to
+“Never” versus “Sometimes” or “Always”) and “Are you trying to spend
+less time around other people to prevent getting the coronavirus?”
+(with the response options of “Yes” and “No”). Based on prior vaccine
+hesitancy surveys, we also included vaccine intention as an outcome
+variable based upon the question: “I am very likely to get a coronavirus
+vaccine, when available.” The response options were “Strongly agree,”
+“Agree,” “Neither agree nor disagree,” “Disagree,” and “Strongly dis-
+agree.” These items were trichotomized for analysis as positive inten-
+tions
+(“Strongly
+agree/Agree”),
+ambivalence
+(“Neither
+agree
+nor
+disagree”), and negative intentions (“Disagree/Strongly disagree”).
+Four survey items were used to assess perceived COVID-19 risk.
+These included: “If I got the coronavirus, it's likely that I would get
+very sick,” “People I'm close to may die from the coronavirus,” “I am
+very worried about my family and friends getting the coronavirus,”
+and “I am very worried about getting the coronavirus.” The response
+categories were "Strongly agree (5)," "Agree (4)," "Neither agree nor
+disagree (3)," "Disagree (2)," and "Strongly disagree (1)." The Cron-
+bach’s alpha for the 4-item perceived COVID-19 measure was 0.84.
+For the logistic regression models, a median split was used to differ-
+entiate between high and low perceived risk.
+We assessed climate change attitudes using two standard ques-
+tions: “How concerned are you about climate change?” and “The
+future of many young people will be much worse due to climate
+change.” In addition, we included the items: “With everything else
+going on in the world, I don't have much interest in climate change,”
+and the behavior of “I tend to avoid news on climate change.” The
+ﬁrst question had response categories of “ A great deal (5)," “Quite a
+bit (4),” "Some (3)," and "Very little or none (2).” The latter three
+questions had the response categories of “Strongly agree (5),” “Agree
+(4),” “Neither agree nor disagree (3),” “Disagree (2),” and “Strongly
+disagree (1).” Exploratory principal component analysis revealed one
+factor that accounted for 73% of the variance. After the reverse coding
+of the negatively worded statements, these items were added
+together for a scale with a range from 5 to 20, with a Cronbach’s alpha
+of 0.87. We also used a median split at 16 to dichotomize the climate
+change attitude scale when it was used as a dependent variable.
+Three key predictors were (1) distrust in sources of COVID-19 infor-
+mation, (2) political ideology, and (3) having conspiracy beliefs. To
+assess distrust in sources of COVID-19 information, a set of questions
+asked participants, “How much do you trust information from [....]
+about coronavirus?” The following were sources of information: the
+CDC, Johns Hopkins University (which hosts the online COVID-19
+tracker), and your State Health Department were included. Response
+options were “A great deal (1),” “Quite a bit (2),” "Some (3)," and "Very
+little or none (4)." Based on factor analyses, these items were added
+together for a scale with a range from 3 to 12, with a Cronbach’s alpha
+of 0.80. Political ideology was assessed with the question, “Where
+would you place yourself on a scale running from “Very liberal” to
+“Very conservative?” The response categories were “Very Liberal (1),”
+Liberal (2),” Slightly Liberal (3),” “Moderate (4),” “Slightly Conservative
+(5),” “Conservative (6),” and “Very Conservative (7).” Conspiracy beliefs
+were measured by the standard question of, “Much of what happens
+in the world today is decided by a small and secretive group of individ-
+uals,” with response categories of “Strongly agree (1), ” “Agree (2), ”
+“Neither agree nor disagree (3), ” “Disagree(4), ” and “Strongly disagree
+(5)” with higher scores indicating disbelief in the conspiracy item [38].”
+Gender, education, and income were also assessed. Level of educa-
+tion was collapsed to reﬂect some college or less versus bachelor’s
+degree or higher. Income was dichotomized at the median of $60,000
+or below. The response categories for self-reported race/ethnicity
+included
+“White,”
+“Non-Hispanic
+Black,”
+“Asian,”
+“Hispanic,”
+“Mixed,” or “Other.” All demographic variables were collected during
+the ﬁrst wave.
+Analyses
+To examine common signiﬁcant covariates among COVID-19 atti-
+tudes and behaviors and climate change attitudes, descriptive analyses
+and logistic univariable and multivariable regression models were used
+to evaluate outcomes of the level of concern about climate change, per-
+ceived risk of COVID-19, mask wearing, social distancing, and vaccine
+intentions. Three vaccine intention groups were examined: those with
+(1) positive vaccine intentions, (2) ambivalent intentions, and (3) nega-
+tive intentions. Multinomial models were used to model the three-level
+vaccine intention variable. There was no evidence of collinearity in the
+multivariable models. For the multivariable logistic regression models,
+all sociodemographic variables and other variables with a p-value of
+<0.20 in the bivariate models were included in the ﬁnal adjusted
+model [39,40]. In order to compare the models, if one of the covariates
+met this criterion in one of the bivariate models, it was included in all
+of the multivariable models. We excluded the variable of race/ethnicity
+due to small Ns in some of the cells.
+Results
+Sociodemographic characteristics of the study population are pre-
+sented in Table 1. Of the 520 participants, the median age was
+Table 1
+Characteristics of the 520 participants who completed the surveys at waves 1, 3, and
+4.
+Characteristic
+N
+520
+Perceived risk of getting COVID-19
+Low risk
+270 (51.9%)
+High risk
+250 (48.1%)
+Mask wearing in public
+Sometimes or never
+183 (35.2%)
+Always
+337 (64.8%)
+Decreased time spent with others
+Yes
+456 (87.7%)
+No
+64 (12.3%)
+COVID-19 vaccine intent
+Intending to get the vaccine
+297 (57.1%)
+Ambivalence
+92 (17.7%)
+Not intending to get the vaccine
+131 (25.2%)
+Climate change attitudesa,b
+16.0 (13.0−18.0)
+Agea (years)
+38.0 (32.0−48.5)
+Sex
+Male
+224 (43.1%)
+Female
+296 (56.9%)
+Race
+White
+421 (81.0%)
+Black
+31 (6.0%)
+Asian
+36 (6.9%)
+Other
+32 (6.2%)
+Annual income
+Less than $60,000
+279 (53.7%)
+$60,000 or more
+241 (46.3%)
+Education level
+Some college or less
+224 (43.1%)
+Bachelor's degree or more
+296 (56.9%)
+Endorsement of conspiracy theorya,c
+4.0 (3.0−5.0)
+Political ideology a,d
+3.0 (2.0−5.0)
+Trust in scientiﬁc information regarding COVID-19a,e
+6.0 (4.0−8.0)
+a Median (IQR).
+b Scale range: 1 (low concern) and 20 (high concern).
+c Scale range: 1 (strongly trust) and 12 (strongly distrust).
+d Range:1 (very liberal) to7 (very conservative).
+e Range:1 (strongly agree) to 5 (strongly disagree).
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099
+3
+38 years (IQR: 32−46 years), 56.9% (n = 296) were female, and 81%
+(n = 421) self-identiﬁed as White race. Roughly half (n = 270, 52.0%)
+of the participants stated that they were worried about getting
+COVID-19. When asked about engagement in COVID-19 prevention
+measures, nearly two-thirds (n = 337, 64.8%) of the participants
+stated that they “Always” wore a face mask when they went outside,
+compared to 35.2% (n = 183) who reported “Sometimes” or “Never,”
+and 87.7% (n = 456) said they had decreased the amount of time spent
+around other people. Almost 60% (n = 297, 57.1%) of the participants
+reported that they were very likely to receive the COVID-19 vaccine
+once it became available. By comparison, 25.2% (n = 131) and 17.7%
+(n = 92) stated that they were not likely to get the vaccine or were
+ambivalent, respectively. We found that the mean for the climate
+change attitude scale was 15.20 (Median=16, SD=3.96, range 5−20),
+suggesting that, on average, the concern for climate change was
+skewed to the high end. The trust in COVID-19 information sources
+scale had a range of 3−12 with a mean of 6.2 (Median=6, SD=2.28),
+and the perceived risk of COVID-19 scale had a range of 4−12 with a
+mean of 10.3 (Median=9.5, SD=3.72).
+Predictors of the perceived risk of infection, personal prevention
+measures, and climate change beliefs are presented in Tables 2a and
+2b. In the univariable analysis, found in the righthand columns, we
+found that distrust of COVID-19 related information from ofﬁcial
+sources (CDC, Johns Hopkins University, and health departments)
+(OR: 0.77, CI: 0.71−0.84), and conservative political beliefs (OR: 0.71,
+CI: 0.64−0.79) were both associated with lower perceived risk of
+COVID-19. By contrast, for every 1-point increase on the climate
+change attitude scale, the odds of greater perceived risk of COVID-19
+more than doubled (OR: 2.03, CI: 1.66−2.48). Similarly, not believing
+that the government was run by a small secretive group of people
+was also associated with higher perceived risk of COVID-19 (OR:
+1.21, CI: 1.04−1.39), but the association did not persist in the
+adjusted model. In the multivariable analyses, the relationships
+between perceived risk of COVID-19 and more liberal political ideol-
+ogy (aOR: 0.84, CI: 0.73−0.95), greater trust in public health sources
+of COVID-19 information from public health sources (aOR: 0.85, CI:
+0.76−0.93), and concerns regarding climate change (aOR: 1.53, CI:
+1.20−1.95) persisted, although the associations were attenuated.
+In terms of efforts made to prevent COVID-19 transmission,
+results from the univariable analysis found that the odds of more fre-
+quent mask wearing were lower among participants with conserva-
+tive political ideology (OR: 0.74, CI: 0.67−0.83) and those who
+distrusted public health sources of information (OR: 0.79, CI: 0.72
+−0.85). We did ﬁnd that the odds of mask wearing were higher
+among individuals who reported concern regarding climate change
+(OR: 1.84, CI: 1.53−2.22) and those who did not believe in conspiracy
+theories (OR: 1.30, CI: 1.12−1.50). In the multivariable model, the
+odds of wearing a mask increased 41% (CI: 1.11−1.78) for every 1-
+point increase on the climate attitude scale and decreased 13% (CI:
+0.79−0.96) if the participant distrusted COVID-19 information. When
+participants were asked how COVID-19 impacted the amount of time
+spent with others, the odds of decreasing the amount of time spent
+with others were lower if a participant did not trust ofﬁcial sources
+of COVID-19 information (OR: 0.66, CI: 0.58−0.75) and had conserva-
+tive political beliefs (OR: 0.63, CI: 0.54−0.74). However, decreasing
+the amount of time spent with others was positively associated with
+concern for climate change (OR: 2.57 CI: 1.98−3.34), disbelief in con-
+spiracy theories (OR: 1.66, CI: 1.34−2.06), and female sex (OR: 1.97,
+CI: 1.16−3.35). In the multivariable analyses, distrust in COVID-19
+information from public health sources (aOR: 0.78, CI: 0.67−0.91)
+and conservative political opinions (aOR: 0.79, CI: 0.65−0.97) contin-
+ued to be associated with no decrease in time spent with others.
+Increasing concern about climate change (aOR: 1.71, CI: 1.22−2.39)
+was positively associated with decreased time spent with others due
+to COVID-19 in the adjusted model.
+With respect to vaccine hesitancy, compared to participants that
+were likely to get the COVID-19 vaccine, groups who were undecided
+about the vaccine tended to be distrustful of scientiﬁc information
+about COVID-19 (OR: 1.35, CI: 1.20−1.53), have conservative political
+opinions (OR: 1.16, CI: 1.01−1.33), and believed in conspiracy theo-
+ries (OR: 0.70, CI: 0.57−0.86) in the univariable analysis. Only distrust
+of COVID-19 related information remained signiﬁcantly associated
+with indifference to the COVID-19 vaccine (aOR: 1.32, CI: 1.16−1.51)
+in the multivariable regression model. Similarly, compared to partici-
+pants who planned on getting the COVID-19 vaccine, the odds of not
+intending to be vaccinated were higher if the participant did not trust
+Table 2a
+Association between climate change and perception of COVID-19 risk and COVID-19 prevention behaviors among 520 respondents who completed surveys at
+waves 1, 3, and 4.
+Participant had higher
+perceived risk of COVID-19a
+Participant always wore
+a mask in publicb
+Participant decreased time spent
+with others due to COVID-19c
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+Climate change attitudesd
+2.03 (1.66, 2.48)
+1.53 (1.20, 1.95)
+1.84 (1.53, 2.22)
+1.41 (1.11, 1.78)
+2.57 (1.98, 3.34)
+1.71 (1.22, 2.39)
+Increasing distrust in sources
+of COVID-19 information e
+0.77 (0.71, 0.84)
+0.85 (0.76, 0.93)
+0.79 (0.72, 0.85)
+0.87 (0.79, 0.96)
+0.66 (0.58, 0.75)
+0.78 (0.67, 0.91)
+Age (years)
+1.00 (0.98, 1.01)
+1.01 (0.99, 1.02)
+0.99 (0.97, 1.01)
+0.99 (0.98, 1.01)
+1.01 (0.99, 1.03)
+1.02 (1.00, 1.05)
+Sex
+Male
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Female
+1.51 (1.06, 2.14)
+1.47 (1.00, 2.15)
+1.42 (0.99, 2.04)
+1.43 (0.96, 2.11)
+1.97 (1.16, 3.35)
+1.76 (0.97, 3.19)
+Total family income last year
+<$60,000
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+≥$60,000
+0.80 (0.57, 1.13)
+0.84 (0.56, 1.24)
+0.87 (0.61, 1.24)
+0.88 (0.59, 1.32)
+1.13 (0.66, 1.91)
+1.35 (0.70, 2.59)
+Level of education
+Some college or less
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Bachelor's or graduate degree
+0.97 (0.68, 1.37)
+0.81 (0.55, 1.21)
+1.08 (0.75, 1.55)
+0.92 (0.61, 1.39)
+1.03 (0.61, 1.75)
+0.65 (0.34, 1.24)
+Political ideologyf
+0.71 (0.64, 0.79)
+0.84 (0.73, 0.95)
+0.74 (0.67, 0.83)
+0.89 (0.78, 1.01)
+0.63 (0.54, 0.74)
+0.79 (0.65, 0.97)
+Disbelief in conspiracy theoriesg
+1.21 (1.04, 1.39)
+0.93 (0.78, 1.11)
+1.30 (1.12, 1.50)
+1.06 (0.89, 1.27)
+1.66 (1.34, 2.06)
+1.14 (0.88, 1.48)
+OR=odds ratios, aOR=adjusted odds ratios.
+a Reference group: lower perceived risk of COVID-19.
+b Reference group: sometimes or never wearing a mask in public.
+c Reference group: the participant did not decrease time spent with others due to COVID-19.
+d Scale range: 1 (low concern) to 20 (high concern).
+e Scale range 1 (strongly trust) to 12 (strongly distrust).
+f Range:1 (very liberal) to 7 (very conservative).
+g Range: 1 (strongly agree) to 5 (strongly disagree).
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099
+4
+COVID-19 related information provided by public health sources (OR:
+1.87, CI: 1.66−2.12), were politically conservative (OR: 1.52, CI: 1.35
+−1.73), female (OR: 1.55, CI: 1.01−2.38), and believed in conspiracies
+(OR: 0.45, CI: 0.37−0.55). By contrast, the odds of not getting the
+COVID-19 vaccine decreased for every unit increase in climate change
+attitudes (OR: 0.41, CI: 0.33−0.51), indicating higher concern regard-
+ing climate change, and if a participant had a college or graduate
+degree (OR: 0.60, CI: 0.40−0.91), compared to participants with some
+college education or less. After adjusting for other factors in the mul-
+tivariable model, those with distrust of public health sources of
+COVID-19 information (aOR: 1.61, CI: 1.40−1.85), politically conser-
+vative ideology (aOR: 1.24, CI: 1.04−1.47), lower concern about cli-
+mate change (aOR: 0.71, CI: 0.53−0.97), female sex (aOR: 2.39, CI:
+1.38−4.13), and belief in conspiracy theories (aOR: 0.63, CI: 0.51
+−0.80) all continued to have higher odds of not intending to be vacci-
+nated compared to those intending to get the COVID-19 vaccine.
+Finally, similarly to those with low perceived risk of COVID-19 and
+poor engagement in prevention measures, individuals with signiﬁ-
+cantly lower odds of concern for climate change had conservative
+political ideology (OR: 0.57, CI: 0.51−0.65) and distrust of public
+health sources of COVID-19 information (OR: 0.68, CI: 0.62−0.75) in
+the univariable analysis. High levels of disagreement with the state-
+ment “Much of what happens in the world today is decided by a small
+and secretive group of individuals” was associated with higher odd of
+high climate change concern (aOR: 1.47, CI: 1.27−1.71), compared to
+those who were supportive of the conspiracy theory. Only distrust of
+COVID-19 information (aOR: 0.75, CI: 0.67−0.83) and conservative
+ideology (aOR: 0.62, CI: 0.54−0.71) continued to be associated with
+signiﬁcantly lower odds of climate change concern in the multivari-
+able model.
+Discussion
+In the current study, we found that COVID-19 prevention behaviors
+(with the exception of ambivalent vaccine intentions) were signiﬁcantly
+associated with climate change attitudes. After adjustment for political
+ideology, endorsement of conspiracy beliefs, trust in public health sour-
+ces of COVID-19 information, and demographic variables, the associa-
+tions between COVID-19 prevention behaviors and attitudes and
+climate change attitudes remained statistically signiﬁcant.
+There are several potential explanations for these ﬁndings on the
+relationship between climate change attitudes and COVID-19 behav-
+iors and attitudes. One possible explanation for the identiﬁed associa-
+tions is that there are additional factors not assessed that are
+correlated with both climate change attitudes and COVID-19 preven-
+tion behaviors. One domain we did not assess was speciﬁc sources of
+news information. Prior studies have shown news sources to be
+related to climate change attitudes and COVID-19 behaviors [42].
+Unmeasured factors such as social identity and social norms may also
+help account for the association between climate change attitudes
+and COVID-19 prevention behaviors. Our inability to rule out alterna-
+tive explanations to explain the association between climate change
+attitudes and COVID-19 prevention behaviors suggests there could
+be a constellation of attitudinal factors, beliefs, and cognitive biases
+that overlap. These components may include political ideology, news
+sources, peer inﬂuence, social and individual identity, and distrust in
+government, all of which may inﬂuence both climate change atti-
+tudes and COVID-19 behaviors.
+Two of the items of climate change attitudes scale involved avoid-
+ance or lack of interest in the topic of climate change. This ﬁnding of
+the association between the climate change avoidance/interest items
+and the concern/impact items suggests that there may be motivative
+cognitions in climate attitudes that includes avoiding information on
+climate change which ﬁts with prior research on motivative cognitions,
+political ideologies, and party afﬁliation [18,19]. This line of research
+suggests that we need to view climate change attitudes as more than a
+positive or negative valence at a given level of intensity. These atti-
+tudes are integrally linked to proclivity to engage in the topic. This
+association among the climate change attitude items also suggests that
+those who acknowledge climate change will need to start climate
+change conversations with those who avoid the topic. Moreover, dis-
+counting the severity of climate change should be viewed in context.
+Individuals may express that they have many competing priorities to
+address in their lives, and hence linking climate change to those priori-
+ties may be a viable method to reduce avoidance.
+Hoffath and Hodson found that both climate change denial and
+denial that climate change was caused by humans were strongly
+associated with perceived environmentalism threat [41]. This con-
+struct of environmentalism threat contained items such as, “The
+American
+economy
+cannot
+remain
+dominant
+if
+we
+listen
+to
+Table 2b
+Association between climate change attitudes and vaccine hesitancy and correlates of climate change attitudes (N = 520).
+Participant undecided whether
+to get COVID-19 vaccinea,b
+Participant did not intend
+to get COVID-19 vaccinea,b
+Participant was highly concerned
+about climate changec
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+OR (95% CI)
+aOR (95% CI)
+Climate change attitudesd
+0.83 (0.64, 1.07)
+1.21 (0.88, 1.68)
+0.41 (0.33, 0.51)
+0.71 (0.53, 0.97)
+Increasing distrust in sources
+of COVID-19 information e
+1.35 (1.20, 1.53)
+1.32 (1.16, 1.51)
+1.87 (1.66, 2.12)
+1.61 (1.40, 1.85)
+0.68 (0.62, 0.75)
+0.75 (0.67, 0.83)
+Age (years)
+0.98 (0.96, 1.00)
+0.98 (0.96, 1.00)
+0.99 (0.98, 1.01)
+0.98 (0.96, 1.00)
+1.00 (0.98, 1.01)
+1.01 (0.99, 1.03)
+Sex
+Male
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Female
+0.81 (0.51, 1.30)
+0.91 (0.56, 1.49)
+1.55 (1.01, 2.38)
+2.39 (1.38, 4.13)
+0.89 (0.36, 1.26)
+0.77 (0.51, 1.16)
+Total family income last year
+<$60,000
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+≥$60,000
+0.76 (0.47, 1.22)
+0.75 (0.45, 1.26)
+0.77 (0.51, 1.17)
+0.69 (0.40, 1.18)
+0.85 (0.60, 1.20)
+0.89 (0.59, 1.34)
+Level of education
+Some college or less
+Ref
+Ref
+Ref
+Ref
+Ref
+Ref
+Bachelor's or graduate degree
+0.75 (0.47, 1.21)
+1.04 (0.62, 1.75)
+0.60 (0.40, 0.91)
+1.04 (0.61, 1.78)
+1.39 (0.98, 1.97)
+1.05 (0.69, 1.60)
+Political ideologyf
+1.16 (1.01, 1.33)
+1.15 (0.97, 1.36)
+1.52 (1.35, 1.73)
+1.24 (1.04, 1.47)
+0.57 (0.51, 0.65)
+0.62 (0.54, 0.71)
+Disbelief in conspiracy theoriesg
+0.70 (0.57, 0.86)
+0.82 (0.66, 1.03)
+0.45 (0.37, 0.55)
+0.63 (0.51, 0.80)
+1.47 (1.27, 1.71)
+1.07 (0.89, 1.29)
+OR=odds ratios, aOR=adjust odds ratios.
+a Reference group: Participant intends to receive COVID-19 vaccine.
+b Multinomial regression model.
+c Reference group: low concern regarding climate change.
+d Scale range:1 (low concern) to 20 (high concern).
+e Scale range:1 (strongly trust) to 12 (strongly distrust).
+f Range:1 (very liberal) to 7 (very conservative).
+g Range:1 (strongly agree) to 5 (strongly disagree).
+5
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099
+environmentalists,” and “Hard-working Americans are negatively
+impacted by environmentalists.” These sentiments are similar to con-
+cerns voiced by conservative leaders that an overreaction by public
+health ofﬁcials and liberals to the pandemic led to a negative eco-
+nomic impact. Hence, it may be, in part, economic concerns that drive
+discounting of both climate change and the severity of the COVID-19
+and appropriate prevention behaviors.
+The role of political ideology in climate change attitudes is in line
+with prior climate change research, highlighting the importance of
+encouraging conservative leaders who are concerned about climate
+express publicly their views publicaly. [43−46]. However, it may be
+more comfortable for many climate change advocates to afﬁliate
+with more politically like-minded individuals who may not be politi-
+cally conservative. Involving political conservatives in establishing
+common concerns on climate change and developing feasible solu-
+tions is critical in order to develop sustainable change. Individual-
+level, voluntary solutions are likely to be more agreeable for those
+who have an individualistic perspective [47,48]. However, these
+approaches are clearly insufﬁcient for addressing climate change and
+may be counterproductive if people believe that they are sufﬁcient.
+Another approach to addressing the political polarization is to forge a
+new superordinate identity that includes a wide political spectrum,
+link political identity to pro-environmental outcomes such as sus-
+tained ﬁshing and hunting for conservatives, or promote pro-envi-
+ronmental ingroup norms by comparisons to an outgroup [49].
+Findings on the distrust of scientiﬁc news sources emphasize the
+importance of communication strategies in addition to mainstream
+media. Disseminating information on COVID-19 and climate change
+through informal and personal networks may be an effective way
+to reach those who distrust governmental information. Training
+individuals on initiating conversations about climate change or cre-
+ating compelling climate change content on social media may be
+critical and novel avenues for reaching such individuals. In addition,
+discussions of climate change with family and friends are not nor-
+mative for many individuals [50]. Hence, increasing these discus-
+sions can normalize such discourse and thereby increase its
+acceptability. Providing guidance on how to start such conversa-
+tions is likely to be helpful. Still, there is a need for empirical data
+to test what approaches are most effective to foster and diffuse
+such conversations both via social media and in person. It is also
+well documented that conservative news sources such as Fox News
+have downplayed the severity of climate change and the severity of
+the COVID-19 pandemic [51,52]. We do not know if such news
+sources are in themselves inﬂuential or whether to be inﬂuential, it
+is necessary for them to be seen as an alternative to the mainstream
+narratives.
+One reason for discounting climate change and COVID-19 severity
+may be that many individuals have inadequate mental models of
+these phenomena [53]. Mental models can be conceptualized as pro-
+viding individuals with predictive and explanatory power for under-
+standing the world, themselves, the tasks they perform, and their
+social and physical interactions [53]. Much of the focus on providing
+the public with mental models of climate change has been on com-
+municating brief mechanistic models to describe climate change
+physics. There is evidence that this approach can change attitudes;
+however, these models do not focus on the impact of climate change
+on individuals or societies or provide information on how to mitigate
+climate change. Moreover, individuals may approach a topic with
+their own mental models. Prior research suggests that the term
+“environmentalists” often carries negative connotations, as this term
+may conjure up negative attributes [54,55]. It is therefore important
+to understand these negative mental models associated with climate
+change and mitigation. For example, components of mental models
+may include the belief that scientists, public health ofﬁcials, or acti-
+vists mandate and/or vilify certain behaviors or advocate for pro-
+grams that will increase taxes and decrease competitive advantages.
+Similarly, mechanistic models often include information on how
+greenhouse gases lead to climate change, which may promote feel-
+ings of helplessness or inability to take action. These models also do
+not discuss the potential social, health, and economic repercussions
+of climate change. Research on mental models suggests that three
+main criteria in providing conceptual models to individuals are learn-
+ability, functionality, and usability [56,57]. Rather than simply pro-
+viding models that explain the mechanism of climate change, it may
+be beneﬁcial to provide conceptual models of both the impact of cli-
+mate change on factors that are important to the individual and sug-
+gest different approaches to addressing climate change. For example,
+for individuals concerned about impacts on the employment sector,
+information on types and quantities of high-paying jobs that can be
+implemented to address climate change, such as solar panel instal-
+lers, may be helpful. For individuals with economic concerns, provid-
+ing information emphasizing US leadership and the use of economic
+power, such as tariffs based on levels of greenhouse gasses, may be
+another salient approach. To address the nationalism rhetoric and
+threat of social change, mental models and communications could
+also incorporate nationalistic themes, such as emphasizing that
+American life will disappear if we do not tackle climate change and
+freedoms may be lost due to climate change disasters. In addition,
+models that include how individual-level behavior may lead to more
+macro-level change may help to motivate and engage people in cli-
+mate change action.
+While the majority of respondents believed that climate change
+would make the future of youth much worse, 32% were ambivalent or
+disagreed with this statement. These results were slightly higher than
+the 14% who reported very little or no concern about climate change.
+Providing information to help people understand the impact of climate
+change on younger generations may allow individuals to develop more
+accurate and accessible mental models of the impact of climate change
+on the health and well-being of future generations. For those who
+actively avoid climate change news and information, it is important to
+develop content that is easily disseminated and contain materials that
+may reduce avoidance. Future research should examine those topics
+that those who tend to avoid climate change are interested in viewing
+which, could be combined with climate change messages.
+In addition to mental models that can address the concerns,
+beliefs, and values of climate change deniers and skeptics, it is critical
+to provide models of how to address climate change effectively and
+meaningfully. Two key aspects are (1) symbolic actions such as recy-
+cling that identify commitment and concern and (2) political action.
+Given the potential negative connotations of the label of environ-
+mentalist, materials that promote alternative social identities and
+social roles, such as parents protecting their children and future gen-
+erations or individuals concerned about the future of their country,
+may have more appeal to certain groups than a focus on traditional
+environmentalist issues [49]. The sustainability triad that includes
+economic and social factors may also be a potentially beneﬁcial
+model for addressing concerns of those who tend to have negative
+attitudes toward acknowledging and addressing climate change [58].
+Although this was a cross-sectional study and, similar to other
+Mturk studies, assessed a predominantly white population which
+limits generalizability, the study results suggest that COVID-19
+behaviors and attitudes and climate change attitudes are correlated,
+and that this association cannot be explained solely by measures of
+political conservatism, conspiracy beliefs, or trust in news sources.
+That is, even when these three variables were controlled for in
+adjusted models, there was still an association between COVID-19
+behaviors and attitudes and climate change attitudes.
+Future research is warranted on the interrelationship of climate
+change and COVID-19 perceptions, how to frame the topic of climate
+change to respond to those who discount and deny this existential
+threat, and how perceptions and mental models of climate change
+can lead to effective actions to mitigate climate change. This study
+6
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099
+highlights that there are overlaps between those who discount cli-
+mate change and the severity of the COVID-19 pandemic. Conse-
+quently, it should be anticipated that such individuals may be an
+impediment to addressing human and planetary health in the con-
+text of a pandemic and climate change.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+References
+[1] Watts N, Amann M, Arnell N, et al. The 2020 report of the lancet countdown on
+health and climate change: responding to converging crises. Lancet 2021;397
+(10269):129–70.
+[2] Huang C, Vaneckova P, Wang X, FitzGerald G, Guo Y, Tong S. Constraints and bar-
+riers to public health adaptation to climate change: a review of the literature. Am
+J Prev Med 2011;40(2):183–90.
+[3] Parise I. A brief review of global climate change and the public health consequen-
+ces. Australian J Gen Pract 2018;47(7):451.
+[4] Tollefson J. How Trump damaged science—And why it could take decades to
+recover. Nature 2020;586(7828):190–4.
+[5] Long EF, Chen MK, Rohla R. Political storms: emergent partisan skepticism of hur-
+ricane risks. Sci Adv 2020;6(37):eabb7906.
+[6] Ballew MT, Leiserowitz A, Roser-Renouf C, et al. Climate change in the American
+mind: data, tools, and trends. Environment: Science and Policy for Sustainable
+Development 2019;61(3):4–18.
+[7] Bolsen T, Kingsland J, Palm R. The impact of frames highlighting coastal ﬂooding
+in the USA on climate change beliefs. Climate Change 2018;147(1):359–68.
+[8] Cutler MJ, Marlon JR, Howe PD, Leiserowitz A. The inﬂuence of political ideology
+and socioeconomic vulnerability on perceived health risks of heat waves in the
+context of climate change. Weather Climate Soc 2018;10(4):731–46.
+[9] Hamilton LC. Who cares about polar regions? results from a survey of US public
+opinion. Arct. Antarct. Alp. Res. 2008;40(4):671–8.
+[10] McCright AM. The effects of gender on climate change knowledge and concern in
+the american public. Popul Environ 2010;32(1):66–87.
+[11] Wood BD, Vedlitz A. Issue deﬁnition, information processing, and the politics of
+global warming. Am J Pol Sci 2007;51(3):552–68.
+[12] Hong I, Rutherford A, Cebrian M. Social mobilization and polarization can create
+volatility in COVID-19 pandemic control. Appl Net Sci 2021;6(1):1–13.
+[13] Druckman JN, Klar S, Krupnikov Y, Levendusky M, Ryan JB. Affective polarization,
+local contexts and public opinion in America. Nat Human Behav 2021;5(1):28–38.
+[14] de Bruin WB, Saw H, Goldman DP. Political polarization in US residents’ COVID-19
+risk perceptions, policy preferences, and protective behaviors. J Risk Uncertain
+2020:1–18.
+[15] Gollwitzer A, Martel C, Brady WJ, et al. Partisan differences in physical distancing
+are linked to health outcomes during the COVID-19 pandemic. Nat Human Behav
+2020:1–12.
+[16] Neelon B, Mutiso F, Mueller NT, Pearce JL, Benjamin-Neelon SE. Associations
+between governor political afﬁliation and COVID-19 cases and deaths in the
+United States. Preprint. medRxiv 2020 2020.10.08.20209619. Published 2021
+Jan 6. doi: 10.1101/2020.10.08.20209619:.
+[17] Druckman JN, McGrath MC. The evidence for motivated reasoning in climate
+change preference formation. Nat Clim Chang 2019;9(2):111–9.
+[18] Feldman L, Hart P. Broadening exposure to climate change news? how framing
+and political orientation interact to inﬂuence selective exposure. J Communica-
+tion 2018;68(3):503–24.
+[19] Luo Y, Zhao J. Motivated attention in climate change perception and action. Front
+Psychol 2019;10:1541.
+[20] Maher PJ, MacCarron P, Quayle M. Mapping public health responses with attitude
+networks: the emergence of opinion-based groups in the UK’s early COVID-19
+response phase. Br J Soc Psychol 2020;59(3):641–52.
+[21] Dryhurst S, Schneider CR, Kerr J, et al. Risk perceptions of COVID-19 around the
+world. J Risk Res 2020;23(7−8):994–1006.
+[22] Palamenghi L, Barello S, Boccia S, Grafﬁgna G. Mistrust in biomedical research and
+vaccine hesitancy: the forefront challenge in the battle against COVID-19 in italy.
+Eur. J. Epidemiol. 2020;35(8):785–8.
+[23] Safford TG, Whitmore EH, Hamilton LC. Questioning scientiﬁc practice: linking
+beliefs about scientists, science agencies, and climate change. Environ Sociol
+2020;6(2):194–206.
+[24] Jackson C. More than 1 in 3 americans believe a ‘deep state’ is working to under-
+mine Trump. Ipsos public poll ﬁndings and methodology 2020 Website https://
+www.ipsos.com/sites/default/ﬁles/ct/news/documents/2020-12/topline_npr_mi-
+sinformation_poll_123020.pdf Updated December.
+[25] Jolley D, Douglas KM. The social consequences of conspiracism: exposure to con-
+spiracy theories decreases intentions to engage in politics and to reduce one’s
+carbon footprint. Br J Psychol 2014;105(1):35–56.
+[26] Jylh€a KM, Strimling P, Rydgren J. Climate change denial among radical right-wing
+supporters. Sustainability 2020;12(23):10226.
+[27] Jovancevic A, Milicevic N. Optimism-pessimism, conspiracy theories and general
+trust as factors contributing to COVID-19 related behavior−A cross-cultural study.
+Pers Individ Dif 2020;167:110216.
+[28] Imhoff R, Lamberty P. A bioweapon or a hoax? the link between distinct conspir-
+acy beliefs about the coronavirus disease (COVID-19) outbreak and pandemic
+behavior. Soc Psychol Personal Sci 2020;11(8):1110–8.
+[29] Earnshaw VA, Eaton LA, Kalichman SC, Brousseau NM, Hill EC, Fox AB. COVID-19
+conspiracy beliefs, health behaviors, and policy support. Transl Behav Med
+2020;10(4):850–6.
+[30] Crequit P, Mansouri G, BenchouﬁM, Vivot A, Ravaud P. Mapping of crowdsourc-
+ing in health: systematic review. J. Med. Internet Res. 2018;20(5):e187.
+[31] Chandler J, Shapiro D. Conducting clinical research using crowdsourced conve-
+nience samples. Annu Rev Clin Psychol 2016:12.
+[32] Huff C, Tingley D. “Who are these people?” Evaluating the demographic charac-
+teristics and political preferences of MTurk survey respondents. Res Polit 2015;2
+(3):2053168015604648.
+[33] Follmer DJ, Sperling RA, Suen HK. The role of MTurk in education research: advan-
+tages, issues, and future directions. Educational Researcher 2017;46(6):329–34.
+[34] Strickland JC, Stoops WW. The use of crowdsourcing in addiction science
+research: amazon mechanical turk. Exp Clin Psychopharmacol 2019;27(1):1.
+[35] Young JA, Young KM. Don’t get lost in the crowd: best practices for using Ama-
+zon’s Mechanical Turk in behavioral research. J Midwest Assoc Inform Syst
+2019;2019(2):7.
+[36] Moss AJ, Rosenzweig C, Robinson J, Litman L. Demographic stability on Mechani-
+cal Turk despite COVID-19. Trends Cognitive Sci (Regul Ed) 2020;24(9):678–80.
+[37] Clifford S, Jewell RM, Waggoner PD. Are samples drawn from Mechanical Turk
+valid for research on political ideology? Res Polit 2015;2(4):2053168015622072.
+[38] Romer D, Jamieson KH. Conspiracy theories as barriers to controlling the spread
+of COVID-19 in the US. Soc Sci Med 2020;263:113356.
+[39] Bursac Z, Gauss CH, Williams DK, Hosmer DW. Purposeful selection of variables in
+logistic regression. Source Code Biol Med 2008;3:17.
+[40] Mickey RM, Greenland S. The impact of confounder selection criteria on effect
+estimation. Am. J. Epidemiol. 1989;129(1):125–37.
+[41] Hoffarth MR, Hodson G. Green on the outside, red on the inside: perceived envi-
+ronmentalist threat as a factor explaining political polarization of climate change.
+J Environ Psychol 2016;45:40–9.
+[42] Zhao E, Wu Q, Crimmins EM, Ailshire JA. Media trust and infection mitigating
+behaviours during the COVID-19 pandemic in the USA. BMJ Global Health 2020;5
+(10). doi: 10.1136/bmjgh-2020-003323.
+[43] Nisbet MC, Myers T. The polls—Trends: twenty years of public opinion about
+global warming. Public Opin Q 2007;71(3):444–70.
+[44] McCright AM, Xiao C, Dunlap RE. Political polarization on support for government
+spending on environmental protection in the USA, 1974−2012. Soc Sci Res
+2014;48:251–60.
+[45] Dunlap RE, Xiao C, McCright AM. Politics and environment in America: partisan
+and ideological cleavages in public support for environmentalism. Env Polit
+2001;10(4):23–48.
+[46] McCright AM, Dunlap RE, Xiao C. Increasing inﬂuence of party identiﬁcation on
+perceived scientiﬁc agreement and support for government action on climate
+change in the United States, 2006−12. Weather Climate Society 2014;6(2):194–
+201.
+[47] Kahan DM. Ideology, motivated reasoning, and cognitive reﬂection: an experi-
+mental study. Judgm Decis Mak 2012;8:407–24.
+[48] McCright AM, Dunlap RE. Cool dudes: the denial of climate change among conserva-
+tive white males in the United States. Global Environ Change 2011;21(4):1163–72.
+[49] Fielding KS, Hornsey MJ. A social identity analysis of climate change and environ-
+mental attitudes and behaviors: insights and opportunities. Front Psychol
+2016;7:121.
+[50] Maibach E, Leiserowitz A, Rosenthal S, Roser-Renouf C, Cutler M. Is there a climate
+“spiral of silence” in America. New Haven, CT: Yale Program on Climate Change
+Communication; 2016.
+[51] Funk C, Hefferon MUS. public views on climate and energy. Pew Research Center
+Website
+2019.
+https://www.pewresearch.org/science/2019/11/25/u-s-public-
+views-on-climate-and-energy/ Updated November.
+[52] Grynbaum M, Hsu T. Nothing to do with climate change’: conservative media and
+Trump align on ﬁres. The New York Times Website September 2020. https://
+www.nytimes.com/2020/09/15/business/media/wildﬁres-conservative-media.
+html Updated.
+[53] B€ohm G, Pﬁster H. Mental representation of global environmental risks. Environ-
+mental risks: perception, evaluation and management. Emerald Group Publishing
+Limited; 2001.
+[54] Laidley T. Climate, class and culture: political issues as cultural signiﬁers in the US.
+Sociological Review 2013;61(1):153–71.
+[55] Klas A, Zinkiewicz L, Zhou J, Clarke EJ. “Not all environmentalists are like that. . .”:
+unpacking the negative and positive beliefs and perceptions of environmentalists.
+Environ Commun 2019;13(7):879–93.
+[56] Norman DA. Some observations on mental models. Mental models 1983;7
+(112):7–14.
+[57] Fiske ST, Linville PW. What does the schema concept buy us? Person Soc Psychol
+Bull 1980;6(4):543–57.
+[58] Hecht AD. The triad of sustainable development: promoting sustainable develop-
+ment in developing cuntries. J Environ Dev 1999;8(2):111–32.
+C. Latkin, L. Dayton, C. Coyle et al.
+The Journal of Climate Change and Health 5 (2022) 100099

@@ -1,0 +1,1196 @@
+Changes in hydrological regime in High Arctic non-glaciated catchment in
+1979e2020 using a multimodel approach
+Marzena OSUCH*, Tomasz WAWRZYNIAK, Marta MAJERSKA
+Institute of Geophysics, Polish Academy of Sciences, Warsaw 01-452, Poland
+Received 2 September 2021; revised 1 April 2022; accepted 6 May 2022
+Available online 13 May 2022
+Abstract
+Assessing hydrological consequences of climate change at the catchment scale is recently among key problems in hydrology. This study
+focuses on the estimation of changes in the hydrological regime in the Fuglebekken catchment in SW Spitsbergen (Svalbard). For this purpose,
+50 rainfall-runoff models were calibrated using available hydrometeorological observations. The models were validated based on archival ﬂow
+and SWE observations, and proxy data from time-lapse cameras. Six models (FLEX-IS, GSM-SOCONT, PRMS, HBV, Nordic HBV, and GR4J)
+with the best performance were applied to reconstruct the past hydrological conditions and analyse the trends in ﬂow regime in the period
+1979e2020. Statistically signiﬁcant changes at 0.05 level in the ﬂow regime indicators were detected, including the number of days with the
+active ﬂow during the calendar year (10.8 d per decade), during the mid-May‒November period (9.8 d per decade), the date of the ﬁrst day with
+the ﬂow (4.7 d per decade), and the last day with the ﬂow during mid-May‒November (8.4 d per decade). A statistically signiﬁcant increase in
+runoff was estimated for two periods from mid-May to the end of June and the second part of August till mid-November. The changes in the ﬁrst
+period result from increases in air temperature and earlier snowmelt-driven ﬂoods. An estimated runoff increase in the second period corresponds
+to large increases in rainfall. The increase in air temperature, earlier disappearance of snow, and decrease in precipitation in July and the ﬁrst part
+of August result in runoff reduction. The presented results show that the Fuglebekken ‘catchment's hydrological regime has already changed. The
+magnitude of the changes is larger compared to catchments located in lower latitudes.
+Keywords: Hydrological regime; Climate change; Svalbard; High Arctic catchment hydrology; Multimodel approach
+1. Introduction
+The dramatic change in the Arctic climate continues and
+has strong impacts on the environment and society. During the
+past few decades, the Arctic has warmed approximately twice
+as rapidly as the entire Northern Hemisphere (Serreze and
+Barry, 2011). Warming is predicted to continue, especially in
+the Barents Sea area as an effect of extensive sea-ice reduction
+that inﬂuences oceanic and atmospheric circulation (Chapman
+and Walsh, 2007; Dahlke et al., 2020). It is widely reported
+that the High Arctic is particularly vulnerable to changes in air
+temperature and precipitation (Overeem and Syvitski, 2010;
+Rawlins et al., 2010; Serreze and Barry, 2011; Nowak and
+Hodson, 2013; Blaen et al., 2014; Przybylak, 2016).
+The analyses of the long-term climatic variables at the
+Polish Polar Station Hornsund in SW Spitsbergen (Svalbard)
+indicated a warming of þ1.14 C per decade from 1979 to
+2018 (Wawrzyniak and Osuch, 2020), which is more than six
+times higher than the global average (þ0.17 C per decade) in
+this period. The changes in air temperature are coupled with
+an increase in precipitation (þ61.6 mm per decade) and the
+reduction of snow cover (Osuch and Wawrzyniak, 2017b).
+The analyses of changes in the ﬂow regime have been
+performed for many rivers located in the lower latitudes
+(Bl€oschl et al., 2017, 2019) while in the Arctic, only major
+* Corresponding author.
+E-mail address: marz@igf.edu.pl (OSUCH M.).
+Peer review under responsibility of National Climate Center (China
+Meteorological Administration).
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Climate Change Research 13 (2022) 517e530
+www.keaipublishing.com/en/journals/accr/
+https://doi.org/10.1016/j.accre.2022.05.001
+1674-9278/© 2022 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC
+BY license (http://creativecommons.org/licenses/by/4.0/).
+rivers were studied (Wu et al., 2018). The amount of hydro-
+climatic data remains limited primarily due to extreme
+weather conditions, difﬁcult accessibility and relatively small
+data demands for commercial purposes.
+Due to the complexity of cold region hydrological systems,
+the functioning of the catchment varies as a result of climate
+forcing and catchment properties. Many factors inﬂuence
+these complex mechanisms, and despite numerous research
+(Pulina et al., 1984; Jania and Pulina, 1994; Killingtveit et al.,
+2003; Pohl et al., 2005; Sund, 2008; Nowak and Hodson,
+2013; Sobota, 2014; Majchrowska et al., 2015; Franczak
+et al., 2016; Shrestha et al., 2021), the hydrological identiﬁ-
+cation of processes and physiographic factors that affect water
+balance remain not fully understood.
+Hydrological response to ongoing changes has been named
+one of the most important research needs in the Arctic region
+(Peel and Bl€oschl, 2011; IPCC, 2019; Hanssen-Bauer et al.,
+2019; Retelle et al., 2020; Nowak et al., 2021). It is also
+indicated as one of the most important and yet unresolved
+questions in hydrology by Bl€oschl et al. (2019b).
+Due to discontinuous, scarce or too short data series, direct
+statistical analyses are difﬁcult to perform. Recent advance-
+ments in hydrology and statistical analyses have led to the
+emergence of diverse and complex hydrological models.
+These models are tools that allow the detection of runoff
+tendency, extend hydrological data in both space and time, and
+estimate past and future hydrological regimes using climato-
+logical data (Brocca et al., 2013; Dams et al., 2015; Knoben
+et al., 2020).
+Conceptual rainfall-runoff models are applied to recon-
+struct the runoff in the High Arctic catchment with limited
+ﬂow observations in the past. For this purpose, an ensemble of
+hydrological models was applied. Such an approach is com-
+mon in climate simulations and rarely used in hydrology
+(Breuer et al., 2009; Refsgaard et al., 2014). As the models
+differ in structure, their uncertainty can be assessed by
+applying an ensemble of hydrological models (Refsgaard
+et al., 2006; Breuer et al., 2009; Rojas et al., 2010;
+Vansteenkiste et al., 2014a, 2014b; Knoben et al., 2020).
+Available model intercomparison studies proved that a range
+of hydrological models allow simulating river discharge with
+similar accuracy, although there is no one perfect ‘model’. It is
+recommended to use diverse models that differ in the con-
+ceptualisation of the hydrological processes, the number of
+storages, and parameters that describe the complexity of the
+hydrological system (Dams et al., 2015).
+The ensemble applied in this study consists of a set of lumped
+rainfall-runoff models (RRMs) available from the MARRMoT
+toolbox (Knoben et al., 2019) and additional lumped RRMs
+(HBV, GR4J, and MILc) and semi-distributed Nordic HBV, that
+were employed in previous studies (Osuch et al., 2015, 2017,
+2018, 2019; Wawrzyniak et al., 2017; Piotrowski et al., 2017,
+2019a, 2019b, 2021). The suitability of the models for simulation
+of ﬂow in the Fuglebekken catchment was tested by validation
+using archival in-situ runoff and snow water equivalent (SWE)
+measurements and remote sensing data.
+Despite the number of investigations in the Arctic so far,
+the hydrological research on the non-glaciated catchments in
+this region is rare. Owing to the complexity of cold environ-
+ments and dramatic climate change, a better understanding of
+hydrological response is crucial. Therefore, this study aims to
+investigate changes in the regime of hydrometeorological
+variables (air temperature, precipitation, snow water equiva-
+lent) and estimate their inﬂuence on the ﬂow regime in a High
+Arctic unglaciated catchment using multi-model ensemble
+approach. Our integrated analysis allowed us to identify and
+estimate changes in the hydrometeorological regime, taking
+into account the uncertainty of hydrological models. Such
+studies performed in the Arctic, with the fastest warming in
+the world, help to determine what changes are expected to take
+place in other regions.
+2. Materials and methods
+2.1. Study area
+The unglaciated Fuglebekken catchment was selected as it
+represents catchments consisting of sea terraces and coastal
+mountains, common in SW Spitsbergen. As a consequence of
+a negative mass balance of glaciers, resulting in deglaciation
+and bare ground uncovering, this type of catchment is
+becoming more common. Fuglebekken has been a research
+and observatory catchment for multiple years (Wawrzyniak
+et al., 2021).
+Fuglebekken is located near the Polish Polar Station
+Hornsund (PPSH, 77000N, 15300E) and up to the gauging
+point (at 4 m a.s.l.) and occupies an area of 1.27 km2. It ter-
+minates in the Isbjørnhamna, a bay in the northern part of the
+Hornsund Fjord (Fig. 1). Its boundary is delimited by the
+south-facing slopes of mountain ridge Ariekammen and
+Fugleberget, and Fuglebergsletta coastal plain below.
+The topography of the Fuglebekken catchment is hetero-
+geneous. Its highest point is located at 522 m a.s.l., slightly
+below the Fugleberget summit. Marine terraces of Fugle-
+bergsletta Plain are covered with sea gravel and diverse tundra
+vegetation, while the eastern part is occupied by the lateral
+moraine of Hansbreen. The mountain slopes consist of the
+bare solid rocks of the Hecla Hoek formation and washed
+rubble sediments (Wawrzyniak et al., 2017).
+Fuglebekken catchment is usually hydrologically active be-
+tween late spring (MayeJune) and autumn (SeptembereOc-
+tober). For the rest of the year, the river is mainly frozen, but
+there are episodes of winter ﬂow due to positive temperatures
+and rain on snow events. Flow magnitude is characterised by
+signiﬁcant diversity, shaped by the melting of snow cover,
+seasonality in the amount of precipitation, and active layer
+thickness that regulates water inﬁltration (Osuch et al., 2019).
+Due to the snowmelt, runoff is relatively high until mid-June,
+then decreases in the middle of the summer. In recent years,
+the inﬂuence of higher autumn precipitation has been reﬂected
+in the subsequent high runoff period in late AugusteSeptember
+(Wawrzyniak et al., 2017; Osuch et al., 2019).
+518
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+2.2. Data
+2.2.1. In-situ data
+The availability and completeness of in-situ observational
+data varied depending on the variable. Meteorological obser-
+vations, including air temperature, precipitation, humidity, and
+sunshine duration, have been conducted at the PPSH since July
+1978. Observations of additional parameters, including snow
+cover depth and SWE, were started in 1983. The summary of
+the collected climatological time series was described by
+Wawrzyniak and Osuch (2020). The availability of long-term
+hydrometeorological observation data allows testing the
+capability of hydrological models under variable climatic
+conditions.
+The meteorological data used for model calibration comes
+from automatic measurements with sensor HMP155 (air tem-
+perature data with 1-min interval) and Hellman rain gauge
+(precipitation data with 6 h time step). Potential evapotranspi-
+ration (PET) was calculated using the Hamon method (Hamon,
+1961). Time series of air temperature, precipitation, PET, and
+runoff is available at the Pangaea repository and were described
+by Wawrzyniak et al. (2021). During the short Arctic summer,
+mean air temperature is relatively stable, with the maximum
+occurring in mid-July and steadily declining until the end of this
+season. Mean daily air temperature from mid-June to mid-
+September oscillates between 2.0 and around 5.0
+C. The
+daily sum of precipitation varies, usually not exceeding 10 mm.
+The sum of precipitation from mid-June till mid-September
+reached its maximum in 2018 (275.1 mm). The lowest sum
+for this period was observed in 2017 (75.6 mm).
+First measurements in the Fuglebekken stream were carried
+out during the expedition to the PPSH in 1979/1980 (Pulina
+et al., 1984). Runoff measurements with ﬂowmeter Nivus
+PCM-F with Active Doppler sensor were started in 2014 in the
+hydrological gauge located at 77.0053N, 15.5561E (Fig. 1).
+This device provides high accuracy measurements with un-
+certainty ±1% of the ﬁnal value of ﬂow velocity and 0.5% of
+the ﬁnal value of the water level. Flow measurements strongly
+depend on the channel geometry that in the case of cold
+climate catchments may vary due to ice cover and sediment
+transport. Adequate capturing of early-season runoff typically
+is limited due to the ice-blocking of the channel at the
+beginning of the melting season. The ﬂow measurements were
+performed when the river cross-section was free of ice. Usu-
+ally, a ﬂow meter is installed on the bottom of the stream in the
+second part of June and deinstalled when the ﬁrst freeze-up
+occurs (in the second part of September or in October).
+An active Doppler sensor has been used to measure runoff
+in the Fuglebekken stream with the 10 min interval. In the
+period 2014e2020, the peaks of runoff were observed at the
+end of June/the beginning of July, as a result of snow cover
+melting, and in late summer, when the abrupt increase of
+precipitation inﬂuences runoff. In between, after snow cover
+disappearance, the runoff is usually low and stable.
+Fig. 1. Fuglebekken catchment (source: Norsk Polar Institute, changed).
+519
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+2.2.2. Remote sensing data
+Estimation of the dates of Fuglebekken river break-up and
+freeze-up based on simulation results was compared with
+time-lapse imagery. Continuous image acquisition has been
+carried out with three automatic time-lapse camera systems set
+on Ariekammen mountain ridge and facing the Fuglebekken
+catchment since autumn 2016. A single daily cloudless image
+was selected and visually analysed to assess the dates of ac-
+tivity of the Fuglebekken stream.
+3. Methods
+3.1. Modelling scheme
+We used the Modular Assessment of RRMs Toolbox for
+hydrological simulations (MARRMoT), which includes 46
+conceptual models (Knoben et al., 2019). These models differ
+in how they conceptualise the hydrological processes and the
+complexity of the hydrological system.
+The models from the MARRMoT toolbox were supple-
+mented by two versions of the HBV model and one version of
+the GR4J model and MILc model (Brocca et al., 2013). We
+applied versions of the HBV and GR4J models that were
+employed in our previous studies (Wawrzyniak et al., 2017;
+Osuch et al., 2019; Piotrowski et al. 2019a, 2019b) and the
+Nordic version of the HBV (Bergstr€om, 1995; Beldring et al.,
+2003) described by Hanssen-Bauer et al. (2019) and Lawrence
+(2020). Supplementary materials Fig. A1 ssummarises the
+applied models regarding processes taken into account, the
+number of conceptual storages, and the number of parameters.
+The included storages are snow, interception, surface depres-
+sion, soil moisture, groundwater, routing store, routing func-
+tion, and channel routing. Snow accumulation and melting are
+included in 15 models. The number of parameters varies from
+one (Collie1) to 24 parameters (Lascam model). Most of the
+models are lumped, except the Nordic version of the HBV
+(Sælthun, 1996), an example of a semi-distributed model
+where the catchment is divided into homogeneous areas ac-
+cording to elevation. As input variables, time series of air
+temperature and precipitation from the Hornsund station were
+applied together with calculated PET.
+In the ﬁrst step, all models were calibrated based on runoff
+only; however other ﬂuxes and several internal state variables
+(including SWE) were assessed as an implicit validation of the
+hydrological processes. PET was estimated using the Hamon
+method based on the air temperature (Hamon, 1961). Due to
+ﬂow data availability, the models were calibrated using ﬂow
+observations from six seasons (2014e2019). These observa-
+tions were conducted during the highest hydrological activity
+of the stream (mid-July to the end of September). There were
+no ﬂow observations during the early snowmelt period, which
+made calibration of the parameters related to the snow reser-
+voir difﬁcult. Therefore the ﬂow time series were supple-
+mented with zero ﬂow with the help of the stream water
+temperature model. For this purpose, a data-based mechanistic
+approach was applied. The model was derived using a single
+input (the ground temperature at 20 cm depth measured
+continuously at the Hornsund station and streamwater tem-
+perature as an output. The model was calibrated using obser-
+vations from 2017 and validated on data from other years. In
+the next step, this model was applied to observations from
+2014 to 2019, and the simulation outcomes were applied to ﬁll
+the missing ﬂow data. It was assumed that the ﬂow value was
+equal to zero for each time step with the simulated stream
+water temperature below freezing. This procedure signiﬁcantly
+improved the performance of rainfall-runoff models and their
+ability for the appropriate simulations of ﬂow regimes.
+As a measure of the ﬁt between observation and simula-
+tions, the Kling-Gupta efﬁciency (KGE, Gupta et al., 2009)
+was applied. Different calibration methods were tested to
+identify the best set of parameters. As a result modelling
+scheme, one method SPS-L-SHADE-EIG was applied (Guo
+et al., 2015). The soptimisation procedure consisted of ten
+runs of the SPS-L-SHADE-EIG method for each of the 50
+rainfall-runoff models.
+Models were calibrated using meteorological input data
+from the period 2013e2019. The ﬁrst year of simulations has
+been skipped to avoid the inﬂuence of initial conditions, and
+the objective function was calculated using ﬂow data during
+the period 2014e2019. The initial conditions were set to zero
+for all selected models, except the PRMS model, which
+required a larger value of initial conditions (1000 mm) to
+simulate the ﬂow.
+3.2. Calibration and validation results
+The calibration results of 50 rainfall-runoff models using
+SPS-L-SHADE-EIG
+and
+fminsearchbnd
+soptimisation
+methods with KGE as an objective function are summarised in
+Fig. A1. In the High Arctic, winter precipitation is stored in
+snow cover and is released in spring and summer. Fuglebekken
+catchment is largely dependent on snow cover melting;
+therefore, snow modules are required for appropriate simula-
+tion of the hydrological regime and stream activity, including
+dates of break-up and freeze-up. Due to implementing zero
+runoff to input data during the calibration stage, the results
+were improved for all models that include snow modules.
+According to the outcomes of the SPS-L-SHADE-EIG
+calibration method, six best performing models with the
+highest KGE were selected: Nordic HBV (0.67), GR4J (0.70),
+HBV (0.76), FLEX-IS (0.77), PRMS (0.80), and GSM-
+SOCONT (0.81). The performance of these models is visual-
+ised in Fig. A2. Each model accurately illustrates the annual
+run and ﬂow peaks. There are differences in the simulations
+between models due to differences in their structure, number
+of parameters and storages. Using hydrological modelling, we
+extended the ﬂow data into a period without observations
+when the ﬂowmeter was not installed.
+In the second step, validation of the simulations was per-
+formed using (a) ﬂow observation from the years: 2020,
+1979e1980, and 2001 (Fig. A3), (b) time-lapse imagery
+(Fig. A4 and A5), and (c) snow water equivalent (SWE) ob-
+servations (Fig. A6). The validation results were visualised
+and described in the supplementary materials. The outcomes
+520
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+conﬁrmed the suitability of these models to simulate hydro-
+logical conditions in the Fuglebekken catchment.
+In the third step, the long-term simulations of ﬂow in the
+period 1979e2019 were obtained using six selected models
+with the best calibration and validation results. These models
+are FLEX-IS, GSM-SOCONT, PRMS, HBV, Nordic HBV, and
+GR4J. The long term simulations were performed for the best
+parameter sets using observed inputs from the Hornsund
+meteorological station.
+3.3. Analysis of seasonality
+For the analyses of seasonality, the Moving Average of over
+Shifting Horizon (MASH, Anghileri et al., 2014) method was
+supplemented with trend analysis (Sen's method (Sen, 1968)
+for the slope of trend and modiﬁed ManneKendall (Hamed
+and Rao, 1998) for the signiﬁcance of trend) was applied.
+The MASH approach was previously successfully applied to
+daily ﬂows by Anghileri et al. (2014) and daily air temperature
+and the sum of precipitation (Osuch and Wawrzyniak, 2017a),
+as well as snow cover variability (Osuch and Wawrzyniak,
+2017b).
+Due to the application of the MASH method, the small
+scale variability of time series was ﬁltered out, allowing
+analysis of trends and seasonality changes. The Fuglebekken
+meteorological time series were averaged over 31 d to omit
+signiﬁcant
+day-to-day
+variability
+and
+delineate
+seasonal
+patterns.
+4. Results
+4.1. Changes in atmospheric forcing to rainfall-runoff
+models
+The most important factors inﬂuencing ﬂow regime are
+atmospheric variables: precipitation and air temperature. Fig. 2
+shows a smoothed air temperature obtained with w ¼ 15 d and
+Y ¼ 10 years. The original time series covers the period from
+1979 to 2020 (Ny ¼ 42). The ﬁltered data consists of Nh ¼ 33
+patterns that are visible as several lines in Fig. 2a and the
+number of cells in the X direction in Fig. 2b. The changes in
+air temperature are visible as differences in the annual run for
+different 10 years-long periods (Fig. 2a) or differences in the
+number of cells with particular colours (Fig. 2b). In general,
+changes (warming) are visible for almost all months except
+March, with signiﬁcant differences between seasons. The
+largest increases in air temperature are observed during the
+cold period from November to February. From the hydrolog-
+ical perspective, changes in the length of the period with
+positive air temperature are very important. A prolongation of
+such a period is visible. In the 1980s, the period with positive
+air temperature lasted from the ﬁrst part of June till the second
+part of September, while for the last decade, it started in the
+second part of May and lasted till the ﬁrst part of October.
+The changes in the seasonality of precipitation from 1979
+to 2020 are presented in Fig. 3. In the ﬁrst decade, shown as
+lines with dark blue colour, precipitation was evenly distrib-
+uted throughout the year. The data from the last few years
+indicate large changes in precipitation seasonality. The period
+from mid-August till November is characterised by a much
+higher precipitation amount that almost reached 4 mm d1
+compared to 1.5 mm d1 observed in the 1980s.
+Positive trends in air temperature are statistically signiﬁcant
+at 0.05 level throughout the year except for two days in March
+(see Fig. 4). The largest trends (more than 2.0 C per decade)
+were found from December to February. An increasing ten-
+dency (1.0e1.5 C) is noted in April, October and November.
+The smallest (less than 0.5 C per decade) was found in March
+and summer months (JuneeAugust).
+The changes in precipitation are statistically signiﬁcant for
+some periods of the year. Statistically signiﬁcant increases
+were estimated from mid-August till mid-November and from
+mid-December to the beginning of February. Decreases in
+precipitation amount were found in the three periods: from
+mid-March till mid-April, in June and the second part of July.
+The largest trends (more than 0.5 mm per decade) are
+observed from mid-August till the end of September.
+4.2. Changes in snow water equivalent
+At the Hornsund station, snow cover has been monitored
+since August 1982 (Osuch and Wawrzyniak, 2017b). Fig. 5
+shows a smoothed time series of SWE at the PPSH in the
+period 1983e2020. The maximum SWE was observed from
+Fig. 2. Visual representation of the MASH results for the air temperature at the Hornsund site in 1979e2020, (a) the colour of lines represents the period of
+averaging (33 periods as MASH is composed of Nh ¼ 33 patterns), (b) the matrix of smoothed air temperature (On the X-axis the data are averaged over 10 years,
+on the Y-axis over 31 d. The ticks on the X-axis represent the last year of the averaging period; for example, 2020 denotes data averaged over 2011e2020).
+521
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+the end of March till the beginning of June, with a signiﬁcant
+decrease at the 0.05 level from almost 150 mm in the 1980s to
+less than 75 mm after 2005. Large changes in snow cover
+duration, later onset, and earlier disappearance are observed.
+Such changes inﬂuence the timing and magnitude of snowmelt
+driven ﬂoods that recently appear earlier in the season.
+Negative trends in SWE were estimated for the whole year,
+except July and the ﬁrst half of August (Fig. 6). We attributed
+this trend to the observed increase in air temperature, which
+directly impacts the phase of precipitation and development of
+snow cover. The largest decrease (>20 mm per decade) is
+noted in the period with maximum snow cover (end of March‒
+beginning of June). The summer season lasts longer, melt
+onset appears earlier, and freeze-up starts later, extending the
+hydrologically active season.
+4.3. Flow regime indices and their changes
+The analysis of simulations of six rainfall-runoff models in the
+period 1979e2020 was performed and is presented in Fig. 7.
+Four indices describing the ﬂow regime were derived a) the
+number of days with the ﬂow exceeding 0.005 m3 s1 throughout
+the whole year, b) the number of days with the active ﬂow during
+the typical period with the active ﬂow between the mid-May and
+the end of November, c) the ﬁrst day with the ﬂow, and d) the last
+day with the ﬂow in mid-May‒November.
+These indices quantify the ﬂow activity in the whole cal-
+endar year and during the period with the typical ﬂow
+occurrence in the analysed 42 years. In recent years, Fugle-
+bekken has been active for a signiﬁcantly longer period. For
+this reason, mid-May‒November was chosen as the typical
+period of activity.
+There is a large variability of the Fuglebekken activity,
+quantiﬁed by indices, between models and years. The lowest
+values of (a) and (b) indices resulted from the simulations of
+the PRMS model and amounted to 28 d in 1987 (both annual
+and seasonal values). The largest number of days with ﬂow
+resulted from the HBV Nordic model. In that case, the out-
+comes reached 173 d in mid-May‒November of 2016 and
+197 d during the whole year 2016. The reason for such a large
+annual number of days with the active ﬂow was the occurrence
+of a surface ﬂow in the winter of 2016, when the positive air
+temperature was accompanied by intensive liquid precipitation
+for several days in a row. The statistically signiﬁcant trend at
+the 0.05 level varies from 4.5 d per decade for the PRMS
+model to 15.7 d per decade for Nordic HBV for annual
+analysis and from 4.0 d per decade (PRMS) to 14.2 d per
+decade (GR4J) for the mid-May‒November. The mean slope
+of the trend from the six models is 10.8 d per decade for the
+whole year and 9.8 d per decade for the period mid-May‒
+November. That means that the hydrologically active season in
+recent decades lasted over 40 d longer than forty years ago.
+Fig. 3. Visual representation of the MASH results for the daily precipitation at the Hornsund site in 1979e2020, (a) the colour of lines represents the period of
+averaging (33 periods as MASH is composed of Nh ¼ 33 patterns), (b) the matrix of smoothed precipitation (On the X-axis the data are averaged over 10 years, on
+the Y-axis over 31 d. The ticks on the X-axis represent the end of the averaging period; for example, 2020 denotes data averaged over 2011e2020).
+Fig. 4. Results of the ManneKendall test for trend detection of air temperature (a) and daily precipitation (b) at the Hornsund site in 1979e2020 (Statistically
+signiﬁcant changes at the 0.05 level are presented by the solid line. Dotted lines represent the conﬁdence bounds of the estimated trend slope at 95%. Insigniﬁcant
+trends at the 0.05 level are not shown).
+522
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+Similar ﬂow trends were described by Hanssen-Bauer et al.
+(2019) for other catchments in Svalbard.
+The difference between (a) and (b) indices denotes the
+number of days with the ﬂow in December‒mid-May that
+occurred due to positive air temperatures and rain on snow
+events (Sobota, 2020). Such thawing events occurred sporad-
+ically in the 20th century. Analyses of simulated ﬂow time
+series indicated three years with such events, 2 d in 1984
+simulated by HBV Nordic only, 2 d in 1993 simulated by HBV
+Nordic and 3 d by HBV, and 6 d in 1995 simulated by the
+HBV. In the 21st-century, ﬂow activity in winter months
+became common and was simulated by all models in 2002,
+2005, 2006, 2011e2018, and 2020. The highest number of
+days with winter ﬂow were found in 2016 (22 d simulated by
+GR4J and more than 6 d by other models) and 2006 (21 d
+simulated by HBV Nordic and more than 6 d by other models).
+Based on the simulations obtained from different models
+for mid-May‒November, the earliest ﬂow onset date occurred
+on the 15th of May 2016, while the latest day with the ﬂow in
+mid-May‒November was estimated on the 30th of November
+1998, 2016, 2018 and 2020. In other years the onset occurred
+later and the cessation of ﬂow period was earlier. The latest
+start of ﬂow was simulated by the HBV model on 9 July, 1996.
+The earliest end of the active ﬂow season was simulated by the
+GR4J model on 31 July, 1987.
+A statistically signiﬁcant trend ( p < 0.05) was obtained for
+all models and four ﬂow indices except the annual number of
+days with the active ﬂow in the calendar year and mid-May‒
+November estimated by PRMS and the last day with ﬂow
+simulated by FLEX-IS (Table 1). The slope of the trend for the
+ﬂow onset date was the smallest for both HBV models (4.1 d
+per decade) and the largest for the three models FLEX-IS,
+GSM-SOCONT, and GR4J (5.0 d per decade). The cessa-
+tion of the ﬂow has been postponed from 5.9 d per decade
+(FLEX-IS) up to 10.6 d per decade in the case of the PRMS
+model. The statistically signiﬁcant trend of runoff prolonga-
+tion was identiﬁed by all models except FLEX-IS. Taking into
+account the average of trends calculated by six models, the
+mean onset of ﬂow season occurs earlier at the rate of 4.7 d per
+decade, whereas the mean cessation of the runoff is observed
+approximately 8.4 d per decade later.
+4.4. Changes in the ﬂow regime
+Based on calculated KGE values, six models were selected
+with the best model performance at the calibration and vali-
+dation
+stages.
+These
+models
+include
+FLEX-IS,
+GSM-
+SOCONT, PRMS, HBV, Nordic HBV, and GR4J. The per-
+formance of these models conﬁrms their suitability for simu-
+lations
+of
+hydrological
+conditions
+in
+the
+Fuglebekken
+catchment. These models were applied to reconstruct past
+hydrological conditions in the Fuglebekken catchment in the
+period 1979e2020. As the inputs to the models, the observa-
+tions from the Hornsund station were taken. Fig. 8 shows
+smoothed ﬂow time series simulated by the six models. The
+ﬂow values were averaged in the two dimensions over years
+and days simultaneously. The outcomes from the six selected
+models are similar regarding the earlier occurrence of snow-
+melt ﬂoods, increases in autumn ﬂow due to an increase in
+precipitation, prolongation of the hydrologically active season
+and occurrence of rain on snow events.
+The maximum smoothed value of the runoff was obtained
+with FLEX-IS and HBV models, reaching approximately
+0.09 m3 s1, slightly less with GSM-SOCONT (0.08 m3 s1),
+Nordic HBV and GR4J (both around 0.07 m3 s1). The PRMS
+model estimated the ﬂow peaks to be ﬂatter, not exceeding
+0.05 m3 s1. According to the results of each model, the ﬂow
+onset date shifted from the second half of June to the begin-
+ning of June. Another characteristic feature is a decrease in
+ﬂow from the second half of July to the second half of August
+after the snowmelt period. As a consequence of increased
+precipitation from the second part of August till November
+and positive air temperatures, higher ﬂows are observed. In
+recent years the shift in ﬂood seasonality is visible from
+snowmelt dominated in the 1980s to a bi-modal ﬂow regime
+with two peaks within the annual run. One peak is observed in
+June/July due to snowmelt and one in September/October due
+to rainfall events. The prolongation of the hydrologically
+active season is also visible, as the freeze-up has been delayed
+in the last decade in comparison to the seasons of the 1980s.
+Figure 9 presents smoothed ﬂow simulated using FLEX-IS,
+GSM-SOCONT, PRMS, GR4J, HBV and Nordic HBV models
+in the form of the matrix. The colour scale differs between
+Fig. 5. Visual representation of the MASH results for the snow water equivalent time series at the Hornsund site in 1983e2020, (a) the colour of lines represents the
+period of averaging (29 periods as MASH is composed of Nh ¼ 29 patterns), (b) the matrix of smoothed SWE (On the X-axis the data are averaged over 10 years,
+on the Y-axis over 31 d. The ticks on the X-axis represent the last year of the averaging period; for example, 2020 denotes data averaged over 2011e2020).
+523
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+models. In this way, we highlighted the similarities between
+simulations. The period with a hydrologically active stream is
+indicated by colours different from red. Comparing colour
+patterns, the changes in ﬂow regime are visible. In all cases,
+the ﬂows start earlier and last much longer in the last decades
+compared to data from the 1980s.
+Based on the averaged with MASH tool mean daily ﬂow
+simulations, the ManneKendall test was applied to detect
+trends of ﬂow time series. Fig. 10 shows statistically
+signiﬁcant trends in the ﬂow regime estimated for six models.
+The presented results indicated similarities in the estimated
+trends between models. The shape of these lines is similar.
+Statistically signiﬁcant increases in streamﬂow larger than
+0.01 m3 s1 per decade are visible from mid-May till the end
+of June and the second part of August till mid-November. The
+changes in the period from mid-May to the end of June result
+from increases in air temperature and connected decreases of
+SWE and earlier snowmelt-driven ﬂoods. The second period
+with estimated increases in streamﬂow (second part of August
+till mid-November) corresponds well to large changes in
+precipitation (Fig. 3).
+All selected models simulated decreases in streamﬂow in
+July and the ﬁrst part of August. Such changes result from the
+earlier disappearance of snow, increases in air temperature and
+decreases in precipitation for this period.
+Besides similarities in the results, there are also differences
+in the estimated slope of trend between models, presented in
+Fig. 10. These differences are mainly visible in the magnitude
+of these changes. The largest changes (more than 0.01 m3 s1
+per decade) were estimated for mid-June by HBV and GSM-
+SOCONT. The outcomes from other models are lower and
+amount to around 0.007 m3 s1 per decade.
+In the second period, with the estimated increase in
+streamﬂow, the results were grouped into two categories. The
+outcomes
+from
+FLEX-IS
+and
+PRMS
+indicated
+smaller
+Fig. 6. The estimated trend in SWE (mm per decade) at the Hornsund mete-
+orological site in 1983e2020 (The results were obtained for the MASH-
+ﬁltered data. The solid line denotes a statistically signiﬁcant trend, while
+insigniﬁcant trends at the 0.05 level are not shown).
+Fig. 7. Variability of (a) the number of days with the active ﬂow, (b) the number of days with the active ﬂow (mid-May‒November), (c) the ﬁrst day with the ﬂow,
+and (d) the last day with the ﬂow (mid-May‒November) in the Fuglebekken in the period 1979e2020.
+524
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+increases in autumn ﬂows (around 0.002 m3 s1 per decade)
+than other models (more than 0.005 m3 s1 per decade).
+Negative trends in the ﬂow magnitude have been found for
+a period between the beginning of July and the ﬁrst half of
+August. The decrease of the runoff is estimated to reach
+0.01 m3 s1 per decade. A slightly lower trend was detected by
+the PRMS model (0.005 m3 s1 per decade). Flow decline is
+related to the reduction of liquid precipitation in the middle of
+summer, coupled with a diminished snow cover depth at the
+beginning of the ablation season. Less intense accumulation of
+snow in winter and spring months melts faster and contributes
+to runoff mainly in June when rapid air temperature rise
+transforms snow cover into water. The shift in the onset of
+positive air temperature, which tends to occur 10 d earlier per
+decade, is responsible for accelerated snow cover melting and
+a lack of this source of water supply in the middle of the
+summer season. As the Fuglebekken catchment is non-
+glaciated, precipitation and snow cover are key factors inﬂu-
+encing the ﬂow regime.
+There are visible differences in the prolongation of the
+hydrologically active season. Statistically signiﬁcant increases
+in autumn streamﬂow until mid-November were found for
+FLEX-IS, GSM-SOCONT, PRMS, and HBV. The outcomes
+from HBV Nordic and GR4J indicate a much longer occur-
+rence of ﬂow until March. Such results are related to the
+applied smoothing (averaging) of simulated time series over
+years and days. Events of a few consecutive days with positive
+air temperature in the winter season are more common in
+recent years, resulting in presence of surface ﬂow in the
+simulations. The runoff activity in the middle of the winter
+detected by each model, lasted even up to 18 d. Intensive rain
+events accompanied unusually high air temperatures in these
+periods.
+5. Discussion
+5.1. Rainfall-runoff modelling
+In the High Arctic, the rainfall-runoff modelling ap-
+proaches, and especially multimodel studies, are very rare.
+Previous studies conducted in Svalbard have mostly focused
+on reporting of observed hydrological conditions (Nowak
+et al., 2021). Recent enhancement of computational power
+has led to the development of models that represent the hy-
+drological system in detail through the consideration of
+numerous processes involved. When hydrological models are
+applied for the reconstruction of the past and projections of
+future hydrological conditions, the model structure is likely to
+be the main source of uncertainty (Dams et al., 2015). There is
+no perfect model, and all of them are conceptual and represent
+simpliﬁed descriptions of catchment conditions and hydro-
+logical processes. Therefore we analysed multiple models and
+selected
+the six best-performing ones FLEX-IS, GSM-
+SOCONT, and PRSM from the MARRMoT toolbox, and
+HBV, Nordic HBV, and GR4J. With help of these models we
+were able to reconstruct ﬂow conditions in the period
+1979e2020 and estimate changes in ﬂow regime.
+Due to the limited availability of ﬂow time series and lack
+of data from the beginning of the snowmelt period, the
+appropriate calibration and performance of hydrological
+models may be uncertain. Combining in-situ runoff measure-
+ments with remote sensing techniques helps to improve the
+recognition of the catchment functioning. Classiﬁed time-
+lapse images provided information on the activity of the
+catchment under study and helped verify runoff simulations
+beyond the period with in-situ ﬂow measurements. Flow peaks
+simulated by hydrological models in spring (before the
+installation of the ﬂow meter) and late autumn (after the
+deinstallation) were conﬁrmed by the images. This study
+demonstrates that the time-lapse imagery with a ﬁxed camera
+can be a cost-effective and reliable tool for validating runoff
+simulations. Further advancement of satellite- and airborne
+remote sensing with higher spatial resolution sensors may
+complement
+hydrological
+investigations
+of
+small
+Arctic
+catchments with relatively short and narrow streams, such as
+Fuglebekken.
+Snow cover duration, accumulation, and disappearance are
+very important for modelling hydrological conditions in the
+High Arctic. The validation procedure also included a com-
+parison to SWE measurements and simulations. This pro-
+vided additional information on the hydrological regime,
+especially on the timing and magnitude of snowmelt driven
+Table 1
+The outcomes of trend analysis by the modiﬁed ManneKendall method on ﬂow indices.
+Model
+Number of days in the
+calendar year with
+Q > 0.005 m3 s1
+(d per decade)
+Number of days in the period
+mid-May‒November with
+Q > 0.005 m3 s1
+(d per decade)
+The ﬁrst day with the ﬂow in
+mid-MayeNovember
+(d per decade)
+The last day with the ﬂow
+in mid-MayeNovember
+(d per decade)
+FLEX-IS
+6.7
+5.9
+¡5.0
+5.9
+GSM-SOCONT
+11.5
+10.1
+¡5.0
+9.2
+PRMS
+4.5
+4.0
+¡4.7
+10.6
+HBV
+10.8
+10.8
+¡4.1
+8.1
+Nordic HBV
+15.7
+13.6
+¡4.1
+6.7
+GR4J
+15.5
+14.2
+¡5.0
+10.0
+Minimum change from the ensemble
+4.5
+4.0
+4.1
+5.9
+Mean change from the ensemble
+10.8
+9.8
+4.7
+8.4
+Maximum change from the ensemble
+15.7
+14.2
+5.0
+10.6
+Note: Values shown in bold indicate statistically signiﬁcant trends at 0.05 level.
+525
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+ﬂoods. Snowmelt driven ﬂoods recently appeared earlier and
+with a smaller magnitude due to a decrease of SWE observed
+in SW Spitsbergen (Osuch and Wawrzyniak, 2017b) and
+other Arctic locations (Callaghan et al., 2012; Bring et al.,
+2016).
+5.2. Flow regime changes
+This study conducted for the High Arctic unglaciated
+catchment revealed the prolongation of ﬂow season, an earlier
+ﬂow onset, and a delay of its cessation. The MASH procedure
+allowed detection changes in the hydrometeorological data by
+ﬁltering out the effects of periodicity of the variables and their
+small-scale variability. Due to data ﬁltering, long-term vari-
+ability was emphasised, enabling recognition of the trends and
+seasonality in hydrometeorological conditions in the Fugle-
+bekken catchment in the period 1979e2020.
+Autumn events of intense precipitation that activate the
+ﬂow in the catchment after initiatory freeze-up in the last two
+decades have become more frequent. An increase in rain-on-
+frozen-ground events, occurring from December to April, is
+expected to be even more signiﬁcant in the next decades
+(Vikhamar-Schuler et al., 2016; Łupikasza et al., 2019; Sobota
+et al., 2020). Simulation results of runoff variability in the
+Fuglebekken stream correspond to the conclusions raised by
+Nowak and Hodson (2013), describing changes occurring in
+the Bayelva catchment in 1989e2010, located in the NW
+Spitsbergen. Despite its glacierised character, it is also
+affected by the increased liquid precipitation in autumn,
+resulting in shifts in the ﬂow regime. Similar results have been
+recently described by Nowak et al. (2021). These ﬁndings
+correspond very well with studies by Arheimer and Lindstrom
+(2015), Matti et al. (2016), and Vormoor et al. (2015) that were
+carried out for the catchments in the Nordic countries. These
+studies have shown that the hydrological regime shifts due to
+climate change and varies with location. Our results show that
+the ongoing change in ﬂow regime in the highly vulnerable
+High Arctic is larger than in lower latitudes.
+Fig. 8. Visual representation of the MASH results for simulated ﬂow time series in Fuglebekken in the years 1979e2020 (w ¼ 15, Y ¼ 10).
+526
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+5.3. Limitations
+Hydrological modelling in such remote regions with
+limited data together with varying climate conditions involves
+larger uncertainty of the results compared to the studies in
+lower latitudes mainly due to input data and stationarity of the
+model parameters when the model is applied under transient
+cryo-hydro-climatological conditions. The greatest limitations
+and uncertainties of this study are related to the input data.
+Arctic catchments are scharacterised by the limited availabil-
+ity of in-situ measurements, and Fuglebekken is not an
+exception. The available time series are relatively short, with
+gaps in the observations. In addition, the available observa-
+tions are subject to large uncertainty. Precipitation, particu-
+larly snowfall, is one of the most challenging variables to
+measure appropriately. The
+quality of the precipitation
+measurements depends on site characteristics and environ-
+ment, gauge type, and collection method. The systematic
+biases include wind-induced undercatch, wetting loss and
+underestimation of trace precipitation (Wolff et al., 2015) that
+in the rainfall-runoff models are corrected by the precipitation
+correction factors. The other input variable, PET and related
+evapotranspiration remain one of the least srecognised com-
+ponents of the hydrological cycle in the Arctic (Woo et al.,
+2008). Although some regional studies in coastal wetlands
+of the Canadian Arctic and Alaska do exist (Liljedahl et al.,
+2011), they produce contrasting results. Therefore, it is difﬁ-
+cult to apply evapotranspiration rates from lower latitudes to
+hydrological models in the Arctic environment, such as in
+Svalbard, and almost impossible to predict evapotranspiration
+changes in hydrometeorological models without appropriate
+in-situ measurements.
+Fig. 9. Visual representation of the MASH results for daily mean simulated ﬂow time series in Fuglebekken in 1979e2020 (w ¼ 15, Y ¼ 10) (On the X-axis, the
+data are averaged over 10 years, on the Y-axis over 31 d. The ticks on the X-axis represent the last year of the averaging period).
+527
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+The other limitations result from the lack of long term soil
+moisture and groundwater measurements. Models were cali-
+brated and validated only on streamﬂow, which may cause
+problems identifying model structure and model parameters.
+The maintenance of modern hydrometeorological monitoring
+in the upcoming years will provide additional time series (e.g.
+evaporation, active layer thickness, soil moisture, groundwater
+level). The extension of the length of the data series will allow
+the improvement of parameter representativeness and hence
+the reduction of parametric uncertainty.
+6. Conclusions
+This study investigated the impact of changes in hydro-
+meteorological conditions on the ﬂow regime in a High Arctic
+unglaciated catchment. It was simulated with the help of an
+ensemble of different rainfall-runoff models. The applicability
+of the models was tested by validation of simulations using
+archival ﬂow observations, time-lapse imagery and SWE ob-
+servations. The calibration and validation results indicated that
+multiple rainfall-runoff models describe well present and past
+hydrological conditions in the Fuglebekken catchment.
+The presented results document that the hydrological
+regime of the Fuglebekken catchment has already shifted due
+to changes in the climate of this region. A statistically sig-
+niﬁcant increase in runoff was detected for two periods from
+mid-May to the end of June and the second part of August till
+mid-November. The changes in the ﬁrst period result from
+increases in air temperature and earlier occurrence of
+snowmelt driven ﬂoods. An estimated runoff increase in the
+second period corresponds to large changes in precipitation.
+A decrease in runoff was estimated in July and the ﬁrst part
+of August as a consequence of the increases in air temper-
+ature, earlier disappearance of snow and decreases in
+precipitation.
+In addition, statistically signiﬁcant changes were estimated
+in the number of days with the active ﬂow during the calendar
+year (10.8 d per decade), and during the mid-MayNovember
+period (9.8 d per decade), the date of the ﬁrst day with the ﬂow
+(4.7 d per decade) and the last day with the ﬂow during mid-
+May-November (8.4 d per decade).
+The present hydrological regime differs signiﬁcantly from
+that observed in the past. The magnitude of the changes is
+larger compared to lower latitudes as these analyses were
+performed for the area with one of the fastest-warming on
+Earth.
+Declaration of competing interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This study was supported by the Polish National Science
+Centre (2017/27/B/ST10/01269 and 2020/38/E/ST10/00139)
+and partially by the Polish Ministry of Science and Higher
+Education subsidy for the Institute of Geophysics, Polish
+Academy of Sciences. The hydrometeorological time series
+are summarised by Wawrzyniak et al. (2021), and access to the
+data is available in the PANGAEA repository (https://doi.org/
+10.1594/PANGAEA.921921). Archival meteorological time
+series is also available in the PANGAEA repository (https://
+doi.org/10.1594/PANGAEA.909042) with the data overview
+described by Wawrzyniak and Osuch (2020). Thanks to the
+staff of the Institute of Geophysics PAS and the Polish Polar
+Station Hornsund for establishing and maintaining the mete-
+orological and oceanographic monitoring. The access to data
+from the time-lapse cameras is available via https://dataportal.
+igf.edu.pl/dataset/timelapse-photographs-from-arie-to-
+isbjornhamna.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.accre.2022.05.001.
+References
+Anghileri, D., Pianosi, F., Soncini-Sessa, R., 2014. Trend detection in seasonal
+data: from hydrology to water resources. J. Hydrol. 511, 171e179. https://
+doi.org/10.1016/j.jhydrol.2014.01.022.
+Arheimer, B., Lindstr€om, G., 2015. Climate impact on ﬂoods: Changes in high
+ﬂows in Sweden in the past and the future (1911-2100). Hydrol. Earth Syst.
+Sci. 19, 771e784. https://doi.org/10.5194/hess-19-771-2015.
+Beldring, S., Engeland, K., Roald, L.A., et al., 2003. Estimation of parameters
+in a distributed precipitation-runoff model for Norway. Hydrol. Earth Syst.
+Sci. 7, 304e316. https://doi.org/10.5194/hess-7-304-2003.
+Bergstr€om, S., 1995. The HBV model. In: Singh, V.P. (Ed.), Computer Models
+of Watershed Hydrology. Water Resources Publications, Highlands Ranch,
+pp. 443e476.
+Bl€oschl, G., Hall, J., Parajka, J., et al., 2017. Changing climate shifts timing of
+European ﬂoods. Science 357 (6351), 588e590. https://doi.org/10.1126/
+science.aan2506.
+Bl€oschl, G., Bierkens, M.F.P., Chambel, A., et al., 2019b. Twenty-three un-
+solved problems in hydrology (UPH) e a community perspective. Hydrol.
+Sci.
+J.
+64
+(10),
+1141e1158.
+https://doi.org/10.1080/02626667.2019.
+1620507.
+Fig. 10. Results of ManneKendall test for trend detection of smoothed ﬂow
+time series in Fuglebekken in 1979e2020 (w ¼ 15, Y ¼ 10) (The continuous
+lines represent statistically signiﬁcant changes at the 0.05 level, while insig-
+niﬁcant trends at the 0.05 level are not shown).
+528
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+Bl€oschl, G., Hall, J., Viglione, A., et al., 2019. Changing climate both in-
+creases and decreases European river ﬂoods. Nature 573 (7772), 108e111.
+https://doi.org/10.1038/s41586-019-1495.
+Blaen, P.J., Hannah, D.M., Brown, L.E., et al., 2014. Water source dynamics of
+high Arctic river basins. Hydrol. Process. 28, 3521e3538.
+Breuer, L., Huisman, J.A., Willems, P., et al., 2009. Assessing the impact of
+land use change on hydrology by ensemble modelling (LUCHEM). I:
+model intercomparison with current land use. Adv. Water Resour. 32 (2),
+129e146. https://doi.org/10.1016/j.advwatres.2008.10.003.
+Bring, A., Fedorova, I., Dibike, Y., et al., 2016. Arctic terrestrial hydrology: a
+synthesis of processes, regional effects, and research challenges. J. Geophys.
+Res. Biogeosci. 121, 621e649. https://doi.org/10.1002/2015JG003131.
+Brocca, L., Liersch, S., Melone, F., et al., 2013. Application of a model-based
+rainfall-runoff database as efﬁcient tool for ﬂood risk management.
+Hydrol. Earth Syst. Sci. 10, 2089e2115.
+Callaghan, T.V., Johansson, M., Brown, R.D., et al., 2012. The changing face
+of Arctic snow cover: a synthesis of observed and projected changes.
+Ambio 40 (S1), 17e31.
+Chapman, W.L., Walsh, J.E., 2007. Simulations of Arctic temperature and
+pressure by global coupled models. J. Clim. 20 (4), 609e632. https://
+doi.org/10.1175/JCLI4026.1.
+Dahlke, S., Hughes, N.E., Wagner, P.M., et al., 2020. The observed recent
+surface air temperature development across Svalbard and concurring
+footprints in local sea ice cover. Int. J. Climatol. 40, 5246e5265. https://
+doi.org/10.1002/joc.6517.
+Dams, J., Nossent, J., Senbeta, T.B., et al., 2015. Multimodel approach to
+assess the impact of climate change on runoff. J. Hydrol. 529 (3),
+601e1616. https://doi.org/10.1016/j.jhydrol.2015.08.023.
+Franczak, L., Kociuba, W., Gajek, G., 2016. Runoff variability in the Scott
+River (SW Spitsbergen) in summer seasons 2012e2013 in comparison
+with the period 1986e2009. Quaest. Geographica 35 (3), 39e50. https://
+doi.org/10.1515/quageo-2016-0025.
+Guo, S., Tsai, J.S., Yang, C., et al., 2015. A self-soptimisation approach for L-
+SHADE incorporated with eigenvector-based crossover and successful-
+parent-selecting framework on CEC 2015 benchmark set. In: 2015 IEEE
+Congress on Evolutionary Computation (CEC), pp. 1003e1010. https://
+doi.org/10.1109/CEC.2015.7256999.
+Gupta, H.V., Kling, H., Yilmaz, K.K., et al., 2009. Decomposition of the mean
+squared error and NSE performance criteria: implications for improving
+hydrological modelling. J. Hydrol. 377 (1e2), 80e91. https://doi.org/
+10.1016/j.jhydrol.2009.08.003.
+Hamed, K.H., Rao, R.R., 1998. A modiﬁed Mann-Kendall trend test for
+autocorrelated data. J. Hydrol. 204, 182e196. https://doi.org/10.1016/
+S0022-1694(97)00125-X.
+Hamon, W.R., 1961. Estimating potential evapotranspiration. Journal of the
+Hydraulics Division, Proceedings of the American Society of Civil Engi-
+neers 87 (HY3), 107e120.
+Hanssen-Bauer, I., Førland, E.J., Hisdal, H., et al., 2019. Climate in Svalbard
+2100. A Knowledge Base for Climate Adaptation. Norwegian Centre of
+Climate Services (NCCS) for Norwegian Environment Agency (Miljø-
+direktoratet). https://doi.org/10.25607/OBP-888.
+IPCC, 2019. The ocean and cryosphere in a changing climate. https://www.
+ipcc.ch/srocc/home/.
+Jania, J., Pulina, M., 1994. Polish hydrological studies in Spitsbergen, Sval-
+bard: a review of some results. In: Sand, K., Killingtveit, Å. (Eds.), Pro-
+ceedings. Tenth International Northern Research Basins Symposium and
+Workshop. SINTEF Norwegian Hydrotechnical Laboratory, Trondheim,
+pp. 47e76.
+Killingtveit, Å., Pettersson, L.E., Sand, K., 2003. Water balance investigations
+in Svalbard. Polar Res. 22, 161174.
+Knoben, W.J., Freer, J.E., Fowler, K.J., et al., 2019. Modular Assessment of
+Rainfall-Runoff Models Toolbox (MARRMoT) v1.2: an open-source,
+extendable framework providing implementations of 46 conceptual hy-
+drologic models as continuous state-space formulations. Geosci. Model
+Dev. (GMD) 12, 2463e2480. https://doi.org/10.5194/gmd-12-2463-2019.
+Knoben, W.J.M., Freer, J.E., Peel, M.C., et al., 2020. A brief analysis of
+conceptual model structure uncertainty using 36 models and 559
+catchments.
+Water
+Resour.
+Res.
+56.
+https://doi.org/10.1029/
+2019WR025975 e2019WR025975.
+Lawrence, D., 2020. Uncertainty introduced by ﬂood frequency analysis in
+projections for changes in ﬂood magnitudes under a future climate in
+Norway. J. Hydrol. Reg. Stud. 28, 100675. https://doi.org/10.1016/
+j.ejrh.2020.100675.
+Liljedahl, A.K., Hinzman, L.D., Harazono, Y., et al., 2011. Nonlinear controls
+on evapotranspiration in arctic coastal wetlands. Biogeosciences 8,
+3375e3389. https://doi.org/10.5194/bg-8-3375-2011.
+Łupikasza, E.B., Ignatiuk, D., Grabiec, M., et al., 2019. The role of winter rain
+in the glacial system on Svalbard. Water 11, 334. https://doi.org/10.3390/
+w11020334.
+Majchrowska, E., Ignatiuk, D., Jania, J., et al., 2015. Seasonal and interannual
+variability in runoff from the Werenskioldbreen catchment. Spitsbergen.
+Pol. Polar Res. 36 (3), 197e224.
+Matti, B., Dahlke, H.E., Lyon, S.W., 2016. On the variability of cold region
+ﬂooding. J. Hydrol. 534, 669e679.
+Nowak, A., Hodson, A., 2013. Hydrological response of a High-Arctic
+catchment to changing climate over the past 35 years: a case study of
+Bayelva watershed. Svalbard. Polar Research 32, 19691. https://doi.org/
+10.3402/polar.v32i0.19691.
+Nowak, A., Hodgkins, R., Nikulina, A., et al., 2021. From land to fjords: the
+review of Svalbard hydrology from 1970 to 2019. In: Moreno-Iba~nez (Ed.),
+SESS Report 2020, Svalbard Integrated Arctic Earth Observing System.
+Longyearbyen, pp. 176e201. https://doi.org/10.5281/zenodo.4294063.
+Osuch, M., Wawrzyniak, T., 2017a. Inter- and intra- annual changes in air
+temperature and precipitation in western Spitsbergen. Int. J. Climatol. 37
+(7), 3082e3097.
+Osuch, M., Wawrzyniak, T., 2017b. Variations and changes in snow depth at
+meteorological stations Barentsburg and Hornsund (Spitsbergen). Ann.
+Glaciol. 58 (75pt1), 11e20.
+Osuch, M., Romanowicz, R.J., Booij, M.J., 2015. The inﬂuence of parametric
+uncertainty on the relationships between HBV model parameters and cli-
+matic characteristics. Hydrol. Sci. J. 60 (7e8), 1299e1316.
+Osuch, M., Romanowicz, R., Wong, W.K., 2018. Analysis of low ﬂow indices
+under varying climatic conditions in Poland. Nord. Hydrol 49 (2),
+373e389. https://doi.org/10.2166/nh.2017.021.
+Osuch, M., Wawrzyniak, T., Nawrot, A., 2019. Diagnosis of the hydrology of a
+small Arctic permafrost catchment using HBV conceptual rainfall-runoff
+model. Nord. Hydrol 50 (2), 459e478.
+Osuch, M., Lawrence, D., Meresa, H.K., et al., 2017. Projected changes in
+ﬂood indices in selected catchments in Poland in the 21st century. Stoch.
+Environ. Res. Risk Assess. 31 (9), 2435e2457. https://doi.org/10.1007/
+s00477-016-1296-5.
+Overeem, I., Syvitski, J.P.M., 2010. Shifting discharge peaks in Arctic rivers,
+1977e2007. Geogr. Ann. Phys. Geogr. 92 (2), 285e296. https://doi.org/
+10.1111/j.1468-0459.2010.00395.x.
+Peel, M.C., Bl€oschl, G., 2011. Hydrological modelling in a changing world.
+Prog.
+Phys.
+Geogr.
+35
+(2),
+249e261.
+https://doi.org/10.1177/
+0309133311402550.
+Piotrowski, A.P., Napiorkowski, M.J., Napiorkowski, J.J., et al., 2017. Are
+modern
+metaheuristics
+successful
+in
+calibrating
+simple
+conceptual
+rainfallerunoff models? Hydrol. Sci. J. 62 (4), 606e625. https://doi.org/
+10.1080/02626667.2016.1234712.
+Piotrowski, A.P., Napiorkowski, J.J., Osuch, M., 2019a. Relationship between
+calibration time and ﬁnal performance of conceptual rainfall-runoff
+models. Water Resour. Manag. 33, 19e37. https://doi.org/10.1007/
+s11269-018-2085-3.
+Piotrowski, A.P., Osuch, M., Napiorkowski, J.J., 2019b. Joint's optimisation of
+conceptual rainfall-runoff model parameters and weights attributed to
+meteorological stations. Water Resour. Manag. 33, 4509e4524. https://
+doi.org/10.1007/s11269-019-02368-8.
+Piotrowski, A.P., Osuch, M., Napiorkowski, J.J., 2021. Inﬂuence of the choice of
+stream temperature model on the projections of water temperature in rivers.
+J. Hydrol. 601 (126629). https://doi.org/10.1016/j.jhydrol.2021.126629.
+Pohl, S., Davison, B., Marsh, P., et al., 2005. Modelling spatially distributed
+snowmelt and meltwater runoff in a small Arctic catchment with a
+529
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530
+hydrology land-surface scheme (WATCLASS). Atmos.-Ocean 43 (3),
+193e211.
+Przybylak, R., 2016. The Climate of the Arctic. Second Edition, Atmospheric
+and Oceanographic Sciences Library, vol. 52. Springer, Heidelberg/New
+York/Dordrecht/London.
+Pulina, M., Krawczyk, W., Pereyma, J., 1984. Water balance and chemical
+denudation in the unglaciated Fugleberget basin (SW Spitsbergen). Pol.
+Polar Res. 5 (3e4), 183e205.
+Rawlins, M.A., Steele, M., Holland, M.M., et al., 2010. Analysis of the Arctic
+system for freshwater cycle intensiﬁcation: observations and Expectations.
+J. Clim. 23 (21), 5715e5737. https://doi.org/10.1175/2010JCLI3421.1.
+Refsgaard, J., van der Sluijs, J., Brown, J., et al., 2006. A framework for
+dealing with uncertainty due to model structure error. Adv. Water Resour.
+29, 1586e1597. https://doi.org/10.1016/j.advwatres.2005.11.013.
+Refsgaard, J.C., Madsen, H., Andreassian, V., et al., 2014. A framework for
+testing the ability of models to project climate change and its impacts. Clim.
+Change 122 (1e2), 271e282. https://doi.org/10.1007/s10584-013-0990-2.
+Retelle, M., Christiansen, H., Hodson, A., et al., 2020. Environmental moni-
+toring in the kapp linne-grønnfjorden region (KLEO). In: van den
+Heuvel, F., Hu¨bner, C., Błaszczyk, M. (Eds.), SESS Report 2019, Svalbard
+Integrated Arctic Earth Observing System, Longyearbyen, pp. 84e107.
+Rojas, R., Kahunde, S., Peeters, L., et al., 2010. Application of a multimodel
+approach to account for conceptual model and scenario uncertainties in
+groundwater modelling. J. Hydrol. 394, 416e435. https://doi.org/10.1016/
+j.jhydrol.2010.09.016.
+Sælthun, N.R., 1996. The Nordic HBV Model. No. 7. Norwegian Water Re-
+sources and Energy Directorate.
+Sen, P.K., 1968. Estimates of the regression coefﬁcient based on Kendall's tau.
+J. Am. Stat. Assoc 63, 1379e1389.
+Serreze, M.C., Barry, R.G., 2011. Processes and impacts of Arctic ampliﬁ-
+cation: a research synthesis. Global Planet. Change 77, 85e96.
+Shrestha, R.R., Bennett, K.E., Peters, D.L., et al., 2021. Hydrologic extremes
+in Arctic rivers and regions: historical variability and future perspectives.
+In: Yang, D., Kane, D.L. (Eds.), Arctic Hydrology, Permafrost and Eco-
+systems. Springer, Cham. https://doi.org/10.1007/978-3-030-50930-9_7.
+Sobota, I., 2014. Changes in dynamics and runoff from the High Arctic glacial
+catchment of waldemarbreen, svalbard. Geomorphology 212, 16e27.
+https://doi.org/10.1016/j.geomorph.2013.04.001.
+Sobota, I., Weckwerth, P., Grajewski, T., 2020. Rain-On-Snow (ROS) events
+and their relations to snowpack and ice layer changes on small glaciers in
+Svalbard, the high Arctic. J. Hydrol. 590, 125279. https://doi.org/10.1016/
+j.jhydrol.2020.125279.
+Sund, M., 2008. Polar Hydrology. Norwegian Water Resources and Energy
+Directorate's Work in Svalbard. NVE Report 2. Norwegian Water Re-
+sources and Energy Directorate, Oslo.
+Vansteenkiste, T., Tavakoli, M., Ntegeka, V., et al., 2014a. Intercomparison of
+hydrological model structures and calibration approaches in climate sce-
+nario impact projections. J. Hydrol. 519, 743e755. https://doi.org/10.1016/
+j.jhydrol.2014.07.062.
+Vansteenkiste, T., Tavakoli, M., Van Steenbergen, N., et al., 2014b. Inter-
+comparison of ﬁve lumped and distributed models for catchment runoff
+and extreme ﬂow simulation. J. Hydrol. 511, 335e349. https://doi.org/
+10.1016/j.jhydrol.2014.01.050.
+Vikhamar-Schuler, D., Isaksen, K., Haugen, J.E., et al., 2016. Changes in
+winter warming events in the Nordic Arctic region. J. Clim. 29,
+6223e6244. https://doi.org/10.1175/JCLI-D-15-0763.1.
+Vormoor, K., Lawrence, D., Heistermann, M., et al., 2015. Climate change
+impacts on the seasonality and generation processes of ﬂoods: projections
+and uncertainties for catchments with mixed snowmelt/rainfall regimes.
+Hydrol. Earth Syst. Sci. 19, 913e931. https://doi.org/10.5194/hess-19-
+913-2015.
+Wawrzyniak, T., Osuch, M., 2020. A 40-year High Arctic climatological
+dataset of the polish polar station Hornsund (SW spitsbergen, svalbard).
+Earth Syst. Sci. Data 12, 805e815. https://doi.org/10.5194/essd-12-805-
+2020.
+Wawrzyniak, T., Osuch, M., Nawrot, A., et al., 2017. Run-off modelling in an
+arctic unglaciated catchment (fuglebekken, spitsbergen). Ann. Glaciol. 58
+(75pt1), 36e46.
+Wawrzyniak, T., Majerska, M., Osuch, M., 2021. Hydrometeorological dataset
+(2014e2019) from the High Arctic unglaciated catchment fuglebekken
+(svalbard).
+Hydrol.
+Process.
+35,
+e13974.
+https://doi.org/10.1002/
+hyp.13974.
+Wolff, M.A., Isaksen, K., Petersen-Øverleir, A., et al., 2015. Derivation of a
+new continuous adjustment function for correcting wind-induced loss of
+solid precipitation: results of a Norwegian ﬁeld study. Hydrol. Earth Syst.
+Sci. 19, 951e967. https://doi.org/10.5194/hess-19-951-2015.
+Woo, M.-K., Kane, D.L., Carey, S.K., et al., 2008. Progress in permafrost
+hydrology in the new millennium. Permafr. Periglac. Process. 19,
+237e254. https://doi.org/10.1002/ppp.613.
+Wu, X., Zhang, X., Xiang, X., et al., 2018. Changing runoff generation in the
+source area of the Yellow River: mechanisms, seasonal patterns and trends.
+Cold Reg. Sci. Technol. 155, 58e68. https://doi.org/10.1016/j.coldregions.
+2018.06.014.
+530
+OSUCH M. et al. / Advances in Climate Change Research 13 (2022) 517e530

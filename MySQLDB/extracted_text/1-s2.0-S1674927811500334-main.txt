@@ -1,0 +1,734 @@
+ADVANCES IN CLIMATE CHANGE RESEARCH 2(3): 134–140, 2011
+www.climatechange.cn
+DOI: 10.3724/SP.J.1248.2011.00134
+POLICY FORUM
+Metric of Carbon Equity: Carbon Gini Index Based on
+Historical Cumulative Emission per Capita
+Fei Teng, Jiankun He, Xunzhang Pan, Chi Zhang
+Institute of Energy, Environment and Economy, Tsinghua University, Beijing 100084, China
+Abstract
+This paper uses Lorenz curve and Gini index with adjustment to per capita historical cumulative emission to
+construct carbon Gini index to measure inequality in climate change area. The analysis shows that 70% of carbon space
+in the atmosphere has been used for unequal distribution, which is almost the same as that of incomes in a country with
+the biggest gap between the rich and the poor in the world. The carbon equity should be an urgency and priority in
+the climate agenda. Carbon Gini index established in this paper can be used to measure inequality in the distribution
+of carbon space and provide a quantiﬁed indicator for measurement of carbon equity among diﬀerent proposals.
+Keywords: climate change; carbon equity; long-term mitigation goal; cumulative emission per capita; carbon Gini
+index
+Citation:
+Teng, F., J. He, X. Pan, et al., 2011: Metric of carbon equity: Carbon Gini index based on historical
+cumulative emission per capita. Adv. Clim. Change Res., 2(3), doi: 10.3724/SP.J.1248.2011.00134.
+1 Introduction
+One of the key issues of addressing climate change
+is to enact a reasonable global long term emission
+reduction target and implement the equal allocation
+of CO2 emission space. The quantitative global long
+term target will certainly limit the global CO2 emis-
+sion space. The unequal allocation of the limited CO2
+emission space would largely restrict the future emis-
+sion space of developing counties. The earth’s atmo-
+sphere is human’s public natural resource, and reason-
+able emission space is indispensable for human devel-
+opment.
+Therefore, we should allocate and use the
+emission space under the principle of global carbon
+equality. This is the cornerstone of global cooperation
+in addressing climate change.
+Chinese scholars [Chen et al., 2005; Ding et al.,
+2009; He et al., 2007; 2009] developed the cumula-
+tive CO2 emission per capita index and revealed the
+diﬀerent historical responsibilities for developed and
+developing countries.
+Moreover, they proposed the
+guideline based on the principle of cumulative emis-
+sion per capita convergence. Under this principle, Chi-
+nese scholars proposed the carbon budget and carbon
+emission account methods [Pan, 2008; PTDRCSCC,
+2009] as the emission space allocation system design.
+Although cumulative emission per capita reveals the
+diﬀerent historical responsibilities for diﬀerent coun-
+tries, it cannot provide a comprehensive index which
+covers every country’s cumulative emission per capita,
+nor can it provide a general measurement of emis-
+sion space allocation equality. Therefore, many studies
+used income equality measurement method, and mea-
+sured emission equality with diﬀerent income equality
+index. Hedenus and Azar [2005] measured emission in-
+equality across countries by the well-known Atkinson
+Received: 26 December 2010
+Corresponding author: Fei Teng, tengfei@tsinghua.edu.cn
+1
+Fei Teng et al. / Metric of Carbon Equity: Carbon Gini Index Based on Historical Cumulative . . .
+135
+index. Duro and Padilla [2006] applied the decompos-
+able Theil index of inequality to emissions and showed
+convincingly that global inequality in per capita emis-
+sions was largely due to inequalities in per capita in-
+come across countries. Heil and Wodon [1997; 2000]
+used the Gini index to measure the inequality of emis-
+sion across countries. Groot [2010] established the car-
+bon Lorenz curves and carbon Gini coeﬃcient based on
+the annual per capita emission. The aforementioned
+literatures measured the emission space equality with
+income equality measurement indices, but they were
+all based on the annual per capita emission. The con-
+tribution of this paper is to reestablish the carbon
+Lorenz curves and Gini indices based on the historical
+cumulative emission per capita which has essential dif-
+ference with the annual per capita emission measure-
+ment. First, the life time of greenhouse gas (GHG) in
+the atmosphere is more than a century; the cumulative
+emission can show a country’s climate change histor-
+ical responsibility more clearly than annual emission.
+Consequently the historical cumulative emission per
+capita can represent the carbon equality better. Sec-
+ond, emissions of GHG within a certain period of time
+determine the temperature rise.
+The equality is to
+be a measurement of the overall emission allocation in
+the certain period, rather than that of annual emission
+allocation.
+2 Carbon equality and measurement
+The essence of carbon equality is to measure the
+allocation diﬀerence of emission space. Although allo-
+cation diﬀerence is a new topic in climate change stud-
+ies, it has been thoroughly investigated in the income
+allocation equality researches [Wan, 2009; Xu, 2008].
+The commonly used resident income allocation diﬀer-
+ence indices are variation coeﬃcient, Gini coeﬃcient,
+Generalized Entropy index, and Atkinson index. The
+Gini coeﬃcient is the most widely used index. Such in-
+dices are usually used to statically mapping the wealth
+allocation and social stability of a certain country or
+district.
+The Lorenz curve was initially proposed by
+Lorenz in 1907. It indicates the relations between pop-
+ulation shares and income shares. Cumulative income
+shares are on the vertical axis, and cumulative pop-
+ulation shares are on the horizontal axis. The curve
+reﬂects the relations between income shares and popu-
+lation shares. If the population shares are not equal to
+the income shares, inequality exists. If the allocation
+is perfectly equal, then Lorenz curve is the straight line
+with the slope of 45◦. That is the “perfect equal al-
+location curve” (Fig. 1). Based on the Lorenz curve,
+Gini proposed the equality level measurement index
+which is called Gini index. Deﬁne the area between
+the actual allocation curve and perfect equal alloca-
+tion curve as X, the area below the actual allocation
+curve as Y . Then the Gini index equals to X/(X +Y ).
+The economical meaning of Gini index is that the in-
+equality level of the income allocation equals to the
+income used for unequal allocation among total resi-
+dential income. Gini index is a real number between
+0 and 1. The Gini index for a perfect equal allocation
+is 0, while the Gini index for a totally unequal alloca-
+tion is 1. Gini index is a general index, which reveals
+a general level of the allocation equality. According to
+the United Nation’s deﬁnition, Gini index <0.2 repre-
+sents perfect income equality, 0.2–0.3 relative equality,
+0.3–0.4 adequate equality, 0.4–0.5 big income gap, and
+above 0.5 represents severe income gap. Therefore, the
+warning level of Gini index is 0.4. This paper uses the
+above division of Gini index to investigate the carbon
+inequality issue. How to use Gini index to provide a
+more meaningful division is still an issue for further
+research, since this involves the welfare meanings of
+the carbon space allocation.
+Figure 1
+Lorenz curve and Gini index
+136
+ADVANCES IN CLIMATE CHANGE RESEARCH
+Lorenz curve and Gini index reﬂect the relations
+between income shares and population shares. When-
+ever the income shares and population shares are not
+equal to each other, inequality exists.
+The conver-
+gence of cumulative per capita proposed by Chinese
+scholars reﬂects this principle for equality. This idea
+applied with the Lorenz curve and Gini index means
+that once everyone has the same cumulative emission
+space there will be no carbon inequality.
+Developed countries had emitted large amount of
+GHG in their industrialization process. The GHG cu-
+mulated in the atmosphere, not only enhanced the
+greenhouse eﬀect, but also led to global warming and
+many other climate changes. Moreover, GHG emitted
+by developed countries occupied the emission space
+and made developing countries face a more restricted
+emission limit. Therefore, Gini index can also mea-
+sure equality situation of diﬀerent emission allocation
+plans.
+In this application of the Lorenz curve and
+Gini index, horizontal axis is changed from households
+to population, while vertical axis is changed from in-
+come to emissions. This paper calculates the carbon
+equality with historical cumulative emission statistics.
+Based on such statistics we will establish the “car-
+bon Lorenz curve” to reﬂect diﬀerent countries’ un-
+equal emission allocation levels. According to “carbon
+Lorenz curve”, we can calculate the “carbon Gini in-
+dex” to quantitatively measure the emission inequality
+of diﬀerent countries.
+3 Carbon Lorenz curve and carbon Gini
+index calculation
+When investigating diﬀerent countries’ historical
+cumulative emission situation, this paper focuses on
+the CO2 emission from energy activities. Baumert et
+al. [2005] suggested that CO2 is the main GHG, CO2
+emission from energy activities contribute more than
+2/3 of the world GHG total. This paper calculates the
+historical cumulative emissions by simply adding the
+emissions, which is a widely used method.
+In order to understand how the historical cumu-
+lative emission per capita Lorenz curve is established,
+ﬁrst we deﬁne the following variables for country n:
+Gn
+i is the CO2 emission in i th year of country n,
+P n
+i
+is the population of country n in the i th year,
+pn
+i =
+P n
+i
+P
+m
+P m
+i
+is the population share of country n in
+the i th year.
+Considering the period between i th year and j
+th year, Cn
+ij =
+jP
+k=i
+Gn
+k is the historical cumulative CO2
+emission from i th year to j th year for country n,
+cn
+ij =
+Cn
+ij
+P
+m
+Cm
+ij
+is its share of historical cumulative CO2
+emission from i th year to j th year, and C
+n
+ij is its
+historical cumulative CO2 emission per capita from i
+th year to j th year.
+C
+n
+ij is the most important emission equality mea-
+surement index proposed by the authors of this paper.
+It will also be the basis to sort the data in establish-
+ing the Lorenz curve. There are two ways to calculate
+C
+n
+ij. One is to add up the annual emission per capita.
+Another is to calculate cumulative CO2 emission Cn
+ij,
+and then divide Cn
+ij by P n
+j . Although two methods
+yield diﬀerent values, the results are essentially the
+same. Moreover, this paper will use population share.
+It is not suitable to calculate cumulative populations.
+Accordingly, we adopt the latter method.
+C
+n
+ij = Cn
+ij
+P n
+j
+(1)
+Table 1 provides historical cumulative CO2 emis-
+sion, population, and the historical cumulative emis-
+sion per capita for major countries between 1850 and
+2006. All the data were from Climate Analysis Indi-
+cators Tool (CAIT), Version 7.0 (http://cait.wri.org ).
+From Table 1 we can see that the USA is the world’s
+largest CO2 emission country since the industry revo-
+lution, its historical cumulative emission is 30% of the
+world total.
+The historical cumulative emission per
+capita for developed countries such as the USA and
+UK was more than tens of times of those for developing
+counties such as China and India. The historical cu-
+mulative emission per capita can reﬂect the inequality
+of carbon space allocation. Comparing with developed
+countries, developing countries’ industrialization came
+late and is on a lower level. Developing countries are
+allocated with less resource in the constrained carbon
+space, but they have larger populations in general. As
+a result, residents in developing countries cannot enjoy
+equal rights in GHG emission.
+Fei Teng et al. / Metric of Carbon Equity: Carbon Gini Index Based on Historical Cumulative . . .
+137
+Table 1
+Historical cumulative emission of major countries from 1850 to 2006 (data source: CAIT V7.0)
+Country
+Historical cumulative
+Historical cumulative
+Population in 2006
+Population
+Historical cumulative
+Annex I
+CO2 emission (Mt)
+CO2 share (%)
+(103)
+share (%)
+CO2 emission per
+(Y/N)
+capita (t per capita)
+UK
+68,235.8
+5.96
+60,226
+0.94
+1,133.0
+Y
+USA
+333,747.8
+29.14
+296,507
+4.60
+1,125.6
+Y
+Germany
+80,377.0
+7.02
+82,469
+1.28
+974.6
+Y
+Russian Fed
+93,081.6
+8.13
+143,150
+2.22
+650.2
+Y
+Australia
+12,715.8
+1.11
+20,400
+0.32
+623.3
+Y
+France
+32,278.6
+2.82
+60,873
+0.95
+530.3
+Y
+Japan
+44,535.2
+3.89
+127,773
+1.98
+348.5
+Y
+South Africa
+12,793.0
+1.12
+46,892
+0.73
+272.8
+N
+Mexico
+11,768.0
+1.03
+103,089
+1.60
+114.2
+N
+China
+99,204.2
+8.66
+1,304,500
+20.25
+76.0
+N
+Brazil
+9,457.5
+0.83
+186,831
+2.90
+50.6
+N
+India
+27,433.6
+2.40
+1,094,583
+16.99
+25.1
+N
+When we focus on the CO2 emission from i th
+year to j th year for each country, in order to con-
+struct the Lorenz curve, we need to sort the countries
+in ascending order by their historical cumulative emis-
+sions per capita C
+n
+ij and assign a sequence number s.
+After sorting the countries in ascending order, set cu-
+mulative population of j th year on the horizontal axis,
+and set cumulative historical cumulative emission per
+capita from i th year to j th year on the vertical axis. It
+should be noted that “cumulative” in this context is re-
+ferring to summing up of emissions by those countries
+whose sequence number is less than s. Therefore, the
+coordinates (ps, cs) refer to ps = P
+t⩽s
+pt
+j, cs = P
+t⩽s
+ct
+ij.
+Connecting the diﬀerent countries’ points in the
+coordinate system with a smooth curve, we established
+the Lorenz curve based on the historical cumulative
+emission per capita from i th year to j th year. Figure
+2 shows the carbon Lorenz curve started from 1850
+and lists the positions of diﬀerent countries. As the
+carbon Lorenz curve is sorted by the historical cumu-
+lative emission per capita, the country’s position is
+closer to the upright, the higher its historical cumu-
+lative emission per capita is, the bigger historical re-
+sponsibility that country should take in climate change
+issue. Moreover, from Figure 2 we can learn that de-
+veloping countries have 82% population of the world,
+but they contributed merely 25% cumulative emission
+of world’s total. On the other hand, developed coun-
+tries have 18% population of the world, but their cu-
+mulative emissions account for 75% of the world’s to-
+tal.
+Figure 2
+Carbon Lorenz curve using 1850 as starting
+year
+Based on the carbon Lorenz curve, we can cal-
+culate the carbon Gini index. Similar to the income
+Gini index calculation, we use two methods. One is
+the area method; the other is mean variance method.
+The area method is derived straightly from the
+deﬁnition of Gini index. As mentioned before, since
+(X + Y )=0.5, we have
+G =
+X
+X + Y = 0.5 −Y
+0.5
+= 1 −2Y
+(2)
+The main diﬀerence between various area calcula-
+tion methods is in the calculation of area Y . One way
+is to select a suitable ﬁtting Lorenz curve, and then
+use integration to calculate the area. Another way is
+to divide Y into several trapezoids. The sum of the
+trapezoidal area is a close approximation to the area
+Y (Fig. 3).
+138
+ADVANCES IN CLIMATE CHANGE RESEARCH
+Figure 3
+Carbon Gini index calculation using trapezoid
+method
+We assumed that there are S countries and we
+can divide the total area into S trapezoids.
+Y =
+S
+X
+s=1
+As =
+S
+X
+s=1
+(cs−1 + cs)(ps −ps−1)
+2
+= 1
+2
+S
+X
+s=1
+(cs−1 + cs)ps
+j
+(3)
+Apparently, when S is big enough, the result above is
+almost the same as real value.
+Another commonly used method is mean diﬀer-
+ence method. We deﬁne the absolute mean variance
+as ∆= E|C
+a
+ij −C
+b
+ij|, relative mean variance as ∆/Cij,
+where a and b is the sequence number of two diﬀerent
+countries, and Cij is the historical cumulative world
+emission per capita. Gini index is the half of the rela-
+tive mean variance. Therefore,
+G = E|C
+a
+ij −C
+b
+ij|
+2Cij
+=
+P
+a
+P
+b
+pa
+j pb
+j|C
+a
+ij −C
+b
+ij|
+2 P
+m
+C
+m
+ijpm
+j
+(4)
+The covariance Eq. (5) in the following can be
+derived from Eq. (4).
+G =
+1
+P
+m
+C
+m
+ijpm
+j
+[2cov(C
+a
+ij, pa) −cov(C
+a
+ij, pa
+j )]
+(5)
+One of the most important things in carbon equal-
+ity and carbon budget is to set the starting year. Many
+researches conﬁrmed that the earlier the starting year
+was, the more historical responsibility is reﬂected. But
+they did not provide a quantitative analysis of the var-
+ious starting years’ impacts on the historical responsi-
+bility. In this paper we try to use the carbon Lorenz
+and carbon Gini index to quantitatively analyze the
+impact of the starting year on historical responsibil-
+ity.
+Figure 4 shows the carbon Lorenz curves with
+diﬀerent starting years.
+Table 2 shows carbon Gini
+index results with diﬀerent starting years in various
+calculation methods.
+We can see that diﬀerent cal-
+culation methods do not aﬀect the carbon Gini index
+value much, but the diﬀerent starting years have big
+inﬂuence on the carbon Gini index value. The latter
+the starting year, the lower the carbon Gini index is.
+That means as the starting years become bigger, the
+carbon space allocation inequality would be concealed.
+On the global level, carbon Gini index does not change
+much when comparing the 1850 starting year calcula-
+tion with the 1900 starting year calculation. But the
+1950 starting year calculation and 1990 starting year
+calculation largely underestimate the carbon inequal-
+ity. The 1950 calculation results in a 4% underestima-
+tion of the carbon space allocation inequality, while
+the 1990 calculation accounts for a 14% underestima-
+tion of the carbon space allocation inequality. From
+1850 to 2006, 70% of the cumulative emission space
+has been allocated unequally, but when starting from
+1990 this ﬁgure decreases to 60%. No matter what the
+starting year is, the inequality of carbon space alloca-
+tion needs to be concerned. According to the World
+Bank statistics, three countries’ income Gini indices
+are above 0.6 in the 182 countries in the world. The
+biggest income gap is in Namibia which has the in-
+come Gini index of 0.74. The Gini index of carbon
+space allocation is 0.70 if the starting year is 1850.
+Figure 4
+Carbon Lorenz curve by using diﬀerent starting
+years
+Fei Teng et al. / Metric of Carbon Equity: Carbon Gini Index Based on Historical Cumulative . . .
+139
+Table 2
+Carbon Gini index based on the historical cumulative emission per capita
+Calculation method
+1850–2006
+1900–2006
+1950–2006
+1990–2006
+Fitting method
+0.70
+0.70
+0.67
+0.60
+Trapezoid area method
+0.70
+0.69
+0.66
+0.59
+Gini mean diﬀerence method
+0.70
+0.69
+0.66
+0.59
+Covariance method
+0.70
+0.69
+0.66
+0.59
+Even if 1990 is used as the starting year, the carbon
+Gini index can still reach 0.60 which is on the same
+level as countries with the largest income gaps.
+4 Conclusions
+Economics and sociology are focused more on the
+inequality in terms of economical parameters, espe-
+cially the income inequality, since income is a key fac-
+tor which determines the welfare. In the ﬁeld of cli-
+mate change, the unequal allocation of carbon emis-
+sion space is an issue of great importance, but the
+study of the measure of this inequality is rather limited
+in both theory and application. The quantiﬁcation of
+the carbon allocation inequality has great signiﬁcance.
+Through the quantiﬁcation, we can investigate an in-
+equality issue in climate change from a diﬀerent angle
+or underlying layer. For example, measuring the in-
+equality level and trends will be beneﬁcial to look for
+the root cause of the inequality. The income allocation
+related literatures have provided many meaningful in-
+dices and tools for inequality research.
+With some
+adjustment, such indices and tools can be applied to
+the emission space allocation related carbon inequality
+issue. In this paper, based on the historical cumula-
+tive emission per capita, the authors established the
+carbon Lorenz curve and carbon Gini index to quanti-
+tatively analyze the emission space allocation inequal-
+ity issue.
+Several implications of the historical cumulative
+emission per capita based on carbon Gini index pro-
+posed by the authors in this paper are the following:
+1) historical cumulative emission per capita based car-
+bon Gini index reﬂects the severe inequality of current
+emission allocation in a more general way, it helps
+policy makers and the public to know the emission
+allocation inequality level; 2) carbon Gini index can
+not only be used to analyze the current situation of
+the emission space allocation inequality, but also can
+be employed to compare the emission space allocation
+inequality of diﬀerent future allocation plans, thus it
+can reveal the equality ramiﬁcation of diﬀerent future
+emission allocation plans and provide guidelines in
+establishing future allocation plans; and 3) by using
+the carbon Gini index and carbon Lorenz curve, we
+can further understand the deep-seated factors in car-
+bon inequality by factor decomposition.
+The result of the carbon Gini index based on the
+historical cumulative emission per capita shows that
+current emission space allocation is severely unequal.
+The inequality situation is on the same level as a coun-
+try with the biggest income gap.
+In the 1850–2006
+calculation period, carbon Gini index reaches 0.70
+which is far beyond the warning level in the case of
+income inequality. This result indicates that 70% of
+the world total emission space is allocated unequally
+and such space has been excessively occupied by de-
+veloped countries.
+The carbon Gini index has con-
+ﬁrmed that developed countries had excessively occu-
+pied the emission space. According to the principle
+of UNFCCC, developed countries should take the lead
+to reduce their emissions to redress the unequal situ-
+ation.
+The selection of starting year has great inﬂuence
+on the carbon Gini index. The inequality of carbon
+space allocation has been concealed as the starting
+year becomes more recent. However, even year 1990 is
+used as the starting year, the carbon Gini index can
+still reach 0.60 which is far beyond the warning line.
+Carbon Gini index can be used as a static index to
+measure the inequality of emission allocation. It also
+provides a quantitative index for international carbon
+equality discussion. At present, many institutes and
+scholars have proposed various plans to allocate future
+CO2 emission space. It is diﬃcult to compare diﬀe-
+rent plans. The carbon Gini index presented in this
+paper can reveal the equality implication of diﬀerent
+allocation plans, and compare and contrast diﬀerent
+140
+ADVANCES IN CLIMATE CHANGE RESEARCH
+plans in the light of the equality measurement.
+Acknowledgements
+The authors would like to thank National Basic Re-
+search Programme (No. 2010CB955303) for ﬁnancial sup-
+port of this research.
+References
+Baumert, K. A., T. Herzog, and J. Pershing, 2005:
+Navigating the numbers: Greenhouse gas data and
+international climate policy. World Resources Insti-
+tute, 20–22.
+Chen, W., Z. Wu., and J. He, 2005: Two-convergence
+approach for future global carbon permit allocation.
+Journal of Tsinghua University (Science and Tech-
+nology) (in Chinese), 45(6), 848–853.
+Ding, Z., X. Duan., Q. Ge, et al., 2009: Control of
+atmospheric CO2 concentration by 2050: An allo-
+cation on the emission rights of diﬀerent countries.
+Science in China Series D: Earch Scineces, 39(8),
+1009–1027.
+Duro, J. A., and E. Padilla, 2006:
+International
+inequalities in per capita CO2 emissions:
+A de-
+composition methodology by Kaya factors. Energy
+Economics, 28, 170–187.
+Groot, L., 2010: Carbon Lorenz curve. Resource and
+Energy Economics, 32, 45–64.
+He, J., W. Chen., F. Teng, et al., 2009: Long-term
+climate change mitigation target and carbon permit
+allocation. Adv. Clim. Change Res., 5, S78–S85.
+He, J., B. Liu., Y. Chen, et al., 2007: Socio-economic
+assessment of climate change mitigation. in: China’s
+National Assessment Report on Climate Change (in
+Chinese). Editorial Committee of China’s National
+Assessment Report on Climate Change Ed., Science
+Press, 313–415.
+Hedenus, F., and C. Azar, 2005: Estimates of trends
+in global income and resource inequalities. Ecologi-
+cal Economics, 55, 351–364.
+Heil, M. T., and Q. T. Wodon, 1997:
+Inequality
+in CO2 emissions between poor and rich countries.
+Journal of Environment and Development, 6, 426–
+452.
+Heil, M. T., and Q. T. Wodon, 2000: Future inequal-
+ity in CO2 emissions and the impact of abatement
+proposals. Environmental and Resource Economics,
+17, 163–181.
+Pan, J., 2008:
+Carbon budget for basic needs satis-
+faction:
+Implications for international equity and
+sustainability.
+World Economics and Politics (in
+Chinese), 1, 35–42.
+PTDRCSCC (Project Team of Development Research
+Center of the State Council of China), 2009: Green-
+house gas emissions reduction: A theoretical frame-
+work and global solution. Economic Research Jour-
+nal (in Chinese), 3(3), 1–13.
+Wan, G., 2009:
+Inequality measurement and decom-
+position: A survey. China Economic Quarterly (in
+Chinese), 8(1): 347–367.
+Xu, K., 2008:
+How has the literature on Gini’s in-
+dex evolved in the past 80 years. China Economic
+Quaterly (in Chinese), 2(4), 757–777.

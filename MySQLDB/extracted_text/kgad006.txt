@@ -1,0 +1,752 @@
+What’s next after carbon accounting? Emissions liability
+management
+Marc Roston1,2*, Alicia Seiger1,2, Thomas Heller1,2
+1Steyer-Taylor Center for Energy Policy and Finance, Stanford Law School, Stanford University, Palo Alto, CA 94305, USA
+2Sustainable Finance Initiative, Stanford Doerr School of Sustainability, Stanford University, Palo Alto, CA 94305, USA
+*Correspondence address. Stanford Steyer-Taylor Center for Energy Policy and Finance, Stanford University, 559 Nathan Abbott Way, Stanford, CA 94305, USA.
+Tel: 650-723-2300; E-mail: mroston@stanford.edu
+Abstract
+We propose a method to internalize the externality of greenhouse gas emissions built on the foundation of greenhouse gas emissions
+accounting, whereby ﬁrms match long-duration emissions liabilities with duration-matched removal assets. This method drives a simple
+decision rule: only emit greenhouse gases if the value created exceeds the cost of reversing the emissions. This approach will drive capital
+allocation to enhance at-risk natural capital, expand investment in technology-based carbon dioxide removals and reductions, rationalize
+fraught carbon markets and provide auditable and transparent net zero claims and guidance for transition pathways.
+Keywords: emissions; climate; carbon accounting; climate risk; ﬁnancial innovation; carbon markets; sustainable ﬁnance
+Introduction
+Anthropogenic emissions have contributed to the rise of atmo-
+spheric carbon dioxide from under 300 parts per million pre-
+industrialization to over 420 ppm today.1 Targets set based on
+difficult to measure temperature thresholds, uncertain tipping
+points and catastrophic outcomes obscure the goal: climate ac-
+tion should focus on halting this trend, then reversing it.
+Breaking and then reversing this trend provides insurance
+against highly uncertain but potentially devasting outcomes.
+This article proposes a method to internalize the externality of
+carbon emissions as a direct means to stop the seemingly
+inevitable rise of atmospheric carbon and other greenhouse
+gases.
+Brander [1] demands from the academic community norma-
+tive research on carbon accounting. For more than 20 years, the
+Greenhouse Gas Protocol has functioned as the de facto account-
+ing solution, supplemented by an ongoing patchwork of updates
+and fixes that continues to this day. The rhetorical success of the
+GHG Protocol scopes masks implementation flaws. Scope 1 covers
+direct emissions. Scope 2 covers purchased energy. Scope 3 cov-
+ers up- and downstream emissions. However, only Scope 1 emis-
+sions enter the atmosphere. Scopes 2 and 3 count and report
+another entity’s emissions—repeatedly yet indeterminately. The
+GHG Protocol counts carbon, it does not account for carbon.
+Effective action to reduce, halt and reverse emissions requires
+fair and accurate accounting for actual (versus estimated)
+emissions. In the language of the GHG Protocol, this requires
+aggregating actual Scope 1, Scope 2 and upstream Scope 3
+emissions.
+Suppose firms and nations begin correctly accounting for car-
+bon. What happens next? This article takes a step beyond
+Brander’s mandate and proposes a normative approach to carbon
+management—the set of activities that link carbon accounting,
+legal frameworks, removals and trading. We propose emissions
+liability management (ELM), akin to traditional balance sheet man-
+agement, as an approach to managing a segregated account of
+emissions liabilities and removals. Financial accounting reports
+cash flows. Carbon accounting reports carbon flows. Corporate
+balance sheets cumulate cash flows into stocks of assets and lia-
+bilities and thus document corporate solvency and shareholder
+equity. ELM cumulates emissions flows into stocks of carbon
+liabilities, carbon assets and measures of emissions solvency.
+The end state of ELM provides simple, coherent guidance for
+climate action: Burning fossil fuels must generate greater value
+than the cost of reversing the emissions in question. By causing
+emitters to internalize this cost, ELM (i) imposes a cost that will
+incentivize firms to reduce embodied emissions by changing pro-
+cesses and suppliers; (ii) drives immediate demand for removal
+assets, providing both cash for nature-based solutions today,
+thereby expanding ecosystem protection, and also investment
+capital for technology-based removals tomorrow, as the only le-
+gitimate means to match long-duration liabilities; (iii) supports
+efficient carbon removal price discovery as markets develop
+methods
+to
+correctly
+trade-off
+temporary
+and
+permanent
+removals
+and
+(iv)
+informs
+verifiable
+net
+zero
+claims
+and
+transition pathways.
+ELM provides a path to solutions while avoiding fraught
+debates over the social cost of carbon, systemic risks and
+attempts to predict transition pathways. Most importantly, this
+approach can support meaningful climate progress by climate
+action leaders, without depending on uniform global adoption.
+1
+https://www.bloomberg.com/graphics/climate-change-data-green/carbon-
+clock.html
+Received: January 19, 2023. Received (in revised form): June 01, 2023. Accepted: July 01, 2023
+V
+C The Author(s) 2023. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+Oxford Open Climate Change, 2023, 3(1), kgad006
+https://doi.org/10.1093/oxfclm/kgad006
+Advance Access Publication Date: 21 July 2023
+Perspective Article
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024
+Carbon accounting
+Roston [2] notes that formal carbon accounting fell outside the
+original mission of the GHG Protocol. The GHG Protocol began as
+a risk disclosure tool: carbon prices lay just around the corner—
+companies needed to understand their risks. Yet for more than
+20 years, GHG Protocol adherents have applied a series of
+patches, revisions and expansions to construct a functioning ac-
+counting system. Unfortunately, this has led to an array of ser-
+vice providers becoming rhetorically or financially tied to the
+maintenance of the GHG Protocol with low likelihood of fixing a
+system not purpose-built for accounting. Jia et al. [3] provide a
+structured analysis of GHG Protocol methods, noting that they
+fall short with respect to comparability across accounting, engi-
+neering and social science metrics. Roston et al. (2022) detail a
+particular set of GHG Protocol inconsistencies. Kaplan et al. [4]
+(KRR) further highlight problems that arise because the GHG
+Protocol conflates upstream known emissions and downstream
+hypothetical emissions.
+Kaplan and Ramanna [5, 6] close the gap between the GHG
+Protocol and a functional accounting system with E-liability ac-
+counting. E-liability accounting applies cost accounting to carbon
+emissions. Each product in a supply chain has embodied carbon
+emissions, passed from seller to buyer at each exchange. In this
+way, any reporting entity need only track carbon emissions
+passed from their direct supplier, whether that supplier provides
+physical
+goods,
+electrons
+or
+services.
+The
+reporting
+entity
+combines its direct emissions with supply chain emissions to
+pass E-liabilities to customers.
+In the debate over carbon accounting methods using the lan-
+guage of the GHG Protocol, E-liability accounting meets the crite-
+ria of Jia et al. [3] by passing to customers allocated reported
+(versus estimated) Scope 1 emissions combined with reported up-
+stream Scope 3 emissions. Scope 2 emissions logically collapse
+into a special case of reported upstream Scope 3.
+In the context of this article, E-liability accounting is a suffi-
+cient but not necessary condition for ELM. Any emissions ac-
+counting method, including variations on the GHG Protocol, that
+allocates emissions in a mutually exclusive and comprehensively
+exhaustive way would suffice.
+Emissions liability management
+An effective policy to eliminate an externality requires internaliz-
+ing the cost of the externality. Carbon emissions accounting may
+formalize emissions allocation, but accounting alone does not
+provide a normative pathway for emissions reductions. Current
+practice neither holds firms accountable for their emissions nor
+drives up the cost of capital to high emitters fast enough to en-
+courage reductions. Current policy discussions focus more atten-
+tion on reducing costs of low-emissions activities (tax breaks and
+subsidies) than raising the cost of high-emissions ones.
+ELM implies a simple rule to internalize the externality: A firm
+that generates a ton of greenhouse gas emissions creates a long-
+duration liability that must be contemporaneously balanced with
+a duration-matched removal asset. Consider what this approach
+does not require. This approach does not require a Pigouvian tax
+on carbon. This approach does not require knowing the social
+cost of carbon. Finally, this method requires neither long-term
+forecasts of climate-induced damage to the global economy to
+compel action nor does it focus on catastrophic predictions of fi-
+nancial market risk to realign investments. The only requirement
+imposed on firms, governments and even households is that
+emitters reverse the externality. Reversing the externality would
+place an endogenous price on carbon determined by supply and
+demand for nettable E-assets.
+Liability duration
+Whether E-liabilities2 accumulate on a firm’s carbon balance
+sheet or they ultimately pass to end-customers with goods and
+services, they persist as liabilities of unprecedented duration.
+With high probability, these obligations outlive a firm. With abso-
+lute certainty they outlive a household. Determining just how
+long they persist depends on complicated carbon cycle details [7].
+Measurement complexity led the IPCC to drop ranges of CO2
+atmospheric lifetime from its reporting. The shortest persistence
+measures proposed (under a century) rely on ocean absorption of
+atmospheric CO2. From a firm liability and global emissions-
+budgeting perspective, this assumption exchanges one negative
+externality (atmospheric carbon emissions) for another (atmo-
+spheric emissions consuming ocean absorption capacity, driving
+up ocean acidity). Scientific evidence indicates CO2 persistence
+for thousands of years. For (arbitrary) specificity, and consistency
+with Frontier Climate,3 we will assume 1000 years, within the
+range NASA estimates [8].
+Financial markets have little experience with such long-
+duration risks. Select companies and governments have issued
+100-year bonds. In 1752, the UK issued consol bonds that paid
+coupons in perpetuity, without principal [9]. Such long-dated se-
+curities pose serious credit concerns for bondholders. At the most
+basic level, scarce legal regimes manage to survive more than a
+few hundred years. And while defaults on such securities may be
+costly for holders, defaults on long-duration carbon obligations
+would reverse the collective attempt to resolve emissions exter-
+nalities and climate change. In the case of carbon emissions and
+climate, humanity is the investor concerned about the quality and
+veracity of the assets held against the liability. A successful sys-
+tem matching E-liabilities must resolve permanence in a globally
+meaningful way with little room for failure.
+At the planetary level, the only means to extinguish one ton of
+E-liability requires definitive removal—an irreversible sequestra-
+tion of a ton of carbon, e.g. converting CO2 into rock via minerali-
+zation. Given current technology, this conversion cost likely
+exceeds $500/ton.4 Virtually all other offset purchases fall short
+with respect to permanence. Carton et al. [10] raise equivalence
+concerns between carbon held in the ground as hydrocarbons
+and carbon captured in trees, noting the reversibility and limited
+capacity of trees.
+KRR address equivalence concerns by establishing accounting
+principles that apply to GHG removals. GHG removal rights may
+trade as an E-Asset when the timing and magnitude of removals
+are both estimable and probable. However, an E-Asset may only net
+against an E-liability when the GHG has been removed and se-
+questered indefinitely.
+In the remainder of this article, we suggest market-development
+pathways, financial implications and emissions reductions that
+would result from layering ELM onto E-liability accounting.
+2
+For the remainder of the article, we use E-liability or simply liability as a
+shorthand for ‘valid greenhouse gas emissions liability accounting methodol-
+ogy.’
+3
+https://frontierclimate.com/
+4
+For example, Climeworks [11] follows this approach. We point to this
+price as one publicly disclosed. However, Climeworks [11] does not claim to de-
+liver title to one ton of carbon in rocks. In fact, Climeworks [11] has not re-
+solved a number of important legal details, based on our understanding of
+their terms of service.
+2
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024
+ELM trusts
+ELM implementation would be managed through a purpose-built
+trust. The ELM trust would hold removal assets and funds to
+ensure removal asset performance indefinitely to meet asset-
+liability netting criteria, which implies the trust would likely out-
+last the sponsoring firm. The ELM trust, legally distinct from a
+sponsoring firm would drive emissions outcomes without global,
+mandatory compliance, providing a pathway to reform voluntary
+carbon markets. In a legal sense, an ELM trust would look nearly
+identical to an employee benefit trust.5
+Emissions liability accounting provides fair and accurate in-
+curred liabilities for firm, product and supply chain emissions.
+Therefore,
+ELM
+trust
+liabilities
+have
+minimal
+uncertainty.
+Similarly, if the ELM trust holds legitimate removal assets (dis-
+cussed below) then asset risk is minimal. The ELM trust, while de-
+pendent on the sponsor firm for future funding to match future
+liabilities, has minimal exposure to firm profitability for solvency.
+In other words, the risk of ELM trust insolvency compares more
+closely to a defined contribution (DC) plan than a defined benefit
+(DB) plan.
+While ELM might allow for business-as-usual emissions, few
+firms implementing ELM would consider that a logical path. For
+most firms, the cost to remove emissions exceeds the cost of not
+emitting in the first place for the foreseeable future. As a result,
+firms would pair ELM with aggressive efforts to realign produc-
+tion processes and supply chains to reduce emissions, thereby
+avoiding the accumulation of liabilities for lower cost abatement
+activities. Activities that lower supply chain emissions (e.g. fuel
+switching, flaring, lower-carbon materials, etc.) reduce E-liabili-
+ties before they become obligations of the ELM trust. Rather than trad-
+ing
+avoided
+emissions
+in
+voluntary
+exchanges
+against
+counterfactuals, where incentives force a race to the bottom and
+quantities must be measured in hypothetical counterfactuals, E-
+liability accounting and ELM create clear incentives and obliga-
+tions for investment in avoided emissions.
+Removal assets
+By current practice, purchasers of carbon credits treat them as
+something like advertising expenses or charitable contributions
+rather than assets on a carbon balance sheet. In this section, we
+describe the current state of carbon market securities and the
+role each of these securities would play under ELM and ELM
+trusts.
+Greenhouse gas trading falls into two broad categories: com-
+pliance markets and voluntary markets. Compliance markets
+trade government issued permission slips to emit greenhouse
+gases—they do not represent physical carbon.6 Compliance cer-
+tificates impose a tax on GHG emissions, they do not absolve a
+firm of emissions liabilities.7
+Voluntary markets trade certificates issued by various agen-
+cies that claim to represent a ton of CO2 either removed or avoided.
+KRR explains that tradeable avoidance offsets, while well-
+meaning, cannot reconcile with accounting principles, leading to
+emissions reduction misallocation. For example, consider meth-
+ane from cows. A firm that pays a farmer to capture methane
+claims emissions avoidance for its own use. However, the farmer
+then sells low methane cheese to customers. That sale would vio-
+late Jia et al. [3]. The farmer could sell more expensive, low E-lia-
+bility cheese. Or, the farmer could sell the same E-liability
+cheese, and sell methane, either as “low E-liability methane” or
+as a stand-alone removal asset. The former assumes cow meth-
+ane has lower E-liabilities than extracted and refined methane.
+The latter only holds if the farmer can sequester the gas to create
+an E-Asset. The firm might still fund good deeds, like giving cash
+to consumers who buy low-emissions cheese. Avoidance activi-
+ties ought to be accounted for as lower supply chain liabilities.
+Therefore, under ELM we need only consider removal transac-
+tions as assets.
+Dramatic reductions in supply chain emissions will take time
+and in the interim ELM implementation will drive immediate
+demand for removal assets. Some purchased removals may
+immediately qualify as nettable removal assets, for example,
+direct-air-capture-and-mineralization
+that
+transfers
+captured
+carbon ownership from seller to buyer. However, few currently
+available carbon market transactions meet the conditions of these
+reference removal assets. Moreover, the simplicity of bilateral
+transactions between a carbon buyer and seller do not reflect the
+complexity of market practice.
+Consider the role of intermediaries in a typical nature-based
+solution. A project manager seeks carbon removal certification
+by one of several agencies that issue tradeable certificates
+(vaguely) representing a claim on a ton of allegedly permanent
+and additional carbon. Buyers voluntarily match current-period
+emissions with purchased certificates. The purchasers promptly
+retire the certificates, permanently removing them from the mar-
+ket. The firm that retired the certificate has no ongoing responsi-
+bility for it. The firm faces no consequences for reversals. The
+registry issuing the certificate, similarly, faces no direct financial
+consequence to reversals. The only buyers that might treat these
+certificates (and associated removals) as some sort of asset are
+financial buyers intending to resell.
+Verification agencies attempt to mitigate reversal risk through
+buffer pools—the projects claim to capture more carbon than the
+certification agency sells. This reserve may replace lost carbon.
+Badgley et al. [12] closely examines one buffer pool and concludes
+the buffer pool cannot absorb expected losses. Over the liability
+time horizon, given the uncertainty of climate change itself, this
+risk should be obvious.
+Offset project verification might best be described as renting
+the reputation of a third-party. While Verra, The Gold Standard
+and others may have strong reputations for their certification
+methods, they provide little protection for the certificate buyers
+who wish to treat the certificate as a long-lived asset. Issuers pro-
+vide buyers virtually no recourse in the event of errors or malfea-
+sance at the project level.8 And, as noted above, buyers that
+retire certificates shortly after purchase have no incentive to seek
+out compensation for failed projects.
+Consider a parallel from the capital markets: bond rating
+agencies. If a mutual fund buys an S&P-rated bond issued by
+Ford Motor Company, and S&P were to file for bankruptcy, Ford
+remains obligated to repay the bond held by the mutual fund.
+However, if a carbon certification agency determines it granted a
+certificate in error, or even files for bankruptcy, even the tenuous
+asset an offset buyer acquired suddenly evaporates.
+5
+In the Appendix, we provide an explanation of this risk, drawing on re-
+tirement plan assets and liabilities.
+6
+For example, European Union ETS certificates or the California Air
+Resources Board certificates.
+7
+See below. ETS certificates could be redesigned as an asset transaction
+whereby the issuing government provides an asset guarantee in exchange for
+the ETS payment.
+8
+Certification entities may require risk reporting and analysis, but neither
+certification entities nor underlying projects meet reasonable criteria for cred-
+itworthy counterparties. If a project has a catastrophic reversal, the likelihood
+that the project manager could compensate buyers for the loss appears re-
+mote. Similarly, if a certification entity filed for bankruptcy, those relying on
+the ratings have limited, if any, protections.
+Emissions liability management
+|
+3
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024
+Permanence labels from certification agencies aside, nature-
+based removals cannot match the emissions liability duration. A
+timber offset, often labeled ‘permanent’ if structured to last 50–100
+years, does not suffice. The cumulative probability of reversal risk
+over 1000 years likely renders these certificates ineligible for netting
+even if projects had legal structures defined for that term. More im-
+portantly, this asset duration shortfall demonstrates that current
+market practice may balance carbon emissions flows at a point in
+time, and stocks for some period, but asset stocks inevitably fall
+short of liability stocks.
+Current market practice leads to subjective debates about
+‘high-quality’ and ‘high-integrity’ offsets.9 For the ELM trust, im-
+precise notions of quality fade and attention focuses on the KRR
+principles of indefinite duration and asset impairment. A re-
+moval asset nets against a liability only if the asset has an indefi-
+nite
+duration.
+If
+removal
+asset
+reverse,
+the
+trust
+takes
+impairments. Impaired assets cannot net against liabilities. The
+ELM trust must replace the asset.
+Neither risk of impermanence nor definite-lived removals de-
+stroy the value of nature-based removals. In fact, accounting
+clarity should make them more useful. ELM practitioners will
+turn to more financially complex synthetic removal assets based
+on ELM trust accounting principles or regulations. Turn to timber
+again. Storing carbon in trees for 1000 years operates more like a
+series of transactions: Say a buyer expects to store carbon in trees
+for 50 years today—the expected life of the trees, including insur-
+ance for fire, disease, verification and monitoring fees, etc. To
+match the liability duration, buyers would have to repeat the bas-
+ket of transactions every 50 years for 1000 years. An ELM trust,
+therefore, could buy or construct a synthetic asset that can
+match the liability via an endowment, insurance contract or
+other similar structure. Logical ELM trust governance or regula-
+tion might specify investment restrictions for such endowments,
+ensuring netting criteria would be met.
+Next, consider a buyer who pairs a finite-lived, nature-based
+removal (say timber structured for 20 years) with a credible for-
+ward purchase of a ton of irreversible mineralized carbon to-be-
+delivered in 20 years. This synthetic removal asset might also be
+nettable against liabilities, depending on the trading counter-
+party quality, verification methods and certainty of property
+rights.10
+Price discovery
+The obligation to immediately remove emissions would drive
+massive demand for nature-based assets. Prices would rise, po-
+tentially materially, generating greater revenue for more removal
+projects. This dynamic provides a material incentive to voluntary
+early actors: the sooner a firm adopts ELM, the lower the cost. By
+extension, the relative price between nature- and technology-
+based removals would make technology more attractive as a sub-
+stitute and as a target for attractive investment returns.
+More precisely, price dynamics would drive efficient price dis-
+covery for removals, much like fixed income markets. U.S.
+Treasury securities provide reference assets for (presumably)
+riskless
+lending
+for
+various
+durations,
+allowing
+traders
+to
+construct a yield curve—the relationship between the term of a
+loan and the interest rate for the loan.
+Corporate bonds trade at spreads to the Treasury yield curve
+due to default risk and other technical differences between U.S.
+government debt and private debt. Carbon removal traders would
+price nature-based-removal tons, or a series of time-sliced, na-
+ture-based-removal tons, as an impairment-risk-adjusted spread
+to irreversible-technology-based tons. Standard arbitrage pricing
+concepts would link the prices between synthetic removal assets
+(say, 10 sequential 100-year tree transactions) and the required
+1000-year removal by direct air capture and mineralization.
+Carbon markets that capture duration and impairment risk
+would encourage forward and options pricing tied to expected fu-
+ture reference asset prices, providing demand signals and capital to
+technology-based removals. While direct-air-capture-to-rock may
+be prohibitively expensive for many buyers today at $500/ton, the
+expected price for a 10-year forward (buying the reference asset in
+2033) might be $100/ton.
+As a final implication of price discovery, consider policy
+attempts to set a carbon price. Economists and policymakers de-
+bate the social cost of carbon. The social cost of carbon remains
+highly uncertain, almost unknowable. Logic dictates that the
+price imposed on an emitter ought not exceed the lesser of the
+social cost of carbon or the cost of permanent, irreversible re-
+moval. Therefore, investment and policy efforts would focus on
+reducing the cost of a nettable removal asset.
+Net zero claims and transition pathways
+Current net zero claims, both at the firm and product level, do
+not hold up to scrutiny. Under the best circumstances, well-
+meaning managers match current-period emissions flows and
+current-period removal purchases. Matching only current period
+flows falls short of internalizing emissions externalities. Without
+accepting (or requiring) the obligation to duration-match emis-
+sions liabilities and removal assets, firms demonstrably fall
+short of net zero. ELM makes clear the criteria by which stake-
+holders may evaluate net zero claims. A net zero firm has no
+net liabilities. A net zero product passes no liabilities to custom-
+ers. Under ELM, auditors can verify either of these claims, provid-
+ing net zero transparency to investors, customers and other
+stakeholders.
+Today, investors and banks face increasing pressure to reduce
+their financed emissions. In practice, much of this pressure
+amounts to veiled demands for divestment which, according to
+Berk and van Binsbergen [13], has minimal impact on cost of cap-
+ital. Under ELM, the same metrics that align net zero claims with
+a net zero reality also transform a firm’s cost of capital and in-
+form its transition pathways. Firms with high liability stocks and
+flows would require substantial current and expected future cap-
+ital allocated to removal assets. Firms ineffective at emissions
+reductions would look like highly leveraged firms—riskier invest-
+ments that require greater funding. Firms maintaining ‘business-
+as-usual’ would face ever-increasing cost of capital, because
+their expanding carbon balance sheet would require greater
+capital support. Partnership for carbon accounting financials
+(PCAFs)
+signatories,
+for
+example,
+would
+directly
+penalize
+firms for the risk implicit in their ELM rather than making
+complex judgments about the sustainability merits of various
+borrowers.
+ELM implementation does not require mandatory adoption to
+succeed. Firms that choose to take on their liabilities in this fash-
+ion would provide strong signals to investors and customers with
+audited, verifiable net zero commitments. Ideally, we would see
+9
+For
+example,
+see
+https://icvcm.org/integrity-council-launches-global-
+benchmark-for-high-integrity-carbon-credits/.
+10
+Current markets seem to underestimate property rights risks, specifically
+mis-pricing likely increasing nationalization risk. A project that sells nature-
+based removals, particularly in developing economies, will be subject to rising
+risk as the nation requires its natural carbon sinks returned in the future to
+meet its own carbon budgets. We propose that markets should shift to leases
+or repurchase agreements to manage this risk.
+4
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024
+significant capital commitments to ELM trusts by early adopters
+funding risky pathways toward carbon removals. Successful
+investments could result in material surplus capital or surplus
+E-Assets that might be returned to shareholders.
+National borders and global budgets
+Carhart et al. [14] present a comprehensive account of the carbon
+prices imposed by 25 countries representing 82% of CO2 emis-
+sions based on 2019 analysis. The variation within this sample,
+(ranging from negative $128/ton in Iran to $146/ton in Spain), pro-
+vides some indication of the challenge faced by policymakers
+seeking uniform, global carbon pricing at the nearly impossible-
+to-estimate social cost of carbon. Debates over the EU carbon bor-
+der adjustment mechanism, WTO regulations and concerns
+about US/China trade relations bring to light the need to rational-
+ize policy and pricing. Rationalizing and allocating remaining
+global emissions budgets compound these challenges.
+Current carbon tax and emissions trading systems (ETSs) do
+not provide a policy path to align global pricing in a meaningful
+and constructive way. Each of these policies operates in isolation,
+with stakeholders negotiating over policies imposing costs on lo-
+calized markets. California’s ETS market-clearing price cannot be
+reconciled with the EU’s price.
+Under regulated ELM regimes, governments could reframe
+taxes and emissions allotments as removal asset purchases or
+risk transfer transactions. Some nations might choose to treat
+payments as a purchase of government-backed removal asset: if
+an emitter pays the tax, the ultimate emissions removal becomes
+a government obligation, either through a sovereign owned re-
+moval asset or as an allocated ton out of a national emissions
+budget.11 Others might treat payments as an insurance premium
+in the event of firm failure and inadequate funding to cover liabil-
+ities, like the Pension Benefit Guaranty Corporation insures re-
+tirement plans or Federal Deposit Insurance Corporation insures
+bank deposits. In either case, such transactions formally align
+firm emissions with national ledgers and budgets.
+Finally, treating within-nation taxes or ETS schemes as risk
+transfer would streamline Paris Agreement Article 6 compliance
+and monitoring.
+Conclusion
+The current system of carbon counting following the GHG proto-
+col has enabled leading firms to experiment with strategies that
+may encourage better climate and business outcomes, while giv-
+ing advocates a currency to use in service of shaming or divesting
+from lagging companies. But it is time to move forward. ELM pro-
+vides a straightforward calculation to evaluate and constrain
+greenhouse gas emissions: Only generate emissions if the value
+gained exceeds the cost of immediate removal. This decision cri-
+teria halts the rise in atmospheric greenhouse gases.
+The implications of this approach are clear. Firms modify sup-
+ply chains and production processes to avoid creating costly
+liabilities in the first place. Immediate demand for credible, fixed-
+duration nature-based removals rises substantially, providing
+greater funding to restore and enhance damaged ecosystems to-
+day. The relative cost of technology-based removals falls and the
+attractiveness of investments in technology-based solutions
+rises. Markets develop to provide transparent and liquid carbon
+removal term structures, efficiently trading-off risky, temporary
+removals with truly permanent solutions. Emissions disclosures
+and audits provide investors, customers, regulators and other
+stakeholders with transparency into verifiable net zero claims
+and transition pathways.
+ELM implementation will require ongoing experimentation, in-
+novation and compromise. If policymakers and leading firms lay
+the foundations, financial firms will speed the process of reducing
+atmospheric carbon dioxide and transforming the economy [15].
+Author contributions
+Marc Roston (Conceptualization [lead], Formal analysis [equal],
+Methodology [equal]), Alicia Seiger (Conceptualization [support-
+ing], Formal analysis [equal], Methodology [equal]) and Thomas
+Heller (Conceptualization, Supervision, Validation [supporting])
+Conflict of interest
+None declared.
+Acknowledgements
+The authors would like to thank Stanford Business and Doerr
+Sustainability School Masters student Abigail Mathieson for her
+excellent research assistance and the thought leaders who par-
+ticipated in workshops at Stanford University.
+References
+1.
+Brander M. There should be more normative research on how so-
+cial and environmental accounting should be done. Soc Environ
+Account J 2022;42:11–7. https://doi.org/10.1080/0969160X.2022.
+2066554.
+2.
+Roston M. The road from Scope 3 to net zero. In: T Heller, A Seiger
+(eds) Settling Climate Accounts. Cham: Palgrave Macmillan, 2021.
+https://doi.org/10.1007/978-3-030-83650-4_4
+3.
+Jia J, Ranger N, Chaudhury A. Designing for Comparability: A
+Foundational Principle of Analysis Missing in Carbon Reporting Systems
+(25 October 2022, date last accessed). https://ssrn.com/abstract=
+4258460 or http://dx.doi.org/10.2139/ssrn.4258460
+4.
+Kaplan RS, Karthik R, Marc R. Accounting for Carbon Offsets.
+Harvard Business Review 2023;101:126–137. https://dx.doi.org/10.
+2139/ssrn.4362921.
+5.
+Kaplan R, Ramanna K. We need better carbon accounting. Here’s
+how to get there. Harvard Business Review Digital Articles (12 April
+2022, date last accessed).
+6.
+Kaplan R, Ramanna K. Accounting for climate change. Harv Bus
+Rev 2021;99:120–31.
+7.
+Archer D, Eby M, Brovkin V et al. Atmospheric lifetime of fossil
+fuel carbon dioxide. Annu Rev Earth Planet Sci 2009;37:117–134.
+8.
+Global Climate Change: NASA. The Atmosphere: Getting a Handle on
+Carbon
+Dioxide.
+https://climate.nasa.gov/news/2915/the-atmo
+sphere-getting-a-handle-on-carbon-dioxide/ (28 October 2022,
+date last accessed).
+9.
+Kollewe J, Farrell S. UK bonds that ﬁnanced First World War to be
+redeemed 100 years later. The Guardian (31 October 2014, date last
+accessed). https://www.theguardian.com/business/2014/oct/31/
+uk-ﬁrst-world-war-bonds-redeemed
+11
+ELM does not require global carbon budgets to function. ELM implemen-
+tation halts net emissions. However, policy discussions that seek to link global
+or national emissions budgets with current and future emissions require pre-
+cise connections between private or subnational actions and national allo-
+cated limits.
+Emissions liability management
+|
+5
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024
+10.
+Carton W, Lund JF, Dooley K. Undoing equivalence: rethinking
+carbon accounting for just carbon removal. Front Clim 2021;3:30.
+https://doi.org/10.3389/fclim.2021.664130.
+11.
+Climeworks. https://climeworks.com/ (25 October 2022, date
+last accessed).
+12.
+Badgley G, Chay F, Chegwidden O et al. California’s forest carbon
+offsets buffer pool is severely undercapitalized. Front For Glob
+Change 2022;5:930426.
+13.
+Berk JB, van Binsbergen JH. The Impact of Impact Investing.
+Stanford University Graduate School of Business Research
+Paper, Law & Economics Center at George Mason University
+Scalia Law School Research Paper Series No. 22-008, August 21,
+2021. http://dx.doi.org/10.2139/ssrn.3909166.
+14.
+Carhart M, Litterman B, Munnings C et al. Measuring compre-
+hensive carbon prices of national climate policies. Clim Policy
+2022;22:198–207. doi:10.1080/14693062.2021.2014298.
+15.
+Kauffman RL, Roston M. Fixing the plumbing: asset management,
+clean energy technology, and the valley of death. In: T Heller, A.
+Seiger (eds.) Settling Climate Accounts. Cham: Palgrave Macmillan,
+2021, 71–90.
+Appendix: ELM Trust Failure Risk
+An ELM trust exists independently of the sponsoring ﬁrm, and
+presumably outlasts the sponsor. The trust provides for main-
+tenance or replacement of impaired carbon removal assets out
+of surplus capital or ongoing sponsor contributions. In this
+Appendix, we address the concern that the trust could fall
+short of its obligations after a sponsor failure—a common
+problem experienced with DBs plans, but nearly impossible for
+a DC plan.
+DC plans have virtually zero risk to failure of the plan sponsor.
+DB plan experience has shown substantial risk to sponsor failure.
+We explain that ELM trust failure risk looks much more like a DC
+plan than a DB plan. In other words, ELM trust sponsors may fail,
+but the potential for unfunded liabilities would be minimal.
+A DB plan promises beneﬁts to plan participants far in the fu-
+ture the costs of which are unknowable at the time of the prom-
+ise. Actual beneﬁts depend on future salaries, life expectancy,
+medical costs, etc. Moreover, plan assets have risky future val-
+ues. Actuaries estimate future liabilities and assets. Pension ac-
+counting rules attempt to constrain the risk that ﬁrms cannot
+meet obligations by establishing funding requirements, imposing
+transparent investment rules and disclosure of expected invest-
+ment performance. Because both liabilities and assets depend on
+projections, plan solvency often depends on ﬁrm performance: if
+liabilities exceed projections or assets perform poorly, the spon-
+soring ﬁrm must make up the difference with contributions to
+the trust. However, aggressive liability estimates, particularly
+when combined with poor asset performance and weak economic
+conditions,12 expose the plan to material risk of sponsor bank-
+ruptcy.13
+In contrast, DC plan contributions, either by employees or
+employers, entitle a participant to the investment return on their
+selected portfolio. The DC plan trust has the obligation to pay the
+beneﬁciary the value of those assets in retirement or at the date a
+beneﬁciary chooses to remove her assets from the trust. By deﬁ-
+nition, trust assets match trust liabilities. If a participant allo-
+cates her investments in an aggressive asset mix, she is entitled
+to the outcome of her decisions, no more and no less. The beneﬁ-
+ciary has no risk in the event her employer ﬁles for bankruptcy.
+An ELM trust has certain liabilities. Removal assets provide
+certainty on the asset side of the ELM balance sheet as well. To
+the degree the trust uses synthetic removal assets, asset risk
+enters the trust. Thus, counterparty quality, risk limitations and
+regulations would be essential for ELM trusts. However, the trust
+risk of insolvency due to the failure of the sponsoring ﬁrm does
+not compare to DB plan risk.
+12
+As a general rule, management incentives encourage over-estimating as-
+set returns and under-estimating pension liabilities.
+13
+For example, the Pension Benefit Guaranty Corporation, a U.S. govern-
+ment sponsored insurer, provides limited guarantees to pension beneficiaries
+in the event of a sponsor bankruptcy and funding shortfall.
+6
+|
+Oxford Open Climate Change, 2023, Vol. 3, No. 1
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad006/7227721 by guest on 26 August 2024

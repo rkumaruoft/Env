@@ -1,0 +1,430 @@
+ 
+ 
+Led by: 
+Lead Technical Partner: 
+With Fund Provided by: 
+ 
+ 
+Community Solutions Network 
+Innovations in data collection, 
+monitoring and analysis to  
+advance local climate 
+resilience in public spaces  
+ 
+ 
+ 
+April 2024 
+2 
+ 
+ACKNOWLEDGEMENT OF INDIGENOUS LANDS AND 
+TREATIES ACROSS CANADA 
+The sacred lands and waterways upon which Evergreen operates and the built communities and cities across the 
+country are the traditional territories, homelands and nunangat of the respective First Nations, Métis Nations and 
+Inuit who are the long-time stewards of these land. These lands are occupied lands and subject to inherent rights, 
+covenants, treaties and self-government agreements to peaceably share and care for the lands and resources 
+across Turtle Island. These regions are still home to diverse Indigenous peoples who are still fighting for their 
+sovereign rights and tirelessly protecting their traditional territories. As uninvited guests who live and work on 
+these lands, we have a responsibility to know the treaties that tie us together, advocate for Indigenous rights and 
+commit to learning our responsibilities to each other.  
+ 
+ACKNOWLEDGEMENTS 
+This resource was created for the Community Solutions Network led by Juan Rueda and written by Angela Parillo, 
+Dipika Giritharan and Marielle Nicol with support from Alison Herr, Joshua Welch, Ismail Alimovski, Adriana Montes, 
+Lorraine Hopkins, Toby Davine and Cheryl Gudz. It is supported by interviews with Mary Kruk (Data Specialist at 
+DataStream) and Emily Sharma (Communications & Outreach Advisor at Natural Assets Initiative) and secondary 
+research of relevant initiatives across Canada. We are grateful for the knowledge and experience of many experts 
+in these fields who have inspired and informed this research brief and all community members who have 
+participated in our events through the Community Solutions Network program.  
+The Community Solutions Network is a program led by Evergreen in partnership with Open North. Our team 
+works with communities to build capacity and improve the lives of residents using data and connected technology 
+approaches. We deliver advisory services, workshops and online resources that focus on key areas such as climate 
+resilience, data governance, inclusive public space, technology procurement and public engagement. The 
+Community Solutions Network is supported by funding from the Government of Canada. The views expressed in 
+this publication do not necessarily reflect those of the Government of Canada. 
+ 
+EXECUTIVE SUMMARY 
+This introductory research brief is intended for leaders in communities in Canada who are interested in how data 
+collection and monitoring of public spaces can support more climate-resilient communities. Drawing from 
+international and national research and initiatives, this brief presents an overview of the role of public space in 
+climate resilience and principles for data and technological innovations in climate resilience efforts. The brief 
+contains information on smart tools and innovations that can be leveraged by municipalities to build local climate 
+resilience and highlights examples in Canada that emphasize the role of data and technology. 
+ 
+3 
+ 
+INTRODUCTION 
+Data collection, monitoring and analysis of public spaces can help communities identify and understand local 
+climate risks to better guide strategic climate resilience planning. Public spaces such as parks, beaches, 
+community centres, plazas, boardwalks and other spaces in a community have a unique role in local-level climate 
+resilience. Public spaces can immediately experience the impacts of climate change (such as a flooded shoreline 
+or a forest fire) and be part of the resilience efforts to climate change (such as bioswales or tree canopy 
+coverage).  From green spaces that support ecological services (such as flood management, water storage and 
+carbon sequestration) and reduce the urban heat island effect to cooling and warming centres for community 
+member use, public spaces can contribute to a community’s climate resilience. 
+ 
+Identifying and understanding the value of existing public spaces in building climate resilience can better inform 
+decision-making in a community. Municipal and community leaders who understand local public assets (natural 
+and built) are better able to identify and prepare for climate-related risks by building, protecting and restoring 
+assets to be more climate-resilient.1 For example, a community that understands and values the flood 
+management capabilities of an existing wetland is more likely to ensure the wetland is protected, maintained, 
+enhanced and restored. 
+ 
+Data collection and monitoring tools can support a community’s understanding of the existing natural assets in 
+public spaces and how they can be best leveraged for improved climate resilience. Using technological 
+innovations, advanced data collection and monitoring tools can analyze and predict the impacts of climate change 
+on public infrastructure. An analysis of the data serves to inform decision-making on climate-related policies and 
+plans but also serves to help embed climate resilience in all decision-making processes.  
+ 
+PRINCIPLES FOR DATA COLLECTION AND MONITORING 
+Decision-makers can use data to evaluate the effectiveness of services from natural assets and green infrastructure 
+in a public space. For example, the popular usage of green public parks, the permeability of roads and pathways 
+and the impact of green energy installations. While some data and information around public space can be as simple 
+as measuring water levels and air temperature, other data points can be more complex or require analysis on their 
+interrelated features and connections. Some data about public space may include sensitive information that should 
+be proactively safeguarded from cybercriminals and privacy breeches and to ensure respectful authority of control. 
+The Internet of Things (IoT) uses digital infrastructure to improve connectivity which can leave vulnerability gaps in 
+how information is collected and stored. As such, data collection should include a human rights lens in how it is 
+collected, stored and shared.2 Evergreen’s Smart Resilience for Canadian Municipalities research brief further 
+explores tips for successful smart solutions. 
+Open access data (data that is free and available for use3) empowers communities to access information within 
+their region to have a more holistic and collaborative understanding of an area. For example, platforms like 
+DataStream host open access water data to encourage knowledge-sharing and collaboration across Canada. Still, 
+the ownership of data, or data sovereignty, is another important factor to embed in any data governance model 
+and can support First Nations data sovereignty4 and Indigenous data sovereignty.5 The FAIR principles for data to 
+be findable, accessible, interoperable and reusable6 and CARE principles of collective benefits, authority to control, 
+responsibility and ethics7 provide guidance on how to effectively and respectfully support data management. These 
+principles can be integrated into how data is managed and governed to help balance ownership and privacy 
+concerns with open and accessible data.  
+4 
+ 
+DATA, CLIMATE RESILIENCE AND ASSET MANAGEMENT 
+Public spaces, both built and natural, are assets that can be measured and monitored to understand their role and 
+usage within a community as well as their contribution to a more climate-resilient community. Climate data 
+collection and monitoring can support resilience planning, to help analyze climate variability impacts, as well as 
+advance research methods to improve the understanding of climate patterns and modelling of climate systems 
+(such as biological, chemical and physical climate properties).8 
+Environmental data collection and analysis can also aid communities in identifying climate risks and can guide the 
+development of strategic climate action plans that can limit climate stresses.9 Environmental data can include 
+information about extreme precipitation levels, habitat and land use changes, the identification and presence of 
+wildlife species, solid waste pollution and water characteristics.10  
+Asset management is an integrated approach 
+to sustainable service delivery. It can increase 
+climate resiliency through proactive risk 
+management, better maintenance of assets 
+and more informed decision-making about 
+climate change.13 It is important to consider the 
+impact of climate change on public assets, 
+infrastructure such as buildings (commercial 
+and residential), roads, bridges, storm sewer 
+systems, waste management, as well as on 
+natural assets such as public parks, lakes or 
+rivers, aquifers and groundwater, soil and other 
+green infrastructure. Natural asset 
+management is the process of creating an 
+inventory of existing natural assets, the public 
+services they provide and creating a 
+maintenance plan for the natural assets14 in 
+recognition of the capital value and services 
+provided by natural assets.15  
+ 
+Measuring, monitoring and maintaining the existing assets and services in a community through a comprehensive 
+asset management system produces more well-informed and well-equipped decision-making. Data collection and 
+monitoring efforts can support a local understanding of existing public natural assets and their services (for 
+example, wetlands providing flood management and coastal storm protection and forests providing carbon 
+storage and erosion control) and green infrastructure and their services (such as raingardens or bioswales) as part 
+of both natural and engineered infrastructure systems.16  Effective monitoring programs, maintenance and 
+rehabilitation can support the services of natural assets while saving capital and operating costs.17 Natural asset 
+management encourages the consideration of the intrinsic and ancillary benefits of natural assets in planning 
+processes (for example, choosing to restore a green public park to improve flooding issues in an urban area rather 
+than investing in a new impervious stormwater management system).     
+Data collection and monitoring innovations can also be used to understand the interconnected social, economic 
+and cultural impacts of climate change.18 Climate change disproportionately affects vulnerable or at-risk 
+populations based partly on their geographical location, financial or socioeconomic status, access to resources and 
+services and other barriers towards decision-making processes.19 Understanding the demographics of community 
+ 
+Biocultural diversity for reconciliation 
+Biocultural diversity recognizes and connects 
+biological diversity and cultural diversity for more 
+resilient ecosystems.11 Biocultural diversity analyses 
+data and information about humans and nature to 
+integrate their inherent connections for a more 
+holistic approach to climate resilience.12 For example, 
+the Great Niagara Escarpment Indigenous Cultural Map 
+is a multimedia online resource with photos, videos 
+and maps exploring the Indigenous historic, cultural 
+and natural features of the Niagara Escarpment.  
+ 
+5 
+ 
+members and intersecting environmental factors (such as lower-income housing developments built in a flood 
+zone) can help make more informed choices to address the impacts of climate change. For example, developing 
+public alert systems based on the unique needs of the community or developing a relocation plan that thoughtfully 
+reflects the cultural needs of the impacted community.  
+ 
+ 
+ 
+Natural Asset Management in Gibsons, BC 
+The Town of Gibsons, BC is a coastal community that has been at the forefront of municipal asset 
+management in Canada for decades. Through natural asset management, Gibsons uses data and 
+information about its natural assets to value the municipal services they provide for the community. For 
+example, natural storm water ponds are used to treat stormwater run-off and reduce the impact of 
+flooding; creeks and wetlands help manage stormwater; aquifers serve the wells and springs for drinking 
+water; the foreshore protects the waterfront from storm surges and sea level rise, among many other 
+ecosystem services from natural assets.20  
+In 2014, the Town of Gibsons created a municipal asset management policy that recognized natural assets 
+and their value alongside traditional capital assets.21 Since then, dozens of initiatives have been developed 
+including the Healthy Harbour Project for eco-asset management that uses data to ensure a vibrant and 
+active harbour, the Costal Resilience project to better understand the protective benefits of coastal 
+infrastructure from storm surges and coastal erosion, the Urban Forest Plan which includes a Tree 
+Preservation Bylaw to protect tree canopy coverage and other innovative projects.  
+6 
+ 
+TOOLS FOR DATA COLLECTION AND MONITORING OF 
+PUBLIC ASSETS 
+Collecting data can be as simple as using pen and paper to record observations (such as the number of people 
+visiting a public park daily). Manual observations can be transferred to computer software to create tables and 
+graphs to help synthesize and analyze the information.  
+Further, smartphone applications can automatically synthesize observations input by the user into a visual display. 
+Even more sophisticated is the use of remote data collection tools that gather and transfer information through 
+IoT. For example, input data collected around wave and storm size, recurrence periods, flood damage, erosion 
+damage and other quantitative factors can be interpreted and evaluated by an analysis tool, such as the Coastal 
+Toolbox, to understand the role or coastal natural assets in flood and erosion management.22  
+Tools like artificial intelligence (AI) or other machine learning 
+technologies can also be leveraged to analyze, forecast and 
+interpret collected data and produce maps or scenarios to better 
+inform decision-making. For example, pollution susceptibility 
+mapping using AI can track pollution levels in public spaces and 
+support governments in taking action and improving resilience in 
+urban areas.25 Evergreen’s AI for the Resilient City program is a 
+data visualization tool focused on Urban Heat Islands and 
+extreme heat as well as their impacts on cities throughout 
+Canada, empowering municipalities to support policy changes 
+for communities.26  
+Data collection and monitoring innovations that use AI or other 
+innovative technologies for their analysis can support more 
+informed choices around climate-related risks. For example, 
+flood modelling powered by AI data can analyze the extreme 
+effects of sea-level rise on coastal communities by examining 
+climate indicators such as infrastructure, topography and land 
+use.27  Based on this analysis, AI can determine which areas are 
+more vulnerable to flooding and erosion events. This better 
+informs decision-making in constructing sea walls with multi-use 
+pathways or other resolutions.28  
+ 
+NATURAL ASSET DATA COLLECTION AND MONITORING 
+Data management ranges from simple information gathering and storage to more complex data sets and data 
+hubs that can coalesce and analyze information at large scales. IoT has improved the efficiency of data collection 
+by remotely transmitting gathered information to wherever the data is being stored and used. Areas that may be 
+difficult to access (such as large forests with no roads) can be analyzed by innovative technologies that collect and 
+interpret observed inputs from a public space. Depending on the intended output, a mix of data collection 
+methods can be used by communities to develop a fulsome understanding of a public space. 
+ 
+AI Reporting 
+The Accelerating Biodiversity and 
+Ecosystem Reporting guide from Planet, 
+Microsoft, the Natural Capital Project 
+and the Gund Institute demonstrates 
+how to streamline biodiversity and 
+ecosystem reporting using Earth 
+observation (EO) and artificial 
+intelligence (AI).23 The guide details the 
+scalability and interoperability of EO and 
+AI measurement techniques for users to 
+integrate into workflows to enable more 
+meaningful targets for nature-based 
+reporting.24 
+ 
+7 
+ 
+• 
+Sensors 
+Sensor data “is the output of a device that detects and responds to some type of input from the physical 
+environment.”29 Sensors can collect information based on the physical signals of where they’re located measuring 
+temperature, air quality, water levels, surrounding objects and a myriad of other parameters. Sensors can be fairly 
+simple (such as water test strips that rely on more manual recordkeeping) or more complex (such as electronic 
+sensors that remotely gather, store and transmit data at higher frequencies). For example, sensors can be used to 
+understand the water quality at a public beach.  
+• 
+Aerial and satellite imagery 
+Aerial imagery captures images from aircrafts, drones or other elevated views (including satellites) to provide 
+visual pictures of public areas. The images can be used to compare different time periods or provide visual access 
+to inaccessible spaces. Aerial imagery is also used during emergency management as a safe means of monitoring 
+the emergency event. While technology continues to improve in the quality of images produced, the output’s 
+image resolution is an important consideration when using aerial or satellite imagery. High, medium and low-
+resolution imagery have different uses depending on the coverage area and the amount of detail required. For 
+example, high resolution imagery (such as a 30-metre resolution) can be used for capturing tree canopy 
+coverage30 or other vegetation monitoring. In contrast, lower resolution imagery can be used for larger land areas 
+and understanding broader trends.31  
+• 
+Mapping 
+Mapping is a powerful visual approach to understanding and analyzing climate resilience. Maps can visually 
+demonstrate environmental factors (such as tree canopy coverage), physical infrastructure (such as building 
+density), socioeconomic factors (such as demographics or income levels) and other factors of interest. Maps 
+display collected data in a visual and accessible format that can also be used for education and storytelling. 
+Geographic information systems (GIS) overlays such as wetlands, local demographics, land cover, and zoning can 
+be mapped to visually understand how the different characteristics contribute to spatial trends that intersect and 
+relate to each other.  Further, tools like ArcGIS StoryMaps use GIS to creatively integrate text, photos, videos and 
+maps to narrate data and information visually. The City of Kitchener uses a Natural Areas Story Map for users to 
+explore natural areas in the region. 
+• 
+Surveys 
+Surveys are another means of collecting data and information and can include census surveys of populations or 
+other more direct sample surveys. Surveys can help to understand the demographics of a region (age, 
+socioeconomic background, etc.), the use of a public space (how many people use a space, why a space is being 
+used, when the space is most or least used), the perception or public interest in a certain topic (such as climate 
+change) and other considerations. Surveys can be administered in-person or through web-based platforms (such 
+as SurveyMonkey) that can also be accessed using smart phone applications (such as CollectMobile or 
+NoiseCapture) or other creative tools for data collection. For example, a survey can be administered to monitor 
+and measure the use of a public cooling centre during an extreme heat event to learn how many individuals are 
+using the centre, as well as the accessibility or perceived safety of the space, among other qualitative factors.  
+• 
+Public engagement 
+Engagement with experts, local community groups and individuals provide qualitative information to better 
+understand the experiences and opinions of relevant parties. Interviews and public engagements can be 
+conducted in-person, through phone calls or using online resources such as Microsoft Teams, Zoom, email or 
+other software as well as through smart phone applications or websites. Public engagement can help understand 
+how community members use and value a public space along a waterfront for recreation and cultural traditions. 
+8 
+ 
+Further, meaningful engagement with local Indigenous communities can facilitate Indigenous knowledge sharing 
+to better acknowledge and respect the value of public spaces.  
+CONCLUSION 
+Data collection and monitoring methods support our understanding of local climate risks and the role of built and 
+natural infrastructure in public spaces in addressing climate related impacts. Valuable insights can be gleaned from 
+data and information about a public space to inform decision-making on the climate resilient properties of 
+infrastructure and, through analysis and future forecasting, the potential climate-related impacts of different 
+decisions and developments. Innovative data collection and monitoring technologies supports efficient and 
+effective understandings of local climate risks and the role of public spaces is addressing climate change.  
+ 
+GLOSSARY 
+Artificial intelligence (AI) is the “simulation of human intelligence in programmed machines.”32 AI can play a major 
+role in climate adaptation, mitigation and resilience efforts by collecting and interpreting large datasets in real 
+time, which can help detect early warnings for severe weather occurrences and implement prevention efforts 
+earlier.33 
+Climate resilience describes the capacity to respond to and adapt to or cope with climate change impacts and is 
+“the capacity of social, economic and environmental systems to cope with a hazardous event or trend or 
+disturbance, responding or reorganizing in ways that maintain their essential function, identity and structure, 
+while also maintaining the capacity for adaptation, and learning and transformation.34 
+Earth Observation (EO) refers to the usage of remote sensing technologies to monitor land, marine (seas, rivers, 
+lakes) and atmosphere.35  
+Geographic information systems (GIS) are computer-based systems for capturing, displaying and interpret 
+geographic data.36 
+Internet of Things (IoT) refers to “the network of physical objects, or things, which are connected to other devices 
+and systems over the Internet.”37 
+Natural assets are natural resources and ecosystems that provide services and functions to people. Natural assets 
+include resources like wetlands, forests and fields.38  
+Natural asset management is an approach that recognizes the benefits natural assets in decisions about the 
+management of infrastructure assets.39  
+Urban heat islands are urbanized areas that experience higher temperatures than outlying areas. Structures such 
+as buildings, roads, and other infrastructure absorb and re-emit the sun’s heat more than natural landscapes such 
+as forests and water bodies. Urban areas, where these structures are highly concentrated and greenery is limited, 
+become “islands” of higher temperatures relative to outlying areas.40 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+1 Tomer, A., George, C., Schuetz, J., & Gill, J. (2023, December 4). How climate risk data can help communities 
+become more resilient. Brookings. https://www.brookings.edu/articles/how-climate-risk-data-can-help-communities-
+become-more-resilient/  
+2 A Human Rights-based Approach to Data: Leaving no one behind in the 2030 Agenda for Sustainable 
+Development. (2018). Office of the United Nations High Commissioner for Human Rights. 
+https://www.ohchr.org/sites/default/files/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf  
+3 Government of Canada, Statistics Canada. (2023, April 4). Open data. https://www.statcan.gc.ca/en/our-
+data/where/open-data 
+4 First Nation Information Governance Centre. 2022. “Exploration of the Impact of Canada’s Information 
+Management Regime of First Nations Data Sovereignty.” August 2022. https://fnigc.ca/wp-
+content/uploads/2022/09/FNIGC_Discussion_Paper_IM_Regime_Data_Sovereignty_EN.pdf. 
+5 Indigenous Data Sovereignty: Toward an Agenda. (2016). [Book]. In T. Kukutai & J. Taylor (Eds.), Research 
+monograph (Australian National University. Centre for Aboriginal Economic Policy Research). Australia National 
+University Press. https://press-files.anu.edu.au/downloads/press/n2140/pdf/book.pdf  
+6 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J., Da 
+Silva Santos, L. O. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T. W., Crosas, M., Dillo, I., Dumon, O., 
+Edmunds, S., Evelo, C. T., Finkers, R., . . . Mons, B. (2016). The FAIR Guiding Principles for scientific data 
+management and stewardship. Scientific Data, 3(1). https://doi.org/10.1038/sdata.2016.18 
+7 CARE Principles — Global Indigenous Data Alliance. (2023, January 23). Global Indigenous Data Alliance. 
+https://www.gida-global.org/care 
+8 Data and observations. (n.d.). United Nations Framework Convention on Climate Change. 
+https://unfccc.int/topics/resilience/resources/data-and-observations  
+9 Tomer, A., George, C., Schuetz, J., & Gill, J. (2023, December 4). How climate risk data can help communities 
+become more resilient. Brookings. https://www.brookings.edu/articles/how-climate-risk-data-can-help-communities-
+become-more-resilient/ 
+10 What you can use to collect environmental data: Observation and recording through pen and paper. (n.d.). 
+OpenLearn Create. https://www.open.edu/openlearncreate/mod/book/view.php?id=181353  
+11 Raygorodetsky, G. (2012, November). Biocultural Resilience for Systems Change. Our World - United Nations 
+University. https://ourworld.unu.edu/en/biocultural-resilience-for-systems-change  
+12 Reuniting Nature and Culture: The North American Declaration on Biocultural Diversity. (2019, November). 
+Canadian Commission for UNESCO. https://en.ccunesco.ca/blog/2019/11/north-american-declaration-on-
+biocultural-diversity  
+13 BC Ministry of Municipal Affairs and Housing, Union of BC Municipalities, & Asset Management BC. (2019). 
+Climate Change and Asset Management [Report]. Asset Management BC. 
+https://www.assetmanagementbc.ca/wp-content/uploads/Climate-Change-and-Asset-Management.pdf  
+14 Brooke, R., O’Neill, S. J., & Cairns, S. (2017). Defining and scoping municipal natural assets. 
+https://mnai.ca/media/2018/02/finaldesignedsept18mnai.pdf  
+15 Ibid. 
+16 Union of BC Municipalities, Asset Management BC, & BC Ministry of Municipal Affairs and Housing. (2019). 
+Integrating Natural Assets into Asset Management. In Asset Management BC. 
+https://www.assetmanagementbc.ca/wp-content/uploads/Integrating-Natural-Assets-into-Asset-Management.pdf  
+17 Natural Assets Initiative. (2018). Primer on Natural Asset Management for FCM’s 2018 Sustainable Communities 
+Conference. In Natural Assets Initiative. https://mnai.ca/media/2018/01/FCMPrimer_Jan1_2018.pdf  
+18 Campbell, J. (n.d.). We lack data for 68% of SDG indicators – UN-SPBF. UN Science Policy Business Forum. 
+https://un-spbf.org/guest-insights/jillian-campbell/we-lack-data-for-68-of-sdg-indicators-closing-data-gaps-
+essential-to-achieving-sdgs/  
+19Newell, P., Srivastava, S., Naess, L. O., Gerardo, T. C., & Price, R. (2023). Towards Transformative Climate Justice: 
+an Emerging Research agenda. Wiley Interdisciplinary Reviews: Climate Change (WIREs Climate Change). 
+https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.733  
+ 
+10 
+ 
+ 
+20 Town of Gibsons. (2014). Towards an Eco-asset Strategy in the Town of Gibsons. In Town of Gibsons. 
+https://gibsons.ca/wp-content/uploads/2017/12/Eco-Asset-Strategy.pdf  
+21 Ibid. 
+22 Managing natural assets to increase coastal resilience. (2021). In Natural Assets Initiative (pp. 1–65). 
+https://davidsuzuki.org/wp-content/uploads/2021/12/Coastal-Assets-Guidance-Document-2021.pdf  
+23  Lombardo, S. (2024, January 23). Planet, Microsoft, and researchers build new AI-focused reso. . . Planet.com. 
+https://www.planet.com/pulse/planet-microsoft-and-researchers-build-new-ai-focused-resource-for-environmental-
+reporting  
+24 Ibid. 
+25 Explainer: How AI helps combat climate change. (2023, November 10). UN News. 
+https://news.un.org/en/story/2023/11/1143187  
+26 AI for the Resilient City - Evergreen. (2023, November 23). Evergreen. https://www.evergreen.ca/impacts/ai-for-
+the-resilient-city/ 
+27 Jain, H., Dhupper, R., Shrivastava, A., Kumar, D., & Kumari, M. (2023). AI-enabled strategies for climate change 
+adaptation: protecting communities, infrastructure, and businesses from the impacts of climate change. 
+Computational Urban Science, 3(25). https://doi.org/10.1007/s43762-023-00100-2  
+28 Ibid. 
+29 Lutkevich, B. (2023, January 5). Sensor data. TechTarget - IoT Agenda. 
+https://www.techtarget.com/iotagenda/definition/sensor-data  
+30 For example, the USDA Forest Service uses tree canopy cover geospatial datasets with spatial resolutions of 30 
+metres:  https://www.mrlc.gov/data/type/tree-canopy  
+31 Quantum Inc. (2023, April 28). High-Res vs Mid-Res vs Low-Res: What type of satellite imagery fits the bill? 
+Medium. https://medium.datadriveninvestor.com/high-res-vs-mid-res-vs-low-res-what-type-of-satellite-imagery-
+fits-the-bill-78cbd45f5d79  
+32  Smart Cities Glossary - Evergreen Resource Hub. (2023, November 24). Evergreen Resource Hub. 
+https://futurecitiescanada.ca/portal/resources/smart-cities-glossary/  
+33  Fighting climate change with the AI for the Planet Alliance. (2023, April). UNESCO. 
+https://www.unesco.org/en/articles/fighting-climate-change-ai-planet-alliance  
+34  Intergovernmental Panel on Climate Change. 2022. “Annex II - Glossary - Climate Change 2022: Impacts, Adaptation and 
+Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate 
+Change.” https://archive.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-AnnexII_FINAL.pdf. 
+35 What is Earth Observation? (2023, May 16). European Union Agency for the Space Programme. 
+https://www.euspa.europa.eu/eu-space-programme/copernicus/what-earth-observation  
+36 GIS (Geographic Information System). (n.d.). National Geographic Education. 
+https://education.nationalgeographic.org/resource/geographic-information-system-gis/  
+37 Smart Cities Glossary - Evergreen Resource Hub. (2023, November 24). Evergreen Resource Hub. 
+https://futurecitiescanada.ca/portal/resources/smart-cities-glossary/ 
+38 Natural Assets Initiative. (2018). Primer on Natural Asset Management for FCM’s 2018 Sustainable Communities 
+Conference. In Natural Assets Initiative. https://mnai.ca/media/2018/01/FCMPrimer_Jan1_2018.pdf  
+39 Brooke, R., O’Neill, S. J., & Cairns, S. (2017). Defining and scoping municipal natural assets. 
+https://mnai.ca/media/2018/02/finaldesignedsept18mnai.pdf 
+40 “Heat Island Effect.” 2023. United States Environmental Protection Agency. https://www.epa.gov/heatislands. 
+ 
+ 
+ 
+     evergreen.ca 
+Led by: 
+Lead Technical Partner: 
+With Fund Provided by: 

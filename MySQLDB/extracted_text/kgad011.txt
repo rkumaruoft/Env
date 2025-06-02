@@ -1,0 +1,1097 @@
+Social media messaging by climate action NGOs: a case 
+study of the 2019–2020 Australian Black 
+Summer bushfires
+Joshua Ettinger 
+1,, Mary Sanford 
+2, Peter Walton 
+3, David Holmes 
+4, James Painter 
+5 
+1School of Geography and the Environment, University of Oxford, Oxford OX1 3QY, UK 
+2Oxford Internet Institute, University of Oxford, Oxford OX1 3JS, UK 
+3School of Earth and the Environment, University of Leeds, Leeds LS2 9JT, UK 
+4Monash University Climate Change Communication Research Hub, Monash University, 3145, Australia 
+5Reuters Institute for the Study of Journalism, Department of Politics and International Relations, University of Oxford, Oxford OX2 6PY, UK
+Correspondence address. School of Geography and the Environment, University of Oxford, S Parks Road, Oxford OX1 3QY, UK. E-mail: joshua.ettinger@ouce.ox.ac.uk
+Abstract 
+Researchers are increasingly examining discourses associated with climate change and extreme weather events across different 
+communication channels. However, further research is needed to examine how environmental non-governmental organizations 
+(NGOs) frame extreme weather events and their relationship to climate change on social media platforms. This is an important topic 
+as these groups play a significant role communicating science and driving environmental action. Here, we examine how Australian 
+climate action NGOs framed the relationship of the 2019–2020 Black Summer bushfires to climate change on Twitter/X. Analyzing 
+2,077 bushfire-related tweets from a sample of 102 climate group accounts through manual content analysis, we found that these 
+groups frequently linked bushfires with climate change, representing 59% of their bushfire-related tweets during the period of the 
+fires. Forty-two percent of tweets mentioned climate change without describing how it relates to bushfires; 16% described specifically 
+how climate change influences the frequency and intensity of bushfires; and only 1% suggested inaccurately that climate change 
+causes bushfires to occur. Fifteen percent of tweets discussed risk factors beyond climate change that influence bushfire impacts, 
+such as firefighting, emergency responses, hazard reduction, and community vulnerabilities. Only seven accounts mentioned an 
+extreme event attribution study of the Black Summer fires. Based on these findings, we discuss opportunities and challenges of 
+climate science communication in the extreme weather context, and describe promising directions for future research.
+Lay Summary 
+Non-governmental organizations (NGOs) play a significant role communicating climate change and mobilizing climate action. This study 
+explores how Australian climate action NGOs communicated about climate change on Twitter during the 2019–2020 Australian Black 
+Summer bushfires. This is an important topic for research as there are nuances around how climate change relates to extreme weather 
+events. Climate change makes bushfires more frequent and intense, but it does not directly cause bushfires to occur. Additionally, risks 
+from bushfires do not only result from climate change—firefighting, landscape dynamics, emergency communications, evacuation proce­
+dures, and other types of responses shape the impacts of these events. The NGOs we examined overall did not inaccurately claim that cli­
+mate change causes bushfires (only 1% of total tweets). However, only 15% of the tweets mentioned non-climate change factors (such as 
+firefighting) that shape bushfire risks. Fourty-two percent of tweets mentioned climate change but did not explain how it relates to bush­
+fires. Based on these findings, we discuss opportunities, challenges, and ongoing questions around climate science communication in the 
+extreme weather context.
+Keywords: extreme weather; bushfire; Black Summer; Twitter; NGOs; climate change; communication
+Background
+Climate change is altering the frequency, duration, and intensity 
+of many kinds of extreme weather events around the world [1]. 
+Higher concentrations of greenhouse gases in the atmosphere 
+lead to more frequent and more intense heatwaves, heavy rain­
+fall events, and fire weather conditions, among impacts on other 
+types of weather. Extreme event attribution (EEA) techniques al­
+low climate scientists to go beyond describing how climate 
+change affects types of extreme weather to assess how climate 
+change affects the frequency and/or intensity of specific extreme 
+weather events [2]. For example, researchers found that climate 
+change increased the likelihood of a heatwave like the 
+November/December 2022 event in South America by about 
+60 times [3]. At the same time, not every extreme weather event 
+is necessarily affected by climate change. For example, research­
+ers found that the potential influence of climate change on the 
+2021 drought in Madagascar was negligible compared to natural 
+variability—poverty and strong reliance on rainfall were the key 
+Received: July 10, 2023. Revised: October 4, 2023. Accepted: October 6, 2023 
+# The Author(s) 2023. Published by Oxford University Press.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Oxford Open Climate Change, 2023, 3(1), kgad011  
+https://doi.org/10.1093/oxfclm/kgad011 
+Advance Access Publication Date: 13 October 2023 
+Research Article   
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+factors that caused food insecurity associated with the 
+drought [4].
+As scientists continue to assess how climate change alters ex­
+treme weather, environmental communication scholars are in­
+creasingly examining discourses associated with these events 
+across different communication channels. A growing body of lit­
+erature has assessed to what extent and how weather events are 
+linked to climate change in news media. In general, journalists 
+are increasingly connecting extreme weather events to climate 
+change and offering more coverage to climate change in general 
+[5, 6]. For instance, Hopke (2020) found a growing number of cli­
+mate change mentions in articles about heatwaves and wildfires 
+from 2013–2018 across several countries [7]. Media coverage of 
+the 2022 summer heatwave in the United Kingdom included sig­
+nificant discussion of climate change, which was often situated 
+in the context of politics and climate policies [8].
+There have also been analyses of climate change and extreme 
+weather discourses on social media platforms. Examining social 
+media is an important area for climate change communication 
+research as these platforms (such as Facebook, Reddit, TikTok, 
+and Twitter/X) are key spaces for climate change contestation, 
+discussion, mobilization, and science communication [9, 10]. 
+Social media discourse can differ significantly from news media 
+coverage of the same topics [11]. Social media platforms are also 
+a major news source, especially for young people [12]. 
+Researchers have shown that the occurrence of extreme weather 
+events is associated with an increase in social media posts that 
+mention climate change [13, 14], with different kinds of weather 
+events generating varying amounts of attention to climate 
+change [15–17]. For instance, Olynk Widmar et al. (2022) found 
+that posts about hurricanes mentioned climate change less often 
+than wildfires [18]. Other analyses have examined the roles of so­
+cial media for emergency communication, disaster response, and 
+relief coordination during extreme events [19–23].
+Framing climate change and extreme weather 
+relationships
+Amid increasing attention to the relationship between climate 
+change and extreme weather events, some researchers have cau­
+tioned that a sole focus on climate change could displace atten­
+tion from the roles of vulnerability, adaptation, exposure, and 
+disaster risk reduction strategies in shaping risks from hazards 
+[24–26]. As described in the IPCC Special Report on Global 
+Warming of 1.5C, ‘Risk results from the interaction of vulnerabil­
+ity (of the affected system), its exposure over time (to the hazard), 
+as well as the (climate-related) hazard and the likelihood of its 
+occurrence’ [27, p. 557]. Put simply, while climate change can af­
+fect meteorological aspects of extreme weather events, how well 
+communities and governments prepare for these events ulti­
+mately determines if hazards become disasters [28].
+Likewise, the phrase ‘natural disaster’ is problematic as it 
+implies that the impacts of extreme weather events are purely 
+due to meteorological aspects [29]. Policymakers can exploit this 
+idea to divert attention from local planning decisions and failures 
+[26]. Understanding and communicating the connections of cli­
+mate change to extreme weather events remains crucially impor­
+tant; however, focusing entirely on climate change could sideline 
+‘local ways of reducing vulnerability to extreme weather and … 
+end up absolving policymakers of their own failures to climate- 
+proof their citizens’ [30, p. 1]. A key point is the interconnected­
+ness of risk dimensions [31]. Climate change, in combination 
+with changing levels of exposure and vulnerability, has increased 
+costs associated with many weather-related disasters around the 
+world for several decades [32]. Perceptions of these risk factors 
+can also differ among citizens in the Global North and Global 
+South [33].
+The concept of framing offers a helpful theoretical lens to ex­
+plore different ways that communications about extreme 
+weather events can focus on climate change, vulnerability, expo­
+sure, disaster risk reduction strategies, or other risk aspects. 
+Framing refers to the act of emphasizing certain salient charac­
+teristics while neglecting others when describing any phenomena 
+[34, 35]. Experimental studies have shown that contrasting cli­
+mate change frames can generate different audience responses, 
+including a range of climate attitudes, emotions, and behavioral 
+intentions [36–38]. How communicators frame the risks of ex­
+treme weather events, their underlying causality, and their 
+impacts makes certain types of solutions more applicable (i.e. cli­
+mate mitigation versus disaster risk reduction strategies) and 
+assigns blame to different actors.
+The framing of extreme weather events is particularly rele­
+vant because when they occur, they are often described as focus­
+ing events or teachable moments to reduce risks from such 
+events in the future [39]. The motivation to conduct this study 
+was partly informed by our prior research in which we presented 
+non-climate scientists in the UK with results of an EEA study 
+showing how climate change affected the 2019 United Kingdom 
+summer heatwave [40]. We found that EEA was overall an atten­
+tion grabbing and helpful climate change communication tool. 
+However, when asked about actions to reduce future heatwave 
+risks, participants only discussed climate mitigation, rather than 
+a range of other adaptative strategies to reduce risks. Framing 
+the event only in terms of climate change primed participants to 
+only discuss climate change mitigation as the way to reduce 
+risks. This is one example of how the ways in which communica­
+tors frame extreme weather events may influence subsequent 
+learning—in other words, what an event ‘teaches’ and to whom.
+Environmental NGOs as climate change 
+communicators
+In analyzing discourse around extreme weather events and asso­
+ciated disasters, it is important to distinguish between different 
+kinds of actors and communication channels. Compared to news 
+media analyses, there has been less examination of how environ­
+mental non-governmental organizations (NGOs) engage with and 
+communicate about extreme weather events. This topic merits 
+further research as NGOs play a significant role in driving 
+environmental action [41]. They also act as ‘alternative science 
+communicators’, increasing societal awareness of scientific re­
+search and utilizing this information to advocate for their causes 
+[42–45]. In doing so, they broaden discourse around scientific 
+evidence to connect knowledge with political action [46]. As 
+described by Eden (2010, p. 224), NGOs ‘widen the circulation of 
+information and ideas about policy, ethics and practical applica­
+tion in order to mobilize other actors and publics, raise aware­
+ness and encourage purposeful scientific input to key 
+debates’ [47].
+Researchers have previously examined how NGOs use social 
+media platforms such as Facebook and Twitter as part of their 
+campaign strategies [48–50]. Bazago et al. (2020) examined tweets 
+from environmental NGOs during hurricanes Harvey, Irma and 
+Maria that occurred in 2017 in the United States [51]. They found 
+that climate change was frequently mentioned, often in associa­
+tion with critiques of political figures. Vu et al. (2020) examined 
+how environmental NGOs frame climate change in their commu­
+nications on Facebook, finding that posts focused more on 
+2 | Oxford Open Climate Change, 2023, Vol. 3, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+climate change problems than climate solutions [52]. To our 
+knowledge, there have not been studies specifically examining 
+how these groups frame the relationship between extreme 
+weather events and climate change on social media platforms. In 
+contrast to a growing number of studies examining EEA coverage 
+in news media [53, 54], there is also yet to be research examining 
+the prevalence of EEA studies being shared by these (and other) 
+actors on social media.
+Case study: the 2019–2020 Australian Black 
+Summer bushfires
+This study advances our understanding of extreme weather and 
+climate change NGO discourses through an analysis of how 
+Australian climate groups communicated on Twitter/X during 
+the 2019–2020 Australian Black Summer bushfires. Although 
+fires are an inherent feature of the Australian landscape, the 
+2019–2020 bushfire season involved a series of unusually intense 
+bushfires that severely affected all Australian states and territo­
+ries, especially eastern Australia [55]. Over 30 people were killed 
+as a direct result of the fires and an estimated 429 more people 
+died due to smoke exposure, along with thousands of buildings 
+destroyed and over 30 million hectares of land burnt [56–58]. The 
+fires led to billions of dollars of damage and affected billions of 
+animals [59–61]. They also disproportionately affected socio- 
+economically disadvantaged communities [62]. The most signifi­
+cant fires occurred from the beginning of September 2019 to the 
+end of January 2020, which is part of a trend of longer bushfire 
+seasons [63].
+The fires received substantial global news coverage, especially 
+at key moments during the season such as when smoke blan­
+keted Sydney [64], when Victoria declared catastrophic levels of 
+fire weather [65], and when citizens of Mallacoota, Victoria, evac­
+uated to beaches on New Year’s Eve, generating dramatic photos 
+and videos [66]. Burgess et al. (2020) analyzed Australian news 
+coverage of the Black Summer and found that about 50% of 
+articles mentioned climate change, compared to only 5% of 
+articles about the 2009 Black Saturday fires; 29% of articles in­
+cluded in-depth discussion of climate change; and 10% of articles 
+described failures to adequately plan for the fires [67]. Different 
+Australian news outlets pushed contesting narratives about the 
+connection (or not) of climate change to the fires [67, 68].
+The fires also received significant attention on social media. 
+Weber et al. (2020) examined the spread of misinformation on 
+Twitter that arson caused the Black Summer fires, revealing po­
+larization of different online communities that sought to either 
+propagate or debunk these claims [69]. Ogie et al. (2022) examined 
+disaster recovery on Twitter during and after the Black Summer 
+fires, finding that different types of Twitter users (e.g. citizens, 
+governments, NGOs) discussed various aspects of bushfire recov­
+ery at different periods, such as rebuilding infrastructure, sup­
+porting mental health, and filing insurance claims [70]. Users 
+also discussed the impacts of the fires on biodiversity [71].
+Although climate change does not directly cause fires, it is 
+making fire weather—the conditions in which fires begin and 
+spread—more frequent and more intense in many regions across 
+the world [63, 72]. Climate change amplified the Black Summer 
+fires: they happened after three consecutive years of drought and 
+dry winters [73], and occurred during Australia’s hottest and dri­
+est year on record [55]. An EEA analysis found that climate 
+change made the fire weather conditions like those that occurred 
+during the Black Summer at least 30% more likely (initially pub­
+lished on the World Weather Attribution on 10 January 2020 and 
+later as a peer-reviewed study [74]).
+Beyond climate change, the Black Summer exposed a variety 
+of ways in which Australia could have more effectively averted 
+the harmful impacts of the fires. As Chester (2020, p. 245) 
+describes, ‘the scale and catastrophic impact of these bushfires 
+were caused—and exacerbated—by a conjunction of cumulative 
+events, (in)actions, and institutions’ [24]. This includes under- 
+resourced firefighters, most of whom are volunteers [75]; a lack of 
+preparation of the Australian healthcare system [76]; long-term 
+land-management decisions, such as insufficient hazard reduc­
+tion through planned and cultural burns (practiced by Indigenous 
+Australian Peoples), although scientists debate the impact of fuel 
+loads on the fires [77–79]; insufficient early warning and emer­
+gency communication systems; ecological dynamics such as the 
+dominance of highly flammable eucalyptus trees [80]; and, as 
+some have argued, a failure to implement lessons from prior gov­
+ernmental bushfire inquiries [81], among other factors. The 
+Australian government’s 2020 Royal Commission into National 
+Natural Disaster Arrangements offers an array of recommenda­
+tions based on a review of the Black Summer fires, including im­
+proving government emergency mobilization, enhancing air 
+quality monitoring, increasing climate change adaptation and 
+mitigation, providing additional firefighting resources and sup­
+port, and improving emergency communication systems [59].
+Research questions
+The Black Summer demonstrates how a combination of climate 
+change, along with planning decisions at federal, state, and local 
+levels, can shape the impacts of bushfires. These dynamics, as well 
+as the significant amount of attention the fires generated, make the 
+Black Summer a highly topical case study to analyze how climate 
+action NGOs framed the event in their social media communica­
+tions. Three research questions structure our analysis.
+First, we examined how these groups framed the bushfire- 
+climate change relationship on Twitter during the Black 
+Summer bushfires: 
+RQ1. How did Australian climate action NGOs frame the relationship 
+between bushfires and climate change in their tweets during the Black 
+Summer bushfires?
+Building on research tracking news media coverage of EEA stud­
+ies, for our second research question, we measured how fre­
+quently the groups shared results of the van Oldenborgh et al. 
+(2021) Black Summer extreme event attribution study (described 
+earlier [74]): 
+RQ2. To what extent did Australian climate groups share on Twitter 
+the results of the van Oldenborgh et al. (2021) extreme event attribu­
+tion study of the Black Summer bushfires?
+Third, we examined how these groups framed the Black Summer 
+in terms of climate change versus other risk dynamics that affect 
+bushfire impacts: 
+RQ3. To what extent did Australian climate groups mention non- 
+climate change factors, such as disaster risk reduction, emergency 
+responses, firefighting, and vulnerability, in shaping bushfire risks in 
+their tweets during the Black Summer bushfires?
+Method
+To answer our research questions, we first identified climate ac­
+tion groups that met the following criteria: (i) is based in 
+Australia; (ii) is a non-governmental organization that has 
+addressing climate change as part of its core mission; and 
+Ettinger et al. | 3  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+(iii) has a Twitter account. We used Climate Action Network 
+Australia—the largest available online list of Australia-based cli­
+mate advocacy groups—to create our initial sample [82]. The list 
+contained 149 organizations in November 2022 when the sample 
+was created. It included organizations of a large diversity of sizes 
+located around the country; community, regional, national, and 
+Australia-based offices of international groups; as well as groups 
+representing diverse cultural backgrounds, such as First Nations 
+Indigenous Australian Peoples and various religious affiliations. 
+We then removed all groups that did not have a Twitter account, 
+which narrowed the sample to 102 groups (see Supplementary 
+Materials for list). For simplicity, we use the terms NGO and cli­
+mate action groups interchangeably, although we acknowledge 
+that there are a wide variety of different kinds of groups, includ­
+ing significant differences between local, grassroots community 
+associations versus international organizations, and that groups 
+may have different aims, approaches, and methods (e.g. policy 
+engagement, litigation, protests, etc.). A detailed overview of 
+Australian climate action groups is beyond the scope of this pa­
+per, but we refer readers to Gulliver et al. (2020) for further infor­
+mation [83].
+Using the Twitter API, we collected all posts from these 
+accounts from 1 July 2019 to 31 March 2020, which are the dates 
+used by the Australian government’s Royal Commission into 
+National Natural Disaster Arrangements [59]. We analyzed 
+tweets during the period of the fires as a reflection of how the oc­
+currence of these events provides an opportunity window for cli­
+mate change communication while they remain matters of 
+public attention. The API returned 49,229 tweets, retweets, and 
+comments. Only original tweets were kept (rather than retweets 
+or comments) as we sought to uncover how organizations them­
+selves framed the relationship between bushfires and climate 
+change, rather than reposts of content written by others. The 
+only exception to this was for RQ2, for which we included 
+retweets given significant news coverage about the Black 
+Summer EEA study and the possibility that groups might retweet 
+these articles, rather than writing new tweets about the study.
+All tweets that did not mention terms such as ‘fire’, ‘Black 
+Summer’, ‘burn’, and other related phrases were removed (see 
+Supplementary Materials for full query list). In total, 2,507 tweets 
+from 59 of the 102 accounts remained. This list was then manu­
+ally checked to remove false positives irrelevant to the topic of 
+bushfires, such as those that mentioned fires happening else­
+where in the world. This resulted in a final dataset of 2,077 
+tweets. Two of the co-authors manually coded these tweets fol­
+lowing deductive content analysis informed by the research 
+questions [84]. Although we did not conduct a visual discourse 
+analysis, we checked visual imagery associated with tweets for 
+any images containing text or symbols associated with the coding 
+criteria (e.g. protestors holding signs that said ‘climate action 
+now’). This helped ensure we did not miss important context on 
+tweets that relied more on visuals than text to express their mes­
+sages. Please see the Supplementary Materials for the codebook 
+and further methodological details.
+We used a manual coding approach as it helped facilitate a 
+fine-grained discourse analysis to assess subtle nuances in the 
+framing of extreme weather events and climate change. We con­
+ducted two rounds of intercoder reliability checks between the 
+two coders on 25 random tweets from the dataset, with differen­
+ces discussed between rounds. This ultimately resulted in reli­
+ability scores of 0.920 for Cohen's kappa and 0.921 for 
+Krippendorff’s alpha, which represent strong agreement. The full 
+analysis then commenced. At a reflexive level, we acknowledge 
+our own researcher subjectivity in interpreting frames, as well as 
+inherent power dynamics assessing the communications of 
+others who may not have benefitted from the same level of 
+access to environmental education, resources, and training.
+Findings
+Framing the bushfire and climate change 
+relationship
+During the Black Summer bushfire season, our sample of 
+Australian climate action group accounts tweeted a total of 2,077 
+times about bushfires (excluding retweets and comments). 
+Mentions of bushfires corresponded closely with the bushfire sea­
+son as the fires ramp up over time, with peaks during significant 
+fire events, and begin to taper off as the season ends (Fig. 1).
+Of the total sample, 1,227 tweets (59%) mentioned climate 
+change or related phrases such as global warming, climate emer­
+gency, and climate crisis. In contrast, 872 tweets (42% of total 
+sample, 71% of climate change-related tweets) mentioned cli­
+mate change but did not specify the relationship between climate 
+change and bushfires (Fig. 2). Tweets in this category often added 
+hashtags such as #climatecrisis, #climateaction #climateemer­
+gency; made vague statements such as ‘this is climate change’; 
+mentioned fossil fuels/fossil fuel companies; or discussed politi­
+cal inaction on climate change. Several examples are in­
+cluded below: 
+Catastrophic bushfires across South Australia as the state swelters 
+through 40þ degrees—this is climate change. This is the impact of 
+mining and burning fossil fuels.
+This summer's devastating bushfires have made the #ClimateCrisis 
+impossible to ignore for millions of people. Join us at the Climate 
+Crisis National Day of Action event in Melbourne! See you there Sat 
+Feb 22, 2pm State Library.
+September: thousands of students strike for climate action. 
+November: 600 NSW schools closed due to catastrophic fire risk. 
+#ClimateChangeIsReal
+There were 327 tweets (16% of total sample, 27% of tweets that 
+mentioned climate change) that specified that climate change 
+worsens bushfires by making them more likely and/or more in­
+tense. These tweets often linked to news articles and included 
+quotations from climate scientists and fire experts. Several 
+tweets went into precise details of how climate change has these 
+effects on bushfires (e.g. by drying out the landscape), but most 
+stated more simply that climate change exacerbates bushfire fre­
+quency and/or intensity: 
+Thousands of people are watching their homes burn as dangerous 
+bushfires race across NSW and QLD, and our government are still 
+failing to acknowledge the direct link between the climate crisis and 
+more extreme bushfires and drought.
+Victoria’s climate has changed in recent decades, becoming hotter 
+and drier.
+• an overall increase in the frequency of unusually hot days 
+• a decline in cool season rainfall over the last 30 years. 
+• greater number of very high fire danger days in spring 
+@BOM_au reports Australia has officially recorded its warmest, 
+driest year on record, and the outlook points to increased catastrophic fire 
+weather. #AustraliaFires #AustraliaisBurning #ActOnClimate
+4 | Oxford Open Climate Change, 2023, Vol. 3, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+Only 28 tweets (1% of total sample, 2% of tweets that mentioned 
+climate change) suggested that climate change directly causes 
+bushfires to occur, used phrases suggesting climate change was 
+solely to blame for their impacts (often specifically blaming for­
+mer Prime Minister Scott Morrison for climate inaction), or im­
+plied that the bushfires would not have occurred without 
+climate change: 
+This isn't normal. Bushfires rage from QLD to the NSW South Coast, 
+again. Meanwhile, the Morrison Gov is gripped by denial. Their inabil­
+ity to acknowledge the cause of fires subjects communities to more 
+suffering. To save lives, we need climate action now. #bushfires
+A lesson for @ScottMorrisonMP. Saying that Australia's action 
+doesn't make a difference isn't leadership. Burning coal is setting 
+Australian on fire and exporting climate damage to the world. 
+#ThisIsNotNormal #NoNewCoal
+A group of Bega Valley residents displaced due to the current fire 
+threat have held a cricket match on the lawns of Parliament House. 
+‘The PM needs to do something about the cause of fires—climate 
+change, give more resources to the South Coast’
+Black Summer extreme event attribution study
+Only 15 tweets from seven accounts of our sample mentioned 
+the van Oldenborgh et al. (2020) extreme event attribution study 
+of the Black Summer fires [74]. Eleven of these tweets were 
+posted directly by the groups and four were retweets. Most of 
+these tweets quoted from, and linked to, news media articles 
+reporting the study’s key findings: 
+The devastating bushfires were at least 30% more likely because of 
+climate change. Risks of a repeat will rise four-fold if global tempera­
+tures exceed two-degrees. Call on @DanielAndrewsMP to set 
+#VicTargets to limit warming to 1.5 degrees.
+A report has found that Human-driven climate change increased the 
+likelihood that Australia would experience extreme heat, setting the 
+stage for this summer's fires. ‘It was at least 30%, but likely much 
+higher as models underestimate extreme heat trends’
+Framing bushfire risks beyond climate change
+There were 312 tweets (15% of total sample) that mentioned fac­
+tors that influence the risks and impacts of bushfires other than 
+Figure 1. Timeline and frequency of NGO tweets about bushfires (n ¼ 2077), which correspond with significant fire events during the Black Summer 
+season (1 July 2019–31 March 2020). Three examples of these events are indicated.
+0
+200
+400
+600
+800
+1000
+Climate change mentioned but
+relationship not described
+Climate change makes bushfires more
+frequent and/or intense
+Climate change causes bushfires to occur
+Total number of tweets
+Figure 2. Bar chart showing frequency of tweets (excluding retweets and comments) for three different frames describing how climate change relates 
+to bushfires (n ¼ 1,227).
+Ettinger et al. | 5  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+climate change. Frequent topics of discussion included firefight­
+ing and emergency responses; disaster risk reduction and hazard 
+reduction strategies (e.g. planned and cultural burns, personal 
+bushfire evacuation plans, emergency communication systems); 
+healthcare systems; climate change adaptation; and how certain 
+populations were more vulnerable than others to bushfires, such 
+as children and the elderly. For example: 
+Elderly and vulnerable people should never feel abandoned during a 
+crisis. But that's how Marion felt, trapped in her home for months 
+during the bushfire crisis this summer.
+Data shows that ‘Premium Grade Buildings’ can reduce the outdoor 
+bushfire smoke contaminants by up to 90 per cent. Improving the 
+standard of our homes will make them safer and more liveable, espe­
+cially as our bushfires intensify.
+‘Our biggest challenge with hazard reduction burning is the weather 
+and the windows available to do it safely and effectively.’ 
+#Bushfirecrisis
+These actions were frequently described in the context of poli­
+tics, especially the actions of Scott Morrison, and pointed out 
+actions they felt elected officials had failed to pursue prior to the 
+onset of the fires that would have reduced risks. There were 
+143 tweets (6%) that mentioned one or more of these risk factors 
+as well as climate change, such as interactions between the 
+effects of climate change on bushfires and the need to support 
+firefighting efforts: 
+#SydneySmoke from the bushfires reached its worst level yet today, 
+clocking in at 11 times the hazardous level. Yet Our PM Scott 
+Morrison has seen fit to knock back calls for more funding for the fire­
+fighters on the frontline of the #ClimateEmergency
+‘Scientists and former emergency service chiefs say the increased 
+threat demands both greater resources to fight fires and urgent action 
+to cut emissions.’
+Discussion
+This study provides new empirical insights into how climate ac­
+tion groups communicate about extreme weather events on 
+Twitter/X and how they frame the relationship of these events to 
+climate change. We found that 1,227 (59%) of tweets mentioned 
+climate change, compared to 49% of Black Summer articles in 
+Australian news media [67]. That Australian climate groups 
+more frequently raised the issue of climate change than news 
+media amid the fires is unsurprising—they sought to use the 
+Black Summer as an opportunity for climate mobilization while 
+public attention was directed to the topic and as shown, peaks in 
+tweet activity correspond with key moments during the fire sea­
+son. The frequent mentions of politics/elected officials in their 
+tweets aligns with prior analyses of climate change Twitter dis­
+cussions [11]. It also suggests that Australian climate NGOs tied 
+the bushfires to their existing political aims, namely, to counter 
+perceived climate inaction on the part of former Prime Minister 
+Scott Morrison and political leaders at the time.
+However, our findings offer novelty and value by showing how 
+these groups framed the bushfire-climate change relationship 
+and to what extent they incorporated climate science in their 
+tweets. Only 28 tweets (1% of total) suggested inaccurately that 
+climate change directly causes bushfires to occur. The notion 
+that climate change directly causes extreme weather events mis­
+leadingly implies that if climate change were to be fully stopped, 
+fires (and resulting consequences) would no longer occur. In con­
+trast, 327 tweets (16%) made scientific statements that specifi­
+cally described how climate change affects bushfire frequency 
+and severity, whereas 872 tweets (42%) simply mentioning cli­
+mate change without detailing how it relates to bushfires. 
+Comparatively, 29% of Australian news media coverage articles 
+of the Black Summer covered climate change in depth and with 
+accuracy [67]. Only seven accounts shared the van Oldenborgh 
+et al. (2020) extreme event attribution study a total of 
+15 times [74].
+These findings suggest that Australian climate groups could 
+more frequently draw upon climate science related to bushfires 
+to provide further scientific evidence backing up their arguments 
+for climate action. Additionally, our prior research has shown 
+that EEA results—by providing a specific quantitative estimate of 
+how climate change influenced a weather event—can be 
+attention-grabbing and engaging for non-climate scientists [40]. 
+To be sure, simply communicating scientific information is not 
+necessarily an effective strategy to encourage climate action; 
+nonetheless, that 95 of the 102 groups did not tweet about the 
+Black Summer EEA study is potentially a missed opportunity to 
+call further attention to the relationship between climate change 
+and bushfires.
+We also examined to what extent these groups mentioned fac­
+tors beyond climate change that affect bushfire impacts, includ­
+ing disaster risk reduction strategies, emergency responses, 
+hazard reduction, and vulnerabilities. In the bushfire context, 
+this includes firefighting, emergency communications, evacua­
+tions, planned burns, and other strategies that seek to reduce fire 
+impacts. We found that climate action groups mentioned these 
+aspects of bushfire risks in a relatively low percentage of tweets 
+(312, 15%). Although it remains crucial to communicate how cli­
+mate change can affect different kinds of extreme weather 
+events, climate action groups should be aware of potential issues 
+of framing these events as solely a climate change issue, even if 
+promoting climate action is their main objective. The effects of 
+climate change on bushfires are only one aspect that ultimately 
+shaped the impacts of the Black Summer [59]. As shown in other 
+contexts, such as flooding in Brazil, public officials may strategi­
+cally blame global climate change to avert responsibility for local 
+decision-making and planning failures [26]. The most holistic 
+communications about potential risk factors would incorporate 
+the role of climate change in combination with other dynamics 
+that affect the impacts of extreme weather events. We found 
+only 143 tweets (6% of total) that accomplished this in the bush­
+fire case.
+Directions for future research and study 
+limitations
+Given that NGOs play a significant role as science communica­
+tors [42], these findings raise questions about how NGOs engage 
+with climate science/scientists and risk experts, and how they 
+draw on these resources in their communications and cam­
+paigns. Forging better links between these actors could help facil­
+itate 
+stronger 
+knowledge 
+exchange 
+and 
+dialogue 
+about 
+communication strategies in the extreme weather context. For 
+instance, surveys, interviews, and other methods could further 
+examine the channels by which climate action advocates access 
+and make sense of scientific information and for what kinds of 
+campaigns (and other goals) they utilize it [85]. This would pro­
+vide practical guidance to help facilitate stronger knowledge ex­
+change and accessible science communication among diverse 
+actors. Future research could also more closely examine the 
+6 | Oxford Open Climate Change, 2023, Vol. 3, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+science communication role perceptions of NGOs in the extreme 
+weather context, especially to what extent they perceive commu­
+nicating climate science as part of their missions, objectives, and 
+campaigning strategies.
+Another promising direction for future research would be to 
+explore how other types of nuances around extreme weather 
+events and their attribution to climate change are communicated 
+by diverse actors across different communication channels. For 
+instance, there are varying levels of scientific confidence and un­
+derstanding about the impacts of climate change on the dura­
+tion, frequency, and intensity of different types of extreme 
+weather [72]. There are also other nuances and uncertainties 
+around specific aspects of different types of extremes, such as 
+how climate change may affect short-duration versus longer- 
+duration extreme rainfall events [86]. Likewise, future studies 
+could compare how climate action NGOs frame extreme weather 
+events in their communications to other types of organizations, 
+such as media outlets across the political spectrum, private 
+sector companies, and thinktanks. Other actors may seek to 
+downplay and/or ignore climate change in the extreme 
+weather context.
+This study has several important limitations. First, we exam­
+ined tweets from a limited number of organizations in response 
+to one type of extreme weather event—our dataset is only sub- 
+set of climate action NGO communications from a single context. 
+We also did not distinguish between different types of NGOs 
+which may hold a range of different strategies and priorities. 
+Future research could explore climate change communication 
+differences between local grassroots groups versus larger top- 
+down organizations [87], as well as how such groups engage with 
+different types of extreme weather events. Larger groups may 
+have more communication resources, which in turn could inform 
+how they frame the topic.
+Second, this study looked only at Twitter/X rather than other 
+online platforms—future research could build on our findings to 
+examine extreme weather-related communications from these 
+groups across other websites and communication channels. 
+Such research might find significant differences as character- 
+length limitations on tweets encourage brevity, which could 
+mean that groups chose not to provide more detailed scientific 
+statements due to a lack of space and were constrained in their 
+content decisions. Additionally, ongoing changes to the Twitter/X 
+platform could affect how NGOs use the platform in both the 
+content and frequency of their posts.
+Third, although we inspected tweet images for relevant text or 
+symbols associated with our coding criteria, we did not conduct a 
+visual discourse analysis. Researchers are increasingly examin­
+ing visuals in the context of extreme weather and climate 
+change, and recent studies have revealed striking differences in 
+emotional tones between text and visual narratives in news me­
+dia coverage of heatwaves [88]. A robust visual analysis could 
+add important insights into how climate groups use visuals to 
+frame extreme weather events, their relationship with climate 
+change, and their impacts.
+Fourth, we analyzed tweets within the 2019–2020 fire season 
+in connection with the notion that extreme weather events open 
+a limited opportunity window for climate change communication 
+while they remain a focus of public attention. Future research 
+could offer a more longitudinal perspective on how climate 
+groups engage with extreme weather events before, during, and 
+after their occurrence; however, most Twitter activity during ex­
+treme weather events has been shown to occur during the active 
+phase of the event and rapidly drops off after [70]. This study 
+also focused on communication providers rather than recipi­
+ents—more research is needed to examine how diverse audien­
+ces respond to different frames of extreme weather events and 
+climate change, as well as dynamics of other communication 
+channels in conveying this information.
+Conclusion
+This study examined how Australian climate action NGOs 
+communicated on Twitter about climate change during the 
+2019–2020 Australian Black Summer bushfires. Fifty-nine per­
+cent of bushfire-related tweets mentioned climate change during 
+the period of the fires. Forty two percent of tweets mentioned cli­
+mate change without describing how it relates to bushfires; 16% 
+described specifically how climate change influences the fre­
+quency and intensity of bushfires; and 1% implied inaccurately 
+that climate change causes bushfires. Fifteen percent of tweets 
+discussed factors beyond climate change, such as vulnerability 
+and disaster risk reduction strategies, that influence bushfire 
+impacts. Only seven accounts mentioned an extreme event attri­
+bution study of the Black Summer fires. These findings suggest 
+that although these groups largely did not tweet scientifically in­
+accurate information, they could further draw upon climate sci­
+ence to offer more precise climate change attribution statements 
+and more often incorporate a broader range of risk factors that 
+shape the impacts of bushfires. As populations around the world 
+continue to confront many kinds of intensified extreme weather, 
+assessing the framing of these events—and how different frames 
+promote different kinds of actions—will grow in importance.
+Ethics statement
+The study did not require IRB review in accordance with guide­
+lines of the University of Oxford’s Central University Research 
+Ethics Committee.
+Supplementary data
+Supplementary data are available at Oxford Open Climate 
+Change online.
+Conflict of interest
+The authors report there are no conflict of interests to declare.
+Authors’ contributions
+Joshua Ettinger (Conceptualization [lead], Formal analysis [lead], 
+Methodology [lead], Writing—original draft [lead]), Mary Sanford 
+(Formal analysis [supporting], Methodology [supporting], Writing— 
+review & editing [equal]), Peter Walton (Methodology [supporting], 
+Supervision [equal], Writing—review & editing [equal]), David 
+Holmes (Methodology [supporting], Writing—review & editing 
+[equal]), and James Painter (Methodology [supporting], Supervision 
+[equal], Writing—review & editing [equal])
+References 
+01. Masson-Delmotte V, Zhai P, Pirani A et al. Climate change 2021: 
+the physical science basis. Contribution of working group I to 
+the sixth assessment report of the intergovernmental panel on 
+climate change, 2021, 2.
+Ettinger et al. | 7  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+02.
+Swain DL, Singh D, Touma D et al. Attributing extreme events to 
+climate change: A new frontier in a warming world. One Earth 
+2020;2:522–7.
+03.
+Arias PA, Rivera JA, S€orensson AA et al. 2023. Vulnerability and 
+high temperatures exacerbate impacts of ongoing drought in 
+Central South America [Online]. World Weather Attribution, 2023. 
+https://www.worldweatherattribution.org/wp-content/uploads/WWA- 
+Argentina-Uruguay-drought-Scientific-Report.pdf (15 March 2023, date 
+last accessed).
+04.
+Harrington LJ, Wolski P, Pinto I et al. Attribution of severe low 
+rainfall in southern Madagascar. World Weather Attribution, 
+2021. 
+https://www.worldweatherattribution.org/wp-content/ 
+uploads/ScientificReport_Madagascar.pdf (27 October 2023, 
+date last accessed).
+05.
+Boykoff M, Katzung J, Nacu-Schmidt A et al. A review of media 
+coverage of climate change and global warming in 2021. Media 
+and Climate Change Observatory, Cooperative Institute for 
+Research in Environmental Sciences, University of Colorado. 
+http://sciencepolicy.colorado.edu/icecaps/research/media_cov 
+erage/summaries/special_issue_2021.html (14 March 2023, 
+date last accessed).
+06.
+Painter J, Hassol SJ. Reporting extreme weather events. In: 
+Holmes David C, Richardson LM eds. Research handbook on 
+communicating climate change. Edward Elgar Publishing. 
+2020:183–195.
+07.
+Hopke JE. Connecting extreme heat events to climate change: 
+Media coverage of heat waves and wildfires. Environ Commun 
+2019;14(4):1–17.
+08.
+Dunne D, McSweeney R, Viglione G et al. Media reaction: UK’s 
+record-smashing 40C heatwave and climate change. Carbon 
+Brief. https://www.carbonbrief.org/media-reaction-uks-record- 
+smashing-40c-heatwave-and-climate-change/ (14 March 2023, 
+date last accessed).
+09.
+Hautea S, Parks P, Takahashi B et al. Showing they care (or 
+don’t): Affective publics and ambivalent climate activism on 
+TikTok. Soc Media þ Soc 2021;7:20563051211012344.
+10.
+Treen K, Williams H, O’Neill S et al. Discussion of climate 
+change on Reddit: Polarized discourse or deliberative debate? 
+Environ Commun 2022;16:680–98.
+11.
+Chen K, Molder AL, Duan Z et al. How climate movement actors 
+and news media frame climate change and strike: Evidence 
+from analyzing twitter and news media discourse from 2018 to 
+2021. Int J Press/Politics 2023;28:384–413.
+12.
+Newman N, Fletcher R, Robertson CT et al. Reuters Institute 
+Digital News Report 2022. Reuters Institute for the Study of 
+Journalism. 
+https://reutersinstitute.politics.ox.ac.uk/digital- 
+news-report/2022 (15 March 2023, date last accessed).
+13.
+Kirilenko AP, Molodtsova T, Stepchenkova SO. People as sen­
+sors: Mass media and local temperature influence climate 
+change discussion on Twitter. Glob Environ Change 2015; 
+30:92–100.
+14.
+Sisco MR, Bosetti V, Weber EU. When do extreme weather 
+events generate attention to climate change? Clim Change 2017; 
+143:227–41.
+15.
+Berglez P, Al-Saqaf W. Extreme weather and climate change: so­
+cial media results, 2008–2017. Environ Hazards 2021;20:382–99.
+16.
+Moernaut R, Mast J, Temmerman M et al. Hot weather, hot topic. 
+Polarization and sceptical framing in the climate debate on 
+Twitter. Inform Commun Soc 2022;25:1047–66.
+17.
+Roxburgh N, Guan D, Shin KJ et al. Characterising climate 
+change discourse on social media during extreme weather 
+events. Glob Environ Change 2019;54:50–60.
+18. Olynk Widmar N, Rash K, Bir C et al. The anatomy of natural dis­
+asters on online media: hurricanes and wildfires. Nat Hazards 
+(Dordr) 2022;110:961–98.
+19. Kankanamge N, Yigitcanlar T, Goonetilleke A. How engaging 
+are disaster management related social media channels? The 
+case of Australian state emergency organisations. Int J Disaster 
+Risk Reduct 2020;48:101571.
+20. Liu W, Lai C-H, Xu W. Tweeting about emergency: A semantic 
+network analysis of government organizations’ social media 
+messaging during Hurricane Harvey. Public Relat Rev 2018; 
+44:807–19.
+21. Martınez-Rojas M, Pardo-Ferreira M del C, Rubio-Romero JC. 
+Twitter as a tool for the management and analysis of emer­
+gency situations: A systematic literature review. Int J Inf Manage 
+2018;43:196–208.
+22. Takahashi B, Tandoc EC, Carmichael C. Communicating on 
+Twitter during a disaster: An analysis of tweets during Typhoon 
+Haiyan in the Philippines. Comput Hum Behav 2015;50:392–8.
+23. Zander KK, Sibarani R, Lassa J et al. How do Australians use so­
+cial media during natural hazards? A survey. Int J Disaster Risk 
+Reduct 2022;81:103207.
+24. Chester L. The 2019–2020 Australian bushfires: A potent mix of 
+climate change, problematisation, indigenous disregard, a frac­
+tured federation, volunteerism, social media, and more. Rev 
+Evol Polit Econ 2020;1:245–64.
+25. Kelman I, Gaillard JC, Mercer J. Climate change’s role in disaster 
+risk reduction’s future: Beyond vulnerability and resilience. Int J 
+Disaster Risk Sci 2015;6:21–7.
+26. Lahsen M, Ribot J. Politics of attributing extreme events and dis­
+asters to climate change. WIREs Clim Change 2021;e750.
+27. IPCC. Annex I: glossary. In: Matthews J, Masson-Delmotte BR, 
+Zhai VP et al. (eds.), Global Warming of 1.5C. An IPCC Special 
+Report on the Impacts of Global Warming of 1.5C above Pre- 
+Industrial Levels and Related Global Greenhouse Gas Emission 
+Pathways, in the Context of Strengthening the Global Response to the 
+Threat of Climate Change, Sustainable Development, and Efforts to 
+Eradicate Poverty. Geneva, Switzerland: World Meteorological 
+Organization, 2018.
+28. Raju E, Boyd E, Otto F. Stop blaming the climate for disasters. 
+Commun Earth Environ 2022;3:1–2.
+29. Chmutina K, von Meding J. A dilemma of language: “natural dis­
+asters” in academic literature. Int J Disaster Risk Sci 2019; 
+10:283–92.
+30. Pearce F. It’s not just climate: Are we ignoring other causes of 
+disasters? [Online], Yale Environment 360, 2022. https://e360. 
+yale.edu/features/its-not-just-climate-are-we-ignoring-other-causes- 
+of-disasters (14 March 2023, date last accessed).
+31. Bouwer LM, Observed and projected impacts from extreme 
+weather events: Implications for loss and damage. In: Mechler 
+R, Bouwer LM, Schinko T et al. (eds.), Loss and Damage from 
+Climate Change: Concepts, Methods and Policy Options. Cham: 
+Springer International Publishing, 2019, 63–82.
+32. Ebi KL, Vanos J, Baldwin JW et al. Extreme weather and climate 
+change: Population health and health system implications. 
+Annu Rev Public Health 2021;42:293–315.
+33. Lizarralde G, Bornstein L, Robertson M et al. Does climate 
+change cause disasters? How citizens, academics, and leaders 
+explain climate-related risk and disasters in Latin America and 
+the Caribbean. Int J Disaster Risk Reduct 2021;58:102173.
+34. Entman RM. Framing: Toward clarification of a fractured para­
+digm. J Commun 1993;43:51–8.
+8 | Oxford Open Climate Change, 2023, Vol. 3, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+35.
+Guenther L, J€orges S, Mahl D et al. Framing as a bridging concept 
+for climate change communication: A systematic review based 
+on 25 years of literature. Commun Res 2023;00(0):1-25.
+36.
+Gifford R, Comeau LA. Message framing influences perceived 
+climate change competence, engagement, and behavioral 
+intentions. Glob Environ Change 2011;21:1301–7.
+37.
+Morton TA, Rabinovich A, Marshall D et al. The future that may 
+(or may not) come: How framing changes responses to uncer­
+tainty in climate change communications. Glob Environ Change 
+2011;21:103–9.
+38.
+Marlon JR, Bloodhart B, Ballew MT et al. How hope and doubt af­
+fect climate change mobilization. Front Commun 2019;4:20.
+39.
+Birkland TA, Schwaeble KL. Agenda setting and the policy pro­
+cess: Focusing events. In: Wagner M, et al. Eds, Oxford research en­
+cyclopedia of politics, 2019. Oxford University Press.
+40.
+Ettinger J, Walton P, Painter J et al. “What’s up with the weath­
+er?” Public engagement with extreme event attribution in the 
+United Kingdom. Weather Clim Soc 2021;13:341–52.
+41.
+Doyle J. Climate action and environmental activism: The role of 
+environmental NGOs and grassroots movements in the global 
+politics of climate change. In: Boyce T, Lewis J, Eds, Climate 
+Change and the Media. Peter Lang. 2009:103–116.
+42.
+Faehnrich B. Digging deeper? Muddling through? How environ­
+mental activists make sense and use of science–an exploratory 
+study. JCOM 2018;17:A08.
+43.
+Maeseele P. NGOs and GMOs. Javnost 2009;16:55–72.
+44.
+R€odder S. The ambivalent role of environmental NGOs in cli­
+mate communication. JCOM 2020;19:C03.
+45.
+Yearley S. Communication strategies of environmental NGOs 
+and advocacy groups. In: Oxford Research Encyclopedia of Climate 
+Science, 2017. https://oxfordre.com/climatescience/display/10. 
+1093/acrefore/9780190228620.001.0001/acrefore-97801902286 
+20-e-402 (27 October 2023, date last accessed).
+46.
+Jasanoff S. NGOs and the environment: From knowledge to ac­
+tion. Third World Quart 1997;18:579–94.
+47.
+Eden S. NGOs, the science-lay dichotomy, and hybrid spaces of 
+environmental knowledge. In: Meusburger P, Livingstone D, 
+J€ons H (eds.), Geographies of Science. Dordrecht: Springer 
+Netherlands, 2010, 217–30.
+48.
+Bortree DS, Seltzer T. Dialogic strategies and outcomes: An 
+analysis of environmental advocacy groups’ Facebook profiles. 
+Public Relat Rev 2009;35:317–9.
+49.
+Comfort SE, Hester JB. Three dimensions of social media mes­
+saging success by environmental NGOs. Environ Commun 2019; 
+13:281–6.
+50.
+Lovejoy K, Saxton GD. Information, community, and action: 
+How nonprofit organizations use social media. J Comput-Mediat 
+Commun 2012;17:337–53.
+51.
+Bazago FG, Guardia MLG, Garcıa JS. Environmental discourse in 
+natural disaster scenarios. 
+Econ 
+Res 
+Ekon Istraz 2020; 
+33:3093–107.
+52.
+Vu HT, Do HV, Seo H et al. Who leads the conversation on cli­
+mate change?: A study of a global network of NGOs on Twitter. 
+Environ Commun 2020;14:450–64.
+53.
+Osaka S, Painter J, Walton P et al. Media representation of ex­
+treme event attribution: A case study of the 2011–2017 
+California drought. Weather Clim Soc 2020;12:4,847–62.
+54.
+Painter J, Ettinger J, Doutreix M-N et al. Is it climate change? 
+Coverage by online news sites of the 2019 European summer 
+heatwaves in France, Germany, the Netherlands, and the UK. 
+Clim Change 2021;169:4:1–28.
+55. Abram NJ, Henley BJ, Sen Gupta A et al. Connections of climate 
+change and variability to large and extreme forest fires in south­
+east Australia. Commun Earth Environ 2021;2:1–17.
+56. Filkov AI, Ngo T, Matthews S et al. Impact of Australia’s cata­
+strophic 2019/20 bushfire season on communities and environ­
+ment. Retrospective analysis and current trends. J Saf Sci Resil 
+2020;1:44–56.
+57. Johnston FH, Borchers-Arriagada N, Morgan GG et al. 
+Unprecedented health costs of smoke-related PM2.5 from the 
+2019–20 Australian megafires. Nat Sustain 2021;4:42–7.
+58. Dickman CR. Ecological consequences of Australia’s “Black 
+Summer” bushfires: Managing for recovery. Integr Environ Assess 
+Manag 2021;17:1162–7.
+59. Binskin M, Bennett A, Macintosh A. Royal Commission into 
+National Natural Disaster Arrangements Report. Canberra: 
+Commonwealth of Australia, 2020.
+60. Van Eeden LM, Nimmo D, Mahony M et al. Impacts of the un­
+precedented 2019–2020 bushfires on Australian animals. Report 
+prepared for WWF-Australia, Ultimo NSW, 2020.
+61. Geary WL, Buchan A, Allen T et al. Responding to the biodiver­
+sity impacts of a megafire: A case study from south-eastern 
+Australia’s Black Summer. Divers Distrib 2022;28:463–78.
+62. Akter S, Grafton RQ. Do fires discriminate? Socio-economic dis­
+advantage, wildfire hazard exposure and the Australian 2019– 
+20 ‘Black Summer’ fires. Clim Change 2021;165:53.
+63. Jones MW, Abatzoglou JT, Veraverbeke S et al. Global and re­
+gional trends and drivers of fire under climate change. Rev 
+Geophys 2022;60:e2020RG000726.
+64. Kidd J. Sydney smoke ‘unlikely to clear for days’ as bushfires 
+burn around NSW. ABC News. https://www.abc.net.au/news/ 
+2019-11-21/sydney-smoke-from-fires-unlikely-to-clear-today- 
+authorities-warn/11723876 (15 March 2023, date last accessed).
+65. Australian Institute for Disaster Resilience. Black Summer 
+bushfires, VIC, 2019–20. Australian Institute for Disaster 
+Resilience, 
+2023. 
+https://knowledge.aidr.org.au/resources/ 
+black-summer-bushfires-vic-2019-20/ (15 March 2023, date 
+last accessed).
+66. Henriques-Gomes L. Mallacoota after the bushfire horror: ‘All 
+you can do is help now’. The Guardian. https://www.theguar 
+dian.com/australia-news/2020/jan/09/mallacoota-after-the- 
+bushfire-horror-all-you-can-do-is-help-now (15 March 2023, 
+date last accessed).
+67. Burgess T, Burgmann JR, Hall S, Holmes   et al. Black Summer: 
+Australian newspaper reporting on the nation’s worst bushfire 
+season, Monash Climate Change Communication Research 
+Hub, Monash University, Melbourne, 2020.
+68. Mocatta G, Hawley E. Uncovering a climate catastrophe? Media 
+coverage of Australia’s Black Summer bushfires and the revela­
+tory extent of the climate blame frame. M/C J 2020;23.
+69. Weber D, Nasim M, Falzon L et al. #ArsonEmergency and 
+Australia’s “Black Summer”: Polarisation and misinformation 
+on social media. In: van Duijn M, Preuss M, Spaiser V et al. (eds.), 
+Disinformation 
+in 
+Open 
+Online 
+Media. 
+Cham: 
+Springer 
+International Publishing, 2020, 159–73.
+70. Ogie R, Moore A, Wickramasuriya R et al. Twitter data from the 
+2019–20 Australian bushfires reveals participatory and tempo­
+ral variations in social media use for disaster recovery. Sci Rep 
+2022;12:1–16.
+71. Leimbach T, Palmer J. #AustraliaOnFire: Hashtag activism and 
+collective affect in the Black Summer Fires. J Aust Stud 2022; 
+46:496–511.
+72. Allan RP, Hawkins E, Bellouin N et al.; IPCC. 2021: Summary for 
+Policymakers. Intergovernmental Panel on Climate Change, 
+Ettinger et al. | 9  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024
+2021. 
+https://www.ipcc.ch/report/ar6/wg1/downloads/report/ 
+IPCC_AR6_WGI_SPM.pdf (27 October 2023, date last accessed)
+73.
+King AD, Pitman AJ, Henley BJ et al. The role of climate variabil­
+ity in Australian drought. Nat Clim Chang 2020;10:177–9.
+74.
+van Oldenborgh GJ, Krikken F, Lewis S et al. Attribution of the 
+Australian bushfire risk to anthropogenic climate change. Nat 
+Hazards Earth Syst Sci Discuss 2021;21:941–60.
+75.
+Smith E, Holmes L, Larkin B et al. Supporting volunteer fire­
+fighter well-being: Lessons from the Australian “Black Summer” 
+bushfires. Prehosp Disaster Med 2022;37:273–6.
+76.
+Cousins S. Bushfires expose weaknesses in Australia’s health 
+system. Lancet 2020;395:175–6.
+77.
+Bradstock RA, Nolan R, Collins L et al. A broader perspective on 
+the causes and consequences of eastern Australia’s 2019–20 
+season of mega-fires: a response to Adams et al. Glob Change Biol 
+2020;26:e8–9.
+78.
+Levin N, Yebra M, Phinn S. Unveiling the factors responsible 
+for Australia’s Black Summer Fires of 2019/2020. Fire 2021; 
+4:58.
+79.
+Steffensen V. Fire country: How indigenous fire management 
+could help save Australia. Int J Wildland Fire 2020;29:1052–3.
+80.
+Fletcher M-S, Romano A, Connor S et al. Catastrophic bushfires, 
+indigenous fire knowledge and reframing science in Southeast 
+Australia. Fire 2021;4:61.
+81. Tolhurst K. We have already had countless bushfire inquiries. 
+What good will it do to have another? The Conversation 2020.
+82. CANA. Climate Action Network Australia. https://www.cana. 
+net.au/ (15 March 2023, date last accessed).
+83. Gulliver R, Fielding KS, Louis W. The characteristics, activities 
+and goals of environmental organizations engaged in advocacy 
+within the Australian environmental movement. Environ 
+Commun 2020;14:614–27.
+84. Kyng€as H, Kaakinen P. Deductive content analysis. In: Kyng€as 
+H, Mikkonen K, K€a€ari€ainen M (eds.), The Application of Content 
+Analysis 
+in 
+Nursing 
+Science 
+Research. 
+Cham: 
+Springer 
+International Publishing, 2020, 23–30.
+85. Thierry A. “Heading for extinction”: The representation of scien­
+tific knowledge in extinction Rebellion’s recruitment talks. Front 
+Commun 2023;8:1–15.
+86. King AD, Reid KJ, Saunders KR. Communicating the link be­
+tween climate change and extreme rain events. Nat Geosci 2023; 
+16:552–54.
+87. Lovejoy K, Waters RD, Saxton GD. Engaging stakeholders 
+through Twitter: How nonprofit organizations are getting more 
+out of 140 characters or less. Public Relat Rev 2012;38:313–8.
+88. O'Neill S, Hayes S, Straub N et al. Visual portrayals of fun in the 
+sun in European news outlets misrepresent heatwave risks. 
+Geogr J 2023;189:90–103.
+10 | Oxford Open Climate Change, 2023, Vol. 3, No. 1  
+Downloaded from https://academic.oup.com/oocc/article/3/1/kgad011/7311736 by guest on 26 August 2024

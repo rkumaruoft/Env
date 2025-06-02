@@ -1,0 +1,997 @@
+Research article
+Community satisfaction and risk perception of local devastation due to
+climate change
+Alexi T. Hua,b,*, Nathaniel Toka, Andreea Bratub, Kiffer G. Carda, Gina Martinc, Kalysha Clossona
+a Faculty of Health Sciences, Simon Fraser University, Burnaby, Canada
+b Faculty of Medicine, School of Population and Public Health, University of British Columbia, Vancouver, Canada
+c Faculty of Health Disciplines, Athabasca University, Athabasca, Canada
+A R T I C L E
+I N F O
+Article History:
+Received 13 May 2023
+Accepted 3 September 2023
+Available online 6 September 2023
+Introduction: Community satisfaction and risk perception are important in addressing the challenges posed
+by climate change and developing comprehensive and equitable climate policy. This study focused on under-
+standing the relationship between the risk perception of future local devastation due to climate change and
+community satisfaction in British Columbia, Canada.
+Methods: Using British Columbia Climate Distress Monitoring System data, we conducted a multivariate
+logistical analysis to examine this association while considering confounders and independent predictors,
+including age, gender, income, education, ethnicity, population density, and political orientation.
+Results: The results revealed that the perception of an increased risk of future local devastation due to climate
+change was negatively associated with neighborhood satisfaction. However, no statistical relationship was
+found between housing satisfaction and risk perception. Furthermore, individuals who had experienced dis-
+placement from natural disasters, identiﬁed as women, belonged to Indigenous communities, or held liberal
+political views were more likely to perceive higher climate risks. In contrast, a higher income level (above
+$90,000) and increased population density had the opposite effect on such risk perception.
+Conclusions: These ﬁndings emphasize the importance of community satisfaction in shaping the perceived risk of
+climate disasters and informing the development of climate mitigation and adaptation policies. A cohesive commu-
+nity can help individuals cope with climate disasters mentally, physically, and ﬁnancially. It is essential for equitable
+policy-making processes to address disparities in race, age, gender, income, and political orientation when consider-
+ing the impact of climate change and policy readiness. Building climate-resilient communities involves strengthen-
+ing social connections, integrating community resources, and supporting vulnerable populations.
+© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Risk perception
+Community satisfaction
+Climate change
+Canada
+1. Introduction
+The increasing frequency and intensity of natural disasters
+induced by climate change, such as heatwaves, storms, droughts, and
+ﬂooding, pose considerable threats to human health, local communi-
+ties, and the environment [1−3]. In the best-case scenario modeled
+by scientists in which carbon reductions exceed carbon emissions,
+the average global temperatures are predicted to reach at least 1.5 °C
+above pre-industrial levels by 2040 and could rise to 1.6 °C by 2060
+[4].
+The latest report from the 27th Conference of the Parties (COP27)
+implies that the goal to limit the global average temperature rise to
+1.5 °C is losing viability as many countries and corporations fail to
+reduce their carbon emissions [5]. Scientists forecast a worrying
+future in which heatwaves and storm-induced ﬂoods will likely hap-
+pen more frequently and intensely [1,2,4].
+British Columbia (B.C.), Canada, also faces a signiﬁcant threat from
+climate change-induced disasters. In 2021, two natural disasters
+intensiﬁed by climate change wreaked havoc on the communities in
+British Columbia, Canada. The 2021 Western North America heat-
+wave was an unprecedented extreme weather event, breaking the
+highest temperature records in multiple cities in British Columbia. At
+the end of the weather event, 619 excessive deaths in B.C. were
+caused by the extreme heat dome [6]. The 2021 Paciﬁc Northwest
+ﬂoods in November affected B.C., Canada, and parts of Washington
+State in the United States, causing more than 600, 000 deaths of farm
+animals and at least $CDN 450 million in insured damage [7]. The
+ﬂoods disrupted the supply chain in B.C., causing shortages of tempo-
+rary goods, food, and gas. Studies suggest extreme ﬂoods driven by
+atmospheric rivers in Paciﬁc Northwest will be more substantial, fre-
+quent, and hazardous due to a rapidly changing climate [8−10].
+As the impacts of climate change will likely become more intensi-
+ﬁed in the near future, it may be important to improve individuals’
+climate preparedness and resiliency, particularly through the lens of
+community.
+Research
+suggests
+that
+community
+satisfaction,
+a
+* Corresponding author at: BLU 11511, 8888 University Drive, Burnaby, B.C. V5A 1S6,
+Canada
+E-mail address: alexihu@student.ubc.ca (A.T. Hu).
+https://doi.org/10.1016/j.joclim.2023.100271
+2667-2782/© 2023 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 14 (2023) 100271
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+concept referring to the strength and number of social relations and
+the level of social trust and satisfaction among members of the same
+neighborhood, is linked to physical and mental well-being [11−16].
+Neighborhood cohesion can increase community resilience and
+serve as a stress buffer during natural disasters [11,17,18]. In cohesive
+communities, there is a higher propensity for resource and informa-
+tion sharing, which can help community members better cope with
+traumatic events [16,19]. Studies conducted in ﬂood-prone areas of
+England, the 2011 earthquake and tsunami in Japan, and the 2005
+Hurricane Katrina in the United States have shown that individuals
+residing in communities perceived as more cohesive experienced
+less psychological and ﬁnancial distress and recovered faster from
+natural disasters [17,20−23]. These ﬁndings underscore the necessity
+of building cohesive and close-knit communities when facing
+unprecedented climate-related disasters.
+In addition to community cohesion, housing, and neighborhood
+factors, though generally relegated as planning issues are important
+to consider as socio-environmental drivers that can inﬂuence the
+experience of climate impacts [24]. For instance, the design and oper-
+ation of green housing and neighborhood can impact the vulnerabil-
+ity of a population to climate change [25]. While the effects of
+climate change may vary across different neighborhoods and com-
+munities, research suggests that climate change vulnerability is exac-
+erbated in more deprived and peripheral areas, which often include
+higher numbers of homeless individuals, elderly residents, children,
+and ethnic minority groups [26−28].
+Furthermore, risk perception of climate change plays an integral
+role in climate mitigation and adaptation policies, as well as migra-
+tion and home-purchasing decisions [1,29,30]. Studies have consis-
+tently shown that the perception of a greater risk leads to increased
+advocacy for and implementation of climate-related policies [1,31
+−33]. Various sociodemographic factors, including age, gender, edu-
+cation, personal experience with extreme weather events, political
+orientation, and geographical proximity to climate-affected areas,
+have impacted individuals’ perception of climate change risks [34
+−38]. These factors, especially income and education, are often asso-
+ciated with the type of community individuals reside in and their
+level of community cohesion and satisfaction [39,40]. Thus, under-
+standing the determinants linked to climate risk perception and com-
+munity
+satisfaction
+may
+be
+imperative
+for
+enhancing
+the
+preparedness of individuals and communities in the face of climate
+change.
+Consequently, our study aimed to examine the effects of commu-
+nity satisfaction, along with other perception-related predictors, on
+the perceived likelihood of future local devastation due to climate
+change. Within the context of our research, community satisfaction
+comprises two components: housing satisfaction and neighborhood
+satisfaction. The perception of local devastation caused by climate
+change serves as a projection based on future scenarios. We hypothe-
+sized that individuals experiencing lower levels of community satis-
+faction might perceive a greater risk of future local climate-induced
+devastation, potentially due to social and ﬁnancial deprivation, as
+well as limited community cohesion, rendering them more suscepti-
+ble to the impacts of climate change. On the other hand, higher levels
+of housing and neighborhood satisfaction may correlate with higher
+income and more abundant community resources, contributing to
+the perception of lower risk.
+2. Methods
+2.1. Data Collection
+We used pooled data from the British Columbia Climate Distress
+Monitoring System (BC-CDMS), an ongoing serial online survey-
+based study assessing the mental health impacts of climate-related
+events among British Columbia (B.C.), Canada, residents [41]. Data
+were collected via the Survey Monkey Platform.
+Online paid advertisements on Facebook and Instagram were
+used to recruit participants. Participants were eligible for the survey
+if they were over the age of 16, residing in B.C., provided informed
+consent, and could complete the survey in English. Participants were
+excluded if they had repeated responses over the three waves to
+ensure the samples were independent.
+The data used for this study were pooled from three BC-CDMS
+survey waves. Wave one was conducted shortly before the 2021
+Western North America heat wave (between May 12, 2021, and Jun
+21, 2021) [41]; wave two was conducted after the same heat wave
+(between Jul 15, 2021, and Jul 18, 2021); and wave three was con-
+ducted after the 2021 Paciﬁc Northwest Atmospheric River and
+Flooding (between Nov 30, 2021 and Dec 4, 2021) [41].
+Each survey wave conducted as part of the BC-CDMS was
+reviewed and approved by the Research Ethics Board at Simon Fraser
+University (Protocol #30000309).
+2.3. Variables
+The outcome variable was the self-reported perception of the risk
+of local devastation due to climate change. Participants were asked,
+"Thinking of where you currently live, how likely or unlikely is it that
+your region will be devastated due to climate-related changes? (e.g.,
+ﬂoods, forest ﬁres, drought, loss of agriculture)" and responded on a
+5-point Likert Scale ranging from "Very unlikely" to "Very likely." We
+dichotomized this variable (very/somewhat likely vs. unsure/some-
+what unlikely/very unlikely) based on the response distribution.
+It is worth noting that the concept of local devastation was not
+deﬁned in the survey due to the assumption that participants were
+likely to have personally experienced the unprecedented heatwave
+and ﬂooding in 2021 and understood what local devastation caused
+by climate change meant.
+The exposure variables were neighborhood and housing satisfac-
+tion scores. The questions were asked initially as "Overall, how satis-
+ﬁed are you with your current housing?" and "Overall, how satisﬁed
+are you with your current neighborhood?" The response to the two
+questions was on a Likert scale: very satisﬁed, satisﬁed, neither satis-
+ﬁed nor dissatisﬁed, dissatisﬁed, very dissatisﬁed. We reversed the
+response order and treated the two variables as discrete values, in
+which a higher score denoted higher satisfaction.
+We also controlled for self-reported age group, gender, ethnicity,
+income level, education, employment, family/relationship status, pre-
+vious history of environmental displacement, number of media sour-
+ces people acquire news from, political orientation, and population
+density at the postal code level [34−38]. The categories for each of
+these variables are outlined in Table 1. The unit of population density
+was the number of people per square kilometer. This variable was
+applied to the 2016 Canadian census data at forward sortation area
+(people / square km): < 300 = "Rural", 300 −1500 = "Suburban",
+and >= 1500 = "Urban". Design effects of the survey wave and time
+spent on social media per day (less than 2 h, 2 h or more) were also
+included as potential confounders.
+2.4. Data analysis
+All statistical analyses were completed in RStudio. Missing values
+within all variables were excluded (n = 798). Descriptive statistics
+were stratiﬁed by the two levels of the outcome variable, provided
+with x2 statistics for categorical variables and Kruskal−Wallis tests
+for continuous variables. We applied a multivariate logistic regres-
+sion model to explore the associations between the outcome (i.e.,
+risk perception of local devastation due to climate change) and the
+two exposures of interest (i.e., neighborhood satisfaction and housing
+satisfaction) and controlled for covariates and confounders. Adjusted
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+2
+odds ratios and 95% conﬁdence intervals were reported accordingly.
+Moreover, we reported the cross-tabulation between the perception
+of potential relocation due to climate disasters in the future (wave
+three only) and the perceived likelihood of local devastation.
+3. Results
+906 participants were included in pooled analyses based on the
+three waves of data collection (N₁= 365, N₂= 1291, N₃= 246). Among
+all the participants, 54.5% believed it was very or somewhat likely
+that the neighborhood they lived in would be devastated by climate
+change.
+Table 1 displays the studied population’s demographic character-
+istics and bivariate associations between these descriptive factors.
+Most participants were white (79.9%), employed (86.2%), partnered
+(75.2%), aged from 25-64 years (75%), and somewhat satisﬁed with
+their neighborhood (84%) and housing situation (75.4%). Approxi-
+mately half of the participants were liberal (55. 4%), had at least a
+bachelor’s degree (52.8%), followed the news somewhat closely
+(47.6%), reported annual income between $30,000 to $89,999
+(44.9%), and spent less than 2 h on social media (52.9%). Men (48.2%)
+and women (47.2%) were approximately equally sampled.
+3.1. Logistic regression
+The multivariate logistic regression model (see Table 2) suggested
+that perception of a greater (i.e., "very/somewhat likely) risk of local
+devastation due to climate change was associated with a greater
+Table 1
+Sample description, stratiﬁed by perceived impacts of local devastation.
+Variable
+Very/Somewhat
+Unlikely
+Very/Somewhat
+Likely
+p
+n = 412
+n = 494
+Age group
+16−24
+40 (9.7)
+82 (16.6)
+< 0.001
+25−44
+164 (39.8)
+238 (48.2)
+45−64
+145 (35.2)
+132 (26.7)
+65 years and over
+63 (15.3)
+42 (8.5)
+Gender
+Man
+264 (64.1)
+173 (35.0)
+< 0.001
+Non-binary
+14 (3.4)
+27 (5.5)
+Woman
+134 (32.5)
+294 (59.5)
+Ethnicity
+White
+324 (78.6)
+400 (81.0)
+0.008
+Chinese
+13 (3.2)
+15 (3.0)
+Indigenous
+13 (3.2)
+29 (5.9)
+Other
+58 (14.1)
+39 (7.9)
+South Asian
+4 (1.0)
+11 (2.2)
+Income
+Less than $30,000
+105 (25.5)
+215 (43.5)
+< 0.001
+$30,000 to $59,999
+99 (24.0)
+135 (27.3)
+$60,000 to $89,999
+84 (20.4)
+89 (18.0)
+$90,000 or more
+124 (30.1)
+55 (11.1)
+Education
+High School or Less
+56 (13.6)
+66 (13.4)
+0.002
+Some Post-Secondary Training
+163 (39.6)
+143 (28.9)
+Bachelor’s degree or higher
+193 (46.8)
+285 (57.7)
+Employment
+Employed
+345 (83.7)
+436 (88.3)
+0.062
+Unemployed
+67 (16.3)
+58 (11.7)
+Displacement ever due to natural disaster
+No
+384 (93.2)
+427 (86.4)
+0.001
+Yes
+28 (6.8)
+67 (13.6)
+The number of news followed
+3.07 (0.88)
+3.07 (0.77)
+0.864
+Following the news about climate change and the
+environment
+Not at all very closely
+27 (6.6)
+18 (3.6)
+0.022
+Not very closely
+64 (15.5)
+74 (15.0)
+Somewhat closely
+176 (42.7)
+255 (51.6)
+Very closely
+145 (35.2)
+147 (29.8)
+Political orientation score
+3.78 (1.95)
+5.74 (1.36)
+< 0.001
+Political orientation
+Extremely conservative
+41 (10.0)
+4 (0.8)
+< 0.001
+Moderately conservative
+109 (26.5)
+10 (2.0)
+Slightly conservative
+42 (10.2)
+14 (2.8)
+Neither liberal nor conservative
+94 (22.8)
+89 (18.0)
+Slightly liberal
+18 (4.4)
+25 (5.1)
+Moderately liberal
+50 (12.1)
+174 (35.2)
+Extremely liberal
+58 (14.1)
+178 (36.0)
+Relationship status
+Partnered with Kids
+209 (50.7)
+166 (33.6)
+< 0.001
+Partnered without Kids
+112 (27.2)
+194 (39.3)
+Single with Kids
+30 (7.3)
+41 (8.3)
+Single without Kids
+61 (14.8)
+93 (18.8)
+Neighborhood satisfaction score
+4.30 (0.88)
+4.03 (0.97)
+< 0.001
+(continued)
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+3
+neighborhood dissatisfaction score (AOR=
+0.78 [0.63−0.96]). How-
+ever, housing disapproval did not signiﬁcantly affect risk perception.
+Additionally, perception of a greater climate risk was also found to be
+positively associated with a previous history of being displaced due
+to natural disasters (AOR= 2.39 [1.32−1.42]), those identifying as a
+woman (AOR=
+1.51 [1.05−2.16]), Indigenous identity (AOR=
+3.01
+[1.30-7.35]), and liberal political orientation (AOR=
+1.82 [1.63
+−2.04]). In contrast, the income level at $90 000 or more (AOR= 0.36
+[0.22−0.61]) and population density (AOR= 0.99 [0.98−0.99]) were
+associated with the perception of lower climate risk.
+4. Discussion
+4.1. Primary ﬁnding
+This study’s primary ﬁnding suggested that the perception of a
+greater risk of local devastation due to climate change was associated
+with higher neighborhood dissatisfaction. In other words, those less
+satisﬁed with their neighborhood perceived higher risks from climate
+change.
+This aligns with previous studies indicating a positive association
+between risk perception of natural disasters and neighborhood dis-
+satisfaction [11,17,18]. However, we did not ﬁnd a signiﬁcant associa-
+tion between climate risk perception and housing disapproval. This
+suggests that climate change risk perception may depend more on
+one’s perception of community satisfaction than their housing situa-
+tion alone.
+4.2. Implications
+One possible explanation for our primary ﬁnding could be related
+to social capital, which is associated with greater resilience to natural
+disasters [21]. Social capital encompasses community resources, such
+as trust, resource sharing, community centers, and a sense of collec-
+tive identity, all of which have been well-studied as determinants of
+health-related outcomes [42−44].
+Neighborhoods with higher levels of social capital may be better
+equipped to respond to and recover from climate-related natural dis-
+asters. This greater community capacity could contribute to the per-
+ception of lower risk. Within these communities, the social resources
+and support networks may help buffer against the perceived threats
+posed by climate-change-related weather events and disasters. In
+contrast, those residing in communities with limited social capital
+and community support may feel more vulnerable to the impacts of
+climate disasters, therefore perceiving the risk to be higher.
+Furthermore, neighborhoods are often closely related to individu-
+als’ education, income, and other sociodemographic characteristics
+[39,40]. Wealthy neighborhoods may have more public resources
+available for collective activities and better-developed social infra-
+structure, whereas disadvantaged neighborhoods may suffer from
+underfunding and a lack of organization and management. In this
+context, the concept of community can serve as a proxy for an indi-
+vidual’s socioeconomic status, which may play an important role in
+shaping their perception of risk during emergency events.
+In addition, people more attached to and satisﬁed with their
+neighborhood may perceive it as safer and more resilient. Commu-
+nity is not merely a physical or geographical space but often repre-
+sents a sense of cultural, psychological, and resource connection
+[42,45]. Lack of community satisfaction can reinforce the hyper-indi-
+vidualistic nature of society and contribute to psychological distress
+over social inequity and exclusion as well as marginalization [42,46].
+Studies in British Columbia and Canada have indicated that
+greater neighborhood cohesion and housing stability are linked to
+better health outcomes [42,47]. On the other hand, neighborhood
+Table 1 (Continued)
+Variable
+Very/Somewhat
+Unlikely
+Very/Somewhat
+Likely
+p
+n = 412
+n = 494
+Neighborhood satisfaction
+Very dissatisﬁed
+3 (0.7)
+11 (2.2)
+Dissatisﬁed
+20 (4.9)
+36 (7.3)
+< 0.001
+Neither satisﬁed nor dissatisﬁed
+37 (9.0)
+52 (10.5)
+Satisﬁed
+143 (34.7)
+223 (45.1)
+Very satisﬁed
+209 (50.7)
+172 (34.8)
+Housing satisfaction score
+4.15 (1.03)
+3.89 (1.11)
+< 0.001
+Housing satisfaction
+Very dissatisﬁed
+11 (2.7)
+19 (3.8)
+Dissatisﬁed
+27 (6.6)
+49 (9.9)
+0.004
+Neither satisﬁed nor dissatisﬁed
+47 (11.4)
+70 (14.2)
+Satisﬁed
+132 (32.0)
+183 (37.0)
+Very satisﬁed
+195 (47.3)
+173 (35.0)
+Population density (per 100 km2)
+18.93 (31.67)
+15.30 (28.50)
+0.07
+Location
+Rural
+184 (44.7)
+255 (51.6)
+0.006
+Suburban
+64 (15.5)
+92 (18.6)
+Urban
+164 (39.8)
+147 (29.8)
+Survey wave
+Wave 1
+192 (46.6)
+173 (35.0)
+< 0.001
+Wave 2
+105 (25.5)
+186 (37.7)
+Wave 3
+115 (27.9)
+135 (27.3)
+Time spent on social networking sites per day
+Less than 2 h
+243 (59.0)
+236 (47.8)
+0.001
+2 h or more
+169 (41.0)
+258 (52.2)
+Potential future relocation due to climate change
+Not Asked in Wave 1 or 2
+297 (72.1)
+359 (72.7)
+< 0.001
+Very unlikely
+85 (20.6)
+29 (5.9)
+Somewhat unlikely
+26 (6.3)
+38 (7.7)
+Somewhat likely
+4 (1.0)
+55 (11.1)
+Very likely
+0 (0.0)
+13 (2.6)
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+4
+rezoning, gentriﬁcation, and unaffordability consistently create social
+and economic barriers and reinforce the stigma of marginalized pop-
+ulations [42]. For instance, social isolation, lack of urban greenery,
+and neighborhood deprivation were signiﬁcantly associated with
+excess mortality during the catastrophic 2021 heat dome in B.C. [48].
+Our study and others have shown that improving community sat-
+isfaction and cohesion should be included in climate policy, as collec-
+tive action is more likely to help community members withstand
+climate disasters. Also, future domestic and international climate ref-
+ugees may transform the neighborhood landscape and resource
+availability, requiring policymakers and urban planners to allocate
+resources equitably and create more robust and cohesive communi-
+ties.
+4.3. Limitations
+The cross-sectional online data in this study was not randomly
+sampled, which may introduce information and selection biases,
+thereby potentially compromising the reliability and reproducibility
+of our ﬁndings. Moreover, the survey itself was relatively short and
+lacked comprehensive details concerning climate risk perception and
+community satisfaction, which restricts the extent to which we could
+delve deeper into these topics.
+Furthermore, the survey did not provide a clear deﬁnition of the
+term "local" and failed to specify the timeline regarding perceived
+risk associated with climate change. As such, it may be helpful for
+future research to include clearer deﬁnitions and more precise meas-
+urements of these terms.
+4.4. Future research
+To better understand the relationship between community satis-
+faction and climate risk perception, future research could use more
+comprehensive surveys to capture the nuances of these concepts.
+More detailed questions and complex scales could better measure
+community satisfaction, climate risk perception, and their determi-
+nants.
+Also, to ensure that the ﬁndings are generalizable to the broader
+population in B.C., future studies could use random sampling techni-
+ques for data collection. This would help to produce more representa-
+tive samples, allowing for more accurate and reliable conclusions.
+5. Conclusion
+The impact of climate change on the daily lives of people in B.C. is
+expected to escalate over time. Our study found that neighborhood
+dissatisfaction was associated with the perception of greater climate
+risk.
+Additionally,
+sociodemographic
+factors,
+including
+gender,
+income, and political and racial identities, were found to inﬂuence
+this risk perception among the survey participants in B.C.
+These ﬁndings may carry insights for policymakers and planners
+who aim to enhance climate resilience at the community level. By
+investing in collective preparedness and fostering climate-resilient
+communities, policymakers and community stakeholders can pro-
+mote climate preparedness and resilience more effectively. This
+accentuates the importance of a proactive approach in building a
+more resilient and robust future in the face of climate change.
+Table 2
+Multivariable logistic regression results.
+Exposures
+AOR
+95 % CI
+Neighborhood satisfaction score
+0.78
+0.63
+0.96
+Housing satisfaction score
+1.04
+0.86
+1.25
+Age group (ref: 16−24)
+25−44
+1.27
+0.71
+2.24
+45−64
+1.19
+0.62
+2.27
+65 years and over
+0.80
+0.37
+1.73
+Gender identity (ref: man)
+Non-binary
+1.18
+0.54
+2.65
+Woman
+1.51
+1.05
+2.16
+Chinese
+0.67
+0.28
+1.62
+Indigenous
+3.01
+1.30
+7.35
+Other
+0.72
+0.42
+1.22
+South Asian
+1.31
+0.37
+5.45
+Income (ref: less than $30,000)
+$30,000 to $59,999
+0.82
+0.53
+1.28
+$60,000 to $89,999
+0.67
+0.41
+1.10
+$90,000 or more
+0.36
+0.22
+0.61
+Education (ref: high school or less)
+Some Post-Secondary Training
+0.99
+0.58
+1.71
+Bachelor’s degree or higher
+1.10
+0.64
+1.88
+Employed
+0.73
+0.45
+1.19
+Relationship status (ref: partnered with kids)
+Partnered without Kids
+1.37
+0.89
+2.13
+Single with Kids
+1.66
+0.87
+3.21
+Single without Kids
+1.16
+0.68
+1.96
+Displaced due to natural disaster
+2.39
+1.32
+4.42
+The number of news followed
+1.06
+0.86
+1.32
+Political orientation score
+1.82
+1.63
+2.04
+Population density (per 100 km2)
+0.99
+0.98
+0.99
+Survey wave (ref: wave 1)
+Wave 2
+1.72
+1.16
+2.56
+Wave 3
+1.23
+0.82
+1.85
+Time spent on social networking sites per day: 2 h or
+more
+0.93
+0.66
+1.31
+*AOR = adjusted odds ratio; 95 % CI = 95% conﬁdence interval; numbers in bold are
+signiﬁcant to a p-value smaller than 0.05.
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+5
+Contributions
+All authors contributed to the study’s conception and design. Data
+analysis was initially conducted by K.C. and ﬁnalized by AT.H. The
+manuscript was written by AT.H and revised by N.T. The rest of the
+co-authors provided extensive and valuable feedback. All authors
+read and approved the ﬁnal manuscript.
+Funding
+This study was supported by the Canadian Institutes of Health
+Research (CIHR) through P.I. Dr. Robert Hogg’s CIHR Foundation
+Grant (#143342).
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+CRediT authorship contribution statement
+Alexi T. Hu: Formal analysis, Conceptualization, Data curation,
+Writing – original draft, Writing −review & editing. Nathaniel Tok:
+Writing −review & editing. Andreea Bratu: Writing −review & edit-
+ing. Kiffer G. Card: Conceptualization, Data curation, Formal analysis,
+Funding acquisition, Supervision, Writing – review & editing. Gina
+Martin: Writing – review & editing. Kalysha Closson: Data curation,
+Writing – review & editing.
+Acknowledgments
+We gratefully acknowledge that this analysis was conducted
+within the ancestral, traditional, and unceded territories of multiple
+First Nations in British Columbia, Canada. We want to thank all par-
+ticipants who completed the online survey for this project. We would
+also like to thank the Canadian HIV Trials Network, Michael Smith
+Foundation for Health Research (MSFHR), and CIHR for the additional
+funding supporting one of our co-authors. Dr. Kiffer Card was sup-
+ported by a Canadian HIV Trials Network / Canadian Foundation for
+AIDS Research Postdoctoral Fellowship award, an MSFHR Trainee
+award (#17855), and a CIHR Systems Impact Fellowship award
+(#HIF-403845).
+References
+[1] Frondel M, Simora M, Sommer S. Risk perception of climate change: empirical
+evidence
+for
+Germany.
+Ecol
+Econ
+2017;137:173–83.
+doi:
+10.1016/j.ecole-
+con.2017.02.019.
+[2] Van Ruijven BJ, Levy MA, Agrawal A, Biermann F, Birkmann J, Carter TR, et al.
+Enhancing the relevance of shared socioeconomic pathways for climate change
+impacts, adaptation and vulnerability research. clim change 2014;122:481–94.
+doi: 10.1007/s10584-013-0931-0.
+[3] Schneider S, Sarukhan J, Adejuwon J, Azar C, Baethgen W, Hope C, Moss R, Leary
+N, Richels R, van Ypersele JP. Overview of impacts, adaptation, and vulnerability
+to climate change. In: McCarthy JM, Canziana OF, Leary NA, Dokken DJ, White KS,
+editors. Climate change 2001: impacts, adaptation, and vulnerability. New York:
+Cambridge University Press; 2001. p. 75–103.
+[4] The Intergovernmental Panel on Climate Change. Climate change 2021—The
+physical science basis. Chem Int 2021;43:22–3. doi: 10.1515/ci-2021-0407.
+[5] The Guardian. The 1.5°C climate target is dead −to prevent total catastrophe,
+Cop27 must admit it, https://www.theguardian.com/commentisfree/2022/nov/
+12/climate-target-cop27-breakdown-fossil-fuel#:»:text=Only-
+%20if%20Cop%20acknowledges%20that,to%20do%20little%20or%20nothing; 2022.
+[6] B.C. Coroners Service. Extreme heat and human mortality: a review of heat-
+related deaths in B.C. in summer 2021. 2022. 53 p.
+[7] Insurance Bureau of Canada. British Columbia ﬂoods cause $450 million in
+insured
+damage,
+https://www.ibc.ca/news-insights/news/british-columbia-
+ﬂoods-cause-450-million-in-insured-damage; 2022.
+[8] Rhoades AM, Jones AD, Srivastava A, Huang H, O’Brien TA, Patricola CM, et al. The
+shifting scales of Western U.S. landfalling atmospheric rivers under climate
+change. Geophys Res Lett 2020;47(17). doi: 10.1029/2020GL089096.
+[9] Gershunov A, Shulgina T, Clemesha RES, Guirguis K, Pierce DW, Dettinger MD,
+et al. Precipitation regime change in Western North America: the role of atmo-
+spheric rivers. Sci Rep 2019;9:9944. doi: 10.1038/s41598-019-46169-w.
+[10] Sharma AR, Dery SJ. Variability and trends of landfalling atmospheric rivers along
+the Paciﬁc Coast of northwestern North America. Int J Climatol 2020;40:544–58.
+doi: 10.1002/joc.6227.
+[11] Cherng ST, Cangemi I, Trostle JA, Remais JV, Eisenberg JNS. Social cohesion and
+passive adaptation in relation to climate change and disease. Glob Environ Chang
+2019;58:101960. doi: 10.1016/j.gloenvcha.2019.101960.
+[12] Dawson CT, Wu W, Fennie KP, Iba~nez G, Cano MA, Pettit JW, et al. Perceived
+neighborhood social cohesion moderates the relationship between neighborhood
+structural disadvantage and adolescent depressive symptoms. Health Place
+2019;56:88–98. doi: 10.1016/j.healthplace.2019.01.001.
+[13] Echeverría S, Diez-Roux AV, Shea S, Borrell LN, Jackson S. Associations of neigh-
+borhood problems and neighborhood social cohesion with mental health and
+health behaviors: the multi-ethnic study of atherosclerosis. Health Place
+2008;14:853–65. doi: 10.1016/j.healthplace.2008.01.004.
+[14] Kim ES, Chen Y, Kawachi I, VanderWeele TJ. Perceived neighborhood social cohe-
+sion and subsequent health and well-being in older adults: an outcome-wide lon-
+gitudinal
+approach.
+Health
+Place
+2020;66:102420.
+doi:
+10.1016/j.
+healthplace.2020.102420.
+[15] Rios R, Aiken LS, Zautra AJ. Neighborhood contexts and the mediating role of
+neighborhood social cohesion on health and psychological distress among his-
+panic and non-hispanic residents. Ann Behav Med 2012;43:50–61. doi: 10.1007/
+s12160-011-9306-9.
+[16] Robinette JW, Charles ST, Gruenewald TL. Neighborhood cohesion, neighborhood
+disorder, and cardiometabolic risk. Soc Sci Med 2018;198:70–6. doi: 10.1016/j.
+socscimed.2017.12.025.
+[17] Greene G, Paranjothy S, Palmer SR. Resilience and vulnerability to the psychologi-
+cal harm from ﬂooding: the role of social cohesion. Am J Public Health
+2015;105:1792–5. doi: 10.2105/AJPH.2015.302709.
+[18] Prior T, Eriksen C. Wildﬁre preparedness, community cohesion and social−eco-
+logical systems. Glob Environ Chang 2013;23:1575–86. doi: 10.1016/j.gloenv-
+cha.2013.09.016.
+[19] Johns LE, Aiello AE, Cheng C, Galea S, Koenen KC, Uddin M. Neighborhood social
+cohesion and posttraumatic stress disorder in a community-based sample: ﬁnd-
+ings from the Detroit neighborhood health study. Soc Psychiatry Psychiatr Epide-
+miol 2012;47:1899–906. doi: 10.1007/s00127-012-0506-9.
+[20] Airriess CA, Li W, Leong KJ, Chen AC- C, Keith VM. Church-based social capital,
+networks and geographical scale: Katrina evacuation, relocation, and recovery in
+a New Orleans Vietnamese American community. Geoforum 2008;39:1333–46.
+doi: 10.1016/j.geoforum.2007.11.003.
+[21] Aldrich DP, Page-Tan CM, Paul CJ. Social Capital and Climate Change Adaptation.
+Oxford Research Encyclopedia of Climate Science. Oxford University Press; 2016.
+doi: 10.1093/acrefore/9780190228620.013.342.
+[22] Hikichi H, Aida J, Tsuboya T, Kondo K, Kawachi I. Can community social cohesion
+prevent posttraumatic stress disorder in the aftermath of a disaster? A natural
+experiment from the 2011 Tohoku Earthquake and Tsunami. Am J Epidemiol
+2016;183:902–10. doi: 10.1093/aje/kwv335.
+[23] L^e F, Tracy M, Norris FH, Galea S. Displacement, county social cohesion, and
+depression after a large-scale traumatic event. Soc Psychiatry Psychiatr Epidemiol
+2013;48:1729–41. doi: 10.1007/s00127-013-0698-7.
+[24] Edwards GAS, Bulkeley H. Urban political ecologies of housing and climate
+change: the ‘Coolest Block’ contest in Philadelphia. Urban Stud 2017;54:1126–41.
+doi: 10.1177/0042098015617907.
+[25] Houghton A, Castillo-Salgado C. Analysis of correlations between neighborhood-
+level vulnerability to climate change and protective green building design strate-
+gies: a spatial and ecological analysis. Build Environ 2020;168:106523. doi:
+10.1016/j.buildenv.2019.106523.
+[26] Bezgrebelna M, McKenzie K, Wells S, Ravindran A, Kral M, Christensen J, et al. Cli-
+mate change, weather, housing precarity, and homelessness: a systematic review
+of reviews. Int J Environ Res Public Health 2021;18:5812. doi: 10.3390/
+ijerph18115812.
+[27] Yu J, Castellani K, Forysinski K, Gustafson P, Lu J, Peterson E, et al. Geospatial indi-
+cators of exposure, sensitivity, and adaptive capacity to assess neighbourhood
+variation in vulnerability to climate change-related health hazards. Environ
+Health 2021;20:31. doi: 10.1186/s12940-021-00708-z.
+[28] Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, et al. Managing the health
+effects of climate change. Lancet North Am Ed 2009;373:1693–733. doi: 10.1016/
+S0140-6736(09)60935-1.
+[29] Gonzalez-Hernandez DL, Aguirre-Gamboa RA, Meijles EW. The role of climate
+change perceptions and sociodemographics on reported mitigation efforts and
+performance among households in northeastern Mexico. Environ Dev Sustain
+2023;25:1853–75. doi: 10.1007/s10668-021-02093-6.
+[30] F€unfgeld H. Institutional challenges to climate risk management in cities. Curr
+Opin Environ Sustain 2010;2:156–60. doi: 10.1016/j.cosust.2010.07.001.
+[31] Thieken AH, Kreibich H, M€uLLER M, Merz B. Coping with ﬂoods: preparedness,
+response and recovery of ﬂood-affected residents in Germany in 2002. Hydrol Sci
+J 2007;52:1016–37. doi: 10.1623/hysj.52.5.1016.
+[32] Wolf J, Moser SC. Individual understandings, perceptions, and engagement with
+climate change: insights from in-depth studies across the world. WIREs Clim
+Change 2011;2:547–69. doi: 10.1002/wcc.120.
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+6
+[33] Zaalberg R, Midden C, Meijnders A, McCalley T. Prevention, adaptation, and threat
+denial: ﬂooding experiences in the Netherlands. Risk Anal 2009;29:1759–78. doi:
+10.1111/j.1539-6924.2009.01316.x.
+[34] Knight KW. Public awareness and perception of climate change: a quantitative
+cross-national
+study.
+Environ
+Sociol
+2016;2:101–13.
+doi:
+10.1080/
+23251042.2015.1128055.
+[35] McCright AM, Dunlap RE. The politicization of climate change and polarization in
+the
+American
+public’s
+views
+of
+global
+warming,
+2001−2010.
+Sociol
+Q
+2011;52:155–94. doi: 10.1111/j.1533-8525.2011.01198.x.
+[36] Semenza JC, Hall DE, Wilson DJ, Bontempo BD, Sailor DJ, George LA. Public percep-
+tion of climate change: voluntary mitigation and barriers to behavior change. Am
+J Prev Med 2008;35:479–87. doi: 10.1016/j.amepre.2008.08.020.
+[37] Shi J, Visschers VHM, Siegrist M. Public perception of climate change: the impor-
+tance of knowledge and cultural worldviews. Risk Anal 2015;35:2183–201. doi:
+10.1111/risa.12406.
+[38] Weber EU. What shapes perceptions of climate change?: What shapes perceptions
+of climate change? WIREs Clim Change 2010;1:332–42. doi: 10.1002/wcc.41.
+[39] Clark WAV, Ledwith V. How much does income matter in neighborhood choice?
+Popul Res Policy Rev 2007;26:145–61. doi: 10.1007/s11113-007-9026-9.
+[40] Cabrera JF, Najarian JC. Can new urbanism create diverse communities? J Planning
+Educ Res 2013;33:427–41. doi: 10.1177/0739456X13500309.
+[41] Bratu A, Card KG, Closson K, Aran N, Marshall C, Clayton S, et al. The 2021 Western
+North American heat dome increased climate change anxiety among British
+Columbians:
+results
+from
+a
+natural
+experiment.
+J
+Clim
+Chang
+Health
+2022;6:100116. doi: 10.1016/j.joclim.2022.100116.
+[42] Closson K, Palmer AK, Collins AB, Salters K, Zhang W, Montaner JSG, et al. Factors
+associated with low neighborhood cohesion among women living with HIV
+impacted
+by
+social-structural
+inequities
+in
+British
+Columbia.
+AIDS
+Care
+2018;30:318–24. doi: 10.1080/09540121.2017.1363368.
+[43] Crawford B, Kasmidi M, Korompis F, Pollnac RB. Factors inﬂuencing progress in
+establishing community-based marine protected areas in Indonesia. Coast Manag
+2006;34:39–64. doi: 10.1080/08920750500379300.
+[44] Cramm JM, Van Dijk HM, Nieboer AP. The importance of neighborhood social
+cohesion and social capital for the well being of older adults in the community.
+Gerontologist 2013;53:142–52. doi: 10.1093/geront/gns052.
+[45] Bernard P, Charafeddine R, Frohlich KL, Daniel M, Kestens Y, Potvin L. Health
+inequalities and place: a theoretical conception of neighbourhood. Soc Sci Med
+2007;65:1839–52. doi: 10.1016/j.socscimed.2007.05.037.
+[46] Wutich A, Ruth A, Brewis A, Boone C. Stigmatized neighborhoods, social bonding,
+and health: stigma, neighborhoods, and health. Med Anthropol Q 2014;28:556–
+77. doi: 10.1111/maq.12124.
+[47] McNeil R, Shannon K, Shaver L, Kerr T, Small W. Negotiating place and gendered
+violence in Canada’s largest open drug scene. Int J Drug Pol 2014;25:608–15. doi:
+10.1016/j.drugpo.2013.11.006.
+[48] Henderson SB, McLean KE, Lee MJ, Kosatsky T. Analysis of community deaths dur-
+ing the catastrophic 2021 heat dome: early evidence to inform the public health
+response during subsequent events in greater Vancouver, Canada. Environ Epide-
+miol 2022;6:e189. doi: 10.1097/EE9.0000000000000189.
+A.T. Hu, N. Tok, A. Bratu et al.
+The Journal of Climate Change and Health 14 (2023) 100271
+7

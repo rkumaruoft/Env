@@ -1,0 +1,3365 @@
+2022/23
+CIPI
+Costing Climate Change Impacts to Public Infrastructure
+Assessing the financial impacts of 
+extreme rainfall on public linear storm
+and wastewater infrastructure in Ontario
+LINEAR STORM
+AND WASTEWATER
+ 
+ 
+                                                                                                                                                                                                          
+ 
+ 
+ 
+About this document 
+Established by the Financial Accountability Officer Act, 2013, the 
+Financial Accountability Office (FAO) provides independent analysis 
+on the state of the Province’s finances, trends in the provincial 
+economy and related matters important to the Legislative Assembly 
+of Ontario. 
+ 
+This report was prepared by Sabrina Afroz, Nicolas Rhodes and Jay 
+Park under the direction of Edward Crummey. This report benefitted 
+from contributions from Eklavya Jain, Christina Rachmadita, Mavis 
+Yang, Katrina Talavera, Laura Irish, Paul Lewis and David West. 
+External reviewers were provided with earlier drafts of this report for 
+their comments. However, the input of external reviewers implies no 
+responsibility for this final report, which rests solely with the FAO. 
+ 
+In keeping with the FAO’s mandate to provide the Legislative 
+Assembly of Ontario with independent economic and financial 
+analysis, this report makes no policy recommendations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+ 
+ 
+Financial Accountability Office of Ontario 
+2 Bloor Street West, Suite 900 Toronto, Ontario M4W 3E2 
+fao-on.org | info@fao-on.org | 416-644-0702 
+This document is also available in an accessible format and as a 
+downloadable PDF on our website. 
+ 
+ISSN 2564-3924
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Costing Climate Change Impacts to Public 
+Infrastructure: Linear Storm and Wastewater  
+ 
+Assessing the financial impacts of extreme rainfall on 
+public linear storm and wastewater infrastructure in Ontario 
+ 
+ 
+1 | Introduction and context 
+6 
+2 | Summary 
+7 
+3 | Maintaining storm and wastewater infrastructure in a stable climate 
+8 
+4 | The infrastructure costs of not adapting to more extreme rainfall 
+13 
+5 | The costs of adapting linear storm and wastewater infrastructure 
+22 
+6 | Comparing the costs of different asset management strategies 
+31 
+7 | Appendices 
+37 
+8 | References 
+50 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Glossary of Terms 
+ 
+List of Abbreviations 
+Term 
+Definition 
+CIPI 
+Costing Climate Change Impacts to Public Infrastructure (project) 
+CRV 
+Current Replacement Value 
+IDF 
+Intensity-Duration-Frequency (Curve) 
+IPCC 
+Intergovernmental Panel on Climate Change 
+O&M 
+Operations and Maintenance 
+RCP 
+Representative Concentration Pathway 
+SME 
+Subject-Matter Expert 
+USL 
+Useful Service Life 
+WSP 
+WSP Global Inc. 
+ 
+Definitions 
+Current Replacement Value: The current cost of rebuilding an infrastructure asset with the equivalent capacity, 
+functionality and performance. 
+ 
+Operations and Maintenance (O&M): The routine activities performed on an asset that maximize service life 
+and minimize service disruptions without altering the physical components of the asset. 
+ 
+Rehabilitation: Repairing part or most of an asset to extend its service life, without adding to its capacity, 
+functionality or performance.  
+ 
+Renewal: Replacement of an existing asset, resulting in a new or as-new asset with an equivalent capacity, 
+functionality and performance as the original asset. Renewal is different from rehabilitation, as renewal rebuilds 
+the entire asset. 
+ 
+State of Good Repair: A performance standard which helps to maximize the benefits of public infrastructure in a 
+cost-effective manner over time and ensures that infrastructure operates in a condition that is considered 
+acceptable from an engineering perspective.  
+ 
+Stable Climate: A stable climate scenario assumes that climate indicators for extreme rainfall remain unchanged 
+from their 1975-2005 average levels over the projection to 2100. 
+ 
+Rest of the Century: Refers to the 79 years from 2022 to 2100.  
+ 
+Baseline Cost: The operations and maintenance, rehabilitation, and renewal expense that would have been 
+required to maintain public storm and wastewater infrastructure in a state of good repair in a stable climate.  
+ 
+Acute Hazard: Severe climate hazards that occur rarely (such as the 100-year storm event).  
+ 
+ 
+5 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Chronic Hazard: Climate hazards that occur often, such as heaviest annual 5-day rain.  
+ 
+Adaptation: Adaptation is modelled as an alteration of an asset’s physical components or its surroundings to 
+prevent increased O&M expenses and more rapid deterioration (when applicable) caused by changes in extreme 
+rainfall. In addition, adaptation ensures adequate capacity, minimizing flood risk from more extreme rainfall. 
+Adaptation can be done during an asset’s service life or at renewal.  
+ 
+No Adaptation Strategy: An asset management strategy where public infrastructure assets are not adapted to 
+more extreme rainfall.  
+ 
+Reactive Adaptation Strategy: An asset management strategy where public infrastructure assets are only 
+adapted at the time of renewal to withstand more extreme rainfall.  
+ 
+Proactive Adaptation Strategy: An asset management strategy where a majority of public infrastructure assets 
+are adapted to withstand more extreme rainfall during the asset’s service life.  
+ 
+ 
+ 
+ 
+6 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+1 | Introduction and context 
+In June 2019, a Member of Provincial Parliament asked the FAO to analyze the costs that the impacts of climate 
+change could impose on Ontario’s provincial and municipal infrastructure, and how those costs could affect the 
+long-term budget outlook of the province. In response, the FAO launched its Costing Climate Change Impacts to 
+Public Infrastructure project (CIPI). 
+ 
+In the first phase of the project, the FAO assessed the composition and state of repair of provincial1 and 
+municipal2 infrastructure, with findings released in November 2020 and August 2021.  
+ 
+In fall 2021, as part of the second phase of the project, the FAO released three reports: a project backgrounder3 
+describing the overall context and methodology of the project, a report prepared by WSP Global describing the 
+detailed engineering impact of climate hazards on public infrastructure,4 and a report detailing how changes in 
+extreme rainfall, extreme heat and freeze-thaw cycles will impact the long-term costs of maintaining Ontario’s 
+public buildings and facilities in a state of good repair.5 In September 2022, as part of the final phase, the FAO 
+released a report detailing how changes in extreme rainfall, extreme heat and freeze-thaw cycles will impact the 
+long-term costs of maintaining Ontario’s public transportation infrastructure in a state of good repair.6  
+ 
+This report examines the impacts of more extreme rainfall on the long-term costs of maintaining public linear 
+storm and wastewater infrastructure in a state of good repair.  
+ 
+ 
+ 
+1 See Provincial Infrastructure, 2020. 
+2 See Municipal Infrastructure, 2021. 
+3 See CIPI: Project Backgrounder and Methodology, 2021. 
+4 See CIPI: WSP Engineering Report, 2021. 
+5 See CIPI: Buildings – Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public 
+buildings in Ontario, 2021. 
+6 See CIPI: Transportation – Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on 
+transportation infrastructure in Ontario, 2022. 
+Figure 1-1 
+CIPI project timeline 
+ 
+Source: FAO. 
+ 
+7 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+2 | Summary 
+Ontario’s municipalities manage a large portfolio of linear storm and wastewater infrastructure  
+This report examines public linear storm and wastewater infrastructure. Stormwater assets include pipes, ditches 
+and culverts, while wastewater assets include sewer pipes and sanitary force mains. In total, these assets are 
+valued at $124 billion (all costs are in 2020 real dollars) and are owned by Ontario’s 444 municipalities.  
+The cost to maintain the existing portfolio in a state of good repair is substantial, even in a stable climate 
+If the climate was stable, it would cost an average of $3.0 billion per year over the century to bring these assets 
+into a state of good repair and maintain this state. These costs would accumulate to $240 billion by 2100. 
+More extreme rainfall is already increasing the costs of maintaining this portfolio 
+In the absence of adaptation, more extreme rainfall is expected to add a cumulative $6.2 billion to the costs of 
+maintaining the portfolio of assets by 2030, a 27 per cent increase above the stable climate scenario.   
+In the absence of adaptation, more extreme rainfall will increase the costs of maintaining this portfolio 
+throughout the century, but the extent of the increase will depend on global climate change 
+In a medium emissions scenario where global emissions peak by mid-century, more extreme rainfall would 
+increase infrastructure costs by an average of $1.1 billion per year, totalling $88 billion in climate-related costs by 
+2100. This is a 37 per cent increase in costs relative to the stable climate scenario. In the high emissions 
+scenario, where global emissions continue rising throughout the century, infrastructure costs would instead 
+increase by $1.8 billion per year on average, totalling $145 billion by 2100 (a 61 per cent increase). These 
+additional climate-related costs primarily arise from the higher operations and maintenance expenses required.  
+Proactively adapting linear storm and wastewater infrastructure to withstand more extreme rainfall will cost 
+less than not adapting over the long term 
+Proactively adapting public storm and wastewater infrastructure, either by increasing its capacity or 
+incorporating source control measures (such as green infrastructure), will add between $71 billion to $127 billion 
+to infrastructure costs relative to the stable climate scenario by 2100. This represents a cost increase between 
+29 and 53 per cent. While significant, these additional climate-related costs are lower (in real dollars) than those 
+incurred in the absence of adaptation or if adaptation was undertaken at a more gradual pace. This is due to the 
+avoidance of higher climate-related operations and maintenance costs.  
+Adaptation also ensures that linear storm and wastewater assets will have adequate capacity to manage 
+more extreme rainfall, reducing flood risk 
+As extreme rainfall becomes more frequent and intense, unadapted assets will increasingly face capacity 
+constraints, raising the flood risk to surrounding areas. While outside the scope of this report, the costs of 
+flooding damages are likely to be substantial. In addition to being the least expensive strategy for municipalities 
+(in real dollars), a proactive adaptation strategy would also most rapidly reduce flood risk.  
+Costing climate impacts to public infrastructure over the long term is subject to significant uncertainty 
+Climate-related infrastructure costs will depend on the future path of global emissions, the pace of adaptation, 
+and the specific capacity of storm and wastewater infrastructure to convey more extreme rainfall. The FAO’s 
+study presents median cost projections as well as a range of possible cost outcomes in each scenario that 
+account for this uncertainty. 
+ 
+8 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+3 | Maintaining storm and wastewater 
+infrastructure in a stable climate 
+This chapter presents the scope of municipal storm and wastewater infrastructure considered in this report, 
+discusses the costs necessary to maintain these assets in a state of good repair, and estimates the long-term 
+infrastructure costs required to maintain this portfolio to 2100 under a stable climate. The purpose of this chapter 
+is to establish a baseline projection of infrastructure costs. In later chapters, this baseline is compared to 
+projections that account for changes in extreme rainfall. 
+ 
+Ontario has a large portfolio of storm and wastewater 
+infrastructure 
+Stormwater infrastructure is critical in reducing flood risk by managing the impact of sudden and heavy rainfall or 
+the gradual melting of snow and ice. Wastewater infrastructure plays an important role in preventing water 
+pollution and protecting public health by collecting, treating and discharging waste from domestic, commercial, 
+industrial and agricultural activity.7  
+ 
+This report focuses on linear storm and wastewater infrastructure owned and controlled by Ontario’s municipal 
+governments. Non-linear storm and wastewater assets, such as those related to treatment and disposal, are 
+excluded from this report.8 Drinking water infrastructure, which represents 14 per cent of municipal 
+infrastructure,9 is also excluded.10  
+ 
+The linear storm and wastewater assets considered in this report include stormwater pipes, ditches and culverts, 
+as well as wastewater sanitary force mains and sewer pipes.11 Throughout this report, these assets are referred 
+to as “storm and wastewater infrastructure” or “storm and wastewater assets.” The following is a brief 
+description of the various asset types: 
+• 
+Stormwater pipes collect and convey stormwater (rain and melted snow) to areas where it is then 
+disposed of, such as rivers, lakes or temporary holding ponds. These pipes are buried underground, 
+often under existing infrastructure, such as roadways.  
+ 
+ 
+7 For details, see Stormwater and Wastewater in the Canadian Infrastructure Report Card.  
+8 The CIPI buildings report included the impact of climate hazards on storm and wastewater building and facilities, such as 
+treatment plants. However, only the impact of climate hazards on the building components (e.g., structure, envelope, etc.) 
+were considered. Any climate-related costs required to expand capacity, such as increasing the size of treatment plants to 
+manage more extreme rainfall or the impact of extreme rainfall on the machinery and equipment used to treat water, were not 
+included. See CIPI: Buildings – Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on 
+public buildings in Ontario, 2021. 
+9 The FAO estimates that the current replacement value of linear drinking water infrastructure in Ontario was $69 billion in 
+2020. See FAO’s Municipal Infrastructure report. 
+10 While drinking water infrastructure may experience climate impacts, the FAO was not able to examine all climate impacts to 
+all public infrastructure asset classes. For details on the scope of infrastructure covered in the CIPI project, see CIPI: Project 
+Backgrounder and Methodology, 2021. For detailed information about the assets covered in this report, see Appendix A. 
+11 For details on how these assets interact, see Township of Muskoka’s Drainage Maintenance, City of Toronto’s Ditches, and 
+Region of Peel’s Sewer systems. 
+ 
+9 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+• 
+Stormwater ditches are excavations in the ground made to capture, convey and remove stormwater. 
+Ditches are mainly located on the sides of roads to drain stormwater from nearby road surfaces.  
+• 
+Stormwater culverts are small non-structural culverts less than three metres in diameter. Culverts facilitate 
+drainage between ditches, stormwater pipes and other drainage outlets. Culverts are typically found under 
+driveways and roadways and are required when an entrance or road crosses a drainage ditch. 
+• 
+Wastewater sewer pipes collect and convey wastewater to treatment facilities by gravity. These sewer 
+pipes are buried underground, often under existing infrastructure, such as roadways. Many older 
+municipalities have sewer systems that were built during or before the 1940s and include combined 
+sewers that carry both wastewater and stormwater.  
+• 
+Wastewater sanitary force mains are pressurized sewer pipes that transport wastewater from a lower 
+to a higher elevation. These assets are buried underground, often under existing infrastructure, such 
+as roadways. 
+The FAO estimates that the current replacement value12 (CRV) of these storm and wastewater assets is $124 
+billion in 2022. Figure 3-1 presents the breakdown of this valuation by asset type. Stormwater assets account for 
+43 per cent of the CRV, while wastewater assets account for 57 per cent. 
+ 
+ 
+ 
+ 
+12 Current replacement value is the current cost of rebuilding an asset with the equivalent capacity, functionality and performance. 
+Figure 3-1 
+Ontario’s municipal portfolio of linear storm and wastewater infrastructure has an 
+estimated Current Replacement Value of $124 billion 
+  
+  
+Note: CRV estimates are in real 2020 billion dollars. Percentage values refer to a sector’s share of total CRV. 
+Source: FAO. 
+Culverts,
+$8, 6%
+Ditches,
+$6, 5%
+Pipes, 
+$39, 31%
+Sanitary force mains, 
+$3, 3%
+Sewer pipes, 
+$68, 55%
+Stormwater
+Wastewater
+ 
+10 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Maintaining a large portfolio of public storm and wastewater 
+infrastructure requires continual spending 
+Stormwater infrastructure is critical in reducing flood risks, while wastewater infrastructure plays an important 
+role in preventing water pollution and protecting public health. To determine whether these critical services will 
+be delivered, municipalities evaluate their infrastructure against level of service targets, one of which is keeping 
+assets in a state of good repair.  
+ 
+Keeping assets in a state of good repair helps to maximize the benefits of public infrastructure in the most cost-
+effective manner over time. To be maintained in a state of good repair, assets require annual operations and 
+maintenance (O&M) spending, as well as intermittent capital spending either to rehabilitate13 an asset during its 
+service life or renew14 an asset at the end of its service life.  
+ 
+The costs to maintain public storm and wastewater infrastructure in a state of good repair reflect both the value 
+of assets owned, as well as their condition, age and standards to which they must perform. For example, assets 
+in poorer condition require more capital spending to bring them into a state of good repair. Likewise, older assets 
+must be renewed sooner than newer assets. 
+ 
+To project the costs of maintaining public storm and wastewater infrastructure in a state of good repair, the FAO 
+gathered and estimated asset-specific information on age, condition and current replacement value, as well as 
+the general performance standards used to evaluate if an asset is in a state of good repair. Using an infrastructure 
+deterioration model based on modelling techniques developed by the Ontario Ministry of Infrastructure,15 the FAO 
+projected the capital and operating expenses necessary to maintain the current portfolio16 of public storm and 
+wastewater infrastructure in a state of good repair to 2100, in the absence of climate considerations.17  
+ 
+These long-term O&M, rehabilitation and renewal spending estimates form the baseline projection against which 
+the climate change costing scenarios will be compared. The baseline projection represents the infrastructure costs 
+that would have been required to maintain public storm and wastewater infrastructure in a stable climate.18 This 
+allows the FAO to identify the additional climate-related infrastructure costs that are associated with changing 
+climate hazards in later chapters. 
+ 
+Given the long useful service life of public storm and wastewater infrastructure, costs are projected to 2100. The 
+results in this report are presented as average annual costs, as well as cumulative total costs over the century. 
+Average annual costs are also presented over three time periods. 
+ 
+ 
+13 Rehabilitation means repairing part or most of an asset to extend its service life, without adding to its capacity, functionality 
+or performance. Rehabilitation is different from maintenance, which is the routine activities performed on an asset that 
+maximize service life and minimize service disruptions. Assets are rehabilitated to a benchmarked “state of good repair” 
+target and not to a new condition. For more information on the asset management framework used in this report, see CIPI: 
+Project Backgrounder and Methodology, 2021. 
+14 Renewal is the replacement of an existing asset, resulting in a new or as-new asset with an equivalent capacity, functionality 
+and performance as the original asset. Renewal is different from rehabilitation, as renewal rebuilds the entire asset. 
+15 For details, see Municipal Infrastructure, 2021. 
+16 This report only examines the existing suite of linear storm and wastewater infrastructure; it excludes assets that are 
+currently under construction, planned for future construction or necessary to meet future infrastructure demand. 
+17 The cost estimates presented throughout this report do not incorporate new technologies or practices that may be used or 
+required of asset managers in the future. 
+18 In this report, a “stable climate” means that all climate indicators for extreme rainfall remain unchanged from their 1975-
+2005 average levels over the projection to 2100. 
+ 
+11 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+• 
+The short term (2022-2030) shows how changing climate hazards are already impacting public 
+infrastructure costs in the current decade.  
+• 
+The mid-century (2031-2070) captures a period in which projections for the relevant climate variables 
+begin to diverge in the three global emissions scenarios examined in this report.  
+• 
+The late century (2071-2100) captures the period where projections for the relevant climate variables 
+diverge significantly in the three global emissions scenarios. 
+ 
+All infrastructure cost projections presented in this report assume that the funding necessary to bring the current 
+portfolio of storm and wastewater infrastructure into a state of good repair, and maintain this state, is made 
+available and spent in a timely manner. In practice, infrastructure repair backlogs19 exist and maintaining assets 
+in a state of good repair is only one aspect of asset management.  
+ 
+The baseline cost projection does not include spending associated with assets currently under construction, 
+planned for future construction or necessary to meet future infrastructure demand.20 
+ 
+$3 billion per year is needed to maintain the current portfolio of 
+linear storm and wastewater infrastructure in a stable climate 
+The FAO projects that bringing Ontario’s existing suite of linear storm and wastewater infrastructure into a state 
+of good repair and maintaining it until 2100 would have cost an average of $3.0 billion per year in a stable 
+climate, which would accumulate to approximately $240 billion by the end of the century. This cumulative 
+baseline cost includes $98 billion ($1.2 billion per year) in O&M expense and $142 billion ($1.8 billion per year) in 
+rehabilitation and renewal expense to 2100.  
+ 
+ 
+ 
+19 For more information on the current infrastructure backlog of storm and wastewater assets, see the FAO’s Municipal 
+Infrastructure report. 
+20 In addition, the projection does not incorporate future functionality improvements to existing public infrastructure. 
+Figure 3-2 
+The cumulative cost of maintaining Ontario’s linear storm and wastewater infrastructure in 
+a state of good repair to 2100 in a stable climate 
+ 
+Note: All values presented in real 2020 dollars. 
+Source: FAO.  
+ 
+12 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+To maintain this portfolio in a stable climate, municipal governments would need to spend approximately $2.6 
+billion per year over the short term. Average annual costs remain similar in the mid-century period at $2.5 billion. 
+By late century, average costs rise to $3.9 billion per year when a significant share of Ontario’s linear storm and 
+wastewater infrastructure will have to be replaced.21 
+ 
+ 
+ 
+ 
+ 
+21 The FAO estimates that 87 per cent of the public storm and wastewater assets in scope have a remaining useful service life 
+of 40-80 years. See Figure 5-1 for details. 
+Figure 3-3 
+Maintaining Ontario’s public storm and wastewater infrastructure in a stable climate would 
+have cost $3.0 billion per year 
+ 
+ 
+Source: FAO. 
+$2.6
+$2.5
+$3.9
+$3.0
+$0
+$1
+$2
+$3
+$4
+$5
+Short term
+Mid century
+Late century
+2022-2100
+(2022-2030)
+(2031-2070)
+(2071-2100)
+Average
+Average annual infrastructure 
+spending (real $2020, billions)
+ 
+13 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+4 | The infrastructure costs of not 
+adapting to more extreme rainfall  
+This chapter summarizes how projected changes in extreme rainfall would impact the costs of maintaining Ontario’s 
+linear storm and wastewater infrastructure in the absence of adaptation measures. The first section provides an 
+overview of how changes in extreme rainfall will impact the different asset types examined in this report. Next, the 
+additional infrastructure costs of these impacts are estimated in the medium and high emissions scenarios. The 
+chapter concludes with a discussion of how increases in extreme rainfall would challenge the capacity of these 
+infrastructure systems, increasing the risk of flooding, and why these costs are excluded from the report. 
+ 
+Extreme rainfall is projected to increase 
+To ensure safety and reliability, infrastructure is designed, built and maintained to withstand a specific range of 
+climate conditions typically based on historic climatic data.22 However, many climate hazards are projected to 
+increase in the future.  
+ 
+Climate change is associated with many hazards to public infrastructure, which can take the form of extreme 
+weather events or long-term chronic impacts. Ontario has been subject to costly floods and ice storms and is 
+also prone to droughts, intense rainfall, wildfires, windstorms, heatwaves and permafrost melt.23 The broader CIPI 
+project focused on only three climate hazards – extreme rainfall, extreme heat and freeze-thaw cycles – as they 
+were determined to have broad and financially material impacts to public infrastructure and can be projected 
+with a reasonable degree of scientific confidence.24 
+ 
+Unlike with buildings and transportation infrastructure, extreme heat or freeze-thaw cycles are not expected to 
+significantly impact storm and wastewater infrastructure since many components are buried underground. 
+However, extreme rainfall will have significant impact on storm and wastewater infrastructure as the frequency 
+and intensity of storm events increase over the century.25 
+ 
+The impacts of extreme rainfall on Ontario’s public storm and wastewater infrastructure will depend on the path 
+of global greenhouse gas emissions and the extent of global mean temperature increases. The FAO costed 
+climate impacts to public storm and wastewater infrastructure for three global emissions scenarios:  
+ 
+22 Several Ontario regulatory agencies mandate the use of storm event statistics as a major criterion for the design of 
+stormwater and wastewater systems. For example, see Design Criteria for Sewers and Watermains, 2009. 
+23 See Canada in a Changing Climate: National Issues Report for more information. 
+24 Numerous potentially significant climate hazards such as wildfires and fluvial flooding were not included. See CIPI: Project 
+Backgrounder and Methodology, 2021 and CIPI: WSP Engineering Report, 2021 for more information. 
+25 See CIPI: WSP Engineering Report, 2021, page 37. 
+ 
+14 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+• 
+A low emissions scenario that assumes a major and 
+immediate turnaround in global climate policies. Emissions 
+are projected to peak in the early 2020s and decline to 
+zero by the 2080s. By the end of the century, net 
+emissions are negative. In this scenario, global mean 
+temperatures are projected to increase by 1.6°C (0.8 to 
+2.4°C) by 2100 compared to the pre-industrial average 
+(1850-1900).26 The key results for this scenario are 
+presented in Appendix E. 
+• 
+A medium emissions scenario, where global emissions peak 
+in the 2040s, then decline rapidly over the following four 
+decades before stabilizing at the end of the century. In this 
+scenario, the global mean temperature is projected to 
+increase by 2.3°C (1.7 to 3.2°C) by 2100 relative to 1850-1900.  
+• 
+A high emissions scenario that assumes global emissions 
+continue to grow for most of the century.27 Global mean 
+temperatures are projected to increase by 4.2°C (3.2 to 5.4°C) 
+relative to 1850-1900. Cumulative emissions from 2005 to 
+2020 most closely match the high emissions scenario.28  
+ 
+Figure 4-1 presents a brief description of the projected changes in some of the climate indicators used to 
+represent extreme rainfall in this report. Appendix B contains a full description of all climate variables relevant to 
+public storm and wastewater infrastructure, and their trends in all scenarios.  
+ 
+ 
+ 
+ 
+26 See Climate Change 2013: The Physical Science Basis, Annex II, Table “AII.7.5.” Ranges for the global mean surface 
+temperature represent the 5th percentile to the 95th percentile projections of models used. 
+27 The Intergovernmental Panel on Climate Change (IPCC)’s fifth comprehensive assessment (AR5), released in 2013, 
+produced four scenarios called Representative Concentration Pathways (RCPs). The low emissions scenario corresponds to 
+RCP2.6, the medium emissions scenario corresponds to RCP4.5 and the high emissions scenario corresponds to RCP8.5. 
+See the IPCC’s Climate Change 2014: Synthesis Report. The IPCC’s sixth assessment (AR6), released in 2021, contains five 
+updated scenarios called Shared Socioeconomic Pathways (SSPs), which line up with the RCPs from AR5 in terms of 
+average warming. This means that the RCP scenarios from AR5 are still relevant. 
+28 See PCIC Science Brief: Should the RCP 8.5 emissions scenario represent “business as usual”? for more information. 
+Uncertainty in climate change 
+projections 
+The FAO partnered with the Canadian 
+Centre for Climate Services at 
+Environment and Climate Change 
+Canada to acquire projections of key 
+climate indicators for Ontario. To 
+account for uncertainty in climate 
+projections and in line with common 
+practice in climate science, the median 
+(50th percentile) projections of climate 
+variables are presented, followed by 
+ranges in parentheses. For Ontario 
+climate indicators, the ranges indicate 
+the 10th and 90th percentile projections 
+from the ensemble of 24 climate 
+models used by the Canadian Centre 
+for Climate Services.  
+15 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+Costing Climate Change Impacts to Water Infrastructure 
+Figure 4-1  
+2-year and 100-year storm events to increase in Ontario
+•
+Compared to the 1976-2005 baseline, the intensity of the
+24-hour 1-in-2-year and 1-in-100-year rainfall events is
+projected to increase by 15 per cent (10 to 24 per cent) in the
+low emissions scenario and by 53 per cent (38 to 78 per cent)
+in the high emissions scenario by the 2071-2100 period.29
+•
+Over the 1976-2005 period, a 1-in-2-year rainfall event
+averaged 48 mm of rain in 24 hours. By the 2071-2100
+period, an average of 55 mm (53 to 59 mm) of rain is
+projected in the low emissions scenario and 73 mm (66 to
+86 mm) of rain in the high emissions scenario.
+•
+Over the 1976-2005 period, a 1-in-100-year rainfall event
+averaged 103 mm of rain in 24 hours. By the 2071-2100
+period, an average of 118 mm (113 to 127 mm) of rain is
+projected in the low emissions scenario and 158 mm (142
+to 184 mm) of rain in the high emissions scenario.
+•
+There is medium confidence in the projected trends and
+ranges of aggregate precipitation variables based on how
+well climate models represent the climate processes
+involved.30
+Maximum 5-day precipitation to increase in Ontario 
+•
+Compared to the 1976-2005 baseline, the maximum amount of
+precipitation received during five consecutive days in a year is
+projected to increase by 9 per cent (8 to 12 per cent) in the low
+emissions scenario and by 19 per cent (13 to 20 per cent) in
+the high emissions scenario by the 2071-2100 period.
+•
+Over the 1976-2005 period, the highest annual
+precipitation over five days averaged 54 mm. By the 2071-
+2100 period, an average of 59 mm (56 to 63 mm) is
+projected in the low emissions scenario and 64 mm (59 to 67
+mm) in the high emissions scenario.
+•
+Projections of maximum 5-day precipitation are associated
+with high-to-medium confidence. All model projections point
+to a positive trend in these variables, but the climate processes
+involved are more uncertain than for temperature variables.
+Source: Canadian Centre for Climate Services. 
+29 For 2-year and 100-year storm events, the per cent changes for each RCP scenario are identical because the same mean 
+temperature projection is used in the Clausius–Clapeyron relation to estimate the projections. See FAO’s CIPI: Project 
+Backgrounder and Methodology for more information. 
+30 Scientific confidence in climate projections differs by variable. In general, temperature projections have high scientific 
+confidence due to a large body of evidence on the causes of observed changes and a strong understanding of the climate 
+processes involved. Precipitation projections have medium scientific confidence due to uncertainty associated with a weaker 
+understanding of precipitation-producing processes and how they might be affected by projected climate change. Other 
+climate variables such as wind pressures and snow load have low scientific confidence due to a limited understanding of the 
+climate processes involved. For more information, see Climate-Resilient Buildings and Core Public Infrastructure: An 
+Assessment of the Impact Climate Change on Climatic Design Data in Canada. 
+25.0
+50.0
+75.0
+100.0
+2011
+-2040
+2031
+-2060
+2051
+-2080
+2071
+-2100
+Ontario IDF 24-hour 1:2 (mm)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+50.0
+100.0
+150.0
+200.0
+2011
+-2040
+2031
+-2060
+2051
+-2080
+2071
+-2100
+Ontario IDF 24-hour 1:100 (mm)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+50.0
+60.0
+70.0
+2011
+-2040
+2031
+-2060
+2051
+-2080
+2071
+-2100
+Ontario maximum 5-day 
+precipitation (mm)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+More extreme rainfall is projected for Ontario 
+ 
+16 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+More extreme rainfall will impact storm and wastewater 
+infrastructure 
+The following section outlines the key engineering impacts of increases in both acute and chronic extreme 
+rainfall on linear storm and wastewater infrastructure, and how these impacts will influence the costs of 
+maintaining these assets.31 The impacts of flooding to surrounding areas due to undersized storm and 
+wastewater infrastructure, while out of scope for this project, are discussed at the end of the chapter. 
+ 
+Stormwater 
+Pipes 
+Stormwater pipes are usually designed to address more frequent rainfall events (i.e., 2-year storm events). As 
+the intensity of extreme rainfall events increases, pipes will require more frequent and costly inspections and 
+preventive maintenance, as more debris, sediment and vegetation are expected to enter stormwater systems.  
+Ditches  
+Ditches are generally constructed with higher capacity than pipes but are vulnerable to large overflow events. In 
+urban areas, major systems must be able to convey the flow resulting from acute rainfall events such as the 100-
+year storm. As the intensity of extreme rainfall events increases, ditches will require more frequent clearing of 
+debris, shape and slope maintenance, and vegetation pruning to convey increased amounts of stormwater.  
+Small Non-Structural Culverts 
+Small culverts are also vulnerable to overflow events. As the intensity of extreme rainfall events increases, these 
+assets will require more frequent clearing of debris and sediments resulting from increased water flow. Channel 
+protection will also be subject to accelerated erosion. 
+ 
+Wastewater 
+Sewer Pipes 
+Sewer pipes allow wastewater to flow by gravity from source to treatment facility. These assets are vulnerable to 
+both short duration and long duration rainfall events. Increased intensity of short duration rainfall events will 
+increase the inflow of surface water into sewer pipes, while increased intensity of longer duration events will 
+cause groundwater to infiltrate sewer pipes. Due to increased inflow and infiltration, pipes will require more 
+frequent inspections, maintenance and clearing of debris. These impacts are likely to be more severe for older 
+and combined sewer systems. 
+Sanitary Force Mains 
+In areas where wastewater cannot be conveyed through a gravity-reliant system, sanitary force mains force 
+wastewater up to higher elevations using a pressurized system. More extreme rainfall will result in higher inflow 
+and infiltration, increasing the volume of wastewater being conveyed to treatment facilities, as well as the 
+pressure required to do so. The increased need for pumping results in greater friction and stress on joints, as 
+well as corrosion, accelerating the deterioration of these assets.  
+ 
+ 
+31 This material is drawn from CIPI: WSP Engineering Report, 2021. 
+ 
+17 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+More extreme rainfall is raising the cost of maintaining 
+public storm and wastewater infrastructure 
+In this section, the FAO presents the cost projections of a no adaptation asset management strategy. In this 
+strategy, asset managers do not adapt public storm and wastewater infrastructure to withstand changing climate 
+hazards, but instead pay higher costs to maintain their assets in a state of good repair in the face of increasing 
+extreme rainfall. While in practice many climate change adaptation initiatives are under way (see Chapter 5), the 
+intent of the no adaptation strategy is to explore the cost implications of not adapting public storm and 
+wastewater infrastructure to extreme rainfall. 
+ 
+Figure 4-2 
+Examples of how more extreme rainfall will impact linear storm and wastewater 
+infrastructure 
+ 
+Note: For more examples of how these climate hazards impact water infrastructure, see CIPI: WSP Engineering Report, 2021. 
+Source: WSP. 
+Stormwater – Pipe 
+More frequent and costly inspections 
+and preventive maintenance 
+required, as more debris, sediment 
+and vegetation are expected to enter 
+stormwater systems.  
+Stormwater – Culvert 
+More frequent clearing of debris and 
+sediments required due to increased 
+water flow. Channel protection will also 
+be subject to accelerated erosion. 
+Stormwater – Ditch 
+More frequent clearing of debris, 
+shape and slope maintenance, and 
+vegetation pruning required to convey 
+increased amounts of stormwater. 
+Wastewater – Sewer Pipe 
+More frequent inspections, maintenance, and 
+clearing of debris required due to increased inflow 
+and infiltration. Impacts on older and combined 
+sewer systems are likely to be more severe.   
+Wastewater – Sanitary Force Main 
+Higher inflow and infiltration, increasing the volume 
+of wastewater being conveyed to treatment 
+facilities, as well as the pressure required to do so. 
+The increased need for pumping results in greater 
+friction and stress on joints, as well as corrosion, 
+accelerating the deterioration of these assets.  
+Sanitary 
+force main 
+Stormwater 
+pipe 
+Wastewater 
+sewer pipe 
+Ditch 
+Culvert 
+ 
+18 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+In the absence of adaptation actions, increasing extreme rainfall will shorten the useful service life (USL) of some 
+public storm and wastewater infrastructure, requiring more frequent and additional rehabilitations relative to the 
+stable climate scenario. More extreme rainfall will also result in higher spending on operations and maintenance 
+(O&M). Taken together, these factors will increase the costs of maintaining the current portfolio of public storm 
+and wastewater infrastructure in a state of good repair.  
+ 
+As extreme rainfall increases throughout the century, the existing capacity of storm and wastewater 
+infrastructure will not be adequate, increasing flood risk to surrounding areas. The cost estimates presented 
+below do not include the costs of flooding that could result from inadequate capacity (capacity issues are 
+discussed at the end of this chapter).  
+ 
+Projecting public storm and wastewater infrastructure costs in the no adaptation strategy 
+Figure 4-3 shows the costs to maintain infrastructure in the no adaptation strategy. In the medium emissions 
+scenario (median projection), more extreme rainfall will raise the average annual cost of maintaining the existing 
+portfolio of public storm and wastewater infrastructure in a state of good repair by $1.1 billion per year over the 
+century. This represents a 37 per cent increase in costs over what would have occurred in a stable climate. 
+These average annual costs rise from $0.6 billion per year this decade, to $1.0 billion in the mid-century period, 
+and $1.4 billion in the late century as rainfall becomes more extreme.  
+ 
+ 
+ 
+In the high emissions scenario (median projection), more extreme rainfall would instead raise average annual 
+infrastructure costs by $1.8 billion per year over the century, a 61 per cent increase in costs relative to the stable 
+climate scenario. In this case, climate-related costs increase from $0.7 billion this decade, to an average of $1.4 
+billion in the mid-century period, rising to $2.8 billion by late century.  
+ 
+The larger costs in the high emissions scenario occur because rainfall is projected to become more extreme 
+throughout the century. In contrast, the pace of change in extreme rainfall slows by mid-century in the medium 
+emissions scenario (see Figure 4-1). 
+ 
+Figure 4-3 
+Changing climate hazards will raise the cost of maintaining the current portfolio of public 
+storm and wastewater infrastructure in the absence of adaptation  
+ 
+ 
+Note: Uncertainty ranges are omitted from this chart for presentation purposes. 
+Source: FAO.  
+$2.6
+$2.5
+$3.9
+$3.0
+$2.6
+$2.5
+$3.9
+$3.0
+$0.6
+$1.0
+$1.4
+$1.1
+$0.7
+$1.4
+$2.8
+$1.8
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending
+(real $2020, billions)
+Stable Climate
+No adaptation strategy, additional climate-related costs
+Medium emissions scenario 
+(Median projection)
+High emissions scenario 
+(Median projection)
+ 
+19 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+There is uncertainty in the extent of warming 
+that will occur in each emissions scenario 
+(see Figure 4-1), as well as engineering 
+uncertainty in how more extreme rainfall will 
+impact Ontario’s storm and wastewater 
+infrastructure (see Appendix C). The full 
+range of average annual climate-related 
+costs is presented in Figure 4-4.  
+ 
+These average annual costs would 
+accumulate over the projection. In the short 
+term (2022-2030), annual climate-related 
+costs from more extreme rainfall average 
+$0.7 billion across the medium and high 
+emissions scenarios, which would 
+accumulate to approximately $6.2 billion by 
+2030 in the absence of adaptation.32 This is 
+a 27 per cent increase in municipal 
+infrastructure costs relative to the stable 
+climate projection.  
+ 
+ 
+Figure 4-5 presents the cumulative spending 
+required to maintain infrastructure over the 
+projection. In the medium emissions 
+scenario (median projection), the cumulative 
+cost of maintaining the existing portfolio of 
+public storm and wastewater infrastructure 
+in a state of good repair will increase by $88 
+billion over the century. This represents a 
+37 per cent increase in costs over what 
+would have occurred in a stable climate. 
+These cumulative costs could range from 
+$45 billion to $166 billion given the climate 
+and engineering uncertainties. 
+  
+In the high emissions scenario (median 
+projection), the cumulative cost would 
+instead increase by $145 billion (a 61 per 
+cent increase), with a range of $78 billion to 
+$258 billion. 
+ 
+ 
+32 The $6.2 billion in cumulative climate-related costs by 2030 is the average of the medium and high emissions scenarios’ 
+median projections. This cost could range from $3 billion to $11 billion given the climate and engineering uncertainties. 
+Figure 4-5 
+In the absence of adaptation, climate-related costs 
+accumulate to significant sums by 2100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: FAO. 
+Figure 4-4 
+Uncertainty ranges around annual climate-related 
+costs widen over time  
+ 
+Note: The solid line is the median (or 50th percentile) projection. The 
+coloured bands represent the range of possible outcomes in each 
+emissions scenario.  
+Source: FAO. 
+$0.6
+$1.0
+$1.4
+$0.7
+$1.4
+$2.8
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related 
+costs
+(real $2020, billions)
+Medium emissions scenario
+High emissions scenario
+$240
+$240
+$88
+$145
+$0
+$100
+$200
+$300
+$400
+$500
+Medium emissions
+scenario
+High emissions
+scenario
+Cumulative spending by 2100
+(real $2020, billions)
+No adaptation strategy,
+additional climate-related costs
+Stable Climate
+$45
+$258
+$166
+$78
+20 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+Costing Climate Change Impacts to Water Infrastructure 
+33 Municipalities have many types of metrics for assessing services for storm and wastewater infrastructure, including the 
+proportion of assets in a state of good repair, the share of houses connected to the sewer network, the number of main line 
+backups, the number of sewer odour investigations, the number of combined sewer overflow events, among others. For more 
+examples of level of service requirements for both wastewater and stormwater infrastructure, see the asset management 
+plans of City of Hamilton (pages 131-132), City of London (page 111) and Region of Peel (pages 129-130).  
+34 See Design Criteria for Sewers and Watermains, 2021, pages 88 and 100. 
+35 See CIPI: WSP Engineering Report, 2021 for more information. 
+36 See Canada inundated by severe weather in 2013: Insurance companies pay out record-breaking $3.2 billion to 
+policyholders for more information. 
+37 See Toronto Flood Causes over $80 Million in Insured Damage for more information. 
+38 See page 7 of the City of Windsor’s Degrees of Change: Climate Change Adaptation Plan for more information. 
+39 Other public health impacts can include drowning, hypothermia, or electrocution from damaged wiring. See Climate 
+Change and Public Health Factsheets for more information. 
+More extreme rainfall is also increasing the risk of flooding 
+Many municipalities assess flood risk by determining if their infrastructure has sufficient (or excess) capacity to 
+accommodate major storm events,33 based on municipal design guidelines that often rely on historical storm 
+events. However, future rainfall intensities are expected to surpass design standards in some cases, which could 
+lead to more frequent flooding events. These flooding events would occur even if the storm and wastewater 
+systems remain in a state of good repair because future extreme rainfall could exceed existing design capacities. 
+For example, the City of Toronto’s ditches and underground storm water systems are designed to accommodate 
+runoff from 2-year storm events with an estimated 24-hour intensity of 44 mm.34 Projections from the Canadian 
+Centre for Climate Services for extreme rainfall in the Toronto region indicate that this figure could rise to 51 mm 
+(49 to 53 mm) over the 2021-2050 period in the low emissions scenario, and up to 67 mm (61 to 75 mm) over 
+the 2071-2100 period in the high emissions scenario. 
+All asset types examined in this report will be vulnerable to capacity issues as extreme rainfall increases over time, 
+increasing flood risk to surrounding areas.35 In the past, flooding events have caused extensive property damage.  
+•
+In 2013, flash flooding in Toronto resulted in $940 million in damages.36
+•
+In 2018, a thunderstorm in Toronto that produced 51 mm of rain in one hour resulted in over $80 million
+in insured damages.37
+•
+Extreme rainfall in the Windsor region in both 2016 and 2017 led to significant flooding, resulting in $232
+million of insured damages.38
+While these events have not been directly linked to climate change, they demonstrate how flooding events can 
+cause significant property damage to Ontario households and businesses.  
+Flooding can also result in water pollution as floodwaters mix with agricultural waste, chemicals or raw sewage 
+and contaminate drinking water as well as cause other public health concerns.39  
+The CIPI project focuses on estimating how changing climate hazards will impact the cost of maintaining existing 
+linear storm and wastewater infrastructure in a state of good repair. This scope does not include the costs of 
+flooding to households or businesses when this infrastructure fails to adequately convey stormwater. However, 
+these costs are likely to be significant and as such, are an area for further research that could greatly benefit the 
+public interest. 
+ 
+21 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4-6 
+Insufficient capacity of storm and wastewater infrastructure can result in flooding and 
+property damage 
+ 
+Source: FAO. 
+Sanitary 
+force main 
+Stormwater 
+pipe 
+Wastewater 
+sewer pipe 
+Ditch 
+Culvert 
+Basement flooding, 
+backups, overflows 
+Water ponding 
+Insufficient capacity in stormwater and 
+wastewater systems 
+ 
+22 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+5 | The costs of adapting linear storm 
+and wastewater infrastructure  
+Chapter 4 projected how more extreme rainfall would impact the costs of maintaining Ontario’s storm and 
+wastewater infrastructure in the absence of adaptation measures. The chapter also described how inadequate 
+capacity of storm and wastewater infrastructure can impair its ability to convey water, causing more frequent 
+flooding. In practice, storm and wastewater infrastructure can be adapted to withstand these impacts and avoid 
+accelerated deterioration and higher O&M expenses from more extreme rainfall. Adaptation can also ensure that 
+these assets will have adequate capacity to manage increasing extreme rainfall, reducing flood risk to 
+surrounding areas. 
+ 
+This chapter defines the scope of adaptation analyzed in this report and estimates a range of costs to adapt 
+Ontario’s portfolio of public storm and wastewater infrastructure to withstand late-century climate projections for 
+extreme rainfall in the medium and high emissions scenarios.  
+ 
+Adapting public storm and wastewater infrastructure can 
+help prevent the impacts of more extreme rainfall  
+Ontario’s linear storm and wastewater 
+infrastructure assets have long useful lives, 
+as shown in Figure 5-1. Of the $124 billion 
+in infrastructure, 13 per cent has a 
+remaining useful life of 0-40 years, while 87 
+per cent of assets have a remaining useful 
+life of 40-80 years. Given the long useful 
+lives of public storm and wastewater 
+infrastructure, late-century climate 
+conditions are relevant to adaptation 
+decisions being made now, which will 
+impact public infrastructure costs 
+throughout the century.  
+ 
+However, climate projections depend on 
+the trajectory of global emissions, which 
+remains uncertain. This raises the challenge 
+of how projected changes in key climate 
+hazards should be accounted for when 
+linear storm and wastewater infrastructure 
+is designed, built or rehabilitated.40 
+ 
+ 
+ 
+ 
+40 See Infrastructure Canada’s Climate Lens for a general guidance on different factors to consider when making 
+adaptation decisions.  
+Figure 5-1 
+Ontario’s linear storm and wastewater infrastructure 
+assets have long remaining useful service lives 
+ 
+Source: FAO.  
+1
+12
+48
+39
+0
+10
+20
+30
+40
+50
+60
+0-20 years
+20-40 years
+40-60 years
+60-80 years
+Share of stormwater and wastewater 
+assets by CRV (per cent)
+Remaining useful service life
+ 
+23 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Adapting linear storm and wastewater infrastructure to withstand more extreme rainfall could take many forms. A 
+few examples include:  
+• 
+addressing gaps in standards and best practices for stormwater and wastewater management, such as 
+defining and incorporating a consistent level of service across provincial and municipal design guidelines;41  
+• 
+changing the way assets are managed, for example, altering the frequency of operations and 
+maintenance schedules or improving the monitoring and maintenance of drainage systems;42   
+• 
+managing stormwater in urban areas through low-impact development, such as the use of permeable 
+pavement and green infrastructure, which helps to soak rainwater into the ground and reduce the runoff 
+volume managed through conventional stormwater systems;43 
+• 
+planting urban forests that help retain stormwater;44 
+• 
+enabling municipalities to plan and implement robust systems for surface drainage of settlement areas;45 
+• 
+separating drainage and sanitary systems to reduce the flow of stormwater into wastewater systems;46 and 
+• 
+improving flood plain mapping of areas at risk of flooding that could support the development of flood 
+control bylaws.47  
+ 
+Figure 5-2 presents some examples of adaptation measures for storm and wastewater infrastructure components 
+included in the FAO’s modelling framework. These adaptations would prevent accelerated deterioration and 
+higher O&M costs caused by more extreme rainfall, as well as increase the capacity of this infrastructure and 
+reduce flood risk.48 
+ 
+ 
+ 
+ 
+41 See Developing a Stormwater Quality Management Standard (QMS) in Light of a Changing Climate for more information. 
+42 For example, see Asset Management BC’s Climate Change and Asset Management: A Sustainable Service Delivery Primer. 
+43 See Canada in a Changing Climate: National Issues for more information. 
+44 Ibid. 
+45 For examples of municipal planning, see Developing a Stormwater Quality Management Standard (QMS) in Light of a 
+Changing Climate, 2018, Table 2 and Appendix 9.2. 
+46 See Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation for more information. 
+47 For example, see Canada in a Changing Climate: National Issues, Box 2.5. 
+48 For a full description of adaptation examples, see CIPI: WSP Engineering Report, 2021. 
+ 
+24 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+Figure 5-2 
+Examples of adaptations to extreme rainfall for linear storm and wastewater infrastructure 
+ 
+Note: For more examples of how linear storm and wastewater infrastructure components can be adapted to climate hazards, see 
+CIPI: WSP Engineering Report, 2021. 
+Source: WSP. 
+Stormwater – Pipe 
+Upsize to larger pipes/twinned pipes, 
+and/or incorporate source control 
+measures and green infrastructure 
+solutions to reduce and slow down 
+stormwater. 
+Sanitary 
+force main 
+Stormwater pipe 
+Wastewater 
+sewer pipe 
+Ditch 
+Culvert 
+Stormwater – Ditch 
+Dig out ditches and reinforce 
+using concrete or geotextiles. 
+Stormwater – Culvert 
+Upsize using a combination 
+of larger pipes, twinned 
+pipes and/or incorporate 
+source control measures. 
+Wastewater – Sanitary Force Main 
+Upsize to larger pipes and increase the 
+capacity of force mains, as inflows 
+from the gravity system could increase 
+loads downstream. 
+Wastewater – Sewer Pipe  
+Upsize to a larger pipe and/or 
+incorporate source control measures 
+such as green infrastructure to help 
+control the infiltration of stormwater 
+flow into gravity sewer. 
+ 
+25 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Adaptation strategy costs vary based on the approach taken 
+To estimate adaptation costs, the FAO assumed that public storm and wastewater infrastructure assets are 
+adapted to accommodate late-century projections49 for extreme rainfall. Once adapted, the FAO assumes that 
+the asset no longer faces additional O&M and capital expenses due to more extreme rainfall. Adaptation also 
+ensures storm and wastewater assets will have adequate capacity to manage more extreme rainfall, reducing 
+flood risk in surrounding areas. 
+ 
+The additional infrastructure costs of an adaptation strategy include higher capital expenses from increased 
+deterioration and higher O&M expenses until adaptation (but no costs associated with flooding in surrounding 
+areas), and a one-time adaptation expense. After an asset is adapted, it no longer experiences accelerated 
+deterioration and higher O&M costs due to more extreme rainfall. The costs presented in this chapter would 
+occur instead of those estimated in the no adaptation strategy presented in Chapter 4. 
+ 
+The costs of an adaptation strategy would vary based on when the adaptation actions are undertaken. To 
+highlight how these costs could vary, the FAO developed two adaptation strategies.  
+• 
+Reactive adaptation strategy: Storm and wastewater assets are only adapted at the time of renewal. 
+This approach results in a gradual increase in the share of adapted assets over the century, with only about 
+10 per cent of assets adapted by 2050 and 43 per cent adapted by 2070. By 2100, all assets are adapted.  
+• 
+Proactive adaptation strategy: Storm and wastewater assets are adapted at the first available 
+opportunity. This occurs either during an asset’s next major rehabilitation (where instead of rehabilitating 
+the asset, it is replaced with a new adapted asset) or at renewal, whichever comes first. In this approach, 
+33 per cent of storm and wastewater assets are adapted by 2030 and all assets are adapted by 2070.  
+ 
+ 
+ 
+49 The 2080s are selected to approximate the changes in climate in the latter half of the 21st century. The decadal adaptation 
+costs are presented in Appendix C. However, in practice, assets can be adapted to the projected climate over the service life of 
+individual assets.  
+Figure 5-3 
+The proactive adaptation strategy has a faster pace of adaptation over the century 
+ 
+Note: The results presented are based on the average results for the median (or 50th percentile) projection in the medium and 
+high emissions scenarios. Uncertainty bands are omitted from this figure for presentation purposes.  
+Source: FAO.  
+10
+43
+33
+100
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2022
+2028
+2034
+2040
+2046
+2052
+2058
+2064
+2070
+2076
+2082
+2088
+2094
+2100
+Proportion of adapted linear storm 
+and wastewater infrastructre by CRV
+(per cent)
+Reactive adaptation
+Proactive adaptation
+ 
+26 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+The pace of adaptation of storm and wastewater infrastructure in the two strategies will also impact flood risk in 
+surrounding areas. The gradual pace of adaptation in the reactive adaptation strategy means that a large 
+proportion of infrastructure will remain unadapted for a longer period, with only 43 per cent of assets adapted by 
+2070, leaving a significant exposure to flood risk.  
+ 
+In contrast, the faster pace of adaptation in the proactive adaptation strategy lowers flood risk more rapidly as a 
+larger share of the assets in the portfolio are adapted much sooner. By 2030, one-third of the portfolio is adapted 
+to late-century projections of extreme rainfall, while by 2050 that share rises to over 70 per cent. By 2070, the 
+entire portfolio is adapted to the impacts of more extreme rainfall. While adapting the entire portfolio of storm and 
+wastewater infrastructure will not eliminate flood risk entirely, rapid adaptation will lower flood risk sooner than in 
+the reactive strategy.  
+ 
+ 
+Projecting public storm and wastewater infrastructure costs in the reactive adaptation 
+strategy  
+In the reactive adaptation strategy, storm and wastewater assets are adapted at the time of renewal, resulting in 
+a gradual pace of adaptation that leaves flood risks largely unaddressed throughout most of the century (see 
+Figure 5-3).   
+ 
+Figure 5-4 shows the average annual climate-related costs in the reactive adaptation strategy. In the medium 
+emissions scenario (median projection), average annual infrastructure costs would increase by $1.1 billion per 
+year over the century. This represents a 37 per cent increase in costs over what would have occurred in a stable 
+climate. These average annual costs rise from $0.9 billion per year this decade, to $1.1 billion in the mid-century 
+period, and to $1.2 billion per year in the late century as the pace of adaptation increases. 
+ 
+In the high emissions scenario (median projection), average annual infrastructure costs would instead increase 
+by $1.9 billion per year over the century, a 62 per cent increase in costs relative to the stable climate scenario. In 
+this scenario, climate-related costs increase from $1.3 billion this decade, to an average of $1.7 billion in the mid-
+century period, then increasing to $2.3 billion in the late century.  
+ 
+Costs in the high emissions scenario are larger than in the medium emissions scenario as more extreme rainfall 
+accelerates deterioration and raises the O&M costs of non-adapted assets. Adaptation costs are also higher 
+relative to the medium emissions scenario due to the higher design standards required to withstand the high 
+emissions scenario. 
+ 
+27 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+Costing Climate Change Impacts to Water Infrastructure 
+Given the uncertain extent of warming that will 
+occur in each emissions scenario, as well as the 
+engineering uncertainty in costing the array of 
+adaptation options, the full range of climate-
+related costs is presented in Figure 5-5.  
+These average annual costs will accumulate 
+over the remainder of this century. The FAO 
+projects that climate-related costs would 
+accumulate to approximately $8 billion by 2030 
+in the medium emissions scenario (a 34 per 
+cent increase in municipal infrastructure costs 
+relative to the stable climate projection). In the 
+high emissions scenario, these additional costs 
+accumulate to approximately $11 billion by 
+2030 (a 48 per cent increase, as adapting 
+assets to withstand more extreme rainfall in 
+high emissions scenario is more expensive).50  
+50 These costs could range from $4 billion to $15 billion in the medium emissions scenario and from $6 billion to $19 billion in 
+the high emissions scenario given the climate and engineering uncertainties. 
+Figure 5-4 
+Adaptation will raise storm and wastewater infrastructure costs, but more so in the high 
+emissions scenario  
+Note: Uncertainty ranges are omitted from this chart for presentation purposes. 
+Source: FAO.  
+$2.6
+$2.5
+$3.9
+$3.0
+$2.6
+$2.5
+$3.9
+$3.0
+$0.9
+$1.1
+$1.2
+$1.1
+$1.3
+$1.7
+$2.3
+$1.9
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending
+(real $2020, billions)
+Stable Climate
+Reactive adaptation strategy, additional climate-related costs
+Medium emissions scenario 
+(Median projection)
+High emissions scenario 
+(Median projection)
+Figure 5-5 
+Climate-related costs in the reactive adaptation 
+strategy are subject to climate and engineering 
+uncertainty 
+Note: The solid line is the median (or 50th percentile) projection. The 
+coloured bands represent the range of possible outcomes in each 
+emissions scenario.  
+Source: FAO. 
+$0.9
+$1.1
+$1.2
+$1.3
+$1.7
+$2.3
+$0
+$1
+$2
+$3
+$4
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related costs
+(real $2020, billions)
+Medium emissions scenario
+High emissions scenario
+ 
+28 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure 5-6 shows the cumulative 
+infrastructure costs under both emissions 
+scenarios. Maintaining the existing portfolio 
+of public storm and wastewater infrastructure 
+in a state of good repair and expanding its 
+capacity in the reactive adaptation strategy 
+will increase cumulative infrastructure costs 
+by $89 billion over the century in the 
+medium emissions scenario (median 
+projection). This represents a 37 per cent 
+increase in costs over what would have 
+occurred in a stable climate. These 
+cumulative costs could range from $49 billion 
+to $164 billion given the climate and 
+engineering uncertainties. 
+ 
+In the high emissions scenario (median 
+projection), cumulative infrastructure costs 
+would instead increase by $148 billion (a 62 
+per cent increase), with a range of $89 billion 
+to $256 billion. 
+ 
+Projecting public storm and wastewater infrastructure costs in the proactive 
+adaptation strategy  
+In the proactive adaptation strategy, storm and wastewater assets are adapted at the first available opportunity. 
+This occurs either during an asset’s next major rehabilitation when it is replaced with a new adapted asset 
+instead of being rehabilitated, or at renewal, whichever comes first. In this approach, 33 per cent of storm and 
+wastewater assets are adapted by 2030 and all assets are adapted by 2070. Under this strategy, flood risk is 
+more rapidly reduced compared to the gradual pace of adaptation in the reactive adaptation strategy.  
+ 
+Figure 5-7 shows the average annual climate-related costs in the proactive adaptation strategy. In the medium 
+emissions scenario (median projection), average annual infrastructure costs would increase by $0.9 billion per year 
+over the century. This represents a 29 per cent increase in costs over what would have occurred in a stable climate. 
+In the high emissions scenario (median projection), average annual infrastructure costs would instead increase by 
+$1.6 billion per year over the century, a 53 per cent increase in costs relative to the stable climate scenario.  
+ 
+In a stable climate, a large share of Ontario’s storm and wastewater system would have been replaced in the late 
+century period. In the proactive adaptation strategy, a significant share of storm and wastewater infrastructure is 
+renewed and adapted well before the end of its service life. This would significantly raise infrastructure costs in 
+the short term and mid-century period relative to the stable climate scenario. This also means that fewer 
+renewals would occur in the late century period compared to the stable climate scenario, lowering infrastructure 
+costs in this period.51  
+ 
+ 
+51 However, these cost savings would be temporary. If assets are replaced before the end of their useful life in this century, it 
+will also bring forward renewals in the 22nd century. 
+Figure 5-6 
+Cumulative climate-related costs in the reactive 
+adaptation strategy to 2100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: FAO. 
+$240
+$240
+$89
+$148
+$0
+$100
+$200
+$300
+$400
+$500
+Medium emissions
+scenario
+High emissions
+scenario
+Cumulative spending by 2100
+(real $2020, billions)
+Reactive adaptation strategy,
+additional climate-related costs
+Stable Climate
+$89
+$256
+$164
+$49
+ 
+29 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+Given the uncertain extent of warming that will occur in 
+each emissions scenario, as well as the engineering 
+uncertainty in costing the array of adaptation options, 
+the full range of annual climate-related costs is 
+presented in Figure 5-8.  
+ 
+These projected annual costs will accumulate over the 
+remainder of this century. The FAO projects that these 
+climate-related costs would accumulate to 
+approximately $31 billion by 2030 in the medium 
+emissions scenario (a 130 per cent increase in 
+municipal infrastructure costs relative to the stable 
+climate projection). In the high emissions scenario, 
+these costs would accumulate to approximately $40 
+billion by 2030 (a 170 per cent increase, as adapting 
+assets to withstand more extreme rainfall in the high 
+emissions scenario is more expensive).52  
+ 
+ 
+52 These costs could range from $25 billion to $41 billion in the medium emissions scenario and from $31 billion to $56 billion 
+in the high emissions scenario given the climate and engineering uncertainties. 
+Figure 5-7 
+Proactive adaptation significantly raises infrastructure costs in the short term, and lowers 
+costs over the long term  
+  
+ 
+Note: Uncertainty ranges are omitted from this chart for presentation purposes.  
+Source: FAO. 
+$2.6
+$2.5
+$3.9
+$3.0
+$2.6
+$2.5
+$3.9
+$3.0
+$3.4
+$2.0
+-$1.3
+$0.9
+$4.4
+$2.8
+-$0.8
+$1.6
+-$2
+-$1
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending
+(real $2020, billions)
+Stable Climate
+Proactive adaptation strategy, additional climate-related costs
+Medium emissions scenario 
+(Median projection)
+High emissions scenario 
+(Median projection)
+Figure 5-8 
+Climate-related costs are subject to 
+climate and engineering uncertainty
+ 
+Note: The solid line is the median (or 50th percentile) 
+projection. The coloured bands represent the range of 
+possible outcomes in each emissions scenario. 
+Source: FAO. 
+$4.4
+$2.8
+-$0.8
+$3.4
+$2.0
+-$1.3
+-$2
+-$1
+$0
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related costs
+(real $2020, billions)
+High emissions scenario
+Medium emissions scenario
+ 
+30 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure 5-9 shows the cumulative 
+infrastructure costs under both emissions 
+scenarios. Over the projection, maintaining 
+the existing portfolio of public storm and 
+wastewater infrastructure in a state of good 
+repair and expanding its capacity in the 
+proactive adaptation strategy will increase 
+cumulative infrastructure costs by $71 
+billion over the century in the medium 
+emissions scenario (median projection). 
+This represents a 29 per cent increase in 
+costs over what would have occurred in a 
+stable climate. These cumulative costs 
+could range from $41 billion to $127 billion 
+given the climate and engineering 
+uncertainties. 
+ 
+In the high emissions scenario (median 
+projection), the cumulative cost would 
+instead increase by $127 billion (a 53 per 
+cent increase), with a range of $79 billion 
+to $217 billion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5-9 
+Cumulative climate-related costs in the proactive 
+adaptation strategy to 2100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Source: FAO. 
+$240
+$240
+$71
+$127
+$0
+$100
+$200
+$300
+$400
+$500
+Medium emissions 
+scenario
+High emissions 
+scenario
+Cumulative spending by 2100
+(real $2020, billions)
+Proactive adaptation strategy,
+additional climate-related costs
+Stable Climate
+$217
+$79
+$41
+$127
+ 
+31 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+6 | Comparing the costs of different 
+asset management strategies 
+ 
+Chapters 4 and 5 examined the costs of maintaining public linear storm and wastewater infrastructure in a state 
+of good repair in the presence of climate change under three asset management strategies: no adaptation, 
+reactive adaptation and proactive adaptation. These strategies were designed to estimate the scale of the impact 
+that changes in extreme rainfall will impose on municipal infrastructure budgets over the rest of the century.53  
+ 
+This chapter first discusses the scope of the costs analyzed across the three asset management strategies. Next, 
+cost estimates across the strategies are compared and the implications of each strategy for reducing flood risks 
+are considered. The chapter then presents the cost profiles of each strategy over the projection. The chapter 
+concludes by discussing the factors that were beyond the scope of the FAO’s analysis but are relevant in 
+determining the most cost-effective strategy for managing specific assets.  
+ 
+The FAO’s analysis focuses on the costs of maintaining 
+municipal linear storm and wastewater infrastructure  
+This report estimates the impact of increasing extreme rainfall on the costs to municipal governments to keep 
+their linear storm and wastewater infrastructure in a state of good repair, either through maintaining unadapted 
+infrastructure or adapting the assets. The report does not attempt a full cost-benefit analysis and does not 
+estimate the costs that could result from undersized storm and wastewater infrastructure, such as flooding costs 
+borne by households or businesses. These costs were beyond the project’s scope but are likely substantial and 
+relevant to adaptation decisions.   
+ 
+For example, if extreme rainfall inundates an undersized culvert during a storm and the surrounding area floods, 
+this analysis includes the cost of removing the debris that accumulated in the culvert, as well as any repairs 
+required, but does not include the costs to repair the flood damages sustained by households and businesses in 
+the surrounding area. However, the adaptation strategies do include the adaptation costs of installing a new 
+larger culvert, which expands its capacity and reduces flood risk in the surrounding area (see Figure 6-1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+53 None of the strategies presented in this report are meant to precisely represent future costs, and portfolio-level costing 
+results are not intended to inform asset-specific management decisions. 
+ 
+32 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+Figure 6-1 
+The costs of maintaining linear storm and wastewater infrastructure in a changing climate were 
+included, but the impacts of inadequate capacity on households and businesses were not 
+  
+ 
+Source: FAO.  
+ 
+33 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Proactive adaptation will lower flood risks and climate-
+related costs compared to not adapting  
+As extreme rainfall becomes more frequent and intense, unadapted assets will increasingly face capacity 
+constraints, heightening flood risk in surrounding areas. Adaptation ensures that storm and wastewater assets 
+will have adequate capacity to manage future projections of extreme rainfall, reducing flood risk. The faster 
+assets are adapted, the faster flood risk is reduced.  
+ 
+Figure 6-2 shows how the share of unadapted public storm and wastewater assets changes over the projection 
+for the three asset management strategies.  
+ 
+The proactive adaptation strategy reduces flood risk faster than the other asset management strategies, as the 
+portfolio of storm and wastewater assets are adapted at a faster pace. In this strategy, the share of unadapted 
+assets quickly declines over the projection, falling to 68 per cent by 2030, to 27 per cent by 2050 and to zero by 
+2070.54 While the reactive strategy eventually sees the share of unadapted assets fall to zero, this happens at a 
+much slower pace since the majority of assets remain unadapted for most of the projection. In the no adaptation 
+strategy, flood risk is the largest, as no assets are adapted over the projection.55 
+ 
+ 
+ 
+54 Adapting the entire portfolio of storm and wastewater assets does not eliminate flood risk entirely. However, since 
+adaptation ensures that assets can manage the increased volume of rainfall, adapted infrastructure assets are expected to 
+significantly lower the flood risk in surrounding areas compared to unadapted assets.  
+55 The magnitude of flood risk of unadapted assets also increases over the projection as extreme rainfall becomes more 
+frequent and intense. For instance, in the high emissions scenario, flood risk will be greater in 2080 than in 2050, since rainfall 
+is expected to become more extreme later in the century. 
+Figure 6-2 
+Proactively adapting Ontario’s linear storm and wastewater infrastructure reduces flood risk at 
+the fastest pace 
+ 
+ 
+Note: The results presented are based on the average results for the median (or 50th percentile) projection in the medium and 
+high emissions scenarios. The uncertainty bands are omitted from this figure for presentation purpose.  
+Source: FAO. 
+100
+100
+100
+68
+0
+90
+57
+0
+0
+25
+50
+75
+100
+2022
+2028
+2034
+2040
+2046
+2052
+2058
+2064
+2070
+2076
+2082
+2088
+2094
+2100
+Share of unadapted assets by CRV 
+(per cent)
+No adaptation
+Proactive adaptation
+Reactive adaptation
+ 
+34 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Apart from lowering the flood risk to the largest extent, proactively adapting infrastructure is the least costly 
+strategy for municipalities (in real dollars),56 as highlighted in Figure 6-3. In the no adaptation strategy, no assets 
+are adapted and thus incur higher climate-related infrastructure costs over the entire projection. Similarly, the 
+gradual pace of adaptation in the reactive approach exposes a large share of assets to higher climate-related 
+infrastructure costs over most of the projection, while also incurring the costs of adaptation. In contrast, the rapid 
+pace of adaptation in the proactive strategy avoids much of the higher climate-related operations and 
+maintenance costs.  
+ 
+When comparing cumulative costs in the three strategies, note that if the costs of flooding borne by households 
+and business were incorporated, cumulative costs in the no adaptation strategy would rise significantly, while 
+those in the proactive adaptation strategy would rise the least. 
+ 
+Regardless of which asset management strategy is pursued, the future path of global climate change will be a 
+key determinant in the extent of additional climate-related infrastructure costs. Costs are lower in the medium 
+emissions scenario than in the high emissions scenario (median projections) across all asset management 
+strategies. 
+ 
+ 
+ 
+56 For a discussion of these cost profiles on a discounted basis, see Appendix D. 
+Figure 6-3 
+Proactively adapting Ontario’s public storm and wastewater infrastructure will cost 
+municipalities less than not adapting over the long term, and lowers flood risk more rapidly 
+ 
+Note: The costs presented are based on the median (or 50th percentile) projection in each emissions scenario. The costs 
+presented in this chart are in addition to the baseline costs over the same period. The uncertainty bands are omitted from this 
+figure for presentation purposes.  
+Source: FAO. 
+$88 
+$145 
+$89 
+$148 
+$71 
+$127 
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+$160
+Medium emissions scenario
+High emissions scenario
+Cumulative climate-related 
+infrastructure spending by 2100
+(real $2020, billions)
+No adaptation
+Reactive adaptation
+Proactive adaptation
+Flooding costs to households and businesses are not included.
+Flood risk is highest in no adaptation and lowest in proactive adaptation.
+ 
+35 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Proactively adapting linear storm and wastewater 
+infrastructure would require significant upfront costs  
+Figure 6-4 shows how costs accumulate in the medium and high emissions scenarios under the three asset 
+management strategies.  
+ 
+ 
+ 
+In the first half of the century, the cost profiles of the no adaptation strategy and the reactive adaptation strategy 
+are similar, as assets in both incur higher costs from more extreme rainfall. In the second half of the century, 
+these two cost profiles start to diverge as the spending necessary to adapt storm and wastewater infrastructure 
+to extreme rainfall raises the cost of the reactive adaptation strategy slightly above the no adaptation strategy.  
+ 
+In contrast, under the proactive adaptation strategy, assets are adapted at a rapid pace largely through early 
+renewals. This strategy sees a substantial accumulation in costs over the next four decades. However, late- 
+century costs decrease as adapted assets avoid higher climate-related operating and capital costs, and fewer 
+future renewals are required.  
+ 
+While the proactive adaptation strategy is the least expensive in real 2020 dollars over the projection, the 
+strategy requires significant upfront costs. By 2030, additional climate-related costs amount to $31 billion in the 
+medium emissions scenario and $40 billion in the high emissions scenario, an average of $3 and $4 billion 
+annually over the nine-year period. This would be a substantial increase in infrastructure spending for 
+municipalities, which have spent an average of $11 billion per year on capital assets across all types of 
+infrastructure (including storm and wastewater assets) over the 2009-2019 period.57 
+ 
+57 Average spending is calculated based on additions and betterments spending across all functional areas of assets 
+managed by Ontario’s municipalities as reported in Financial Information Return (FIR) data from 2009 to 2019.  
+Figure 6-4 
+Proactive adaptation has much higher upfront costs  
+  
+ 
+Note: The costs presented are based on the median (or 50th percentile) projection in each emissions scenario. The costs 
+presented in this chart are in addition to the baseline costs over the same period. The uncertainty bands are omitted from this 
+figure for presentation purposes.  
+Source: FAO. 
+$6
+$88
+$8
+$89
+$31
+$71
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+Cumulative climate-related
+infrastructure spending
+(real $2020, billions)
+Medium emissions scenario
+No adaptation
+Reactive adaptation
+Proactive adaptation
+$7
+$145
+$11
+$148
+$40
+$127
+High emissions scenario
+ 
+36 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Making asset-specific adaptation decisions should consider 
+many other factors 
+Costing three different asset management strategies at the portfolio level was designed to estimate the scale of 
+the budgetary impact that changes in extreme rainfall could impose over the rest of the century. However, to 
+make asset-specific climate adaptation decisions, many other factors should be considered,58 including: 
+• 
+an asset’s individual characteristics (including age, condition and specific climate vulnerabilities);  
+• 
+a wider array of climate impacts (such as fluvial flooding and permafrost degradation) over the entire 
+useful life of an asset;  
+• 
+costs to households and businesses, including the costs of flooding and the costs of service disruptions 
+as construction occurs; and 
+• 
+other non-asset related considerations.59  
+Incorporating these factors would further enhance the FAO’s methodology and would better support adaptation 
+decision-making for individual assets in a changing climate. 
+ 
+ 
+ 
+ 
+ 
+58 Several decision-making tools can be used to assist climate change adaptation decisions that capture both financial and 
+economic costs and benefits of adaptation. See Chapter 7: Economics of Adaptation and Assessing the Costs and Benefits of 
+Adaptation Options: An Overview of Approaches for details on different decision tools, Climate-Resilient Infrastructure for a 
+general discussion on costs and benefits of adaptation, and Climate Lens for a general guidance on adaptation decisions.  
+59 For example, if a section of road is being replaced (or adapted), this may impact the decision of whether to adapt a section 
+of stormwater pipe. Flooding may also put additional financial burden on governments beyond the cost of maintaining the 
+storm and wastewater infrastructure, as emergency funding needs to be allocated to support flood-affected areas. 
+ 
+37 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+7 | Appendices 
+Appendix A : Scope of storm and wastewater sector assets  
+ 
+Table A-1: Linear storm and wastewater infrastructure valued at $124 billion (current replacement value) included in the 
+scope of this report 
+Level of 
+Government 
+Sector 
+Total CRV  
+(2020$ 
+billions) 
+Description 
+Municipal 
+ 
+Stormwater 
+$52.8 
+• 
+40,368 kilometres of stormwater pipes valued at $38.8 
+billion 
+• 
+8,967 kilometres of stormwater culverts valued at $7.5 
+billion 
+• 
+76,423 kilometres of open ditches valued at $6.5 billion 
+• 
+More than one-fifth (22.9 per cent) of Ontario’s 
+stormwater linear engineering infrastructure was built 
+between 1970 and 1999, while 9.3 per cent was built 
+between 1940 and 1969 
+Wastewater 
+$71.1 
+• 
+44,802 kilometres of sewer pipes of small (less than 450 
+mm), medium (450 to 1500 mm), large (more than1500 
+mm) and unknown diameter valued at $67.9 billion 
+• 
+2,334 kilometres of sanitary force mains valued at $3.2 
+billion 
+• 
+A large share (42.8 per cent) of Ontario’s wastewater 
+linear engineering infrastructure was constructed 
+between 1970 and 1999, while one-fifth (19.7 per cent) 
+was built between 1940 and 1969 
+Note: The age data presented are as of 2020.  
+Source: FAO analysis of municipal data as detailed in FAO’s Municipal Infrastructure report. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Appendix B : Scope of climate variables used in costing analysis 
+The Canadian Centre for Climate Services provided the projections of all climate indicators used in the FAO’s 
+costing analysis. Depending on the nature of the hazard’s interaction with specific storm and wastewater infrastructure 
+components, different climate indicators were used. See WSP’s report for a full description and rationale.60 
+ 
+Table B-1: Projected change in relevant climate variables from 1976-2005 to 2071-2100, Ontario average61 
+Climate Hazard 
+Variable 
+Definition 
+Low Emissions 
+(RCP2.6) 
+Medium Emissions 
+(RCP4.5) 
+High 
+Emissions 
+(RCP8.5) 
+Extreme Rainfall 
+ 
+IDF 24-hour 1:2 
+Short duration rainfall 
+intensity for a 24-hour 1-in-2-
+year event 
++15 per cent 
+(+10 to 24  
+per cent) 
++25 per cent 
+(+16 to 39  
+per cent) 
++53 per cent 
+(+38 to 78  
+per cent) 
+IDF 24-hour 
+1:100 
+Short duration rainfall 
+intensity for a 24-hour 1-in-
+100-year event 
++15 per cent 
+(+10 to 24  
+per cent) 
++25 per cent 
+(+16 to 39  
+per cent) 
++53 per cent 
+(+38 to 78  
+per cent) 
+Maximum 5-day 
+precipitation 
+Maximum amount of 
+precipitation within a year 
+received during five 
+consecutive days 
++9 per cent 
+(+8 to 12 per 
+cent) 
++11 per cent 
+(+9 to 14  
+per cent) 
++19 per cent 
+(+13 to 20  
+per cent) 
+Gravity sewer 
+index62 
+0.5 * per cent change in IDF 
+24-hour 1-in-2-year event + 
+0.5 * per cent change in 
+maximum 5-day precipitation 
++12 per cent 
+(+9 to 18  
+per cent) 
++18 per cent 
+(+13 to 27  
+per cent) 
++36 per cent 
+(+25 to +49  
+per cent) 
+Note: Numbers are rounded. Median (50th percentile) projections of climate variables are presented, followed by ranges in 
+parentheses. Ranges show the 10th and 90th percentile projections.  
+Source: Canadian Centre for Climate Services. 
+ 
+The full suite of climate data used in the CIPI project is available on the FAO’s website at https://www.fao-
+on.org/en/cipi.   
+ 
+ 
+ 
+60 See CIPI: WSP Engineering Report, 2021. 
+61 For IDF variables, the per cent changes for each RCP scenario are identical because the same mean temperature 
+projection is used in the Clausius–Clapeyron relation to estimate the projections. See CIPI: Project Backgrounder and 
+Methodology, 2021 for more information. 
+62 The gravity sewer index captures the impact of extreme rainfall on gravity sewers from higher rainfall intensity (2-year 
+storm events) and increased infiltration (maximum 5-day precipitation). See CIPI: WSP Engineering Report, 2021, page 17. 
+ 
+39 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Appendix C : The impact of extreme rainfall on linear storm 
+and wastewater infrastructure  
+This appendix presents the impact of extreme rainfall on the key infrastructure costs for stormwater culverts, 
+stormwater ditches, stormwater pipes, wastewater force mains and wastewater sewer pipes. The appendix 
+presents the total impact of extreme rainfall on operations and maintenance (O&M) spending and useful service 
+life (where applicable) in the absence of adaptation, as well as the costs of adapting this infrastructure to prevent 
+these climate-related impacts.  
+ 
+To establish relationships between relevant climate indicators and key infrastructure costs, the FAO worked with 
+WSP, a large engineering firm with expertise in all aspects of public sector infrastructure, including asset 
+management, public infrastructure construction and operations, and climate change impacts.  
+ 
+At the start of the CIPI project, the FAO and WSP established which climate hazards within the project’s scope 
+(extreme heat, extreme rainfall and freeze-thaw cycles) could have the most significant impact on each asset 
+type. As each hazard would interact with each asset type in a different way, it was agreed that WSP would focus 
+attention on the “interactions” that could present the greatest financial impact to asset managers.  
+ 
+WSP then estimated relationships between changing extreme rainfall variables and infrastructure costs by 
+surveying the relevant engineering experts. To account for engineering uncertainty, WSP aggregated its responses 
+and provided optimistic, pessimistic and most-likely cost relationships.63 This forms the basis on which the FAO 
+estimated the additional costs of climate hazards to linear storm and wastewater infrastructure in Ontario.64  
+ 
+While regional climate projections were used to develop the FAO’s infrastructure cost estimates, for simplicity 
+this appendix presents Ontario-average infrastructure cost results by asset type. The results reflect a weighted 
+average climate projection based on the proportion of assets (by CRV) located in each region.65 The figures 
+below provide three estimates for each infrastructure cost impact in the medium and high emissions scenarios: 
+• 
+The solid lines represent the most likely infrastructure cost impact for the 50th percentile climate 
+projection.  
+• 
+The upper limit of the uncertainty bands represents the pessimistic infrastructure cost impact for the 90th 
+percentile climate projection. 
+• 
+The lower limit of the uncertainty bands represents the optimistic infrastructure cost impacts of the 10th 
+percentile climate projection. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+63 Some of these cost relationships were subsequently revised to align with the professional judgement of external reviewers.  
+64 See CIPI: Project Backgrounder and Methodology, 2021 for more information. 
+65 Most of Ontario’s public infrastructure is located in the southern regions. The weighted-average results presented in 
+Appendix C largely reflect the climate projections for those regions.  
+ 
+40 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure C-1: Stormwater culverts – Impact of extreme rainfall 
+In Absence of Adaptation 
+ 
+Useful Service Life 
+ 
+• 
+ No meaningful impact on asset’s USL. 
+Operations & Maintenance 
+ 
+  
+• 
+O&M spending as a share of CRV of stormwater 
+culverts is projected to rise due to increases in 
+extreme rainfall. 
+• 
+In the medium emissions scenario, O&M spending is 
+projected to increase by 1.0 percentage point of CRV 
+by the end of the century. In the high emissions 
+scenario, O&M spending is projected to increase by 2.5 
+percentage points of CRV by the end of the century. 
+• 
+For a culvert with a CRV of $1 million,* the annual 
+O&M spending in a “stable climate” is estimated to 
+be $10,000 (1 per cent of CRV) per year. However, 
+by 2100, the annual O&M spending is projected to be 
+approximately $20,000 in the medium emissions 
+scenario and $35,000 in the high emissions scenario 
+(in real 2020 dollars).  
+Adaptation Costs** 
+ 
+  
+ 
+• 
+The cost of adapting an average stormwater culvert 
+to withstand extreme rainfall increases will vary with 
+the extent of these increases.  
+• 
+In the medium emissions scenario, the cost of adapting 
+is projected to be 35 per cent of CRV by 2100. In the 
+high emissions scenario, the cost of adapting is 
+projected to be 85 per cent of CRV by 2100. 
+• 
+If a culvert has an original CRV of $1 million, adapting 
+this asset to the projected climate condition in 2100 
+will cost approximately $350,000 in the medium 
+emissions scenario and $850,000 in the high 
+emissions scenario (in real 2020 dollars) in addition 
+to the original $1M replacement cost.  
+* The CRVs presented in the examples are not meant to represent actual unit costs of these assets. 
+** The unit cost of adapting storm and wastewater assets is the same in both the proactive and reactive adaptation strategies. 
+Source: FAO.  
+ 
+ 
+ 
+1.0
+2.5
+0
+1
+2
+3
+4
+5
+6
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in O&M from projected changes 
+in extreme rainfall (per cent)
+Medium emissions scenario
+High emissions scenario
+35
+85
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2020s
+2040s
+2060s
+2080s
+2100s
+Adaptation cost as a share of CRV 
+(per cent)
+ 
+41 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure C-2: Stormwater ditches – Impact of extreme rainfall 
+In Absence of Adaptation 
+ 
+Useful Service Life 
+ 
+• 
+ No meaningful impact on asset’s USL. 
+Operations & Maintenance 
+  
+• 
+Increases in extreme rainfall are projected to raise 
+O&M spending (as a share of CRV) of stormwater 
+ditches in Ontario in both emissions scenarios.  
+• 
+In the medium emissions scenario, O&M spending is 
+projected to increase by 1.0 percentage point of CRV 
+by the end of the century. In the high emissions 
+scenario, O&M spending is projected to increase by 2.5 
+percentage points of CRV by the end of the century. 
+• 
+For a length of ditch with a CRV of $1 million,* the 
+annual O&M spending in “stable climate” is estimated 
+to be $10,000 (1 per cent of CRV) per year. However, 
+by 2100, the annual O&M spending is projected to be 
+approximately $20,000 in the medium emissions 
+scenario and $35,000 in the high emissions scenario (in 
+real 2020 dollars). 
+Adaptation Costs** 
+ 
+  
+ 
+• 
+The cost of adapting the average stormwater ditch to 
+withstand extreme rainfall increases will vary with the 
+extent of these increases.  
+• 
+In the medium emissions scenario, the cost of adapting 
+is projected to be 31 per cent of CRV by 2100. In the 
+high emissions scenario, the cost of adapting is 
+projected to be 74 per cent of CRV by 2100. 
+• 
+If a length of ditch has a CRV of $1 million, adapting 
+this asset to the projected climate condition in 2100 will 
+cost approximately $310,000 in the medium emissions 
+scenario and $740,000 in the high emissions scenario 
+(in real 2020 dollars) in addition to the original $1M 
+replacement cost. 
+* The CRVs presented in the examples are not meant to represent actual unit costs of these assets. 
+** The unit cost of adapting storm and wastewater assets is the same in both the proactive and reactive adaptation strategies. 
+Source: FAO.  
+ 
+ 
+1.0
+2.5
+0
+1
+2
+3
+4
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in O&M from projected changes 
+in extreme rainfall (per cent)
+Medium emissions scenario
+High emissions scenario
+31
+74
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2020s
+2040s
+2060s
+2080s
+2100s
+Adaptation cost as a share of CRV 
+(per cent)
+ 
+42 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure C-3: Stormwater pipes – Impact of extreme rainfall 
+In Absence of Adaptation 
+ 
+Useful Service Life 
+ 
+• 
+ No meaningful impact on asset’s USL. 
+Operations & Maintenance 
+  
+• 
+Trends in extreme rainfall are projected to increase 
+O&M spending (as a share of CRV) of stormwater pipes 
+in Ontario in both emissions scenarios.  
+• 
+In the medium emissions scenario, O&M spending is 
+projected to increase by 2.1 percentage points of CRV 
+by the end of the century. In the high emissions 
+scenario, O&M spending is projected to increase by 5.1 
+percentage points of CRV by the end of the century. 
+• 
+For a length of pipe with a CRV of $1 million,* the 
+annual O&M spending in a “stable climate” is estimated 
+to be $10,000 (1 per cent of CRV) per year. However, 
+by 2100, the annual O&M spending is projected to be 
+approximately $31,000 in the medium emissions 
+scenario and $61,000 in the high emissions scenario (in 
+real 2020 dollars). 
+Adaptation Costs** 
+ 
+  
+ 
+• 
+The cost of adapting the average stormwater pipe to 
+withstand future trends in extreme rainfall will vary with 
+the extent of these increases.  
+• 
+In the medium emissions scenario, the cost of adapting 
+the average stormwater pipe is projected to be 31 per 
+cent of CRV by 2100. In the high emissions scenario, 
+the cost of adapting the average stormwater pipe is 
+projected to be 75 per cent of CRV by 2100. 
+• 
+If a length of pipe has a CRV of $1 million, adapting the 
+asset to the projected climate condition in 2100 will 
+cost approximately $310,000 in the medium emissions 
+scenario and $750,000 in the high emissions scenario 
+(in real 2020 dollars) in addition to the original $1M 
+replacement cost. 
+* The CRVs presented in the examples are not meant to represent actual unit costs of these assets. 
+** The unit cost of adapting storm and wastewater assets is the same in both the proactive and reactive adaptation strategies. 
+Source: FAO.  
+ 
+ 
+ 
+ 
+2.1
+5.1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in O&M from projected changes 
+in extreme rainfall (per cent)
+Medium emissions scenario
+High emissions scenario
+31
+75
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2020s
+2040s
+2060s
+2080s
+2100s
+Adaptation cost as a share of CRV 
+(per cent)
+ 
+43 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure C-4: Wastewater sanitary force mains – Impact of extreme rainfall 
+In Absence of Adaptation 
+ 
+Useful Service Life 
+ 
+• 
+Trends in extreme rainfall are projected to reduce the 
+USL of sanitary force mains in Ontario in both 
+emissions scenarios. 
+• 
+In the medium emissions scenario, the USL is projected to 
+decline by 6 per cent by the end of the century. In the 
+high emissions scenario, the USL is projected to decline 
+by 14 per cent by the end of the century. 
+• 
+For a sanitary force main with a USL of 128 years, the 
+USL by 2100 will be reduced to 121 years in the 
+medium emissions scenario and to 110 years in the 
+high emissions scenario. 
+Operations & Maintenance 
+ 
+ 
+• 
+Increases in extreme rainfall are projected to raise O&M 
+spending (as a share of CRV) in both emissions scenarios.  
+• 
+In the medium emissions scenario, O&M spending is 
+projected to increase by 1.0 percentage point of CRV 
+by the end of the century. In the high emissions 
+scenario, O&M spending is projected to increase by 2.5 
+percentage points by the end of the century. 
+• 
+For a sanitary force main with a CRV of $1 million,* the 
+annual O&M spending in a “stable climate” is estimated 
+to be $10,000 (1 per cent of CRV). However, by 2100, 
+annual O&M spending is projected to be approximately 
+$20,000 in the medium emissions scenario and $35,000 
+in the high emissions scenario (in real 2020 dollars). 
+Adaptation Costs** 
+ 
+  
+ 
+• 
+The cost of adapting the average sanitary force main to 
+withstand the increases in extreme rainfall will vary with 
+the extent of these increases.  
+• 
+In the medium emissions scenario, the cost of adapting 
+an average sanitary force main is projected to be 27 
+per cent of CRV by 2100. In the high emissions 
+scenario, the cost of adapting an average asset is 
+projected to be 65 per cent of CRV by 2100. 
+• 
+For a sanitary force main with a CRV of $1 million, 
+adapting the asset to the projected climate condition in 
+2100 will cost approximately $270,000 in the medium 
+emissions scenario and $650,000 in the high emissions 
+scenario (in real 2020 dollars) in addition to the original 
+$1M replacement cost. 
+* The CRVs presented in the examples are not meant to represent actual unit costs of these assets. 
+** The unit cost of adapting storm and wastewater assets is the same in both the proactive and reactive adaptation strategies. 
+Source: FAO.  
+ 
+-6
+-14
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in USL from projected 
+changes in extreme rainfall
+(per cent)
+1.0
+2.5
+0
+1
+2
+3
+4
+5
+6
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in O&M from projected 
+changes in extreme rainfall
+(per cent)
+Medium emissions scenario
+High emissions scenario
+27
+65
+0
+20
+40
+60
+80
+100
+120
+140
+2020s 2040s 2060s 2080s 2100s
+Adaptation cost as a share of CRV (per 
+cent)
+ 
+44 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Figure C-5: Wastewater sewer pipes – Impact of extreme rainfall 
+In Absence of Adaptation 
+ 
+Useful Service Life 
+ 
+• 
+ No meaningful impact on asset’s USL. 
+Operations & Maintenance 
+  
+• 
+Increases in extreme rainfall are projected to raise 
+O&M spending (as a share of CRV) of wastewater 
+sewer pipes in Ontario in both emissions scenarios.  
+• 
+In the medium emissions scenario, O&M spending is 
+projected to increase by 0.6 percentage point of CRV 
+by the end of the century. In the high emissions 
+scenario, O&M spending is projected to increase by 1.6 
+percentage points by the end of the century. 
+• 
+For a sewer pipe with a CRV of $1 million,* the annual 
+O&M spending in a “stable climate” is estimated to be 
+$10,000 (1 per cent of CRV) per year. However, by 
+2100, annual O&M spending is projected to be 
+approximately $15,000 in the medium emissions 
+scenario and $25,000 in the high emissions scenario (in 
+real 2020 dollars). 
+Adaptation Costs** 
+ 
+  
+ 
+• 
+The cost of adapting the average wastewater sewer 
+pipe to withstand the increases in extreme rainfall will 
+vary with the extent of these increases.  
+• 
+In the medium emissions scenario, the cost of adapting 
+an average sewer pipe is projected to be 18 per cent of 
+CRV by 2100. In the high emissions scenario, the cost 
+of adapting an average asset is projected to be 49 per 
+cent of CRV by 2100. 
+• 
+For a length of sewer pipe with a CRV of $1 million, 
+adapting the asset to the projected climate condition in 
+2100s will cost approximately $180,000 in the medium 
+emissions scenario and $490,000 in the high emissions 
+scenario (in real 2020 dollars) in addition to the original 
+$1M replacement cost. 
+* The CRVs presented in the examples are not meant to represent actual unit costs of these assets. 
+** The unit cost of adapting storm and wastewater assets is the same in both the proactive and reactive adaptation strategies. 
+Source: FAO.  
+ 
+ 
+ 
+0.6
+1.6
+0
+1
+2
+3
+4
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in O&M from projected changes in 
+extreme rainfall (per cent)
+Medium emissions scenario
+High emissions scenario
+18
+49
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2020s
+2040s
+2060s
+2080s
+2100s
+Adaptation cost as a share of CRV 
+(per cent)
+ 
+45 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Appendix D : Comparing the present value costs of different 
+asset management strategies 
+Each asset management strategy has a different cost profile over time (see Chapter 6). The proactive adaptation 
+strategy sees higher costs earlier in the century, while the no adaptation and reactive adaptation strategies see 
+costs rise significantly in the latter part of the century. When evaluating alternative long-term financial decisions 
+where the timing of costs varies, a standard approach is to discount real costs into present value dollars using a 
+real discount rate. When discounted, costs incurred further in the future carry less weight relative to costs 
+incurred sooner.  
+ 
+This appendix presents how the choice of discount rates impacts the present value of the costs of the three asset 
+management strategies presented in the report. The discounted costs only highlight the implications of choosing 
+different discount rates and should not be interpreted as a comprehensive cost-benefit analysis.  
+ 
+Evaluating the financial implications of asset-specific adaptation decisions should consider a wider range of 
+societal costs and asset-specific factors that were beyond the scope of this analysis. The discounted results 
+presented below should be viewed in consideration of the following limitations: 
+• 
+The adaptation costs include the costs needed to upgrade the capacity of storm and wastewater 
+infrastructure to mitigate the risks of flooding damage. However, the costs of flooding damage to 
+households, businesses and government as well as the broader costs of impaired level of service were 
+excluded from the analysis.  
+• 
+The comparison only includes the impacts of extreme rainfall and excludes other hazards (such as 
+permafrost degradation).  
+• 
+The results reflect the median projections for the medium and high emissions projections, but exclude 
+the other possible outcomes as estimated by the climate and engineering uncertainties presented 
+throughout the report. 
+• 
+While this appendix presents a range of discount rates, the appropriate discount rate for evaluating long-
+term financial decisions about climate change is subject to significant debate.66 In a paper surveying over 
+200 experts, recommended discount rates ranged from zero to 10 per cent, with a median value of 2.3 
+per cent. Despite the wide range of recommended rates, over 90 per cent of respondents indicated they 
+were comfortable with a rate between one and three per cent.67  
+Figure D-1 shows how the choice of a discount rate impacts the present value of the total cost estimates for the 
+median climate projections.  
+ 
+66 For more discussion on discounting, see Costs and Benefits of Climate Change Impacts and Adaptation: National Issues 
+Report. 
+67 For more information, see Discounting Disentangled. 
+ 
+46 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure D-1 
+The present value cost of each asset management strategy under different discount rates  
+ 
+Note: The costs presented use the median (50th percentile) climate projections and “most likely” engineering costs. 
+Source: FAO. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0.0% 1.0% 2.0% 3.0% 4.0% 5.0% 6.0% 7.0%
+Additional cumulative cost to maintain public 
+linear storm and wastewater infrastructure in a 
+state of good repair, 2022-2100
+($2020, billions present value)
+Discount rate
+Medium emissions scenario
+No Adaptation
+Reactive Adaptation
+Proactive Adaptation
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0.0% 1.0% 2.0% 3.0% 4.0% 5.0% 6.0% 7.0%
+Discount rate
+High emissions scenario
+ 
+47 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Appendix E : Costing results in the low emissions scenario 
+While the report focused on the medium and high emissions scenarios, Appendix E presents the costing results 
+of the three adaptation strategies for all emissions scenarios. The additional climate-related costs in each 
+emissions scenario are presented as cumulative summations over the century. 
+ 
+In the low emissions scenario, a major and immediate turnaround in global climate policies is assumed. 
+Emissions are projected to peak in the early 2020s and decline to zero by the 2080s, limiting the rise in global 
+mean temperatures to 1.6°C (0.8 to 2.4°C) by 2100 compared to the pre-industrial average.68 Even in the low 
+emissions scenario, changes in extreme rainfall will still have material financial impacts, and would raise the costs 
+of maintaining Ontario’s public storm and wastewater infrastructure assets by $61 billion (26 per cent above 
+baseline) to 2100 in the absence of adaptation (median projection). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+68 See Annex II: Climate System Scenario Tables, Table “All.7.5.” Ranges for the global mean surface temperature represent 
+the 5th percentile to the 95th percentile projections of models used. 
+Figure E-1 
+More extreme rainfall will raise the cost of maintaining the current portfolio of public 
+stormwater and wastewater infrastructure by $61 billion in the low emissions scenario in the 
+absence of adaptation  
+ 
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO.  
++$61 billion
+(+26%)
++$88 billion
+(+37%)
++$145 billion
+(+61%)
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain public 
+stormwater and wastewater infrastructure
+in a state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+ 
+48 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+  
+ 
+ 
+Figure E-2 
+A reactive adaptation strategy, where assets are adapted when renewed at the end of their 
+service life to withstand the impacts of more extreme rainfall, will add $62 billion in 
+infrastructure costs over the century in the low emissions scenario 
+ 
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO. 
++$62 billion
+(+26%)
++$89 billion
+(+37%)
++$148 billion
+(+62%)
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain 
+public stormwater and wastewater 
+infrastructure in a state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+Figure E-3 
+A proactive adaptation strategy, where assets are adapted at the earliest opportunity to 
+withstand the impacts of more extreme rainfall, will add $47 billion in infrastructure costs 
+over the century in the low emissions scenario 
+ 
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO.  
++$47 billion
+(+20%)
++$71 billion
+(+29%)
++$127 billion
+(+53%)
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain 
+public stormwater and wastewater 
+infrastructure in a state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+49 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+Costing Climate Change Impacts to Water Infrastructure 
+Appendix F : Breakdown of cumulative costs under different 
+adaptation strategy by asset categories   
+Table F-1: Stormwater 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$97 
+ 
+$21 
+$23 
+$26 
+(22%) 
+(24%) 
+(27%) 
+Median 
+$57 
+$51 
+$46 
+(59%) 
+(53%) 
+(47%) 
+High 
+$103 
+$92 
+$77 
+(107%) 
+(95%) 
+(80%) 
+High 
+Low 
+$38 
+$43 
+$47 
+(40%) 
+(44%) 
+(49%) 
+Median 
+$95 
+$84 
+$77 
+(98%) 
+(86%) 
+(80%) 
+High 
+$160 
+$140 
+$126 
+(165%) 
+(145%) 
+(130%) 
+Table F-2: Wastewater 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$143 
+ 
+$23 
+$26 
+$15 
+(16%) 
+(18%) 
+(10%) 
+Median 
+$31 
+$38 
+$25 
+(22%) 
+(27%) 
+(17%) 
+High 
+$63 
+$72 
+$50 
+(44%) 
+(51%) 
+(35%) 
+High 
+Low 
+$39 
+$46 
+$31 
+(27%) 
+(32%) 
+(22%) 
+Median 
+$50 
+$64 
+$50 
+(35%) 
+(45%) 
+(35%) 
+High 
+$98 
+$115 
+$91 
+(68%) 
+(81%) 
+(64%) 
+Source: FAO. 
+ 
+50 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 | References 
+8 | References 
+ 
+ 
+51 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Asset Management BC. (n.d.). Climate Change and Asset Management: A Sustainable Service Delivery Primer. 
+Retrieved from https://www.assetmanagementbc.ca/wp-content/uploads/The-BC-Framework_Primer-on-
+Climate-Change-and-Asset-Management.pdf  
+Boyd , R., & Markandya, A. (2021). Cost and Benefits of Climate Change Impacts and Adaptation: National Issues 
+Report. Government of Canada, Ottawa. Retrieved from 
+https://www.nrcan.gc.ca/sites/nrcan/files/GNBC/Chapter%206_Costs%20and%20Benefits%20of%20Clim
+ate%20Change%20Impacts%20and%20Adaptation_Final_EN.pdf  
+Canadian Infrastructure. (2019). Wastewater Collection and Treatment – The Canadian Infrastructure Report 
+Card. Retrieved from http://canadianinfrastructure.ca/en/waste-water.html  
+Canadian Infrastructure. (2019). Stormwater Management – The Canadian Infrastructure Report Card. Retrieved 
+from http://canadianinfrastructure.ca/en/storm-water.html  
+Canadian Institute for Climate Choices. (2022). Under Water: The Costs of Climate Change for Canada’s 
+Infrastructure. Retrieved from https://climatechoices.ca/wp-content/uploads/2021/09/Infrastructure-
+English-FINAL-jan17-2022.pdf  
+Cannon, A. J., Jeong, D. I., Zhang, X., & Zwiers, F. W. (2020). Climate-Resilient Buildings and Core Public 
+Infrastructure: An Assessment of the Impact of Climate Change on Climatic Design Data in Canada. 
+Government of Canada, Environment and Climate Change Canada, Gatineau. Retrieved from 
+https://publications.gc.ca/collections/collection_2021/eccc/En4-415-2020-eng.pdf  
+City of London. (2019). Corporate Asset Management Plan. London. Retrieved from 
+https://london.ca/sites/default/files/2020-10/AMP%20-%20Interactive%20Format-
+%20all%20sections_2019-08-27_AODAv4.2%20%281%29.pdf  
+City of Toronto. (2009). Design Criteria for Sewers and Watermains. Toronto. Retrieved from 
+https://www.toronto.ca/wp-content/uploads/2017/11/9753-ecs-specs-dcm-
+Toronto_Sewer_and_Watermain_Manual_March2014.pdf  
+City of Toronto. (2014). Staff Report: Impacts from the December 2013 Extreme Winter Strom Event on the City 
+of Toronto. Retrieved from https://www.toronto.ca/legdocs/mmis/2013/ex/bgrd/backgroundfile-61502.pdf  
+City of Toronto. (2021). Design Criteria for Sewers and Watermains. Toronto. Retrieved from 
+https://www.toronto.ca/wp-content/uploads/2021/01/8d16-ecs-specs-dcm-design-criteria-sewers-
+watermains-Jan2021.pdf  
+City of Toronto. (n.d.). Ditches. Retrieved from https://www.toronto.ca/services-payments/streets-parking-
+transportation/road-
+maintenance/ditches/#:~:text=Ditches%20are%20linear%2C%20sodded%20excavations,corridors%2C%
+20residential%20and%20industrial%20areas  
+City of Toronto. (n.d.). The Sewers on the Street. Retrieved from https://www.toronto.ca/services-
+payments/water-environment/managing-rain-melted-snow/what-is-stormwater-where-does-it-go/the-
+sewers-on-the-street/  
+City of Windsor. (2020). Degrees of Change: Climate Change Adaptation Plan. Retrieved from 
+https://icleicanada.org/wp-content/uploads/2020/03/S-20_2020-Climate-Change-Adaptation-Plan-FINAL-
+Feb-19-2020.pdf  
+Drupp, M. A., Freeman, M. C., Groom, B., & Nesje, F. (2015). Discounting Disentangled. University of Leeds and 
+London School of Economics and Political Science, Centre for Climate Change Economics and Policy 
+and the Grantham Research Institute on Climate Change and Environment. Retrieved from 
+https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf  
+Engineers Canada. (2018). Developing a Stormwater Quality Management Standard (QMS) in Light of Climate 
+Change. Toronto. Retrieved from https://www.scc.ca/en/system/files/publications/SCC_RPT_SW-
+QMS_EN.pdf  
+ 
+52 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+Federation of Canadian Municipalities. (2020). Investing in Canada’s Future: The Cost of Climate Adaptation at 
+the Local Level. Retrieved from http://assets.ibc.ca/Documents/Disaster/The-Cost-of-Climate-Adaptation-
+Report-EN.pdf  
+Financial Accountability Office of Ontario. (2020). Provincial Infrastructure. Retrieved from https://fao-
+on.org/en/Blog/Publications/provincial-infrastructure-2020  
+Financial Accountability Office of Ontario. (2021). Costing Climate Change Impacts to Public Infrastructure: 
+Project Backgrounder and Methodology. Toronto. Retrieved from https://fao-
+on.org/en/Blog/Publications/cipi-backgrounder  
+Financial Accountability Office of Ontario. (2021). Municipal Infrastructure. Toronto. Retrieved from https://fao-
+on.org/en/Blog/Publications/municipal-infrastructure-2021  
+Financial Accountability Office of Ontario. (2021). Costing Climate Change Impacts to Public Infrastructure: 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycle on public 
+buildings in Ontario. Toronto. Retrieved from https://fao-on.org/en/Blog/Publications/cipi-buildings  
+Financial Information Return. (n.d.). Provincial Summary. Retrieved October 28, 2022, from 
+https://efis.fma.csc.gov.on.ca/fir/index.php/en/open-data/provincial-summary/  
+Gaur, A., Gaur, A., Yamazaki, D., & Simonovic, S. P. (2019). Flooding related consequences of climate change on 
+Canadian cities and flow regulation infrastructure. Water, 11(1), 63. Retrieved from 
+https://www.mdpi.com/2073-4441/11/1/63/htm  
+Globe Staff. (2021). Are B.C.’s flood defences holding? What you need to know about forecasts, road closings 
+and more. The Globe and Mail. Retrieved from https://www.theglobeandmail.com/canada/british-
+columbia/article-bc-fears-new-floods-as-storms-return-heres-what-you-need-to-know-about/#transport  
+Government of Canada. (2021, February 1). Climate Change and Public Health Factsheets. Retrieved from 
+https://www.canada.ca/en/public-health/services/health-promotion/environmental-public-health-climate-
+change/climate-change-public-health-factsheets-floods.html  
+Green Analytics Corp. and Ontario Centre for Climate Impacts and Adaptation Resources. (2015). The Economic 
+Impacts of the Weather Effects of Climate Change on Communities. Retrieved from 
+http://assets.ibc.ca/Documents/Studies/IBC-The-Economic-Impacts.pdf  
+Hamilton. (2022). Waterworks Asset Management Plan. Hamilton. Retrieved from 
+https://www.hamilton.ca/sites/default/files/2022-09/waterworks-asset-management-plan.pdf  
+Infrastructure Canada. (2019). Climate Lens. Government of Canada. Retrieved from 
+https://www.infrastructure.gc.ca/pub/other-autre/cl-occ-eng.html#3  
+Insurance Bureau of Canada. (2018, September 7). Toronto Flood Causes Over $80 Million in Insured Damage. 
+Toronto. Retrieved from http://www.ibc.ca/on/resources/media-centre/media-releases/toronto-flood-
+causes-over-80-million-in-insured-damage  
+Intergovernmental Panel on Climate Change. (2013). Annex II: Climate System Scenario Tables. In Climate 
+Change 2013: The Physical Science Basis. Retrieved from 
+https://www.ipcc.ch/site/assets/uploads/2017/09/WG1AR5_AnnexII_FINAL.pdf  
+Intergovernmental Panel on Climate Change. (2014). Climate Change 2014: Synthesis Report. Geneva. 
+Retrieved from https://ar5-syr.ipcc.ch/ipcc/ipcc/resources/pdf/IPCC_SynthesisReport.pdf  
+Intergovernmental Panel on Climate Change. (2021). Summary for Policymakers. In Climate Change 2021: The 
+Physical Science Basis. Retrieved from 
+https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf  
+Intergovernmental Panel on Climate Change. (2014). Chapter 17: Economics of Adaptation. In Climate Change 
+2014: Impacts, Adaptation, and Vulnerability. Retrieved from 
+https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap17_FINAL.pdf  
+ 
+53 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+International Institute of Sustainable Development. (2021). Advancing the Climate Resilience of Canadian 
+Infrastructure: A review of literature to inform the way forward. Retrieved from 
+https://www.iisd.org/system/files/2021-07/climate-resilience-canadian-infrastructure-en.pdf  
+Lu, D., Tighe, S. L., & Xie, W. C. (2018). Impact of flood hazards on pavement performance. International Journal 
+of Pavement Engineering. Retrieved from 
+https://www.researchgate.net/profile/Donghui_Lu/publication/327144278_Impact_of_flood_hazards_on_p
+avement_performance/links/5b9fb74592851ca9ed11a06c/Impact-of-flood-hazards-on-pavement-
+performance.pdf  
+Nicholson, M. (2021). Hundreds of thousands of farm animals die in B.C. floods: The agricultural region of Sumas 
+Prairie, near Vancouver, is one of the hardest hit flood zones. Financial Post. Retrieved from 
+https://financialpost.com/commodities/agriculture/farm-animals-died-by-the-hundreds-of-thousands-in-
+canada-floods  
+Office of the Parliamentary Budget Officer. (2016). Estimate of the Average Annual Cost for Disaster Financial 
+Assistance Arrangements due to Weather Events. Ottawa. Retrieved from https://qsarchive-
+archiveqs.pbo-dpb.ca/web/default/files/Documents/Reports/2016/DFAA/DFAA_EN.pdf  
+Organization for Economic Cooperation and Development (OECD). (2018). Climate-resilient Infrastructure. 
+Retrieved from https://www.oecd.org/environment/cc/policy-perspectives-climate-resilient-
+infrastructure.pdf  
+Pacific Climate Impacts Consortium. (2021). PCIC Science Brief: Should the RCP 8.5 emissions scenario 
+represent “business as usual?”. Victoria. Retrieved from 
+https://www.pacificclimate.org/sites/default/files/publications/Science_Brief_39-June_2021-final.pdf  
+Region of Peel. (2022). Enterprise Asset Management Plan. Retrieved from 
+https://www.peelregion.ca/finance/_media/2021-enterprise-asset-management-plan.pdf  
+Region of Peel. (n.d.). Sewer Systems. Retrieved from https://www.peelregion.ca/water/your-home/sewer-systems.asp  
+Township of Muskoka Lakes. (2019). Drainage Maintenance. Retrieved from 
+https://www.muskokalakes.ca/en/residents/drainage-maintenance.aspx#Bridges-Culverts  
+United Nations Environment Program (UNEP). (2021). Buildings and Climate Change Adaptation: A Call to 
+Action. Retrieved from https://globalabc.org/resources/publications/buildings-and-climate-change-
+adaptation-call-action  
+United Nations Framework Convention on Climate Change. (2011). Assessing the Costs and Benefits of 
+Adaptation Options. Retrieved from 
+https://unfccc.int/resource/docs/publications/pub_nwp_costs_benefits_adaptation.pdf  
+Warren, F. J., & Lemmen, D. S. (2014). Canada in a Changing Climate: Sector Perspectives on Impacts and 
+Adaptation. Government of Canada, Natural Resources Canada, Ottawa. Retrieved from 
+https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/assess/2014/pdf/Full-Report_Eng.pdf  
+Warren, F., & Lulham, N. (2021). Canada in a Changing Climate: National Issues. Government of Canada, Ottawa. 
+Retrieved from https://www.nrcan.gc.ca/sites/nrcan/files/pdf/National_Issues_Report_Final_EN.pdf  
+WSP. (2021). Costing climate change impacts and adaptation for provincial and municipal public infrastructure in 
+Ontario, Deliverable #10 – Final Report. Toronto. Retrieved from https://fao-on.org/web/default/files/publications/CIPI-
+wsp/cipi-wsp-report.pdf    
+ 
+ 
+54 
+ 
+Assessing the financial impacts of extreme rainfall on public linear storm and wastewater infrastructure in Ontario 
+ 
+Costing Climate Change Impacts to Water Infrastructure 
+ 
+ 
+ 
+fao-on.org 

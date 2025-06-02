@@ -1,0 +1,1085 @@
+International  Journal  of
+Environmental Research
+and Public Health
+Review
+A Review of Studies Involving the Effects of Climate Change
+on the Energy Consumption for Building Heating and Cooling
+Yuanzheng Li 1,2
+, Wenjing Wang 3, Yating Wang 4, Yashu Xin 1, Tian He 5 and Guosong Zhao 6,7,*
+
+
+Citation: Li, Y.; Wang, W.; Wang, Y.;
+Xin, Y.; He, T.; Zhao, G. A Review
+of Studies Involving the Effects of
+Climate Change on the Energy
+Consumption forBuildingHeatingand
+Cooling. Int. J. Environ. Res. Public
+Health 2021, 18, 40. https://dx.doi.org/
+10.3390/ijerph18010040
+Received: 29 October 2020
+Accepted: 18 December 2020
+Published: 23 December 2020
+Publisher’s Note: MDPI stays neu-
+tral with regard to jurisdictional claims
+in published maps and institutional
+afﬁliations.
+Copyright: © 2020 by the authors. Li-
+censee MDPI, Basel, Switzerland. This
+article is an open access article distributed
+under the terms and conditions of the
+Creative Commons Attribution (CC BY)
+license (https://creativecommons.org/
+licenses/by/4.0/).
+1
+School of Resources and Environment, Henan University of Economics and Law, Zhengzhou 450046, China;
+yz_li@huel.edu.cn (Y.L.); xin_yashu@sina.com (Y.X.)
+2
+Academician Laboratory for Urban and Rural Spatial Data Mining of Henan Province,
+Zhengzhou 450046, China
+3
+State Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences,
+Chinese Academy of Sciences, Beijing 100085, China; wjwang_st@rcees.ac.cn
+4
+Chengdu Academy of Environmental Sciences, Chengdu 610072, China; wangyt@cdaes.org.cn
+5
+School of Water Conservancy and Environment, Zhengzhou University, Zhengzhou 450001, China;
+het.12b@igsnrr.ac.cn
+6
+School of Geography and Information Engineering, China University of Geosciences, Wuhan 430074, China
+7
+Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences,
+Beijing 100101, China
+*
+Correspondence: zhaoguosong@cug.edu.cn
+Abstract: The world is faced with signiﬁcant climate change, rapid urbanization, massive energy
+consumption, and tremendous pressure to reduce greenhouse gases. Building heating and cooling
+is one primary source of energy consumption and anthropogenic carbon dioxide emissions. First,
+this review presents previous studies that estimate the speciﬁc amount of climate change impact
+on building heating and cooling energy consumption, using the statistical method, physical model
+method, comprehensive assessment model method, and the combination method of statistical and
+physical model methods. Then, because the heating and cooling degree days indices can simply
+and reliably indicate the effects of climate on building heating and cooling energy consumption,
+previous studies were reviewed from the aspects of heating and cooling degree days indices, re-
+gional spatial-temporal variations in degree days and related indices, inﬂuencing factors of the
+spatial distributions of degree days, and the impacts of urbanization on degree days. Finally, sev-
+eral potential key issues or research directions were presented according to the research gaps or ﬁelds
+that need to be studied further in the future, such as developing methods to simply and accurately
+estimate the speciﬁed amounts of climate change impact on building cooling and heating energy
+consumption; using more effective methods to analyze the daytime, nighttime, and all-day spatial-
+temporal changes in different seasons in the past and future under various environment contexts by
+considering not only the air temperature but also the relative humidity, solar radiation, population,
+etc., and further exploring the corresponding more kinds of driving forces, including the various
+remotely sensed indices, albedo, nighttime light intensity, etc.; estimating the daytime, nighttime,
+and all-day impacts of urbanization on heating degree days (HDDs), cooling degree days (CDDs),
+and their sum (HDDs + CDDs) for vast cities in different environmental contexts at the station site,
+city, regional and global scales; producing and sharing of the related datasets; and analyzing the
+subsequent effects induced by climate change on the energy consumption for building heating and
+cooling, etc.
+Keywords: climate change; energy consumption; statistical method; physical model method; com-
+prehensive assessment model method; degree days method; urbanization effects
+1. Introduction
+Buildings are among the sectors with the highest energy consumption, accounting
+for approximately 40% of the total global energy consumption and generating more than
+Int. J. Environ. Res. Public Health 2021, 18, 40. https://dx.doi.org/10.3390/ijerph18010040
+https://www.mdpi.com/journal/ijerph
+Int. J. Environ. Res. Public Health 2021, 18, 40
+2 of 18
+30% of human-made carbon dioxide emissions [1]. A considerable part of this energy
+consumption is used in space heating and cooling. Heating, ventilation and cooling account
+for 35% of primary energy use in America, while a similar level will be reached within ﬁve
+years in China [2]. Meanwhile, near-surface temperatures have increased signiﬁcantly in
+most parts of the globe over the past 100 years, especially in recent decades [3]. During the
+62 years from 1951 to 2012, the temperature increased by 0.12 ◦C every 10 years, which was
+1.88 times the increase observed since 1880 [3]. Moreover, in recent decades, rapid and
+intensive urbanization has occurred worldwide, especially in Asia and Africa [4]. In 2018,
+55 percent of the world’s population lived in cities. By 2050, the proportion will rise to
+68% [4]. Rapid and high-intensity urbanization can lead to signiﬁcant changes in urban air
+temperatures, relative humidity, wind speeds and other climatic factors due to the increase
+in impervious urban surfaces, the decrease in vegetations and water bodies, the inﬂuxes
+of population and the increase in human activity intensities. The median decline and
+increase in global urban building heating and cooling energy consumption caused by urban
+heat islands caused by urbanization were 18.7% and 19.0%, respectively [5]. However,
+the effects varied signiﬁcantly among different cities [5]. The heating decrease rates were
+3–45%, and the cooling increase rates were 10–120% [5]. In the future, urban climate change
+will have a more signiﬁcant impact on energy consumption with the rapid progression of
+global urbanization, the increase in ownership and utilization rates of air conditioning [2,6],
+the improvements in people’s economic conditions [7], the popularity of glass facade
+buildings [8], and so on. The urban heat island effect, for example, can cause consequences
+that are not only related to the energy consumption for heating and cooling but also to
+the worsening of comfort conditions in buildings (working and educational spaces ﬁrstly)
+and to the increase of the stress principally in the most sensible part of the population
+(such as old people) in many time periods and places with hot climate [9–11]. The greater
+energy demand for cooling is caused by the increased heat stress may well present a
+growing threat to human health [11,12] and economic productivity globally [11,13].
+It is of great theoretical and practical value to analyze the inﬂuences of global, re-
+gional or urban climate change on building heating and cooling energy consumption.
+Therefore, numerous previous studies have been carried out in this research ﬁeld. How-
+ever, relevant reviews are quite scarce. Thus, this paper aimed to review the related
+previous studies in terms of the adopted methods, including the statistical method, physi-
+cal model method, comprehensive assessment model method, the combination method of
+statistical and physical model methods, and degree days method; ﬁnally, several potential
+key issues and research directions were proposed.
+2. Speciﬁc Amounts Estimation of Climate Change Inﬂuences on Building Heating
+and Cooling Energy Consumption
+Many studies have been carried out on estimating the speciﬁc amounts of inﬂuences
+of global, regional or urban climate change on building heating and cooling energy con-
+sumption in the past or future. Research methods have mainly included statistical method,
+physical model method, comprehensive assessment model method, and the combination
+of the statistical and physical model methods (Table 1).
+2.1. Statistical Method
+The statistical method aimed to establish the relationship between the meteorological
+factors and the total energy consumption of a single building [14,15], energy consumption
+that has overcome the social and economic impacts by the de-trending method [16–18],
+or the components of energy consumption caused by seasonal changes obtained through
+multiplicative decomposition [19] for a region or city (Figure 1); or build the relationship
+between the total energy consumption [20,21], energy consumption per capita [6,22], en-
+ergy consumption per household [6], or energy consumption per unit of gross domestic
+product (GDP) [23] of a city or region, and meteorological, social or economic factors.
+These meteorological factors can be classiﬁed as air temperature driven type, non-air tem-
+perature driven type, and compound driven types. The air temperature driven factors
+Int. J. Environ. Res. Public Health 2021, 18, 40
+3 of 18
+include hourly temperature [14], daily maximum temperature [14,16], minimum tempera-
+ture [14], and mean temperature [14,18,20,23], monthly mean temperature [6], and degree
+days [14,17,24], degree-hours [25], degree-minutes [24], number of days during the heat-
+ing period [22], power function of degree days [22] calculated based on temperature, etc.
+Non-air temperature driven factors mainly include the total solar radiation [24], aver-
+age relative humidity [6,24], total precipitation [16,24], days of precipitation [6], average
+wind speed [6,24], average atmospheric pressure [24], and so on. Compound driven
+type factors have also been proposed, such as a modiﬁed air temperature index con-
+sidering the air temperature, urban heat island effect, humidity effect and cumulative
+effect [26]. Social or economic factors mainly include GDP per capita [17,22], total GDP [21],
+income per capita [22,25], urbanization rate [22], population [21], number of employ-
+ees [25], energy price [21], and so on. Methods used to establish the relationship between
+energy consumption and its inﬂuencing factors mainly include simple regression analy-
+sis [6,16,19,21,22,25], subsection regression analysis [14], econometric model [15,24], par-
+tial correlation analysis [16], bivariate correlation analysis [16], Spearman rank correlation
+analysis [27], polynomial ﬁtting method [20,28], and so on.
+Figure 1. Schematic diagram of the relationship between energy consumption and temperature for
+heating and cooling. Tbh and Tbc are the baseline temperature for heating and cooling, respectively.
+Int. J. Environ. Res. Public Health 2021, 18, 40
+4 of 18
+Table 1. Basic operations, advantages, and disadvantages of different methods used to estimate the impacts of climate change on the energy consumption of building heating and cooling.
+Method Name
+Basic Operations
+Advantages
+Disadvantages
+Representative Studies
+Statistical method
+Establish the relationship
+between energy consumption
+and its inﬂuencing factors.
+Estimate the speciﬁc amounts of
+inﬂuences of climate change on
+building heating and cooling
+energy consumption at a single
+building, city, or region scale.
+
+Difﬁcult to obtain the
+necessary actual building
+heating and cooling energy
+consumption records with
+a long historical span and
+the same spatial and
+temporal caliber for the
+corresponding driving
+factors;
+
+Difﬁcult to completely
+eliminate the interferences
+of non-climatic factors;
+
+Low spatial and temporal
+resolution.
+[6,14,22,24,26]
+Physical model method
+Use software to simulate the
+heating and cooling energy
+consumption of representative
+manual set or actual existing
+buildings under past, present,
+and future climate and building
+parameters.
+Estimate the speciﬁc amounts of
+inﬂuences of climate change on
+building heating and cooling
+energy consumption of a single
+building in high temporal
+resolution under various
+scenarios.
+
+Only suitable for a single
+building or local scale
+studies;
+
+Require very detailed
+building and
+environmental parameters;
+
+Require a large amount of
+computational time;
+
+Require a high level of
+professional knowledge.
+[29–33]
+Int. J. Environ. Res. Public Health 2021, 18, 40
+5 of 18
+Table 1. Cont.
+Method Name
+Basic Operations
+Advantages
+Disadvantages
+Representative Studies
+Comprehensive assessment
+method
+Only choose some key
+parameters to roughly simulate
+or calculate the effects of climate
+change on building heating and
+cooling energy consumption.
+Estimate the speciﬁc amounts of
+inﬂuences of climate change on
+building heating and cooling
+energy consumption at the year
+or month scale in regional or
+global scale.
+
+Difﬁcult to guarantee
+accuracy because unknown
+parameters are roughly
+and simply set to a ﬁxed
+value;
+
+Low spatial and temporal
+resolutions.
+[7,34–37]
+Combination method of the
+statistical and physical model
+methods
+Establish the relationship
+between simulated energy
+consumption by physical model
+rather than actual consumption
+and the inﬂuencing factors.
+Estimate the speciﬁc amounts of
+inﬂuences of climate change on
+building heating and cooling
+energy consumption in a single
+building without using actual
+energy consumption data.
+
+Cannot avoid the inherent
+drawbacks in the physical
+model method.
+[29,38–40]
+Degree days method
+Analyze the spatial-temporal
+evolution of degree days and
+their differences between at the
+urban and suburban or rural
+stations.
+Simple, efﬁcient and reliable to
+represent the impacts of climate
+change on the energy
+consumption of building heating
+and cooling.
+
+Cannot obtain the speciﬁc
+amounts of building
+energy consumption
+affected by climate change;
+
+Does not consider the
+effects of non-climatic
+factors in the vast majority
+of studies.
+[41–45]
+Int. J. Environ. Res. Public Health 2021, 18, 40
+6 of 18
+The statistical method has some limitations. First, this method usually requires build-
+ing heating and cooling energy consumption records with a long historical span and the
+corresponding driving factors of the same spatial and time caliber [18–20,23,37]. This con-
+dition is not easy to satisfy. First, the data itself are sometimes not always readily available.
+For example, since 2005, China’s electricity data have been stated conﬁdential data [46].
+Second, the energy consumption data for building heating and cooling are often mixed with
+these data for other uses. Third, the statistical caliber of the obtained building heating and
+cooling energy consumption data may not be consistent with the driving factors. Therefore,
+the relationship between building heating and cooling energy consumption and climate
+factors may be weakened largely by mixing together data from different backgrounds
+or time periods due to different driving mechanisms. For example, it is very difﬁcult
+to separate urban and rural energy consumption data in China [46]. Second, the energy
+consumption data of building heating and cooling are not only affected by climate, but also
+by economic, social and technological factors. On this basis, previous studies have usually
+adopted energy consumption per capita, per household or per unit GDP rather than total
+energy consumption, or used de-trending methods to eliminate the interference of other
+factors. However, it is difﬁcult to completely eliminate the interferences of non-climatic
+factors because there are too many factors and their interactions are complex, and the
+tendencies of some social, economic and climatic factors themselves. Third, the spatial
+and temporal resolutions of the research results obtained based on the statistical method
+are low [5].
+2.2. Model Method
+2.2.1. Physical Model Method
+The physical model method has commonly used software to simulate the heating
+and cooling energy consumption of buildings under past, present and future climate or
+building parameters, including TRNSYS [32,33,40], EnergyPlus [30,47–50], thermal analysis
+system [51], VisualDOE [29,39], IES-VE [52], etc. According to different simulated building
+objects, this method can be further divided into the prototype method that simulated
+some artiﬁcial set buildings, that did not exist in reality but could realistically represent
+the main building types [30–33,38,47,50], and the sample method that simulates highly
+representative buildings that existed in the real world [51]. The parameters required in
+the model to represent past and present states were derived from actual observations or
+statistics [30,31,51]. Future meteorological and building parameters were mostly derived
+from numerical model simulation and relevant planning respectively [31,51].
+In addition, previous studies used physical models to analyze the impacts of ur-
+banization on the energy consumption for building heating and cooling by comparting
+the differences in energy consumption under different urban and rural meteorological
+parameters derived from meteorological observation records, including temperature, rel-
+ative humidity, wind speed, dew point temperature, etc. [32,33,47]. Moreover, the local
+microclimate changes under different ameliorative measures can be simulated by using the
+urban microclimate simulation software, such as ENVI-Met. Then, these meteorological
+parameters were input into the energy consumption software to obtain the corresponding
+amounts of energy consumption, and the impacts of different ameliorative measures on
+energy consumption were further analyzed [52].
+This method requires very detailed building and environmental parameters, such as
+the orientation, position and size of doors and windows, lighting inside the building, num-
+ber of people, building materials, other energy consumption terminals, etc. (Table 2) [30,50].
+This method can simulate energy consumption up to the hour scale, spends on a large
+amount of computational time, requires a high level of professional knowledge, and is
+mainly suitable for a single building or local scale studies [32,33,47,49,50]. Based on the
+simulation of a typical single building, a few studies have extended the research to the
+regional scale by combining the investigation data of different types of single buildings
+and their energy consumption values [30,31].
+Int. J. Environ. Res. Public Health 2021, 18, 40
+7 of 18
+Table 2. Some appliance distributions and material properties of the buildings required in the
+physical model and sources [30].
+Variable
+Source
+Building size (sqft)
+Assessor DB 1
+Building age
+Assessor DB/RASS 2
+Number of stories
+RASS
+Number of bedrooms
+RASS
+Presence of garage
+RASS
+Cooling technology and age
+RASS
+Heating technology and age
+RASS
+Window quality
+RASS
+Framing and foundation
+Assessor handbook
+Exterior ﬁnishes
+Assessor handbook
+Interior ﬁnishes
+Assessor handbook
+Ceiling fans
+RASS
+Temperature set point
+RASS
+Water heater technology and age
+RASS
+1 DB, Database; 2 RASS, Residential Appliance Saturation Survey.
+2.2.2. Comprehensive Assessment Model Method
+In this method, some key parameters affecting the heating and cooling energy con-
+sumption of buildings were selected instead of the overly detailed building parameters
+for rough simulation [34–36] or calculation [7,37].
+Some unknown parameters were
+roughly and simply set to a ﬁxed value. This method is usually used to simulate en-
+ergy consumption at the year [7,35] or month [37] scale, and is suitable for regional [35,37]
+or global scale [7].
+2.3. Combination Method of the Statistical and Model Methods
+In this method, ﬁrstly, the building heating and cooling energy consumption sim-
+ulated by the physical model was taken as the actual energy consumption. Secondly,
+the relationship between the simulated energy consumption and climate factors was es-
+tablished. Finally, the impacts of future climate change on energy consumption were
+predicted [29,38–40]. This method can estimate speciﬁc amounts of inﬂuences of climate
+change on building heating and cooling energy consumption in a single building without
+using actual energy consumption data. Moreover, it can alleviate the problems of time-
+consuming and complex operation of the physical model method to some extent, but it still
+cannot avoid the inherent defects of the physical model method.
+3. Inﬂuences of Climate Change on the Energy Consumption of Building Heating and
+Cooling Based on the Degree Days Method
+Building heating and cooling energy consumption is generally assumed to be pro-
+portional to the differences between indoor and outdoor temperatures. Based on this
+assumption, the degree days indices, which are closely related to temperature, have be-
+come a widely recognized and adopted simple, efﬁcient and reliable indicator to represent
+the impacts of climate change on the energy consumption of building heating and cool-
+ing [43–45,53].
+3.1. Indices Related with Degree Days
+From the indicated content aspects, the existing indices of degree days can be mainly
+divided into three categories: heating degree days (HDDs), cooling degree days (CDDs),
+and their sum (HDDs + CDDs). HDDs and CDDs refer to the sum of the degrees in which
+the outdoor average daily temperature is lower than the heating or higher than the cooling
+reference temperature, calculated within the numbers of days characterizing the heating
+Int. J. Environ. Res. Public Health 2021, 18, 40
+8 of 18
+or cooling period respectively (Equations (1) and (2)) [53]. In addition, some studies have
+used HDDs + CDDs to indicate the total energy consumption of heating and cooling [54,55].
+Other derived indicators have also been applied, including the numbers of days during the
+heating or cooling period [42,56,57], beginning and ending dates of the heating or cooling
+period [42,56], and boundary lines of heating areas [56].
+CDD =
+n
+∑
+i=1
+(Tmeani −Tbc)+,
+(1)
+where Tmeani is speciﬁed as the mean daily air temperature on the ith day during the study
+period, usually referring to the cooling period; Tbc is the baseline temperature for cooling;
+n is the days in the study period, usually referring to the cooling period; and + means that
+only positive values can be used.
+HDD =
+n
+∑
+i=1
+(Tbh −Tmeani)+,
+(2)
+where: the Tmeani and + have the same meaning in Equation (1); Tbh is the baseline temper-
+ature for heating, n is the days of the study period, usually referring to the heating period.
+From the calculation aspects, these indices can be mainly divided into two categories:
+temperature-driven and multifactor-driven indices. Temperature-driven indices were
+calculated based on only air temperature data, mainly including degree days calculated
+based on quarterly [41], hourly [58,59], daily [26,45], or monthly mean temperatures [60],
+degree-hours based on hourly temperatures [61], and degree-minutes based on minute
+temperatures [24]. The setting of the reference temperature was related to the accuracy
+of indicating the actual energy consumption of such indicators [60,62–64]. The reference
+temperature was mainly determined based on the relationship between actual energy
+consumption and temperature data [62–65] or complied with the standards speciﬁed by
+international, national or regional authorities [42,56,58,60,66–68]. The multifactor-driven
+indices not only considered the air temperature, but also other factors closely related to
+energy consumption. These factors included degree days calculated by the heat index or
+humidex, both of which were derived from both air temperature and relative humidity [43],
+CDDs calculated based on wet-bulb temperature [44] or enthalpy which accounts for latent
+heat as well as sensible heat [69], degree days based on environmental stress index that
+considered temperature, relative humidity and solar radiation at the same time [43], and an
+extended version of CDDs calculated based on temperature, including the temperature,
+speciﬁc humidity effects, and residual temperature in recent days [70].
+Despite the existence of a variety of degree days indicators, most of the existing studies
+still adopt temperature driven indicators, which only consider the impacts of temperature
+on energy consumption and ignore the roles of factors such as relative humidity, solar ra-
+diation, etc. [43,46,70]. In addition, due to the lack of long-term detailed time-interval
+temperature observation data, most studies have adopted the degree days calculated based
+on the average daily temperature, which was unable to characterize the inter-day detailed
+changes in energy consumption during all-day period [61].
+3.2. Spatial-Temporal Changes in Indices Related to Degree-Days
+Existing studies have analyzed the spatial-temporal changes in HDDs or CDDs [43,45,53],
+HDDs + CDDs [55], numbers of days during the heating or cooling period [42,71–73],
+start and end times for heating [42,56], boundary lines for heating areas [56] etc., in the
+past [43–45] or the future [20,55,74] at the city scale [58,75], region [53,76] or global scale
+(Figure 2) [43–45], and have used observational records of sites [45,53], simulation results
+from climate models [71,77] or reanalysis data [43,44]. Previous studies have mostly been
+carried out at the site scale and analyzed the spatial-temporal changes in degree days
+by using site observation data [42,56,64,72,78]. Some studies used the inverse distance
+interpolation [45], ordinary kriging model [55], co-kriging model [58], regression krig-
+Int. J. Environ. Res. Public Health 2021, 18, 40
+9 of 18
+ing [41], kriging with external drift scheme [60], and the multiple regression model [79]
+to interpolate the results on the sites to the surface. Moreover, some previous studies
+analyzed the interannual variation trends of degree days, by using the Man-Kendall
+method [42,44,56,80], linear trend analysis [42,78], or a simple comparison of degree days
+in the historical and future periods [20], etc.
+ 
+Figure 2. Global cooling degree days accounting for humidity by setting the base temperatures as 18 ◦C. The data
+were derived from http://hs.pangaea.de/model/MistryM_2019a/CDD_wetbulb_GeoTIFF.tar.gz [33]. The classiﬁcation
+thresholds were determined by the natural break method.
+Some deﬁciencies still exit in this research ﬁeld. Firstly, previous studies generally
+analyzed the spatial-temporal changes in all-day HDDs or CDDs in a speciﬁc region during
+the whole heating or cooling period. Comparative studies are lacking in terms of the
+variation rules between the daytime and nighttime, and among different seasons or regions
+with different contexts. However, the mechanisms of the degree days are likely to be
+different under different conditions. Secondly, most of the existing studies have used the
+degree days calculated by daily temperature, ignoring the inﬂuences of natural factors
+such as relative humidity, solar radiation, wind speed, etc., and social and economic factors
+such as population and GDP, etc., and also have failed to indicate the inter-day changes
+in detail. Thirdly, most studies have analyzed the interannual variability of degree days
+by only calculating the variation rates and their signiﬁcance. Other research contents or
+effective analysis methods can be considered in the future. For instance, the future change
+trends of degree days can be explored using the Hearst exponent calculated by the rescaled
+range analysis method. Regionalization of degree days changes can be realized using
+the rotated empirical orthogonal function or cluster method. Both geostatistical analysis
+and landscape methods can be considered to analyze the spatial-temporal patterns more
+effectively. Fourthly, the degree days are different in urban, suburban and rural areas.
+Nevertheless, this issue has not been fully considered by previous studies focusing on
+the analysis of spatial-temporal changes in a certain area. The spatial resolutions of both
+climate models and reanalysis data were too crude to fully reveal the above-mentioned
+differences. The spatial resolutions of the former were 0.11◦, approximately 12.5 km [76],
+or even 0.25–1◦[71], while the spatial resolution of the typical reanalysis data from the
+National Center for Environmental Forecasting was 0.25◦. However, most of the studies
+based on the observation data of stations directly used the data of all stations without
+distinguishing the types of stations [45], thus leading to a certain level of error. It was
+truly appreciated that some studies interpolated the observed results at these station points
+to the regional extent by considering some urbanizing factors. For example, Schatz and
+Kucharik [41] used the regression kriging or linear regression method to consider the
+Int. J. Environ. Res. Public Health 2021, 18, 40
+10 of 18
+inﬂuences of the abundances of the impervious surfaces on the upscaling (from the station
+point scale to the region space ﬁeld scale) of HDDs and CDDs in Madison, Wisconsin USA.
+3.3. Inﬂuece Factors of the Spatial Distribution of Degree Days
+Mastering the inﬂuencing factors of degree days is not only necessary for the regula-
+tion of the energy consumption of heating and cooling, but also beneﬁcial to accurately
+extend the observation results on the station points to the space ﬁeld of the region. However,
+such studies are very limited (Table 3). The current study areas were limited to a very small
+number of places, including Madison, Wisconsin, USA (Table 4) [41], Florence, Italy [68],
+Andalusia Autonomous Region, Spain [79], Bangladesh [53], Xinjiang, China [80], etc.
+Previous studies have only analyzed the driving factors of HDDs or CDDs throughout the
+whole day, ignoring the differences in the mechanisms of degree days between daytime
+and nighttime, or among different seasons, and have not considered the inﬂuencing factors
+of HDDs + CDDs. Factors that have been considered were limited to latitude, longitude
+and altitude [53,80], distance to large water bodies [41,79], abundance of impervious sur-
+faces [41,68], large scale atmospheric circulation indices [53], etc. The analysis methods
+mainly included partial correlation analysis [79], linear regression [53], spatial regres-
+sion [41], Random Forest (RF) model [53], etc.
+Table 3. Studies on inﬂuencing factors of heating and cooling degree days.
+Study Area
+Degree Days
+Indices
+Inﬂuencing Factors
+Analysis Methods
+References
+Madison, Wisconsin USA
+HDDs 1 and CDDs 2
+Percent impervious
+surface coverage, lake
+effects, topographic relief
+Linear and spatial
+regression
+[41]
+Bangladesh
+HDDs and CDDs
+Latitude, longitude,
+altitude, annual mean
+daily temperature, 10
+large scale atmospheric
+circulation indices
+Linear regression
+method, Pearson
+correlation, random
+forest (RF) model
+[53]
+Florence, Italy
+CDDs
+Impervious surfaces
+Linear regression
+[68]
+Andalusia Autonomous
+Region, Spain
+HDDs and CDDs
+Elevation, distance to
+the sea
+Semi-partial
+correlation
+[79]
+Xinjiang Province, China
+HDDs and CDDs
+Latitude, longitude, and
+altitude
+Linear regression
+method
+[80]
+1 HDDs, heating degree days; 2 CDDs, cooling degree days.
+Table 4. Percent of spatial variation explained by three inﬂuencing factors for spring 2012 to spring
+2015 averages of heating and cooling degree days in Madison, Wisconsin, USA [41].
+Parameter
+Var. Explained (%)
+Percent
+Impervious
+Lake Proximity
+Topographic
+Relief
+HDDs 1
+67
+6
+2
+CDDs 2
+75
+3
+2
+1 HDDs, heating degree days; 2 CDDs, cooling degree days.
+3.4. Impacts of Urbanization on Degree Days
+To clarify the impacts of urbanization on degree days (Figure 3), existing studies
+usually simply compare the differences in the HDDs or CDDs calculated based on daily
+temperature data between urban and suburban or rural stations of a single city [41,81–83].
+Int. J. Environ. Res. Public Health 2021, 18, 40
+11 of 18
+To the best of our knowledge, only Klimenko, et al. [84] compared the differences in the
+HDDs and CDDs between the urban and suburban stations for several Russian cities.
+Figure 3. Schematic diagram of the impacts of urbanization on heating and cooling degree days.
+Existing studies have usually ignored the differences in the inﬂuence of urbanization
+inﬂuence on the degree days within cities, among different cities, between the daytime
+and nighttime, and among different seasons or years, as well as the effects of relative
+humidity, population, and other factors. Moreover, studies are still lacking which evaluate
+the urbanization effects on HDDs, CDDs, and HDDs + CDDs for numerous cities under
+different environmental contexts, using the hourly or even subhourly data, considering not
+only the air temperature but also the humidity, solar radiation, population, etc., at multiple
+spatial scales, including station, city, and regional scales.
+4. Future Directions
+Although many studies have been carried out on the impacts of climate change on
+building heating and cooling energy consumption, there are still some blank areas or re-
+search ﬁelds that need to be further deepened. Based on the above review, several potential
+key issues or research directions are proposed.
+4.1. Estimating the Amounts of Impacts of Climate Change on Building Heating and Cooling
+Energy Consumption
+What are the adaptation possibilities and what can be done to mitigate the impact
+of climate change on buildings energy requirements? The effort to guarantee high levels
+of energy efﬁciency in the building sector is currently recognized as an important goal
+and it is also promoted by national and international legislation [85]. Simpler and more
+effective methods are urgently needed to accurately assess the impact of climate change
+on building cooling and heating energy consumption accurately, especially in regions
+where it is extremely difﬁcult to obtain and separate data on building heating and cooling
+energy consumption. These studies may be carried out at different scales, or by considering
+different elements. For instance, which kinds of design schemes are more energy-saving
+buildings under various contexts? These potential designs can be obtained by investi-
+gating the various functions of the existing buildings, and the ideas of the designers can
+also be brought into play. Both passive and active strategies can be developed in these
+designs, including adopting the correct orientation of the buildings, planning the ventila-
+tion corridors properly, using more effective materials, taking full advantage of the solar
+radiation, integrating of new systems fed by solar, wind, geothermal, hydroelectric energy,
+etc. [85]. Not only the building but also the vegetation and water elements should be
+considered by using the building energy consumption and urban microclimate simulation
+software (such as ENVI-Met) together. The amount and pattern of green or water space,
+vegetation types (forest, shrub, and grass) or species, greening methods (roof greening,
+Int. J. Environ. Res. Public Health 2021, 18, 40
+12 of 18
+horizontal, and vertical greening) and so on can be considered. Similar studies can be
+carried out at the building block scale. The two- and three-dimensional information about
+buildings, green spaces, and water bodies in urban and regional areas can be obtained
+by using various methods, including remote sensing, geographic information technology,
+ﬁeld research, viewing the statistical data, and big data technology, etc. Based on the
+above-mentioned information and the simulation results at the building and building block
+scale, the amounts of impacts of climate change on building heating and cooling energy
+consumption can be estimated at the city or region scale.
+4.2. Spatial-Temporal Changes in Heating and Cooling Degree Days and Their Inﬂuencing Factors
+Studies focusing on more representative study areas under different contexts, espe-
+cially at the global scale, should be considered, rather than limiting to a few or some cities
+or a speciﬁed region. Urban, suburban, and rural regions should be treated as separate,
+rather than being mixed together. Both the intra-annual and inter-annual spatial-temporal
+changes in degree days should be studied in the HDDs, CDDs, and HDDs + CDDs during
+not only the all-day periods, but also during the daytime and nighttime in the past and
+the future. The degree days indices should be calculated based not only on the daily air
+temperature, but also on the relative humidity, solar radiation, population, etc. Moreover,
+hourly or even minute-level data should be used at higher density stations. More ef-
+fective methods should be introduced to more deeply analyze spatial-temporal changes,
+such as the Hurst exponent method, rotated empirical orthogonal function (REOF) method,
+geostatistical and landscape analysis, etc.
+Future studies should be carried out on the natural, social, or economic factors inﬂu-
+encing the spatial-temporal changes in HDDs, CDDs, and HDDs + CDDs during daytime,
+nighttime, and all-day in different seasons under different climatic contexts, such as land-
+scape composition and pattern, remote sensed indices of building, vegetation, water or
+bare soil, albedo, nighttime light intensity, sky view factor, heat release, population density,
+etc. (Figure 4). In addition, the analysis method of the inﬂuencing factors of degree days
+also needs to be improved. For instance, the scale effects of inﬂuencing factors for each
+degree days index under different conditions should be considered. More effective methods
+should be introduced, such as the machine learning method.
+Figure 4. Potential inﬂuencing factors of heating and cooling degree days.
+Int. J. Environ. Res. Public Health 2021, 18, 40
+13 of 18
+4.3. Impacts of Urbanization on Heating and Cooling Degree Days
+It is necessary to accurately estimate the effects of urbanization on the heating and
+cooling degree day during the daytime, nighttime, and all-day in different seasons and the
+whole year under different environmental contexts at different scales, which can be possible
+done by comprehensively utilizing multi-sources data and several methods. These data
+may include hourly or subhourly meteorological data of high-density stations, land use
+data in the middle or even high spatial resolution, raw remote sensing data, MODIS data,
+defense meteorological satellite program (DMSP), and visible infrared imaging radiometer
+suite (VIIRS) nighttime light data, digital elevation models, spatially discrete population
+data, big data, etc. These methods may involve station observation methods, geographic in-
+formation technology, remote sensing method, mathematical statistics, grey correlation,
+machine learning method, landscape analysis, abrupt climate change detection, homog-
+enization of climate data, etc. It should be noted that a large number of studies have
+been carried out on the urbanization effects on the air temperature, apparent temperature,
+and land surface temperature closely related to degree days, which can provide impor-
+tant references for these studies on degree days. For example, previous studies on urban
+heat islands [86,87] and the contribution of urbanization to temperature change [88,89]
+can provide important theoretical and methodological references for analyzing the impacts
+of urbanization on degree days. Based on the land use data, urban and rural stations
+can be identiﬁed. Then, the impacts of urbanization at the site scale can be deﬁned as
+the differences in the HDDs, CDDs, and HDDs + CDDs, and their corresponding interan-
+nual variation rates between the urban and rural stations during the daytime, nighttime,
+and all-day in each season and the whole year. The HDDs, CDDs, and HDDs + CDDs
+at the regional scale can be obtained based on their values at the sites, and their relation-
+ships with many inﬂuencing factors. Finally, the urbanization effects on HDDs, CDDs,
+and HDDs + CDDs at the regional scale can be derived based on urban and rural areas
+using land use data.
+4.4. Production and Share of Related Datasets
+Accurate high-resolution datasets are extremely important for understanding the
+effects of climate change on the energy consumption of building heating and cooling.
+These datasets may involve weather data (including near-surface temperature, humidity,
+solar radiation, heating and cooling degree days, etc.), energy data of building heating
+and cooling (consumed fuel type and quantity), building parameters, land cover/use data,
+digital elevation data, raw remote sensed data, remote sensed indices, nighttime light data,
+sky view data, air conditioning usage data, motor vehicle data, population data, gross do-
+mestic product per capita, related standards or policies, etc. These datasets should have
+high spatial and temporal resolutions, consider not only the past but also the future period,
+distinguish the differences between the urban and rural regions, take into account the het-
+erogeneity within the city, etc. For instance, the heating and cooling degree datasets should
+consider not only the temperature, but also the humidity, solar radiation, wind speed,
+population density, etc. in hourly or even minute resolution in the past and the future,
+produced based on the observed data in the higher density weather stations, taking into
+account the heterogeneity inside the city or differences among different cities or regions,
+etc. While producing and sharing these data sets is quite important, multidisciplinary
+efforts and cross-cutting studies are required in the future.
+4.5. Subsequent Effects Induced by the Climate Change on the Energy Consumption of Building
+Heating and Cooling
+Climate change can not only affect the energy consumption of building heating and
+cooling, but also further cause other issues, such as the emissions of carbon dioxide and
+the release of air pollutants (sulfur dioxide, nitrogen oxide, freon, PM2.5, PM10, etc.),
+decrease of the comfort level in human settlements, increase of the disease risk among
+residents, leading to water thermal pollution and further destroying its ecological balance,
+Int. J. Environ. Res. Public Health 2021, 18, 40
+14 of 18
+impeding the increase of economic productivity, etc. All these research ﬁelds should be
+encouraged to be studied in the future.
+5. Conclusions
+This paper aimed to summarize the important progress of previous research involving
+the effects of climate change on the energy consumption of building heating and cooling,
+analyze some shortcomings in this research ﬁeld, and propose several potential research
+directions. The main ﬁndings are as the follows.
+(1) Estimating the amounts of impacts of global, regional, or urban climate change
+on building heating and cooling energy consumption accurately can provide direct and
+clear research results for sustainable human development. However, most of the existing
+studies either require detailed data on energy consumption and its inﬂuencing factors,
+or rely on complex and time-consuming physical models that require detailed building and
+background environmental parameters and can usually only simulate individual buildings.
+How to mitigate the impacts of climate change on buildings energy requirements and guar-
+antee high levels of energy efﬁciency in the building sector should be highly emphasized.
+These studies may be carried out at different scales (single building, building block, city and
+region scales), or by considering different elements (building, vegetation, and waterbody),
+by making use of multisource data and various methods.
+(2) Previous studies have analyzed the interannual spatial-temporal changes in degree
+days during all-day periods in a certain region on the station or regional scale in both the
+past and the future. However, the vast majority of these studies used the degree days
+calculated based on the daily air temperature of all stations, ignoring the inﬂuences of
+relative humidity, solar radiation, population, etc., failed to indicate the inter-day changes
+in detail, and neglected the different mechanisms between the daytime or nighttime,
+among different seasons, under different environmental contexts, and in urban, subur-
+ban, and rural regions. Moreover, more effective methods should be introduced to more
+deeply analyze spatial-temporal changes more deeply, such as the Hurst exponent method,
+REOF method, geostatistical and landscape analysis, etc. Research on inﬂuencing factors
+of spatial-temporal changes in degree days was quite limited. It is urgent to deepen the
+study of more inﬂuencing factors of degree days in different time periods or environmental
+contexts, such as the remotely sensed indices of building, vegetation, water, bare soil,
+albedo, nighttime light intensity, etc.
+(3) Some existing studies on the impacts of urban climate change on building heating
+and cooling energy consumption based on the degree days method were usually limited
+to comparing the differences in HDDs or CDDs between urban and suburban or rural
+stations for one city. In the future, these studies can be carried out to analyze the impacts of
+urbanization on HDDs, CDDs, and HDDs + CDDs for vast cities in different environment
+contexts at the station site, city, region, and global scales. These studies should use hourly
+or subhourly data, consider several key factors of degree days, including temperature,
+humidity, population, etc., and take into account the differences in urbanization impacts
+on degree days within the same city, between daytime and nighttime, among different
+seasons and years. A large number of previous studies on urban heat islands, the contri-
+bution of urbanization to temperature change, etc., can provide important theoretical and
+methodological references for analyzing the impacts of urbanization on degree days.
+(4) The production and sharing of related datasets (not limited to weather datasets
+of the past and future) with high accuracy at high spatial and temporal resolutions are
+extremely important for future studies. This will require many multidisciplinary efforts
+and cross-disciplinary studies in the future.
+(5) Not only are the impacts of climate change on the energy consumption of building
+heating and cooling considered, but further induced issues should also be emphasized,
+such as the emissions of carbon dioxide and air pollutants, decrease in the comfort level in
+human settlements, and increases in the disease risk among residents, etc.
+Int. J. Environ. Res. Public Health 2021, 18, 40
+15 of 18
+(6) It is possible to solve the above issues by comprehensively utilizing multisources
+data and several methods. These data may include hourly or subhourly meteorological
+data from high-density stations, long-term historical observation data from stations, re-
+mote sensing data, and population data, etc. The necessary methods may involve station
+observation methods, geographic information technology, remote sensing method, machine
+learning method, etc.
+Author Contributions: Conceptualization, Y.L. and G.Z.; investigation, Y.L., W.W. and T.H.; re-
+sources, Y.L., W.W. and Y.W.; writing—original draft preparation, Y.L. and W.W.; writing—review
+and editing, Y.L., W.W., Y.W., T.H., G.Z. and Y.X.; supervision, G.Z.; project administration, G.Z.
+and Y.L.; funding acquisition, G.Z. and Y.L. All authors have read and agreed to the published version
+of the manuscript.
+Funding: This research was funded by National Natural Science Foundation of China Grant
+(Grant No. 41701501, 41901238, 41801113 & 41771141), Key Scientiﬁc and Technological Project
+of Henan Province (Grant No. 192102310003 & 202102310342), and Key Research Program of Henan
+Higher Education Institution in 2019 (Grant No. 19A420002).
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: No new data were created or analyzed in this study. Data sharing is
+not applicable to this article.
+Acknowledgments: Authors gratefully thank anonymous reviewers for their extensive knowledge
+and constructive comments; we learned a lot during the revising process.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1.
+Costa, A.; Keane, M.M.; Torrens, J.I.; Corry, E. Building operation and energy performance: Monitoring, analysis and optimisation
+toolkit. Appl. Energy 2013, 101, 310–316. [CrossRef]
+2.
+Waite, M.; Cohen, E.; Torbey, H.; Piccirilli, M.; Tian, Y.; Modi, V. Global trends in urban electricity demands for cooling and
+heating. Energy 2017, 127, 786–802. [CrossRef]
+3.
+Intergovernmental Panel on Climate Change (IPCC). Climate Change 2013: The Physical Science Basis; IPCC: New York, NY, USA, 2014.
+4.
+United Nations, Department of Economic and Social Affairs (UN DESA). World Urbanization Prospects: The 2018 Revision; UN:
+New York, NY, USA, 2018.
+5.
+Li, X.; Zhou, Y.; Yu, S.; Jia, G.; Li, H.; Li, W. Urban heat island impacts on building energy consumption: A review of approaches
+and ﬁndings. Energy 2019, 174, 407–419. [CrossRef]
+6.
+Li, X. Linking residential electricity consumption and outdoor climate in a tropical city. Energy 2018, 157, 734–743. [CrossRef]
+7.
+Isaac, M.; Vuuren, D.P.V. Modeling global residential sector energy demand for heating and air conditioning in the context of
+climate change. Energy Policy 2009, 37, 507–521. [CrossRef]
+8.
+London Climate Change Partnership (LCCP). London’s Commercial Building Stock and Climate Change Adaptation: Design, Finance
+and Legal Implications; London Climate Change Partnership: London, UK, 2009.
+9.
+Orimoloye, I.R.; Mazinyo, S.P.; Kalumba, A.M.; Ekundayo, O.Y.; Nel, W. Implications of climate variability and change on urban
+and human health: A review. Cities 2019, 91, 213–223. [CrossRef]
+10.
+Lundgren Kownacki, K.; Gao, C.; Kuklane, K.; Wierzbicka, A. Heat stress in indoor environments of scandinavian urban areas:
+A literature review. Int. J. Environ. Res. Public Health 2019, 16, 560. [CrossRef]
+11.
+Karin, L.; Tord, K. Sustainability challenges from climate change and air conditioning use in urban areas. Sustainability 2013,
+5, 3116–3128.
+12.
+Abel, D.W.; Tracey, H.; Monica, H.; Paul, M.; Doug, A.; Limaye, V.S.; Patz, J.A.; Madeleine, T. Air-quality-related health impacts
+from climate change and from adaptation of cooling demand for buildings in the eastern United States: An interdisciplinary
+modeling study. PLoS Med. 2018, 15, e1002599. [CrossRef]
+13.
+Laitner, J.A.S. Linking energy efﬁciency to economic productivity: Recommendations for improving the robustness of the U.S.
+economy. Wiley Interdiscip. Rev. Energy Environ. 2015, 4, 235–252. [CrossRef]
+14.
+Chen, M.; Ban-Weiss, G.A.; Sanders, K.T. The role of household level electricity data in improving estimates of the impacts of
+climate on building electricity use. Energy Build. 2018, 180, 146–158. [CrossRef]
+15.
+Davis, L.W.; Gertler, P.J. Contribution of air conditioning adoption to future energy use under global warming. Proc. Natl. Acad.
+Sci. USA 2015, 112, 5962–5967. [CrossRef] [PubMed]
+16.
+Shourav, M.S.A.; Shahid, S.; Singh, B.; Mohsenipour, M.; Chung, E.S.; Wang, X.J. Potential impact of climate change on residential
+energy consumption in Dhaka city. Environ. Model. Assess. 2018, 23, 131–140. [CrossRef]
+Int. J. Environ. Res. Public Health 2021, 18, 40
+16 of 18
+17.
+Fazeli, R.; Davidsdottir, B.; Hallgrimsson, J.H. Climate impact on energy demand for space heating in Iceland. Climate Chang.
+Econ. 2016, 7, 1650004. [CrossRef]
+18.
+Thornton, H.E.; Hoskins, B.J.; Scaife, A.A. The role of temperature in the variability and extremes of electricity and gas demand in
+Great Britain. Environ. Res. Lett. 2016, 11, 114015. [CrossRef]
+19.
+Ang, B.W.; Wang, H.; Ma, X. Climatic inﬂuence on electricity consumption: The case of Singapore and Hong Kong. Energy 2017,
+127, 534–543. [CrossRef]
+20.
+Giannakopoulos, C.; Psiloglou, B.; Lemesios, G.; Xevgenos, D.; Papadaskalopoulou, C.; Karali, A.; Varotsos, K.V.; Zachariou-
+Dodou, M.; Moustakas, K.; Ioannou, K. Climate change impacts, vulnerability and adaptive capacity of the electrical energy
+sector in Cyprus. Reg. Environ. Chang. 2016, 16, 1891–1904. [CrossRef]
+21.
+Gupta, E. The effect of development on the climate sensitivity of electricity demand in India. Climate Chang. Econ. 2016,
+7, 1650003. [CrossRef]
+22.
+Zhu, D.; Tao, S.; Wang, R.; Shen, H.; Huang, Y.; Shen, G.; Wang, B.; Li, W.; Zhang, Y.; Chen, H.; et al. Temporal and spatial trends
+of residential energy consumption and air pollutant emissions in China. Appl. Energy 2013, 106, 17–24. [CrossRef]
+23.
+Tyralis, H.; Karakatsanis, G.; Tzouka, K.; Mamassis, N. Exploratory data analysis of the electrical energy demand in the time
+domain in Greece. Energy 2017, 134, 902–918. [CrossRef]
+24.
+Fikru, M.G.; Gautier, L. The impact of weather variation on energy consumption in residential houses. Appl. Energy 2015,
+144, 19–30. [CrossRef]
+25.
+Veliz, K.D.; Kaufmann, R.K.; Cleveland, C.J.; Stoner, A.M.K. The effect of climate change on electricity expenditures in Mas-
+sachusetts. Energy Policy 2017, 106, 1–11. [CrossRef]
+26.
+Mourshed, M. Relationship between annual mean temperature and degree-days. Energy Build. 2012, 54, 418–425. [CrossRef]
+27.
+Azevedo, J.A.; Chapman, L.; Muller, C.L. Critique and suggested modiﬁcations of the degree days methodology to enable
+long-term electricity consumption assessments: A case study in Birmingham, UK. Meteorol. Appl. 2015, 22, 789–796. [CrossRef]
+28.
+Jovanovic, S.; Savic, S.; Bojic, M.; Djordjevic, Z.; Nikolic, D. The impact of the mean daily air temperature change on electricity
+consumption. Energy 2015, 88, 604–609. [CrossRef]
+29.
+Lam, J.C.; Wan, K.K.W.; Lam, T.N.T.; Wong, S.L. An analysis of future building energy use in subtropical Hong Kong. Energy
+2010, 35, 1482–1490. [CrossRef]
+30.
+Chester, J.L.R.; Mikhail, V. Energy efﬁciency to reduce residential electricity and natural gas use under climate change. Nature
+Commun. 2017, 8, 14916.
+31.
+Meier, P.; Holloway, T.; Patz, J.; Harkey, M.; Ahl, D.; Abel, D.; Schuetter, S.; Hackel, S. Impact of warmer weather on electricity
+sector emissions due to building energy use. Environ. Res. Lett. 2017, 12, 064014. [CrossRef]
+32.
+Guattari, C.; Evangelisti, L.; Balaras, C.A. On the assessment of urban heat island phenomenon and its effects on building energy
+performance: A case study of Rome (Italy). Energy Build. 2018, 158, 605–615. [CrossRef]
+33.
+Zinzi, M.; Carnielo, E.; Mattoni, B. On the relation between urban climate and energy performance of buildings. A three-years
+experience in Rome, Italy. Appl. Energy 2018, 221, 148–160. [CrossRef]
+34.
+Zhou, Y.Y.; Eom, J.; Clarke, L. The effect of global climate change, population distribution, and climate mitigation on building
+energy use in the US and China. Clim. Chang. 2013, 119, 979–992. [CrossRef]
+35.
+Yu, S.; Eom, J.; Zhou, Y.Y.; Evans, M.; Clarke, L. Scenarios of building energy demand for China with a detailed regional
+representation. Energy 2014, 67, 284–297. [CrossRef]
+36.
+Zhou, Y.Y.; Clarke, L.; Eom, J.; Kyle, P.; Patel, P.; Kim, S.H.; Dirks, J.; Jensen, E.; Liu, Y.; Rice, J.; et al. Modeling the effect
+of climate change on U.S. state-level buildings energy demands in an integrated assessment framework. Appl. Energy 2014,
+113, 1077–1088. [CrossRef]
+37.
+Olonscheck, M.; Walther, C.; Ludeke, M.; Kropp, J.P. Feasibility of energy reduction targets under climate change: The case of the
+residential heating energy sector of the Netherlands. Energy 2015, 90, 560–569. [CrossRef]
+38.
+Wan, K.K.W.; Li, D.H.W.; Lam, J.C. Assessment of climate change impact on building energy use and mitigation measures in
+subtropical climates. Energy 2011, 36, 1404–1414. [CrossRef]
+39.
+Wan, K.K.W.; Li, D.H.W.; Pan, W.Y.; Lam, J.C. Impact of climate change on building energy use in different climate zones and
+mitigation and adaptation implications. Appl. Energy 2012, 97, 274–282. [CrossRef]
+40.
+Li, M.; Cao, J.; Guo, J.; Niu, J.; Xiong, M. Response of energy consumption for building heating to climatic change and variability
+in Tianjin City, China. Meteorol. Appl. 2016, 23, 123–131. [CrossRef]
+41.
+Schatz, J.; Kucharik, C.J. Urban heat island effects on growing seasons and heating and cooling degree days in Madison,
+Wisconsin USA. Int. J. Climatol. 2016, 36, 4873–4884. [CrossRef]
+42.
+Shen, X.; Liu, B.; Zhou, D. Spatiotemporal changes in the length and heating degree days of the heating period in Northeast
+China. Meteorol. Appl. 2017, 24, 135–141. [CrossRef]
+43.
+Atalla, T.; Gualdi, S.; Lanza, A. A global degree days database for energy-related applications. Energy 2018, 143, 1048–1055. [CrossRef]
+44.
+Mistry, M.N. Historical global gridded degree-days: A high-spatial resolution database of CDD and HDD. Geosci. Data J. 2019,
+6, 214–221. [CrossRef]
+45.
+Biardeau, L.T.; Davis, L.W.; Gertler, P.; Wolfram, C. Heat exposure and global air conditioning.
+Nature Sustain.
+2020,
+3, 25–28. [CrossRef]
+Int. J. Environ. Res. Public Health 2021, 18, 40
+17 of 18
+46.
+Li, C.; Zhou, J.; Cao, Y.; Jin, Z.; Yu, L.; Kang, C.; Yi, T. Interaction between urban microclimate and electric air-conditioning energy
+consumption during high temperature season. Appl. Energy 2014, 117, 149–156. [CrossRef]
+47.
+Salvati, A.; Roura, H.C.; Cecere, C. Assessing the urban heat island and its energy impact on residential buildings in Mediterranean
+climate: Barcelona case study. Energy Build. 2017, 146, 38–54. [CrossRef]
+48.
+Rubio-Bellido, C.; Pérez-Fargallo, A.; Pulido-Arcas, J.A.; Trebilcock, M. Application of adaptive comfort behaviors in Chilean
+social housing standards under the inﬂuence of climate change. Build. Simul. 2017, 10, 933–947. [CrossRef]
+49.
+Wang, L.P.; Liu, X.H.; Brown, H. Prediction of the impacts of climate change on energy consumption for a medium-size ofﬁce
+building with two climate models. Energy Build. 2017, 157, 218–226. [CrossRef]
+50.
+Ramakrishnan, S.; Wang, X.; Sanjayan, J.; Wilson, J. Thermal performance of buildings integrated with phase change materials to
+reduce heat stress risks during extreme heatwave events. Appl. Energy 2017, 194, 410–421. [CrossRef]
+51.
+Berger, T.; Amann, C.; Formayer, H.; Korjenic, A.; Pospischal, B.; Nenrurer, C.; Smutny, R. Impacts of climate change upon cooling
+and heating energy demand of ofﬁce buildings in Vienna, Austria. Energy Build. 2014, 80, 517–530. [CrossRef]
+52.
+Skelhorn, C.P.; Levermore, G.; Lindley, S.J. Impacts on cooling energy consumption due to the UHI and vegetation changes in
+Manchester, UK. Energy Build. 2016, 122, 150–159. [CrossRef]
+53.
+Islam, A.M.T.; Ahmed, I.; Rahman, M.S. Trends in cooling and heating degree-days overtimes in Bangladesh? An investigation of
+the possible causes of changes. Nat. Hazards 2020, 101, 879–909. [CrossRef]
+54.
+Sivak, M. Potential energy demand for cooling in the 50 largest metropolitan areas of the world: Implications for developing
+countries. Energy Policy 2009, 37, 1382–1384. [CrossRef]
+55.
+Petri, Y.; Caldeira, K. Impacts of global warming on residential heating and cooling degree-days in the United States. Sci. Rep.
+2015, 5, 12427. [CrossRef] [PubMed]
+56.
+Shen, X.; Liu, B. Changes in the timing, length and heating degree days of the heating season in central heating zone of China. Sci.
+Rep. 2016, 6, 33384. [CrossRef] [PubMed]
+57.
+Yang, X.; Gu, J.; Chen, B. Change of cooling degree day in China during 1960-2008. Resour. Environ. Yangtze Basin 2011, 20, 53–60.
+58.
+Morakinyo, T.E.; Ren, C.; Shi, Y.; Lau, K.K.-L.; Tong, H.-W.; Choy, C.-W.; Ng, E. Estimates of the impact of extreme heat events on
+cooling energy demand in Hong Kong. Renew. Energy 2019, 142, 73–84. [CrossRef]
+59.
+Yadav, N.; Sharma, C.; Peshin, S.K.; Masiwal, R. Study of intra-city urban heat island intensity and its inﬂuence on atmospheric
+chemistry and energy consumption in Delhi. Sustain. Cities Soc. 2017, 32, 202–211. [CrossRef]
+60.
+Spinoni, J.; Vogt, J.; Barbosa, P. European degree-day climatologies and trends for the period 1951–2011. Int. J. Climatol. 2015,
+35, 25–36. [CrossRef]
+61.
+Liu, Y.; Ren, G. Analysis of heating intensity in Harbin based on degree-hours method. J. Nat. Resour. 2018, 33, 139–148.
+62.
+Meng, Q.L.; Mourshed, M.; Wei, S. Going beyond the mean: Distributional degree-day base temperatures for building energy
+analytics using change point quantile regression. IEEE Access 2018, 6, 39532–39540. [CrossRef]
+63.
+Meng, Q.L.; Mourshed, M. Degree-day based non-domestic building energy analytics and modelling should use building and
+type speciﬁc base temperatures. Energy Build. 2017, 155, 260–268. [CrossRef]
+64.
+Lee, K.; Baek, H.J.; Cho, C. The estimation of base temperature for heating and cooling degree-days for South Korea. J. Appl.
+Meteorol. Climatol. 2014, 53, 300–309. [CrossRef]
+65.
+Sha, H.; Xu, P.; Hu, C.; Li, Z.; Chen, Y.; Chen, Z. A simpliﬁed HVAC energy prediction method based on degree-day. Sustain.
+Cities Soc. 2019, 51, 101698. [CrossRef]
+66.
+Chen, L.; Fang, X.Q.; Li, S.A. Impacts of climate warming on heating energy consumption and southern boundaries of severe
+cold and cold regions in China. Chin. Sci. Bull. 2007, 52, 2854–2858. [CrossRef]
+67.
+ASHRAE. ASHRAE Handbook of Fundamentals; ASHRAE: Atlanta, GA, USA, 2005.
+68.
+Massetti, L.; Petralli, M.; Brandani, G.; Orlandini, S. An approach to evaluate the intra-urban thermal variability in summer using
+an urban indicator. Environ. Pollut. 2014, 192, 259–265. [CrossRef]
+69.
+Shin, M.; Do, S.L. Prediction of cooling energy use in buildings using an enthalpy-based cooling degree days method in a hot and
+humid climate. Energy Build. 2016, 110, 57–70. [CrossRef]
+70.
+Guan, H.; Beecham, S.; Xu, H.; Ingleton, G. Incorporating residual temperature and speciﬁc humidity in predicting weather-
+dependent warm-season electricity consumption. Environ. Res. Lett. 2017, 12, 024021. [CrossRef]
+71.
+Shi, Y.; Wang, G.; Gao, X.; Xu, Y. Effects of climate and potential policy changes on heating degree days in current heating areas of
+China. Sci. Rep. 2018, 8, 10211. [CrossRef]
+72.
+Cvitan, L.; Jurkovi´c, R.S. Secular trends in monthly heating and cooling demands in Croatia.
+Theor.
+Appl.
+Climatol.
+2015, 125, 565–581. [CrossRef]
+73.
+Yildiz, I.; Sosaoglu, B. Spatial distributions of heating, cooling, and industrial degree-days in Turkey. Theor. Appl. Climatol. 2007,
+90, 249–261. [CrossRef]
+74.
+Ren, Y.; Ren, G.; Qian, H. Change scenarios of China’s provincial climate-sensitive components of energy consumption. Geogr.
+Res. 2009, 28, 36–44.
+75.
+Zhang, H.; Zhang, X.; Sun, Z.; Tang, G. A study on degree-day’s change in China in the past ﬁfty years. Trans. Atmos. Sci. 2010,
+33, 593–599.
+76.
+Spinoni, J.; Vogt, J.V.; Barbosa, P.; Dosio, A.; McCormick, N.; Bigano, A.; Füssel, H.M. Changes of heating and cooling degree-days
+in Europe from 1981 to 2100. Int. J. Climatol. 2018, 38, e191–e208. [CrossRef]
+Int. J. Environ. Res. Public Health 2021, 18, 40
+18 of 18
+77.
+Nematchoua, M.K.; Orosa, J.A.; Reiter, S. Climate change: Variabilities, vulnerabilities and adaptation analysis-A case of seven
+cities located in seven countries of Central Africa. Urban Climate 2019, 29, 100486. [CrossRef]
+78.
+Wan, R.; Kong, D. Inﬂuence of climate change on heating and cooling degree day for north of China. In Proceedings of the
+International Symposium on Water Resource & Environmental Protection, Xi’an, China, 20–22 May 2011.
+79.
+Limones-Rodríguez, N.; Marzo-Artigas, J.; Pita-López, M.F.; Díaz-Cuevas, M.P. The impact of climate change on air conditioning
+requirements in Andalusia at a detailed scale. Theor. Appl. Climatol. 2018, 134, 1047–1063. [CrossRef]
+80.
+Jiang, F.; Li, X.; Wei, B.; Hu, R.; Li, Z. Observed trends of heating and cooling degree-days in Xinjiang Province, China. Theor.
+Appl. Climatol. 2009, 97, 349–360. [CrossRef]
+81.
+Martinopoulos, G.; Alexandru, A.; Papakostas, K.T. Mapping temperature variation and degree-days in metropolitan areas with
+publicly available sensors. Urban Clim. 2019, 28, 100464. [CrossRef]
+82.
+Cao, J.; Qiu, C.; Liu, H.; Shi, Z.; Dong, X. Spatiotemporal distribution of heating and cooling degree days in Shandong Province.
+Meteorol. Mon. 2013, 39, 94–100.
+83.
+Moustris, K.; Nastos, P.; Bartzokas, A.; Larissi, I.; Zacharia, P.; Paliatsos, A. Energy consumption based on heating/cooling degree
+days within the urban environment of Athens, Greece. Theor. Appl. Climatol. 2015, 122, 517–529. [CrossRef]
+84.
+Klimenko, V.V.; Ginzburg, A.S.; Demchenko, P.F.; Tereshin, A.G.; Belova, I.N.; Kasilova, E.V. Impact of urbanization and climate
+warming on energy consumption in large cities. Doklady Phys. 2016, 61, 521–525. [CrossRef]
+85.
+Grazieschi, G.; Asdrubali, F.; Guattari, C. Neighbourhood sustainability: State of the art, critical review and space-temporal
+analysis. Sustain. Cities Soc. 2020, 63, 102477. [CrossRef]
+86.
+Li, Y.; Yin, K.; Zhou, H.; Wang, X.; Hu, D. Progress in urban heat island monitoring by remote sensing. Prog. Geogr. 2016,
+35, 1062–1074.
+87.
+Zhou, D.; Xiao, J.; Bonafoni, S.; Berger, C.; Deilami, K.; Zhou, Y.; Frolking, S.; Yao, R.; Qiao, Z.; Sobrino, J. Satellite remote sensing
+of surface urban heat islands: Progress, challenges, and perspectives. Remote Sens. 2019, 11, 48. [CrossRef]
+88.
+Li, Y.; Wang, L.; Zhou, H.; Zhao, G.; Ling, F.; Li, X.; Qiu, J. Urbanization effects on changes in the observed air temperatures
+during 1977-2014 in China. Int. J. Climatol. 2019, 39, 251–265. [CrossRef]
+89.
+Wang, F.; Ge, Q.; Wang, S.; Li, Q.; Jones, P.D. A new estimation of urbanization’s contribution to the warming trend in China. J.
+Climate 2015, 28, 8923–8938. [CrossRef]

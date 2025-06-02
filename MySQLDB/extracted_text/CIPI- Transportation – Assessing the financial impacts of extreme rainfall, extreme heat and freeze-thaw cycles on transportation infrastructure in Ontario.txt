@@ -1,0 +1,3024 @@
+2022/23
+CIPI
+Costing Climate Change Impacts to Public Infrastructure
+Assessing the financial impacts of 
+extreme rainfall, extreme heat and 
+freeze-thaw cycles on public 
+transportation infrastructure in Ontario
+TRANSPORTATION
+About this document 
+Established by the Financial Accountability Officer Act, 2013, the 
+Financial Accountability Office (FAO) provides independent analysis 
+on the state of the Province’s finances, trends in the provincial 
+economy and related matters important to the Legislative Assembly 
+of Ontario. 
+This report was prepared by Sabrina Afroz, Nicolas Rhodes, and Jay 
+Park under the direction of Edward Crummey. This report benefitted 
+from contributions from Christina Rachmadita, Mavis Yang, Katrina 
+Talavera, Laura Irish, Paul Lewis and David West. External reviewers 
+were provided with earlier drafts of this report for their comments. 
+However, the input of external reviewers implies no responsibility for 
+this final report, which rests solely with the FAO. 
+In keeping with the FAO’s mandate to provide the Legislative 
+Assembly of Ontario with independent economic and financial 
+analysis, this report makes no policy recommendations. 
+Financial Accountability Office of Ontario 
+2 Bloor Street West, Suite 900 Toronto, Ontario M4W 3E2 
+fao-on.org | info@fao-on.org | 416-644-0702 
+This document is also available in an accessible format and as a 
+downloadable PDF on our website. 
+ISSN 2564-3924 
+© King’s Printer for Ontario, 2022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Costing Climate Change Impacts 
+to Public Infrastructure: Transportation 
+ 
+Assessing the financial impacts of extreme rainfall, extreme heat 
+and freeze-thaw cycles on public transportation infrastructure in Ontario 
+ 
+ 
+ 
+Table of Contents 
+1 | Introduction and context 
+6 
+2 | Summary 
+7 
+3 | The long-term costs of maintaining public transportation infrastructure 
+9 
+4 | The cost of key climate hazards to transportation infrastructure 
+13 
+5 | Adapting public transportation infrastructure to climate hazards 
+21 
+6 | Comparing different asset management strategies 
+30 
+7 | Appendix 
+34 
+8 | References 
+50 
+ 
+ 
+ 
+4 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Glossary of Terms 
+List of Abbreviations 
+Term 
+Definition 
+CIPI 
+Costing Climate Change Impacts to Public Infrastructure (project) 
+CRV 
+Current Replacement Value 
+IDF 
+Intensity-Duration-Frequency (Curve) 
+IPCC 
+Intergovernmental Panel on Climate Change 
+O&M 
+Operation and Maintenance 
+RCP 
+Representative Concentration Pathway 
+SME 
+Subject-Matter Expert 
+USL 
+Useful Service Life 
+WSP 
+WSP Global Inc. 
+Definitions 
+Current Replacement Value: The current cost of rebuilding an infrastructure asset with the equivalent capacity, 
+functionality and performance. 
+Operations and Maintenance (O&M): The routine activities performed on an asset that maximize service life 
+and minimize service disruptions. 
+Rehabilitation: Repairing part or most of an asset to extend its service life, without adding to its capacity, 
+functionality or performance.  
+Renewal: Replacement of an existing asset, resulting in a new or as-new asset with an equivalent capacity, 
+functionality and performance as the original asset. Renewal is different from rehabilitation, as renewal rebuilds 
+the entire asset. 
+State of Good Repair: A performance standard which helps to maximize the benefits of public infrastructure in a 
+cost-effective manner over time, and ensures that infrastructure operates in a condition that is considered 
+acceptable from an engineering perspective.  
+Stable Climate: A stable climate scenario assumes that climate indicators for extreme rainfall, extreme heat and 
+freeze-thaw cycles remain unchanged from their 1975-2005 average levels over the projection to 2100. 
+Rest of the Century: Refers to the 79 years from 2022 to 2100. 
+Baseline Cost: The operations and maintenance, rehabilitation, and renewal expense that would have been 
+required to maintain public transportation infrastructure in a state of good repair in a stable climate.  
+Acute Hazard: Severe climate hazards that occur rarely (such as the 100-year storm event). 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 5
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Chronic Hazard: Climate hazards that occur often.  
+Retrofit: An adaptation made during the asset’s service life. 
+Adaptation: Adaptation is modelled as an alteration of an asset’s physical components to prevent more rapid 
+deterioration and increased O&M expenses caused by changes in extreme rainfall, extreme heat and/or freeze-
+thaw cycles. Adaptation can be done through retrofit while an asset is still in service or can be done at the time of 
+renewal.  
+No Adaptation Strategy / Damage Costs: An asset management strategy where public infrastructure assets are 
+not adapted to changing climate hazards.  
+Reactive Adaptation Strategy: An asset management strategy where public infrastructure assets are only 
+adapted at the time of renewal to withstand changing climate conditions.  
+Proactive Adaptation Strategy: An asset management strategy where public infrastructure assets are adapted 
+at the first available opportunity to withstand changing climate conditions. This occurs either during an asset’s 
+next major rehabilitation through a retrofit or at renewal, whichever comes first.  
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+1 | Introduction and context 
+In June 2019, a Member of Provincial Parliament asked the FAO to analyze the costs that climate change 
+impacts could impose on Ontario’s provincial and municipal infrastructure, and how those costs could impact the 
+long-term budget outlook of the province. In response to this request, the FAO launched its Costing Climate 
+Change Impacts to Public Infrastructure project (CIPI). 
+In the first two phases of the project, the FAO assessed the composition and state of repair of provincial1 and 
+municipal2 infrastructure, with findings released in November 2020 and in August 2021. In fall 2021, the FAO 
+released three reports: a project backgrounder3 that describes the overall context and methodology of the CIPI 
+project, a report prepared by WSP Global4 that describes the detailed engineering impact of climate hazards on 
+public infrastructure, and a report detailing how changes in extreme rainfall, extreme heat and freeze-thaw cycles 
+will impact the long-term costs of maintaining Ontario’s public buildings and facilities in a state of good repair.5  
+This report examines how changes in extreme rainfall, extreme heat and freeze-thaw cycles will impact the long-
+term costs of maintaining public transportation infrastructure in a state of good repair. 
+1 Financial Accountability Office of Ontario, 2020. 
+2 Financial Accountability Office of Ontario, 2021a. 
+3 Financial Accountability Office of Ontario, 2021b. 
+4 WSP, 2021.  
+5 Financial Accountability Office of Ontario, 2021c. 
+Figure 1-1 
+CIPI project structure and timeline 
+Source: FAO. 
+ 6 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Previously Released
+2021
+Municipal
+Infrastructure
+A Review of Ontario's Municipal Infrastructure 
+and an Assessment of the State of Repair
+2021/22
+Costing Climate Change Impacts
+to Public Infrastructure
+Project Backgrounder and Methodology
+2021/22
+Costing Climate Change Impacts
+to Public Infrastructure
+%WWIWWMRKXLIɚRERGMEPMQTEGXWSJI\XVIQIVEMRJEPPI\XVIQILIEX
+ERHJVII^IXLE[G]GPIWSRTYFPMGFYMPHMRKWMR3RXEVMS
+FINANCIAL ACCOUNTABILITY OFFICE OF ONTARIO 
+COSTING CLIMATE CHANGE IMPACTS AND 
+ADAPTATION FOR PROVINCIAL AND MUNICIPAL 
+PUBLIC INFRASTRUCTURE IN ONTARIO 
+DELIVERABLE #10 – FINAL REPORT 
+TORONTO, ONTARIO 
+WSP REF.: 211-00531-00 
+DATE: 29 OCTOBER 2021 
+CIPI Project
+Backgrounder
+and Methodology
+Buildings
+and Facilities
+Provincial
+Infrastructure
+Municipal
+Infrastructure
+WSP Report
+Current Report
+Summary
+Report
+Public Storm
+and
+Wastewater
+Infrastructure
+Upcoming
+2022/23
+CIPI
+Costing Climate Change Impacts to Public Infrastructure
+Assessing the financial impacts of 
+extreme rainfall, extreme heat and 
+freeze-thaw cycles on transportation 
+infrastructure in Ontario
+TRANSPORTATION
+Public
+Transportation
+Infrastructure
+ 7
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+2 | Summary 
+Ontario's provincial and municipal governments manage a large portfolio of transportation infrastructure 
+These transportation assets, valued at $330 billion, include roads, bridges, large structural culverts and rail 
+tracks. Ontario’s 444 municipalities own 82 per cent of this transportation infrastructure (or $269 billion), while 
+the remaining 18 per cent ($61 billion) is owned by the Province (all costs are in 2020 real dollars).  
+The cost to maintain the existing portfolio in a state of good repair is substantial, even in a stable climate 
+If the climate was stable, it would cost $12.9 billion per year to bring these assets into a state of good repair and 
+maintain them. Over the rest of the century, these costs would accumulate to approximately $1 trillion by 2100. 
+Changes in extreme rainfall, extreme heat and freeze-thaw cycles are already increasing the costs of 
+maintaining Ontario’s public transportation infrastructure 
+In the absence of adaptation, these climate hazards are expected to increase the costs of maintaining Ontario’s 
+transportation infrastructure by approximately $1.5 billion per year in this decade, above what would have 
+occurred in a stable climate. By 2030, these climate-related costs would accumulate to $13.3 billion for 
+provincial and municipal governments. 
+In the absence of adaptation, climate hazards will continue to increase the costs of maintaining Ontario’s 
+public transportation infrastructure throughout the century 
+In a medium emissions scenario, where global emissions peak by mid-century, these climate hazards would 
+increase infrastructure costs by an average of $2.2 billion per year, totalling $171 billion in additional costs by 
+2100. This is a 17 per cent increase in costs relative to a stable climate scenario. In the high emissions 
+scenario, where global emissions continue rising throughout the century, transportation infrastructure costs 
+would instead increase by $4.1 billion per year on average, totalling $322 billion by 2100. This is a 32 per cent 
+increase in costs relative to a stable climate scenario.  
+Adapting public transportation infrastructure to withstand these climate hazards will cost less than not 
+adapting over the long term 
+Depending on the emissions scenario, adapting public transportation infrastructure will add between $110 
+billion to $229 billion to infrastructure costs relative to a stable climate scenario by 2100. This represents a cost 
+increase between 11 and 23 per cent. While significant, these additional climate-related costs are lower than 
+those incurred in the absence of adaptation.  
+Costing climate impacts to public infrastructure over the long term is subject to significant uncertainty 
+The extent of global climate change will have a direct impact on Ontario’s public infrastructure costs. Climate-
+related costs will depend on the future path of global emissions, the vulnerability of infrastructure to changing 
+climate hazards, and the pace of adaptation. The FAO’s study presents median cost projections as well as a 
+range of possible cost outcomes in each scenario that account for this uncertainty.  
+This study focused on three climate hazards but excluded others, such as wildfires and ice storms. Costs to 
+governments were estimated, but the broader economic costs to households or businesses from damaged 
+transportation infrastructure were not included. These impacts were beyond the scope of this report but are 
+likely material. These subjects would benefit from further research. 
+ 8
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure 2-1 
+Adapting Ontario’s public transportation infrastructure will cost Provincial and municipal 
+governments less than not adapting in a changing climate
+Note: The costs in this chart are based on the median (or 50th percentile) projection under each emissions scenario and are in 
+addition to the baseline costs over the same period. For presentation purposes, the uncertainty bands are not shown in this figure.  
+Source: FAO. 
+$171
+$322
+$135
+$229
+$110
+$217
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+Medium emissions scenario
+High emissions scenario
+Cumulative climate-related 
+infrastructure spending by 2100 (real 
+$2020, billions)
+No adaptation
+Reactive adaptation
+Proactive adaptation
+ 9
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+3 | The long-term costs of maintaining 
+public transportation infrastructure 
+This chapter presents the scope of public transportation infrastructure considered in this report, discusses the 
+costs necessary to maintain these assets in a state of good repair, and estimates the long-term infrastructure 
+costs required to maintain infrastructure to 2100 under a stable climate. The purpose of this chapter is to 
+establish a baseline projection of infrastructure costs. In later chapters, this baseline is compared to projections 
+that account for changes in certain climate hazards. 
+There is a large portfolio of public transportation 
+infrastructure in Ontario 
+This report focuses on transportation infrastructure owned and controlled by provincial and municipal 
+governments. The FAO estimates that the current replacement value6 (CRV) of these assets is at least $330 
+billion in 2022.7 The public transportation assets included in the scope of this report are roads, bridges, large 
+structural culverts as well as transit engineering assets:8  
+•
+Roads include arterial roads, collector roads, highways, lanes and alleys, local roads, rural highways, and
+sidewalks. In this report, road CRV represents the cost of road reconstruction.9
+•
+Bridges include those located on arterial roads, collector roads, and highways, as well as local bridges
+and footbridges. Bridge CRV represents the cost of replacing a bridge with one of equal functionality.
+•
+Large structural culverts include those greater than three metres in diameter. Culvert CRV represents
+the cost of replacing a culvert with one of equal functionality.
+•
+Transit engineering assets include rail (tracks). Transit CRV represents the cost of replacing existing rail
+tracks.
+Ontario’s municipal governments own $269 billion of the transportation infrastructure assets in scope (82 per 
+cent), while the provincial government owns $61 billion (18 per cent).10 
+6 CRV is the current cost of rebuilding an asset with the equivalent capacity, functionality and performance. The CRV of roads 
+owned and managed by the Province and Ontario’s municipalities was revised to reflect updated cost estimates contained in 
+the Ontario Ministry of Transportation’s Parametric Estimating Guide (2021). See Appendix A for details.  
+7 For details on the scope of infrastructure covered in the CIPI project, see Financial Accountability Office of Ontario, 2021b. 
+8 For detailed information about the assets covered in this report, see Appendix A.  
+9 From Ontario Ministry of Transportation’s Parametric Estimating Guide (2021), Page 8: “…reconstruction can include removal 
+of existing full pavement structure, re-compaction of the subgrade, and complete replacement of the pavement structure. It is 
+performed substantially along the existing alignment and will normally result in improvements to the geometrics of a road.” 
+10 The scope of this report does not include private transportation infrastructure (such as Highway 407 or the Ambassador 
+Bridge), machinery and equipment (such as buses or rail cars) or Federal transportation assets (such as ports).  
+ 10 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Maintaining a large portfolio of public transportation 
+infrastructure requires constant spending 
+Keeping assets in a state of good repair helps to maximize the benefits of public infrastructure in the most cost-
+effective manner over time. To be maintained in a state of good repair, assets require annual operations and 
+maintenance (O&M) spending, as well as intermittent capital spending either to rehabilitate11 an asset or renew it at 
+the end of its service life.12  
+The costs to maintain public transportation infrastructure in a state of good repair reflect both the value of assets 
+owned, as well as the condition, age and performance standards of each individual asset under management. 
+For example, assets in poorer condition require more capital spending to bring them into a state of good repair. 
+Likewise, older assets must be renewed sooner than newer assets.  
+11 Rehabilitation means repairing part or most of an asset to extend its service life, without adding to its capacity, functionality 
+or performance. Rehabilitation is different from maintenance, which is the routine activities performed on an asset that 
+maximize service life and minimize service disruptions. Assets are rehabilitated to a benchmarked “state of good repair” 
+target and not to a new condition. For more information on the asset management framework used in this report see: 
+Financial Accountability Office of Ontario, 2021b.  
+12 Renewal is the replacement of an existing asset, resulting in a new or as-new asset with an equivalent capacity, functionality 
+and performance as the original asset. Renewal is different from rehabilitation, as renewal rebuilds the entire asset. 
+Figure 3-1 
+Ontario’s public transportation infrastructure covered in this report has a current 
+replacement value of $330 billion 
+Note: CRV estimates are in real 2020 billion dollars. Percentage values refer to a sector’s share of total CRV. 
+Source: FAO. 
+Bridges, 
+$35, 10%
+Large Structural Culverts, 
+$7, 2%
+Roads, 
+$221, 67%
+Transit Engineering, 
+$6, 2%
+Bridges, 
+$23, 7%
+Large Structural Culverts, 
+$5, 2%
+Roads, 
+$19, 6%
+Transit Engineering, 
+$13, 4%
+Provincial 
+Municipal 
+ 11 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+To project the costs of maintaining public transportation infrastructure in a state of good repair, the FAO gathered 
+and estimated asset-specific information on age, condition and current replacement value, as well as the general 
+performance standards used to evaluate if an asset is in a state of good repair. Using an infrastructure 
+deterioration model based on modelling techniques developed by the Ontario Ministry of Infrastructure,13 the 
+FAO projected the capital and operating expenses necessary to maintain the current portfolio14 of public 
+transportation infrastructure in a state of good repair to 2100, in the absence of climate considerations.15  
+These long-term O&M, rehabilitation, and renewal spending estimates form the baseline projection against which 
+the climate change costing scenarios will be compared. The baseline projection represents the infrastructure costs 
+that would have been required to maintain public transportation infrastructure in a stable climate.16 This allows the 
+FAO to identify the additional climate-related infrastructure costs that are associated with changing climate 
+hazards in later chapters. 
+Given the long useful service life of public transportation infrastructure, costs are projected to 2100. The results 
+in this report are presented as average annual costs, as well as cumulative total costs over the century. Average 
+annual costs are also presented over three time periods. 
+•
+The short term (2022-2030) shows how changing climate hazards are already impacting public
+infrastructure costs in the current decade.
+•
+The mid-century (2031-2070) captures the period in which projections for the relevant climate variables
+begin to diverge in the three global emissions scenarios examined in this report (see Figure 4-3).
+•
+The late century (2071-2100) captures the period where projections for the relevant climate variables
+diverge significantly in the three global emissions scenarios examined in this report.
+$12.9 billion per year needed to maintain the current portfolio 
+of public transportation infrastructure in a stable climate 
+The FAO projects that bringing Ontario’s existing suite of public transportation infrastructure assets into a state 
+of good repair and maintaining them until 2100 would have cost an average of $12.9 billion per year in a stable 
+climate, which would accumulate to approximately $1 trillion by the end of the century. This cumulative baseline 
+cost includes $362 billion ($4.6 billion per year) in O&M expense and $653 billion ($8.3 billion per year) in 
+rehabilitation and renewal expense to 2100.  
+13 For details, see: Financial Accountability Office of Ontario, 2020 and Financial Accountability Office of Ontario, 2021a. 
+14 This report only examines the existing suite of public transportation infrastructure; it excludes assets that are currently 
+under construction, planned for future construction or necessary to meet future infrastructure demand. 
+15 The cost estimates presented throughout this report do not incorporate new technologies or practices that may be used or 
+required of asset managers in the future.  
+16 In this report, a “stable climate” means that all climate indicators for extreme rainfall, extreme heat and freeze-thaw cycles 
+remain unchanged from their 1975-2005 average levels over the projection to 2100. 
+ 12 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+In the short term, provincial and municipal 
+governments would need to spend 
+approximately $11 billion per year to bring this 
+portfolio of public transportation infrastructure 
+into a state of good repair and maintain it. 
+These average annual costs rise to $13.4 billion 
+in the mid-century period, when a significant 
+share of Ontario’s public transportation 
+infrastructure begins to be replaced. By late 
+century, it would take $12.6 billion per year to 
+maintain this portfolio of public transportation 
+infrastructure in a stable climate. 
+All infrastructure cost projections presented in 
+this report assume that the funding necessary 
+to bring and maintain the current portfolio of 
+transportation infrastructure into a state of good 
+repair is made available and spent in a timely 
+manner. In practice, infrastructure repair 
+backlogs exist and maintaining assets in a state 
+of good repair is only one aspect of asset management. The baseline cost projection does not include any 
+spending associated with assets either currently under construction, planned for future construction or 
+necessary to meet future infrastructure demand.17   
+17 In addition, the projection does not incorporate any functionality improvements to existing public infrastructure in the future. 
+Figure 3-2 
+The costs of maintaining Ontario's public transportation infrastructure in a state of good 
+repair to 2100 in a stable climate (real 2020 dollars) 
+Source: FAO.  
+Current Replacement Value
+$330 billion 
+Total value of Ontario's 
+current portfolio of public 
+transportation infrastructure in 
+2022
+Total cost of bringing and 
+maintaining this portfolio in a state 
+of good repair in a stable climate,
+2022-2100
+Total Expense
+$1 trillion 
+($12.9 billion per year)
+Operations and Maintenance 
+Expense
+$362 billion
+($4.6 billion per year)
+Rehabilitation and Renewal
+Expense
+$653 billion
+($8.3 billion per year)
+Figure 3-3 
+Maintaining Ontario’s public transportation 
+infrastructure in a stable climate would have 
+cost $12.9 billion per year 
+Source: FAO. 
+$11.0
+$13.4
+$12.6
+$12.9
+$0
+$5
+$10
+$15
+Short Term 
+(2022-2030)
+Mid-century 
+(2031-2070)
+Late century 
+(2071-2100)
+2022-2100 
+Average
+Average annual infrastructure 
+spending (real $2020, billions)
+Total cost by spending
+type, 2022-2100
+ 
+ 
+ 
+13 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+ 
+4 | The cost of key climate hazards to 
+transportation infrastructure 
+Climate change is associated with many hazards to public infrastructure, which can take the form of extreme 
+weather events or long-term chronic impacts. Ontario has been subject to costly floods and ice storms and is 
+also prone to droughts, intense rainfall, wildfires, windstorms, heatwaves, and permafrost melt.18 This project 
+focuses on only three climate hazards – extreme rainfall, extreme heat and freeze-thaw cycles – as they were 
+determined to have broad and financially material impacts to public infrastructure and can be projected with a 
+reasonable degree of scientific confidence.19  
+ 
+This chapter summarizes how projected changes in these climate hazards would impact Ontario’s public 
+transportation infrastructure in the absence of adaptation measures. It then presents the FAO’s estimates of the 
+additional long-term costs these climate hazards would impose on Ontario’s portfolio of public transportation 
+infrastructure in medium and high emissions scenarios.   
+ 
+Changing extreme rainfall, extreme heat and freeze-thaw 
+cycles will impact transportation infrastructure 
+To ensure safety and reliability, infrastructure is designed, built and maintained to withstand a specific range of 
+climate conditions typically based on historic climatic loads.20 However, extreme rainfall and extreme heat are 
+projected to increase in the future, while freeze-thaw cycles are projected to decrease.21 
+ 
+Changing climate hazards will impact transportation infrastructure assets in different ways. Of all the possible 
+hazard–asset type interactions, this report examines six impacts: extreme rainfall and extreme heat on roads, 
+extreme rainfall and freeze-thaw cycles on bridges, extreme rainfall on large structural culverts, and extreme 
+heat on transit engineering (Figure 4-1). The following section provides an overview of how these climate 
+hazards will impact the different asset types.22 
+ 
+ 
+18 See Warren, F. and Lulham, N., editors, 2021, Section 6.4 for examples. 
+19 Numerous potentially significant climate hazards such as wildfires and fluvial flooding were not included. See Financial 
+Accountability Office, 2021b and WSP, 2021 for more information. Scientific confidence in climate projections differ by 
+variable. In general, temperature projections have high scientific confidence due to a large body of evidence on the causes of 
+observed changes and a strong understanding of the climate processes involved. Precipitation projections have medium 
+scientific confidence due to inadequate observations for some historical variables and uncertainty associated with a weaker 
+observed effect of global warming on precipitation. Other climate variables such as wind pressures and snow load have low 
+scientific confidence due to a limited understanding of the climate processes involved. For more information, see Cannon, 
+A.J., Jeong, D.I., Zhang, X., and Zwiers, F.W., 2020. 
+20 See Canadian Standards Association, 2014, Annex A3.1, for a Table of historical climatic and environmental data used in 
+the Canadian Highway Bridge Design Code.  
+21 While freeze-thaw cycles are projected to decrease in most regions of Ontario in most emissions scenarios, freeze-thaw 
+cycles in some northern regions are projected to increase in some scenarios. 
+22 This material is drawn from WSP, 2021. 
+ 14 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Roads 
+Extreme rainfall will impact road infrastructure most significantly in acute events (i.e., 100-year storm events23) 
+as roads are typically considered resilient to less-intense rainfall events. Washouts and flooding during severe 
+rainfall events can overwhelm drainage features and damage pavement. Extreme rainfall can also cause water to 
+penetrate the base and sub-base materials, leading to increased deterioration and cracking.  
+Extreme heat in the form of ambient temperatures over 30°C creates conditions where heat dissipates less 
+efficiently, softening the asphalt pavement. This increases the road’s vulnerability to rutting and cracking, which 
+can lead to increased water infiltration, weakening the base/sub-base and causing surface issues such as potholes. 
+Freeze-thaw cycles (FTCs) are fluctuations between freezing and non-freezing temperatures that cause water 
+to freeze (and expand) or melt (and contract). In contrast to vertical infrastructure (e.g., buildings) where less 
+water accumulates due to gravity runoff, horizontal infrastructure like roads have the potential to accumulate 
+water that penetrates sub-layers. The melting and re-freezing of accumulated water can then damage road 
+surfaces. While the FAO conducted a preliminary analysis of this impact, there was low confidence in the costing 
+results due to the lack of research on the combined impacts of moisture and frost conditions on roads. As such, 
+the costing results for freeze-thaw cycles on roads were excluded from this report. 
+23 See Appendix B for a detailed description of the climate hazards and their projections. 
+Figure 4-1 
+Scope of interactions between selected climate hazards and public transportation asset types 
+Source: WSP and FAO. 
+Extreme
+rainfall
+Extreme
+heat
+Roads
+Bridges
+Large Structural Culverts
+Transit Engineering
+Freeze-thaw
+cycles
+Not estimated
+Included in report
+LEGEND:
+Estimated but excluded from report
+ 
+ 
+ 
+15 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+ 
+Bridges 
+Extreme rainfall will impact bridges as acute events (i.e., 100-year storm events) through runoff and flooding. 
+These events will erode embankments and approaches, as well as scour and erode both bridge substructures 
+and shallow bridge foundations. Deep bridge foundations will be negligibly impacted.   
+ 
+Freeze-thaw cycles contribute to the weathering of bridge decks and barriers, causing concrete cracking. 
+However, the projected decline in the number of annual freeze-thaw cycles will increase the service life of 
+vertical concrete. FTCs are not expected to significantly impact other bridge components, including the 
+superstructure, substructure, and the layer below the asphalt pavement.24  
+ 
+Large Structural Culverts 
+Extreme rainfall will impact large structural culverts as acute events (i.e., 100-year storm events) through 
+increased erosion. Channel protection will also be vulnerable to washout and scour damages. 
+ 
+Transit Engineering 
+Extreme heat in the form of chronically high ambient temperatures over 30°C can cause stress on steel rail 
+tracks and other alignment components such as rail brace, tie plates and insulated joints. Higher temperatures 
+also increase friction between train wheels and tracks, potentially resulting in track buckling. Just a few hours of 
+above-average heat are enough to cause problems, with buckling probability increasing rapidly once 
+temperatures exceed around 35°C.25  
+ 
+ 
+24 Bridge superstructure and substructure are mostly protected by the bridge deck and are not directly exposed to FTCs, 
+while the layer below the asphalt pavement on bridges are typically constructed from impervious material which will not be 
+impacted by FTCs. 
+25 See Section 3.3.4 and Figure 1 in Chinowsky, P., Helman, J., Gulati, S., Neumann, J., & Martinich, J., 2019, for the 
+relationship between buckling probability and temperature. 
+ 16 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure 4-2 
+Examples of climate hazard impacts to key components of public transportation infrastructure 
+Note: For more examples of how these climate hazards impact transportation infrastructure, see WSP 2021. 
+Source: WSP. 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+LEGEND
+Extreme Rainfall
+Extreme Heat
+Freeze-thaw Cycles
+Includes
+Pavement surface, 
+pavement base and 
+sub-base, embankments, 
+retention systems, 
+drainage systems, 
+road finishing.   
+Includes
+Channel protection, 
+culverts, wingwalls and 
+headwalls.    
+Roads
+Extreme rainfall will increase erosion and 
+washouts, while extreme heat will increase 
+the risk of cracks forming through thermal 
+weathering. 
+Relevant climate hazards
+Includes
+Foundations, 
+substructure, 
+superstructure, decks, 
+barriers and ancillary 
+structures.    
+Bridges
+Extreme rainfall will more rapidly erode 
+bridge foundations, embankments, and 
+approaches, increasing deterioration and 
+maintenance costs. Annual FTCs, which 
+normally contribute to concrete cracking, 
+are declining, benefitting these assets. 
+Relevant climate hazards
+Includes
+Steel rails, tracks, rail 
+braces, tie plates, 
+insulated joints, 
+crossings.  
+Transit Engineering
+Higher temperature increases friction 
+between train wheels and tracks, potentially 
+resulting in the buckling of tracks. Extreme 
+temperatures also reduce the viscosity of 
+asphalt, increasing friction and erosion. 
+Relevant climate hazards
+Large Structural Culverts
+Extreme rainfall will cause erosion, wash outs 
+and scour damages to channel protection and 
+culverts.   
+Relevant climate hazards
+ 17 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Most climate hazards to public transportation infrastructure 
+will increase 
+The impacts of changing climate hazards on Ontario’s public transportation infrastructure will depend on the 
+path of global greenhouse gas emissions and the extent of global mean temperature increases. The FAO costed 
+climate impacts to public transportation infrastructure for three global emissions scenarios:  
+•
+A low emissions scenario that assumes a major and
+immediate turnaround in global climate policies. Emissions
+are projected to peak in the early 2020s and decline to zero
+by the 2080s. By the end of the century, net emissions are
+negative. In this scenario, global mean temperatures are
+projected to increase by 1.6°C (0.8 to 2.4°C) by 2100
+compared to the pre-industrial average (1850-1900).26 The
+key results for this scenario are presented in Appendix F.
+•
+A medium emissions scenario, where global emissions
+peak in the 2040s, then decline rapidly over the following
+four decades before stabilizing at the end of the century.
+In this scenario, the global mean temperature is projected
+to increase by 2.3°C (1.7 to 3.2°C) by 2100 relative to
+1850-1900.
+•
+A high emissions scenario that assumes global emissions
+continue to grow for most of the century.27 Global mean
+temperatures are projected to increase by 4.2°C (3.2 to 5.4°C)
+relative to 1850-1900. Cumulative emissions from 2005 to
+2020 most closely match the high emissions scenario.28
+Figure 4-3 presents a brief description of the projected changes in the climate indicators used to represent these 
+hazards. Appendix B contains a full description of all relevant climate variables to public transportation 
+infrastructure, and their trends in all scenarios.  
+26 See Intergovernmental Panel on Climate Change, 2013, Table “All.7.5”, for projections of global mean surface temperature 
+change. Ranges for the global mean surface temperature represent the 5th percentile to the 95th percentile projections of 
+models used. 
+27 The Intergovernmental Panel on Climate Change’s fifth comprehensive assessment (AR5), released in 2013, produced four 
+scenarios called Representative Concentration Pathways (RCPs). The low emissions scenario corresponds to RCP2.6, the 
+medium emissions scenario corresponds to RCP4.5 and the high emissions scenario corresponds to RCP8.5. See the IPCC’s 
+Fifth Assessment Synthesis Report. The IPCC’s sixth assessment (AR6), released in 2021, contains five updated scenarios 
+called Shared Socioeconomic Pathways (SSPs), which line up with the RCPs from AR5 in terms of average warming. This 
+means that the RCP scenarios from AR5 are still relevant. 
+28 See Pacific Climate Impacts Consortium, 2021 for a comparison of the high emissions scenario to historical emissions. 
+Uncertainty in climate change 
+projections 
+The FAO partnered with the Canadian 
+Centre for Climate Services at 
+Environment and Climate Change 
+Canada to acquire projections of key 
+climate indicators for Ontario. To 
+account for uncertainty in climate 
+projections and in line with common 
+practice in climate science, the median 
+(50th percentile) projections of climate 
+variables are presented, followed by 
+ranges in parentheses. For Ontario 
+climate indicators, the ranges indicate 
+the 10th and 90th percentile projections 
+from the ensemble of 24 climate 
+models used by the Canadian Centre 
+for Climate Services.  
+18 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure 4-3 
+Changing climate hazards in Ontario 
+Annual number of hot days to increase 
+•
+Projected changes in Ontario’s annual number of hot days (number
+of days with daily maximum temperature above 30°C) differ
+significantly in the low and high emissions scenarios. Over the 1976-
+2005 period, there were on average 4 hot days every year.
+Compared to this baseline, Ontario’s annual number of hot days is
+projected to increase by 5 days (2 to 10 days) in the low emissions
+scenario and by 34 days (17 to 46 days) in the high emissions
+scenario by the 2071-2100 period.
+•
+There is high confidence in the projected trends and ranges of
+temperature variables based on strong scientific evidence in the
+causes of observed changes.29
+Extreme rainfall to increase 
+•
+Compared to the 1976-2005 baseline, the intensity of a 24-hour 1-in-
+100-year rainfall event in Ontario is projected to increase by 15 per cent
+(10 to 23 per cent) in the low emissions scenario and by 53 per cent (38
+to 78 per cent) in the high emissions scenario by the 2071-2100 period.
+•
+Over the 1976-2005 period, the average 1-in-100-year 24-hour
+rainfall in Ontario was 103 mm. By the 2071-2100 period, there is
+projected to be on average 118 mm (113 to 127 mm) of rain in
+the low emissions scenario and 158 mm (142 to 185 mm) of rain
+in the high emissions scenario.
+•
+Confidence in the projected trends and ranges of aggregate
+precipitation variables is somewhat lower (medium) than for
+temperature variables as there is less confidence in how well
+climate models represent the climate processes involved.
+Annual freeze-thaw cycles to decline 
+•
+Annual FTCs are the number of days in a year when the
+temperature crosses 0°C. Over the coming decades, the winter
+season will shorten due to rising temperatures. Ontario’s annual
+FTCs are projected to decline by 5 per cent (0 to 15 per cent) in
+the low emissions scenario and by 15 per cent (0 to 25 per cent) in
+the high emissions scenario by the 2071-2100 period.
+•
+Over the 1976-2005 period, there were on average 77 freeze-thaw
+cycles every year. Compared to this baseline, Ontario’s annual
+number of FTCs is projected to decrease by 4 cycles (-12 to 0
+cycles) in the low emissions scenario and by 12 cycles (-19 to 0
+cycles) in the high emissions scenario by the 2071-2100 period.
+•
+There is high confidence in the projections of annual FTCs based
+on the amount of evidence for projected trends and ranges of
+temperature variables.
+Source: Canadian Centre for Climate Services.
+29 See Footnote 19. 
+0
+20
+40
+60
+80
+1950
+2000
+2050
+2100
+Ontario annual number of hot days
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+100
+150
+200
+2011
+-2040
+2031
+-2060
+2051
+-2080
+2071
+-2100
+Ontario IDF 24-hour 1:100 (mm)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+40
+50
+60
+70
+80
+90
+100
+110
+1950
+2000
+2050
+2100
+Ontario annual number of freeze-thaw cycles
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+19 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Climate hazards are raising the cost of maintaining the 
+current portfolio of public transportation infrastructure 
+In this section, the FAO presents the cost projections in a no adaptation asset management strategy. In this 
+strategy, asset managers do not adapt public transportation infrastructure to withstand changing climate hazards, 
+but instead pay higher costs to maintain their assets in a state of good repair in the face of increasing climate 
+hazards. While in practice there are many climate change adaptation initiatives under way, the intent of the no 
+adaptation strategy is to explore the financial implications of not adapting public transportation infrastructure to 
+these climate hazards. 
+In the absence of adaptation actions, increasing extreme weather events will shorten the useful service life (USL) 
+of public transportation infrastructure, requiring more frequent and additional rehabilitations relative to the 
+“stable climate” scenario. Changing climate hazards will also result in higher spending on operations and 
+maintenance (O&M). Taken together, these factors will increase the costs of maintaining the current portfolio of 
+public transportation infrastructure in a state of good repair. These additional infrastructure costs, above what 
+would have occurred in a stable climate, are defined as “damage costs.” 
+In the medium emissions scenario (median projection), the average annual cost of maintaining the existing 
+portfolio of public transportation infrastructure in a state of good repair will increase by $2.2 billion per year over 
+the century. This represents a 17 per cent increase in costs over what would have occurred in a stable climate. 
+These average annual costs fluctuate from $1.4 billion per year this decade, to $2.4 billion in the mid-century 
+period as climate hazards continue to moderately deteriorate. By late century, these costs amount to $2.1 billion 
+per year as climate hazards stabilize in this period in the medium emissions scenario (see Figure 4-3).  
+Figure 4-4 
+Changing climate hazards will raise the cost of maintaining the current portfolio of public 
+transportation infrastructure in the absence of adaptation  
+Note: Uncertainty ranges are omitted from this chart for presentation purposes. 
+Source: FAO.
+$11.0
+$13.4
+$12.6
+$12.9
+$11.0
+$13.4
+$12.6
+$12.9
+$1.4
+$2.4
+$2.1
+$2.2
+$1.6
+$3.1
+$6.1
+$4.1
+$0
+$5
+$10
+$15
+$20
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending 
+(real $2020, billions)
+ Stable climate
+No adaptation strategy, additional climate-related costs
+High emissions scenario
+(Median projection)
+Medium emissions scenario
+(Median projection)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 20 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+In the high emissions scenario (median projection), average annual infrastructure costs would instead increase 
+by $4.1 billion per year over the century, a 32 per cent increase in costs relative to the stable climate scenario. In 
+this case, climate-related costs increase from $1.6 billion this decade, to an average of $3.1 billion in the mid-
+century period, and continue rising to $6.1 billion by late century. This occurs due to the continued deterioration 
+of climate hazards in the high emissions scenario. 
+There is uncertainty in the extent of warming 
+that will occur in each emissions scenario (see 
+Page 17), as well as engineering uncertainty in 
+how changing climate hazards will impact 
+Ontario’s infrastructure (see Appendix C). The 
+full range of average annual climate-related 
+costs is presented in Figure 4-5.  
+These average annual costs would cumulate 
+over the projection. In the short term, changing 
+climate hazards are already adding to the cost 
+of maintaining public transportation 
+infrastructure. Annual climate-related costs 
+across the medium and high emissions 
+scenarios average $1.5 billion from 2022-
+2030, which would accumulate to 
+approximately $13.3 billion by 2030 in the 
+absence of adaptation.30 This is a 13 per cent increase in provincial and municipal infrastructure costs relative to 
+the stable climate projection.  
+In the medium emissions scenario (median 
+projection), the cumulative cost of maintaining 
+the existing portfolio of public transportation 
+infrastructure in a state of good repair will 
+increase by $171 billion over the century. This 
+represents a 17 per cent increase in costs over 
+what would have occurred in a stable climate. 
+These cumulative costs could range from $89 
+billion to $298 billion given the climate and 
+engineering uncertainties. 
+In the high emissions scenario (median projection), 
+the cumulative cost would instead increase by 
+$322 billion (a 32 per cent increase), with a 
+range of $180 billion to $522 billion. 
+30 The $13.3 billion in cumulative climate-related costs by 2030 is the average of the medium and high emissions scenarios’ 
+median projections. This cost could range from $7 billion to $20 billion given the climate and engineering uncertainties. 
+Figure 4-6 
+In the absence of adaptation, climate-related costs 
+accumulate to significant sums by 2100 
+Source: FAO. 
+Figure 4-5 
+Uncertainty ranges around annual climate-related 
+costs widen over time  
+Source: FAO.
+$1.4
+$2.4
+$2.1
+$1.6
+$3.1
+$6.1
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related 
+costs (real $2020, billions)
+Medium emissions scenario
+High emissions scenario
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+$1,015
+$1,015
+$171
+$322
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+Medium emissions
+scenario
+High emissions
+scenario
+Cumulative spending by 2100
+(real $2020, billions)
+No adaptation - additional climate related costs
+Stable climate projection
+$89 
+$298 
+$522 
+$180 
+ 21 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+5 | Adapting public transportation 
+infrastructure to climate hazards 
+Chapter 4 described the financial impact of not adapting public transportation infrastructure to the projected 
+changes in extreme rainfall, extreme heat and freeze-thaw cycles. In practice, transportation infrastructure can 
+be adapted to withstand these impacts – ensuring that assets perform to the same standards for which they were 
+initially designed and avoiding accelerated deterioration or higher O&M expenses.  
+This chapter discusses different forms of adaptation, defines the scope of adaptation analyzed in this report, and 
+estimates a range of costs to adapt Ontario’s portfolio of public transportation infrastructure to withstand the late-
+century climate projections for extreme rainfall and extreme heat in the medium and high emissions scenarios.31  
+Adapting public transportation infrastructure can help 
+prevent the impacts of climate hazards  
+Ontario’s public transportation infrastructure 
+assets have long useful lives. Of the $330 
+billion in infrastructure, nearly 72 per cent 
+has a remaining useful life of more than 40 
+years. Given the long useful lives of public 
+transportation infrastructure assets, late-
+century climate conditions are relevant to 
+adaptation decisions being made now. 
+These decisions will impact public 
+infrastructure costs throughout the century. 
+However, climate projections depend on 
+the trajectory of global emissions, which 
+remains uncertain. This raises the difficult 
+question of how projected changes in key 
+climate hazards should be accounted for 
+when public transportation infrastructure is 
+designed, built or retrofitted.32 
+31 As FTCs are mostly declining, the FAO assumes that adaptation actions are not undertaken to address this climate hazard. 
+32 See Infrastructure Canada’s Climate Lens for a general guidance on different factors to consider when making adaptation 
+decisions.  
+Figure 5-1 
+Ontario’s public transportation infrastructure assets 
+have long remaining useful lives 
+Source: FAO.  
+1
+3
+24
+57
+5
+10
+0
+10
+20
+30
+40
+50
+60
+Beyond
+useful life
+0-20
+years
+21-40
+years
+41-60
+years
+61-80
+years
+81-100
+years
+Share of transportation assets 
+by CRV (per cent)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 22 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Adapting transportation infrastructure to changing climate hazards could take many forms. A few examples 
+include:  
+•
+updating infrastructure design parameters to a higher standard, including those detailed in the Canadian
+Highway Bridge Design Code;33
+•
+using Intensity-Duration-Frequency tools that project future rainfall intensities for the design and
+replacement of transportation infrastructure;34
+•
+using pavement mixes for roads with higher heat tolerance;35
+•
+expanding the drainage capacity of culverts;36
+•
+using thermosyphons to maintain permafrost stability and improve northern road and highway
+performance;37 and
+•
+changing the way assets are managed, for example, altering the frequency of operations and
+maintenance schedules.38
+In the FAO’s framework, adaptation is modelled as an alteration of the physical components of transportation 
+infrastructure to prevent damage costs caused by changing climate hazards.39 Figure 5-2 presents some 
+examples of adaptation measures for transportation infrastructure components.40
+33 While the climate data underlying current versions of highway bridge design code is based on historical observations (see 
+Canadian Highway Bridge Design Code Annex A3.1), numerous efforts are underway to integrate climate change 
+considerations into the management of transportation infrastructure. For example, at the federal level, the Climate-Resilient 
+Buildings and Core Public Infrastructure Initiative has supported the development of forward-looking climate data for the 
+purposes of updating the Canadian Highway Bridge Design Code.  
+34 For example, the Ontario Ministry of Transportation issued a policy in 2016 on the use of future rainfall predictions for the 
+design of highway infrastructure. For more information, see Ontario Ministry of Transportation, 2017.  
+35 See Warren, F. and Lemmen, D.S., editors, 2014, Chapter 1, Page 9 for more examples of adaptation options in the 
+transportation sector. 
+36 Ibid. 
+37 Thermosyphons are devices that transfer air to cool permafrost and reduce permafrost thaw. See Transport Canada, 2021, 
+for a description of the project by the Government of Yukon. 
+38 For example, see Asset Management BC’s Climate Change and Asset Management: A Sustainable Service Delivery Primer. 
+39 Adaptation costs for large structural culverts also reflect the cost to increase culvert capacity to handle increased flow from 
+more extreme rainfall.  
+40 For a full description of adaptation examples, see WSP, 2021. 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 23 
+Assessing the nancial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure 5-2 
+Examples of transportation infrastructure adaptations to climate hazards 
+Note: For more examples of how transportation infrastructure components can be adapted to climate hazards, see WSP 2021. 
+Source: WSP. 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Transit Engineering
+Roads
+Using a higher temperature grade 
+asphalt binder can help reduce the 
+risk of permanent deformation from 
+extreme heat.
+Mitigative measures against warping/ curling 
+and 
+blow-up due to slab expansion include shortening joint spacing 
+and installing high-quality expansion joints. 
+Specialized asphalt mixes and higher quality materials can mitigate 
+drainage or erosion issues caused by extreme rainfall.  
+Bridges
+Deeper foundations will be less 
+vulnerable to extreme rainfall and its 
+anticipated effects of scour and erosion. 
+Added rip rap for foundations in watercourses 
+will increase erosion protection and runoff control.
+Large Structural Culverts
+Larger pipes and structures and 
+associated excavations are needed 
+for increased capacity in anticipation 
+of the peak flow volume of projected 
+extreme rainfalls. 
+Rocks of larger diameters are required for channel protection.
+Adequate tie plates and anchors 
+are required to accommodate the 
+dilatation of rail and increase stability. 
+Increase the use of designed materials that 
+are tolerant to higher operating temperatures in 
+moving components and tracks.
+ 24 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Adaptation strategy costs vary based on the approach taken 
+To estimate adaptation costs, the FAO assumed that public transportation infrastructure is adapted at the time of 
+rehabilitation or renewal to withstand the late-century projections41 of each climate hazard.42 Once an asset is 
+adapted, the FAO assumes that it no longer faces additional O&M and capital expenses due to changing climate 
+hazards.43 However, since adaptation increases the value of an asset, its post-adaptation O&M and capital 
+expenses also increase, reflecting its higher value. 
+The additional infrastructure costs of an adaptation strategy include: higher capital expenses from increased 
+deterioration and higher O&M expenses until adaptation, a one-time adaptation expense (either through a retrofit or 
+renewal), and higher O&M and capital expenses required to maintain higher-valued adapted assets. The costs 
+presented in this chapter would occur instead of those estimated in the no adaptation strategy presented in Chapter 4. 
+The costs of an adaptation strategy would vary based on when the adaptation actions are undertaken. To 
+highlight how the costs could vary, the FAO developed two adaptation strategies.  
+•
+Reactive adaptation strategy: Transportation assets are only adapted at the time of renewal. This
+approach results in a gradual increase in the share of adapted assets over the century, with roughly 90
+per cent of assets adapted by 2100. The remaining 10 per cent have service lives that extend beyond
+2100 and are not renewed or adapted over the projection.
+•
+Proactive adaptation strategy: Transportation assets are adapted at the first available opportunity. This
+occurs either during an asset’s next major rehabilitation through a retrofit44 or at renewal, whichever
+comes first. In this approach, all transportation assets are adapted by the 2050s.
+41 The 2080s are selected to approximate the changes in climate in the latter half of the 21st century. The decadal adaptation 
+costs are presented in Appendix C. However, in practice, assets can be adapted to the projected climate over the service life of 
+individual assets. In the FAO’s modelling framework, the cumulative portfolio-wide adaption costs do not materially change when 
+assets are adapted to withstand climate projections over their remaining service life.  
+42 Assets are only adapted to climate hazards that are projected to drive damage costs in the absence of adaptation. For 
+example, a reduction in freeze-thaw cycles will extend the useful service life and reduce the O&M expense of certain assets. 
+However, it is assumed to be unlikely that design standards will ease in response. For details, see Page viii WSP, 2021.  
+43 Although no additional damage costs are incurred after an asset is adapted, its CRV increases to reflect the addition of climate 
+hazard–resilient components, increasing the expenses associated with maintaining adapted assets in a state of good repair. 
+44 A retrofit is an adaptation made during the asset’s service life.   
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 25 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Projecting public transportation infrastructure costs in the reactive adaptation strategy 
+In the medium emissions scenario (median projection), the average annual cost of maintaining the existing 
+portfolio of public transportation infrastructure in a state of good repair will increase by $1.7 billion per year over 
+the century. This represents a 13 per cent increase in costs over what would have occurred in a stable climate. 
+These average annual costs fluctuate from $1.6 billion per year this decade, to $2.4 billion in the mid-century 
+period as the share of adapted assets rises from nine per cent in 2030 to 66 per cent in 2070. By late century, 
+these costs decline to $0.8 billion per year as adapted public transportation assets avoid damage costs 
+associated with late century climate conditions (see Figure 5-3).  
+In the high emissions scenario (median projection), average annual infrastructure costs would instead increase 
+by $2.9 billion per year over the century, a 23 per cent increase in costs relative to the stable climate scenario. In 
+this case, climate-related costs increase from $2.1 billion this decade, to an average of $3.4 billion in the mid-
+century period, then declining to $2.5 billion in the late century period. Costs in this scenario reflect higher 
+damage costs from more extreme climate hazards, as well as higher adaptation costs to enable public 
+transportation infrastructure to withstand these hazards. 
+Figure 5-3 
+The reactive adaptation strategy leaves most public transportation assets vulnerable to 
+changing climate hazards throughout the mid-century. 
+Source: FAO.  
+53
+100
+100
+9
+66
+90
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2022
+2028
+2034
+2040
+2046
+2052
+2058
+2064
+2070
+2076
+2082
+2088
+2094
+2100
+Proportion of adapted public transportation 
+infrastructure by CRV (per cent)
+Proactive adaptation
+Reactive adaptation
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 26 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Given the uncertain extent of warming that will occur 
+in each emissions scenario, as well as the engineering 
+uncertainty in costing the array of adaptation options, 
+the full range of climate-related costs is presented in 
+Figure 5-5. 
+These projected annual costs will accumulate over the 
+remainder of this century. In the first decade of the 
+reactive adaptation strategy, approximately nine per 
+cent of public transportation assets are adapted, while 
+the remaining assets continue to incur damage costs.  
+The FAO projects that these climate-related costs 
+would accumulate to approximately $14 billion by 
+2030 in the medium emissions scenario (a 15 per cent 
+increase in provincial and municipal infrastructure 
+costs relative to the stable climate projection), or 
+approximately $19 billion by 2030 in the high 
+emissions scenario (a 19 per cent increase).45  
+45 These costs could range from $8 billion to $23 billion in the medium emissions scenario and from $10 billion to $29 billion 
+in the high emissions scenario given the climate and engineering uncertainties. 
+Figure 5-4 
+Adaptation will raise transportation infrastructure costs, but more so in the high emissions 
+scenario  
+Note: Uncertainty ranges are omitted from this chart for presentation purpose. 
+Source: FAO  
+$11.0
+$13.4
+$12.6
+$12.9
+$11.0
+$13.4
+$12.6
+$12.9
+$1.6
+$2.4
+$0.8
+$1.7
+$2.1
+$3.4
+$2.5
+$2.9
+$0
+$5
+$10
+$15
+$20
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending 
+(real $2020, billions)
+ Stable climate
+Reactive adaptation strategy, additional climate-related costs
+High emissions scenario
+(Median projection)
+Medium emissions scenario
+(Median projection)
+Figure 5-5 
+Climate-related costs are subject to 
+climate and engineering uncertainty 
+Source: FAO.
+$1.6
+$2.4
+$0.8
+$2.1
+$3.4
+$2.5
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related costs
+(real $2020, billions)
+Medium emissions scenario
+High emissions scenario
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 27 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+In the medium emissions scenario 
+(median projection), the cumulative 
+cost of maintaining the existing 
+portfolio of public transportation 
+infrastructure in a state of good repair 
+will increase by $135 billion over the 
+century. This represents a 13 per cent 
+increase in costs over what would 
+have occurred in a stable climate. 
+These cumulative costs could range 
+from $67 billion to $235 billion given 
+the climate and engineering 
+uncertainties. 
+In the high emissions scenario 
+(median projection), the cumulative 
+cost would instead increase by $229 
+billion (a 23 per cent increase), with a 
+range of $129 billion to $374 billion. 
+Projecting public transportation infrastructure costs in the proactive adaptation 
+strategy  
+In the proactive adaptation strategy, transportation assets are adapted at the first available opportunity. It is 
+assumed that over 50 per cent of infrastructure assets are adapted by 2030 and 100 per cent are adapted by 
+2070 (see Figure 5-3). 
+In the medium emissions scenario (median projection), the average annual cost of maintaining the existing 
+portfolio of public transportation infrastructure in a state of good repair will increase by $1.4 billion per year over 
+the century. This represents an 11 per cent increase in costs over what would have occurred in a stable climate. 
+These average annual costs decline from $2.9 billion per year this decade (when over half of public 
+transportation assets are assumed to be adapted), to $1.4 billion in the mid-century period, and to $1.0 billion per 
+year by late century, as adapted public transportation assets avoid damage costs associated with late century 
+climate conditions (see Figure 5-7).  
+In the high emissions scenario (median projection), average annual infrastructure costs would instead increase 
+by $2.7 billion per year over the century, a 21 per cent increase in costs relative to the stable climate scenario. In 
+this case, climate-related costs decline from $5.2 billion per year this decade, to an average of $2.8 billion in the 
+mid-century period, then declining to $2.0 billion in the late century period. Costs in this scenario reflect higher 
+damage costs from more extreme climate hazards, as well as higher adaptation costs to enable public 
+transportation infrastructure to withstand these hazards. 
+Figure 5-6 
+Cumulative climate-related costs in the reactive 
+adaptation strategy to 2100 
+Source: FAO.
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+$1,015
+$1,015
+$135
+$229
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+Medium emissions scenario
+High emissions scenario
+Cumulative spending by 2100
+(real $2020, billions)
+Reactive adaptation - additional climate related costs
+Stable climate projection
+$67 
+$235 
+$129 
+$374 
+ 28 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+However, given the uncertain extent of warming that 
+will occur in each emissions scenario, as well as the 
+engineering uncertainty in costing the array of 
+adaptation options, the full range of annual climate-
+related costs is presented in Figure 5-8.  
+In the first decade of the proactive adaptation strategy, 
+approximately 53 per cent of public transportation 
+assets are assumed to be adapted, while the 
+remaining assets continue to incur damage costs.  
+The FAO projects that these climate-related costs 
+would accumulate to approximately $26 billion by 
+2030 in the medium emissions scenario (a 26 per cent 
+increase in provincial and municipal infrastructure 
+costs relative to the stable climate projection), or 
+approximately $47 billion by 2030 in the high 
+emissions scenario (a 47 per cent increase).46  
+46 These costs could range from $11 billion to $46 billion in the medium emissions scenario and from $24 billion to $81 billion 
+in the high emissions scenario given the climate and engineering uncertainties. 
+Figure 5-7 
+Adaptation will raise transportation infrastructure costs, but more so in the high emissions 
+scenario   
+Note: Uncertainty ranges are omitted from this chart for presentation purpose. 
+Source: FAO  
+$11.0
+$13.4
+$12.6
+$12.9
+$11.0
+$13.4
+$12.6
+$12.9
+$2.9
+$1.4
+$1.0
+$1.4
+$5.2
+$2.8
+$2.0
+$2.7
+$0
+$5
+$10
+$15
+$20
+2022-2030 2031-2070 2071-2100 2022-2100
+2022-2030 2031-2070 2071-2100 2022-2100
+Average annual infrastructure spending 
+(real $2020, billions)
+ Stable climate
+Proactive adaptation strategy, additional climate-related costs
+High emissions scenario
+(Median projection)
+Medium emissions scenario 
+(Median projection)
+Figure 5-8 
+Climate-related costs are subject to 
+climate and engineering uncertainty 
+Source: FAO.
+$2.9
+$1.4
+$1.0
+$5.2
+$2.8
+$2.0
+$0
+$2
+$4
+$6
+$8
+$10
+$12
+2022-2030
+2031-2070
+2071-2100
+Average annual climate-related costs
+(real $2020, billions)
+Medium emissions scenario
+High emissions scenario
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 29 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+In the medium emissions scenario 
+(median projection), the cumulative cost 
+of maintaining the existing portfolio of 
+public transportation infrastructure in a 
+state of good repair will increase by 
+$110 billion over the century. This 
+represents an 11 per cent increase in 
+costs over what would have occurred in 
+a stable climate. These cumulative costs 
+could range from $46 billion to $210 
+billion given the climate and engineering 
+uncertainties. 
+In the high emissions scenario (median 
+projection), the cumulative cost would 
+instead increase by $217 billion (a 21 
+per cent increase), with a range of $111 
+billion to $386 billion. 
+Figure 5-9 
+Cumulative climate-related costs in the proactive 
+adaptation strategy to 2100 
+Source: FAO.
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+$1,015
+$1,015
+$110
+$217
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+Medium emissions scenario
+High emissions scenario
+Cumulative spending by 2100
+(real $2020, billions)
+Proactive adaptation - additional climate related costs
+Stable climate projection
+$46 
+$210 
+$111 
+$386 
+ 30 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+6 | Comparing different asset 
+management strategies 
+Chapters 4 and 5 examined the costs of maintaining public transportation infrastructure in a state of good repair 
+in the presence of climate change under three asset management strategies: no adaptation, reactive adaptation 
+and proactive adaptation. None of the strategies presented in this report are meant to be a precise 
+representation of future costs, and the portfolio level costing results are not intended to inform asset-specific 
+management decisions. These strategies were designed to estimate the scale of the budgetary impact that 
+changes in extreme rainfall, extreme heat and freeze-thaw cycles will impose on the Province and municipalities 
+over the rest of the century.  
+This chapter compares cost estimates across the three asset management strategies and discusses the 
+difference in cost profiles between them. The chapter then discusses the factors that were beyond the scope of 
+the FAO’s analysis but are relevant in determining the most cost-effective strategy for managing Ontario's public 
+transportation infrastructure in a changing climate.  
+Adapting public transportation infrastructure is less 
+expensive than not adapting over the long term 
+The financial impact of extreme rainfall, extreme heat and freeze-thaw cycles will be material to the Province and 
+municipalities regardless of which asset management strategy is pursued. However, the FAO estimates that on 
+an undiscounted basis, the cumulative costs by the end of the 21st century are the highest under the no 
+adaptation strategy and lowest under the proactive adaptation strategy under both emissions scenarios. For a 
+discussion of these cost profiles on a discounted basis, see Appendix D. 
+Figure 6-1 shows that the future path of global climate change will influence the extent of additional climate-
+related infrastructure costs, which are much lower in the medium emissions scenario than in the high emissions 
+scenario (median projections) across all asset management strategies. 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 31 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Proactively adapting public transportation infrastructure 
+requires higher upfront costs but rapidly reduces climate 
+vulnerability 
+Figure 6-2 shows how costs accumulate in the medium and high emissions scenarios (median projections) under 
+the three asset management strategies.  
+Figure 6-1 
+Adapting Ontario’s public transportation infrastructure will cost Provincial and municipal 
+governments less than not adapting in a changing climate 
+Note: The costs in this chart are based on the median (or 50th percentile) projection under each emissions scenario and are in 
+addition to the baseline costs over the same period. Uncertainty ranges are omitted from this chart for presentation purpose.   
+Source: FAO. 
+$171
+$322
+$135
+$229
+$110
+$217
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+Medium emissions scenario
+High emissions scenario
+Cumulative climate-related 
+infrastructure spending by 2100
+(real $2020, billions)
+No adaptation
+Reactive adaptation
+Proactive adaptation
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 32 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+In the first half of the century, the cost profiles of the no adaptation strategy and the reactive adaptation strategy 
+are similar, as damage costs from worsening climate hazards are incurred in both strategies. These costs profiles 
+diverge in the second half of the century as the impact of more frequent and intense climate hazards becomes 
+more costly in the no adaptation strategy, whereas these costs are avoided in the reactive adaptation strategy 
+since over 66 per cent of public transportation assets are adapted by 2070 (see Figure 5-3). 
+The proactive adaptation strategy sees a substantial accumulation in costs over the next four decades as all 
+assets are adapted by the 2050s, rapidly reducing the vulnerability of Ontario’s transportation infrastructure to these 
+changing climate hazards. The result is a much slower accumulation of costs in the second half of the century, as 
+climate damages are avoided. By the end of the century, the proactive adaptation strategy results in the lowest 
+cumulative additional costs of the three strategies in real 2020 dollars. 
+Costs to households and businesses should be included in 
+assessing the cost-effectiveness of adaptation action 
+This report accounts for the direct infrastructure costs to government but excludes any costs to households or 
+businesses from infrastructure service disruptions. For example, if a municipal road becomes damaged and must 
+be repaired, this analysis includes only the cost of those repairs to the municipality, not the costs to households 
+and businesses of traffic delays.47  
+47 For discussions on the value of indirect benefits of adaptation and the indirect costs of service disruption in the context of 
+transportation infrastructure, see Institute for Catastrophic Loss Reduction, 2020, UNEP, 2021 and Neumann, J.E., Chinowsky, 
+P., Helman, J. et al., 2021.  
+Figure 6-2 
+The three asset management strategies have different cost profiles 
+Note: The costs in this chart are based on the median (or 50th percentile) projection under each emissions scenario and are in 
+addition to the baseline costs over the same period. Uncertainty ranges are omitted from this chart for presentation purpose. 
+Source: FAO. 
+$12
+$171
+$14
+$135
+$26
+$110
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+Cumulative climate-related infrastructure 
+spending (real $2020, billions)
+Medium emissions scenario
+No adaptation
+Reactive adaptation
+Proactive adaptation
+$14
+$322
+$19
+$229
+$47
+$217
+High emissions scenario
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 33 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Examples of costs to households and businesses include the following: 
+•
+Traffic congestion occurs during the rehabilitation and renewal of transportation assets, slowing travel
+times and impacting productivity. For example, a recent Canadian Climate Institute study of the climate
+impacts to public infrastructure states that: “…the costs of delays and travel disruptions on road and rail
+systems could be nearly as high as the costs of direct physical damage to the infrastructure itself.”48
+•
+Beyond the delay costs, climate-related disruptions to transportation networks would impact supply
+chains, the labour market and the economy more broadly.49
+•
+Climate-related disruptions to transportation networks also have non-financial costs, including increased
+response times to health and environmental emergencies,50 or higher risks of being cut off from vital
+services in rural and remote communities.
+Costing these broader societal impacts was beyond the scope of this report. These costs are likely to be material 
+and if added, would likely show further benefits of adapting public transportation infrastructure. Estimating these 
+impacts would be a useful area of future research. 
+Making asset-specific adaptation decisions should consider 
+many other factors 
+Costing three different asset management strategies at the portfolio level was designed to estimate the scale of 
+the budgetary impact that changes in extreme rainfall, extreme heat and freeze-thaw cycles could impose over 
+the rest of the century. However, to make asset-specific climate adaptation decisions, many other factors should 
+be considered,51 including: 
+•
+an asset’s individual characteristics (including age, condition and specific climate vulnerabilities);
+•
+a wider array of climate impacts over the entire useful life of an asset;
+•
+costs to households and businesses; and
+•
+non-asset related considerations, including surrounding infrastructure. For example, if a section of
+stormwater pipe located underneath a road is being replaced (or adapted), adapting the road may also
+be considered.
+Incorporating these factors would further enhance the FAO’s methodology and would better support adaptation 
+decision-making for individual assets in a changing climate.  
+48 Ness, R., Clark, D. G., Bourque, J., Coffman, D., and Beugin, D., 2021. Page 47. 
+49 For example, within the Greater Toronto and Hamilton Area, the estimated annual costs of traffic congestion to the economy in 
+the absence of climate change considerations was $3.3 billion in 2006, forecast to increase to $7.8 billion per year by 2031. See 
+Costs of Road Congestion in the Greater Toronto and Hamilton Area: Impact and Cost Benefit Analysis of the Metrolinx Draft 
+Regional Transportation Plan.  
+50 Warren, F. and Lulham, N., editors, 2021, Section 3.5. 
+51 Several decision-making tools can be used to assist climate change adaptation decisions that captures both financial and 
+economic costs and benefits of adaptation. See Intergovernmental Panel on Climate Change, 2014 and United Nations 
+Framework Convention on Climate Change, 2011 for details on different decision tools,  Organization for Economic 
+Cooperation and Development, 2018 for a general discussion on costs and benefits of adaptation, and Government of 
+Canada, 2019 for a general guidance on adaptation decisions.  
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 34 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+7 | Appendix 
+Appendix A: Scope of transportation sector assets analyzed 
+Table A-1: Provincial and municipal transportation infrastructure valued at $330 billion (current replacement value) 
+included in the scope of this report 
+Level of 
+Government 
+Sector 
+Total CRV 
+(2020$ 
+billions) 
+Description 
+Provincial 
+Roads 
+$19 
+•
+Roads and highways in Ontario are managed by the
+Ministry of Transportation (MTO) in partnership with the
+Ministry of Energy, Ministry of Mines, and Ministry of
+Northern Development.
+•
+These assets include the highway and road network
+owned by the Province. In total, there are over 40,000
+lane kilometres of pavement.
+•
+Of the 40,000 lane kilometres of pavement, the Northern
+Highways Program (Ministry of Mines, and Ministry of
+Northern Development as well as MTO) manages about
+24,000 lane kilometres in the Northeast and Northwest
+regions, and the Southern Highways Program (MTO)
+manages about 17,000 lane kilometres.
+•
+The 40,000 lane kilometres of pavements are also divided
+into around 1,900 sections and include four classes of
+highways and roads: freeway (28 per cent), collector (12
+per cent), arterial (38 per cent) and local (22 per cent).
+•
+This sector also includes bus rapid transit roadways
+owned by Metrolinx.
+Bridges 
+$23 
+•
+There are roughly 2,800 provincially owned bridges.
+Large 
+Structural 
+Culverts 
+(>3 metres) 
+$5 
+•
+There are roughly 2,000 provincially owned culverts.
+Transit 
+Engineering 
+$13 
+•
+Ontario’s transit assets are owned by Metrolinx, which
+operates primarily in the Greater Golden Horseshoe
+Area, and Ontario Northland Transportation Commission
+(ONTC), which operates primarily in northeastern
+Ontario.
+•
+Metrolinx owns the GO Transit network, which includes
+about 360 route kilometres of owned rail corridor.
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 35 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Table A-1 (Cont.): Provincial and municipal transportation infrastructure valued at $330 billion (current replacement value) 
+included in the scope of this report 
+Level of 
+Government 
+Sector 
+Total CRV 
+(2020$ 
+billions) 
+Description 
+Municipal 
+Roads 
+$221 
+•
+Includes arterial roads, collector roads, highways, lanes
+and alleys, local roads, rural highways and sidewalks.
+Overall, Ontario municipalities own an estimated 365,281
+lane kilometres of roads and 44,072 kilometres of
+sidewalks.
+•
+Additionally, includes 141 kilometres of transit-owned
+roads.
+Bridges 
+$35 
+•
+Includes nearly 12,500 bridges.
+•
+Nearly 45 per cent of these assets are local bridges,
+followed by arterials (25 per cent) and collectors (15 per
+cent), with highways, footbridges and rural highways
+representing the remaining 15 per cent.
+•
+Additionally, includes 209 bridges owned by the transit
+sector.
+Large 
+Structural 
+Culverts 
+(>3 metres) 
+$7 
+•
+Includes nearly 11,246 culverts.
+Transit 
+Engineering 
+$6 
+•
+Linear engineering transit infrastructure includes an
+estimated 408 kilometres of transit-owned tracks.
+Note: The age data presented are as of 2020. The CRV of provincial and municipal roads has been revised to incorporate the unit 
+costs from the Parametric Estimating Guide (2021) by the MTO. For the detailed methodology used to obtain the CRV of rest of the 
+sectors, see Appendix C of the FAO’s Provincial Infrastructure report and Appendix D of the FAO’s Municipal Infrastructure report.  
+Source: FAO analysis of municipal data and provincial data as detailed in Financial Accountability Office of Ontario, 2020 and 2021a.  
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 36 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix B: Scope of climate variables used in costing 
+analysis 
+The Canadian Centre for Climate Services provided the projections of all climate indicators used in the FAO’s 
+costing analysis. Depending on the nature of the hazard’s interaction with specific transportation infrastructure 
+components, different climate indicators were used. See WSP’s report for a full description and rationale.52 
+Table B-1: Projected change in relevant climate variables from 1976-2005 to 2071-2100, Ontario average 
+Climate Hazard 
+Variable 
+Definition 
+Low Emissions 
+(RCP2.6) 
+Medium Emissions 
+(RCP4.5) 
+High Emissions 
+(RCP8.5) 
+Extreme Heat 
+Annual 
+number of hot 
+days 
+Annual number of days 
+with daily maximum 
+temperature above 30°C 
++6 days or
++138.9%
+(+2 to 10 days 
+or +64.2 to 
+223.1%) 
++13 days or +336.5%
+(+6 to 18 days or
++167.8 to 422.0%)
++34 days or
++860.7%
+(+17 to 46 days or 
++493.8 to
+1050.6%)
+Extreme Rainfall 
+IDF 24-hour 
+1:100 
+Short duration rainfall 
+intensity for a 24-hour 1-in-
+100-year event 
++14.6%
+(+9.8 to 23.5%) 
++24.9%
+(+16.1 to 39.4%) 
++53.0%
+(+38.0 to 78.2%) 
+Freeze-Thaw 
+Cycles 
+Annual freeze-
+thaw cycles 
+Annual number of days 
+with daily maximum 
+temperature above 0°C 
+and daily minimum 
+temperature below 0°C 
+-5.5%
+(-15.2 to 0.0%) 
+-12.1%
+(-19.2 to 0.0%) 
+-15.1%
+(-24.9 to 0.0%) 
+Note: Numbers are rounded. Median (50th percentile) projections of climate variables are presented, followed by ranges in 
+parentheses. Ranges show the 10th and 90th percentile projections.  
+Source: Canadian Centre for Climate Services. 
+The full suite of climate data used in the CIPI project is available at the CIPI section of the FAO’s website. 
+52 See WSP, 2021. 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 37 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix C: The impact of changing climate hazards on key 
+transportation infrastructure costs  
+This appendix presents the impact of climate hazards on the key infrastructure costs for roads, bridges, large 
+structural culverts and transit engineering assets. First, the appendix presents the total impact of the climate 
+hazards considered in this study on the useful service life (USL) and operations and maintenance (O&M) 
+spending in the absence of adaptation, as well as the costs of retrofit and renewal adaptation to prevent these 
+climate damages. Next, the appendix presents a detailed breakdown of the impact of each climate hazard on 
+O&M spending and USL by asset type.   
+To establish relationships between relevant climate indicators and key infrastructure costs, the FAO worked with 
+WSP, a large engineering firm with expertise in all aspects of public sector infrastructure, including asset 
+management, public infrastructure construction and operations, and climate change impacts.  
+The FAO and WSP first established which of the three climate hazards could have the most significant impact, 
+and on which asset type. As each hazard would interact with each asset-type in a different way, it was agreed 
+that WSP would focus attention on the “interactions” that could present the greatest financial impact to asset 
+managers. For example, while extreme heat may impact bridges, because the impact of extreme rainfall and 
+freeze-thaw cycles was deemed more important, only these hazards were examined.  
+WSP estimated relationships between changing climate variables and infrastructure costs by surveying relevant 
+engineering experts. To account for engineering uncertainty, WSP aggregated its responses and provided 
+optimistic, pessimistic and most-likely cost relationships.53 This forms the basis on which the FAO estimated the 
+additional costs of climate hazards to public transportation infrastructure in Ontario.54  
+While regional climate projections were used to develop the FAO’s infrastructure cost estimates, for simplicity, 
+this appendix presents Ontario-average infrastructure cost results by asset type. The results reflect a weighted 
+average climate projection based on the proportion of assets (by CRV) located in each region.55 The charts 
+below provide three estimates for each infrastructure cost impact in the medium and high emissions scenarios: 
+•
+The solid lines represent the most likely infrastructure cost impact for the 50th percentile climate
+projection.
+•
+The upper limit of the uncertainty bands represents the pessimistic infrastructure cost impact for the 90th
+percentile climate projection.
+•
+The lower limit of the uncertainty bands represents the optimistic infrastructure cost impacts of the 10th
+percentile climate projection.
+53 Some of these cost relationships were subsequently revised to align with the professional judgement of external reviewers. 
+54 Financial Accountability Office of Ontario, 2021b. 
+55 Most of Ontario’s public infrastructure is located in the southern regions. The weighted-average results presented in 
+Appendix C largely reflect the climate projections for those regions.  
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 38 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure C-1: Roads – Cumulative impact of extreme rainfall and extreme heat 
+In Absence of Adaptation 
+Useful Service Life 
+•
+Trends in extreme rainfall and extreme heat are
+projected to reduce the USL of public roads in
+Ontario in both emissions scenarios.
+•
+In the medium emissions scenario, the USL is
+projected to decline by 12.1 per cent by the end of
+the century.
+•
+In the high emissions scenario, the USL is projected
+to decline by 31.1 per cent by the end of the century.
+Operations & Maintenance 
+•
+Trends in extreme rainfall and extreme heat are
+projected to increase the O&M (as a share of CRV) of
+public roads in Ontario in both emissions scenario.
+•
+In the medium emissions scenario, the O&M is
+projected to increase by 0.6 percentage point of CRV
+by the end of the century.
+•
+In the high emissions scenario, the O&M is projected
+to increase by 1.5 percentage points of CRV by the
+end of the century.
+Adaptation Costs 
+Retrofit Costs 
+•
+The cost of retrofitting the average public road to
+withstand the trends in extreme rainfall and extreme
+heat will vary with the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+retrofitting the average public road is projected to be
+10.2 per cent of CRV by 2100.
+•
+In the high emissions scenario, the cost of retrofitting
+the average public road is projected to be 25.9 per
+cent of CRV by 2100.
+Renewal Costs 
+•
+The cost of replacing the average public road with one
+that can withstand trends in extreme rainfall and extreme
+heat will vary with the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+replacing an average road with an adapted one is
+projected to be 9.4 per cent of CRV.
+•
+In the high emissions scenario, the cost of replacing
+an average road with an adapted one is projected to
+be 23.8 per cent of CRV.
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes in 
+each emissions scenario.  
+Source: FAO. 
+-12.1
+-31.1
+-60.0
+-40.0
+-20.0
+0.0
+Change in USL from 
+projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+High emissions scenario
+0.6
+1.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+Additional O&M from 
+projected changes in climate 
+hazards (per cent of CRV)
+10.2
+25.9
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+Retrofit adaptation cost as a 
+share of CRV (per cent)
+Medium emissions scenario
+High emissions scenario
+9.4
+23.8
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+Renewal adaptation cost as a 
+share of CRV (per cent)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 39 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure C-2: Bridges – Cumulative impact of extreme rainfall and freeze-thaw cycles 
+In Absence of Adaptation 
+Useful Service Life
+•
+The USL of public bridges is projected to decline
+due to the increase in extreme rainfall, with
+significant offsetting impacts of fewer freeze-thaw
+cycles.
+•
+In the medium emissions scenario, the USL is
+projected to decline by 0.6 per cent by the end of
+the century.
+•
+In the high emissions scenario, the USL is projected
+to decline by 2.6 per cent by the end of the century.
+Operations & Maintenance
+•
+The O&M as a share of CRV of bridges is projected
+to increase due to the increase in extreme rainfall.
+•
+In the medium emissions scenario, the O&M is
+projected to increase by 0.5 percentage point of
+CRV by the end of the century.
+•
+In the high emissions scenario, the O&M is
+projected to increase by 1.3 percentage points of
+CRV by the end of the century.
+Adaptation Costs 
+Retrofit Costs 
+•
+The cost of retrofitting the average public bridge to
+withstand increases in extreme rainfall will vary with
+the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+retrofitting the average public bridge is projected to
+be 3.1 per cent of CRV by 2100.
+•
+In the high emissions scenario, the cost of
+retrofitting the average public bridge is projected to
+be 7.5 per cent of CRV by 2100.
+Renewal Costs 
+•
+The cost of replacing the average public bridge with
+one that can withstand increases in extreme rainfall
+will vary with the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+replacing an average bridge with an adapted one is
+projected to be 2.8 per cent of CRV.
+•
+In the high emissions scenario, the cost of replacing
+an average bridge with an adapted one is projected
+to be 6.7 per cent of CRV.
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes in 
+each emissions scenario.  
+Source: FAO 
+-0.6
+-2.6
+-20.0
+-10.0
+0.0
+10.0
+20.0
+Change in USL from 
+projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+High emissions scenario
+0.5
+1.3
+0.0
+0.5
+1.0
+1.5
+2.0
+Additional O&M from 
+projected changes in climate 
+hazards (per cent of CRV)
+3.1
+7.5
+0.0
+3.0
+6.0
+9.0
+12.0
+15.0
+18.0
+Retrofit adaptation cost as a 
+share of CRV (per cent)
+Medium emissions scenario
+High emissions scenario
+2.8
+6.7
+0.0
+3.0
+6.0
+9.0
+12.0
+15.0
+18.0
+21.0
+24.0
+Renewal adaptation cost as a 
+share of CRV (per cent)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 40 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure C-3: Large structural culverts – Impact of extreme rainfall 
+In Absence of Adaptation 
+Useful Service Life 
+•
+Increases in extreme rainfall are projected to
+reduce the USL of large structural culverts in
+Ontario in both emissions scenarios.
+•
+In the medium emissions scenario, the USL is
+projected to decline by 13.1 per cent by the end
+of the century.
+•
+In the high emissions scenario, the USL is
+projected to decline by 31.3 per cent by the end
+of the century.
+Operations & Maintenance 
+•
+Increases in extreme rainfall are projected to
+increase the O&M (as a share of CRV) of public
+culverts in Ontario in both emissions scenarios.
+•
+In the medium emissions scenario, the O&M is
+projected to increase by 1.0 percentage point of
+CRV by the end of the century.
+•
+In the high emissions scenario, the O&M is
+projected to increase by 2.5 percentage points of
+CRV by the end of the century.
+Adaptation Costs 
+Retrofit Costs 
+•
+The cost of retrofitting the average public culvert
+to withstand increases in extreme rainfall will vary
+with the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+retrofitting the average public culvert is projected
+to be 24.6 per cent of CRV by 2100.
+•
+In the high emissions scenario, the cost of
+retrofitting the average public culvert is projected
+to be 58.9 per cent of CRV by 2100.
+Renewal Costs 
+•
+The cost of replacing the average public culvert
+with one that can withstand increases in extreme
+rainfall will vary with the extent of these
+increases.
+•
+In the medium emissions scenario, the cost of
+replacing an average culvert with an adapted one
+is projected to be 10.5 per cent of CRV.
+•
+In the high emissions scenario, the cost of
+replacing an average culvert with an adapted one
+is projected to be 25.1 per cent of CRV.
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes in 
+each emissions scenario.  
+Source: FAO. 
+-13.1
+-31.3
+-60.0
+-50.0
+-40.0
+-30.0
+-20.0
+-10.0
+0.0
+Change in USL from 
+projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+High emissions scenario
+1.0
+2.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+Additional O&M from 
+projected changes in climate 
+hazards (per cent of CRV)
+24.6
+58.9
+0.0
+25.0
+50.0
+75.0
+100.0
+Retrofit adaptation cost as a 
+share of CRV (per cent)
+Medium emissions scenario
+High emissions scenario
+10.5
+25.1
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+Renewal adaptation cost as a 
+share of CRV (per cent)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 41 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure C-4: Transit engineering – Impact of extreme heat 
+In Absence of Adaptation 
+Useful Service Life 
+•
+Increases in extreme heat are projected to reduce
+the USL of public transit engineering assets in
+Ontario in both emissions scenarios.
+•
+In the medium emissions scenario, the USL is
+projected to decline by 2.8 per cent by the end of
+the century.
+•
+In the high emissions scenario, the USL is projected
+to decline by 7.9 per cent by the end of the century.
+Operations & Maintenance 
+•
+Increases in extreme heat are projected to increase the
+O&M (as a share of CRV) of public transit engineering
+assets in Ontario in both emissions scenarios.
+•
+In the medium emissions scenario, the O&M is
+projected to increase by 0.4 percentage point of
+CRV by the end of the century.
+•
+In the high emissions scenario, the O&M is
+projected to increase by 1.2 percentage points of
+CRV by the end of the century.
+Adaptation Costs 
+Retrofit Costs 
+•
+The cost of retrofitting the average public transit
+engineering asset to withstand the increases in
+extreme heat will vary with the extent of these increases.
+•
+In the medium emissions scenario, the cost of
+retrofitting an average asset is projected to be 6.4
+per cent of CRV by 2100.
+•
+In the high emissions scenario, the cost of
+retrofitting an average asset is projected to be 18.0
+per cent of CRV by 2100.
+Renewal Costs 
+•
+The cost of replacing the average public transit
+engineering asset with one that can withstand
+increases in extreme heat will vary with the extent
+of these increases.
+•
+In the medium emissions scenario, the cost of
+replacing an average asset with an adapted one is
+projected to be 2.2 per cent of CRV.
+•
+In the high emissions scenario, the cost of replacing
+an average asset with an adapted one is projected
+to be 6.2 per cent of CRV.
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes in 
+each emissions scenario.  
+Source: FAO. 
+-2.8
+-7.9
+-12.0
+-8.0
+-4.0
+0.0
+Change in USL from 
+projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+High emissions scenario
+0.4
+1.2
+0.0
+0.5
+1.0
+1.5
+2.0
+Additional O&M from 
+projected changes in climate 
+hazards (per cent of CRV)
+6.4
+18.0
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+Retrofit adaptation cost as a 
+share of CRV (per cent)
+Medium emissions scenario
+High emissions scenario
+2.2
+6.2
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+Renewal adaptation cost as a 
+share of CRV (per cent)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 42 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix D: The contribution of individual climate hazards 
+to key transportation infrastructure costs in the absence of 
+adaptation 
+This section provides information on how the individual climate hazards deemed financially relevant by WSP 
+contribute to infrastructure costs for asset types that are impacted by more than one climate hazard. Since only 
+one climate hazard was assessed for both large structural culverts and transit engineering assets, climate hazard 
+breakdowns are not presented for these asset types.  
+Roads 
+Trends in extreme rainfall and extreme heat are both projected to drive the decline in USL and increase in O&M 
+spending of public roads in Ontario. 
+Figure D-1 
+More intense rainfall and extreme heat will contribute to the decline in USL of public roads 
+Source: FAO.
+-4.8 -6.2 -7.7 -9.2 -10.2 -10.8 -11.2 -11.7 -12.1
+-40.0
+-35.0
+-30.0
+-25.0
+-20.0
+-15.0
+-10.0
+-5.0
+0.0
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in USL from projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+(Median projection)
+Extreme rainfall
+Extreme heat
+Cumulative
+-5.6 -7.5
+-9.9
+-13.0
+-16.2
+-19.9
+-23.3
+-27.0
+-31.1
+-40.0
+-35.0
+-30.0
+-25.0
+-20.0
+-15.0
+-10.0
+-5.0
+0.0
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in USL from projected changes in 
+climate hazards (per cent)
+High emissions scenario
+(Median projection)
+ 17 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 43 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure D-2 
+More intense rainfall and extreme heat will contribute to the increase in O&M of public roads 
+Source: FAO. 
+Bridges 
+Trends in extreme rainfall are projected to drive most of the decline in USL of public bridges in Ontario, while 
+fewer freeze-thaw cycles will somewhat offset the negative impacts of extreme rainfall.  
+Figure D-3 
+More intense rainfall will contribute the most to the decline in USL of public bridges, 
+significantly offset by the decline in freeze-thaw cycles 
+Source: FAO. 
+ß 
+0.2
+0.3
+0.4
+0.4
+0.5
+0.5
+0.5
+0.5
+0.6
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+2020s
+2040s
+2060s
+2080s
+2100s
+Additional O&M from projected changes in climate 
+hazards (per cent of CRV)
+Medium emissions scenario
+(Median projection)
+Extreme rainfall
+Extreme heat
+Cumulative
+-0.7
+-0.7
+-0.8
+-0.9
+-0.9
+-0.8
+-0.7
+-0.6
+-0.6
+-10.0
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in USL from projected changes in climate 
+hazards (per cent)
+Medium emissions scenario
+(Median projection)
+Extreme rainfall
+Freeze-thaw cycles
+Cumulative
+0.3
+0.4
+0.5
+0.6
+0.8
+0.9
+1.1
+1.3
+1.5
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+2020s
+2040s
+2060s
+2080s
+2100s
+Additional O&M from projected changes in climate 
+hazards (per cent of CRV)
+High emissions scenario
+(Median projection)
+-0.7
+-0.7
+-0.9
+-1.0
+-1.1
+-1.4
+-1.7
+-2.1
+-2.6
+-10.0
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+2020s
+2040s
+2060s
+2080s
+2100s
+Change in USL from projected changes in climate 
+hazards (per cent)
+High emissions scenario
+(Median projection)
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+ 44 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix E: Comparing the present value costs of different 
+asset management strategies 
+As seen in Chapter 6, each asset management strategy has a different cost profile over time. The proactive 
+adaptation strategy sees higher costs earlier in the century, while the no adaptation and reactive adaptation 
+strategies see costs rise significantly in the latter part of the century. When evaluating alternative long-term 
+financial decisions where the timing of costs varies, a standard approach is to discount real costs into present 
+value dollars using a real discount rate. When discounted, costs incurred further in the future carry less weight 
+relative to costs incurred sooner.  
+The appropriate discount rate for evaluating long-term financial decisions about climate change is subject to 
+significant debate.56 In a paper surveying over 200 experts, discount rates recommended ranged from zero to 10 
+per cent, with a median value of 2.3 per cent. Despite the wide range of recommended rates, over 90 per cent of 
+respondents indicated they were comfortable with a rate between one and three per cent.57  
+Figure E-1 shows how the choice of discount rate impacts the present value of the total cost estimates for the 
+median climate projections. 
+56 For more discussion on discounting, see Bush, E. and Lemmen, D.S., editors, 2019. 
+57 For more information, see Drupp, M., Freeman, M., Groom, B. and Nesje, F., 2015. 
+Figure E-1 
+The present value cost of each asset management strategy under different discount rates 
+Note: The costs presented use the median (50th percentile) climate projections. Uncertainty ranges are omitted from this chart for 
+presentation purpose. 
+Source: FAO. 
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+Additional cumulative cost to maintain public 
+transportation infrastructure in a state of good 
+repair, 2022-2100
+($2020, billions present value)
+Real discount rate (per cent)
+Medium emissions scenario 
+No Adaptation
+Reactive Adaptation
+Proactive Adaptation
+$0
+$50
+$100
+$150
+$200
+$250
+$300
+$350
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+Additional cumulative cost to maintain public 
+transportation infrastructure in a state of good 
+repair, 2022-2100
+($2020, billions present value)
+Real discount rate (per cent)
+High emissions scenario
+ 45 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+The proactive adaptation strategy has the lowest total present value costs at discount rates approximately below 
+3.0 per cent (medium emissions scenario) and 1.0 per cent (high emissions scenario). The reactive adaptation 
+strategy has the lowest present value costs at discount rates between 3.0 to 5.0 per cent (medium emissions 
+scenario) and between 1.0 to 4.0 per cent (high emissions scenario). At higher discount rates, the present-value 
+costs of the no adaptation strategy and the reactive adaptation strategy are essentially the same, as the cost 
+savings from the reactive adaptation strategy are more heavily discounted at higher rates.  
+However, comparing the present value costs of the different adaptation strategies as outlined above should be 
+treated with caution. This comparison does not incorporate the costs of infrastructure service disruptions to 
+households and businesses. For example, if a road becomes damaged and must be repaired, this analysis 
+includes the cost of those repairs, but excludes the costs to households and businesses of traffic delays.  
+In addition, this comparison only includes the impacts of three climate hazards, and excludes many others (such 
+as wildfires and permafrost degradation). Lastly, these results reflect the median projections for the medium and 
+high emissions projections, but exclude the other possible outcomes as estimated by the climate and 
+engineering uncertainties presented throughout the report. 
+ 46 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix F: Costing results in the low emissions scenario 
+While the report focused on the medium and high emissions scenario, this appendix presents the costing results 
+of the three adaptation strategies for all emissions scenarios. The additional climate-related costs in each 
+emissions scenario are presented as cumulative summations over the century. 
+In the low emissions scenario, a major and immediate turnaround in global climate policies is assumed. 
+Emissions are projected to peak in the early 2020s and decline to zero by the 2080s, limiting the rise in global 
+mean temperatures to 1.6°C (0.8 to 2.4°C) by 2100 compared to the pre-industrial average.58 Even in the low 
+emissions scenario, changes in extreme rainfall, extreme heat and freeze-thaw cycles will still have material 
+financial impacts. Taken together, these hazards would raise the costs of maintaining Ontario’s public 
+transportation infrastructure assets by $116 billion (11 per cent above baseline) by 2100 in the absence of 
+adaptation. 
+58 Intergovernmental Panel on Climate Change, 2013, Table All.7.5. Ranges for the global mean surface temperature 
+represent the 5th percentile to the 95th percentile projections of models used. 
+Figure F-1 
+The cost of maintaining the current portfolio of public transportation infrastructure will 
+increase by $116 billion in the low emissions scenario in the absence of adaptation  
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO.  
+$116 billion
+(+11%)
+$171 billion
+(+17%)
+$322 billion
+(+ 32%)
+$0
+$100
+$200
+$300
+$400
+$500
+$600
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain 
+public transportation infrastructure in a 
+state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+ 47 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Figure F-2 
+A reactive adaptation strategy, where assets are adapted at the end of their service life to 
+withstand the impacts of climate hazards, will add $93 billion in infrastructure costs over the 
+century in the low emissions scenario 
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO. 
+$93 billion
+(+ 9%)
+$135 billion
+(+ 13%)
+$229 billion
+(+ 23%)
+$0
+$100
+$200
+$300
+$400
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain 
+public transportation infrastructure in a 
+state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+Figure F-3 
+A proactive adaptation strategy, where assets are adapted at the earliest opportunity to 
+withstand the impacts of climate hazards, will add $64 billion in infrastructure costs over the 
+century in the low emissions scenario 
+Notes: The solid line is the median (or 50th percentile) projection. The coloured bands represent the range of possible outcomes 
+in each emissions scenario. The costs presented in this chart are in addition to the projected baseline costs over the same period.  
+Source: WSP and FAO.  
+$64 billion
+(+ 6%)
+$110 billion
+(+ 11%)
+$217 billion
+(+ 21%)
+$0
+$100
+$200
+$300
+$400
+2022
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Additional cumulative cost to maintain 
+public transportation infrastructure in a 
+state of good repair
+(undiscounted real $2020, billions)
+Low emissions scenario
+Medium emissions scenario
+High emissions scenario
+ 48 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Appendix G: Breakdown of cumulative costs under different 
+adaptation strategies by asset type 
+Table G-1: Roads 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$791 
+ 
+$73 
+$58 
+$46 
+(9%) 
+(7%) 
+(6%) 
+Median 
+$133 
+$106 
+$96 
+(17%) 
+(13%) 
+(12%) 
+High 
+$238 
+$184 
+$177 
+(30%) 
+(23%) 
+(22%) 
+High 
+Low 
+$152 
+$109 
+$107 
+(19%) 
+(14%) 
+(14%) 
+Median 
+$258 
+$179 
+$191 
+(33%) 
+(23%) 
+(24%) 
+High 
+$420 
+$292 
+$331 
+(53%) 
+(37%) 
+(42%) 
+Table G-2: Bridges 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$110 
+ 
+$8 
+$4 
+-$4 * 
+(7%) 
+(4%) 
+(-4%) 
+Median 
+$19 
+$15 
+$5 
+(17%) 
+(14%) 
+(4%) 
+High 
+$33 
+$30 
+$18 
+(30%) 
+(27%) 
+(16%) 
+High 
+Low 
+$15 
+$8 
+-$6 * 
+(13%) 
+(8%) 
+(-5%) 
+Median 
+$35 
+$28 
+$9 
+(31%) 
+(25%) 
+(8%) 
+High 
+$53 
+$47 
+$29 
+(48%) 
+(43%) 
+(26%) 
+* Costs in the proactive adaptation strategy are below baseline costs, since the cost decrease due to declining freeze-thaw cycles 
+more than offsets the increase from extreme rainfall in these scenarios.
+ 49 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Table G-3: Large structural culverts 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$22 
+ 
+$4 
+$4 
+$3 
+(18%) 
+(17%) 
+(14%) 
+Median 
+$11 
+$9 
+$6 
+(48%) 
+(42%) 
+(29%) 
+High 
+$16 
+$14 
+$10 
+(73%) 
+(65%) 
+(46%) 
+High 
+Low 
+$7 
+$7 
+$6 
+(34%) 
+(32%) 
+(27%) 
+Median 
+$18 
+$15 
+$11 
+(80%) 
+(69%) 
+(49%) 
+High 
+$31 
+$26 
+$17 
+(139%) 
+(120%) 
+(78%) 
+Table G-4: Transit engineering 
+Cumulative Additional Costs (2022-2100) 
+Emissions 
+Scenario 
+Estimate 
+Base 
+No Adaptation 
+($ Billions) 
+Reactive 
+Adaptation 
+($ Billions) 
+Proactive 
+Adaptation 
+($ Billions) 
+Medium 
+Low 
+$92 
+ 
+$4 
+$1 
+$1 
+(4%) 
+(1%) 
+(1%) 
+Median 
+$8 
+$5 
+$3 
+(8%) 
+(5%) 
+(3%) 
+High 
+$11 
+$7 
+$5 
+(12%) 
+(7%) 
+(5%) 
+High 
+Low 
+$6 
+$4 
+$4 
+(7%) 
+(4%) 
+(4%) 
+Median 
+$11 
+$7 
+$6 
+(12%) 
+(7%) 
+(7%) 
+High 
+$18 
+$9 
+$9 
+(20%) 
+(10%) 
+(10%) 
+Note: The low estimates indicate the optimistic infrastructure cost impact for the 10th percentile climate projections, and the high 
+estimate indicate the pessimistic infrastructure cost impact for the 90th percentile climate projections. 
+Source: FAO.  
+8 | References 
+ 51 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Asset Management BC, Climate Change and Asset Management: A Sustainable Service Delivery Primer. 
+Bush, E. and Lemmen, D.S., editors, 2019, Canada in a Changing Climate: National Issues Report – Chapter 6: 
+Costs and Benefits of Climate Change Impacts and Adaptation, Government of Canada, Ottawa, ON. 
+Canadian Standards Association, 2014, Canadian Highway Bridge Design Code. 
+Cannon, A.J., Jeong, D.I., Zhang, X., and Zwiers, F.W., 2020, Climate-Resilient Buildings and Core Public 
+Infrastructure: An Assessment of the Impact of Climate Change on Climatic Design Data in Canada, 
+Government of Canada. 
+Chinowsky, P., Helman, J., Gulati, S., Neumann, J., and Martinich, J., 2019, Impacts of climate change on 
+operation of the US rail network. Transport Policy (75), 183-191. 
+Drupp, M., Freeman, M., Groom, B., and Nesje, F., 2015, Discounting disentangled: an expert survey on the 
+determinants of the long-term social discount rate. Working Paper 172. Grantham Research Institute on 
+Climate Change and the Environment, London School of Economics and Political Science, London, 
+United Kingdom. 
+Federation of Canadian Municipalities, 2020, Investing in Canada’s Future: The Cost of Climate Adaptation at the 
+Local Level. 
+Financial Accountability Office of Ontario, 2020, Provincial Infrastructure. 
+Financial Accountability Office of Ontario, 2021a, Municipal Infrastructure. 
+Financial Accountability Office of Ontario, 2021b, Costing Climate Change Impacts to Public Infrastructure: 
+Project Backgrounder and Methodology. 
+Financial Accountability Office of Ontario, 2021c, Costing Climate Change Impacts to Public Infrastructure: 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public 
+buildings in Ontario.  
+Government of Canada, 2019, Infrastructure Canada’s Climate Lens. 
+Government of Canada, 2021, Natural Resources Canada’s Canada’s Climate Change Adaptation Platform. 
+Government of Canada, 2022, Infrastructure Canada’s Climate-Resilient Buildings and Core Public Infrastructure 
+Initiative 
+HDR, 2008, Costs of Road Congestion in the Greater Toronto and Hamilton Area: Impact and Cost Benefit 
+Analysis of the Metrolinx Draft Regional Transportation Plan. Report produced for Metrolinx. 
+Institute for Catastrophic Loss Reduction, 2020, Estimating the benefits of Climate Resilient Buildings and Core 
+Public Infrastructure (CRBCPI). 
+Intergovernmental Panel on Climate Change, 2013, Climate Change 2013: The Physical Science Basis: Annex II: 
+Climate System Scenario Tables. 
+Intergovernmental Panel on Climate Change, 2014, Climate Change 2014: Impacts, Adaptation, and 
+Vulnerability, Chapter 17: Economics of Adaptation. 
+Intergovernmental Panel on Climate Change, 2014, AR5 Synthesis Report: Climate Change 2014. 
+ 52 
+Costing Climate Change Impacts to Public Infrastructure: Transportation 
+Assessing the financial impacts of extreme rainfall, extreme heat and freeze-thaw cycles on public transportation infrastructure in Ontario 
+Intergovernmental Panel on Climate Change, 2021, Climate Change 2021: The Physical Science Basis: 
+Summary for Policymakers. 
+International Institute of Sustainable Development, 2021, Advancing the Climate Resilience of Canadian 
+Infrastructure: A review of literature to inform the way forward. 
+Meyer, M.D., Amekudzi, A., and O’Har, J.P., 2010, Transportation asset management systems and climate 
+change: adaptive systems management approach. Transportation Research Record, (2160), 12-20. 
+Ness, R., Clark, D. G., Bourque, J., Coffman, D., and Beugin, D., 2021, Under Water: The Costs of Climate 
+Change for Canada’s Infrastructure, Canadian Climate Institute. 
+Neumann, J.E., Chinowsky, P., Helman, J. et al., 2021, Climate effects on US infrastructure: the economics of 
+adaptation for rail, roads, and coastal development. Climatic Change (167), 44. 
+Ontario Ministry of Transportation, 2017, Addressing Climate Change through Engineering Practice. 
+Organisation for Economic Cooperation and Development (OECD), 2018, Climate-Resilient Infrastructure. 
+Pacific Climate Impacts Consortium, 2021, PCIC Science Brief: Should the RCP 8.5 emissions scenario 
+represent “business as usual?”. 
+Palko, K. and Lemmen, D.S., editors, 2017, Climate risks and adaptation practices for the Canadian 
+transportation sector 2016. 
+Transport Canada, 2021, Projects funded by the Northern Transportation Adaptation Initiative. 
+United Nations Environment Program (UNEP), 2021, Buildings and Climate Change Adaptation: A Call to Action. 
+United Nations Framework Convention on Climate Change, 2011, Assessing the Costs and Benefits of 
+Adaptation Options: An Overview of Approaches. 
+Warren, F.J. and Lemmen, D.S., editors, 2014, Canada in a Changing Climate: Sector Perspectives on Impacts 
+and Adaptation, Government of Canada. 
+Warren, F.J. and Lulham, N., editors, 2021, Canada in a Changing Climate: National Issues Report, 
+Government of Canada. 
+WSP, 2021, Costing climate change impacts and adaptation for provincial and municipal public infrastructure in 
+Ontario, Deliverable #10 – Final Report, Toronto, Ontario. Report produced for Financial Accountability 
+Office of Ontario. 
+fao-on.org 

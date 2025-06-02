@@ -1,0 +1,1180 @@
+Impacts of climate change on the future of biodiversity
+Céline Bellard#1, Cleo Bertelsmeier#1, Paul Leadley1, Wilfried Thuiller2, and Franck 
+Courchamp1
+1Ecologie, Systématique & Evolution, UMR CNRS 8079, Univ. Paris Sud, Orsay Cedex 91405, 
+France.
+2Laboratoire d’Ecologie Alpine (LECA), UMR-CNRS 5553, Université Joseph Fourier, Grenoble 1, 
+38041 Grenoble Cedex 9, France
+# These authors contributed equally to this work.
+Abstract
+Many studies in recent years have investigated the effects of climate change on the future of 
+biodiversity. In this review, we first examine the different possible effects of climate change that 
+can operate at individual, population, species, community, ecosystem and biome scales, notably 
+showing that species can respond to climate change challenges by shifting their climatic niche 
+along three non-exclusive axes: time (e.g., phenology), space (e.g., range) and self (e.g., 
+physiology). Then, we present the principal specificities and caveats of the most common 
+approaches used to estimate future biodiversity at global and sub-continental scales and we 
+synthesize their results. Finally, we highlight several challenges for future research both in 
+theoretical and applied realms. Overall, our review shows that current estimates are very variable, 
+depending on the method, taxonomic group, biodiversity loss metrics, spatial scales and time 
+periods considered. Yet, the majority of models indicate alarming consequences for biodiversity, 
+with the worst-case scenarios leading to extinction rates that would qualify as the sixth mass 
+extinction in the history of the earth.
+Keywords
+Biodiversity; climate change; species extinctions
+1. Introduction
+Predicting the response of biodiversity to climate change has become an extremely active 
+field of research (e.g., Dillon et al. 2010; Gilman et al. 2010; Pereira et al. 2010; Salamin et 
+al. 2010; Beaumont et al. 2011; Dawson et al. 2011; McMahon et al. 2011). Predictions 
+play an important role in alerting scientists and decision makers to potential future risks, 
+provide a means to bolster attribution of biological changes to climate change and can 
+support the development of proactive strategies to reduce climate change impacts on 
+Corresponding author: Franck Courchamp, Labo ESE – UMR CNRS 8079, Bat 362 – Université Paris Sud, 91 405 Orsay Cedex 
+France. 0033/1 691556850033/1 69155696franck.courchamp@u-psud.fr.
+Contributions by authors: all authors wrote the review.
+Europe PMC Funders Group
+Author Manuscript
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+Published in final edited form as:
+Ecol Lett. 2012 April ; 15(4): 365–377. doi:10.1111/j.1461-0248.2011.01736.x.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+biodiversity (Pereira et al. 2010; Parmesan et al. 2011). Although there is relatively limited 
+evidence of current extinctions caused by climate change, studies suggest that climate 
+change could surpass habitat destruction as the greatest global threat to biodiversity over the 
+next several decades (Leadley et al. 2010). However, the multiplicity of approaches and the 
+resulting variability in projections make it difficult to get a clear picture of the future of 
+biodiversity under different scenarios of global climatic change (Pereira et al. 2010). Hence, 
+there is an urgent need to review our current understanding of the effects of climate change 
+on biodiversity and our capacity to project future impacts using models. To this end, we 
+have reviewed both the ranges of possible impacts of climate change that operate at 
+individual, population, species, community, ecosystem and biome scales and the different 
+responses that could occur at individual, population or species levels. We then present the 
+principal specificities and caveats of the most common approaches used to model future 
+biodiversity at global and sub-continental scales and we synthesize their results focusing on 
+how model combinations are used to project the impacts of climate change on species loss. 
+Finally, we highlight several challenges for future research, from theoretical (e.g., emerging 
+models) and applied (e.g. population conservation and exploitation) realms.
+2. Biodiversity and climate change: effects and responses
+Climate change effects on biodiversity
+The multiple components of climate change are anticipated to affect all the levels of 
+biodiversity, from organism to biome levels (Figure 1, and reviewed in detail in, e.g., 
+Parmesan 2006). They primarily concern various strengths and forms of fitness decrease, 
+which are expressed at different levels, and have effects on individuals, populations, species, 
+ecological networks and ecosystems. At the most basic levels of biodiversity, climate 
+change is able to decrease genetic diversity of populations due to directional selection and 
+rapid migration, which could in turn affect ecosystem functioning and resilience (Botkin et 
+al. 2007) (but, see Meyers & Bull 2002). However, most studies are centred on impacts at 
+higher organizational levels, and genetic effects of climate change have been explored only 
+for a very small number of species.
+Beyond this, the various effects on populations are likely to modify the “web of 
+interactions” at the community level (Gilman et al. 2010; Walther 2010). In essence, the 
+response of some species to climate change may constitute an indirect impact on the species 
+that depend on them. A study of 9,650 interspecific systems, including pollinators and 
+parasites, suggested that around 6,300 species could disappear following the extinction of 
+their associated species (Koh et al. 2004). In addition, for many species, the primary impact 
+of climate change may be mediated through effects on synchrony with species’ food and 
+habitat requirements (see below). Climate change has led to phenological shifts in flowering 
+plants and insect pollinators, causing mismatches between plant and pollinator populations 
+that lead to the extinctions of both the plant and the pollinator with expected consequences 
+on the structure of plant-pollinator networks (Kiers et al. 2010; Rafferty & Ives 2010). Other 
+modifications of interspecific relationships (with competitors, prey/predators, host/parasites 
+or mutualists) also modify community structure and ecosystem functions (Lafferty 2009; 
+Walther 2010; Yang & Rudolf 2010).
+Bellard et al.
+Page 2
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+At a higher level of biodiversity, climate can induce changes in vegetation communities that 
+are predicted to be large enough to affect biome integrity. The Millenium Ecosystem 
+Assessment forecasts shifts for 5 to 20% of Earth’s terrestrial ecosystems, in particular cool 
+conifer forests, tundra, scrubland, savannahs, and boreal forest (Sala et al. 2005). Of 
+particular concern are “tipping points” where ecosystem thresholds can lead to irreversible 
+shifts in biomes (Leadley et al. 2010).
+A recent analysis of potential future biome distributions in tropical South America suggests 
+that large portions of Amazonian rainforest could be replaced by tropical savannahs (Lapola 
+et al. 2009). At higher altitudes and latitudes, alpine and boreal forests are expected to 
+expand northwards and shift their tree lines upwards at the expense of low stature tundra and 
+alpine communities (Alo & Wang 2008). Increased temperature and decreased rainfall mean 
+that some lakes, especially in Africa, might dry out (Campbell et al. 2009). Oceans are 
+predicted to warm and become more acid, resulting in widespread degradation of tropical 
+coral reefs (Hoegh-Guldberg et al. 2007). The implications of climate change for genetic 
+and specific diversity have potentially strong implications for ecosystem services. The most 
+extreme and irreversible form of fitness decrease is obviously species extinction. To avoid 
+or mitigate these effects, biodiversity can respond in several ways, through several types of 
+mechanisms.
+Biodiversity responses to climate change
+Because of climate changes, species may no longer be adapted to the set of environmental 
+conditions in a given region and could therefore fall outside its climatic niche. As other 
+components of the ecological niche of species are not supposed to change directly, we will 
+hereafter refer only to climatic niches of species (i.e., the climatic components of the n-
+dimensional hypervolume sensu Hutchinson). In order to persist, individuals, populations or 
+species must produce adaptive responses, which can be of several types, and are provided by 
+two categories of mechanisms.
+Response mechanisms: plastic versus genetic—One of the crucial questions in the 
+debate on ecological effects of climate change is whether species will be able to adapt fast 
+enough to keep up with the rapid pace of changing climate (Lavergne et al. 2010; Salamin et 
+al. 2010). Whatever the type of adaptive responses, underlying mechanisms are either due to 
+micro-evolution (i.e., species can genetically adapt to new conditions through mutations or 
+selection of existing genotypes Salamin et al. 2010; Olofsson et al. 2011) or plasticity, 
+which provides a means of very short-term response (within individual’s lifetimes, 
+Charmantier et al. 2008). It may involve intraspecific variation in morphological, 
+physiological or behavioural traits, which can occur on different time scales within the 
+populations’ spatial range (Botkin et al. 2007; Chevin et al. 2010). Empirical evidence 
+suggests that plastic contribution is often more important than genetic contribution, as 
+observed in birds and marmots (Hoffman & Sgro 2011). On the other hand, there is 
+increasing empirical evidence that evolution can be very rapid (Lavergne et al. 2010). This 
+is the case for many introduced species, for which selection-driven phenotypic changes have 
+enhanced the invasive potential (e.g., Phillips 2009). Recent experiments on evolutionary 
+rescue also confirm that rapid evolution through mutation and selection could allow species 
+Bellard et al.
+Page 3
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+with rapid life cycles to adapt very severe and rapid environmental changes (Bell & 
+Gonzalez 2009).
+Responses: along three axes—Whatever the mechanisms involved in response to 
+climate change, species can in theory change, and changes have already been observed, 
+along three distinct but non-exclusive axes (Figure 2): spatial, temporal or self. The first two 
+axes correspond to easily observable and well-documented responses to global warming 
+(Parmesan 2006). “Self” corresponds to less visible physiological and behavioural changes 
+that allow species to adapt to the new climatic conditions in the same spatial and temporal 
+frame.
+Spatial: First, species can track appropriate conditions in space and follow them. This is 
+typically done through dispersion, but spatial changes are not limited to this: shifts to a 
+different habitat at the local or micro-habitat levels are also relevant. One of the best-
+documented responses – from both paleontological records and recent observations - is a 
+spatial shift of species tracking suitable climatic conditions at the regional scale. Latitudinal 
+and altitudinal range shifts have already been observed in more than 1,000 species – 
+especially those with high dispersal capacities like birds, insects and marine invertebrates 
+(Parmesan 2006), leading to a reduction in range size particularly in polar and mountaintop 
+species (Forero-Medina 2010). However, individuals shift their distribution in order to stay 
+in quasi-equilibrium with the climatic conditions they are adapted to, but they may not be 
+adapted to other abiotic variables such as photoperiod or novel biotic interactions (Visser 
+2008). In these cases, micro-evolution may be needed for them to persist (Visser 2008).
+Temporal: In order to keep up with changing abiotic factors that show cyclic variation over 
+time, such as temperature on a daily or yearly period, individuals can also respond to climate 
+change through a shift in time (on a daily to seasonal basis). Phenology, i.e., the timing of 
+life cycle events such as flowering, fruiting and seasonal migrations, is one of the most 
+ubiquitous responses to 20th century climate warming. It has already been documented in 
+many species (Parmesan 2006; Charmantier et al. 2008). In a meta-analysis of a wide range 
+of species including animals and plants, the mean response across all species responding to 
+climate change was a shift in key phenological events of 5.1 days earlier per decade over the 
+last 50 years (Root et al. 2003). Flowering has advanced by more than 10 days per decade in 
+some species (Parmesan 2006). These phenological changes can help species keep 
+synchrony with cyclical abiotic factors. Yet, they can also be disruptive, by increasing 
+asynchrony in predator-prey and insect-plant systems (Parmesan 2006), which may lead to 
+species extinction. Temporal shifts may also occur at a small temporal scale, e.g. with 
+activity patterns adjusted in daily activity rhythms, or behaviours adjusted in length to match 
+changes to costs due to a different climatic condition.
+Self: Last, species can cope with changing climatic conditions by adapting themselves to the 
+new conditions in their local range, rather than by tracking their current optimal conditions 
+in space or time. For lack of a better term, we refer to these in situ changes that are not 
+related to spatial or temporal changes, as changes in “self”. Species can move along this 
+third, “self” axis by physiological alterations that allow tolerance to warmer or drier 
+Bellard et al.
+Page 4
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+conditions or by behavioural modifications of their diet, activity and energy budget, for 
+example. Although they are often less obvious than changes in time or space, some 
+physiological responses have already been reported (Johansen & Jones 2011) during the 20th 
+century climate change, especially from many ectotherms, as their locomotion, growth, 
+reproduction and sex determination are temperature sensitive (Tewksbury et al. 2008). 
+However, for many traits, plastic phenotypic responses should reach a physiological limit 
+and ‘saturate’ in extreme environments. For example, body size or metabolic rate cannot 
+increase or decrease indefinitely under sustained environmental change (Chevin et al. 2010). 
+In this case, strong selection is needed to cope with climate change. As they remain in the 
+same spatial and temporal frame, thereby limiting alterations of interspecific relationships, 
+changes in self also have different consequences for ecosystem responses than do changes in 
+time and space.
+Failing to adapt along one or several of these three axes, population or species will go 
+extinct locally or globally. There is thus a multitude of possible responses for species to 
+cope with climate change, and in fact relatively few taxa went extinct following climate 
+change during the Quaternary period (Botkin et al. 2007). This should help temper 
+catastrophist predictions regarding the global effects of the current climate change on 
+biodiversity. However, the responses of many populations are likely to be inadequate to 
+counter the speed and magnitude of the current climate change. In addition, unlike in past 
+periods of climate change, species have now to cope with additional threats, some of which 
+may act in synergy with climate change (Botkin et al. 2007). As we are already facing an 
+irrefutable biodiversity crisis, the number of species that may go extinct following climate 
+change has become a major concern over last few years.
+3. Assessing the future of global biodiversity
+Our understanding of the effects of global climate change on biodiversity and its different 
+levels of response is still insufficiently well developed. Yet, it is enough to raise serious 
+concern for the future of biodiversity. The most pressing issue is to quantitatively assess the 
+prospects for biological diversity in the face of global climate change. Although several 
+methods exist to draw inferences, starting with existing paleontological or recent data, 
+experiments, observations, and meta-analyses (e.g., Lepetz et al. 2009), ecological 
+modelling is the most commonly used tool for predictive studies. Progress in this field is 
+characterised by both an extremely high pace and a plurality of approaches. In particular, 
+there are three main approaches to projecting species loss, concentrating either on future 
+changes in species range or species extinction or changes in species abundance. However, 
+all three modelling approaches have so far largely focused on one axis of response (change 
+in space), largely overlooking the importance of the other aspects. In addition, they seldom 
+account for the mechanisms of these responses (plasticity and evolution). We briefly discuss 
+here the basic principles and the weakness of the models that are the most widely used at 
+global or at large regional scales in this context, focusing on representative examples of 
+recent work. Table 1 summarizes the specific advantages and limitation of each model type.
+Bellard et al.
+Page 5
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Biodiversity range models components
+Studies modelling species’ range shifts are generally based on the assumption that species 
+niches are defined by a small set of environmental variables, i.e. the species’ “climate 
+niche”, defines the suitable climatic habitat for that particular species. These Bioclimatic 
+Envelope Models, or BEMs, relate current species ranges to multiple climatic variables and 
+thereby define the climatic niche (envelope) for each species. It is then possible to project 
+this niche for different future climate scenarios in order to determine the potential 
+redistribution of the suitable climate space of the species. The extinction risks can then be 
+calculated in different ways using species-area relationships (Thomas et al. 2004) or IUCN 
+status (Thuiller et al. 2005). Despite a number of limitations (lack of biological process as 
+well as methodological and theoretical issues, Soberon & Nakamura 2009), species 
+distribution models still constitute the bulk of studies in this domain (Sinclair et al. 2010).
+Shifts in distinct vegetation types, often referred to as biome or habitat shifts, are often 
+simulated with Dynamic Vegetation Models (DVM). These models forecast shifts in 
+vegetation and associated biogeochemical and hydrological cycles in response to climate 
+change. DVMs use time series of climate data (e.g., temperature, precipitation, humidity, 
+sunshine days) and take into account constraints of topography and soil characteristics in 
+order to simulate monthly or daily dynamics of ecosystem processes. Plant species are 
+represented as groups with similar physiological and structural properties, termed Plant 
+Functional Types (PFTs), which are designed to represent all major types of plants (Sitch et 
+al. 2008). PFT distributions can then be used to estimate changes in biome or habitat ranges. 
+Currently, DVMs are of limited use for projecting responses in biodiversity directly (i.e., the 
+absence of animals and the limitation to ca. 10 PFTs exclude direct utilization). However, 
+coupled with extinction models, they allow extinction risk for species to be estimated at the 
+regional or global scale (e.g., van Vuuren et al. 2006).
+Species loss models components
+The simplest method for calculating extinction risk is to assume that species go extinct when 
+they no longer have any suitable habitat (Jetz et al. 2007). This may underestimate 
+extinctions because species often enter an “extinction vortex” well before they loose their 
+entire habitat. Yet, it could also substantially overestimate extinctions because many species 
+have weak habitat specificity (Malcolm et al. 2006; Willis & Bhagwat 2009).
+The Species Area Relationship (SAR), an empirical relationship between the number of 
+species and the land area of a region, is often used to estimate extinction risk (Thomas et al. 
+2004). Species extinctions are calculated as a direct function of habitat loss or climate 
+induced range contraction based on the observation that extinction risk increases with 
+decreasing range and population size. SAR methods may over or underestimate species 
+extinction risk depending on the capacity of species to persist in small populations or adapt 
+to novel environments, and they also fail to provide a time frame in which extinctions are 
+likely to occur (Chevin et al. 2010) because the extinction debt is not accounted for (Pereira 
+et al. 2010). The relevance of using this relationship to project biodiversity loss is still hotly 
+debated (He & Hubbell 2011).
+Bellard et al.
+Page 6
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+The IUCN has developed criteria to assess species extinction risk for their Red List of the 
+conservation status of plant and animal species (Baillie et al. 2004). These include 90 
+biological traits identified as enhancing species’ vulnerability (e.g., habitat specialisation, 
+narrow environmental tolerance, dependence on specific environmental triggers, dependence 
+on inter-specific interactions or poor ability to disperse to or colonize a new range, Foden et 
+al. 2008). Recent attempts at projecting climate change impacts on biodiversity have used 
+the IUCN status metric to obtain estimates of extinction rates based on projected range shifts 
+(Thuiller et al. 2005), although the use of IUCN status for this purpose has also been 
+questioned (Akcçakaya et al. 2006).
+In Dose Response Relationship (DRR) models, observational data and experiments can be 
+employed to generate empirical relationships between the relative importance of global 
+drivers (dose) and changes in species loss (response).
+Most models focus on species extinctions, which are only the last step of a decline in 
+abundance and are a less immediate (although dramatic) impact of climate change. This fact 
+has led to the development of new models that attempt to quantify the impact of human 
+activities on species abundance (i.e., an equivalent of DRR for species abundance). Impacts 
+on biodiversity are estimated using biodiversity indicators including Mean Species 
+Abundance (MSA, Alkemade et al. 2009) and Biodiversity Intactness Index (Biggs et al. 
+2008). For example, the GLOBIO model uses a matrix of changes in mean local species 
+abundances following conversion between two land use or land cover categories, derived 
+from empirical studies (Leadley et al. 2010). These types of models use species abundances 
+in pristine ecosystems as a baseline, and thereby provide a measure of the distance from 
+“naturalness” of plant and animal communities following human disturbance. Species 
+abundance models based on plant traits and abiotic characteristics can also provide evidence 
+of changes in ecosystem services (Lavorel et al. 2011).
+There are, however, several major limitations to these models, especially concerning the 
+indices of biodiversity derived from DRR applied to species abundance. They depend 
+largely on the quality of the input data (of which much more is needed than in most other 
+models), uncertainty cannot be taken into account, and they are difficult to relate to 
+commonly used biodiversity indices (Alkemade et al. 2009).
+Model combinations
+Current modelling techniques usually incorporate a succession of one (or several) future 
+socio-economic scenario(s), one (or several) extinction driver(s), one habitat or species 
+range model (Figure 3). They then express their projections in terms of various extinction 
+metrics. This has generated a variety of “model combinations” leading to a wide range of 
+projections that are not straightforward to compare, as the underlying assumptions differ 
+greatly. We have synthesized in Figure 4 the results of all such projections made at a global 
+scale either geographically or taxonomically. Despite important differences and some bias 
+(e.g., marine biodiversity is still poorly represented), these models generally indicate that 
+many species can be expected to decline rapidly at a global scale.
+Bellard et al.
+Page 7
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Projections of species loss
+The field of climate change biology has thus followed several distinct and independent lines 
+of model development (Figure 3). This is potentially advantageous, as the convergent 
+predictions can be regarded as an indication of robustness. In essence, the results show that 
+local species extinctions cover an extremely large range, with some areas experiencing 
+virtually no losses and others facing nearly complete loss of current species. High local 
+losses can concern relatively large areas; for example, Bakkenes et al. (Bakkenes et al. 
+2002) estimated the more than 16% of European landmass would have local species losses 
+exceeding 50% by 2050. This must be distinguished from projections of species extinctions 
+at the global level, which are unsurprisingly lower than at the local level, since local 
+extinctions do not necessarily lead to global extinctions. Nevertheless, even these global 
+estimates suggest major losses of biodiversity due to global climate change that are 
+generally higher than current rates of loss and far higher than rates of species extinctions 
+documented in the fossil record (Pereira et al. 2010; Barnosky et al. 2011). For example, one 
+of the earliest global studies estimated that by 2050 15-37% of species are committed to 
+extinction under intermediate climate warming (Thomas et al. 2004). Birds are projected to 
+be particularly sensitive to climate change. Two studies have calculated losses by 2100 due 
+to climate change: these range from less than 0.3% of the world’s 8,750 species of land birds 
+would be committed to extinction (Jetz et al. 2007) and up to 30% of the 8,400 land bird 
+species in the Western Hemisphere could go extinct (Sekercioglu et al. 2008). Regarding the 
+vulnerability of 25 major biodiversity hotspots, Malcolm and colleagues suggested that the 
+extinctions of endemic species could reach 39-43% under in worst-case scenarios, 
+representing the potential loss of 56,000 endemic plant species and 3,700 endemic vertebrate 
+species (Malcolm et al. 2006).
+Studies based on changes in species abundance generally predict an erosion of biodiversity 
+in the same order of magnitude as species extinction models do, i.e., losses of 11 to 17% of 
+mean species abundance by the end of the century (Alkemade et al. 2009). Using data from 
+9,856 birds, 6,222 amphibians and 799 coral reefs, the IUCN forecasted that about 35% of 
+the world’s birds, 52% of amphibians and 71% of warm-water reef-building corals are 
+particularly susceptible to climate change (Foden et al. 2008). Variability in local 
+extinctions is significantly higher than in global extinctions projections. Indeed, in some 
+regions the species composition will not change at all and in others almost all species will be 
+lost following climate change. Estimated losses of riverine fish richness at a local scale vary 
+considerably between 0 and 75% according to the river considered (Xenopoulos et al. 2005). 
+Similarly, estimated local losses of plant diversity in Europe range from 2 to 84% of species 
+lost per pixel (Thuiller et al. 2005).
+Overall, the diversity of taxonomic groups studied, of biodiversity loss metrics, of spatial 
+scales and time periods render complex and uncertain comparisons between these studies. In 
+addition, the large array of modelling techniques further complicates the comparisons. 
+Moreover, several studies assess the combined effects on future biodiversity of both climate 
+change and land use, making it difficult to distinguish the effect of each. Finally, there is 
+growing concern that the underlying assumptions of all of these models could lead to large 
+over- or underestimations of potential species losses (Pereira et al. 2010; Dawson et al. 
+Bellard et al.
+Page 8
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+2011). These are summarized Figure 5 (see also below). As an example, a recent study 
+suggests that the realized effects of climate change might far exceed the current predictions 
+(Maclean & Wilson 2011). Based on a global multi-taxon meta-analysis of recorded 
+ecological responses, they estimated that the mean observed extinction risk by 2100 is 
+systematically higher than the mean predicted extinction risk across the theoretical studies 
+considered in the meta-analysis: 12.6% in plants (vs. 4% predicted), 9.4% in invertebrates 
+(vs. 7,2 % predicted) and 17.7% in vertebrates (vs. 12.4 % predicted). Overall, these 
+estimates of biodiversity loss are obviously a major concern.
+4. What further improvements are needed?
+Climate change ecology is still in its infancy, and tremendous improvements are made 
+rapidly in virtually all aspects of this emerging field. Critical requirements to be able to 
+predict future trends include the need to study a much larger part of biodiversity, to 
+overcome several major model limitations, to account for co-extinctions and other major 
+drivers of biodiversity loss and to validate models by comparing projections with 
+observations. These limitations are detailed below. Figure 5 provides a summary of the 
+directions in which each of these weaknesses is likely to affect the current projections on 
+biodiversity loss, as well as the major types of challenges that have to be faced to overcome 
+these uncertainties.
+Climate scenarios
+Climate scenarios depend on a wide range of socio-economic storylines for greenhouse gas 
+emissions in the future, including the Special Report on Emissions Scenarios (SRES) 
+Millenium Assessment and Global Biodiversity Outlook scenarios (Pereira et al. 2010), and 
+on a broad suite of General Circulation Models used to calculate climate change for given 
+trajectories of greenhouse gas emissions. This means that the projections of species loss can 
+yield highly contrasting results depending on the choice of combinations of emissions 
+scenarios and climate models, independently of the model of biodiversity response that is 
+used (Beaumont et al. 2008). In addition, internal climate model variability could result in 
+greater differences in projected species’ distributions than variability between climate 
+models (Beaumont et al. 2007). In addition, 4% to 39% of the world’s landmass will 
+experience combinations of climate variables that do not currently have equivalent values 
+anywhere on the globe (so called no-analog climates, Williams et al. 2007). One key 
+challenge is to provide robust and credible uncertainty intervals for all model outcomes and, 
+if possible, to reduce them.
+Scale choice
+The choice of the spatial resolution scale is probably one of the most important factors 
+generating variability. For example, a coarse, European-scale model (with 10′×10′ grid 
+cells) predicted a loss of all suitable habitats during the 21st century, whereas a model using 
+local-scale data (25×25 m grid cells) predicted persistence of suitable habitats in up to 100% 
+of plant species (Randin et al. 2009). These differences are probably explained by the failure 
+of coarser spatial scale models to capture both local topographic diversity and habitat 
+heterogeneity (Luoto & Heikkinen 2008; Randin et al. 2009). On one hand, global models 
+Bellard et al.
+Page 9
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+can be used for a large number of species but focus on one type of species’ response and 
+lack therefore biological realism. On the other hand, population or species models provide 
+insight into a very limited range of species, typically at regional scales (i.e., adaptation 
+phenology, dynamic population) but cannot provide global scale trends. This is a classical 
+trade-off between precise small-scale models and coarse large-scale models that lack 
+biological realism (Thuiller 2003).
+Positive effects
+Climatic changes could also have positive effects on biodiversity. For instance, more 
+clement temperatures and increased CO2 are likely to be beneficial to many plants, resulting 
+in an acceleration of biomass production. Milder winters might increase survival of many 
+currently threatened species in temperate regions. Increased precipitation may also benefit 
+some plant communities and species depending on them. Moreover, several studies reported 
+detrimental effects of climate change on biological invasions (e.g., Peterson et al. 2008). 
+Although few studies report beneficial effects of global changes on biodiversity, they 
+certainly exist and add to the difficulty of getting a clear overview of the effects of climate 
+changes on the biodiversity of our planet.
+Biodiversity measures
+Even in the most ambitious studies, the range of species studied always represents a small 
+percentage of known biodiversity. All studies are taxonomically biased, as they generally 
+concentrate on a few conspicuous taxonomic groups such as plants, mammals and birds 
+(Thuiller et al. 2011), with a particularly strong bias towards terrestrial vs. marine 
+biodiversity. However, it is generally recognized that the vast majority of biodiversity in 
+terms of species richness, evolutionary divergence, biomass and even ecosystem functioning 
+is represented by “cryptic biodiversity”, especially micro-organisms and insects (Esteban & 
+Finlay 2010). Similarly, there are important biases in data collection both across regions and 
+ecosystems (McMahon et al. 2011). Furthermore, most studies focus on species richness, 
+because it is thought to influence the resilience and resistance of ecosystems to 
+environmental change. However, a few studies have explored the impact of climate change 
+on functional (Thuiller et al. 2006) and phylogenetic diversity (Thuiller et al. 2011), and the 
+effects on genetic diversity are only beginning to be explored. Moreover, it is likely that 
+different levels of diversity are affected differently by climate change, so these should be 
+evaluated in parallel in order to provide a broad picture of biodiversity response to climate 
+change (Devictor et al. 2010).
+In addition, there are different indicators of biodiversity change, such as the number of 
+species “committed” to extinction (Thomas et al. 2004; Pereira et al. 2010), extinction risk 
+(Thuiller et al. 2005), or change in abundances (Alkemade et al. 2009; Leadley et al. 2010). 
+The number of species “committed” to extinction is probably not the most appropriate 
+metric to forecast the future of biodiversity because the extinction debt could vary from 
+decades to centuries (Kuussaari et al. 2009). A complementary metric of biodiversity can be 
+changes in Mean Species Abundance, which is an index defined as the mean abundance of 
+original species relative to their abundance in undisturbed ecosystems. As extinction is only 
+the last step in the process of species decline, the MSA can provide a metric to evaluate 
+Bellard et al.
+Page 10
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+ecosystem degradation. In addition, we need new approaches to predict the impacts of 
+climate change at the community level (i.e., Mokany & Ferrier 2011). Currently, neither the 
+estimates of species losses nor of the qualitative impacts on ecosystem functioning and 
+services are satisfactory to give a global overview of the impacts of climate change (Dale et 
+al. 2010).
+Limitations of predictive tools
+Each of the modelling approaches reviewed has methodological, spatial and temporal 
+limitations that constrain their predictive power (e.g., McMahon et al. 2011). In general, 
+models do not take into account the multiple responses of species to climate change, but 
+rather focus mainly on one axis, spatial shifts of potential habitat (Figure 2). The temporal 
+and the physiological responses are generally overlooked, as are the genetic and plastic 
+capacity of species (Lavergne et al. 2010; Salamin et al. 2010). In addition, species are 
+commonly considered as static and independent entities, although their dynamics and their 
+role in ecological networks are both known to be essential. However a new generation of 
+models is emerging that focuses on more realistic biological hypotheses and meets some of 
+the challenges posed by each limitation (e.g., Thuiller et al. 2008 ; Brook et al. 2009; 
+Gallien et al. 2010).
+Species responses
+Current global extinction models make very coarse assumptions about species responses. 
+For example, the dispersal capability is a major issue for projections of future biodiversity. 
+Until recently, models often addressed dispersal issues by using two extreme assumptions of 
+either unlimited or no species dispersal (Thomas et al. 2004). This is clearly convenient for 
+practical purposes, but most species are between these extremes. In addition, exceptional 
+occurrences of long-distance dispersal are thought to have helped past species surmount 
+prehistoric climate changes (Dawson et al. 2011 and references therein). Although rare, 
+these events are of crucial significance in the current context, as they could in many cases 
+make the difference between species survival and extinction, especially as human mediated 
+long-distance dispersion is now common for many organisms.
+Inherent differences in vulnerability are not always taken into account when making large-
+scale correlative predictions of the future of biodiversity. Indeed, most models work under 
+the very strong hypotheses that species currently live in an optimal climatic niche and that 
+they cannot survive if there is a change in the climatic conditions that contribute to define 
+this niche. Such a hypothesis amounts to overlook the potential of adaptability of species. 
+Numerous studies have shown that species are capable of fast responses through phenotypic 
+plasticity or microevolution (Lavergne et al. 2010). Before being able to forecast species 
+trajectories with some credibility, we therefore need to assess properly the vulnerability of 
+species (including exposure, sensitivity, adaptive capacity and migration potential), habitats 
+and regions to different components of climate change (Dawson et al. 2011; McMahon et al. 
+2011). Despite growing evidence for rapid adaptive evolution in response to climate change, 
+the consequences of such evolution on species persistence remain to be explored (Lavergne 
+et al. 2010). Currently, more flexible models of micro-evolutionary processes combine 
+population based information with phylogenetic comparative methods to provide an 
+Bellard et al.
+Page 11
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+estimation of the evolutionary potential (Salamin et al. 2010). Moreover, populations can be 
+locally adapted to specific climatic conditions and therefore, models treating a species as a 
+single homogeneous unit might be flawed. Consequently, studying under which 
+circumstances losses in genetic and species diversity at local to regional scales occurred in 
+the past could improve models outputs (Dawson et al. 2011; McMahon et al. 2011).
+Population and metapopulation dynamics
+An inherent property of current global extinction models is that they do not take into account 
+population or metapopulation dynamics that determine species distributions, population 
+structure and extinction risk at a local scale. Models are often based on habitat reduction and 
+do not offer a mechanism by which the species’ fitness is reduced and ultimately led to 
+extinction. Recently, new mechanistic niche models have endeavoured to estimate key 
+fitness components such as survival, growth, development and reproduction as a function of 
+species attributes (i.e., physiology, phenology, behaviour) that vary with climatic conditions 
+(Kearney et al. 2010).
+Currently the probability of extinction is based on a projection of suitable habitats entirely 
+lost (species will be committed to extinction) or partially lost (species will increase their 
+extinction risk), although it possible to combine niche models and abundance data (Iverson 
+& Prasad 1998). In fact, on one side some species are more likely to go extinct because they 
+consist of small and disconnected populations and on the other side, some species have 
+shown compensatory changes in demographic rates following climate change (Doak & 
+Morris 2010). The approach of Population Viability Analysis (PVA) in this context could 
+provide a good alternative. It is used to estimate the likelihood of a population’s extinction 
+within a given number of years through the species’ demographic characteristics and 
+environmental variability, instead of species range shifts. Only a few studies have used PVA 
+to predict the effects of climate change on extinction risks (Keith et al. 2008; Anderson et al. 
+2009), in part because this approach requires data on population dynamics that are not 
+available for most species.
+In addition, physio-demo genetic models could provide the most realistic method to forecast 
+the future of key species, as they consider simultaneously demographic (e.g., growth, rate of 
+survival and reproduction, migration processes, environmental stochasticity), physiological 
+(e.g., metabolic rate) and genetics parameters (heritability and norm of reaction). However, 
+studies using physio-demo genetic models to evaluate the impacts of climate changes remain 
+scarce (Kramer et al. 2010).
+Co-extinctions
+Whether centred on a single species or taking into account large taxonomic groups, most 
+studies and all models have disregarded interspecific relationships such as competition, 
+facilitation or mutualism. Beyond single-species extinctions, both direct and indirect 
+processes can lead to cascading and catastrophic co-extinctions, also called “chains of 
+extinction” (Brook et al. 2008). Despite the importance of interspecific interactions, these 
+relationships are exceptionally difficult to model; this is especially cogent in the context of 
+lack of data on population dynamics and trophic webs (McMahon et al. 2011). As each 
+Bellard et al.
+Page 12
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+species comes with its cortege of specific parasites and symbionts, as well as many trophic 
+relationships, the consequences of global change on biodiversity might be substantially 
+underestimated when focusing on species-specific extinction rates (Koh et al. 2004; Yang & 
+Rudolf 2010). There is an urgent need not only to go beyond the single species approach, 
+but also to get past the species richness approach and to consider interspecific interactions, 
+trophic webs and ecological networks (Bascompte 2009).
+Synergies between extrinsic drivers of extinction
+Research on future species extinctions has so far mostly considered a limited set of the 
+predicted changes. For example, sea level rise has seldom been considered, although the 
+most recent scenarios projecting up to 2 meters of rise by 2100 are raising new concerns for 
+coastal and insular biodiversity (Grinsted et al. 2009). In addition, studies have mainly 
+focused on the sole impact of climate change, sometimes considering a single additional 
+driver (e.g., land use change). These limitations may often lead to overly optimistic 
+estimates. Indeed, other components of global change, such as habitat fragmentation, 
+pollution, overexploitation and biological invasions have all been documented as major, 
+additional threats for the future of biodiversity, with possible synergies, or reinforcing 
+feedbacks between them (Sala et al. 2000). For instance climate-induced facilitation of 
+invasions can occur at all stages of the invasions process (Walther et al. 2009; Bradley et al. 
+2010). In an experimental context, habitat fragmentation and overfishing combined with 
+global warming have led to a decline in rotifer populations up to 50 times faster than when 
+either threat acts alone (Mora et al. 2007). In this case, dose response relationship models 
+could offer a powerful approach because they could simulate the impacts of many drivers of 
+biodiversity.
+Overall, despite important uncertainties and much conflicting imprecision, both under- and 
+overestimating species loss, the very large underestimations due to co-extinctions, synergies 
+and tipping points are extremely worrisome for the future of biodiversity (Figure 5). Given 
+the attractiveness of quantitative projections from mathematical models, it is tempting to 
+underestimate their limits. To minimize this risk, it is crucial to use a variety of 
+complementary approaches, ranging from observational studies (paleontological data, 
+phenological responses, adaptive capacity) to field and laboratory experiments (on genetic, 
+species and ecosystem levels) (Dawson et al. 2011).
+5. Biodiversity management
+The large variation of responses of different species necessitates the use and integration of 
+multiple approaches in order to further our understanding of the impacts climate change can 
+have on biodiversity (Dawson et al. 2011). Similarly, our responses in terms of biodiversity 
+management ought to transcend disciplines. Beyond this, global climate change prompts 
+several methodological issues and the implications for conservation and management of 
+biodiversity and of ecosystem services.
+Bellard et al.
+Page 13
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Conservation of species and ecosystems
+The large projected impacts of climate change on biodiversity at all levels mean that 
+ecologists must quickly rise to the challenge of providing scientific guidance for the 
+development of conservation strategies (Pressey et al. 2007; Araùjo et al. 2011; Dawson et 
+al. 2011). A major role of conservation planning is to design reserve networks that protect 
+biodiversity in situ. Currently few studies have attempted to use modelling for conservation 
+purposes (Araùjo et al. 2011). It is increasingly important to protect the heterogeneity of 
+habitats as well as genetic diversity within a species in order to sustain the capacity of a 
+species to adapt. Also, the characteristics of protected areas, where planning has to be done 
+decades in advance (Hansen et al. 2010), need to be reviewed under climate change. Climate 
+modelling can help to re-evaluate the current set of protected areas, their places, size, layout 
+and design (Araùjo et al. 2011). In particular, protection should be prioritized for places that 
+minimize the effects of climate change – like forests, which contribute strongly to local 
+climatic conditions – as well as for climate refuges for biodiversity (Carnaval et al. 2009). 
+Finally, model predictions of where, when, and how future risks may affect species, biomes 
+or ecosystems could assist in identifying the most appropriate conservation measures. For 
+instance, species or ecosystem projected to be primarily affected by climate change may 
+require adapted measures compared to species negatively affected by land-use change that 
+could persist through protection of their remaining natural habitat (Hannah et al. 2007). In 
+many cases there may no longer be any overlap between a species’ current range and its 
+possible future range. As this situation will lead to extinction, climate change has been a 
+major argument for the proponents of human-assisted colonisation (Loss et al. 2011). In this 
+increasingly hot debate, case-by-case decisions have been advocated, based on the balance 
+between threatened status of a species and threat of that species for the recipient ecosystem, 
+as well as the socioeconomic context in which conservation is taking place (Richardson et 
+al. 2009; Dawson et al. 2011). A widespread view is that an important strategy is to enhance 
+landscape connectivity to enable species to move through a matrix of interconnected habitats 
+in order to favour escapes from unsuitable climatic conditions (Hannah et al. 2007).
+It is also essential to shift from a species centred focus to a holistic view encompassing 
+species interaction networks, and other aspects of biodiversity such as functional and 
+phylogenetic diversities (Devictor et al. 2010). Beyond these various strategies, there is a 
+growing call to go past the predictive focus and start aiming for an integrated and unified 
+framework to identify species vulnerability and adapt biodiversity management 
+interventions (Dawson et al. 2011). In this regard, preventive actions are of foremost 
+importance. For example, it should be remembered that the proportion of species extinction 
+is a power function of the expected global warming (Hansen et al. 2010). Minimizing global 
+warming could therefore have non-linear effects in the preservation of species from 
+extinction, with each tenth of degree avoided saving an increasing number of species 
+(Hansen et al. 2010). Acting to reduce global warming itself, and not only its effect on 
+biodiversity, should remain a priority in conservation sciences. In addition, reducing other 
+global change drivers could increase overall resilience of biodiversity in the face of climate 
+change (Hughes et al. 2003).
+Bellard et al.
+Page 14
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Ecosystem services
+Other aspects of biodiversity management will be affected by global change and will need 
+adapting, including wildlife exploitation (e.g., forestry, (Dale et al. 2010) or fisheries, 
+(Stram & Evans 2009)), agronomy (Howden et al. 2007), pest and invasive species control 
+(Ziska et al. 2011) or human and wildlife disease management (Harvell et al. 2002). For 
+example, major challenges in agronomy include the need to shift to species or varieties 
+better adapted to particular components of climate change or to rethink strategies to control 
+invasive and pest outbreaks, finding solutions in the increasing competition for water 
+between the natural and the agricultural ecosystems, improving infrastructures and adapting 
+cropping systems to meet future demands of a growing population living on poorer 
+biodiversity resources (Howden et al. 2007).
+Given the tremendous ecological impact of alien invasive species, and the expected 
+exacerbation of invasion due to climate change (Walther et al. 2009), it is urgent to increase 
+predictive power in this field. It is also crucial to move beyond predictions (Dawson et al. 
+2011) and to strengthen risk assessment, protocols of screening and of early detection, 
+vector control and integrated management in area and/or of invasive species that will 
+become at higher risk following climate change. Similar efforts are imperative for other 
+drivers of biodiversity loss, such as overexploitation or habitat destruction.
+6. Conclusion
+Ecologists are developing a better understanding of the mechanisms by which species and 
+ecosystems can be impacted by climate change. The timing of species’ life cycle events is 
+expected to be further altered, species distributions will change radically, trophic networks 
+will be affected and ecosystem functioning may be severely impaired, leading in the worst 
+cases to countless species extinctions. Over the past decades, some of this understanding has 
+been effectively translated into mathematical models that can be used to forecast climate 
+change impacts on species distributions, abundance, and extinctions. These models are 
+characterized by their high diversity of underlying structures and assumptions, with 
+predictions differing greatly depending on the models used and species studied. Most of 
+these models indicate alarming consequences for biodiversity with worst-case scenarios 
+leading to extinction rates that would qualify as the sixth mass extinction in the history of 
+the earth (Barnosky et al. 2011). However, all current approaches have serious weaknesses. 
+An evaluation of known mechanisms of climate impacts on biodiversity suggests that the 
+lack of several key mechanisms in models may lead to either very large underestimations or 
+overestimations of risks for biodiversity. Improvements in existing models and, in particular, 
+a new generation of models must address the shortcomings of current models in order to 
+reduce uncertainties. It is also crucial to improve our understanding of the vulnerability of 
+biodiversity to climate change, to develop other predictive approaches and to go beyond 
+predictions.
+Crucially, the diversity of approaches, methods, scales and underlying hypotheses used has 
+led to an ensemble of global quantitative predictions that can seldom be compared. 
+Consequently, we are left with a mosaic of information that cannot provide a quantitative, 
+coherent picture of future biodiversity loss. Yet, standardization of future studies (of 
+Bellard et al.
+Page 15
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+taxonomic groups, methods, time horizon, scale, etc…), which might help decrease 
+uncertainty, would do so at the expense of the breath of knowledge and of a much needed 
+innovation in this field. In this regard, a solution may come from a collective effort in 
+conducting large meta-studies that would encompass many components of variability 
+(biodiversity, time and space scale, models, …) in order to both infer similarities and assess 
+sources of inconsistency. Given its scale, such an ambitious endeavour needs an enduring 
+cooperative effort from coordinated research groups. The long awaited Intergovernmental 
+Platform on Biodiversity and Ecosystem Services (Perrings et al. 2011) could provide the 
+impetus for building such national and international efforts. A major near-term target to 
+substantially improve our understanding, predictive capacity and reactive potential will be to 
+contribute to this new IPCC-like assessment for biodiversity and ecosystem services.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+References
+Akcçakaya H, Butchart SHM, Mace GM, Stuart SN, Hilton-Taylor C. Use and misuse of the IUCN 
+Red List Criteria in projecting climate change impacts on biodiversity. Global Change Biology. 
+2006; 12:2037–2043.
+Alkemade R, van Oorschot M, Miles L, Nellemann C, Bakkenes M, ten Brink B. GLOBIO3: A 
+Framework to Investigate Options for Reducing Global Terrestrial Biodiversity Loss. Ecosystems. 
+2009; 12:374–390.
+Alo CA, Wang GL. Potential future changes of the terrestrial ecosystem based on climate projections 
+by eight general circulation models. Journal of Geophysical Research-Biogeosciences. 2008; 
+113:16.
+Anderson BJ, Akcakaya HR, Araujo MB, Fordham DA, Martinez-Meyer E, Thuiller W, Brook BW. 
+Dynamics of range margins for metapopulations under climate change. Proceedings of the Royal 
+Society B-Biological Sciences. 2009; 276:1415–1420.
+Araùjo MB, Alagador D, Cabeza M, Nogues-Bravo D, Thuiller W. Climate change threatens European 
+conservation areas. Ecology Letters. 2011; 14:484–492. [PubMed: 21447141] 
+Baillie, JEM.; Hilton-Taylor; C.; Stuart, SN. 2004 IUCN Red List of Threatened Species. Assessment. 
+AGS. , editor. IUCN; Gland, Switzerland: 2004. 
+Bakkenes M, Alkemade JMR, Ihle F, Leemans R, Latour JB. Assessing effects of forecasted climate 
+change on the diversity and distribution of European higher plants for 2050. Global Change 
+Biology. 2002; 8:390–407.
+Barnosky AD, Matzke N, Tomiya S, Wogan GOU, Swartz B, Quental TB, Marshall C, McGuire JL, 
+Lindsey EL, Maguire KC, Mersey B, Ferrer EA. Has the Earth’s sixth mass extinction already 
+arrived? Nature. 2011; 471:51–57. [PubMed: 21368823] 
+Bascompte J. Disentangling the Web of Life. Science. 2009; 325:416–419. [PubMed: 19628856] 
+Beaumont LJ, Hughes L, Pitman AJ. Why is the choice of future climate scenarios for species 
+distribution modelling important? Ecology Letters. 2008; 11:1135–1146. [PubMed: 18713269] 
+Beaumont LJ, Pitman A, Perkins S, Zimmermann NE, Yoccoz NG, Thuiller W. Impacts of climate 
+change on the world’s most exceptional ecoregions. Proceedings of the National Academy of 
+Sciences. 2011; 108:2306–2311.
+Beaumont LJ, Pitman AJ, Poulsen M, Hughes L. Where will species go? Incorporating new advances 
+in climate modelling into projections of species distributions. Global Change Biology. 2007; 
+13:1368–1385.
+Bell G, Gonzalez A. Evolutionary rescue can prevent extinction following environmental change. 
+Ecology Letters. 2009; 12:942–948. [PubMed: 19659574] 
+Bellard et al.
+Page 16
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Biggs R, Simons H, Bakkenes M, Scholes RJ, Eickhout B, van Vuuren D, Alkemade R. Scenarios of 
+biodiversity loss in southern Africa in the 21st century. Global Environmental Change-Human and 
+Policy Dimensions. 2008; 18:296–309.
+Botkin DB, Saxe H, Araujo MB, Betts R, Bradshaw RHW, Cedhagen T, Chesson P, Dawson TP, 
+Etterson JR, Faith DP, Ferrier S, Guisan A, Hansen AS, Hilbert DW, Loehle C, Margules C, New 
+M, Sobel MJ, Stockwell DRB. Forecasting the effects of global warming on biodiversity. 
+Bioscience. 2007; 57:227–236.
+Bradley BA, Blumenthal DM, Wilcove DS, Ziska LH. Predicting plant invasions in an era of global 
+change. Trends in Ecology & Evolution. 2010; 25:310–318. [PubMed: 20097441] 
+Brook BW, Akcakaya HR, Keith DA, Mace GM, Pearson RG, Araujo MB. Integrating bioclimate with 
+population models to improve forecasts of species extinctions under climate change. Biology 
+Letters. 2009; 5:723–725. [PubMed: 19625300] 
+Brook BW, Sodhi NS, Bradshaw CJA. Synergies among extinction drivers under global change. 
+Trends in Ecology & Evolution. 2008; 23:453–460. [PubMed: 18582986] 
+Campbell, A.; Kapos, V.; Scharlemann, JPW.; Bubb, P.; Chenery, A.; Coad, L.; Dickson, B.; Doswald, 
+N.; Khan, MSI.; Kershaw, F.; Rashid, M. Review of the Literature on the Links between 
+Biodiversity and Climate Change: Impacts, Adaptation and Mitigation. In: Diversity SotCoB. , 
+editor. CBD Technical Series n°42. Secretariat of the Convention on Biological Diversity; 
+Montreal: 2009. p. 124
+Carnaval AC, Hickerson MJ, Haddad CFB, Rodrigues MT, Moritz C. Stability Predicts Genetic 
+Diversity in the Brazilian Atlantic Forest Hotspot. Science. 2009; 323:785–789. [PubMed: 
+19197066] 
+Charmantier A, McCleery RH, Cole LR, Perrins C, Kruuk LEB, Sheldon BC. Adaptive phenotypic 
+plasticity in response to climate change in a wild bird population. Science. 2008; 320:800–803. 
+[PubMed: 18467590] 
+Chevin L-M, Lande R, Mace GM. Adaptation, Plasticity and Extinction in a Changing Environment: 
+Towards a Predictive Theory. PLoS Biol. 2010; 8:e1000357. [PubMed: 20463950] 
+Dale VH, Tharp ML, Lannom KO, Hodges DG. Modeling transient response of forests to climate 
+change. Science of The Total Environment. 2010; 408:1888–1901. [PubMed: 20163827] 
+Dawson TP, Jackson ST, House JI, Prentice IC, Mace GM. Beyond Predictions: Biodiversity 
+Conservation in a Changing Climate. Science. 2011; 332:53–58. [PubMed: 21454781] 
+Devictor V, Mouillot D, Meynard C, Jiguet F, Thuiller W, Mouquet N. Spatial mismatch and 
+congruence between taxonomic, phylogenetic and functional diversity: the need for integrative 
+conservation strategies in a changing world. Ecology Letters. 2010; 13:1030–1040. [PubMed: 
+20545736] 
+Dillon ME, Wang G, Huey RB. Global metabolic impacts of recent climate warming. Nature. 2010; 
+467:704–706. [PubMed: 20930843] 
+Doak DF, Morris WF. Demographic compensation and tipping points in climate-induced range shifts. 
+Nature. 2010; 467:959–962. [PubMed: 20962844] 
+Esteban GF, Finlay BJ. Conservation work is incomplete without cryptic biodiversity. Nature. 2010; 
+463:293–293. [PubMed: 20090730] 
+Foden, W.; Mace, G.; Vié, J-C.; Angulo, A.; Butchart, SHM.; DeVantier, L.; Dublin, H.; Gutsche, A.; 
+Stuart, S.; Turak, E. Species susceptibility to climate change impacts. In: Vié, J-C.; Hilton-Taylor, 
+C.; S.N., S., editors. The 2008 Review of the IUCN Red List of Threatened Species. IUCN; Gland, 
+Switzerland: 2008. p. 1-12.
+Forero-Medina G, Joppa L, Pimm SL. Constraints to Species’ Elevational Range Shifts as Climate 
+Changes. Conservation Biology. 2010; 25:163–171. [PubMed: 21198846] 
+Gallien L, Munkemuller T, Albert CH, Boulangeat I, Thuiller W. Predicting potential distributions of 
+invasive species: where to go from here? Diversity and Distributions. 2010; 16:331–342.
+Gilman SE, Urban MC, Tewksbury J, Gilchrist GW, Holt RD. A framework for community 
+interactions under climate change. Trends in Ecology & Evolution. 2010; 25:325–331. [PubMed: 
+20392517] 
+Grinsted A, Moore JC, Jevrejava S. Reconstructing sea level from paleo and projected temperatures 
+200 to 2100 AD. Climate dynamic. 2009
+Bellard et al.
+Page 17
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Hannah L, Midgley G, Andelman S, Araujo M, Hughes G, Martinez-Meyer E, Pearson R, Williams P. 
+Protected area needs in a changing climate. Frontiers in Ecology and the Environment. 2007; 
+5:131–138.
+Hansen L, Hoffman J, Drews C, Mielbrecht E. Designing Climate-Smart Conservation: Guidance and 
+Case Studies. Conservation Biology. 2010; 24:63–69. [PubMed: 20121842] 
+Harvell CD, Mitchell CE, Ward JR, Altizer S, Dobson AP, Ostfeld RS, Samuel MD. Ecology - 
+Climate warming and disease risks for terrestrial and marine biota. Science. 2002; 296:2158–2162. 
+[PubMed: 12077394] 
+He F, Hubbell SP. Species–area relationships always overestimate extinction rates from habitat loss. 
+Nature. 2011; 473:368–371. [PubMed: 21593870] 
+Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield P, Gomez E, Harvell CD, Sale 
+PF, Edwards AJ, Caldeira K, Knowlton N, Eakin CM, Iglesias-Prieto R, Muthiga N, Bradbury RH, 
+Dubi A, Hatziolos ME. Coral reefs under rapid climate change and ocean acidification. Science. 
+2007; 318:1737–1742. [PubMed: 18079392] 
+Hoffman AA, Sgro CM. Climate change and evolutionary adaptation. Nature. 2011; 470:479–485. 
+[PubMed: 21350480] 
+Howden SM, Soussana JF, Tubiello FN, Chhetri N, Dunlop M, Meinke H. Adapting agriculture to 
+climate change. Proceedings of the National Academy of Sciences of the United States of 
+America. 2007; 104:19691–19696. [PubMed: 18077402] 
+Hughes TP, Baird AH, Bellwood DR, Card M, Connolly SR, Folke C, Grosberg R, Hoegh-Guldberg 
+O, Jackson JBC, Kleypas J, Lough JM, Marshall P, Nystrom M, Palumbi SR, Pandolfi JM, Rosen 
+B, Roughgarden J. Climate change, human impacts, and the resilience of coral reefs. Science. 
+2003; 301:929–933. [PubMed: 12920289] 
+Iverson LR, Prasad AM. Predicting abundance of 80 tree species following climate change in the 
+eastern united states. Ecological Monographs. 1998; 68:465–485.
+Jetz W, Wilcove DS, Dobson AP. Projected Impacts of Climate and Land-Use Change on the Global 
+Diversity of Birds. Plos biology. 2007; 5:1211–1219.
+Johansen JL, Jones GP. Increasing ocean temperature reduces the metabolic performance and 
+swimming ability of coral reef damselfishes. Global Change Biology. 2011; 17:2971–2979.
+Kearney MR, Wintle BA, Porter WP. Correlative and mechanistic models of species distribution 
+provide congruent forecasts under climate change. Conservation Letters. 2010; 3:203–213.
+Keith DA, Akcakaya HR, Thuiller W, Midgley GF, Pearson RG, Phillips SJ, Regan HM, Araujo MB, 
+Rebelo TG. Predicting extinction risks under climate change: coupling stochastic population 
+models with dynamic bioclimatic habitat models. Biology Letters. 2008; 4:560–563. [PubMed: 
+18664424] 
+Kiers ET, Palmer TM, Ives AR, Bruno JF, Bronstein JL. Mutualisms in a changing world: an 
+evolutionary perspective. Ecology Letters. 2010; 13:1459–1474. [PubMed: 20955506] 
+Koh LP, Dunn RR, Sodhi NS, Colwell RK, Proctor HC, Smith VS. Species coextinctions and the 
+biodiversity crisis. Science. 2004; 305:1632–1634. [PubMed: 15361627] 
+Kramer K, Degen B, Buschbom J, Hickler T, Thuiller W, Sykes MT, de Winter W. Modelling 
+exploration of the future of European beech (Fagus sylvatica L.) under climate change-Range, 
+abundance, genetic diversity and adaptive response. Forest Ecology and Management. 2010; 
+259:2213–2222.
+Kuussaari M, Bommarco R, Heikkinen RK, Helm A, Krauss J, Lindborg R, Ockinger E, Partel M, 
+Pino J, Roda F, Stefanescu C, Teder T, Zobel M, Steffan-Dewenter I. Extinction debt: a challenge 
+for biodiversity conservation. Trends in Ecology & Evolution. 2009; 24:564–571. [PubMed: 
+19665254] 
+Lafferty KD. The ecology of climate change and infectious diseases. Ecology. 2009; 90:888–900. 
+[PubMed: 19449681] 
+Lapola DM, Oyama MD, Nobre CA. Exploring the range of climate biome projections for tropical 
+South America: The role of CO2 fertilization and seasonality. Global Biogeochem. Cycles. 2009; 
+23
+Bellard et al.
+Page 18
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Lavergne S, Mouquet N, Thuiller W, Ronce O. Biodiversity and Climate Change: Integrating 
+Evolutionary and Ecological Responses of Species and Communities. Annual Review of Ecology, 
+Evolution, and Systematics, Vol 41. 2010; 41:321–350.
+Lavorel S, Grigulis K, Lamarque P, Colace MP, Garden D, Girel J, Pellet G, Douzet R. Using plant 
+functional traits to understand the landscape distribution of multiple ecosystem services. Journal of 
+Ecology. 2011; 99:135–147.
+Leadley, P.; Pereira, HM.; Alkemade, R.; Fernandez-Manjarrés, JF.; Proença, V.; Scharlemann, JPW.; 
+Walpole, MJ. Biodiversity Scenarios: Projections of 21st century change in biodiversity and 
+associated ecosystem services. In: Diversity SotCoB. , editor. Secretariat of the Convention on 
+Biological Diversity. Montreal: 2010. p. 132Technical Series no. 50132 pages
+Lepetz V, Massot M, Schmeller DS, Clobert J. Biodiversity monitoring some proposals to adequately 
+study species’ responses to climate change. Biodiversity Conservation. 2009; 18:3185–3203.
+Loss SR, Terwilliger LA, Peterson AC. Assisted colonization: Integrating conservation strategies in 
+the face of climate change. Biological Conservation. 2011; 144:92–100.
+Luoto M, Heikkinen RK. Disregarding topographical heterogeneity biases species turnover 
+assessments based on bioclimatic models. Global Change Biology. 2008; 14:483–494.
+Maclean IMD, Wilson RJ. Recent ecological responses to climate change support predictions of high 
+extinction risk. Proceedings of the National Academy of Sciences of the United States of America. 
+2011; 108:12337–12342. [PubMed: 21746924] 
+Malcolm JR, Liu CR, Neilson RP, Hansen L, Hannah L. Global warming and extinctions of endemic 
+species from biodiversity hotspots. Conservation Biology. 2006; 20:538–548. [PubMed: 
+16903114] 
+McMahon SM, Harrison SP, Armbruster WS, Bartlein PJ, Beale CM, Edwards ME, Kattge J, Midgley 
+G, Morin X, Prentice IC. Improving assessment and modelling of climate change impacts on 
+global terrestrial biodiversity. Trends in Ecology & Evolution. 2011; 26:249–259. [PubMed: 
+21474198] 
+Meyers LA, Bull JJ. Fighting change with change: adaptive variation in an uncertain world. Trends in 
+Ecology & Evolution. 2002; 17:551–557.
+Mokany K, Ferrier S. Predicting impacts of climate change on biodiversity: a role for semi-
+mechanistic community-level modelling. Diversity and Distributions. 2011; 17:374–380.
+Mora C, Metzger R, Rollo A, Myers RA. Experimental simulations about the effects of 
+overexploitation and habitat fragmentation on populations facing environmental warming. 
+Proceedings of the Royal Society B-Biological Sciences. 2007; 274:1023–1028.
+Olofsson J, THickler T, Sykes MT, Araujo MB, Balletto E, Berry PM, Bonello S, Cabeza M, Dubuis 
+A, Guisan A, Kujala H, Piper J, Rounsevell M, Settele J, Thuiller W, Kuhn I. Climate change 
+impacts on European biodiversity - rates of recent observed responses broadly matches projected 
+future rates. Biological Reviews. 2011 In press. 
+Parmesan C. Ecological and evolutionary responses to recent climate change. Ecology Evolution. 
+2006; 37:637–669.
+Parmesan C, Duarte CM, Poloczanska E, Richardson AJ, Singer MC. Overstretching attribution. 
+Nature Climate Change. 2011; 1
+Pereira HM, Leadley PW, Proenca V, Alkemade R, Scharlemann JPW, Fernandez-Manjarres JF, 
+Araujo MB, Balvanera P, Biggs R, Cheung WWL, Chini L, Cooper HD, Gilman EL, Guenette S, 
+Hurtt GC, Huntington HP, Mace GM, Oberdorff T, Revenga C, Rodrigues P, Scholes RJ, Sumaila 
+UR, Walpole M. Scenarios for Global Biodiversity in the 21st Century. Science. 2010; 330:1496–
+1501. [PubMed: 20978282] 
+Perrings C, Duraiappah A, Larigauderie A, Mooney H. The Biodiversity and Ecosystem Services 
+Science-Policy Interface. Science. 2011; 331:1139–1140. [PubMed: 21330488] 
+Peterson AT, Stewart A, Mohamed KI, Araujo MB. Shifting Global Invasive Potential of European 
+Plants with Climate Change. PLoS ONE. 2008; 3
+Phillips BL. The evolution of growth rates on an expanding range edge. Biology Letters. 2009; 5:802–
+804. [PubMed: 19605384] 
+Pressey RL, Cabeza M, Watts ME, Cowling RM, Wilson KA. Conservation planning in a changing 
+world. Trends in Ecology & Evolution. 2007; 22:583–592. [PubMed: 17981360] 
+Bellard et al.
+Page 19
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Rafferty NE, Ives AR. Effects of experimental shifts in flowering phenology on plant– pollinator 
+interactions. Ecology Letters. 2010; 14:69–74. [PubMed: 21078034] 
+Randin CF, Engler R, Normand S, Zappa M, Zimmermann NE, Pearman PB, Vittoz P, Thuiller W, 
+Guisan A. Climate change and plant distribution: local models predict high-elevation persistence. 
+Global Change Biology. 2009; 15:1557–1569.
+Richardson DM, Hellmann JJ, McLachlan JS, Sax DF, Schwartz MW, Gonzalez P, Brennan EJ, 
+Camacho A, Root TL, Sala OE, Schneider SH, Ashe DM, Clark JR, Early R, Etterson JR, Fielder 
+ED, Gill JL, Minteer BA, Polasky S, Safford HD, Thompson AR, Vellend M. Multidimensional 
+evaluation of managed relocation. Proceedings of the National Academy of Sciences of the United 
+States of America. 2009; 106:9721–9724. [PubMed: 19509337] 
+Root BA, Price JT, Hall K. Fingerprints of global warming on wild animals and plants. Nature. 2003; 
+421:47–60.
+Sala, OE.; van Vuuren, D.; Pereira, HM.; Lodge, D.; Alder, J.; Cumming, G.; Dobson, A.; Wolters, V.; 
+MA, X.; Zaitsev, A.; Polo, M.; Gomes, I.; Queiroz, C.; JA, R. Millenium Ecosystem Assesment. 
+Millenium Ecosystem Assesment; 2005. Chap 10: Biodiversity across Scenarios; p. 375-408.
+Sala OE, Chapin FS, Armesto JJ, Berlow E, Bloomfield J, Dirzo R, Huber-Sanwald E, Huenneke LF, 
+Jackson RB, Kinzig A, Leemans R, Lodge DM, Mooney HA, Oesterheld M, Poff NL, Sykes MT, 
+Walker BH, Walker M, Wall DH. Global biodiversity scenarios for the year 2100. Science. 2000; 
+287:1770–1774. [PubMed: 10710299] 
+Salamin N, Wüest RO, Lavergne S, Thuiller W, Pearman PB. Assessing rapid evolution in a changing 
+environment. Trends in Ecology & Evolution. 2010; 25:692–698. [PubMed: 20961648] 
+Sekercioglu CH, Schneider SH, Fay JP, Loarie SR. Climate Change, Elevational Range Shifts, and 
+Bird Extinctions. Conservation biology. 2008; 22:140–150. [PubMed: 18254859] 
+Sinclair SJ, White MD, Newell GR. How useful are species distribution models for managing 
+biodiversity under future climates ? Ecology and Society. 2010; 15:8.
+Sitch S, Huntingford C, Gedney N, Levy PE, Lomas M, Piao SL, Betts R, Ciais P, Cox P, 
+Friedlingstein P, Jones CD, Prentice IC, Woodward FI. Evaluation of the terrestrial carbon cycle, 
+future plant geography and climate-carbon cycle feedbacks using five Dynamic Global Vegetation 
+Models (DGVMs). Global Change Biology. 2008; 14:2015–2039.
+Soberon J, Nakamura M. Niches and distributional areas: Concepts, methods, and assumptions. 
+Proceedings of the National Academy of Sciences of the United States of America. 2009; 
+106:19644–19650. [PubMed: 19805041] 
+Stram DL, Evans DCK. Fishery management responses to climate change in the North Pacific. Ices 
+Journal of Marine Science. 2009; 66:1633–1639.
+Tewksbury JJ, Huey RB, Deutsch CA. Ecology - Putting the heat on tropical animals. Science. 2008; 
+320:1296–1297. [PubMed: 18535231] 
+Thomas CD, Cameron A, Green RE, Bakkenes M, Beaumont LJ, Collingham YC, Erasmus BFN, de 
+Siqueira MF, Grainger A, Hannah L, Hughes L, Huntley B, van Jaarsveld AS, Midgley GF, Miles 
+L, Ortega-Huerta MA, Townsend Peterson A, Phillips OL, Williams SE. Extinction risk from 
+climate change. Nature. 2004; 427:145–148. [PubMed: 14712274] 
+Thuiller W. BIOMOD - optimizing predictions of species distributions and projecting potential future 
+shifts under global change. Global Change Biology. 2003; 9:1353–1362.
+Thuiller W, Albert C, Araújo MB, Berry PM, Cabeza M, Guisan A, Hickler T, Midgley GF, Paterson 
+J, Schurr FM, Sykes MT, Zimmermann NE. Predicting global change impacts on plant species’ 
+distributions: Future challenges. Perspectives in Plant Ecology, Evolution and Systematics. 2008; 
+9:137–152.
+Thuiller W, Lavergne S, Roquet C, Boulangeat I, Lafourcade B, Araujo MB. Consequences of climate 
+change on the tree of life in Europe. Nature. 2011; 470:531–534. [PubMed: 21326204] 
+Thuiller W, Lavorel S, Araújo MB, Sykes MT, Prentice IC. Climate change threats to plant diversity in 
+Europe. Proceedings of the National Academy of Sciences of the United States of America. 2005; 
+102:8245–8250. [PubMed: 15919825] 
+Thuiller W, Lavorel S, Sykes MT, Araújo MB. Using niche-based modelling to assess the impact of 
+climate change on tree functional diversity in Europe. Diversity and Distributions. 2006; 12:49–
+60.
+Bellard et al.
+Page 20
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+van Vuuren DP, Sala OE, Pereira HM. The future of vascular plant diversity under four global 
+scenarios. Ecology and Society. 2006; 11
+Visser ME. Keeping up with a warming world; assessing the rate of adaptation to climate change. 
+Proceedings of the Royal Society B-Biological Sciences. 2008; 275:649–659.
+Walther G-R, Roques A, Hulme PE, Sykes MT, Pysek P, Kühn I, Zobel M, Bacher S, Botta-Dukát Z, 
+Bugmann H, Czúcz B, Dauber J, Hickler T, Jarosík V, Kenis M, Klotz S, Minchin D, Moora M, 
+Nentwig W, Ott J, Panov VE, Reineking B, Robinet C, Semenchenko V, Solarz W, Thuiller W, 
+Vilà M, Vohland K, Settele J. Alien species in a warmer world: risks and opportunities. Trends in 
+Ecology & Evolution. 2009; 24:686–693. [PubMed: 19712994] 
+Walther GR. Community and ecosystem responses to recent climate change. Philosophical 
+Transactions of the Royal Society B-Biological Sciences. 2010; 365:2019–2024.
+Williams JW, Jackson ST, Kutzbacht JE. Projected distributions of novel and disappearing climates by 
+2100 AD. Proceedings of the National Academy of Sciences of the United States of America. 
+2007; 104:5738–5742. [PubMed: 17389402] 
+Willis KJ, Bhagwat SA. Biodiversity and Climate Change. Science. 2009; 326:806–807. [PubMed: 
+19892969] 
+Xenopoulos MA, Lodge DM, Alcamo J, Marker M, Schulze K, Van Vuuren DP. Scenarios of 
+freshwater fish extinctions from climate change and water withdrawal. Global Change Biology. 
+2005; 11:1557–1564.
+Yang LH, Rudolf VHW. Phenology, ontogeny and the effects of climate change on the timing of 
+species interactions. Ecology Letters. 2010; 13:1–10. [PubMed: 19930396] 
+Ziska LH, Blumenthal DM, Runion GB, Hunt ER, Diaz-Soltero H. Invasive species and climate 
+change: an agronomic perspective. Climatic Change. 2011; 105:13–42.
+Bellard et al.
+Page 21
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Figure 1. 
+Summary of some of the predicted aspects of climate change and some examples of their 
+likely effects on different levels of biodiversity.
+Bellard et al.
+Page 22
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Figure 2. 
+The three directions of responses to climate change through phenotypic plasticity or 
+evolutionary responses : moving in space (dispersing to areas with suitable habitat or 
+changing location on a microhabitat scale), shifting life history traits in time (adjusting life 
+cycle events to match the new climatic conditions, including phenology and diurnal 
+rhythms), or changing life history traits in its physiology to cope with new climatic 
+conditions. Species can cope with climate change by shifting along one or several of these 
+three axes.
+Bellard et al.
+Page 23
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Figure 3. 
+Examples on successive combinations of socio-economic scenarios, projections of 
+extinction drivers, habitat or species range models and extinction models and biodiversity 
+metrics, leading to projections of biodiversity losses following climate change. Numbers 
+correspond to references (see Appendix S2 for details and reference list).
+Bellard et al.
+Page 24
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Figure 4. 
+Projections of loss of biodiversity due to climate change, for different taxonomic, temporal 
+and spatial scales. The width of the box illustrates three levels of generality: global scale and 
+several taxonomic groups (
+), global scale and only one taxonomic group, continental scale 
+and only one taxonomic group. The box is delimited by the upper and lower boundaries of 
+the intermediate scenario, while maximum and minimum values of the whiskers indicate the 
+highest and lowest biodiversity losses across all projections. This figure illustrates that the 
+different studies (i) generally predict significant biodiversity loss and (ii) use a combination 
+of different biodiversity metrics, taxonomic groups and spatial scale and time horizon, 
+making generalisations difficult. Numbers correspond to references (see Appendix S2 for 
+details and references).
+Bellard et al.
+Page 25
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Figure 5. 
+Issues and challenges for climate change driven biodiversity loss. Examples of each are 
+presented and discussed in the main text. The issues are in the first box, which represents the 
+main factors of uncertainty and the direction of the likely current bias (green factors and 
+arrow down is a likely overestimation, while red factors and arrow up is a likely 
+underestimation; both can occur simultaneously, according to the approach taken in different 
+studies; black factors and question marks are for unknown direction of mis-estimation; 
+double arrow means very large expected effect). Challenge types range from quantitative 
+(such as increasing the number of studies and the quantity of available data, or extend the 
+focus of studies to include more factors) to more qualitative ones (developing new tools and 
+progressing in resolving complexity).
+Bellard et al.
+Page 26
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+ Europe PMC Funders Author Manuscripts
+Bellard et al.
+Page 27
+Table 1
+Advantages and disadvantages of the two components of major modelling approaches used to estimate loss of 
+biodiversity due to climate change. See Figure 3 for illustrations of how the two components can be combined 
+to estimate biodiversity loss.
+Advantages
+Disadvantages
+Key
+references
+Biodiversity range
+model component
+• Bioclimatic
+ Envelope Models
+ (BEM)
+-can be applied to a large number
+of species and a variety of
+taxonomic groups
+- implicitly capture many ecological
+processes in the relationship
+between occurrence data and
+spatial information
+- require few data
+- do not explicitly account for
+mechanisms that mediate species range
+- may handle novel climates poorly
+- lack temporal dynamics
+- assume that the current distribution of
+a species is a good indicator of
+favourable climate
+(3, 5, 6, 11,
+12, 15, 16,
+17)
+• Dynamic
+ Vegetation
+ Models (DVMs)
+- include the dynamics of plant
+growth, competition and, in a few
+cases, migration
+- allow the identification of future
+trends in ecosystem function and
+structure
+- can be used to explore feedbacks
+between biosphere and
+atmospheric processes
+- require detailed physiological data
+- do not include plant interactions with
+other taxonomic groups
+- limit biodiversity to a very small number
+of plant functional types.
+- do not take into account fine scale
+spatial heterogeneity
+- are not adapted for predicting species
+extinctions at local scales
+(1, 4, 7, 17,
+18, 19)
+Species loss model
+component
+• Species Area
+ Relationships
+ (SAR)
+- are easy to couple with
+distribution models because they
+are based on range or habitat loss
+- can be applied to a variety of
+taxonomic groups
+- require few data
+- use values of key parameters that are
+not well constrained
+- lack empirical evidence concerning
+applicability of SAR for climate change or
+at species range level
+- lack temporal dynamics
+- don’t account for processes influencing
+extinction rates (e.g., population
+dynamics, adaptive responses)
+(3, 18, 20, 21)
+• IUCN status
+ methods
+- use a widely accepted measure
+of threat
+- are simple to couple with
+distribution models because partly
+based on criteria of range or
+habitat loss
+- depend on thresholds that are
+somewhat arbitrary
+- rely on sole criteria of declining range
+size in most studies
+- often don’t respect time frame for
+declines (i.e., 10 years or 3 generations in
+most cases)
+(3, 5, 22)
+• Dose response
+ relationships
+- are anchored in measured
+responses of biodiversity to global
+change drivers
+- can assess the impact of a wide
+range of global change factors
+alone or their cumulative effects
+- can include time lags
+- “undisturbed” ecosystems used as
+baseline are difficult to define
+- inadequately account for interactions
+between global change drivers.
+- lack validation at large regional or
+global scales
+- use metrics that are difficult to relate to
+common biodiversity indices
+(7, 8)
+Ecol Lett. Author manuscript; available in PMC 2014 January 04.

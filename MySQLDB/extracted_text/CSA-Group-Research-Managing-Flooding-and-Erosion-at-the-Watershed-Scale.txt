@@ -1,0 +1,3386 @@
+Managing Flooding and Erosion at the 
+Watershed-Scale: Guidance to Support 
+Governments Using Nature-Based Solutions
+S TA N D A R D S  R E S E A R C H
+April 2023
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+2
+csagroup.org
+Authors
+Joanna Eyquem, PGeo. ENV SP. CWEM. CEnv. Intact Centre on Climate Adaptation, University of Waterloo
+Project Advisory Panel
+Antoine Verville, Metropolitan Community of Quebec, Quebec 
+Christine Zimmer, Credit Valley Conservation, Ontario 
+Darwin Durnie, Darwin Durnie Consulting Corporation
+Enda Murphy, National Research Council Canada
+Michelle Tetreault, Public Works Management Corp., Alberta 
+Ralph Schielen, Rijkswaterstaat, Ministry of Infrastructure and Water Management, The Netherlands
+Rehana Rajabali, Toronto and Region Conservation Authority, Ontario 
+Steve Litke, Fraser Basin Council, British Columbia
+Kenneth Clogg-Wright, CSA Group (Project Manager)
+Ana-Maria Tomlinson, CSA Group
+Dragica Jeremic Nikolic, CSA Group
+Helene Vaillancourt, CSA Group 
+Acknowledgments
+CSA Group and the Intact Centre on Climate Adaptation wish to thank the stakeholders below for their active 
+participation in the focus groups, their contributions to the research, and their guidance. 
+Thomas Bergeron, AECOM Canada
+Sally-Beth Betts, Credit Valley Conservation
+Ursule Boyer-Villemaire, Ouranos Ind
+Thomas Bowers, (formerly) Greenbelt Foundation
+Rachel Clarke, ACAP Cape Breton
+Guillaume Durand, Ministère des Affaires municipales et de l'Habitation, Quebec
+Sean Ferguson, National Research Council Canada
+Rosemarie Ferjuc, Red Deer River Watershed Alliance
+Raelene Fewer, Helping Nature Heal
+Mark Hartley, Nottawasaga Valley Conservation Authority
+Steve Hounsell, Ontario Biodiversity Council
+Jillian Hudgins, City of Fredericton
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+3
+csagroup.org
+Fabien Hugue, AECOM Canada
+Zahra Jandaghian, National Research Council Canada
+Sean Lee, City of Fredericton
+Bernard McDonell, Government of British Columbia
+Michelle Molnar, Municipal Natural Assets Initiative
+Alistair Ozon, City of Charlottetown
+Shelley Petrie, Greenbelt Foundation
+Ted Preister, Red River Basin Commission
+Ashley Rawluk, International Institute for Sustainable Development
+Pablo Rodriguez, Government of Saskatchewan
+Lynne Roszell, Saskatchewan Association of Watersheds
+Namrata Shrestha, Toronto and Region Conservation Authority
+Barbara Veale, Conservation Halton
+Joshua Wiebe, Environment and Climate Change Canada
+Disclaimer
+This work has been produced by Intact Centre on Climate Adaptation and is owned by Canadian Standards Association. It is 
+designed to provide general information in regards to the subject matter covered. The views expressed in this publication are 
+those of the author. Intact Centre on Climate Adaptation and Canadian Standards Association are not responsible for any loss 
+or damage which might occur as a result of your reliance or use of the content in this publication.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+4
+csagroup.org
+Table of Contents
+Executive Summary	
+6
+1 Introduction	
+9
+	
+1.1	 Background	
+9
+	
+1.2	 Aim and Objectives	
+10
+	
+1.3	 Scope	
+10
+	
+1.4	 Intended Audience	
+11
+2 Methods	
+	
+11
+	
+2.1	 Desktop Research and Analysis	
+11
+	
+2.2	Stakeholder Engagement	
+11
+3 Review of Current Understanding and Practices	
+12
+	
+3.1	 Recent NbS Research: Key Findings for Decision Makers	
+12
+	
+3.2	Review of Watershed Management in Canadian Provinces	
+12
+	
+	
+3.2.1	
+Watersheds in Canada	
+12
+	
+	
+3.2.2	 British Columbia	
+14
+	
+	
+3.2.3	 Alberta	
+15
+	
+	
+3.2.4	 Saskatchewan	
+16
+	
+	
+3.2.5	 Manitoba	
+16
+	
+	
+3.2.6	 Ontario	
+18
+	
+	
+3.2.7	 Quebec	
+18
+	
+	
+3.2.8	 New Brunswick	
+19
+	
+	
+3.2.9	 Nova Scotia	
+19
+	
+	
+3.2.10	 Prince Edward Island (PEI)	
+20
+	
+	
+3.2.11	 Key Findings	
+20
+	
+3.3 Analysis of Federally Funded Flood and Erosion Risk Management Projects	
+21
+	
+	
+3.3.1 	 The National Disaster Mitigation Program (NDMP)	
+21
+	
+	
+3.3.2	 Disaster Mitigation and Adaptation Fund	
+26
+	
+	
+3.3.3	 Key Findings	
+30
+
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+5
+csagroup.org
+4 Good Practices and Opportunities for Improvement	
+32
+	
+4.1 Towards a Watershed Approach for NbS	
+32
+	
+	
+4.1.1 Perceptions of Watershed Management	
+32
+	
+	
+4.1.2 Current Implementation of NbS for Flood and Erosion Management	
+33
+	
+	
+4.1.3 Lessons Learned Working at the Watershed-Scale	
+34
+	
+	
+4.1.4  Recommendations to Better Integrate NbS and Flood and Erosion 
+Management at a Watershed-Scale	
+35
+	
+4.2 Including NbS Benefits in Options Appraisal	
+36
+	
+	
+4.2.1 Current Options Appraisal Approaches and Tools	
+36
+	
+	
+4.2.2 Accounting for NbS Benefits in Options Appraisal	
+37
+	
+	
+4.2.3 Support for Standardization of Option Appraisal	
+37
+5 Conclusions and Recommendations	
+38
+	
+5.1	 Three Key Conclusions	
+38
+	
+5.2	Recommended Actions for Governments	
+38
+	
+5.3	Recommendations for Guidance and Standardization	
+40
+6 References	
+41
+Appendix A: Focus Group Structure	
+51
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+6
+csagroup.org
+Executive Summary
+Flooding and erosion are natural river processes that have been, and continue to be, modified by human activity. 
+Risks result where flooding and erosion present a danger to public safety and built infrastructure.
+Historically, flood and erosion risk management techniques have relied largely on “grey” infrastructure solutions, 
+such as flood walls, dikes, and river channel modifications, to control natural processes and reduce risk. Many of 
+these techniques resulted in negative impacts on river ecosystems. 
+In contrast, nature-based solutions (NbS), such as restoring wetlands or upland forests, can be used to manage 
+river flooding and erosion in a way that provides benefits for both people and nature. This role is specifically 
+identified in Target 11 of the recently adopted Kunming-Montreal Global Framework Directive, which calls for 
+parties to use NbS to restore, maintain, and enhance nature’s contributions to people, including protection from 
+natural hazards.[1]
+The role of NbS in flood and erosion risk management is increasingly recognized in Canada but it is not yet 
+mainstream. Key needs identified in recent international and national publications include:
+	• Adoption of a “whole-ecosystem” approach to flood and erosion management at the watershed-scale.
+	• Identification and valuation of the multiple co-benefits of NbS; and
+	• Proactive management of natural infrastructure alongside built infrastructure, including preserving, conserving, 
+and restoring natural assets.
+The paper puts forward three recommendations to support future implementation of NbS for flood and erosion risk 
+management by governments in Canada, supported by findings of this research report:
+1.	
+Development of a consistent approach to integrated watershed management. 
+A review of watershed management in Canadian provinces, where the majority of Canadians live, found that 
+Ontario is the only province where watershed-scale organizations (called Conservation Authorities) have a 
+legal mandate that combines river flood and erosion risk management (with exceptions) and nature conservation. 
+While many provinces have developed programs to support NbS, the objectives of these programs frequently 
+focus on habitat quality and biodiversity rather than flood and erosion risk objectives. There is opportunity to 
+build on the existing good practice approaches identified in this report and extend them to other provinces.
+2.	 Funding of watershed-scale flood and erosion strategies that address high-risk areas.
+Analysis indicates that many flood and erosion risk management projects funded under the federal National 
+Disaster Mitigation Program (NDMP) and Disaster Mitigation and Adaptation Fund (DMAF) have been led by, 
+and undertaken within, single cities and towns. Watershed-scale organizations have only undertaken funded 
+projects in Ontario and British Columbia. In addition, only a few projects funded under the NDMP and DMAF 
+programs have incorporated NbS. Future funding of watershed-scale strategies should support measures, such 
+as NbS, that address underlying causes of flood and erosion risk, while achieving multiple benefits. Indigenous 
+governments could play a leading role in such watershed-scale approaches.
+3.	 Routine consideration of NbS for river flood and erosion management.
+NbS are currently an underutilized option for flood and erosion risk management in Canada. There is an 
+opportunity to update protocols or funding procedures to promote consideration of NbS as the default solution, 
+with grey solutions being compared and applied where technically required or more beneficial overall. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+7
+csagroup.org
+Federal, provincial, watershed-scale, and local governments (including municipal and Indigenous governments) 
+all have roles to play in implementing the above stated recommendations. In particular, provincial governments 
+play a key role, since they have jurisdictional responsibility for implementing flood and erosion risk management.
+Federal government
+	• Support and work with provincial governments to develop guidance for, and help fund, a nationally consistent 
+watershed planning framework that includes agreed-upon minimum requirements for flood and erosion risk 
+management at the watershed scale. This could be progressed through the Canadian Water Agency or through 
+work to achieve targets set by the National Adaptation Strategy (although the strategy itself does not explicitly 
+include watershed-scale management, several of the objectives and targets would benefit from this approach). 
+	• Work with provincial governments to identify priority watersheds (high-risk areas or vulnerable communities) for 
+which flood and erosion management strategies are required to be completed first (if they have not been 
+completed already).
+	• Update existing federal funding programs (e.g., DMAF, Natural Infrastructure Fund) or create new funding 
+programs to a) direct funds to projects that address flood and erosion risk at the sub-watershed / watershed-
+scale and b) require routine consideration of NbS as the default solution, to be combined with grey infrastructure 
+where necessary.
+	• Support development and use of national guidelines and standards to support use of NbS for flood and erosion 
+management (see Section 5.3 for discussion of specific standards).
+Provincial governments 
+	• Strengthen provincial legislation and policy to support watershed-scale approaches to manage flood and erosion 
+risk, including the use of NbS. 
+	• Work with the federal government to develop guidance for, and help fund, a nationally consistent watershed 
+planning framework that includes agreed-upon minimum requirements for flood and erosion risk management at 
+the watershed scale. Provincial governments have a key role to play as watershed management (apart from 
+international watersheds) is a provincial jurisdiction.
+	• Work with federal government to identify priority watersheds (high-risk areas or vulnerable communities) for 
+which flood and erosion management strategies are required to be completed first (if they have not been 
+completed already).
+	• Develop flood and erosion risk management strategies at the watershed / sub-watershed scale for prioritized 
+high-risk areas. Update provincial funding programs to a) direct funds to projects that address flood and erosion 
+risk at the sub-watershed / watershed-scale and b) require routine consideration of NbS as the default solution, 
+to be combined with grey infrastructure where necessary.
+Watershed governance organizations 
+	• Work to include the use of NbS for flood and erosion risk management as a watershed management objective. 
+Ensure that the flood and erosion risk reduction benefits of NbS are documented, even when this is not the 
+primary objective of the solution.
+	• Continue to use NbS for flood and erosion management as a default solution where appropriate. Work with local 
+community groups, businesses, and governments to publicize the multiple benefits delivered. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+8
+csagroup.org
+	• Work to inventory, value, and manage the services provided by natural assets within the watershed, including 
+flood and erosion protection. Continue to protect existing natural assets and prioritize restoration efforts in areas 
+with the highest potential benefit.
+	• Continue to provide technical support to local governments with flood and erosion risk management and 
+planning / implementation of NbS projects. 
+	• Communicate the value of natural assets and the role of NbS in flood and erosion protection to residents. 
+Local governments (including municipal and Indigenous governments)
+	• Work with watershed organizations to help identify, plan, and implement NbS for flood and erosion risk 
+management.
+	• In the absence of a watershed governance organization, work with other local governments to help identify, plan, 
+and implement NbS for strategic flood and erosion risk management at a watershed / sub-watershed scale.
+	• Consider NbS as the default solution for flood and erosion risk management, to be combined with grey 
+infrastructure where necessary.
+	• Work to inventory, value and manage the services provided by natural assets, within both the local government 
+jurisdiction and upstream watershed, including flood and erosion protection.
+	• Communicate the value of natural assets and the role of NbS in flood and erosion protection to residents.
+	• Work with private land owners / farmers who can contribute to nature-based solutions.
+Future standards that could support implementation of the three recommendations are:
+	• A minimum framework for watershed management planning;
+	• A standardized approach to the strategic appraisal of river flood and erosion risk management options at the 
+watershed-scale;
+	• Standards to support the identification, valuation, and management of services provided by natural assets; and
+	• A standardized option appraisal protocol for flood and erosion management projects, integrating the financial 
+value of benefits and costs associated with NbS.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+9
+csagroup.org
+1 Introduction
+1.1 Background
+Floods are the costliest natural disasters in Canada in 
+terms of property damage [2]. Canada’s natural assets, 
+including floodplains, wetlands, natural river channels, 
+riparian vegetation, and upland forests, help regulate 
+riverine flooding and erosion. However, changing 
+climatic conditions, alongside the continued 
+degradation of these natural assets, are causing 
+worsening river hazards in many watersheds. In 
+particular, more intense rainfall and drought conditions 
+are foreseen in many locations of Canada [3], making 
+the role that nature plays in reducing the impacts of 
+these extreme weather events even more vital.
+Nature-based solutions (NbS) are actions to protect, 
+sustainably manage, and restore natural or modified 
+ecosystems that address societal challenges effectively 
+and adaptively, simultaneously providing human 
+well-being and biodiversity benefits [4]. NbS tackle 
+climate change by enhancing resilience and 
+sequestering carbon, while enhancing biodiversity and 
+delivering a wide range of ecosystem services. In 
+particular, NbS can be used to reduce river flood and 
+erosion risk, as demonstrated by CSA’s recent research 
+report “Nature-Based Solutions for Coastal and Riverine 
+Flood and Erosion Risk Management” [5]. 
+Canada’s National Adaptation Strategy, launched in 
+November 2022, includes clear support for NbS with a 
+bespoke objective that states “the use of nature-based 
+solutions is accelerated to increase resilience and 
+maximize co-benefits such as reducing stress on grey 
+infrastructure and increasing social benefits of nature” 
+[6]. In addition, the newly signed Kunming-Montreal 
+Global Biodiversity Framework includes Target 11: to 
+“restore, maintain and enhance nature’s contributions to 
+people, including…protection from natural hazards and 
+disasters, through nature-based solutions and/or 
+ecosystem-based approaches for the benefit of all 
+people and nature” [1]. It is anticipated that Canada will 
+update the National Biodiversity Strategy and Action 
+Plan to align with the new framework. However, NbS 
+are not yet used extensively by provincial and local 
+governments as part of the routine toolbox for river 
+flood and erosion management in Canada. Their 
+multiple benefits are not routinely reflected in option 
+appraisal, and grey infrastructure (engineered 
+infrastructure composed of man-made materials) 
+remains the default solution for many projects.
+Deployment of NbS requires a strategic approach to 
+flood and erosion management, ideally at the 
+watershed-scale. A watershed (also often referred to as 
+a drainage basin or river basin) is an area that drains 
+water into a particular river or set of rivers [7], and it is 
+the fundamental unit for managing fresh water. There is 
+currently no national guidance or Canadian standard 
+concerning management of flood and erosion risk at 
+the watershed-scale.
+Historically, flood and erosion risk management in 
+Canada has focused on the community or building 
+scale. Consequently, solutions, standards, and 
+“Changing climatic conditions, alongside the 
+continued degradation of these natural assets, 
+are causing worsening river hazards in many 
+watersheds.”
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+10
+csagroup.org
+guidance have also been primarily developed at the 
+community or building scale (Figure 1). Provincial and 
+local governments, as well as other stakeholders 
+involved in riverine flood and erosion management, 
+now need national actionable guidance on appraising 
+NbS to help them mainstream these techniques, 
+including working up to the watershed-scale.
+1.2 Aim and Objectives
+The key aim of this research report is to identify 
+best practices and recommendations for all levels of 
+government, specifically to support river flood and 
+erosion management at the watershed-scale, including 
+the use of NbS. The work builds on findings of a 
+previous CSA Group research report, “Nature-Based 
+Solutions for Coastal and Riverine Flood and Erosion 
+Risk Management [5].”
+Specific objectives are to:
+	• Summarize key findings of recent research on the 
+use of NbS in Canada for decision makers.
+	• Review the status of watershed management in 
+Canadian provinces (excluding Newfoundland and 
+Labrador).
+	• Analyze the scale of flood and erosion projects that 
+have been funded by two key federal government 
+programs: the National Disaster Mitigation Program 
+and the Disaster Mitigation and Adaptation Fund.
+	• Identify existing good practices and lessons learned 
+in watershed management and use of NbS to reduce 
+river flooding and erosion.
+	• Identify how the benefits of NbS can be better 
+integrated into the appraisal of options.
+	• Provide guidance and recommendations for 
+governments to improve watershed-scale 
+management of river flood and erosion risk, 
+including the use of NbS.
+	• Identify areas for future guidance and standardization 
+to support governments managing river flood and 
+erosion risk and using NbS at the watershed-scale.
+1.3 Scope
+This research report is scoped to the management of 
+river flooding and erosion. Excluded from the scope are 
+other sources of flooding and erosion, including coastal 
+or tidal flooding and erosion, heavy rainfall flooding, 
+groundwater flooding, ice-jam flooding, and landslides. 
+The guidance is relevant to inhabited watersheds in 
+the following Canadian provinces: British Columbia, 
+Alberta, Saskatchewan, Manitoba, Ontario, Quebec, 
+New Brunswick, Nova Scotia, and Prince Edward 
+Island. The research does not specifically address the 
+Great Lakes, international transboundary watersheds, 
+estuaries, or watersheds in Newfoundland and 
+Labrador and Canadian territories (Northwest 
+Territories, Nunavut, Yukon,) that are subject to 
+unique challenges.
+Figure 1: Focus of Flood Resilience Guidance and Standards in Canada
+Canadian Focus
+Emerging
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+11
+csagroup.org
+1.4 Intended Audience
+This guidance is intended to be useful to a wide range 
+of stakeholders involved in the management of river 
+flooding and erosion, including, but not limited to:
+	• All levels of government;
+	• Watershed and river management practitioners, 
+including Indigenous peoples (First Nations, 
+Metis, and Inuit). This may include, but is not 
+limited to, people working in the public sector, 
+regional authorities, communities, governments, 
+watershed management organizations, non-
+governmental organizations, and consultants; 
+	• Project financers; and
+	• Others with a role in the delivery of river 
+flood and erosion management services.  
+Readers are strongly recommended to consult the 
+preceding research report “Nature-Based Solutions 
+for Coastal and Riverine Flood and Erosion Risk 
+Management” [5].
+2 Methods
+This guidance has been developed through a 
+combination of desktop research and analysis and 
+stakeholder engagement.
+2.1 Desktop Research and Analysis
+Desktop research and analysis focused on establishing 
+current understanding and practices relating to 
+watershed management of river flood and erosion 
+risks and the use of NbS. Specific tasks were to:
+	• Summarize key findings of recent research on 
+the use of NbS in Canada for decision makers;
+	• Review the status of watershed management 
+in Canadian provinces (excluding 
+Newfoundland and Labrador); and
+	• Analyze the scale of flood and erosion projects, 
+including NbS projects, that have been funded by 
+two key federal government programs—the National 
+Disaster Mitigation Program and the Disaster 
+Mitigation and Adaptation Fund—and implications for 
+application of NbS approaches at the watershed-scale.
+2.2 Stakeholder Engagement 
+Stakeholder engagement was undertaken to document, 
+share, and collate guidance and best practices in 
+implementing NbS for river flood and erosion risk 
+management in Canada. 
+Over 40 stakeholders were engaged, contributing 
+experiences from British Columbia, Alberta, 
+Saskatchewan, Manitoba, Ontario, Quebec, New 
+Brunswick, Nova Scotia, and Prince Edward Island. 
+Additional insights were provided from the Netherlands 
+and the United Kingdom. Participants represented a 
+range of organizations, including governments, 
+watershed organizations, consultants, non-
+governmental organizations (NGOs), and academia.
+Stakeholder engagement was centred around two 
+half-day, virtual focus groups, held in May and 
+June 2022:
+	• Focus Group 1 - Taking a Watershed Approach
+	• Focus Group 2 - Including NbS Benefits in 
+Options Appraisal
+The focus groups were structured to stimulate 
+discussion and collect information and feedback using 
+a variety of methods:
+	• Online questionnaires send to invitees 
+prior to each focus group; 
+	• Brief presentations from subject matter experts;
+	• Interactive polling activities; and 
+	• Small group and plenary discussions with 
+interactive whiteboards and note takers 
+to capture key discussion points.
+The program of each workshop is detailed in 
+Appendix A.
+Stakeholders were also invited to review and provide 
+comments on this report.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+12
+csagroup.org
+3 Review of Current 
+Understanding and Practices 
+3.1 Recent NbS Research: Key 
+Findings for Decision Makers
+This section extracts key findings of selected recent 
+research publications that are directly relevant to the 
+use of NbS to reduce river flooding and erosion by 
+governments in Canada (Table 1). The findings are 
+provided as context for the current research project. 
+Readers are invited to consult the original reports for 
+further details. 
+Common messaging from these recent key 
+publications includes the need to:	
+• Adopt a “whole-ecosystem” approach to flood
+and erosion management that may necessarily
+go beyond municipal or community boundaries.	
+• Identify and value multiple co-benefits
+of NbS, in addition to the potential flood
+and erosion damages avoided.	
+• Proactively manage natural infrastructure in
+view of the services provided, in a similar way
+to built infrastructure, including preserving
+/ conserving existing natural assets.
+3.2 Review of Watershed Management 
+in Canadian Provinces 
+3.2.1 Watersheds in Canada
+Canada is the second largest country in the world, with 
+very different sized watersheds, from the very large 
+(e.g., Great Lakes – St. Lawrence River Basin) to the 
+very small (e.g., watersheds on Prince Edward Island). 
+Watersheds have been identified and mapped 
+nationally across Canada. The Standard Drainage Area 
+Table 1: Key Findings of Relevant Research Publications
+Publication
+Key Findings for Decision-Makers
+International Guidelines on Natural 
+and Nature-Based Features for Flood 
+Risk Management [8]
+•	NbS can contribute to riverine flood and erosion management by:	
+• Storing, slowing, and reducing flood waters in the upper and
+middle watershed, using native vegetation where possible;	
+• Improving connectivity of watercourses with their ﬂood
+plains, creating space for water and room for the river;	
+• Preserving or restoring sediment processes; and	
+• Restoring lowland and river delta functions.
+•	In addition to flood and erosion risk management, riverine NbS also provide
+a wide range of ecosystem services, including:	
+• Groundwater recharge and drought amelioration;	
+• Water quality improvement and greater freshwater availability;	
+• Biodiversity enhancement and habitat improvement;	
+• Improved aesthetics compared to conventional infrastructure; and	
+• Human health, welfare, and recreational opportunities.
+•	Five categories are identified for application of NbS:	
+• River and ﬂoodplain management;	
+• Vegetation management;	
+• Rural runoﬀ management;	
+• Urban runoﬀ management; and	
+• Erosion management.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+13
+csagroup.org
+Nature-Based Solutions for Coastal 
+and Riverine Flood and Erosion Risk 
+Management [5]
+•	NbS can play a much greater role in managing flood and erosion risk in 
+Canada, and they are currently underutilized.
+•	Flooding and erosion are fundamental to the function of natural systems. 
+Negative consequences and risks occur where flooding and erosion intersect 
+with vulnerable people or valued assets. Disruption of natural processes can 
+narrow the range of options available to manage these risks.
+•	Several guides and programs have been produced in Canada (overviewed in 
+Appendix B of the referenced report). These outputs provide a useful basis for 
+future national guidance but lack technical detail.
+•	Further research needs include:
+	• Inclusion of NbS in Planning/Decision-Making Frameworks –There is 
+a need for improved planning and decision-making frameworks that 
+incorporate NbS as tools in the portfolio of possible strategies for flood and 
+erosion risk management.
+	• Performance Monitoring – Long-term multi-year monitoring programs are 
+needed to demonstrate performance over time and build confidence in NbS.
+Natural Assets Management 
+Considerations for Engineering and 
+Geoscience Professionals [9]
+•	Natural assets, such as streams, aquifers, forests, and foreshores, provide 
+core services that local governments are commonly directly responsible 
+for in Canada (e.g. stormwater management, drinking water filtration, and 
+groundwater protection) as well as other benefits including recreation, climate 
+regulation, clean air, natural habitat, and biodiversity.
+•	Proactive management of natural assets can help local governments to:
+	• Manage community financial and asset risk
+	• Enhance service provisioning to communities
+	• Partner with Indigenous communities in support 
+of local infrastructure enhancements
+	• Build climate resilience.
+•	Natural assets do not follow jurisdictional or ownership boundaries. Local 
+governments must concern themselves not only with natural assets they 
+own or manage, but also with natural assets they do not own or manage but 
+rely on for services. 
+Rising Seas and Shifting Sands: 
+Combining Natural and Grey 
+Infrastructure to Protect Canada’s 
+Eastern and Western Coastal 
+Communities [10]
+•	Canada can use NbS alongside grey infrastructure to manage flooding and 
+erosion risk. Diﬀerent measures can be combined to fulfill multiple objectives 
+within communities.
+•	National standards are needed to enable formalized evaluation of the 
+multiple benefits of NbS when comparing different infrastructure options. It is 
+recommended that this considers minimum requirements alongside regional-
+specific standards, together with ways to elevate and integrate the knowledge 
+of Indigenous peoples and the financial value of benefits derived from NbS.
+•	Flood and erosion protection measures should be subject to minimum 
+monitoring requirements, including funding for long-term monitoring and 
+engagement with Indigenous peoples. Monitoring should be designed to 
+document performance against project-specific objectives. 
+•	Public–private partnerships can potentially assist in financing, delivering, 
+monitoring, and maintaining NbS.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+14
+csagroup.org
+“Although watersheds have been identified 
+throughout Canada, the degree to which they 
+are used as a basis for management varies 
+significantly across the country.”
+Classification (SDAC) is Statistics Canada's official 
+classification of drainage areas in Canada [11]. The 
+classification identified 11 major drainage areas and 
+164 sub-drainage areas in Canada.
+Within sub-drainage areas, smaller sub-sub-drainage 
+areas were identified and form the basis of the National 
+Hydrographic Network (NHN) database that is 
+maintained by National Resources Canada. The NHN 
+provides continuous geospatial data and basic 
+attributes describing Canada's inland surface waters, 
+including watershed boundaries of more than 1,382 
+basins covering the entire Canadian landmass [12]
+The online data service, ClimateData.ca, provides over 
+30 pre-calculated climate indices that can be analyzed 
+at the NHN watershed level. Data can be viewed on a 
+map, as an interactive time series, or downloaded from 
+the website [13].
+Although watersheds have been identified throughout 
+Canada, the degree to which they are used as a basis 
+for management varies significantly across the country. 
+A review of integrated watershed management 
+approaches across Canada was undertaken by the 
+Canadian Council of Ministers of the Environment in 
+2016 [14]. This review did not specifically focus on flood 
+and erosion risk management responsibilities, and 
+many significant changes in provincial watershed 
+management have occurred in the six years since 
+the review was published. 
+This section presents an up-to-date overview of 
+watershed management within Canadian provinces 
+(excluding Newfoundland and Labrador) and the 
+key organizations involved, with specific focus on the 
+management of flooding and erosion risks. In particular, 
+the following subjects have been reviewed for each 
+province:
+	• Existing watershed-scale organizations;
+	• Mandate and authority, as defined by either 
+legislation or a clear policy statement;
+	• Watershed management functions; and
+	• Role in flood and erosion risk management.
+For further details relating to the mandate and 
+activities of the specific watershed management 
+organizations mentioned in this section, readers are 
+directed to the online references provided, where they 
+can consult the most up-to-date information.
+3.2.2 British Columbia
+There are currently no watershed-scale organizations 
+with a legal mandate for integrated watershed 
+management in British Columbia. However, there are 
+several organizations that work on select aspects of 
+watershed management or that work without a legal 
+mandate. The key organizations are identified below.
+Under the B.C. Forest and Range Practices Act (FRPA), 
+466 community watersheds have been designated for 
+source water protection purposes. The FRPA sets 
+requirements for forest company activities working 
+within community watersheds to conserve water 
+quality and quantity and prevent adverse cumulative 
+hydrological effects [15].
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+15
+csagroup.org
+A key charitable watershed organization within the 
+province is the Fraser Basin Council. It is a non-profit 
+organization that aims to advance sustainability 
+solutions and practices in the Fraser Basin and across 
+British Columbia. The Council’s directors represent four 
+orders of government—federal, provincial, local, and 
+First Nations—together with the private sector and civil 
+society. The organization works through facilitation and 
+education, working with a vast variety of stakeholders 
+across the province [16]. 
+Another key organization that has no legal or policy 
+basis but that may influence regulatory decisions is the 
+Mackenzie River Basin Board. The board was established 
+by the Mackenzie River Basin Transboundary Waters 
+Master Agreement in 1997, and was signed by British 
+Columbia, Alberta, Saskatchewan, the Northwest 
+Territories, Yukon, and the Government of Canada [17]. 
+The agreement commits the signatories to “work 
+together to manage the water resources of the whole 
+Mackenzie River Basin,” according to four guiding 
+principles: equitable utilization, prior consultation, 
+sustainable development, and maintenance of 
+ecological integrity [18]. 
+In relation to flood and erosion risk management, the 
+provincial government provides Flood Hazard Area 
+Land Use Management Guidelines [19] and administers 
+funding for developing and updating ﬂood risk 
+assessments. However, land use regulation itself is the 
+responsibility of local governments, or of provincial 
+approving officers for land outside of municipal 
+boundaries, and provincial land officers responsible for 
+Crown land [20]. As a result, land use planning does not 
+consistently account for flood risk within the province, 
+as highlighted in responses to a recent survey on 
+provincial flood preparedness [21]. 
+The need for improved flood and erosion risk 
+management was dramatically highlighted during the 
+November / December 2021 floods in British Columbia—
+the most-costly severe weather event in the province’s 
+history [22]. A key report, developed following this flood 
+event to improve understanding of risk and resilience in 
+British Columbia, specifically recommends a more 
+integrated approach to flood risk management [23]. 
+With a view to improving watershed security, in January 
+2022, the provincial government issued a discussion 
+paper on the development of a Watershed Security 
+Strategy and Fund for public consultation. The 
+discussion paper suggested “reduced risks from water 
+related hazards such as flooding and drought” as one 
+of the elements of watershed security [24]. Work is 
+ongoing to develop the strategy, with a launch currently 
+planned for spring 2023 [25]. In addition, the province of 
+British Columbia is currently gathering feedback on a 
+proposed Flood Strategy to manage flood safety risks, 
+which includes consideration of watershed-based 
+approaches and emphasizes green infrastructure as a 
+preferred option for flood mitigation where suitable [26].
+3.2.3 Alberta
+In Alberta, the Water for Life strategy has been the key 
+strategy for managing the province’s waters resources 
+since 2003 [27]. The strategy was renewed in 2008 
+[28]. It identifies three geographical scales of 
+partnerships for managing water [29]:
+	• Alberta Water Council (AWC) – at the province-
+wide scale;
+	• Watershed Planning and Advisory Councils 
+(WPACs) – at the watershed-scale; and
+	• Watershed Stewardship Groups (WSGs) – at 
+the local scale. 
+The Alberta Water Council is a not-for-profit, 
+collaborative partnership that provides leadership, 
+expertise, sector knowledge, and perspectives to 
+advance the outcomes of Water for Life and other 
+water management priorities within the province [30]. 
+Watershed Stewardship Groups are local-community, 
+volunteer-based partnerships that are actively engaged 
+in environmental stewardship of their watershed [29]. 
+These volunteer-based groups are supported by the 
+Land Stewardship Centre [31].
+The 11 WPACs are stewards of the province’s major 
+watersheds. They are independent, non-profit 
+organizations that are officially designated by Alberta 
+Environment and Parks and have a mandate to [32] 
+“support multi-stakeholder collaboration and community 
+engagement within four main program areas:
+	• Education and Outreach
+	• Environmental Stewardship
+	• Watershed Evaluation and Reporting
+	• Watershed Management Planning”
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+16
+csagroup.org
+The WPACs are mandated by the government to 
+produce two key deliverables [32]:
+	• A State of the Watershed Report; and 
+	• An Integrated Watershed Management Plan.
+In relation to the first deliverable, a “Handbook for 
+State of the Watershed Reporting” was published in 
+2008 to support WPACs and WSGs that may be 
+undertaking similar work. The handbook mentions 
+“floodplain presence and flooding pattern” as indicators 
+of the condition of the watershed, whose metric is an 
+“area of historically connected floodplain vs. area of 
+currently connected floodplain” [33]. 
+In relation to the second deliverable, the “Guide to 
+Watershed Management Planning in Alberta” 
+recognizes the role of natural systems in attenuating 
+flooding but does not specify that flood risk 
+management should form part of watershed 
+management planning [34]. Flooding is considered in 
+some of the technical reports prepared to support 
+Integrated Watershed Management Planning, for 
+example for the Red Deer Watershed Alliance [35].
+Flood risk management is undertaken largely outside 
+of the watershed management activities described 
+above. The provincial government retains responsibility 
+for flood management through the Flood Hazard 
+Identification Program, Alberta Community Resilience 
+Program, and specific flood mitigation studies for 
+flood-prone watersheds [36]. Many of these studies 
+consider the watershed-scale [37]. Upstream water 
+storage is being pursued as a flood management 
+strategy along the Elbow River upstream of Calgary 
+through the construction of the Springbank Off-Stream 
+Reservoir [38] and on the Bow River through the 
+Modified Operations Agreement with TransAlta [39]. 
+The provincial government also funds the Watershed 
+Resiliency and Restoration Program, which focuses on 
+improving natural watershed functions to build greater 
+long-term resiliency to droughts and floods [40]. 
+3.2.4 Saskatchewan
+The Saskatchewan Association of Watersheds (SAW) is 
+a non-profit umbrella organization for nine watershed 
+groups in the province that are focused on the 
+protection of ground and surface water [41]. These 
+NGOs receive funding from the Saskatchewan 
+government for education, awareness, and 
+coordination of program delivery but they do not 
+address flood and erosion risk management.
+The Water Security Agency (WSA) is a Crown 
+corporation that holds core water management 
+responsibilities in the province. The 25 Year Water 
+Security Plan, originally released in 2012, includes 
+several actions relating to identifying and reducing 
+flood risk, although these actions are largely organized 
+around communities or critical infrastructure rather than 
+the watershed-scale [42]. With the introduction of WSA’s 
+new Strategic Plan, launched in 2022–23, the agency is 
+not only reviewing its Strategic Plan on an annual basis 
+but renewing it every four years instead of five [43].
+The WSA administers the Flood Damage Reduction 
+Program (FDRP), which provides funding to local 
+governments for flood damage reduction work across 
+the province [44]. The agency also obtained funds 
+under the federal government’s National Disaster 
+Mitigation Program (NDMP) to complete a provincial-
+scale natural hazard risk assessment, which was 
+published in 2018 [45]. This assessment identified high 
+to extreme risk from convective summer storms and an 
+increasing risk from overland flooding of both urban 
+and rural communities in the context of climate change. 
+3.2.5 Manitoba
+In Manitoba, the Watershed Planning & Programs 
+Section of the provincial Environment, Climate and 
+Parks Department administers and manages the 
+Watershed Districts Program as defined by The 
+Watershed Districts Act. Proclaimed on January 1, 2020, 
+the Act transitioned 18 conservation districts to 14 new 
+Watershed Districts, with boundaries aligned with 
+natural watersheds to support integrated watershed 
+management [46]. These newly formed Watershed 
+Districts cover the majority of municipal Manitoba.
+Watershed Districts are formed as a partnership 
+between the province and local municipalities to 
+“protect, restore and manage land and water resources 
+on a watershed basis.” Each district is charged with 
+“developing and implementing programming to improve 
+watershed health, while four districts also have a 
+surface water infrastructure mandate to maintain 
+provincial waterways within their boundary” [47].
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+17
+csagroup.org
+Watershed Districts can also be designated as “a Water 
+Planning Authority for integrated watershed management 
+planning under The Water Protection Act. They provide 
+leadership in both the development and implementation 
+of watershed plans, that assist in planning long-term and 
+short-term goals and identifying priority project to 
+improve watershed health.” The province reports 
+that there are currently 26 integrated watershed 
+management plans (IWMP) in various stages of 
+completion, as well as one plan under renewal [46]. 
+The Watershed Districts are supported by the Manitoba 
+Association of Watersheds (MAW) [48]. MAW delivers 
+the GRowing Outcomes in Watersheds (GROW) 
+Program announced by the province in 2019. The 
+GROW and Conservation Trusts that provide funding 
+to landowners under this program are administered by 
+Manitoba Habitat Heritage Corporation. GROW aims to 
+support the delivery of ecological goods and services 
+in Manitoba. Focus areas include watershed health, 
+management, and resiliency. Two priority outcomes 
+of the program are watershed resilience to the impacts 
+of climate change and improved water quality, while 
+improved biodiversity and habitat and carbon 
+sequestration and storage are identified as 
+co-benefits [49].  
+Activities that are eligible for inclusion in a Local 
+GROW Program include [49]: 
+	• “water retention
+	• wetland conservation, restoration or enhancement
+	• riparian area conservation, restoration or 
+enhancement
+	• buffer establishment (ex: shelterbelts and multi-
+species buffer strips)
+	• upland area conservation, restoration, or 
+enhancement (ex: woodlot management, grassland 
+conservation, converting marginal cropland to 
+grassland, and soil health improvements)”
+The Manitoba government also supports Watershed 
+Districts through the Assurance: Watershed Ecological 
+Goods and Services grant that is part of the Ag Action 
+Manitoba Program. The grant facilitates “work with 
+farmers to implement sustainable environmental 
+practices,” including water retention, runoff management, 
+and wetland restoration and enhancement [50].
+Water retention studies are being undertaken in the 
+province as a method of managing both flood and 
+drought conditions, as well as improving water quality 
+and achieving other watershed management objectives. 
+When the cumulative impacts of several projects are 
+combined, benefits can occur at both the local and the 
+watershed-scale [51].
+Although several natural infrastructure elements relating 
+to flood and erosion risk are addressed by Watershed 
+Districts, it is Manitoba Infrastructure that leads and 
+retains responsibility for flood risk management projects 
+at the provincial level [52]. Work has been conducted at 
+the watershed-scale, such as in the Assiniboine River 
+and Lake Manitoba Basins Flood Mitigation Study [53]. 
+However, not all watersheds have a flood risk 
+management strategy. 
+“Manitoba reports that there are currently 
+26 integrated watershed management plans 
+(IWMP) in various stages of completion, as 
+well as one plan under renewal.”
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+18
+csagroup.org
+3.2.6 Ontario
+In Ontario, Conservation Authorities promote integrated 
+watershed management and are organized on a 
+watershed basis. Conservation Ontario is a non-profit 
+association that represents the 36 Conservation 
+Authorities. Thirty-one of them operate in Ontario 
+and five deliver programs and services in northern 
+Ontario [54]. 
+Conservation Authorities have a legislated mandate 
+under the Conservation Authorities Act, originally 
+enacted in 1946 [55]. Following severe economic 
+and human losses due to Hurricane Hazel in 1954, 
+Conservation Authorities were given regulatory powers 
+within floodplains, which have since been broadened 
+to cover regulating and permitting development within 
+river and stream valleys, wetlands, hazard-prone 
+areas (flooding, erosion, dynamic beaches), and 
+geotechnically hazardous sites [55].
+The core mandate of Conservation Authorities is to 
+undertake watershed-based programs to protect 
+people and property from flooding and other natural 
+hazards and to conserve natural resources for 
+economic, social, and environmental benefits [54]. 
+Mandatory programs and services provided by 
+Conservation Authorities are set out in Ontario 
+Regulation 686/21 and include development of a 
+watershed-based resource management strategy [56]. 
+Conservation Authorities have also worked extensively 
+with municipalities to develop sub-watershed plans for 
+areas identified for development. Consultations on new 
+guidance occurred in early 2022 [57]. 
+The undertaking of watershed management planning 
+alongside land use planning has been identified as a 
+key factor that helps limit flood damage in Ontario. A 
+comparison of the use of Disaster Financial Assistance 
+Arrangements (DFAA) by provinces during the 1970–
+2014 period suggested the primary reason for limited 
+use of DFAA payments in Ontario, in comparison with 
+greater use in the Prairie provinces (Alberta, Manitoba, 
+and Saskatchewan), was the administration of 
+floodplain regulation by the Conservation Authorities 
+[58]. Similarly, a study comparing Michigan and 
+Ontario flood damages in August and September 1986 
+also highlighted the benefits of long-term floodplain 
+regulation in limiting flood damages in Ontario [59].
+In 2022, the Ontario government passed Bill 23, which 
+includes significant modifications to several sections 
+of the Conservation Authorities Act [60]. These 
+modifications include:
+	• Removal of the ability of Conservation Authorities 
+to review or comment on proposals or 
+applications made under a prescribed Act; and 
+	• Exemption of activities authorized under the Planning 
+Act from the prohibitions that restrict activities and 
+development in lands over which Conservation 
+Authorities hold jurisdiction (including hazard 
+lands, river and stream corridors, and shorelines).
+These modifications will reduce the role that 
+watershed-scale Conservation Authorities play in 
+land use planning in the province. 
+3.2.7 Quebec
+In 2002, the Quebec Water Policy supported reforming 
+water governance and establishing integrated 
+watershed management in Quebec [61]. The Water Act, 
+enacted in 2009 and amended in 2017 and 2022, sets 
+out the responsibility of watershed organizations (in 
+French: Organisme de bassin versant) to undertake 
+watershed planning in consultation with a variety of 
+stakeholders [62]. The Act also introduced integrated 
+management for the Saint Lawrence River, providing 
+for the establishment of 12 regional consultation tables 
+(in French: tables de concertation régionales). There 
+are currently 40 legally recognized watershed 
+organizations [63] and six regional consultation tables 
+[64]. The Regroupement des organismes de bassins 
+versants du Québec (ROBVQ) is a non-profit 
+organization that is recognized by the Ministry of the 
+Environment, the Fight Against Climate Change, 
+Wildlife and Parks (MELCCFP) as being its privileged 
+interlocutor for the implementation of integrated 
+water management by watershed in Quebec [65].
+The mandate of each watershed organization, as 
+defined in the current reference framework, includes 
+consulting with stakeholders, developing and 
+implementing a water master plan, and raising 
+awareness and promoting integrated water resource 
+management [66]. Key issues identified and addressed 
+in work by watershed organizations include water 
+contamination, health of wetlands, shoreline erosion, 
+water quality, flooding, public access to water bodies, 
+and drinking water supply [67]. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+19
+csagroup.org
+While watershed organizations are responsible for 
+developing a water master plan, they are not 
+responsible for managing flood and erosion risk and 
+they do not have the authority to permit development 
+in areas at flood or erosion risk. This limits direct 
+integration of these activities. The 2020 provincial flood 
+protection plan included a new flood resilience and 
+adaptation program [68]. As part of the program, the 
+Ministry of Municipal Affairs and Housing (Ministère 
+des Affaires municipales et de l'Habitation) established 
+10 new project offices tasked with planning flood 
+resilience interventions at the watershed-scale. Each of 
+the new project offices must work with both a 
+municipal round table and a civil round table in 
+planning flood resilience interventions [69]. 
+3.2.8 New Brunswick
+There is currently no provincially appointed organization 
+for integrated watershed management in New 
+Brunswick. 
+Watershed management in the province is undertaken 
+by 31 NGOs, overseeing 78% of the province [70]. The 
+N.B. Watershed Caucus, a program led by the New 
+Brunswick Environmental Network (NBEN), provides a 
+forum for these watershed organizations [70]. Many of 
+the watershed organizations have developed an 
+integrated watershed management plan that includes 
+actions relating to management of flooding and 
+erosion / sedimentation using NbS. The organizations 
+vary in terms of their objectives and the funding and 
+resources available to implement the identified actions. 
+An action to develop a renewed framework for 
+watershed-scale management of surface water quality 
+was included in A Water Strategy for New Brunswick 
+(2017) [71]. The province’s Watershed Protection 
+Program focuses on source water protection for 
+communities that receive their drinking water from 
+surface watersheds (about 40% of the population) [72].
+The provincial strategy for flood risk management is 
+set out in the New Brunswick Flood Risk Reduction 
+Strategy (2014). In this strategy, flood mitigation is 
+focused on risk reduction by working with communities 
+and infrastructure owners [73]. The provincial 
+government recently released updated coastal and 
+inland flood risk mapping that incorporates the impacts 
+of climate change [74], and has been working with 
+New Brunswick communities to undertake Climate 
+Change Adaptation Plans [75]. 
+The potential to use NbS to address flood and erosion 
+risk was initially outlined in the 2016 plan, Transitioning 
+to a Low-Carbon Economy – New Brunswick’s Climate 
+Change Action Plan. The plan includes the action to 
+“promote and use natural infrastructure (e.g., forests, 
+wetlands, salt marshes, floodplains) as an important 
+tool to buffer against climate change impacts” (action 
+71) [76]. 
+New Brunswick’s new Climate Change Adaptation Plan 
+(2022–2027) sets out 30 actions for the province, with 
+“preparing for climate change” as one of the three key 
+pillars identified. Under this pillar, biodiversity and NbS 
+are a key area for action. The provincial government 
+intends to continue to support NbS as an approach to 
+adapt to climate change, including through training 
+and capacity building. New actions identified 
+increasing protected areas to beyond 10% of the 
+province’s land and fresh water, as well as implement 
+a Living Shorelines program by 2026. [77].
+3.2.9 Nova Scotia
+In 2010, through Water for Life: Nova Scotia’s Water 
+Resource Management Strategy, the province 
+committed to an approach based on integrated water 
+management, using the watershed as a unit for 
+analysis. The strategy identified 46 primary watersheds 
+in the province and established a Nova Scotia Water 
+Advisory Group (NSWAG) to support implementation 
+of integrated water management. However, the 
+strategy did not include actions for flood and erosion 
+risk management [78].
+The Nova Scotia Watershed Assessment Program 
+(NSWAP) was launched in 2011 to characterize and 
+evaluate the state of the province’s watersheds 
+according to 11 different watershed variables [79], 
+including variables of interest to flood and erosion 
+management. The project subdivided the primary 
+watersheds into major and residual watersheds, as 
+many of the streams in Nova Scotia drain directly to the 
+ocean rather than being part of larger watershed units 
+[80]. Phase 2 of this project, to develop watershed report 
+cards, does not appear to have been completed to date 
+[81]. The last progress report on the province’s Water for 
+Life strategy webpage was for 2014 [82].
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+20
+csagroup.org
+Watershed management, including protection and 
+enhancement of natural infrastructure, is undertaken 
+by several NGOs in Nova Scotia, including the 
+Sackville Rivers Association [83], Clean Annapolis 
+River Project [84], and ACAP Cape Breton [85]. 
+However, there is currently no coordinating body, and 
+activities vary between the NGOs depending on their 
+specific objectives and available resources. 
+In relation to flood and erosion risk management, the 
+Nova Scotia Flood Mitigation Framework provides an 
+approach based on 1) support for communities and 2) 
+provincial leadership [86]. Work with communities is 
+through the Flood Risk Infrastructure Investment 
+Program (FRIIP), which provides match-funding for: [87]
+	• “river training and floodway improvements
+	• floodwater containment and flood intensity mitigation
+	• studies including mapping to identify flood-prone 
+areas and identification of potential solutions to 
+mitigate flood impacts”
+The provincial leadership part of the Framework lists 
+eight actions. One action is to provide scientific and 
+geo-technical advice for coastal flood risk assessments. 
+There is no explicit mention of the use of natural 
+infrastructure to manage flood and erosion risk as part 
+of the Flood Mitigation Framework, and action is not 
+organized at the watershed-scale. 
+However, in the new plan, Our Climate, Our Future: 
+Nova Scotia’s Climate Change Plan for Clean Growth, 
+released in December 2022, minimizing climate 
+impacts by restoring natural areas and ecosystems is a 
+key theme identified to help respond to climate 
+impacts. Action 12 of the plan includes to “strengthen 
+and coordinate responses to coastal and inland flood 
+risk by investing in natural flood protection” [88].
+3.2.10 Prince Edward Island (PEI)
+Watershed management in PEI is undertaken by local 
+watershed groups that do not have a formal mandate 
+[89]. There are 24 watershed groups across the island, 
+supported by the PEI Watershed Alliance [90]. Both the 
+watershed groups and the PEI Watershed Alliance are 
+supported by the government through the Watershed 
+Management Fund, which is designed to support 
+projects for watershed management planning and 
+capacity building, pollution control, erosion 
+management, wildlife habitat enhancement and 
+biodiversity, and research and outreach [91].
+In terms of flood risk management, PEI is an island 
+with small river basins of limited relief. The recent 
+Climate Change Risk Assessment, published in 2021 
+and used to inform the province’s Climate Change 
+Action Plan 2018–2023, identified coastal erosion, 
+post-tropical storms, and heavy precipitation and 
+inland flooding as “high” risks for the province [92]. 
+The provincial government has funded mapping of 
+coastal and inland flooding in the context of climate 
+change; however, this is available on a community 
+basis rather than for watersheds [93]. 
+Flood risk management projects are not specifically 
+listed as eligible for funding through the Watershed 
+Management Fund, although natural infrastructure 
+projects that may reduce downstream flood risk are 
+supported. The Guide to Watershed Planning produced 
+by the PEI government also does not specifically 
+mention flood risk management, although soil erosion 
+and sedimentation are highlighted as key issues for 
+consideration [94]. It is worth noting that municipal 
+land use planning is in place for only approximately 
+10% of PEI’s land base, with the provincial government 
+acting as the planning authority for the remaining 90% 
+of land area [95].
+In 2020, the Government of Prince Edward Island 
+established a $1 million annual Climate Challenge 
+Fund that supports NbS for flood and erosion risk 
+management [96]. The province’s climate adaptation 
+plan, launched in October 2022, also mentions NbS 
+under several actions with the themes of resilient 
+communities and natural habitat and biodiversity, but 
+does not explicitly include a watershed approach to 
+flood and erosion risk management [97].
+3.2.11 Key Findings 
+An overview of key elements of watershed management 
+in the Canadian provinces examined is provided in Table 
+2. Review focused on the use of NbS for river flood and 
+erosion management and yielded the following key 
+findings:
+	• Legislative mandate and authority:
+Few of the Canadian provinces have set a clear 
+mandate for integrated watershed management. 
+Many provincial mandates are focused on specific 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+21
+csagroup.org
+problems (e.g., drinking water source protection) 
+or specific watersheds, or their responsibilities 
+are shared with other organizations. 
+	• Varied involvement in flood and erosion river 
+management: 
+Only Conservation Authorities in Ontario have a legal 
+mandate and permitting authority (with exceptions) 
+in relation to river flood and erosion risk management. 
+Several watershed management organizations 
+are indirectly involved in flood and erosion risk 
+management, although they may be consulted.
+	• Focus on NbS for different purposes: 
+Many provinces have developed programs to support 
+NbS but the objectives of these programs vary and 
+frequently focus on habitat quality and biodiversity 
+rather than using NbS as a means to manage flood 
+and erosion risk.
+	• Resourcing: 
+While funding is provided by many provincial 
+governments to support watershed management, 
+the level of resourcing available varies significantly. 
+This impacts the capacity (staff, time, money) of 
+watershed management organizations, including the 
+development and retention of in-house knowledge.
+3.3 Analysis of Federally Funded Flood 
+and Erosion Risk Management Projects
+The federal government has financially supported, and 
+continues to support, flood risk management work 
+undertaken by provinces, territories, and communities. 
+The two major funds are: 
+	• The National Disaster Mitigation Program (NDMP), 
+administered by Public Safety Canada from 2015 
+to 2022; and 
+	• The Disaster Mitigation and Adaptation Fund 
+(DMAF), administered by Infrastructure 
+Canada, the first intake of which was in 2018. 
+Funding under these programs has already been 
+allocated and project-level data is available. 
+This section presents an analysis of the spatial 
+jurisdiction of the recipients to whom federal funding 
+has been allocated for flood risk management work 
+under the two programs. The scale at which projects 
+themselves are being undertaken has also been 
+analyzed for DMAF-funded projects, based on the 
+project descriptions that are readily available for each 
+project. The purpose of the analysis is to establish how 
+federal funding to date under these programs has 
+supported watershed-scale flood and erosion 
+management approaches, including the use of NbS.
+3.3.1 The National Disaster Mitigation 
+Program (NDMP)
+3.3.1.1 Overview of Funding Program
+The NDMP allocated funds between 2015 and 2022 to 
+recipients to increase understanding of, and community 
+resilience to, flood risk. Budget 2014 allocated $200 
+million over five years, from 2015 to 2020. In 2020, a 
+further $25 million was allocated to the program over 
+two years, beginning in fiscal year 2020–2021 and up 
+to March 31, 2022 [98]. 
+The analysis for this report concerns the Mitigation 
+Contribution Component (MCC) of the NDMP, which 
+provided financial support to provinces (up to 50%) 
+and territories (up to 75%) for cost-shared projects in 
+four streams of eligible activities (see Table 3) [99]. 
+3.3.1.2 Project-Level Data 
+Data relating to 460 projects funded under the seven 
+annual cycles of NDMP funding was provided by 
+Public Safety Canada for analysis and approved for 
+release. The data provided included the project title, 
+recipient organization, province or territory, cycle of 
+funding, and funding stream. 
+No projects were funded in Quebec, as an agreement 
+was not signed with the province. In addition, no 
+projects were funded in Nunavut. In 2020–2021 (cycle 
+6), during the COVID-19 pandemic, additional funding 
+was allocated to existing projects only. No new projects 
+were established. 
+Detailed project descriptions were not provided for 
+each project; therefore, it was not possible to isolate 
+NDMP projects that addressed river flooding and 
+erosion based on the data available. Several of the 
+projects also addressed multiple types of flood risk in 
+the same project (e.g., coastal, heavy rainfall, as well as 
+river flooding). Therefore, the analysis includes all 
+projects, not only those relating to river flooding and 
+erosion. Due to the lack of project descriptions, it was 
+also not possible to classify projects by the spatial 
+scale of the projects themselves. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+22
+Table 2: Overview of Watershed Management in Canadian Provinces (excluding Newfoundland and Labrador)
+Character
+BC
+AB
+SK
+MB
+ON 
+QC
+NB
+NS
+PEI
+Watershed-Scale 
+Governance Bodies
+NGOs, Community 
+watersheds (govt)
+Watershed Planning 
+and Advisory Councils 
+(WPACs)
+Watershed Associations
+Watershed Districts
+Conservation Authorities
+Watershed Organizations 
+(Organisations des bassins 
+versants)
+NGOs
+NGOs
+NGOs – Local Watershed 
+Groups
+Co-ordinating Body
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Website
+Fraser Basin Council
+Government of Alberta
+Saskatchewan Association 
+of Watersheds
+Government of Manitoba
+Conservation Ontario
+ROVBQ
+Watershed Caucus
+Water for Life Strategy
+PEI Watershed Alliance
+Number of Watershed 
+Management 
+Organizations
+Unknown
+11
+9
+14
+36
+40
+18
+Unknown
+24
+Formal Mandate
+No – Strategy in 
+development
+Yes, but shared and for 
+certain functions
+Yes, but shared and for 
+certain functions
+Yes, but shared and for 
+certain functions
+Yes, for certain functions
+Yes, but shared and for 
+certain functions
+No
+Yes, but not fulfilled
+No – Informal
+Functions
+Varies by organization
+Fraser Basin Council – 
+facilitation and education
+Community watersheds 
+(466) designated to protect
+surface drinking water
+Watershed evaluation and 
+reporting
+Watershed management 
+planning
+Education and outreach
+Environmental stewardship
+Source water protection: 
+ground and surface water
+Protecting, preserving, 
+conserving, managing, 
+controlling, or prudently 
+using the resources of the 
+district
+Protect people and 
+property from flooding and 
+other natural hazards
+Conserve natural resources 
+for economic, social, and 
+environmental benefits
+Promote consultation with 
+regional stakeholders
+Inform, mobilize, consult, 
+and raise public awareness
+Develop a master plan for 
+water (MPW)
+Varies by organization
+Varies by organization
+Varies by organization
+Role in Flood 
+and Erosion Risk 
+Management
+Fraser Basin Council – 
+facilitation and education
+Limited role. Provincial 
+government maintains 
+responsibility.
+No formal role.
+Water Security Agency is 
+responsible.
+Limited role in use of 
+natural infrastructure to 
+reduce flood and erosion 
+risk through GROW 
+program.
+Part of core mandate.
+Authority for permitting 
+of development (with 
+expanded exceptions) and 
+undertaking projects to 
+manage flood and erosion 
+risk.
+Consultative role.
+MAMH Project Offices 
+responsible for flood risk.
+No formal role.
+Provincial government 
+maintains responsibility.
+No formal role.
+Limited role in use of 
+natural infrastructure 
+to manage erosion 
+risk.  Riverine flood risk 
+not identified as a key 
+objective.
+Decision Making
+No formal authority.
+Adoption of own water­
+shed management plans 
+and action plans.
+No formal authority.
+Adoption of Watershed 
+Management Plans.
+No formal authority.
+Can carry out or support 
+work inside and outside its 
+boundaries to benefit core 
+function.
+Development permitting 
+authority in hazard-prone 
+areas (with expanded 
+exceptions).
+Adoption of Watershed 
+Management Plans.
+No formal authority.
+Adoption of own water­
+shed management plans 
+and action plans.
+No formal authority.
+Adoption of own water­
+shed management plans 
+and action plans.
+No formal authority.
+Province and municipalities 
+retain authority.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+23
+csagroup.org
+Table 3: Four NDMP Funding Streams  
+Stream
+Description
+Stream 1: Risk 
+Assessments
+Provided funding for risk 
+assessments that inform 
+flood risk management. 
+Risk assessment includes 
+identifying flood hazards, 
+potential impacts, and 
+community and 
+infrastructure vulnerabilities.
+Stream 2: Flood Mapping
+Provided funding for the 
+production and/or updating 
+of flood maps.
+Stream 3: Mitigation 
+Planning
+Provided funding for 
+the development and/or 
+updating of mitigation plans 
+to address flood risks. 
+Stream 4: Investments 
+in Non-Structural and 
+Small-Scale Structural 
+Mitigation Projects
+Provided funding for other 
+non-structural and small-
+scale structural mitigation 
+projects to address flood 
+risk. 
+3.3.1.3 Spatial Jurisdiction of Funding 
+Recipient Organizations
+Each NDMP project was classified according to the 
+spatial jurisdiction of the funding recipient organization, 
+using the following classification:
+	• Province;
+	• Watershed;
+	• Region;
+	• Indigenous government; and
+	• City / Town.
+A breakdown of the number of NDMP projects funded 
+in each province, according to the scale of the funding 
+recipient organization, is illustrated in Figure 2. 
+Analysis of the data reveals distinct differences 
+between the provinces and territories in terms of both 
+the number of projects funded from 2015 to 2022 and 
+the spatial scale of the recipients leading the projects. 
+Over half of the projects receiving funding from the 
+NDMP were in the province of Ontario (235 projects, 
+51%), with a significant number of projects in British 
+Columbia (106 projects, 23%) and Alberta (49 projects, 
+11%). The remaining provinces and territories each 
+received funding for 5% or less of the NDMP-funded 
+projects.
+With regard to the spatial scale of funding recipients:
+	• The provincial government was the only recipient 
+of NDMP funding in Manitoba, Yukon, and 
+Newfoundland and Labrador. The provincial 
+government was also the recipient for the 
+majority of NDMP projects in Alberta, Nova Scotia, 
+Prince Edward Island, and Saskatchewan.
+	• Regional governments were key leaders of NDMP 
+projects in British Columbia, and led some of the 
+projects in Ontario, Nova Scotia, and Alberta.
+	• Watershed scale organizations received funding 
+for NDMP projects in only two provinces: Ontario 
+and British Columbia. However, together these 
+projects represented 34% of projects funded, 31% 
+of which were led by Conservation Authorities 
+in Ontario. The remaining nine projects were led 
+by the Fraser Basin Council and the Okanagan 
+Basin Water Board in British Columbia. 
+	• Indigenous governments secured funding for 
+11 NDMP projects, with nine of these projects 
+based in Prince Edward Island. It is notable that 
+Indigenous governments also had access to 
+alternative funding programs, such as First Nations 
+Adapt, during the 2015–2022 time period [99].
+	• Cities and towns were the key funding recipients 
+for NDMP projects in New Brunswick, where 
+funds for 14 projects were secured by seven cities 
+and towns. Many projects in Ontario and British 
+Columbia were also led by cities and towns. In the 
+Northwest Territories, Tuktoyaktuk and Aklavik 
+received NDMP funding. Overall, cities and 
+towns led 31% of the NDMP-funded projects.
+The results of the analysis reflect the significant 
+differences between provinces in terms of both their 
+approach to watershed management and in the roles 
+and responsibilities for flood and erosion risk 
+management, as described in section 3.2. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+24
+csagroup.org
+Figure 2: NDMP Projects Classified by Scale of Recipient Organization
+In particular, the findings underline the pivotal role of 
+Conservation Authorities in undertaking and attracting 
+investment to flood and erosion risk management at 
+the watershed-scale in Ontario, and the lack of 
+organizations playing a similar role in other provinces 
+and territories. 
+The allocation of NDMP funding was based on 
+evaluation of applications received, rather than on an 
+assessment of baseline flood and erosion risk across 
+Canada. To access funding, organizations required the 
+necessary resources (staff, time, and knowledge) to 
+develop a successful application. Ontario Conservation 
+Authorities evidently were among the organizations 
+that had these necessary resources and successfully 
+secured funding for multiple projects. For example, 
+over the seven-year period, the Toronto and Region 
+Conservation Authority secured NDMP funding for 23 
+projects, the Upper Thames River Conservation 
+Authority for 16 projects, and the Credit Valley 
+Conservation Authority for 12 projects. 
+The lack of organizations undertaking a similar 
+watershed-scale role led to fewer applications being 
+made in other provinces and territories, and ultimately 
+less work being funded to reduce flood and erosion 
+risk in Canada. The evaluation of the NDMP 
+undertaken in 2020 identified that the MCC part of the 
+program had a budget of $183.8 million for the period 
+2015–2020, but only $94.8 million was allocated to 
+projects in this period. The remaining funds (48%) 
+were either reprofiled to future years of the program, 
+reallocated to other departmental priorities, or returned 
+to Treasury Board Secretariat [99].
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+25
+csagroup.org
+The findings also highlight the significant role that 
+cities and towns currently play in undertaking projects 
+to address flood and erosion risk. A key issue with this 
+arrangement in terms of managing river flooding and 
+erosion is that the jurisdiction of cities and towns often 
+does not encompass the watershed or sub-watershed 
+of concern from a flood risk management perspective. 
+While studies to understand and map flood risk may be 
+designed to cover areas outside the jurisdiction 
+(Stream 1 and 2 of the NDMP), mitigation planning 
+and implementation of solutions (Stream 3 and 4 of 
+the NDMP) are likely to be focused within the 
+jurisdiction of the city and town. This may effectively 
+preclude consideration of many NbS that work with 
+natural processes at the watershed or sub-watershed 
+scale (e.g., increasing floodwater storage upstream of a 
+city or town by reconnecting floodplains). In addition, 
+the potentially negative and cumulative impacts of 
+solutions implemented by cities and towns on 
+downstream communities may not be appropriately 
+considered.
+3.3.1.4 Use of Nature-based Solutions 
+NbS to reduce flood and erosion risk were eligible for 
+funding under Stream 4 of the NDMP, covering non-
+structural and small-scale structural disaster mitigation 
+projects. 112 projects received funding under Stream 4, 
+accounting for 24% of the funded projects (Figure 3).  
+Figure 3: Classification by Stream of 460 NDMP Projects 
+Funded 2015–2022
+Funding allocation to NbS was not specifically tracked. 
+The titles and descriptions of the Stream 4 projects 
+funded between 2015 and 2022 were reviewed to 
+identify projects that related to NbS. Following review of 
+project titles and, where available, project descriptions, 
+six projects were identified as relating to NbS (Table 4). 
+Other projects may have included NbS that were not 
+detailed in the project name or description.
+Table 4: : Details of Six NbS Projects Funded by NDMP between 2015 and 2022
+Prov.
+Project Name
+Funding Year
+Organization
+Project Description (where available)
+ON
+Reducing Impacts of 
+Stormwater - Green 
+Infrastructure Promotion 
+Program
+2017–18
+Upper 
+Thames River 
+Conservation 
+Authority
+Public education outreach program 
+(non-structural)
+ON
+McKellar Ward Green 
+Infrastructure Installation 
+Tree Planting Project
+2018–19
+City of Thunder 
+Bay
+Green infrastructure installation tree 
+planting project
+ON
+Saltfleet Flood and Erosion 
+Control Wetland Mitigation 
+Project
+2019–20
+Hamilton 
+Conservation 
+Authority
+Establishment of four wetlands located 
+in the Upper Stoney Creek and Upper 
+Battlefield Creek watersheds. Work aims to 
+reduce flooding in Lower Stoney Creek and 
+Battlefield Creek for a range of storm events 
+(2- to 100-year return period). 
+1
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+26
+csagroup.org
+Prov.
+Project Name
+Funding Year
+Organization
+Project Description (where available)
+ON
+Wetland Enhancement 
+Partnership within the Lake 
+Simcoe Basin to Eliminate 
+Chronic Community 
+Flooding
+2019–20
+Lake Simcoe 
+Region 
+Conservation 
+Authority
+Development of a strategic wetland 
+enhancement project to reduce flood risk. 
+Includes a Class Environmental Assessment, 
+public consultation, and engagement of 
+stakeholders in the design process. Post-
+construction performance monitoring and 
+operational / maintenance are also included.
+ON
+Greening Your 
+Neighbourhoods Waterloo 
+Region**
+2019–20
+Reep Green 
+Solutions
+Workshops to engage local residents and 
+stakeholders in considering priority actions 
+that could help to reduce stormwater 
+runoff within their neighbourhood. Goal 
+to increase uptake of green stormwater 
+infrastructure solutions to help mitigate flood 
+risks associated with increasingly intense 
+precipitation events.
+ON
+Focus on Flooding and 
+Reducing the Impacts of 
+Stormwater in the Upper 
+Thames Watershed – 
+Phase 2
+2019–20
+Upper 
+Thames River 
+Conservation 
+Authority
+Phase 2 to further the 2017–18 funded 
+project. Extended delivery of program and 
+additional components to students and 
+residents of high-risk communities. Includes 
+a low-impact development pilot project and 
+education programming with schools.
+The six projects identified represent just over 1% of the 
+460 projects funded by the NDMP and 5% of Stream 4 
+projects. It is notable that all of the projects relating to 
+NbS were funded in Ontario, with four of them being led 
+by Conservation Authorities. 
+3.3.2 Disaster Mitigation and Adaptation Fund
+3.3.2.1 Overview of Funding Program
+In 2018, the Government of Canada committed $2 billion 
+over 10 years to the Disaster Mitigation and Adaptation 
+Fund (DMAF) to invest in structural and natural 
+infrastructure projects to increase the resilience of 
+communities that are impacted by natural disasters 
+triggered by climate change [100]. This first intake of 
+DMAF aimed to support “shovel-ready”, large-scale 
+projects with total eligible costs of at least $20 million, 
+with match-funding being provided by applicants in 
+most cases [101]. Funding from the first intake of the 
+DMAF was allocated between 2018 and 2022 and is 
+the focus of analysis presented in this section. Projects 
+were considered for funding as part of a competitive 
+intake process, as well as to respond to urgent and 
+emergent situations [101].
+In Budget 2021, an additional $1.375 billion in federal 
+funding over 12 years was announced to renew the 
+DMAF. Starting in 2021, the DMAF funding has two 
+streams: the small-scale project stream (projects with 
+total eligible costs between $1 million and $20 million) 
+and the large-scale project stream (projects with total 
+eligible costs of $20 million and above) [102]. In 
+launching the National Adaptation Strategy, up to 
+$489 million in further funding was allocated to the 
+DMAF [103].
+3.3.2.2 Project-Level Data 
+Funding from the first intake of the DMAF was allocated 
+to 70 projects between 2018 and 2022. Project-level 
+information relating to these projects is publicly 
+available online as part of Infrastructure Canada’s 
+project dataset [104]. Information provided in the 
+dataset includes project title, ultimate recipient, location, 
+province, and federal funding contribution. 
+In addition to the project dataset, news releases issued 
+by the Government of Canada to announce each project 
+were researched online and used to extract a brief 
+27
+csagroup.org
+description of each project. Using these project 
+descriptions, it was possible to identify DMAF projects 
+that addressed river flooding and erosion. Subsequently, 
+these projects were analyzed and classified according 
+to the spatial scale of the funding recipient(s), the spatial 
+scale of the project itself, and the use of NbS.
+3.3.2.3 River Flooding and Erosion Projects 
+DMAF funding was available for projects that reduce 
+future climate-related risks and disasters triggered by 
+a range of natural hazards, including, but not limited 
+to, avalanche, drought, earthquake, erosion, extreme 
+temperature, flood, hurricane, landslides, permafrost 
+thaw, sea level rise, storm, tsunami, and wildland 
+fire. Analysis of project titles and descriptions reveals 
+that 45 of the 70 projects funded during the first 
+intake of DMAF related directly, or in part, to reducing 
+river flooding and erosion risks. See Figure 4. The 
+federal funding contribution to these 45 projects 
+was $1.389 million.
+Further analysis described in the following sections 
+has been undertaken considering these 45 projects 
+directly or partly related to reducing river flooding and 
+erosion risks.
+3.3.2.4 Spatial Jurisdiction of Funding 
+Recipient Organizations
+Each DMAF river flood and erosion project was 
+classified according to the spatial jurisdiction of the 
+funding recipient organization, using the following 
+classification:
+	• Province;
+	• Watershed;
+	• Region;
+	• Indigenous government; and
+	• City / Town.
+A breakdown of the number of DMAF projects 
+funded in each province / territory, according to the 
+scale of the funding recipient organization, 
+is illustrated in Figure 5.
+Figure 4 : Classification of 70 DMAF Projects Based on their 
+Relationship to River Flooding and Erosion Risks [104]
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+“Analysis of project titles and descriptions 
+reveals that 45 of the 70 projects funded  
+during the first intake of DMAF related  
+directly, or in part, to reducing river flooding 
+and erosion risks.”
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+28
+csagroup.org
+Table 5: Details of Six DMAF River Flood and Erosion Projects Using NbS
+Prov.
+Project Name
+Organization
+Project Description 
+BC
+Mill Creek Flood Protection
+City of Kelowna 
+Project to increase creek capacity through rehabilitating 
+riverbanks, upgrading drainage, and providing additional 
+off-stream water storage areas.
+BC
+Cowichan Watershed 
+Resiliency Program
+Cowichan Tribes 
+First Nation
+Project to improve watershed resilience by increasing 
+capacity to buffer drought and flooding. Focus areas 
+include sediment management and habitat rehabilitation.
+ON
+Natural infrastructure 
+enhancement and 
+restoration of the urban 
+forest in the York Region
+York Region
+Planting trees and adding natural features to improve 
+drainage capacity during heavy rainfall events.
+ON
+Repair, remediate, and 
+enhance resilience of 
+Toronto's tree canopy 
+and waterfront shoreline 
+structures to protect 
+against future flooding 
+and storm events
+Toronto and Region 
+Conservation 
+Authority (TRCA)
+Rehabilitating shoreline infrastructure, beaches, waterfront 
+parks, embankments, trails, and pathways. Improving the 
+resiliency and tree canopy cover.
+ON
+Toronto Region Ravine 
+Erosion Risk Management 
+and Hazard Mitigation 
+Project
+Toronto and Region 
+Conservation 
+Authority (TRCA)
+Management of erosion at 111 locations within the Region 
+of Peel, York Region, and the City of Toronto over the next 
+10 years.
+QC
+Rehabilitation of natural 
+shoreline threatened by 
+accelerated erosion in the 
+major waterfront parks on 
+the Island of Montreal, in 
+the province of Quebec
+City of Montreal
+Rehabilitating 10 km of shoreline using bioengineering 
+techniques that include vegetation. Aim to better manage 
+the impacts of erosion and protect shoreline communities 
+and ecosystems.
+The province with the most DMAF-funded projects to 
+manage river flood and erosion risk was Ontario (17 
+projects). Several projects were also funded in Quebec 
+(8 projects) and British Columbia (7 projects), with 
+other provinces receiving funding for 5 or fewer 
+projects. No river flood and erosion projects were 
+funded in Nova Scotia, Nunavut, Prince Edward Island, 
+or Yukon.
+Regarding the spatial scale of funding recipients, over 
+two-thirds of the projects were led by cities and towns. 
+Watershed-scale organizations only received funding 
+in Ontario, while Indigenous governments only 
+received funding in British Columbia. In Manitoba and 
+Newfoundland and Labrador, only the provinces 
+received DMAF funding. 
+3.3.2.5 Spatial Jurisdiction of Projects
+Based on project descriptions, each DMAF river flood 
+and erosion project was classified according to the 
+spatial jurisdiction of project implementation, using the 
+following classification:
+	• Province;
+	• Region;
+	• Watershed; and
+	• City / Town / Community.
+A breakdown of the number of DMAF projects funded 
+in each province / territory, according to the scale of 
+the project, is illustrated in Figure 6. No projects were 
+funded at the provincial scale.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+29
+csagroup.org
+Figure 5: DMAF River Flood and Erosion Projects Classified by Scale of Recipient Organization [104]
+Figure 6: DMAF River Flood and Erosion Projects Classified by Scale of Project [104]
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+30
+csagroup.org
+Over half the projects involved managing river flood and 
+erosion risk at the city / town / community scale, while 
+just over one-third of projects worked at the regional 
+scale, benefitting more than one community. In a 
+number of cases, this was a result of collaboration 
+between communities to develop some of the projects, 
+with one of the communities acting as the funding 
+recipient. A number of projects at the regional scale also 
+involved provincial-led works to improve the climate 
+resilience of public infrastructure (e.g., road corridors). 
+Only five projects aimed to reduce flood and erosion 
+risk working at a watershed-scale. These project were 
+in Alberta, British Columbia, Ontario, and Quebec. 
+3.3.2.6 Use of Nature-based Solutions 
+The 2018 DMAF application guide stated that the fund’s 
+key objective was “strengthening the resilience of 
+Canadian communities through investments in large-
+scale infrastructure projects, including natural 
+infrastructure projects” [105].
+Eligible investments for infrastructure projects under 
+the DMAF included [105]: 
+	• “New construction of public infrastructure including 
+natural infrastructure
+	• Modification and/or reinforcement including 
+rehabilitation and expansion of existing public 
+infrastructure including natural infrastructure
+	• Land acquisition costs for land to be used as 
+natural infrastructure.” 
+Merit criteria used to evaluate full applications also 
+promoted use of natural infrastructure in projects 
+proposed for DMAF funding:
+	• Criteria 4: Promote use of innovation - including 
+consideration of natural infrastructure, innovative 
+technologies and/or global best practices
+	• Criteria 10: Consideration of infrastructure solutions 
+that provide additional benefits to the community 
+such as cultural and environmental value.
+Funding allocation to NbS was not specifically tracked. 
+The titles and descriptions of the 45 river flood and 
+erosion projects were reviewed to identify projects that 
+implemented NbS. Six projects were identified as using 
+NbS. A further nine projects were identified as 
+incorporating NbS as part of the overall project works, 
+although a significant part of the works concerned 
+grey infrastructure (Figure 7).
+The projects using NbS to manage river flood and 
+erosion risk were led by a range of funding recipients, 
+including an Indigenous government, a region, a 
+Conservation Authority, and two cities (Table 5). Projects 
+including NbS as part of the proposed works were also 
+led by cites and one municipal district (Table 6).
+Figure 7: DMAF River Flood and Erosion Projects and NbS [104]
+3.3.3 Key Findings 
+Based on the analysis of projects funded under the 
+NDMP and DMAF programs, the following overall 
+conclusions can be drawn:
+	• Many federally funded flood and erosion risk 
+management projects were led by, and undertaken 
+within the jurisdiction of, single cities and towns. It 
+may not be possible to effectively use NbS to reduce 
+flood and erosion risk at the community scale (e.g., 
+interventions upstream may be excluded). Similarly, 
+potentially negative downstream impacts may not be 
+fully considered.
+Projects using Nbs 
+6 Projects
+13%
+Projects 
+including some 
+Nbs elements 
+9 Projects
+20%
+Projects not including Nbs 
+30 Projects
+67%
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+31
+csagroup.org
+	• While a significant number of funded projects 
+were undertaken by organizations working at a 
+watershed-scale, these organizations are located 
+only in Ontario and British Columbia. Conservation 
+Authorities have played a major role in Ontario 
+in securing federal funding for, and completing, 
+projects to understand and reduce flooding and 
+erosion. There has effectively been a positive 
+feedback loop in place. Additional funds to further 
+reduce flood and erosion risks have been secured 
+in the province that already has the most robust 
+approach to watershed management. The Fraser 
+Basin Council has undertaken a similar but less 
+pronounced role in British Columbia. The lack of 
+organizations undertaking a similar watershed-
+scale role has historically led to fewer applications 
+for federal funding being made in other provinces 
+and territories, and ultimately less work being 
+completed to reduce flood and erosion risk. 
+	• NbS accounted for a minority of projects 
+funded under the NDMP and DMAF (first 
+intake) programs. A greater number of projects 
+incorporating NbS were funded through the DMAF, 
+as the application process actively encouraged 
+natural infrastructure to be considered.
+	• Indigenous governments can play a role securing 
+funding for and leading watershed-scale approaches 
+employing NbS to reduce river flooding and erosion.
+Table 5: Details of Six DMAF River Flood and Erosion Projects Using NbS
+Prov.
+Project Name
+Organization
+Project Description 
+BC
+Mill Creek Flood Protection
+City of Kelowna 
+Project to increase creek capacity through rehabilitating 
+riverbanks, upgrading drainage, and providing additional 
+off-stream water storage areas.
+BC
+Cowichan Watershed 
+Resiliency Program
+Cowichan Tribes 
+First Nation
+Project to improve watershed resilience by increasing 
+capacity to buffer drought and flooding. Focus areas include 
+sediment management and habitat rehabilitation.
+ON
+Natural infrastructure 
+enhancement and 
+restoration of the urban 
+forest in the York Region
+York Region
+Planting trees and adding natural features to improve 
+drainage capacity during heavy rainfall events.
+ON
+Repair, remediate, and 
+enhance resilience of 
+Toronto's tree canopy 
+and waterfront shoreline 
+structures to protect 
+against future flooding and 
+storm events
+Toronto and Region 
+Conservation 
+Authority (TRCA)
+Rehabilitating shoreline infrastructure, beaches, waterfront 
+parks, embankments, trails, and pathways. Improving the 
+resiliency and tree canopy cover.
+ON
+Toronto Region Ravine 
+Erosion Risk Management 
+and Hazard Mitigation 
+Project
+Toronto and Region 
+Conservation 
+Authority (TRCA)
+Management of erosion at 111 locations within the Region 
+of Peel, York Region, and the City of Toronto over the next 
+10 years.
+QC
+Rehabilitation of natural 
+shoreline threatened by 
+accelerated erosion in the 
+major waterfront parks on 
+the Island of Montreal, in 
+the province of Quebec
+City of Montreal
+Rehabilitating 10 km of shoreline using bioengineering 
+techniques that include vegetation. Aim to better manage 
+the impacts of erosion and protect shoreline communities 
+and ecosystems.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+32
+csagroup.org
+Table 6: Details of Nine DMAF River Flood and Erosion Projects that Include NbS elements
+Prov.
+Project Name
+Organization
+Project Description 
+AB
+Bow Valley Mountain 
+Creeks Flood Mitigation
+Municipal District of 
+Bighorn No. 8
+Includes re-vegetation and bio-engineering work to 
+control erosion problems.
+BC
+Coastal flood protection 
+for the cities of Surrey and 
+Delta, and the Semiahmoo 
+First Nation
+City of Surrey
+Includes establishing a riverfront park on the Nicomekl 
+River with natural flood-attenuating features.
+BC
+Grand Forks and Regional 
+District of Kootenay 
+Boundary Flood Mitigation
+City of Grand Forks, 
+Includes re-establishing a natural floodplain in North 
+Ruckle and building new retention ponds in South Ruckle.
+NB
+Multiple Natural and 
+Structural Infrastructure 
+Projects to Adapt to Pluival 
+and Fluvial Flood Events in 
+Fredericton
+City of Fredericton 
+Includes works to create and expand wetland areas to 
+improve local resilience to flooding.
+NT
+Flood Hazard Mitigation for 
+the Yellowknife Region
+City of Yellowknife 
+Includes investing in natural infrastructure to reduce the 
+risk of flooding in the community.
+ON
+Implementing Vaughan 
+Stormwater Flood 
+Mitigation projects
+City of Vaughan
+Includes projects that will improve water quality, increase 
+floodplain storage, and create wetlands.
+ON
+Kitchener Stormwater 
+Network Adaptation
+City of Kitchener
+Includes work to redesign a natural channel to help 
+manage heavy rainfalls.
+QC
+Wabassee Creek 
+Watershed
+City of Gatineau 
+Includes work to rehabilitate three natural assets in the 
+Wabassee Creek watershed.
+QC
+Protection and resilience 
+increase against flooding 
+in Pierrefonds-Roxboro
+City of Montreal
+Includes work toward creating the largest urban park 
+in Canadian history, including wetland enhancement to 
+support ecosystems and improve local flood resilience.
+4 Good Practices and 
+Opportunities for Improvement
+NbS could play a greater role in managing river ﬂood 
+and erosion risk in Canada, while delivering multiple 
+benefits. However, a watershed approach is key to 
+facilitate both the identification and implementation 
+of these type of solutions. This section presents key 
+findings of focus groups to identify current good 
+practices, lessons learnt, opportunities, and 
+recommendations to better integrate NbS into 
+flood and erosion management at the watershed 
+scale in Canada.
+4.1 Towards a Watershed 
+Approach for NbS
+The first of the two focus groups “Towards a Watershed 
+Approach” was held on May 30, 2022. Key findings are 
+summarized below and additional details are included 
+in Appendix A.
+4.1.1 Perceptions of Watershed Management
+As highlighted through the literature review in section 
+3.2, approaches to watershed management vary 
+significantly across Canadian provinces. This is 
+also reflected in the stakeholder perceptions. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+33
+csagroup.org
+Figure 8 illustrates the scores out of 10 assigned by 25 
+stakeholders regarding their perception of watershed 
+management in their province. While personal 
+perceptions within the same province are different 
+and the number of viewpoints is limited, the results 
+still indicate perceived strengths in watershed 
+management in Ontario, Alberta, and Manitoba, and 
+relative weakness in British Columbia and Nova Scotia.
+4.1.2 Current Implementation of NbS 
+for Flood and Erosion Management
+There was clear consensus among stakeholders that 
+Conservation Authorities in Ontario are leading the way 
+in terms of both watershed management and the use of 
+NbS for flood and erosion risk management in Canada. 
+It was highlighted that, since Conservation Authorities 
+have responsibility for flood and erosion risk 
+management, as well as conservation/restoration and 
+environmental monitoring, they are well positioned to 
+integrate NbS into flood and erosion risk management. 
+The Toronto and Region Conservation Authority and 
+Credit Valley Conservation are particularly well-
+established and have developed best practice guidance 
+in many areas relating to NbS. Watershed organizations 
+in other provinces were also cited for their work with 
+NbS, including Fraser Basin Council (BC), Bow River 
+Basin Council (AB), and the PEI Watershed Alliance. 
+However, these organizations do not have the same 
+legislated mandate as Conservation Authorities.
+At the provincial scale, the establishment of the 
+Watershed Districts Program by the Government 
+of Manitoba was identified as supportive to the 
+implementation of NbS, although the transition from 
+municipal to watershed-based management is ongoing. 
+The importance of local government leadership was 
+underlined by several participants, both in terms of 
+managing flooding within a watershed context and in 
+implementing NbS. Examples cited included the City of 
+Calgary’s Riparian Strategy and Action Plan and work 
+to value natural assets, as well as the early integration 
+of “freedom space” for the Coaticook River into land 
+use planning by the MRC of Coaticook in Quebec.
+NGOs and consultants are also actively supporting 
+implementation of NbS on the ground. These actions are 
+not necessarily part of overall watershed strategies and 
+are being implemented to achieve multiple benefits, 
+including, but not limited to, reducing flood and erosion 
+risk. Examples cited by participants included: 
+Figure 8: Perceptions of Watershed Management in Canadian Provinces (excluding Newfoundland and Labrador)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+34
+csagroup.org
+“Many tools are used to compare and assess 
+river management options in Canada. There is 
+currently no standardized approach.”
+	• ALUS, working with landowners to implement NbS 
+on farmland; 
+	• MNAI, working with municipalities to inventory, value, 
+and effectively manage their existing natural assets;
+	• Ducks Unlimited, working to restore and enhance 
+wetlands in multiple provinces;
+	• WWF Canada, working to increase resiliency using 
+NbS in the Saint John Watershed; 
+	• NbS projects led by the Transcoastal Adaptations 
+Centre for Nature-based Solutions in Nova Scotia; 
+and
+	• Forests Ontario, working with landowners and 
+Conservation Authorities to strategically restore 
+forests at a landscape and watershed-scale.
+4.1.3 Lessons Learned Working at the 
+Watershed-Scale
+The following lessons learned provide a summary 
+of the outputs of small group discussions between 
+stakeholders.
+1.	 A coordinated, multi-stakeholder watershed 
+approach is best practice
+	
+Flood and erosion management is best approached 
+as part of integrated watershed management, which 
+considers many other inter-related watershed 
+functions and uses. Participants highlighted the 
+value of coordination, close working relationships, 
+and collaboration between watershed management 
+organizations and communities. This was perceived 
+as a key benefit of partnerships already established 
+between Conservation Authorities and municipalities. 
+It is particularly important because of the need to 
+consider natural river systems in flood and erosion 
+management. These natural river systems do not 
+follow jurisdictional boundaries. 
+2.	Supportive policy and legislative powers 
+facilitate good decisions
+	
+Strong land use planning or zoning rules help to 
+support use of NbS and management of at-risk 
+areas. It was perceived that, in many cases, the key 
+challenges are not technical understanding but 
+political support for appropriate long-term 
+management. For example, it is desirable to avoid 
+development in zones at flood and erosion risk but 
+these zones remain subject to development pressure. 
+The importance of creating alternative purposes or 
+uses for high-risk areas, using NbS, to lessen this 
+pressure was highlighted. NbS can also provide 
+benefits as part of solutions to retreat development 
+from high-risk areas. In either case, land rights were 
+identified as being able to influence land use and 
+activities that can be undertaken in high-risk areas.
+3.	Whole-life cost-benefit analysis supports 
+better decision making
+	
+It is important to demonstrate, compare, and 
+communicate the value of different NbS and 
+grey infrastructure solutions for flood and risk 
+management. Stakeholders are already implementing 
+triple-bottom line approaches to compare options. 
+Cost-benefit analysis can be used to demonstrate 
+where hard engineering options are not the best 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+35
+csagroup.org
+solution and where retreat from high-risk areas of 
+the floodplain is more beneficial overall. It was 
+also highlighted that NbS can reduce long-term 
+maintenance commitments, especially where 
+grey infrastructure is obsolete.
+4.	A solid technical understanding is required as 
+a basis for river flood and erosion management
+	
+Solid technical understanding is a prerequisite for 
+appropriate flood and erosion management. Technical 
+understanding of how NbS can be used to reduce 
+flood and erosion and the level of service achievable 
+was perceived as lacking. Appropriate data collection 
+is critical, including ongoing watershed monitoring 
+and project-based monitoring of NbS.
+5.	One size does not fit all in watershed management
+	
+Canadian watersheds are diverse in terms of their 
+spatial scale, key functions, and stakeholders. As 
+such, watershed management approaches need to 
+be flexible to enable regional application.
+6.	An adaptive approach is needed 
+	
+It is not possible to foresee all future drivers of 
+watershed management. Watershed approaches 
+need to be adaptive in the context of ongoing social, 
+economic, and environmental change.
+4.1.4 Recommendations to Better Integrate 
+NbS and Flood and Erosion Management at 
+a Watershed-Scale
+Extend Watershed Management to All Provinces
+There was consensus that a watershed management 
+approach, similar to that originally developed in Ontario, 
+should be applied to other provinces. Federal and 
+provincial governments should develop and fund a 
+nationally consistent watershed planning framework 
+that has agreed minimum requirements and is flexible 
+enough to address local watershed needs. A national 
+approach should build on established guidance and 
+best practices, particularly from Ontario (e.g., Provincial 
+Policy Statement, Natural Heritage Reference Manual). 
+The Canadian Water Agency was suggested as a 
+potential vehicle for watershed-based governance [106]. 
+This approach provides opportunities to engage with 
+Indigenous communities and governments who are 
+already working with NbS. The National Adaptation 
+Strategy [107] was mentioned as another initiative that 
+would benefit from watershed management, with a 
+need to also manage future drought conditions. 
+Consultation in British Columbia on a Watershed 
+Security Strategy and Fund was seen as a potential 
+catalyst in that province. 
+Develop Flood and Erosion Risk Management 
+Strategies for Watersheds on a Prioritized Basis
+It was recommended that flood risk management 
+strategies be developed for all watersheds, starting 
+with those most at-risk. These strategies should involve 
+coordination between all levels of government to 
+prioritize strategic action based on risk.
+Standardize Valuation and Management of 
+Natural Assets 
+It was recommended that standards and guidelines are 
+prepared to support valuing of ecosystem services 
+provided by NbS and existing natural assets. This is 
+needed to compare NbS to traditional solutions and to 
+demonstrate and communicate benefits to watershed 
+users. This can build on existing standard development 
+for natural asset inventory. Such standards would also 
+be useful in identifying appropriate compensation or 
+incentives for “non-use”, prescribed beneficial uses of 
+land, or opportunities that could be realized as part of 
+managed retreat.
+Require Consideration of NbS as the Default Solution
+Protocols or funding procedures should be updated to 
+promote consideration of NbS as the default solution, 
+with grey solutions being compared and applied where 
+technically required or more beneficial. 
+Provide Additional Incentives for NbS on 
+Private Lands
+It was recommended that additional incentives be 
+developed to increase use of NbS or protection of 
+existing natural assets on private lands. This may 
+include tax incentives, project financing conditions, 
+or green loans. 
+Facilitate Sharing of Data and Best Practices
+Networks are required to facilitate communication and 
+data sharing between communities within a watershed, 
+between watersheds, and between provinces. There is 
+currently limited exchange between watershed 
+organizations in different provinces.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+36
+csagroup.org
+4.2 Including NbS Benefits 
+in Options Appraisal
+The benefits of NbS are currently not adequately 
+addressed in options appraisal approaches in Canada. 
+The second of the two focus groups, “Including NbS 
+Benefits in Options Appraisal,” was held on June 14, 
+2022. Key findings are summarized below and 
+additional details are included in Appendix A.
+4.2.1 Current Options Appraisal Approaches 
+and Tools 
+Many tools are used to compare and assess river 
+management options in Canada. There is currently 
+no standardized approach, with common approaches 
+including:
+	• Multi-criteria analysis (largely qualitative 
+assessment);
+	• Evaluation against specific performance objectives;
+	• Return on investment (often based on avoiding 
+damages); and
+	• Cost-benefit analysis (largely quantitative 
+assessment of tangible and intangible benefits/
+costs).
+Approaches are usually tailored to the specific project 
+objectives, and approaches may be combined to 
+capture and evaluate different outcomes. 
+Canadian-specific federal or provincial protocols used 
+to appraise river flood and erosion management 
+options include:
+	• Application of Infrastructure Canada’s Climate Lens 
+(includes Greenhouse Gas Mitigation Assessment 
+and Climate Change Resilience Assessment) [108];
+	• Evaluation against Disaster Mitigation and 
+Adaptation Fund application criteria [109]; and
+	• Legally required Environment Impact Assessment 
+procedures (vary by province and territory). 
+Tools to support options appraisal have also been 
+developed by other Canadian organizations. Cited 
+examples are briefly profiled below.
+Sustainable Asset Valuation (SAVi) 
+SAVi is an assessment methodology that aims to 
+help governments and investors steer capital toward 
+sustainable infrastructure [110]. The International 
+Institute for Sustainable Development (IISD) and 
+MAVA Foundation built SAVi to identify and value the 
+costs of risks, as well as the costs of externalities, of 
+infrastructure projects, portfolios, and policies. SAVi is 
+a simulation methodology that combines the outputs 
+of systems dynamics simulation with project finance 
+modelling. It is customized to each asset, portfolio, or 
+policy, and it can be specifically tailored for nature-
+based infrastructure [111]. In Canada, the tool has 
+been used to estimate the value of ecosystem and 
+infrastructure services provided by Pelly’s Lake and 
+Stephenfield Reservoir in Manitoba and to assess the 
+required costs of providing these services with built or 
+updated infrastructure [112]. The tool is not available for 
+use by organizations themselves; rather the IISD team 
+seeks to work with partners to customize the tool to 
+each case [113].
+Class Environmental Assessment for Remedial 
+Flood and Erosion Control Projects
+Environment Assessment in Ontario includes several 
+approved Class Environmental Assessments (Class 
+EAs) that set out a standardized planning process for 
+classes or groups of activities [114]. A Class EA for 
+Remedial Flood and Erosion Control Projects was 
+developed by Ontario’s Conservation Authorities and 
+coordinated by Conservation Ontario. The Class EA sets 
+out a planning and design process that ensures that 
+environmental effects are considered when undertaking 
+remedial flood and erosion control projects [115]. The 
+Class EA documents requirements relating to option 
+appraisal, including identifying alternative methods, 
+selecting a preferred alternative, and determining the 
+net impacts of the preferred alternative.
+Risk and Return on Investment Tool (RROIT) 
+The RROIT was developed by Credit Valley 
+Conservation and partners to support decision makers 
+in selecting cost-effective measures to reduce flood 
+and erosion risks [116], The tool can be used to:
+	• “Quantify potential direct and indirect damages in 
+dollars from flooding and erosion under different 
+climate scenarios.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+37
+csagroup.org
+	• Compare the effectiveness of different stormwater 
+management solutions, including natural assets, land 
+acquisition in the floodplain, low impact development, 
+and grey infrastructure.
+	• Perform financial assessments of the return on 
+investment for each solution (and combinations) to 
+help make cost-effective decisions and reduce risk.”
+The tool is not yet available for use by organizations 
+themselves but those interested in using it are invited 
+to reach out to Credit Valley Conservation for further 
+details [116].
+4.2.2 Accounting for NbS Benefits in 
+Options Appraisal
+NbS can deliver multiple benefits that are not typically 
+provided by hard “grey” protection measures [117, 118]. 
+Such benefits are often referred to as “ecosystem 
+goods and services” that provide benefits to people. 
+These goods and services often do not have a direct 
+monetary market value and are therefore more difficult 
+to integrate into options appraisal in financial terms.
+Feedback from participants suggest that NbS are 
+being considered as options for flood and erosion 
+management but not routinely or in a way that enables 
+all of the benefits to be evaluated. Flood and erosion 
+control benefits are typically quantified by calculating 
+the cost of damages avoided over time. Other 
+ecosystem goods and services are often, but not always, 
+considered in the appraisal of river flood and erosion 
+management options. When ecosystem goods and 
+services are considered, qualitative or semi-quantitative 
+methods, including ranking and scoring, are often used, 
+with some stakeholders undertaking economic valuation.
+For example, the DMAF 2021 application process 
+requires applicants to calculate economic benefits as a 
+Return on Investment (ROI), based on a ratio between 
+avoided damages and the cost of the project. Project 
+co-benefits, including greenhouse gas reduction and 
+ecosystem services, do not factor into the ROI 
+calculation and are to be described qualitatively 
+under a separate merit criterion [109].
+However, ecosystem services, such as water quality, 
+carbon sequestration and storage, and biodiversity and 
+habitats may also be quantifiable in terms of both 
+predicted changes and their monetary value. Both 
+quantitative and qualitative approaches may be used to 
+appraise impacts as part of option appraisal (Table 7). 
+Economic valuation of NbS solutions can employ a 
+variety of methods, including estimation of costs to 
+replace the service using a grey infrastructure solution, 
+revealed preference, and statement preference methods 
+[118]. Benefit transfer methods that are less resource 
+and time intensive may also be used where “broad 
+brush” analysis is sufficient. Semi-quantitative or 
+qualitative approaches may be suitable to reflect cultural 
+ecosystem services perceived to be less robustly 
+quantifiable, such as recreation or aesthetics. Methods 
+to assess or quantify changes in ecosystem service 
+provision may also be useful as part of performance 
+monitoring once a solution has been implemented.
+Increasingly, modelling tools are available to help 
+evaluate changes in ecosystem goods and services 
+that may be associated with coastal management 
+options. The Integrated Valuation of Ecosystem 
+Services and Tradeoffs (InVEST) tool, developed by the 
+Natural Capital Project, is a suite of open-source tools 
+that helps users explore how changes in ecosystems 
+may lead to changes in benefits to people [119]. Several 
+modules are available, including urban flood risk 
+mitigation, sediment retention, urban stormwater 
+retention, habitat quality, and carbon [120]. 
+A key issue identified during the focus group was the 
+need to appraise strategic approaches to flood and 
+erosion risk management at the watershed-scale in 
+order to guide more local level interventions on the 
+ground. This is an approach similar to Catchment 
+Flood Management Planning undertaken in the United 
+Kingdom [121]. Options appraisal on a project-specific 
+basis can otherwise often overlook the incremental 
+benefits (or adverse impacts) of multiple actions / 
+interventions within a watershed. 
+4.2.3 Support for Standardization of Option 
+Appraisal
+As part of the June 14, 2022 focus group, participants 
+were asked if they would welcome development of a 
+standardized option appraisal protocol for flood and 
+erosion management projects to include the benefits / 
+costs associated with ecosystem goods and services. 
+The majority of participants replied “yes”. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+38
+csagroup.org
+ 
+Table 7: Examples of Methods, Indicators, and Lessons Learned in Assessing Changes in Ecosystem Goods and Services
+Impact
+Methods, Indicators, and Values Used
+Lessons Learned
+Water quality
+•	Use of bespoke software (InVEST)
+•	Change in, or replacement value of, water 
+treatment costs
+•	Change in water quality indicators (applying 
+established standards)
+•	Visual indicators of water quality (turbidity, 
+algal blooms) that may be obtained using earth 
+observation techniques
+•	Established standard protocols are available
+•	Can be difficult to address variability over 
+space and time 
+Carbon 
+sequestration 
+and storage
+•	Use of bespoke software (InVEST)
+•	Social value of carbon 
+•	Change in soils and vegetation and impact on 
+carbon flux and storage
+•	Calculation of embedded carbon in “grey” 
+infrastructure protection measures 
+•	No standardized method available
+•	Time lag in carbon sequestration needs to 
+be accounted for
+•	Calculations should be based on local data 
+Biodiversity and 
+habitats
+•	Use of bespoke software (InVEST, iTree)
+•	Use of traditional ecological knowledge / 
+participative mapping to obtain baseline 
+•	Change in species diversity / species at risk / 
+invasive species
+•	Change in land use area of different habitats 
+(using GIS)
+•	Different tools may be suited to different 
+habitats 
+•	High-resolution mapping can be obtained 
+using drones
+•	The value of habitat connectivity is difficult 
+to capture
+Many of those who replied “not sure” indicated in more 
+detailed comments that they were open to 
+standardization as long as there was appropriate 
+consultation in developing the standard and flexibility 
+in applying methods suited to the local context. 
+5 Conclusions and 
+Recommendations
+5.1 Three Key Conclusions
+Drawing together the findings of the research and 
+stakeholder engagement undertaken through this 
+project, the following three key conclusions can 
+be drawn:
+1.	
+Canada already has good practice approaches 
+for watershed management that support 
+implementation of NbS for flood and erosion 
+risk management. These approaches 
+need to be strengthened and supported in 
+Ontario and extended to other provinces.
+2.	 Funding for river flood and erosion risk 
+management needs to be directed to 
+watershed-scale strategies that address 
+prioritized high-risk areas or projects that 
+have been identified by such strategies. This 
+approach would support meaningful appraisal 
+and implementation of measures (including 
+NbS) that address underlying causes of flooding 
+and erosion while achieving multiple benefits.
+3.	 NbS need to be considered for river flood 
+and erosion management with the same 
+rigour as grey infrastructure solutions. This 
+includes routine appraisal of NbS alongside 
+a full range of grey infrastructure solutions.
+5.2 Recommended Actions for 
+Governments
+Federal, provincial, watershed-scale, and local 
+governments (including municipal and Indigenous 
+governments) all have roles to play in implementing 
+the above recommendations. In particular, provincial 
+governments play a key role, since they have 
+jurisdictional responsibility for implementing flood 
+and erosion risk management. 
+The actions that different levels of government can 
+take in using NbS to reduce flood and erosion risk 
+are outlined in Table 8.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+39
+csagroup.org
+Table 8: Roles of Governments in Using NbS for Flood and Erosion Risk Management at the Watershed Scale 
+Government
+Recommended Actions
+Federal 
+government
+Support and work with provincial governments to develop guidance for, and help fund, a nationally 
+consistent watershed planning framework that includes agreed-upon minimum requirements for 
+flood and erosion risk management at the watershed scale. This could be progressed through the 
+Canadian Water Agency or through work to achieve targets set by the National Adaptation Strategy 
+(although the strategy itself does not explicitly include watershed-scale management, several of the 
+objectives and targets would benefit from this approach). 
+Work with provincial governments to identify priority watersheds (high-risk areas or 
+vulnerable communities) for which flood and erosion management strategies are required 
+to be completed first (if they have not been completed already).
+Update existing federal funding programs (e.g., DMAF, Natural Infrastructure Fund) or create 
+new funding programs to a) direct funds to projects that address flood and erosion risk at the 
+sub-watershed / watershed-scale and b) require routine consideration of NbS as the default 
+solution, to be combined with grey infrastructure where necessary.
+Support development and use of national guidelines and standards to support use of NbS 
+for flood and erosion management (see Section 5.3 for discussion of specific standards).
+Provincial 
+governments 
+Strengthen provincial legislation and policy to support watershed-scale approaches to manage 
+flood and erosion risk, including the use of NbS. 
+Work with the federal government to develop guidance for, and help fund, a nationally consistent 
+watershed planning framework that includes agreed-upon minimum requirements for flood and 
+erosion risk management at the watershed scale. Provincial governments have a key role to play 
+as watershed management (apart from international watersheds) is a provincial jurisdiction.
+Work with federal government to identify priority watersheds (high-risk areas or vulnerable 
+communities) for which flood and erosion management strategies are required to be completed 
+first (if they have not been completed already).
+Develop flood and erosion risk management strategies at the watershed / sub-watershed scale 
+for prioritized high-risk areas. Update provincial funding programs to a) direct funds to projects 
+that address flood and erosion risk at the sub-watershed / watershed-scale and b) require routine 
+consideration of NbS as the default solution, to be combined with grey infrastructure where 
+necessary.
+Watershed 
+governance 
+organizations
+Work to include the use of NbS for flood and erosion risk management as a watershed 
+management objective. Ensure that the flood and erosion risk reduction benefits of NbS are 
+documented, even when this is not the primary objective of the solution.
+Continue to use NbS for flood and erosion management as a default solution where appropriate. 
+Work with local community groups, businesses, and governments to publicize the multiple benefits 
+delivered. 
+Work to inventory, value, and manage the services provided by natural assets within the watershed, 
+including flood and erosion protection. Continue to protect existing natural assets and prioritize 
+restoration efforts in areas with the highest potential benefit.
+Continue to provide technical support to local governments with flood and erosion risk 
+management and planning / implementation of NbS projects. 
+Communicate the value of natural assets and the role of NbS in flood and erosion protection 
+to residents. 
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+40
+csagroup.org
+Government
+Recommended Actions
+Local governments 
+(including municipal 
+and Indigenous 
+governments)
+Work with watershed organizations to help identify, plan, and implement NbS for flood and erosion 
+risk management.
+In the absence of a watershed governance organization, work with other local governments to help 
+identify, plan, and implement NbS for strategic flood and erosion risk management at a watershed / 
+sub-watershed scale.
+Consider NbS as the default solution for flood and erosion risk management, to be combined with 
+grey infrastructure where necessary.
+Work to inventory, value, and manage the services provided by natural assets, within both the local 
+government jurisdiction and upstream watershed, including flood and erosion protection.
+Communicate the value of natural assets and the role of NbS in flood and erosion protection to residents.
+Work with private land owners / farmers who can contribute to nature-based solutions.
+5.3 Recommendations for Guidance and Standardization
+Potential opportunities for further national guidance and standardization that have been identified as part of this 
+research project are outlined in Table 9, together with specific considerations and recommendations drawn from 
+this research project.
+Table 9: Potential New National Guidance and Standards
+Potential National Guidance / Standard
+Considerations and Recommendations
+Minimum framework for watershed 
+management planning
+•	Opportunity to build on Canadian provinces and international jurisdictions that 
+already have standardized watershed management planning.
+•	To include, but not be limited to, flood and erosion risk management.
+•	Requires buy-in from provincial governments to be useful; potential role for the 
+Canadian Water Agency.
+Standard for strategic appraisal 
+of river flood and erosion risk 
+management options
+•	Standard would be applicable at a watershed- / sub-watershed-scale.
+•	Opportunity to build from Canadian provinces and international jurisdictions 
+that already have standardized strategic flood and erosion risk management.
+•	Opportunity to build on the CSA W211:21 Management standard for stormwater 
+systems [122].
+•	Recommended to include NbS as the default solution, to be combined with grey 
+infrastructure where necessary.
+Standards to support the 
+identification, valuation, and 
+management of services provided 
+by natural assets
+•	First standard on “Specifications for Natural Asset Inventories,” CSA W218 under 
+development [123].
+•	Additional standard needs may include a) condition assessment, b) valuation, 
+c) risk, and d) integration in asset management planning.
+•	Standards relating to valuation require integration with the work of the Canadian 
+Public Sector Accounting Board to enable financial value to be reported in financial 
+statements.
+•	Standards could inform standardized project option appraisal and be used by 
+various levels of government.
+•	Opportunity to tie to targets recently agreed-upon under the Global Biodiversity 
+Framework.
+Standard option appraisal protocol 
+for flood and erosion management 
+projects
+•	Standard would specifically integrate the financial value of benefits and costs 
+associated with NbS and consider the watershed context.
+•	Opportunity to build on existing methods and international jurisdictions that 
+already have standardized option appraisal protocols.
+•	Would be useful to several funding programs to ensure allocation of funds to 
+achieve maximum benefits (including, but not limited to, flood and erosion risk 
+management benefits).
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+41
+csagroup.org
+References
+[1]	
+Convention on Biological Diversity, “Kunming-Montreal Global biodiversity framework - Draft decision 
+submitted by the President,” United National Environment Program, CBD/COP/15/L.25, 18 December 2022. 
+[Online]. Available: https://www.cbd.int/doc/c/e6d3/cd1d/daf663719a03902a9b116c34/cop-15-l-25-en.pdf 
+(accessed Oct. 24, 2022).
+[2]	
+Public Safety Canada. “Floods,” publicsafety.gc.ca. https://www.publicsafety.gc.ca/cnt/mrgnc-mngmnt/
+ntrl-hzrds/fld-en.aspx (accessed Oct. 24, 2022).
+[3]	
+E. Bush and D. Lemmen, Eds., “Canada’s Changing Climate Report,” Government of Canada, 2019. [Online]. 
+Available: https://changingclimate.ca/site/assets/uploads/sites/2/2020/06/CCCR_FULLREPORT-EN-
+FINAL.pdf (accessed Oct. 24, 2022)
+[4]	
+International Union for Conservation of Nature, “IUCN Global Standard for Nature-based Solutions: a user-
+friendly framework for the verification, design and scaling up of NbS: first edition,” 2020, [Online]. Available: 
+https://portals.iucn.org/library/node/49070 (accessed Oct. 24, 2022)
+[5]	
+I. Vouk et al., “Nature-Based Solutions for Coastal and Riverine Flood and Erosion Risk Management,” 
+CSA Group, Oct. 2021. [Online]. Available: https://www.csagroup.org/wp-content/uploads/CSA-Group-
+Research-Nature-Based-Solutions-for-Coastal-and-Riverine-Flood-and-Erosion-Risk-Management.pdf 
+(accessed Oct. 24, 2022)
+[6]	
+Environment and Climate Change Canada, “Government of Canada Adaptation Action Plan.” Government 
+of Canada, 2022. [Online]. Available: https://www.canada.ca/en/services/environment/weather/
+climatechange/climate-plan/national-adaptation-strategy/full-strategy.html#toc11 (accessed Oct. 24, 2022)
+[7]	
+Government of Canada, “Drainage Basins,” opendata.canada.ca.
+https://open.canada.ca/data/en/dataset/dc475fb0-8893-11e0-9ab7-6cf049291510
+[8]	
+T.S. Bridges et al., “Use of Natural and Nature-Based Features (NNBF) for Coastal Resilience,” U.S Army 
+Corps of Engineers, Engineer Research and Development Center, Jan. 2015. [Online]. Available: https://usace.
+contentdm.oclc.org/digital/collection/p266--1coll1/id/3442/ (accessed Oct. 24, 2022)
+[9]	
+Municipal Natural Assets Initiative (MNAI), Companion Guide to the Engineering and Geoscientists BC 
+Professional Practice Guidelines – Local Government Assets Management,” Jul. 2021. [Online]. Available: 
+https://mnai.ca/media/2022/03/MNAI-EGBC-companion-guide-mar2021-105.pdf (accessed Oct. 24, 2022)
+[10]	
+J.L. Eyquem, “Rising Seas and Shifting Sands: Combining Natural and Grey Infrastructure to Protect Canada's 
+Coastal Communities." Intact Centre on Climate Adaptation, University of Waterloo, Dec. 2021. [Online]. 
+Available: https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2021/12/UoW_ICCA_2021_12_
+Coastal_Protection_Grey_NbS.pdf (accessed Oct. 24, 2022)
+[11]	
+Statistics Canada, “Standard Drainage Area Classification (SDAC) 2003,” statcan.gc.ca. https://statcan.gc.ca/
+en/subjects/standard/sdac/sdac (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+42
+csagroup.org
+[12]	
+Government of Canada, “Watershed Boundaries,” nrcan.gc.ca. https://www.nrcan.gc.ca/science-and-data/
+science-and-research/earth-sciences/geography/topographic-information/geobase-surface-water-
+program-geeau/watershed-boundaries/20973 (accessed Oct. 24, 2022)
+[13]	
+ClimateData.ca, “Analyze Climate Data,” climatedata.ca https://climatedata.ca/analyze/ (accessed Oct. 21 2022).
+[14]	
+Canadian Council of Ministers of the Environment (CCME), “Summary of Integrated Watershed Management 
+Approaches Across Canada,” PN 1559, IBN 978-1-77202-034-2, 2016. [Online]. Available: https://ccme.ca/en/
+res/summaryofintegratedwatershedmanagement approahcesacrosscanada.pdf (accessed Oct. 24, 2022)
+[15]	
+Government of British Columbia, “Community Watershed,” gov.bc.ca. https://www2.gov.bc.ca/gov/content/
+environment/air-land-water/water/water-quality/community-watersheds (accessed Oct. 24, 2022)
+[16]	
+Fraser Basin Council, “FBC Today,” fraserbasin.bc.ca. https://www.fraserbasin.bc.ca/about_fbc_today.html 
+(accessed Oct. 24, 2022)
+[17]	
+Mackenzie River Basin Board, “Mackenzie River Basin Transboundary Waters Master Agreement,” mrbb.ca. 
+https://www.mrbb.ca/about-us/what-we-do/mackenzie-river-basin-transboundary-waters-master-
+agreement (accessed Oct. 24, 2022)
+[18]	
+Mackenzie River Basin Board, “About the River Basin,” mrbb.ca. https://www.mrbb.ca/about-us (accessed 
+Oct. 24, 2022)
+[19]	
+B.C. Ministry of Water, Land and Air Protection, “Flood Hazard Area Land Use Management Guidelines,” 
+Province of British Columbia, May 2004, Amended by B.C. Ministry of Forests, Lands, Natural Resource 
+Operations and Rural Development, Jan. 2018. [Online]. Available: https://www2.gov.bc.ca/assets/gov/
+environment/air-land-water/water/integrated-flood-hazard-mgmt/flood_hazard_area_land_use_
+guidelines_2017.pdf (accessed Oct. 24, 2022)
+[20]	 Government of British Columbia, “Flood Hazard Land Use Management,” gov.bc.ca. https://www2.gov.bc.ca/
+gov/content/environment/air-land-water/water/drought-flooding-dikes-dams/integrated-flood-hazard-
+management/flood-hazard-land-use-management (accessed Oct. 24, 2022)
+[21]	
+B. Feltmate et al., “Climate Change and the Preparedness of Canadian Provinces and Territories to Limit 
+Flood Risk,” Intact Centre on Climate Adaptation, University of Waterloo, Aug. 2020. [Online]. Available: 
+https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2020/11/Provincial-Territory-Flood-
+Report.pdf (accessed Oct. 24, 2022)
+[22]	 Insurance Bureau of Canada, “British Columbia floods cause $450 million in insured damage,” ibc.ca. http://
+www.ibc.ca/bc/resources/media-centre/media-releases/british-columbia-floods-cause-450-million-in-
+insured-damage. (accessed Oct. 24, 2022)
+[23]	 S. Safaie, S. Johnstone, and N.L. Hastings, Eds., “Resilient pathways report: co-creating new knowledge 
+for understanding risk and resilience in British Columbia,” Geological Survey of Canada, Open File 8910, 
+Sep. 2022 [Online]. Available: https://doi.org/10.4095/330521 (accessed Oct. 24, 2022)
+[24]	 B.C. Ministry of Environment and Climate Change Strategy, “Watershed Security Strategy and Fund: Discussion 
+Paper,” Government of British Columbia, Jan. 2022. [Online]. Available: https://engage.gov.bc.ca/app/uploads/
+sites/722/2022/01/Watershed-Security-Strategy-Discussion-Paper_04.pdf (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+43
+csagroup.org
+[25]	 Government of British Columbia, “Watershed Security,” engage.gov.bc.ca. https://engage.gov.bc.ca/
+watershedsecurity (accessed Oct. 24, 2022)
+[26]	 Government of British Columbia, “From Flood Risk to Resilience in B.C.: An Intentions Paper,” Government 
+of British Columbia, October 2022. [Online]. Available: https://engage.gov.bc.ca/app/uploads/
+sites/797/2022/10/From-Flood-Risk-to-Resilience-in-B.C.pdf (accessed Oct. 24, 2022)
+[27]	 Government of Alberta, “Water for Life: Alberta’s Strategy for Sustainability,” Alberta Environment, ISBN No. 
+0-7785-3058-2, Nov. 2003. [Online]. Available: https://open.alberta.ca/dataset/77189444-7456-47f7-944c-
+085272b1a79c/resource/17c41dc3-1692-4cf9-b931-2892c57a62b1/download/2003-water-life-albertas-
+strategy-sustainability-november-2003.pdf (accessed Oct. 24, 2022)
+[28]	 Government of Alberta, “water for life: a renewal,” Alberta Environment, ISBN 978-0-7785-7670-9, 
+Nov. 2008. [Online]. Available: https://open.alberta.ca/dataset/16e373f7-35c6-438c-8028-b9ab7e3e2fee/
+resource/bd7930bf-da3b-449a-8630-ef0b11dde99e/download/waterforlife-renewal-nov2008.pdf (accessed 
+Oct. 24, 2022)
+[29]	 Government of Alberta, “Watershed management – Overview,” alberta.ca. https://www.alberta.ca/
+watershed-management-overview.aspx (accessed Oct. 24, 2022)
+[30]	 Alberta Water Council, “Albertans working together to advance water management priorities,” awchome.ca. 
+https://www.awchome.ca/ (accessed Oct. 24, 2022)
+[31]	
+Land Stewardship Centre, “Watershed Stewardship Grants,” landstewardship.org. https://www.
+landstewardship.org/enable/programs/watershed-stewardship-grants (accessed Oct. 24, 2022)
+[32]	 Government of Alberta, “Watershed Planning and Advisory Councils,” alberta.ca. https://www.alberta.ca/
+watershed-planning-and-advisory-councils.aspx (accessed Oct. 24, 2022)
+[33]	 Alberta Environment, “Handbook for state of the watershed reporting: a guide for developing state 
+of the watershed reports in Alberta,” Nov. 2008. [Online]. Available: https://open.alberta.ca/
+publications/9780778576686 (accessed Oct. 24, 2022)
+[34]	 Government of Alberta, “Guide to Watershed Management Planning in Alberta,” Jan. 2018. [Online]. Available: 
+https://open.alberta.ca/dataset/5a8bc71a-e08a-476e-abb3-f7454597797b/resource/97053643-777e-407e-
+800c-79e2a5975dfd/download/guidewatershedmanagementplanning-2015.pdf (accessed Oct. 24, 2022)
+[35]	 O2 Planning + Design Inc. “DRAFT Background Technical Report: Surface Water Quantity and Groundwater 
+Resources, Prepared for the Red Deer River Integrated Watershed Management Plan,” Red Deer River 
+Watershed Alliance, Sep. 2013. [Online]. Available: https://rdrwa.ca/wp-content/uploads/2020/09/O2_
+RDRWA_BT3_GW_SW_20130913.pdf (accessed Oct. 24, 2022)
+[36]	 Government of Alberta, “Flood mitigation - How government is reducing the risk of flooding and reducing 
+potential damage that could result from a flood,” alberta.ca. https://www.alberta.ca/flood-mitigation.aspx 
+(accessed Oct. 24, 2022)
+[37]	 Government of Alberta, “Flood mitigation studies - Engineering studies on flood mitigation options for 
+Alberta's most flood-prone river basins,” alberta.ca. https://www.alberta.ca/flood-mitigation-studies.aspx 
+(accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+44
+csagroup.org
+[38]	 Government of Alberta, “Springbank Off-stream Reservoir,” alberta.ca. https://www.alberta.ca/springbank-
+off-stream-reservoir.aspx (accessed Oct. 24, 2022)
+[39]	 Government of Alberta, “Bow River Basin – TransAlta operations,” alberta.ca. https://www.alberta.ca/bow-
+river-basin-transalta-operations.aspx (accessed Oct. 24, 2022)
+[40]	 Government of Alberta, “Watershed Resiliency and Restoration Program,” alberta.ca. https://www.alberta.ca/
+watershed-resiliency-and-restoration-program.aspx (accessed Oct. 24, 2022)
+[41]	
+Saskatchewan Association of Watersheds, “Members,” saskwatersheds.ca. https://saskwatersheds.ca/
+members/ (accessed Oct. 24, 2022)
+[42]	 Water Security Agency, “25 Year Saskatchewan Water Security Plan: Report for 2020-21,” 2021. [Online]. 
+Available: https://www.wsask.ca/wp-content/uploads/2021/09/25-Year-Saskatchewan-Water-Security-Plan-
+Report-for-2020-21_FINAL.pdf (accessed Oct. 24, 2022)
+[43]	 Water Security Agency, “Strategic Plan,” wsask.ca. https://www.wsask.ca/about/publications/strategicplan/ 
+(accessed Oct. 24, 2022)
+[44]	 Water Security Agency, “Flood Damage Reduction Program,” wsask.ca. https://www.wsask.ca/water-
+programs/flood-damage-prevention/ (accessed Oct. 24, 2022)
+[45]	 V. Wittrock et al., “Saskatchewan Flood and Natural Hazard Risk Assessment,” Prepared for Saskatchewan 
+Ministry of Government Relations, Saskatchewan Research Council, SRC Publication No. 14113-2E18, Dec. 
+2018. [Online]. Available: https://www.src.sk.ca/blog/saskatchewan-flood-and-natural-hazard-risk-
+assessment (accessed Oct. 24, 2022)
+[46]	 Government of Manitoba, “Manitoba's Watershed Districts,” manitoba.ca. https://www.manitoba.ca/sd/
+water/watershed/wd/index.html (accessed Oct. 24, 2022)
+[47]	 Government of Manitoba, “Watershed, Aquifer and Basin Planning,” manitoba.ca. https://www.manitoba.ca/
+water/watershed/cd/index.html (accessed Oct. 24, 2022)
+[48]	 Manitoba Association of Watersheds, “About the Manitoba Association of Watersheds,” manitobawatersheds.
+org. https://manitobawatersheds.org/history (accessed Oct. 24, 2022)
+[49]	 Government of Manitoba, “GRowing Outcomes in Watersheds (GROW),” manitoba.ca. https://www.gov.mb.
+ca/sd/water/watershed/grow/index.html (accessed Oct. 24, 2022)
+[50]	 Government of Manitoba, “Financial Assistance - Ag Action Manitoba Program - Assurance: Watershed 
+Ecological Goods and Services,” gov.mb.ca https://www.gov.mb.ca/agriculture/environment/ecological-
+goods-and-services/watershed-egs.html (accessed Oct. 24, 2022)
+[51]	
+International Institute for Sustainable Development, “The Value of Water Retention Beneficial Management 
+Practices to Farmers and Landowners in the Seine Rat Roseau Watershed District,” International Institute for 
+Sustainable Development, November, 2022. [Online]. Available: https://www.iisd.org/system/files/2022-12/
+water-retention-practices-seine-rat-roseau-watershed-district.pdf (accessed Oct. 24, 2022)
+[52]	 Government of Manitoba, “Transportation and Infrastructure> Water Management and Structures> Public 
+Information on Current Projects and Initiatives,” gov.mb.ca. https://www.gov.mb.ca/mit/wms/projects/index.
+html (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+45
+csagroup.org
+[53]	 Government of Manitoba, “Assiniboine River and Lake Manitoba Basins Flood Mitigation Study,” gov.mb.ca. 
+https://www.gov.mb.ca/mit/wms/wm/study.html (accessed Oct. 24, 2022)
+[54]	 Conservation Ontario, “About Conservation Ontario,” conservationontario.ca. https://conservationontario.ca/
+about-us/conservation-ontario (accessed Oct. 24, 2022)
+[55]	 Government of Ontario, “Conservation Authorities Act,” R.S.O. 1990, chapter C.27. [Online]. Available: https://
+www.ontario.ca/laws/statute/90c27#BK29 
+[56]	 Government of Ontario, “O. Reg. 686/21, MANDATORY PROGRAMS AND SERVICES under Conservation 
+Authorities Act,” R.S.O. 1990, c. C.27. [Online]. Available: https://www.ontario.ca/laws/regulation/210686 
+(accessed Oct. 24, 2022)
+[57]	 Ministry of the Environment, Conservation and Parks, “Subwatershed Planning Guide – Draft,” Government of 
+Ontario, Jan. 2022. [Online]. Available: https://ero.ontario.ca/notice/019-4978 (accessed Oct. 24, 2022)
+[58]	 Office of the Parliamentary Budget Officer, “Estimate of the Average Annual Cost for Disaster Financial 
+Assistance Arrangements due to Weather Events,” Ottawa, Feb. 2016. [Online]. Available: https://qsarchive-
+archiveqs.pbo-dpb.ca/web/default/files/Documents/Reports/2016/DFAA/DFAA_EN.pdf (accessed 
+Oct. 24, 2022)
+[59]	 D. W. Brown, et al., “A Comparison of Flooding in Michigan and Ontario: ‘Soft’ Water Management 
+Approaches,” Canadian Water Resources Journal / Revue canadienne des resources hydriques, vol. 22, 
+no. 2, pp. 125-139, Jan. 2013. DOI: 10.4296/cwrj2202125 (accessed Oct. 24, 2022)
+[60]	 Bill 23, An Act to amend various statutes, to revoke various regulations and to  enact the Supporting Growth 
+and Housing in York and Durham Regions Act, 1st Sess, 43rd Leg, Ontario, 2022 (assented to 28 November 
+2022), SO 2022, c 21. [Online]. Available: https://www.ola.org/sites/default/files/node-files/bill/document/
+pdf/2022/2022-11/b023ra_e.pdf (accessed Oct. 24, 2022)
+[61]	
+Ministère du Développement durable, Environnement et Parcs, “Water, our life, our future: Québec water 
+policy,” Gouvernement du Québec, 2002. ISBN 2-550-40076-3 [Online]. Available: https://numerique.banq.
+qc.ca/patrimoine/details/52327/43937?docref=vtVIFuTdWfBX4_tOgzY6vA (accessed Oct. 24, 2022)
+[62]	 Gouvernement du Québec, “Loi affirmant le caractère collectif des ressources en eau et favorisant une 
+meilleure gouvernance de l'eau et des milieux associés,” chapitre C-6.2, Éditeur officiel du Québec, 2022. 
+[Online]. Available: https://www.legisquebec.gouv.qc.ca/fr/pdf/lc/C-6.2%20.pdf (accessed Oct. 24, 2022)
+[63]	 Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, 
+“Gestion intégrée des ressources en eau par bassins versants,” environnement.gouv.qc.ca. https://www.
+environnement.gouv.qc.ca/eau/bassinversant/gire-bassins-versants.htm (accessed Oct. 24, 2022) 
+[64]	 Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, 
+“Gestion intégrée du Saint-Laurent,” environnement.gouv.qc.ca. https://www.environnement.gouv.qc.ca/eau/
+st-laurent/gestion-integree/tables-cr.htm (accessed Oct. 24, 2022)
+[65]	 Regroupement des organismes de bassins versants du Québec, “Le Regroupement des organismes de 
+bassins versants du Québec,” robvq.qc.ca. https://robvq.qc.ca/qui-sommes-nous/ (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+46
+csagroup.org
+[66]	 Ministère de l’Environnement et de la Lutte contre les changements climatiques (MELCC), “Cadre 
+de reference de la gestion intégrée des ressources en eau,” 2022. [Online]. Available: https://www.
+environnement.gouv.qc.ca/eau/bassinversant/cadre-reference-gire.pdf (accessed Oct. 24, 2022)
+[67]	 Regroupement des organismes de bassins versants du Québec, “La gestion intégrée de l’eau par bassin 
+versant,” robvq.qc.ca. https://robvq.qc.ca/la-giebv/ (accessed Oct. 24, 2022)
+[68]	 Ministère des Affaires municipales et de l’Habitation, “Plan de protection du territoire face aux inondations: 
+des solutions durables pour mieux protéger nos milieux de vie,” Gouvernement du Québec, 2020. [Online]. 
+Available: https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/affaires-municipales/publications-adm/
+documents/plan_protection_territoire_inondations/PLA_inondations.pdf?1634924214 
+[69]	 Gouvernement du Québec, “Bureaux de projets,” quebec.ca. https://www.quebec.ca/gouvernement/
+politiques-orientations/plan-de-protection-du-territoire-face-aux-inondations/bureau-de-projets (accessed 
+Oct. 24, 2022)
+[70]	 New Brunswick Environmental Network, “Watershed Caucus,” nben.ca. https://nben.ca/en/groups-in-
+action/watershed-caucus.html (accessed Oct. 24, 2022)
+[71]	
+Government of New Brunswick, “A Water Strategy for New Brunswick: 2018–2028,” Department of 
+Environment and Local Government, Dec. 2017. [Online]. Available: https://www2.gnb.ca/content/dam/gnb/
+Departments/env/pdf/Water-Eau/WaterStrategy-StrategieSurLeau/WaterStrategy-2018-2028.pdf (accessed 
+Oct. 24, 2022)
+[72]	 Government of New Brunswick, “Watershed Protection,” gnb.ca. https://www2.gnb.ca/content/gnb/en/
+departments/elg/environment/content/land_waste/content/reference_manual/watershed_protection.html 
+(accessed Oct. 24, 2022)
+[73]	 Government of New Brunswick, “New Brunswick’s Flood Risk Reduction Strategy,” Province of New 
+Brunswick, 2014. [Online]. Available: https://www2.gnb.ca/content/dam/gnb/Departments/env/pdf/
+Flooding-Inondations/NBFloodRiskReductionStrategy.pdf (accessed Oct. 24, 2022)
+[74]	 Government of New Brunswick, “New Brunswick Flood Hazard Maps,” GeoNB, flooding-inondations-geonb.
+hub.arcgis.com. https://flooding-inondations-geonb.hub.arcgis.com/apps/new-brunswick-flood-hazard-
+maps/explore (accessed Oct. 24, 2022)
+[75]	 Government of New Brunswick, “Flooding in New Brunswick,” flooding-inondations-geonb.hub.arcgis.com. 
+https://flooding-inondations-geonb.hub.arcgis.com/ 
+[76]	 Government of New Brunswick, “Transitioning to a Low-Carbon Economy New Brunswick’s Climate Change 
+Action Plan,” Province of New Brunswick, Dec. 2016. [Online]. Available: https://www2.gnb.ca/content/dam/
+gnb/Departments/env/pdf/Climate-Climatiques/TransitioningToALowCarbonEconomy.pdf (accessed 
+Oct. 24, 2022)
+[77]	 Government of New Brunswick, “Our Pathway Towards Decarbonization and Climate Resilience,” Province 
+of New Brunswick, [Online]. Available: https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/climate/
+climate-change-action-plan.pdf (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+47
+csagroup.org
+[78]	 Government of Nova Scotia, “Water for Life: Nova Scotia’s Water Resource Management Strategy,” Province 
+of Nova Scotia, 2010. [Online]. Available: https://novascotia.ca/nse/water.strategy/docs/WaterStrategy_
+Water.Resources.Management.Strategy.pdf (accessed Oct. 24, 2022)
+[79]	 K. Garroway, et al., “Nova Scotia Watershed Assessment Program Part A – Discussion Paper,” Nova Scotia 
+Environment, Dalhousie University and Nova Scotia Natural Resources, Jun. 2012. [Online]. Available: https://
+novascotia.ca/nse/water.strategy/docs/Nova.Scotia.Watershed.Assessment.Program_Part-A_Phase-1_
+Discussion.Paper.pdf (accessed Oct. 24, 2022)
+[80]	 Hydrologic Systems Research Group, “Nova Scotia Watershed Assessment Program, Part A – Initial 
+Assessment, Summary Report,” Nova Scotia Environment, Dalhousie University and Nova Scotia Natural 
+Resources, Aug. 2011. [Online]. Available: https://novascotia.ca/nse/water.strategy/docs/Nova.Scotia.
+Watershed.Assessment.Program_Part-A_Phase-1_Summary.Report.pdf (accessed Oct. 24, 2022)
+[81]	
+Department of Environment and Climate Change, “Nova Scotia’s Water Resources Management Strategy,” 
+Government of Nova Scotia, novascotia.ca. https://novascotia.ca/nse/water.strategy/ (accessed Oct. 24, 
+2022)
+[82]	 Nova Scotia Environment, “Water for Life: Nova Scotia’s Water Strategy - Progress Report,” Government of 
+Nova Scotia, May 2014. [Online]. Available: https://novascotia.ca/nse/water/docs/Water.For.Life.Progress.
+Report.2014.pdf (accessed Oct. 24, 2022)
+[83]	 Sackville Rivers Association, “Sackville Rivers Association,” sackvillerivers.ns.ca. https://www.sackvillerivers.
+ns.ca/ (accessed Oct. 24, 2022)
+[84]	 Clean Annapolis River Project, “About the Clean Annapolis River Project,” annapolisriver.ca. https://www.
+annapolisriver.ca/about-us (accessed Oct. 24, 2022)
+[85]	 Atlantic Coastal Action Program (ACAP) Cape Breton, “About Us,” acapcb.ns.ca. https://www.acapcb.ns.ca/ 
+(accessed Oct. 24, 2022)
+[86]	 Department of Environment and Climate Change, “Flood Mitigation Framework,” Government of Nova Scotia, 
+novascotia.ca. https://novascotia.ca/nse/climate-change/nsfaf-flood-mitigation-framework.asp (accessed 
+Oct. 24, 2022)
+[87]	 Government of Nova Scotia, “Apply for funding to invest in infrastructure to protect communities from 
+flooding: Flood Risk Infrastructure Investment Program,” novascotia.ca. https://beta.novascotia.ca/apply-
+funding-invest-infrastructure-protect-communities-flooding-flood-risk-infrastructure-investment-program 
+(accessed Oct. 24, 2022)
+[88]	 Government of Nova Scotia, “Our Climate, Our Future: Nova Scotia’s Climate Change Plan for Clean Growth,” 
+Province of Nova Scotia, 2022. [Online]. Available: https://climatechange.novascotia.ca/sites/default/files/
+uploads/ns-climate-change-plan.pdf (accessed Oct. 24, 2022)
+[89]	 Department of Environment, Energy and Climate Action, “Watershed Management on PEI,” Government of 
+Prince Edward Island, princeedwardisland.ca. https://www.princeedwardisland.ca/en/information/
+environment-energy-and-climate-action/watershed-management-pei (accessed Oct. 24, 2022)
+[90]	 Prince Edward Island Watershed Alliance (PEIWA), “Boundary Lines,” peiwatershedalliance.org/. https://
+peiwatershedalliance.org/groups/#boundary (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+48
+csagroup.org
+[91]	
+Department of Environment, Energy and Climate Action, “Watershed Management Fund,” Government 
+of Prince Edward Island, princeedwardisland.ca. https://www.princeedwardisland.ca/en/information/
+environment-energy-and-climate-action/watershed-management-fund (accessed Oct. 24, 2022)
+[92]	 Government of Prince Edward Island, “Taking Action: A Climate Change Action Plan for Prince Edward 
+Island,” Government of Prince Edward Island, Feb. 2019. [Online]. Available: https://www.princeedwardisland.
+ca/sites/default/files/publications/pei_ccra_2021.pdf (accessed Oct. 24, 2022)
+[93]	 Atlantic Climate Adaptation Solutions Association, “Flood Risk Mapping for Community Assessment in PEI,” 
+atlanticadaptation.ca. https://atlanticadaptation.ca/objects/acasa_627.html (accessed Oct. 24, 2022)
+[94]	 Department of Environment, Energy and Forestry, “A Guide to Watershed Planning on Prince Edward Island,” 
+Government of Prince Edward Island, 2015. [Online]. Available: https://www.princeedwardisland.ca/sites/
+default/files/publications/a_guide_to_watershed_planning_on_prince_edward_island.pdf (accessed 
+Oct. 24, 2022)
+[95]	 Government of Prince Edward Island “Municipal Land Use Planning,” Government of Prince Edward Island, 
+princeedwardisland.ca. https://www.princeedwardisland.ca/en/information/fisheries-and-communities/
+municipal-land-use-planning (accessed Oct. 24, 2022)
+[96]	 Government of Prince Edward Island, “Climate Challenge Fund: Guidelines and Criteria 2022-2023,” 
+Government of Prince Edward Island, 2022. [Online]. Available : https://www.princeedwardisland.ca/sites/
+default/files/publications/climatechallengefundguidelinesandcriteria.pdf (accessed Oct. 24, 2022)
+[97]	 Government of Prince Edward Island, “Building Resilience: Climate Adaptation Plan,” Government of Prince 
+Edward Island, October 2022. [Online]. Available: https://www.princeedwardisland.ca/sites/default/files/
+publications/building_resistance_climate_adaptation_plan_oct_2022.pdf (accessed Oct. 24, 2022)
+[98]	 Public Safety Canada, “National Disaster Mitigation Program (NDMP),” publicsafety.gc.ca. https://www.
+publicsafety.gc.ca/cnt/mrgnc-mngmnt/dsstr-prvntn-mtgtn/ndmp/index-en.aspx (accessed Oct. 24, 2022)
+[99]	 Public Safety Canada, “Evaluation of the National Disaster Mitigation Program: Final Report,” Government of 
+Canada, 2019. [Online]. Available: https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/vltn-ntnl-dsstr-mtgtn-
+prgrm-2019/index-en.aspx (accessed Oct. 24, 2022)
+[100]	 Infrastructure Canada, “Disaster Mitigation and Adaptation Fund: Overview,” infrastructure.gc.ca. https://
+www.infrastructure.gc.ca/dmaf-faac/index-eng.html (accessed Oct. 24, 2022)
+[101]	 Infrastructure Canada, “Audit of the Disaster Mitigation and Adaptation Fund – Final Approved Report,” 
+Jun. 2020. [Online]. Available: https://www.infrastructure.gc.ca/alt-format/pdf/ia-vi/dmaf-report-rapport-
+faac-eng.pdf (accessed Oct. 24, 2022)  
+[102]	 Infrastructure Canada, “Disaster Mitigation and Adaptation Fund: Overview,” infrastructure.gc.ca. https://
+www.infrastructure.gc.ca/dmaf-faac/index-eng.html (accessed Oct. 24, 2022)
+[103]	 Environment and Climate Change Canada, “Government of Canada Adaptation Action Plan.” Government 
+of Canada, 2022. [Online]. Available: https://www.canada.ca/content/dam/eccc/documents/pdf/climate-
+change/climate-plan/national-adaptation-strategy/GCAAP-Report-EN.pdf (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+49
+csagroup.org
+[104]	 Government of Canada, “Infrastructure Canada Projects,” open.canada.ca. https://open.canada.ca/data/en/
+dataset/beee0771-dab9-4be8-9b80-f8e8b3fdfd9d (accessed Oct. 24, 2022)
+[105]	 P. Bartnik, “Disaster Mitigation and Adaptation Fund Special Spring 2019 Flooding Intake - Expression of 
+Interest and Full Application,” The Corporation of the Town of Tecumseh, Report Number PWES-2019-02, 
+July 23, 2019. [Online]. Available: https://www.tecumseh.ca/en/news/resources/PWES-2019-02-Disaster-
+Mitigation-and-Adaptatin-Fund.pdf (accessed Oct. 24, 2022)
+[106]	 Government of Canada, “Canada Water Agency – Overview,” canada.ca. https://www.canada.ca/en/
+environment-climate-change/services/water-overview/canada-water-agency.html (accessed Oct. 24, 2022)
+[107]	 Government of Canada, “Canada’s National Adaptation Strategy,” canada.ca. https://www.canada.ca/en/
+services/environment/weather/climatechange/climate-plan/national-adaptation-strategy.html (accessed 
+Oct. 24, 2022)
+[108]	 Infrastructure Canada, “Climate Lens - General Guidance.” Government of Canada, 2019. [Online]. Available: 
+https://www.infrastructure.gc.ca/pub/other-autre/cl-occ-eng.html (accessed Oct. 24, 2022)
+[109]	 Infrastructure Canada, “Disaster Mitigation and Adaptation Fund: Applicants Guide.” Infrastructure Canada, 
+2021. [Online]. Available: https://www.infrastructure.gc.ca/alt-format/pdf/dmaf-faac/dmaf-faac-applicant-
+guide-demandeur-en.pdf (accessed Oct. 24, 2022)
+[110]	 International Institute for Sustainable Development (IISD), “The Sustainable Asset Valuation (SAVi) helps 
+policy-makers and investors make informed decisions on financing sustainable infrastructure,” iisd.org. 
+https://www.iisd.org/savi/ (accessed Oct. 24, 2022)
+[111]	 International Institute for Sustainable Development (IISD), “Nature-Based Infrastructure,” iisd.org. https://
+www.iisd.org/savi/sector/natural-capital/ (accessed Oct. 24, 2022)
+[112]	 A. Bassi et al., “An Application of the Sustainable Asset Valuation (SAVi) Methodology to Pelly's Lake and 
+Stephenfield Reservoir, Manitoba, Canada: Assessing the value of nature-based infrastructure,” International 
+Institute for Sustainable Development, Jun. 2019. [Online]. Available: https://www.iisd.org/system/files/
+publications/savi-pellys-lake-stephenfield-canada-en.pdf (accessed Oct. 24, 2022)
+[113]	 International Institute for Sustainable Development (IISD), “How Savi Works,” iisd.org. https://www.iisd.org/
+savi/how-savi-works/ (accessed Oct. 24, 2022)   
+[114]	 Government of Ontario, “Class Environmental Assessments: Approved Class EA Information,” ontario.ca. 
+https://www.ontario.ca/page/class-environmental-assessments-approved-class-ea-information (accessed 
+Oct. 24, 2022)
+[115]	 Conservation Ontario, “Class Environmental Assessment for Remedial Flood and Erosion Control Projects,” 
+Jan. 2002, amended Jun. 2013. [Online]. Available: https://conservationontario.ca/fileadmin/pdf/
+conservation_authorities_section_planning___regulations/Class_EA_for_Remedial_Flood_and_Erosion_
+Control_ProjectsCA.pdf 
+[116]	 Sustainable Technologies Evaluation Program, “Risk and Return on Investment Tool (RROIT Version 1.0),” 
+sustainabletechnologies.ca. https://sustainabletechnologies.ca/home/urban-runoff-green-infrastructure/
+rroit/ (accessed Oct. 24, 2022)
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+50
+csagroup.org
+[117]	 N. Moudrak, et al., “Combating Canada’s Rising Flood Costs: Natural infrastructure is an underutilized option.” 
+University of Waterloo, 2018. [Online]. Available: https://www.intactcentreclimateadaptation.ca/wp-content/
+uploads/2018/09/IBC_Wetlands-Report-2018_FINAL.pdf (accessed Oct. 24, 2022)
+[118]	 J. L. Eyquem, et al., “Getting Nature on the Balance Sheet: Recognizing the Financial Value of Natural Assets 
+in a Changing Climate,” Intact Centre on Climate Adaptation, University of Waterloo, Sep. 2022. [Online]. 
+Available: https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2022/10/UoW_
+ICCA_2022_10_Nature-on-the-Balance-Sheet.pdf (accessed Oct. 24, 2022) 
+[119]	 R. Sharp, et al. Eds. “InVEST 3.9.2 User’s Guide.” The Natural Capital Project, Stanford University, University of 
+Minnesota, The Nature Conservancy, and World Wildlife Fund, 2020. [Online]. Available: http://releases.
+naturalcapitalproject.org/invest-userguide/latest/index.html (accessed Oct. 24, 2022)
+[120]	 Stanford University. “InVEST.” naturalcapitalproject.stanford.edu https://naturalcapitalproject.stanford.edu/
+software/invest (accessed Oct. 24, 2022)
+[121]	 UK Government, “Catchment flood management plans,” gov.uk. https://www.gov.uk/government/collections/
+catchment-flood-management-plans (accessed Oct. 24, 2022)
+[122]	 CSA Group. “Management standard for stormwater systems.” CSA W211:21. CSA Group, 2021. [Online]. 
+Available: https://www.csagroup.org/store/product/2705167/ (accessed Oct. 24, 2022)
+[123]	 CSA Group. “Specifications for Natural Asset Inventories.” CSA W218:23. CSA Group, in preparation.
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+51
+csagroup.org
+Appendix A – Focus Group Structure  
+This appendix provides an overview of the two workshops held in May and June 2022. Each of the workshops was 
+attended by over 35 subject matter experts from across Canada. Attendees are recognized in the acknowledgements 
+list at the beginning of this report.
+Table A.1: Goals and Content Output of Focus Group #1: Taking a Watershed Approach
+Date:
+Monday, May 30, 2022, 12-3pm EDT
+Goals:
+•	Review the use of nature-based solutions for river flood and erosion risk management and their 
+use in Canada.
+•	Capture subject matter expertise regarding how nature-based solutions are currently being 
+implemented, considering the watershed-scale to manage flooding and erosion.
+•	Inform guidance and standards development for governments (local, provincial and federal) and 
+communities to help scale-up implementation of nature-based solutions.
+Content:
+Pre-workshop questionnaire (via MS Forms)
+Polling activities (via Mentimeter)
+Presentations: 
+•	Nature-Based Solutions for River Flood and Erosion Risk Management (Enda Murphy, National 
+Research Council of Canada).
+•	Overview of Watershed Management in Canada – research results to date (Joanna Eyquem, Intact 
+Centre on Climate Adaptation).
+•	Practical Tips on Using NbS to Manage Flooding and Erosion – Learning from The Netherlands 
+(Ralph Schielen, Rijkswaterstaat / Delft University of Technology)
+Small-group, virtual whiteboard sessions:
+1.	 Current use of nature-based solutions for riverine flood and erosion management 
+2.	 Lessons learnt across Canada working at the watershed scale 
+3.	 Opportunities and recommendations to integrate NbS and flood and erosion management 
+at the watershed-scale 
+Review and Structured Plenary Discussion
+•	How can local governments and communities work more effectively together to implement 
+NbS at the watershed scale?
+•	Is payment for ecosystem services helping to implement NbS in your province? Who is doing this?
+•	Are additional national standards or guidance required to strengthen watershed approaches? 
+What would be most useful?
+MANAGING FLOODING AND EROSION AT THE WATERSHED-SCALE: GUIDANCE 
+TO SUPPORT GOVERNMENTS USING NATURE-BASED SOLUTIONS
+52
+csagroup.org
+Table A.2: Goals and Content Output of Focus Group #2: Including NbS Benefits in Options Appraisal 
+Date:
+Tuesday, June 14, 2022, 12-3pm EDT
+Goals:
+•	Identify option appraisal tools currently applied across Canada to plan and design river flood and 
+erosion management infrastructure, and how they incorporate Nature-based Solutions (NbS).
+•	Capture subject matter expertise regarding how costs and benefits relating to NbS are being / 
+can be better addressed in the riverine environment.
+•	Inform guidance and standards development for options appraisal that specifically includes 
+NbS co-benefits.
+Content:
+Pre-workshop questionnaire (via MS Forms)
+Polling activities (via Mentimeter)
+Presentations: 
+•	Overview of Approaches to Include NbS Benefits (Joanna Eyquem, Intact Centre on Climate 
+Adaptation).
+•	Evolution of flood and erosion risk management in Quebec City– opportunities for NbS 
+(Antoine Verville, CMQuébec)
+Small-group, virtual whiteboard sessions:
+1.	 Current practices in option appraisal of NbS for river flood and erosion management 
+2.	 Methods of better incorporating NbS benefits in Canada
+	• Advantages and disadvantages of methods for different benefits
+	• Lessons learnt 
+Review and Structured Plenary Discussion
+•	Wider economic and accounting context
+•	Roles and responsibilities 
+CSA Group Research
+In order to encourage the use of 
+consensus-based standards solutions to 
+promote safety and encourage innovation, 
+CSA Group supports and conducts 
+research in areas that address new or 
+emerging industries, as well as topics and 
+issues that impact a broad base of current 
+and potential stakeholders. The output of 
+our research programs will support the 
+development of future standards solutions, 
+provide interim guidance to industries on 
+the development and adoption of new 
+technologies, and help to demonstrate 
+our on-going commitment to building a 
+better, safer, more sustainable world.
+© 2023 Canadian Standards Association. All Rights Reserved. 

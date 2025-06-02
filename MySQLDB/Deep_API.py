@@ -1,5 +1,8 @@
 from google import genai
 import chardet
+import json
+import re
+import os
 
 
 def get_google_client():
@@ -20,9 +23,14 @@ def get_db_info(text, client):
     file_text = str(text)
     context_prompt = "From the given text extract, " \
                      "1. Title of the text" \
-                     "2. Type of the text (research paper, government article, news article, technical report, or other)" \
+                     "2. Type of the text (research paper, government article, news article, technical report, " \
+                     "or other)" \
                      "3. Authors of the Text" \
-                     "4. Date (This could be the date the paper was last updated or just the year that the text mentions)" \
+                     "4. Date -(This could be the date the paper was last updated or just the year that the text has as " \
+                     "it's publication date)" \
+                     "5. DOI link of the given text if availiable (NONE) if not (make sure not to" \
+                     " include DOI links from the references)" \
+                     "6. Publishing Organization if Availiable (NONE) if not" \
                      "I want the output as a json object"
 
     response = client.models.generate_content(
@@ -34,14 +42,57 @@ def get_db_info(text, client):
 
 def read_text_file(file):
     raw = file.read()
-    encoding = chardet.detect(raw)["encoding"]
+    detection = chardet.detect(raw)
+    encoding = detection["encoding"]
+
+    if encoding is None:
+        print("⚠️ Encoding not detected, defaulting to 'utf-8'")
+        encoding = "utf-8"
+
     return raw.decode(encoding, errors="replace").strip()
+
+
+def extract_json_dict(text: str):
+    """
+    Extracts the first JSON object (enclosed in curly braces) from a string
+    and returns it as a Python dictionary.
+
+    Args:
+        text (str): The input string containing JSON.
+
+    Returns:
+        dict: The extracted JSON as a Python dictionary.
+    """
+    match = re.search(r'\{.*\}', text, re.DOTALL)
+    if not match:
+        raise ValueError("No JSON object found in the input string.")
+
+    try:
+        return json.loads(match.group())
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON format: {e}")
 
 
 if __name__ == "__main__":
     client = get_google_client()
 
-    # test a file
-    file = open("extracted_text/1-s2.0-S2352250X21000415-main.txt", "rb")
-    full_text = read_text_file(file)
-    print(get_db_info(full_text, client))
+    directory = 'extracted_text'
+    db_entries = []
+
+    for entry in os.scandir(directory):
+        if entry.is_file():
+            print(f"Processing: {entry.path}")
+            with open(entry.path, "rb") as this_file:
+                this_file_text = read_text_file(this_file)
+                try:
+                    response_text = get_db_info(this_file_text, client)
+                    db_dict = extract_json_dict(response_text)
+                    db_entries.append(db_dict)
+                except Exception as e:
+                    print(f"Error processing {entry.path}: {e}")
+
+    # Save to a single JSON file
+    with open("db_output.json", "w", encoding="utf-8") as outfile:
+        json.dump(db_entries, outfile, indent=4, ensure_ascii=False)
+
+    print(f"\n Saved {len(db_entries)} entries to db_output.json")

@@ -1,0 +1,1629 @@
+a
+Role of Wetlands to Limit Urban and Rural Flood Damage
+a
+Role of Wetlands to Limit Urban and Rural Flood Damage
+About the Intact Centre on Climate Adaptation
+The Intact Centre on Climate Adaptation (Intact Centre) is an applied research centre at the University of Waterloo. The 
+Intact Centre was founded in 2015 with a gift from Intact Financial Corporation, Canada’s largest property and casualty 
+insurer. The Intact Centre helps homeowners, communities and businesses to reduce risks associated with climate 
+change and extreme weather events. For more about the Intact Centre, please visit:
+www.intactcentreclimateadaptation.ca
+About the University of Waterloo
+University of Waterloo is Canada’s top innovation university. With more than 36,000 students, the university is home 
+to the world’s largest co-operative education system of its kind. The university’s unmatched entrepreneurial culture, 
+combined with an intensive focus on research, powers one of the top innovation hubs in the world. For more about the 
+University of Waterloo, please visit: www.uwaterloo.ca
+The Intact Centre would like to acknowledge the following groups for their contributions:
+	
+	
+	
+Credit Valley Conservation (CVC) is a community-based environmental organization, dedicated
+	
+	
+	
+to protecting, restoring and managing the natural resources of the Credit River Watershed
+	
+	
+	
+Established by the provincial government in 1954, CVC is one of 36 conservation authorities in
+	
+	
+	
+Ontario. CVC provided hydrologic and hydraulic modelling support for this project.
+	
+	
+	
+The Grand River Conservation Authority (GRCA) manages water and other natural resources
+	
+	
+	
+on behalf of 39 municipalities and close to one million residents of the Grand River watershed. 	
+	
+	
+	
+The watershed is the largest in Southern Ontario. GRCA provided hydrologic and hydraulic
+	
+	
+	
+modelling support for this project.
+	
+	
+	
+IBI Group is a globally integrated architecture, planning, engineering and technology firm. IBI
+	
+	
+	
+Group’s team in Calgary, Alberta (Stephen Shawcross and David Sol) supported this project by
+	
+	
+	
+leveraging their Rapid Flood Damage Assessment Model (RFDAM) to automate flood damage
+	
+	
+	
+calculations and analysis.
+The Intact Centre thanks sponsors of the project for their generous support:
+The Intact Centre also thanks Markus Wieland of the University of Waterloo for his assistance with geographic 
+information system modelling for this project.
+For information about this report, contact Natalia Moudrak, Director, Intact Centre on Climate Adaptation:
+nmoudrak@uwaterloo.ca
+Citation
+Moudrak, N.; Hutter, A.M.; Feltmate, B. 2017. When the Big Storms Hit: The Role of Wetlands to Limit Urban and
+Rural Flood Damage. Prepared for the Ontario Ministry of Natural Resources and Forestry.
+Intact Centre on Climate Adaptation, University of Waterloo.
+Disclaimer 
+The information stated in this report has, to the best of our knowledge, been collected and verified as much as possible. The Intact Centre cannot make any guarantees of 
+any kind, as to the completeness, accuracy, suitability or reliability of the data provided in the report. This report has been prepared for informational purposes on matters of 
+interest only and does not constitute professional advice. You should not act upon the information contained in this publication without obtaining specific professional advice. 
+Nothing in this report constitutes legal advice. No representation or warranty (expressed or implied) is given as to the accuracy or completeness of the information contained 
+in this publication, and Intact Centre employees and affiliates do not accept or assume any liability, responsibility or duty of care for any consequences to you or anyone else 
+acting, or refraining to act, in reliance on the information contained in this report or for any decision based on it.
+i
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Executive Summary  ..........................................................................................................................	
+ii
+Chapter 1. Introduction  ....................................................................................................................	 1
+Chapter 2. Method  ...........................................................................................................................	
+3
+	
+2.1 	 Assessing Financial Value of Wetlands Conservation for Flood Damage Reduction:
+	
+	
+A Generally Applicable Overview  ........................................................................................	
+4
+	
+2.2 	 Assessing Financial Value of Wetlands Conservation for Flood Damage Reduction:
+	
+	
+Detailed Discussion  .............................................................................................................	
+6
+Chapter 3. Results  ............................................................................................................................	
+10
+	
+3.1 	 Glen Williams, Cheltenham-Inglewood and Norval  ............................................................	
+10
+	
+3.2 	 Uptown Waterloo  ................................................................................................................	 12
+	
+3.3 	 Discussion of Flood Damage Estimation Methods  ..............................................................	
+13
+Chapter 4. Discussion & Conclusion  .................................................................................................	 15
+Appendix A: Background Information on the Credit Valley and Laurel Creek Watersheds  ............	 16
+	
+	
+Credit Valley Watershed  ......................................................................................................	
+16
+	
+	
+Laurel Creek Watershed  ......................................................................................................	
+18
+	
+	
+Notes: Hydrologic and Hydraulic Modelling  ........................................................................	 20
+Appendix B: IBI Group’s Rapid Flood Damage Assessment Model (RFDAM)  .................................	
+22
+Appendix C: Flood Damage Values from Alberta’s Provincial Flood Damage
+Assessment Study (2014)  ..................................................................................................................	 26
+Appendix D: Greenland Consulting Engineers’ Estimation Method for Municipal
+Infrastructure Upgrades Avoided  ....................................................................................................	
+39
+Appendix E: Consumer Price Index Adjustments for Ontario’s
+Flood Damage Estimation Guide (2007) ...........................................................................................	 42
+Endnotes  ...........................................................................................................................................	 52
+Contents
+ii
+Role of Wetlands to Limit Urban and Rural Flood Damage
+This report assesses the potential for wetlands to 
+affect the financial impacts associated with rural 
+and urban flooding. Working with the Grand River 
+Conservation Authority (Ontario), Credit Valley 
+Conservation (Ontario) and Ducks Unlimited Canada, 
+the Intact Centre on Climate Adaptation (Intact 
+Centre) determined that wetlands, if maintained in 
+their natural state, can substantially reduce flood 
+damage costs to buildings (ranging from residential 
+homes and apartment buildings, to industrial, 
+commercial and institutional structures).
+These findings have national applicability, albeit the 
+research focused on two Southern Ontario pilot sites, 
+one rural and one urban. For both sites, computer 
+models simulated a major Fall flood, to compare 
+flood damages under conditions where wetlands 
+were maintained in their natural state and where 
+they were replaced with agricultural land use. The 
+researchers found that flood damages were lower if 
+wetlands were maintained in their natural state, with 
+financial cost savings of 29 and 38 per cent in rural 
+and urban areas, respectively.
+The rural pilot site was located near the City of 
+Mississauga (Ontario) and the urban pilot site was 
+located within the City of Waterloo (Ontario). The 
+magnitude of the modelled flood was based on 
+a severe, yet realistic, flood event (i.e., Hurricane 
+Hazel, 1954, approximately equivalent to a 1-in-500 
+year flood), that had historically caused substantial 
+property damage and loss of life in the Greater 
+Toronto Area (Ontario).
+At the rural pilot site, if wetlands were maintained in 
+their natural state, flood damages would have been 
+$8.9 million. This was $3.5 million, or 29 per cent, 
+lower than the $12.4 million cost that would have 
+been realized if wetlands had been replaced with 
+agricultural development.
+Executive Summary
+Residential Wetlands @DUC
+For the urban pilot site, if wetlands were maintained 
+in their natural state, the cost of flood damages would 
+be $84.5 million, which was $51.1 million, or 38 per 
+cent, lower than $135.6 million cost that would have 
+occurred had wetlands been replaced with agricultural 
+development.
+If the modeling assumed that wetlands were 
+replaced by urban, largely impervious surfaces 
+(such as buildings, roads and parking lots), rather 
+than agricultural development, the value of flood 
+damages avoided would have exceeded 29 - 38 per 
+cent. Accordingly, the additive value of wetlands to 
+reduce flood damage, as profiled in this report, is 
+conservative.
+This report demonstrates quantitatively that wetlands 
+conservation is a cost-effective means to reduce flood 
+risk in Canada. As such, the findings are consistent 
+with, and reinforcing of, directives outlined in the 
+Wetland Conservation Strategy for Ontario, the 
+Province of Ontario’s Climate Change Action Plan, and 
+the Government of Canada’s Pan-Canadian Framework 
+on Clean Growth and Climate Change.
+In summary, maintaining wetlands in their natural state 
+offers a broadly-applicable and cost-effective means to 
+reduce the financially and socially pervasive impacts of 
+flooding that are increasingly affecting all Canadians. 
+1
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 1. Introduction
+This report assesses the value of wetlands 
+conservation to reduce flood damages associated 
+with riverine flooding, based on modelling of 
+two watersheds in Southern Ontario. The value is 
+outlined in terms of flood damages avoided and 
+average insurable claims foregone for properties 
+located in the rural communities of Glen Williams, 
+Cheltenham-Inglewood and Norval (north of the City 
+of Mississauga) and within the urban setting of the 
+City of Waterloo.
+Before turning to the utility of wetlands to mitigate 
+costs, it is first necessary to quantify the growing 
+impacts of flooding realized across Canada following 
+extreme precipitation events.i  
+Figure 1:	 Catastrophic Insured Losses* from Natural Disasters in Canada (1983 to 2016), 	
+	
+	
+Values in 2016 CAN$
+*Insured losses for a given disaster are deemed catastrophic when they total $25 million or more.
+Catastrophic losses for a year are the sum total of insured losses from these natural disasters. 
+Source: Insurance Bureau of Canada (April 2017), PCS, CatIQ, Swiss Re, Munich Re & Deloitte
+As documented by the Insurance Bureau of Canada, 
+“property and casualty insurance payouts from 
+extreme weather have more than doubled every five 
+to 10 years since the 1980s.”ii   As shown in Figure 1, 
+for seven out of eight years (2009 – 2016), extreme 
+weather-related insurance payouts have exceeded $1 
+billion in Canada, which is atypical relative to pre-2009 
+insurable losses. The primary cause of claims during 
+the seven-year period up to 2016 was flooding.
+Reflecting insurable losses, disaster recovery payments 
+through Canada’s federal Disaster Financial Assistance 
+Arrangements (DFAA) have also greatly increased 
+during this program’s 45-year history. As noted by the 
+Office of the Auditor General of Canada, “over the past 
+2
+Role of Wetlands to Limit Urban and Rural Flood Damage
+six fiscal years, the federal government spent more 
+on recovering from large-scale natural disasters than 
+in the previous 39 fiscal years combined.”iii  DFAA 
+spending on floods was foremost, representing 75 per 
+cent of all weather-related expenditures.iv 
+To improve resilience against future disasters, 
+including floods, all levels of government in Canada 
+have begun to prepare for severe weather. This 
+effort is consistent with the Paris Agreement, signed 
+in December 2016, which committed Canada to 
+addressing current and future climate change impacts 
+through enhancing adaptive capacity, strengthening 
+resilience and reducing vulnerability.v 
+In 2017, the Government of Canada released the Pan 
+Canadian Framework on Clean Growth and Climate 
+Change, which further emphasized the need to adapt 
+to a changing climate and build resilience. One of the 
+climate adaptation focus areas noted, under the Pan 
+Canadian Framework, was to consider climate change 
+in long-lived infrastructure investments, which 
+include both “traditional and natural adaptation 
+solutions to build resilience, reduce disaster risks, and 
+save costs over the long term.”vi  
+In addition to the increased frequency and severity 
+of rainfall events, growth in urban development 
+has also altered drainage characteristics of natural 
+catchments by increasing the volume and rate of 
+surface runoff.vii  This can produce higher peak-flows 
+in drainage channels due to an overall growth in the 
+extent of impervious surface coverage. Moreover, 
+“the effects of development in urban basins are 
+most pronounced for moderate storms following dry 
+periods.”viii  Therefore, even in the absence of severe 
+storms, growth in urbanization can cause rivers and 
+streams to exceed their carrying capacity and lead to 
+overland and sewer flooding. This is a prevalent issue 
+for Canada, where urbanization is a continuing trend, 
+with peripheral municipalities showing the highest 
+population growth across the country.ix  
+Accordingly, land use planning policies that promote 
+natural infrastructure preservation (and limit increased 
+imperviousness in urban watersheds) are advocated 
+by multiple groups in Canada to reduce flood risk.x,xi  
+This has also been, and remains, a central component 
+of natural hazard management promoted in Ontario 
+through the Provincial Policy Statement,xii  as supported 
+by the province’s Ministry of Natural Resources and 
+Forestry.xiii  
+In addition to limiting flood risk, studies describe a 
+range of ecosystem services that wetlands  provide,  
+including groundwater recharge and discharge; flood 
+and drought attenuation; erosion control and sediment 
+stabilization; water quality improvements and nutrient 
+cycling; habitat provision; recreational and cultural 
+uses; as well as carbon sequestration.xiv 
+Specific to flood mitigation, there is growing awareness 
+that wetlands can play an instrumental role.xv,xvi,xvii  
+Researchers note that wetlands do reduce the 
+rate of overland water transport, while enhancing 
+groundwater infiltration and desynchronizing water 
+delivery to streams during storms. This function 
+helps to reduce the frequency and magnitude of 
+flooding, particularly when soils in the watershed 
+are not saturated.xviii  Similarly, floodplain wetlands 
+(i.e., wetlands that adjoin rivers) are effective in flood 
+attenuation, as they slow the speed of flood waves and 
+they can store large quantities of surface water.xix
+Notwithstanding their pervasive utility, over 70 per cent 
+of Southern Ontario’s pre-settlement wetlands have 
+been lost through agricultural drainage, development, 
+encroachment, land clearance, filling and road 
+construction.xx  Similar losses have been noted in 
+other provinces. To help curtail this trend, this report 
+quantifies the utility of wetlands to limit flood costs 
+borne by all Canadians – simply put, “leaving natural 
+wetlands natural” is a prudent choice for Canada.
+Chapter 1. Introduction
+3
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Wetlands @DUC
+Chapter 2. Method
+This Chapter provides an outline of the process that 
+municipalities, conservation authorities and watershed 
+management practitioners can follow to assess the 
+financial value of wetlands conservation for flood 
+damage reduction (Section 2.1). It also contains an in-
+depth discussion on how this process was executed at 
+the two sites for the purposes of this study
+(Section 2.2).
+Two sites that were analyzed included rural areas of 
+Glen Williams, Cheltenham-Inglewood and Norval, 
+located in the Credit River Watershed (north of the City 
+of Mississauga, Ontario) and an urban area of Uptown 
+Waterloo, located in the Laurel Creek Watershed, 
+upstream of the City of Waterloo, Ontario.
+The two sites were selected based on four criteria: 
+1) representation of both a rural and an urban 
+community, 2) wetland area and hydrologic diversity, 
+3) proximity to populated centers, and 4) availability of 
+high quality hydrologic and hydraulic modelling:
+1.	 Representation of rural and urban communities: 
+Both rural and urban communities were selected 
+to ensure the findings had a broad range of 
+geographic applicability. While the majority of 
+Ontario’s population resides in urban centres, 
+according to the State of Rural Canada report, 
+Ontario has more rural residents than other 
+provinces in Canada.xxi   Furthermore, while both 
+rural and urban communities are facing increased 
+climate hazards (such as floods), the opportunity 
+for natural infrastructure use and wetlands 
+conservation is higher for rural communities.
+2.	 Wetland area and hydrologic diversity: The 
+total wetlands area included in the Credit 
+River Watershed pilot study analysis was 72.9 
+hectares. The total wetlands area included in 
+the pilot study analysis for the Laurel Creek 
+Watershed was 540 hectares. Whereas the 
+majority of wetlands analyzed for the Credit 
+River Watershed pilot site were headwater 
+wetlands, the majority of wetlands in the Laurel 
+Creek Watershed were floodplain wetlands. 
+For additional detail in reference to these 
+watersheds, see Appendix A.
+3.	 Proximity to populated centres: The benefit 
+of wetlands for flood attenuation is likely to 
+be greater if wetlands are in close proximity to 
+developed areas. For both pilot sites, wetlands 
+were in close proximity to populated areas, thus 
+helping to ensure that the benefits, if any, of 
+flood attenuation afforded by wetlands, could be 
+quantified.
+4.	 Availability of high quality hydrologic 
+and hydraulic modelling: Both Credit 
+Valley Conservation (CVC) and Grand River 
+Conservation Authority (GRCA) have undertaken 
+significant work to model wetlands in their 
+respective watersheds as part of floodplain 
+modelling. Therefore, both CVC and GRCA were 
+able to share the outputs of their hydrologic and 
+hydraulic modelling to support the project.
+4
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 2. Method
+Key steps pertaining to the process of assessing financial value of wetlands conservation for flood damage 
+reduction are profiled in Figure 2.
+2.1 Assessing Financial Value of Wetlands Conservation for Flood Damage Reduction:
+A Generally Applicable Overview
+Phase 1: Obtain Hydrologic and Hydraulic Modelling 
+Results
+During this phase, hydrologic and hydraulic modelling 
+of wetland loss is carried out by third party experts 
+to obtain flood extents and depths data “with and 
+without” wetlands. In Ontario, floodplain modelling 
+carried out by conservation authorities (under the 
+direction of the Ontario Ministry of Natural Resources 
+and Forestryxxii) can be used for this analysis. The 
+hydrologic and hydraulic modelling should at least 
+include the return periods for a 2-year, 5-year, 10-year, 
+25-year, 50-year, 100-year and Regulatory Storm (e.g., 
+Timmins or Hurricane Hazel). Key output of Phase 1 is 
+raster dataxxiii (or shapefilesxxiv) showing flood extents 
+and flood depths for a range of precipitation events 
+and wetland loss scenarios.
+Figure 2:	 Assessing Financial Value of Wetlands Conservation for Flood Damage Reduction
+	
+(Process Flow)
+*Information requirements differ based on the method of flood damage estimation chosen. For example, the inputs required for flood 
+damage estimation using Ontario’s Flood Damage Estimation Guide (2007) differ from the inputs required for flood damage estimation 
+using Alberta’s Provincial Flood Damage Assessment Study (2014).
+5
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Phase 2: Obtain Land Use and Building Footprints 
+Data
+During this phase, land use data and building footprints 
+data is collected for the study area. This data is 
+typically available through local government websites 
+and open data portals. Geographic Information System 
+(GIS) software (i.e., ArcMap GIS) is then used to 
+combine information from Phase 1 with land use and 
+building footprints data to identify inundated buildings 
+“with and without” wetlands.
+Phase 3: Classify Inundated Buildings
+Inundated buildings are then classified according 
+to their use (e.g., residential, office, institutional, 
+industrial, retail), structural type (e.g., single-family 
+home, apartment building, etc.) main floor elevation 
+relative to grade, as well as presence of underground 
+parking and basements. Building information can be 
+recorded manually or through specialized software 
+(e.g., IBI Group’s Google Earth Pro). This information 
+is used for flood damage estimation (Phase 4).
+Phase 4: Complete Flood Damage Estimation
+To estimate flood damages for buildings, the 
+recommended approach is to use the most recent 
+flood depth-damage functions from the Government 
+of Alberta, Provincial Flood Damage Assessment 
+Study adjusted for inflation and regional context 
+(Appendices B and C). If the scope of analysis 
+includes an estimation of flood damages for 
+municipal infrastructure, the process outlined in 
+Appendix D can be followed. Once the total value of 
+annual flood damages for each wetland loss scenario 
+is estimated, one can compare the estimated 
+flood damage costs “with and without” wetlands 
+conserved. The value of flood damages avoided 
+because of wetlands conservation is the economic 
+benefit of wetlands for flood attenuation. 
+Chapter 2. Method
+Shutterstock_636580526
+6
+Role of Wetlands to Limit Urban and Rural Flood Damage
+2.2 Assessing Financial Value of Wetlands Conservation for Flood Damage Reduction: 
+Detailed Discussion
+Chapter 2. Method
+This section describes how the process outlined 
+above was followed to assess the value of wetlands 
+conservation for the two pilot sites.
+Phase 1: Obtain Hydrologic and Hydraulic Modelling 
+Results
+Credit Valley Conservation (CVC) and Grand River 
+Conservation Authority (GRCA) oversaw all aspects 
+of hydrologic and hydraulic modelling for the Glen 
+Williams, Cheltenham-Inglewood and Norval area 
+and Uptown Waterloo, respectively. Table 1 outlines 
+wetland loss and rainfall event scenarios modelled by 
+CVC and GRCA for the two pilot sites.
+For Glen Williams, Cheltenham-Inglewood and 
+Norval area, CVC used GAWSER hydrologic model 
+and HEC-RAS 1D hydraulic model to derive flood flow 
+depths and extents. For Uptown Waterloo, GRCA 
+used GAWSER and PC-SWMM hydrologic models, 
+and HEC-RAS 2D hydraulic model. As noted by CVC 
+and GRCA, these models were used for floodplain 
+mapping and were previously calibrated and verified 
+against observed gauge and reservoir flow data. For 
+more detail on hydrologic and hydraulic modelling, 
+see Appendix A, Notes: Hydrologic and Hydraulic 
+Modelling.
+Table 1:	 Wetland Loss and Rainfall Events: Modelled Scenarios
+For Glen Williams, Cheltenham-Inglewood and Norval 
+area, only the loss of headwater wetlands in the 
+Credit River Watershed was modelled, whereas for 
+Uptown Waterloo, loss of all wetlands in the Laurel 
+Creek Watershed was modelled. The difference in 
+modeling parameters was due to the fact that for the 
+Credit River Watershed analysis, the hamlets of Glen 
+Williams, Cheltenham-Inglewood and Norval were 
+selected to estimate flood damages. As these hamlets 
+are located upstream in the watershed, the impacts of 
+modelling wetlands loss for the entire watershed (i.e., 
+downstream of the hamlets) would bear no relevance 
+to the upstream reaches. Within the Laurel Creek 
+Watershed, the Uptown Waterloo area was located
+downstream of the wetlands area of the watershed.
+The wetland-loss scenarios selected for the study
+reflect the “best case” and the “worst case” scenarios
+for wetlands conservation. The “best case” scenario 
+is the baseline, where all existing wetlands are 
+maintained in their current state. The “worst case” 
+scenario reflects total replacement of wetlands 
+with agricultural land use. An additional scenario 
+(hummocky terrain loss) was included, to illustrate 
+the broader benefits of natural infrastructure 
+preservation for flood attenuation. Hummocky terrain 
+has depression features, which may result in wetland 
+development and offer substantial water storage, 
+especially if connected to a river network.xxv 
+7
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 2. Method
+For both watersheds, flooding was modelled for 
+the Fall season, which is typically characterized by 
+high precipitation events. The Spring, which is also 
+flood prone, was not addressed due to challenges 
+associated with modelling snowmelt.
+Hydrologic and hydraulic modeling for Uptown 
+Waterloo showed that only a Hurricane Hazel level 
+event would result in riverine flooding that would 
+damage buildings. Modelling for all other rainfall 
+events (i.e., 1-in-2 year; 1-in-5 year; 1-in- 10 year; 
+1-in-25 year; 1-in-50 year and 1-in-100 year) predicted 
+no flood damage to buildings. 
+Similarly, for Glen Williams, Cheltenham-Inglewood 
+and Norval, modelling indicated that only a Hurricane 
+Hazel level event would result in flood damages 
+to buildings. Under other rainfall events modelled 
+(i.e., 1-in-2 year; 1-in-5 year; 1-in-10 year; 1-in-25 
+year; 1-in-50 year and 1-in-100 year), there were no 
+property flood damages in the Glen Williams and 
+Norval areas. However, in the Cheltenham-Inglewood 
+portion of the Credit River Watershed, flooding for 
+three out of 316 buildings was predicted. This was 
+deemed inconsequential, as the three properties 
+represent less than one percent of the total building 
+count and real estate value for Cheltenham-
+Inglewood. 
+A major rainfall, sensu Hurricane Hazel, was therefore 
+the only level event for which the economic cost of 
+flood damages was calculated for this study. Under 
+conditions of a changing climate, whereby extreme 
+weather will be more intense, Hurricane Hazel level 
+events will be increasingly common. For example, in 
+June 2004, northwest of the Laurel Creek Watershed, 
+a severe localized storm generated 160 mm of rainfall 
+in four hours and 202 mm of rainfall in 24 hours. This 
+storm, modeled over the Laurel Creek Watershed, 
+would have resulted in Hurricane Hazel level flows 
+in Laurel Creek through the Uptown Waterloo area. 
+Therefore, examining the role of wetlands in flood 
+attenuation for a Hurricane Hazel level storm is a well-
+founded model parameter.
+Phase 2: Obtain Land Use and Building Footprints Data
+The Intact Centre obtained Digital Elevation Models 
+(DEM) from CVC and GRCA. The CVC elevation data was 
+provided with 0.5-meter resolution from the Greater 
+Toronto Area DEM (2002), updated on July 7, 2015. 
+The GRCA elevation data was provided with 10 cm 
+resolution from LiDAR acquired by Stantec.
+For Glen Williams, Cheltenham-Inglewood and Norval 
+area, the Intact Centre obtained land use data (2014) 
+and building footprints data (2016) from the Region 
+of Peel and DTMI Spatial, respectively. For Uptown 
+Waterloo, the Intact Centre obtained land use data 
+(2015) and building footprints (2016) from DMTI Spatial 
+and the City of Waterloo, respectively.
+Overlaying this information in GIS with hydrologic and 
+hydraulic model outputs from CVC and GRCA enabled 
+the Intact Centre to understand the depths and extent 
+of flooding for each inundated building within the two 
+pilot sites. Based on the modelling of Hurricane Hazel, 
+the projected count of flooded buildings was 47 for 
+Glen Williams, Cheltenham-Inglewood and Norval area 
+and 371 buildings for Uptown Waterloo.
+Phase 3: Classify Inundated Buildings
+The IBI Group’s Google Earth Pro View tool was used 
+to virtually examine all buildings projected to be 
+inundated. The tool allowed for the buildings to be 
+classified and for the information to be recorded (see 
+Appendix B for details regarding the Earth Pro View 
+tool).
+8
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 2. Method
+Fifty properties were also visited by Intact Centre staff 
+in the Uptown Waterloo area to ensure accuracy of 
+building classification completed using IBI Group’s 
+Google Earth Pro View tool. No corrections were 
+required. IBI Group’s Google Earth Pro View tool was 
+then used to classify all buildings located in Glen 
+Williams, Cheltenham-Inglewood and Norval area.
+Phase 4: Complete Flood Damage Estimation
+Three methods were used to estimate the cost of flood 
+damages, and to determine if one method might prove 
+to be more rigorous to use in flood valuation relative to 
+the other two going forward:
+Method 1: Flood damage estimates with/without 
+wetlands, determined utilizing average insurable 
+claims data from a July 8, 2013, Greater Toronto Area 
+flood event
+Average insurance claims estimates associated with 
+the July 8, 2013 storm in the Greater Toronto Area 
+(GTA) were obtained. The Insurance Bureau of Canada 
+confirmed the average insurance claim value for a 
+low-rise residential basement flood for this event 
+was $40,000.1  Using the Bank of Canada inflation 
+calculator, this value is equivalent to $41,813 in 2016 
+dollars. This number was applied to low-density 
+residential properties affected by riverine flooding for 
+the two pilot sites. Average insurance claims for all 
+other property types, including medium- and high-
+density residential properties, commercial, industrial 
+1This figure applies to owner-occupied claims; it is rounded; includes ex gratia payments; excludes claims denied or closed without payment; 
+and pertains to building, contents, and allocated loss adjustment expenses.
+2The Intact Centre uncovered that the flood damages values reported in Ontario’s Flood Damage Estimation Guide (2007) are expressed 
+in $/sq.ft. and in $/m2, whereas they should be expressed in $/structure. This was confirmed through examination of the original Flood 
+Damage Estimation Guide (1989) and subsequent e-mail communication with one of the authors of the Flood Damage Estimation Guide 
+(1989). The Intact Centre reported this finding to Ontario’s Ministry of Natural Resources and Forestry and maintained flood-damage values 
+as $/structure in this report.
+and institutional buildings, were based on estimates 
+from the July 8, 2013 GTA flood, provided by Intact 
+Financial Corporation.  
+Method 2: Flood damage estimates with/without 
+wetlands, determined utilizing Ontario’s Flood 
+Damage Estimation Guide (2007)
+The flood depth-damage curves used in Ontario were 
+originally developed for Ontario’s Ministry of Natural 
+Resources by Paragon Engineering Limited and 
+Ecologistics Limited in 1984 and 1985. In 2007, these 
+flood depth-damage curves were updated by Water’s 
+Edge Environmental Solutions Team LTD., W.F. Baird 
+& Associates Coastal Engineers Limited and Planning 
+Solutions Inc. who used Consumer Price Index (CPI) 
+adjustments to account for inflation. With assistance 
+from Statistics Canada, the Intact Centre used CPI data 
+to further adjust the flood depth-damage curves to 
+2016 dollars (Appendix E).  This approach, therefore, 
+considered key guidance offered by the province’s 
+Flood Damage Estimation Guide.
+In the course of preparing these estimates, an error 
+was noted in the Ontario flood depth-damage curves 
+that may exaggerate flood damages by at least one 
+order of magnitude.  The extent to which this error 
+has been carried forward into modelling programs 
+and the resultant impact on planning decisions is not 
+known at this time.  The error remains present in the 
+text of the Ontario Flood Damage Estimation Guide 
+(2007) at the time of publishing.2 
+9
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 2. Method
+@Shutterstock_636100307
+Method 3: Flood damage estimates with/without 
+wetlands, determined utilizing the depth-damage 
+functions from Alberta’s Provincial Flood Damage 
+Assessment Study (2014)
+In 2014, IBI Group (i.e., a global architecture, 
+planning, engineering and technology firm) 
+developed flood-depth-damage functions for the 
+Government of Alberta, Provincial Flood Damage 
+Assessment Study. To do so, IBI Group surveyed 
+residential, industrial, commercial and institutional 
+(IC&I) properties to quantify structural and contents 
+damages.xxvi,xxvii IBI Group also developed a Rapid 
+Flood Damage Assessment Model (RFDAM) to 
+automate flood damage calculations, based on 
+building elevation, flood elevation and depth-damage 
+functions. See Appendix B for a description of the 
+RFDAM and for adjustment factors applied by IBI 
+Group to support flood estimation for this study. 
+See Appendix C for the original flood depth-damage 
+functions developed for Alberta’s Provincial Flood 
+Damage Assessment Study (2014).
+Note: the economic value of riverine flood damages 
+avoided through keeping wetlands intact could also 
+be quantified in terms of municipal stormwater 
+management infrastructure upgrades required to 
+achieve the minimum level of service for a municipality 
+(Appendix D). Since the municipal infrastructure for 
+both pilot sites had sufficient capacity to attenuate 
+flooding for all rainfall events, as per the minimum 
+municipal and provincial design standards (i.e., no 
+property flooding was projected to occur for frequent 
+rain events), no management infrastructure upgrades 
+were deemed necessary – and the economic evaluation 
+was not performed.
+10
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 3. Results
+In this Chapter, Sections 3.1 and 3.2 profile estimated 
+financial benefits of wetlands conservation for rural 
+areas of Glen Williams, Cheltenham-Inglewood 
+and Norval, as well as the urban area of Uptown 
+Waterloo, respectively. The Chapter concludes with 
+a discussion of the three-flood damage estimation 
+methods, highlighting the advantages of using Alberta’s 
+Provincial Flood Damage Assessment Study (2014) for 
+similar future analyses.
+3.1 Glen Williams, Cheltenham-Inglewood
+and Norval
+As shown in Table 2, the agricultural conversion of all 
+headwater wetlands in the Credit River Watershed 
+Table 2:	Number of Building Structures Flooded in Glen Williams, Cheltenham-Inglewood and 
+	
+Norval for a Modelled Hurricane Hazel (Fall Season)
+would result in a 55 percent increase in the number 
+of flooded buildings in Glen Williams, Cheltenham-
+Inglewood and Norval area for a Hurricane Hazel 
+level event occurring in the Fall. Table 3 summarizes 
+the estimated value of resulting flood damages.
+As shown, the cost of flood damages to building 
+structures in Glen Williams, Cheltenham-
+Inglewood and Norval is expected to be lower if 
+wetlands are maintained in their current state. 
+The absolute value and the scale of this cost 
+avoidance differs based on the methods chosen, 
+ranging from a 46 percent reduction in average 
+insurable claims, to 17 and 29 per cent reduction 
+11
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 3. Results
+Table 3:	 Estimated Value of Flood Damages for Glen Williams, Cheltenham-Inglewood and 
+	
+Norval, Modelled Hurricane Hazel (Fall Season) 2016 CAN$
+on flood damages to building structures, using 
+Ontario’s Flood Damage Estimation Guide and 
+Alberta’s Provincial Flood Damage Assessment 
+Study, respectively.  
+Lastly, if the impact of hummocky terrain was 
+included in the evaluation of flood damages, 
+it would lead to a further reduction in flood 
+damages.
+12
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 3. Results
+3.2 Uptown Waterloo
+The Uptown Waterloo area is more densely populated 
+than Glen Williams, Cheltenham-Inglewood and
+Norval.3 Accordingly, the total number of buildings 
+3Glen Williams, Cheltenham-Inglewood and Norval are low-density rural communities, with the total population under 3,000 and the 
+total building count under 1,000. In contrast, the Uptown Waterloo area is densely populated, with a population of 14,938 and a total 
+building count of 2,145.
+Table 4:	 Number of Building Structures Flooded in Uptown Waterloo for a Modelled Hurricane 	 	
+	
+Hazel (Fall Season)
+structures flooded would be significantly higher for 
+Uptown Waterloo, should a flood event occur (see 
+Table 4). Table 5 summarizes the associated value of 
+flood damages for this pilot site.
+13
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 3. Results
+Table 5:	 Estimated Value of Flood Damages for Uptown Waterloo for a Modelled Hurricane Hazel 	
+	
+(Fall Season) 2016 CAN$
+As illustrated, the cost of flood damages to building 
+structures in Uptown Waterloo is expected to be lower 
+if wetlands are maintained in their current state. The 
+absolute value and the scale of this cost avoidance, 
+again, differs based on the methods chosen - ranging 
+from 18 per cent reduction in average insurable claims, 
+to 51 and 38 per cent reduction on flood damages 
+to building structures, using Ontario’s Flood Damage 
+Estimation Guide and Alberta’s Provincial Flood 
+Damage Assessment Study, respectively.  
+Preserving hummocky terrain leads to a further 
+reduction in flood damages in the study area.
+3.3 Discussion of Flood Damage 
+Estimation Methods
+As illustrated in sections 3.1 and 3.2 above, method 
+three, or flood damages estimates using inputs 
+from Alberta’s Provincial Flood Damage Assessment 
+Study (2014), predict the highest absolute benefit of 
+wetlands conservation. The discussion below outlines 
+why this method is arguably the most accurate of the 
+three valuation techniques, or by corollary, why the 
+other two methods may underestimate the value of 
+flood damage.
+14
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 3. Results
+Method 1: Flood damage estimates with/without 
+wetlands, determined utilizing average insurable 
+claims data from a July 8, 2013, Greater Toronto Area 
+flood event
+This method may underestimate the value of flood 
+damages for the following three reasons:
+1.	 For every dollar of insured losses in Canada, there 
+are $3 to $4 of uninsured losses that are borne by 
+governments and individuals. 
+2.	 Flood damage estimates determined using average 
+insurable claims data from the July 8, 2013 GTA 
+flood likely underestimate flood damage from the 
+more severe, Hurricane Hazel level event, analysed 
+in this study.
+3.	 Overland flood damages were not historically 
+covered through personal property insurance. 
+Personal property overland flood insurance 
+became more widely available in Canada following 
+the 2013 floods in Alberta and Ontario. Therefore, 
+the cost of overland flood damages may not be 
+fully accounted for when using this method of 
+analysis.
+Method 2: Flood damage estimates with/without 
+wetlands, determined utilizing Ontario’s Flood 
+Damage Estimation Guide (2007)
+This method may underestimate the value of flood
+damages for the following three reasons:
+1.	 Ontario’s Flood Damage Estimation Guide is based 
+on a survey of residential buildings in Ontario 
+dating back to the 1980s. Since the 1980s, both 
+building use and construction approaches have 
+changed. For example, compared to the 1980s, 
+residential basements are now more frequently 
+used as living spaces, with more electronics and 
+equipment (e.g., furnace and heating, ventilation 
+and air conditioning systems) stored below 
+grade. Such changes, along with the changes in 
+construction approaches since the 1980s, are not 
+fully captured through CPI adjustments. Therefore, 
+the 2007 Flood Damage Estimation Guide for 
+Ontario likely understates the values of flood 
+damages that can be expected for residential 
+buildings in the province.
+2.	 Ontario’s Flood Damage Estimation Guide does 
+not provide values for estimating flood damage for 
+apartment buildings.
+3.	 For residential buildings, Ontario’s Flood Damage 
+Estimation Guide provides flood damage values per 
+property, implying that the larger the inundated 
+structure, the lower flood damage is per unit area. 
+The opposite tends to occur during flood events 
+(the larger the structure, the more significant 
+damages that are typically incurred).
+In conclusion, out of the three methods employed, 
+Alberta’s Provincial Flood Damage Assessment Study 
+(2014) provides the most recent, and by extension, 
+most applicable, data set for estimating structural 
+and contents damage for residential, industrial and 
+commercial buildings in Canada. This allows for a more 
+accurate estimation of flood damage than the other 
+two methods – accordingly, it is the recommended 
+method for flood damage estimations going forward.
+Wetlands @DUC
+15
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Chapter 4. Discussion & Conclusion
+This study confirms that wetlands conservation can 
+be a powerful means to reduce flood damages related 
+to riverine flooding. As illustrated, simply maintaining 
+wetlands in their natural state can result in financial 
+cost saving of 29 and 38 per cent in rural and urban 
+settings, respectively, under conditions of severe 
+precipitation.
+These finding are conservative - if the report 
+considered wetlands conversion to urban, largely 
+impervious surfaces (such as buildings, roads 
+and parking lots), rather than agricultural land 
+development - the financial value of cost savings would 
+have exceeded 29 and 38 per cent.
+Moreover, further quantification of benefits associated 
+with wetlands conservation, including habitat 
+protection, biodiversity improvements, water quality 
+enhancement, drought attenuation and carbon 
+sequestration, amplifies the message that maintaining 
+wetlands in their natural state is a financially 
+prudent and a socially desired outcome for Canadian 
+communities.
+This report underscores the role that natural 
+infrastructure, such as wetlands, plays in flood 
+mitigation and provides impetus for communities to 
+view natural infrastructure as a climate adaptation 
+solution.
+The report provides the financial argument for 
+wetlands conservation, supporting the directives 
+outlined in the Wetland Conservation Strategy for 
+Ontario, the proposed Naturally Resilient: Ministry of 
+Natural Resources and Forestry’s Natural Resource 
+Climate Adaptation Strategy and in the Government of 
+Canada’s Pan-Canadian Framework on Clean Growth 
+and Climate Change.
+Thames River Wetland @DUC
+16
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+Credit Valley Watershed
+Depicted in Figure 3 below, are the locations of the populated areas where flood damages were analyzed for the 
+Credit River Watershed.
+Figure 3:	 Glen Williams, Cheltenham-Inglewood and Norval, Credit River Watershed, Ontario
+17
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+See notes on Hydrologic and Hydraulic Modelling for more details
+Table 6:	 Population and Building Count within the Credit River Watershed
+Table 7:	 Wetland and Hummocky Terrain Modelling Assumptions within the Credit River 		
+	
+Watershed
+The following tables provide population, building count and wetlands modelling assumptions for the Credit River 
+Watershed.
+18
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+Laurel Creek Watershed
+Figure 4:	 Uptown Waterloo, Laurel Creek Watershed Ontario
+Depicted below (Figure 4) are the populated areas where flood damages were analyzed for the Laurel Creek 
+Watershed.
+19
+Role of Wetlands to Limit Urban and Rural Flood Damage
+The following tables provide population, building count and wetlands modelling assumptions for the Laurel Creek 
+Watershed pilot site.
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+See notes on Hydrologic and Hydraulic Modelling for more details.
+Table 8:	Population and Building Count within Laurel Creek Watershed
+Table 9:	 Wetland and Hummocky Terrain Modelling Assumptions with Laurel Creek Watershed
+20
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+Notes: Hydrologic and Hydraulic 
+Modelling
+Credit Valley Conservation (CVC) and Grand River 
+Conservation Authority (GRCA) oversaw all aspects of 
+hydrologic and hydraulic modelling for the purposes of 
+this study. The Intact Centre obtained the flood depths 
+and extents from CVC and GRCA, based on the outputs 
+of their respective modelling. The conservation 
+authorities provided the following explanations about 
+the hydrologic and hydraulic modeling, respectively.
+Credit River Watershed
+For Credit River Watershed, CVC used the GAWSER* 
+hydrologic and HEC-RAS 1D hydraulic models to derive 
+flood flow depths and extents. These models were 
+calibrated and verified against observed gauge and 
+reservoir flow data.
+Stormwater management facilities, such as ponds, 
+were included in the GAWSER model used for the 
+economic analysis. Culverts, bridges and dams were 
+included in the HEC-RAS model only, to estimate 
+flood elevations. The flows were routed through the 
+Island Lake Dam located in Orangeville. The dam is a 
+passive structure used for low flow augmentation and 
+recreation. It has some minor attenuation capacity that 
+may reduce flow rates immediately downstream of the 
+structure. However, it has little or no impact on flood 
+risk in the flood vulnerable areas along the Credit River.
+To account for wetlands storage capacity, Hydrologic 
+Response Unit (HRU) was the main input variable in 
+the GAWSER model that governed the potential for 
+downstream flood attenuation.4   Since the maximum 
+storage depth could vary according to plant growth 
+4 Wetlands are one type of HRU in the model. Other HRUs include urban lands, crop lands on sandy soils, forest, etc. Although all wetlands 
+are, by definition, the same HRU, there are some parameters such as depression storage that can vary from wetland to wetland. For this 
+study, all wetlands were modelled assuming the same HRU, as the data did not exist to treat them individually.
+and surface covers (depending on the time of year), 
+the HRU was specified as a maximum depression 
+depth, varying between 75 and 115 percent. In an 
+event mode, the wetlands would start with zero water 
+depth, such that the entire maximum depression 
+storage depth was available to reduce downstream 
+flooding. In a continuous mode, the depression depth 
+would fill up quickly, and then it would fluctuate 
+throughout the year due to precipitation, evaporation 
+and some infiltration. 
+ 
+In addition to modelling the storage directly associated 
+with the surface areas of the wetlands, the GAWSER 
+model also accounted for storage associated with 
+hummocky terrain. The extent of the hummocky 
+terrain was calculated and then modelled at the 
+sub-catchment level. For the area draining to the 
+hummocky terrain, there is sufficient storage area 
+within the existing topography to contain the runoff 
+generated by a Hurricane Hazel type event.
+To simulate the removal of wetlands, the depression 
+storage values were modelled as a typical agricultural 
+HRU with the soil types set the same as the soil that is 
+dominant in that sub-catchment.
+Matchdash @DUC
+21
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Laurel Creek Watershed
+For the Laurel Creek Watershed, GRCA hired Stantec 
+to execute GAWSER* and PC-SWMM hydrologic 
+modelling and HEC-RAS 2D hydraulic modelling.  
+Storm water management facilities, dams, bridges 
+and culverts were left in both the hydrologic and the 
+hydraulic models. These models were calibrated and 
+verified against observed gauge and reservoir flow 
+data.
+To model wetland storage capacity, elevation-storage 
+area curves were estimated from a high resolution 
+1 metre by 1 metre Digital Elevation Model. The 
+outflows from the large depressions were estimated 
+using the HEC-RAS model. If the HEC-RAS model did 
+not exist for a particular area, a crude HEC-RAS model 
+was created to estimate the discharge curve from a 
+large depression. Large depressions were physically 
+modelled/represented as reservoirs. The reservoirs 
+were modelled to spill, once the elevation in the 
+depression or wetland reached the spillage point. 
+Appendix A: Background Information on the Credit 
+Valley and Laurel Creek Watersheds
+Where there were many small wetlands, their volume 
+in any given catchment was estimated from the Digital 
+Elevation Model. The volume of the wetland storage 
+was divided by the catchment area, to convert the 
+volume of storage to a depth of storage over the entire 
+catchment. The depth of storage associated with 
+wetlands or dry depressions increased the depression 
+storage for the catchment. 
+To simulate the removal of wetlands, the depression 
+storage values were reduced to lower storage values 
+for agricultural areas. 
+This modelling approach could be improved in the 
+future, with consideration given to modelling of 
+overland flow and peak flows timing. The reduction in 
+peak flow is expected to further increase the economic 
+value of wetlands from a flood reduction perspective.
+*The GAWSER model is not an integrated ground 
+and surface model and, therefore, may significantly 
+underestimate the influence of wetlands on flood 
+attenuation.
+Public Domain @Liquid Library
+22
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix B: IBI Group Rapid Flood Damage
+Assessment Model (RFDAM)
+Building Inventory
+IBI Group’s flood damage assessment model inputs 
+details about each building in the flood hazard area 
+into flood-damage calculations (details are outlined 
+below). Where field verification of building details 
+is not feasible, Internet-based resources can be 
+employed to construct the building inventory. Google 
+Earth Pro’s Street View is the primary method of 
+remotely determining main floor use and elevation. 
+If incorporating data from tax assessment records, 
+municipal map viewers can be used to reconcile 
+parcel and address information to match records with 
+polygons. Finally, Internet searches can help identify 
+IBI Group’s Rapid Flood Damage Assessment Model (RFDAM) works with three input tables: (1) the GIS inventory 
+table of residential and commercial/retail buildings in the study area; (2) the specific depth-damage curves for 
+contents and structures indexed to that community; and (3) the hydraulic flood-frequency-elevation table derived 
+from the HEC-RAS model.
+Figure 5:	 IBI Group Rapid Flood Damage Assessment Model
+uses that are not clear from the street view or other 
+data sources. 
+To facilitate the entry of building classification and 
+estimated main floor elevation, IBI Group developed 
+an application for use within Google Earth Pro. A 
+shapefile of all properties is created with one of the 
+attribute fields containing HTML code. When imported 
+into Google Earth Pro, this code creates a dynamic 
+window that allows the user to enter a building’s 
+characteristics right from the Google Earth application. 
+This drastically increases the speed at which the 
+inventory can be completed. Figure 6 illustrates a 
+screenshot of this tool in use.
+23
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix B: IBI Group Rapid Flood Damage
+Assessment Model (RFDAM)
+Figure 6:	IBI Group Google Earth Pro View
+The following is a list of required building attributes 
+for the RFDAM model, as well as a brief description of 
+desktop collection methods. 
+•	
+Location (x,y coordinates)                                            
+A centroid point is created from each of the 
+building polygons within the study area (detached 
+garages and other small accessory buildings are 
+omitted).
+•	
+Size (main floor area)                                                
+The main floor area is based on the GIS building 
+polygon. For houses (single family, duplex, 
+townhouse, etc.), the area is adjusted to account 
+for eave overhangs when the polygon is generated 
+by aerial imagery. Additionally, the area of any 
+attached garages and carports is deducted from 
+the shape area. Such deduction can either be 
+recorded as a percentage in the Google Earth 
+input tool, or noted as being a standard single- or 
+double-car garage for calculation purposes. 
+•	
+Structure class and type                                          
+The class and type are determined visually, 
+generally through Google Street View. Where 
+multiple uses are present, the predominant use 
+is selected, or in the case of retail, the general 
+merchandise class may be the most appropriate. 
+•	
+Elevation at grade                                                    
+The ground elevation is obtained by sampling the 
+LiDAR layer at the building centroid. 
+•	
+Main floor elevation (from grade)                      
+Main floor elevation is generally not recorded in 
+the available municipal data sets. The elevation 
+can be estimated using Google Street View 
+imagery. The number of risers at the entrance of 
+a building is a good guide for estimating elevation 
+from grade. For buildings with primary use or 
+suite below grade, a negative main floor elevation 
+is used rather than a basement. 
+24
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix B:  IBI Group Rapid Flood Damage
+Assessment Model (RFDAM)
+•	
+Below-grade development                                       
+The presence of a below-grade development 
+is recorded as a yes or no. For houses, the 
+assumption that all basements have finished 
+spaces is made. For apartments and non-
+residential buildings, this refers to underground 
+parking.
+HEC-RAS Table
+The HEC-RAS or flood elevation table contains the 
+water surface elevation at each building location for all 
+return periods studied. This information is obtained by 
+sampling each flood raster for every building centroid. 
+For the purposes of this project, flood elevations for 
+each building were provided to IBI Group based on the 
+modelling provided by Credit Valley Conservation and 
+Grand River Conservation Authority.
+Damage Table
+The damage tables contain all the stage-damage 
+functions for the various classifications and building 
+types in the inventory. These curves were developed 
+by IBI Group in 2014 based on detailed surveys of 
+Alberta households and first-principle repair estimates. 
+Specifically, IBI Group completed 83 residential 
+dwelling unit surveys in Calgary and Edmonton, 
+Alberta. The updated flood damage functions for the 
+non-residential buildings were based on previous 
+studies and verified through sampling (12 industrial, 
+commercial and institutional buildings were sampled 
+to validate previous study results).
+The following adjustment factors were applied by IBI 
+Group to support flood estimation for this project.
+Adjustment Factors - Contents Damages
+The Survey of Household Spending (SHS) was 
+used to measure the change in household content 
+value between the provinces. Average household 
+expenditures are measured annually in categories 
+similar to the CPI and are available at the provincial 
+level. If average household spending on televisions, for 
+example, is the same between provinces, it is assumed 
+that there will be the same dollar value of television 
+equipment in the household, even if the CPI of an 
+unchanging television set falls. This index can therefore 
+be used to adjust values between years and provinces. 
+Accordingly, weighted categories of spending can 
+be derived from the residential contents survey to 
+represent goods damaged by floodwaters. Adjusting 
+the Alberta household content values to Ontario values 
+can be performed using the following formula: 
+ON damages = AB damages * (Weighted 
+ON spending/Weighted AB spending)
+Table 10:	 Residential Content Damages Adjustment: Alberta to Ontario, 2014 CAN$
+25
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix B:  IBI Group Rapid Flood Damage
+Assessment Model (RFDAM)
+The 2014 SHS was the latest available release at 
+the time of reporting; thus, no adjustments from 
+2014 to 2016 values were made. 
+Adjustment Factors - Structures Damages
+The cost of labour and materials for construction 
+and restoration varies across the country and 
+over time. Two sources of data were employed 
+to adjust the Alberta structural damages 
+amounts for use in Ontario: the 2014 Altus 
+Construction Cost Guide and Statistics Canada’s 
+Construction Price Indexes. The construction 
+cost guide accounts for geographic differences, 
+and the price indexes allow for adjustments 
+from 2014 to 2016 dollars. 
+Specifically, 2014 GTA construction costs per 
+square foot for each class of building were 
+divided by the 2014 Calgary costs to provide 
+a 2014 ratio. A second ratio was obtained by 
+dividing the 2016 GTA construction price index 
+for each class of building by the 2014 GTA 
+construction price index. The product of these 
+two ratios provides an index to adjust structurals.
+Notably, Ontario flood damage values for 
+residential properties were reported in Ontario’s 
+Flood Damage Estimation Guide in terms of 
+dollars per depth of flooding, per building 
+structure. Accordingly, IBI Group set up a special 
+run of the RFDAM (the RFDAM was designed 
+to calculate flood damages per square metre) 
+so that the Ontario flood damages values could 
+be easily processed. This was done by setting 
+the value of the residential building area to 
+one for each single-family structure and to the 
+number of units for each attached structure 
+(townhouses and duplexes). The flood damages 
+for non-residential buildings were calculated on 
+a square metre basis, as Ontario’s Flood Damage 
+Estimation Guide provides flood damage values 
+for non-residential buildings on a square metre 
+basis.
+26
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+The flood damage values noted below were used as an input into IBI Group’s Rapid Flood Damage Assessment 
+Model (RFDAM). 
+All values reported in this Appendix are expressed in $/m2 (2014).
+Adjustment indices to translate content and structural damage values for use in Ontario (2016 dollars) are 
+provided in Appendix B
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+27
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+28
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+29
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+30
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+31
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+32
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+33
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+1 - Distance between floors is variable in model; 2.7 metres is illustrated.
+2 - Not all structures have basements, and it is a separate calculation in the model.
+34
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+35
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+For underground parking, damages are assumed at $215/m2.
+36
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+For underground parking, damages are assumed at $215/m2.
+37
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+38
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix C: Flood Damage Values from Alberta’s 
+Provincial Flood Damage Assessment Study (2014)
+39
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix D: Greenland Consulting Engineers’ Estimation 
+Method for Municipal Infrastructure Upgrades Avoided
+The Intact Centre engaged Greenland Consulting 
+Engineers to develop a five-step approach to assess 
+the value of municipal stormwater management 
+infrastructure upgrades avoided as a result of 
+preserving wetlands. This methodology, documented 
+below, is expected to be used in instances where 
+the loss of wetlands results in a significant reduction 
+in the level of service below municipal stormwater 
+management design requirements.
+Step 1: Drainage Watercourse Hydrology
+Step 1 involves obtaining the existing hydrology 
+model for the relevant watercourses (e.g. PCSWMM, 
+Visual OTTHYMO, GAWSER or any model accepted by 
+the province/conservation authority for floodplain 
+delineation).  The hydrology model should be updated 
+with the most recent information including, but not 
+limited to, Digital Elevation Model (DEM), watershed 
+attributes and land use classifications. The hydrology 
+model used to assess municipal damages should be the 
+same hydrology model used to assess private sector 
+damages.
+Step 2: Hydraulic Model
+ Using the watercourse flow data, watercourse 
+crossing data, updated DEM, and channel/floodplain 
+conditions from Step 1, a watercourse hydraulic model 
+should be executed for the existing conditions for the 
+various return period storm events (e.g., HEC-RAS or 
+any model accepted by the province/conservation 
+authority for floodplain delineation). In Ontario, the 
+standard design storm return periods are 2-year, 
+5-year, 25-year, 50-year, 100-year and Regulatory 
+Storm (e.g., Timmins, or Hurricane Hazel). 
+Step 3: Determine Design Return Period for 
+Watercourse Crossing 
+Using the hydraulic model in Step 2, starting at the 
+furthest downstream end of the watercourse and 
+working upstream, determine whether the first 
+downstream municipally owned infrastructure asset 
+(e.g., culvert, bridge, swale) meets the minimum 
+standards for the design storm. Since some 
+municipalities have storm design standards and some 
+do not, relevant municipal standards (if available), 
+or Ontario’s Ministry of Natural Resources (MNR) 
+flood hazard criteriaxxxiv (in absence of such standards) 
+would govern this analysis. For example, if the first 
+watercourse crossing starting at the downstream end 
+was a culvert under a rural arterial road spanning 
+greater than 6.0 metres, is that culvert able to 
+convey the 50-year storm event (as per Table B-3 of 
+the MNR Technical Guide, River & Stream Systems: 
+Flooding Hazard Limit)? If yes, then the culvert is 
+sized appropriately, a desired level of protection is 
+achieved and the municipality accepts the damages 
+for repair under larger magnitude storm events. If no, 
+then a determination of what steps need to be taken 
+to enable the culvert to convey the 50-year storm is 
+carried out (Step 4).
+Step 4: What Improvements Are Required to Ensure 
+an Appropriate Level of Protection?
+Based on the appropriate design return period 
+information obtained in Step 3, Step 4 addresses 
+improvements to infrastructure required to meet 
+the applicable standards for the design storm return 
+period. If, in the previous example, a culvert under 
+a rural arterial road could not convey the 50-year 
+40
+Role of Wetlands to Limit Urban and Rural Flood Damage
+storm, then the following questions need to be asked. 
+First, does the culvert meet the minimum size, as 
+outlined in the relevant municipal standards? If the 
+culvert is less than the minimum size, it needs to be 
+replaced with at least the minimum size per municipal 
+standard. If the culvert is greater than the minimum 
+size and cannot convey the design storm, the culvert 
+will need to be increased in size so that it can convey 
+the storm. Engineering calculations (or modelling) are 
+required to determine the appropriate culvert size. The 
+costs to upgrade the culvert to the appropriate size 
+represent the cost of damage avoidance. Hydrology 
+and associated peak flows should be determined for all 
+relevant return events.
+Step 5: Update Hydraulic Model with New 
+Infrastructure 
+Using the newly upgraded municipal infrastructure 
+from Step 4, the newly-sized culvert should be used to 
+re-run the model from Step 2 to determine the extent 
+of flooding, if any, following the upgrade. The following 
+questions would be asked: while still moving upstream, 
+does all the municipally owned infrastructure meet 
+the standards? If yes, then the process is complete and 
+Appendix D: Greenland Consulting Engineers Estimation 
+Method for Municipal Infrastructure Upgrades Avoided
+the new hydraulic model can be used to assess private 
+sector damages. If not, then Steps 3 to 5 need to be 
+repeated until all municipally owned infrastructure 
+meets the minimum design storm criteria, as set by 
+the municipality or by the MNR flood hazard criteria. 
+This may take several iterations with multiple design 
+storms, depending on the watercourse crossing. 
+The total municipal damages due to flooding for 
+the subject watercourse would be the sum of all 
+the required costs to improve the crossings to the 
+municipal and/or provincial standards with respect to 
+the storm flow conveyance capacity. 
+As detailed in key findings (Chapter 4), flooding for 
+both pilot sites did not exceed the levels of service 
+guaranteed by the municipality. Accordingly, for the 
+two pilot sites, the analysis of municipal infrastructure 
+upgrades was not carried out, as existing municipal 
+stormwater management infrastructure had sufficient 
+capacity to handle stormwater for their respective 
+levels of service.
+Please refer to the flow chart diagram below for a 
+summary of these steps.
+@shutterstock_636424937
+41
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix D: Greenland Consulting Engineers Estimation 
+Method for Municipal Infrastructure Upgrades Avoided
+42
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+To calculate required Consumer Price Index (CPI) adjustments for Ontario’s Flood Damage Estimation Guide 
+(2007), relevant index groups were selected. For the Flood Damage Estimation Guide Groups 1 through 7, 
+“Household Operations, Furnishings and Equipment,” Ontario values of CPI Table 326-0021 were used. The 
+calculation entailed taking the price index from the year of interest (2015) and subtracting the price index of the 
+base year from it (2005).  The result is then divided by the base year. Please refer to the tables below for final 
+2016 values.
+43
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+44
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+45
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+46
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+47
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+48
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+49
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+50
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+51
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Appendix E: Consumer Price Index Adjustments for 
+Ontario’s Flood Damage Estimation Guide (2007)
+52
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Endnotes
+i	
+Office of Audit General of Canada. Reports of the Commissioner of the Environment and Sustainable Development. 	 	
+	
+	
+REPORT 2: Mitigating the Impacts of Severe Weather, 2016. Print. Accessible at:
+	
+http://www.oag-bvg.gc.ca/internet/docs/parl_cesd_201605_02_e.pdf
+ii	
+Insurance Bureau of Canada. Facts of the Property and Casualty Insurance Industry in Canada 2016, 2016. Web. Accessible 	
+	
+	
+at: http://assets.ibc.ca/Documents/Facts%20Book/Facts_Book/2016/Facts-Book-2016.pdf
+  
+iii	
+Office of Audit General of Canada. Reports of the Commissioner of the Environment and Sustainable Development. 	 	
+	
+	
+REPORT 2: Mitigating the Impacts of Severe Weather, 2016. Web. Accessible at:
+	
+http://www.oag-bvg.gc.ca/internet/docs/parl_cesd_201605_02_e.pdf
+  
+iv	
+Government of Canada. Office of the Parliamentary Budget Officer. Estimate of the Average Annual Cost for Disaster 	
+	
+	
+Financial Assistance Arrangements due to Weather Events, 2016. Accessible at:
+	
+http://www.pbo-dpb.gc.ca/web/default/files/Documents/Reports/2016/DFAA/DFAA_EN.pdf
+  
+v	
+Government of Canada. “Canada’s Way Forward on Climate Change: The Paris Agreement.” Government of Canada, 06 J	
+	
+	
+an. 2016. Web. Accessible at: http://www.climatechange.gc.ca/default.asp?lang=En&n=24700154-1
+  
+vi	
+Government of Canada. Pan-Canadian Framework on Clean Growth and Climate Change. Adaptation and climate resilience. 	 	
+	
+2017. Accessible at: https://www.canada.ca/en/services/environment/weather/climatechange/pan-canadian-framework/	
+	
+	
+adaptation-climate-resilience.html 
+vii	
+Environment and Climate Change Canada. Causes of Flooding. Accessible at: https://ec.gc.ca/eau-water/default.	
+	
+	
+	
+asp?lang=En&n=E7EF8E56-1 
+viii	
+Konrad, C. P. U.S. Geological Survey. 2003. Effects of Urban Development on Floods. Accessible at:
+	
+https://pubs.usgs.gov/fs/fs07603/
+ix	
+Statistics Canada. Census of Population, 2011 and 2016, 2017. Accessible at: http://www12.statcan.gc.ca/census-	
+	
+	
+	
+recensement/2016/as-sa/98-200-x/2016001/98-200-x2016001-eng.cfm  
+x	
+David Suzuki Foundation. “Natural infrastructure is good for the climate and communities.” 15 Jan. 2015. Web. Accessible at: 		
+	
+http://www.davidsuzuki.org/blogs/science-matters/2015/11/natural-infrastructure-is-good-for-the-climate-and-communities/  
+xi	
+Green Infrastructure Ontario Coalition. Benefits of Green Infrastructure, 2016. Web. Accessible at:
+	
+http://www.greeninfrastructureontario.org/benefits  
+xii	
+Ontario Ministry of Municipal Affairs and Housing. The Provincial Policy Statement, 2014. Accessible at: http://www.mah.gov.		
+	
+on.ca/AssetFactory.aspx?did=10463 
+xiii	
+Ontario Ministry of Natural Resources. 2002. Technical Guide - River and Stream Systems: Flooding Hazard Limit. Accessible at: 	
+	
+http://www.renaud.ca/public/Environmental-Regulations/MNR%20Technical%20Guide%20Flooding%20Hazard%20Limit.pdf
+xiv	
+Daigneault, C. V., Nichols, K., & Hall, M.. The Importance of Wetlands in Ecosystem Services: With Special Attention on Flood 	 	
+	
+Attenuation, Carbon Sequestration, Hydrogeology, Water Quality, Biodiversity and Social and Local Values. ERSC 3160H-Wetl. 		
+	
+Final Report, 2012, pp. 1-55. Print. http://www.muskokawatershed.org/wp-content/uploads/2012/06/ValuingWetlands1.pdf
+xv	
+O2 Planning + Design Inc.. Ecosystem Service Approach Pilot on Wetlands: Assessment of Water Storage and Flood Control 	
+	
+	
+Ecosystem Services, 2011. Print. Accessible at: https://extranet.gov.ab.ca/env/infocentre/info/library/8687.pdf
+xvi	
+Barbier et al. The Value of Wetlands in Protecting Southeast Louisiana from Hurricane Storm Surges, 2013. Web. Accessible at: 	
+	
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058715
+53
+Role of Wetlands to Limit Urban and Rural Flood Damage
+Endnotes
+xvii	
+Narayan, S. et al., Coastal Wetlands and Flood Damage Reduction: Using Risk Industry-based Models to Assess Natural Defenses 	
+	
+in the Northeastern USA. Lloyd’s Tercentenary Research Foundation, London, 2016. Print. Accessible at:https://www.lloyds.	
+	
+	
+com/~/media/files/lloyds/corporate%20responsibility/ltrf/coastal_wetlands_and_flood_damage_reduction.pdf
+xviii	
+Turner et al., The values of wetlands: landscape and institutional perspectives. Ecological Economics, 35(3), 7-23, 2000. Print
+xvix	
+Acreman, M. and Holden, J. Society of Wetland Scientists. 2013 “How Wetlands Affect Floods.” Accessible at: http://dec.	
+	
+	
+vermont.gov/sites/dec/files/wsm/wetlands/docs/wl_How_Wetlands_Prevent_Floods.pdf
+xx	
+Ontario Biodiversity Council. State of Ontario’s Biodiversity 2010 - Highlights Report. Accessible at: http://sobr.ca/_biosite/wp-	
+	
+content/uploads/SOBR-2010_Highlights-Report_E.pdf 
+xxi	
+The Canadian Rural Revitalization Foundation (CRRF). 2015. The State of Rural Canada. Accessible at: http://sorc.crrf.ca/ 
+xxii	
+Ontario Ministry of Natural Resources and Forestry. 2002. Technical Guide. River & Stream Systems: Flooding Hazard Limit. 	
+	
+	
+Accessible at: http://www.renaud.ca/public/Environmental-Regulations/MNR%20Technical%20Guide%20Flooding%20	
+	
+	
+Hazard%20Limit.pdf 
+xxiii	
+Environmental Systems Research Institute. ArcGIS 9.2 Desktop Help, What is raster data?, 2008. Web. Accessible at: http://	
+	
+	
+webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=What_is_raster_data%3F
+xxiv	
+Environmental Systems Research Institute. ESRI Shapefile Technical Description, 1998. Print. Accessible at:
+	
+https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf
+xxv	
+Acreman, M. and Holden, J. Society of Wetland Scientists. 2013 “How Wetlands Affect Floods.” Accessible at:
+	
+http://dec.vermont.gov/sites/dec/files/wsm/wetlands/docs/wl_How_Wetlands_Prevent_Floods.pdf
+xxvi	
+McBean, Fortin, Gorrie. A Critical Analysis of Residential Flood Damage Estimation Curves, Canadian Journal of Civil 	 	
+	
+	
+Engineering, 1986. Print
+xxvii	
+Alberta’s Provincial Flood Damage Assessment Study. Prepared for Government of Alberta ESRD - Resilience and Mitigation by 	
+	
+IBI Group, 015. Print. Accessible at: http://aep.alberta.ca/water/programs-and-services/flood-mitigation/documents/
+	
+pfdas-alberta-main.pdf
+xxviii	 Town of Caledon. Finance & Infrastructure Services. 21 March 2017. Web. Accessible at:
+	
+https://www.caledon.ca/en/townhall/departments.asp
+xxvix	 Town of Halton Hills. Policy and Planning and Infrastructure, 21 March 2017. Web. Access at:
+	
+http://www.haltonhills.ca/planning/
+xxx	
+DTMI Spatial. Halton Hills Building Outlines. University of Waterloo, 2017.
+xxxi	
+Region of Peel. Caledon Building Footprints, 2015. Web. Accessible at: http://opendata.peelregion.ca/
+	
+data-categories/facilities-and-structures/caledon-building-footprints.aspx
+xxxii	
+Statistics Canada. GeoSearch 2016. 2016 Census. Ottawa, Ontario, 2017. Web. Accessible at:
+	
+http://www12.statcan.gc.ca/census-recensement/2016/geo/geosearch-georecherche/index-eng.cfm
+xxxiii	
+City of Waterloo Open Data. Building Outlines. City of Waterloo, 2017. Web. Accessible at:
+	
+http://opendata-city-of-waterloo.opendata.arcgis.com/datasets/building-outlines
+xxxiv	 Ontario Ministry of Natural Resources. 2002. Technical Guide, River & Stream Systems: Flooding Hazard Limit. Accessible at: 	 	
+	
+http://www.renaud.ca/public/Environmental-Regulations/MNR%20Technical%20Guide%20Flooding%20Hazard%20Limit.pdf  
+For further information about the report, please contact:
+Natalia Moudrak, Director, Intact Centre on Climate Adaptation
+Faculty of Environment, University of Waterloo
+EV3 4334 - 200 University Avenue West
+Waterloo, ON, CANADA, N2L 3G1
+nmoudrak@uwaterloo.ca

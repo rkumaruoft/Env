@@ -1,0 +1,483 @@
+Research article
+Association of air quality during forest ﬁre season with respiratory
+emergency department visits in Vancouver, British Columbia
+Matthew Douglas-Vail*, Alex Jiang, Shannon Erdelyi, Jeffrey R. Brubacher, Riyad B. Abu-Laban
+Department of Emergency Medicine, University of British Columbia, Vancouver, British Columbia, Canada
+A R T I C L E
+I N F O
+Article History:
+Received 18 May 2023
+Accepted 5 June 2023
+Available online 10 June 2023
+A B S T R A C T
+Background: Climate change has been deemed the biggest global health threat of the 21st century. One conse-
+quence of climate change is the increasing frequency and severity of forest ﬁres. Smoke from wildﬁres has
+the ability to negatively impact air quality over large distances. The aim of this study was to examine the
+association that air quality had on emergency department visits for cardiac, respiratory and psychiatric/
+behavioral health chief complaints during forest ﬁre season in Vancouver, British Columbia.
+Methods: The study period was January 1, 2009 −December 31, 2019. Forest ﬁre season was deﬁned as April
+1- September 30. Air quality (measured by PM2.5 in ug/m3) was obtained from the Vancouver International
+Airport (YVR) Air Quality station. Emergency department visit data (CEDIS triage complaint) was acquired
+from a regional emergency department database. A generalized linear mixed model with Poisson link func-
+tion was used to determine the relative risk (as a percentage) for respiratory, cardiac and psychiatric/behav-
+ioral health CEDIS triage complaints associated with a 10 unit increase in PM2.5.
+Results: PM2.5 during forest ﬁre season was signiﬁcantly associated with emergency department visits for
+respiratory chief complaints. For every 10 ug/m3 increase in PM2.5, there was a 4.61% (95% CI: 3.07, 6.17)
+increase in relative risk of respiratory chief complaints presenting to emergency departments. No association
+was found between PM2.5 and cardiac or psychiatric/behavioral health chief complaints during forest ﬁre
+season or non-forest ﬁre season. During non-forest ﬁre season, PM2.5 was found to be negatively associated
+with respiratory (-3.57, 95% CI: -5.44, -1.66) and cardiac chief complaints (-2.77, 95% CI: -4.16, -1.47).
+Conclusion: Our results indicate a probable association between air quality during forest ﬁre season and
+emergency department visits for respiratory chief complaints. This provides further illustration of the wide-
+spread impact of climate change, and underscores the importance of efforts to address it.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Forest ﬁres
+Climate change
+Emergency department
+Introduction
+Climate change has been called the biggest global health threat of
+the 21st century [1]. Climate change will directly negatively impact
+health through several independent interactions. This includes
+changing patterns of disease and mortality, food insecurity, access to
+clean
+water,
+migration/displacement
+and
+increasing
+extreme
+weather events. All of these interactions combined are predicted to
+place an extreme burden on an already stressed healthcare system.
+One signiﬁcant consequence of climate change is the increasing fre-
+quency and severity of forest ﬁres [2]. This increase has been linked
+to changes in precipitation and temperature ﬂuctuations [3]. Wildﬁre
+smoke contains high levels of particulate matter and toxins, in partic-
+ular carbon monoxide, nitrous oxide and benzene, all of which are
+known to have cardiovascular, respiratory, ophthalmic and psychiat-
+ric implications [4]. Smoke from wildﬁres has the ability to negatively
+impact air quality huge distances from the burning site [3].
+Particulate matter (PM) in wildﬁre smoke is categorized by size in
+microns and measured in ug/m3. PM10 and PM2.5 are the predomi-
+nant air pollutants and PM10, the larger of the particles, passes
+through the upper respiratory tract and deposits in the upper air-
+ways. PM10 has been linked to increased respiratory admissions as
+well cardiovascular and all-cause mortality [5]. PM2.5, the smaller
+particulate matter most closely linked with forest ﬁres, deposits in
+the terminal bronchi and alveoli. PM2.5 has been linked to chronic
+obstructive pulmonary disease (COPD) and asthma exacerbations as
+well as cardiovascular and all-cause mortality [6,7].
+Several American studies have found surges of cardiovascular and
+respiratory presentations to emergency departments (EDs) during
+wildﬁres when controlling for humidity, temperature, seasonal and
+temporal effects [8,9]. A link between air quality and ED visits for psy-
+chiatric presentations has also been suggested [10,11]. However, no
+* Corresponding author at: Unit 302, 2535 Alberta Street, Vancouver BC, V5Y 3L2.
+E-mail addresses: mdouglasvail@gmail.com (M. Douglas-Vail), alex.jiang@ubc.ca
+(A. Jiang), jbrubach@mail.ubc.ca (J.R. Brubacher), riyad.abulaban@ubc.ca
+(R.B. Abu-Laban).
+https://doi.org/10.1016/j.joclim.2023.100255
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 13 (2023) 100255
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+studies have speciﬁcally examined the effect of forest ﬁres on psychi-
+atric/behavioral health presentations to EDs. The purpose of this
+study was to examine the association of air quality on ED visits in
+Vancouver for cardiac, respiratory and psychiatric/behavioral health
+chief complaints during forest ﬁre season in British Columbia. Our
+broader hope is to demonstrate the effect of forest ﬁres and air qual-
+ity on already overcrowded and strained EDs and increase our under-
+standing
+of
+climate
+change
+as
+an
+environmental
+and
+health
+emergency.
+Methods
+Study period and location
+The study location was the greater Vancouver area. Data for air
+quality as measured by 24-hour mean PM2.5 in ug/m3 was obtained
+from January 1, 2009 until December 31, 2019 from the Vancouver
+International Airport (YVR) air quality monitoring station which is
+roughly 10 km from the hospitals included in the study. Forest Fire
+season was deﬁned as April 1 - September 30 of each year, as deﬁned
+by the British Columbia Wildﬁre Service. ED visit data was acquired
+from a regional database that includes 6 hospitals (Vancouver Gen-
+eral Hospital, Mount Saint Joseph’s Hospital, St Paul’s Hospital, Lion’s
+Gate Hospital, Richmond Hospital and the University of British
+Columbia Hospital). This network has a catchment of roughly 1.2 mil-
+lion people, approximately 25% of BC’s population with an average of
+440,000 ED visits per year. The Canadian Emergency Department
+Information System Complaints list was used to categorize triage
+complaints. Complaints were grouped into cardiac (cardiac arrest,
+chest pain cardiac, chest pain non-cardiac, palpitations, hypertension,
+general
+weakness,
+syncope/presyncope),
+respiratory
+(stridor,
+wheeze, shortness of breath, respiratory arrest, cough/congestion,
+hyperventilation,
+hemoptysis)
+or
+psychiatric/behavioral
+health
+(depression/suicidal/deliberate self-harm, anxiety/situational crisis,
+hallucinations/delusions,
+insomnia,
+violent/homicidal
+behavior,
+bizarre behavior, pediatric/disruptive behavior, substance misuses/
+intoxication, overdose ingestion, withdrawal). All other triage com-
+plaints were excluded.
+We aggregated ED visits by day and by the three pre-deﬁned chief
+complaint categories. We used a generalized linear mixed model
+(GLMM) with a Poisson link function to estimate the impact of PM2.5
+during Forest Fire season on the daily count of ED visits. We ﬁt sepa-
+rate models for each chief complaint category. To adjust for temporal
+trends in ED visits, a three-level hierarchical cluster structure was
+constructed based on calendar dates: data belonging to the same day
+of the week, month, and year formed one cluster. Random intercepts
+were applied to account for the heterogeneity of each cluster. The
+independent variables were PM2.5 (ug/m), a dummy variable indicat-
+ing Forest Fire season, and an interaction term between PM2.5 and
+Forest Fire season. The annual population of Metro Vancouver was
+included as an offset term to adjust for changes in the population
+served by the EDs over time. We also examined the impact of lag 1
+and lag 2 PM2.5 on the model ﬁt. We used model coefﬁcients to cal-
+culate relative risks (%RR) with 95% conﬁdence intervals in relation to
+each 10 ug/m increase in PM2.5. The model used was as follows:
+log(Daily ED visit counts) = b0i + b1 * PM25i + b2 * Fire_season + b3 * PM25 *
+Fire_season + log(Population)
+Where b0i is the random effect, including day of the week, month, and year
+For PM2.5 (b1) in non-ﬁre season, the percentage change in the relative risk (%RR)
+is in relation to 10 unit increase of PM2.5
+%RR = [exp(b1 * 10) - 1]*100%
+For ﬁre season indicator variable (b2), the percentage change in the relative risk
+(%RR) is in relation to 1 unit increase, namely, the indicator variable from 0 to 1
+%RR = [exp(b2) - 1]*100%
+(continued)
+For PM 2.5 and its interaction with ﬁre season indicator, the percentage change in
+the relative risk (%RR) is PM 2.5 during ﬁre season in relation to 10 unit increase
+of PM2.5
+%RR = [exp[(b1+ b3) * 10] - 1]*100%
+The statistical software R (version 3.6.1) was used [12].
+Results
+Table 1 demonstrates the air quality in Vancouver as well as the
+number of emergency department visits for respiratory, psychiatric/
+behavioral health and respiratory chief complaints. The 24 hour
+mean PM2.5 from January 1, 2009 to December 31, 2019 was 5.4 ug/
+m3. On average, the air quality in Vancouver is excellent. The lowest
+recorded 24 hour mean PM2.5 was 0.2 ug/m3. The highest recorded
+daily average PM2.5 (was 122.3 ug/m3) occurred during the forest
+ﬁre season of 2018. This value is almost ﬁve times the WHO recom-
+mended threshold of 25 ug/m3. The mean monthly ED visits to this
+hospital network for cardiac chief complaints from 2009 to 2019 was
+2931 (standard deviation 464). On average there were more cardiac
+than psychiatric/behavioral health and respiratory presentations. The
+mean monthly ED visits to this hospital network for psychiatric chief
+complaints was 1592 (standard deviation 345). Finally, the mean
+monthly ED visits for respiratory chief complaints was 1371 (stan-
+dard deviation 321).
+Fig. 1 shows the 24 hour mean PM2.5 levels at the Vancouver
+International Airport Air Quality Station during the study period. For-
+est ﬁre season (April 1 - September 30) is denoted in orange. The larg-
+est spikes in air quality as measured in PM2.5 all occurred during
+forest ﬁre season.
+Fig. 2 illustrates monthly ED visits for cardiac, psychiatric/behav-
+ioral health and respiratory chief complaints. Prior to one of the hos-
+pitals switching to an electronic medical records system (data from
+that hospital not available post switch), there was a trend towards
+increasing cardiac visits to this ED hospital network during the study
+period. Psychiatric/behavioral health chief complaints peaked around
+the ﬁrst quarter of 2017; however, overall there is a trend toward
+increasing psychiatric visits throughout the study period. Respiratory
+chief complaints were found to have marked seasonal variability (as
+has been noted previously), peaking during the winter months in cor-
+relation with increased visits during inﬂuenza season.
+Fig. 3 demonstrates the association between air quality as mea-
+sured in PM2.5 and emergency department visits for cardiac, psychi-
+atric and respiratory chief complaints. The model indicates that
+PM2.5 during forest ﬁre season is signiﬁcantly correlated with ED vis-
+its for respiratory chief complaints. For every 10 ug/m3 increase in
+PM2.5, there is a 4.61% (95% CI: 3.07, 6.17) increase in relative risk of
+respiratory chief complaints presenting to the ED was demonstrated.
+There was no statistically signiﬁcant correlation between PM2.5 dur-
+ing forest ﬁre season and cardiac or psychiatric/behavioral health
+chief complaints presenting to the ED. During non-forest ﬁre season,
+air quality was negatively associated with respiratory and cardiac
+chief complaints. For every 10 ug/m3 increase in PM2.5 during non-
+forest ﬁre season, there was a 2.77% (4.16 - 1.37) decrease in the
+Table 1
+Daily minimum, maximum, mean, standard deviation (SD) and interquartile range
+(IQR) for PM 2.5, Vancouver.
+Variable
+Min
+Max
+Mean
+SD
+IQR
+Count
+Air quality (daily data)
+PM 2.5
+0.2
+122.3
+5.4
+4.6
+3.7
+3927
+ED visits of 6 hospital sites (monthly data)*
+Cardiac
+1445
+3903
+2931
+464
+690
+132
+Psychiatric
+590
+2281
+1592
+345
+480
+132
+Respiratory
+884
+2624
+1371
+321
+404
+132
+M. Douglas-Vail, A. Jiang, S. Erdelyi et al.
+The Journal of Climate Change and Health 13 (2023) 100255
+2
+relative risk of cardiac chief complaints presenting to the ED. For
+every 10 ug/m3 increase in PM2.5 during non-forest ﬁre season there
+was a 3.57% (5.44 - 1.66) decrease in the relative risk of respira-
+tory chief complaints presenting to the ED.
+Discussion
+One of the most striking examples of climate change in BC is the
+increasing frequency and severity of forest ﬁres. Smoke from forest
+ﬁres has the ability to negatively impact the air quality long distances
+from the burning site. Our results indicate that PM2.5 during forest
+ﬁre season is signiﬁcantly associated with ED visits for respiratory
+chief complaints. For every 10 ug/m3 increase in PM2.5, there is a
+4.61% (95% CI: 3.07, 6.17) increase in relative risk of respiratory chief
+complaints presenting to the ED. This suggests that air quality, driven
+by forest ﬁres, negatively impacts both EDs by increasing visit num-
+bers as well as patients’ health by forcing patients to visit the ED. This
+association between air quality and ED visits for respiratory issues
+has been previously reported in the literature but not in a Canadian
+metropolitan center [8,13].
+Overall, metropolitan Vancouver has excellent air quality. The vast
+majority (>99%) of days have an average PM2.5 below the WHO
+Fig. 1. 24 hour mean PM2.5 levels at Vancouver International Airport Air Quality Station from January 1, 2009 to December 31, 2019.
+Fig. 2. Monthly emergency department visits for cardiac (green), psychiatric (orange) and respiratory (blue) chief complaints.
+M. Douglas-Vail, A. Jiang, S. Erdelyi et al.
+The Journal of Climate Change and Health 13 (2023) 100255
+3
+threshold of 25 ug/m3. Our results indicate that the largest spikes in
+PM2.5 recorded in Vancouver, during the ten-year study period,
+occurred during forest ﬁre season. These spikes also correspond to
+more severe forest ﬁre seasons. Given the sporadic nature of the
+increases in PM2.5 and association with forest ﬁre season, our ﬁnd-
+ings suggest that forest ﬁres are a signiﬁcant contributor to air quality
+change in metropolitan Vancouver. This is noteworthy because forest
+ﬁres are able to affect air quality and thereby the health of patients
+over huge distances. The forest ﬁre season of 2018 provides a striking
+example. Of the 2115 ﬁres that occurred during the 2018 forest ﬁre
+season, only 5 occurred within the greater Vancouver area [14]. A
+total of 1,354,300 hectares were burned that summer of which only
+16 hectares were in the greater Vancouver area [15]. Despite
+accounting for only 0.2% of all ﬁres and <0.001% of all hectares
+burned, metropolitan Vancouver experienced signiﬁcant impacts on
+air quality during forest ﬁre season −peaking with a PM2.5 roughly
+5 times the WHO-recommend limit.
+We found an overall trend towards increased ED visits during the
+study period. This trend has been reported previously in Canada and
+elsewhere [15]. This increase has been felt most acutely in urban, aca-
+demic hospitals like those represented in this study. There is marked
+seasonal variability in respiratory chief complaints presenting to the
+ED. This likely corresponds to the traditional inﬂuenza season, prior
+to the Covid-19 pandemic. Historical records from the BC Center for
+Disease Control indicate that cases of inﬂuenza typically peak around
+the 1st week in January −a trend that is reﬂected in our ED visits for
+respiratory chief complaints [16]. Psychiatric/behavioral health chief
+complaints peaked in the ﬁrst half of 2017 which may reﬂect changes
+in outpatient access to resources, changes to mental health funding
+models and/or a variety of external factors not captured by our data.
+Our ﬁndings on the relationship between forest ﬁres, air quality
+and ED visits may inform future primary care and public health prac-
+tices. In previous studies, patients with chronic and underlying respi-
+ratory conditions were most acutely affected by changes in forest
+ﬁre-related air quality [5,6]. A system to identify and warn suscepti-
+ble patients of impending changes to air quality during forest ﬁre sea-
+son might positively impact patient morbidity and mortality and
+reduce healthcare expenses. It is possible that widespread mask-
+wearing during the Covid-19 pandemic may have the unintended
+consequence of decreasing ED visits for respiratory chief complaints
+during the corresponding forest ﬁre seasons. However, a Californian
+study found that forest ﬁre-related degeneration in air quality was
+associated with increased Covid-19 mortality [17]. Changes in air
+quality during forest ﬁre season may in fact increase visits to the ED
+for Covid-19-related respiratory chief complaints. This however,
+remains an area for future study.
+Interestingly, despite the well-established association between air
+quality and cardiovascular health, we did not ﬁnd an association
+between air quality and ED visits for cardiac chief complaints during
+forest ﬁre season. Although not demonstrated in our study, this asso-
+ciation has been elucidated previously [7]. This may be explained by
+the fact that cardiovascular morbidity and mortality is most strongly
+associated with long-term exposure to poor air quality, and our
+design investigated the impact of short-term exposure to forest ﬁre
+smoke [18]. It has also been suggested that air quality may negatively
+impact mental health. More speciﬁcally, long-term exposures to air-
+borne particulate matter may result in central nervous system toxic-
+ity and subsequently affect patients’ mental health. We did not ﬁnd a
+relationship between air quality and psychiatric/behavioral health
+chief complaints; however, our results do not refute prior reports
+that long-term changes in air quality inﬂuence mental health.
+The impact of forest ﬁres on air quality in British Columbia is pro-
+jected to worsen, with more severe and frequent forest ﬁres as a
+result of climate change. The resulting importance of identifying and
+addressing climate change as a health emergency is self-evident.
+Doing so will require an interdisciplinary and planetary health
+approach - a new ﬁeld which focuses on understanding the health
+impacts of human-caused disruptions to the planet [19]. Coordina-
+tion between primary care, public health and government, as was
+demonstrated during the Covid-19 pandemic will be required.
+Strengths and limitations
+This is a population level study with ten years of emergency
+department and air quality data and includes adjustment for multiple
+confounders, including the population ﬂuctuations in Vancouver over
+the study period. Our results however should be interpreted with the
+limitations of any population-level study, and the fact that the associa-
+tions we found may not be causally linked or the result of confounding.
+Further, chief complaints as per the CEDIS Triage protocol may include
+mis-categorizations or fail to capture patient presentation nuances.
+For example, a respiratory chief complaint may in fact be related to a
+cardiac or endocrine problem. Our intent was not to establish causa-
+tion, but to investigate the relationship between forest ﬁre-driven air
+quality on ED visits and in doing so support the generation of hypothe-
+ses regarding the impact of climate change on our population.
+Our study also reported a negative association between respira-
+tory chief complaints and air quality outside of forest ﬁre season. The
+Fig. 3. Percentage change in daily ED visits in relative risk per 10 unit increase in PM2.5.
+M. Douglas-Vail, A. Jiang, S. Erdelyi et al.
+The Journal of Climate Change and Health 13 (2023) 100255
+4
+air quality during non-forest ﬁre season in Vancouver is generally
+excellent and well below the WHO recommended cutoff of PM2.5.
+This association may be explained by worsening air quality indoors
+with decreased ventilation during colder months, increased damp-
+ness, humidity, pets and allergens [20]. We were unable to capture
+an explanation for this association in our data.
+Conclusion and future directions
+Our results indicate a probable association between air quality dur-
+ing forest ﬁre season and emergency department visits for respiratory
+chief complaints. This serves as a solitary example of the impact of cli-
+mate change on human health, even in well-resourced countries. This
+provides further illustration of the widespread impact of climate
+change, and underscores the importance of efforts to address it. We
+also hope this study serves as a call for adaptation to climate change.
+At a community and population health level, this may support the sug-
+gestion of masking during forest ﬁre season in Vancouver or increasing
+access to high-efﬁciency particulate air ﬁlters (HEPA) [21]. At a
+departmental level, this may support surge stafﬁng for increased
+emergency department visits. Future work should be dedicated to
+understanding and adapting the delivery of healthcare in the emer-
+gency department in light of our changing climate.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+The authors would like to acknowledge the contributions of the
+participants at the 2019 Novel Education in Research Design Course
+afﬁliated with the Emergency Medicine Residency Program at Uni-
+versity of British Columbia.
+Financial support
+This research received no speciﬁc grant from any funding agency,
+commercial or not-for-proﬁt sectors.
+*6 hospital sites include: LGH, RHS, UBCH, VGH, MSJ, SPH. LGH
+dropped out of the system in May 2018.
+References
+[1] Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, et al. Managing the health
+effects of climate change: lancet and University College London Institute for
+Global Health Commission. Lancet. 2009;373(9676):1693–733.
+[2] Wildﬁre Smoke and Health [Internet]. NCCEH. [cited 2021Jun12]. Available from:
+https://www.ncceh.ca/environmental-health-in-canada/health-agency-projects/
+wildﬁre-smoke-and-health
+[3] Reid CE, Brauer M, Johnston FH, Jerrett M, Balmes JR, Elliott CT. Critical review of
+health impacts of wildﬁre smoke exposure. Environ Health Perspect 2016;124
+(9):1334–43.
+[4] Finlay SE, Moffat A, Gazzard R, Baker D, Murray V. Health impacts of wildﬁres.
+PLoS Curr 2012;4 e4f959951cce2c.
+[5] Morgan G, Sheppeard V, Khalaj B, Ayyar A, Lincoln D, Jalaludin B, et al. Effects of
+bushﬁre smoke on daily mortality and hospital admissions in Sydney, Australia.
+Epidemiology 2010;21(1):47–55.
+[6] Sutherland ER, Make BJ, Vedal S, Zhang L, Dutton SJ, Murphy JR, et al. Wildﬁre
+smoke and respiratory symptoms in patients with chronic obstructive pulmonary
+disease. J Allergy Clin Immunol 2005;115(2):420–2.
+[7] Hayes RB, Lim C, Zhang Y, Cromar K, Shao Y, Reynolds HR, et al. PM2.5 air pollu-
+tion and cause-speciﬁc cardiovascular disease mortality. Int J Epidemiol 2020;49
+(1):25–35.
+[8] Dohrenwend PB, Le MV, Bush JA, Thomas CF. The impact on emergency depart-
+ment visits for respiratory illness during the southern california wildﬁres. West J
+Emerg Med 2013;14(2):79–84.
+[9] Rodopoulou S, Chalbot MC, Samoli E, Dubois DW, San Filippo BD, Kavouras IG. Air
+pollution and hospital emergency room and admissions for cardiovascular and
+respiratory diseases in Do~na Ana County, New Mexico. Environ Res 2014;129:39–
+46.
+[10] Szyszkowicz M, Willey JB, Grafstein E, Rowe BH, Colman I. Air pollution and emer-
+gency department visits for suicide attempts in Vancouver, Canada. Environ
+Health Insights. 2010;4:79–86.
+[11] Bernardini F, Attademo L, Trezzi R, Gobbicchi C, Balducci PM, Del Bello V, et al. Air
+pollutants and daily number of admissions to psychiatric emergency services:
+evidence for detrimental mental health effects of ozone. Epidemiol Psychiatr Sci
+2020;29:e66.
+[12] R Core Team. R: a language and environment for statistical computing. Vienna,
+Austria: R Foundation for Statistical Computing; 2020. URL https://www.R-proj-
+ect.org/.
+[13] Howard C, Rose C, Dodd W, Kohle K, Scott C, Scott P, et al. SOS! Summer of Smoke:
+a retrospective cohort study examining the cardiorespiratory impacts of a severe
+and prolonged wildﬁre season in Canada’s high subarctic. BMJ Open 2021;11(2):
+e037029.
+[14] British Columbia Ministry of Forests, Lands, Natural Resource Operations and
+Rural Development, BC Wildﬁre Service, 2019, “Fire Incident Locations −Histori-
+cal,” British Columbia Data Catalogue, https://catalogue.data.gov.bc.ca/dataset/
+ﬁre-incident-locations-historical (accessed May 6, 2019); Statistics Canada, 2017,
+Age and sex highlight tables, 2016 Census, Catalogue no. 98-402-X2016002,
+Ottawa, http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/as/
+index-eng.cfm (accessed February 26, 2019).
+[15] Rowe BH, McRae A, Rosychuk RJ. Temporal trends in emergency department vol-
+umes and crowding metrics in a western Canadian province: a population-based,
+administrative data study. BMC Health Serv Res 2020;20(1):356.
+[16] Inﬂuenza (Flu) Season [Internet]. HealthLink BC. 2021 [cited 2021Jun12]. Avail-
+able from: https://www.healthlinkbc.ca/health-feature/ﬂu-season
+[17] Meo SA, Abukhalaf AA, Alomar AA, Alessa OM, Sami W, Klonoff DC. Effect of envi-
+ronmental pollutants PM-2.5, carbon monoxide, and ozone on the incidence and
+mortality of SARS-COV-2 infection in ten wildﬁre affected counties in California.
+Sci Total Environ 2021;757:143948.
+[18] Mills NL, Donaldson K, Hadoke PW, Boon NA, MacNee W, Cassee FR, et al. Adverse
+cardiovascular effects of air pollution. Nat Clin Pract Cardiovasc Med 2009;6
+(1):36–44.
+[19] Foley JA, Monfreda C, Ramankutty N, Zaks D. Our share of the planetary pie. Pro-
+ceed Natl Acad Sci 2007;104(31):12585–6.
+[20] Raju S, Siddharthan T, McCormack MC. Indoor air pollution and respiratory
+health. Clin Chest Med 2020 Dec;41(4):825–43 PMID: 33153698; PMCID:
+PMC7665158. doi: 10.1016/j.ccm.2020.08.014.
+[21] Allen RW, Barn P. Individual- and Household-Level Interventions to Reduce Air
+Pollution Exposures and Health Risks: a Review of the Recent Literature. Curr
+Environ Health Rep 2020 Dec;7(4):424–40 Epub 2020 Nov 26. PMID: 33241434;
+PMCID: PMC7749091. doi: 10.1007/s40572-020-00296-z.
+5
+M. Douglas-Vail, A. Jiang, S. Erdelyi et al.
+The Journal of Climate Change and Health 13 (2023) 100255

@@ -1,0 +1,1996 @@
+Pathways to Decarbonization
+A report to the Minister of Energy to evaluate a moratorium on new 
+natural gas generation in Ontario and to develop a pathway to zero 
+emissions in the electricity sector. 
+DECEMBER 15, 2022
+PUBLIC
+Contents
+Executive Summary	
+1
+Introduction	
+6
+Modelling Approach	
+9
+Scenario and Assumption Development	
+10
+Demand Forecasting	
+13
+Capacity Expansion and Resource Adequacy Assessments	
+14
+Operability Screening	
+15
+Transmission Analysis	
+16
+Cost and Emissions Analysis	
+17
+A Moratorium on New Gas Generation	
+18
+Demand Forecast	
+18
+Resource Build-out	
+20
+Transmission	
+23
+Moratorium: Conclusion and Outcomes	
+24
+Assessing a Pathway to a Decarbonized Future	
+25
+Demand Forecast	
+25
+Resource Build-out	
+29
+Transmission	
+31
+Pathways: Conclusion and Outcomes	
+32
+Natural Gas as a Transitional Resource to Ensure Operability	
+33
+Implementation Dependencies and Risks	
+34
+Conclusion	
+37
+This report is provided for informational purposes only. The IESO has prepared this report based on currently available information and 
+on assumptions about the future availability of electricity supply and demand growth. The information, statements and conclusions in 
+this report are subject to risks, uncertainties and other factors that could cause actual results or circumstances to differ materially from 
+the report’s findings. The IESO provides no guarantee, representation, or warranty, express or implied, with respect to any statement or 
+information in this report and disclaims any liability in connection with it.
+Independent Electricity System Operator
+Pathways to Decarbonization
+Executive Summary
+While Ontario benefits from one of the cleanest electricity systems in North America 
+(which contributes only three per cent of the province’s total greenhouse gas emissions), 
+the process of eliminating all emissions from the grid is a significant and complex 
+undertaking that will require an extensive and collaborative effort to achieve. 
+The Pathways to Decarbonization report explores this effort, responding to the Minister of Energy’s 
+request to evaluate a moratorium on new natural gas generating stations in Ontario and to develop 
+an achievable pathway to decarbonization in the electricity system. 
+Two scenarios – Moratorium and Pathways – are presented to address the Minister’s request. These 
+scenarios are not integrated power system plans. Rather, they are analyses that identify potential 
+opportunities and challenges to consider, particularly as demand for electricity grows and Ontario’s 
+resource mix evolves. The Independent Electricity System Operator (IESO) brings the expertise and 
+experience of the system operator to this study, and as such, the results contribute future-looking 
+insights that can inform policy and strategy development. They make it clear that a carefully governed 
+and orderly approach to the energy transition will be necessary to maintain reliability and manage costs. 
+One key insight of this analysis is that phasing gas generation out of the system will require ingenuity 
+and the implementation of new technologies to reorient our current system, which is grounded in the 
+flexibility that natural gas generators provide. This is in part because Ontario's natural gas fleet is 
+capable of providing continuous, flexible energy year round and under all weather conditions, and 
+there is currently no like-for-like replacement. This means natural gas will be needed until reliable 
+replacements have been identified, put into service and have demonstrated their capability. 
+Independent Electricity System Operator
+1
+Pathways to Decarbonization
+Another key takeaway is that in an environment of rapid economic growth and electrification, where 
+demand for electricity will increase at unprecedented rates, a significant investment in new electricity 
+system infrastructure in a relatively short period will be essential to meeting emissions reductions targets. 
+Understanding these issues provides a foundation for action and contributes to the ongoing conversation 
+about the energy transition. As such, this report will inform the work of the Ontario government’s 
+Electrification and Energy Transition Panel (EETP) and the Cost-Effective Energy Pathways Study1.
+Moratorium on Natural Gas Generation
+On the question of when a moratorium on new natural gas generation facilities can begin, the IESO 
+looked at what resources would be needed to ensure reliability mid-decade and then after 2027. 
+Against a backdrop of growing demand and increasing pressure on supply, we assessed the potential 
+for capacity, energy and transmission expansion without additional natural gas generation after the 
+IESO’s current long-term procurement for new supply. 
+This assessment showed that a moratorium would be feasible beginning in 2027. At that point, the 
+system would not require additional emitting generation to ensure reliability, provided that other 
+forms of non-emitting supply can be added to the system in time to keep pace with demand growth. 
+The results of this scenario would require investments of approximately $26 billion in new infrastructure.
+The Moratorium scenario also shows that once the current slate of nuclear refurbishments is 
+completed and new non-emitting supply enters the system, emissions could begin to decrease 
+significantly. In this scenario, 4,000 megawatts (MW) of natural gas generation is retired and 
+emissions drop by 60 per cent. Natural gas generation would, however, be needed to continue to 
+provide flexibility to the broader system and meet local needs in the Greater Toronto Area (GTA) – 
+an issue that the IESO is actively evaluating further. 
+A Pathway to Decarbonization 
+In the development of a pathway to a decarbonized grid, the IESO adopted a more aggressive 
+electrification demand forecast. The Pathways scenario illustrates a system designed to meet winter 
+peaks that are almost three times higher than those we experience today. As a result, the system 
+would likely require an additional 69,000 MW of non-emitting supply and 5,000 MW in demand 
+reductions from conservation. 
+We therefore contemplated a decarbonized supply mix by 2050 with contributions from new 
+nuclear, conservation, demand response, renewables and storage. The mix also includes low-carbon 
+generation such as hydrogen and renewable natural gas – currently emerging technologies – at scale. 
+The need for a significant increase in transmission capability was also identified. 
+1 To inform the work of the EETP, the Ministry of Energy is undertaking a study to understand pathways for economy-wide 
+decarbonization. The work will begin in December 2022.
+Independent Electricity System Operator
+2
+Pathways to Decarbonization
+Bridging the work of today with the needs of a 
+decarbonized world will be challenging and complex. 
+Ontario's electricity system is well positioned to 
+make the transition, but will need to address a series 
+of challenges in order to achieve decarbonization.
+Decarbonizing 
+Ontario’s 
+Electricity System
+Pathways to Decarbonization
+2050 Scenario
+88,000
+MW
+Nuclear
+Hydro
+Wind
+Solar
+Bioenergy
+Hydrogen
+Demand
+Response
+Imports
+Storage
+MANAGE COSTS
+$400 billion over 2.5 decades
+PREPARE FOR SITING AND 
+LAND USE
+Siting requirements 14 times the size 
+of Toronto
+FOCUS ON INDIGENOUS 
+PARTNERSHIPS 
+Increased role beyond current 20% 
+participation rate in electricity projects
+DEVELOP CAPITAL/LABOUR 
+RESOURCES 
+A potential six-fold increase in existing 
+workforce to build projects
+FOCUS ON INNOVATION 
+New technologies to drive new supply such 
+as 15,000 MW of hydrogen capacity
+INCREASE POLICY CERTAINTY
+Near and long-term certainty to drive private 
+sector investment in infrastructure 
+and technology
+STREAMLINE REGULATORY 
+PROCESSES
+Streamlined siting and regulatory processes 
+keeping the local perspective at the core
+System Capacity Today
+42,000
+MW
+Natural
+Gas
+Independent Electricity System Operator
+3
+Pathways to Decarbonization
+In all, the bulk system expansion needed to enable decarbonization in this scenario would require an 
+investment in the range of $375 to $425 billion. 
+Both the Moratorium and Pathway scenarios demonstrate that it is possible to reliably manage 
+the energy transition with the necessary investments, and they highlight the time, cost and risks 
+involved. How Ontario’s new supply mix actually evolves will depend on future research, analysis, 
+consumer preferences and, ultimately, policy and investment decisions. More research and planning 
+work will be needed to turn these scenarios into an actionable plan to move Ontario’s current clean 
+supply mix and system toward a fully decarbonized target.
+Addressing Risks
+Bridging the work of today with the needs of a decarbonized world will be challenging and complex. 
+While Ontario has a very clean electricity grid today, it must still be prepared to address dependencies 
+that are key to meeting broader decarbonization goals: 
+•	 Large infrastructure such as hydroelectric, nuclear facilities and transmission can take 10 to 15 years 
+to build. Preliminary work should begin now so that options are available in the 2030s and beyond.
+•	 Significant investments in capital, materials and labour will be required to build out a fully 
+decarbonized system. One study2 estimates that the 14,000-strong labour force currently working 
+on electricity infrastructure projects could need to increase six-fold for decades. 
+•	 Communities and First Nations across the province have a growing voice in how and where new 
+infrastructure is located, so meaningful and transparent discussions about siting and land use will 
+be required.
+•	 While many of the technologies needed to decarbonize are already known and commercialized, many 
+others, including low-carbon fuels and small modular reactors (SMRs), are still in development. It will 
+be important for Ontario and Canada to continue to invest in these, and other, innovations.
+•	 Energy plans need to be approved and new infrastructure needs to be planned, permitted and 
+sited. Regulatory and approval processes, such as environmental and impact assessments, need to 
+be resourced appropriately and streamlined to enable this. 
+•	 Costs must be carefully managed to ensure the actual impact on total energy costs is affordable 
+and that they do not diverge significantly from those of our neighbours. Rapidly rising electricity 
+costs could discourage electrification, stifle economic growth or hurt consumers with low incomes. 
+2 See Appendix B, section 6
+Independent Electricity System Operator
+4
+Pathways to Decarbonization
+Conclusions 
+This report demonstrates the sheer scope and magnitude of the effort needed should Ontario 
+decide to decarbonize its electricity system while achieving a net-zero economy by 2050. The IESO 
+has identified a number of “no regret” actions that can be taken to help meet growing demand, 
+address retirements of existing generation and ensure a state of readiness to manage any future 
+decarbonization policy. These actions will lay the groundwork that both builds on Ontario’s already 
+clean system and allows for progress in a shifting environment. These no regrets actions include:
+•	 Accelerating current efforts to acquire new non-emitting supply, including the implementation of 
+recent conservation and demand management directives. 
+•	 Beginning the planning, siting and environmental assessment work needed for new nuclear, long-
+duration storage and hydroelectric facilities, as well as transmission infrastructure, to allow for 
+faster implementation. 
+•	 Investing in emerging technologies like low-carbon fuels. Further work is needed to determine if 
+they can replace at scale some of the flexibility that natural gas currently provides the system.
+•	 Galvanizing collaboration amongst stakeholders and Indigenous communities.
+•	 Ensuring that regulatory, approval and permitting processes are ready to manage future 
+investment at scale.
+•	 Establishing an open, transparent and traceable process to measure progress and demonstrate the 
+results of decisions and actions taken along the way.
+For its part, the IESO will incorporate the many learnings from this report into its core work, including 
+more explicitly addressing the risks of climate change and the ongoing energy transition in its planning 
+and procurement processes. 
+Independent Electricity System Operator
+5
+Pathways to Decarbonization
+Introduction
+In Canada, as in many countries around the world, governments are developing policies 
+aimed at achieving their own net-zero greenhouse gas (GHG) emissions economies by 
+2050, supported by clean electricity systems. In Ontario, the government is taking action 
+by establishing the upcoming Cost-Effective Energy Pathways Study, as well as launching 
+a climate change impact assessment, investing in innovative SMRs, and implementing 
+one of the largest battery storage procurements ever undertaken. At the federal level, the 
+government recently proposed the Clean Electricity Regulations (CER) and complementary 
+policies to decarbonize Canada’s electricity system by 2035. 
+At the local level, customers are also driving this transition. A movement toward environmental, 
+social and corporate governance goals is encouraging the growth and development of non-emitting 
+electricity resources. Businesses and homeowners are exploring how to shift away from fossil fuel-
+based energy for building heating, transportation, and industrial processes, among others, and they 
+are expecting a clean electricity supply to power the transformation.
+Today Ontario’s electricity system is already more than 90 per cent emissions-free and the sector 
+contributes only three per cent to the province’s total greenhouse gas emissions. However, as the 
+broader economy decarbonizes, there will be increased pressure on the grid to meet significant 
+growth in demand for electricity. 
+In recognition of these trends and in response to the IESO’s 2021 technical study on the phase-out 
+of natural gas, the Minister of Energy directed the IESO to explore the feasibility of a moratorium on 
+new gas-fired electricity generation and a pathway to a decarbonized electricity system. The Minister 
+asked the IESO to consider reliability and cost in the analysis, and to explore low-carbon fuels and 
+carbon capture and storage. He also asked that the report examine the role of technologies such as 
+pumped storage and battery storage combined with non-emitting resources, as well as hydroelectric, 
+nuclear and demand response.
+In response to the Minister’s request, the IESO undertook a scenario assessment exercise informed by 
+stakeholder engagement and outreach. While not an integrated electricity system planning process, 
+these scenarios were developed using the same tools and methodologies, and provide valuable insights 
+into the work required to achieve this goal. 
+Independent Electricity System Operator
+6
+Pathways to Decarbonization
+Given our mandate, this assessment focuses only on the bulk power system – i.e., high-voltage 
+transmission lines, generation and interconnections with neighbouring jurisdictions – and does not 
+consider the impact on local distribution systems. We expect, however, that some of the resources 
+identified in this study will be distributed energy resources (DERs) connected within the distribution 
+system. In developing a zero-carbon, reliable scenario and as requested by the Minister, we have used 
+cost as a key determining factor. Our assessments, therefore result in cost-optimized supply mixes.
+Consistent with many other recent studies, this report shows that achieving a net-zero economy 
+powered by an emissions-free electricity system will involve a massive investment in new infrastructure 
+and increased cost. It also notes that significant risks and dependencies will have to be addressed to 
+enable implementation. It will be vital that this transition is managed prudently so that costs do not 
+discourage electrification, negatively affect the economy, or place an undue burden on people with 
+low incomes.
+The characteristics of the scenarios presented in this report are based on current information – many 
+other factors can, and likely will, influence what mix is ultimately put in place. These include: competition; 
+the availability of resources, capital and labour; the impact of changing weather; the adoption rate of 
+distribution-level resources; the level of community approval of new electricity projects; the pace of 
+regulatory approvals; and the evolution and commercialization of certain markets and technologies, 
+such as hydrogen, renewable natural gas and nuclear.
+
+Climate Risk
+The International Panel on Climate Change has called on nations around the world to reduce 
+emissions by 2050 to limit temperature increases to 1.5 degrees Celsius thereby limiting the 
+risks to natural and human systems. 
+Because of the accelerating effects of climate change, weather scientists forecast that Ontario’s 
+weather patterns will change significantly over the coming decades. These changes, which 
+are well documented in the Climate Atlas of Canada, will have a major impact on how demand 
+increases and decreases throughout the day, affecting the performance of the electricity 
+system and the integrity of our infrastructure. If these issues are left unaddressed, there is 
+a deepening concern that costs to the Canadian economy from weather and climate impacts 
+will be significant, as reflected in a recent report from the Canadian Climate Institute.
+It is clear that we will need to continually assess, understand, mitigate and adapt to 
+changing weather.
+Independent Electricity System Operator
+7
+Pathways to Decarbonization
+Electricity System Reliability and the IESO’s Role
+Much of the activity of our daily lives depends on an electricity system that is reliable, meaning power 
+is there when we need it to be. Ontario’s electricity grid is one of the most reliable in the world, safely 
+and steadily meeting the needs of the province every minute of every day. And because it works so 
+seamlessly, its complex mechanisms are hidden – so much so that most of us only notice our electricity 
+supply when it’s not there.
+In fact, our provincial grid is an extensive, dynamic and interconnected system that is both stable 
+and nimble, with a foundation of reliable infrastructure that can respond to large and small changes 
+whenever needed.
+For the operators of this system to manage events as they occur in real time, in both normal and 
+unexpected circumstances, many things are required: the system must meet the physical requirements 
+of moving power along transmission and distribution lines, for example, as well as operating standards 
+for reliability and security. It must also be able to respond to sudden changes quickly, and meet demand 
+every hour of every day.
+These responsibilities are top of mind today as a growing global momentum is driving the 
+decarbonization of electricity systems in the pursuit of a net-zero economy. Thoughtful and detailed 
+work has been undertaken recently in many jurisdictions, including in Canada, to explore the possibilities 
+and timelines for moving electricity systems to non-emitting technologies. 
+All of these studies identify electrification as a viable option to mitigate the risk of climate change, 
+and predict a massive build-out of electricity infrastructure. Appendix A, Tab 7 provides a high-level 
+comparison of the IESO’s results with similar studies produced by government, research institutes, 
+regulators, and environmental organizations.
+From the IESO’s perspective, all of these efforts are a welcome contribution and add valuable insight 
+to the collective understanding of what will be needed in the near and longer term. Most, however, 
+use a relatively high-level lens, building potential supply mixes to meet only forecasted capacity and 
+energy needs. 
+As the system operator and planner, we examined capacity and energy, but also factored in the 
+requirements of the transmission system and began to consider the complexities of operating the 
+electricity system as a whole on a day-to-day basis; this makes our contribution distinctive.
+What we learned is that decarbonizing the electricity system is a complex task that must be carefully 
+managed so as to not disrupt daily lives and the province’s economy. In the modelling approach section 
+that follows, the steps taken to develop reliable and cost-effective scenarios are described in detail. 
+
+“Scenarios are not intended to represent a full description of the future. They highlight 
+central elements of a possible future and draw attention to the key factors that will drive 
+future developments. Scenarios are hypothetical constructs, not forecasts, predictions or 
+sensitivity analysis.”
+Task Force on Climate-Related Financial Disclosure
+ 
+Independent Electricity System Operator
+8
+Pathways to Decarbonization
+Modelling Approach
+The Pathways to Decarbonization report complements the IESO’s Annual Planning 
+Outlook (APO), which accounts for demand and supply forecasts based on existing policy 
+and project commitments, customer behaviour and available technologies. This report 
+explores the possibilities for different patterns of consumption, broad electrification and 
+the emergence of new technologies, as well as the expansion of the current supply mix 
+over different time frames. 
+The two scenarios outlined in this report – Moratorium and Pathways – use software modelling 
+tools, professional judgment and the set of detailed assumptions described below to simulate an 
+energy-adequate expanded resource mix over a given time frame. The IESO created a mix based 
+on the feasibility of new resources which accounted for build time and annual build limits, cost and 
+performance. Only low-emissions resources that are considered technically feasible today, or that 
+could be available within the time frame of the study, were included as potential new candidates for 
+the future mixes.
+It should be noted that reliability assessments were only performed for the final year of each 
+scenario: 2035 for Moratorium and 2050 for Pathways. A thorough and detailed planning process 
+would be required to identify reliable options for reaching these end-points. These plans typically 
+take a number of years and incorporate many interdependent factors, such as facility commissioning 
+and retirements, project planning, outages and much more. 
+Although this report is not a plan, it relies on the same data and expertise that the IESO uses in 
+annual demand, resource and adequacy assessments. Technical standards that underpin the safe 
+operation of electricity systems across the continent have been employed to highlight what 
+a hypothetical future could look like if certain conditions were met.
+The supply mix modelling and analysis process comprises a number of steps (see Figure 1), which 
+are described in this section. The goal of this process is to develop a mix that is adequate, flexible, 
+sustainable and diverse to ensure that the system is reliable in changing conditions. 
+Independent Electricity System Operator
+9
+Pathways to Decarbonization
+Figure 1 | Supply mix modelling and analysis process steps
+INPUTS
+ANALYSIS
+OUTCOMES
+Data Collection 
+and Input Development
+Stakeholder Engagement
+and Community Outreach
+Demand
+Forecast
+Capacity
+Expansion
+Resource Adequacy
+Assessment
+Operability
+Assessment
+Transmission
+Assessment
+Emissions and
+Cost Outcomes
+Pathways to
+Decarbonization Report
+Scenario and Assumption Development
+This report examines two questions: First, is a moratorium on natural gas generation possible in 
+Ontario’s electricity sector? Second, when and how can the sector be decarbonized? In response 
+to these questions, two approaches were taken:
+1.	 The Moratorium scenario, which focuses on 2035, examines whether a moratorium on the 
+acquisition of new natural gas generation is feasible after the IESO’s 2022/2023 resource 
+procurements. (A moratorium on new gas within current resource procurements was found 
+to be not feasible, as set out in the Resource Eligibility Interim Report.)
+2.	 The Pathways scenario, which focuses on 2050, explores the time frame within which Ontario’s 
+electricity system could be decarbonized. In keeping with the assumptions of many other 
+studies and to create an instructive “bookend” case to consider, this scenario assumes the 
+decarbonization of the broader economy, which results in a significantly higher projection for 
+demand based on substantial electrification within other sectors. 
+Beginning with its own information, including records for historical capacity and weather data, 
+IESO planners compiled a list of technical assumptions for existing and emerging resources and 
+government policy direction. They built on these assumptions using data and projections from the 
+U.S. National Renewable Energy Lab Annual Technology Baseline – the most comprehensive and 
+reliable information publicly available for a number of elements – as well as other sources. Policy 
+and demand assumptions were compiled from internal research.
+Stakeholders and communities also played a valuable role in shaping the assumptions used in the 
+analysis. A formal IESO engagement with extensive outreach to sector participants was undertaken on 
+the Pathways to Decarbonization effort between February and May to build awareness and seek input 
+to inform the development of achievable pathways to decarbonization in Ontario’s electricity sector. 
+Independent Electricity System Operator
+10
+Pathways to Decarbonization
+Two webinars were held as part of the formal engagement initiative to provide an overview of the 
+study approach, transparency around the modelling and analysis, and to seek technical feedback. 
+Approximately 320 attendees participated in these sessions and more than 50 feedback submissions 
+were received on preliminary assumptions posted for input. All meeting materials, assumptions, 
+feedback received and IESO responses are posted on the engagement web page.
+In addition, the IESO conducted extensive outreach with key communities and stakeholders to discuss 
+this work and solicit input at a more granular level on technical assumptions, data sources, and data 
+gaps. Over 30 meetings were held that encompassed more than 70 organizations and representatives 
+of municipalities, generators, commercial and industrial customers, local distribution companies, 
+environmental/sustainability organizations, Indigenous communities, sector associations, research 
+and academia and energy consultants. This work has also been significantly informed by the 
+expertise and advice received from the IESO's Stakeholder Advisory Committee members.
+The IESO incorporated evidence-based feedback and input received in a number of areas, including 
+in the assumptions related to policy, electricity demand, resource and technology.
+The final assumptions can be found in Appendix A, Tab 1-3. A summary of key assumptions is 
+included in Table 1. In order to be feasible, all modelling exercises involve a measure of simplification; 
+Table 2 outlines some of these simplifications and considerations. 
+TABLE 1: OVERVIEW OF SCENARIO ASSUMPTIONS
+Assumption Category
+Moratorium
+Pathways
+Modelling Year
+2035
+2050
+Carbon price (CO2e; 
+carbon dioxide 
+equivalents)
+$50/tonne in 2022, rising annually 
+by $15/tonne and reaching $170/
+tonne by 2030. 
+Continues rising by $15/tonne 
+from 2030-2035, and thereafter 
+increases with the rate of inflation.
+Emissions 
+performance standard
+As in the 2021 APO
+370 tonnes (t) CO2e/GW 
+(gigawatt-hour) until and including 
+2030, dropping 74 tCO2e/GWh per 
+year to reach zero in 2035
+Demand forecast (see 
+Appendix A, Tab 2)
+As in the 2021 APO
+High-electrification forecast 
+Energy efficiency
+Both scenarios assume the maximum level of demand reduction based on the 
+cost-effective conservation and demand management (CDM) potential that 
+was identified in the 2019 Achievable Potential Study
+Non-emitting 
+resources (see 
+Appendix A, Tab 3)
+Wind3, solar, hydroelectric, nuclear 
+(includes large facilities and 
+SMRs), demand response, storage, 
+bioenergy and firm imports from 
+clean jurisdictions
+Same as Moratorium scenario, and 
+low-carbon fuel was assumed to be 
+available after 2035
+Existing natural gas
+Available for re-contracting after 
+contract end if less than 25 years old
+Before 2035, same as Moratorium. 
+After 2035, retired at end of 
+contract, but considered available 
+for reliability until 25 years of age. 
+3 Offshore wind was assumed to be available for development in the Pathways scenario, even though the IESO acknowledges 
+the current moratorium on the technology.
+Independent Electricity System Operator
+11
+Pathways to Decarbonization
+TABLE 2: MODELLING CONSIDERATIONS
+Factor
+How Incorporated in the Report
+Weather patterns
+Historical normal weather patterns were used for this report. The IESO 
+did not perform sensitivities to assess the impact of changing weather 
+on normal demand.
+Low-carbon hydrogen 
+manufacture
+In this report the IESO has assumed that hydrogen is produced outside 
+of Ontario and therefore has no impact on demand. Producing hydrogen 
+at scale within the province is expected to increase demand and the 
+need for resources (see Enbridge’s Pathways to Net-Zero Emissions 
+In Ontario), although further work is needed to better understand the 
+impacts of hydrogen production and deployment on the electricity 
+system. The IESO will consider these impacts in future scenarios.
+Carbon capture, utilization 
+and storage (CCUS)
+Based on feedback from stakeholders, CCUS was determined to be 
+ill-suited to peaking applications, which is the forecasted role for the 
+continued use of emitting supply, and was therefore not available as a 
+resources option. 
+Distribution system
+This study focused solely on the transmission-connected grid, and no 
+analysis was conducted on the impact to distributions systems.
+Emissions removal, 
+including direct air capture
+Emissions removal, including direct air capture, was not considered, as 
+the Minister’s request was for a zero-emissions grid.
+Wind
+Onshore wind was capped at 15,800 MW, limited by site quality, 
+regulatory requirements and distance to transmission infrastructure. 
+Low-carbon fuels
+Imported blue hydrogen combusted in a new single-cycle turbine was 
+used as a proxy for low-carbon fuels and was assumed to be available 
+after 2035. Low-carbon fuels include pink, green and blue hydrogen, 
+synthetic methane, renewable natural gas and biofuels, which can all be 
+combusted in a turbine or used in a fuel cell. (For a discussion of some 
+of the challenges facing low-carbon fuels see Appendix A, Tab 9.)
+Storage
+Batteries and pumped hydroelectric storage were used as proxies for 
+storage more generally. The IESO recognizes that other types of storage 
+could play a role in a decarbonized future. (See Appendix B, section 4 
+for a description of various different types of storage.)
+Firm imports 
+External research (see Appendix C) was performed to assess the clean-
+energy transitions of each of Ontario’s connected neighbours, as well as 
+their future ability to export clean energy. To guarantee the cleanliness of 
+firm-imported electricity, firm imports were only permitted from Québec. 
+Manitoba was not considered due to the distance to major Ontario load 
+centres and insufficient transmission capability to enable imports.
+Independent Electricity System Operator
+12
+Pathways to Decarbonization
+
+Distributed Energy Resources (DERs) 
+DERs are distribution-connected facilities for local electricity generation, control and storage, 
+and today represent at least 10,000 MW across the province. While the scenarios in this report 
+did not distinguish between the province-wide transmission system and local distribution 
+networks, DERs are included within the build-out of new resources. 
+DERs can help meet regional needs where there are existing constraints on supply, avoiding or 
+deferring the need to build transmission infrastructure. Local electricity market pilots in York 
+Region and Essex are exploring ways to coordinate local supply to meet local needs. 
+Recent research commissioned by the IESO shows that DERs have the potential to help meet 
+Ontario’s future electricity demand, and they are gaining momentum in Ontario. Infrastructure, 
+capability and knowledge building across the province are creating a solid foundation for 
+growth, and the IESO is working to integrate DERs into the electricity markets by 2026 to 
+further support their expansion across the province. 
+Conservation and Demand Management and Mid-Term Review
+The IESO’s Mid-Term Review of the 2021-2024 CDM Framework includes findings and 
+recommendations on how cost-effective CDM can best contribute to meeting evolving system 
+and customer needs during the current framework and beyond. This includes analysis done 
+earlier this year on how new and enhanced programs could be used to meet near-term 
+capacity needs.
+In response to these findings, the Minister issued a directive in October 2022 enhancing 
+Ontario’s CDM targets and budgets, optimizing the full potential of energy efficiency and 
+bringing targets in line with the achievable potential estimates of the Mid-Term Review in 
+the near-term. Current Save on Energy programs are on track to achieve all feasible energy-
+efficiency within the 2021-2024 framework.
+Both the Mid-Term Review and this report highlight the potential for the IESO to expand the 
+scope of its future CDM programs post-2024. They also highlight the importance of supporting 
+efficient electrification to minimize the impacts of consumers switching from carbon-emitting 
+fuels for space heating, transportation and other end uses. This will take focused effort, and the 
+Mid-Term Review includes recommendations to move the sector in these directions.
+Demand Forecasting
+Demand forecasting is an attempt to predict future electricity demand so that the system can be effectively 
+planned and managed, as electricity demand and supply need to be almost perfectly matched in real time. 
+It aims to assess the causes of future changes in demand by looking at end uses and sector trends.
+All sectors of the economy – residential, commercial, institutional, industrial, agricultural, transportation 
+and others – contribute to province-wide energy demand, and the inherent uncertainty involved in 
+predicting the future of all these elements makes forecasting demand challenging. It is clear, however, 
+that as interest in decarbonization policies grow and economic activity increases, Ontario will see growth 
+in electricity demand for the foreseeable future.
+Independent Electricity System Operator
+13
+Pathways to Decarbonization
+Capacity Expansion and Resource Adequacy Assessments
+To build an adequate supply mix, the IESO undertakes a number of steps using tools, data and 
+professional judgement. The starting point is a capacity expansion model (CapEx), which is used to 
+assist in the design of an expanded resource mix. (More details can be found in Appendix B, section 1). 
+This mix is run through a number of assessments to determine that it is capacity and energy adequate. 
+At a high level, the approach is as follows:
+1.	 Determine the least-cost supply mix based on the demand forecast, resource inputs and 
+constraints using the CapEx tool. 
+2.	 Assess the supply mix to ensure that resource capacity adequacy is met. This determines 
+if the least-cost supply mix satisfies Northeast Power Coordinating Council (NPCC) resource 
+adequacy requirements. 
+3.	 Assess the supply mix in a production cost model to ensure that resource energy adequacy is met. 
+4.	Conduct a screening of the supply mix for operability to understand the ability of the mix to 
+manage a variety of conditions as they occur in real-time on durability, diversity and flexibility 
+(further described below and in Appendix B, section 3). 
+5.	 Assess the supply mix to understand the ability of the system to maintain supply within established 
+transmission planning standards (further described below and in Appendix B, section 2). 
+6.	 If the supply mix is deemed insufficient, restart the process at Step 1. 
+7.	 When a supply mix is deemed sufficient, it is then post-processed for reporting on metrics such 
+as cost and emissions. 
+This approach to resource adequacy assessments is consistent with IESO system planning processes. 
+(Further information can be found in the IESO’s Annual Planning Outlook Resource Adequacy and 
+Energy Assessment Methodology.) The resource adequacy assessment is an iterative process, along 
+with the operability screening and transmission assessments, which are described in the next section. 
+
+What is Capacity?
+Capacity, or installed capacity, generally refers to the maximum output of a power station. 
+Effective capacity, refers to the contribution a power station can reliably make to meet peak 
+demand, taking into account factors such as fuel availability, ambient conditions and outages. 
+For example, a station with an installed capacity of 150 MW could contribute only 30 per cent 
+of that amount, and thus have an effective capacity of 45 MW.
+Independent Electricity System Operator
+14
+Pathways to Decarbonization
+Operability Screening
+Operability refers to the ability to manage a variety of conditions on the power system as they occur 
+in real time. It is achieved by having a resource mix that is flexible and diverse, with sufficient energy 
+duration. By coupling resources with tools and software that improve manageability, the IESO can 
+observe, monitor and direct the majority of resources across the system (see Figure 2).
+Figure 2 | Components of Operability
+FLEXIBILITY
+A flexible resource mix has 
+characteristics that allow 
+the system to respond to 
+altered circumstances or 
+changing conditions.
+DIVERSITY
+Ensures the system has 
+a balance of energy sources 
+and capabilities, so the 
+limitations of each 
+technology and fuel type 
+are mitigated.
+DURABILITY
+Enables the system to 
+continuously supply 
+energy over a period of 
+sustained high demand, 
+including through extreme 
+events such as a 
+heat wave.
+COMPONENTS
+OF OPERABILITY
+For this report, the IESO conducted a limited operability screen on the resource mix for the 
+Moratorium scenario, examining the durability, diversity and flexibility of the resource mix. For 
+the modelled 2050 supply mix, the challenges identified in the Moratorium scenario are likely to 
+grow, and with limited information on the operational behaviour of new technologies, the Pathways 
+scenario could not undergo an operability screen. 
+The IESO plans to undertake further work in 2023 to understand the implications of increased 
+penetration of variable resources on flexibility. A number of other future considerations were also 
+identified that will require further study to assess the operability of the mixes. (Further information 
+on future considerations can be found in Appendix B, section 3.) 
+ 
+Independent Electricity System Operator
+15
+Pathways to Decarbonization
+
+Reliability Standards
+The North American Electric Reliability Corporation (NERC) is a not-for-profit international 
+regulatory authority whose mission is to ensure the effective and efficient reduction of risks to 
+the reliability and security of the grid. NERC has begun to highlight the challenges of managing 
+reliability with energy-constrained resources. 
+Resource adequacy assessments have mostly focused on generation and transmission 
+capacity available to serve peak demand. With the previous resource mix, real-time 
+energy adequacy was assumed under that capacity umbrella and transmission was not 
+highlighted as a requirement; however, recent extreme temperature events have shown 
+energy adequacy to be a new dimension of risk given the changing resource mix and actual 
+performance of the grid versus assumptions used in previous resource mix studies. 
+Energy Adequacy White Paper (nerc.com), December 2020
+New reliability standards are under development by NERC to address these challenges.
+Transmission Analysis
+The assessments in this report weighed existing and planned transmission capabilities against the 
+two demand forecasts, evaluating the ability of the system to maintain supply within established 
+planning standards and with the selected resource mixes. The assessments then looked at what 
+system enhancements would likely be needed in the coming decades.
+Although the capacity expansion model does not specify a location for any of the resources in the 
+supply mixes, the options for siting certain generation types, such as pumped storage or SMRs, will 
+be limited to a single or small number of areas. In addition, previous assessments of the feasibility 
+of large installations of wind and solar provide guidance on the most likely locations for these types 
+of facilities. These locational considerations informed the transmission analysis, helping to identify 
+where new or upgraded transmission would be needed to enable the supply mix and ensure that 
+demand can be supplied by the bulk transmission system. 
+If potential transmission solutions could not be implemented, (e.g., due to lead-time considerations), 
+the assessment looked at opportunities to retain existing generation, as well as the potential to locate 
+new supply that does not have limitations on potential siting in those areas of need.
+Independent Electricity System Operator
+16
+Pathways to Decarbonization
+Cost and Emissions Analysis
+This report looks at costs from two perspectives: (1) cumulative capital investment in new 
+infrastructure up to the applicable scenario study year and (2) annual system cost in the applicable 
+scenario study year; with all costs in this report and the appendix in 2022 Canadian Dollars. 
+Under both scenarios, capital investment is represented as the overnight cost of “new steel in the 
+ground” ­– i.e., there are no capital investments associated with resources such as demand response 
+and conservation programs. “Overnight cost” is a common industry term, meaning the cost to build a 
+project without consideration of financing, or the cost to complete a project if it were built “overnight”.
+An annual system cost includes the revenue requirements4 for supply, transmission and distribution 
+infrastructure; standby costs for demand response; conservation program costs; firm import 
+agreement costs; and resource dispatch costs for a particular year.
+In the Moratorium scenario, the focus is on the change in annual system costs in 2035 compared with 
+a reference scenario with the same base supply mix, but instead of meeting reliability requirements 
+with non-emitting resources, requirements in this reference scenario are met by extending all existing 
+resources to the end of the study period, with incremental needs met by additional simple-cycle 
+natural gas (a scenario approach similar to past APOs). With this comparison there is also a change 
+in emissions and an implied cost of carbon can be calculated – i.e., the increase in annual system cost 
+divided by the decrease in emissions.
+In the Pathways scenario, the focus is on the total annual system cost in 2050, with the unit cost 
+of demand – total annual system cost divided by total demand in the same year – calculated and 
+compared with today’s unit cost of demand. As there is no comparable emitting reference scenario 
+for Pathways, an implied cost of carbon is not calculated.
+Note that the final totals for both capital investment and annual system cost include a 25 per cent 
+contingency. Adding a contingency is a consideration for unknown or unexpected factors, and is 
+commonly used for a study of this nature. In addition to capturing general cost uncertainty, which 
+varies by resource type and technology readiness, it is also meant to capture out-of-scope costs (e.g., 
+the build-out of distribution infrastructure, which will be considerable under the Pathways scenario) 
+and the potential for adherence to more stringent reliability criteria, requiring incremental resources.
+
+Moratorium for the 2025-2027 Period
+Addressing capacity needs arising in the 2025-2027 period, the Minister of Energy asked for an 
+interim report, to be delivered in October 2022, that would inform immediate policy decisions 
+for upcoming electricity sector procurements. 
+The IESO responded, in its Resource Eligibility Interim Report, and recommended that a diverse 
+set of resources be included in these procurements. This included a significant investment in 
+battery storage, balanced by natural gas capacity and other forms of non-emitting generation, 
+to ensure reliability and affordability in the context of tight market conditions and supply 
+chain disruptions. 
+The report concluded that a maximum target of 1,500 MW of new natural gas capacity will 
+sufficiently complement other procurement streams, addressing short-term capacity needs 
+and contributing to the province’s longer-term energy transition.
+4 Revenue requirements can be contract costs or a cost of service. Both consider capital costs spread over the contract term 
+or the life of the project, inclusive of financing, returns, taxes and accounting treatments, as well as annual fixed costs.
+Independent Electricity System Operator
+17
+Pathways to Decarbonization
+A Moratorium on New Gas Generation
+To understand the feasibility of a moratorium on new natural gas generation, the IESO 
+looked first at what resources would be needed to secure necessary supply for 2025-2027. 
+The results are described in the Moratorium for the 2025-2027 Period section 
+directly above.  
+It then examined the province’s needs after 2027 and analyzed a scenario up to 2035 that addressed 
+projected demand by adding only non-emitting resources to the current supply mix. The 2021 APO’s 
+planning and demand forecast was used as the basis for the scenario, as it was the most recent 
+available data at the time the project began. As discussed below, adjustments were made to the 
+forecast and supply mix to make the assessment more meaningful. In this scenario, the IESO only 
+performed adequacy assessments for 2035, and therefore this report only shows capacity and energy 
+results for that year.
+Demand Forecast
+The APO long-term demand forecast used in the Moratorium scenario covers the period from 
+2023-2042 (see Figures 3 and 4). It projects strong growth in the early to mid-2020s as a result of 
+anticipated industrial mining projects, strong residential-sector growth and a robust commercial-
+sector recovery from the COVID-19 pandemic. 
+From the mid-2020s to the early 2030s, the forecast projects significant agricultural-sector growth 
+and, in the early to late 2030s, expected increases in the number of electric vehicles in Ontario. 
+(More information is available in the 2021 APO.)
+Conservation and Demand Management
+The APO demand forecast was updated to reflect the important role that managing demand should 
+play in meeting future needs. Conservation, or energy efficiency, is a cost-effective non-emitting 
+resource. Homeowners, businesses and communities can all play a larger role in saving energy and 
+managing costs, and investments in energy-efficiency and demand management programs will be 
+essential for maintaining reliability in the coming years. 
+Independent Electricity System Operator
+18
+Pathways to Decarbonization
+As a result, an additional 2,200 MW5 of demand reduction and 11.7 terawatt-hours (TWh) of energy 
+savings, ramping up over the study time frame, was assumed along with existing efforts, together 
+reaching a total of 3,100 MW of demand and 22 TWh of energy reduction by 2035. The amount 
+is premised on best-in-class program delivery and incenting up to the full cost difference between 
+baseline and efficient equipment, where it would be cost-effective from a system perspective. 
+Successfully delivering the maximum potential savings would require increased, sustained investment 
+in CDM programs, capability-building initiatives, and supporting marketing. It would also entail 
+spending approximately $6.25 billion over the 2023-2035 period. 
+Figure 3 | Moratorium Scenario versus APO Peak Demand
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+Net Seasonal Peak Demand (GW)
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2037
+2039
+2041
+26
+32
+31
+30
+29
+28
+27
+25
+24
+23
+22
+21
+20
+2021 APO Reference Scenario – Summer
+2022 Moratorium Scenario – Summer
+2021 APO Reference Scenario – Winter
+2022 Moratorium Scenario – Winter
+Figure 4 | Moratorium Scenario versus APO Annual Energy Demand
+145
+150
+155
+160
+165
+170
+175
+180
+185
+190
+195
+200
+205
+Net Annual Energy Demand (TWh)
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2037
+2039
+2041
+175
+205
+200
+195
+190
+185
+180
+170
+165
+160
+155
+150
+145
+2021 APO Reference Scenario
+2022 Moratorium Scenario
+5 As informed by the IESO and Ontario Energy Board’s 2019 Electricity and Natural Gas Conservation and Demand 
+Management Achievable Potential Study, Scenario B, maximum cost effective savings scenario. The IESO’s Mid-Term 
+Review undertook a 2022 refresh exercise of this study and confirmed the availability of significant cost-effective 
+achievable CDM potential, with deeper savings over the longer term. Timing considerations did not allow for the 2022 
+refresh results to be incorporated in this report’s modelling.
+Independent Electricity System Operator
+19
+Pathways to Decarbonization
+Resource Build-out
+The next step in the process was to identify the base supply mix that would operate throughout 
+the time frame of the study. The base supply mix identified in Figures 5 and 6 as “Today’s Capacity 
+Remaining in 2035” is made up of all facilities that exist in 2024 that are expected to still be in 
+operation in 2035. It was assumed that this would include all existing non-emitting resources. Based 
+on our assumptions, natural gas facilities began to retire over the study time frame, but were allowed 
+to continue operating if they were needed for reliability purposes or if they were economically 
+feasible to run. Natural gas is therefore reduced to about 8,000 MW in 2035 from the current fleet 
+of about 10,000 MW. This reduction in gas was enabled by nuclear refurbishments, new SMRs, 
+additional supply and significant conservation savings.
+In addition, to ensure the exercise was as timely and relevant as possible, the actual or expected 
+results from 2022 resource procurements and announced government policy were also added. 
+These included: 
+•	 More than 700 MW of capacity from the IESO’s first Medium-Term Request for Proposals, 
+completed in June 2022;
+•	 A 300 MW SMR, assumed to be in service in 2029; and
+•	 4,000 MW of supply (2,500 MW of battery storage and up to 1,500 MW of natural gas) from 
+the Long-Term 1 procurements, assumed to be in service by 2027. 
+By 2035, the base supply mix had approximately 39,700 MW of installed capacity, including 
+refurbished nuclear resources (see Figure 5, “Today’s Capacity Remaining in 2035”).
+To meet projected demand in 2035, new supply was added throughout the study time frame 
+according to need, cost, build time and other factors. Options available to “compete” included all 
+developed non-emitting technologies except low-carbon fuels. 
+Independent Electricity System Operator
+20
+Pathways to Decarbonization
+Figure 5 | Moratorium Scenario – Installed Capacity in 2035
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+50000
+55000
+60000
+Installed Capacity (MW)
+Today’s Capacity Remaining in 2035
+(Existing and Committed)
+New Capacity Online by 2035
+Total Capacity in 2035
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+40,000
+45,000
+50,000
+55,000
+60,000
+Storage
+2,507 
+0 
+2,507 
+Imports
+331 
+0 
+331 
+Demand Response
+808 
+2,885 
+3,693 
+Natural Gas
+7,840 
+0 
+7,840 
+Bioenergy
+415 
+0 
+415 
+Solar
+2,668 
+3,400 
+6,068 
+Wind
+5,533 
+900 
+6,433 
+Hydroelectric
+9,348 
+0 
+9,348 
+Nuclear
+10,248 
+1,000 
+11,248 
+Total MW
+39,697 
+8,185 
+47,882 
+Figure 6 | Moratorium Scenario – Energy in 2035
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+Energy (TWh)
+Energy from Today's Capacity 
+Remaining in 2035
+Energy from New Capacity 
+Online by 2035
+Energy from Total Capacity 
+in 2035
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+165
+180
+Storage
+0 
+0 
+0 
+Imports
+0 
+0 
+0 
+Demand Response
+0 
+0 
+0 
+Natural Gas
+13 
+0 
+13 
+Bioenergy
+1 
+0 
+1 
+Solar
+3 
+6 
+10 
+Wind
+16 
+4 
+20 
+Hydroelectric
+40 
+0 
+40 
+Nuclear
+80 
+3 
+83 
+Total TWh
+153 
+13 
+166 
+Independent Electricity System Operator
+21
+Pathways to Decarbonization
+By 2035, about 5,300 MW of new solar, wind and nuclear capacity has been added. In the capacity 
+expansion tool, new solar was first added in 2029 and then consistently throughout the study period 
+to support summer peak demand. Wind came online in 2030, and SMRs in 2031, to meet energy 
+requirements. About 3,000 MW of demand response was also added to the fleet.
+New large hydroelectric and nuclear facilities were not selected due to lead times that extended 
+beyond the horizon of this scenario. As firm imports from Québec would require resource 
+development in that province,6 they proved to be costly and were also not selected. Finally, with 
+2,500 MW of battery energy-storage systems included in the base supply mix, the value of 
+additional storage diminished, hindering its selection. 
+As shown in Figure 6, nuclear, hydroelectric and other renewables continue to provide baseload 
+energy, while storage and demand response are used as peaking resources with minimal output. 
+Of the 8,000 MW of natural gas remaining by 2035, about 5,000 MW was selected for energy 
+adequacy. The 3,000 MW balance was determined to be needed for reliability services, including 
+flexibility – i.e., the ability to provide energy quickly to respond to unexpected changes on the system 
+– and emergency back-up. Energy produced from this amount is expected to be limited, along with its 
+impact on emissions.
+By 2035, total capacity reaches about 47,900 MW, compared with about 38,000 MW today. (For 
+effective capacity data see Appendix A, Tab 10 and 11.)
+This mix was assessed and found to be capacity and energy adequate.
+6 Hydro-Québec’s recent strategic plan notes that “After several years of record energy sales across all our markets, tightened 
+balances will prompt us to focus on maximizing the value derived from our clean energy.” Québec’s submission for NERC’s 
+Long-Term Reliability Assessment identifies the need to import/build more generation beginning in the late 2020s.
+Independent Electricity System Operator
+22
+Pathways to Decarbonization
+Transmission
+Planning for a future that will require extensive amounts of new generation and the transmission 
+to deliver it involves the careful consideration of many factors, including the cost and timing 
+of development. For example, transmissions assessments indicated that in Toronto and York 
+Region, existing gas will be needed in the Moratorium scenario because the new and/or expanded 
+transmission infrastructure to replace it cannot be completed by 2035. 
+Overall, the new generation in the Moratorium scenario would require additional bulk transmission 
+system infrastructure in the City of Toronto, York Region, east of the Greater Toronto Area, west 
+of Barrie (Essa) and in both northwestern and northeastern Ontario. The IESO will ensure that 
+future bulk and regional planning activities in these areas further assess the identified needs and 
+reinforcement options and make recommendations for next steps, including development work. 
+In particular, upcoming regional planning activities for both Toronto and York Region will need to 
+examine options for the eventual replacement of the local reliability benefits provided by existing gas.
+TABLE 3: TRANSMISSION FACILITIES NEEDED 
+Facility Needed
+# of Facilities/Kms of Line
+Location
+New autotransformers
+2
+Essa, Toronto (Leaside)
+New static volt-ampere reactive 
+compensators
+4-5
+Northwest and Northeast
+Refurbished 230 kV (kilovolt) lines
+55 km
+East (GTA East)
+New 230 kV lines
+5-20 km
+Essa/Toronto (York Region)
+New 500 kV lines
+550 km
+Northeast (Pinard to Hanmer)
+This build-out is estimated to have a capital cost of up to $2.1 billion by 2035, over and above what is 
+currently planned or underway. (Further details on the scope and drivers of each reinforcement are 
+included in Appendix B, section 2.)
+These findings relied on the implementation of existing transmission plans that are currently in 
+various stages of development. This would allow the projected additional generation in the northeast 
+and northwest to contribute to meeting provincial needs and to ensuring that sufficient supply is 
+available in various areas across the province under the Moratorium scenario. Since these plans are 
+already committed to meet existing needs, they form part of the 2021 APO base case.
+Independent Electricity System Operator
+23
+Pathways to Decarbonization
+Moratorium: Conclusion and Outcomes
+The conclusion from this assessment is that a moratorium on the acquisition of new gas can be 
+feasible after current resource procurements, but that it requires action: building on the CDM 
+momentum; acquiring new, non-emitting resources to meet new demand and replace retiring 
+resources; and developing the needed transmission. It also requires focused research and analysis 
+to develop a mix of resources that can reliably replace the operability services provided by existing 
+natural gas plants as they retire. 
+While Ontario’s gas fleet will increase to meet mid-decade needs, the Moratorium identified 
+the potential opportunity to reduce the overall amount of natural gas in the system from up to 
+approximately 12,000 MW in 2027 to 8,000 MW in 2035. Of this amount, about 5,000 MW would 
+be needed for capacity and energy, representing a 60 per cent reduction from 2027 levels. As 
+noted above, the remaining 3,000 MW would be needed on standby for operability reasons, as the 
+important characteristics of gas must remain available to Ontario’s power system and no like-for-like 
+replacement is yet available. Energy contributions from this amount, however, are expected to be 
+marginal in this scenario. 
+In terms of emissions, the change in the resource mix and energy contributions results in an eight 
+mega-tonne (Mt) per year decrease in forecasted CO2e emissions in 2035, a nearly 60 per cent 
+reduction from the APO 2021 forecasts.
+The revenue requirement for this new infrastructure, combined with costs for incremental CDM 
+programs­7 and changes to system operation, would result in a $1.9 billion net increase in annual 
+total system costs by 2035, approximately an eight per cent increase over today’s costs. This will 
+undoubtedly lead to increased electricity costs for consumers. However, some studies8 suggest that 
+by 2050 these increases could be offset by savings from more efficient equipment like heat pumps 
+and electric vehicles, as well as reductions in fossil fuel costs for transportation and heating. 
+With an eight Mt CO2e decrease in emissions by 2035, the implied cost of carbon (the net increase 
+in annual total system costs divided by emissions saved) would be $240/tCO2e. (For further 
+information on system costs, see Appendix A, Tab 8.)
+7 CDM is considered through decreased demand and associated program costs.
+8 See Electric Federalism: Policy for Aligning Canadian Electricity Systems with Net Zero, The Canadian Climate Institute, 
+May 2022, p. 47, and “Electricity Affordability and Equity in Canada’s Energy Transition, Dolter, Brett and Winter, Jennifer, 
+the Canadian Climate Institute, August 2022.
+Independent Electricity System Operator
+24
+Pathways to Decarbonization
+Assessing a Pathway to a Decarbonized Future
+The Pathways scenario looks at the time frame for decarbonizing Ontario’s electricity 
+system in the context of high electricity demand based on substantial electrification 
+in other sectors. 
+Using the same supply base case as the Moratorium scenario, Pathways focused on 2050, assuming 
+non-emitting resources would be available for 25 years for solar and 30 years for biomass and 
+wind from their commissioning dates. Hydroelectric facilities were assumed to be available for the 
+duration of the study time frame. In this scenario, up to the year 2035, gas plants were allowed to 
+operate until they reached 25 years of age. After 2035, they were retired at the end of their contract, 
+but kept available for reliability. This approach to the life of gas plants was informed by the draft 
+framework for the Clean Electricity Regulation released in 2022.
+Adequacy assessments were performed only for 2050, and as a result the scenario only shows 
+capacity and energy results for that year. An operability screen was not performed, but further work 
+will be undertaken.
+Demand Forecast
+The Pathways scenario, which looks out to 2050, assumes high levels of electrification in the economy. 
+The scenario was created based on theoretical, aggressive, policy-driven electrification in three major 
+sectors: transportation, building heat and industrial process. To develop this scenario, we did not 
+undertake a cost-optimization exercise comparing different decarbonization options on the demand-
+side. The upcoming work performed by Ontario’s Cost-Effective Energy Pathways Study, commissioned 
+by the Ministry of Energy, will provide more insight on the possible evolution of demand in Ontario.
+Major scenario assumptions include: 
+•	 Buildings: A nine-year transition from predominantly fossil-fuelled space and water heating 
+to electric heat pumps, by 2030 for new residential and commercial buildings in Toronto, and 
+by 2035 for the rest of the province. Technological improvement in cold-weather heat pump 
+technology was assumed.
+•	 Transportation: Electrification of passenger vehicles aligned with federal regulations; incremental 
+electrification of medium and heavy-duty vehicles, including municipal transit buses, rail transit, 
+and other mobility; and freight vehicles assumed to be fuel cell powered with hydrogen fuel.
+•	 Industry: Broad substitution of natural gas fuel to electricity, roughly 20 per cent of current levels 
+by 2050. If the low-carbon hydrogen is manufactured in Ontario, this new industry will represent 
+a significant new load that is not currently included.
+•	 Conservation: Assumes savings consistent with the maximum achievable potential from the 2019 
+IESO Conservation Achievable Potential study.
+Independent Electricity System Operator
+25
+Pathways to Decarbonization
+The demand scenario is based on an assumption of normal weather patterns and does not consider 
+extreme weather events or the projected increase in overall temperature. These changes could have 
+a significant impact on future demand, but are beyond the scope of this project. 
+As a result of the assumed electrification, the scenario has an average annual growth rate for 2023-
+2050 of 2.7 per cent for energy reaching an annual energy consumption of approximately 300 TWh 
+by 2050, as shown in Figure 7.
+Figure 7 | Energy Demand 
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+Net Annual Energy Demand (TWh)
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2039
+2037
+2041
+2043
+2045
+2047
+2049
+120
+135
+150
+165
+180
+195
+210
+225
+240
+255
+270
+285
+300
+2022 APO
+2022 Pathway Scenario
+Capacity increases by 1.5 per cent per year for summer (Figure 8) and 3.8 per cent for winter, 
+resulting in a winter peak of approximately 60 GW by 2050 (Figure 9). 
+Figure 8 | Annual Summer Peak Demand 
+20
+24
+28
+32
+36
+40
+44
+48
+52
+56
+60
+Net Summer Peak Demand (GW)
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2039
+2037
+2041
+2043
+2045
+2047
+2049
+20
+24
+28
+32
+36
+40
+44
+48
+52
+56
+60
+2022 APO
+2022 Pathway Scenario
+Independent Electricity System Operator
+26
+Pathways to Decarbonization
+Figure 9 | Annual Winter Peak Demand 
+20
+24
+28
+32
+36
+40
+44
+48
+52
+56
+60
+Net Winter Peak Demand (GW)
+2023
+2025
+2027
+2029
+2031
+2033
+2035
+2039
+2037
+2041
+2043
+2045
+2047
+2049
+20
+24
+28
+32
+36
+40
+44
+48
+52
+56
+60
+2022 APO
+2022 Pathway Scenario
+The system becomes winter peaking by 2030, largely as result of increased electrification of 
+transportation – i.e., evening or overnight charging – and of heating requirements in buildings. This 
+electrification also changes the shape of system demand during winter, resulting in spring and fall 
+peaks that are higher than summer peaks. 
+The new profile has up to three ramps per day of 6,000-10,000 MW (see Figure 11), compared with 
+ramps of 2,000-5,000 MW today, attributed to the forecasted new overnight coincident demand 
+from the charging of electric vehicles after business hours and the adoption of electrically powered 
+space heating in the winter season. Managing these ramping requirements would represent a 
+significant operability challenge.
+There would likely be an opportunity to manage winter demand through thermal storage and 
+demand response, but there is still considerable uncertainty around the impact on daily demand 
+of future heat pump and electric vehicle requirements. Summer demand profiles do not show 
+significant changes (see Figure 10).
+Independent Electricity System Operator
+27
+Pathways to Decarbonization
+Figure 10 | Summer Daily Load Shape Hourly Profile
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+Net Hourly Demand (GW)
+1
+2
+3
+4
+5
+6
+7
+9
+8
+10
+11
+12
+13
+14
+15
+17
+16
+18
+19
+20
+21
+22
+23
+24
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+Hour Ending
+2050 Range
+2024 Range
+2050 Median
+2024 Median
+Figure 11 | Winter Daily Load Shape Hourly Profile
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+Net Hourly Demand (GW)
+1
+2
+3
+4
+5
+6
+7
+9
+8
+10
+11
+12
+13
+14
+15
+17
+16
+18
+19
+20
+21
+22
+23
+24
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+Hour Ending
+2050 Range
+2024 Range
+2050 Median
+2024 Median
+As with the Moratorium scenario, this forecast reflects a ramping up of CDM savings, reaching 
+4,650 MW of demand reduction in 20509 at a cost of $11.5 billion over the 2023-2050 period.
+9 These amounts are in line with the maximum potential scenario of the IESO’s 2019 Conservation Achievable Potential Study.
+Independent Electricity System Operator
+28
+Pathways to Decarbonization
+Resource Build-out
+By 2050, about 20,000 MW of today’s supply is still in operation, made up primarily of large nuclear 
+reactors and hydroelectric. Most existing renewable generation is assumed to have reached its end 
+of life, while natural gas is phased out consistent with the zero-emissions goal. 
+In order to reliably meet the new winter peak demand of 60,000 MW, an additional 69,000 MW of 
+installed capacity is added, in addition to nearly 5,000 MW of CDM that is already included in the 
+demand forecast (see Figure 12). 
+This scenario includes an additional 17,800 MW of nuclear supply. By 2050, as most of Ontario’s 
+existing wind facilities will have reached their end of life, this scenario also includes an additional 
+17,600 MW of wind and 650 MW of new hydroelectric. 
+Solar resources provide value during summer peaks in the early years of the scenario. As the system 
+transitions from summer to winter peaks, the value of these resources diminishes and incremental 
+capacity levels off at 6,000 MW in 2036. In addition, as under the Moratorium scenario, the 
+existing 2,500 MW of batteries limited the value of further short-term storage through to 2035. An 
+additional 2,000 MW of long-duration storage is added in the late 2030s to meet adequacy needs. 
+Assuming its availability in 2036, the analysis suggests that hydrogen becomes a cost-effective10 
+resource for reducing peak demand.
+Figure 12 | Pathway Scenario – Installed Capacity in 2050
+0
+7500
+15000
+22500
+30000
+37500
+45000
+52500
+60000
+67500
+75000
+82500
+90000
+Installed Capacity (MW)
+Today’s Capacity Remaining in 2050
+(Existing and Committed)
+New Capacity Online by 2050
+Total Capacity in 2050
+0
+7,500
+15,000
+22,500
+30,000
+37,500
+45,000
+52,500
+60,000
+67,500
+75,000
+82,500
+90,000
+Storage
+0 
+2,000 
+2,000 
+Imports
+331 
+3,800 
+4,131 
+Demand Response
+808 
+5,936 
+6,744 
+Hydrogen
+0 
+15,000 
+15,000 
+Bioenergy
+41 
+0 
+41 
+Solar
+259 
+6,000 
+6,259 
+Wind
+160 
+17,600 
+17,760 
+Hydroelectric
+9,348 
+657 
+10,005 
+Nuclear
+8,653 
+17,800 
+26,453 
+Total MW
+19,600 
+68,793 
+88,393 
+10 Although estimates are based on the most reliable information available at the time of writing, considerable uncertainty 
+remains around cost assumptions for various fuels over the study time period.
+Independent Electricity System Operator
+29
+Pathways to Decarbonization
+Figure 13 | Pathway Scenario – Energy in 2050
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+Energy (TWh)
+Energy from Today's Capacity 
+Remaining in 2050
+Energy from New Capacity 
+Online by 2050
+Energy from Total Capacity 
+in 2050
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+Storage
+0 
+0 
+0 
+Imports
+0 
+30 
+30 
+Demand Response
+0 
+0 
+0 
+Hydrogen
+0 
+12 
+12 
+Bioenergy
+0 
+0 
+0 
+Solar
+1 
+11 
+12 
+Wind
+2 
+62 
+63 
+Hydroelectric
+41 
+3 
+44 
+Nuclear
+70 
+63 
+133 
+Total TWh
+113 
+181 
+294 
+Using Ontario’s existing interties with Hydro-Québec, as well as incremental new infrastructure in 
+both Ontario and Québec,11 this scenario includes 4,000 MW of imports. Given Hydro-Québec’s 
+current winter capacity constraints, which are outlined above, we assumed that the firm imports 
+would be from new hydroelectric and new wind facilities built in Québec.
+By 2050, the total installed capacity reaches about 88,400 MW. In contrast, current installed 
+capacity is about 40,000 MW.
+This mix was found to be capacity and energy adequate.
+Operability and the future electricity grid
+As discussed throughout this report, ensuring reliability is of paramount importance. For a system to 
+be reliable, it must have the flexibility to respond to sudden changes as well as extreme conditions. 
+Future supply mixes will not have some of the traditional resources that currently provide these 
+services, and ensuring reliability without them contains many unknowns. It will require detailed 
+planning studies that incorporate novel approaches, tools and a thorough understanding of the 
+location and technological features of individual resources as they are integrated into the electricity 
+grid. As a result, the IESO has not performed an operability assessment on this scenario. The IESO 
+will work with peers and industry experts over the coming years to address this challenge.
+11 Incremental new infrastructure would include a new intertie between the two provinces and additional reinforcements 
+in Ontario to deliver the capacity to the load centre in the GTA. It would also include necessary reinforcements on the 
+Québec side.
+Independent Electricity System Operator
+30
+Pathways to Decarbonization
+Transmission
+The transmission requirements for the Pathways scenario are extensive. In order to achieve a starting 
+point for a system that is capable of incorporating the resources identified and reliably supplying the 
+forecast demand, a significant build-out of Ontario’s existing 500 kV network would be required, 
+focusing on paralleling the existing network where possible. Beyond reviewing the impact of different 
+levels of reinforcement to the 500 kV network, the need for an additional 230 kV of bulk reinforcements 
+was also identified to enable the supply mix. (Full details are available in Appendix B, section 2.)
+
+Meeting Forecasted Demand
+The challenge of connecting the forecasted demand can be illustrated by considering some 
+high-level assumptions around how many new load supply stations (i.e., transformer stations 
+supplying distribution customers) would be required throughout the province: 
+•	 Taking into account existing load supply stations, and assuming that a new station would 
+supply approximately 250 MW of winter load, it would require anywhere from 150 to more 
+than 280 new stations to meet forecasted demand, depending on whether if those stations 
+are fully utilized. 
+•	 Costs range between $5 billion and $10 billion based on recent figures for a standard load 
+supply station in a non-urban environment, assuming no work is required on the upstream 
+transmission system and not accounting for downstream distribution costs. 
+•	 This would mean that between five and 10 new stations a year, on average, would be needed 
+to meet forecast winter demand in 2050, with a yearly pace potentially outstripping the 
+number of new stations that have been developed across the province in the last decade.
+Overall, the cost of building out the bulk 500 kV and 230 kV system to meet the Pathways scenario 
+is estimated to be between $20 billion and $50 billion. This estimate includes new 500 kV and 230 kV 
+network lines and terminations, and new 500/230 kV and 230/115 kV auto-transformation. If 500 kV 
+reinforcement through northwestern Ontario to Manitoba were also needed due to load growth 
+or constraints on resource siting, this could result in an additional $7 billion to $16 billion in costs. 
+The costs for 500 kV lines and terminations are directly informed by the 500 kV reinforcements 
+modelled. The range of cost for 230 kV lines, terminations and for all auto-transformation was 
+informed both by the reinforcements modelled and the unit costs per MW of load growth, assuming 
+typical equipment capabilities. 
+Many of the needed investments will be challenging to implement given their location within 
+major load centres and populations, which makes land more challenging to acquire, permitting 
+more contested and construction more expensive if undergrounding is necessary. Aside from the 
+bulk reinforcements needed to support growth in the load centres, the Pathways scenario also 
+necessitates major investments in the local distribution system, including step down stations 
+required between the transmission and distribution network, and distribution infrastructure for final 
+connection to the customer. The cost and siting challenge for the required stations and distribution 
+infrastructure will also be substantial.
+Independent Electricity System Operator
+31
+Pathways to Decarbonization
+Pathways: Conclusion and Outcomes
+This scenario illustrates the magnitude of the effort required for Ontario to decarbonize its electricity 
+system while responding to economic development and electrification. Focusing on 2050 to align with 
+international targets, this study highlights the goals we are attempting to achieve. It demonstrates 
+an immense build-out of the province’s transmission, distribution systems and resources that could 
+more than double Ontario’s installed capacity, and that would need every known or potential resource 
+available today. It also requires replacing the necessary services provided by gas, which no resource 
+alone today can do. 
+We can garner many insights from this scenario, but it is also important to acknowledge its 
+limits. This resource mix was assessed for energy and capacity adequacy in 2050; an operability 
+assessment was not performed. In addition, we did not perform adequacy assessments for the years 
+before 2050. Further planning work is necessary to understand how to manage the transition in a 
+reliable way from now to 2050. 
+This scenario relies heavily on low-carbon fuels for intermediate, peaking and flexibility needs. 
+Currently there is no like-for-like replacement for the operating characteristics of natural gas. Low-
+carbon fuels might be able to fill this gap and would be a valuable addition to the supply mix, but they 
+do not yet exist at scale and there are many barriers to commercialization. (See Appendix A, Tab 
+9.) If low-carbon fuels do not materialize, replacing natural gas will be an even more complex task, 
+requiring more research and analysis into understanding how generation, demand, transmission and 
+storage can be combined to replace gas. It may be possible to overcome all of these barriers, but it 
+will require concerted effort by government and innovators. 
+In terms of both transmission and supply, the Pathways scenario would need $375 billion to $425 billion 
+in new infrastructure investment, and result in an annual total system cost of approximately $60 billion 
+by 2050. Alternatively, annual system costs can be considered per unit of demand at $200 to 
+$215/MWh, an increase of between 20 per cent and 30 per cent from current unit rates. 
+Regarding consumer bills, it is difficult to determine a potential rate impact given the changing nature 
+of energy consumption. However, an increased reliance on electricity will significantly increase the 
+volume of consumption on bills compared to today's patterns. (Further information on system costs 
+is available in Appendix A, Tab 8.) However, as noted above, some studies suggest that actual impact 
+on total energy costs could be modest due to offsets and increased efficiency.12
+12 Canadian Climate Institute op. cit., p. 26 
+Independent Electricity System Operator
+32
+Pathways to Decarbonization
+Natural Gas as a Transitional Resource 
+to Ensure Operability
+Natural gas generation currently plays a vital role in supporting grid reliability: it can 
+generally provide continuous energy throughout the year, under all weather conditions; 
+it can be ramped up or down within minutes to follow sudden or unexpected changes in 
+demand or in the availability of other generators; and it provides reliability services that 
+help stabilize voltages and frequencies on the transmission grid. 
+These important characteristics must remain available to Ontario’s power system, which means that 
+natural gas facilities are needed past 2035, or until reliable replacements have been identified, put 
+into service and demonstrated their capability. 
+Developing a strategy to replace natural gas facilities requires a number of thorough, detailed 
+assessments. As learned during Ontario’s coal phase-out initiative, shutting down large facilities 
+while maintaining reliability can take many years to achieve. Some of the learnings from Ontario’s 
+previous experiences include the following:
+•	 Replacement resources should be procured, built, commissioned and operated at a satisfactory 
+level of performance prior to the shutdown of facilities. Careful scheduling and demonstration of 
+operation are critically important to ensuring that reliability can be maintained during transition years.
+•	 Replacement resources are unlikely to have the same attributes as natural gas facilities. Low-
+carbon fuels such as renewable natural gas, for example, may be suitable replacements, but 
+significant work must be done to ensure that they have both the right technical characteristics 
+and that they are market ready in sufficient quantities by 2035. In the end it may be necessary 
+to procure additional resources to ensure that all reliability attributes are replaced. 
+•	 Shutting down larger facilities can impact the transmission system. Studies should be conducted as 
+each facility shuts down to understand the broader effects on the transmission system and to develop 
+adequate infrastructure to maintain the security of the grid.
+Coordinating outages is critical during the years where new replacement facilities and supporting 
+infrastructure are under construction and commissioning. A staged approach allows facilities to shut 
+down while broader impacts to the grid are managed effectively.
+Replacing these facilities will be complex and will require detailed assessments and studies that 
+will be a priority for the IESO going forward. In addition, it may require the development of new 
+reliability standards. 
+Independent Electricity System Operator
+33
+Pathways to Decarbonization
+Implementation Dependencies and Risks
+While the energy transition will bring growth opportunities, the results of both scenarios 
+demonstrate the complexities of achieving it. The electricity system will be relied upon 
+to do more than ever while learning how to build and manage resources at a scale 
+never before attempted. 
+Today, there is considerable activity underway in planning for Ontario’s future reliability. The IESO’s 
+current resource procurements, along with CDM program development and efforts to enable 
+emerging non-emitting resources, are all moving the province steadily forward toward meeting its 
+coming needs. 
+Bridging the work of today with the needs of a decarbonized world will be challenging and complex, 
+but Ontario has the experience to build on. 
+•	 After becoming the first jurisdiction in North America to completely phase out coal-fired 
+generation in 2014, our electrical grid is now more than 90 per cent emissions-free – one of the 
+cleanest electricity systems on the continent. On average, the system accounts for just under three 
+per cent of the province’s emissions;
+•	 We have a mature sector, with established, knowledgeable electricity market participants, 
+an experienced system operator and a respected energy regulator;
+•	 We are part of the largest, most reliable grid in the world, and adhere to the requirements of 
+North American standards authorities (NERC/NPCC) to ensure the reliability and security 
+of Ontario’s system;
+•	 We have extensive experience with demand-side management programs; and
+•	 We have a skilled, well-trained workforce and well-developed infrastructure to attract 
+economic development.
+That said, there are many dependencies and risks involved in making the transition to a decarbonized 
+electricity system; these were brought to the IESO’s attention during the stakeholder and community 
+engagement process that has informed this body of work. Some of the more significant dependencies 
+and risks are outlined below.
+Policy certainty is a must: Provincial and federal policy in Canada must set mandatory goals for 
+GHG emissions reductions, which, in turn, govern the direction of industry, business and consumer 
+behaviour. Policy certainty – both in the near and long term – is vital to enabling investment in 
+infrastructure, CDM, next-generation technology and decarbonization. Uncertainty around the future 
+cost of carbon and emissions targets contributes to a challenging environment for investors and 
+others interested in contributing to meeting reliability needs. Stakeholders emphasized that policy 
+certainty is a prerequisite for decarbonization at scale. 
+Independent Electricity System Operator
+34
+Pathways to Decarbonization
+Governance and oversight need to evolve with the challenge: The pace of electrification will 
+depend on millions of individual choices by households and businesses regarding transportation, 
+heating and cooling solutions and appliances. Those choices will be influenced by factors such as 
+the relative cost of various options, the presence of supporting infrastructure and even geopolitical 
+developments. This makes electricity system planning and investment challenging and may require 
+an evolution in how the sector is governed to ensure an orderly energy transition. 
+Public support for decision-making is vital: Public support will be necessary to enable the 
+transition. A recent report, Net Zero: An International Review of Energy Delivery System Policy and 
+Regulation for Canadian Energy Decision Makers, concludes that “Durable public support for energy 
+system transformation will need to rest on open, inclusive, transparent policy, planning and approval 
+processes, engaging communities and citizens from beginning to end” (p. 5). This will involve 
+acknowledging the costs and risks of the transition, as well as addressing how we pay for it.
+Managing costs is a precondition to success: Stakeholders and experts are concerned about the 
+effect of this energy transition on affordability, including the impact on industrial competitiveness 
+and of rising costs on people with low incomes. This is a significant issue and highlights the need to 
+adopt a cost optimized pathway.  Recent analysis published by the Canadian Climate Institute shows 
+that if the pathway is cost optimized, while electricity rates would increase, overall energy costs 
+would decline as equipment becomes more efficient and the share of spending on natural gas and 
+gasoline decreases.13 
+A partnership role for Indigenous communities is a prerequisite: Simply consulting Indigenous 
+communities on planned system developments has never been a sufficient approach to electricity 
+system planning: these communities expect to be full partners in the transition to a decarbonized 
+future. Indeed, Indigenous communities, governments and organizations across Canada have been 
+actively developing renewable-energy and transmission projects over the past two decades. Today, 
+First Nations, Métis and Inuit entities are partners in, or beneficiaries of, almost 20 per cent of 
+Canada’s electricity-generating infrastructure, most of which is producing renewable energy. These 
+communities are also seeking efficiency improvements in their buildings and want to see job creation 
+in their communities. The electricity sector has already created a solid foundation of engagement 
+with many Indigenous communities and is well positioned to build on this base.
+Permitting and approvals must be streamlined: In Canada, it can take many years to build new 
+energy infrastructure; the IESO’s experience is that it can take four to five years for new wind and 
+solar generation, 10 years for transmission networks and even longer for large, capital-intensive 
+infrastructure. Stakeholders, communities, experts and infrastructure developers have made it clear 
+that processes need to be enhanced and streamlined if Canada wants to build energy infrastructure 
+at the scale needed to reliably decarbonize. It is imperative for all levels of government to review their 
+processes, including the Impact Assessment Act, the Environmental Assessment Act, and siting 
+approval and permitting processes.
+13 Canadian Climate Institute op. cit., p. 26
+Independent Electricity System Operator
+35
+Pathways to Decarbonization
+Siting grid-scale energy infrastructure will require the support of communities: All new 
+infrastructure has to be placed somewhere and taking community concerns, needs and plans 
+into consideration is critical to the expansion of the system. An estimate of land use required for 
+incremental resources in the Pathways study would be almost 14 times the size of Toronto (see 
+Appendix B, section 6). Some municipal representatives want to participate in the energy transition, 
+but have noted that it is critical that they have some control over the type of infrastructure that will 
+be built in their community. Thus, an important part of the system’s planning process is looking 
+at siting from a local perspective, as well as helping communities understand the challenges and 
+opportunities of siting new infrastructure. The IESO is already working with government to preserve 
+transmission corridors to enable future growth.
+The impacts of decarbonization on the distribution system need to be considered: Decarbonizing 
+Ontario will necessitate a considerable increase in the demand for electricity, which, in turn, will 
+have a significant impact on the distribution system, local distribution companies and on the cost 
+to the government and citizens. Toronto Hydro, for example, recently estimated that it will cost the 
+distributor $10 billion by 2050 to build a grid that’s capable of supporting the city’s net-zero strategy. 
+Coordination between the bulk and distribution systems is needed to ensure that this transition is 
+reliable and efficient, and to maximize the value of DERs.
+Access to capital, resources and labour may be challenging: The path to decarbonization is not 
+only being considered in Ontario; jurisdictions around the world are planning or actively working 
+on decarbonizing their energy systems over the next 25 years. As a result, competition for scarce 
+resources is already becoming an issue, while volatile geopolitical realities and the COVID-19 
+pandemic continue to weaken supply chains. Many stakeholders have told us that finding skilled 
+labour, capital and sources of supply are serious challenges to achieving decarbonization goals, 
+and one study (see Appendix B, section 6) estimates that the 14,000-strong labour force currently 
+working on electricity infrastructure projects in Ontario could need to increase six-fold for decades. 
+The electricity sector and governments need to work together to develop a strategy to collectively 
+face these uncertainties and sourcing challenges.
+Innovation is important, but uncertain: While many of the technologies needed to decarbonize 
+are already known and commercialized, many others, including low-carbon fuels and SMRs, are 
+still in development. It will be important for Ontario and Canada to continue to invest in these, and 
+other, innovations. As the system planner, however, we must consider scenarios in which these 
+technologies become available, as well as scenarios in which they do not.
+Independent Electricity System Operator
+36
+Pathways to Decarbonization
+Conclusion
+This report is the IESO’s response to the Minister of Energy’s request to evaluate a 
+moratorium on the procurement of new natural gas generating stations in Ontario and 
+to develop an achievable pathway to decarbonization in the electricity system. 
+The Moratorium and Pathways scenarios are not integrated power system plans, but analyses that 
+identify potential opportunities and challenges to consider as Ontario electricity demand and its 
+resource mix evolves. As well, although this scenario analysis is just the beginning of a discussion 
+about how to decarbonize our system while maintaining reliability and managing cost, it provides 
+a solid understanding of the scale of the work and clearly demonstrates the need to collaborate to 
+address risks and dependencies. 
+This study found that a moratorium on new natural gas is possible after the province’s current round 
+of electricity resource procurements is complete – as long as development begins now. Informed by 
+robust planning, Ontario must begin to acquire new non-emitting resources to meet the province’s 
+growing needs and must invest in pre-development work to better manage future uncertainty. 
+In response to the Minister’s second question, we were able to develop an energy-adequate, 
+decarbonized supply mix for 2050. Within the Pathways scenario, Ontario’s system became zero-carbon 
+in 2045 when the last natural gas plant retired after 25 years of operation, but further assessment is 
+needed to determine the feasibility of this target as well as a cost-effective way to get to 2050. 
+In addition, the Pathways scenario points to a step change in how we grow and manage our 
+electricity system. In order to meet a projected 60,000 MW of customer demand, Ontario will need 
+all of the resources available to it to simultaneously expand and decarbonize. While many options are 
+already available and understood (wind, solar, hydroelectric and large nuclear), others options such 
+as SMRs and low-carbon fuels will require support, and their availability is not guaranteed. 
+Another key area of uncertainty identified in the development of this report relates to the proposed 
+federal CER. It will be important that these regulations are informed by system planners and 
+operators. For example, our assessment of the Moratorium scenario has led us to conclude that 
+we will require 8,000 MW of natural gas on the system in 2035, particularly in the GTA, to ensure 
+reliability. We will continue to work with the federal government to share our insights and perspective. 
+In this report, we have identified decarbonized scenarios for Ontario. Scenarios, however, are not 
+enough. If Ontario wishes to make decarbonization a reality, a number of risks and dependencies 
+must be addressed, including policy certainty, governance framework and regulatory barriers, siting 
+and permitting, Indigenous and municipal partnerships and the management of costs. More broadly, 
+this report underscores the need to galvanize collaboration with a wide range of stakeholders and 
+communities as we explore ways to develop non-emitting resources to meet Ontario’s energy needs. 
+For its part, the IESO will incorporate the learnings from this report into our core work, more 
+explicitly integrating the risks of climate change and the ongoing energy transition into our planning 
+and procurements. This includes ensuring that regional planning processes for Toronto and York 
+Region address the unique challenges for local reliability of phasing out natural gas. We will also 
+study options to replace the operability services currently provided by natural gas, and will continue 
+to use our procurement framework to re-acquire existing resources. 
+Independent Electricity System Operator
+37
+Pathways to Decarbonization
+Recognizing that Ontario’s demand is growing, that existing resources are retiring, and that 
+government may direct system decarbonization, the IESO has identified “no regrets” actions that 
+are necessary to ensure that the electricity sector is ready to manage future uncertainty and risk. 
+These actions are intended to keep options open while maintaining the flexibility to take advantage of 
+opportunities as they emerge.
+1. Advance Acquisition of Non-Emitting Resources to Meet Load Growth
+The IESO is forecasting increased supply needs out to the end of the decade, with the possibility that 
+electrification and economic development outpace projections. Ontario should continue to move 
+swiftly to acquire new non-emitting resources and incentivize energy efficiency to meet emerging 
+needs. Using its competitive and technology-diverse approach to resource acquisition, the Minister is 
+requested to advance the efforts by directing the IESO to: 
+•	 Acquire new non-emitting resources this decade through future procurements. This includes continuing 
+to issue a regular schedule of procurements into the next decade to create investor certainty.
+•	 While current Save on Energy programs are on track to achieve all feasible energy efficiency within 
+the current framework, expanded targets post-2024 need to be established. Offerings should be 
+expanded to include efficient electrification and move away from time-bound CDM Frameworks 
+to an enduring model that adapt funding and targets to Ontario’s achievable potential. Discussions 
+regarding appropriate targets and models should begin now to better leverage CDM as a resource 
+to respond to evolving system, market, and customer needs.
+2. Invest in Future Infrastructure and Innovation
+There is an urgent need to begin investing in early development work to ensure that the grid is 
+ready to support transformation into the next decade. A relatively small investment today ensures 
+that the projects and technologies can deploy more readily to meet decarbonization targets. 
+Recommendations to prepare for future infrastructure and innovation include the following: 
+•	 Sector partners should begin planning and siting work to identify potential new projects, including 
+hydroelectric and nuclear. To enable this work, the Ministry should work with the Ontario Energy 
+Board (OEB) and the IESO to develop a process to recover pre-development costs for OEB-regulated 
+and IESO-contracted projects respectively, as applicable.
+•	 The IESO should work with government and system transmitters to identify new, and protect 
+existing, corridors of land as well as rights of way that will likely be needed for future transmission 
+lines. The IESO should also leverage existing planning processes to identify and recommend 
+development work for priority transmission investments to support decarbonization. 
+•	 There should be an increased focus on the work identified in Ontario’s Low-Carbon Hydrogen 
+Strategy, including recognizing if and how low-carbon fuels can contribute to the decarbonization 
+of the electricity grid. Other investments in innovation and new technologies to meet future needs 
+will also be critical. This includes continuing to expand efforts associated with the IESO’s Innovation 
+Framework as well as the Grid Innovation Fund.
+•	 The IESO should pursue a deeper understanding of the role of long-duration storage such as 
+pumped water and compressed air storage, contributing to reliability needs in the 2030s. This 
+work could lead to procurements for long-duration storage that would allow the province to reduce 
+its reliance on natural gas earlier. 
+Independent Electricity System Operator
+38
+Pathways to Decarbonization
+3. Galvanize Collaboration 
+As there is no one solution to addressing the challenges and opportunities ahead, it is important to 
+engage, understand and build support for a collective approach to how Ontario moves its electricity 
+system toward decarbonization. This will require both sector stakeholders and communities to take 
+an active role in implementing solutions. To achieve this, the IESO recommends that the Minister: 
+•	 Consult on the findings of the Pathways to Decarbonization report to ensure there is a broad 
+understanding of the report’s conclusions and to build acceptance for Ontario’s energy policy 
+moving forward;
+•	 Continue to build partnerships with the federal and municipal governments to ensure a shared 
+alignment of energy policy and approaches to managing the cost of Ontario’s energy transition; and
+•	 Continue to build partnerships with neighbouring jurisdictions, both in Canada and in the United 
+States, that are undergoing similar energy transitions to share learnings and collaborate on 
+potential solutions. 
+4. Break Down Regulatory Barriers
+The scale of the energy transition is far reaching and will require new regulatory approaches to 
+govern how Ontario makes decisions and develops and pays for its energy infrastructure. The IESO 
+recommends that the Minister: 
+•	 Continue the work of the Electrification and Energy Transition Panel and establish a new long term 
+energy planning process that is designed to address the energy transition; and 
+•	 Work with all levels of government and with regulators to ensure that approaches to regulating the 
+development of new large infrastructure projects and expanding the use of CDM, DERs, and other 
+innovative technologies are appropriate given the scale and pace of the challenge ahead. 
+5. Track Progress and Update Plans in an Open and Transparent Process
+This study is a single scenario based on the information available to the IESO today. It is imperative 
+that Ontario continue to update, track progress, and refine its planning in support of the energy 
+transition. To do this, the IESO recommends that the Minister:
+•	 Direct the IESO to establish a new and enduring process to track progress and plan for Ontario’s 
+energy transition. The planning should be incorporated into regular planning products such as the 
+IESO’s APO. The first iteration should account for the results of the actions identified above.
+Independent Electricity System Operator
+39
+Pathways to Decarbonization
+ Independent Electricity 
+ System Operator
+ 1600–120 Adelaide Street West
+Toronto, ON M5H 1T1
+ Phone: 905.403.6900
+Toll-free: 1.888.448.7777
+ Email: customer.relations@ieso.ca
+ 
+ 	@IESO_Tweets
+ 	linkedin.com/company/ieso
+ ieso.ca
+saveonenergy.ca

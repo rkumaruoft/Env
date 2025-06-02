@@ -1,0 +1,789 @@
+Research article
+Evaluating responses to health-related messages about the ﬁnancial costs
+of climate change
+Vijay S. Limayea,*, Benjamin Toffb
+a Natural Resources Defense Council, 40W. 20th Street, New York, NY, United States
+b Hubbard School of Journalism and Mass Communication, University of Minnesota, 111 Murphy Hall, 206 Church Street SE, Minneapolis, MN 55455, United States
+A R T I C L E
+I N F O
+Article History:
+Received 31 July 2022
+Accepted 3 February 2023
+Available online 6 February 2023
+A B S T R A C T
+Introduction: Science communication research has increasingly explored what factors shape public opinion
+around climate change policies. The public health consequences of climate change are becoming an increas-
+ingly prominent focus of research and policy, and prior research has identiﬁed the importance of health mes-
+saging for effective risk communication efforts. While prior research on communication appeals that
+highlight the impact of climate change on public health has shown promise, evidence around the effective-
+ness of such appeals remains thin, especially around health-related ﬁnancial costs related to climate hazards.
+Materials: We explore how social media messages that describe the ramiﬁcations of climate-related health
+problems may inﬂuence support for climate change policies. We ﬁelded an experiment embedded in an
+online survey of 2,859 English-speaking U.S. adults to understand how health-cost climate messaging may
+have a differential impact on distinct segments of the public. Treatment groups read a hypothetical social
+media post about how a failure to invest in climate change mitigation and adaptation may result in ﬁnancial
+burdens from either damaged property or healthcare costs due to worsening climate hazards quantiﬁed at
+either a national or household scale. Following exposure to treatment stimuli, respondents were asked to
+state to what extent they perceived climate change to be a threat to the US, supported policy responses, and
+supported federal investments in mitigation and adaptation.
+Results: While all messaging conditions were associated with signiﬁcantly higher perceptions that climate
+change poses a threat, no differences were observed when comparing across the health- versus property-
+related economic damage messages.
+Conclusion: Communication of costs on a per household basis was associated with signiﬁcantly higher per-
+ceptions that climate change is a threat compared to messages that emphasized costs at a national level.
+© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keywords:
+Climate change
+Health
+Costs
+Damages
+Communication
+Policy
+1. Introduction
+Climate change impacts are growing in frequency and intensity,
+causing damage to physical infrastructure and human health [1]. Cli-
+mate-sensitive extreme events are widely reported and public opin-
+ion around climate is evolving in the direction of more awareness
+and alarm [2]. However, studies show signiﬁcant segments of the U.S.
+public remain skeptical of policy efforts designed to confront these
+challenges [2] despite broad scientiﬁc consensus about the urgency
+of doing so [3,4]. Over the past decade, science communication
+research has increasingly explored what factors shape public opinion
+around climate change policies at the federal, state, and local levels
+[5−7], focusing especially on populations most resistant to these poli-
+cies, their underlying beliefs, and the ideological factors that may fuel
+persistent skepticism. Research has shown how discourse about the
+subject has become politically polarized [8−10], contributing to a sta-
+tus quo bias and greater distrust of scientiﬁc expertise [11−13].
+The public health consequences of climate change are a relatively
+under-studied and poorly communicated area relative to research
+efforts quantifying climate impacts on ecosystems and infrastructure
+[14,15] but research, communication, and policies focusing on the
+health consequences of climate change are becoming increasingly
+prominent [16,17]. Importantly, prior research has identiﬁed inclu-
+sion of the health theme a key priority for effective climate change
+campaigns and risk communication efforts [18].
+National assessments such as the Billion Dollar Disaster Climate
+and Weather Disasters list compiled by the National Oceanic and
+Atmospheric Administration summarize the annual toll of the most
+expensive climate and weather disasters on damage to property,
+crops, and infrastructure [19]. While economic framing around cli-
+mate impacts is widespread [20,21], the NOAA compendium and
+* Corresponding author.
+E-mail address: vlimaye@nrdc.org (V.S. Limaye).
+https://doi.org/10.1016/j.joclim.2023.100218
+2667-2782/© 2023 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Journal of Climate Change and Health 10 (2023) 100218
+Contents lists available at ScienceDirect
+The Journal of Climate Change and Health
+journal homepage: www.elsevier.com/joclim
+other international climate impact assessments do not include
+health-related costs, in part because such costs are difﬁcult to esti-
+mate amongst distinct climate-sensitive exposure types, populations,
+and geographies [22]. As an indication of the potential salience of this
+focus of climate change damages, the Lancet Countdown on Health
+and Climate Change has drawn attention to the need for more robust
+evidence on the health costs of climate-sensitive events [23].
+Existing evidence indicates that recent climate-sensitive events
+experienced across the U.S., including extreme heat, coastal storms,
+extreme precipitation, wildﬁres, and ozone air pollution episodes are
+linked to substantial health problems and health-related ﬁnancial
+costs. For example, our 2019 study identiﬁed 917 early deaths,
+20,568 hospitalizations, and 17,857 emergency department visits
+across a case study set of ten climate-sensitive events that affected
+eleven U.S. states in 2012 [24]. The total economic toll associated
+with the loss of life, illnesses, and injuries in that study was estimated
+at $10 billion dollars (sensitivity range $2.7-$24.6 billion). Other stud-
+ies have identiﬁed substantial economic damages associated with cli-
+mate-sensitive exposures and health effects [25]. To date, climate
+messages emphasizing health [26−28] or economic [29,7] dimen-
+sions have been explored as separate topics. Prior work has found
+that health messaging [26] can help to make climate communication
+more personally relevant and intelligible to some members of the
+public [27]; relatedly, a representative national online survey in 2010
+found that a public health focus in climate messaging activated emo-
+tional reactions consistent with support for climate change mitiga-
+tion and adaptation policies [28]. Separately, a smaller experimental
+study found that economic framing around climate activated higher
+levels of concern and willingness to talk about the issue amongst
+respondents already knowledgeable about the topic [29]. In another
+meta-analysis analyzing the impact of different message frames on
+engagement with the topic of climate change, an economic frame sig-
+niﬁcantly outperformed public health frame, though the health fram-
+ing did not include content on health costs [7].
+Even as these lines of evidence continue to emerge, to our knowledge
+no studies have explored the need or evaluated the effectiveness of inte-
+grated human health and economic cost messaging in the U.S. popula-
+tion. Such integrated messaging may be strategically valuable for climate
+communications because it draws upon subject matter areas that have
+been previously identiﬁed as effective approaches when deployed inde-
+pendently. Moreover, reducing psychological distance helps to personal-
+ize climate change communications and make it more relevant and
+tangible [30]; climate and health cost messages lend themselves to ﬂexi-
+ble application (e.g., this information is adaptable to a wide array of
+health and economic metrics) and articulation of both localized and
+broader geographical impacts. Social media platforms such as Facebook
+and Twitter are widely used by U.S. adults as not only entertainment,
+but also news sources; in a 2022 survey, 70% of U.S. adults reported using
+Facebook, and 31% of U.S. adults reported regularly accessing news on
+that site. For Twitter, 27% of adults reported using the site and 14% regu-
+larly accessed news on the site [31]. Prior work has identiﬁed social
+media sites as important platforms for assessing public awareness, opin-
+ion, and engagement with climate change content [32−34].
+This study adds to this growing body of research by examining the
+effectiveness of health-economic climate change messages on differ-
+ent segments of the public. While prior research on communication
+appeals that highlight the impact of climate change on public health
+has shown promise [35−38], particularly messaging that focuses on
+speciﬁc, local threats rather than abstract hazards [30], evidence
+around the effectiveness of such appeals for improving climate
+change risk perception and support for climate policy and related
+funding remains thin. It is not yet clear what type of health-related
+messaging is most persuasive relative to alternatives (e.g., reporting
+that emphasizes substantial health-related ﬁnancial costs shouldered
+by people during climate disasters for medical care in hospitals and
+emergency rooms versus reporting that focuses mainly on physical
+and mental health harms). Nor have prior studies examined hetero-
+geneous effects of such appeals on distinct sub-populations of inter-
+est (e.g., political conservatives, men, retirees, and rural blue-collar
+workers) who have been most resistant to federal climate change
+policies.
+This study begins to address this gap in the literature by exploring
+how social media messages that describe the economic ramiﬁcations
+of one set of climate-sensitive health problems (illness, injuries, and
+deaths related to worsening wildﬁres) may inﬂuence risk perception
+on climate change and support for federal climate change policies,
+including support for public investment in climate change pollution
+control and community preparedness. We focus on wildﬁre-related
+messaging as ﬁre impacts on costs to human health, property, and
+infrastructure are relatively better-studied climate-sensitive dam-
+ages [39−41,24]; real-world cost estimates are deployed in our
+experimental treatments. Our project involves collaboration between
+the Science Ofﬁce of the Natural Resources Defense Council and
+researchers at the University of Minnesota’s Hubbard School of Jour-
+nalism and Mass Communication. NRDC collaborators have published
+prior studies on the health harms of climate change and the ﬁnancial
+costs of health problems worsened by climate-sensitive events
+[22,24,42−44].
+Building on prior studies, we explore two research questions in
+the present work. We ask (Q1) whether there are differential effects
+on support for mitigation and adaptation investments associated
+with whether communication appeals focus on (Q1a) either health-
+or property-related economic impacts of climate change, particularly
+when (Q1b) those costs are quantiﬁed at either a per household or
+national scale, which a previous study found affects the way the pub-
+lic thinks about these costs [45,46]. We also ask (Q2) whether com-
+munication appeals affect risk perception and support for climate
+change response policies and funding within distinct segments of the
+public in different ways. After all, one previous study found that an
+economic frame was most persuasive amongst respondents who
+were already most knowledgeable about climate change, but also
+that the least knowledgeable respondents were most resistant to any
+communication appeals [29].
+Speciﬁcally, we consider heterogeneous effects among subgroups
+currently most skeptical toward climate change policy. Previous stud-
+ies have singled out education, partisanship [47] and geographic place
+[48,49] as important lines of division for public opinion on the subject.
+Therefore, we ask whether (Q2a) older, (Q2b) male, and (Q2c) less
+educated respondents, as well as those who (Q2d) live in more rural
+areas, are (Q2e) less politically interested, and identify as (Q2f) ideo-
+logical conservative might also be more or less to certain types of
+appeals [50]. Because earlier studies have also identiﬁed the important
+role played by the news media, and Fox News in particular [51−53], in
+shaping attitudes toward climate change, we also look at whether
+(Q2g) viewers of Fox News respond differently to each type of appeal.
+2. Material and methods
+To examine these research questions, this study makes use of a
+randomized experiment embedded in an online survey ﬁelded by the
+research ﬁrm Civis Analytics (N = 2859). The sample of English-speak-
+ing adult respondents was broadly balanced to be representative of
+the American public using quotas and survey weights (see the appen-
+dix for summary).
+The full questionnaire took approximately ten minutes to com-
+plete. Respondents were asked a series of questions about their dem-
+ographics, media usage, and political attitudes. Each participant was
+then randomly assigned to either a control group or one of four sepa-
+rate treatment groups corresponding to panels a-d in Fig. 1. Those
+assigned to treatment groups were asked to read a hypothetical social
+media post created by the authors, with a health- or property-related
+photo, headline, and descriptive text. Each post was designed to
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+2
+Fig. 1. Stimuli randomly shown to respondents in different treatment groups: (a) health/household, (b) health/national, (c) property/household, and (d) property/national focus.
+Table 1
+Dependent variables.
+Variable
+Question(s)
+Perceived threat of climate change
+How personally concerned are you that climate change poses a direct threat to the United States?
+1 Extremely concerned
+2 Very concerned
+3 Moderately concerned
+4 Not very concerned
+5 Not concerned at all
+Support for policy responses
+Do you support or oppose the federal government taking any of the following actions to slow
+climate change and reduce its impacts?
+−Investing in community preparedness and early warning systems to protect public health
+−Investing in clean and renewable energy technologies
+−Reducing federal funding and tax breaks for coal, oil, and gas
+−Expanding public transportation systems
+−Helping to promote walking and cycling as alternatives to driving
+−Passing legislation to restrict emissions that contribute to climate change
+1 Strongly support
+2 Somewhat support
+3 Somewhat oppose
+4 Strongly oppose
+Support for federal spending
+Federal lawmakers are considering a proposal to invest $550 billion over the next decade
+($55 billion per year) to slow climate change and reduce its impacts. To what extent do you support or oppose this proposal?
+1 Strongly support
+2 Somewhat support
+3 Somewhat oppose
+4 Strongly oppose
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+3
+highlight a hypothetical news article about a new scientiﬁc report
+exploring how a failure to invest in climate change mitigation and
+adaptation would result in ﬁnancial burdens from worsening climate
+hazards. While these posts were not publicly visible to any audience
+and were deployed only for this experiment, the climate damage sta-
+tistics mentioned were adapted from real-world federal estimates,
+including a U.S. Environmental Protection Agency study on health-
+related ﬁnancial damages from wildﬁre smoke [41], NOAA estimates
+wildﬁre-related damages to property [39], and Internal Revenue Ser-
+vice statistics on the number of taxpaying U.S. households [54].
+The posts described costs associated with climate change and
+emphasized these costs in terms of public health or property
+damages caused by climate change related wildﬁres (see each of
+the four stimuli in Fig. 1). In developing our survey treatment
+materials, we draw from prior work that has shown the impor-
+tance of importance of visual storytelling methods around climate
+and health [55] to test the efﬁcacy of health-related economic
+messaging. Costs were quantiﬁed either in terms of a dollar ﬁgure
+at the national level or on a per household basis. Those assigned
+to a control group did not see any stimulus. A small number of
+Fig. 2. Average treatment effects associated with exposure to climate change messages. T-tests for statistical signiﬁcance denoted by # p < 0.10, * p < 0.05, ** p < 0.01, *** p < 0.001.
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+4
+respondents were excluded who said they could not view the
+stimuli materials (N = 59).
+Immediately following exposure to these stimuli, respondents
+were asked to state to what extent they (a) perceived climate change
+to be a threat to the US, (b) supported a range of policy responses,
+and (c) supported federal investments in climate change mitigation
+and adaptation efforts. These outcome variables are summarized in
+Table 1. To ease interpretation of our results, support for policy
+responses were averaged in a composite variable (Cronbach’s
+alpha = 0.87). We report results for each separate policy response in
+Appendix Table A-2.
+In the ﬁrst part of our analysis, we assess our ﬁrst research ques-
+tions (Q1a and Q1b) by calculating average treatment effects by com-
+paring responses to each of these dependent variables for the control
+group to each treatment group associated with exposure to each type
+of climate change message. To simplify interpretation of results and
+to maximize statistical power, we analyze effects associated with
+health- versus property-related costs and then separately, whether
+these costs are quantiﬁed at a per household- versus national scale.
+To evaluate our second set of research questions about heteroge-
+neous treatment effects (Q2a-g), we estimated a series of ordinary
+least squares models that include interactions between indicator var-
+iables for each treatment condition and relevant respondent charac-
+teristics. These included age, gender, level of educational attainment,
+interest in politics, partisan identity, respondents’ self-reported per-
+ception of whether they lived in a “rural,” “suburban,” or “urban”
+community (which we dichotomized as “rural” or “non-rural” in
+order to isolate the relevant category of interest), as well as news
+consumption. This last variable was measured by asking respondents
+how frequently they consumed different modes of news on a 4-point
+scale from “never” to “often” including online, print newspapers,
+broadcast, and cable television. For the latter category, because of the
+unique status of Fox News in the American media system [56], we
+asked respondents a follow-up question about whether they mainly
+watched Fox News, MSNBC, CNN, or another channel, which we used
+to create separate measures of how frequently respondents con-
+sumed Fox News versus other cable news content. In addition to
+these variables, we also measured respondent race and household
+income, which are included as additional control variables to
+improve model ﬁt.
+3. Results
+Overall we found limited evidence that health-economic messag-
+ing on climate damages results in differential effects on support for
+climate change mitigation and adaptation investments. When exam-
+ining the statistical signiﬁcance of average treatment effects, which
+we summarize visually in Fig. 2, we found some evidence of signiﬁ-
+cant effects associated with both the health and property damage
+messaging conditions but minimal difference between the message
+treatments (Q1a). We found more consistent evidence that commu-
+nication of climate change costs on a per household level was associ-
+ated with larger treatment effects than when presenting costs at the
+national level (Q1b).
+While all four messaging conditions were associated with signiﬁ-
+cantly higher perceptions that climate change is a threat, no differen-
+ces were observed when comparing across the health versus
+property damage messages. The message that emphasized costs on a
+per household basis was associated with signiﬁcantly higher percep-
+tions that climate change is a threat compared to messages that
+described costs at a national level (t = 2.1, p < 0.05).
+Fewer signiﬁcant effects were observed when it came to support
+for policy responses or federal climate change funding. Support for
+federal climate change funding was higher for both the health and
+property conditions but only reached borderline signiﬁcance for the
+property damage messaging (t = 1.8, p < 0.10). Likewise the house-
+hold condition was associated with slightly higher levels of support
+for policy responses when compared to the national condition
+(t = 1.7, p < 0.10) and when it came to support for federal climate
+change funding (t = 2.2, p < 0.05).
+To explore our second set of research questions involving hetero-
+geneous treatment effects speciﬁed above (Q2a-Q2g), we focus on
+the signiﬁcance of interactions between indicators for each of our
+treatment conditions and relevant respondent characteristics. To
+Fig. 2. Continued.
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+5
+simplify the presentation of our results, we limit our attention to only
+our ﬁrst dependent variable (perceived threat of climate change)
+where we observed the largest and most consistent overall effects,
+but we report the full results in the appendix.
+We ﬁnd evidence of signiﬁcant heterogeneous treatment effects
+only for two variables: whether respondents live in rural areas (Q2d)
+and the degree to which respondents regularly consume Fox News
+(Q2g). As we illustrate in Fig. 3, effects are primarily concentrated
+among rural respondents, perhaps in part because their baseline per-
+ceptions about the threat from climate change tends to be lower.
+There is no evidence, however, of differences in effectiveness
+between the types of messaging conditions. Likewise, when examin-
+ing heterogeneous treatment effects in relation to Fox News con-
+sumption, we ﬁnd that exposure to climate change messages is
+associated with increases in the perceived threat of climate change
+mainly among those who rarely or never consume Fox News content
+and indistinguishable from the control group for those who regularly
+watch the cable news channel. The results suggest that watching Fox
+News regularly may be associated with more crystallized views and
+greater resistance to any type of communication appeal on the sub-
+ject. Neither the health nor household condition were differentially
+more effective with these subgroups.
+In our Appendix material, we report the results of tests for
+interactions
+between
+our
+experimental
+treatments
+and
+other
+respondent characteristics, including age, gender, party afﬁliation,
+educational attainment, rural/urban, sources of news, and level of
+interest in politics.
+4. Discussion
+We found that health-related cost messaging was no more effec-
+tive in our survey than cost messaging related to property-related cli-
+mate change damages. Overall, the pattern of larger treatment effects
+when describing climate change costs on a household level compared
+to a national level indicates the importance of considering scale when
+formulating communications that emphasize climate-related eco-
+nomic damages.
+Our ﬁndings align with studies analyzed in a recent systematic
+review and meta-analysis, which found that communication that
+reduces psychological distance (e.g., making climate hazards feel
+closer and less abstract) hold promise, along with strategies that
+relate to emotional and religious interventions [30]. However, the
+effectiveness of personalized communication strategies may depend
+on baseline levels of concern in different audiences [57]. While our
+Fig. 3. Treatment effects are plotted conditional on key variables holding all other covariates at their mean levels. Shaded areas reﬂect 90% conﬁdence intervals. Full regression out-
+put provided in the supplementary appendix.
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+6
+household-level social media messages offer closer psychological dis-
+tance than national-level impacts, more can be done to further local-
+ize these hazards and their harms to individual health (e.g.,
+attribution of climate change to speciﬁc health problems in more pre-
+cisely deﬁned populations) [58], and evaluate messaging that details
+ﬁrst-person accounts of health harms endured during climate-sensi-
+tive events [17]).
+Currently, many assessments of climate change-linked economic
+damages (to human health, but also property, crops, and infrastruc-
+ture) are communicated in broad terms (e.g., state or national level in
+the U.S.) due to lack of sufﬁcient spatial resolution in health data
+[19,22]. Because of the prevalence of national-scale climate change
+damage estimates, it is possible that some survey respondents were
+not as receptive to additional messaging of this type. However, each
+treatment message, while brief and inclusive of distinct visual com-
+ponents, included textual elements spanning both climate content
+(health or property damage in economic terms) and scale of impacts
+(household or national).
+Moreover, we did not test the effectiveness of locally-tailored cli-
+mate change damage estimates in this study, though the adoption of
+messaging to meet the needs of speciﬁc audiences has been identiﬁed
+as an effective communications strategy in prior research [59].
+Beyond property damage, crop failures, and health-related costs, cli-
+mate change is affecting food prices and compounding inﬂationary
+pressures [60], but messaging around these impacts has not been
+tested in terms of effectiveness for motivating support of climate
+change policies. Prior work on estimating climate-sensitive health
+effects and costs indicates that these burdens are falling dispropor-
+tionately on marginalized populations [24,43,61], and these popula-
+tions have been found in prior studies to be especially concerned
+about certain climate hazards [62].
+We found some evidence of signiﬁcant effects associated with
+both the health- and property damage-related communication condi-
+tions, but minimal difference between these messages. To be sure the
+stimuli used in this study involved a somewhat subtle manipulation
+and both frame the issue in terms of economic costs. It is possible
+that our use of a single climate-sensitive event type (wildﬁres)
+reduced effectiveness amongst respondents who do not reside in
+wildﬁre-vulnerable parts of the country or who are not as familiar
+with the hazards associated with increasing wildﬁre severity. How-
+ever, there may be limits to the effectiveness of household-level and
+hazard-speciﬁc communications: personalized risk information may
+not affect willingness to pay for regional climate adaptation [57].
+Future work on this front could consider application of locally-tai-
+lored climate hazard communications to assess their value as well as
+the feasibility of reaching targeted communities using social media
+channels, two factors that were not considered in this study.
+The lack of signiﬁcant effects related to support for policy
+responses or federal climate change funding suggests that the hypo-
+thetical social media posts in our study did not affect underlying
+views on the need for ﬁnancial investments to address climate
+change; other research has found that even when scientiﬁc informa-
+tion about climate change increases support for government action,
+the effect can diminish over time and can be further weakened by
+consumption of skeptical opinion content [63]. The fact that house-
+hold-level messaging was associated with slightly higher levels of
+support for policy responses when compared to national messaging
+further suggests that documenting local climate harms could be
+important for motivating support for local policy solution. Impor-
+tantly, climate solutions offered were all presented as federal govern-
+ment responses, which may have reduced support amongst more
+conservative respondents; future work could explore support for cli-
+mate policy investments at a more localized scale.
+In considering other ways of communicating this information, we
+note that communication on the health and economic beneﬁts of cli-
+mate action, rather than costs of implementing climate change
+mitigation actions, is on the rise [64]. Future investigations could
+complement our work by testing the effectiveness of afﬁrmative,
+beneﬁts-focused communications around avoided climate change
+damages and the extent to which scale of the information presented
+is an important factor.
+More broadly, by assessing the effectiveness of messaging related
+to scientiﬁc quantiﬁcation of climate change damages, we build on
+prior research that has identiﬁed a need for communications experts
+to inform scientiﬁc messaging to the public [36]. As the evidence of
+climate change damages to human health continues to mount and
+the climate problem itself intensiﬁes, effective translation of scientiﬁc
+ﬁndings into communications that resonate to the public will be
+increasingly urgent.
+Author agreement
+If accepted, we intend to publish the manuscript as open access,
+and we intend to license exclusive rights in their article to Elsevier
+under a CC BY-NCND end user license.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Funding
+This work was supported by David and Ellen Berman.
+Acknowledgements
+We thank David and Ellen Berman for their support of this work.
+We acknowledge the contributions of Kim Knowlton, Juanita Consti-
+ble, Jake Thompson, Nora Mango, Erika Preuss, Elizabeth Heyd,
+Fabiola Nunez, and Kate McKenney to survey development.
+Supplementary materials
+Supplementary material associated with this article can be found
+in the online version at doi:10.1016/j.joclim.2023.100218.
+References
+[1] U.S. Global Change Research Program. Fourth national climate assessment, vol-
+ume II: impacts, risks, and adaptation in the united states. Washington, D.C.: US
+Global Change Research Program; 2018. p. 1515. https://nca2018.globalchange.
+gov/.
+[2] Leiserowitz A, Roser-Renouf C, Marlon J, Maibach E. Global Warming’s Six Ameri-
+cas: a review and recommendations for climate change communication. Curr
+Opin Behav Sci 2021;42:97–103 [Internet]Dec [cited 2022 Feb 27]. Available
+from: https://linkinghub.elsevier.com/retrieve/pii/S2352154621000929.
+[3] IPCC. Global Warming of 1.5 °C. An IPCC Special Report on the impacts of global
+warming of 1.5°C above pre-industrial levels and related global greenhouse gas
+emission pathways, in the context of strengthening the global response to the
+threat of climate change, sustainable development, and efforts to eradicate pov-
+erty. [Internet]. 2018. Available from: https://www.ipcc.ch/sr15/
+[4] Romanello M, McGushin A, Di Napoli C, Drummond P, Hughes N, Jamart L, et al.
+The 2021 report of the Lancet Countdown on health and climate change: code
+red for a healthy future. Lancet North Am Ed 2021;398(10311):1619–62 [Inter-
+net] [cited 2021 Nov 9]. Available from: https://linkinghub.elsevier.com/retrieve/
+pii/S0140673621017876.
+[5] Hine DW, Reser JP, Morrison M, Phillips WJ, Nunn P, Cooksey R. Audience seg-
+mentation and climate change communication: conceptual and methodological
+considerations. WIREs Clim Change 2014;5(4):441–59 [Internet][cited 2022 Feb
+3]. doi: 10.1002/wcc.279.
+[6] Rode JB, Dent AL, Benedict CN, Brosnahan DB, Martinez RL, Ditto PH. Inﬂuencing
+climate change attitudes in the United States: a systematic review and meta-anal-
+ysis. J Environ Psychol 2021;76:101623 [Internet] Aug [cited 2022 Feb 3]. Avail-
+able from: https://linkinghub.elsevier.com/retrieve/pii/S0272494421000761.
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+7
+[7] Li N, Su LYF. Message framing and climate change communication: a meta-analyt-
+ical review. J Appl Commun 2018;102(3) [Internet] Nov 5 [cited 2022 Feb 3].
+Available from: https://newprairiepress.org/jac/vol102/iss3/4.
+[8] Chinn S, Hart PS, Soroka S. Politicization and polarization in climate change news
+content, 1985-2017. Sci Commun 2020;42(1):112–29 [Internet] Feb 1 [cited 2022
+Feb 28]. Available from:. doi: 10.1177/1075547019900290.
+[9] Pew Research Center. Environmental protection rises on the public’s policy
+agenda as economic concerns recede [Internet]. Pew Research Center - U.S. Poli-
+tics & Policy. 2020 [cited 2022 Feb 28]. Available from: https://www.pewre-
+search.org/politics/2020/02/13/as-economic-concerns-recede-environ-
+mental-protection-rises-on-the-publics-policy-agenda/
+[10] Petrocik JR. Issue ownership in presidential elections, with a 1980 case study. Am
+J Pol Sci 1996:825–50.
+[11] Bolsen T, Druckman JN, Cook FL. How frames can undermine support for scientiﬁc
+adaptations: politicization and the status-quo bias. Public Opin Q 2014;78(1):1–
+26.
+[12] Motta M. The polarizing effect of the March for Science on attitudes toward scien-
+tists. PS: Politics Sci Politics 2018;51(4):782–8.
+[13] Geiger N. Do people actually “listen to the experts”? A cautionary note on assum-
+ing expert credibility and persuasiveness on public health policy advocacy. Health
+Commun 2020:1–8 [Internet] Dec 28 [cited 2021 Jan 14]. doi: 10.1080/
+10410236.2020.1862449.
+[14] Watts N, Amann M, Arnell N, Ayeb-Karlsson S, Belesova K, Berry H, et al. The 2018
+report of the Lancet Countdown on health and climate change: shaping the health
+of nations for centuries to come. Lancet North Am Ed 2018;392(10163):2479–514
+[Internet].
+Available
+from:
+https://linkinghub.elsevier.com/retrieve/pii/S0140
+673618325947.
+[15] Albright K, Shah P, Santodomingo M, Scandlyn J. Dissemination of information
+about climate change by state and local public health departments: United States,
+2019−2020. Am J Public Health 2020;110(8):1184–90 [Internet] [cited 2022 Jul
+29]. doi: 10.2105/AJPH.2020.305723.
+[16] World Health Organization. COP26 Special report on climate change and health:
+the health argument for climate action. 2021;
+[17] Limaye VS. Making the climate crisis personal through a focus on human health.
+Clim Change 2021;166(3):43. [Internet]Jun 17 [cited 2021 Jun 17]. doi: 10.1007/
+s10584-021-03107-y.
+[18] DeBono R, Vincenti K, Calleja N. Risk communication: climate change as a
+human-health threat, a survey of public perceptions in Malta. Eur J Public
+Health 2012;22(1):144–9 [Internet]Feb 1 [cited 2022 Feb 3]. doi: 10.1093/
+eurpub/ckq181.
+[19] U.S. National Oceanic and Atmospheric Administration. Billion-dollar weather
+and climate disasters: overview [Internet]. 2019 [cited 2019 Jun 25]. Available
+from: https://www.ncdc.noaa.gov/billions/.
+[20] Stecula DA, Merkley E. Framing climate change: economics, ideology, and uncer-
+tainty in American news media content from 1988 to 2014. Front Commun 2019
+[Internet][cited 2022 Feb 3];4. Available from: https://www.frontiersin.org/arti-
+cle/10.3389/fcomm.2019.00006.
+[21] The White House. National Climate Task Force. The White House; 2021. [Internet].
+Available from: https://www.whitehouse.gov/climate/.
+[22] Limaye VS, Max W, Constible J, Knowlton K. Estimating the costs of inaction and
+the economic beneﬁts of addressing the health harms of climate change. Health
+Aff 2020;39(12):2098–104 [Internet]. Available from: https://www.healthaffairs.
+org/doi/full/10.1377/hlthaff.2020.01109.
+[23] Salas R., Knappenberger P., Hess J. The lancet countdown on health and climate
+change: policy brief for the United States of America [Internet]. 2019 Nov [cited
+2021 Jun 29]. Available from: https://www.lancetcountdownus.org/wp-content/
+uploads/2020/11/LancetCountdownPolicyBrieffortheUS2019.pdf.
+[24] Limaye VS, Max W, Constible J, Knowlton K. Estimating the health-related costs of
+10 climate-sensitive U.S. events during 2012. GeoHealth 2019;3(9):245–65. doi:
+10.1029/2019GH000202.
+[25] Madrigano J, Shih RA, Izenberg M, Fischbach JR, Preston BL. Science policy to
+advance a climate change and health research agenda in the United States. IJERPH
+2021;18(15):7868. [Internet] Jul 25 [cited 2022 Feb 3]. Available from: https://
+www.mdpi.com/1660-4601/18/15/7868.
+[26] Chadwick AE. Climate change, health, and communication: a primer. Health Com-
+mun 2016;31(6):782–5 [Internet]Jun 2 [cited 2022 Feb 3]. doi: 10.1080/
+10410236.2014.1002030.
+[27] Maibach EW, Nisbet M, Baldwin P, Akerlof K, Diao G. Reframing climate change as
+a public health issue: an exploratory study of public reactions. BMC Public Health
+2010;10(1):299. [Internet] Jun 1 [cited 2022 Feb 3]. doi: 10.1186/1471-2458-10-
+299.
+[28] Myers TA, Nisbet MC, Maibach EW, Leiserowitz AA. A public health frame arouses
+hopeful emotions about climate change. Clim Change 2012;113(3):1105–12
+[Internet] Aug 1 [cited 2022 Feb 3]. doi: 10.1007/s10584-012-0513-6.
+[29] Albertson B, Busby JW. Hearts or minds? Identifying persuasive messages on cli-
+mate change. Res Politics 2015;2(1):2053168015577712 [Internet] Feb 1 [cited
+2022 Feb 3]. Available from:. doi: 10.1177/2053168015577712.
+[30] Rode JB, Dent AL, Benedict CN, Brosnahan DB, Martinez RL, Ditto PH. Inﬂuencing
+climate change attitudes in the United States: a systematic review and meta-anal-
+ysis. J Environ Psychol 2021;76:101623 [Internet] Aug 1 [cited 2023 Jan 30].
+Available
+from:
+https://www.sciencedirect.com/science/article/pii/S02724944
+21000761.
+[31] Pew Research Center. American Trends Panel [Internet]. 2022 Sep [cited 2023 Jan
+30].
+Available
+from:
+https://www.pewresearch.org/journalism/wp-content/
+uploads/sites/8/2022/09/Social-media-and-platform-fact-sheet-TOPLINE.pdf.
+[32] Anderson AA. Effects of social media use on climate change opinion, knowledge,
+and behavior. Oxford Res Encycl Clim Sci 2017 [Internet] Mar 29 [cited 2023 Jan
+30]. doi: 10.1093/acrefore/9780190228620.013.369.
+[33] Mavrodieva AV, Rachman OK, Harahap VB, Shaw R. Role of social media as a soft
+power tool in raising public awareness and engagement in addressing climate
+change. Climate 2019;7(10):122. [Internet ] Oct [cited 2023 Jan 30]. Available
+from: https://www.mdpi.com/2225-1154/7/10/122.
+[34] Allgaier J. Science and environmental communication on youtube: strategically
+distorted communications in online videos on climate change and climate engi-
+neering. Front Commun 2019;4 [Internet]Jul 25 [cited 2020 Feb 16]. doi: 10.3389/
+fcomm.2019.00036/full.
+[35] Akerlof KL, Delamater PL, Boules CR, Upperman CR, Mitchell CS. Vulnerable popu-
+lations perceive their health as at risk from climate change. Int J Environ Res Pub-
+lic Health 2015;12(12):15419–33 [Internet] Dec [cited 2022 Feb 3]. Available
+from: https://www.mdpi.com/1660-4601/12/12/14994.
+[36] Depoux A, Hemono M, Puig-Malet S, Pedron R, Flahault A. Communicating cli-
+mate change and health in the media. Public Health Rev 2017;38(1):7. [Internet]
+Dec [cited 2022 Feb 3]. doi: 10.1186/s40985-016-0044-1.
+[37] Hathaway J, Maibach EW. Health implications of climate change: a review of the
+literature about the perception of the public and health professionals. Curr Envir
+Health Rpt 2018;5(1):197–204 [Internet]Mar [cited 2020 Dec 29]. doi: 10.1007/
+s40572-018-0190-3.
+[38] Kotcher J, Maibach E, Montoro M, Hassol SJ. How Americans respond to informa-
+tion about global warming’s health impacts: evidence from a national survey
+experiment.
+GeoHealth
+2018;2(9):262–75
+[Internet].
+doi:
+10.1029/
+2018GH000154.
+[39] Smith AB. U.S. billion-dollar weather and climate disasters, 1980 - present (NCEI
+Accession 0209268) [Internet] NOAA National Centers for Environmental Infor-
+mation 2020 [cited 2022 Jul 31]. Available from: https://www.ncei.noaa.gov/
+access/billions/summary-stats.
+[40] National Oceanic and Atmospheric Administration. Billion-dollars climate and
+weather disasters (Summary Stats) [Internet] NOAA National Centers for Environ-
+mental Information 2022 [cited 2022 Jun 13]. Available from: https://www.ncei.
+noaa.gov/access/billions/summary-stats.
+[41] Fann N, Alman B, Broome RA, Morgan GG, Johnston FH, Pouliot G, et al. The health
+impacts and economic value of wildland ﬁre episodes in the U.S.: 2008−2012. Sci
+Total Environ 2018;610−611:802–9 [Internet] Jan. Available from: https://link-
+inghub.elsevier.com/retrieve/pii/S0048969717320223.
+[42] Knowlton K, Rotkin-Ellman M, Geballe L, Max W, Solomon GM. Six climate
+change−related events in the united states accounted for about $14 billion in lost
+lives
+and
+health
+costs.
+Health
+Aff
+2011;30(11):2167–76.
+doi:
+10.1377/
+hlthaff.2011.0229.
+[43] Limaye VS. Reducing the inequitable health and ﬁnancial burdens of climate
+change.
+One
+Earth
+2022;5(4):320–3
+[Internet]
+Apr
+15.
+doi:
+10.1016/j.
+oneear.2022.03.016.
+[44] Limaye VS. Collaborative approaches to account for the health costs of climate-
+sensitive events. J Clim Change Health 2023;100210 [Internet] Jan 27 [cited 2023
+Feb
+2].
+Available
+from:
+https://www.sciencedirect.com/science/article/pii/
+S2667278223000093.
+[45] Whitmarsh L., Xenias D., Jones C.R. Framing effects on public support for carbon
+capture and storage. Palgrave Commun 2019;5(1):1−10. Available from: https://
+www.nature.com/articles/s41599-019-0217-x.
+[46] Yarnal B, O’Connor RE, Shudak R. The impact of local versus national framing on
+willingness to reduce greenhouse gas emissions: a case study from central Penn-
+sylvania. Local Environ 2003;8(4):457–69 [Internet]Aug [cited 2022 Nov 12]. doi:
+10.1080/13549830306668.
+[47] Funk C, Rainie L. Chapter 2: climate change and energy issues [Internet] Pew Res
+Cent Sci Soc 2015 [cited 2022 Nov 12]. Available from: https://www.pewre-
+search.org/science/2015/07/01/chapter-2-climate-change-and-energy-issues/.
+[48] Olson-Hazboun SK, Howe PD. Public opinion on climate change in rural america:
+a potential barrier to resilience. Addressing climate change at the community
+level in the united states. Routledge; 2018. p. 34–49.
+[49] Tesler M. Elite domination of public doubts about climate change (not evolution).
+Political Commun 2018;35(2):306–26. doi: 10.1080/10584609.2017.1380092.
+[50] Dearing JW, Lapinski M. Multisolving innovations for climate and health: message
+framing to achieve broad public support: article examines innovations for climate
+and health. Health Aff 2020;39(12):2175–81 [Internet]Dec 1 [cited 2022 Feb 4].
+doi: 10.1377/hlthaff.2020.01170.
+[51] McCright AM, Dunlap RE. The politicization of climate change and polarization in
+the American public’s views of global warming, 2001−2010. Sociol Q 2011;52
+(2):155–94
+[Internet]
+May
+[cited
+2022
+Nov
+12].
+doi:
+10.1111/j.1533-
+8525.2011.01198.x.
+[52] Carmichael JT, Brulle RJ, Huxster JK. The great divide: understanding the role of
+media and other drivers of the partisan divide in public concern over climate
+change in the USA, 2001−2014. Clim Change 2017;141(4):599−612. Available
+from: https://link.springer.com/article/10.1007/s10584-017-1908-1.
+[53] Merkley E, Stecula DA. Party cues in the news: democratic elites, republican back-
+lash, and the dynamics of climate skepticism. Brit J Polit Sci 2021;51(4):1439–56
+[Internet] Oct [cited 2022 Nov 12]. Available from: https://www.cambridge.org/
+core/product/identiﬁer/S0007123420000113/type/journal_article.
+[54] U.S. Internal Revenue Service. SOI Tax Stats — Tax Stats-at-a-Glance [Internet].
+2020 [cited 2022 Nov 12]. Available from: https://www.irs.gov/statistics/soi-tax-
+stats-tax-stats-at-a-glance.
+[55] Cameron L, Rocque R, Penner K, Mauro I. Evidence-based communication on cli-
+mate change and health: testing videos, text, and maps on climate change and
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+8
+Lyme disease in Manitoba, Canada. PLoS One 2021;16(6):e0252952 [Internet] Jun
+10 [cited 2022 Jun 8]. doi: 10.1371/journal.pone.0252952.
+[56] Peck R. Fox populism: branding conservatism as working class. Cambridge Uni-
+versity Press; 2019.
+[57] Mildenberger M, Lubell M, Hummel M. Personalized risk messaging can reduce
+climate concerns. Glob Environ Chang 2019;55:15–24 [Internet] Mar 1 [cited
+2022 Feb 3]. Available from: https://www.sciencedirect.com/science/article/pii/
+S0959378018304655.
+[58] Ebi KL, A
+ str€om C, Boyer CJ, Harrington LJ, Hess JJ, Honda Y, et al. Using detection
+and attribution to quantify how climate change is affecting health. Health Aff
+2020;39(12):2168–74. doi: 10.1377/hlthaff.2020.01004.
+[59] Stevenson KT, King TL, Selm KR, Peterson MN, Monroe MC. Framing climate
+change communication to prompt individual and collective action among adoles-
+cents from agricultural communities. Environ Educ Res 2018;24(3):365–77
+[Internet] Mar 4 [cited 2020 May 27]. doi: 10.1080/13504622.2017.1318114.
+[60] Kalaitzandonakes M, Ellison B. Coppess and J. Introducing the Gardner Food and
+Agricultural Policy Survey. Farmdoc Daily 2022;12(81) [Internet]Jun 2 [cited 2022
+Jun 13]. Available from: https://farmdocdaily.illinois.edu/2022/06/introducing-
+the-gardner-food-and-agricultural-policy-survey.html.
+[61] Schmeltz MT, Petkova EP, Gamble JL. Economic burden of hospitalizations for
+heat-related illnesses in the United States, 2001-2010. Int J Environ Res Public
+Health 2016;13(9) [Internet] Sep 8 Available from: https://www.mdpi.com/1660-
+4601/13/9/894.
+[62] Howe PD, Marlon JR, Wang X, Leiserowitz A. Public perceptions of the health risks
+of extreme heat across US states, counties, and neighborhoods. Proc Natl Acad Sci
+USA 2019;116(14):6743–8 [Internet]Apr 2 [cited 2022 May 12].. doi: 10.1073/
+pnas.1813145116.
+[63] Nyhan B, Porter E, Wood TJ. Time and skeptical opinion content erode the effects
+of science coverage on climate beliefs and attitudes. Proc Natl Acad Sci 2022;119
+(26):e2122069119
+[Internet]Jun
+28
+[cited
+2022
+Jun
+24].
+doi:
+10.1073/
+pnas.2122069119.
+[64] Stecula DA, Merkley E. Framing climate change: economics, ideology, and uncer-
+tainty in american news media content from 1988 to 2014. Front Commun
+2019;4 [Internet] [cited 2022 Feb 3]. doi: 10.3389/fcomm.2019.00006.
+V.S. Limaye and B. Toff
+The Journal of Climate Change and Health 10 (2023) 100218
+9
