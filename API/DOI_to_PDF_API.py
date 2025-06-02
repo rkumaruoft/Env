@@ -84,4 +84,4 @@ for doi in doi_list:
         else:
             print("[✖] No PDF link found via scraping.")
 
-print("\n[✓] Done.")
+print("\n[✓] Done")
