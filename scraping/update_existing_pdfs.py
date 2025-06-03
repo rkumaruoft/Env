@@ -19,14 +19,14 @@ from PyPDF2 import PdfReader
 # ─────────────────────────────────────────────────────────────────────────────
 
 # 1) Path to your local folder of PDFs
-LOCAL_PDF_FOLDER = "existing_pdfs/"
+LOCAL_PDF_FOLDER = "existing_pdfs/" # Needs a pdf folder to reference to
 
-# 2) Google CSE credentials
-API_KEY = "burp"
+# 2) API Keys (Google CSE)
+API_KEY = "burp" # Put your own one in, it's the free version
 CX     = "blerp"
 
-# 3) Path to optional YAML config: (optional)
-CONFIG_FILE = "config.yaml" # currently points to nothing, actual file name is configuration.yaml
+# 3) Path to optional YAML confi
+CONFIG_FILE = "config.yaml" # currently points to nothing, actual file name is configuration.yaml (need DB info)
 
 # 4) Where to write the update log (CSV):
 UPDATE_LOG_CSV = "update_log.csv"
