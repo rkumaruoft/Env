@@ -1,5 +1,6 @@
-from drive_connection import *
+import os
 import fitz
+from drive_connection import GoogleDriveHandler
 
 
 def save_local(pdf_list):
@@ -10,7 +11,6 @@ def save_local(pdf_list):
         name = pdf['name'].replace('/', '_').replace('\\', '_').replace('.pdf', '')
         file_path = os.path.join(text_dir, f"{name}.txt")
 
-        # Extract text from in-memory BytesIO
         try:
             pdf['content'].seek(0)
             doc = fitz.open(stream=pdf['content'].read(), filetype="pdf")
@@ -27,10 +27,13 @@ def save_local(pdf_list):
         except Exception as e:
             print(f"❌ Failed to extract text from {pdf['name']}: {e}")
 
+
 if __name__ == '__main__':
     folder_id = '1l70DlWzlHDsRrAJmoEQULhwCH22kDQ98'
-    service = get_drive_service()
-    pdf_list, skipped = download_pdfs(folder_id, service)
+
+    drive = GoogleDriveHandler()
+    pdf_list, skipped = drive.download_pdfs(folder_id)
+
     print(f"\n✅ Downloaded {len(pdf_list)} PDFs recursively from folder {folder_id}.")
     print(f"❌ Skipped {len(skipped)} files due to access issues.")
 
