@@ -1,0 +1,19 @@
+# This requries info from the database to do better searches
+
+reports:
+  # Override for a single PDF whose filename is "2019_AnnualReport.pdf"
+  - local_filename: "2019_AnnualReport.pdf"
+    logical_name: "Annual Report 2019"
+    publisher: "Acme Corporation"
+    site: "acme.org"
+    # query_override: '"Annual Report 2019" "Acme Corporation" site:acme.org filetype:pdf'
+    # (you can omit `query_override` unless you need a completely custom query)
+
+  # Example for a PDF that lives under a subdirectory (you still only specify the basename)
+  - local_filename: "2020_Climate_Analysis.pdf"
+    logical_name: "Climate Analysis 2020"
+    # publisher and site left out → script will search for:  "Market Analysis 2020" filetype:pdf
+
+  # If you only want a custom query for "special_report.pdf":
+  - local_filename: "special_report.pdf"
+    query_override: '"Special Report 2021" filetype:pdf site:specialpublisher.com'
