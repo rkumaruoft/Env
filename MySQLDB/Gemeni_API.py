@@ -8,18 +8,19 @@ import os
 class GeminiMetadataExtractor:
     def __init__(self, api_key_path="google_api_key.txt"):
         self.api_key = self._load_api_key(api_key_path)
+        if not self.api_key:
+            raise ValueError("API key not found in environment or provided file.")
         self.client = genai.Client(api_key=self.api_key)
 
-    def _load_api_key(self, path):
-        if not os.path.exists(path) or os.stat(path).st_size == 0:
-            print("🔐 Google API key not found. Please enter your key:")
-            api_key = input("API Key: ").strip()
-            with open(path, "w") as f:
-                f.write(api_key)
-        else:
-            with open(path, "r") as file:
-                api_key = file.read().strip()
-        return api_key
+    @staticmethod
+    def _load_api_key(path):
+        """Load API key from env variable or file. No user prompt."""
+        if os.getenv("GOOGLE_API_KEY"):
+            return os.getenv("GOOGLE_API_KEY")
+
+        if os.path.exists(path) and os.stat(path).st_size > 0:
+            with open(path, "r") as f:
+                return f.read().strip()
 
     def get_db_info(self, text):
         """
@@ -48,7 +49,7 @@ class GeminiMetadataExtractor:
         db_entries = []
         for entry in os.scandir(directory):
             if entry.is_file():
-                print(f"📄 Processing: {entry.path}")
+                print(f"Processing: {entry.path}")
                 with open(entry.path, "rb") as this_file:
                     this_file_text = self.read_text_file(this_file)
                     try:
@@ -56,12 +57,12 @@ class GeminiMetadataExtractor:
                         db_dict = self.extract_json_dict(response_text)
                         db_entries.append(db_dict)
                     except Exception as e:
-                        print(f"❌ Error processing {entry.path}: {e}")
+                        print(f"Error processing {entry.path}: {e}")
 
         with open(output_file, "w", encoding="utf-8") as outfile:
             json.dump(db_entries, outfile, indent=4, ensure_ascii=False)
 
-        print(f"\n✅ Saved {len(db_entries)} entries to {output_file}")
+        print(f"\nSaved {len(db_entries)} entries to {output_file}")
         return db_entries
 
     @staticmethod

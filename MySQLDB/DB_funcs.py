@@ -118,12 +118,27 @@ class ClimateDB:
         return self.cursor.fetchone() is not None
 
     def insert_from_json(self, json_path):
-        """Load a JSON file and insert all documents."""
+        """
+        Clear all the documents table and insert fresh data from the provided JSON file.
+
+        Args:
+            json_path (str): Path to the JSON file containing document entries.
+        """
+        # Step 1: Clear the table
+        self.cursor.execute("DELETE FROM documents")
+        self.conn.commit()
+        print("⚠️ Cleared existing records in 'documents' table.")
+
+        # Step 2: Insert new data
         with open(json_path, "r", encoding="utf-8") as f:
             data = json.load(f)
+
+        inserted = 0
         for doc in data:
-            self.insert_document(doc)
-        print(f"✅ Inserted {len(data)} documents from {json_path}")
+            if self.insert_document(doc) == 0:
+                inserted += 1
+
+        print(f"Inserted {inserted} documents from {json_path}")
 
     def get_all_titles(self):
         """Return a list of all document titles in the database."""
@@ -149,12 +164,12 @@ class ClimateDB:
     def close(self):
         """Close the database connection."""
         self.conn.close()
-        print("🔒 Database connection closed.")
+        print("Database connection closed.")
 
 
 if __name__ == "__main__":
     db_path = "climate_docs.db"
 
     db = ClimateDB(db_path)
-    print(db.get_all_publishers())
+    db.insert_from_json('db_output.json')
     db.close()
