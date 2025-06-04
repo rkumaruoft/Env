@@ -131,6 +131,22 @@ class ClimateDB:
         rows = self.cursor.fetchall()
         return [row[0] for row in rows]
 
+    def get_all_publishers(self) -> list:
+        """
+        Retrieve a list of all unique publishing organizations in lowercase.
+
+        Returns:
+            list: A list of unique, lowercase, non-empty publishing organization names.
+        """
+        self.cursor.execute("""
+            SELECT DISTINCT LOWER(TRIM(publishing_organization))
+            FROM documents
+            WHERE publishing_organization IS NOT NULL AND TRIM(publishing_organization) != ''
+        """)
+        rows = self.cursor.fetchall()
+        return [row[0] for row in rows if row[0]]
+
+
     def close(self):
         """Close the database connection."""
         self.conn.close()
@@ -140,6 +156,6 @@ class ClimateDB:
 if __name__ == "__main__":
     db_path = "climate_docs.db"
 
-    db = DBFunctions(db_path)
+    db = ClimateDB(db_path)
     print(db.title_exists())
     db.close()
