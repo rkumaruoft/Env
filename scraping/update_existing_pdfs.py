@@ -19,14 +19,14 @@ from PyPDF2 import PdfReader
 # ─────────────────────────────────────────────────────────────────────────────
 
 # 1) Path to your local folder of PDFs
-LOCAL_PDF_FOLDER = "existing_pdfs/" # Needs a pdf folder to reference to
+LOCAL_PDF_FOLDER = "existing_pdfs/"  # Needs a pdf folder to reference to
 
 # 2) API Keys (Google CSE)
-API_KEY = "burp" # Put your own one in, it's the free version
-CX     = "blerp"
+API_KEY = "burp"  # Put your own one in, it's the free version
+CX = "blerp"
 
 # 3) Path to optional YAML confi
-CONFIG_FILE = "config.yaml" # currently points to nothing, actual file name is configuration.yaml (need DB info)
+CONFIG_FILE = "config.yaml"  # currently points to nothing, actual file name is configuration.yaml (need DB info)
 
 # 4) Where to write the update log (CSV):
 UPDATE_LOG_CSV = "update_log.csv"
@@ -38,6 +38,7 @@ NUM_RESULTS = 5
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
 
+
 # Initialize logging
 def setup_logging():
     logging.basicConfig(
@@ -47,7 +48,9 @@ def setup_logging():
     )
     return logging.getLogger(__name__)
 
+
 logger = setup_logging()
+
 
 # ─────────────────────────────────────────────────────────────────────────────
 # HELPER FUNCTIONS
@@ -89,6 +92,7 @@ def load_config(path: str) -> dict:
             logger.warning("Skipping config entry missing 'local_filename'.")
     return result
 
+
 def extract_metadata_from_pdf(path_to_pdf: str) -> str:
     """
     Read the PDF’s metadata (title) if available, else return None.
@@ -105,6 +109,7 @@ def extract_metadata_from_pdf(path_to_pdf: str) -> str:
         logger.warning(f"Could not extract metadata from '{path_to_pdf}': {e}")
         return None
 
+
 def parse_year_from_filename(fname: str) -> int:
     """
     Return the largest 4-digit year (20xx) found in the filename, or None if none.
@@ -114,6 +119,7 @@ def parse_year_from_filename(fname: str) -> int:
         return None
     years = [int(y) for y in candidates]
     return max(years)
+
 
 def build_query(logical_name: str, publisher: str, site: str = None, query_override: str = None) -> str:
     """
@@ -137,6 +143,7 @@ def build_query(logical_name: str, publisher: str, site: str = None, query_overr
         pieces.append(f"site:{site}")
     pieces.append("filetype:pdf")
     return " ".join(pieces)
+
 
 def google_search(query: str, num_results: int = NUM_RESULTS) -> list:
     """
@@ -174,6 +181,7 @@ def google_search(query: str, num_results: int = NUM_RESULTS) -> list:
             return []
     return []
 
+
 def extract_year_from_url_or_title(item: dict) -> int:
     """
     Given a Google CSE result “item” (with keys 'link' and 'title'),
@@ -189,6 +197,7 @@ def extract_year_from_url_or_title(item: dict) -> int:
     if m2:
         return int(m2.group(1))
     return None
+
 
 def download_pdf(url: str, target_path: str) -> bool:
     """
@@ -221,6 +230,7 @@ def download_pdf(url: str, target_path: str) -> bool:
         except Exception:
             pass
         return False
+
 
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN PIPELINE
@@ -256,10 +266,10 @@ def update_reports_pipeline():
         query_override = None
 
         if fname in config_map:
-            logical_name    = config_map[fname]["logical_name"]
-            publisher       = config_map[fname]["publisher"]
-            site            = config_map[fname]["site"]
-            query_override  = config_map[fname]["query_override"]
+            logical_name = config_map[fname]["logical_name"]
+            publisher = config_map[fname]["publisher"]
+            site = config_map[fname]["site"]
+            query_override = config_map[fname]["query_override"]
         else:
             title_meta = extract_metadata_from_pdf(local_path)
             if title_meta:
@@ -326,7 +336,7 @@ def update_reports_pipeline():
             else:
                 suffix = "_vorig"
             backup_name = f"{base_name}{suffix}.pdf"
-            backup_dir  = os.path.join(LOCAL_PDF_FOLDER, "archive")
+            backup_dir = os.path.join(LOCAL_PDF_FOLDER, "archive")
             os.makedirs(backup_dir, exist_ok=True)
             backup_path = os.path.join(backup_dir, backup_name)
 
