@@ -25,6 +25,7 @@ NUM_RESULTS = 5
 # Rate-limit / retry settings
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
+search_cd = 5 #seconds  - to limit rate so google doesn't swat me
 
 # Where to write the update log (CSV)
 UPDATE_LOG_CSV = "update_log2.csv"
@@ -211,6 +212,8 @@ def update_climate_docs_pipeline():
             continue
 
         logger.info(f"  • search query → {query_str}")
+
+        time.sleep(search_cd)
         items = google_search(query_str)
         if not items:
             logger.info("    → No results returned by Google CSE.")
