@@ -6,7 +6,7 @@ import os
 
 
 class GeminiMetadataExtractor:
-    def __init__(self, api_key_path="google_api_key.txt"):
+    def __init__(self, api_key_path="gemini_api_key.txt"):
         self.api_key = self._load_api_key(api_key_path)
         if not self.api_key:
             raise ValueError("API key not found in environment or provided file.")

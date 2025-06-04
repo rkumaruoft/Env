@@ -31,7 +31,7 @@ def save_local(pdf_list):
 if __name__ == '__main__':
     folder_id = '1l70DlWzlHDsRrAJmoEQULhwCH22kDQ98'
 
-    drive = GoogleDriveHandler()
+    drive = GoogleDriveHandler("chatbot-drive-pipe-service.json")
     pdf_list, skipped = drive.download_pdfs(folder_id)
 
     print(f"\n✅ Downloaded {len(pdf_list)} PDFs recursively from folder {folder_id}.")

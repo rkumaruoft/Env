@@ -67,7 +67,7 @@ def print_doi_list(doi_list: list):
 
 # Example usage:
 if __name__ == "__main__":
-    query = "'Toronto climate change'"
+    query = "'Toronto + climate change'"
     data = fetch_scopus_results(query)
 
     top_entries = extract_top_entries(data)

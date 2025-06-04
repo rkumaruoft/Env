@@ -1,9 +1,7 @@
 import os
 import io
 from typing import List, Dict, Tuple
-from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
+from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 
@@ -11,23 +9,18 @@ from googleapiclient.http import MediaIoBaseDownload
 class GoogleDriveHandler:
     SCOPES = ['https://www.googleapis.com/auth/drive']
 
-    def __init__(self, creds_path: str = 'credentials.json', token_path: str = 'token.json'):
-        self.creds_path = creds_path
-        self.token_path = token_path
+    def __init__(self, service_account_path):
+        self.service_account_path = service_account_path
         self.service = self._authenticate()
 
     def _authenticate(self):
-        creds = None
-        if os.path.exists(self.token_path):
-            creds = Credentials.from_authorized_user_file(self.token_path, self.SCOPES)
-        if not creds or not creds.valid:
-            if creds and creds.expired and creds.refresh_token:
-                creds.refresh(Request())
-            else:
-                flow = InstalledAppFlow.from_client_secrets_file(self.creds_path, self.SCOPES)
-                creds = flow.run_local_server(port=0)
-            with open(self.token_path, 'w') as token:
-                token.write(creds.to_json())
+        if not os.path.exists(self.service_account_path):
+            raise FileNotFoundError(f"Service account key not found at {self.service_account_path}")
+
+        creds = Credentials.from_service_account_file(
+            self.service_account_path,
+            scopes=self.SCOPES
+        )
         return build('drive', 'v3', credentials=creds)
 
     def download_pdfs(self, folder_id: str) -> Tuple[List[Dict], List[Dict]]:
