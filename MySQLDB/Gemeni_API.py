@@ -21,18 +21,18 @@ def get_db_info(text, client):
     @:returns An dict of all the required fields for the db for a given
     """
     file_text = str(text)
-    context_prompt = "From the given text extract, " \
-                     "1. Title of the text" \
-                     "2. Type of the text (research paper, government article, news article, technical report, " \
-                     "or other)" \
-                     "3. Authors of the Text" \
-                     "4. Date -(This could be the date the paper was last updated or just the year that the text has as " \
-                     "it's publication date)" \
-                     "5. DOI link of the given text if availiable (NONE) if not (make sure not to" \
-                     " include DOI links from the references)" \
-                     "6. Publishing Organization if Availiable (NONE) if not" \
-                     "I want the output as a json object"
-
+    context_prompt = (
+        "From the provided text, extract the following metadata as a JSON object:\n"
+        "1. Title of the document.\n"
+        "2. Type of document — choose one of the following: 'research paper', 'government article', 'news article', "
+        "'technical report', or 'other'.\n"
+        "3. List of authors.\n"
+        "4. Date of the document — either the last updated date or the publication date. "
+        "Return this as an ISO 8601 datetime string (e.g., '2023-06-01' or '2023').\n"
+        "5. DOI link, if available. Return 'NONE' if no DOI is found. Do not include DOIs from the references "
+        "section.\n"
+        "6. Publishing organization, if available. Return 'NONE' if not present."
+    )
     response = client.models.generate_content(
         model="gemini-2.0-flash", contents=[file_text, context_prompt]
     )
