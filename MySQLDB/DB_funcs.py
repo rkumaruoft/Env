@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 
-class Climate:
+class ClimateDB:
     def __init__(self, db_path):
         self.db_path = db_path
         self.conn = sqlite3.connect(db_path)
