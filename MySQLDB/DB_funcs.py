@@ -146,7 +146,6 @@ class ClimateDB:
         rows = self.cursor.fetchall()
         return [row[0] for row in rows if row[0]]
 
-
     def close(self):
         """Close the database connection."""
         self.conn.close()
@@ -157,5 +156,5 @@ if __name__ == "__main__":
     db_path = "climate_docs.db"
 
     db = ClimateDB(db_path)
-    print(db.title_exists())
+    print(db.get_all_publishers())
     db.close()
