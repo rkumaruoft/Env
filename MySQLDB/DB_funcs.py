@@ -3,7 +3,8 @@ import json
 from datetime import datetime
 import os
 
-class DBFunctions:
+
+class Climate:
     def __init__(self, db_path):
         self.db_path = db_path
         self.conn = sqlite3.connect(db_path)
@@ -48,25 +49,73 @@ class DBFunctions:
                 continue
         return date_str
 
-    def insert_document(self, doc):
-        """Insert a single document dictionary into the database."""
-        title = doc.get("title", "")
-        doc_type = doc.get("type", "")
-        authors = doc.get("authors", "")
-        if isinstance(authors, list):
-            authors = ", ".join(authors)
-        elif not isinstance(authors, str):
-            authors = "NONE"
+    def insert_document(self, doc: dict) -> int:
+        """
+        Insert a single document into the database.
 
-        date = self.normalize_date(doc.get("date", ""))
-        doi = doc.get("doi") or doc.get("doi_link") or "NONE"
-        publishing_org = doc.get("publishing_organization", "NONE")
+        Args:
+            doc (dict): A dictionary representing a document with the following keys:
+                - "title" (str, required): Title of the document.
+                - "type" (str, optional): Type of the document (e.g., "research paper").
+                - "authors" (str or List[str], optional): Authors of the document.
+                - "date" (str, optional): Publication or update date (any common format).
+                - "doi" or "doi_link" (str, optional): DOI link (optional fallback supported).
+                - "publishing_organization" (str, optional): Organization that published the document.
 
-        self.cursor.execute("""
-            INSERT INTO documents (title, type, authors, date, doi, publishing_organization)
-            VALUES (?, ?, ?, ?, ?, ?)
-        """, (title, doc_type, authors, date, doi, publishing_org))
-        self.conn.commit()
+        Returns:
+            int: 0 if the document was inserted successfully, -1 if insertion failed.
+        """
+        try:
+            title = doc.get("title", "")
+            if not isinstance(title, str) or not title.strip():
+                print("Insert Failed: Missing or empty 'title'.")
+                return -1
+
+            doc_type = doc.get("type", "")
+            if not isinstance(doc_type, str):
+                doc_type = str(doc_type)
+
+            authors = doc.get("authors", "")
+            if isinstance(authors, list):
+                authors = ", ".join(str(author) for author in authors)
+            elif not isinstance(authors, str):
+                authors = "NONE"
+
+            date = self.normalize_date(doc.get("date", ""))
+            doi = doc.get("doi") or doc.get("doi_link") or "NONE"
+            publishing_org = doc.get("publishing_organization", "NONE")
+            if not isinstance(publishing_org, str):
+                publishing_org = str(publishing_org)
+
+            self.cursor.execute("""
+                INSERT INTO documents (title, type, authors, date, doi, publishing_organization)
+                VALUES (?, ?, ?, ?, ?, ?)
+            """, (title.strip(), doc_type, authors, date, doi, publishing_org))
+            self.conn.commit()
+            return 0
+
+        except Exception as e:
+            print(f"Failed to insert document: {e}")
+            return -1
+
+    def title_exists(self, title: str) -> bool:
+        """
+        Check if a document with the given title already exists (case-insensitive).
+
+        Args:
+            title (str): Title to check.
+
+        Returns:
+            bool: True if a matching title exists, False otherwise.
+        """
+        if not title or not isinstance(title, str):
+            return False
+
+        self.cursor.execute(
+            "SELECT 1 FROM documents WHERE LOWER(title) = ? LIMIT 1",
+            (title.strip().lower(),)
+        )
+        return self.cursor.fetchone() is not None
 
     def insert_from_json(self, json_path):
         """Load a JSON file and insert all documents."""
@@ -92,6 +141,5 @@ if __name__ == "__main__":
     db_path = "climate_docs.db"
 
     db = DBFunctions(db_path)
-    print(db.get_all_titles())
+    print(db.title_exists())
     db.close()
-
