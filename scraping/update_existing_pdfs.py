@@ -4,39 +4,30 @@
 import os
 import re
 import time
-import yaml
-import requests
 import pandas as pd
 import logging
-import tempfile
 from datetime import datetime
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-from PyPDF2 import PdfReader
+import sqlite3
 
-# ─────────────────────────────────────────────────────────────────────────────
-#  CONFIGURATION SECTION
-# ─────────────────────────────────────────────────────────────────────────────
+db_path = "MySQLDB/climate_docs.db"
 
-# 1) Path to your local folder of PDFs
-LOCAL_PDF_FOLDER = "existing_pdfs/"  # Needs a pdf folder to reference to
+# Google CSE credentials
+API_KEY = "blerp"
+CX = "burp"
+if not API_KEY or not CX:
+    raise RuntimeError("Environment variables GOOGLE_CSE_API_KEY and GOOGLE_CSE_CX must be set.")
 
-# 2) API Keys (Google CSE)
-API_KEY = "burp"  # Put your own one in, it's the free version
-CX = "blerp"
-
-# 3) Path to optional YAML confi
-CONFIG_FILE = "config.yaml"  # currently points to nothing, actual file name is configuration.yaml (need DB info)
-
-# 4) Where to write the update log (CSV):
-UPDATE_LOG_CSV = "update_log.csv"
-
-# 5) How many top-results to inspect per query
+# How many top-results to inspect per query
 NUM_RESULTS = 5
 
-# 6) Rate-limit variables
+# Rate-limit / retry settings
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
+
+# Where to write the update log (CSV)
+UPDATE_LOG_CSV = "update_log2.csv"
 
 
 # Initialize logging
@@ -56,99 +47,76 @@ logger = setup_logging()
 # HELPER FUNCTIONS
 # ─────────────────────────────────────────────────────────────────────────────
 
-def load_config(path: str) -> dict:
+def load_config(db_path: str) -> pd.DataFrame:
     """
-    Load optional YAML config. Returns a dict mapping local_filename → config data.
-    Expected YAML structure:
-      reports:
-        - local_filename: "2019_report.pdf"
-          logical_name: "Annual Report"
-          publisher: "My Organization"
-          site: "example.org"
-          query_override: ""  # optional custom query
+    Connect to the SQLite database at `db_path` and read the `documents` table.
+    Expect columns: title, type, authors, date, doi, publishing_organization.
+    Returns a DataFrame with those columns. If any error occurs, returns empty DataFrame.
     """
-    if not os.path.exists(path):
-        logger.info(f"Config file '{path}' not found; proceeding without overrides.")
-        return {}
+    if not os.path.exists(db_path):
+        logger.error(f"Database file '{db_path}' not found.")
+        return pd.DataFrame(columns=["title", "type", "authors", "date", "doi", "publishing_organization"])
 
     try:
-        with open(path, 'r') as f:
-            raw = yaml.safe_load(f) or {}
+        conn = sqlite3.connect(db_path)
+        df = pd.read_sql("SELECT * FROM document;", con=conn)
+        conn.close()
     except Exception as e:
-        logger.error(f"Failed to read config file: {e}")
-        return {}
+        logger.error(f"Failed to read from database '{db_path}': {e}")
+        return pd.DataFrame(columns=["title", "type", "authors", "date", "doi", "publishing_organization"])
 
-    result = {}
-    for entry in raw.get("reports", []):
-        try:
-            fname = entry["local_filename"]
-            result[fname] = {
-                "logical_name": entry.get("logical_name"),
-                "publisher": entry.get("publisher"),
-                "site": entry.get("site"),
-                "query_override": entry.get("query_override")
-            }
-        except KeyError:
-            logger.warning("Skipping config entry missing 'local_filename'.")
-    return result
+    # Ensure required columns exist
+    required_cols = {"title", "date", "publishing_organization"}
+    missing = required_cols - set(df.columns)
+    if missing:
+        logger.error(f"Database is missing required columns: {missing}")
+        return pd.DataFrame(columns=["title", "type", "authors", "date", "doi", "publishing_organization"])
+
+    return df
 
 
-def extract_metadata_from_pdf(path_to_pdf: str) -> str:
+def parse_year_from_date(date_str: str) -> int:
     """
-    Read the PDF’s metadata (title) if available, else return None.
-    If any exception occurs, log a warning and return None.
+    Given a date string (e.g. '2020-07-15' or '2020'), parse out the year as int.
+    If parsing fails or year not in 2000-2099, return None.
     """
     try:
-        reader = PdfReader(path_to_pdf)
-        info = reader.metadata
-        if info:
-            title = info.title or info.get('/Title')
-            return title
-        return None
-    except Exception as e:
-        logger.warning(f"Could not extract metadata from '{path_to_pdf}': {e}")
-        return None
+        # Try ISO format first
+        dt = datetime.fromisoformat(date_str)
+        year = dt.year
+    except Exception:
+        # Fallback: search for 4-digit substring 20xx
+        m = re.search(r"(20\d{2})", date_str)
+        if m:
+            year = int(m.group(1))
+        else:
+            return None
+
+    if 2000 <= year <= 2099:
+        return year
+    return None
 
 
-def parse_year_from_filename(fname: str) -> int:
+def build_query(title: str, publisher: str) -> str:
     """
-    Return the largest 4-digit year (20xx) found in the filename, or None if none.
+    Build a Google CSE query string using:
+      - exact-phrase for title
+      - exact-phrase for publishing_organization
+      - filetype:pdf
     """
-    candidates = re.findall(r"(20\d{2})", fname)
-    if not candidates:
-        return None
-    years = [int(y) for y in candidates]
-    return max(years)
-
-
-def build_query(logical_name: str, publisher: str, site: str = None, query_override: str = None) -> str:
-    """
-    Build a Google CSE query string. If query_override is provided, use that verbatim.
-    Otherwise:
-      • exact‑phrase for logical_name
-      • exact‑phrase for publisher
-      • optionally “site:…”
-      • filetype:pdf
-    """
-    if query_override:
-        return query_override
-
-    if not logical_name:
-        raise ValueError("logical_name must be provided if no query_override is set.")
-
-    pieces = [f"\"{logical_name}\""]
+    if not title:
+        raise ValueError("Title must be provided.")
+    pieces = [f"\"{title}\""]
     if publisher:
         pieces.append(f"\"{publisher}\"")
-    if site:
-        pieces.append(f"site:{site}")
     pieces.append("filetype:pdf")
     return " ".join(pieces)
 
 
 def google_search(query: str, num_results: int = NUM_RESULTS) -> list:
     """
-    Hit Google Custom Search API, return a list of dicts {link, title, snippet} for each item.
-    Retries up to MAX_RETRIES on 429/5xx, with exponential backoff.
+    Hit Google Custom Search API, return a list of dicts {link, title, snippet}.
+    Retries up to MAX_RETRIES on 429/5xx errors, with exponential backoff.
     """
     try:
         service = build("customsearch", "v1", developerKey=API_KEY)
@@ -169,7 +137,7 @@ def google_search(query: str, num_results: int = NUM_RESULTS) -> list:
         except HttpError as e:
             code = e.resp.status
             if code in (429, 500, 503) and attempt < MAX_RETRIES - 1:
-                logger.warning(f"Google CSE rate limit or server error (status {code}). Retrying in {backoff}s...")
+                logger.warning(f"CSE rate limit/server error (status {code}); retrying in {backoff}s...")
                 time.sleep(backoff)
                 backoff *= 2
                 continue
@@ -184,9 +152,9 @@ def google_search(query: str, num_results: int = NUM_RESULTS) -> list:
 
 def extract_year_from_url_or_title(item: dict) -> int:
     """
-    Given a Google CSE result “item” (with keys 'link' and 'title'),
-    attempt to parse out a 4‑digit year (20xx) from the URL first, then title.
-    Return int year or None.
+    Given a Google CSE result item (keys 'link' and 'title'),
+    attempt to parse out a 4-digit year (20xx) from the URL first, then title.
+    Return the year as int, or None if not found.
     """
     url = item.get("link", "") or ""
     m = re.search(r"(20\d{2})", url)
@@ -199,95 +167,42 @@ def extract_year_from_url_or_title(item: dict) -> int:
     return None
 
 
-def download_pdf(url: str, target_path: str) -> bool:
-    """
-    Download the PDF at `url` to a temporary file, validate content-type, and
-    move it to `target_path` if valid. Return True on success, False otherwise.
-    """
-    try:
-        with requests.get(url, stream=True, timeout=60) as resp:
-            resp.raise_for_status()
-            content_type = resp.headers.get("Content-Type", "")
-            if "pdf" not in content_type.lower():
-                logger.error(f"URL did not return a PDF: {url} (Content-Type: {content_type})")
-                return False
-
-            # Write to a temp file first
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_file:
-                for chunk in resp.iter_content(chunk_size=8192):
-                    tmp_file.write(chunk)
-                temp_path = tmp_file.name
-
-        # Move temp file to final destination
-        os.replace(temp_path, target_path)
-        return True
-    except Exception as e:
-        logger.error(f"Failed to download PDF from {url}: {e}")
-        # Clean up temp file if it exists
-        try:
-            if 'temp_path' in locals() and os.path.exists(temp_path):
-                os.remove(temp_path)
-        except Exception:
-            pass
-        return False
-
-
 # ─────────────────────────────────────────────────────────────────────────────
 # MAIN PIPELINE
 # ─────────────────────────────────────────────────────────────────────────────
 
-def update_reports_pipeline():
+def update_climate_docs_pipeline():
     """
-    Iterate over PDFs in LOCAL_PDF_FOLDER. For each:
-      1. Determine logical_name and existing_year (from filename or config).
-      2. Build and run Google CSE query to find potential newer PDF.
-      3. If found newer year > existing_year (or existing_year is None), archive old and download new.
-      4. Record a log entry (including timestamp).
+    For each document in the database:
+      1. Extract existing_year from its 'date' column.
+      2. Build a CSE query using title + publishing_organization.
+      3. Check top results for a PDF with year > existing_year.
+      4. Record (existing_year, found_new_year, URL, status) into a log.
     """
-    if not os.path.isdir(LOCAL_PDF_FOLDER):
-        logger.error(f"'{LOCAL_PDF_FOLDER}' is not a directory or does not exist.")
+    df = load_config(db_path)
+    if df.empty:
+        logger.error("No documents to process. Exiting.")
         return
 
-    config_map = load_config(CONFIG_FILE)
     log_records = []
     checked_at = datetime.now().isoformat()
 
-    for fname in os.listdir(LOCAL_PDF_FOLDER):
-        if not fname.lower().endswith(".pdf"):
-            continue
+    for idx, row in df.iterrows():
+        title = row.get("title", "").strip()
+        publisher = row.get("publishing_organization", "").strip()
+        date_str = row.get("date", "")
+        existing_year = parse_year_from_date(date_str)
 
-        local_path = os.path.join(LOCAL_PDF_FOLDER, fname)
-        logger.info(f"Checking local file: {fname}")
-
-        existing_year = parse_year_from_filename(fname)
-        logical_name = None
-        publisher = None
-        site = None
-        query_override = None
-
-        if fname in config_map:
-            logical_name = config_map[fname]["logical_name"]
-            publisher = config_map[fname]["publisher"]
-            site = config_map[fname]["site"]
-            query_override = config_map[fname]["query_override"]
-        else:
-            title_meta = extract_metadata_from_pdf(local_path)
-            if title_meta:
-                logical_name = title_meta
-            else:
-                logical_name = re.sub(r"^\d{4}_", "", fname).rsplit(".", 1)[0]
-            publisher = None
-            site = None
-
-        logger.info(f"  • logical_name={logical_name!r}, existing_year={existing_year}")
+        logger.info(f"Processing document: title={title!r}, publisher={publisher!r}, existing_year={existing_year}")
 
         try:
-            query_str = build_query(logical_name, publisher, site, query_override)
+            query_str = build_query(title, publisher)
         except ValueError as e:
-            logger.error(f"Skipping '{fname}': {e}")
+            logger.error(f"Skipping record #{idx} due to missing title: {e}")
             log_records.append({
                 "checked_at": checked_at,
-                "local_file": fname,
+                "title": title,
+                "publishing_organization": publisher,
                 "existing_year": existing_year,
                 "found_new_year": None,
                 "used_url": None,
@@ -301,7 +216,8 @@ def update_reports_pipeline():
             logger.info("    → No results returned by Google CSE.")
             log_records.append({
                 "checked_at": checked_at,
-                "local_file": fname,
+                "title": title,
+                "publishing_organization": publisher,
                 "existing_year": existing_year,
                 "found_new_year": None,
                 "used_url": None,
@@ -320,7 +236,7 @@ def update_reports_pipeline():
             if existing_year is None:
                 is_newer = candidate_year > best_year
             else:
-                is_newer = candidate_year > existing_year and candidate_year > best_year
+                is_newer = (candidate_year > existing_year and candidate_year > best_year)
 
             if is_newer:
                 best_year = candidate_year
@@ -329,71 +245,31 @@ def update_reports_pipeline():
         if best_candidate:
             new_url = best_candidate["link"]
             logger.info(f"    → Found newer version: year {best_year} at {new_url}")
-
-            base_name = fname.rsplit('.pdf', 1)[0]
-            if existing_year is not None:
-                suffix = f"_v{existing_year}"
-            else:
-                suffix = "_vorig"
-            backup_name = f"{base_name}{suffix}.pdf"
-            backup_dir = os.path.join(LOCAL_PDF_FOLDER, "archive")
-            os.makedirs(backup_dir, exist_ok=True)
-            backup_path = os.path.join(backup_dir, backup_name)
-
-            # Download new PDF to a temp file, then replace
-            temp_target = os.path.join(LOCAL_PDF_FOLDER, f"{base_name}.temp.pdf")
-            success = download_pdf(new_url, temp_target)
-            if success:
-                try:
-                    os.replace(local_path, backup_path)
-                    os.replace(temp_target, local_path)
-                    status = "updated"
-                    logger.info(f"    → Archived old to {backup_path}, new PDF saved to {local_path}.")
-                except Exception as e:
-                    status = "move_failed"
-                    logger.error(f"Failed to archive/replace for '{fname}': {e}")
-                    # Clean up temp file if still present
-                    try:
-                        if os.path.exists(temp_target):
-                            os.remove(temp_target)
-                    except Exception:
-                        pass
-            else:
-                status = "download_failed"
-                if os.path.exists(temp_target):
-                    try:
-                        os.remove(temp_target)
-                    except Exception:
-                        pass
-
-            log_records.append({
-                "checked_at": checked_at,
-                "local_file": fname,
-                "existing_year": existing_year,
-                "found_new_year": best_year,
-                "used_url": new_url,
-                "status": status
-            })
-
+            status = "found_newer"
+            found_year = best_year
         else:
             logger.info("    → No newer version found (year ≤ existing or no valid year parsed).")
-            log_records.append({
-                "checked_at": checked_at,
-                "local_file": fname,
-                "existing_year": existing_year,
-                "found_new_year": existing_year,
-                "used_url": None,
-                "status": "unchanged"
-            })
+            status = "no_newer"
+            found_year = existing_year
+
+        log_records.append({
+            "checked_at": checked_at,
+            "title": title,
+            "publishing_organization": publisher,
+            "existing_year": existing_year,
+            "found_new_year": found_year,
+            "used_url": best_candidate["link"] if best_candidate else None,
+            "status": status
+        })
 
     # Write out the log CSV
     try:
-        df = pd.DataFrame(log_records)
-        df.to_csv(UPDATE_LOG_CSV, index=False, encoding="utf-8")
+        df_log = pd.DataFrame(log_records)
+        df_log.to_csv(UPDATE_LOG_CSV, index=False, encoding="utf-8")
         logger.info(f"Update log written to {UPDATE_LOG_CSV}")
     except Exception as e:
         logger.error(f"Failed to write update log: {e}")
 
 
 if __name__ == "__main__":
-    update_reports_pipeline()
+    update_climate_docs_pipeline()
