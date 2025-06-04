@@ -91,10 +91,7 @@ class DBFunctions:
 if __name__ == "__main__":
     db_path = "climate_docs.db"
 
-    if os.path.exists(db_path):
-        os.remove(db_path)
-        print(f"🗑️ Removed existing database at {db_path}")
-
     db = DBFunctions(db_path)
+    print(db.get_all_titles())
     db.close()
 
