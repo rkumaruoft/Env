@@ -1,0 +1,1210 @@
+The fundamental links between climate change and marine
+plastic pollution
+Helen V. Ford a,⁎, Nia H. Jones a, Andrew J. Davies b, Brendan J. Godley c, Jenna R. Jambeck d, Imogen E. Napper e,
+Coleen C. Suckling f, Gareth J. Williams a, Lucy C. Woodall g,i, Heather J. Koldewey c,h
+a School of Ocean Sciences, Bangor University, Anglesey LL59 5AB, UK
+b Biological Sciences, University of Rhode Island, 120 Flagg Road University of Rhode Island Kingston, RI 02881, USA
+c Centre for Ecology and Conservation, University of Exeter, Penryn, Cornwall, TR10 9FE, UK
+d College of Engineering, University of Georgia, GA 30602, Athens, USA
+e International Marine Litter Research Unit, School of Biological and Marine Sciences University of Plymouth, Plymouth PL4 8AA, UK
+f Fisheries, Animal and Veterinary Sciences, University of Rhode Island, Kingston, RI 02881, USA
+g Department of Zoology, University of Oxford, Oxford OX1 3SZ, UK
+h Zoological Society of London, Regent's Park, London, UK
+i Nekton, Science Park, Begbroke, Oxford, OX5 1PF, UK
+H I G H L I G H T S
+• Plastic pollution and climate change cri-
+ses compete for public and policy atten-
+tion.
+• These issues are linked, with some ma-
+rine species and ecosystems vulnerable
+to both.
+• The root cause of both crises is the same,
+the overconsumption of ﬁnite resources.
+• Engagement in solving plastic pollution
+can increase action against climate
+change.
+• Integrated approaches include conserv-
+ing blue carbon and a circular economy.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 18 June 2021
+Received in revised form 27 August 2021
+Accepted 13 September 2021
+Available online 17 September 2021
+Editor: Damia Barcelo
+Plastic pollution and climate change have commonly been treated as two separate issues and sometimes are even
+seen as competing. Here we present an alternative view that these two issues are fundamentally linked. Primarily,
+we explore how plastic contributes to greenhouse gas (GHG) emissions from the beginning to the end of its life
+cycle. Secondly, we show that more extreme weather and ﬂoods associated with climate change, will exacerbate
+the spread of plastic in the natural environment. Finally, both issues occur throughout the marine environment,
+and we show that ecosystems and species can be particularly vulnerable to both, such as coral reefs that face disease
+spread through plastic pollution and climate-driven increased global bleaching events. A Web of Science search
+showed climate change and plastic pollution studies in the ocean are often siloed, with only 0.4% of the articles
+examining both stressors simultaneously. We also identiﬁed a lack of regional and industry-speciﬁc life cycle
+analysis data for comparisons in relative GHG contributions by materials and products. Overall, we suggest that
+rather than debate over the relative importance of climate change or marine plastic pollution, a more productive
+course would be to determine the linking factors between the two and identify solutions to combat both crises.
+© 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Keywords:
+Greenhouse gases
+Pollution
+Policy
+Ocean
+Ecosystems
+Science of the Total Environment 806 (2022) 150392
+⁎ Corresponding author.
+E-mail address: helen.ford@bangor.ac.uk (H.V. Ford).
+https://doi.org/10.1016/j.scitotenv.2021.150392
+0048-9697/© 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+Contents
+1.
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+2.
+Plastic contributes to climate change. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+2.1.
+Production, transport and processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+2.2.
+Plastic disposal, mis-managed waste and degradation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2
+2.3.
+Bio-based plastics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3
+3.
+Climate change impacts plastic pollution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+4.
+Impacts of climate change and plastic pollutions co-occur in the marine environment
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+4.1.
+Marine species and ecosystems are presently vulnerable to both crises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+4.2.
+Direct testing of the plastic pollution and climate change interaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+5.
+Integrated approaches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+6.
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+CRediT authorship contribution statement. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+Declaration of competing interest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8
+1. Introduction
+Plastic, its uses and impacts as a pollutant, are often the focus of dis-
+cussion within the spheres of research, media and policy; yet this is
+mostly approached as a separate issue from the growing climate crisis.
+Recently the public's eagerness to help solve marine plastic pollution
+has intensiﬁed and sparked controversy as a distraction from the
+greater and more pressing issue of climate change (Stafford and Jones,
+2019). However, plastic pollution has an equally global distribution; it
+is found across all regions of the ocean, from shallow coastal areas to
+the deepest regions sampled to date and in the most remote and sensi-
+tive locations on Earth (Free et al., 2014; Napper et al., 2020; Obbard
+et al., 2014; Woodall et al., 2014). As marine plastic pollution is ubiqui-
+tous and globally irreversible, it meets two of the three conditions for a
+chemical pollution planetary boundary threat (Villarrubia-Gómez et al.,
+2018) that can compromise biological and anthropogenic systems and
+processes (Beaumont et al., 2019; McIlgorm et al., 2011; Rochman
+et al., 2016). Climate change is a major global threat, already affecting
+every region across the world and displaying increased ocean tempera-
+tures, sea-level rise, ocean acidiﬁcation, and more frequent and extreme
+weather events that are causing widespread ecological and socio-
+economic harm that is predicted to intensify (IPCC, 2021, 2019;
+Ummenhofer and Meehl, 2017; Vicedo-Cabrera et al., 2021; Vitousek
+et al., 2017).
+The ocean and its ecosystems and species are commonly the focus of
+plastic pollution studies; however, most of these studies do not consider
+the additional impact of climate change. Here we bring together evi-
+dence to show that marine plastic pollution and climate change are fun-
+damentally linked in three overarching ways. First, plastic production
+relies heavily on fossil fuel extraction and the consumption of ﬁnite re-
+sources. The end-of-life (EOL) processes for plastic waste have differing
+and sometimes undetermined contributions to global greenhouse gas
+emissions (GHG) and further, plastic alternatives like bio-based plastics
+are set to increase in production, yet their sustainability and GHG contri-
+bution is also in question. Second, climate currently inﬂuences the dis-
+tribution of plastic pollution and will spread further with climate-
+driven increased extreme weather events and ﬂooding. Third, global
+warming alone has demonstrable catastrophic consequences for the
+marine environment, while the impacts of plastic pollution are also
+building evidence as being harmful to species and ecosystems. The pres-
+ent and future impacts of the co-occurrence of both issues in marine
+ecosystems is largely still unexplored, as they are in other systems,
+such as terrestrial and freshwater. Here our review focuses on the
+more abundant marine plastic pollution literature as a focus to unpack
+the ways in which plastic pollution and climate change are linked and
+offer solutions to combat both.
+2. Plastic contributes to climate change
+Plastics are largely derived from fossil fuels and continue to emit
+greenhouse gases (GHGs) at each stage of their life cycle, from extraction
+up to and including their EOL (Zheng and Suh, 2019). Plastic production
+increased from two million metric tons (Mt) in 1950 to an estimated
+380 million Mt in 2015, a compound annual growth rate of 8.4% (Geyer
+et al., 2017). The demand for plastics illustrates the need for cheap, light-
+weight materials in our day to day lives. However, global growth in de-
+mand for plastics is set to continue as economies develop further. The
+expansion of plastic production is estimated to emit over 56 billion Mt
+of carbon-dioxide-equivalent (CO2e) in GHGs between 2015 and 2050,
+which is 10–13% of the entire remaining carbon budget (Hamilton et al.,
+2019). The contribution of plastic to climate change can be categorised
+in three ways: 1) plastic production, transport and use; 2) plastic disposal,
+mis-managed waste and degradation; and 3) bio-based plastics.
+2.1. Production, transport and processing
+In 2015, the primary production of plastic emitted the equivalent of
+more than a billion metric tons of carbon dioxide (CO2), equal to over
+3% of global fossil fuel emissions (Geyer, 2020). In comparison,
+agriculture contributes 10–15% of GHG emissions (Houser and Stuart,
+2020). Plastic reﬁning is also one the most GHG expensive industries in
+the manufacturing sector and produced 184.3–213.0 million Mt CO2e
+globally in 2015 (Hamilton et al., 2019). This is owing to the energy
+intensive process of cracking, a petrochemical process in which
+saturated
+hydrocarbons
+are
+broken
+down
+into
+smaller,
+often
+unsaturated, hydrocarbons known as oleﬁns, that are then made into
+plastic resins (Hamilton et al., 2019; Ren et al., 2006). Indirect emissions
+or potential savings during the plastic life cycle also need to be
+considered (Fig. 1). For example, plastic items can enable greenhouse
+gas (GHG) savings where their lightweight properties release lower CO2
+emissions during transport, relative to other materials such as glass,
+wooden or metal items (Andrady and Neal, 2009; Stefanini et al., 2020).
+The extraction phase of fossil fuels contributes to GHG emissions through
+indirect emissions such as methane leakage, land clearance for extraction
+infrastructure, and the subsequent transport of the fuels to reﬁneries
+(Hamilton et al., 2019). The extraction and transportation of natural gas
+for plastic production is estimated to emit 12.5–13.5 million Mt CO2e in
+the United States alone (Hamilton et al., 2019).
+2.2. Plastic disposal, mis-managed waste and degradation
+Life Cycle Assessments are increasingly used to evaluate environ-
+mental and economic impacts of various plastic waste management
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+2
+systems (Bernardo et al., 2016). One such assessment found that the
+EOL section accounts for 9% of total GHG emissions of the entire life
+cycle of plastic (Zheng and Suh, 2019). The EOL section, is commonly
+comprised of recycling, landﬁll and incineration, which vary in the
+amount of GHG emissions produced. For example, the comparison be-
+tween incineration or landﬁll in terms of emissions depends on the efﬁ-
+ciency of incineration and if it is carried out with or without energy
+recovery in comparison with current energy grid portfolios (Eriksson
+and Finnveden, 2009). While recycling is considered more sustainable,
+it also faces a number of challenges such as large energy requirements,
+costliness and can result in low-quality plastics (Al-Salem et al., 2009;
+Denison, 1996; Rahimi and Garciá, 2017; Shen and Worrell, 2014).
+When using 100% renewable energy throughout the process, recycling
+of plastics could allow for a 77% reduction in GHG emissions from that
+of virgin plastic production (Zheng and Suh, 2019). Out of the three
+main disposal options, plastic waste incineration is generally considered
+to have the largest climate impact (Eriksson and Finnveden, 2009). In
+2015, US emissions from plastic incineration was 5.9 million Mt of CO2
+and these are expected to increase to 91 million Mt by 2050
+(Hamilton et al., 2019).
+All conventional plastic ever made is still with us on the planet, ex-
+cept if it has been burnt (Thompson et al., 2005). Almost a third of plas-
+tic waste (32 million Mt) from 93% of the world's population was
+classiﬁed as mismanaged in 2010 (e.g., entering the environment in
+an uncontrolled fashion) and is predicted reach to up to 90 mil-
+lion Mt/year entering aquatic systems by 2030 under business as
+usual scenarios (Borrelle et al., 2020; Jambeck et al., 2015). Plastic de-
+grades and fragments into smaller and smaller pieces over time to even-
+tually form microplastics (<5 mm) and nanoplastics (<1000 nm)
+(Napper and Thompson, 2020). Research into the degradation of
+microplastic into micro- and nano-particles is still in its infancy, how-
+ever attempts to quantify and extrapolate degradation rates have not
+been published. The amount of time a plastic item takes to degrade is
+highly dependent on polymer and typical thickness and mass. For ex-
+ample, high density polyethylene (HDPE) has been estimated to have
+a half-life of between 58 years (for a plastic bottle) and 1200 years
+(for plastic piping) (Chamas et al., 2020). Plastic additives like
+nonylphenol and bisphenol may leach from plastic during weathering
+into the environment and be taken up by marine organisms
+(Koelmans et al., 2014). The toxicity of these chemicals can vary and
+has caused environmental and human health concerns (Bejgarn et al.,
+2015; Gunaalan et al., 2020; North and Halden, 2013).
+Degradation of plastic can be further retarded if plastic reaches
+deeper marine environments due to lower temperatures, oxygen and
+UV-B levels (Andrady, 2011). During degradation, both virgin and
+aged plastic continue to emit direct and indirect GHGs indeﬁnitely,
+with the most common plastics emitting methane and ethylene
+(Royer et al., 2018). Polyethylene, accounting for 36% of all plastic
+types (Geyer et al., 2017), is the most proliﬁc emitter of methane and
+ethylene out of a number of plastics tested. Due to its relatively weaker
+structure and exposed hydrocarbon branches, low density polyethylene
+(LDPE) produced more GHGs than plastics with a more compact struc-
+ture (e.g. HDPE) (Royer et al., 2018). While plastics release GHGs in
+most environments, this rate of release can vary. For example, LDPE re-
+leases ~76 times the amount of ethylene while incubated in air com-
+pared to water (Royer et al., 2018). As plastic degrades into smaller
+pieces and increases with greater surface-to-volume and edge length-
+to-volume ratios, GHG production will accelerate (Royer et al., 2018).
+2.3. Bio-based plastics
+Increased awareness of mismanaged waste and its impact on the en-
+vironment has led to a growing interest in creating a circular economy
+for plastics and the use of alternatives to fossil fuels as raw materials
+(Berriman, 2020; Nielsen et al., 2020). One of these pathways has
+been the emergence of bio-based plastics as a more sustainable alterna-
+tive to fossil fuel-based plastics. In 2019, the contribution of bio-based
+plastics to global plastic production was ~1%, yet this is expected to
+increase (European Bioplastics, 2019). Bio-based plastics are made
+from renewable plant feedstocks and offer lower GHG emissions in
+their overall life cycle compared to conventional plastics (Fig. 2)
+(Zheng and Suh, 2019). However, this is highly dependent on their
+raw materials, composition, EOL management and crucially, the
+carbon storage potential lost from their associated land use change
+(Hottle et al., 2013; Kakadellis and Rosetto, 2021; Piemonte and
+Gironi, 2011; Zheng and Suh, 2019). Spierling et al. (2018) calculated
+a potential saving of 241 to 316 million Mt CO2e annually by
+substituting 65.8% of all conventional plastics with bio-based plastics.
+Fig. 1. The Plastic Lifecycle. Schematic representing the estimated amounts of greenhouse gases released in CO2e at each stage of the plastic life cycle. The amount stored during use and
+released when plastic ends up in the natural environment is largely unknown. Data taken from Zheng and Suh (2019).
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+3
+As bio-based plastics are derived from biomass, land is needed to
+cultivate and grow the raw materials needed for manufacture. To satisfy
+the land requirement to replace plastics used for packaging globally,
+61 million ha would be needed for planting bio-based plastic feedstock,
+an area larger than France (Brizga et al., 2020). The land required would
+also be damaging to biodiversity. Globally, land use change has been es-
+timated to reduce the number of species by 13.6%, with agriculture as a
+major driver (Newbold et al., 2015). A life cycle assessment that took
+land use change from biofuels into consideration through GHG emission
+equivalents, found total emissions to be comparable between plastic
+made from both sugarcane (biofuel) and crude oil (fossil fuel) (Liptow
+and Tillman, 2012). However, this is a rare example where bio-based
+and fossil-based plastic have been compared, with the global warming
+potential of land use change considered. Firmer guidelines on the meth-
+odologies used to conduct LSAs across these various plastic products are
+needed to allow for increased studies that can make stronger compari-
+sons in sustainability and GHG contribution (Spierling et al., 2018).
+Bio-based plastics are not necessarily biodegradable; some are, but
+some only biodegrade under speciﬁc industrial conditions (Geyer,
+2020) (Fig. 2). In fact, the term ‘bioplastics’ is often used to describe
+both bio-based plastic and biodegradable plastic. Napper and
+Thompson (2019) showed that when left in the natural environment
+(marine, soil and outside), single use carrier bags (including those of
+oxo-biodegradable, compostable and HDPE formulations materials), as
+expected, did not demonstrate substantial biodegradation over a
+three-year period. Polylactic acid (PLA), derived from renewable
+sources like corn-starch, only will biodegrade under industrial
+composting conditions, however as a pollutant in the marine environ-
+ment, its degradation rate is similar to that of HDPE (Chamas et al.,
+2020). However, just because something is biodegradable, does not
+mean it can be thrown into the environment instead of managed prop-
+erly – and clearer direction for disposal of biodegradable plastics is
+needed. For example, in Germany 63% of consumers that disposed of
+compostable bio-based plastic incorrectly (e.g. recycled instead of
+composted), while only 10% of consumers disposed of fossil fuel-based
+plastic packaging incorrectly (Tauﬁk et al., 2020). To dispose of bio-
+based plastics correctly a consumer will need an understanding of the
+item type, whether local authorities can and will collect that material
+as organic for compost or as material for recycling, and its suitability
+for home-composting or need for relocation to another facility (e.g. in-
+dustrial composting).
+Recent research shows biodegradable bio-based plastics stimulate
+microbial metabolism, which can release CO2 into the water column
+from buried carbon (Sanz-Lázaro et al., 2021). While biodegradable
+plastics can mitigate issues related to persistence in the environment
+by biodegrading, this biodegradation should occur under controlled
+conditions in a compost setting to be able to reap the beneﬁts of the
+compost produced. Alongside research on the impacts of traditional
+plastics, biodegradable plastics should continue to be evaluated for
+their impact on our waste management systems and impact on the
+environment.
+The EOL management for bio-based plastics is also highly varied in
+the release of GHG emissions depending on whether they are biode-
+gradable, compostable or non-biodegradable, and how they are man-
+aged (Hottle et al., 2017; Zheng and Suh, 2019). It is therefore
+important not to consider bio-based plastics as a “silver bullet” solution
+to marine plastic pollution. Instead, a shift from a linear to a life-cycle
+approach is needed when thinking about manufacture and design,
+while encouraging reduced levels of consumption and waste at both in-
+dividual and industrial levels.
+3. Climate change impacts plastic pollution
+Microplastics are now being transported through the atmosphere in
+a manner similar to biogeochemical cycles (Brahney et al., 2021;
+Evangeliou et al., 2020) and can be transported over tens of kilometres
+to near-pristine and remote areas (Allen et al., 2019). Evidence is also
+building of interconnectedness between the freshwater, terrestrial and
+marine realms and is becoming established as a part of the carbon
+cycle (Stubbins et al., 2021). For example, microplastic can be
+Fig. 2. Differences and biodegradability of different types of plastics. Here we show the differences between bio-based and fossil fuel-based plastics and where they overlap in terms of
+biodegradability.
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+4
+transported from rivers to the ocean (Napper et al., 2021) and back onto
+land from the marine environment via sea spray (Allen et al., 2020).
+Studies show that climate change will further impact plastic pollution
+ﬂuxes and concentrations in its global distribution. For example, Arctic
+sea ice is a major microplastic sink, with densities of between 38 and
+234 microplastic particles per cubic metre (Obbard et al., 2014;
+Peeken et al., 2018). As sea ice volume is expected to decrease through
+melting due to warming temperatures, microplastics will be released
+into the marine environment (Obbard et al., 2014).
+Climate change is already causing increased extreme weather events
+(Coumou and Rahmstorf, 2012; IPCC, 2021, 2019), including tropical
+storms, which can disperse mis-managed waste between terrestrial,
+freshwater and marine environments (Lo et al., 2020; Wang et al.,
+2019). After a typhoon in Sanggou Bay, China, the abundance of
+microplastics increased within seawater and sediments by as much as
+40% (Wang et al., 2019). Further inputs of terrestrial plastic into aquatic
+environments is likely increased by stronger winds, more frequent rain
+events and sea level rise may release plastics trapped in coastal sedi-
+ments and increase the risk of ﬂooding (Galgani et al., 2015; Van
+Sebille et al., 2020; Welden and Lusher, 2017). Roebroek et al. (2021)
+demonstrated that ﬂooding of global rivers has the potential to further
+worsen riverine plastic pollution, with ﬂood risk areas often becoming
+sites with high plastic mobilisation during ﬂooding events. Increased
+rainfall, associated with monsoons, is estimated to increase estimated
+monthly river plastic inputs into the ocean. Napper et al. (2021) esti-
+mated the microplastic concentration entering the Bay of Bengal from
+the Ganges at approximately 1 billion microplastics per day during the
+pre-monsoon season and 3 billion post-monsoon season.
+4. Impacts of climate change and plastic pollutions co-occur in the
+marine environment
+Between 4.8 and 12.7 million Mt of plastic waste was estimated to
+have entered the ocean in 2010 from coastal countries (Jambeck et al.,
+2015). The impacts that this plastic pollution has on the marine envi-
+ronment has been increasingly explored in recent decades (Derraik,
+2002; Thushari and Senevirathna, 2020), yet there is a lack of studies
+that predict how this might interact with the consequences of climate
+change to cause harm to marine organisms and ecosystems. This is
+clear from a simple Web of Science search; we show in the last
+10 years 6327 papers addressed plastic pollution in the marine environ-
+ment, 45,752 papers addressed climate change in the marine environ-
+ment and only 208 addressed both (Fig. 3, search terms provided in
+Supplementary Material). As both lines of research continue to develop,
+plastic pollution research could beneﬁt from lessons learned from cli-
+mate change research to aid in establishing a stronger understanding
+on the current status and impacts of plastic pollution urgently needed
+for decision-making (Fig. 3).
+Although more pronounced in plastics studies, early climate studies
+often manipulated stressors beyond anticipated projections, which help
+identify worst-case scenario impacts, but are of limited relevance for
+understanding proximate and foreseeable climate impacts (Wernberg
+et al., 2012). Plastic studies are commonly conducting experiments
+and showing lethal effects in organisms subjected to much higher con-
+centrations of microplastics than how they presently occur in natural
+environments (Burns and Boxall, 2018).
+4.1. Marine species and ecosystems are presently vulnerable to both crises
+An example of a species notably vulnerable from the effects of both
+climate change and marine plastic pollution are marine turtles. Marine
+turtles exhibit temperature-dependent sex determination at their
+embryonic stage, during incubation on temperate and tropical beaches.
+This raises concerns with regard to global warming, sea level rise and
+increased storminess (Patrício et al., 2021). Some turtle rookeries
+around the world are demonstrating the effects of increasing global
+temperatures through skewed sex ratios towards females, which
+threatens populations (Chatting et al., 2021; Laloë et al., 2016; de
+Marcovaldi et al., 2016). Green turtles (Chelonia mydas) from warmer
+nesting beaches on the northern Great Barrier Reef, showed extremely
+biased sex ratios, with 99.1% of juvenile, 99.8% of subadult, and 86.8%
+of adult-sized turtles being female (Jensen et al., 2018). Microplastics
+have the potential to increase the temperatures of incubating clutches
+(Beckwith, 2019). However, strategies to mitigate this are being ex-
+plored with promising results (Clarke et al., 2021). Larger marine plastic
+debris threaten marine turtles through direct ingestion, which can
+cause debilitation and death through internal injury and intestinal
+blockage (Nelms et al., 2016), entanglement (Duncan et al., 2017), and
+can affect hatchling survival (Triessnig et al., 2012). Although all seven
+species of marine turtle were demonstrated to have ingested synthetic
+particles at concentrations higher than marine mammals (Duncan
+et al., 2019), the population-level impacts of plastic pollution on marine
+turtles is still largely unknown (Senko et al., 2020).
+Marine plastic pollution
+alongside climate
+change
+impacts
+destabilises ecosystems vulnerable to climate change (Fig. 4). For exam-
+ple on coral reefs, coral bleaching events, resulting from global warming
+and increasing ocean temperatures are becoming more frequent
+(Hughes et al., 2018a) and are predicted to become annual occurrences
+on many reefs this century (Van Hooidonk et al., 2020). Coral bleaching
+events are causing mass coral mortality (Hughes et al., 2017; Raymundo
+et al., 2019; Sheppard et al., 2017), species assemblages shifts (Hughes
+et al., 2018b; Stuart-Smith et al., 2018) and numerous local species ex-
+tinctions (Graham et al., 2006; Bento et al., 2016). Coral reefs are
+under pressure from a number of threats that combined, have proven
+detrimental to coral reef resilience (Baumann et al., 2019; Ortiz et al.,
+2018; Riegl et al., 2012). The extent to which climate change threats
+to corals might be exacerbated by plastic pollution is currently un-
+known, yet some studies have found plastic to be detrimental to coral
+health. Laboratory experiments have shown plastic ingestion can nega-
+tively affect gamete fertilisation (Berry et al., 2019), as well as inducing
+other species-speciﬁc responses, such as reduced growth and photosyn-
+thetic performance (Reichert et al., 2019). Field studies have shown that
+the presence of plastic debris can increase direct physical damage
+(Valderrama Ballesteros et al., 2018) and disease likelihood in corals
+(Lamb et al., 2018). While the direct effects of plastic pollution to coral
+reefs have not been shown to compare to population-scale climate-
+driven impacts, plastics may act as an additional stressor, particularly
+at local scales.
+Fig. 3. Web of Science search results. The number of records published in the years 2011-
+2020 that address climate change in marine systems (top), marine plastic pollution
+(middle) and both plastic pollution and climate change in marine systems (bottom).
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+5
+Other vulnerable and remote environments, rarely impacted by an-
+thropogenic pressures in the past, are now under unavoidable threat
+from climate change and marine plastic pollution. Marine Protected
+Areas (MPAs) are a widespread tool used to protect such environments,
+but are still and will increasingly be impacted by plastic pollution (Burt
+et al., 2020; Liubartseva et al., 2019; Nelms et al., 2020; Ryan and
+Schoﬁeld, 2020) and climate change (Andrello et al., 2015; Sheppard
+et al., 2017). Although MPAs are ineffective in stopping the ﬂow of plas-
+tic pollution in oceanic currents or the impacts of climate change, they
+can be effective in mitigating climate change by protecting carbon as-
+similation and storage habitats (Roberts et al., 2017; Sala et al., 2021).
+Polar regions, considered a relatively pristine environment with a
+highly sensitive ecosystem, now have substantial microplastics accu-
+mulated in sea ice and sediments and are being consumed by sea bird
+populations (Amélineau et al., 2016; Munari et al., 2017; Obbard et al.,
+2014). The presence of microplastic particles in these environments is
+an additional threat to the fragile, already climate-sensitive ecosystems
+containing organisms with low genetic differentiation, making them
+particularly vulnerable to environmental change (Rowlands et al.,
+2021). Additionally, microplastics could also decrease surface albedo
+of the snow and ice and accelerate melting, adding to another ramiﬁca-
+tion of global warming (Evangeliou et al., 2020). There are also concerns
+for poorly known deep sea ecosystems that are increasingly recognised
+as sinks for plastic pollution (Woodall et al., 2014), with their key func-
+tions in carbon storage and nutrient cycling threatened by climate
+change (Sweetman et al., 2017). As with many of these remote and vul-
+nerable environments, the combined impacts are not yet understood.
+Changes to community composition, ecosystem function and even
+biogeochemical cycles due to both climate change and marine plastic
+pollution are occurring on global scales, the future consequences from
+combinations of these effects are uncertain. Range shifts and the facilita-
+tion of invasive species are already a demonstrable consequence of cli-
+mate change. As temperate regions have become warmer, tropical
+species shift their ranges poleward (Bates et al., 2014; Edwards et al.,
+2013; Vergés et al., 2019). For example, in the shallow Mediterranean
+Israeli shelf, non-native warmer water marine mollusc species have
+colonised habitats to the detriment of native species and formed an irre-
+versible novel ecosystem (Albano et al., 2021). Similarly, marine plastic
+debris can facilitate trans-oceanic travel for invasive species as debris
+items are commonly colonised by a diverse assemblages of encrusting
+organisms like coralline algae, barnacles and bivalve molluscs
+(Gregory, 2009). Marine plastic debris also hosts unique assemblages
+of marine microbial communities known as the “Plastisphere”
+(Cornejo-D'Ottone et al., 2020; Zettler et al., 2013), which will become
+Fig. 4. Interactions between plastic and climate. A schematic illustrating points that we make throughout this article, whereby plastic will affect climate change through the contribution of
+GHGs and interact with the impacts of climate change in the natural environment. Coloured shapes indicate how each component is connected to both plastic pollution and climate
+change. The various stages of plastic production from extraction to waste management contribute to GHG emissions, while climate change can cause extreme weather events and
+accelerate the spread of plastics to vulnerable and remote environments. Blue carbon habitats play an important role in sequestering carbon, but they can also bury and trap plastics,
+preventing further spread.
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+6
+more abundant with predicted increases in plastic production and mis-
+managed waste (Borrelle et al., 2020). Increased coastal development
+and climate change-driven storms have increased the frequency of bio-
+logical rafting events, where storms can disperse colonised plastic mate-
+rial from coasts into the open ocean (Carlton et al., 2017). Both climate
+change and plastic pollution therefore enhance the mobility of invasive
+species on a global scale, which can lead to altered community assem-
+blages, native species extinctions and potentially further reaching con-
+sequences.
+The effects of both global warming and microplastics may addi-
+tively impact ocean primary production. Research surrounding the
+interactions of phytoplankton, marine microbes and marine plastic
+pollution is in its early stages, but suggests that plastic can disrupt
+biogeochemical cycles like the biological carbon pump, essential to
+maintaining the ocean's role as a carbon sink (Stoett and Vince,
+2019). Sjollema et al. (2016) showed that microplastics disrupt
+microalgal (or phytoplankton) growth at very high concentrations
+of microplastics yet did not ﬁnd signiﬁcant impacts on photosyn-
+thetic rates. Other experiments show an interactive effect of temper-
+ature and CO2 on the toxicity of nanoplastics to microalgae, with
+toxicity attenuated under simultaneous increases in CO2 and
+temperature (Yang et al., 2020). A climate change driven decline in
+primary production has been projected under all emissions scenarios
+(Couespel et al., 2021). Primary consumers, such as zooplankton will
+be impacted by this reduction in phytoplankton, which directly re-
+lates to predicted reductions in ﬁsh biomass (Couespel et al., 2021).
+Gove et al. (2019) showed how coastal ocean surface convergence
+features known as bio-slicks spatially concentrate phytoplankton
+and zooplankton, but also microplastics. Zooplankton included larval
+ﬁsh that ingest these non-nutritious prey-sized plastics, at a time
+when food is critical for their survival. The projected decrease in pri-
+mary production because of climate change and ingestion of
+microplastics by higher trophic levels could therefore have signiﬁ-
+cant additive impacts on the productivity of marine food webs and
+should be a focus of future research.
+4.2. Direct testing of the plastic pollution and climate change interaction
+Studies that have directly tested the interaction of marine plastic
+pollution and climate change-related impacts under controlled labora-
+tory conditions found a range of outcomes. For example, Weber et al.
+(2020) found no interaction upon exposing mussels to temperature
+stress combined with microplastic exposure treatments. However, indi-
+vidually the treatments caused detrimental effects to the organism, such
+as thermal stress affecting energy reserves, oxidative stress, and im-
+mune function (Weber et al., 2020). Wang et al. (2020) found signiﬁ-
+cant inhibition of digestive enzymes in mussels, upon exposure to
+microplastics, which was exacerbated by conditions that mimicked fu-
+ture ocean acidiﬁcation (Wang et al., 2020). Litchﬁeld et al. (2020)
+found that rates of decomposition of seagrass and kelp were enhanced
+with thermal stress conditions under various climate change scenarios
+but were slowed with exposure to more plastic pollution, while the
+combination of the two displayed a neutralising effect.
+McCormick et al. (2020) is a rare example of where plastic pollution
+and climate change interactions were tested in the ﬁeld. The authors ex-
+posed juvenile ﬁsh to microplastics and observed their behaviour
+within coral reef habitat of varying levels of degradation, expected
+under climate change conditions. The study found that ﬁsh consuming
+microplastic and those experiencing habitat degradation exhibited
+risk-prone behaviour, leading to reduced survival, with microplastic ex-
+posure having the greater impact of the two (McCormick et al., 2020).
+Evidently, further studies that directly test the interaction between cli-
+mate change conditions and marine plastic pollution, both in the lab
+and the ﬁeld, are needed to explore the extent of the impact that
+these co-occurring conditions will have at the scale of individual, popu-
+lation, and ecosystem scales.
+5. Integrated approaches
+Reduced demand for virgin polymers can reduce the sector's depen-
+dency on fossil fuels, prioritising reuse and recycling of polymers.
+Where reuse is not feasible, we should continue to recycle plastic until
+the structural or chemical properties deteriorate (Lamberti et al.,
+2020). The infrastructure around extraction, production and especially
+the EOL stages of plastics must be addressed to reduce the general envi-
+ronmental impacts of plastic. GHG emissions from plastics could be re-
+duced through incorporating low-carbon energy throughout industrial
+processes during their life cycle. While reducing global consumption of
+virgin polymers, research should continue to explore whether an increase
+in bio-based plastic production can be done sustainably (Lamberti et al.,
+2020; Zheng and Suh, 2019). For example, using waste biomass and forest
+residues to curb land-use requirements has been suggested to improve
+GHG footprint for bio-based plastic (Lamberti et al., 2020; Repo et al.,
+2012; Zheng and Suh, 2019). At both industrial and governmental levels
+greater effort should be taken to minimise any leakage and/or waste at
+any stage of the plastic life cycle.
+The size of the societal, economic, and commercial shift needed to
+avoid the worsening impacts of the climate and plastic pollution crises, re-
+quires both a top-down and bottom-up approach. Both global and national
+economies must shift to a circular economy, decoupling growth from the
+use of ﬁnite resources. Despite the necessity of this shift, our global society
+has become less circular over the past two years (from 9.1% to 8.6%; mea-
+sured by divided global cycled materials with material inputs) (Haigh
+et al., 2021). Further, re-emphasis of the importance of reducing or reusing
+plastic and bio-based plastics is needed to reduce our reliance on single-
+use products. If growth in single-use plastic continues, it could account
+for 5 to 10% of global GHG emissions by 2050 (Charles et al., 2021).
+By ﬁnding solutions to tackle climate change, we may also help in mit-
+igating marine plastic pollution. For example, the conservation and resto-
+ration of blue carbon coastal habitats, including salt marshes and seagrass
+meadows that support high sediment accumulation rates and are also
+able to bury and trap plastics, while sequestering large amounts of carbon
+in their sediments (Martin et al., 2020). Mangroves are an example of a
+blue carbon habitat efﬁcient in the burial and retention of plastic litter,
+where the plastic can remain undegraded for decades, and also act as a
+barrier against its dispersal into the marine environment (Martin et al.,
+2020, 2019). The removal of these vital coastal blue carbon habitats glob-
+ally would equate to 1 Pg of CO2 emissions annually (Duarte et al., 2013),
+while also potentially losing a natural mechanism containing the spread
+of plastic. Although recent evidence has shown marine debris can have
+detrimental ecological effects on these ecosystems (Giles et al., 2021),
+the burial of plastic prevents the spread of plastic to the wider ocean
+and the dynamics of this novel ecosystem service requires further
+investigation. Additionally, macroplastic can be ejected out of the sea via
+seagrass “neptune balls”, showing another example of how these
+coastal habitats could be key to beneﬁtting both issues (Martin et al.,
+2019; Sanchez-Vidal et al., 2021).
+Action on climate change has been compromised by uncertainty, as-
+pects of human psychology (Ross et al., 2016), and the need for acts of
+good global citizenship versus national interest. Plastic pollution is un-
+equivocally due to human actions, decisions and behaviour (Pahl et al.,
+2017), with few ‘plastics deniers’ that compare to ‘climate change de-
+niers’. Marine litter is clearly visible in our coastal environments and
+seeing it can have a measurable negative effect on an individual's
+wellbeing (Wyles et al., 2016). People's commitment to tackle marine
+plastic pollution through beach cleans is associated with increased envi-
+ronmental awareness (Wyles et al., 2017). Therefore, engagement in
+such activities can be a gateway to the issue of climate change. Further,
+science-based solutions to marine conservation are often poorly docu-
+mented, it is therefore important to highlight marine conservation suc-
+cesses to inspire public action and provide exemplars to conservation
+professionals and policy makers (Knowlton, 2021). There is consider-
+able opportunity to build on the success in mobilising action on plastic
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+7
+pollution for subsequent action on the impacts of climate change in the
+ocean.
+6. Conclusion
+Despite being inherently linked, the plastic pollution and climate
+change crises are often researched in isolation and even pitted against
+each other in competition for engagement and funding. There is an in-
+creasing co-occurrence of these global issues, along with other stressors
+that threaten the resilience of species and habitats sensitive to both cli-
+mate change and plastic pollution. Further research is needed to deter-
+mine the mechanistic links between these two stressors, their roles in
+our biogeochemical cycles and how both may interact to negatively im-
+pact ecosystems. While we acknowledge that plastic production is not
+the major contributor to GHG emissions and impacts are largely differ-
+ent between the two crises, when simpliﬁed, the root cause is the same,
+overconsumption of ﬁnite resources. A lack of region and industry-
+speciﬁc data is currently limiting our ability to compare relative GHG
+contributions by materials and products. We have also emphasised
+that approaches for each can be beneﬁcial to both issues and lessen
+the overall anthropogenic strain on our natural world. Solutions are un-
+doubtedly complex, yet a coordinated effort to implement shifts to-
+wards a circular economy is needed to ease current stressors on the
+marine environment and avoid worst-case scenario environmental cri-
+ses. Rather than debate whether climate change or plastic pollution is of
+greater threat, a more productive course would be to recognise they are
+fundamentally linked and take a systems approach to tackle both issues
+to synergistically reduce GHG emissions.
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.scitotenv.2021.150392.
+CRediT authorship contribution statement
+HVF and HJK conceived the paper. HVF drafted the manuscript with
+HJK and NHJ. All authors contributed technical content and edited ver-
+sions of the manuscript. HVF carried out Web of Science search and pro-
+duced the corresponding ﬁgure. NHJ produced all ﬁgures with HVF and
+HJK, with technical input from all authors.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+HVF and NHJ were supported by an Envision Doctoral Training
+Programme scholarship funded by the National Environment Research
+Council (NERC). HJK was funded by the Bertarelli Foundation and this
+work is part of Darwin Plus project (DPLUS090) and the #OneLess
+collaboration (supported by Calouste Gulbenkian Foundation, Oak
+Foundation and Selfridges Ltd). CS was partly funded by the United
+States Department of Agriculture, National Institute of Food and
+Agriculture (Project #RI0019-H020) and Rhode Island Science and
+Technology Advisory Council (#8434). AJD and CS were both partly
+funded by Rhode Island Sea Grant (under the 2021 18-22 Omnbius). BJG
+acknowledges the support of SE Paciﬁc GCRF (NE/V005448/1) and RaSP-
+SEA (NE/V009354/1). LCW was supported by a fellowship from Nekton.
+References
+Albano, P.G., Steger, J., Bošnjak, M., Dunne, B., Guifarro, Z., Turapova, E., Hua, Q., Kaufman,
+D.S., Rilov, G., Zuschin, M., 2021. Native biodiversity collapse in the eastern Mediterra-
+nean. Proc. R. Soc. B Biol. Sci. 288, 20202469. https://doi.org/10.1098/rspb.2020.2469.
+Allen, S., Allen, D., Phoenix, V.R., Le Roux, G., Durántez Jiménez, P., Simonneau, A., Binet, S.,
+Galop, D., 2019. Atmospheric transport and deposition of microplastics in a remote
+mountain catchment. Nat. Geosci. 12, 339–344. https://doi.org/10.1038/s41561-
+019-0335-5.
+Allen, S., Allen, D., Moss, K., Le Roux, G., Phoenix, V.R., Sonke, J.E., 2020. Examination of the
+ocean as a source for atmospheric microplastics. PLoS One 15, e0232746. https://doi.
+org/10.1371/journal.pone.0232746.
+Al-Salem, S.M., Lettieri, P., Baeyens, J., 2009. Recycling and recovery routes of plastic solid
+waste (PSW): a review. Waste Manag. https://doi.org/10.1016/j.wasman.2009.06.
+004.
+Amélineau, F., Bonnet, D., Heitz, O., Mortreux, V., Harding, A.M.A., Karnovsky, N., Walkusz,
+W., Fort, J., Grémillet, D., 2016. Microplastic pollution in the Greenland Sea: back-
+ground levels and selective contamination of planktivorous diving seabirds. Environ.
+Pollut. 219, 1131–1139. https://doi.org/10.1016/j.envpol.2016.09.017.
+Andrady, A.L., 2011. Microplastics in the marine environment. Mar. Pollut. Bull. https://
+doi.org/10.1016/j.marpolbul.2011.05.030.
+Andrady, A.L., Neal, M.A., 2009. Applications and societal beneﬁts of plastics. Philos. Trans.
+R. Soc. B Biol. Sci. 364, 1977–1984. https://doi.org/10.1098/rstb.2008.0304.
+Andrello, M., Mouillot, D., Somot, S., Thuiller, W., Manel, S., 2015. Additive effects of cli-
+mate change on connectivity between marine protected areas and larval supply to
+ﬁshed areas. Divers. Distrib. 21, 139–150. https://doi.org/10.1111/ddi.12250.
+Bates, A.E., Pecl, G.T., Frusher, S., Hobday, A.J., Wernberg, T., Smale, D.A., Sunday, J.M., Hill,
+N.A., Dulvy, N.K., Colwell, R.K., Holbrook, N.J., Fulton, E.A., Slawinski, D., Feng, M.,
+Edgar, G.J., Radford, B.T., Thompson, P.A., Watson, R.A., 2014. Deﬁning and observing
+stages of climate-mediated range shifts in marine systems. Glob. Environ. Chang. 26,
+27–38. https://doi.org/10.1016/j.gloenvcha.2014.03.009.
+Baumann, J.H., Ries, Rippe, J.P., Courtney, T.A., Aichelman, H.E., Westﬁeld, I., Castillo, K.D.,
+2019. Nearshore coral growth declining on the Mesoamerican Barrier Reef System.
+Glob. Chang. Biol. 25, 3932–3945. https://doi.org/10.1111/gcb.14784.
+Beaumont, N.J., Aanesen, M., Austen, M.C., Börger, T., Clark, J.R., Cole, M., Hooper, T.,
+Lindeque, P.K., Pascoe, C., Wyles, K.J., 2019. Global ecological, social and economic im-
+pacts of marine plastic. Mar. Pollut. Bull. 142, 189–195. https://doi.org/10.1016/j.
+marpolbul.2019.03.022.
+Beckwith, V.K., 2019. Effects of Microplastics on the Thermal Proﬁle of Sand: Implications
+for Marine Turtle Nesting Grounds.
+Bejgarn, S., MacLeod, M., Bogdal, C., Breitholtz, M., 2015. Toxicity of leachate from
+weathering plastics: an exploratory screening study with Nitocra spinipes.
+Chemosphere 132, 114–119. https://doi.org/10.1016/j.chemosphere.2015.03.010.
+Bento, R., Hoey, A.S., Bauman, A.G., Feary, D.A., Burt, J.A., 2016. The implications of recur-
+rent disturbances within the world's hottest coral reef. Mar. Pollut. Bull. 105,
+466–472. https://doi.org/10.1016/j.marpolbul.2015.10.006.
+Bernardo, C.A., Simões, C.L., Pinto, L.M.C., 2016. Environmental and economic life cycle
+analysis of plastic waste management options. A review. AIP Conference Proceedings,
+p. 140002. https://doi.org/10.1063/1.4965581.
+Berriman, D., 2020. Plastics in packaging and the future of sustainability. Reinf. Plast. 64,
+332–334. https://doi.org/10.1016/j.repl.2020.04.074.
+Berry, K.L.E., Epstein, H.E., Lewis, P.J., Hall, N.M., Negri, A.P., 2019. Microplastic contamina-
+tion has limited effects on coral fertilisation and larvae. Diversity 11, 228. https://doi.
+org/10.3390/d11120228.
+Borrelle, S.B., Ringma, J., Lavender Law, K., Monnahan, C.C., Lebreton, L., McGivern, A.,
+Murphy, E., Jambeck, J., Leonard, G.H., Hilleary, M.A., Eriksen, M., Possingham, H.P.,
+De Frond, H., Gerber, L.R., Polidoro, B., Tahir, A., Bernard, M., Mallos, N., Barnes, M.,
+Rochman, C.M., 2020. Predicted growth in plastic waste exceeds efforts to mitigate
+plastic pollution. Science <volume>369</volume>, 1515–1518. https://doi.org/10.
+1126/SCIENCE.ABA3656.
+Brahney, J., Mahowald, N., Prank, M., Cornwell, G., Klimont, Z., Matsui, H., Prather, K.A.,
+2021. Constraining the atmospheric limb of the plastic cycle. Proc. Natl. Acad. Sci.
+118, e2020719118. https://doi.org/10.1073/pnas.2020719118.
+Brizga, J., Hubacek, K., Feng, K., 2020. The unintended side effects of bioplastics: carbon,
+land, and water footprints. One Earth. https://doi.org/10.1016/j.oneear.2020.06.016.
+Burns, E.E., Boxall, A.B.A., 2018. Microplastics in the aquatic environment: evidence for or
+against adverse impacts and major knowledge gaps. Environ. Toxicol. Chem. https://
+doi.org/10.1002/etc.4268.
+Burt, A.J., Raguain, J., Sanchez, C., Brice, J., Fleischer-Dogley, F., Goldberg, R., Talma, S.,
+Syposz, M., Mahony, J., Letori, J., Quanz, C., Ramkalawan, S., Francourt, C.,
+Capricieuse, I., Antao, A., Belle, K., Zillhardt, T., Moumou, J., Roseline, M., Bonne, J.,
+Marie, R., Constance, E., Suleman, J., Turnbull, L.A., 2020. The costs of removing the
+unsanctioned import of marine plastic litter to small island states. Sci. Rep. 10,
+14458. https://doi.org/10.1038/s41598-020-71444-6.
+Carlton, J.T., Chapman, J.W., Geller, J.B., Miller, J.A., Carlton, D.A., McCuller, M.I., Treneman,
+N.C., Steves, B.P., Ruiz, G.M., 2017. Tsunami-driven rafting: transoceanic species dis-
+persal and implications for marine biogeography. Science <volume>357</volume>,
+1402–1406. https://doi.org/10.1126/science.aao1498.
+Chamas, A., Moon, H., Zheng, J., Qiu, Y., Tabassum, T., Jang, J.H., Abu-Omar, M., Scott, S.L.,
+Suh, S., 2020. Degradation rates of plastics in the environment. ACS Sustain. Chem.
+Eng. 8, 3494–3511. https://doi.org/10.1021/acssuschemeng.9b06635.
+Charles, D., Kimman, L., Saran, N., 2021. The Plastic Waste Makers Index- Revealing the
+Source of the Single-use Plastics Crisis.
+Chatting, M., Hamza, S., Al-Khayat, J., Smyth, D., Husrevoglu, S., Marshall, C., 2021. Femi-
+nization of hawksbill turtle hatchlings in the twenty-ﬁrst century at an important re-
+gional nesting aggregation. Endanger. Species Res. 44, 149–158. https://doi.org/10.
+3354/esr01104.
+Clarke, L.J., Elliot, R.L., Abella-Perez, E., Jenkins, S.R., Marco, A., Martins, S., Hawkes, L.A.,
+2021. Low-cost tools mitigate climate change during reproduction in an endangered
+marine ectotherm. J. Appl. Ecol. 00, 1–11. https://doi.org/10.1111/1365-2664.13874.
+Cornejo-D’Ottone, M., Molina, V., Pavez, J., Silva, N., 2020. Greenhouse gas cycling by the
+plastisphere: the sleeper issue of plastic pollution. Chemosphere 246, 125709.
+https://doi.org/10.1016/j.chemosphere.2019.125709.
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+8
+Couespel, D., Lévy, M., Bopp, L., 2021. Oceanic primary production decline halved in eddy-
+resolving simulations of global warming. Biogeosci. Discuss. 1–36. https://doi.org/10.
+5194/bg-2021-14.
+Coumou, D., Rahmstorf, S., 2012. A decade of weather extremes. Nat. Clim. Chang. 2,
+491–496. https://doi.org/10.1038/nclimate1452.
+de Marcovaldi, M.A.G., López-Mendilaharsu, M., Santos, A.S., Lopez, G.G., Godfrey, M.H.,
+Tognin, F., Baptistotte, C., Thomé, J.C., Dias, A.C.C., de Castilhos, J.C., Fuentes,
+M.M.P.B., 2016. Identiﬁcation of loggerhead male producing beaches in the south At-
+lantic: implications for conservation. J. Exp. Mar. Biol. Ecol. 477, 14–22. https://doi.
+org/10.1016/j.jembe.2016.01.001.
+Denison, R.A., 1996. Environmental life-cycle comparisons of recycling, landﬁlling, and in-
+cineration: a review of recent studies. Annu. Rev. Energy Environ. https://doi.org/10.
+1146/annurev.energy.21.1.191.
+Derraik, J.G.B., 2002. The pollution of the marine environment by plastic debris: a review.
+Mar. Pollut. Bull. https://doi.org/10.1016/S0025-326X(02)00220-5.
+Duarte, C.M., Losada, I.J., Hendriks, I.E., Mazarrasa, I., Marbà, N., 2013. The role of coastal
+plant communities for climate change mitigation and adaptation. Nat. Clim. Chang.
+https://doi.org/10.1038/nclimate1970.
+Duncan, E., Botterell, Z., Broderick, A., Galloway, T., Lindeque, P., Nuno, A., Godley, B., 2017.
+A global review of marine turtle entanglement in anthropogenic debris: a baseline for
+further action. Endanger. Species Res. 34, 431–448. https://doi.org/10.3354/esr00865.
+Duncan, E.M., Broderick, A.C., Fuller, W.J., Galloway, T.S., Godfrey, M.H., Hamann, M.,
+Limpus, C.J., Lindeque, P.K., Mayes, A.G., Omeyer, L.C.M., Santillo, D., Snape, R.T.E.,
+Godley, B.J., 2019. Microplastic ingestion ubiquitous in marine turtles. Glob. Chang.
+Biol. 25, 744–752. https://doi.org/10.1111/gcb.14519.
+Edwards, M., Bresnan, E., Cook, K.B., Raine, R., 2013. Impacts of climate change on plank-
+ton. MCCIP Sci. Rev. 98–112. https://doi.org/10.14465/2013.arc12.098-112.
+Eriksson, O., Finnveden, G., 2009. Plastic waste as a fuel - CO2-neutral or not? Energy En-
+viron. Sci. 2, 907–914. https://doi.org/10.1039/b908135f.
+European Bioplastics, 2019. Bioplastics: Facts and ﬁgures [WWW Document]. URL
+(accessed 4.20.21) http://www.european-bioplastics.org/news/publications/.
+Evangeliou, N., Grythe, H., Klimont, Z., Heyes, C., Eckhardt, S., Lopez-Aparicio, S., Stohl, A.,
+2020. Atmospheric transport is a major pathway of microplastics to remote regions.
+Nat. Commun. 11, 1–11. https://doi.org/10.1038/s41467-020-17201-9.
+Free, C.M., Jensen, O.P., Mason, S.A., Eriksen, M., Williamson, N.J., Boldgiv, B., 2014. High-
+levels of microplastic pollution in a large, remote, mountain lake. Mar. Pollut. Bull.
+85, 156–163. https://doi.org/10.1016/j.marpolbul.2014.06.001.
+Galgani, F., Hanke, G., Maes, T., 2015. Global distribution, composition and abundance of
+marine litter. Marine Anthropogenic Litter. Springer International Publishing,
+pp. 29–56 https://doi.org/10.1007/978-3-319-16510-3_2.
+Geyer, R., 2020. A brief history of plastics. Mare Plasticum - The Plastic Sea. Springer Inter-
+national Publishing, pp. 31–47 https://doi.org/10.1007/978-3-030-38945-1_2.
+Geyer, R., Jambeck, J.R., Law, K.L., 2017. Production, use, and fate of all plastics ever made.
+Sci. Adv. 3, e1700782. https://doi.org/10.1126/sciadv.1700782.
+Giles, R.K., Nguyen, C.A.T., Hồ, T.T.Y., Nguyến, C.V., Ngô, N.T., Rochman, C.M., 2021. Source-
+speciﬁc patterns of marine debris and associated ecological impacts in the Red River
+Estuary of Xuan Thuy National Park, Vietnam. Front. Environ. Sci., 162. https://doi.
+org/10.3389/FENVS.2021.679530.
+Gove, J.M., Whitney, J.L., McManus, M.A., Lecky, J., Carvalho, F.C., Lynch, J.M., Li, J.,
+Neubauer, P., Smith, K.A., Phipps, J.E., Kobayashi, D.R., Balagso, K.B., Contreras, E.A.,
+Manuel, M.E., Merriﬁeld, M.A., Polovina, J.J., Asner, G.P., Maynard, J.A., Williams, G.J.,
+2019. Prey-size plastics are invading larval ﬁsh nurseries. Proc. Natl. Acad. Sci. U. S.
+A. 116, 24143–24149. https://doi.org/10.1073/pnas.1907496116.
+Graham, N.A.J., Wilson, S.K., Jennings, S., C Polunin V, N., Bijoux, J.P., Robinson, J., 2006.
+Seychelles Centre for Marine Research and Technology-Marine Parks Authority, and
+Seychelles Fishing Authority. Proc. Natl. Acad. Sci. U. S. A. 103, 8425–8429.
+Gregory, M.R., 2009. Environmental implications of plastic debris in marine settings—en-
+tanglement, ingestion, smothering, hangers-on, hitch-hiking and alien invasions.
+Philos. Trans. R. Soc. B Biol. Sci. 364, 2013–2025. https://doi.org/10.1098/rstb.2008.
+0265.
+Gunaalan, K., Fabbri, E., Capolupo, M., 2020. The hidden threat of plastic leachates: a crit-
+ical review on their impacts on aquatic organisms. Water Res. 184, 116170. https://
+doi.org/10.1016/j.watres.2020.116170.
+Haigh, L., Wit, M.de, Daniels, C.von, Colloricchio, A., Hoogzaad, J., Fraser, M., Sutherland,
+A.B., McClelland, J., Morgenroth, N., Heidtmann, A., 2021. The Circularity Gap Report
+2021.
+Hamilton, L.A., Feit, S., Muffett, C., Kelso, M., 2019. Plastic & Climate: The Hidden Costs of a
+Plastic Planet. Center of International Environmental Law.
+Hottle, T.A., Bilec, M.M., Landis, A.E., 2013. Sustainability assessments of bio-based poly-
+mers. Polym. Degrad. Stab. https://doi.org/10.1016/j.polymdegradstab.2013.06.016.
+Hottle, T.A., Bilec, M.M., Landis, A.E., 2017. Biopolymer production and end of life compar-
+isons using life cycle assessment. Resour. Conserv. Recycl. 122, 295–306. https://doi.
+org/10.1016/j.resconrec.2017.03.002.
+Houser, M., Stuart, D., 2020. An accelerating treadmill and an overlooked contradiction in
+industrial agriculture: climate change and nitrogen fertilizer. J. Agrar. Chang. 20,
+215–237. https://doi.org/10.1111/joac.12341.
+Hughes, T.P., Kerry, J.T., Álvarez-Noriega, M., Álvarez-Romero, J.G., Anderson, K.D., Baird,
+A.H., Babcock, R.C., Beger, M., Bellwood, D.R., Berkelmans, R., Bridge, T.C., Butler, I.R.,
+Byrne, M., Cantin, N.E., Comeau, S., Connolly, S.R., Cumming, G.S., Dalton, S.J., Diaz-
+Pulido, G., Eakin, C.M., Figueira, W.F., Gilmour, J.P., Harrison, H.B., Heron, S.F., Hoey,
+A.S., Hobbs, J.-P.A., Hoogenboom, M.O., Kennedy, E.V., Kuo, C., Lough, J.M., Lowe, R.J.,
+Liu, G., McCulloch, M.T., Malcolm, H.A., McWilliam, M.J., Pandolﬁ, J.M., Pears, R.J.,
+Pratchett, M.S., Schoepf, V., Simpson, T., Skirving, W.J., Sommer, B., Torda, G.,
+Wachenfeld, D.R., Willis, B.L., Wilson, S.K., 2017. Global warming and recurrent
+mass bleaching of corals. Nature 543, 373–377. https://doi.org/10.1038/nature21707.
+Hughes, T.P., Anderson, K.D., Connolly, S.R., Heron, S.F., Kerry, J.T., Lough, J.M., Baird, A.H.,
+Baum, J.K., Berumen, M.L., Bridge, T.C., Claar, D.C., Eakin, C.M., Gilmour, J.P., Graham,
+N.A.J., Harrison, H., Hobbs, J.P.A., Hoey, A.S., Hoogenboom, M., Lowe, R.J., McCulloch,
+M.T., Pandolﬁ, J.M., Pratchett, M., Schoepf, V., Torda, G., Wilson, S.K., 2018a. Spatial
+and temporal patterns of mass bleaching of corals in the Anthropocene. Science <vol-
+ume>359</volume>, 80–83. https://doi.org/10.1126/science.aan8048.
+Hughes, T.P., Kerry, J.T., Baird, A.H., Connolly, S.R., Dietzel, A., Eakin, C.M., Heron, S.F., Hoey,
+A.S., Hoogenboom, M.O., Liu, G., McWilliam, M.J., Pears, R.J., Pratchett, M.S., Skirving,
+W.J., Stella, J.S., Torda, G., 2018b. Global warming transforms coral reef assemblages.
+Nature 556, 492–496. https://doi.org/10.1038/s41586-018-0041-2.
+IPCC, 2019. In: Pörtner, H.-O., Roberts, D.C., Masson-Delmotte, V., Zhai, P., Tignor, M.,
+Poloczanska, E., Mintenbeck, K., Alegría, A., Nicolai, M., Okem, A., Petzold, J., Rama,
+B., Weyer, N.M. (Eds.), IPCC Special Report on the Ocean and Cryosphere in a Chang-
+ing Climate.
+IPCC, 2021. Summary for policymakers. In: Pörtner, H.-O., Roberts, D.C., Masson-Delmotte,
+V., Zhai, P., Tignor, M., Poloczanska, E., Mintenbeck, K., Alegría, A., Nicolai, M., Okem,
+A., Petzold, J., Rama, B., Weyer, N.M. (Eds.), Climate Change 2021: The Physical Sci-
+ence Basis. Contribution of Working Group 1 to the Sixth Assessment Report of the
+Intergovernmental Panel on Climate Change.
+Jambeck, J.R., Geyer, R., Wilcox, C., Siegler, T.R., Perryman, M., Andrady, A., Narayan, R.,
+Law, K.L., 2015. Plastic waste inputs from land into the ocean. Science <vol-
+ume>347</volume>, 768–771. https://doi.org/10.1126/science.1260352.
+Jensen, M.P., Allen, C.D., Eguchi, T., Bell, I.P., LaCasella, E.L., Hilton, W.A., Hof, C.A.M.,
+Dutton, P.H., 2018. Environmental warming and feminization of one of the largest
+sea turtle populations in the world. Curr. Biol. 28, 154–159.e4. https://doi.org/10.
+1016/j.cub.2017.11.057.
+Kakadellis, S., Rosetto, G., 2021. Achieving a circular bioeconomy for plastics. Science
+<volume>373</volume>, 49–50. https://doi.org/10.1126/SCIENCE.ABJ3476.
+Knowlton, N., 2021. Ocean optimism: moving beyond the obituaries in marine conserva-
+tion. Annu. Rev. Mar. Sci. 13, 479–499. https://doi.org/10.1146/annurev-marine-
+040220-101608.
+Koelmans, A.A., Besseling, E., Foekema, E.M., 2014. Leaching of plastic additives to marine
+organisms. Environ. Pollut. 187, 49–54. https://doi.org/10.1016/j.envpol.2013.12.013.
+Laloë, J.O., Esteban, N., Berkel, J., Hays, G.C., 2016. Sand temperatures for nesting sea tur-
+tles in the Caribbean: implications for hatchling sex ratios in the face of climate
+change. J. Exp. Mar. Biol. Ecol. 474, 92–99. https://doi.org/10.1016/j.jembe.2015.09.
+015.
+Lamb, J.B., Willis, B.L., Fiorenza, E.A., Couch, C.S., Howard, R., Rader, D.N., True, J.D., Kelly,
+L.A., Ahmad, A., Jompa, J., Harvell, C.D., 2018. Plastic waste associated with disease
+on coral reefs. Science <volume>359</volume>, 460–462. https://doi.org/10.
+1126/science.aar3320.
+Lamberti, F.M., Luis, ·., Román-Ramírez, A., Wood, Joseph, 2020. Recycling of Bioplastics:
+Routes and Beneﬁts. 28, pp. 2551–2571. https://doi.org/10.1007/s10924-020-01795-8.
+Liptow, C., Tillman, A.-M., 2012. A comparative life cycle assessment study of polyethyl-
+ene based on sugarcane and crude oil. J. Ind. Ecol. 16, 420–435. https://doi.org/10.
+1111/j.1530-9290.2011.00405.x.
+Litchﬁeld, S.G., Schulz, K.G., Kelaher, B.P., 2020. The inﬂuence of plastic pollution and
+ocean change on detrital decomposition. Mar. Pollut. Bull. 158, 111354. https://doi.
+org/10.1016/j.marpolbul.2020.111354.
+Liubartseva, S., Coppini, G., Lecci, R., 2019. Are Mediterranean Marine Protected Areas
+sheltered from plastic pollution? Mar. Pollut. Bull. 140, 579–587. https://doi.org/10.
+1016/j.marpolbul.2019.01.022.
+Lo, H.S., Lee, Y.K., Po, B.H.K., Wong, L.C., Xu, X., Wong, C.F., Wong, C.Y., Tam, N.F.Y., Cheung,
+S.G., 2020. Impacts of Typhoon Mangkhut in 2018 on the deposition of marine debris
+and microplastics on beaches in Hong Kong. Sci. Total Environ. 716, 137172. https://
+doi.org/10.1016/j.scitotenv.2020.137172.
+Martin, C., Almahasheer, H., Duarte, C.M., 2019. Mangrove forests as traps for marine lit-
+ter. Environ. Pollut. 247, 499–508. https://doi.org/10.1016/j.envpol.2019.01.067.
+Martin, C., Baalkhuyur, F., Valluzzi, L., Saderne, V., Cusack, M., Almahasheer, H.,
+Krishnakumar, P.K., Rabaoui, L., Qurban, M.A., Arias-Ortiz, A., Masqué, P., Duarte,
+C.M., 2020. Exponential increase of plastic burial in mangrove sediments as a major
+plastic sink. Sci. Adv. 6, eaaz5593. https://doi.org/10.1126/sciadv.aaz5593.
+McCormick, M.I., Chivers, D.P., Ferrari, M.C.O., Blandford, M.I., Nanninga, G.B., Richardson,
+C., Fakan, E.P., Vamvounis, G., Gulizia, A.M., Allan, B.J.M., 2020. Microplastic exposure
+interacts with habitat degradation to affect behaviour and survival of juvenile ﬁsh in
+the ﬁeld. Proc. R. Soc. B Biol. Sci. 287, 20201947. https://doi.org/10.1098/rspb.2020.
+1947.
+McIlgorm, A., Campbell, H.F., Rule, M.J., 2011. The economic cost and control of marine de-
+bris damage in the Asia-Paciﬁc region. Ocean Coast. Manag. 54, 643–651. https://doi.
+org/10.1016/j.ocecoaman.2011.05.007.
+Munari, C., Infantini, V., Scoponi, M., Rastelli, E., Corinaldesi, C., Mistri, M., 2017.
+Microplastics in the sediments of Terra Nova Bay (Ross Sea, Antarctica). Mar. Pollut.
+Bull. 122, 161–165. https://doi.org/10.1016/j.marpolbul.2017.06.039.
+Napper, I.E., Thompson, R.C., 2019. Environmental deterioration of biodegradable, oxo-
+biodegradable, compostable, and conventional plastic carrier bags in the sea, soil,
+and open-air over a 3-year period. Environ. Sci. Technol. https://doi.org/10.1021/
+acs.est.8b06984.
+Napper, I.E., Thompson, R.C., 2020. Plastic debris in the marine environment: history and
+future challenges. Glob. Chall. 4, 1900081. https://doi.org/10.1002/gch2.201900081.
+Napper, I.E., Davies, B.F.R., Clifford, H., Elvin, S., Koldewey, H.J., Mayewski, P.A., Miner, K.R.,
+Potocki, M., Elmore, A.C., Gajurel, A.P., Thompson, R.C., 2020. Reaching new heights in
+plastic pollution—preliminary ﬁndings of microplastics on Mount Everest. One Earth
+3, 621–630. https://doi.org/10.1016/j.oneear.2020.10.020.
+Napper, I.E., Baroth, A., Barrett, A.C., Bhola, S., Chowdhury, G.W., Davies, B.F.R., Duncan,
+E.M., Kumar, S., Nelms, S.E., Hasan Niloy, M.N., Nishat, B., Maddalene, T., Thompson,
+R.C., Koldewey, H., 2021. The abundance and characteristics of microplastics in
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+9
+surface water in the transboundary Ganges River. Environ. Pollut., 116348. https://
+doi.org/10.1016/j.envpol.2020.116348.
+Nelms, S.E., Duncan, E.M., Broderick, A.C., Galloway, T.S., Godfrey, M.H., Hamann, M.,
+Lindeque, P.K., Godley, B.J., 2016. Plastic and marine turtles: a review and call for re-
+search. ICES J. Mar. Sci. https://doi.org/10.1093/icesjms/fsv165.
+Nelms, S.E., Eyles, L., Godley, B.J., Richardson, P.B., Selley, H., Solandt, J.L., Witt, M.J., 2020.
+Investigating the distribution and regional occurrence of anthropogenic litter in En-
+glish marine protected areas using 25 years of citizen-science beach clean data. Envi-
+ron. Pollut. 114365. https://doi.org/10.1016/j.envpol.2020.114365.
+Newbold, T., Hudson, L.N., Hill, S.L.L., Contu, S., Lysenko, I., Senior, R.A., Börger, L., Bennett,
+D.J., Choimes, A., Collen, B., Day, J., De Palma, A., Díaz, S., Echeverria-Londoño, S.,
+Edgar, M.J., Feldman, A., Garon, M., Harrison, M.L.K., Alhusseini, T., Ingram, D.J.,
+Itescu, Y., Kattge, J., Kemp, V., Kirkpatrick, L., Kleyer, M., Correia, D.L.P., Martin, C.D.,
+Meiri, S., Novosolov, M., Pan, Y., Phillips, H.R.P., Purves, D.W., Robinson, A., Simpson,
+J., Tuck, S.L., Weiher, E., White, H.J., Ewers, R.M., MacE, G.M., Scharlemann, J.P.W.,
+Purvis, A., 2015. Global effects of land use on local terrestrial biodiversity. Nature
+520, 45–50. https://doi.org/10.1038/nature14324.
+Nielsen, T.D., Hasselbalch, J., Holmberg, K., Stripple, J., 2020. Politics and the plastic crisis: a
+review throughout the plastic life cycle. WIREs Energy Environ. 9, e360. https://doi.
+org/10.1002/wene.360.
+North, E.J., Halden, R.U., 2013. Plastics and environmental health: the road ahead. Rev. En-
+viron. Health. https://doi.org/10.1515/reveh-2012-0030.
+Obbard, R.W., Sadri, S., Wong, Y.Q., Khitun, A.A., Baker, I., Thompson, R.C., 2014. Global
+warming releases microplastic legacy frozen in Arctic Sea ice. Earth's Future 2,
+315–320. https://doi.org/10.1002/2014ef000240.
+Ortiz, J.C., Wolff, N.H., Anthony, K.R.N., Devlin, M., Lewis, S., Mumby, P.J., 2018. Impaired
+recovery of the great barrier reef under cumulative stress. Sci. Adv. 4, eaar6127.
+https://doi.org/10.1126/sciadv.aar6127.
+Pahl, S., Wyles, K.J., Thompson, R.C., 2017. Channelling passion for the ocean towards plas-
+tic pollution. Nat. Hum. Behav. https://doi.org/10.1038/s41562-017-0204-4.
+Patrício, A., Hawkes, L., Monsinjon, J., Godley, B., Fuentes, M., 2021. Climate change and
+marine turtles: recent advances and future directions. Endanger. Species Res. 44,
+363–395. https://doi.org/10.3354/esr01110.
+Peeken, I., Primpke, S., Beyer, B., Gütermann, J., Katlein, C., Krumpen, T., Bergmann, M.,
+Hehemann, L., Gerdts, G., 2018. Arctic sea ice is an important temporal sink and
+means of transport for microplastic. Nat. Commun. 9, 1–12. https://doi.org/10.1038/
+s41467-018-03825-5.
+Piemonte, V., Gironi, F., 2011. Land-use change emissions: how green are the bioplastics?
+Environ. Prog. Sustain. Energy 30, 685–691. https://doi.org/10.1002/ep.10518.
+Rahimi, A.R., Garciá, J.M., 2017. Chemical recycling of waste plastics for new materials
+production. Nat. Rev. Chem. https://doi.org/10.1038/s41570-017-0046.
+Raymundo, L.J., Burdick, D., Hoot, W.C., Miller, R.M., Brown, V., Reynolds, T., Gault, J.,
+Idechong, J., Fifer, J., Williams, A., 2019. Successive bleaching events cause mass
+coral mortality in Guam, Micronesia. Coral Reefs 38, 677–700. https://doi.org/10.
+1007/s00338-019-01836-2.
+Reichert, J., Arnold, A.L., Hoogenboom, M.O., Schubert, P., Wilke, T., 2019. Impacts of
+microplastics on growth and health of hermatypic corals are species-speciﬁc. Envi-
+ron. Pollut. 254, 113074. https://doi.org/10.1016/j.envpol.2019.113074.
+Ren, T., Patel, M., Blok, K., 2006. Oleﬁns from conventional and heavy feedstocks: energy
+use in steam cracking and alternative processes. Energy 31, 425–451. https://doi.org/
+10.1016/j.energy.2005.04.001.
+Repo, A., Känkänen, R., Tuovinen, J.-P., Antikainen, R., Tuomi, M., Vanhala, P., Liski, J., 2012.
+Forest bioenergy climate impact can be improved by allocating forest residue removal.
+GCB Bioenergy 4, 202–212. https://doi.org/10.1111/j.1757-1707.2011.01124.x.
+Riegl, B.M., Sheppard, C.R.C., Purkis, S.J., 2012. Human impact on atolls leads to coral loss
+and community homogenisation: a modeling study. PLoS One 7, e36921. https://doi.
+org/10.1371/journal.pone.0036921.
+Roberts, C.M., O’Leary, B.C., Mccauley, D.J., Cury, P.M., Duarte, C.M., Lubchenco, J., Pauly, D.,
+Sáenz-Arroyo, A., Sumaila, U.R., Wilson, R.W., Worm, B., Castilla, J.C., 2017. Marine re-
+serves canmitigate and promote adaptation to climate change. Proc. Natl. Acad. Sci. U.
+S. A. https://doi.org/10.1073/pnas.1701262114.
+Rochman, C.M., Browne, M.A., Underwood, A.J., van Franeker, J.A., Thompson, R.C.,
+Amaral-Zettler, L.A., 2016. The ecological impacts of marine debris: unraveling the
+demonstrated evidence from what is perceived. Ecology 97, 302–312. https://doi.
+org/10.1890/14-2070.1.
+Roebroek, C.T.J., Harrigan, S., van Emmerik, T.H.M., Baugh, C., Eilander, D., Prudhomme, C.,
+Pappenberger, F., 2021. Plastic in global rivers: are ﬂoods making it worse? Environ.
+Res. Lett. 16, 025003. https://doi.org/10.1088/1748-9326/abd5df.
+Ross, L., Arrow, K., Cialdini, R., Diamond-Smith, N., Diamond, J., Dunne, J., Feldman, M.,
+Horn, R., Kennedy, D., Murphy, C., Pirages, D., Smith, K., York, R., Ehrlich, P., 2016.
+The climate change challenge and barriers to the exercise of foresight intelligence.
+Bioscience 66, 363–370. https://doi.org/10.1093/biosci/biw025.
+Rowlands, E., Galloway, T., Manno, C., 2021. A Polar outlook: potential interactions of
+micro- and nano-plastic with other anthropogenic stressors. Sci. Total Environ.
+https://doi.org/10.1016/j.scitotenv.2020.142379.
+Royer, S.-J., Ferrón, S., Wilson, S.T., Karl, D.M., 2018. Production of methane and ethylene
+from plastic in the environment. PLoS One 13, e0200574. https://doi.org/10.1371/
+journal.pone.0200574.
+Ryan, P.G., Schoﬁeld, A., 2020. Low densities of macroplastic debris in the Pitcairn Islands
+Marine Reserve. Mar. Pollut. Bull. 157, 111373. https://doi.org/10.1016/j.marpolbul.
+2020.111373.
+Sala, E., Mayorga, J., Bradley, D., Cabral, R.B., Atwood, T.B., Auber, A., Cheung, W., Costello,
+C., Ferretti, F., Friedlander, A.M., Gaines, S.D., Garilao, C., Goodell, W., Halpern, B.S.,
+Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., Morgan, L.E.,
+Mouillot, D., Palacios-Abrantes, J., Possingham, H.P., Rechberger, K.D., Worm, B.,
+Lubchenco, J., 2021. Protecting the global ocean for biodiversity, food and climate. Na-
+ture 1–6. https://doi.org/10.1038/s41586-021-03371-z.
+Sanchez-Vidal, A., Canals, M., de Haan, W.P., Romero, J., Veny, M., 2021. Seagrasses pro-
+vide a novel ecosystem service by trapping marine plastics. Sci. Rep. 11, 254.
+https://doi.org/10.1038/s41598-020-79370-3.
+Sanz-Lázaro, C., Casado-Coy, N., Beltrán-Sanahuja, A., 2021. Biodegradable plastics can
+alter carbon and nitrogen cycles to a greater extent than conventional plastics in ma-
+rine sediment. Sci. Total Environ. 756, 143978. https://doi.org/10.1016/j.scitotenv.
+2020.143978.
+Senko, J., Nelms, S., Reavis, J., Witherington, B., Godley, B., Wallace, B., 2020. Understand-
+ing individual and population-level effects of plastic pollution on marine megafauna.
+Endanger. Species Res. 43, 234–252. https://doi.org/10.3354/esr01064.
+Shen, L., Worrell, E., 2014. Plastic Recycling. Handbook of Recycling: State-of-the-Art for
+Practitioners, Analysts, and Scientists. Elsevier Inc., pp. 179–190. https://doi.org/10.
+1016/B978-0-12-396459-5.00013-1.
+Sheppard, C., Sheppard, A., Mogg, A., Bayley, D., Dempsey, A.C., Roche, R., Turner, J., Purkis,
+S., 2017. Coral bleaching and mortality in the Chagos Archipelago. Atoll Res. Bull.
+2017, 613. https://doi.org/10.5479/si.0077-5630.613.
+Sjollema, S.B., Redondo-Hasselerharm, P., Leslie, H.A., Kraak, M.H.S., Vethaak, A.D., 2016.
+Do plastic particles affect microalgal photosynthesis and growth? Aquat. Toxicol.
+170, 259–261. https://doi.org/10.1016/j.aquatox.2015.12.002.
+Spierling, S., Knüpffer, E., Behnsen, H., Mudersbach, M., Krieg, H., Springer, S., Albrecht, S.,
+Herrmann, C., Endres, H.J., 2018. Bio-based plastics - a review of environmental, social
+and economic impact assessments. J. Clean. Prod. 185, 476–491. https://doi.org/10.
+1016/j.jclepro.2018.03.014.
+Stafford, R., Jones, P.J.S., 2019. Viewpoint – ocean plastic pollution: a convenient but
+distracting truth? Mar. Policy 103, 187–191. https://doi.org/10.1016/j.marpol.2019.
+02.003.
+Stefanini, R., Borghesi, G., Ronzano, A., Vignali, G., 2020. Plastic or glass: a new environ-
+mental assessment with a marine litter indicator for the comparison of pasteurized
+milk bottles. Int. J. Life Cycle Assess. 1–18. https://doi.org/10.1007/s11367-020-
+01804-x.
+Stoett, P., Vince, J., 2019. The plastic-climate nexus: linking science, policy, and justice. Cli-
+mate Change and Ocean Governance: Politics and Policy for Threatened Seas. Cam-
+bridge University Press, pp. 345–361. https://doi.org/10.1017/9781108502238.021.
+Stuart-Smith, R.D., Brown, C.J., Ceccarelli, D.M., Edgar, G.J., 2018. Ecosystem restructuring
+along the Great Barrier Reef following mass coral bleaching. Nature 560, 92–96.
+https://doi.org/10.1038/s41586-018-0359-9.
+Stubbins, A., Law, K.L., Muñoz, S.E., Bianchi, T.S., Zhu, L., 2021. Plastics in the Earth system.
+Science
+<volume>373</volume>,
+51–55.
+https://doi.org/10.1126/SCIENCE.
+ABB0354.
+Sweetman, A.K., Thurber, A.R., Smith, C.R., Levin, L.A., Mora, C., Wei, C.L., Gooday, A.J.,
+Jones, D.O.B., Rex, M., Yasuhara, M., Ingels, J., Ruhl, H.A., Frieder, C.A., Danovaro, R.,
+Würzberg, L., Baco, A., Grupe, B.M., Pasulka, A., Meyer, K.S., Dunlop, K.M., Henry,
+L.A., Roberts, J.M., 2017. Major impacts of climate change on deep-sea benthic ecosys-
+tems. Elem. Sci. Anthr. 5. https://doi.org/10.1525/elementa.203.
+Tauﬁk, D., Reinders, M.J., Molenveld, K., Onwezen, M.C., 2020. The paradox between the
+environmental appeal of bio-based plastic packaging for consumers and their dis-
+posal behaviour. Sci. Total Environ. 705, 135820. https://doi.org/10.1016/j.scitotenv.
+2019.135820.
+Thompson, R., et al., 2005. "New directions in plastic debris." Science, vol. 310, no. 5751,
+2005, p. 1117. Gale OneFile: Health and Medicine.
+link.gale.com/apps/doc/
+A139600873/HRCA?u=anon~7fcc8093&sid=googleScholar&xid=236d19e9.
+(Accessed 17 September 2021).
+Thushari, G.G.N., Senevirathna, J.D.M., 2020. Plastic pollution in the marine environment.
+Heliyon. https://doi.org/10.1016/j.heliyon.2020.e04709.
+Triessnig, P., Roetzer, A., Stachowitsch, M., 2012. Beach condition and marine debris: new
+hurdles for sea turtle Hatchling Survival. Chelonian Conserv. Biol. 11, 68–77. https://
+doi.org/10.2744/CCB-0899.1.
+Ummenhofer, C.C., Meehl, G.A., 2017. Extreme weather and climate events with ecologi-
+cal relevance: a review. Philos. Trans. R. Soc. B Biol. Sci. https://doi.org/10.1098/rstb.
+2016.0135.
+Valderrama Ballesteros, L., Matthews, J.L., Hoeksema, B.W., 2018. Pollution and coral dam-
+age caused by derelict ﬁshing gear on coral reefs around Koh Tao, Gulf of Thailand.
+Mar. Pollut. Bull. 135, 1107–1116. https://doi.org/10.1016/j.marpolbul.2018.08.033.
+Van Hooidonk, R., Maynard, J., Grimsditch, G., Williams, G., Tamelander, J., Gove, J.,
+Koldewey, H., Ahmadia, G., Tracey, D., Hum, K., Conklin, E., Berumen, M., 2020. Projec-
+tions of Future Coral Bleaching Conditions Using IPCC CMI6 Models: Climate Policy
+Implications Management Applications and Regional Seas Summaries.
+Van Sebille, E., Aliani, S., Law, K.L., Maximenko, N., Alsina, J.M., Bagaev, A., Bergmann, M.,
+Chapron, B., Chubarenko, I., Cózar, A., Delandmeter, P., Egger, M., Fox-Kemper, B.,
+Garaba, S.P., Goddijn-Murphy, L., Hardesty, B.D., Hoffman, M.J., Isobe, A., Jongedijk,
+C.E., Kaandorp, M.L.A., Khatmullina, L., Koelmans, A.A., Kukulka, T., Laufkötter, C.,
+Lebreton, L., Lobelle, D., Maes, C., Martinez-Vicente, V., Morales Maqueda, M.A.,
+Poulain-Zarcos, M., Rodríguez, E., Ryan, P.G., Shanks, A.L., Shim, W.J., Suaria, G.,
+Thiel, M., Van Den Bremer, T.S., Wichmann, D., 2020. The physical oceanography of
+the transport of ﬂoating marine debris. Environ. Res. Lett. https://doi.org/10.1088/
+1748-9326/ab6d7d.
+Vergés, A., McCosker, E., Mayer-Pinto, M., Coleman, M.A., Wernberg, T., Ainsworth, T.,
+Steinberg, P.D., 2019. Tropicalisation of temperate reefs: implications for ecosystem
+functions and management actions. Funct. Ecol. 33, 1000–1013. https://doi.org/10.
+1111/1365-2435.13310.
+Vicedo-Cabrera, A.M., Scovronick, N., Sera, F., Royé, D., Schneider, R., Tobias, A., Astrom, C.,
+Guo, Y., Honda, Y., Hondula, D.M., Abrutzky, R., Tong, S., Coelho, M.de S.Z.S., Saldiva,
+P.H.N., Lavigne, E., Correa, P.M., Ortega, N.V., Kan, H., Osorio, S., Kyselý, J., Urban, A.,
+Orru, H., Indermitte, E., Jaakkola, J.J.K., Ryti, N., Pascal, M., Schneider, A.,
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+10
+Katsouyanni, K., Samoli, E., Mayvaneh, F., Entezari, A., Goodman, P., Zeka, A.,
+Michelozzi, P., de'Donato, F., Hashizume, M., Alahmad, B., Diaz, M.H., Valencia,
+C.D.L.C., Overcenco, A., Houthuijs, D., Ameling, C., Rao, S., Di Ruscio, F., Carrasco-
+Escobar, G., Seposo, X., Silva, S., Madureira, J., Holobaca, I.H., Fratianni, S., Acquaotta,
+F., Kim, H., Lee, W., Iniguez, C., Forsberg, B., Ragettli, M.S., Guo, Y.L.L., Chen, B.Y., Li,
+S., Armstrong, B., Aleman, A., Zanobetti, A., Schwartz, J., Dang, T.N., Dung, D.V.,
+Gillett, N., Haines, A., Mengel, M., Huber, V., Gasparrini, A., 2021. The burden of
+heat-related mortality attributable to recent human-induced climate change. Nat.
+Clim. Chang. 19, 59. https://doi.org/10.1038/s41558-021-01058-x.
+Villarrubia-Gómez, P., Cornell, S.E., Fabres, J., 2018. Marine plastic pollution as a planetary
+boundary threat – the drifting piece in the sustainability puzzle. Mar. Policy 96,
+213–220. https://doi.org/10.1016/j.marpol.2017.11.035.
+Vitousek, S., Barnard, P.L., Fletcher, C.H., Frazer, N., Erikson, L., Storlazzi, C.D., 2017. Dou-
+bling of coastal ﬂooding frequency within decades due to sea-level rise. Sci. Rep. 7,
+1–9. https://doi.org/10.1038/s41598-017-01362-7.
+Wang, J., Lu, L., Wang, M., Jiang, T., Liu, X., Ru, S., 2019. Typhoons increase the abundance
+of microplastics in the marine environment and cultured organisms: a case study in
+Sanggou Bay, China. Sci. Total Environ. 1–8. https://doi.org/10.1016/j.scitotenv.2019.
+02.367.
+Wang, X., Huang, W., Wei, S., Shang, Y., Gu, H., Wu, F., Lan, Z., Hu, M., Shi, H., Wang, Y.,
+2020. Microplastics impair digestive performance but show little effects on antioxi-
+dant activity in mussels under low pH conditions. Environ. Pollut. 258, 113691.
+https://doi.org/10.1016/j.envpol.2019.113691.
+Weber, A., Jeckel, N., Wagner, M., 2020. Combined effects of polystyrene microplastics and
+thermal stress on the freshwater mussel Dreissena polymorpha. Sci. Total Environ.
+718, 137253. https://doi.org/10.1016/j.scitotenv.2020.137253.
+Welden, N.A.C., Lusher, A.L., 2017. Impacts of changing ocean circulation on the distribu-
+tion of marine microplastic litter. Integr. Environ. Assess. Manag. https://doi.org/10.
+1002/ieam.1911.
+Wernberg, T., Smale, D.A., Thomsen, M.S., 2012. A decade of climate change experiments
+on marine organisms: procedures, patterns and problems. Glob. Chang. Biol. 18,
+1491–1498. https://doi.org/10.1111/j.1365-2486.2012.02656.x.
+Woodall, L.C., Sanchez-Vidal, A., Canals, M., Paterson, G.L.J., Coppock, R., Sleight, V., Calafat,
+A., Rogers, A.D., Narayanaswamy, B.E., Thompson, R.C., 2014. The deep sea is a major
+sink for microplastic debris. R. Soc. Open Sci. 1, 140317. https://doi.org/10.1098/rsos.
+140317.
+Wyles, K.J., Pahl, S., Thomas, K., Thompson, R.C., 2016. Factors that can undermine the psy-
+chological beneﬁts of coastal environments: exploring the effect of tidal state, pres-
+ence, and type of litter. Environ. Behav. 48, 1095–1126. https://doi.org/10.1177/
+0013916515592177.
+Wyles, K.J., Pahl, S., Holland, M., Thompson, R.C., 2017. Can beach cleans do more than
+clean-up litter? Comparing beach cleans to other coastal activities. Environ. Behav.
+49, 509–535. https://doi.org/10.1177/0013916516649412.
+Yang, Y., Guo, Y., O’Brien, A.M., Lins, T.F., Rochman, C.M., Sinton, D., 2020. Biological re-
+sponses to climate change and nanoplastics are altered in concert: Full-factor screen-
+ing reveals effects of multiple stressors on primary producers. Environ. Sci. Technol.
+54 (4), 2401–2410.
+Zettler, E.R., Mincer, T.J., Amaral-Zettler, L.A., 2013. Life in the “plastisphere”: microbial
+communities on plastic marine debris. Environ. Sci. Technol. 47, 7137–7146.
+https://doi.org/10.1021/es401288x.
+Zheng, J., Suh, S., 2019. Strategies to reduce the global carbon footprint of plastics. Nat.
+Clim. Chang. https://doi.org/10.1038/s41558-019-0459-z.
+H.V. Ford, N.H. Jones, A.J. Davies et al.
+Science of the Total Environment 806 (2022) 150392
+11
