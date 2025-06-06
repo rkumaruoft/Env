@@ -17,7 +17,6 @@ def main():
 # ─── Configuration ─────────────────────────────────────────────────────────────
 # Path to the txt file containing one PDF URL per line:
 LINKS_FILE = "/existing_pdf_links.txt"
-# (We no longer need OUTPUT_FILE, since we return a Python object)
 
 
 # ─── Extraction logic ──────────────────────────────────────────────────────────
