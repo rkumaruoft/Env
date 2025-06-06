@@ -6,7 +6,7 @@ import os
 
 
 class GeminiMetadataExtractor:
-    def __init__(self, api_key_path="gemini_api_key.txt"):
+    def __init__(self, api_key_path='gemini_api_key.txt'):
         self.api_key = self._load_api_key(api_key_path)
         if not self.api_key:
             raise ValueError("API key not found in environment or provided file.")
@@ -46,7 +46,7 @@ class GeminiMetadataExtractor:
         )
         return response.text
 
-    def process_directory(self, directory='extracted_text', output_file='db_output.json'):
+    def process_directory(self, directory='../extracted_text', output_file='db_output.json'):
         db_entries = []
         for entry in os.scandir(directory):
             if entry.is_file():
@@ -97,4 +97,3 @@ class GeminiMetadataExtractor:
 
 if __name__ == "__main__":
     extractor = GeminiMetadataExtractor()
-    extractor.process_directory()

@@ -10,19 +10,20 @@ from typing import Optional, List
 # Patch for nested event loops (Spyder/Jupyter)
 try:
     import nest_asyncio  # pip install nest_asyncio
+
     nest_asyncio.apply()
 except ImportError:
     pass
 
 # ─── Configurations ────────────────────────────────────────────────────────────
-START_SITEMAP    = "https://www.toronto.ca/sitemap.xml"
-DOMAIN           = "toronto.ca"
-CONCURRENCY      = 10    # concurrent HTML page fetches
-PDF_CONCURRENCY  = 5     # concurrent PDF link processing
-UA               = "Sitemap_Scraper/1.2"
-LINKS_FILE       = "/scraping/existing_pdf_links.txt"
+START_SITEMAP = "https://www.toronto.ca/sitemap.xml"
+DOMAIN = "toronto.ca"
+CONCURRENCY = 10  # concurrent HTML page fetches
+PDF_CONCURRENCY = 5  # concurrent PDF link processing
+UA = "Sitemap_Scraper/1.2"
+LINKS_FILE = "/scraping/existing_pdf_links.txt"
 # Keywords used to filter which page URLs to process for PDF links
-KEYWORDS         = [
+KEYWORDS = [
     "Climate", "Adaptation", "Mitigation", "Emissions",
     "LENZ", "PollinateTO", "Eco-Roof", "Green",
     "Forestry", "TransformTO", "Waste", "Heat", "Cool",
@@ -36,7 +37,7 @@ rp.read()
 
 # ─── In-memory state ───────────────────────────────────────────────────────────
 visited_pages = BloomFilter(max_elements=200000, error_rate=0.001)
-found_pdfs    = set()
+found_pdfs = set()
 
 # ─── Load existing links ────────────────────────────────────────────────────────
 if os.path.isfile(LINKS_FILE):
@@ -47,13 +48,16 @@ if os.path.isfile(LINKS_FILE):
                 found_pdfs.add(link)
 existing_count = len(found_pdfs)  # track how many were present before crawling
 
+
 # ─── Helpers ─────────────────────────────────────────────────────────────────────
 def is_pdf_url(url: str) -> bool:
     return url.lower().endswith('.pdf')
 
+
 def is_relevant_url(url: str) -> bool:
     low = url.lower()
     return any(kw.lower() in low for kw in KEYWORDS)
+
 
 async def fetch_xml(session: aiohttp.ClientSession, url: str) -> Optional[ET.Element]:
     if not rp.can_fetch(UA, url):
@@ -66,6 +70,7 @@ async def fetch_xml(session: aiohttp.ClientSession, url: str) -> Optional[ET.Ele
             return ET.fromstring(text)
     except Exception:
         return None
+
 
 async def collect_sitemap_urls(session: aiohttp.ClientSession, sitemap_url: str) -> List[str]:
     """
@@ -85,6 +90,7 @@ async def collect_sitemap_urls(session: aiohttp.ClientSession, sitemap_url: str)
             urls.append(loc.text.strip())
     return urls
 
+
 async def process_pdf_link(url: str) -> None:
     """
     Record a PDF URL if it passes relevance checks.
@@ -94,6 +100,7 @@ async def process_pdf_link(url: str) -> None:
     if url in found_pdfs:
         return
     found_pdfs.add(url)
+
 
 async def main() -> None:
     # 1) collect all URLs from sitemap
@@ -133,6 +140,7 @@ async def main() -> None:
 
     new_count = len(found_pdfs) - existing_count
     print(f"✔️ Total PDF links: {len(found_pdfs)}; {new_count} new appended; saved to {LINKS_FILE}")
+
 
 if __name__ == '__main__':
     asyncio.run(main())
