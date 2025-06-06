@@ -16,9 +16,8 @@ def main():
 
 # ─── Configuration ─────────────────────────────────────────────────────────────
 # Path to the txt file containing one PDF URL per line:
-LINKS_FILE = "/scraping/existing_pdf_links.txt"
+LINKS_FILE = "/existing_pdf_links.txt"
 # (We no longer need OUTPUT_FILE, since we return a Python object)
-# OUTPUT_FILE = "/scraping/pdf_text_extract.txt"
 
 
 # ─── Extraction logic ──────────────────────────────────────────────────────────
@@ -62,21 +61,3 @@ def get_all_pdf_texts(links_filepath: str) -> list:
             continue
 
     return results
-
-
-def main() -> list:
-    """
-    If you run this script directly, `main()` will be called and return
-    the list of [text, url] pairs. You can capture that return value
-    or print it to the console / write it to JSON—whichever suits you.
-    """
-    return get_all_pdf_texts(LINKS_FILE)
-
-
-if __name__ == "__main__":
-    all_pdfs = main()
-    # For demonstration, we’ll just print how many we got and their URLs.
-    print(f"✔️ Extracted text from {len(all_pdfs)} PDF(s):")
-    for idx, (_text, url) in enumerate(all_pdfs, start=1):
-        print(f"  {idx}. {url}")
-
