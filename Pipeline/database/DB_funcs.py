@@ -28,7 +28,8 @@ class ClimateDB:
             authors TEXT,
             date TEXT,
             doi TEXT,
-            publishing_organization TEXT
+            publishing_organization TEXT,
+            relevancy DECIMAL
         )
         """)
         self.conn.commit()

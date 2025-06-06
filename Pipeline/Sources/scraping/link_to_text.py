@@ -2,6 +2,7 @@ import os
 import requests
 from pypdf import PdfReader
 import io
+
 """
 to use this in another place,
 from pdf_link_to_text import get_all_pdf_texts
