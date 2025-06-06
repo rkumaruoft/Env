@@ -1,0 +1,698 @@
+Towards a Net Zero Cement: Strategic Policies and Systems Thinking for a Low-Carbon Future | Current Sustainable/Renewable Energy Reports
+Skip to main content
+Advertisement
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Current Sustainable/Renewable Energy Reports
+Article
+Towards a Net Zero Cement: Strategic Policies and Systems Thinking for a Low-Carbon Future
+Review
+Open access
+Published:
+01 March 2025
+Volume 12
+, article number
+5
+, (
+2025
+)
+Cite this article
+Download PDF
+You have full access to this
+open access
+article
+Current Sustainable/Renewable Energy Reports
+Aims and scope
+Submit manuscript
+Towards a Net Zero Cement: Strategic Policies and Systems Thinking for a Low-Carbon Future
+Download PDF
+Sanjeev Kumar
+1
+,
+Ankita Gangotra
+2
+&
+Michael Barnard
+3
+2799
+Accesses
+14
+Altmetric
+2
+Mentions
+Explore all metrics
+Abstract
+Purpose of Review
+The cement industry, responsible for 7–8% of global greenhouse gas (GHG) emissions, faces growing pressure to mitigate its environmental impact while maintaining its critical role in global infrastructure and economic development. This report explores comprehensive strategies to decarbonize the sector, emphasizing the integration of innovative technologies, sustainable practices, and robust policy frameworks.
+Recent Findings
+Key technological solutions include carbon capture, utilization, and storage (CCUS); electrification of heat; adoption of alternative fuels; and the utilization of supplementary cementitious materials (SCMs) such as calcined clays and alternative materials. Additionally, emerging advancements like 3D printing, CO₂ mineralization, and biobased materials promise to revolutionize construction methods while reducing emissions. Policy interventions such as carbon pricing, cap-and-trade systems, research grants, tax incentives, and regulatory standards play a pivotal role in enabling this transition. Demand-side measures, including sustainable construction practices, recycling, and green procurement policies, further drive industry-wide adoption of low-carbon solutions.
+Summary
+Through a systems-thinking approach, this paper advocates for reducing material intensity across all stages of production and design, leveraging circular economy principles, and fostering resilient, low-carbon construction. Highlighting global initiatives, the study offers actionable insights for achieving net-zero targets in the cement industry by aligning stakeholders across the value chain to drive climate action while promoting equity, environmental justice, and economic sustainability.
+Similar content being viewed by others
+Decarbonization pathways promote improvements in cement quality and reduce the environmental impact of China’s cement industry
+Article
+Open access
+19 December 2024
+Environmental impacts and decarbonization strategies in the cement and concrete industries
+Article
+22 September 2020
+Circular Cement Decarbonisation: Towards a Net-Zero Built Environment
+Chapter
+© 2024
+Explore related subjects
+Discover the latest articles and news from researchers in related subjects, suggested using machine learning.
+Calcium-based cement
+Climate Change Mitigation
+Climate-Change Policy
+Climate Change Management
+Concrete
+Industry 4.0
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Introduction
+The cement industry, a cornerstone of modern infrastructure and urban development, is under increasing scrutiny for its considerable environmental impact. Essential for constructing buildings, roads, and bridges, cement production plays a crucial role in facilitating global economic growth. However, this growth comes at a significant environmental cost. The cement sector is responsible for approximately 7–8% of global greenhouse gas (GHG) emissions, expressed in CO₂-equivalents, making it a major contributor to climate change [
+1
+].
+This substantial carbon footprint stems primarily from the energy-intensive processes of clinker production and limestone calcination. Emission sources in cement manufacturing are distributed as follows: roughly 50% of GHG emissions arise from raw materials, 40% from fuel combustion, 5% from electricity consumption, and the remaining 5% from transportation [
+2
+].
+Amid growing climate change concerns, decarbonizing the cement industry has become an urgent imperative. Achieving net-zero emissions by mid-century demands robust policy frameworks, innovative technologies, and collaborative efforts across the industry. Many governments, industry and think tank led technology roadmaps have been developed for carbon neutrality in the cement sector which all present a multifaceted approach including integrating supplementary cementitious materials (SCMs), alternative fuels, energy efficiency, carbon capture technologies, and innovative cement formulations, alongside sustainable construction practices to drastically reduce the sector’s carbon footprint and align with global climate objectives [
+2
+,
+3
+,
+4
+,
+5
+]. Cement mix innovations, including the use of supplementary cementitious materials and reductions in clinker content, are readily available technologies vital to lowering the carbon footprint without compromising performance. The transition to alternative fuels, such as biomass and waste-derived fuels, offers a dual benefit by significantly reducing greenhouse gas emissions and addressing landfill waste challenges [
+6
+]. Complementing these efforts, carbon capture, utilization, and storage (CCUS) technologies provide a high-impact solution by capturing CO₂ emissions directly at industrial sources, effectively mitigating their release into the atmosphere [
+7
+]. Moreover, carbon mineralization, a cutting-edge technique that reacts CO₂ with alkaline materials to form stable carbonates, presents a durable and scalable pathway for emission reduction. This process not only permanently sequesters carbon but also enables the valorization of industrial waste streams or the productive use of captured CO₂ in construction materials and other applications [
+8
+]. In tandem, the electrification of cement production, driven by renewable energy sources, introduces a transformative opportunity to decouple emissions from energy consumption. By replacing fossil fuel-based thermal energy with electricity from renewable sources the cement industry can significantly reduce its carbon footprint while energy efficiency and supporting the global transition to sustainable energy systems [
+9
+].
+In the construction phase, optimizing concrete mixes to meet specific project needs, utilizing renewable energy sources, and incorporating recycled materials can significantly cut emissions [
+10
+,
+11
+]. Avoiding overdesign through precision engineering, leveraging just-in-time deliveries, and embracing advanced construction technologies also contribute to emissions reductions [
+12
+]. Educating the design and construction community to prioritize performance-based specifications fosters innovation in sustainable cement and concrete solutions, enhancing structural performance, energy efficiency, and resilience, while enabling carbon sequestration. In the long term, energy-efficient buildings constructed with low-carbon cement would reduce operational emissions, while concrete’s durability would reduce the need for frequent maintenance, extending infrastructure lifespans and lowering associated emissions. Concrete, while highly recyclable, may not be 100% recyclable in all cases due to factors such as contamination, material degradation, and the limitations of current recycling technologies. However, it can often be reused in new projects, such as in the form of recycled aggregates, which helps minimize the need for raw material extraction and reduces production emissions.
+To ensure these technological advancements achieve their full potential, robust policy frameworks are essential to accelerate the cement industry’s transition toward sustainability. Governments and international bodies must implement stringent carbon pricing mechanisms, enforce emissions standards, and incentivize research and development in sustainable cement technologies. Moreover, a paradigm shifts in how cement is utilized is essential. Researchers should keep proposing a fundamental shift in the construction sector that centers on reducing the material intensity at every level—starting with less clinker in cement [
+13
+], less cement in concrete [
+14
+], less concrete in structures, and ultimately fewer structures overall. This approach targets multiple points of the production and design process to incrementally reduce the environmental footprint of cement. Furthermore, minimizing the need for new construction through better urban planning [
+15
+] and repurposing existing structures [
+16
+] also plays a critical role. These strategies, when combined, represent a holistic approach to reducing the resource demands and environmental impacts associated with the built environment.
+The transition to sustainability in the cement industry requires active engagement from manufacturers, policymakers, builders, and consumers. This report highlights transformative pathways, including advanced production technologies, innovative cement use strategies, impactful policies, global collaboration, and capacity-building initiatives to drive meaningful change.
+Production Technology Solutions
+This section highlights key solutions such as mineralization, carbon capture utilization and storage (CCUS), supplementary cementitious materials (SCMs), electrification, clean heat, and alternative fuels (Fig.
+1
+). These technologies aim to reduce carbon emissions and enhance resource efficiency in cement and construction material production.
+SCMs and Novel Materials
+The transition to a low-carbon cement industry is increasingly focused on reducing emissions through innovative materials and technologies. Supplementary cementitious materials (SCMs) have emerged as a cornerstone of this shift, offering an effective, cost-efficient means to lower the clinker content in cement production while maintaining performance. Established SCMs, such as fly ash, silica fume, and natural pozzolans, have long been integrated into production practices due to their availability and compatibility. However, as these traditional sources become scarcer, there is an urgent need to optimize their use and encourage adoption in regions that have been slower to embrace these solutions [
+17
+,
+18
+,
+19
+].
+To address this challenge, the industry is exploring emerging SCMs such as calcined clays, recycled glass, and reclaimed coal ash. Among these calcined clay stands out as one promising solution as it capitalizes on the synergistic reaction between metakaolin and limestone powder, enabling a reduction in clinker content by up to 50% and cutting CO₂ emissions by 40% [
+20
+]. However, to fully unlock the potential of calcined clay and other materials, advanced beneficiation techniques are essential to ensure performance consistency across diverse applications. Policymakers and industry leaders must play a crucial role in funding research, incentivizing innovation, and establishing performance-based standards that expand the recognized portfolio of low-carbon materials.
+In addition to SCMs, alkali-activated materials (AAMs), including geopolymers, offer a compelling alternative to traditional Portland cement. These materials use industrial by-products like fly ash, slag, and metakaolin to significantly reduce carbon emissions while delivering exceptional mechanical strength and chemical durability [
+21
+]. Around the globe, AAMs are being increasingly adopted: in Australia, they are used in infrastructure projects; in the Netherlands, precast concrete products incorporate AAMs to meet sustainability goals; and in India, they are applied in road construction and housing projects due to the country’s abundant fly ash resources [
+22
+]. Despite their potential, wider adoption of AAMs requires the development of low-cost, carbon-efficient activators and tailored mix designs to suit diverse construction needs.
+The path to a low-carbon future in the cement industry also relies on novel cement technologies. Companies like Brimstone Energy and Sublime Systems are working to pioneer solutions that to compliment that of traditional cement production [
+23
+]. Brimstone Energy focuses on producing clinker-free binders using calcium silicate precursor and Sublime Systems is developing an electrified cement production process powered using renewable energy, trying to decouple emissions from the standard manufacturing process.
+Electrification in Cement Production
+Electrification of process heat in cement production, particularly powered by renewable sources, has the potential to substantially reduce the sector’s carbon footprint. Transitioning from traditional fossil fuel-based heat sources to electric systems can address one of the largest contributors to CO₂ emissions in the cement industry. This shift can be enabled by advanced technologies such as heat batteries, plasma burners, resistive heating systems, and microwave-based calcination processes, which are currently under development or in early stages of deployment [
+24
+]. However, this transition requires robust policy frameworks to incentivize the adoption of electrification technologies and ensure the development of infrastructure for a stable and reliable renewable energy supply [
+25
+]. Countries like Sweden and Norway have made significant progress in this area, integrating renewable electricity into industrial processes, supported by strong governmental commitments to carbon neutrality [
+26
+]. Scaling this solution will require collaborative efforts among policymakers, energy providers, and cement producers to overcome technical, infrastructure, and economic barriers while ensuring long-term sustainability.
+Fig. 1
+Sustainable construction framework showcasing production solutions (mineralization, CCUS, SCMs, electrification, and alternative fuels) and use-phase solutions (optimized use, sustainable practices, and biobased materials)
+Full size image
+Alternative Fuels and Biomass
+Utilizing biomass from agricultural residue and waste-derived fuels (WDF), and refuse-derived fuels (RDF), which are produced from non-recyclable materials like plastics and rubber, not only decreases greenhouse gas emissions but also diverts waste from landfills and incineration, thereby addressing waste management challenges. Co-processing these waste materials in cement kilns, which operate at high temperatures ensuring complete combustion, provides a sustainable solution by reducing landfill dependency and minimizing environmental pollution [
+27
+]. For instance, the European cement industry has significantly increased its use of alternative fuels, achieving substitution rates exceeding 40% in some regions, supported by policies such as landfill taxes and incentives for waste-to-energy projects [
+28
+]. Research indicates that employing RDF can lead to a 20% reduction in CO₂ emissions, while the use of biomass can achieve net reductions ranging from 30 to 50%, depending on the specific fuel type and associated logistics [
+20
+]. To scale these efforts effectively, it is essential to invest in infrastructure for waste collection and processing, conduct research and development to optimize kiln operations for alternative fuels, and implement supportive policies that promote a circular economy.
+Carbon Mineralization
+Carbon mineralization is a process that captures CO₂ and reacts it with suitable minerals, such as calcium or magnesium oxides, to form stable and inert carbonates [
+29
+,
+30
+]. This technique holds significant potential for reducing the carbon footprint of cement production by integrating CO₂ sequestration into the production and curing phases of concrete. During curing, CO₂ can be introduced into concrete mixtures, where it reacts with calcium hydroxide to form calcium carbonate, enhancing the material’s strength while permanently storing carbon [
+31
+]. Early-stage technologies, such as direct CO₂ injection into concrete during curing, further enhance the feasibility of mineralization in large-scale applications. Implementing this solution on a global scale will require robust policy support, increased research funding, and collaborative efforts across the construction and cement industries to address challenges such as CO₂ supply logistics and cost barriers.
+Carbon Capture, Utilization, and Storage (CCUS)
+CCUS technology can be pivotal in reducing CO₂ emissions, particularly for cement plants near suitable sequestration sites. Since the economic viability of CCUS is currently limited by high costs and logistical challenges, its application may be restricted at first to niche areas where these barriers are minimal [
+32
+]. However, cement decarbonization roadmaps include CCUS among a critical decarbonization technology, attributing between 35 and 60% emissions reduction to the technology depending on the roadmap in a net-zero scenario [
+2
+,
+3
+,
+4
+,
+24
+]. Continued research and development are necessary to enhance the scalability and cost-effectiveness of CCUS technologies.
+Cement Use Solutions
+Figure
+1
+also emphasizes sustainable solutions for the use phase of cement, focusing on optimized material usage, sustainable construction practices, and the adoption of biobased materials. These strategies aim to minimize environmental impact during the lifecycle of cement-based products by encouraging efficient utilization, recycling, and greener building practices.
+Optimizing Concrete Use
+The cement industry is embracing advanced technologies like digitalization and artificial intelligence (AI) to drive efficiency and reduce environmental impacts. AI is playing a pivotal role in optimizing mix designs [
+33
+], facilitating the use of recycled aggregates, and minimizing excess use of binders and raw materials. Material optimization, such as fine-tuning pore sizes in cementitious materials, further enhances durability while reducing resource consumption [
+34
+].
+Emerging construction technologies, such as advanced 3D printing methods, present innovative opportunities for enhancing sustainability in the cement industry [
+35
+]. However, these methods often demand higher cement content compared to traditional construction practices. To achieve sustainability goals, it is crucial to carefully control and optimize cement usage in 3D printing and other novel construction solutions. By refining material formulations and incorporating insights from conventional practices, the industry can reduce excessive material use while ensuring strength and durability. Notably, many recent developments in 3D printing utilize mortar-based mixes that exclude larger aggregates, further increasing the cement demand in printable formulations [
+36
+]. The shift towards more efficient aggregates included mix designs, highlights the potential for 3D printing to contribute to sustainable construction practices while balancing innovation with resource efficiency. Policies should prioritize optimizing material use and fostering the transition to sustainable construction practices by encouraging innovation, research, and the adoption of advanced technologies. This includes supporting the development of alternative materials, such as low-carbon binders and recycled aggregates, and incentivizing their integration into mainstream construction.
+Sustainable Construction Practices
+During the last decade, interest in energy-efficient concrete surged, with several nations like EU, U.S., India and Australia leading advancements in sustainable construction. Research emphasized eco-friendly solutions like recycled aggregates, supplementary cementitious materials, air voids for porosity, and phase change materials for insulation—though cost concerns persist [
+37
+]. Promoting sustainable construction practices, such as prolonging the life and reuse of buildings and the use of advanced materials that can enhance durability, can substantially lower the demand for cement [
+38
+]. These practices should be integrated into construction codes and standards to drive long-term industry transformation. The Leadership in Energy and Environmental Design (LEED) certification provides a model for incorporating sustainability into construction standards [
+39
+].
+Biobased Materials
+Bio-based construction materials, leveraging organic and renewable resources such as bio-concrete, bio-aggregates, and polymer-enhanced bio-binders are gaining traction for their ability to repurpose waste, improve insulation, and achieve structural performance [
+40
+]. Policies like the EU Renewable Energy Directive and support from initiatives like the UN Sustainable Development Goals are driving their adoption [
+41
+,
+42
+]. Practical applications are expanding globally, with Scandinavia working on modular bio-based homes [
+43
+], while nations like India and Brazil incorporate agricultural by-products in affordable housing projects [
+44
+].
+Cement Production Policies
+Research and Development Grants
+Investment in research and development (R&D) is critical for advancing technologies like carbon capture, utilization, and storage (CCUS), alternative fuels, and novel cements. Government-funded R&D grants can bridge the gap between laboratory research and commercial applications, accelerating the deployment of innovative solutions. This approach is exemplified by the U.S. Department of Energy’s $6.3 billion funding announced in 2024 under the Industrial Demonstrations Program for 33 projects across the U.S. to decarbonize the industrial sector. Within IDP the largest share of the total funding ($1.6 billion) has been earmarked for six projects in the cement sector which will mitigate 4 million tons CO
+2
+/ year [
+45
+]. The Concrete and Asphalt Innovation Act proposal in the U.S. Senate is yet another example of an R&D policy gaining momentum which would enhance research and development, demonstration and commercial applications for low-emissions concrete and asphalt [
+46
+].
+Tax Credits and Incentives
+Offering tax credits for investments in energy-efficient equipment and emerging green technologies can lower the initial cost barriers for companies, in turn allowing such decarbonization technologies to scale [
+8
+]. For example, 48 C Investment Tax Credit in the U.S. provides $10 billion for up to 30% of qualified investment in projects on manufacturing clean energy components, industrial decarbonization and critical minerals [
+47
+]. For industrial decarbonization, retrofit projects would need to be 20% lower in GHG emissions to be eligible for the tax credit. The U.S. The Department of Energy also expanded eligibility of “Advanced Energy Property” projects to include new industrial facilities, including new cement facilities, with GHG emissions at least 30% below an industry average.
+Demand-Side Levers
+Green Public Procurement
+Governments can lead by example through public procurement policies that prioritize low-carbon building materials. Requiring the use of low-carbon cement in public construction projects can create significant demand for sustainable products and drive industry-wide change [
+48
+]. The EU’s Green Public Procurement (GPP) guidelines highlight how public procurement can promote environmental sustainability [
+49
+]. In the U.S. public construction projects account for roughly 46% of cement use [
+50
+]. To leverage the vast buying power of the government, the Federal Buy Clean Initiative was launched in 2021 to prioritize purchase of low-emissions concrete, steel, asphalt, and flat glass in public construction projects [
+50
+,
+51
+]. In 2024, Ireland mandated green procurement of cement in all publicly funded construction projects by requiring an at least 30% l plan replacement of clinker and banning the use of high-emissions CEM I cement unless technically required [
+52
+].
+Advance Market Commitments
+Another type of procurement mechanism is advance market commitments (AMCs), also known as “advance purchase agreements,” are contractual agreements for the future purchase of products that are still under development [
+53
+]. An AMC undertaken by governments or private sponsors can help guarantee a buyer for emerging low-carbon cement. These can help scale the deployment of emerging technologies and derisk additional investments, by providing cement producers with demand guarantees or offtake agreements.
+A key example of an effort leveraging AMCs in the private sector is World Economic Forum’s First Movers’ Coalition (FMC). FMC is a public-private partnership that was launched in 2021 and currently consists of over 96 global companies, each of which has committed to using their purchasing power to create markets in at least one of seven key sectors [
+54
+]. So far, seven companies have committed to the cement and concrete sector target. AMCs have also been proposed for public procurement. The recently proposed Concrete and Asphalt Innovation Act in the Senate and IMPACT Act 2.0 in the House provide a bipartisan and bicameral package that would give the federal Department of Transportation (DOT) authority to coordinate AMCs between state and local agencies and producers of low-emissions cement and concrete [
+55
+].
+Cap-and-Trade Systems
+Cap-and-trade systems is a type of compliance mechanism that establish a market for carbon emissions, allowing companies to buy and sell emission permits. This market-based approach encourages cost-effective emission reductions and promotes innovation in low-carbon technologies [
+56
+]. The European Union Emissions Trading System (EU ETS) is a prominent example of how cap-and-trade can drive emission reductions in the cement sector [
+57
+]. However, due to concerns over carbon leakage, i.e. a shift in production to less regulated countries, free allocations in the EU ETS have led to windfall profits. For example, one study estimates that between 2008 and 2015 the cement sector in Europe made €5 billion in profits due to a combination of allowance surpluses, offsets, and cost pass-throughs [
+58
+]. To counteract this issue of the ETS, the EU adopted the carbon border adjustment mechanism (CBAM), which aims to put a price on the emissions of carbon-intensive imports and will go into effect from 2026 [
+59
+]. Other jurisdictions such as the UK and US are also in the process of developing or proposing similar carbon border adjustments [
+60
+]. However, some developing countries have expressed concerns that CBAM is an exclusionary trade measure [
+61
+]. Other programs such as the California Cap-and-Trade continue to have free allowances for the cement sector albeit with a declining “cap” i.e. emissions benchmark [
+62
+].
+Carbon Taxes
+Implementing carbon taxes as compliance mechanisms can drive substantial reductions in CO₂ emissions by making it financially advantageous for companies to adopt cleaner technologies. By directly imposing a cost on CO₂ emissions, carbon taxes create a clear economic signal that incentivizes emission reduction and sustainable practices [
+63
+]. Very few jurisdictions around the world have imposed a direct carbon tax on the cement sector. These include South Africa and certain provinces in Canada such as British Columbia and Ontario [
+64
+]. However, carbon taxes can disproportionately impact poorer households, who face higher energy costs and greater income losses, while wealthier households are less affected. Targeted fiscal policies, such as subsidies or transfers, can help offset these inequities while ensuring emissions reductions are achieved.
+Regulatory Standards and Mandates
+Emission Reduction Targets
+Establishing clear, legally binding targets for CO₂ emissions reduction provides long-term direction and certainty for the cement industry. These targets must be ambitious yet achievable, aligned with both national and international climate goals to drive industry-wide change [
+65
+]. In 2021, the state of California passed a first-of-its-kind law SB596 requiring all cement used within the state to achieve a 40% reduction in GHG emissions by 2035 and be net-zero emissions by 2045 [
+66
+]. The law also required California to develop and implement a decarbonization strategy with interim targets by 2023, which is delayed and yet to be released indicating the complexities and challenges of such a policy.
+Energy Efficiency and Emissions Standards
+Regulations that mandate the use of the best available technologies (BAT) to improve energy efficiency can significantly cut emissions in cement production. These standards should evolve in tandem with technological advancements to ensure continuous improvement [
+67
+]. The Energy Performance of Buildings Directive in the EU is an example of how regulatory frameworks can promote energy efficiency [
+68
+]. The Perform, Achieve and Trade (PAT) Scheme in India is an example of a cap-and-trade type policy level that targets energy efficiency improvements in energy-intensive industries and covers the cement sector. The PAT Scheme has been found to have improved energy efficiency in the Indian cement sector by 2.7% with a total of 22.5 million tons CO
+2
+mitigated [
+69
+].
+Cement Use Policy Levers
+Embodied Carbon Limits in Building Codes
+Cities like Toronto, San Francisco, and Portland have implemented regulations that set maximum embodied carbon limits in building construction per square foot of building space. Such standards are crucial downstream demand-pull levers for driving the cement industry towards low-carbon solutions [
+70
+,
+71
+]. Adopting these regulations in building codes and green building standards can significantly reduce the carbon footprint of new construction projects. Advocating for consistent national building codes and supporting sub-national level initiatives that align with international standards can streamline decarbonization efforts in the construction industry [
+72
+].
+Recycling and Reuse Incentives
+Encouraging the incorporation of construction and demolition (C&D) waste into new cement production fosters a closed-loop system that minimizes waste and conserves natural resources. Implementing policies that incentivize recycling and reuse practices (Fig.
+2
+) is essential for promoting a circular economy within the cement industry. Such measures reduce the environmental impact associated with cement manufacturing and help in waste valorization. For instance, the European Union’s Circular Economy Action Plan emphasizes the importance of recycling and reusing materials in the construction sector to enhance resource efficiency and reduce waste [
+73
+]. Similarly, the U.S. Environmental Protection Agency advocates for the recycling of C&D materials to divert waste from landfills and conserve resources [
+74
+].
+Fig. 2
+Policy framework for cement sustainability, highlighting production policies (R&D, tax incentives, demand-side levers, cap-and-trade, carbon taxes, energy efficiency, and emission targets) and use policies (recycling incentives and embodied carbon limits) along a spectrum from incentives to mandates
+Full size image
+International Collaboration and Best Practices
+Achieving net-zero targets in the cement sector requires robust international cooperation and cross-border alignment to accelerate the adoption of innovative technologies. Without such collaboration, progress could be delayed by decades, jeopardizing global climate goals. Partnerships focused on research and development (R&D) initiatives, technology transfer programs, and capacity-building efforts are pivotal in advancing the deployment of low-carbon solutions. These collaborations not only disseminate best practices but also establish global low-emissions standards, create demand for green products, and reduce the costs associated with technology implementation.
+Climate Finance and Financial Assistance Models
+The success of international collaboration hinges on the availability of climate finance and financial assistance models to support developing countries and regions with limited resources. Initiatives like the Green Climate Fund (GCF) [
+75
+] and Climate Investment Funds (CIF) [
+76
+] play a crucial role in channeling investments into low-carbon technologies for the cement sector. Mechanisms such as blended finance [
+77
+], carbon pricing [
+78
+], and green bonds [
+75
+] provide additional avenues to de-risk investments and mobilize private sector funding. By aligning financial resources with the technology needs of emerging economies, international frameworks ensure equitable access to advanced solutions, fostering global participation in the decarbonization journey.
+Equity, Environmental Justice, and Health Benefits
+The shift toward a net-zero cement industry offers a transformative opportunity to advance equity, environmental justice, and public health. By curbing greenhouse gas emissions and associated co-pollutants such as particulate matter, sulfur oxides (SOx), and nitrogen oxides (NOx), this transition addresses critical health disparities, particularly benefiting communities disproportionately impacted by industrial pollution [
+79
+]. Innovative approaches like low-carbon concrete solutions, implemented in the Northeastern U.S., demonstrate regionally tailored strategies that not only lower carbon footprints but also enhance community resilience through sustainable construction practices [
+80
+]. Emerging solutions, including lower-carbon concrete floors, contribute to improved air quality and reduced construction waste, yielding additional health benefits [
+81
+]. Moreover, ensuring a just transition demands comprehensive policies such as community benefit agreements, worker retraining, community investment, and fair economic restructuring to mitigate the social impacts of industrial transformation [
+82
+,
+83
+].
+Examples of Global Collaborative Efforts
+Organizations such as the United Nations Industrial Development Organization’s (UNIDO) Industrial Deep Decarbonization Initiative (IDDI) exemplify the importance of international cooperation. IDDI unites countries like Brazil, Canada, Germany, India, Japan, Saudi Arabia, Sweden, the UAE, the UK, and the U.S., with the shared goal of developing low-carbon cement and steel standards and promoting green public procurement [
+84
+]. Similarly, the Leadership Group for Industry Transition (LeadIT), spearheaded by Sweden and India, fosters public-private partnerships, mobilizes resources, and encourages knowledge sharing to position industries on a net-zero trajectory by 2050 [
+85
+].
+The Global Cement and Concrete Association (GCCA) serves as another vital platform for fostering collaboration. It brings together industry leaders to share best practices, invest in R&D, and advocate for policies that support the decarbonization of cement production [
+84
+]. These efforts are bolstered by networks like the Climate Club, launched at COP28, and co-led by the International Energy Agency (IEA) and the Organization for Economic Co-operation and Development (OECD). The Climate Club supports industrial decarbonization among its 42 member countries and includes initiatives such as a Global Matchmaking Platform, which facilitates access to technical and financial assistance for rapid progress [
+86
+,
+87
+].
+Capacity Building and Workforce Development
+Training Programs
+Training programs tailored for workers and engineers on new technologies and sustainable practices are critical for advancing low-carbon solutions in the built environment. Initiatives such as Canada’s Low-Carbon Built Environment Challenge Program [
+86
+], the U.S. Green Building Council’s education on low-carbon concrete [
+88
+], and Holcim Academy’s accessible courses [
+89
+] exemplify the global effort to equip professionals with the skills needed to drive sustainable construction. Heidelberg Materials’ free sustainability courses [
+90
+] and CSE India’s residential training programs [
+91
+] further highlight the importance of collaboration in fostering a workforce capable of addressing diverse regional challenges. These efforts align with broader industrial decarbonization initiatives, such as Brazil’s transformation under the IDDI [
+92
+], emphasizing the need for skilled workers to implement innovative strategies. However, sustainability in construction requires more than ranking materials by their embodied carbon factor (ECF). True carbon impact depends on material quantity, application, and lifecycle considerations. For example, while 3D printing homes may lower emissions compared to traditional wood-framed structures, CO₂-mineralized precast concrete blocks with negative carbon intensity and novel supplementary cementitious materials (SCMs) offer a clearer, more sustainable pathway by enhancing durability, enabling efficient rehabilitation, and reducing lifecycle emissions. To fully realize such benefits, advanced training programs should prioritize equipping professionals with expertise in sustainable technologies, innovative casting methods, alternative curing processes, lifecycle optimization, and integrated design strategies.
+Educational Initiatives
+Integrating sustainability and low-carbon practices into engineering and construction education is crucial for preparing professionals to lead the industry toward a low-carbon future. Educational initiatives should equip students with the knowledge and skills needed to drive innovation and sustainability in the cement sector. For example, the American Concrete Institute offers courses like “ACI CODE-323: Low-Carbon Concrete Code,” which provide professionals with guidelines on low-carbon concrete applications [
+93
+]. Additionally, real-world projects, such as the construction of Vienna’s energy-efficient Bildungscampus Seestadt, which covers 90% of its energy needs through renewable sources, serve as practical case studies for sustainable building practices [
+94
+]. Collaborations like the Open Compute Project’s partnership with leading data center companies to trial low carbon ‘green concrete’ further exemplify the industry’s move toward sustainable materials [
+95
+]. To advance these efforts, educational programs should incorporate interdisciplinary approaches, combining engineering principles with environmental science and policy studies.
+Proactive Community Engagement Strategies
+Stakeholder Consultation
+Engaging stakeholders such as local communities, environmental groups, industry leaders, and policymakers is essential to ensure the success of decarbonization efforts in the cement sector. Effective consultation fosters trust, inclusivity, and alignment between project objectives and societal needs, enabling the identification of region-specific challenges and tailored solutions. For instance, the development of India’s 2050 Net-Zero Roadmap for the cement and concrete industry by TERI and the GCCA involved extensive stakeholder discussions to address unique regional considerations and technological opportunities [
+92
+]. Similarly, Germany’s collaborative approach to defining “green steel” and sustainable cement production showcases the importance of engaging regulators, environmental organizations, and industry representatives to create socially and technically feasible decarbonization guidelines [
+93
+]. Similarly, Arup’s collaboration with Central Concrete and Momentum to create a zero-emission fleet blueprint demonstrates how inclusive consultations can yield scalable decarbonization strategies in construction logistics [
+95
+]. To further transform the cement sector, novel solutions such as leveraging blockchain for transparent tracking of emissions, adopting AI-driven platforms for real-time stakeholder input, and creating cross-sectoral partnerships for shared innovations in low-carbon technologies should be explored. Such strategies not only enhance engagement but also ensure that decarbonization efforts are agile, impactful, and adaptable to future challenges.
+Data Reporting and Transparency
+Transparent communication is essential for gaining public support and fostering collaboration on decarbonization projects. Clearly outlining objectives, benefits, and impacts builds trust and encourages stakeholder engagement. For instance, initiatives like the National Ready Mixed Concrete Association’s (NRMCA) Environmental Product Declaration (EPD) program exemplify how open sharing of goals, such as reducing embodied greenhouse gas emissions, can enhance transparency and drive progress [
+96
+,
+97
+].
+Providing accessible and reliable data, as seen with EPDs acting as “nutrition labels” for construction materials, ensures stakeholders can make informed decisions. Consistent communication about methodologies and standards, including Product Category Rules (PCRs), further supports trust and collaboration [
+96
+]. Open dialogue among industries, governments, and organizations is critical for addressing challenges in adopting and standardizing tools like EPDs, ensuring they are effective and widely accepted.
+Conclusion
+Cement, though inherently low-emissions than many materials such as steel or aluminum on a per-unit basis, is responsible for significant emissions due to the massive scale of its global usage in construction and infrastructure. As a foundational material for development, the industry faces the dual challenge of meeting rising or continued demand while addressing its environmental impact. This paper outlines a comprehensive and actionable strategy to reduce emissions in the cement sector through advanced technologies like carbon capture, utilization, and storage (CCUS); electrification of heat processes; alternative fuels such as biomass; and supplementary cementitious materials (SCMs) including calcined clays and alkali-activated alternatives. Emerging innovations such as AI-driven optimization, 3D printing, and biobased materials present further opportunities to revolutionize production methods and reduce the sector’s carbon footprint. Successfully implementing these solutions requires a systems-thinking approach, recognizing the interconnected roles of diverse stakeholders in the value chain. Cement truck drivers, plant managers, aggregate suppliers, SCM providers, precast manufacturers, admixture suppliers, and contractors all contribute to the ecosystem and must be actively engaged in the transition to low-carbon technologies. Innovations in materials, such as advanced SCMs and biobased alternatives, must not only meet technical performance requirements but also be economically viable and scalable. This necessitates close collaboration between academic researchers, industry practitioners, and policymakers to transform laboratory developments into practical applications. In parallel, the adoption of circular economy principles—such as increased recycling of demolition waste, reducing overdesign, and optimizing material usage—can significantly enhance resource efficiency. By minimizing waste and extending the lifespan of structures, industry can reduce its environmental impact while maintaining economic viability. Policies that incentivize innovation, promote energy-efficient practices, and encourage the use of low-carbon materials are vital to ensuring broad-based adoption. Policies like green procurement programs and carbon pricing mechanisms, implemented in ways that align with local and global priorities, provide a pathway to harmonize efforts across regions. The challenge of reducing emissions in the cement industry is not merely technical; it is an opportunity to rethink how infrastructure and resources are managed.
+Key References
+GCCA (2021).
+Concrete Future– Roadmap to Net Zero
+.
+This roadmap outlines industry strategies for achieving net-zero emissions, providing a critical framework for sector-wide decarbonization efforts.
+U.S. Department of Energy (2023).
+Pathways to Commercial Liftoff: Low Carbon Cement
+.
+This report provides insights into technological advancements and policy mechanisms required for decarbonizing the cement industry.
+Habert Et Al. (2020).
+Environmental Impacts and Decarbonization Strategies in the Cement and Concrete Industries
+This paper offers a comprehensive analysis of emissions reduction approaches and the role of alternative materials in sustainable construction.
+Data Availability
+No datasets were generated or analysed during the current study.
+References
+Kumar S. From habitat to climate: the evolution of Building materials in response to environmental imperatives. World. 2024;2401002:5.
+MATH
+Google Scholar
+Lehne J, Preston F. Making concrete change. Innovation in Low-carbon Cement and Concrete; 2018.
+GCCA GC. Concrete Future–Roadmap to net zero. London, UK: GCCA; 2021.
+Google Scholar
+U.S. Department of Energy. Pathways to commercial liftoff. Low Carbon Cement; 2023.
+IEA CSI. (2018) (2018) Technology Roadmap Low-Carbon Transition in the Cement Industry. France/WBCSD, Geneva, Switzerland. IEA, Paris.
+Kikstra JS, Nicholls ZRJ, Smith CJ, Lewis J, Lamboll RD, Byers E, Sandstad M, Meinshausen M, Gidden MJ, Rogelj J. The IPCC sixth assessment report WGIII climate assessment of mitigation pathways: from emissions to global temperatures. Geosci Model Dev. 2022;15:9075–109.
+Article
+Google Scholar
+Kearns D, Liu H, Consoli C. (2021) Technology readiness and costs of CCS. Global CCS Inst 3.
+Kumar R, Chung WJ, Khan MA, Son M, Park Y-K, Lee SS, Jeon B-H. Breakthrough innovations in carbon dioxide mineralization for a sustainable future. Rev Environ Sci Biotechnol. 2024;23:739–99.
+Article
+Google Scholar
+Gielen D, Boshell F, Saygin D, Bazilian MD, Wagner N, Gorini R. The role of renewable energy in the global energy transformation. Energy Strategy Reviews. 2019;24:38–50.
+Article
+Google Scholar
+DeRousseau MA, Kasprzyk JR, Srubar Iii WV. Computational design optimization of concrete mixtures: A review. Cem Concr Res. 2018;109:42–53.
+Article
+MATH
+Google Scholar
+Rashid K, Rehman MU, de Brito J, Ghafoor H. Multi-criteria optimization of recycled aggregate concrete mixes. J Clean Prod. 2020;276:124316.
+Article
+Google Scholar
+Oakland JS, Marosszeky M. Total construction management: lean quality in construction project delivery. Routledge; 2017.
+Naik TR. Sustainability of the cement and concrete industries. Sustainable construction materials and technologies. CRC; 2020. pp. 19–25.
+Habert G, Miller SA, John VM, Provis JL, Favier A, Horvath A, Scrivener KL. Environmental impacts and decarbonization strategies in the cement and concrete industries. Nat Rev Earth Environ. 2020;1:559–73.
+Article
+Google Scholar
+Pickerill J, Chitewere T, Cornea N, Lockyer J, Macrorie R, Blažek JM, Nelson A. URBAN ECOLOGICAL FUTURES: five Eco-Community strategies for more sustainable and equitable cities. Int J Urban Reg Res. 2024;48:161–76.
+Article
+Google Scholar
+Küpfer C, Bastien-Masse M, Fivet C. Reuse of concrete components in new construction projects: critical review of 77 circular precedents. J Clean Prod. 2023;383:135235.
+Article
+Google Scholar
+Sharma NK, Kumar P, Kumar S, Thomas BS, Gupta RC. Properties of concrete containing polished granite waste as partial substitution of coarse aggregate. Constr Build Mater. 2017.
+https://doi.org/10.1016/j.conbuildmat.2017.06.081
+.
+Article
+MATH
+Google Scholar
+Kumar S, Sharma AK, Sherawat D, Dutt M, Gupta RC. Technical note on sorption and permeability of concrete containing rubber and quartz sandstone aggregates. Constr Build Mater. 2017.
+https://doi.org/10.1016/j.conbuildmat.2017.04.022
+.
+Article
+MATH
+Google Scholar
+Peter E. Lower SCM supplies demand a change in approach. Global Cement Magazine; 2018.
+Scrivener KL, John VM, Gartner EM. Eco-efficient cements: potential economically viable solutions for a low-CO2 cement-based materials industry. Cem Concr Res. 2018;114:2–26.
+Article
+Google Scholar
+Yang J, Sun Z, De Belie N, Snoeck D. Internal curing and its application to alkali-activated materials: A literature review. Cem Concr Compos. 2024;145:105360.
+Article
+Google Scholar
+Provis JL. Alkali-activated materials. Cem Concr Res. 2018;114:40–8.
+Article
+Google Scholar
+Ripley KM, Saadi FH, Burke ZL. Cost-motivated pathways towards near-term decarbonization of the cement industry. RSC Sustainability; 2025.
+IEA CSI. Technology roadmap Low-Carbon transition in the cement industry. Geneva, Switzerland. IEA, Paris: France/WBCSD; 2018.
+Google Scholar
+IEA. (2022) (2022) Renewables 2022, I. EA, Paris
+https://www.iea.org/reports/renewables-2022
+, Licence: CC BY 4.0.
+Pedersen JL, Bey N, Friis Gerholt S, Rohde R. The road towards carbon neutrality in the different nordic countries. Nordic Council of Ministers; 2020.
+Kusuma RT, Hiremath RB, Rajesh P, Kumar B, Renukappa S. Sustainable transition towards biomass-based cement industry: A review. Renew Sustain Energy Rev. 2022;163:112503.
+Article
+Google Scholar
+European Commission. (2023) Circular economy action plan.
+Kumar S, Sonat C, Yang E-H, Unluer C. Performance of reactive Magnesia cement formulations containing fly Ash and ground granulated blast-furnace slag. Constr Build Mater. 2020;232:117275.
+Article
+Google Scholar
+Muthu M, Kumar S, Yang E-H, Unluer C. Degradation of carbonated reactive MgO-based concrete exposed to nitric acid. J CO2 Utilization. 2020;36:210–9.
+Article
+Google Scholar
+Muthu M, Kumar S, Chajec A, Sadowski Ł. Effect of EAF slag on the performance of wollastonite mixes inspired by CO2 curing technology. Appl Sci. 2024;14:4485.
+Article
+Google Scholar
+Favier A, De Wolf C, Scrivener K, Habert G. (2018) A sustainable future for the European Cement and Concrete Industry: Technology assessment for full decarbonisation of the industry by 2050. ETH Zurich.
+Golafshani EM, Kim T, Behnood A, Ngo T, Kashani A. Sustainable mix design of recycled aggregate concrete using artificial intelligence. J Clean Prod. 2024;442:140994.
+Article
+Google Scholar
+Xiao J, Lv Z, Duan Z, Zhang C. Pore structure characteristics, modulation and its effect on concrete properties: A review. Constr Build Mater. 2023;397:132430.
+Article
+MATH
+Google Scholar
+Gangotra A, Del Gado E, Lewis JI. 3D printing has untapped potential for climate mitigation in the cement sector. Commun Eng. 2023;2:6.
+Article
+Google Scholar
+De Schutter G, Lesage K, Mechtcherine V, Nerella VN, Habert G, Agusti-Juan I. Vision of 3D printing with concrete—Technical, economic and environmental potentials. Cem Concr Res. 2018;112:25–36.
+Article
+Google Scholar
+Makul N. Modern sustainable cement and concrete composites: review of current status, challenges and guidelines. Sustainable Mater Technol. 2020;25:e00155.
+Article
+Google Scholar
+Barbhuiya S, Kanavaris F, Das BB, Idrees M. (2024) Decarbonising cement and concrete production: strategies, challenges and pathways for sustainable development. J Building Eng 108861.
+USGBC. (2024) Leadership in Energy and Environmental Design (LEED) certification.
+Manoharan A, Raja R, Sharma H, Kumar S. Recent advances in Bio-Based concrete materials: A critical In-Depth review. World Sci Annual Rev Funct Mater. 2024;02:2430004.
+Article
+MATH
+Google Scholar
+Moosmann D, Majer S, Ugarte S, Ladu L, Wurster S, Thrän D. Strengths and gaps of the EU frameworks for the sustainability assessment of bio-based products and bioenergy. Energy Sustain Soc. 2020;10:1–19.
+Google Scholar
+Kobayashi T, Nakajima L. Sustainable development goals for advanced materials provided by industrial wastes and biomass sources. Curr Opin Green Sustain Chem. 2021;28:100439.
+Article
+MATH
+Google Scholar
+Sutkowska M, Stefańska A, Vaverkova MD, Dixit S, Thakur A. (2024) Recent advances in prefabrication techniques for biobased materials towards a Low-Carbon future: from modules to sustainability. J Building Eng 109558.
+Wu R, Geng Y, Liu W. Trends of natural resource footprints in the BRIC (Brazil, Russia, India and China) countries. J Clean Prod. 2017;142:775–82.
+Article
+MATH
+Google Scholar
+USDOE. Biden-Harris administration announces $6 billion to transform America’s industrial sector. Strengthen Domestic Manufacturing, and Slash Planet-Warming Emissions; 2024.
+118th Congress. (2023–2024) (2024) All Information (Except Text) for S.3439 - Concrete and Asphalt Innovation Act of 2023.
+USDOE. (2024) Qualifying Advanced Energy Project Credit (48 C) Program.
+CEMBUREAU. (2018) The role of CEMENT in the 2050 LOW CARBON ECONOMY.
+Pouikli K. Towards mandatory green public procurement (GPP) requirements under the EU green deal: reconsidering the role of public procurement as an environmental policy tool. Era forum. Springer; 2021. pp. 699–721.
+Hasanbeigi A, Shi D, Khutal H. (2021) Federal Buy Clean for Cement and Steel. Policy Design and Impact on Industrial Emissions and Competitiveness Global Efficiency Intelligence Available online at, updated on 7:2022.
+Federal Buy Clean Initiative. (2024) Federal Sustainability Plan- Net-Zero Emissions Procurement by 2050.
+Department of Enterprise T and E. (2024) Government approves public procurement guidance to promote the reduction of embodied carbon in construction.
+Gangotra A, Carlsen W, Kennedy K, Lebling K. How advance market commitments and contracts for difference can. Help Create a Market for Green Industrial Products; 2023.
+First Movers Coalition. (2024) First Movers Coalition A global coalition of companies leveraging their purchasing power to decarbonize the world’s heavy-emitting sectors.
+Gangotra A, Dellesky C, Anderson A, Bipartisan IMPACT. Act 2.0 Fills Gaps in Concrete and Asphalt Climate Legislation.
+Yang Y, Shi J, Wang D, Wu C, Han Z. (2022) Identifying Operation Equilibrium in Integrated Electricity, Natural Gas, and Carbon-Emission Markets. arXiv preprint arXiv:2210.09813.
+Dechezleprêtre A, Nachtigall D, Venmans F. The joint impact of the European union emissions trading system on carbon emissions and economic performance. J Environ Econ Manage. 2023;118:102758.
+Article
+Google Scholar
+Delft CE. (2021) Additional profits of sectors and firms from the EU ETS. Delft Récupéré Le 20.
+Roihupalo L. (2024) The implementation of a reporting process for carbon border adjustment mechanism (CBAM).
+Bonnet A. (2024) Dialogue on Border Carbon Adjustments.
+Gangotra A, Carlsen W, Kennedy K. (2023) 4 US Congress Bills Related to Carbon Border Adjustments in 2023.
+Roy N, Domeshek M, Burtraw D. (2024) Designing for Uncertainty: Amendments to California’s Cap-and-Trade Market.
+Cheng D, Reiner DM, Yang F, Cui C, Meng J, Shan Y, Liu Y, Tao S, Guan D. Projecting future carbon emissions from cement production in developing countries. Nat Commun. 2023;14:8213.
+Article
+Google Scholar
+Känzig DR. The unequal economic consequences of carbon pricing. National Bureau of Economic Research; 2023.
+Searchinger T, Peng L, Jessica Z, Waite R. (2023) The global land squeeze: Managing the growing competition for land.
+California Air Resources Board. (2023) Net-Zero Emissions Strategy for the Cement Sector.
+Karlis P, Presicce F, Giner-Santonja G, Brinkmann T, Roudier S. (2024) Best Available Techniques (BAT) Reference Document for the Slaughterhouses, Animal By-products and/or Edible Co-products Industries.
+European Union. (2024) Energy Performance of Buildings Directive.
+Oak H, Bansal S. Enhancing energy efficiency of Indian industries: effectiveness of PAT scheme. Energy Econ. 2022;113:106220.
+Article
+MATH
+Google Scholar
+Portland Gov- Planning and Sustainability (BPS). Climate Action (2024) Embodied Carbon in the Built Environment.
+Planning EDC, Officer CC. (2017) Toronto Green Standard Tier 2 for Capital Projects.
+USGBC. (2022) Advocacy and policy 2021 in advocacy: Green building progress and policies.
+European Commission. (2020) A new Circular Economy Action Plan For a cleaner and more competitive Europe.
+US-EPA. (2024) Sustainable Management of Construction and Demolition Materials.
+Climate Bonds Initiative. (2024) Global State of the Market Report 2023.
+Climate Investment Funds. (2023) Overview of CIF programs.
+OECD. (2021) Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership.
+World Bank. (2024) Preparing, Procuring and Implementing Climate-Smart PPPs.
+American Progress. (2024) Cement and Concrete Companies Leading the Net-Zero Transition.
+RMI. (2022) Low-Carbon Concrete in the Northeastern United States.
+Stanford Woods Institute for the Environment. (2024) Lower-carbon concrete floors could pave the way to a health solution.
+Rajpurohit S. ESKKennedy (2022) America Is All In (2022). Health, Economic, and Community Benefits of Zero-Carbon Buildings. Wri.
+Silveira A, Pritchard P. (2016) Justice in the transition to a low carbon economy. The University of Cambridge Institute for Sustainability Leadership (CISL), Working Paper 04.
+UNIDO 2024. (2024) New partnership agreed between the united nations industrial development organization and the GCCA to drive industry decarbonization around the Globe.
+LeadIT. (2024) Leadership Group for Industry Transition.
+National Research Council Canada. (2024) Low Carbon Built Environment Challenge program.
+IEA 2023. (2023) IEA supports faster industrial decarbonisation through new Climate Club.
+Brent Ehrlich. (2023) Using Low-Carbon Concrete in Your Next Project. Building Green.
+Holcim A. (2024) Low-Carbon Cement and Concrete Course.
+Heidelberg Materials. (2023) Heidelberg Materials North America Offers Free On-Demand Concrete Sustainability Course.
+Centre for Science and Environment. (2024) Onsite Training Program on Low Carbon Pathways for Industrial Sectors.
+World Economic Forum. (2023) Nature and Biodiversity-See how Brazil is benefiting from the Industrial Deep Decarbonization Initiative.
+ACI. (2024) ACI CODE-323-24: Low-Carbon Concrete - Code Requirements and Commentary.
+Holcim. (2024) Building one of Vienna’s most energy-efficient schools with low-carbon materials. 2024.
+Open Compute Project. (2024) Leading data center companies partner with Open Compute Project Foundation and WJE to trial Green Concrete!.
+NRMCA. (2024) Environmental Product Declarations- Concrete product EPDs verified under NRMCA’s EPD.
+Environmental Protection Agency (EPA). (2016) Community Engagement and Environmental Justice.
+Download references
+Acknowledgements
+The authors would like to thank Dr. David M. Hart from George Mason University and Dr. Anjali Sharma from IIT Bombay for their invaluable initial suggestions that helped shape the direction of this work. We also extend our gratitude to George Mason University’s Climate Policy Boot Camp for providing an enriching platform that offered key insights and exposure to critical discussions that informed this study.
+Funding
+No funding was used in the preparation of this manuscript.
+Author information
+Authors and Affiliations
+Engineering Technology, Norfolk State University, Virginia, 23504, USA
+Sanjeev Kumar
+U.S. Climate Program, World Resources Institute, Washington D.C., USA
+Ankita Gangotra
+TFIE Strategy Inc, Vancouver, Canada
+Michael Barnard
+Authors
+Sanjeev Kumar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ankita Gangotra
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Michael Barnard
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Ankita Gangotra: Contributed to drafting and developing the policy sections, including key frameworks and interventions for sustainability in the cement industry. Michael Barnard: Focused on drafting and revising sections related to innovative technologies and their applications in decarbonizing the sector. Dr. Sanjeev Kumar: Led the overall narrative, supervised the writing process, and provided final corrections to ensure the manuscript’s quality and coherence.
+Corresponding author
+Correspondence to
+Sanjeev Kumar
+.
+Ethics declarations
+Competing Interests
+The authors declare no competing interests.
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Kumar, S., Gangotra, A. & Barnard, M. Towards a Net Zero Cement: Strategic Policies and Systems Thinking for a Low-Carbon Future.
+Curr Sustainable Renewable Energy Rep
+12
+, 5 (2025). https://doi.org/10.1007/s40518-025-00253-0
+Download citation
+Accepted
+:
+18 February 2025
+Published
+:
+01 March 2025
+DOI
+:
+https://doi.org/10.1007/s40518-025-00253-0
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Cement industry decarbonization
+Carbon capture and storage
+Supplementary cementitious materials
+Sustainable construction practices
+Policy frameworks
+Circular economy
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Advertisement
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Legal notice
+Cancel contracts here
+142.115.87.244
+Not affiliated
+© 2025 Springer Nature

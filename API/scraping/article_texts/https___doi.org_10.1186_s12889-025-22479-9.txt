@@ -1,0 +1,1089 @@
+Portfolio diet and LDL-C in a young, multiethnic cohort: cross-sectional analyses with cumulative exposure modeling | BMC Public Health | Full Text
+Skip to main content
+Advertisement
+Search
+Explore journals
+Get published
+About BMC
+My account
+Search all BMC articles
+Search
+BMC Public Health
+Home
+About
+Articles
+Submission Guidelines
+Collections
+Join the Editorial Board
+Submit manuscript
+Portfolio diet and LDL-C in a young, multiethnic cohort: cross-sectional analyses with cumulative exposure modeling
+Download PDF
+Download PDF
+Research
+Open access
+Published:
+13 May 2025
+Portfolio diet and LDL-C in a young, multiethnic cohort: cross-sectional analyses with cumulative exposure modeling
+Victoria Chen
+1
+,
+2
+,
+Laura Chiavaroli
+1
+,
+2
+,
+7
+,
+Andrea J. Glenn
+3
+,
+4
+,
+Meaghan E. Kavanagh
+1
+,
+2
+,
+Tara Zeitoun
+1
+,
+Sara Mahdavi
+1
+,
+3
+,
+Cyril W. C. Kendall
+1
+,
+2
+,
+8
+,
+David J. A. Jenkins
+1
+,
+2
+,
+5
+,
+6
+,
+7
+,
+Ahmed El-Sohemy
+1
+&
+…
+John L. Sievenpiper
+1
+,
+2
+,
+5
+,
+6
+,
+7
+Show authors
+BMC Public Health
+volume
+25
+, Article number:
+1761
+(
+2025
+)
+Cite this article
+1122
+Accesses
+47
+Altmetric
+Metrics
+details
+Abstract
+Background
+The Portfolio Diet is a plant-based dietary pattern of cholesterol-lowering foods that has demonstrated clinically meaningful reductions in low-density lipoprotein cholesterol (LDL-C) and other cardiovascular risk factors. However, the Portfolio Diet has not been assessed in an ethnoculturally diverse population of young adults.
+Objective
+To examine the association of the Portfolio Diet Score (PDS) with LDL-C and other established cardiovascular risk factors in a young adult population.
+Methods
+This cross-sectional analysis included 1,507 men and women (mean age, 23 ± 3 years) of diverse ethnocultural backgrounds from the Toronto Nutrigenomics and Health Study. Diet was assessed by a validated Toronto-modified Harvard 196-item food frequency questionnaire with adherence to the Portfolio Diet measured using the Portfolio Diet Score. Data were analyzed using multiple linear regressions with adjustment for potential confounders. Modeling analyses related LDL-C levels according to absolute adherence to the Portfolio Diet with cumulative LDL-C and onset of rising cardiovascular risk by age.
+Results
+Participants were Caucasian (49%), East Asian (34%), South Asian (11%), or other (7%) with a mean LDL-C of 2.3 ± 0.7mmol/L. A 1-point higher PDS and higher PDS tertiles were associated with lower LDL-C (ß [95% CI] per 1-point: -0.009mmol/L [-0.016, -0.002],
+P
+= 0.013; P
+trend
+across tertiles =0.040), non-HDL-C (-0.010mmol/L [-0.018, -0.002],
+P
+= 0.014; P
+trend
+=0.028), total cholesterol (-0.011mmol/L [-0.019, -0.003],
+P
+= 0.011; P
+trend
+=0.038), systolic blood pressure (-0.150mmHg [-0.250, -0.050],
+P
+= 0.003; P
+trend
+<0.001) and diastolic blood pressure (-0.133mmHg [-0.219, -0.046],
+P
+= 0.003; P
+trend
+<0.001). Higher PDS tertiles were associated with lower triglycerides (P
+trend
+=0.039). A 1-point higher PDS was also associated with lower BMI (-0.038 kg/m
+2
+[-0.071, -0.004],
+P
+= 0.026), waist circumference (-0.092cm [-0.171, -0.013],
+P
+= 0.022), body weight (-0.124 kg [-0.229, -0.019],
+P
+= 0.021) and FMI (-0.019 kg/m
+2
+[-0.037, -0.001],
+P
+=0.039). There was no association with HDL-C, CRP, or fasting glucose. Modeling analyses suggest that compared to low adherence, 50% and 100% adherence to the Portfolio Diet may delay the onset of rising cardiovascular risk by an estimated 6 and 13 years, respectively.
+Conclusions
+Among young adults, the PDS was inversely associated with LDL-C and several other established cardiovascular risk factors. Early adherence to the Portfolio Diet may limit lifetime exposure to LDL-C and could delay the age at which cardiovascular events begin.
+Peer Review reports
+Introduction
+Cardiovascular disease (CVD) continues to be a leading cause of death in Canada, the United States and globally [
+1
+,
+2
+]. Recently, the high prevalence of cardiovascular risk factors, including diabetes, obesity, hypertension, and hyperlipidemia, in young adults has become an area of particular concern [
+3
+,
+4
+]. Mendelian randomization studies and randomized controlled trials have established the causal role of low-density lipoprotein cholesterol (LDL-C) in CVD incidence [
+5
+,
+6
+]. Additionally, longer lifetime exposure to hyperlipidemia has been shown to increase CVD risk in a dose-dependent manner [
+7
+,
+8
+,
+9
+]. Therefore, early management of hyperlipidemia beginning in young adulthood (an age prior ≥ 30 years of age based on the Framingham Risk Score [
+10
+]) represents a key opportunity for CVD prevention [
+11
+]. Adoption of healthy lifestyle behaviours may act as an important early management strategy prior to the initiation of pharmacotherapy [
+11
+,
+12
+,
+13
+].
+Dietary modifications remain a cornerstone for the management of hyperlipidemia [
+12
+,
+13
+]. A dietary approach specifically developed for cholesterol-lowering is the Portfolio Diet, a therapeutic, plant-based dietary pattern which has demonstrated drug-like reductions in LDL-C [
+14
+,
+15
+]. The Portfolio Diet consists of 5 pillars of cholesterol-lowering foods or food components (sources of plant protein, viscous fibre, nuts, phytosterols and monounsaturated fatty acids (MUFAs)) on top a low saturated fat and cholesterol, National Cholesterol Education Program (NCEP) Step II diet [
+16
+,
+17
+]. Each pillar of the Portfolio Diet carries an approved health claim for cholesterol-lowering or coronary heart disease risk reduction from Health Canada, the US Food & Drug Administration and/or the European Food Safety Authority [
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+]. Beyond LDL-C, a systematic review and meta-analysis of controlled trials has demonstrated that the Portfolio Diet leads to clinically-meaningful benefits in other established cardiovascular risk factors including total cholesterol, triglycerides, non-high-density lipoprotein (non-HDL-C), systolic blood pressure (SBP), diastolic blood pressure (DBP) and C-reactive protein (CRP) in middle-aged adults (mean age, 57 years) [
+26
+]. A prospective cohort study has additionally shown that higher adherence to the Portfolio Diet was associated with improved glycemic control and adiposity markers in older adults (mean age, 65 years) with metabolic syndrome [
+27
+]. Notably, findings from a prospective cohort [
+27
+] and from RCTs [
+14
+,
+15
+] have been in predominantly Caucasian populations (98% and ~80%, respectively). Therefore, there is limited evidence of the role of the Portfolio Diet and cardiovascular risk factors in different ethnic groups and no evidence in young adults. This study aims to assess the association of the Portfolio Diet Score with LDL-C and other established cardiovascular risk factors in an ethnoculturally diverse population of young adults.
+Methods
+Study population
+This analysis was conducted within the framework of the Toronto Nutrigenomics and Health (TNH) Study, which has been described elsewhere [
+28
+]. Briefly, the TNH Study is a cross-sectional study in young adults in Canada investigating the associations between dietary intake and genetic variation on biomarkers of chronic disease. Participants aged 20–29 years (mean age, 23 ± 3 years) from diverse ethnocultural backgrounds were recruited from the University of Toronto campus between 2004 and 2010. The study protocol was approved by the Research Ethics Board at the University of Toronto.
+We excluded participants with implausible energy intakes (> 3500 kcal/day for females, > 4500 kcal/day for males or < 800 kcal/day for females or males) (
+n
+= 119), with incomplete FFQ data (
+n
+= 6) or with missing covariates (
+n
+= 1). Additional exclusions were made for missing outcome data (
+n
+= 17 for LDL-C, non-HDL-C and HDL-C;
+n
+= 16 for total cholesterol and triglycerides;
+n
+= 13 for CRP;
+n
+= 11 for fasting glucose). The final analysis included between 1,490 and 1,507 participants for individual outcomes.
+Assessment of adherence to the portfolio diet
+Dietary intake was collected using a validated Toronto-modified Harvard 196-item semi-quantitative food frequency questionnaire (FFQ) measuring the quantity and frequency of intake over 1-month [
+29
+]. Participants were given instructions on how to complete the FFQ using visual aids of portion sizes. Adherence to the Portfolio Diet was assessed using a population-based Portfolio Diet Score (PDS), which was previously developed and validated using the same modified FFQ against 7-day diet records and LDL-C [
+30
+]. Food items on the FFQ were categorized into the five components of the Portfolio Diet (sources of plant protein from soy or dietary pulses, viscous fibre such as oats, barley and temperate climate fruit, nuts including nut butters, phytosterols estimated from all plant foods and MUFAs from avocados and olive oil) and saturated fat and cholesterol from animal sources. These six food components were assessed as servings/day, except for phytosterol intake which was assessed as mg/day derived from all plant-based food FFQ items to estimate total intake. Points were assigned for each component based on adherence according to population-based quintiles of intake. Positive points were assigned to foods/nutrients recommended in the diet (sources of plant protein, viscous fibre, nuts, phytosterols and MUFAs), where participants in the highest quintile received five points and those in the lowest quintile received one point. Reverse points were given for foods not recommended in the diet (high saturated fat and cholesterol sources), where participants in the highest quintile received one point and those in the lowest quintile received five points. The six individual component scores were summed to give a PDS between 6 and 30, where a higher score indicates higher adherence to recommendations. Supplementary Table 1 presents the food items in the FFQ, the scoring criteria to determine the PDS, and the average intakes of each component by quintile.
+Assessment of outcomes
+The primary outcome was LDL-C, a primary lipid target for CVD prevention [
+12
+]. Secondary outcomes included non-HDL-C, total cholesterol, HDL-C, triglycerides, CRP, fasting glucose, SBP, DBP, BMI, waist circumference, body weight and fat mass index (FMI). Fasting blood samples were collected after a 12-hour overnight fast and measured for lipid, glycemic control, and inflammatory markers [
+31
+]. LDL-C was calculated using the National Institutes of Health (NIH) equation [
+32
+], which has demonstrated high accuracy compared to direct measured and ß-quantification LDL-C against other formulas [
+32
+,
+33
+] and is recommended by Canadian guidelines [
+34
+]. Sensitivity analyses were conducted using the Martin [
+35
+] and Vujovic [
+36
+] equations, which have also demonstrated high accuracy [
+33
+]. Negative computed LDL-C values were replaced with the minimum positive LDL-C value computed in the sample (
+n
+= 1). Non-HDL-C was calculated by subtracting HDL-C from total cholesterol. Anthropometric variables including height, weight, waist circumference and blood pressure were measured using standard procedures [
+28
+]. BMI was calculated by dividing the weight (kg) by the height squared (m
+2
+). FMI was calculated by multiplying body fat percentage (%) by body weight (kg) and dividing by the height squared (m
+2
+). Body fat percentage, used to compute FMI, was calculated using the Deurenberg formula [
+37
+].
+Assessment of covariates
+Information on participant’s demographics (age, sex, ethnicity, and level of education), lifestyle (physical activity and smoking), medical history (high blood pressure and high cholesterol) and family history (family history of CVD and diabetes) were collected using a general health and lifestyle questionnaire. Family history was defined as having a parent or sibling with CVD or diabetes. Total energy and alcohol intake were assessed by the FFQ.
+Statistical analyses
+Descriptive analyses across tertiles of the PDS were conducted using the analysis of variance (ANOVA) for continuous variables and chi-square test for categorical variables. Characteristics were presented as means and standard deviations for continuous variables and frequencies with percentages for categorical variables. Data were analysed using multiple linear regressions to estimate ß-coefficients and 95% confidence intervals for the associations of the PDS with LDL-C and other established cardiovascular risk factors (non-HDL-C, total cholesterol, HDL-C, triglycerides, CRP, fasting glucose, SBP, DBP, BMI, waist circumference, body weight and FMI). We examined associations of outcomes continuously per 1- and per 8-PDS points. We also examined associations of outcomes by tertiles of the PDS (lower, medium, and higher adherence), where tests for linear trend were conducted by assigning the median PDS value to each tertile. Marginal means with 95% confidence intervals at each tertile were presented. As the PDS is a single composite score of its components, multicollinearity and interactions between individual dietary components were not considered in models assessing the association between the PDS and cardiovascular risk factors. Additional multiple linear regression analyses were conducted to assess PDS components individually by servings of intake (a serving of phytosterols was estimated to be 25 mg from the mean phytosterol content of plant foods included in the FFQ). Assumptions of normality were verified by visual inspection of quantile-quantile plots for all outcomes and continuous covariates. All outcomes and continuous covariates were normally distributed, except for triglycerides, CRP, BMI, waist circumference, body weight, FMI and alcohol intake, which were log-transformed or square root-transformed to an approximately normal distribution before analysis. For models using log-transformed outcome variables, non-transformed marginal means or exponentiated ß coefficients multiplied by the non-transformed mean, to estimate relative proportional differences, were reported to facilitate interpretation.
+Models were adjusted for sex (male, female), age (continuous), education (high school, some college/university, college/university degree, graduate degree), ethnicity (Caucasian, East Asian, South Asian and other [individuals who reported belonging to ≥ 2 ethnocultural groups not included in the same category, Aboriginal Canadians, or Afro-Caribbeans]), BMI (continuous), family history of CVD (yes/no), family history of diabetes (yes/no), hypertension status (yes/no), hypercholesterolemia status (yes/no), energy intake (continuous), smoking (current smoker [≥ 1/day], non-smoker), physical activity (continuous) and alcohol intake (continuous). A priori subgroup analyses were conducted by examining for potential interactions with sex, ethnicity, and categorical BMI (< 25 kg/m
+2
+, ≥ 25 kg/m
+2
+). All analyses were performed with STATA version 17.0 (StatCorp, College Station, TX, USA) or R version 4.2.1 (R Foundation for Statistical Computing) and RStudio. Statistical significance was set at a P-value < 0.05.
+Although cardiovascular risk in young adulthood tends to be low, lifetime risk depends on both absolute magnitude and cumulative exposure to LDL-C [
+5
+], therefore the early maintenance of LDL-C levels using dietary interventions may impact cardiovascular health in later life [
+38
+]. To explore the long term impact of adherence to the Portfolio Diet in young adulthood, we modeled cumulative LDL-C exposure. We related absolute adherence to calculated cumulative LDL-C exposure, plaque burden and onset of cardiovascular risk by age, using previously published formulas and thresholds [
+38
+]. Specifically, food items on the FFQ in each Portfolio Diet pillar were converted to g/day of plant protein, viscous fibre, nuts and seeds, phytosterols and MUFAs to assess absolute adherence to Portfolio Diet recommendations in each tertile of the PDS [
+14
+,
+15
+,
+16
+,
+17
+,
+39
+,
+40
+]. Absolute adherence was presented as percentages and as points according to the clinical-Portfolio Diet Score (c-PDS), a food-based 25-point score based on a 2000kcal/day diet [
+41
+]. Absolute adherence was related to unadjusted marginal mean LDL-C levels in each PDS tertile determined in our main analysis. LDL-C at other levels of adherence was estimated linearly, based on previous evidence [
+14
+,
+15
+]. Cumulative LDL-C was calculated by multiplying age by LDL-C at each level of adherence [
+38
+]. Using this formula, we estimated age at which cumulative LDL-C reached 125 mmol-years, the threshold which marks sufficiently large plaque burden and onset of exponentially increasing myocardial infarction risk [
+38
+]. The key assumptions underlying this approach are that estimated LDL-C levels, based on observed associations, are constant over time, and the impact of other cardiovascular disease risk factors and potential covariates are maintained over the modeled period.
+Results
+Participant characteristics
+Table
+1
+shows the participant characteristics across tertiles of the PDS. Those with higher PDS were more likely to be older, female, more physically active, have higher total energy intake, drink more alcohol, and have a college/university degree. PDS also differed between ethno-cultural groups, with relatively more Caucasians in the highest tertile of adherence. Supplementary Table 1 shows mean intakes of each PDS component.
+Table 1 Participant characteristics of the 1,507 TNH study participants according to tertiles of the portfolio diet score
+Full size table
+Portfolio diet and established cardiovascular risk factors
+Table
+2
+shows the associations between the PDS and cardiovascular risk factors. After multivariable adjustments, a 1-point higher PDS was associated with lower LDL-C (ß [95% CI]: -0.009mmol/L [-0.016, -0.002],
+P
+= 0.013). An inverse association between higher PDS tertiles and LDL-C was also observed (P
+trend
+=0.040). The use of the Martin or Vujovic equations to calculate LDL-C did not alter the significance or magnitude of the results (Supplementary Table 2). A 1-point higher PDS and higher PDS tertiles were additionally associated with several secondary outcomes including non-HDL-C (-0.010mmol/L [-0.018, -0.002],
+P
+= 0.014; P
+trend
+=0.028), total cholesterol (-0.011mmol/L [-0.019, -0.003],
+P
+= 0.011; P
+trend
+=0.038), SBP (-0.150mmHg [-0.250, -0.050],
+P
+= 0.003; P
+trend
+<0.001) and DBP (-0.133mmHg [-0.219, -0.046],
+P
+= 0.003; P
+trend
+<0.001). While there was a significant association between higher PDS tertiles and lower triglycerides (P
+trend
+=0.039), this association was not significant in the continuous analysis per-PDS point, although it tended toward an inverse relationship. Continuous analyses demonstrated a significant association between a 1-point higher PDS and lower BMI (-0.038 kg/m
+2
+[-0.071, -0.004],
+P
+= 0.026), waist circumference (-0.092cm [-0.171, -0.013],
+P
+= 0.022), body weight (-0.124 kg [-0.229, -0.019],
+P
+= 0.021) and FMI (-0.019 kg/m
+2
+[-0.037, -0.001],
+P
+= 0.039). The P-trends across PDS tertiles were not significant for BMI, waist circumference, body weight and FMI; however, the these markers of adiposity tended to be lower with higher tertiles. We did not observe associations between PDS and HDL-C, CRP, or fasting glucose.
+Table 2 Cardiovascular risk factors according to tertiles and points of the portfolio diet score
+Full size table
+Subgroup analyses
+Supplementary Tables 3–15 show the subgroup analyses by sex, ethnicity, and BMI for all outcomes. After multivariable adjustments, there were interactions by sex and ethnicity for total cholesterol and fasting glucose, respectively. The association between PDS and lower total cholesterol was stronger and significant in males only (Males: -0.023mmol/L [-0.038, -0.008]; Females: -0.006 [-0.016, 0.004], P
+interaction
+=0.041) (Supplementary Table 5). The association of PDS and lower fasting glucose was stronger in East Asians and South Asians, although significant in East Asians only (Caucasian: 0.003mmol/L [-0.002, 0.008]; East Asian: -0.008 [-0.015, -0.0002]; South Asian: -0.013 [-0.027, 0.0003]; Other: 0.015 [-0.002, 0.032], P
+interaction
+=0.006) (Supplementary Table 9).
+Individual portfolio diet score component analyses
+Supplementary Table 16 shows the associations between the individual components of the PDS and cardiovascular risk factors. After multivariable adjustments, higher intake of sources of plant protein, nuts and phytosterol was associated with lower LDL-C (plant protein: -0.051mmol/L [-0.090, -0.011],
+P
+= 0.012; nuts: -0.049 [-0.096, -0.003],
+P
+= 0.038; phytosterols: -0.013 [-0.021, -0.005],
+P
+= 0.002), non-HDL-C (plant protein: -0.054mmol/L [-0.097, -0.010],
+P
+= 0.016; nuts: -0.062 [-0.113, -0.010],
+P
+= 0.019; phytosterols: -0.015 [-0.024, -0.006],
+P
+= 0.001) and total cholesterol (plant protein: -0.057mmol/L [-0.103, -0.011],
+P
+= 0.016; nuts: -0.057 [-0.111, -0.002],
+P
+= 0.041; phytosterols: -0.017 [-0.026, -0.007],
+P
+= 0.001). Higher intake of sources of saturated fat and cholesterol was associated with higher LDL-C (0.028mmol/L [0.004, 0.051],
+P
+= 0.020), total cholesterol (0.036mmol/L [0.009, 0.063],
+P
+= 0.010) and HDL-C (0.013mmol/L [0.001, 0.025],
+P
+= 0.039). Higher intake of sources of nuts, MUFAs and phytosterols was associated with lower triglycerides (nuts: -0.040mmol/L [-0.069, -0.010],
+P
+= 0.009; MUFAs: -0.033mmol/L [-0.063, -0.002],
+P
+= 0.036; phytosterols: -0.006mmol/L [-0.012, -0.001],
+P
+= 0.020). Higher intake of sources of MUFAs was also associated with lower CRP (-0.096 mg/L [-0.183, -0.001],
+P
+= 0.048).
+Higher intake of sources of saturated fat and cholesterol was associated with higher systolic (0.451mmHg [0.128, 0.774],
+P
+= 0.006) and diastolic (0.345mmHg [0.064, 0.625],
+P
+= 0.016) blood pressure. Higher intake of sources of plant protein was associated with lower systolic blood pressure (-0.854mmHg [-1.403, -0.305],
+P
+= 0.002) and higher intake of sources of viscous fibre was associated with lower diastolic blood pressure (-0.375mmHg [-0.723, -0.027],
+P
+= 0.035).
+For markers of adiposity, higher intake of sources of nuts and phytosterols was associated with lower BMI (nuts: -0.359 kg/m
+2
+[-0.568, -0.147],
+P
+= 0.001; phytosterols: -0.048 [-0.085, -0.010],
+P
+= 0.013), waist circumference (nuts: -0.827cm [-1.327, -0.324],
+P
+= 0.001; phytosterols: -0.108 [-0.198, -0.019],
+P
+= 0.017), body weight (nuts: -0.754 kg [-1.421, -0.080],
+P
+= 0.029; phytosterols: -0.171 [-0.290, -0.052],
+P
+= 0.005) and FMI (nuts: -0.199 kg/m
+2
+[-0.311, -0.085],
+P
+= 0.001; phytosterols: -0.025 [-0.046, -0.004],
+P
+= 0.018).
+Portfolio diet and cardiovascular risk onset
+Figure
+1
+shows the absolute adherence to Portfolio Diet recommendations in each PDS tertile. In tertile 1, the absolute adherence to recommendations was 3% for plant protein, 5% for viscous fibre, 8% for nuts, 10% for phytosterols and 6% for MUFAs. In tertile 2, the absolute adherence to recommendations was 8% for plant protein, 11% for viscous fibre, 18% for nuts, 14% for phytosterols and 16% for MUFAs. In tertile 3, the absolute adherence to recommendations was 20% for plant protein, 17% for viscous fibre, 42% for nuts, 21% for phytosterols and 36% for MUFAs. Overall adherence to the Portfolio Diet was 6% (c-PDS, 2), 13% (c-PDS, 3) and 27% (c-PDS, 7) for tertiles 1, 2 and 3, respectively.
+Fig. 1
+Absolute adherence to Portfolio Diet recommendations according to tertiles of the Portfolio Diet Score. Food items on the FFQ in each Portfolio Diet pillar were converted to g/day of plant protein, viscous fibre, nuts, phytosterols and MUFAs and compared to Portfolio Diet recommendations to assess absolute adherence in each tertile of the Portfolio Diet Score (PDS). Adherence was based on established Portfolio Diet recommendations (50g/day plant protein, 20g/day viscous fibre, 45g/day nuts, 2g/day phytosterols and 45g/day MUFAs). Absolute adherence to recommendations is presented as percentage adherence on the y-axis. Absolute adherence according to the clinical-Portfolio Diet Score (c-PDS) score is shown above each bar. The c-PDS score gives 0 to 5 points for each component, yielding a total c-PDS between 0 and 25. The white, grey and black bars represent adherence in tertile 1, 2 and 3, respectively. T1 (low), T2 (mid), and T3 (highest) tertiles of adherence to the Portfolio dietary pattern measured using the PDS. c-PDS, clinical-Portfolio Diet Score; MUFAs, monounsaturated fatty acids; T, tertile
+Full size image
+Figure
+2
+shows the cumulative association of LDL-C on cardiovascular risk onset by age modeled based on adherence to the Portfolio Diet. Assuming LDL-C levels are held constant, the age at which risk of myocardial infarction is estimated to begin to rise is 55, 56 and 58 years old in PDS tertiles 1, 2 and 3, respectively. If 50% absolute adherence to Portfolio Diet recommendations is achieved, LDL-C is estimated to be 2.13mmol/L and age at cardiovascular risk onset is modeled to be 61 years old. If 100% absolute adherence to Portfolio Diet recommendations is achieved, LDL-C is estimated to be 1.89mmol/L and age at cardiovascular risk onset is modeled to be 68 years old.
+Fig. 2
+Cumulative LDL-C exposure, plaque burden and onset of cardiovascular risk by age according to absolute adherence to the Portfolio Diet. Absolute adherence was related to unadjusted marginal mean LDL-C levels in each PDS tertile determined in our main analysis. LDL-C at other levels of adherence was estimated linearly. The solid black lines represents tertiles 1, 2 and 3 relating to LDL-C levels of 2.34, 2.29 and 2.24mmol/L throughout life, respectively. The solid blue line represents 50% absolute adherence to Portfolio Diet recommendations relating to an estimated LDL-C level of 2.13mmol/L throughout life. The solid orange line represents 100% absolute adherence to Portfolio Diet recommendation relating to an estimated LDL-C level of 1.89mmol/L throughout life. Cumulative LDL-C exposure was calculated by multiplying LDL-C levels by age. The black dots represent the cumulative LDL-C level at 23 years of age, equal to the mean age of the TNH Study cohort. The red dots represent the average age where cumulative LDL-C reaches 125mmol-years marking the threshold for the onset of exponential myocardial infarction risk increase. Age at which risk of myocardial infarction begins to rise is 55 years for 6% adherence (T1), 61 years for 50% adherence and 68 years for 100% adherence. Modeled using methods from Ference BA et al. J Am Coll Cardiol 2018; 72(10):1141-56 [
+38
+]. T1 (low), T2 (mid), and T3 (highest) tertiles of adherence to the Portfolio dietary pattern measured using the Portfolio Diet Score (PDS). c-PDS, clinical-Portfolio Diet Score; LDL-C, low-density lipoprotein cholesterol; MI, myocardial infarction; T, tertile
+Full size image
+Discussion
+In this cross-sectional analysis of young men and women, an 8-point higher PDS was associated with 3% lower LDL-C, the primary outcome. Higher intake of Portfolio Diet components, including sources of plant protein, nuts and phytosterols and lower intake of sources of saturated fat and cholesterol, was also associated with lower LDL-C. Higher PDS was associated with several other established cardiovascular risk factors including, non-HDL-C, total cholesterol, SBP and DBP. There were inverse associations with triglycerides across PDS tertiles and BMI, waist circumference, body weight and FMI per PDS point. There were interactions by sex and ethnicity on the association of the PDS with total cholesterol and fasting glucose, respectively.
+Findings in context of the literature
+These findings are largely consistent with previous research assessing the Portfolio Diet with established cardiovascular outcomes. Results of RCTs on the Portfolio Diet and cardiovascular risk factors have demonstrated LDL-C reductions of approximately 30% as well as meaningful reductions in several secondary outcomes, including non-HDL-C, apolipoprotein B, total cholesterol, triglycerides, SBP, DBP and CRP [
+26
+]. In our analyses, higher adherence to the Portfolio Diet was associated with lower LDL-C, non-HDL-C, total cholesterol, SBP and DBP in analyses both by tertiles of PDS and by PDS points. Higher tertiles of the PDS were significantly associated with lower triglycerides and a 1-point higher PDS also tended toward lower triglycerides. Evidence from observational studies assessing the PDS with LDL-C has been more inconsistent. Previous longitudinal and cross-sectional analyses of cohorts did not observe significant inverse associations between higher PDS and LDL-C [
+27
+,
+42
+]. However, a significant inverse association was seen between higher PDS and change in LDL-C in the PDS validation study, that utilized the same modified FFQ as the current analyses which allows for more Portfolio Diet foods to be captured [
+30
+]. Evidence from both RCTs and cross-sectional analyses of cohort studies have shown inverse relationships between the Portfolio Diet and various inflammatory markers [
+26
+,
+42
+]. A previous longitudinal cohort analysis also demonstrated a significant favourable association between PDS and markers of glycemic control and adiposity [
+27
+]. Our analyses demonstrated a significant association between a 1-point higher PDS with lower BMI, waist circumference, body weight and FMI; however, we did not observe associations for CRP or fasting glucose. These discrepancies may be due to lower adherence to Portfolio Diet recommendations in the current cohort compared to RCTs with a Portfolio Diet intervention [
+26
+], or the overall better cardiometabolic profile and younger age of the current population, in comparison to those included in other Portfolio Diet RCTs and cohort studies [
+26
+,
+27
+,
+42
+]. It is important to note that, participants included in the previous RCTs (mean age, 57 years) [
+26
+] and prospective cohort studies (mean age, 44 years) [
+27
+,
+30
+,
+42
+] on the Portfolio Diet were generally middle-aged and ~20–30 years older than the TNH Study cohort.
+While our study is the first to investigate the Portfolio Diet in an ostensibly healthy young adult population, the cardiovascular benefits of some individual Portfolio Diet components, including nuts [
+43
+,
+44
+], soy protein [
+45
+,
+46
+], viscous fibre sources [
+47
+] and MUFAs [
+48
+,
+49
+] has been demonstrated in randomized trials of similar populations. Our findings are also in agreement with cross-sectional analyses of other dietary patterns that share some similar components (legumes, whole grains, nuts, plant oils, fruits, and vegetables) to the Portfolio Diet, including the Dietary Approaches to Stop Hypertension (DASH) and Mediterranean diets, which have been associated with more favourable lipid, blood pressure and/or adiposity markers in young adults who are predominantly university students [
+50
+,
+51
+,
+52
+,
+53
+]. A previous longitudinal analysis of the Portfolio and DASH diets found that greater adherence to either diet was associated with favourable changes in triglycerides, HbA1c, fasting glucose, BMI and waist circumference in older adults with metabolic syndrome [
+27
+]. Long-term prospective cohort studies have further shown that higher adherence to the DASH and Mediterranean diets in younger adulthood was associated with lower risk of incident CVD, mortality or metabolic syndrome in middle age [
+54
+,
+55
+]. Previous prospective cohort studies of the Portfolio Diet have demonstrated an association between PDS and lower risk of CVD, type 2 diabetes, and mortality in middle-aged and older adults [
+42
+,
+56
+,
+57
+,
+58
+]. The association between higher PDS and lower risk of CVD was stronger among younger (< 60 years) compared to older (≥ 60 years) participants in one study [
+42
+]. Further investigation of how these associations may differ with adherence beginning in even younger age groups is warranted.
+Although the ethnicity and sex-specific differences in our analyses were minimal, they may be noteworthy as other related subgroup differences have been observed in nutrition studies. We found stronger associations between PDS and lower fasting glucose in East Asians and South Asians. This finding is in agreement with a previous prospective cohort study which showed that an overall healthier diet predicted by the dietary diabetes risk reduction score was associated with a larger absolute risk difference for type 2 diabetes in minority women, inclusive of Asian, Hispanic and Black women, compared to non-Hispanic White women [
+59
+]. Our subgroup analyses also showed that the PDS was significantly associated with lower total cholesterol in males only. In line with this finding, the effect of the Mediterranean diet on cardiometabolic outcomes has been shown to be stronger in males compared to females in some studies [
+60
+,
+61
+]. However, the opposite has been demonstrated in a longitudinal cohort study where the association of the Portfolio Diet and lipid markers was stronger in females [
+27
+]. These variations illustrate the importance of further exploring sex-specific differences related to the Portfolio Diet and to other dietary patterns.
+In context with multiple lines of evidence which demonstrate increased risk of CVD with longer lifetime exposure to elevated LDL-C [
+7
+,
+8
+,
+9
+], we demonstrated that lower LDL-C levels, associated with higher adherence to the Portfolio Diet, may delay the onset of rising myocardial infarction risk. If 100% adherence was achieved in our cohort, estimated LDL-C levels were modeled to be 1.89mmol/L or 73.2mg/dL, which is below the 80mg/dL threshold for ideal cardiovascular health [
+38
+]. If this LDL-C level is maintained, myocardial infarction risk was estimated to rise beginning at age 68 compared to at age 55 if LDL-C levels in PDS tertile 1 (6% adherence) were maintained instead. This level of adherence has been demonstrated in metabolic trials on the Portfolio Diet where approximately 100% adherence to recommendations was achieved [
+14
+]. In a previous 6-month trial of effectiveness on the Portfolio Diet, where only dietary advice was provided, participants attained a much more modest adherence of 40–50% [
+15
+]. If a similar 50% adherence was achieved in this cohort, age at which risk of myocardial infarction begins to rise was estimated to still be delayed by 6 years compared to what is observed for PDS tertile 1. Although these findings suggest that early adherence to the Portfolio Diet may be associated with later life cardiovascular health, these modeled projections are based on cross-sectional associations. This underscores the need for future longitudinal analyses on the Portfolio Diet which begin in young adulthood to further examine these relationships.
+Strengths and limitations
+The strengths of our analysis include its ethnoculturally diverse population and the measurement of established risk factors. However, this study is not without limitations. First, the study population consisted of self-selected young adults recruited from a large urban university campus and results may not be representative of the general population. However, the homogeneity of the population may reduce the impact of unmeasured differences and residual confounding of the true associations. Second, the cohort sample size was small, limiting assessment of range of exposure and precision of estimates, particularly in subgroup analyses by ethnicity where only 11% of participants were South Asian (
+n
+= 160) and 7% were other (
+n
+= 109). Third, dietary intake was self-reported using an FFQ which, although validated in this population and measured over 1-month [
+29
+], may result in measurement errors [
+62
+]. Additionally, although the PDS has been previously validated with the same FFQ used to assess dietary intake in the current cohort [
+30
+], the score has not been specifically validated for the current population. Fourth, the consumption of Portfolio Diet components was generally low, even in the top quintiles of intake, which may have led to an underestimation of the strength of the observed associations. Due to the availability of data, we were unable to assess the intake of some Portfolio Diet foods, including plant sterol enriched margarine and high fibre cereals, although their intakes were likely minimal. Fifth, the cumulative exposure modeling analysis assumed that estimated LDL-C levels were held constant over time, as only a single measure of LDL-C was available. While the use of multiple LDL-C measurements are needed to improve the reliability of our projections, and future longitudinal analyses are necessary to confirm our findings, previous evidence suggests that a single lipid measurement taken in young adulthood may still be highly predictive of cumulative LDL-C and cardiovascular disease risk later in life [
+63
+]. Lastly, although adjustments were made for potential confounders, inherent to the cross-sectional nature of our study temporality cannot be assessed, residual confounding cannot be ruled out, and therefore causality cannot be established. Prospective studies are needed to confirm the observed associations.
+Implications
+Our analysis found inverse associations between the PDS and LDL-C, along with other established cardiovascular risk factors, contributing to the current body of evidence on the use of the Portfolio Diet. While these findings may not be clinically significant, based on minimally important differences [
+26
+,
+64
+], in older cohorts, the small beneficial associations observed may still be relevant given that they were shown in an already healthy, young, and low-risk population. Furthermore, LDL-C levels were approximately 0.1mmol/L, or 4%, lower among those in the highest compared to lowest tertiles of adherence to the Portfolio Diet, which is comparable to the minimum lipid-lowering seen for every dose doubling of statin drug [
+65
+], suggesting that with larger differences in adherence to the diet a meaningful association with LDL-C may be observed even in young adults. As the emphasis on primordial and primary prevention of CVD continues to grow, the early promotion of healthy dietary and lifestyle behaviours, is imperative [
+66
+,
+67
+,
+68
+]. Healthy dietary interventions in young adulthood may be particularly important, as life transitions most often experienced in this age group, including leaving home and leaving education, have been associated with negative impacts on diet quality [
+69
+]. The generally low adherence to the Portfolio Diet seen in our cohort and others [
+27
+,
+30
+,
+42
+], highlights that even minimal intake of the Portfolio Diet components may be associated with more favourable risk factors. The benefit of partial adoption has also been demonstrated in a 6-month trial where meaningful reductions in LDL-C were seen with only 40–50% adherence to Portfolio Diet recommendations [
+15
+]. In our modeling of the potential impact of adherence to the Portfolio Diet in young adulthood on cardiovascular health in later life, we demonstrated an estimated extension of cardiovascular health span of 6 and 13 years with 50% and 100% Portfolio Diet adherence, respectively. This finding further demonstrates the clinical importance of dietary modification as part of primordial prevention. As favourable associations between greater adherence to the Portfolio Diet and other established cardiovascular risk factors beyond LDL-C, including other lipid, blood pressure and adiposity markers, were also seen, the benefit of the Portfolio Diet on lifetime cardiovascular health may be even more substantial than predicted in our model. Additionally, given that many young adults are highly conscious about climate change [
+70
+], their dietary choices may be influenced by environmental considerations [
+71
+,
+72
+]. The Portfolio Diet, which includes mostly foods of low environmental impact [
+73
+], is a dietary pattern that can support both the planetary health and population health concerns faced by young adults today. Although some evidence exists to demonstrate the benefit of other dietary patterns, such as the DASH and Mediterranean diets, on cardiovascular risk factors in young adults [
+50
+,
+51
+,
+52
+,
+53
+], previous correlation analyses have demonstrated that these diets are not strongly correlated with the Portfolio Diet, despite sharing some similar foods [
+42
+]. This finding highlights the opportunity to provide individuals with a variety of dietary patterns for the management of cardiovascular risk factors, so they may choose a dietary pattern that best caters to their personal values and preferences. Importantly, while there were minimal subgroup differences by ethnicity, our assessment of adherence to the Portfolio Diet revealed that those with higher PDS were more likely to be Caucasian. Previous studies have characterised typical South Asian diets as high in saturated fat and both East and South Asian diets as high in refined carbohydrates [
+74
+,
+75
+,
+76
+], which may pose cultural barriers to adherence, as the Portfolio Diet is low in saturated fat and emphasizes the replacement of refined carbohydrates with whole grains as a source of viscous fibre. These potential barriers highlight the need for more culturally specific dietary recommendations to improve adherence across ethnically diverse populations.
+Conclusions
+Higher PDS and intake of Portfolio Diet components was associated with lower LDL-C and several other established cardiovascular risk factors in an ethnoculturally diverse population of young adults. The observed associations align with current clinical practice guideline recommendations for the use of the Portfolio Diet for the prevention and management of CVD and suggest the potential for early adoption of a healthy dietary pattern to lower lifetime exposure to risk factors for the disease. Given the cross-sectional nature of this analysis, these results reflect associations rather than causal relationships. Therefore, future prospective studies are necessary to confirm these results and understand how early adoption of the Portfolio Diet in young adulthood may impact long-term cardiovascular health.
+Data availability
+The datasets analysed during the current study are available from the corresponding author upon reasonable request.
+References
+Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, et al. Global burden of cardiovascular diseases and risk factors, 1990–2019: update from the GBD 2019 study. J Am Coll Cardiol. 2020;76(25):2982–3021.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Global regional. National life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the global burden of disease study 2015. Lancet. 2016;388(10053):1459–544.
+Article
+Google Scholar
+Aggarwal R, Yeh RW, Joynt Maddox KE, Wadhera RK. Cardiovascular risk factor prevalence, treatment, and control in US adults aged 20 to 44 years, 2009 to March 2020. JAMA. 2023;329(11):899–909.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Allen N, Wilkins JT. The urgent need to refocus cardiovascular disease prevention efforts on young adults. JAMA. 2023;329(11):886–7.
+Article
+PubMed
+Google Scholar
+Ference BA, Ginsberg HN, Graham I, Ray KK, Packard CJ, Bruckert E, et al. Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European atherosclerosis society consensus panel. Eur Heart J. 2017;38(32):2459–72.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Boekholdt SM, Arsenault BJ, Mora S, Pedersen TR, LaRosa JC, Nestel PJ, et al. Association of LDL cholesterol, non-HDL cholesterol, and Apolipoprotein B levels with risk of cardiovascular events among patients treated with Statins: a meta-analysis. JAMA. 2012;307(12):1302–9.
+Article
+CAS
+PubMed
+Google Scholar
+Zhang Y, Pletcher MJ, Vittinghoff E, Clemons AM, Jacobs DR Jr., Allen NB, et al. Association between cumulative Low-Density lipoprotein cholesterol exposure during young adulthood and middle age and risk of cardiovascular events. JAMA Cardiol. 2021;6(12):1406–13.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Navar-Boggan AM, Peterson ED, D’Agostino RB, Sr., Neely B, Sniderman AD, Pencina MJ. Hyperlipidemia in early adulthood increases long-term risk of coronary heart disease. Circulation. 2015;131(5):451–8.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ference BA, Yoo W, Alesh I, Mahajan N, Mirowska KK, Mewada A, et al. Effect of long-term exposure to lower low-density lipoprotein cholesterol beginning early in life on the risk of coronary heart disease: a Mendelian randomization analysis. J Am Coll Cardiol. 2012;60(25):2631–9.
+Article
+CAS
+PubMed
+Google Scholar
+Canadian Cardiovascular Society. Framingham Risk Score (FRS). Estimation of 10-year Cardiovascular Disease (CVD) Risk 2017 [Available from:
+https://ccs.ca/app/uploads/2020/12/FRS_eng_2017_fnl1.pdf
+Fogacci F, Ray KK, Nicholls SJ, Cicero AFG. Reducing the global prevalence of cardiometabolic risk factors: a bet worth winning. Metabolism. 2025;163:156084.
+Article
+CAS
+PubMed
+Google Scholar
+Pearson GJ, Thanassoulis G, Anderson TJ, Barry AR, Couture P, Dayan N, et al. 2021 Canadian cardiovascular society guidelines for the management of dyslipidemia for the prevention of cardiovascular disease in adults. Can J Cardiol. 2021;37(8):1129–50.
+Article
+PubMed
+Google Scholar
+Grundy SM, Stone NJ, Bailey AL, Beam C, Birtcher KK, Blumenthal RS, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: executive summary: A report of the American college of cardiology/american heart association task force on clinical practice guidelines. J Am Coll Cardiol. 2019;73(24):3168–209.
+Article
+PubMed
+Google Scholar
+Jenkins DJ, Kendall CW, Marchie A, Faulkner DA, Wong JM, de Souza R, et al. Effects of a dietary portfolio of cholesterol-lowering foods vs Lovastatin on serum lipids and C-reactive protein. JAMA. 2003;290(4):502–10.
+Article
+CAS
+PubMed
+Google Scholar
+Jenkins DJ, Jones PJ, Lamarche B, Kendall CW, Faulkner D, Cermakova L, et al. Effect of a dietary portfolio of cholesterol-lowering foods given at 2 levels of intensity of dietary advice on serum lipids in hyperlipidemia: a randomized controlled trial. JAMA. 2011;306(8):831–9.
+Article
+CAS
+PubMed
+Google Scholar
+Jenkins DJ, Kendall CW, Faulkner D, Vidgen E, Trautwein EA, Parker TL, et al. A dietary portfolio approach to cholesterol reduction: combined effects of plant sterols, vegetable proteins, and viscous fibers in hypercholesterolemia. Metabolism. 2002;51(12):1596–604.
+Article
+CAS
+PubMed
+Google Scholar
+Jenkins DJ, Chiavaroli L, Wong JM, Kendall C, Lewis GF, Vidgen E, et al. Adding monounsaturated fatty acids to a dietary portfolio of cholesterol-lowering foods in hypercholesterolemia. CMAJ. 2010;182(18):1961–7.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Health Canada, Food Directorate Health Products and Food Branch. Plant Sterols and Blood Cholesterol Lowering 2010 [Available from:
+https://www.canada.ca/en/health-canada/services/food-nutrition/food-labelling/health-claims/assessments/plant-sterols-blood-cholesterol-lowering-nutrition-health-claims-food-labelling.html
+Health Canada, Food Directorate Health Products and Food Branch. Oat Products and Blood Cholesterol Lowering 2010 [Available from:
+https://www.canada.ca/en/health-canada/services/food-nutrition/food-labelling/health-claims/assessments/products-blood-cholesterol-lowering-summary-assessment-health-claim-about-products-blood-cholesterol-lowering.html
+Health Canada, Food Directorate Health Products and Food Branch. Summary of Health Canada’s Assessment of a Health Claim about Food Products Containing Psyllium and Blood Cholesterol Lowering 2011 [Available from:
+https://www.canada.ca/en/health-canada/services/food-nutrition/food-labelling/health-claims/assessments/psyllium-products-blood-cholesterol-lowering-nutrition-health-claims-food-labelling.html
+Health Canada, Food Directorate Health Products and Food Branch. Summary of Health Canada’s Assessment of a Health Claim about Soy Protein and Cholesterol Lowering 2015 [Available from:
+https://www.canada.ca/en/health-canada/services/food-nutrition/food-labelling/health-claims/assessments/summary-assessment-health-claim-about-protein-cholesterol-lowering.html
+US Food & Drug Administration. Qualified Health Claims: Letter of Enforcement Discretion - Nuts and Coronary Heart Disease (Docket No 02P-0505) 2003 [Available from:
+https://wayback.archive-it.org/7993/20171114183724/https://www.fda.gov/Food/IngredientsPackagingLabeling/LabelingNutrition/ucm072926.htm
+US Food & Drug Administration. Food Labeling: Health Claims; Soluble Dietary Fiber From Certain Foods and Coronary Heart Disease 2005 [Available from:
+https://www.federalregister.gov/documents/2005/12/23/05-24387/food-labeling-health-claims-soluble-dietary-fiber-from-certain-foods-and-coronary-heart-disease#:~:text=SUMMARY%3A,of%20beta%2Dglucan%20soluble%20fiber
+EFSA Panel on Dietetic Products, Nutrion and Allergies. Scientific Opinion on the substantiation of a health claim related to oat beta glucan and lowering blood cholesterol and reduced risk of (coronary) heart disease pursuant to Article 14 of Regulation (EC) No 1924/2006 2010 [Available from:
+https://efsa.onlinelibrary.wiley.com/doi/abs/
+https://doi.org/10.2903/j.efsa.2010.1885
+EFSA Panel on Dietetic Products, Nutrion and Allergies. Scientific Opinion on the substantiation of a health claim related to 3 g/day plant sterols/stanols and lowering blood LDL-cholesterol and reduced risk of (coronary) heart disease pursuant to Article 19 of Regulation (EC) No 1924/2006 2012 [Available from:
+https://efsa.onlinelibrary.wiley.com/doi/
+https://doi.org/10.2903/j.efsa.2012.2693
+Chiavaroli L, Nishi SK, Khan TA, Braunstein CR, Glenn AJ, Mejia SB, et al. Portfolio dietary pattern and cardiovascular disease: A systematic review and Meta-analysis of controlled trials. Prog Cardiovasc Dis. 2018;61(1):43–53.
+Article
+PubMed
+Google Scholar
+Glenn AJ, Hernández-Alonso P, Kendall CWC, Martínez-González M, Corella D, Fitó M, et al. Longitudinal changes in adherence to the portfolio and DASH dietary patterns and cardiometabolic risk factors in the PREDIMED-Plus study. Clin Nutr. 2021;40(5):2825–36.
+Article
+CAS
+PubMed
+Google Scholar
+García-Bailo B, Brenner DR, Nielsen D, Lee HJ, Domanski D, Kuzyk M, et al. Dietary patterns and ethnicity are associated with distinct plasma proteomic groups. Am J Clin Nutr. 2012;95(2):352–61.
+Article
+PubMed
+Google Scholar
+Nielsen DE, Boucher BA, Da Costa LA, Jenkins DJA, El-Sohemy A. Reproducibility and validity of the Toronto-modified Harvard food frequency questionnaire in a multi-ethnic sample of young adults. Eur J Clin Nutr. 2022.
+Glenn AJ, Boucher BA, Kavcic CC, Khan TA, Paquette M, Kendall CWC et al. Development of a portfolio diet score and its concurrent and predictive validity assessed by a food frequency questionnaire. Nutrients. 2021;13(8).
+Cahill L, Corey PN, El-Sohemy A. Vitamin C deficiency in a population of young Canadian adults. Am J Epidemiol. 2009;170(4):464–71.
+Article
+PubMed
+Google Scholar
+Sampson M, Ling C, Sun Q, Harb R, Ashmaig M, Warnick R, et al. A new equation for calculation of Low-Density lipoprotein cholesterol in patients with normolipidemia and/or hypertriglyceridemia. JAMA Cardiol. 2020;5(5):540–8.
+Article
+PubMed
+Google Scholar
+Piani F, Cicero AFG, Ventura F, Dormi A, Fogacci F, Patrono D, et al. Evaluation of twelve formulas for LDL-C Estimation in a large, blinded, random Italian population. Int J Cardiol. 2021;330:221–7.
+Article
+PubMed
+Google Scholar
+White-Al Habeeb NMA, Higgins V, Venner AA, Bailey D, Beriault DR, Collier C, et al. Canadian society of clinical chemists harmonized clinical laboratory lipid reporting recommendations on the basis of the 2021 Canadian cardiovascular society lipid guidelines. Can J Cardiol. 2022;38(8):1180–8.
+Article
+PubMed
+Google Scholar
+Martin SS, Blaha MJ, Elshazly MB, Toth PP, Kwiterovich PO, Blumenthal RS, et al. Comparison of a novel method vs the Friedewald equation for estimating low-density lipoprotein cholesterol levels from the standard lipid profile. JAMA. 2013;310(19):2061–8.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Vujovic A, Kotur-Stevuljevic J, Spasic S, Bujisic N, Martinovic J, Vujovic M, et al. Evaluation of different formulas for LDL-C calculation. Lipids Health Dis. 2010;9:27.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Deurenberg P, Weststrate JA, Seidell JC. Body mass index as a measure of body fatness: age- and sex-specific prediction formulas. Br J Nutr. 1991;65(2):105–14.
+Article
+CAS
+PubMed
+Google Scholar
+Ference BA, Graham I, Tokgozoglu L, Catapano AL. Impact of lipids on cardiovascular health: JACC health promotion series. J Am Coll Cardiol. 2018;72(10):1141–56.
+Article
+CAS
+PubMed
+Google Scholar
+Jenkins DJ, Kendall CW, Faulkner DA, Nguyen T, Kemp T, Marchie A, et al. Assessment of the longer-term effects of a dietary portfolio of cholesterol-lowering foods in hypercholesterolemia. Am J Clin Nutr. 2006;83(3):582–91.
+Article
+CAS
+PubMed
+Google Scholar
+Jenkins DJ, Kendall CW, Marchie A, Faulkner D, Vidgen E, Lapsley KG, et al. The effect of combining plant sterols, soy protein, viscous fibers, and almonds in treating hypercholesterolemia. Metabolism. 2003;52(11):1478–83.
+Article
+CAS
+PubMed
+Google Scholar
+Kavanagh ME, Glenn AJ, Chiavaroli L, Morgan GA, Josse RG, Malik VS et al. Simulation model to assess the validity of the clinical portfolio diet score used in the PortfolioDiet.app for dietary self-tracking: a secondary analysis of a randomized controlled trial in hyperlipidemic adults. Front Nutr. 2024;11.
+Glenn AJ, Guasch-Ferré M, Malik VS, Kendall CWC, Manson JE, Rimm EB, et al. Portfolio diet score and risk of cardiovascular disease: findings from 3 prospective cohort studies. Circulation. 2023;148(22):1750–63.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liu Y, Hwang HJ, Kim HS, Park H. Time and intervention effects of daily almond intake on the changes of lipid profile and body composition among Free-Living healthy adults. J Med Food. 2018;21(4):340–7.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sumislawski K, Widmer A, Suro RR, Robles ME, Lillegard K, Olson D et al. Consumption of tree nuts as snacks reduces metabolic syndrome risk in young adults: A randomized trial. Nutrients. 2023;15(24).
+Merz-Demlow BE, Duncan AM, Wangen KE, Xu X, Carr TP, Phipps WR, et al. Soy isoflavones improve plasma lipids in normocholesterolemic, premenopausal women. Am J Clin Nutr. 2000;71(6):1462–9.
+Article
+CAS
+PubMed
+Google Scholar
+McVeigh BL, Dillingham BL, Lampe JW, Duncan AM. Effect of soy protein varying in isoflavone content on serum lipids in healthy young men. Am J Clin Nutr. 2006;83(2):244–51.
+Article
+CAS
+PubMed
+Google Scholar
+Kristensen M, Bügel S. A diet rich in oat Bran improves blood lipids and hemostatic factors, and reduces apparent energy digestibility in young healthy volunteers. Eur J Clin Nutr. 2011;65(9):1053–8.
+Article
+CAS
+PubMed
+Google Scholar
+Hodson L, Skeaff CM, Chisholm WA. The effect of replacing dietary saturated fat with polyunsaturated or monounsaturated fat on plasma lipids in free-living young adults. Eur J Clin Nutr. 2001;55(10):908–15.
+Article
+CAS
+PubMed
+Google Scholar
+Smith RD, Kelly CN, Fielding BA, Hauton D, Silva KD, Nydahl MC, et al. Long-term monounsaturated fatty acid diets reduce platelet aggregation in healthy young subjects. Br J Nutr. 2003;90(3):597–606.
+Article
+CAS
+PubMed
+Google Scholar
+Navarro-Prado S, Schmidt-RioValle J, Montero-Alonso MA, Fernández-Aparicio Á, González-Jiménez E. Stricter adherence to dietary approaches to stop hypertension (DASH) and its association with lower blood pressure, visceral fat, and waist circumference in university students. Nutrients. 2020;12(3).
+Lobene AJ, Smiljanec K, Axler MR, Ramos-Gonzalez M, Lennon SL. Greater adherence to healthy dietary patterns is associated with lower diastolic blood pressure and augmentation index in healthy, young adults. Nutr Res. 2022;106:60–71.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Štefan L, Čule M, Milinović I, Sporiš G, Juranko D. The relationship between adherence to the mediterranean diet and body composition in Croatian university students. Eur J Integr Med. 2017;13:41–6.
+Article
+Google Scholar
+Lopes S, Fontes T, Menezes R, Rodrigues LM, Ferreira-Pêgo C. Mediterranean diet adherence and its relationship to metabolic markers and body composition in Portuguese university students. Nutrients. 2023;15(10).
+Zhong VW, Ning H, Van Horn L, Carnethon MR, Wilkins JT, Lloyd-Jones DM, et al. Diet quality and Long-Term absolute risks for incident cardiovascular disease and mortality. Am J Med. 2021;134(4):490–e824.
+Article
+PubMed
+Google Scholar
+Steffen LM, Van Horn L, Daviglus ML, Zhou X, Reis JP, Loria CM, et al. A modified mediterranean diet score is associated with a lower risk of incident metabolic syndrome over 25 years among young adults: the CARDIA (Coronary artery risk development in young Adults) study. Br J Nutr. 2014;112(10):1654–61.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Glenn AJ, Li J, Lo K, Jenkins DJA, Boucher BA, Hanley AJ, et al. The portfolio diet and incident type 2 diabetes: findings from the women’s health initiative prospective cohort study. Diabetes Care. 2023;46(1):28–37.
+Article
+PubMed
+Google Scholar
+Glenn AJ, Lo K, Jenkins DJA, Boucher BA, Hanley AJ, Kendall CWC, et al. Relationship between a Plant-Based dietary portfolio and risk of cardiovascular disease: findings from the women’s health initiative prospective cohort study. J Am Heart Assoc. 2021;10(16):e021515.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lo K, Glenn AJ, Yeung S, Kendall CWC, Sievenpiper JL, Jenkins DJA et al. Prospective association of the portfolio diet with All-Cause and Cause-Specific mortality risk in the Mr. OS and Ms. OS Study Nutrients. 2021;13(12).
+Rhee JJ, Mattei J, Hughes MD, Hu FB, Willett WC. Dietary diabetes risk reduction score, race and ethnicity, and risk of type 2 diabetes in women. Diabetes Care. 2015;38(4):596–603.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Bédard A, Riverin M, Dodin S, Corneau L, Lemieux S. Sex differences in the impact of the mediterranean diet on cardiovascular risk profile. Br J Nutr. 2012;108(8):1428–34.
+Article
+PubMed
+Google Scholar
+Leblanc V, Bégin C, Hudon AM, Royer MM, Corneau L, Dodin S, et al. Gender differences in the long-term effects of a nutritional intervention program promoting the mediterranean diet: changes in dietary intakes, eating behaviors, anthropometric and metabolic variables. Nutr J. 2014;13:107.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Kipnis V, Subar AF, Midthune D, Freedman LS, Ballard-Barbash R, Troiano RP, et al. Structure of dietary measurement error: results of the OPEN biomarker study. Am J Epidemiol. 2003;158(1):14–21. discussion 2–6.
+Article
+PubMed
+Google Scholar
+Wilkins JT, Ning H, Allen NB, Zheutlin A, Shah NS, Feinstein MJ, et al. Prediction of cumulative exposure to atherogenic lipids during early adulthood. J Am Coll Cardiol. 2024;84(11):961–73.
+Article
+CAS
+PubMed
+Google Scholar
+Chiavaroli L, Lee D, Ahmed A, Cheung A, Khan TA, Blanco S, et al. Effect of low glycaemic index or load dietary patterns on glycaemic control and cardiometabolic risk factors in diabetes: systematic review and meta-analysis of randomised controlled trials. BMJ. 2021;374:n1651.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Nicholls SJ, Brandrup-Wognsen G, Palmer M, Barter PJ. Meta-analysis of comparative efficacy of increasing dose of Atorvastatin versus Rosuvastatin versus Simvastatin on Lowering levels of atherogenic lipids (from VOYAGER). Am J Cardiol. 2010;105(1):69–76.
+Article
+CAS
+PubMed
+Google Scholar
+Gooding HC, Gidding SS, Moran AE, Redmond N, Allen NB, Bacha F, et al. Challenges and opportunities for the prevention and treatment of cardiovascular disease among young adults: report from a National heart, lung, and blood Institute working group. J Am Heart Assoc. 2020;9(19):e016115.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lloyd-Jones DM, Albert MA, Elkind M. The American heart association’s focus on primordial prevention. Circulation. 2021;144(15):e233–5.
+Article
+PubMed
+Google Scholar
+Fernández-Friera L, Fuster V, López-Melgar B, Oliva B, García-Ruiz JM, Mendiguren J, et al. Normal LDL-Cholesterol levels are associated with subclinical atherosclerosis in the absence of risk factors. J Am Coll Cardiol. 2017;70(24):2979–91.
+Article
+PubMed
+Google Scholar
+Winpenny EM, van Sluijs EMF, White M, Klepp KI, Wold B, Lien N. Changes in diet through adolescence and early adulthood: longitudinal trajectories and association with key life transitions. Int J Behav Nutr Phys Act. 2018;15(1):86.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Hickman C, Marks E, Pihkala P, Clayton S, Lewandowski RE, Mayall EE, et al. Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. Lancet Planet Health. 2021;5(12):e863–73.
+Article
+PubMed
+Google Scholar
+Korkala EA, Hugg TT, Jaakkola JJ. Awareness of climate change and the dietary choices of young adults in Finland: a population-based cross-sectional study. PLoS ONE. 2014;9(5):e97480.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Jürkenbeck K, Spiller A, Schulze M. Climate change awareness of the young generation and its impact on their diet. Clean Responsible Consum. 2021;3:100041.
+Article
+Google Scholar
+Clark M, Springmann M, Rayner M, Scarborough P, Hill J, Tilman D, et al. Estimating the environmental impacts of 57,000 food products. Proc Natl Acad Sci U S A. 2022;119(33):e2120584119.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hu FB, Liu Y, Willett WC. Preventing chronic diseases by promoting healthy diet and lifestyle: public policy implications for China. Obes Rev. 2011;12(7):552–9.
+Article
+CAS
+PubMed
+Google Scholar
+Van Horn L, Carson JA, Appel LJ, Burke LE, Economos C, Karmally W, et al. Recommended dietary pattern to achieve adherence to the American heart association/american college of cardiology (AHA/ACC) guidelines: A scientific statement from the American heart association. Circulation. 2016;134(22):e505–29.
+PubMed
+Google Scholar
+Misra A, Khurana L, Isharwal S, Bhardwaj S. South Asian diets and insulin resistance. Br J Nutr. 2009;101(4):465–73.
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Funding
+VC was supported by a Toronto 3D Research Fellowship Award, the Canadian Institute of Health Research (CIHR) Canada Graduate Scholarship– Masters (CGS-M) Research Award and a University of Toronto Department of Nutritional Sciences Fellowship. LC was funded by a Toronto 3D New Investigator Award. AJG was supported by a CIHR Fellowship and Toronto 3D Knowledge Synthesis and Clinical Trials foundation Postdoctoral Award. MEK was supported by the CIHR Doctoral Research Award: FRN: 181403, the CGS– Michael Smith Foreign Study Supplements FRN: 186436, and the Toronto 3D Knowledge Synthesis and Clinical Trials foundation PhD Scholarship Award. DJAJ was funded by the Government of Canada through the Canada Research Chair Endowment. JLS was funded by a PSI Graham Farquharson Knowledge Translation Fellowship; Canadian Diabetes Association Clinician Scientist Award; Canadian Institute of Health Research INMD and CNS New Investigator Partnership Prize; and Banting & Best Diabetes Centre Sun Life Financial New Investigator Award. The funders, including food industry stakeholders that share financial relationships with any authors, had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.
+Author information
+Authors and Affiliations
+Department of Nutritional Sciences, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada
+Victoria Chen, Laura Chiavaroli, Meaghan E. Kavanagh, Tara Zeitoun, Sara Mahdavi, Cyril W. C. Kendall, David J. A. Jenkins, Ahmed El-Sohemy & John L. Sievenpiper
+Toronto 3D Knowledge Synthesis and Clinical Trials Unit, Clinical Nutrition and Risk Factor Modification Centre, St. Michael’s Hospital, Toronto, ON, Canada
+Victoria Chen, Laura Chiavaroli, Meaghan E. Kavanagh, Cyril W. C. Kendall, David J. A. Jenkins & John L. Sievenpiper
+Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+Andrea J. Glenn & Sara Mahdavi
+Department of Nutrition and Food Studies, New York University, New York, NY, USA
+Andrea J. Glenn
+Department of Medicine, Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada
+David J. A. Jenkins & John L. Sievenpiper
+Division of Endocrinology and Metabolism, St. Michael’s Hospital, Toronto, ON, Canada
+David J. A. Jenkins & John L. Sievenpiper
+Li Ka Shing Knowledge Institute, St. Michael’s Hospital, Toronto, ON, Canada
+Laura Chiavaroli, David J. A. Jenkins & John L. Sievenpiper
+College of Pharmacy and Nutrition, University of Saskatchewan, Saskatoon, SK, Canada
+Cyril W. C. Kendall
+Authors
+Victoria Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Laura Chiavaroli
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Andrea J. Glenn
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Meaghan E. Kavanagh
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tara Zeitoun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sara Mahdavi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cyril W. C. Kendall
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David J. A. Jenkins
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ahmed El-Sohemy
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+John L. Sievenpiper
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+VC, AE-S, JLS designed the research; VC performed statistical analysis; VC, LC, AJG, MEK, TZ, SM, CWC, DJAJ, AE-S, JLS interpreted the results; VC drafted original manuscript; VC, LC, AJG, MEK, TZ, SM, CWC, DJAJ, AE-S, JLS critically reviewed and approved the final version of the manuscript; AE-S, JLS: provided supervision.
+Corresponding author
+Correspondence to
+John L. Sievenpiper
+.
+Ethics declarations
+Ethics approval and consent to participate
+The study was conducted in accordance with the Declaration of Helsinki. The study protocol was approved by the Research Ethics Board at the University of Toronto and written informed consent was obtained from all participants.
+Consent for publication
+Not applicable.
+Competing interests
+LC has received research support from the Canadian Institutes of Health Research (CIHR), Protein Industries Canada (a Government of Canada Global Innovation Clusters), The United Soybean Board (USDA soy “Checkoff” program), and the Alberta Pulse Growers Association. AJG has received honoraria or travel support from the British Nutrition Society, Vinasoy, and the Good Food Institute. SM has received funding for advisory board activities, consulting roles, educational grants, travel grants, and speaker/moderator honoraria from the American Academy of Nutrition, World Congress of Aesthetics and Anti-Aging Medicine, Canadian Board of Aesthetic Medicine, Canadian Association of Medical Aesthetics, Canadian Association of Aesthetic Medicine, Los Angeles Multi-Specialty Cosmetic Academy, Allergan, Galderma, Sanofi, Shire, Genzyme, Gambro, Nutrigenomix, and Abbott. SM has received fellowship, educational, and research funding from Harvard University, the University of Toronto, and Mitacs. SM has provided in-kind educational speaker services to the University of Miami Dermatology Department and has served on the Editorial Board of the Canadian Journal of Kidney Disease and Health, the official journal of the Canadian Society of Nephrology. SM is an associate editor of the Canadian Journal of Kidney Disease and Health and an assistant editor of BMJ Nutrition, Prevention & Health. CWCK has received grants or research support from the Advanced Food Materials Network, Agriculture and Agri-Foods Canada (AAFC), Almond Board of California, Barilla, Canadian Institutes of Health Research (CIHR), Canola Council of Canada, International Nut and Dried Fruit Council, International Tree Nut Council Research and Education Foundation, Loblaw Brands Ltd, the Peanut Institute, Pulse Canada and Unilever. He has received in-kind research support from the Almond Board of California, Barilla, California Walnut Commission, Kellogg Canada, Loblaw Companies, Nutrartis, Quaker (PepsiCo), the Peanut Institute, Primo, Unico, Unilever, WhiteWave Foods/Danone. He has received travel support and/or honoraria from the Barilla, California Walnut Commission, Canola Council of Canada, General Mills, International Nut and Dried Fruit Council, International Pasta Organization, Lantmannen, Loblaw Brands Ltd, Nutrition Foundation of Italy, Oldways Preservation Trust, Paramount Farms, the Peanut Institute, Pulse Canada, Sun-Maid, Tate & Lyle, Unilever and White Wave Foods/Danone. He has served on the scientific advisory board for the International Tree Nut Council, International Pasta Organization, McCormick Science Institute and Oldways Preservation Trust. He is a founding member of the International Carbohydrate Quality Consortium (ICQC), Executive Board Member of the Diabetes and Nutrition Study Group (DNSG) of the European Association for the Study of Diabetes (EASD), is on the Clinical Practice Guidelines Expert Committee for Nutrition Therapy of the EASD and is a Director of the Toronto 3D Knowledge Synthesis and Clinical Trials foundation. DJAJ has received research grants from Loblaw Companies Ltd., the Almond Board of California, Soy Nutrition Institute (SNI), and the Canadian Institutes of Health Research (CIHR). He has received in-kind supplies for trials as a research support from the Almond board of California, Walnut Council of California, American Peanut Council, Barilla, Unilever, Unico, Primo, Loblaw Companies, Quaker (Pepsico), Pristine Gourmet, Bunge Limited, Kellogg Canada, WhiteWave Foods. He has been on the speaker’s panel, served on the scientific advisory board and/or received travel support and/or honoraria from the Lawson Centre Nutrition Digital Series, 19th Annual Stare-Hegsted Lecture, 2024 Diabetes Canada Conference, Nutritional Fundamentals for Health (NFH)-Nutramedica, Saint Barnabas Medical Center, The University of Chicago, 2020 China Glycemic Index (GI) International Conference, Atlantic Pain Conference, Academy of Life Long Learning, the Almond Board of California, Canadian Agriculture Policy Institute, the Loblaw Companies Ltd, the Griffin Hospital (for the development of the NuVal scoring system), the Coca-Cola Company, Epicure, Danone, Diet Quality Photo Navigation (DQPN), Better Therapeutics (FareWell), Verywell, True Health Initiative (THI), Heali AI Corp, Institute of Food Technologists (IFT), Soy Nutrition Institute (SNI), Herbalife Nutrition Institute (HNI), Herbalife International, Pacific Health Laboratories, Nutritional Fundamentals for Health (NFH), the Soy Foods Association of North America, the Nutrition Foundation of Italy (NFI), the Toronto Knowledge Translation Group (St. Michael’s Hospital), the Canadian College of Naturopathic Medicine, The Hospital for Sick Children, the Canadian Nutrition Society (CNS), and the American Society of Nutrition (ASN). He is a member of the International Carbohydrate Quality Consortium (ICQC). His wife, Alexandra L Jenkins, is senior scientist of INQUIS Clinical Research Inc. (Clinical Research Organization), his 2 daughters, Wendy Jenkins and Amy Jenkins, have published a vegetarian book that promotes the use of the low glycemic index plant foods advocated here, The Portfolio Diet for Cardiovascular Risk Reduction (Academic Press/Elsevier 2020 ISBN:978-0-12-810510-8) and his sister, Caroline Brydson, received funding through a grant from the St. Michael’s Hospital Foundation to develop a cookbook for one of his studies. AE-S is the founder and holds shares in Nutrigenomix Inc. JLS has received research support from the Canadian Foundation for Innovation, Ontario Research Fund, Province of Ontario Ministry of Research and Innovation and Science, Canadian Institutes of health Research (CIHR), Diabetes Canada, American Society for Nutrition (ASN), National Honey Board (U.S. Department of Agriculture [USDA] honey “Checkoff” program), Institute for the Advancement of Food and Nutrition Sciences (IAFNS), Pulse Canada, Quaker Oats Center of Excellence, INC International Nut and Dried Fruit Council Foundation, The United Soybean Board (USDA soy “Checkoff” program), Protein Industries Canada (a Government of Canada Global Innovation Cluster), Almond Board of California, European Fruit Juice Association, The Tate and Lyle Nutritional Research Fund at the University of Toronto, The Glycemic Control and Cardiovascular Disease in Type 2 Diabetes Fund at the University of Toronto (a fund established by the Alberta Pulse Growers), The Plant Protein Fund at the University of Toronto (a fund which has received contributions from IFF among other donors), The Plant Milk Fund at the University of Toronto (a fund established by the Karuna Foundation through Vegan Grants), and The Nutrition Trialists Network Fund at the University of Toronto (a fund established by donations from the Calorie Control Council, Physicians Committee for Responsible Medicine, and Login5 Foundation). He has received food donations to support randomized controlled trials from the Almond Board of California, California Walnut Commission, Danone, Nutrartis, Soylent, and Dairy Farmers of Canada. He has received travel support, speaker fees and/or honoraria from FoodMinds LLC, Nestlé, Abbott, General Mills, Nutrition Communications, International Food Information Council (IFIC), Arab Beverage Association, International Sweeteners Association, Calorie Control Council, Phynova, and Collaborative CME and Research Network (CCRN). He has or has had ad hoc consulting arrangements with Almond Board of California, Perkins Coie LLP, Tate & Lyle, Ingredion, and Brightseed. He is on the Clinical Practice Guidelines Expert Committees of Diabetes Canada, European Association for the study of Diabetes (EASD), Canadian Cardiovascular Society (CCS), and Obesity Canada/Canadian Association of Bariatric Physicians and Surgeons. He serves as an unpaid member of the Board of Trustees of IAFNS. He is a Director at Large of the Canadian Nutrition Society (CNS), founding member of the International Carbohydrate Quality Consortium (ICQC), Executive Board Member of the Diabetes and Nutrition Study Group (DNSG) of the EASD, and Director of the Toronto 3D Knowledge Synthesis and Clinical Trials foundation. His spouse is a former employee of Nestle Health Science and AB InBev. VC, MEK and TZ report no relevant competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+Supplementary Material 1
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Chen, V., Chiavaroli, L., Glenn, A.J.
+et al.
+Portfolio diet and LDL-C in a young, multiethnic cohort: cross-sectional analyses with cumulative exposure modeling.
+BMC Public Health
+25
+, 1761 (2025). https://doi.org/10.1186/s12889-025-22479-9
+Download citation
+Received
+:
+20 November 2024
+Accepted
+:
+25 March 2025
+Published
+:
+13 May 2025
+DOI
+:
+https://doi.org/10.1186/s12889-025-22479-9
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Portfolio Diet
+LDL-C
+Cardiovascular risk factors
+Cumulative exposure
+Primordial prevention
+Young adults
+Download PDF
+Advertisement
+BMC Public Health
+ISSN: 1471-2458
+Contact us
+General enquiries:
+journalsubmissions@springernature.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our
+Terms and Conditions
+,
+Your US state privacy rights
+,
+Privacy
+                statement
+and
+Cookies
+policy.
+Your privacy choices/Manage cookies
+we use in the preference centre.
+© 2025 BioMed Central Ltd unless otherwise stated. Part of
+Springer Nature
+.

@@ -1,0 +1,1623 @@
+Rapid flips between warm and cold extremes in a warming world | Nature Communications
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature communications
+articles
+article
+Rapid flips between warm and cold extremes in a warming world
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+22 April 2025
+Rapid flips between warm and cold extremes in a warming world
+Sijia Wu
+1
+na1
+,
+Ming Luo
+ORCID:
+orcid.org/0000-0002-5474-3892
+1
+na1
+,
+Gabriel Ngar-Cheung Lau
+2
+,
+Wei Zhang
+ORCID:
+orcid.org/0000-0001-8134-6908
+3
+,
+Lin Wang
+ORCID:
+orcid.org/0000-0002-3557-1853
+4
+,
+Zhen Liu
+5
+,
+Lijie Lin
+6
+,
+Yijing Wang
+7
+,
+Erjia Ge
+8
+,
+Jianfeng Li
+9
+,
+Yuanchao Fan
+ORCID:
+orcid.org/0000-0002-3462-1820
+10
+,
+Yimin Chen
+1
+,
+Weilin Liao
+ORCID:
+orcid.org/0000-0002-9681-6631
+1
+,
+Xiaoyu Wang
+1
+,
+Xiaocong Xu
+ORCID:
+orcid.org/0000-0002-3773-0811
+1
+,
+Zhixin Qi
+1
+,
+Ziwei Huang
+1
+,
+Faith Ka Shun Chan
+ORCID:
+orcid.org/0000-0001-6091-6596
+11
+,
+David Yongqin Chen
+12
+,
+Xiaoping Liu
+ORCID:
+orcid.org/0000-0003-4242-5392
+1
+&
+…
+Tao Pei
+ORCID:
+orcid.org/0000-0002-5311-8761
+13
+,
+14
+,
+15
+Show authors
+Nature Communications
+volume
+16
+, Article number:
+3543
+(
+2025
+)
+Cite this article
+18k
+Accesses
+2
+Citations
+414
+Altmetric
+Metrics
+details
+Subjects
+Atmospheric science
+Climate change
+Natural hazards
+Abstract
+Rapid temperature flips are sudden shifts from extreme warm to cold or vice versa–both challenge humans and ecosystems by leaving a very short time to mitigate two contrasting extremes, but are yet to be understood. Here, we provide a global assessment of rapid temperature flips from 1961 to 2100. Warm-to-cold flips favorably follow wetter and cloudier conditions, while cold-to-warm flips exhibit an opposite feature. Of the global areas defined by the Intergovernmental Panel on Climate Change, over 60% have experienced more frequent, intense, and rapid flips since 1961, and this trend will expand to most areas in the future. During 2071–2100 under SSP5-8.5, we detect increases of 6.73–8.03% in flip frequency (relative to 1961–1990), 7.16–7.32% increases in intensity, and 2.47–3.24% decreases in transition duration. Global population exposure will increase over onefold, which is exacerbated in low-income countries (4.08–6.49 times above the global average). Our findings underscore the urgency to understand and mitigate the accelerating hazard flips under global warming.
+Similar content being viewed by others
+Increasing heat and rainfall extremes now far outside the historical climate
+Article
+Open access
+05 October 2021
+Amplified warming of North American cold extremes linked to human-induced changes in temperature variability
+Article
+Open access
+12 July 2024
+Growing prevalence of heat over cold extremes with overall milder extremes and multiple successive events
+Article
+Open access
+01 April 2022
+Introduction
+In a warming world, extreme warm (and cold in some cases) events would intensify and pose increasing threats to natural and socio-economic systems
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+. Compared with independent extreme warm or cold events, rapid temperature flips–a sudden shift in temperature from extreme warm to opposite extreme cold or vice versa–allow a very short time for human and ecosystem preparedness to respond and adapt. Thus, this natural hazard can increase the risk of severe and even irreversible impacts on human health
+7
+, infrastructure
+8
+, air quality
+9
+, and plant phenology
+10
+, etc. Although there is a rapidly growing literature on independent extreme warm (such as heatwaves) or cold events (such as cold spells)
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+, very little is known about the rapid flips between warm and cold events, including historical occurrences, underlying processes, and their responses to global warming. This knowledge gap is of considerable concern given the high vulnerability of human, animal, and plant health to sudden flips in temperature extremes under climate change.
+Rapid temperature flips have occurred worldwide and have caused disruptive impacts on humans and the environment
+7
+,
+8
+,
+9
+,
+10
+. Notable examples of warm-to-cold flips include a March 2012 event in North America, which experienced a temperature drop from ~10 °C above the normal to 5 °C below the normal in less than a week, leading to premature crop blossoming in ‘false spring’ and subsequent damage by an anomalous cold spell
+11
+,
+12
+. In September 2020, the Rocky Mountains in North America faced a sudden transition from a severe heatwave to a heavy blanket of snow with a drop of >20 °C within a day, leading to power outages, property damage, and disrupted daily life
+13
+,
+14
+. Outside North America, Europe experienced a significant flip in April 2021, when temperatures swung from warm to cold conditions, leading to widespread frost damage to crops
+15
+. These high-impact disaster incidents underline the urgent need to establish a comprehensive understanding of the rapid flips between two contrasting hazards, which remain poorly understood.
+Here, we investigate the changes in temperature flip events as the climate warms using multiple observations and a suite of climate simulations in the Coupled Model Inter-comparison Project phase 6 (CMIP6, see Methods). We present their global patterns and possible associated processes in observations during 1961–2023. We then estimate the long-term trends in their occurrence frequency, intensity, and transition duration since 1961, and project the future changes until the end of the twenty-first century under different Shared Socioeconomic Pathways (SSPs). We show how these trends vary over different Intergovernmental Panel on Climate Change Sixth Assessment Report (IPCC AR6) climate reference regions
+16
+. To explore the impact of temperature flips, we also estimate how population exposure to temperature flip changes varies across different countries and income levels. The results advance our knowledge of understanding sudden and intense weather shifts and highlight the imperative of assessing the full risks of extreme events in a warming world.
+Results
+Global patterns of rapid temperature flip occurrences
+We start with examining the global patterns of the occurrence frequency, intensity, and transition duration of warm-to-cold and cold-to-warm flip events displayed in Fig.
+1
+. A warm-to-cold flip is identified when temperature shifts from one standard deviation (
+s.d
+.) above to below the mean temperature within five days, and vice versa for a cold-to-warm flip (Fig.
+1a, b
+and see Methods for details). Using different temporal intervals (3, 5, and 7 days; compare Fig.
+1c–h
+and Supplementary Figs.
+1
+–
+2
+) and temperature thresholds (1.0, 1.5, and 2.0 s.d.; compare Fig.
+1c–h
+and Supplementary Figs.
+3
+–
+5
+) to define rapid flips yields similar results, demonstrating the robustness of our findings. Different datasets (i.e., ERA5
+17
+, Berkeley Earth
+18
+, and NCEP
+19
+) yield consistent latitudinal and seasonal patterns in the occurrence characteristics of temperature flips (Fig.
+1c–h
+). While temperature flips tend to occur less frequently in lower latitudes (30°S–30°N) and polar regions, they occur much more frequently in mid-latitudes (around 30°S–60°S and 30°N–60°N), such as East Asia, eastern North America, and southern parts of South America, Africa, and Australia (Fig.
+1c, d
+). This is expected since stronger synoptic variations in mid-latitudes are associated with eddy activities and frontal systems, which occasionally bring cold air masses from high latitudes and warm air masses from low latitudes
+20
+, thereby causing more frequent abrupt temperature changes in these regions. Rossby waves also play an important role in the temperature variabilities over mid-latitudes
+21
+. The areas with more frequent flip events tend to have relatively stronger intensity, which is especially evident in East Asia and South America (Fig.
+1e, f
+). Different from the occurrence frequency and intensity, the transition duration of the flip events is shorter in the mid-latitudes of both hemispheres, indicating a more rapid warm-to-cold or cold-to-warm shift in these regions (Fig.
+1g, h
+). Among different seasons, warm-to-cold flips are generally more frequent and more intense in the March-April-May (MAM) and June-July-August (JJA) seasons, with the shortest transition duration observed in JJA. During the December-January-February (DJF) season, these warm-to-cold flips exhibit a lower frequency and smaller intensity but have a longer transition duration. For cold-to-warm flips, there are fewer seasonal differences, although they tend to have a lower frequency in DJF.
+Fig. 1: Detection and observed climatology of temperature flips.
+a
+,
+b
+An example of detecting rapid flips between anomalously warm and anomalously cold events.
+a
+Detection of warm and cold events based on standardized and detrended temperature series. The black (gray) line indicates the standardized and detrended (raw) 5-day rolling mean temperature series, the red line indicates the multi-year season-varying climatological mean of temperature, the gray shading denotes the mean temperature±standard deviation (s.d.), the red (blue) dashed line shows +1 (–1) s.d., the red (blue) shading indicates that the temperature is greater (smaller) than the mean by 1 s.d., the red (blue) circle shows the identification of the anomalously warm (cold) event, and the red (blue) diamond marks the identification of the cold-to-warm (warm-to-cold) flip event.
+b
+An example of detecting a cold-to-warm flip event and its intensity and transition duration analyzed in this study. Blue, gray, and pink colors, respectively, indicate the cold phase, transition phase, and warm phase of a cold-to-warm flip event.
+c
+–
+h
+Maps showing the climatological mean of annual mean occurrence frequency (
+c
+,
+d
+), intensity (
+e
+,
+f
+), and transition duration (
+g
+,
+h
+) of the warm-to-cold (left panel) and cold-to-warm flips (right panel) over 1961–2023. Temperature flip events are first identified from each dataset of ERA5, Berkeley Earth, and NCEP, and then the annual metrics of temperature flips from three datasets are averaged to give an ensemble mean. The embedded bar chart shows the climatology of the corresponding characteristics based on the ERA5 (cyan bar), Berkeley Earth (blue bar), and NCEP (gray bar) datasets in different seasons (DJF: December-January-February, MAM: March-April-May, JJA: June-July-August, SON: September-October-November). The latitudinal curves accompanying the maps show the zonal means of the climatology of the corresponding characteristics based on the ERA5 (cyan curve), Berkeley Earth (blue curve), and NCEP (gray curve) datasets, and the shading indicates the spread of zonal mean values (mean ±
+s.d
+.).
+Full size image
+Processes of rapid temperature flip occurrences
+To show how warm-to-cold and cold-to-warm flip events occur, we first reveal the local physical processes underlying their occurrences (Fig.
+2
+). Specifically, we compare the composite anomalies of relevant variables between flip and non-flip events (i.e., either warm or cold events that do not flip to the opposite extremes) for each grid cell (Supplementary Fig.
+6
+), and then examine the evolution of the composite anomalies of these variables during temperature flip events (Supplementary Fig.
+7
+). In comparison to non-flip warm events, the warm events that flip to cold are featured with weaker increases in temperature, slighter decreases in relative humidity, and larger increases in cloud cover (Supplementary Fig.
+6
+). Increased clouds lead to weaker net solar radiation reaching the surface, thus providing a beneficial environment for cooling in the coming days. Under a continuously cloudy and humid sky, this cooling during the transition of warm-to-cold flips is also associated with stronger increases in soil moisture (Supplementary Fig.
+7
+). This increase is likely result of reduced evapotranspiration due to persistent cloud cover and high humidity during the warm phase of the warm-to-cold flip event
+22
+. These changes collectively reduce surface temperatures, contributing to a rapid flip from anomalously warm to cold conditions. During the cold state of the cold-to-warm flip events, the changes in these variables exhibit approximately opposite patterns to those for warm-to-cold flips (Supplementary Figs.
+6
+–
+7
+). Compared with non-flip cold events, the cold events that flip to warm typically exhibit weaker decreases in temperature and decreased relative humidity and cloud cover, which allow more solar radiation to reach the surface. Under a clearer and drier sky, reductions in atmospheric humidity and soil moisture weaken evaporative cooling via land-atmosphere interactions
+23
+. While the impact of soil moisture is less pronounced during winter (Supplementary Figs.
+8
+–
+11
+), it still plays a role in influencing temperature flips in regions where soil moisture remains unfrozen. Additionally, reduced cloud cover allows more solar radiation to reach the surface during the day, collectively facilitating the transition from cold to warm conditions. A conceptual diagram summarizing the local physical processes associated with typical temperature flips is shown in Fig.
+2
+.
+Fig. 2: A conceptual diagram for local physical processes of temperature flips.
+The diagram summarizes the local physical processes underlying the warm-to-cold (
+a
+) and cold-to-warm flip (
+b
+) events. The blue downward arrow indicates a decrease, and the red upward arrow indicates an increase. Examined variables include shortwave radiation (SWR), longwave radiation (LWR), sensible heat flux (SHF), latent heat flux (LHF), 2-m near-surface air temperature (Ta), total cloud cover (TCC), relative humidity (RH), and soil moisture (SM).
+Full size image
+Further, we explore large-scale atmospheric circulation affecting temperature flip events by taking eastern North America (there are 168 warm-to-cold and 157 cold-to-warm flip events in 1961–2023), northern China, central South America, and southeastern Australia as examples (Supplementary Figs.
+12
+–
+15
+). These regions are among those where both warm-to-cold and cold-to-warm flips occur most frequently (Fig.
+1c–h
+). The evolution of temperature flip events in these regions is primarily under the control of a wave-like train pattern with low- and high-pressure centers alternatively appearing in mid-latitudes. For example, before the occurrence of warm-to-cold flip in eastern North America (Supplementary Fig.
+12
+), this region is dominated by anomalous high pressure and anticyclones, allowing warm conditions to persist. The high pressure over eastern North America coincides with low-pressure anomalies over western United States and western Atlantic, showing a zonal wave-like pattern. This wave pattern moves eastward and intensifies. Later, during the transition period, the low-pressure center dominates eastern North America and produces cold advection, thereby triggering a warm-to-cold flip event there. In comparison, cold-to-warm flips in eastern North America are characterized by opposite atmospheric circulation configurations to warm-to-cold flips. For both flip types in this region, the associated circulation configurations exhibit a generally consistent sign across different seasons (Supplementary Figs.
+16
+–
+17
+). Similar patterns are observed in northern China (Supplementary Fig.
+13
+and ref.
+24
+), central South America (Supplementary Fig.
+14
+), and southeastern Australia (Supplementary Fig.
+15
+), suggesting that such wave-like train patterns play a consistently crucial role in temperature flips across these regions. Considering that temperature flips in other regions may be affected by different atmospheric circulation systems, further analyzes of the large-scale circulation influencing specific regions may still be required.
+Historical changes of rapid temperature flips
+During 1961–2023 (Fig.
+3
+), the global mean occurrence frequency and intensity of warm-to-cold and cold-to-warm flip events have significant increasing trends (
+p
+values < 0.05), while their transition duration has been decreasing (−0. 11 and −0.08 days per century,
+p
+values < 0.05). These trends suggest that the two types of temperature flips have already become more frequent, more intense, and more rapid. Of the global areas defined by IPCC AR6, over 60% have experienced increasing, intensifying, and accelerating flip events since 1961. An extended examination based on the NOAA-CIRES-DOE 20th Century Reanalysis Version 3 dataset
+25
+implies that these intensifications of temperature flips have occurred as early as the early 20th century, and may have accelerated since the late 20th century (Supplementary Figs.
+18
+–
+19
+).
+Fig. 3: Observed historical changes of temperature flips.
+a
+–
+f
+Observed historical trends in the regional mean of the occurrence frequency (
+a
+,
+b
+), intensity (
+c
+,
+d
+), and transition duration (
+e
+,
+f
+) of warm-to-cold (left panel) and cold-to-warm flips (right panel) during 1961–2023 based on ensemble mean of the results from the ERA5, Berkeley Earth, and NCEP datasets. The occurrence frequency, intensity, and transition duration of temperature flips are identified at each grid cell and then averaged over the IPCC AR6 regions with consideration of the weights of grid cell areas. Hatching indicates a significant trend with
+p
+value < 0.1 based on a modified non-parametric Mann–Kendall test. The embedded line plot shows the time series of spatially averaged annual mean of occurrence frequency (
+a
+,
+b
+), intensity (
+c
+,
+d
+), and transition duration (
+e
+,
+f
+) of the warm-to-cold (left panel) and cold-to-warm (right panel) flips over global land areas during 1961–2023. The straight line indicates the corresponding linear trend, and the shading indicates the corresponding 90% confidence interval. Slope and
+p
+value estimates for the trend per century are given in parentheses.
+Full size image
+The global acceleration of warm-to-cold (cold-to-warm) flips over the past six decades is associated with regional transition duration decreases over 78% (65%) of the IPCC AR6 regions, notably for the significant decreases (
+p
+-values < 0.1) over the tropics and subtropics such as South America, West Europe, Africa, and South and Southeast Asia (Fig.
+3e, f
+), which typically have stronger increases in the occurrence frequency and intensity for both types of flips (Fig.
+3a–d
+). This result is generally consistent with earlier findings, which reported significant increases in temperature variability over the tropics
+26
+. The increased tropical temperature flips are likely related to soil drying
+27
+, enhanced atmosphere variability
+28
+, and tropical deforestation
+29
+, which can decrease the surface roughness, thus elevating near-surface wind, enhancing the advection of warm or cold air masses, and facilitating more intense temperature variability
+30
+. Densely populated regions (notably in South and Southeast Asia) have become increasingly exposed to more volatile temperatures, reinforcing the urgent need to mitigate the impacts of sudden and intense flips. There are also regions with decreasing frequency of temperature flips, mainly in polar and cold zones (such as parts of the Arctic and northwestern North America). This is likely connected to a reduced meridional temperature gradient and melting sea ice due to the Arctic amplification under global warming
+28
+,
+31
+. As the temperature gradient weakens, the differences in temperature of incoming air masses between the north and the south are expected to decrease, causing smaller local temperature variability
+28
+,
+32
+.
+Projected future changes of rapid temperature flips
+We now investigate future temperature flip changes projected by CMIP6 models, which can reproduce flip events both in historical climatology (compare Supplementary Fig.
+20
+and Fig.
+1c–h
+) and trend patterns (compare Supplementary Figs.
+21
+–
+23
+and Fig.
+3
+). The projected increases in the frequency and intensity of temperature flips, alongside decreases in their transition duration, tend to continue by the end of the twenty-first century (Fig.
+4
+). Under a high emission scenario (SSP5-8.5) during the far future period (2071–2100), the multi-model ensemble mean projects that global mean frequency (Fig.
+4a, b
+) of warm-to-cold events will increase by 8.03% ± 5.15% (“±” denotes the uncertainty of the ensemble mean measured by half of the inter-model standard deviation, following refs.
+33
+,
+34
+), and cold-to-warm flips by 6.73% ± 6.44%, relative to historical simulations over the baseline period (1961–1990). The intensity is expected to rise by 7.32% ± 1.47% and 7.16% ± 1.72% for warm-to-cold and cold-to-warm flips, respectively (Fig.
+4c, d
+). Additionally, the transition duration of these events is anticipated to be shortened by 3.24% ± 0.55% and 2.47% ± 0.68%, respectively (Fig.
+4e, f
+). Under SSP5-8.5 from 2023 to 2100, future projections show significant shortening trends (
+p
+value < 0.1) in the transition duration of temperature flips over nearly all IPCC AR6 regions (95.65% and 89.13% for warm-to-cold and cold-to-warm flips, respectively; see Fig.
+4g, h
+), with dramatic increases in the occurrence frequency and intensity (Supplementary Fig.
+24
+). Some tropical regions with relatively higher vulnerability and poorer resilience such as Latin American countries are expected to experience even more severe threats from intensifying temperature flips, while there are some weakening temperature flips in high latitudes which may offset the estimated global mean. Our projections of increasing temperature flip risks under SSP5-8.5 may be conservative, as reported by refs.
+35
+,
+36
+,
+37
+that CMIP6 models may underestimate the magnitude of changes in temperature variabilities. In contrast to SSP5-8.5, the increases in frequency and intensity, and decreases in the transition duration of temperature flips under moderate or low scenarios (SSP2-4.5 and SSP1-2.6) would be substantially reduced in most areas (Fig.
+4i, j
+and Supplementary Fig.
+24
+). This signifies a substantial difference in the risk of future temperature flips contingent on our efforts to reduce carbon emissions.
+Fig. 4: Projected future changes of temperature flips.
+a
+–
+f
+Time series of spatially averaged occurrence frequency (
+a
+,
+b
+), intensity (
+c
+,
+d
+), and transition duration (
+e
+,
+f
+) of warm-to-cold flip (
+a
+,
+c
+,
+e
+) and cold-to-warm flip (
+b
+,
+d
+,
+f
+) events over global land areas during 1961–2100 under SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5 scenarios. The shadings indicate the corresponding inter-model spread. The embedded droplet plot shows the mean values of the corresponding characteristics of the cold-to-warm (left panel) and warm-to-cold flip events (right panel) in different seasons in the historical simulations (ALL) during the baseline period (1961–1990) and in the future scenarios during the far future period (2071–2100). The size of the droplet increases according to the ALL, SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5 scenarios.
+g
+,
+h
+Projected future trends in the regional mean of transition duration of warm-to-cold (
+g
+) and cold-to-warm (
+h
+) flips during 2023–2100 based on CMIP6 model ensemble mean simulations under SSP5-8.5 scenario. The transition duration of temperature flips is identified at each grid cell and then averaged over the IPCC AR6 regions with consideration of the weights of grid cell areas. Hatching indicates a significant trend with
+p
+value < 0.1 based on a modified non-parametric Mann–Kendall test.
+i
+,
+j
+Pie charts show the percentage of the IPCC AR6 regions with increasing (pink) and decreasing (cyan) trends of the transition duration of warm-to-cold (
+i
+) and cold-to-warm (
+j
+) flips in the projected future during 2023–2100 under SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5 scenarios.
+Full size image
+Increasing, intensifying, and accelerating temperature flips under climate warming may be facilitated by long-term changes in both large-scale atmospheric circulations and local land-atmosphere interactions. For example, the occurrences of extreme warm and cold events, and their flips as shown in our above analyzes, have been linked to the amplitude and phase of the Rossby waves and jet streams
+38
+,
+39
+. In response to global warming, the Rossby wave amplitudes have been projected to intensify, and the jet streams will become wavier
+40
+, which can intensify temperature variability and potentially facilitate the rapid flips between cold and warm events. By taking eastern North America as an example, here we compare the circulation changes associated with temperature flips between the historical baseline period and the far future period (2071–2100) under the SSP5-8.5 scenario (Supplementary Figs.
+25
+–
+27
+). The comparison indicates that the large-scale circulation patterns associated with temperature flips in eastern North America in the future are similar to those in the historical period, suggesting that atmospheric circulation dynamically drives the occurrence of temperature flips in eastern North America. Notably, the positive and negative circulation anomalies are much stronger in the future projections, implying a potentially greater intensity and wider impact of temperature flips. These projected changes in atmospheric circulation patterns, as evidenced by our analyzes in eastern North America, support the physical plausibility of increased temperature flip events under future warming scenarios. Moreover, local land-atmosphere interactions such as changes in soil moisture, snowpack, and vegetation cover may contribute to intensifying temperature flips by modulating mass and energy fluxes to the atmosphere
+30
+,
+41
+,
+42
+. Climate warming is expected to exacerbate soil moisture deficit in some areas
+43
+,
+44
+, which can intensify temperature variability via increasing the effects of surface heat fluxes
+27
+,
+38
+. As the climate warms, diminishing snow may also cause stronger variations of atmospheric diabatic heating
+45
+,
+46
+, thereby favoring rapid temperature changes. Besides, extensive deforestation not only increases greenhouse gas concentrations but also decreases the surface roughness thus elevating near-surface wind
+47
+,
+48
+, which can enhance the advection of warm or cold air masses, thus facilitating rapid temperature changes and increasing the likelihood of temperature flips.
+Escalating threats of rapid temperature flips
+Due to limited time to adapt to rapid temperature shifts, rapid warm-to-cold and cold-to-warm flip events are likely to amplify the negative consequences of independent warm and cold events on societal and natural systems. Projected changes in exposure to future temperature flips are a key component of understanding their potential vulnerability and, therefore, critical to adequate planning and mitigation. Here we provide projections of population exposure to temperature flips under different scenarios (Fig.
+5
+; see Methods for details). During 2000, the annual global average population exposure to temperature flips was 15.98 billion person-events. By the end of the twenty-first century (2071–2100), the exposure is expected to increase to 34.67 (24.37) billion person-events under SSP3-7.0 (SSP5-8.5), representing a 116.92% ± 14.58% (52.90% ± 10.22%) increase relative to the historical period (Fig.
+5a, b
+). However, the increase in exposure will be limited to 21.94% ± 5.58% under SSP1-2.6, suggesting that the mitigation pathway of SSP1-2.6 is helpful in ameliorating the increase in temperature flips and their impacts.
+Fig. 5: Projected population exposure to temperature flips.
+a
+Time series of globally aggregated annual population exposure to temperature flips under SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5 scenarios. The shadings indicate the corresponding inter-model spread.
+b
+Projected changes in population exposure to temperature flips over the globe and across the sectors with different income levels.
+c
+As in (
+b
+) but for 30 regions modified from the SSPs database.
+Full size image
+There are notable disparities in projected population exposure across different countries and income levels (Fig.
+5b, c
+). Specifically, low-income countries are expected to experience the greatest increase in exposure (4.08–6.49 times above the global average), followed by lower-middle-income countries (0.85–1.29 times above the global average) under all scenarios. Except for high-income countries, poorer countries will experience the largest increases in population exposure under SSP3-7.0, especially for low-income (SSA-L: 590.39% ± 66.34%) and mid-income sub-Saharan Africa (SSA-M: 505.69% ± 89.74%), and low-income Latin American countries (LAM-L: 387.96% ± 78.09%). In comparison, the changes in population exposure in most high-income countries under SSP3-7.0 are smaller than the global level, except for Saudi Arabia and high-income Middle Eastern countries (MEA-H: 412.24% ± 23.37%, i.e., 3.53 times above the global average).
+The comparison between different income levels shows uneven population exposure to the intensification and acceleration of temperature flip risks across developing and developed countries in a warming climate. Developing countries with large populations, especially those in low-income countries, are particularly vulnerable to higher exposure increases, which raises substantial concerns for human health and the human-managed environment. These countries typically with relatively poor infrastructure and resilience, thereby may not have sufficient resources and preparedness to mitigate escalating threats of rapid temperature flips
+49
+. Compared with other hazards, rapid temperature flips, by leaving a very short time to respond and adapt, may amplify the resultant impacts on natural and societal systems. If adaptive capacity in these countries does not keep pace with the intensifying abrupt flips between warm and cold conditions, it may exert heavier stress on the human body and even elevate the risks of morbidity and mortality, especially for vulnerable groups such as the elderly and those with pre-existing health conditions
+50
+,
+51
+. This is particularly severe in low-income or high-poverty regions such as Africa and South Asia, where ecosystems and societies are more susceptible to intense and rapid temperature flips (Fig.
+5c
+)
+28
+.
+Climate change leads to more frequent and more severe temperature flips, such as warm winter days followed by sudden cold snaps can cause unpredictable energy demands for heating, thereby increasing unevenly across different income-level regions and elevating the risks of energy shortages in some low-income regions
+52
+. These issues would be exacerbated if no effective measures were taken to tackle the escalating threats of temperature flips. This is particularly severe for low-income regions, which usually have vulnerable infrastructures of insufficient adaptivity and resilience to mitigate increasing threats from temperature flips. We notice that rapid flips from warm to cooler conditions in some regions can alleviate heat stress, thereby mitigating some of the negative impacts associated with prolonged heat waves. However, our study emphasizes the potential risks of abrupt and sudden temperature flips (that is, from extreme warm to extreme cold conditions) rather than general temperature changes. While there may be scenarios where a cooler phase could be beneficial, the emphasis on the rapid transition highlights the danger of not being able to adapt quickly enough to the shifting conditions. For instance, empirical evidence shows that sudden temperature drops in neighboring days are potential modifiable risk factors of asthma exacerbation, especially for patients with higher body mass index
+53
+. Rapid and intense temperature drops can also cause strain on energy systems due to sudden heating demands, and challenges in agricultural crops that may be damaged by unexpected frost
+11
+,
+54
+.
+Implications for climate change mitigation
+The responses of societal and natural systems to accelerating temperature flips can be variable, which raises new challenges for forecast and prediction. Accurate forecasts of rapid temperature flips require further investigations into location-specific driving factors, underlying mechanisms, and synoptic circulation changes. For seasonal to annual scale of prediction, large-scale signals such as the El Niño-Southern Oscillation
+55
+, North Atlantic Oscillation
+56
+, and Madden-Julian Oscillation
+57
+may provide sources of predictability. At a longer time scale, in addition to anthropogenic global climate warming, local urbanization and its associated land use and land cover changes may contribute to long-term trends of temperature variability and flips
+58
+,
+59
+, and thus can also be considered as a predictor. Early warning and accurate prediction of temperature flips can be highly beneficial for mitigating their impacts and managing their risks. Our research underscores the urgent need for constraining emissions to alleviate the intensification of these rapid temperature flips and thus to mitigate their resultant impacts. Moreover, our reported increases in the projected risks of increasing, intensifying, and accelerating temperature flips in the future suggest that such events would be unprecedented in the current modern era of mitigating infrastructure and call for a pressing need to construct and fortify effective infrastructure to adapt the communities to sudden hazard flips.
+Methods
+Observations and reanalysis
+Our study utilizes daily mean temperature at 2 m height above the surface over the historical period (1961–2023) from three different global datasets, they are, the fifth-generation product produced by the European Centre for Medium-range Weather Forecasts (ECMWF) global reanalysis (ERA5)
+17
+, the Berkeley Earth temperature dataset
+18
+, and the National Centers for Environmental Prediction (NCEP)-National Center for Atmospheric Research (NCAR) reanalysis
+19
+. Daily temperatures from the ERA5, Berkeley Earth, and NCEP datasets are regridded into a resolution of 2.5 ° × 2.5 ° using bilinear interpolation for comparison. Three different datasets yield highly consistent climatological patterns in terms of both spatial (e.g., latitudinal) and temporal (e.g., seasonal) variations in temperature flip events (Fig.
+1
+and Supplementary Figs.
+1
+–
+2
+). We also identify temperature flips from the GHCN-daily gridded dataset (known as HadGHCND
+60
+) and find that their climatological patterns and long-term trends are generally consistent with those from the above-mentioned three datasets (compare Supplementary Figs.
+28
+–
+29
+and Fig.
+1c–h
+). Considering that HadGHCND has limited spatial coverage with large number of missing values in tropical regions and the Southern Hemisphere, we thereby present an ensemble analysis by averaging the results from three global full-coverage datasets, i.e., ERA5, Berkeley Earth, and NCEP datasets.
+Model simulations
+In addition, the projected changes in the characteristics of temperature flips during 1961–2100 are examined using daily temperature outputs from the simulations of 17 climate models participating in the Scenario Model Intercomparison Project (ScenarioMIP) within the Coupled Model Intercomparison Project Phase 6 (CMIP6, see Supplementary Table
+1
+for details) project
+61
+. The temperature output over 1961–2014 utilizes the historical simulations, whereas the 2015–2100 period uses the future climate projection under various emission and socioeconomic scenarios represented by four Tier 1 experiments based on SSP-RCP scenarios, which are SSP1-2.6 (sustainability), SSP2-4.5 (middle of the road), SSP3-7.0 (regional rivalry), SSP5-8.5 (fossil-fueled development)
+62
+. For each model simulation, one realization is used in each experiment, as suggested by previous studies
+63
+. Daily temperatures in all climate model simulations are interpolated into a horizontal resolution of 2.5 ° × 2.5 ° by bilinear interpolation to match the observational data. For both historical simulation and future climate projections involving multiple models, we first calculate the metrics of the flip events separately for each model and then average these metrics of all participating models to yield a multi-model ensemble mean, with the uncertainty measured by half of the inter-model standard deviation
+33
+,
+34
+. This approach effectively mitigates the uncertainties from inter-model differences as it has been shown to outperform a single model in simulating
+64
+,
+65
+,
+66
+.
+We evaluate historical climatological occurrences of rapid temperature flips in CMIP6 model simulations (Supplementary Fig.
+20
+). The evaluation suggests that the climatological patterns in model simulations exhibit a high consistency with those in observations and reanalysis (compare Fig.
+1c–h
+and Supplementary Fig.
+S20
+), with some inter-model spread comparable to the spread between multiple observations/reanalysis. Also, the evaluation of historical trends in temperature flip occurrences shows that CMIP6 models can reproduce historical trend patterns with increasing frequency, increasing intensity, and decreasing duration over most IPCC AR6 climate reference regions (Supplementary Figs.
+21
+–
+23
+). These evaluations demonstrate a strong robustness of simulating temperature flips by CMIP6 models. The uncertainty of the multi-model ensemble mean is represented by half of the standard deviation
+67
+.
+Identification of rapid temperature flips
+A temperature flip event is defined as a short period in which temperature suddenly shifts from extreme warm to extreme cold (warm-to-cold flip) or from cold to warm (cold-to-warm flip) (Fig.
+1a, b
+). The flip events are identified separately for each grid cell. In particular, extreme warm (cold) events at a grid cell are first identified when the five-day mean temperature is greater (smaller) than the climatological average by one standard deviation (
+s
+.
+d
+.) of the data series. Then, a warm-to-cold flip is detected if an extreme warm event is followed by a cold event within five days, and vice versa for a cold-to-warm flip. We also use three and seven days to define the time period and find that different intervals yield similar results (Supplementary Figs.
+S1
+–
+S2
+). Similarly, using different thresholds (1.0 s.d., 1.5 s.d., and 2.0 s.d.) to define extreme events also yields robust results (Supplementary Figs.
+S3
+–
+S5
+).
+To exclude the effects of long-term climate warming on the detection of temperature flip events, we first detrend the original daily temperature time series using a third-degree polynomial fitting method. This detrending process is applied to a 31-day rolling window for each grid cell to separate the inter-seasonal variability, that is, the season-dependent climatological average of temperature can be separated. Based on the detrended temperature data, we calculate the standard deviation (s.d.), which mainly reflects the natural variability of the climate without (or with a little) the influence of long-term trends
+68
+,
+69
+,
+70
+. Moreover, considering that the temperature s.d. may also vary across different seasons, the season-dependent s.d. on each calendar day is individually calculated by applying a 31-day rolling window. The above processing and the identification of the flip events are repetitively applied to all global land grid cells.
+In practice, for each grid cell, let
+\({T}^{\left(i\right)}\)
+be the detrended five-day temperature centered on day
+\(i\)
+,
+\({T}_{m}^{\left(i\right)}\)
+be the multi-year (1961–2023) climatological mean of the temperatures on the same calendar day that day
+\(i\)
+is located in; and
+\({T}_{s.d.}^{\left(i\right)}\)
+be the corresponding standard deviation. A warm event occurs on day
+\(i\)
+if
+\({T}^{\left(i\right)} \, > \, {T}_{m}^{\left(i\right)}+{T}_{s.d.}^{\left(i\right)}\)
+and is marked as “+1”; a cold event occurs on day
+\(i\)
+if
+\({T}^{\left(i\right)} \, < \, \, {T}_{m}^{\left(i\right)}-{T}_{s.d.}^{\left(i\right)}\)
+and is marked as “–1”; and other conditions are marked as “0”:
+$${E}^{\left(i\right)}=\left\{\begin{array}{l}+1,\hfill {T}^{\left(i\right)} \, > \, {T}_{m}^{\left(i\right)}+{T}_{s.d.}^{\left(i\right)}\\ -1,\hfill {T}^{\left(i\right)} \, < \, {T}_{m}^{\left(i\right)}-{T}_{s.d.}^{\left(i\right)}\\ 0,\quad {{ else}}\hfill\end{array}\right.$$
+(1)
+Using this screening, the temperature time series at each grid cell is converted into a sequence of “0”, “–1”, and “+1”. A warm-to-cold flip is then identified at the grid between day
+\(i\)
+and day
+\(j\)
+if
+$$\left({E}^{\left(i\right)}=+ 1\right)\wedge \left({E}^{\left(j\right)}=-1\right);\, \,j=\min \left\{{j}^{{\prime} } | \, {E}^{\left({j}^{{\prime} }\right)}=-1,i \, \, < \, \, {j}^{{\prime} } \, \, < \, \, i+\tau \right\}$$
+(2)
+and a cold-to-warm flip event is identified if
+$$\left({E}^{\left(i\right)}=-1\right)\wedge \left({E}^{\left(j\right)}=+ 1\right);\, \, j=\min \left\{{j}^{{\prime} } | \,{E}^{\left({j}^{{\prime} }\right)}=+ 1,i \, \, < \, \, {j}^{{\prime} } \, \, < \, \, i+\tau \right\}$$
+(3)
+where
+\(\tau\)
+denotes the temporal interval (such as 5 days).
+We examine the occurrence frequency, intensity, and transition duration of temperature flips (Fig.
+1a, b
+). The occurrence frequency at a grid cell is defined as the total number of temperature flip events that occur at the same grid in a given period of time (e.g., a calendar year or a season). For each warm-to-cold (cold-to-warm) event, the transition duration is the time interval from the last day of the preceding warm (cold) event to the first day of the following cold (warm) event. The intensity of a warm-to-cold (cold-to-warm) event is defined as the absolute value of the difference in the standardized temperature between the warmest and coldest days of the flip event, and has a unit of s.d. Here, we use the standardized temperature to exclude the influences of regional discrepancies in the temperature variability, which is usually measured by s.d.
+Population exposure estimation
+For a given year, population exposure to temperature flips is calculated by multiplying the population count in each grid by the number of temperature flip events (the sum of cold-to-warm and warm-to-cold flip occurrences) for each corresponding grid cell during the same year with the following equation, and is thus expressed in the unit of person-events
+71
+:
+$${{Exp}}_{g,y}={P}_{g,y}\times {E}_{g,y}$$
+(4)
+where
+\({P}_{g,y}\)
+and
+\({E}_{g,y}\)
+respectively denote the population count and the number of temperature flip events at grid cell
+\(g\)
+in year
+\(y\)
+, and
+\({{Exp}}_{g,y}\)
+represents the population exposure in flips at the same grid cell
+\(g\)
+in year
+\(y\)
+.
+We then compare the disparities in population exposure to temperature flips at regional levels, which include 30 different macro-regions (Supplementary Fig.
+30
+). The region definition is modified from the regions used in the SSPs database (
+https://tntcat.iiasa.ac.at/SspDb/dsd
+)
+72
+. These macro-regions can be divided into four income levels (i.e., high-income, upper middle-income, lower middle-income, and low-income)
+72
+. The population exposures in each macro and income-level region are aggregated by exposures in temperature flips from grid cells located in the corresponding region. Here, the gridded population data are obtained from the SSPs database covering the period from 2000 to 2100 at a 10-year interval, with a spatial resolution of 1/8 °
+73
+,
+74
+. The historical population count is replaced by population data from the base year of 2000, and the future population projections are retrieved from the corresponding scenario. To match the temperature flip events data, we aggregate the gridded population counts to 2.5 ° × 2.5 ° spatial resolution.
+Composite analysis
+The possible processes associated with temperature flips are examined by the composite analysis method, and its statistical significance is estimated based on a two-tailed Student’s
+t
+-test. The variables used here include 2-m near-surface air temperature, total cloud cover, relative humidity, soil moisture, surface shortwave and longwave radiations, and surface latent and sensible heat fluxes. In the composite analysis, we first obtain the daily anomalies of each variable by removing the climatological seasonal cycle from the original daily series. The seasonal cycle is obtained from the multi-year averaging on individual calendar days over the baseline period of 1961–1990 and then performing a 31-day rolling mean
+75
+,
+76
+.
+To reveal the mechanisms underlying the temperature flips, we conduct two composite analyzes. The first compares the atmospheric conditions between flip and non-flip events, where non-flip events refer to either warm or cold events that do not flip to the opposite extremes. We examine the composite anomalies of relevant atmospheric variables on the last day of the warm (or cold) event for both warm-to-cold (or cold-to-warm) flip and non-flip events. This comparison highlights the differences in pre-existing atmospheric conditions that may influence whether a temperature flip occurs (Supplementary Fig.
+6
+). The second analysis focuses on the evolution of atmospheric conditions during flip events by examining anomalies throughout the transition phase of the flips, which is defined as the period from the last day of the preceding warm (or cold) event to the first day of the following cold (or warm) event. This analysis allows identification of the key physical processes governing temperature flips (Supplementary Fig.
+7
+).
+Trend estimation
+We utilize the simple linear regression to estimate the long-term trends of the occurrence frequency, intensity, and transition duration of temperature flip events, and the significance of the trend is evaluated by a modified non-parametric Mann–Kendall test
+77
+. The trend estimation can be applied to the yearly metrics at individual grid cells and to the area-weighted mean metrics of specific regions, such as IPCC AR6 climate reference regions (Supplementary Table
+2
+)
+16
+.
+Data availability
+All data used in this study are publicly available under the following URLs. The ERA5 dataset is available via the Copernicus Climate Data Store (CDS) at
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-complete?tab=form
+. The Berkeley Earth surface air temperature dataset is available at
+https://berkeleyearth.org/data/
+. The NCEP-NCAR reanalysis dataset is available at
+https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
+. The GHCN-daily gridded dataset (known as HadGHCND) is available at
+https://www.ncei.noaa.gov/pub/data/ghcn/daily/grid/
+. The NOAA-CIRES-DOE 20th Century Reanalysis Version 3 (20CRv3) dataset is available at
+https://www.psl.noaa.gov/data/gridded/data.20thC_ReanV3.html
+. The outputs of daily near-surface air temperature from multi-model climate simulations are from the CMIP6 portal at
+https://esgf-node.llnl.gov/projects/cmip6/
+. The population projection grids based on shared socioeconomic pathways (SSPs) are obtained from
+https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-pd-sspbsyr-1-8th-1.01
+. The authors acknowleage the World Meteorological Organization’s World Climate Research Program (WCRP) CLIVAR program, the UK MetOffice HadEX program, and the WMO Expert Team on Extreme Indices for their inspiration to this work.
+Code availability
+The generated data of yearly metrics of rapid temperature flip events and the codes used to identify rapid temperature flip events and calculate the yearly metrics can be accessed at a Zenodo repository (
+https://doi.org/10.5281/zenodo.15073788
+).
+References
+Lesk, C., Rowhani, P. & Ramankutty, N. Influence of extreme weather disasters on global crop production.
+Nature
+529
+, 84–87 (2016).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Broadbent, A. M., Krayenhoff, E. S. & Georgescu, M. The motley drivers of heat and cold exposure in 21st century US cities.
+Proc. Natl. Acad. Sci. USA
+117
+, 21108 (2020).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+IPCC. Climate change 2021: the physical science basis. contribution of working group I to the sixth assessment report of the intergovernmental panel on climate change. (Cambridge University Press, Cambridge, 2021).
+Yao, Y. et al. Extreme cold events in North America and Eurasia in November-December 2022: a potential vorticity gradient perspective.
+Adv. Atmos. Sci.
+40
+, 953–962 (2023).
+Article
+CAS
+Google Scholar
+Ding, T., Gao, H. & Li, X. Increasing occurrence of extreme cold surges in North China during the recent global warming slowdown and the possible linkage to the extreme pressure rises over Siberia.
+Atmos. Res.
+248
+, 105198 (2021).
+Article
+Google Scholar
+Dunn, R. J. H. et al. Observed global changes in sector-relevant climate extremes indices—an extension to HadEX3.
+Earth Space Sci.
+11
+, e2023EA003279 (2024).
+Article
+ADS
+Google Scholar
+Vicedo-Cabrera, A. M. et al. Associations of inter- and intraday temperature change with mortality.
+Am. J. Epidemiol.
+183
+, 286–293 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Laucelli, D., Rajani, B., Kleiner, Y. & Giustolisi, O. Study on relationships between climate-related covariates and pipe bursts using evolutionary-based modelling.
+J. Hydroinformatics
+16
+, 743–757 (2013).
+Article
+Google Scholar
+Zou, Y., Wang, Y., Zhang, Y. & Koo, J.-H. Arctic sea ice, Eurasia snow, and extreme winter haze in China.
+Sci. Adv.
+3
+, e1602751 (2017).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Marino, G. P., Kaiser, D. P., Gu, L. & Ricciuto, D. M. Reconstruction of false spring occurrences over the southeastern United States, 1901–2007: an increasing risk of spring freeze damage.
+Environ. Res. Lett.
+6
+, 024015 (2011).
+Article
+ADS
+Google Scholar
+Ault, T. R. et al. The false spring of 2012, earliest in North American record.
+Eos Trans. Am. Geophys. Union
+94
+, 181–182 (2013).
+Article
+ADS
+Google Scholar
+Peterson, T. C., Hoerling, M. P., Stott, P. A. & Herring, S. C. Explaining extreme events of 2012 from a climate perspective.
+Bull. Am. Meteorol. Soc.
+94
+, S1–S74 (2013).
+Article
+ADS
+Google Scholar
+Lindsay, W. & Colleen, S. From heat to snow: Rocky Mountains see 60-degree plunge. (Phy.org, 2023).
+Russell, E. N., Loikith, P. C., Ajibade, I., Done, J. M. & Lower, C. The meteorology and impacts of the September 2020 Western United States extreme weather event.
+Weather Clim. Extrem.
+43
+, 100647 (2024).
+Article
+Google Scholar
+Copernicus Climate Change Service. European State of the Climate 2021. (2021).
+Iturbide, M. et al. An update of IPCC climate reference regions for subcontinental analysis of climate model data: definition and aggregated datasets.
+Earth Syst. Sci. Data
+12
+, 2959–2970 (2020).
+Article
+ADS
+Google Scholar
+Hersbach, H. et al. The ERA5 global reanalysis.
+QJR Meteorol. Soc.
+146
+, 1999–2049 (2020).
+Article
+ADS
+Google Scholar
+Rohde, R. et al. Berkeley Earth temperature averaging process.
+Geoinfor. Geostat. Overv.
+1
+, 1000103 (2013).
+Google Scholar
+Kalnay, E. et al. The NCEP/NCAR 40-year reanalysis project.
+Bull. Am. Meteorol. Soc.
+77
+, 437–472 (1996).
+Article
+ADS
+Google Scholar
+Pithan, F. et al. Role of air-mass transformations in exchange between the Arctic and mid-latitudes.
+Nat. Geosci.
+11
+, 805–812 (2018).
+Article
+ADS
+CAS
+Google Scholar
+Hoskins, B. J. & Ambrizzi, T. Rossby wave propagation on a realistic longitudinally varying flow.
+J. Atmos. Sci.
+50
+, 1661–1671 (1993).
+Article
+ADS
+Google Scholar
+Cook, P. A., Black, E. C. L., Verhoef, A., Macdonald, D. M. J. & Sorensen, J. P. R. Projected increases in potential groundwater recharge and reduced evapotranspiration under future climate conditions in West Africa.
+J. Hydrol. Reg. Stud.
+41
+, 101076 (2022).
+Article
+Google Scholar
+Zhou, S. et al. Soil moisture–atmosphere feedbacks mitigate declining water availability in drylands.
+Nat. Clim. Change
+11
+, 38–44 (2021).
+Article
+ADS
+Google Scholar
+Ma, S. & Zhu, C. Atmospheric circulation regime causing winter temperature whiplash events in North China.
+Int. J. Climatol.
+41
+, 917–933 (2021).
+Article
+Google Scholar
+Slivinski, L. C. et al. Towards a more reliable historical reanalysis: improvements for version 3 of the Twentieth Century Reanalysis system.
+Quart. J. Roy. Meteor. Soc.
+145
+, 2876–2908 (2019).
+Article
+ADS
+Google Scholar
+Santer, B. D. et al. Amplification of surface temperature trends and variability in the tropical atmosphere.
+Science
+309
+, 1551–1556 (2005).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Zhang, J., Wu, L. & Dong, W. Land-atmosphere coupling and summer climate variability over East Asia.
+J. Geophys. Res. Atmos.
+116
+https://doi.org/10.1029/2010JD014714
+(2011).
+Bathiany, S., Dakos, V., Scheffer, M. & Lenton, T. M. Climate models predict increasing temperature variability in poor countries.
+Sci. Adv.
+4
+, eaar5809 (2018).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Curtis, P. G., Slay, C. M., Harris, N. L., Tyukavina, A. & Hansen, M. C. Classifying drivers of global forest loss.
+Science
+361
+, 1108–1111 (2018).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Ge, J. et al. Deforestation intensifies daily temperature variability in the northern extratropics.
+Nat. Commun.
+13
+, 5955 (2022).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Screen, J. A. Arctic amplification decreases temperature variance in northern mid- to high-latitudes.
+Nat. Clim. Change
+4
+, 577–582 (2014).
+Article
+ADS
+Google Scholar
+Tamarin-Brodsky, T., Hodges, K., Hoskins, B. J. & Shepherd, T. G. Changes in Northern Hemisphere temperature variability shaped by regional warming patterns.
+Nat. Geosci.
+13
+, 414–421 (2020).
+Article
+ADS
+CAS
+Google Scholar
+Siew, P. Y. F. et al. Significant contribution of internal variability to recent Barents–Kara sea ice loss in winter.
+Commun. Earth Environ.
+5
+, 411 (2024).
+Article
+Google Scholar
+Wu, C. et al. Increased drought effects on the phenology of autumn leaf senescence.
+Nat. Clim. Change
+12
+, 943–949 (2022).
+Article
+ADS
+MathSciNet
+Google Scholar
+Kim, Y.-H., Min, S.-K., Zhang, X., Sillmann, J. & Sandstad, M. Evaluation of the CMIP6 multi-model ensemble for climate extreme indices.
+Weather Clim. Extrem.
+29
+, 100269 (2020).
+Article
+Google Scholar
+Zhang, Y. et al. Substantial increase in abrupt shifts between drought and flood events in China based on observations and model simulations.
+Sci. Total Environ.
+876
+, 162822 (2023).
+Blackport, R. & Fyfe, J. C. Amplified warming of North American cold extremes linked to human-induced changes in temperature variability.
+Nat. Commun.
+15
+, 5864 (2024).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+DeGaetano, A. T. & Lim, L.-S. Declining U.S. regional and continental trends in intra-annual and interannual extreme temperature swings.
+Int. J. Climatol.
+40
+, 2830–2844 (2020).
+Article
+Google Scholar
+Cattiaux, J. et al. Winter 2010 in Europe: a cold extreme in a warming climate.
+Geophys. Res. Lett.
+37
+, 359–392 (2010).
+Francis, J. A. & Vavrus, S. J. Evidence for a wavier jet stream in response to rapid Arctic warming.
+Environ. Res. Lett.
+10
+, 014005 (2015).
+Article
+ADS
+Google Scholar
+Betts, A. K., Ball, J. H., Beljaars, A. C. M., Miller, M. J. & Viterbo, P. A. The land surface-atmosphere interaction: a review based on observational and global modeling perspectives.
+J. Geophys. Res. Atmos.
+101
+, 7209–7225 (1996).
+Article
+ADS
+Google Scholar
+Cohen, J. & Entekhabi, D. The influence of snow cover on northern hemisphere climate variability.
+Atmos. Ocean
+39
+, 35–53 (2001).
+Article
+ADS
+Google Scholar
+Samaniego, L. et al. Anthropogenic warming exacerbates European soil moisture droughts.
+Nat. Clim. Change
+8
+, 421–426 (2018).
+Article
+ADS
+Google Scholar
+Qiao, L. et al. Soil moisture–atmosphere coupling accelerates global warming.
+Nat. Commun.
+14
+, 4908 (2023).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Gottlieb, A. R. & Mankin, J. S. Evidence of human influence on Northern Hemisphere snow loss.
+Nature
+625
+, 293–300 (2024).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Scholten, R. C., Coumou, D., Luo, F. & Veraverbeke, S. Early snowmelt and polar jet dynamics co-influence recent extreme Siberian fire seasons.
+Science
+378
+, 1005–1009 (2022).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Hansen, M. C. et al. High-resolution global maps of 21st-century forest cover change.
+Science
+342
+, 850–853 (2013).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Song, X.-P. et al. Global land change from 1982 to 2016.
+Nature
+560
+, 639–643 (2018).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+McElroy, S., Ilango, S., Dimitrova, A., Gershunov, A. & Benmarhnia, T. Extreme heat, preterm birth, and stillbirth: a global analysis across 14 lower-middle income countries.
+Environ. Int.
+158
+, 106902 (2022).
+Article
+PubMed
+Google Scholar
+Liu, Q. et al. Changing rapid weather variability increases influenza epidemic risk in a warming climate.
+Environ. Res. Lett.
+15
+, 044004 (2020).
+Article
+ADS
+Google Scholar
+Paaijmans, K. P. et al. Influence of climate on malaria transmission depends on daily temperature variation.
+Proc. Natl. Acad. Sci. USA
+107
+, 15135–15139 (2010).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Huang, J., Hitchcock, P., Maycock, A. C., McKenna, C. M. & Tian, W. Northern hemisphere cold air outbreaks are more likely to be severe during weak polar vortex conditions.
+Commun. Earth Environ.
+2
+, 147 (2021).
+Article
+ADS
+Google Scholar
+Zhu, Y. et al. Cold temperature and sudden temperature drop as novel risk factors of asthma exacerbation: a longitudinal study in 18 Chinese cities.
+Sci. Total Environ.
+814
+, 151959 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Casson, N. J. et al. Winter weather whiplash: impacts of meteorological events misaligned with natural and human systems in seasonally snow-covered regions.
+Earth’s Future
+7
+, 1434–1450 (2019).
+Article
+ADS
+Google Scholar
+Cai, W. et al. Changing El Niño–Southern Oscillation in a warming climate.
+Nat. Rev. Earth Environ.
+2
+, 628–644 (2021).
+Article
+Google Scholar
+Hurrell, J. W., Kushnir, Y. & Visbeck, M. The North Atlantic Oscillation.
+Science
+291
+, 603–605 (2001).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, C. Madden-Julian Oscillation.
+Rev. Geophys.
+43
+,
+https://doi.org/10.1029/2004RG000158
+(2005).
+Kalnay, E. & Cai, M. Impact of urbanization and land-use change on climate.
+Nature
+423
+, 528–531 (2003).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Tong, X., Wang, P., Wu, S. & Luo, M. Urbanization effects on high-frequency temperature variability over South China.
+Urban Clim.
+42
+, 101092 (2022).
+Article
+Google Scholar
+Caesar, J., Alexander, L. & Vose, R. Large-scale changes in observed daily maximum and minimum temperatures: Creation and analysis of a new gridded data set.
+J. Geophys. Res. Atmos.
+111
+,
+https://doi.org/10.1029/2005JD006280
+(2006).
+Eyring, V. et al. Overview of the coupled model intercomparison project phase 6 (CMIP6) experimental design and organization.
+Geosci. Model Dev.
+9
+, 1937–1958 (2016).
+Article
+ADS
+Google Scholar
+O’Neill, B. C. et al. The scenario model intercomparison project (ScenarioMIP) for CMIP6.
+Geosci. Model Dev.
+9
+, 3461–3482 (2016).
+Article
+ADS
+Google Scholar
+Shan, K., Lin, Y., Chu, P.-S., Yu, X. & Song, F. Seasonal advance of intense tropical cyclones in a warming climate.
+Nature
+https://doi.org/10.1038/s41586-023-06544-0
+(2023).
+Gleckler, P. J., Taylor, K. E. & Doutriaux, C. Performance metrics for climate models.
+J. Geophys. Res. Atmos.
+113
+,
+https://doi.org/10.1029/2007JD008972
+(2008).
+Jose, D. M., Vincent, A. M. & Dwarakish, G. S. Improving multiple model ensemble predictions of daily precipitation and temperature through machine learning techniques.
+Sci. Rep.
+12
+, 4678 (2022).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhao, Z. et al. A clustering-based multi-model ensemble projection of near-term precipitation changes over East China and its uncertainty.
+Environ. Res. Lett.
+18
+, 094050 (2023).
+Article
+ADS
+Google Scholar
+Haughton, N., Abramowitz, G., Pitman, A. & Phipps, S. J. Weighting climate model ensembles for mean and variance estimates.
+Clim. Dyn.
+45
+, 3169–3181 (2015).
+Article
+Google Scholar
+Barnett, A. G., van der Pols, J. C. & Dobson, A. J. Regression to the mean: what it is and how to deal with it.
+Int. J. Epidemiol.
+34
+, 215–220 (2005).
+Article
+PubMed
+Google Scholar
+Rhines, A. & Huybers, P. Frequent summer temperature extremes reflect changes in the mean, not the variance.
+Proc. Natl. Acad. Sci. USA
+110
+, E546–E546 (2013).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sippel, S. et al. Quantifying changes in climate variability and extremes: pitfalls and their overcoming.
+Geophys. Res. Lett.
+42
+, 9990–9998 (2015).
+Article
+ADS
+Google Scholar
+Jones, B. et al. Future population exposure to US heat extremes.
+Nat. Clim. Change
+5
+,
+https://doi.org/10.1038/nclimate2631
+(2015).
+Chen, M. et al. Rising vulnerability of compound risk inequality to ageing and extreme heatwave exposure in global cities.
+NPJ Urban Sustain.
+3
+, 38 (2023).
+Article
+Google Scholar
+Jones, B. & O’Neill, B. C. Spatially explicit global population scenarios consistent with the Shared Socioeconomic Pathways.
+Environ. Res. Lett.
+11
+, 084003 (2016).
+Article
+ADS
+Google Scholar
+Jones, B. & O’Neill, B. C. (NASA Socioeconomic Data and Applications Center (SEDAC), Palisades, 2020).
+Lau, N.-C. & Nath, M. Model simulation and projection of European heat waves in present-day and future climates.
+J. Clim.
+27
+, 3713–3730 (2014).
+Article
+ADS
+Google Scholar
+Luo, M., Lau, G., Liu, Z., Wu, S. & Wang, X. An observational investigation of spatiotemporally contiguous heatwaves in China from a 3D perspective.
+Geophys. Res. Lett.
+49
+, e2022GL097714 (2022).
+Article
+ADS
+Google Scholar
+Yue, S. & Wang, C. The Mann–Kendall test modified by effective sample size to detect trend in serially correlated hydrological series.
+Water Resour. Manag.
+18
+, 201–218 (2004).
+Article
+Google Scholar
+Download references
+Acknowledgements
+This study is funded by the National Science Fund for Distinguished Young Scholars (No. 42225107) and the National Natural Science Foundation of China (Nos. 42371028 and 42322110).
+Author information
+Author notes
+These authors contributed equally: Sijia Wu, Ming Luo.
+Authors and Affiliations
+Guangdong Provincial Key Laboratory of Urbanization and Geo-Simulation, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China
+Sijia Wu, Ming Luo, Yimin Chen, Weilin Liao, Xiaoyu Wang, Xiaocong Xu, Zhixin Qi, Ziwei Huang & Xiaoping Liu
+Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton, NJ, USA
+Gabriel Ngar-Cheung Lau
+Department of Plants, Soils and Climate, Utah State University, Logan, UT, USA
+Wei Zhang
+Center for Monsoon System Research, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China
+Lin Wang
+Earth, Ocean and Atmospheric Sciences (EOAS) Thrust, Function Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
+Zhen Liu
+School of Management, Guangdong University of Technology, Guangzhou, China
+Lijie Lin
+Shanghai Key Laboratory of Atmospheric Particle Pollution and Prevention (LAP3), Department of Environmental Science and Engineering, Fudan University, Shanghai, China
+Yijing Wang
+Dalla Lana School of Public Health, University of Toronto, Ontario, Canada
+Erjia Ge
+Department of Geography and Resource Management, The Chinese University of Hong Kong, Sha Tin, N.T., Hong Kong, China
+Jianfeng Li
+Institute of Environment and Ecology, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China
+Yuanchao Fan
+School of Geographical Sciences, University of Nottingham Ningbo China, Ningbo, China
+Faith Ka Shun Chan
+School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen, China
+David Yongqin Chen
+State Key Laboratory of Resources and Environmental Information System, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China
+Tao Pei
+University of Chinese Academy of Sciences, Beijing, China
+Tao Pei
+Jiangsu Center for Collaborative Innovation in Geographical Information Resource Development and Application, Nanjing, China
+Tao Pei
+Authors
+Sijia Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ming Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gabriel Ngar-Cheung Lau
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhen Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lijie Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yijing Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Erjia Ge
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianfeng Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuanchao Fan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yimin Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weilin Liao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoyu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaocong Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhixin Qi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ziwei Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Faith Ka Shun Chan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David Yongqin Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoping Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Pei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+M.L. initiated the study. T.P., X.L., and M.L. designed and supervised the study. S.W. compiled the data, performed the analyzes, and drafted the manuscript together with M.L. S.W., M.L., G.N.C.L., W.Z., L.W., Z.L., L.L., Y.W., E.G., J.L., Y.F., Y.C., W.L., X.W., X.X., Z.Q., Z.H., F.K.S.C., D.Y.C., X.L., and T.P. contributed to the result discussion and the review and editing of the manuscript.
+Corresponding authors
+Correspondence to
+Ming Luo
+,
+Xiaoping Liu
+or
+Tao Pei
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Communications
+thanks Philip Mote and James Salinger for their contribution to the peer review of this work. A peer review file is available.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Transparent Peer Review file
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Wu, S., Luo, M., Lau, G.NC.
+et al.
+Rapid flips between warm and cold extremes in a warming world.
+Nat Commun
+16
+, 3543 (2025). https://doi.org/10.1038/s41467-025-58544-5
+Download citation
+Received
+:
+03 November 2024
+Accepted
+:
+26 March 2025
+Published
+:
+22 April 2025
+DOI
+:
+https://doi.org/10.1038/s41467-025-58544-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Associated content
+Focus
+Climate change impacts
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Editors
+Journal Information
+Open Access Fees and Funding
+Calls for Papers
+Editorial Values Statement
+Journal Metrics
+Editors' Highlights
+Contact
+Editorial policies
+Top Articles
+Publish with us
+For authors
+For Reviewers
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Communications
+(
+Nat Commun
+)
+ISSN
+2041-1723
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

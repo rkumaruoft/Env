@@ -1,0 +1,980 @@
+GIS-based mapping of flood hazard areas and soil erosion using analytic hierarchy process (AHP) and the universal soil loss equation (USLE) in the Awash River Basin, Ethiopia | Geoscience Letters | Full Text
+Skip to main content
+Advertisement
+Search
+Get published
+Explore Journals
+Books
+About
+My account
+Search all SpringerOpen articles
+Search
+Geoscience Letters
+Official Journal of the Asia Oceania Geosciences Society (AOGS)
+About
+Articles
+Submission Guidelines
+Submit manuscript
+GIS-based mapping of flood hazard areas and soil erosion using analytic hierarchy process (AHP) and the universal soil loss equation (USLE) in the Awash River Basin, Ethiopia
+Download PDF
+Download PDF
+Research Letter
+Open access
+Published:
+03 April 2025
+GIS-based mapping of flood hazard areas and soil erosion using analytic hierarchy process (AHP) and the universal soil loss equation (USLE) in the Awash River Basin, Ethiopia
+Abayneh Gebremichael
+1
+,
+Ephrem Gebremariam
+2
+&
+Hayal Desta
+3
+Geoscience Letters
+volume
+12
+, Article number:
+12
+(
+2025
+)
+Cite this article
+756
+Accesses
+Metrics
+details
+Abstract
+Floods are the second most significant hazard in Ethiopia, primarily due to the country’s diverse topography, including highland mountains and lowland plains. The Awash River Basin faces numerous environmental challenges, such as land degradation, topsoil erosion, high population density, water deterioration, wetland destruction, desertification, and salinity issues. Floods exacerbate these challenges, making effective flood hazard mapping vital for land use planning and mitigation strategies. This study aimed to create a GIS-based flood hazard map and estimate annual soil loss using the Universal Soil Loss Equation (USLE) while identifying the primary causes and impacts of flooding and soil erosion in the basin. Key parameters for the flood mapping included elevation, slope, drainage density, mean annual rainfall, proximity to rivers, land use, land cover change, and soil type. The results indicated that ~ 51.4% (5,855,130.12 ha) of the basin is highly susceptible to flooding, while 40.6% (4,625,378.51 ha) is moderately prone, and 7.6% (866,358.09 ha) is at low risk. The study identified drainage density, elevation, and slope as crucial factors influencing flood vulnerability. Additionally, the total estimated soil loss in the Awash River Basin was found to be 31,049,739 tons per year, with a mean annual loss of 28.6 tons per hectare. This research pioneers the combined study of flood hazards and soil erosion in the study area, where such an integrated analysis has not been previously conducted. It contributes to enhanced flood management and environmental planning while aligning with the Sustainable Development Goals (SDG 13) regarding climate change mitigation and adaptation.
+Background Information
+Flooding is among the most common and spatially scattered natural hazards in the world, and causes substantial destruction in different parts of the world. This has led to significant annual losses in terms of human and financial aspects (Shu and Finlayson
+1993
+). A flood is described as a body of water that is not submerged or as occurring when silt and/or water are present in regions that are not commonly known as water bodies (Martini and Loat
+2007
+; Ward
+1978
+).
+Flood is the second major hazard in Ethiopia next to drought (ERCS
+2012
+). The reason behind this is the topography of highland mountains and lowland plains with natural drainage networks, which are created by primary river lines.
+Because of climate and land use changes the frequency and magnitude of floods in the country have promptly increased in recent years (Zewde
+2004
+; Semu
+2007
+). And affects the lives of more than 357,000 people (UNOCHA
+2006
+). Currently, the Awash River Basin encounters several environmental challenges, such as land degradation, high population density growth, deterioration of natural water, wetland destruction, desertification and salinity (Hailemariam
+1999
+). Flooding is also a major problem that can increase the degree of severe environmental degradation in the Awash River Basin (Girma
+2010
+).
+The Awash River basin is one of the major river basins, located in the Rift Valley and is among the most frequently flooded areas in Ethiopia (Wondim
+2016
+; Kefyalew
+2003
+; Awash River Basin Authority report,
+2017
+; Ashenafi
+2006
+; Abebe
+2007
+; Dejene et al.
+2017
+; Yonas et al.
+2022
+).
+According to Ibrahim (
+2018
+) and World Bank (
+2015
+), due to urban expansion, surface floods are inevitable because urban areas can be changed to impervious structures that can reduces infiltration of runoff. Subsequently, the capacity and flow rate of runoff increased in downstream of the urban areas.
+The degree of flood damage to social, economic and ecological aspects has increased over time in the Awash River Basin. Many city administrations in the Awash River basin lack integrated early warning and risk management systems, eventually leading to severe flood hazard damage. To avoid such frequent problems, hazard analysis, mitigation and management need to be enhanced (Ebert et al.
+2009
+). Therefore, the use of geo-spatial models to map hazard prone areas is crucial for identifying and mitigating expected flood hazards and their significant causes.
+Furthermore, there is a need for routine flood regulation, timely forecasting, enhancing early warning ability and introducing nature-based flood mitigation strategies in the Awash River Basin. Flood hazard mapping is a critical component of flood-prone land use planning and mitigation strategies (Bhatt et al.
+2014
+). Various studies have shown that GIS-based flood hazard mapping is important for preventing severe flood hazards (Kebede
+2012
+; Getahun et al.
+2015
+; Yonas et al.
+2022
+). Moreover, for flood risk assessment research, Alkema (
+2004
+) contended that remote sensing and GIS approaches are essential, particularly in places where data are limited or outdated. AHP is mostly known model to map flood hazard area worldwide, we have also employ in Awash River basin integrating with soil erosion model.
+Assuming complete aggregation of several criteria, the AHP creates a linear additive model.
+According to Danumah et al. (
+2016
+), the AHP is thought to be the best technique for combining several factors for unique decision-making to produce maps for flood risk zones with a high degree of accuracy. In addition, determined using a pairwise comparison matrix (Pourghasemi et al.
+2014
+). Even though AHP has received a lot of attention lately for flood risk assessment and management, it is based on the theoretical knowledge, experience, and opinions of experts (Pourghasemi et al.
+2014
+; Papaioannou et al.
+2015
+), which may result in bias and ambiguity in perception (Pourghasemi et al.
+2014
+).
+Conversely, it is imperative to determine the annual soil loss, the volume of soil removed due to water-induced erosion, the geographical distribution of soil erosion, and the degree of soil erosion caused by catchment runoff. The estimations provide a thorough grasp of the mechanisms and variables influencing soil erosion as well as possible soil losses due to changes in land use and landscape location. Many people utilize soil erosion models to estimate the amount of runoff-related soil erosion worldwide. The Wischmeier and Smith’s (
+1978
+) Universal Soil Loss Equation (USLE) and its enhanced variant, Renard et al. (
+1997
+) Revised Universal Soil Loss Equation (RUSLE), are the soil erosion models that are most frequently used.
+Despite many different erosion models available worldwide, the USLE (Wischmeier and Smith
+1978
+) is the most popular model for predicting erosion because of its straightforward application and ability to predict only soil losses from sheet and rill erosion under specific cropping and management system conditions (Smit
+1999
+). Since the RUSLE model (Renard et al.
+1997
+) requires continuous, precise data for its calculation (Kim et al.
+2005
+), including maximum 30-min rainfall intensity, rainfall kinetic energy, and soil erodibility, most of its enhancements and adjustments are challenging to adapt to new sites. Owing to several technical problems, such crucial data are typically not available at multiple study sites. Various study in different parts of Ethiopia utilize and confirmed that the applicability of USLE model to Ethiopian agro ecology (Ali and Hagos
+2016
+; Bekele et al.
+2019
+; Brhane and Mekonen
+2009
+; Hailu et al.
+2015
+; Tsegaye et al.
+2019
+; Tesfaye et al.
+2018
+).
+In the Awash River basin, no combined study recorded, to predict the soil loss and to map the flood hazard areas at the same time. Combining study of soil erosion and flood hazard area mapping is significantly contributing a new paradigm for future studies and scholars. Even though flood hazard and soil erosion research has gotten a lot of attention discretely, the connection between soil erosion and flood disasters has not been thoroughly examined. This integrative approach, using AHP and USLE explicitly for this region, contributes new distinctive insights that have not been discovered in previous studies.
+Our study clearly aligned with unique contributions for regional and global significances, such as sustainable development goals (SDGs), distinctively Goal 13 climate action, and Goal 15 life on land. Sustainable land use and disaster risk reduction can be achieved thoroughly when flood and soil erosion management is combined with this goal.
+Indeed, mapping flood susceptible areas, understanding the potential of flood triggering factors and determining sustainable solutions for flooding and other related problems are vital (Dejene et al.
+2017
+). Hence, this work will attempt to produce a GIS-based flood hazard area map using both AHP model and estimate Soil erosion using USLE model, and discuss the major causes and impacts of flooding and soil erosion in the Awash River Basin. Furthermore, it will strive to comprehend nature-based solutions (NBSs) to lessen the severe risk of flooding and soil erosion in the Awash River Basin. Moreover, this research paper meets the objectives of sustainable development goals (SDG 13) of 2030, which states that, climate change mitigation and adaptation: Investigating strategies to combat global warming and adapt to its effects.
+Research methodology and materials
+Study area description
+Locations
+The Awash River Basin is located between 7° 53ʹ N–12° N latitude and 37° 57ʹ E–43° 25ʹ E longitude (Fig.
+1
+). And covered an area of 112,000 km
+2
+, serves as home to 10.5 million inhabitants, and the annual surface water area accounts for approximately 4.9 BM
+3
+(MEFCC
+2018
+). The elevation fluctuates between 210 and 4195 m above sea level. The total length of the Awash River is 1250 km and cover parts of the Oromia, Somali, Amhara, and Afar regions (Tiruneh et al.
+2013
+). The river rises on the high plateau near Ginchi town, on the west side of the capital city of Addis Ababa, Ethiopia, flows along the Rift Valley into the Afar Triangle, and terminates in the salty Lake Abbe on the border with Djibouti (Sonder and Peden
+2008
+).
+Fig. 1
+Location map Awash River Basin
+(Image source:
+Karimi et al.
+2013
+; Tola and Shetty
+2021
+)
+Full size image
+The Awash River Basin is divided into three sections on the basis of physical and socio-economic factors: the Upper Awash covers the upstream parts from Koka Dam (areas above 1500 m); the Middle Awash, includes areas between Koka Dam and Awash station (areas between 1000 and 1500 m); and the Lower Awash coveres areas between 500 and 1000 m and the Eastern catchment (MEFCC
+2018
+; Edossa et al.
+2010
+; Hailemariam
+1999
+). The rainfall pattern is bimodal in upper and middle Awash, with a short rainy season (March–May) and the main rainy season occurs from July to September. The climate of the Awash River Basin varies from humid to arid over the upper parts to the lower parts of the basin.
+The soil of ARB is characterized as high clay soils suitable for cotton growing, clay loam and sandy loam for cereals and sugarcane growing, and sandy soil for pasture with range grasses (MEFCC
+2018
+).
+Data collection for flood hazard mapping using AHP model
+The following scientific instruments were heavily employed in this study to retrieve the required data: the United States Geological Survey (USGS) via (
+http://glovis.usgs.gov
+) provides a digital elevation model (DEM) with a resolution of five meters. Other important parameters included land surface elevation (Land Surface Elevation Model) data, annual rainfall data, and soil maps collected from the Ministry of Agriculture, Ethiopian Metrological Agency (EMA) and the FAO soil map website. Layer stacking of every band was performed with ERDAS IMAGINE. Satellite images of Landsat 8/9, captured by Operational Land Imager (OLI) sensor with pixel resolution of 30 m for the time period of 2020, were geo-referenced using the GCSWGS-1984 geographic coordinate system. Zone 37 N of the Universal Transverse Mercator (UTM) projection system was the projected coordinate system utilized for this study area (WGS, 37 N) obtained from USGS.
+In addition, field work involves the collection of ground control points (GCPs), a review of various literatures, and other pertinent field data for the assessment of resources as well as land use and cover, identification of flood-prone areas, soil types, and other factors were employed. The satellite image data were analyzed by using different GIS models, via ArcGIS 10.8.
+Flood hazard factors used for AHP model
+The models are developed using the DEM, and the DEM is reclassified into very high flood hazard areas, high flood hazard areas, moderate flood hazard areas, low flood hazard areas and very low flood hazard areas using equal intervals of separation on the basis of the degree of severity of flooding. Flood causative factors such as slope, rainfall, elevation, LULC, drainage density, proximity to rivers and soil type were developed, reclassified and weighted using ArcGIS 10.8 to generate flood hazard map (Getahun and Gebre
+2015
+). Finally, following weighted overlay, a flood hazard area map of the Awash River Basin (ARB) was produced.
+The major flood generating factors used for flood hazard assessment are Elevation, Slope, drainage -density, Rainfall, Proximity to river, Land use and Soil type. Based on their capacity to flood the region, flood producing raster layers have been categorized according to earlier studies (Abebe
+2007
+; Bapalu
+2013
+; Yalcina et al.
+2011
+; Juan
+2006
+; Bishaw
+2012
+; Knoop
+2013
+). Flood hazard factors are assessed using a scale from 1 to 9, where a score of 1 signifies that both elements hold equal importance, whereas a score of 9 indicates a greater significance of one component over the other. Conversely, the reciprocals 1/1 and 1/9 reflect a situation where one element is considered less critical than the other (Table
+1
+) (Saaty
+1980
+; Saaty and Vargas
+1991
+). To perform a multi-criteria evaluation of the influence on flood generation in the study area, the weights of these factors were analyzed.
+Table 1 Satty’s scale of relative importance (Saaty
+1980
+; Saaty and Vargas
+1991
+)
+Full size table
+Elevation
+The ArcGIS environment and the DEM are used to build the elevation raster layers. Using the ArcGIS environment’s categorization tool, the elevation raster layers were reclassified into five groups. According to many scholars likelihood of flooding can be severe when the elevation decreases, and contrariwise (Wondim
+2016
+; Argaz et al.
+2019
+; Choubin et al.
+2019
+; (Al-Rawas et al.
+2001
+; Nyarko
+2002
+; Islam
+2000
+; Bapalu
+2005
+; Peduzzi et al.
+2005
+; Sanyal
+2003
+; Shrestha
+2004
+; Todini et al.
+2004
+; UNDP
+2004
+; Gazi et al.
+2019
+; Ogato et al.
+2020
+). The research region was classified into five categories on the basis of how the flood threat was impacted by elevation: Very high (210–680 m), high (680–1104 m), moderate (1104–1659 m), low (1659–2287 m) and very low (2287–4171 m) (Fig.
+2
+).
+Fig. 2
+Elevation map of Awash River basin
+Full size image
+Slope
+The slope is the ratio of a feature’s steepness or degree of inclination to the horizontal plane. Slope is an important indicator of flood-prone surface zones (Alemayehu
+2007
+; Wondim
+2016
+). Moreover, inversely, the more inclined the terrain is, the greater the slope value. The lower the slope value is, the gentler the terrain. In the ArcGIS conversion tool environment, DEMs were converted into slopes and reclassified into five classes. When classifying, keep in consideration that higher flood vulnerability corresponds with a lower slope value and vice versa. Hence, based on this, class very high is less than 8% and given rank was 5, class high (8–21%) and ranked 4, class moderate (21–40%) ranked 3, class low (40–67%) ranked 2 and class very low which is (> 67%) ranked 1 (Fig.
+3
+).
+Fig. 3
+Slope map of Awash River basin
+Full size image
+Rainfall
+Rainfall is a significant factor in creating a flood danger map. The rainfall map was created using the inverse distance weight method from historical rainfall data collected from meteorological stations located in and around the research area (Ogato et al.
+2020
+; Desalegn and Mulu
+2020
+). The Awash River basin’s mean annual rainfall ranges from 940 to 1158 mm.
+Rainfall intensity is important in causing flooding, so weight was assigned to rainfall classes. The runoff that causes flooding increases with increasing rainfall, and vice versa (Adiat et al.
+2012
+; Blistanova et al.
+2016
+; Gazi et al.
+2019
+). Hence, the average rainfall of the raster layer was classified into five classes. An area with higher rainfall, classified as class very high which is greater than 1100 mm/year and ranked as 5, class high (1100–800 mm/year) ranked as 4, moderate (800–600 mm/year) ranked as 3, low (600–400 mm/year) ranked as 2 and very low ranked as 1 (< 400 mm/year) (Fig.
+4
+).
+Fig. 4
+Rainfall map of Awash River basin
+Full size image
+Drainage density
+The DEM was used to compute the drainage density (Valleys) using the spatial analyst extension. However, all the valleys do not necessary carry water. The drainage density is the total length of all the streams and rivers in a drainage basin divided by the total area of the drainage basin (Rahmati et al.
+2016
+). The drainage density is an inverse function of the soil permeability. A low permeable surface area is prone to high drainage density, and water from precipitation also leads to high runoff and vice versa. As a result, greater drainage density means that the area is prone to flooding (Chibssa
+2007
+; Wondim
+2016
+; Paul et al.
+2019
+). The drainage density layer was classified into five classes using a natural break. An area with a higher drainage density which is (11 km/km
+2
+–17 km/km
+2
+) is classified as very high and ranked as class 5, class high (6.7–11 km/km
+2
+) ranked as 4, class moderate (3.7–6.7 km/km
+2
+) ranked as 3, class low (2–3.7 km/km
+2
+) ranked as 2 and class very low ranked as 1 (< 2 km/km
+2
+)
+(
+Fig.
+5
+).
+Fig. 5
+Drainage density map of Awash River basin
+Full size image
+Proximity to river
+One of the primary criteria used to evaluate flood hazard map generation in the study basin was river proximity. River overtopping and flooding in river buffer zones are the most common cases in the study area (Bapalu and Sinha
+2005
+; Rincón et al.
+2018
+; Vojtek and Vojteková
+2019
+). In this study, the class was divided into five categories based on its effect on flood menace, namely very high (0–1000 m), high (1000–2000 m), moderate (2000–5000 m), low (5000–8000 m) and very low (8000–15,000 m) which are derived from the basin river network (Fig.
+6
+). The proximity map was reclassified and combined with other criterion maps for weighted overlay analysis.
+Fig. 6
+Proximity to river
+Full size image
+Land-use land cover
+The LULC of a basin influences infiltration rates, surface and groundwater interactions, and debris flows. Flooding is indirectly impacted by land cover as it directly affects several hydrological cycle characteristics, including as interception, infiltration, concentration, and runoff behavior. When combined, these features provide details regarding the hydrological response and level of flood risk (El Morjani
+2011
+; Sarma
+1999
+; Nyarko
+2002
+; Islam
+2000
+; Bapalu
+2005
+; Peduzzi et al.
+2005
+; UNDP
+2004
+). The Awash River basin land use/land cover was reclassified into five classes and converted into a raster layer based on its ability to increase or decrease the flood rate.
+Bare land was assigned as very high class and ranked as 5, urban/built up land was classified as high class and ranked as 4, agricultural land was classified as moderate and ranked as 3, wetland/shrub land was classified as low and ranked as 2, and forestland was classified as very low and ranked as 1, as shown in Fig.
+7
+.
+Fig. 7
+Land use land cover map of Awash River basin
+Full size image
+Soil types
+Despite the large variety of soil types, the hydrologic soil grouping method of the Ministry of Water and Energy in Ethiopia allows for the distinction of five primary soil classes. The classes are: Pellic Vertisols, Chromic Vertisols, Chromic Luvisols, Euthric Nitosols, and Lithosols (Abebe et al.
+2007
+). These five categories of soil types underwent raster conversion and were reclassified according to their propensity to generate floods. Hence, very high ranked as Class 5, high ranked as Class 4, moderate as Class 3, low as Class 2, and very low as Class 1. Thus, it is assumed that Pellic Vertisols have a very high flooding capacity and reclassified as class 5, Chromic Vertisols have a high flooding capacity then reclassified as class 4, Chromic Luvisols/cambisols have a moderate class 3 flooding capacity, Euthric Nitosols have a low class 2 flooding capacity, and Lithosols have a very low flooding capacity then reclassified as class 1 (Fig.
+8
+). Furthermore, according to Abebe et al. (
+2007
+), the predominant soil type in the Awash River Basin is vertisols.
+Fig. 8
+Reclassified soil map
+Full size image
+Each weight was determined based on its contribution to flood hazard in the study area, topographical considerations and experimental judgments acquired from various experts (Tables
+2
+,
+3
+and
+4
+) (Wondim
+2016
+; Argaz et al.
+2019
+; Gazi et al.
+2019
+; Vojtek and Vojteková
+2019
+; Hussain et al.
+2021
+).
+Table 2 Satty’s scale format
+Full size table
+Table 3 Satty’s scales in decimal form
+Full size table
+Table 4 Normalized pairwise matrix (dividing each cell by sum of values of corresponding column)
+Full size table
+Moreover, Jodhani et al. (
+2024
+) and Riaz and Mohiuddin (
+2025
+) reiterates that a multi criteria decision method (MCDM) employing the AHP technique was used to construct the relative weights for each raster layer, and the relative relevance of each indicator was established by assigning rankings based on information from published studies and expert perspectives.
+Multi criteria (AHP) methodology and analysis of flood hazard map
+The AHP, a multi-criteria decision-making technique, was used to rank and weight the flood causative factors depending on their potential impact on the outcome. The Analytic Hierarchy Process (AHP) is a multi-criteria decision making strategy that offers a methodical way to evaluate and integrate the effects of different elements. It involves many layers of dependent and independent, qualitative and quantitative information. It is a process for methodically comparing pairs of activities or criteria to ascertain their relative importance (Saaty
+1980
+; Yalcina et al.
+2011
+). Additionally, AHP has been widely used and preferred due to its simplicity, reliability, and effectiveness (Abdel karim et al.
+2020
+; Kafle
+2018
+).
+Hence, the rasterized and reclassified potential flood generating factors are weighted, and pair-wise comparisons are made (Table
+5
+). Following a weighted overlay analysis of these layers, a final map was produced and classified according to the impact of each layer on flood hazard.
+Table 5 Final Eigen vector weights of each parameter on the basis of pairwise matrix comparison
+Full size table
+The weighting technique is used to determine the relative importance of one factor in relation to another. The higher the weight, the more significant the component in weighted overlay compared to other factors. Relative comparisons of the seven raster layers were done. Therefore, Using a GIS and the Analytical Hierarchical Process (AHP), the elevation, slope, Drainage density, Rainfall, Proximity to river, land use and soil type are considered when generating flood hazard map (Bapalu
+2013
+; Yalcina et al.
+2011
+; Juan
+2006
+; Bishaw
+2012
+).
+The calculated consistency ratio (CR) values are computed by using (Eqs.
+1
+,
+2
+and
+3
+) and should meet the scientific standard, which is less than (< 0.1). Hence, the calculated Consistency ratio for pair-wise weights comparison was
+0.07
+which is pair-wise weights are at acceptable level (Table
+6
+). In addition, the CR results verify that the consistency of judgments is coherent.
+$${\text{CR}} = \frac{{{\text{CI}}}}{{{\text{RI}}}}.$$
+(1)
+Table 6 Derived consistency ratio (CR)
+Full size table
+Consistency index (CI) value can be obtained by:
+(2)
+ƛ
+max
+obtained from the following equation:
+(3)
+where,
+W
+is the weight vector (column).
+$${\text{CR}} = \frac{{{\text{CI}}}}{{{\text{RI}}}}\;\;\;\;\frac{{{0}{\text{.09166}}}}{1.32} = 0.069 = 0.07$$
+The random index (RI) can be acquired from standard tables (Table
+7
+) (Saaty
+1980
+). RI value determined by the number of the parameters, hence, random inconsistency value for seven parameters is
+1.32
+as per clearly stated in the table
+.
+Table 7 Random inconsistency value (RI)
+Full size table
+A weighted value obtained from pairwise comparison shows that, the highest weight is given to elevation, followed by slope factor, drainage density, rainfall, proximity to rivers, land use and soil type to be merged together in ArcGIS. The flood hazard map for the Awash River basin was produced based on the formula/equation (Eq.
+4
+):
+$${\text{Flood hazard}} = \, \sum W_{i} X_{i} ,$$
+(4)
+where
+W
+i
+= weight of factor
+i
+;
+X
+i
+= criterion score of factors
+i.
+Hence, based on the calculated and finding results of weighted factor the flood hazard map for study area can be generated as follows.
+$${\text{Flood hazard }} = \, 0.{36 } \times \, \left[ {{\text{Elevation}}} \right] \, + \, 0.{24 } \times \, \left[ {{\text{Slope}}} \right] \, + \, 0.{17 } \times \, \left[ {\text{Drainage density}} \right] \, + \, 0.{11 } \times \, \left[ {{\text{Rainfall}}} \right] \, + \, 0.0{6 } \times \, \left[ {\text{Proximity to river}} \right] \, + \, 0.0{4 } \times \, \left[ {\text{Land use}} \right] \, + \, 0.0{2 } \times \, \left[ {\text{Soil type}} \right]$$
+Soil erosion analysis using USLE model
+The techniques for predicting soil loss have evolved over time. The most often used equation for estimating soil loss over an entire river basin is the Universal Soil Loss Equation (USLE), which consists of five elements whose values are determined using their formulas. The following empirical equation, which is the sum of five important erosion-governing characteristics, was used to quantify soil erosion in the study area using the USLE model (Wischmeyer
+1978
+):
+$${\text{A }} = {\text{ R }} \times {\text{ K }} \times {\text{ LS }} \times {\text{ C }} \times {\text{ P}}$$
+Numerous sources are used to obtain the USLE model variables. The tropical rainfall measurement mission (TRMM) website and Ethiopian Metrological Agency (EMA) provides annual rainfall data, which are used to calculate the rainfall erosivity factor (
+R
+-value). The FAO soil portal database is also used to calculate the soil erodibility factor (
+K
+value), which is composed of the organic matter content, texture, and structure of the soil in the research area. The slope gradient factor (LS value) and slope length were derived from the analysis of DEMs with a resolution of 30 m, obtained from United States Geological Survey (USGS). Landsat 7 images and DEMs of the study region were examined to estimate the crop factor (C) and conservation practice factor (P) (Fig.
+9
+).
+Fig. 9
+Methodological workflow for estimating soil loss: image source (Endalamaw et al.
+2021
+)
+Full size image
+Methodological limitations
+Remote sensing has provided us with adequate information for both flood hazard and USLE mapping analysis; however, it is important to realize a number of limitations. The accuracy of remote sensing data was greatly impacted by atmospheric conditions, sensor calibrations, and varying land cover characteristics. Furthermore, biases may occur during classification due to overlap in spectral signatures among various land cover types, which could distort the land use classification. Therefore, the quality and data accuracy of subsequent research can be greatly improved by integrating high resolution imaging with ground truth validation, including field surveys.
+Result and discussion
+The flood hazard analysis results (Table
+8
+and Fig.
+10
+) revealed that the majority of the basin, which accounts for 5,855,130.12 Ha (51.4%), is vulnerable to high flood hazards, and the second highest area coverage is subjected to moderate vulnerability to flood hazards, accounts for 4,625,378.51 Ha (40.6%) of the total awash river basin area coverage. An area of 866,358.09 Ha (7.6%) in the basin is exposed to low flood hazard threats. The drainage density, elevation and slope level contribute more to flood hazard exposure comparing with the other parameters, and many previous studies have also supported this stipulation. The drainage density is directly linked to flooding; as the drainage density increases, the probability of flooding also increases, whereas a decrease in drainage density leads to a lower flood risk. Furthermore, high drainage density results in greater surface runoff, which in turn increases flood risk in areas with elevated drainage density (Paul et al.
+2019
+; Das
+2019
+).
+Table 8 Flood hazard area coverage
+Full size table
+Fig. 10
+Flood hazard map of Awash River basin
+Full size image
+The likelihood of flooding is minimal in elevated regions but significantly greater in low-lying areas (Das
+2019
+; Khosravi et al.
+2019
+). Additionally, flatter slopes are more susceptible to floods and flood events (Radmehr and Araghinejad
+2015
+; Khosravi et al.
+2018
+).
+Riaz and Mohiuddin (
+2025
+) also reiterate that slope is important characteristic that determines flood-prone surface zones, according to the results of the AHP techniques, which prioritize pertinent aspects of flood occurrences.
+The volume of registered rainfall in the area facing a higher flood risk is very low; thus, the more significant rainfall observed in the upper basin has led to considerable flood hazard impacts in the lower basin area. Furthermore, various studies stipulate that flood hazards in the Awash River basin, particularly in major cities such as, Dire Dawa, are strongly interlinked with rainfall patterns. Factors such as the duration, magnitude and intensity of rainfall affect flood formation (Erena and Worku
+2018
+; Hong et al.
+2018
+; Sahana
+2019
+; Das
+2019
+).
+Certain portions of the Awash River Basin, such as the area near Dubti down to Lake Abe, the area between Debele and Gewane around Lake Yardi, and the area 30 km north of Awash town, have reported repeated flooding following the main rainy season, as stated by the Ministry of Water and Energy (Girma Taddese
+2010
+).
+Most downstream parts of Awash River basin are exposed to severe flood hazards due to urbanization and the expansion of agricultural lands. Scholars have highlighted that, urban areas adjacent to rivers face heightened flooding risks because of their valuable economic assets, critical infrastructure, and high population density (Khosravi et al.
+2016a
+,
+b
+; Das
+2018
+). According to Bishaw (
+2012
+), a shift in land use, which includes increasing agricultural production, raised the overflow magnitude and created a high flood hazard zone in the river basin downstream regions. Hence, in the Awash River Basin, recurrent floods have become more frequent every year, resulting in significant financial losses as well as related societal effects. The climate and other related factors are the main reasons for this. The basin has experienced increases in urbanization, agriculture, and grazing areas, all of which drastically decrease the permeability of the ground and improve overland flow. As a consequence, the basin experiences floods every year.
+Soil erosion estimation parameters
+The value of the rainfall erosivity factor (
+R
+) in the Awash River basin, which was estimated to range from − 7.36318 to 3145.93 MJ mm ha
+−1
+h
+−1
+year
+−1
+(
+Fig.
+11
+), is greater than many other findings because of the higher rainfall intensity in the study area, especially in the upper catchment and winter seasons. When the
+R
+-value is lower, the research area experiences less intense rainfall and rainfall that is less likely to erode the soil (Asmamaw
+2019
+). The
+K
+-value of the study area ranged from 0.104261 to 0.172815 (Fig.
+12
+), which is similar to findings of the
+K
+value in tropical soils, which ranges from 0.06 to 0.48 EI-Swaify (
+1982
+), and according to the FAO–UNDP (
+1984
+), the majority of Ethiopian soils have K values between 0.05 and 0.6. The LS factors of the study area range from 0 to 50,773.1 (Fig.
+13
+), and scholars have reported that higher LS values indicate greater erosion vulnerability due to high velocity and runoff accumulation. The C-factor of the Awash River Basin ranges from 0 to 1 (Fig.
+14
+); a relatively high C value indicates increased exposure to soil loss. The area coverage of each land use class is clearly identified. The p factor for the study area ranged from 0.55 to 1 (Fig.
+15
+). A higher P value indicates greater erosion vulnerability in the specified watershed or basin.
+Fig. 11
+R factor
+Full size image
+Fig. 12
+K factor
+Full size image
+Fig. 13
+LS factor
+Full size image
+Fig. 14
+C factor
+Full size image
+Fig. 15
+P factor
+Full size image
+Soil loss potential
+The average annual soil loss was estimated via analysis of the rainfall Erosivity factor (R), soil erodibility factor (K), slope degree factor (LS), cover management (C), and support factor (P) using the ArcGIS 10.8. The USLE map shows that the annual average soil loss potential (A) in the Awash River Basin is displayed in (Fig.
+16
+). The results illustrate that the annual average soil loss in the basin ranges from 0 to 31,049,739 ton ha
+−1
+year
+−1
+. The highest coverage region of the research area has the lowest result, which ranges from 0 to 121,502 ton ha
+−1
+year
+−1
+, indicating that soil erosion in this part of the basin is minimal. The second-highest area coverage registered 121,502 ton ha
+−1
+year
+−1
+and 852,091.1036 ton ha
+−1
+year
+−1
+soil losses, which indicate that soil erosion is largely present and is thought to be of moderate severity.
+Fig. 16
+Soil loss estimation
+Full size image
+The remaining areas range from 852,091.1036 ton ha
+−1
+year
+−1
+to 3,165,620.626 ton ha
+−1
+year
+−1
+, which is considered a high-severity area for soil erosion; the remaining areas range from 3,165,620.626 ton ha
+−1
+year
+−1
+to 8,766,797.363 ton ha
+−1
+year
+−1
+, which is considered very high severe; and the remaining 8,766,797.363 ton ha
+−1
+year
+−1
+to 31,049,739 ton ha
+−1
+year
+−1
+, which is considered an extremely severe potential area for erosion. The significant reason for this extreme soil erosion is high slope gradient within the Awash River basin; according to Jodhani et al. (
+2023
+) LS factor is considered as the main reason for highest soil erosion in Rel River watershed. The large share of the Awash River basin falls under the slope percentage of 0–10%, hence the erosion mainly witnessed in this area is significantly low. Moreover, the presence of forest and grass, which play a vital role in protecting soil from erosion, is also important. According to Kumar et al. (
+2012
+), recurrent changes in vegetation cover result in erosion rates, particularly in semiarid regions. Hence, vegetation plays a major role in preventing severe soil erosion.
+The total annual estimated soil loss of the Awash River Basin is 31,049,739 ton ha
+−1
+year
+−1
+, and the mean annual soil loss is estimated to be approximately 28.6 ton ha
+−1
+year
+−1
+. According to Wolka, Renard and Hurni analysis, this number is above the tolerable limit of soil loss, but, owing to rapid urbanization and the intensive scale of forest degradation, this number is also expected to increase inevitably unless the necessary precautions and measurements take place.
+Validation of model results
+To make sure the level of accuracy for the utilized hazard model, data calibration and validation is highly recommended by various scholars (Jodhani
+2023
+). While some researchers (Adornado and Yoshida
+2010
+; Nonta Nanandh and Changno
+2012
+) believe that ground trothing is an important tool for improving validation procedures, others (Panagos et al.
+2015
+; Nakil and Khire
+2016
+) recommend comparing the results to other soil erosion results from the same watershed, basin, or at the national or regional scale.
+As a result, the validity of this study is assessed by comparing its findings to those of prior studies conducted in the Awash River Basin. Field observations were also conducted to guarantee that the results were accurate, observable, and meaningful. Degife et al. (
+2021
+); Yesuph and Dagnew (
+2019
+) used comparable approaches. The flood hazard map, which was created by using the Multi-Criteria Decision Analysis (MCDA) method, was thoroughly validated against a historical inundation map based on satellite data. The same techniques are also utilized by Jodhani et al. (
+2024
+). To ensure a contextual awareness of the research area, the results from the USLE were also quantitatively compared to those estimated using the revised universal soil loss equation (RUSLE), which is a distinct model used in this paper.
+Environmental planning and policy implications
+Flood hazard and soil erosion in the Awash River Basin have been modeled and assessed, which supports the critical importance of effective environmental planning and sustainable management of flood hazard and erosion. A systematic approach should be used, including concepts such as integrated land management, community involvement, and effective government policy frameworks. These are concluding studies for land use planning to observe the areas that are most susceptible to flood hazard and erosion, drawing of erosion hazards to guide the region, and ecological restoration regions meant for planting trees and shrubs. Policy measures include supporting programs of likely agro-forestry and likely land use while limiting hazardous activities in weak areas and encouraging monetary support for conservational work (Bewket
+2009
+). The degree of environmental conservation and management will increase if locals are involved through education and agro-ecological methods (Sharma
+1999
+; Bewket and Sterk
+2002
+).
+In addition to improving efficient soil and water conservation initiatives that address to their unique demands and concerns, we can readily extract creative and indigenous solutions to flood hazards and soil erosion by collaborating with local people. Farmers can adopt optimal management methods such contour farming, agroforestry, cover crops, reforestation, and afforestation with the active and participatory participation of stakeholders. In the Awash River watershed, community-based conservation initiatives that integrate traditional knowledge can improve resilience against erosion and flood hazards while halting severe soil deterioration. Furthermore, Integrated Water Resources Management and attainment of structures for flood hazard and erosion control ensure substantial soil and water management with the goal of minimizing flood hazard and soil erosion as well as fostering eco-visualization in the basin.
+Conclusion
+In conclusion, this study effectively utilized Geographic Information Systems (GIS) and the Analytical Hierarchy Process (AHP) to identify and map flood hazard zones and assess soil erosion within the Awash River Basin of Ethiopia. The findings reveal that a significant portion of the basin is vulnerable to flooding, with key risk factors including slope, drainage density, and elevation. Urbanization, environmental degradation, and changing climatic patterns exacerbate these flood vulnerabilities, particularly in downstream areas. The accuracy of the flood hazard maps was corroborated by data from the Awash River Basin Authority, thus underscoring the necessity for effective flood management strategies that integrate these maps into urban and regional planning. This should include the establishment of early warning systems and the promotion of sustainable land-use practices that bolster natural drainage systems.
+Simultaneously, soil erosion analysis using the Universal Soil Loss Equation (USLE) indicates that the catchment region exhibits low to moderate levels of erosion, with certain areas experiencing extremely high erosion rates, primarily due to heavy runoff from increased rainfall in higher catchments. The majority of the basin's land is slightly prone to erosion, facilitated by well-managed agricultural practices and vegetative cover. However, soil loss can reach alarming levels, with annual losses ranging up to 31,049,739 tons per hectare. Soil loss ranged significantly, emphasizing the need for implementing sustainable land management techniques such as contour farming and agroforestry to enhance soil resilience amidst climate variability. This interrelation between soil erosion and sediment transport significantly impacts both aquatic ecosystems and terrestrial landscapes, necessitating the implementation of sustainable land management techniques such as contour farming and agroforestry to mitigate erosion risks and enhance soil resilience amid climate variability.
+The intricate relationship between soil erosion and flooding in the Awash River Basin emphasizes the need for concerted efforts to establish adaptive management strategies tailored to local contexts, ensuring ecological rehabilitation and the sustainability of agricultural systems in vulnerable regions. Future research should enhance predictive models that reflect the impacts of land use, climate change, and anthropogenic activities on these interconnected systems. By integrating scientific insights into policy frameworks and raising awareness among stakeholders, effective measures can be instituted to safeguard the basin’s ecological integrity, promote food security, and advance sustainable agricultural practices.
+Comprehensive erosion management measures tailored to the specific topography and land use of the Awash River Basin are strongly recommended to mitigate soil loss and promote sustainable agricultural practices.
+Data availability
+No datasets were generated or analysed during the current study.
+References
+Abdelkarim SS, Al-Alola HM, Alogayell SA, Mohamed II, Alkadi IYI (2020) Integration of GIS-based multicriteria decision analysis and analytic hierarchy process to assess flood hazard on the Al-shamal train pathway in Al-Qurayyat region, Kingdom of Saudi Arabia. Water 12(2020):1702.
+https://doi.org/10.3390/w12061702
+Google Scholar
+Abebe CF (2007) Flood hazard assessment using GIS in Bacho plain, Upper Awash Valley, south west of Addiss Ababa. M.Sc thesis, Addis Ababa University
+Adiat KAN, Nawawi MNM, Abdullah K (2012) Assessing the accuracy of GIS-based elementary multi criteria decision analysis as a spatial prediction tool—a case of predicting potential zones of sustainable groundwater resources. J Hydrol 440–441:75–89
+Google Scholar
+Adornado HA, Yoshida M (2010). Assessing the adverse impacts of climate change: a case study in the Philippines. J Develop Sustain Agricu 5(1):141–146
+Alemayehu Z (2007) Modeling of Flood hazard management for forecasting and emergency response of ‘Koka’ area within Awash River basin using remote sensing and GIS method. Unpublished Msc. Thesis, Addis Ababa University, Ethiopia
+Ali SA, Hagos H (2016) Estimation of soil erosion using USLE and GIS in Awassa Catchment, Rift valley, Central Ethiopia. Geoderma Regional 7(2):159-166.
+Alkema D (2004) RS and GIS applications in flood forecasting. In: Proceedings of the national workshop on flood disaster management: space inputs, 3–4 June 2004, Hyderabad, India, pp 57–59
+Al-Rawas G, Koch M, El-Baz F (2001) Using GIS for flash flood hazard mapping in Oman. Earth Obs Mag 10(8):18–20
+Google Scholar
+Argaz A, Ouahman B, Darkaoui A, Bikhtar H, Ayouch E, Lazaar R (2019) Flood hazard mapping using remote sensing and GIS Tools: a case study of souss watershed. J Mater Environ Sci 10(2):170–181
+Google Scholar
+Ashenafi AA (2006) Flood Modeling and Forecasting for Awash River Basin in Ethiopia. UNESCO-IHE Institute for Water Education, Delft, the Netherlands
+Asmamaw (2019) Identification of soil erosion hotspot areas; for sustainable land management in the Gerado catchment, Northeastern Ethiopia. Remote Sensing Applications: Society and Environment 13.
+Awash River Basin Authority report, Awash Executive Summary of Strategic River Basin Plan for Awash Basin (2017) Awash Basin Authority. Addis Ababa, Ethiopia
+Bapalu S (2013) GIS in flood hazard mapping: a case study of Kosi River Basin, India. Natural Hazard Management
+Bekele T (2019) Effect of Land Use and Land Cover Changes on Soil Erosion in Ethiopia. Int J Agric Sc Food Technol 5(1):26-34.
+Bapalu GV, Sinha R (2005) GIS in flood hazard mapping: a case study of Kosi River Basin, India. GIS Dev Weekly 1(13):1–3
+Google Scholar
+Bewket W, Sterk G (2002) Farmers’ participation in soil and water conservation activities in the Chemoga watershed, Blue Nile basin Ethiopia. Land Degradat Develop 13(3):189–200
+Google Scholar
+Bewket W, Teferi E (2009) Assessment of soil erosion hazard and prioritization for treatment at the watershed level: case study in the Chemoga watershed, Blue Nile basin Ethiopia. Land Degradat Develop 20(6):609–622
+Google Scholar
+Bhatt GD, Sinha K, Deka PK, Kumar A (2014) Flood hazard and risk assessment in Chamoli District, Uttarakhand using satellite remote sensing and GIS techniques. Int J Innov Res Sci Eng Technol 3(8):9
+Google Scholar
+Bishaw K (2012) Application of GIS and remote sensing techniques for flood hazard and risk assessment: the case of Dugeda Bora Woreda of Oromiya Regional State, Ethiopia. In: Berlin Conference on the Human Dimensions of Global Environmental Change. Ethiopian Civil Service University. Addis Ababa
+Blistanova M, Zeleňáková M, Blistan P, Ferencz V (2016) Assessment of flood vulnerability in Bodva river basin Slovakia. Acta Montanistica Slovakia 21(1):19–28
+Google Scholar
+Brhane G, Mekonen K (2009) Estimating soil loss using Universal Soil Loss Equation (USLE) for soil conservation planning at Medego watershed, Northern Ethiopia. J American Sci 5(1):58-69.
+Chibssa AF (2007) Flood hazard assessment using GIS in Bacho Plain, Upper Awash Valley, and South west of Addis Ababa. Master of Science Thesis. Addis Ababa University, Addis Ababa
+Choubin B, Moradi E, Golshan M, Adamowski J, Sajedi-Hosseini F, Mosavi A (2019) An ensemble prediction of flood susceptibility using multivariate discriminant analysis, classification and regression trees, and support vector machines. Sci Total Environ (651):2087–2096
+Danumah JH et al (2016) Flood risk assessment and mapping in Abidjan district using multi-criteria analysis (AHP) model and geoinformation techniques, (cote d’ivoire). Geo-Environ Disasters 3:10.
+https://doi.org/10.1186/s40677-016-0044-y
+Google Scholar
+Das S (2018) Geographic information system and AHP-based flood hazard zonation of Vaitarna basin, Maharashtra, India. Arab J Geosci.
+https://doi.org/10.1007/s12517-018-3933-4
+Google Scholar
+Das S (2019) Geospatial mapping of flood susceptibility and hydro-geomorphic response to the floods in Ulhas basin, India. Remote Sens Appl Soc Environ. 2019(14):60–74.
+https://doi.org/10.1016/j.rsase.2019.02.006
+Google Scholar
+Dejene TB, Boja M, Meseret BG (2017) Assessment of adama city flood risk using multicriteria approach.
+Degife A, Worku H, Gizaw S (2021) Environmental implications of soil erosion and sediment yield in Lake Hawassa watershed, south-central Ethiopia. Environmental Systems Research 10(1).
+https://doi.org/10.1186/s40068-021-00232-6
+.
+Desalegn H, Mulu A (2020) Flood vulnerability assessment using GIS at Fetam watershed, upper Abbay basin, Ethiopia. Heliyon.
+https://doi.org/10.1016/j.heliyon.2020.e05865
+Google Scholar
+Ebert A, Kerle N, Stein A (2009) Urban social vulnerability assessment with physical proxies and spatial metrics derived from air- and space borne imagery and GIS data. Nat Hazards
+Edossa DC, Babel MS, Gupta AD (2010) Drought analysis in the Awash River Basin, Ethiopia. Water Resources Management 24(7):1441–1460.
+El Morjani ZEA (2011) Preparation of the dataset. Methodology document for the WHO atlas of disaster risk. Volume 1. Exposure to natural hazards. Version 2.0. Taroudant poly disciplinary faculty of the Ibn Zohr University of Agadir, Morocco. ISBN: 978-9954-0-5397-3
+El-Swaify SA, Dangler EW, Armstrong CL (1982) Soil erosion by water in the tropics.
+Endalamaw NT, Moges MA, Kebede YS, Alehegn BM, Sinshaw BG (2021) Potential soil loss estimation for conservation planning, upper Blue Nile Basin, Ethiopia. Environmental Challenges 5(100224):100224. Available from:
+https://doi.org/10.1016/j.envc.2021.100224
+Erena SH, Worku H (2018) Flood risk analysis: causes and landscape based mitigation strategies in Dire Dawa city, Ethiopia. Geo-environ Disasters 5(16)
+https://doi.org/10.1186/s40677-018-0110-8
+Ethiopian Red Cross Society (ERCS) (2012) Disaster Preparedness, Unit Major Activities between 2007–2010 and Pan of 2011–2015. Report, Addis Ababa, Ethiopia
+FAO–UNDP (1984) Methodology Used in the Development of Soil Loss Rate Map of the Ethiopian Highlands. In:Field document 5, Ethiopia, Addis Ababa.
+Gazi Y, Islam A, Hossai S (2019) Flood-hazard mapping in a regional scale-way forward to the future hazard Atlas in Bangladesh. Malaysian J Geosci 3(1):01–11
+Google Scholar
+Getahun YS, Gebre SL (2015) Flood hazard assessment and mapping of flood inundation area of the Awash River Basin in Ethiopia using GIS and HEC-Geo-RAS/HEC-RAS model. J Civil Environ Eng 5:179.
+https://doi.org/10.4172/2165-784X.1000179
+Google Scholar
+Girma Taddese KS (2010) The water of Awash River Basin a future challenge of Ethiopia. ILRI, P. O. Box 5689, Addis Ababa Ethiopia
+Hailemariam K (1999) Impact of climate change on the water resources of Awash River Basin, Ethiopia. Clim Res. 12(6):91–96.
+https://doi.org/10.3354/cr012091
+Google Scholar
+Hailu KA, Andreas K (2015) Predicting the spatial distribution of soil erodibility factor using USLE nomograph in an agricultural watershed, Ethiopia, International Soil and Water Conservation Research 3(4):282-290, ISSN 2095-6339,
+https://doi.org/10.1016/j.iswcr.2015.11.002
+.
+Hong H, Panahi M, Shirzadi A, Ma T, Liu J, Zhu AX (2018) Flood susceptibility assessment in Hengfeng area coupling adaptive neuro-fuzzy inference system with genetic algorithm and differential.evolution. Sci Total Environ 621:1124–1141.
+https://doi.org/10.1016/j.scitotenv.2017.10.114
+CAS
+Google Scholar
+Hussain M, Tayyab M, Zhang J, Shah AA, Ullah K, Mehmood U, Al-Shaibah B (2021) GIS-based multi-criteria approach for flood vulnerability assessment and mapping in district Shangla: Khyber Pakhtunkhwa Pakistan. Sustainability 13:3126.
+https://doi.org/10.3390/su13063126
+Google Scholar
+Ibrahim S, Najmaddin PM (2018) Applying built-up and bare soil indices from land sat 8 to cities in dry climates. Land.
+https://doi.org/10.3390/land703008-1
+Google Scholar
+Islam MM, Sado K (2000) Flood hazard assessment in Bangladesh using NOAA AVHRR data with geographical information system. Hydrol Process 14(3):605–620
+Google Scholar
+Jodhani KH, Patel D, Madhavan N et al (2023a) Soil erosion assessment by RUSLE, Google Earth Engine, and Geospatial Techniques over Rel River Watershed, Gujarat, India. Water Conserv Sci Eng 8:49.
+https://doi.org/10.1007/s41101-023-00223-x
+Google Scholar
+Jodhani KH, Patel D, Madhavan N (2023b) A review on analysis of flood modelling using different numerical models. Mater Today Proc 80:3867–3876.
+https://doi.org/10.1016/j.matpr.2021.07.405
+Google Scholar
+Jodhani KH, Patel D, Madhavan N, Gupta N, Singh SK, Rathnayake U (2024) Unraveling flood risk in the Rel River watershed, Gujarat using coupled earth observations, multi criteria decision making and Google Earth Engine. Results Eng 24:102836.
+https://doi.org/10.1016/j.rineng.2024.102836
+Google Scholar
+Juan DP (2006) Flood risk assessment of Xiang River Basin in China. In: The Sixth Annual DPRI-IIASAForum, Istanbul, 13–17 August
+Kafle MR, Shakya NM (2018) Multi-criteria decision making approach for flood risk and sediment management in Koshi Alluvial fan, Nepal. J Water Resour Protect 10:596–619.
+https://doi.org/10.4236/jwarp.2018.106034
+Google Scholar
+Karimi P, Bastiaanssen WGM, Sood A, Hoogeveen J, Peiser L, Bastidas Obando E, Dost R (2013) Spatial evapotranspiration, rainfall and land use data in water accounting—Part 2: reliability of water accounting results for policy decisions in the Awash Basin. J Hydrol Earth Syst Sci
+Kebede B (2012) Application of GIS and Remote Sensing techniques for flood hazard and risk assessment: The case of Dugeda Bora Woreda of Oromiya regional state, Ethiopia. Berlin Conference on the Human Dimensions of Global Environmental Change, 5–6 October 2012, Berlin, pp 1–17.
+http://www.berlinconference.org/2012/?page_id=1060
+Kefyalew A (2003) Integrated food management: case study Ethiopia. Water Resource Consultant, Ethiopia
+Khosravi K, Pourghasemi HR, Chapi K, Bahri M (2016a) Flash flood susceptibility analysis and its mapping using different bivariate models in Iran: a comparison between Shannon’s entropy, statistical index, and weighting factor models. Environ Monit Assess 188.
+https://doi.org/10.1007/s10661-016-5665-9
+Khosravi K, Nohani E, Maroufinia E, Pourghasemi HR (2016b) A GIS-based flood susceptibility assessment and its mapping in Iran: a comparison between frequency ratio and weights-of-evidence bivariate statistical models with multi-criteria decision-making technique. Nat Hazards 83:947–987.
+https://doi.org/10.1007/s11069-016-2357-2
+Google Scholar
+Khosravi K, Pham BT, Chapi K, Shirzadi A, Shahabi H, Revhaug I (2018) A comparative assessment of decision trees algorithms for flash flood susceptibility modeling at Haraz watershed, northern Iran. Sci Total Environ 627:744–755.
+https://doi.org/10.1016/j.scitotenv.2018.01.266
+CAS
+Google Scholar
+Khosravi K, Melesse AM, Shahabi H, Shirzadi A, Chapi K, Hong H (2019) Flood susceptibility mapping at Ningdu catchment, China using bivariate and data mining techniques. Extrem Hydrol Clim var 2019:419–434
+Google Scholar
+Kim (2005) Rapid Assessment of Soil Erosion in the Rio Lempa Basin, Central America, Using the Universal SoilLoss Equation and Geographic Information Systems. Environmental Management 36(6):872–885.
+Knoop BA, Joost (2013) Climate change and territorial effects on regions and local economies. ESPON Climate
+Kumar L, Mahtsente T, Lalit K, Richard K, Benjamin K. Kogo (2012) Mapping of land-use/land-cover changes and its dynamics in Awash River Basin using remote sensing and GIS, Remote Sensing Applications: Society and Environment 19:100352, ISSN 2352-9385.
+https://doi.org/10.1016/j.rsase.2020.100352
+.
+Martini F, Loat R (2007) Handbook on good practices for flood mapping in Europe. Paris/Bern: European exchange circle on flood mapping (EXCIMAP). Available at
+http://ec.europa.eu/environment/water/flood_risk/flood_atlas/
+MEFCC (2018) Towards a water management program for the Awash River Basin. Ethiopian Ministry of Environment, Forest and Climate change; Centre for Science and Environment: Ethiopia
+Nakil M, and Khire M (2016) Effect of slope steepness parameter computations on soil loss estimation: review of methods using GIS. Geo-carto Int. 31(10):1078–1093
+Nontan anandh, Changno (2012) Internet GIS, based on USLE modeling, for assessment of soil erosion in Songkhram Watershed, Northeastern of Thailand. Agricu Nat Resour 46(2):272–282
+Nyarko BK (2002) Application of a rational model in GIS for flood risk assessment in Accra. J Spat Hydrol 2(1):1–14
+Google Scholar
+Ogato GS, Bantider A, Abebe K, Geneletti D (2020) Geographic information system (GIS)-based multi criteria analysis of flooding hazard and risk in Ambo Town and its watershed, West shoa zone, Oromia regional State Ethiopia. J Hydrol Reg Stud.
+https://doi.org/10.1016/j.ejrh.2019.10
+Google Scholar
+Panagos P, Borrelli P, Meusburger K, van der Zanden EH, Poesen J, Alewell C (2015) Modelling the efect of support practices (P-factor) on the reduction of soil erosion by water at European scale. Environ Sci Policy 51:23–34
+Papaioannou G, Vasiliades L, Loukas A (2015) Multi-criteria analysis framework for potential flood prone areas mapping. Water Resour Manage 29:399–418.
+https://doi.org/10.1007/s11269-014-0817-6
+Google Scholar
+Paul GC, Saha S, Hembram TK (2019) Application of the GIS-based probabilistic models for mapping the flood susceptibility in Bansloi sub-basin of Ganga-Bhagirathi river and their comparison. Remote Sens Earth Syst Sci 2:120–146.
+https://doi.org/10.1007/s41976-019-00018-6
+Google Scholar
+Peduzzi P, Dao H, Herold C (2005) Mapping disastrous natural hazards using global datasets. Nat Hazards 35:265–289
+Google Scholar
+Pourghasemi HR, Beheshtirad M, Pradhan B (2014) A comparative assessment of prediction capabilities of modified analytical hierarchy process (M-AHP) and Mamdani fuzzy logic models using Netcad-GIS for forest fire susceptibility mapping. Geomatics Nat Hazards Risk 7(2):861–885.
+https://doi.org/10.1080/19475705.2014.984247
+Google Scholar
+Radmehr A, Araghinejad S (2015) Flood vulnerability analysis by fuzzy spatial multi criteria decision making. Water Resour Manage 29:4427–4445.
+https://doi.org/10.1007/s11269-015-1068-x
+Google Scholar
+Rahmati O, Pourghasemi HR, Zeinivand H (2016) Flood susceptibility mapping using frequency ratio and weights-of-evidence models in the Golastan Province, Iran. Geo-Carto Int 31:42–70.
+https://doi.org/10.1080/10106049.2015.1041559
+Google Scholar
+Renard KG, Foster GR, Weesies GA, McCool DK, Yoder DC (1997) Predicting soil erosion by water: a guide to conservation planning with the Revised Universal Soil Loss Equation (RUSLE). United States Department of Agriculture, Washington, DC. p. 703
+Riaz R, Mohiuddin Md (2025) Application of GIS-based multi-criteria decision analysis of hydro-geomorphological factors for flash flood susceptibility mapping in Bangladesh. Water Cycle 6:13–27.
+https://doi.org/10.1016/j.watcyc.2024.09.003
+Google Scholar
+Rincón D, Khan UT, Armenakis C (2018) Flood risk mapping using GIS and multi-criteria analysis: a greater Toronto area case study. Geosciences 8:275.
+https://doi.org/10.3390/geosciences8080275
+Google Scholar
+Saaty TL (1980) The analytic hierarchy process, planning, priority setting, resource allocation. McGraw Hill, New York
+Google Scholar
+Saaty TL, Vargas LG (1991) Prediction projection and forecasting. Kluwer Academic Publishers, Dordrecht, p 251
+Google Scholar
+Sahana M, Patel pp. (2019) A comparison of frequency ratio and fuzzy logic models for flood susceptibility assessment of the lower Kosi River Basin in India. Environ Earth Sci 78:1–27.
+https://doi.org/10.1007/s12665-019-8285-1
+Google Scholar
+Sanyal (2003).Requirements for a cocitation similarity measure, with special reference to Pearson's correlationcoefficient. Journal of the American Society for Information Science and Technology 54(6):550-560.
+Sarma P (1999) Flood risk zone mapping of Dikrong sub basin in Assam. At
+http://www.gisdevelopment.net/application/natural_hazards/floods/nhcy0006pf.htm
+Semu AM (2007) Flood forecasting and early warning system (FFEWS) an alternative technology for flood management system and damage reduction in Ethiopia: a Concept Note. Catchment and Lake Research. Arba Minch University, School of Graduate Studies
+Sharma PN (1999) An overview of recent concepts and participatory integrated watershed management (PIWM) processes. In: Bhatta BR, Chalise SR, Myint AK, Sharma P (eds) Recent concepts, knowledge, practices and new skills in participatory integrated watershed management: trainers’ resource book. Kathamandu
+Shrestha M (2004) Flood risk and vulnerability mapping using GIS: a Nepal case study. In: Proceedings of the second APHW conference, 5–8 July 2004, 1:180–90. Asia Pacific Association of Hydrology and Water Resources, Singapore
+Shu L, Finlayson B (1993) Flood management on the lower Yellow River hydrological and geomorphological perspective. Sediment Geol 85:285–296
+Google Scholar
+Smit HJ (1999) Application of Empirical Soil Loss Models in southern Africa: a review. South African J Plant Soil 16(3):158-163.
+https://doi.org/10.1080/02571862.1999.10635003
+Sonder TK, Peden D (2008) The water of the Awash River Basin is a future challenge to Ethiopia, and Addis Ababa.
+Tesfaye G, Debebe Y, Fikirie K (2018) Soil erosion risk assessment using GIS based USLE model for soiland water conservation planning in Somodo watershed, south West Ethiopia. Int J Environ Agric Res 4(5):35-43.
+Tiruneh Y et al (2013) Coping with water scarcity, the role of agriculture. Developing a Water Audit for Awash River Basin, Awash River Basin Water Audit, and Synthesis Report
+Todini F, De Filippis T, De Chiara G, Maracchi G, Martina MLV, Todini E (2004) Using a GIS approach to asses flood hazard at national scale. In: Presentation presented in European Geosciences Union, 1st General Assembly, Nice, France, 25–30 April 2004
+Tola SY, Shetty A (2021) Land cover change and its implication to hydrological regimes and soil erosion in Awash River basin, Ethiopia: a systematic review. Environ Monit Assess 193.
+https://doi.org/10.1007/s10661-021-09599-6
+Tsegaye L, Bharti R (2018) Soil erosion and sediment yield assessment using RUSLE and GIS-based approach in Anjeb watershed, Northwest Ethiopia. SN Applied Sciences 3(5):1–19.
+https://doi.org/10.1007/s42452-021-04564-x
+UNDP (2004) Reducing disaster risk. A challenge for development. UNDP, Bureau for Crisis Prevention and Recovery, New York. At
+http://www.undp.org/content/dam/undp/library/crisis
+UNOCHA (2006) Flood Affected Woredas in Ethiopia.
+http://www.ochaeth.org/Home/downloadables/FD0014RecentFlood_WWW.pdf
+Vojtek M, Vojteková J (2019) Flood susceptibility mapping on a national scale in Slovakia using the analytical hierarchy process. Water 11:364.
+https://doi.org/10.3390/w11020364
+Google Scholar
+Ward RC (1978) Floods: a geographical perspective. Macmillan, London
+Google Scholar
+Wischmeyer WH (1978) Predicting Rainfall Erosion Losses-A Guide to Conservation Planning. USDA Agriculture Handbook.
+https://cir.nii.ac.jp/crid/1573105975028499200
+Wondim YK (2016) Flood hazard and risk assessment using GIS and remote sensing in lower Awash sub-basin Ethiopia. J Environ Earth Sci 6(9):69–86
+Google Scholar
+World Bank Group (2015) The World Bank Group A to Z 2015. World Bank Publications.
+Yalcina A, Reisb S, Aydinogluc AC, Yomraliogluc T (2011) A GIS-based comparative study of frequency ratio, analytical hierarchy process, bivariate statistics and logistics regression methods for landslide susceptibility mapping in Trabzon, NE Turkey. CATENA 85:274–287
+Google Scholar
+Yesuph AY, Dagnew AB (2019) Soil erosion mapping and severity analysis based on RUSLE model and local perception in the Beshillo Catchment of the Blue Nile Basin Ethiopia. Environ Syst Res 8(17):1–21
+Yonas GH, Tesfa GA, Mesenbet Y, Mequanent AM (2022) Flood hazard assessment and mapping using GIS integrated with multi‑criteria decision analysis in upper Awash River basin, Ethiopia Applied Water Science 12:148.
+https://doi.org/10.1007/s13201-022-01674-8
+Zewde ZM (2004) Development of flood forecasting model in middle Awash River Basin of Ethiopia. MEE09204.
+Download references
+Acknowledgements
+I would like to express my sincere gratitude to the Addis Ababa University community at the EiABC campus, and especially to my supervisors, for their invaluable support and guidance throughout the development of this manuscript. Their insights, feedback, and encouragement were helpful in shaping my research. I extend my thanks to all who contributed to this work.
+Funding
+No funds were received from any organization or individual for this research.
+Author information
+Authors and Affiliations
+Environmental Planning Ph.D. Program, EiABC, Addis Ababa University, P.O.Box 518, Addis Ababa, Ethiopia
+Abayneh Gebremichael
+Senior Researcher at Emerging City Lab, Chair of Environmental Planning, EiABC, Addis Ababa University, Addis Ababa, Ethiopia
+Ephrem Gebremariam
+Environmental Planning Competence Center, Chair of Ecosystem Planning and Management, EiABC, Addis Ababa University, Addis Ababa, Ethiopia
+Hayal Desta
+Authors
+Abayneh Gebremichael
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ephrem Gebremariam
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hayal Desta
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+A.G. write original manuscript text E.G. and H.D. supervise, edit and validate the manuscript All authors reviewed the manuscript and confirmed.
+Corresponding author
+Correspondence to
+Abayneh Gebremichael
+.
+Ethics declarations
+Ethics approval and consent to participate
+This article does not contain any studies conducted by any of the authors that would require ethical approval. This article does not contain any studies involving human participants or animals performed by any of the authors.
+Informed consent
+Informed consent was obtained from both authors for submission and publication.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Gebremichael, A., Gebremariam, E. & Desta, H. GIS-based mapping of flood hazard areas and soil erosion using analytic hierarchy process (AHP) and the universal soil loss equation (USLE) in the Awash River Basin, Ethiopia.
+Geosci. Lett.
+12
+, 12 (2025). https://doi.org/10.1186/s40562-025-00382-w
+Download citation
+Received
+:
+12 November 2024
+Accepted
+:
+03 March 2025
+Published
+:
+03 April 2025
+DOI
+:
+https://doi.org/10.1186/s40562-025-00382-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Flood hazard
+GIS
+AHP
+USLE
+Drainage density
+Elevation
+Soil loss
+Download PDF
+Advertisement
+Support and Contact
+Jobs
+Language editing for authors
+Scientific editing for authors
+Leave feedback
+Terms and conditions
+Privacy statement
+Accessibility
+Cookies
+Follow SpringerOpen
+SpringerOpen Twitter page
+SpringerOpen Facebook page
+By using this website, you agree to our
+Terms and Conditions
+,
+Your US state privacy rights
+,
+Privacy
+                statement
+and
+Cookies
+policy.
+Your privacy choices/Manage cookies
+we use in the preference centre.
+© 2025 BioMed Central Ltd unless otherwise stated. Part of
+Springer Nature
+.

@@ -1,0 +1,1108 @@
+Assessing Hyrcanian forest fire vulnerability: socioeconomic and environmental perspectives | Journal of Forestry Research
+Skip to main content
+Advertisement
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Journal of Forestry Research
+Article
+Assessing Hyrcanian forest fire vulnerability: socioeconomic and environmental perspectives
+Original Paper
+Open access
+Published:
+22 February 2025
+Volume 36
+, article number
+35
+, (
+2025
+)
+Cite this article
+Download PDF
+You have full access to this
+open access
+article
+Journal of Forestry Research
+Aims and scope
+Submit manuscript
+Assessing Hyrcanian forest fire vulnerability: socioeconomic and environmental perspectives
+Download PDF
+Elnaz Nejatiyanpour
+1
+,
+3
+,
+Omid Ghorbanzadeh
+2
+,
+Josef Strobl
+3
+,
+Rasoul Yousefpour
+4
+,
+Mahmoud Daneshvar Kakhki
+1
+,
+Hamid Amirnejad
+5
+,
+Khalil Gholamnia
+6
+&
+…
+Mahmoud Sabouhi Sabouni
+1
+Show authors
+4057
+Accesses
+2
+Altmetric
+Explore all metrics
+Abstract
+The increasing frequency and intensity of forest fires, driven by climate change and human activities, pose a significant threat to vital forest ecosystems, particularly where fire is not a natural element in the regeneration cycle. This study aims to identify the indicators influencing forest fire vulnerability and compare maps of forest fire susceptibility that are based on the Intergovernmental Panel on Climate Change tripartite model, with a focus on the vulnerable Hyrcanian forest region in Golestan Province, northern Iran, where forest fires have caused considerable economic losses. On the basis of expert opinions and a literature review, we used geographic information systems, remote sensing and machine learning techniques to select and weigh 30 biophysical, environmental and socioeconomic indicators that affect forest fire vulnerability in the study area. These indicators were rigorously normalized, weighted and amalgamated into a comprehensive forest fire vulnerability index to analyze forest exposure, sensitivity and adaptive capacity. We thus identified and mapped areas with very high forest fire exposure, high sensitivity and low adaptive capacity for urgent targeted intervention and strategic planning to mitigate the impacts of forest fires. The results also revealed a set of critical indicators that contribute more significantly to forest fire vulnerability (e.g., precipitation, elevation and factors related to biodiversity, human activity and economic reliance on forest resources). Our results provide insights that can inform policy-making, community engagement and environmental management strategies to mitigate the vulnerabilities associated with forest fires in the Hyrcanian forest.
+Similar content being viewed by others
+A GIS-remote sensing approach for forest fire risk assessment: case of Bizerte region, Tunisia
+Article
+03 June 2021
+Geospatial Patterns and Drivers of Forest Fire Occurrence in Romania
+Article
+22 August 2018
+Who are the actors and what are the factors that are used in models to map forest fire susceptibility? A systematic review
+Article
+Open access
+06 August 2022
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Introduction
+Forests once covered approximately 6 billion ha, accounting for 45% of the world’s land surface about 10,000 years ago. Currently, they occupy about 4 billion ha, representing 31% of the land surface (MacDicken
+2015
+; Piralilou et al.
+2022
+). Forests play a crucial role in maintaining climate and biodiversity, protecting soil and water, supporting economies and offering recreational and cultural advantages (FAO
+2020
+; Moayedi et al.
+2020
+; IPCC
+2022
+), but they have become increasingly vulnerable to forest fires. As temperatures have increased and precipitation patterns have changed, forest fires have become more intense and serious, destroying enormous areas of forest ecosystems all over the world (Allen et al.
+2010
+; Piralilou et al.
+2022
+). As climate change intensifies wildfires, instant detection is essential for releasing early warnings, reducing response times, rapidly managing fires to minimize damage and save lives (Almeida et al.
+2023
+; Barmpoutis et al.
+2023
+).
+The risk of forest fire in numerous areas of the world is expected to increase with continuing global climate change, mainly because of longer dry, hot seasons and more lightning (Flannigan et al.
+2009
+; Krause et al.
+2014
+). Fire seasons are already lasting longer across boreal Asia, the Middle East and the areas surrounding the Caspian Sea because of climate change (Robinne
+2021
+). Devastating wildfires have damaged parts of Australia, the Amazon, Siberia, the United States (Hantson et al.
+2015
+) and some forest regions in Iran (Eskandari
+2017
+; Ghorbanzadeh et al.
+2019a
+,
+b
+; Piralilou et al.
+2022
+).
+The Hyrcanian forests of northern Iran, a UNESCO World Heritage site, dating back 25 to 50 million years, are home to a unique array of biodiversity and are crucial for the region and the country due to their unique biodiversity and contributions to carbon sequestration, climate regulation, soil conservation and local communities through timber production, agriculture and ecotourism industries (UNESCO
+2019
+). However, the fires in the Hyrcanian forests have also escalated in frequency and intensity (Pourtaghi et al.
+2015
+; Piralilou et al.
+2022
+), causing considerable economic losses to local communities and damage to forests, agriculture, infrastructure and increasing firefighting costs (FAO
+2015
+; Abedi
+2022
+). Because of the significance of the Hyrcanian forests, comprehensive assessments of the rising frequency of forest fires and the vulnerability of these forests to forest fires and of the social and economic impacts are essential to develop effective strategies for forest fire mitigation and monitoring. The present study was aimed to fill this critical gap and contribute to the conservation and protection of these precious ecosystems through the novel concept of vulnerability assessment.
+The general idea of vulnerability of an individual or system to different threats, whether they are physical or caused by human activities, has been the subject of research in diverse fields (Alwang et al.
+2001
+; Adger
+2006
+; Ortega-Gaucin et al.
+2018a
+,
+b
+). It is a complex, multidimensional and multifaceted concept (Birkmann
+2007
+; Ortega-Gaucin et al.
+2018a
+,
+b
+) and has been assessed using various analytical and quantification methodologies (Tuček and Majlingová
+2009
+; Pourtaghi et al.
+2015
+; Bowman et al.
+2017
+; Kanga et al.
+2017
+; Zhang et al.
+2019
+; de Diego et al.
+2021
+; Piao et al.
+2022
+; Reyes-Bueno and Loján-Córdova
+2022
+; Saim and Aly
+2022
+). In the present study, we defined forest vulnerability to forest fires as the level of susceptibility of the system to such forest fires and level of capacity to cope with any negative impacts of the fires. Vulnerability in the context of forest fires has been mostly neglected and less addressed, but offers a clearer and more comprehensive understanding of the multidimensional nature of vulnerability and provides valuable insights for decision-making processes to effectively reduce the vulnerability.
+Research on understanding and mitigating forest-fire-induced disasters has just started to utilize conceptual frameworks of vulnerability in forest fire science. Over the last two decades, there has been an increasing focus on the social aspects of forest fires, contributing to the broader wildfire literature on vulnerability (Lambrou et al.
+2023
+). In a study on fire-prone landscapes in the southern Andes, economic susceptibility to forest fires was found to be high due to the economic dependence on natural resources and limited economic diversification (Molina et al.
+2018
+). Similarly, a study on a Mediterranean natural park highlighted the economic vulnerability of the area, emphasizing the negative impact of fires on tourism and local economies (Molina et al.
+2017
+). Revenues from the timber industry (y Silva et al.
+2012
+), tourism (Molina et al.
+2019
+) and agriculture in Mediterranean areas are all highly vulnerable to forest fires (Stougiannidou et al.
+2020
+).
+Here we introduce a framework that we used with social, economic and environmental indicators specifically for Hyrcanian forests to generate vulnerability maps for forest fires. These maps and indices can assist decision-makers and policymakers in identifying areas for investment to minimize vulnerability. They can also support decision-making for efficient risk management because economic, social and environmental factors are considered.
+Materials and methods
+Study area
+The Hyrcanian forest region extends from the Caspian Sea to the northern slopes of the Alborz Mountain, west to east, encompassing approximately 1.85 million ha, comprising 15% of the total forested area and 1.1% of the total landmass in Iran. Within the three northern provinces of Golestan, Mazandaran and Gilan in Iran, the Hyrcanian forests harbor a diverse array of temperate deciduous broadleaved trees. Golestan Province, in particular with a forest coverage of approximately 452,000 ha, comprises 22.1% of the province’s total territory, providing a compelling case study for understanding and mapping forest fire vulnerability. This province occupies 1.3% of Iran’s land area and has diverse climate with a relative humidity of 75% (Table
+1
+).
+Table 1 Mean annual surface air temperature and total precipitation from 2013 to 2023 in Golestan Province, Iran (World Bank Group:
+https://climateknowledgeportal.worldbank.org/
+)
+Full size table
+The total population is 1,868,819 among 550,249 households (PBO
+2022
+). Our research, across 14 districts in Golestan Province (Fig.
+1
+), aimed to delineate and highlight vulnerable areas to forest fires within this specific region and provide a comprehensive understanding of forest fire risk to develop management and mitigation strategies. Golestan Province, with its diverse climate, extensive forests and varying population densities, is ideal for studying forest fire vulnerability. Consequently, our work serves as a valuable contribution to efforts of the broader scientific community to understanding and manage forest fire risks.
+Fig. 1
+Location of study region and districts. (1: Azadshahr; 2: Aqqala; 3: Bandar-e Gaz; 4: Bandar Torkaman; 5: Ramian; 6: Aliabad-e Katul; 7: Kordkuy; 8: Kalaleh; 9: Maraveh Tappeh; 10: Minudasht; 11: Galikash; 12: Gorgan; 13: Gomishan; 14: Gonbad-e Kavus)
+Full size image
+Methodology
+Forest fire vulnerability framework
+The methodology leverages the model outlined by the Intergovernmental Panel on Climate Change (IPCC), which defines vulnerability as a function of three components: exposure (E), sensitivity (S) and adaptive capacity (AC) (IPCC
+2014
+). This widely adopted conceptual framework has been favored in numerous studies due to its ease of use, detailed conceptualization and careful selection of relevant factors and variables (Biswas and Nautiyal
+2023
+). In the present study, forest fire exposure pertains to the susceptibility of livelihoods, species, ecosystems, environmental functions, services, resources and infrastructure, and economic, social or cultural assets in forested areas to potential adverse effects or impacts from forest fires. Forest fire sensitivity refers to the level at which a system is impacted by forest fires, and forest fire adaptive capacity denotes the system’s ability to adjust to and withstand negative consequences resulting from climate change-induced forest fires. A critical challenge in developing an effective forest fire vulnerability index lies in identifying factors that affect its components. We considered three dimensions (environmental, social and economic) based on previous studies and expert opinions.
+Selecting the indicators
+Forest fire vulnerability refers to the conditions making individuals, communities, assets or systems more susceptible to the effects of forest fires. These conditions are determined by physical, social, economic and environmental factors or processes (Robinne
+2021
+). Various factors trigger forest fire vulnerability, and the selection of appropriate indicators ensures the reliability and accuracy of forest fire mapping (Abrams et al.
+2016
+; Ghorbanzadeh et al.
+2019a
+,
+b
+). In this research, we selected indicators based on previous studies, expert knowledge, research objectives, subjective decisions, the availability and accuracy of statistical data, and local and external factors affecting Hyrcanian forests (Fig.
+2
+).
+Fig. 2
+Forest fire vulnerability components and selected indicators
+Full size image
+The necessary information for this study was collected using a geographic information system (GIS) and remote sensing (RS). GIS provides powerful techniques for capturing, managing, analyzing and visualizing spatial data, thus facilitating the integration of diverse data sources (Longley
+2019
+). RS involves acquiring and interpreting data from airborne or satellite sensors to gather information about the Earth’s surface (Jensen
+2014
+).
+Pixel sizes for all conditional factors were adjusted to align with the 30-m resolution of the SRTM DEM and Landsat 8 multispectral data. In our study area, significant limitations exist regarding socioeconomic data because the smallest scale is tied to urban district divisions. Consequently, a comprehensive socioeconomic data set was aggregated at the local administrative unit level (LAU) for all 14 urban districts, integrating statistical data from official centers and national organizations. This approach was dictated by data availability and was aimed at providing detailed insights for effective policy interventions at the urban district level. Table
+2
+details the components of vulnerability, including dimensions, indicators, abbreviations, measurement units, descriptions, data sources, impact on forest fire vulnerability and the final influence expression.
+Table 2 Vulnerability components and selected indicators to assess forest fire vulnerability
+Full size table
+Data normalization
+Data normalization is a crucial step in data preprocessing, particularly when statistical indicators involve different units. This process renders indicators unit-free, allowing for meaningful comparisons and statistic aggregation, ultimately enhancing the precision and validity of subsequent analytical results.
+In this study, the min-max normalization technique was chosen for socioeconomic indicators, due to its simplicity for transforming indicators to a scale of 0–1. This method was selected to ensure interpretability when analyzing the connection between indicators and forest fire vulnerability, where a fixed range is preferred. Specifically, the relationship between indicators and vulnerability can be direct or inverse. The study provides equations for both direct and inverse functional relationships, denoting the normalized value of variable
+X
+r
+as
+I
+n
+, with
+X
+min
+and
+X
+max
+representing the minimum and maximum values in the data set, respectively (Ortega-Gaucin et al.
+2018a
+,
+b
+; Lien
+2019
+; Grigorescu et al.
+2021
+):
+For a direct functional relationship (where an increase in the indicator value corresponds to an increase in vulnerability) (Eq.
+1
+):
+$${I}_{n}=({X}_{r}-{X}_{min})/({X}_{max}-{X}_{min})$$
+(1)
+For an inverse functional relationship (where an increase in the indicator value corresponds to a decrease in vulnerability) (Eq.
+2
+):
+$${I}_{n}=({X}_{max}-{X}_{r})/({X}_{max}-{X}_{min})$$
+(2)
+Weighting of indicators
+The composite index can be created by applying equal or unequal weights to its indicators or components. In this study, the random forest (RF) algorithm was employed to evaluate the biophysical and environmental indicators influencing forest fire exposure. Introduced by Ho et al. in 1994 and further developed by Breiman in 2001, RF combines multiple decision trees to efficiently classify input data, effectively addressing overfitting issues (Ho et al.
+1994
+; Breiman
+2001
+). This method is recognized for its ability to handle complex relationships and large data sets (Pedregosa et al.
+2011
+), making it particularly effective in satellite image classifications and susceptibility modeling. RF alleviates uncertainty problems and enhances prediction accuracy by creating tree bootstrap samples from the original data set, constructing unpruned trees for each sample, and averaging the results for a robust outcome. The method involves randomly selecting features during predictions and weighting outputs based on votes received, thereby converging the majority votes from estimated decision trees into a final classification (Belgiu and Drăguţ
+2016
+; Xu et al.
+2018
+; Ghorbanzadeh et al.
+2019a
+,
+b
+). Key training options for RF include the number of trees, variables considered in splits and sampling processes-all critical for optimizing RF classification. Here, the maximum number of trees and variables for each split was set to 1000 and 25, respectively. The maximum number of trees was chosen within a range from 500 to 2000, while the number of variables remained at the default value (Petkovic et al.
+2018
+). The sampling process type is defined as a proportion that determines the percentage of observations used for each tree. An out-of-the-bag sample statistic was employed for the final forest model, offering insight into model performance on new inputs. The training sample inputs, termed bagged observations, and the data supplied to decision trees in the RF model were crucial. The voting threshold, or cutoff fraction, in our RF model was set to 0.01 to minimize errors. The resampling process was iterated 500 times to optimize results across the four folds of the inventory data set. After the model was trained on historical fire data and relevant indicators, feature importance scores were extracted using the mean decrease impurity method (Breiman
+2001
+). These scores served as weights, enabling the quantification of each indicator’s impact based on their contribution to forest fire exposure. Our analysis was guided by studies that have use RF for vulnerability assessments (San-Miguel-Ayanz et al.
+2012
+; Ghorbanzadeh et al.
+2019a
+,
+b
+; Piralilou et al.
+2019
+; Shahabi et al.
+2019
+). We used freely available MODIS fire-event data from 2013 to 2023 to generate an inventory data set outlining the exact polygons of regions impacted by wildfires; we obtained 28 polygons representing fire events.
+For socioeconomic indicators, a technique developed by Iyengar and Sudarshan (
+1982
+) was used to compute a composite index from multivariate data, which was employed to rank districts based on their economic performance. This methodology was utilized for the development of the composite index of vulnerability (Iyengar and Sudarshan
+1982
+; Ortega-Gaucin et al.
+2018a
+,
+b
+; Lien
+2019
+). This approach assigns greater importance to indicators with consistent values across regions and lesser importance to those with more fluctuation. This quantitative method determines the weight of each indicator based on its variability, influencing its contribution to the overall assessment of vulnerability (Eq.
+3
+):
+$${W}_{n}=\frac{1}{{\sigma }_{n}\left(\sum_{n=1}^{k}\frac{1}{{\sigma }_{n}}\right)}$$
+(3)
+where,
+W
+n
+is the normalized indicator weight,
+\({\sigma }_{n}\text{ is}\)
+the standard deviation of the set of values for indicator
+n
+, and
+k
+is the number of selected indicators.
+Integrating the indicators into vulnerability subindices
+To comprehensively assess forest fire vulnerability, we integrated the indicators into three subindices: the forest fire exposure index (FEI), the forest fire sensitivity index (FSI), and the forest fire adaptive capacity index (FACI).
+Forest fire exposure index (FEI)
+In examining forest fire exposure, we considered two key dimensions: environmental (bio-physical) and socioeconomic. The environmental exposure index (ENEI) reflects ecological and physical characteristics of forest ecosystems, with climate playing a pivotal role in the occurrence, frequency, and severity of forest fires. Weather conditions directly enable ignition and indirectly provide sufficient combustible vegetation fuel load to support fires. Climate significantly affects fire behavior and spread, with high temperatures increasing fuel vulnerability to fires due to resulting dryness (Vadrevu et al.
+2010
+; Xu et al.
+2021
+). Precipitation, on the other hand, increases fuel moisture content, negatively impacting fire spread (Chen et al.
+2014
+; Vadrevu et al.
+2010
+).
+The relationship between forest fire spread, fuels, weather and topography are considered in fire behavior models, with elevation significantly influencing the behavior of forest fires. Fires generally spread more rapidly uphill than downhill (Finney et al.
+2013
+; Piralilou et al.
+2022
+). Wind also significantly affects wildfire behavior and propagation, determining its intensity, speed and direction (Pitts
+1991
+; Finney et al.
+2013
+). Increased wind speed can lead to higher rates of combustion, contributing to more severe fire behavior and posing greater challenges to fire suppression efforts (Xavier Viegas
+1998
+; Potter
+2012
+). Wind speed is also directly correlated with the rate of wildfire spread; as wind speed increases, the rate of fire front advancement accelerates, often exponentially (Rothermel
+1983
+).
+The influence of topographical characteristics on fire line intensity and spread is evaluated in numerous studies, with slopes and the normalized difference vegetation index (NDVI) commonly used as indicators for fuel availability in fire occurrence studies (Oliveira et al.
+2012
+; Zhao et al.
+2021
+). Additionally, the topographic wetness index (TWI), reflecting how topography and soil characteristics influence soil moisture distribution and plan curvature, influencing the arrangement of slopes and significantly impacting forest fire exposure (Moore et al.
+1991
+; Hilton et al.
+2016
+; Zhao et al.
+2021
+). To construct ENEI we incorporated temperature, precipitation, elevation, wind power density, wind speed, slope, TWI, plan curvature and NDVI. These factors are integrated into the ENEI to provide a comprehensive assessment of the biophysical dimensions contributing to forest fire exposure (Eq.
+4
+).
+$$\begin{aligned}\text{ENEI}&={w}_{\text{te}}{I}_{\text{te}}+ {w}_{\text{pn}}{I}_{\text{pn}}+{w}_{\text{el}}{I}_{el}+ {w}_{\text{wi} }{I}_{\text{wi}}+{w}_{\text{s}\mathbf{w}}{I}_{\text{sw}}\\&\quad+ {w}_{\text{sl}}{I}_{\text{sl}}+{w}_{\text{tw}}{I}_{\text{tw}}{+w}_{\text{pc}}{I}_{\text{pc}}+{w}_{\text{ndvi}}{I}_{\text{ndvi}}\end{aligned}$$
+(4)
+The socioeconomic exposure index (SEEI) encompasses human factors influencing exposure to forest fires. Human activity and socioeconomic factors are responsible for up to 90% of all forest fires worldwide (Kim et al.
+2019
+). Neighborhood factors such as the proximity of buildings and roads, agricultural development, logging, poor land management and land-use changes are common causes of fire initiation, spread, providing potential conditions that increase forest vulnerability (Bowman et al.
+2009
+; Giglio et al.
+2013
+; Kolanek et al.
+2021
+). Additionally, forest fires often result from urban and agricultural fires moving to forest areas (Tuček and Majlingová
+2009
+). To evaluate the socioeconomic aspect of forest fire exposure, six indicators were considered: recreation area, residential area density, road network, number of livestock, migration and residents’ annual income were collected for each urban district. Tourist areas often face a higher fire risk due to increased visitor flow and activities such as cooking and smoking (Bui et al.
+2016
+; Zhao et al.
+2021
+). The density of residential areas increases dependence on nearby forest resources, with land clearing for agriculture being a primary cause of fires in these areas (Vadrevu et al.
+2010
+). Although forest roads facilitate firefighting efforts, road networks enable human access to forests, potentially increasing the risk of human-caused fires and their spread (Romero-Calcerrada et al.
+2008
+; Kolanek et al.
+2021
+). Livestock grazing in forests can inadvertently ignite fires by disturbing dry vegetation (DeBano et al.
+1998
+). Migration can lead to more accidental ignitions, waste management issues and land-use changes (Archibald et al.
+2013
+). While higher income levels can enhance fire prevention and management, lower income levels can restrict access to education and create heightened reliance on fuel sources, thus increasing fire risk. Practices driven by poverty, such as illegal logging and slash-and-burn agriculture, contribute to the likelihood of forest fires (Mistry and Berardi
+2016
+). The SEEI integrates these indicators to provide a socio-economic perspective on forest fire exposure (Eq.
+5
+).
+$$\text{SEEI}={w}_{\text{ra}}{I}_{\text{ra}}+ {w}_{\text{rd}}{I}_{\text{rd}}+{w}_{\text{rn}}{I}_{\text{rn}}+{w}_{\text{li}}{I}_{\text{li}}+ {w}_{\text{mi}}{I}_{\text{mi}}+{w}_{\text{ai}}{I}_{\text{ai}}$$
+(5)
+To quantify forest fire exposure, we computed the FEI using Eq.
+6
+, where equal weight is assigned to both the SEEI and ENEI. This balanced approach ensures that both socioeconomic and environmental dimensions are considered when assessing the overall exposure level to forest fires.
+$$\text{SEEI}={w}_{\text{ra}}{I}_{\text{ra}}+ {w}_{\text{rd}}{I}_{\text{rd}}+{w}_{\text{rn}}{I}_{\text{rn}}+{w}_{\text{li}}{I}_{\text{li}}+ {w}_{\text{mi}}{I}_{\text{mi}}+{w}_{\text{ai}}{I}_{\text{ai}}$$
+(6)
+Forest fire sensitivity index (FSI)
+In the development of the forest fire sensitivity, indicators were categorized into three key dimensions: environmental, social and economic. To formulate the environmental sensitivity index (ENSI), environmental indicators were extensively by determining an area’s sensitivity to forest fires. Forest fires can have detrimental effects on ecosystems, destroying plant individuals, disrupting their reproductive cycles, and facilitating invasions by non-native species, all of which threaten plant survival (Bond and Keeley
+2005
+; Keeley et al.
+2011
+). These events can also lead to the loss of valuable conservation areas (Rieman et al.
+2010
+) and negatively impact fauna by causing mortality, reducing food sources, destroying habitats and disrupting ecological relationships (Hutto
+2008
+). To capture these environmental impacts, we evaluated ENSI using three indicators: number of rare and endangered plants, forest reserve status, animal habitats and species diversity for each urban district (Eq.
+7
+).
+$$\text{ENSI}={w}_{\text{re}}{I}_{\text{re}}+ {w}_{\text{fr}}{I}_{\text{fr}}+ {w}_{\text{ah}}{I}_{\text{ah}}$$
+(7)
+The social sensitivity index (SSI) considers the impact of forest fire on humans: direct threats to nearby residents, including respiratory diseases, injuries, psychological trauma, displacement and the loss of homes and infrastructure (Costello et al.
+2009
+). Of course, communities that rely on forests for their livelihood are even more vulnerable; fires can deplete resources such as timber and non-timber forest products, affecting food security and economic activities (Angelsen et al.
+2014
+). Reflecting these concerns, SSI was calculated using two indicators: population density and livelihood dependence on forest resources (Eq.
+8
+).
+$$\text{ENSI}={w}_{\text{re}}{I}_{\text{re}}+ {w}_{\text{fr}}{I}_{\text{fr}}+ {w}_{\text{ah}}{I}_{\text{ah}}$$
+(8)
+The economic sensitivity index (ECSI) addresses the financial implications of forest fires, which include the direct loss of resources such as medicinal plants and wild fruits and indirect effects on post-fire ecological conditions and species-specific responses (Turner and Gardner
+2015
+). The destruction of timber stands, resource depletion, market value reduction, and disrupted species growth and regeneration impact the wood supply chain and the sustainability of the timber industry (Seidl et al.
+2017
+). To assess these economic factors, we developed ECSI using two indicators: the value of non-timber and timber forest products (Eq.
+9
+).
+$$\text{ECSI}={w}_{\text{ntp}}{I}_{\text{ntp}}+ {w}_{\text{tp}}{I}_{\text{tp}}$$
+(9)
+To estimate the overall FSI, we used the following Eq.
+10
+, where ENSI, SSI, and ECSI are given equal weight to ensure a balanced representation of all three sensitivity dimensions.
+$$\text{ECSI}={w}_{\text{ntp}}{I}_{\text{ntp}}+ {w}_{\text{tp}}{I}_{\text{tp}}$$
+(10)
+Forest fire adaptive capacity index (FACI)
+The relevant indicators were classified into three categories: environmental, social, and economic, to create the FACI. To evaluate the adaptive capacity of forests in the face of fires from an environmental perspective, we constructed the environmental adaptive capacity index (ENACI) using the amount of afforestation and post-fire rehabilitation for each urban district. Afforestation enhances ecosystem resilience by increasing vegetation cover and biodiversity, thereby reducing the spread of fire and protecting adjacent areas, which in turn diminishes the impact of future fires (Aerts and Honnay
+2011
+). Post-fire rehabilitation involves stabilizing soils, preventing erosion, promoting vegetation recovery, restoring habitats and enhancing biodiversity to minimize impacts, protect water quality, maintain ecosystem function, and improve future fire management strategies (Souza-Alonso et al.
+2022
+). The ENACI was calculated as Eq.
+11
+:
+$$\text{ENACI}={w}_{\text{af} }{I}_{\text{af}}+ {w}_{\text{pr}}{I}_{\text{pr}}$$
+(11)
+The social adaptive capacity index (SACI) was developed using two indicators: the number of health facilities and medical services and the literacy rate for each urban district. These indicators allow us to assess and measure the societal capacity to adapt. Healthcare infrastructure is crucial for promptly addressing health needs during fire events, such as treating burns, smoke inhalation, and providing counseling for post-traumatic stress disorders (Kondo et al.
+2018
+). Moreover, a highly educated populace is more capable of preparing for and responding to disasters, with fewer adverse effects and faster recovery (Cutter et al.
+2003
+). The SACI is calculated as Eq.
+12
+:
+$$\text{ENACI}={w}_{\text{af} }{I}_{\text{af}}+ {w}_{\text{pr}}{I}_{\text{pr}}$$
+(12)
+The economic adaptive capacity index (ECACI) incorporates key indicators such as investment in infrastructure, the proportion of insured farmers, unemployment rates, and the area of protected forests. Investment in infrastructure bolsters community preparedness and response to forest fires, facilitating faster evacuations and access to firefighting resources. Farmers with insurance are better protected against losses from disasters, enabling quicker recovery and reducing long-term economic impacts (Abid et al.
+2016
+; Botzen and Van Den Bergh
+2008
+). In the aftermath of forest fires, the lack of employee benefits such as medical, disability and life insurance and retirement plans can exacerbate poverty due to an increased inability to fireproof, respond to, and recover from fires (Lambrou et al.
+2023
+). Protected forests help to mitigate wildfire impacts on local economies by providing ecosystem services and enabling diversified economic activities such as ecotourism, offering alternative income sources for communities affected by forest fires (Nawrotzki et al.
+2012
+). Including these indicators allows for a comprehensive assessment of a region’s economic adaptive capacity. The ECACI is expressed as Eq.
+13
+:
+$$\text{ECACI}={w}_{\text{in}}{I}_{\text{in}}+ {w}_{\text{fi}}{I}_{\text{fi}}+ {w}_{\text{ur}}{I}_{\text{ur}}+ {w}_{\text{pf}}{I}_{\text{pf}}$$
+(13)
+Finally, FACI is estimated by considering equal weights for ENACI, SACI, and ECACI. This approach facilitates a comprehensive analysis of the different facets of adaptive capacity in forests. The FACI is estimated as Eq.
+14
+:
+$$\text{ECACI}={w}_{\text{in}}{I}_{\text{in}}+ {w}_{\text{fi}}{I}_{\text{fi}}+ {w}_{\text{ur}}{I}_{\text{ur}}+ {w}_{\text{pf}}{I}_{\text{pf}}$$
+(14)
+Creating a comprehensive forest fire vulnerability index
+In the final stage of the methodology, we sought to develop the FVI as an accurate measure of forest fire vulnerability by incorporating a mathematical equation (Grigorescu et al.
+2021
+) that integrates FEI, FSI, and FACI with equal weighting. The FVI is calculated as Eq.
+15
+:
+$$\text{FVI}=\left(\text{FEI}+\text{FSI}\right)-\text{FACI}$$
+(15)
+Table
+3
+presents the calculated values of the indices and the corresponding levels or degrees of exposure, sensitivity, adaptive capacity, and vulnerability according to the IPCC definition of vulnerability, which we used to analyze the results.
+Table 3 Values and degrees of the forest fire exposure index (FEI), forest fire sensitivity index (FSI), forest fire adaptive capacity index (FACI), and forest fire vulnerability index (FVI)
+Full size table
+Examining these values and levels allows informed decision-making and targeted interventions to mitigate the risks associated with forest fires in the study area.
+Results
+The results of our comprehensive analysis of the collected data are delineated in maps that have been derived from the classifications in Table
+3
+.
+FEI subindices ENEI and SEEI and their respective indicators were evaluated using a RF model to determine weights (Table
+4
+). Regions with a very high forest fire exposure are identified in red on the map in Fig.
+3
+. The ENEI prioritizes biophysical factors, among which elevation, precipitation, and wind (speed and power density) were deemed the most significant for our study region, while plan curvature was less important. The analysis indicated that districts 1, 5, 6, 10, 11 and 12 warrant particular attention due to their high environmental exposure to forest fires. Conversely, districts 7, 3, 8 and 9 had comparatively less exposure (Fig. S1). SEEI, which focuses on human influences, highlighted that the density of road networks and residential areas were primary factors, whereas migration had a negligible effect relative to other socioeconomic indicators. Areas within districts 1, 3, 4, 5, 6, 10 and 11 were characterized by very high forest fire exposure due to anthropogenic activities. Additionally, district 12 had a mixed scenario with areas with both moderate and high exposure levels (Fig. S2).
+Table 4 Weights of selected indicators for the forest fire exposure index (FEI)
+Full size table
+Fig. 3
+Forest fire exposure map of the Hyrcanian forests in Golestan Province
+Full size image
+A holistic consideration of these indices suggested that districts 10 and 11 are at very high risk of forest fire exposure. Districts 1, 5 and 6 also had considerable exposure, whereas district 12 was relatively less affected, with nearly half of its area facing moderate to high exposure. These insights necessitate immediate, targeted interventions and strategic frameworks to mitigate the impacts of forest fires in these vulnerable regions. Determining contributory factors is vital for formulating efficacious prevention and response strategies.
+The results of the FSI assessment provide valuable insights into the degree of sensitivity to forest fires. Figure
+4
+illustrates the spatial distribution of forest fire sensitivity. The weighting of the selected indicators in Table
+5
+provides a comprehensive understanding of their relative significance.
+Fig. 4
+Forest fire sensitivity in the Hyrcanian forests in Golestan Province
+Full size image
+Table 5 Weights of selected indicators for the forest fire sensitivity index (FSI)
+Full size table
+ENSI assesses environmental factors that influence forest sensitivity, applying similar weighting to each factor. District 5 had high environmental sensitivity, while district 6 was noted for its very high sensitivity due to its rich diversity of rare plants and extensive forest reserves (Fig. S3). SSI, which encompasses the population and dependence on forest resources for livelihood, identified the dependency on forest for local livelihoods as a more influential factor in our study area. Here, district 6 had average social sensitivity, whereas district 12 had the highest because of its dense population and significant reliance on forest resources (Fig. S4). ECSI assesses economic dependence on forest resources and attributes a higher weight to timber products. District 3 had high economic sensitivity; districts 6 and 12 had very high economic sensitivity, highlighting their economic vulnerability in the face of fire risks (Fig. S5).
+A composite analysis of ENSI, SSI and ECSI underscores that district 6 and 12 are particularly sensitive to forest fires. This sensitivity is due to factors such as dense populations, high livelihood dependencies on forests, the presence of valuable ecosystems, and the economic importance of local forests. These findings are instrumental for prioritizing fire prevention and management strategies across the study area.
+The FACI evaluates the capacity for adaptation and response to forest fires. Figure
+5
+showcases the spatial distribution of this index, with indicator weights in Table
+6
+. Our methodology embeds an inverse relationship between adaptation capacity and vulnerability into the normalization process, resulting in a direct correlation where higher ENACI, SACI and ECACI scores indicate lower adaptation challenges. ENACI assesses afforestation and post-fire rehabilitation efforts, assigning them similar weights. Districts 6 and 12 had high ENACI levels; districts 1, 3, 5, 8, 10 and 11 had very high levels (Fig. S6). SACI, examining health services and literacy rates, with the same weight, revealed that district 9 had a very high SACI. Districts 1, 3, 5, 7, 8, 10 and 11 had high SACI levels, and district 6 had an average SACI. District 12 had an exceptional SACI due to its higher literacy rates and superior healthcare access (Fig. S7). ECACI evaluates economic adaptive capacity, and findings suggest that districts 1, 5 and 9 had notably high ECSI levels and that districts 3, 7 and 8 also had high levels. Districts 6, 10 and 11 had average ECACI levels. District 12, with the lowest unemployment rate, exemplified strong adaptive capacity due to a high number of insured farmers, extensive forest protection, and investments in infrastructure (Fig. S8).
+Fig. 5
+Forest fire adaptive capacity in the Hyrcanian forests in Golestan Province
+Full size image
+Table 6 Weights of selected indicators for the forest fire adaptive capacity index (FACI)
+Full size table
+The FACI assessment revealed disparities in adaptive capacities across districts. Districts 1 and 5 had very high FACI levels, signaling an urgent need for interventions to enhance adaptation strategies. Districts 3, 6, 8, 9, 10 and 11 had high FACI levels, indicating limited adaptive capacities to forest fires. These areas face significant challenges in their ability to respond effectively and recover from forest fire events. By identifying areas with varying adaptive capacities, policymakers and relevant stakeholders can prioritize resources and efforts to bolster adaptation and preparedness in the face of forest fires.
+The integration of FEI, FSI and FACI into the FVI generated a thorough understanding of the Hyrcanian forests’ vulnerability to fire in Golestan Province. The results revealed that a significant portion of the areas in district 5, 6 and 10 areas had very high vulnerability levels. Districts 1, 3, 9, 11 and 12 also had considerable vulnerability at high levels.
+Upon closer examination, specific indicators stood out in each of these districts. For instance, district 6 had the highest recreational use, which increases its exposure to fire. Districts 5 and 6 were notable for their high numbers of rare and endangered plant species and extensive forest reserves. Additionally, district 6 supports a dense concentration of animal habitats and species, underscoring its ecological importance. Both districts 6 and 10 have substantial quantities of timber and non-timber forest products, reflecting their economic value. Furthermore, a significant portion of the livelihoods in district 6 depends on forest resources, emphasizing the socio-economic impact of fire in this region. Regarding adaptive capacity, districts 5 and 10 have the lowest rates of afforestation and post-fire rehabilitation efforts, indicating a reduced ability to recover from fires. High unemployment rates in districts 6 and 5, paired with minimal investment in infrastructure in district 5, further exacerbate their vulnerability. Figure
+6
+graphically represents these findings and categorizes the forest fire vulnerability levels. Figure
+7
+illustrates the most significant indicators within the highest-vulnerability districts and demonstrates the complex interplay of various factors contributing to their vulnerability. Environmental indicators such as precipitation, elevation, rare and endangered plants, forest reserves, animal habitats, afforestation efforts and post-fire rehabilitation underscore the ecological value and conservation needs of these districts. Economic indicators, including recreation areas, timber and non-timber forest products, infrastructure investments, farmers’ insurance and unemployment rates, provide insight into the districts’ economic vulnerabilities. Social indicators, particularly the dependency on the forest for livelihood, highlight the interaction between humans and the environment and its impact on local communities. This comprehensive framework aids in identifying targeted interventions and policies to reduce vulnerability and enhance resilience in these areas.
+Fig. 6
+Forest fire vulnerability mapping and key indicators of the Hyrcanian forests in Golestan Province
+Full size image
+Fig. 7
+Most significant indicators of fire vulnerability within the most vulnerable districts
+Full size image
+Discussion
+In this study, we introduced the use of the forest fire vulnerability index (FVI) for significantly enhancing forest fire risk management. Unlike previous models such as those developed by Pourtaghi et al. (
+2016
+) and Eskandari et al. (
+2021
+), which primarily focus on susceptibility mapping, our FVI integrates social, economic and environmental factors for a comprehensive vulnerability assessment. Aligned with the IPCC framework (IPCC
+2014
+), which incorporates exposure, sensitivity, and adaptive capacity, our approach provides a more holistic understanding of fire risk. These methodological advancements extend the work of Ghorbanzadeh et al. (
+2019a
+,
+b
+) and Grigorescu et al. (
+2021
+), who acknowledged that vulnerability is multifaceted, but did not integrate these dimensions into a single index as effectively as done here.
+Our study also distinguishes itself from previous studies by combining GIS and RF algorithms with socioeconomic indicators to create a comprehensive FVI. This method is not merely a replication of the climatic focus of Abdi et al. (
+2018
+) and Eskandari et al. (
+2020
+), but is significantly extended by including socioeconomic impacts to provide a more detailed understanding of the dynamics influencing forest fire vulnerability in Golestan Province. Our results underscore the critical importance of incorporating socioeconomic factors in forest fire risk assessments, which are vital for identifying areas of heightened susceptibility, then developing targeted management strategies to mitigate that vulnerability.
+Moreover, our study advances vulnerability assessment methodologies by specifically applying them to forest fire risk. While the efforts of Ortega-Gaucin et al. (
+2018a
+,
+b
+) and Grigorescu et al. (
+2021
+) developed indices for heat phenomena and drought vulnerability, respectively, we constructed a customized FVI that encompasses a broader spectrum of indicators. Our pioneering study in the field uniquely emphasizes forest fires within an ecologically valuable region.
+Additionally, we also expanded the economic dimensions of fire vulnerability, explored by y Silva et al. (
+2012
+) and Molina et al. (
+2018
+,
+2019
+), by incorporating them into a more comprehensive vulnerability framework. This extension highlights the importance of fostering economic resilience in forest-dependent communities and contributes to a holistic understanding of vulnerability.
+Parallel to our study, Parvar et al. (
+2024
+) also investigated fire risk in Golestan National Park, Iran. However, our approach is more comprehensive. While they used remote sensing data to identify factors influencing fire occurrence, our FVI incorporates social and economic factors with environmental variables. This holistic approach informs interventions that not only reduce fire susceptibility, but also enhance the resilience of vulnerable communities.
+Conclusion
+We shed light on a complex web of factors that contribute to forest fires, beyond the conventional focus on environmental and biophysical dimensions. Our results underscore the critical influences of socioeconomic factors on the frequency and severity of these natural disasters. Specifically, we identified key contributors such as the allocation of forest areas for recreational purposes, residential density, road networks, traditional livestock populations, human migration trends and average household income. We also revealed marked disparities in community vulnerability to forest fires, attributable to factors including the size of the permanent resident population, reliance on forest resources for livelihoods, the use of non-timber forest products, the forestry sector’s output, healthcare infrastructure, literacy levels, investment in early warning and firefighting services, the uptake of agricultural insurance, unemployment rates and the presence of protected areas for biodiversity. These disparities have significant implications for immediate responses to forest fires and the long-term adaptive capacity of communities.
+Our findings fill a critical gap in the existing literature by evaluating exposure, sensitivity, and adaptive capacity-as defined by the IPCC framework of vulnerability-through socioeconomic and environmental lenses that have been largely overlooked. These insights on forest vulnerability also lay the groundwork for designing targeted mitigation strategies that are crucial for conserving these ecosystems and offer invaluable guidance for policymakers and decision-makers to prioritize locations of high vulnerability to implement preventive initiatives and allocate firefighting equipment. Such targeted actions are essential for safeguarding our forests and the communities that depend on them.
+References
+Abdi O, Kamkar B, Shirvani Z, Teixeira da Silva JA, Buchroithner MF (2018) Spatial-statistical analysis of factors determining forest fires: a case study from golestan, northeast Iran. Geomat Nat Hazards Risk 9(1):267–280.
+https://doi.org/10.1080/19475705.2016.1206629
+Article
+Google Scholar
+Abedi R (2022) Application of multi-criteria decision making models to forest fire management. Int J Geoheritage Parks 10(1):84–96.
+https://doi.org/10.1016/j.ijgeop.2022.02.005
+Article
+Google Scholar
+Abid M, Schneider UA, Scheffran J (2016) Adaptation to climate change and its impacts on food productivity and crop income: perspectives of farmers in rural Pakistan. J Rural Stud 47:254–266.
+https://doi.org/10.1016/j.jrurstud.2016.08.005
+Article
+Google Scholar
+Abrams J, Nielsen-Pincus M, Paveglio T, Moseley C (2016) Community wildfire protection planning in the American west: homogeneity within diversity? J Environ Plan Manag 59(3):557–572.
+https://doi.org/10.1080/09640568.2015.1030498
+Article
+Google Scholar
+Adger WN (2006) Vulnerability. Global Environ Chang 16(3):268–281.
+https://doi.org/10.1016/j.gloenvcha.2006.02.006
+Article
+Google Scholar
+Aerts R, Honnay O (2011) Forest restoration, biodiversity and ecosystem functioning. BMC Ecol 11:29.
+https://doi.org/10.1186/1472-6785-11-29
+Article
+PubMed
+PubMed Central
+Google Scholar
+Allen CD, Macalady AK, Chenchouni H, Bachelet D, McDowell N, Vennetier M, Kitzberger T, Rigling A, Breshears DD, Hogg EH, Gonzalez P, Fensham R, Zhang Z, Castro J, Demidova N, Lim JH, Allard G, Running SW, Semerci A, Cobb N (2010) A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests. For Ecol Manag 259(4):660–684.
+https://doi.org/10.1016/j.foreco.2009.09.001
+Article
+Google Scholar
+Almeida JS, Jagatheesaperumal SK, Nogueira FG, de Albuquerque VHC (2023) EdgeFireSmoke++: a novel lightweight algorithm for real-time forest fire detection and visualization using Internet of Things-human machine interface. Expert Syst Appl 221:119747.
+https://doi.org/10.1016/j.eswa.2023.119747
+Article
+Google Scholar
+Alwang J, Siegel PB, Jørgensen SL (2001) Vulnerability : a view from different disciplines. Soc Protect Discuss Pap, World Bank.
+https://econpapers.repec.org/paper/wbkhdnspu/23304.htm
+Angelsen A, Jagger P, Babigumira R, Belcher B, Hogarth NJ, Bauch S, Börner J, Smith-Hall C, Wunder S (2014) Environmental income and rural livelihoods: a global-comparative analysis. World Dev 64(Suppl 1):S12–S28.
+https://doi.org/10.1016/j.worlddev.2014.03.006
+Article
+PubMed
+PubMed Central
+Google Scholar
+Archibald S, Lehmann CE, Gómez-Dans JL, Bradstock RA (2013) Defining pyromes and global syndromes of fire regimes. Proc Natl Acad Sci USA 110(16):6442–6447.
+https://doi.org/10.1073/pnas.1211466110
+Article
+PubMed
+PubMed Central
+Google Scholar
+Barmpoutis P, Kastridis A, Stathaki T, Yuan J, Shi MJ, Grammalidis N (2023) Suburban forest fire risk assessment and forest surveillance using 360-degree cameras and a multiscale deformable transformer. Remote Sens 15(8):1995.
+https://doi.org/10.3390/rs15081995
+Article
+Google Scholar
+Belgiu M, Drăguţ L (2016) Random forest in remote sensing: a review of applications and future directions. ISPRS J Photogramm Remote Sens 114:24–31.
+https://doi.org/10.1016/j.isprsjprs.2016.01.011
+Article
+Google Scholar
+Birkmann J (2007) Risk and vulnerability indicators at different scales: applicability, usefulness and policy implications. Environ Hazards 7(1):20–31.
+https://doi.org/10.1016/j.envhaz.2007.04.002
+Article
+Google Scholar
+Biswas S, Nautiyal S (2023) A review of socio-economic vulnerability: the emergence of its theoretical concepts, models and methodologies. Nat Hazards Res 3(3):563–571.
+https://doi.org/10.1016/j.nhres.2023.05.005
+Article
+Google Scholar
+Bond WJ, Keeley JE (2005) Fire as a global ‘herbivore’: the ecology and evolution of flammable ecosystems. Trends Ecol Evol 20(7):387–394.
+https://doi.org/10.1016/j.tree.2005.04.025
+Article
+PubMed
+Google Scholar
+Botzen WJW, van den Bergh JCJM (2008) Insurance against climate change and flooding in the Netherlands: present, future, and comparison with other countries. Risk Anal 28(2):413–426.
+https://doi.org/10.1111/j.1539-6924.2008.01035.x
+Article
+CAS
+PubMed
+Google Scholar
+Bowman DMJS, Balch JK, Bond WJ, Carlson JM, Cochrane MA, Defries RS, Doyle JC, Harrison SP, Johnston FH, Keeley JE, Krawchuk MA, Kull CA, Marston JB, Moritz MA, Prentice IC, Roos CI, Scott AC, Swetnam TW, Van Der Werf GR, Pyne SJ (2009) REVIEW fire in the earth system. Science 324:5926.
+https://doi.org/10.1126/science.1163886
+Article
+CAS
+Google Scholar
+Bowman DMJS, Williamson GJ, Abatzoglou JT, Kolden CA, Cochrane MA, Smith AMS (2017) Human exposure and sensitivity to globally extreme wildfire events. Nat Ecol Evol 1(3).
+https://doi.org/10.1038/s41559-016-0058
+Breiman L (2001) Random forests. Mach Learn 45(1):5–32
+Article
+Google Scholar
+Bui DT, Le KT, Nguyen VC, Le HD, Revhaug I (2016) Tropical forest fire susceptibility mapping at the cat Ba National Park area, Hai phong city, Vietnam, using GIS-based kernel logistic regression. Remote Sens 8(4):347.
+https://doi.org/10.3390/rs8040347
+Article
+Google Scholar
+Chen F, Niu SK, Tong XJ, Zhao JL, Sun Y, He TF (2014) The impact of precipitation regimes on forest fires in Yunnan Province, Southwest China. Sci World J 2014:326782.
+https://doi.org/10.1155/2014/326782
+Article
+Google Scholar
+Costello A, Abbas M, Allen A, Ball S, Bell S, Bellamy R, Friel S, Groce N, Johnson A, Kett M, Lee M, Levy C, Maslin M, McCoy D, McGuire B, Montgomery H, Napier D, Pagel C, Patel J, de Oliveira JAP, Redclift N, Rees H, Rogger D, Scott J, Stephenson J, Twigg J, Wolff J, Patterson C (2009) Managing the health effects of climate change: lancet and university college London institute for global health commission. Lancet 373(9676):1693–1733.
+https://doi.org/10.1016/S0140-6736(09)60935-1
+Article
+PubMed
+Google Scholar
+Cutter SL, Boruff BJ, Shirley WL (2003) Social vulnerability to environmental hazards
+*
+. Soc Sci Q 84(2):242–261.
+https://doi.org/10.1111/1540-6237.8402002
+Article
+Google Scholar
+de Diego J, Rúa A, Fernández M (2021) Vulnerability variables and their effect on wildfires in Galicia (Spain). A panel data analysis. Land 10(10):1–17
+Article
+Google Scholar
+DeBano LF, Neary DG, Ffolliott PF (1998) Fire Effects on Ecosystems. Wiley.
+https://www.wiley.com/en-us/Fire+Effects+on+Ecosystems+-p-9780471163565
+Eskandari S (2017) A new approach for forest fire risk modeling using fuzzy AHP and GIS in Hyrcanian forests of Iran. Arab J Geosci 10(8):190.
+https://doi.org/10.1007/s12517-017-2976-2
+Article
+Google Scholar
+Eskandari S, Miesel JR, Pourghasemi HR (2020) The temporal and spatial relationships between climatic parameters and fire occurrence in northeastern Iran. Ecol Indic 118:106720.
+https://doi.org/10.1016/j.ecolind.2020.106720
+Article
+Google Scholar
+Eskandari S, Pourghasemi HR, Tiefenbacher JP (2021) Fire-susceptibility mapping in the natural areas of Iran using new and ensemble data-mining models. Environ Sci Pollut Res 28(34):47395–47406.
+https://doi.org/10.1007/s11356-021-13881-y
+Article
+Google Scholar
+FAO (2015) Global Forest Resources Assessment 2015: How are the world’s forest changing? FAO Forestry.
+FAO (2020) The State of the World’s Forests 2020. Forests, biodiversity and people. In Geographical Review 14(1).
+https://doi.org/10.4060/ca8642en
+Finney MA, Cohen JD, McAllister SS, Jolly WM (2013) On the need for a theory of wildland fire spread. Int J Wildland Fire 22(1):25.
+https://doi.org/10.1071/wf11117
+Article
+Google Scholar
+Flannigan MD, Krawchuk MA, de Groot WJ, Wotton BM, Gowman LM (2009) Implications of changing climate for global wildland fire. Int J Wildland Fire 18(5):483.
+https://doi.org/10.1071/wf08187
+Article
+Google Scholar
+Ghorbanzadeh O, Blaschke T, Gholamnia K, Aryal J (2019a) Forest fire susceptibility and risk mapping using social/infrastructural vulnerability and environmental variables. Fire 2(3):50.
+https://doi.org/10.3390/fire2030050
+Article
+Google Scholar
+Ghorbanzadeh O, Blaschke T, Gholamnia K, Meena SR, Tiede D, Aryal J (2019b) Evaluation of different machine learning methods and deep-learning convolutional neural networks for landslide detection. Remote Sens 11(2):196.
+https://doi.org/10.3390/rs11020196
+Article
+Google Scholar
+Giglio L, Randerson JT, van der Werf GR (2013) Analysis of daily, monthly, and annual burned area using the fourth-generation global fire emissions database (GFED4). JGR Biogeosci 118(1):317–328.
+https://doi.org/10.1002/jgrg.20042
+Article
+Google Scholar
+Grigorescu I, Mocanu I, Mitrică B, Dumitraşcu M, Dumitrică C, Dragotă CS (2021) Socio-economic and environmental vulnerability to heat-related phenomena in Bucharest metropolitan area. Environ Res 192:110268.
+https://doi.org/10.1016/j.envres.2020.110268
+Article
+CAS
+PubMed
+Google Scholar
+Hantson S, Pueyo S, Chuvieco E (2015) Global fire size distribution is driven by human impact and climate. Glob Ecol Biogeogr 24(1):77–86.
+https://doi.org/10.1111/geb.12246
+Article
+Google Scholar
+Hilton JE, Miller C, Sharples JJ, Sullivan AL (2016) Curvature effects in the dynamic propagation of wildfires. Int J Wildland Fire 25(12):1238.
+https://doi.org/10.1071/wf16070
+Article
+Google Scholar
+Ho TK, Hull JJ, Srihari SN (1994) Decision combination in multiple classifier systems. IEEE Trans Pattern Anal Mach Intell 16(1):66–75.
+https://doi.org/10.1109/34.273716
+Article
+Google Scholar
+Hutto RL (2008) The ecological importance of severe wildfires: some like it hot. Ecol Appl 18(8):1827–1834.
+https://doi.org/10.1890/08-0895.1
+Article
+PubMed
+Google Scholar
+IPCC (2014) IPCC Fifth Assessment Synthesis Report-Climate Change 2014 Synthesis Report. IPCC Fifth Assessment Synthesis Report-Climate Change 2014 Synthesis Report.
+https://www.ipcc.ch/report/ar5/syr/
+IPCC (2022) Chapter 7: Agriculture, Forestry and Other Land Uses (AFOLU). In Climate Change 2022: Mitigation of Climate Change. Working Group III contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change
+Iyengar NS, Sudarshan P (1982) A method of classifying regions from multivariate data. Econ Polit Weekly 17(51):2048–2052
+Google Scholar
+Jensen JR (2014) Remote sensing of the environment: an earth resource perspective. 2nd ed. Pearson Educ (1)
+Kanga S, Tripathi G, Singh SK (2017) Forest fire hazards vulnerability and risk assessment in Bhajji forest range of Himachal Pradesh (India): a geospatial approach. J Remote Sens GIS 8(1):1–16
+Google Scholar
+Keeley JE, Pausas JG, Rundel PW, Bond WJ, Bradstock RA (2011) Fire as an evolutionary pressure shaping plant traits. Trends Plant Sci 16(8):406–411.
+https://doi.org/10.1016/j.tplants.2011.04.002
+Article
+CAS
+PubMed
+Google Scholar
+Kim SJ, Lim CH, Kim GS, Lee J, Geiger T, Rahmati O, Son Y, Lee WK (2019) Multi-temporal analysis of forest fire probability using socio-economic and environmental variables. Remote Sens 11(1):86.
+https://doi.org/10.3390/rs11010086
+Article
+Google Scholar
+Kolanek A, Szymanowski M, Raczyk A (2021) Human activity affects forest fires: the impact of anthropogenic factors on the density of forest fires in Poland. Forests 12(6):728.
+https://doi.org/10.3390/f12060728
+Article
+Google Scholar
+Kondo MC, Fluehr JM, McKeon T, Branas CC (2018) Urban green space and its impact on human health. Int J Environ Res Public Health 15(3):E445.
+https://doi.org/10.3390/ijerph15030445
+Article
+Google Scholar
+Krause A, Kloster S, Wilkenskjeld S, Paeth H (2014) The sensitivity of global wildfires to simulated past, present, and future lightning frequency. JGR Biogeosci 119(3):312–322.
+https://doi.org/10.1002/2013jg002502
+Article
+Google Scholar
+Lambrou N, Kolden C, Loukaitou-Sideris A, Anjum E, Acey C (2023) Social drivers of vulnerability to wildfire disasters: a review of the literature. Landsc Urban Plan 237:104797.
+https://doi.org/10.1016/j.landurbplan.2023.104797
+Article
+Google Scholar
+Lien MK (2019) Vulnerability assessment of climate change on sea level rise impacts on some economic sectors in Binh Dinh province, Vietnam. Am J Clim Change 8(2):302–324.
+https://doi.org/10.4236/ajcc.2019.82017
+Article
+Google Scholar
+Longley PA (2019) Geographic information science and systems, 4th edn. J Chem Infor Model 53(9):1689–1699
+Google Scholar
+MacDicken KG (2015) Global forest resources assessment 2015: what, why and how? Forest Ecol Manag.
+https://doi.org/10.1016/j.foreco.2015.02.006
+Article
+Google Scholar
+Mistry J, Berardi A (2016) Bridging indigenous and scientific knowledge. Science 352(6291):1274–1275.
+https://doi.org/10.1126/science.aaf1160
+Article
+CAS
+PubMed
+Google Scholar
+Moayedi H, Mehrabi M, Bui DT, Pradhan B, Foong LK (2020) Fuzzy-metaheuristic ensembles for spatial assessment of forest fire susceptibility. J Environ Manage 260:109867.
+https://doi.org/10.1016/j.jenvman.2019.109867
+Article
+PubMed
+Google Scholar
+Molina JR, y Silva FR, Herrera MÁ (2017) Economic vulnerability of fire-prone landscapes in protected natural areas: application in a Mediterranean natural park. Eur J For Res 136(4):609–624.
+https://doi.org/10.1007/s10342-017-1059-y
+Article
+CAS
+Google Scholar
+Molina JR, Moreno R, Castillo M, y Silva FR (2018) Economic susceptibility of fire-prone landscapes in natural protected areas of the southern Andean Range. Sci Total Environ 619–620:1557–1565.
+https://doi.org/10.1016/j.scitotenv.2017.11.233
+Article
+CAS
+PubMed
+Google Scholar
+Molina JR, González-Cabán A, y Silva FR (2019) Wildfires impact on the economic susceptibility of recreation activities: application in a Mediterranean protected area. J Environ Manage 245:454–463.
+https://doi.org/10.1016/j.jenvman.2019.05.131
+Article
+PubMed
+Google Scholar
+Moore ID, Grayson RB, Ladson AR (1991) Digital terrain modelling: a review of hydrological, geomorphological, and biological applications. Hydrol Process 5(1):3–30.
+https://doi.org/10.1002/hyp.3360050103
+Article
+Google Scholar
+Nawrotzki R, Hunter L, Dickinson TW (2012) Natural resources and rural livelihoods. DemRes 26:661–700.
+https://doi.org/10.4054/demres.2012.26.24
+Article
+Google Scholar
+Oliveira S, Oehler F, San-Miguel-Ayanz J, Camia A, Pereira JMC (2012) Modeling spatial patterns of fire occurrence in mediterranean europe using multiple regression and random forest. For Ecol Manag 275:117–129.
+https://doi.org/10.1016/j.foreco.2012.03.003
+Article
+Google Scholar
+Ortega-Gaucin D, de la Bartolón JC, Bahena HVC (2018a) Drought vulnerability indices in Mexico. Water (Switzerland).
+https://doi.org/10.3390/w10111671
+Article
+Google Scholar
+Ortega-Gaucin D, Castellano HV, De La Cruz J (2018b) Economic, social and environmental vulnerability to drought in the northwest river basin system, Mexico. Int J EI 1(3):240–253.
+https://doi.org/10.2495/ei-v1-n3-240-253
+Article
+Google Scholar
+Parvar Z, Saeidi S, Mirkarimi S (2024) Integrating meteorological and geospatial data for forest fire risk assessment. J Environ Manage 358:120925.
+https://doi.org/10.1016/j.jenvman.2024.120925
+Article
+PubMed
+Google Scholar
+PBO (2022)
+https://amar.org.ir/population-and-migration
+Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Louppe G, Prettenhofer P, Weiss R, Weiss RJ, Vanderplas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E (2011) Scikit-learn: machine learning in python. J Mach Learn Res 12:2825–2830
+Google Scholar
+Petkovic D, Altman R, Wong M, Vigil A (2018) Improving the explainability of random forest classifier-user centered approach. Pac Symp Biocomput 23:204–215
+PubMed
+PubMed Central
+Google Scholar
+Piao Y, Lee DK, Park S, Kim HG, Jin YH (2022) Forest fire susceptibility assessment using google earth engine in Gangwon-do, Republic of Korea. Geomat Nat Hazards Risk 13(1):432–450.
+https://doi.org/10.1080/19475705.2022.2030808
+Article
+Google Scholar
+Piralilou ST, Shahabi H, Jarihani B, Ghorbanzadeh O, Blaschke T, Gholamnia K, Meena SR, Aryal J (2019) Landslide detection using multi-scale image segmentation and different machine learning models in the higher Himalayas. Remote Sens.
+https://doi.org/10.3390/rs11212575
+Article
+Google Scholar
+Piralilou ST, Einali G, Ghorbanzadeh O, Nachappa TG, Gholamnia K, Blaschke T, Ghamisi P (2022) A google earth engine approach for wildfire susceptibility prediction fusion with remote sensing data of different spatial resolutions. Remote Sens 14:672.
+https://doi.org/10.3390/rs14030672
+Article
+Google Scholar
+Pitts WM (1991) Wind effects on fires. Prog Energ Combust 17:2.
+https://doi.org/10.1016/0360-1285(91)90017-H
+Article
+Google Scholar
+Potter BE (2012) Atmospheric interactions with wildland fire behaviour - I. Basic surface interactions, vertical profiles and synoptic structures. Int J Wildland Fire 21(7):779.
+https://doi.org/10.1071/wf11128
+Article
+Google Scholar
+Pourtaghi ZS, Pourghasemi HR, Rossi M (2015) Forest fire susceptibility mapping in the Minudasht forests, Golestan province, Iran. Environ Earth Sci 73(4):1515–1533.
+https://doi.org/10.1007/s12665-014-3502-4
+Article
+Google Scholar
+Pourtaghi ZS, Pourghasemi HR, Aretano R, Semeraro T (2016) Investigation of general indicators influencing on forest fire and its susceptibility modeling using different data mining techniques. Ecol Indic 64:72–84.
+https://doi.org/10.1016/j.ecolind.2015.12.030
+Article
+Google Scholar
+Reyes-Bueno F, Loján-Córdova J (2022) Assessment of three machine learning techniques with open-access geographic data for forest fire susceptibility monitoring—evidence from southern Ecuador. Forests 13(3):474.
+https://doi.org/10.3390/f13030474
+Article
+Google Scholar
+Rieman BE, Hessburg PF, Luce C, Dare MR (2010) Wildfire and management of forests and native fishes: conflict or opportunity for convergent solutions? BioScience 60(6):460–468.
+https://doi.org/10.1525/bio.2010.60.6.10
+Article
+Google Scholar
+Robinne FN (2021) Impacts of disasters on forests. Particular Forest Fire
+Romero-Calcerrada R, Novillo CJ, Millington JDA, Gomez-Jimenez I (2008) GIS analysis of spatial patterns of human-caused wildfire ignition risk in the SW of Madrid (Central Spain). Landsc Ecol 23(3):341–354.
+https://doi.org/10.1007/s10980-008-9190-2
+Article
+Google Scholar
+Rothermel RC (1983) How to predict the spread and intensity of forest and range fires. US Department of Agriculture, Forest Service, General Technical Report, INT-143
+Saim AAL, Aly MH (2022) Machine learning for modeling wildfire susceptibility at the state level: an example from Arkansas, USA. Geographies 2(1):31–47.
+https://doi.org/10.3390/geographies2010004
+Article
+Google Scholar
+San-Miguel-Ayanz J, Schulte E, Schmuck G, Camia A, Strobl P, Liberta G, Giovando C, Boca R, Sedano F, Kempeneers P, McInerney D, Withmore C, Santos de Oliveira S, Rodrigues M, Durrant T, Corti P, Oehler F, Vilar L, Amatulli G (2012) Comprehensive monitoring of wildfires in Europe: the European forest fire information system (EFFIS). In: Approaches to managing disaster: assessing hazards, emergencies and disaster impacts. InTech.
+https://doi.org/10.5772/28441
+Seidl R, Thom D, Kautz M, Martin-Benito D, Peltoniemi M, Vacchiano G, Wild J, Ascoli D, Petr M, Honkaniemi J, Lexer MJ, Trotsiuk V, Mairota P, Svoboda M, Fabrika M, Nagel TA, Reyer CPO (2017) Forest disturbances under climate change. Nat Clim Chang 7:395–402.
+https://doi.org/10.1038/nclimate3303
+Article
+PubMed
+PubMed Central
+Google Scholar
+Shahabi H, Jarihani B, Tavakkoli Piralilou S, Chittleborough D, Avand M, Ghorbanzadeh O (2019) A semi-automated object-based gully networks detection using different machine learning models: a case study of Bowen Catchment, Queensland, Australia. Sensors (Basel) 19(22):4893.
+https://doi.org/10.3390/s19224893
+Article
+PubMed
+Google Scholar
+Souza-Alonso P, Saiz G, García RA, Pauchard A, Ferreira A, Merino A (2022) Post-fire ecological restoration in Latin American forest ecosystems: insights and lessons from the last two decades. For Ecol Manag 509:120083.
+https://doi.org/10.1016/j.foreco.2022.120083
+Article
+Google Scholar
+Stougiannidou D, Zafeiriou E, Raftoyannis Y (2020) Forest fires in Greece and their economic impacts on agriculture. Kne Soc Sci.
+https://doi.org/10.18502/kss.v4i1.5977
+Article
+Google Scholar
+Tuček J, Majlingová A (2009) Forest fire vulnerability analysis. In: Bioclimatology and natural hazards. Springer Netherlands, pp 219–230.
+https://doi.org/10.1007/978-1-4020-8876-6_19
+Turner MG, Gardner RH (2015) Landscape ecology in theory and practice: pattern and process. Springer, New York.
+https://doi.org/10.1007/978-1-4939-2794-4
+Book
+Google Scholar
+UNESCO World Heritage Centre. (2019). The Hyrcanian forests. Retrieved April 12, 2024.
+https://whc.unesco.org/
+Vadrevu KP, Eaturu A, Badarinath KVS (2010) Fire risk evaluation using multicriteria analysis—a case study. Environ Monit Assess 166(1–4):223–239.
+https://doi.org/10.1007/s10661-009-0997-3
+Article
+PubMed
+Google Scholar
+Xavier Viegas D (1998) Forest fire propagation. Philos Trans R Soc Lond Ser A Math Phys Eng Sci 356(1748):2907–2928.
+https://doi.org/10.1098/rsta.1998.0303
+Article
+Google Scholar
+Xu R, Lin H, Lü YH, Luo Y, Ren YJ, Comber A (2018) A modified change vector approach for quantifying land cover change. Remote Sens 10(10):1578.
+https://doi.org/10.3390/rs10101578
+Article
+Google Scholar
+Xu ZS, Liu DL, Yan L (2021) Temperature-based fire frequency analysis using machine learning: a case of Changsha, China. Clim Risk Manag 31:100276.
+https://doi.org/10.1016/j.crm.2021.100276
+Article
+Google Scholar
+y Silva FR, Ramón Molina J, González-Cabán A, Machuca MÁH (2012) Economic vulnerability of timber resources to forest fires. J Environ Manag 100:16–21.
+https://doi.org/10.1016/j.jenvman.2011.12.026
+Article
+Google Scholar
+Zhang GL, Wang M, Liu K (2019) Forest fire susceptibility modeling using a convolutional neural network for Yunnan Province of China. Int J Disaster Risk Sci 10(3):386–403.
+https://doi.org/10.1007/s13753-019-00233-1
+Article
+CAS
+Google Scholar
+Zhao PC, Zhang FQ, Lin HF, Xu SW (2021) GIS-based forest fire risk model: a case study in Laoshan national forest park, Nanjing. Remote Sens 13(18):3704.
+https://doi.org/10.3390/rs13183704
+Article
+Google Scholar
+Download references
+Acknowledgements
+Open access funding provided by University of Natural Resources and Life Sciences Vienna (BOKU).
+Funding
+Open access funding provided by University of Natural Resources and Life Sciences Vienna (BOKU). OA Publishing at Springer: University Library and University Archives::BOKU.
+Author information
+Authors and Affiliations
+Faculty of Agriculture, Department of Agricultural Economics, Ferdowsi University of Mashhad, Mashhad, Iran
+Elnaz Nejatiyanpour, Mahmoud Daneshvar Kakhki & Mahmoud Sabouhi Sabouni
+Institute of Geomatics Peter-Jordan-Straße 82, University of Natural Resources and Life Sciences, 1190, Vienna, Austria
+Omid Ghorbanzadeh
+Department of Geoinformatics—Z_GIS, University of Salzburg, 5020, Salzburg, Austria
+Elnaz Nejatiyanpour & Josef Strobl
+John H. Daniels Faculty of Architecture, Landscape, and Design, University of Toronto, Toronto, Canada
+Rasoul Yousefpour
+Faculty of Agricultural Engineering, Department of Agricultural Economics, Sari Agricultural Sciences and Natural Resources University, Sari, Iran
+Hamid Amirnejad
+Department of Applied Geoinformatics and Cartography, Charles University, Albertov 6, 128 43, Prague 2, Czech Republic
+Khalil Gholamnia
+Authors
+Elnaz Nejatiyanpour
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Omid Ghorbanzadeh
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Josef Strobl
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rasoul Yousefpour
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mahmoud Daneshvar Kakhki
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hamid Amirnejad
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Khalil Gholamnia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mahmoud Sabouhi Sabouni
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Corresponding authors
+Correspondence to
+Omid Ghorbanzadeh
+or
+Mahmoud Sabouhi Sabouni
+.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Corresponding editor: Shuxuan Li.
+The online version is available at
+http://www.springerlink.com
+.
+Supplementary Information
+Below is the link to the electronic supplementary material.
+Supplementary file1 (JPG 2825 kb)
+Supplementary file2 (JPG 1668 kb)
+Supplementary file3 (JPG 1441 kb)
+Supplementary file4 (JPG 1443 kb)
+Supplementary file5 (JPG 1432 kb)
+Supplementary file6 (JPG 1439 kb)
+Supplementary file7 (JPG 1451 kb)
+Supplementary file8 (JPG 1435 kb)
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Nejatiyanpour, E., Ghorbanzadeh, O., Strobl, J.
+et al.
+Assessing Hyrcanian forest fire vulnerability: socioeconomic and environmental perspectives.
+J. For. Res.
+36
+, 35 (2025). https://doi.org/10.1007/s11676-025-01832-z
+Download citation
+Received
+:
+07 March 2024
+Accepted
+:
+11 July 2024
+Published
+:
+22 February 2025
+DOI
+:
+https://doi.org/10.1007/s11676-025-01832-z
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Hyrcanian forest
+GIS
+Fire vulnerability
+Risk assessment
+Policy-making
+Disaster mitigation
+Use our pre-submission checklist
+Avoid common mistakes on your manuscript.
+Advertisement
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Legal notice
+Cancel contracts here
+142.115.87.244
+Not affiliated
+© 2025 Springer Nature

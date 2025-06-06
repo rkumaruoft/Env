@@ -1,0 +1,1685 @@
+Effects of urban sprawl due to migration on spatiotemporal land use-land cover change: a case study of Bartın in Türkiye | Scientific Reports
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+scientific reports
+articles
+article
+Effects of urban sprawl due to migration on spatiotemporal land use-land cover change: a case study of Bartın in Türkiye
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+04 January 2025
+Effects of urban sprawl due to migration on spatiotemporal land use-land cover change: a case study of Bartın in Türkiye
+Gökhan Şen
+ORCID:
+orcid.org/0000-0003-0789-7474
+1
+Scientific Reports
+volume
+15
+, Article number:
+815
+(
+2025
+)
+Cite this article
+5391
+Accesses
+6
+Altmetric
+Metrics
+details
+Subjects
+Environmental sciences
+Forestry
+Sustainability
+Abstract
+Rapid urban growth is a subject of worldwide interest due to environmental problems. Population growth, especially migration from rural to urban areas, leads to land use and land cover (LULCC) changes in urban centres. Therefore, LULCC and urban growth analyses are among the studies that will help decision-makers achieve better sustainable management and planning. The objective of this study was to ascertain the impact of urbanization, which resulted from migration, on the alterations in LULCC, with a particular focus on the changes in forest areas surrounding the Bartın city centre between 2000 and 2020. Spatial databases for two periods were used to determine changes in urban growth. The spatial and temporal LULCC patterns of land use were quantified by interpreting spatial data. Remote sensing (RS) and geographical information systems (GIS) have been used for data collection, analysis, and presentation. The LULCC was assessed under nine classes using optical remote sensing methods on stand-type maps created from aerial photos. To determine how urban growth affects LULCC, land use status and transition matrices were created for each of the five sprawl zones around Bartın city. The annual change in forest areas is determined by the “annual forest rate”. The results indicate that the urbanization of Bartın city from 2000 to 2020 increased by approximately 19% (2510645.82 m
+2
+). However, this did not harm the forests; cover increased by 10.32% (174729.65 m²) over the same period. The process of urbanization was particularly evident in open areas and agricultural zones. During this period, there was a 37% reduction in agricultural areas (2943229.85 m²) and a 59% reduction in open areas (1265457.76 m²). The sprawl of Bartın city can be attributed to changes in its demographic structure, which mainly includes the migration of the rural population to urban areas and the emergence of new job opportunities. Factors such as challenging urban living conditions, insecure environments because of the increase in temporary foreign asylum seekers, and retirees returning to their hometowns are believed to have contributed to this population growth.
+Similar content being viewed by others
+Land use and land cover changes influence the land surface temperature and vegetation in Penang Island, Peninsular Malaysia
+Article
+Open access
+08 December 2022
+Rural-urban transformation shapes oasis agriculture in Morocco’s High Atlas Mountains
+Article
+Open access
+27 January 2025
+Anthropogenic activities accelerate LULC conversion and only a sustainable development scenario is optimal for agro-pastoral ecotone development
+Article
+Open access
+23 April 2025
+Introduction
+Since the mid-19th century, urbanization has continued to increase. The percentage of people living in cities has risen from 30% in the 1950s to 47% in 2000, accounting for 55% in 2018, and is projected to reach 60% in 2030
+1
+. Although the urban population is growing, the rural population is declining. In 1950, the world’s rural population was 3.4 billion, which is predicted to decrease to 3.1 billion by 2050
+2
+.
+Urbanization can affect the environment in many ways
+3
+. The replacement of natural areas by impermeable areas like roads and buildings, domestic animals preying on wild animals
+4
+, pollution endangering human health and that of other living things as well as the ecosystem
+5
+,
+6
+, issues with infrastructure and transportation, local air pollution brought on by insufficient air circulation
+7
+,
+8
+, and degradation of comfort areas due to heat island formations are a few of these impacts
+9
+. In recent years, urban problems have become so severe that urbanization is now considered one of the two irreversible global challenges
+10
+,
+11
+,
+12
+. There is a need to assess the sprawl status of the cities that continue to receive immigration from outside, make plans for the upcoming years and consider risks like fire, flood, and bio-comfort conditions in addition to population projections and changes to the cities’ settlement in this plans
+13
+,
+14
+,
+15
+,
+16
+.
+Migration is the primary driver of urban sprawl. It refers to the movement from rural, dispersed settlements focusing on agriculture to larger, urban settlements focusing on agriculture, industry, or services
+2
+,
+17
+,
+18
+. Studies have shown that social, political, and economic factors primarily trigger migration
+19
+. Whether internal or external, migration has always presented opportunities and challenges to cities and governments
+20
+. Although rural-to-urban migration is the most significant internal migration, urban-to-rural migrations also occur in the last decades
+21
+.
+Two distinct situations arise as a result of migration. Firstly, there is an increase in the urban population due to the movement towards cities
+22
+. Secondly, there is a decrease in the population of the place left behind
+23
+. This situation has several social and economic consequences. The reduction in population in rural areas results in decreased production and depletion of the labour force, which hinders rural development and the efficient use of resources
+24
+. Furthermore, unplanned population growth in migration destinations can result in inadequate infrastructure, increased strain on existing resources, decreased labour prices, and heightened pollution levels
+25
+,
+26
+,
+27
+,
+28
+. Internal migration results in urbanization and creates pressure on rural areas close to the city centre due to economically developing people returning to nearby rural settlements, secondary housing, and recreational activities
+29
+. While extensive literature has examined the economic and environmental drivers of rural-urban migration
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+, the impact of rural migration on different land uses and the environment remains insufficiently explored. Although numerous studies have addressed this topic, cities and towns are shaped by diverse geographical, cultural, and human factors. Consequently, the effects of land use changes vary across different settlements. Therefore, relying solely on comprehensive studies or findings from other regions to plan distinct areas in the future would be misleading. Conducting localized studies will yield a more accurate data source for informed planning.
+The population structure in Türkiye has undergone rapid changes due to migration from rural to urban areas and abroad, particularly since the 1950s. In the 1930s, 75% of the population lived in rural settlements, which accounted for 93.5% of Türkiye. However, by 2022, this ratio had dropped to 17.3%, and of this population, 30.1% were elderly
+37
+. The increase in urbanization is giving rise to numerous challenges in both the city centre and the surrounding rural areas. It is essential to analysis how these regions are evolving, which land uses are changing, and the direction of these changes to define these issues. These can significantly impact global environmental objectives, including forest conservation and biodiversity targets
+38
+. Continuous monitoring and evaluation of the city and its environs are necessary to assess the effects of urbanization on natural areas.
+This study aims to reveal the urban sprawl in the city centre of Bartın between 2000 and 2020 and the effects of this sprawl on other land uses. The study reveals the spatial and structural changes in forest areas, which are generally the most affected by urban sprawl and its providing many ecosystem services for people
+3
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+, and the spatial changes in other land uses. In addition to identifying land uses and transformations, the study also presents specific assessments for the city centre and development axes.
+Materials and methodology
+Study area
+Researchers conducted the study in the central and rural areas of Bartın, in the western part of the Black Sea region. Figure
+1
+, created with ArcGIS
+®
+10.5 software (
+https://desktop.arcgis.com/en/arcmap/10.5/get-started/main/get-started-with-arcmap.htm
+), shows the boundaries of Bartın and the study area
+44
+,
+45
+. Bartın, positioned at 32°22’ east longitude and 41°37’ north latitude in the Western Black Sea Section of the Black Sea Region, boasts a total area of 43 km² and an elevation of 25 m above sea level. In the western part of the Black Sea region, Bartın encompasses 137 villages within its borders
+46
+. The economy of Bartın primarily relies on agriculture, livestock, mining, and tourism. The city derives its name from the ancient name of the Bartın River (Parthenios), with its history dating back to the 14th century BC. The State Forest Enterprise manages state-owned forested areas within Bartın’s boundaries. The Küre Mountains National Park, one of the 100 forest hotspots in Europe requiring protection, lies within Bartın’s borders. The park hosts 129 bird species, 1050 plants, 71 mammals, and reptiles, including 43 endemic plant species. Küre Mountains National Park holds the Platinum Wilderness Certificate
+47
+. Bartın province, with its coastline along the Black Sea, attracts migration from surrounding provinces and other districts.
+Fig. 1
+National country and city boundaries of the study area.
+Full size image
+Methods
+This study delineates the effects of spatiotemporal analysis of rapid city growth and impacts on forest lands and other land use types. Figure
+2
+shows the flowchart diagram of the study.
+Fig. 2
+Flowchart diagram of the study.
+Full size image
+First, the data used in this research were land cover-type maps on a 1/25,000 scale from 2000 to 2020. These maps were created by the stereo interpretation of 1/15,000 colour digital aerial photographs. We obtained these maps from the management plans of the Bartın Forest Management Directorate. They were subsequently incorporated into a database utilizing Universal Transverse Mercator (UTM) projection (ED 50 datum) and 1:25000 scale topographic maps, applying first-order nearest neighbour rules. Following this, we digitized the maps and established a spatial database using Arc/Info GIS after completing the necessary adjustments. Polygon themes composed of forest cover from 2000 to 2020 were superposed, and ArcGIS
+®
+10.5 software was utilized to overlay changes in LULCC onto maps to calculate temporal alterations in the landscape
+48
+,
+49
+,
+50
+,
+51
+. The reasons for the preference for ArcGIS software are ease of use, widespread adoption, the ability to perform various spatial analyses on visual results, and extensive global usage. Additionally, ArcGIS can handle large datasets and complex analyses, allowing users to edit and maintain their geographic data efficiently within the software
+52
+,
+53
+,
+54
+,
+55
+,
+56
+,
+57
+.
+In the final stage of the study, we constructed land use matrices between 2000 and 2020 to ascertain the extent of change in land use patterns over this period. The land use maps we employed in this study define 12 classes for economically productive forest areas, 26 for ecologically functional areas, 17 for socio-cultural purposes, 16 for treeless forest areas, and 10 for non-forest areas
+58
+. Since we could not analysis this number of classes, we simplified the number of classes and used a coarse-level classification method
+49
+,
+59
+. In this context, we created nine LULCC classes (see Table
+1
+), and we compared image transects captured between 2000 and 2020 to identify changes in land use and land cover (LULC). We identified a central point in the city square to facilitate detailed observation of changes in the city centre. We subdivided the area into five urban sprawl zones (USZs) measuring 1 km wide. We assessed the land uses, changes, and transformations in these USZs separately and collectively. We employed the Kappa index to assess the correctness of the terrain classification
+60
+. We randomly assigned 300 points in the ArcGIS program to calculate the Kappa index, resulting in a Kappa index of 0.887. Given that the calculated Kappa index falls within the range of 0.81 to 1.00, we can consider it to represents great agreement.
+Table 1 Land use/land cover classes description.
+Full size table
+The deforestation rate for consecutive years of forest cover mapping was calculated using the forest area for times one and two. In order to determine the average annual deforestation rate, it was assumed that this rate would fluctuate over time, and the following formula was employed
+61
+:
+$$\:\text{D}\text{e}\text{f}\text{o}\text{r}\text{e}\text{s}\text{t}\text{a}\text{t}\text{i}\text{o}\text{n}\:\text{r}\text{a}\text{t}\text{e}=\frac{(\text{log}{F}_{t2}-\text{log}{F}_{t1})\:\times\:\:100}{{t}_{2}-{t}_{1}}$$
+(1)
+In the formula,
+F
+1
+and
+F
+2
+represent the forest cover at times
+t
+1
+and
+t
+2
+, respectively (in km
+2
+). Urban Sprawl Intensity.
+We also analysed the intensity of urban sprawl to facilitate a comparative analysis of the relationship between urban sprawl and other land uses. Urban Sprawl Intensity (USI) is defined as the rate of changes in built-up area per unit of time and serves as a significant indicator reflecting the urban sprawl rate or velocity during different
+62
+,
+63
+. The urban sprawl intensity for all USZs in Bartın City Centre was analysed.
+$$UEI_{t \sim \:t+n}=\:\frac{({ULA}_{t+n}-{ULA}_{t})}{{ULA}_{t}}\times\:\frac{1}{n}\times\:100\%$$
+(2)
+In the formula,
+USI
+t~t+n
+represents the urban sprawl intensity from time
+t
+to time
+t + n
+, while
+ULA
+t
+and
+ULA
+t
++n
+denote the built-up area at times
+t
+and
+t + n
+modelling.
+Results
+The study examined the changes in land use and land cover within the urban centre of Bartın in the years 2000 and 2020. The land use conditions and alterations in five sprawl zones, starting from the city centre and spaced at intervals of 1 km, are presented in Figs.
+3
+,
+4
+and
+5
+; Tables
+2
+,
+3
+and
+4
+.
+Table 2 Bartın city centre LULCC in terms of 2000–2020.
+Full size table
+Table
+2
+shows that in 2000, Bartın’s city centre consisted mainly of AG (59.7%), forests (19.6%), US (17.4%), and OA (2.8%). In 2020, the proportion of US increased to 20.39%, while the proportion of forests increased to 21.88%, and AG decreased to 55.91%, with open space accounting for only 1.1%.
+Fig. 3
+LULC in the Bartın centre in 2000.
+Full size image
+Fig. 4
+LULC in the Bartın centre in 2020.
+Full size image
+Table 3 Bartın city center LULCC of urban sprawl zones in term of 2000–2020.
+Full size table
+Upon closer examination of Table
+3
+, it is evident that the areas designated as US have increased in the city centre’s 1st, 3rd, 4th, and fifth sprawl zones. Specifically, by 2020, the AS areas in the first sprawl zone increased by 2.6% compared to the year 2000, by 27.3% in the third sprawl zone, by 70.71% in the fourth, and by 51.7% in the fifth. However, the second sprawl zone experienced a 1.2% decrease in US areas. The forest areas (FA) experienced a significant increase in the 2nd, 3rd, 4th, and fifth sprawl zones, with growth rates of 73.4, 19, 15.3, and 6.1%, respectively. On the other hand, the AG areas showed a decrease in all sprawl zones, with a reduction of 5.4, 4.2, 8.9, 7.4, and 4.6% in the 1st, 2nd, 3rd, 4th, and fifth sprawl zones, respectively. OA increased by 567.6% in the second sprawl zone. However, in the third, fourth, and fifth sprawl zones, OA decreased by 16.1, 83.6, and 60.4%, respectively.
+From 2000 to 2020, the US areas in the centre of Bartın increased by 18.93% (2510645.82 m
+2
+), while the FA increased by 10.33% (1747296.48 m
+2
+). However, the AG areas decreased by 6.37% (2943229.85 m
+2
+), and OA decreased by 60.4% (1265457.76 m
+2
+) during the same period.
+By 2020, there were significant changes in the Land Use and Land Cover (LULC) in Bartın centre, rural and urban areas. Figure
+5
+; Table
+4
+show LULCC in terms of 2000–2020 and interclass transition matrices in urban sprawl areas.
+Fig. 5
+The transition matrix of LULC changes in Bartın city center from 2000 to 2020.
+Full size image
+Table 4 Bartın Centre LULCC classes transition Matrix from 2000 to 2020.
+Full size table
+Upon analysing Fig.
+5
+; Table
+4
+, it becomes apparent that the most significant spatial change between 2000 and 2020 occurred in agricultural areas, with 6,490,023.7 m
+2
+being converted. Specifically, 7.8% (3604109.3 m
+2
+) of AG has converted to US and 3.1% to DB.
+Upon examination of US areas, it is evident that there has been a conversion from forested areas to US. 54,111.1 m
+2
+has been transformed from degraded forest areas, comprising 0.38% of DB, 0.25% of DC, 0.75% of PB, 0.17% of PC, and 0.41% of PM. Additionally, 6.1% of OA (130361.3 m
+2
+) have also converted to US. During this period, the total area converts to US amounts to 3,905,042 m
+2
+. Simultaneously, 0.4% of US (52499.5 m
+2
+) has transformed into forested areas.
+When we examine forested areas, it becomes apparent that all the PM has transformed into other land use and land cover (LULC) categories by 2020. Specifically, 1364826.7 m
+2
+of the forest land class changed to other land uses. In contrast, 3105033.5 m
+2
+changed from different LULC classes to forested areas.
+Tables
+5
+,
+6
+,
+7
+,
+8
+and
+9
+shows the changes in land use status, urban areas, and forest areas in the sprawl zones created outward from the city centre.
+Table 5 LULCC classes transition matrix of USZ 1 in Bartın centre between 2000–2020.
+Full size table
+Table 6 LULCC classes transition matrix of USZ 2 in Bartın centre between 2000–2020.
+Full size table
+Table 7 LULCC classes transition matrix of USZ 3 in Bartın centre between 2000–2020.
+Full size table
+Table 8 LULCC classes transition matrix of USZ 4 in Bartın centre between 2000–2020.
+Full size table
+Table 9 LULCC classes transition matrix of USZ 5 in Bartın centre between 2000–2020.
+Full size table
+Tables
+5
+,
+6
+,
+7
+,
+8
+and
+9
+display the variations in land transformations within the USZ. In the first USZ, where there is no forested area, there is a conversion of 12361.2 m
+2
+from AG to US.
+In the second USZ, the conversion from AG to other land uses amounts to 679131.7 m
+2
+, from forested areas to other land uses is 233145.4 m
+2
+, and from OA to other land uses is 14448.4 m
+2
+. The total area converted to US from forests (3635.5 m
+2
+), OA (1501.6 m
+2
+), and AG (433957.8 m
+2
+) between 2000 and 2020 is 439094.8 m
+2
+.
+In the third USZ, 15.22% of the land that turns into other uses is AG, 15.7% is developed US, 59.9% is OA (358774 m
+2
+), and 35% (358774 m
+2
+) is FA. A total of 1,057,075 m2 area, including 27374.6 m
+2
+from forests, 1,005,857 m
+2
+from agricultural areas and 23843.4 m
+2
+from forests, has been transferred to the US class. Of the areas classified as US, AG and OA in 2000, 618768.3 m
+2
+became FA in 2020.
+In the fourth USZ, 14.3% of AG, 15.7% of US, 86.3% of OA (813761 m
+2
+), and 10.1% of FA (460476.4 m
+2
+) were converted to other land uses. Of the areas converted to US, 91.4% were previously AG (1237080.59 m
+2
+), 1.3% were FA (17785.5 m
+2
+), and 6.7% were OA (91012.3 m
+2
+). The area converted from other uses to forest is 1,155,863 square meters. The majority of this area, 67.2%, comes from AG, while only 0.6% comes from US and 29.5% from OA.
+Upon analysis of the fifth USZ, it is evident that 12.3% (2024939.5 m
+2
+) of AG, 15.3% (210319.8 m
+2
+) of US, 91.4% (757414.3 m
+2
+) of OA, and 13% (589448.6 m
+2
+) of FA were converted to other land use classes. In the 2000–2020 period, 41.8% of the total area in the fifth development zone transformed into different land use classes, amounting to 9189168.1 m
+2
+. Notably, 97.1% of the regions converted to US were previously AG, while only 1.5% (14004.1 m
+2
+) of the conversion came from OA. The forest area conversion to US is 0.6% (5315.6 m
+2
+). The conversion of other LULC to forest is 1,105,174 m
+2
+. Of this, 81.4% (899158.9 m
+2
+) was converted from AG, 18% (199022.1 m
+2
+) from OA, and 0.6% (6993 m
+2
+) from US.
+Table
+10
+displays the analysed annual urbanization and deforestation rates for Bartın city centre and sprawl areas.
+Table 10 Urbanization and deforestation rates (2000–2020).
+Full size table
+Upon examining Table
+10
+, it becomes apparent that urbanization has increased in all sprawl zones within the city centre except the second sprawl zone. The fourth sprawl zone has experienced the highest rate of urbanization. The urbanization rate in Bartın city centre is 0.95, compared to only 0.04 in Bartın province.
+When examining the annual deforestation rates, it can be observed that there is a decrease in forest areas in Bartın province, with a rate of -0.003. However, in the city centre of Bartın, there has been an increase in forest areas, with a rate of 0.54. The deforestation rate was 2.75 in the second sprawl zone and 0.29 in the fifth sprawl zone.
+Demographic development
+The Bartın province comprises 137 villages within its borders
+64
+. The population is distributed, with 49.7% residing in the centre and the remainder in the villages. Figure
+6
+37
+illustrates the population distribution between 1970 and 2020 in the central district of Bartın.
+Fig. 6
+Population status and urban areas of Bartın Central District.
+Full size image
+An analysis of Fig.
+6
+shows that the total population increased between 1970 and 1985 but started declining. After 2000, the total population started to increase again. The total population increased by 20%, reaching 156,551 people. During the same period, the rural population decreased while the central population increased. The rural population decreased by 16.7% during this period, reaching 78,742 persons.
+On the other hand, the urban population increased by 116.2% from 35,992 to 77,809 persons. The urban population, which was 27.6% in 2000, reached 49.7% in 2020. According to these data, the city has experienced much migration from rural areas. Apart from this internal migration, the university built in the city and the asylum seekers coming from the wars in the neighbouring countries have effectively increased the population.
+Discussion
+The ‘New Urban Agenda’, published by the ‘United Nations Human Settlements Programme’ in 2017, outlines 17 targets for the Sustainable Development Goals to be achieved by 2030. The 11th target focuses on ‘sustainable cities and communities’. In order to realize this goal, authorities and communities are encouraged to re-evaluate their current urban development practices and adopt more sustainable approaches and strategies
+65
+. The study analysed and assessed the impact of urban sprawl on the natural environment, in particular forest ecosystems and agricultural areas, which are crucial for sustainable food production. The results show significant changes in artificial areas, with agricultural and open areas being converted. Artificial surfaces have largely replaced agricultural and open areas. Between 2010 and 2020, the area of residential and business buildings in Bartın city centre and municipal boundaries increased from 293,607 m
+2
+to 391,365 m
+2
+. The sprawl areas of the city show an increase in artificial surface areas as they move away from the centre. In particular, there is a 70% increase in and around the city centre boundary. This increase continues with the opening of new development areas. Sustainable food security and access to clean drinking water are essential human rights. When we look at the area, we see that new settlements are being built on agricultural land and open spaces. This situation can cause significant problems in the future. Today, the decrease in agricultural activity near the city centre has an increasing impact on food prices. In addition, the structures built on the water’s edge are causing significant problems. These structures, built without considering the flood plains along the riverbanks, cause loss of life and property, mainly when floods result from excessive rainfall. Situations similar to the study’s findings also exist around the world. A remote sensing-based assessment of agricultural land loss around Greater Cairo since the Egyptian revolution in 2011 shows that 62% of Cairo and 87% of Giza have been built on privately owned agricultural land. This urban sprawl has led to the loss of 19 per cent of agricultural land and the fragmentation of the remaining areas. As a result, soil fertility has declined, irrigation water has become polluted, labour costs have increased, and crop types have changed
+66
+. Similarly, a study in Japan found that diversified agricultural activities decreased as farmland moved closer to urban boundaries
+67
+. At the same time, research in Ghana showed that urban sprawl reduced farmland and agricultural diversity and caused income losses for some farmers due to changes in agricultural policies
+68
+. Notably, internal migration, where people move to urban centres in Bartın has depopulated villages, resulting in declining farmers. A similar situation has been observed across Türkiye, which has led to a contraction of the rural economy, a decrease in income and a decline in agricultural diversity
+34
+. The decline in agricultural diversity and production impacts the change in food inflation figures in Türkiye. Food prices have been rapidly increasing since the second half of the 2000s. In 2005, the rate of increase in food prices was 5% per year on average, while in 2019, the food price index increased by 20% per year
+69
+. This situation is likely to worsen if the reduction of agricultural land around cities continues.
+The impact of urbanization on other land uses is not unique to Bartın. Looking at Türkiye as a whole, urbanization and the expansion of artificial areas are increasing similarly. In particular, the closure of village schools and rural health centres, the excessive increase in agricultural inputs, the increase in the number of young people attending universities due to government policies such as the opening of universities in all provinces, and the distance of all these young people from agriculture have led to an increase in migration from rural to urban areas. These policies have caused the spread of cities throughout Türkiye and the change in land use around city centres
+70
+,
+71
+. However, the general increase in urbanization does not mean urbanization has increased in every province. In this context, many remote sensing studies show similar results in Türkiye. A study by remote sensing method conducted in Edirne reveals a decrease in agricultural areas due to the growth of residential (6 km
+2
+) and industrial zones (2 km
+2
+) between 1990 and 2018
+72
+. In another study, from 2002 to 2020, 17 designated slow cities reported that observable increments ranging from 0.06 to 3.5 km
+2
+occurred. The influence of the expanding population, notably pronounced during this growth, was highlighted
+73
+. The study conducted in Kastamonu between 1999 and 2014 showed that artificial surface built up on 519.5 ha of agricultural land and 86 ha of forest area in the city centre
+74
+. The study in Muğla-Köyceğiz determined that the urban area increased by 4.33% between 2004 and 2019. In the same period, green areas decreased by 6.59%, and vacant lands decreased by 4.24%
+75
+. The situation in the neighbouring provinces of Bartın is similar to the study results. Between 2005 and 2020, the urban populations of Bolu, Kastamonu, Karabük, Karabük and Zonguldak, which are neighbours of Bartın, increased by 44.2%, 29.4%, 15.5% and 34.1%, respectively. The rural population decreased by 22.6%, 21.7%, 0.6% and 34.6% respectively. In the same period, the US increased by 2006 hectares (ha) in Bolu, 1499 ha in Kastamonu, 889 ha in Karabük and 854 ha in Zonguldak. On the other hand, 200 ha in Bolu, 446 ha in Kastamonu, 144 ha in Karabük and 293 ha in Zonguldak were converted into US
+71
+,
+76
+.
+In general, urban areas have increased in all studies. The study conducted in the provinces within the scope of Türkiye’s metropolitan municipalities determined that urbanization was higher in the regions that generally received immigration and were in the west of Türkiye and that the rate of urbanization spread was low in other provinces. Since Bartın province is generally a province that both receives and emigrates, it can be said that the sprawl rate of the city centre will not be remarkably rapid in the coming years
+77
+. However, when internal migrations are examined, it is seen that 2,777,797 people migrated between provinces in Türkiye in 2021, and the primary reason for this is for educational purposes (686973 people). The amount of internal migration that Bartın province received in 2021 was 10,907 people
+37
+. Since the current number of students at Bartın University has reached a balance, it is thought that this number can only increase with new economic investments and tourism activities. Similarly, a study conducted in China stated that the main reasons for the change due to the city’s sprawl in Shijiazhuang between 1987 and 2001 were population, traffic conditions, industrialization and politics
+78
+.
+Many studies examine changes in forests and other land uses from various perspectives, such as urban sprawl, change in the urban landscape, and differentiation in ecosystem services perspectives
+16
+,
+49
+,
+50
+,
+74
+,
+79
+,
+80
+,
+81
+,
+82
+,
+83
+,
+84
+,
+85
+. However, since the main reason for these changes is population, studies have also been conducted in this context
+86
+,
+87
+,
+88
+,
+89
+. Many studies aimed at understanding the effects and causes of urbanization on forests and other land uses are in international studies
+90
+,
+91
+,
+92
+, and these studies show that land uses and forests change over time
+93
+,
+94
+,
+95
+. Studies show that urban land worldwide increased by 58,000 km
+2
+between 1970 and 2000 and that global urban land cover will increase between 430,000 km
+2
+and 12,568,000 km
+2
+by 2030
+96
+. Studies report that, because of the urban sprawl, 1.8–2.4% of global cultivated areas will be lost by 2030, and approximately 80% of the loss will occur in Asia and Africa
+97
+. This urban increase will also cause a biomass loss of 1.38 PgC
+98
+. As can be seen, the effects of urbanization occur in different ways in different regions. The increase in Urbanization in Central Ethiopia between 2008 and 2018 led to a decrease in agricultural areas
+99
+. In Greater Dhaka, Bangladesh, between 1975 and 2003, water bodies and cultivated areas experienced a significant reduction in vegetation and wetlands
+100
+, which occurred in China between 1996 and 2006. It has been determined that agricultural land decreased by 33% from 1985 to 2010 in the Dgahlia region of Egypt
+101
+, while urbanization caused wetland loss in the Greater Toronto and Hamilton Area of Canada
+102
+. Increasing demands from population growth and agricultural activities are the main reasons urbanization generally decreases forest areas
+103
+,
+104
+. In the Atlanta, Georgia metropolitan area, the increase in urbanization between 1973 and 1997 caused forest loss
+105
+, settlements increased by 14.5% in the Southern Punjab province of Pakistan in 2000–2021, while forest areas decreased by 31%. It was determined that the rate
+106
+. In Aurangabad, India, there were significant decreases in vegetation and water mass due to construction between 2015 and 2020
+107
+. On the other hand, similar to the study results, there are cases where construction and forest areas increased in North Korea between 2000 and 2020. In a study conducted in Porto, although trees and shrubs decreased by 14.3% with urbanization between 1947 and 2019, afforestation of 12.7% was achieved in different areas with afforestation and other landscaping works within the city.
+Urban sprawl also negatively impacts the natural environment and cultural fabric. Ecologically, it causes damage to creatures living in agricultural areas and the disappearance or reduction of their habitats. In addition, the encroachment of cities into or near natural areas causes domestic animals to threaten wildlife. In particular, it is common for cats and dogs to prey on reptiles, birds, and small and large mammals in the wild, and it’s a big issue for wildlife habitats. The cultural consequence of migration is the abandonment and subsequent disappearance of traditions, natural lifestyles and ancient local knowledge in villages
+108
+,
+109
+.
+Many factors influence land cover change in a city. One of these factors is the opening up of new zoning areas. Particularly in recent years, flood areas along rivers have expanded due to irregular and excessive rainfall caused by climate change. For this reason, the Mayor’s Office and other relevant units have opened new settlement areas. We anticipate significantly higher urbanization rates in the future, particularly as green and agricultural areas between the university and the city centre open up for construction and industrial areas expand. So, urban planning designs supporting management and biodiversity are essential for creating sustainable cities
+110
+,
+111
+. Thus, city planners and decision-makers should adopt an attitude towards protecting natural resources and increasing biodiversity in new plans
+112
+. To achieve this, constantly updated and comprehensive information is needed. As a result, many disciplines should work together in planning to protect the city and its surrounding forests and other habitats. In this context, especially in the second, third and fourth expansion areas, the building pressure from the centre should be reduced. To this end, existing green and agricultural areas should be closed to development and protected using legal amendments. More than legal protection is needed to ensure the protection of these areas in reality.
+For this reason, it is necessary to update comprehensive information to ensure continuous protection. To this end, the municipality should set up a monitoring unit and monitor the city centre and its surroundings with systems that combine remote sensing methods with ground observations. Working together on new plans to protect forests and other habitats in and around the city would benefit many disciplines. In addition, the studies carried out by scientists, especially urban ecologists, should be taken as reference in these studies
+113
+, and the plans to be made should proceed in line with scientific studies.
+Conclusions
+This study analyses the changes in land use caused by urban sprawl, especially by population-related factors, according to 9 land use classifications. The study area is the centre and environs of Bartın in Northern Anatolia, where rural-urban migration continues and temporary asylum seekers have arrived in recent years. Changes in land use in Bartın city centre were determined through land use maps prepared as a result of the evaluation of colour aerial photographs and supported by ground measurements.
+The study results show that land use in Bartın Province has undergone significant changes between 2000 and 2020. During this period, artificial and forest areas increased by 51.7 and 6.8%. On the other hand, agricultural and open areas decreased by 4.6 and 60.4%. Among the five expansion zones of the city, agricultural areas in the first expansion zone, agricultural areas and artificial surfaces, degraded coniferous forest areas and productive mixed forests in the second expansion zone, agricultural areas, degraded coniferous forests, open areas and productive mixed forests in the third expansion zone, agricultural areas, degraded coniferous forests, open areas and productive mixed forests in the fourth expansion zone, agricultural areas, degraded coniferous forest areas, open areas and productive coniferous forest areas and productive mixed forests in the fifth expansion zone have decreased. Despite these decreases, artificial and forest areas increased by 51.7% (712620 m
+2
+) and 6.8% (515725.40 m
+2
+) in the whole centre of Bartın. Agricultural and open areas decreased by 4.6% (754773.39 m
+2
+) and 60.4% (500116.5 m
+2
+). The most significant part of the area was the change in agricultural areas 7.8% (3604109.3 m
+2
+) of agricultural areas and 6.1% (130361.3 m
+2
+) of open areas were converted into artificial surfaces; also, 0.38% of degraded broadleaved forests, 0.25% of degraded coniferous forests, 0.75% of productive broadleaved forests, 0.17% of productive coniferous forests and 0.41% of productive mixed forests were converted into agricultural lands. The impact of migration and population growth on this change is undeniable. Increased urbanization leads to a reduction in agricultural diversity and a decrease in the quantity of products. In the areas of urban expansion, the effects of change are more visible, especially in the outer peripheries of the centre. The research findings provide evidence-based information for policymakers and urban planners to formulate adaptation strategies for the environment, people and development triangle. The findings also highlight the importance of comprehensive strategies that integrate adaptation with sustainable urban development, migration and mitigation of environmental impacts.
+In this study, we base LULCC assessments on population changes, which analyse the existing urban area and its surroundings during two periods, restricting detailed analyses linking population and spatial changes. In addition, it is impossible to conduct analyses in smaller areas, as the existing neighbourhood boundaries and the urban sprawl areas are different. We assume that city managers in neighbouring provinces can primarily use the results of this study. In particular, it contains results that will provide ideas for city managers in similar settlement areas in the Black Sea region. As a result, future studies, especially in the case of changes in the area, can add satellite images to the aerial photographs to obtain land use data for more years of economic and environmental variables to the population data. Additionally, in the following research, the effects of climate change, development, and external migration, especially for temporary asylum seekers, should be questioned and compared with the results of this study.
+City administrators should actively review land-use plans, considering water, forest, and open space ecosystems. These plans should incorporate food security and sustainable agricultural alternatives. They should establish land use monitoring systems and working groups to achieve this goal. Decision makers should support studies on topics like eco-cities, urban-rural relations, migration, and their impact, consistent with the reports from this unit. In order to assess the impact of urban expansion on natural resources, we should diversify and continue such studies and share the results with the public.
+Data availability
+The data used in this study has not been shared anywhere because the obtained dataset is enormous. It can be shared upon reasonable request. For this purpose, the study’s author, Gökhan Şen (gsen@kastamonu.edu.tr), can be contacted.
+References
+Lee, J. J. & Guadagno, L. June Migrants and cities: New partnerships to manage mobility. World Migration Report 2015. Geneva: International Organization for Migration. (2024).
+https://publications.iom.int/system/files/pdf/wmr2015_en.pdf
+Accessed 1.
+World Urbanization Prospects : Highlights (ST/ESA/SER.A/421). United Nations (UN), Department of Economic and Social Affairs, Population Division. (2018).
+https://population.un.org/wup/Publications/Files/WUP2018-Highlights.pdf
+Accessed 21 May 2024.
+Steel, E. A., Hinckley, T. M., Richards, W. H. & D’Amore, D. V. Forests then and now: Managing for ecosystem benefits, services to humans, and healthy forests across scales. In
+Future Forests
+(ed. McNulty, S. G.) 49–64 (Elsevier, 2024)
+https://doi.org/10.1016/B978-0-323-90430-8.00009-5
+Porter, E. E., Forschner, B. R. & Blair, R. B. Woody vegetation and canopy fragmentation along a forest-to-urban gradient.
+Urban Ecosyst.
+5
+, 131–151.
+https://doi.org/10.1023/A:1022391721622
+(2001).
+Article
+MATH
+Google Scholar
+Isinkaralar, K., Isinkaralar, O., Özel, H. B. & Şevik, H. A. Comparative study about Physical properties of Copper Oxide and Zinc Oxide nanoparticles on Fagus Orientalis L. as Bioindicator.
+Water Air Soil Pollut.
+235
+(11), 738.
+https://doi.org/10.1007/s11270-024-07551-1
+(2024).
+Article
+Google Scholar
+Cobanoglu, H., Sevik, H. & Koç, İ. Do annual rings really reveal cd, Ni, and zn pollution in the air related to traffic density an example of the cedar tree.
+Water Air Soil Pollut.
+234
+, 65.
+https://doi.org/10.1007/s11270-023-06086-1
+(2023).
+Article
+ADS
+MATH
+Google Scholar
+Isinkaralar, O., Isinkaralar, K. & Ambade, B. Assessment of societal health risks: spatial distribution and potential hazards of toxic metals in street dust across diverse communities.
+Water Air Soil Pollut.
+235
+(5), 302.
+https://doi.org/10.1007/s11270-024-07104-6
+(2024).
+Article
+ADS
+Google Scholar
+Aydin, H., Yenigun, K., Isinkaralar, O. & Isinkaralar, K. Hydrological low flow and overlapped trend analysis for drought assessment in Western Black Sea Basin.
+Nat. Hazards
+. 1–31.
+https://doi.org/10.1007/s11069-024-06880-y
+(2024).
+Cetin, M., Sevik, H., Koc, I. & Cetin, I. Z. The change in biocomfort zones in the area of Muğla province in near future due to the global climate change scenarios.
+J. Therm. Biol
+.
+112
+, 103434.
+https://doi.org/10.1016/j.jtherbio.2022.103434
+(2023).
+Article
+PubMed
+MATH
+Google Scholar
+Tekin, O. et al. Altitudinal migration of species of fir (Abies spp.) in adaptation to climate change.
+Water Air Soil Pollut.
+233
+, 385.
+https://doi.org/10.1007/s11270-022-05851-y
+(2022).
+Article
+ADS
+MATH
+Google Scholar
+Isinkaralar, K., Isinkaralar, O. & Bayraktar, E. P. Ecological and health risk assessment in road dust samples from various land use of Düzce City Center: towards the sustainable urban development.
+Water Air Soil Pollut.
+235
+(1), 84.
+https://doi.org/10.1007/s11270-023-06879-4
+(2024).
+Article
+ADS
+Google Scholar
+Respondek, Z., Isinkaralar, O., Świsłowski, P., Isinkaralar, K. & Rajfur, M. Biomonitoring with the Use of the Herbal Plant Taraxacum officinale as a source of information on environmental contamination.
+Plants
+13
+, 1805.
+https://doi.org/10.3390/plants13131805
+(2024).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Guven, D. S., Yenigun, K., Isinkaralar, O. & Isinkaralar, K. Modeling flood hazard impacts using GIS-based HEC-RAS technique towards climate risk in Şanlıurfa, Türkiye.
+Natural Hazards
+, 1–19. (2024).
+https://doi.org/10.1007/s11069-024-06945-y
+Kilicoglu, C., Cetin, M., Aricak, B. & Sevik, H. Integrating multicriteria decision-making analysis for a GIS-based settlement area in the district of Atakum, Samsun, Turkey.
+Theoret. Appl. Climatol.
+143
+, 379–388.
+https://doi.org/10.1007/s10661-020-08562-1
+(2021).
+Article
+ADS
+Google Scholar
+Isinkaralar, O., Isinkaralar, K., Sevik, H. & Küçük, Ö. Spatial modeling the climate change risk of river basins via climate classification: a scenario-based prediction approach for Türkiye.
+Nat. Hazards
+.
+120
+, 511–528.
+https://doi.org/10.1007/s11069-023-06220-6
+(2024).
+Article
+MATH
+Google Scholar
+Dogan, S., Kilicoglu, C., Akinci, H., Sevik, H. & Cetin, M. Determining the suitable settlement areas in Alanya with GIS-based site selection analyses.
+Environ. Sci. Pollut. Res.
+30
+, 29180–29189.
+https://doi.org/10.1007/s11356-022-24246-4
+(2023).
+Article
+Google Scholar
+McCue, G. S. Environmental refugees: applying international environmental law to involuntary migration.
+Georget. Int. Environ. Law Rev.
+6
+, 151–175 (1993).
+MATH
+Google Scholar
+Fan, C. C. Rural-urban migration and gender division of labor in transitional China.
+Int. J. Urban Reg. Res.
+27
+, 24–47.
+https://doi.org/10.1093/OBO/9780190922481-0057
+(2003).
+Article
+MATH
+Google Scholar
+McAuliffe, M. & Khadria, B. November World migration report 2020. International Organization for Migration, 498. (2023).
+https://publications.iom.int/system/files/pdf/wmr_2020.pdf
+Accessed 12.
+Migration Data Portal (MDP), urbanization and migration.
+https://www.migrationdataportal.org/themes/urbanization-and-migration
+. Accessed 14 November 2022.
+Jahan, M. Impact of rural urban migration on physical and social environment: the case of Dhaka city.
+Int. J. Dev. Sustain.
+1
+, 186–194 (2012).
+https://www.academia.edu/download/87512354/25745969.pdf
+MATH
+Google Scholar
+Lee, J. H. World Migration Report 2015, Migrants and cites: new partnerships to manage mobilty. international organization for migration. (2015).
+https://publications.iom.int/system/files/pdf/wmr2015_en.pdf
+Zhang, K. H. & Shunfeng, S. Rural–urban migration and urbanization in China: evidence from time-series and cross-section analyses.
+China Econ. Rev.
+14
+, 386–400.
+https://doi.org/10.1016/j.chieco.2003.09.018
+(2003).
+Article
+MATH
+Google Scholar
+Majumder, S. C. & Rahman, M. H. Rural–urban migration and its impact on environment and health: evidence from Cumilla City Corporation.
+Bangladesh Geoj.
+88
+, 3419–3437.
+https://doi.org/10.1007/s10708-022-10816-z
+(2023).
+Article
+MATH
+Google Scholar
+Liang, L., Wang, Z. & Li, J. The effect of urbanization on environmental pollution in rapidly developing urban agglomerations.
+J. Clean. Prod.
+237
+, 117649.
+https://doi.org/10.1016/j.jclepro.2019.117649
+(2019).
+Article
+Google Scholar
+Istanbullu, S. N., Sevik, H., Isinkaralar, K. & Isinkaralar, O. Spatial distribution of heavy metal contamination in road dust samples from an urban environment in Samsun, Türkiye.
+Bull. Environ Contam. Toxicol.
+110
+, 78.
+https://doi.org/10.1007/s00128-023-03720-w
+(2023).
+Article
+PubMed
+Google Scholar
+Koc, I. et al. Change of cr concentration from past to present in areas with elevated air pollution.
+Int. J. Environ. Sci. Technol.
+21
+, 2059–2070.
+https://doi.org/10.1007/s13762-023-05239-3
+(2023).
+Article
+MATH
+Google Scholar
+Isinkaralar, O., Isinkaralar, K. & Nguyen, T. N. T. Spatial distribution, pollution level and human health risk assessment of heavy metals in urban street dust at neighbourhood scale.
+Int. J. Biometeorol.
+https://doi.org/10.1007/s00484-024-02729-y
+(2024).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Antrop, M. Changing patterns in the urbanized countryside of Western Europe.
+Landscape Ecol.
+15
+, 257–270.
+https://doi.org/10.1023/A:1008151109252
+(2000).
+Article
+Google Scholar
+Bahar, O. & Bingöl, F. K. The effects of internal migration on labour markets in Turkey.
+Suleyman Demirel Univ. J. Fac. Econ. Administrative Sci.
+15
+, 43–61 (2010).
+https://dergipark.org.tr/en/download/article-file/194569
+MATH
+Google Scholar
+Beegle, K., De Weerdt, J. & Dercon, S. Migration and economic mobility in Tanzania: evidence from a tracking survey.
+Rev. Econ. Stat.
+93
+, 1010–1033 (2011).
+https://www.jstor.org/stable/23016092
+Article
+MATH
+Google Scholar
+Aşkın, E., Yayar, R. & Oktay, Z. Econometric analysis of rural migration: a case study of Yeşilyurt District.
+Cumhuriyet Üniversitesi İktisadi ve İdari Bilimler Dergisi
+. 14, 231–252; (2013).
+http://esjournal.cumhuriyet.edu.tr/en/download/article-file/48507
+Bryan, G., Chowdhury, S. & Mobarak, A. M. Underinvestment in a profitable technology: the case of seasonal migration in Bangladesh.
+Econometrica
+82
+, 1671–1748.
+https://doi.org/10.3982/ECTA10489
+(2014).
+Article
+MATH
+Google Scholar
+Yalçın, G. E. & Kara, F. Ö. Rural migration and effects on agricultural production.
+Harran Tarım ve Gıda Bilimleri Dergisi
+.
+20
+, 154–158.
+https://doi.org/10.29050/harranziraat.259106
+(2016).
+Article
+MATH
+Google Scholar
+Bryan, G. & Morten, M. The aggregate productivity effects of internal migration: evidence from Indonesia.
+J. Polit. Econ.
+127
+, 2229–2268.
+https://doi.org/10.1086/701810
+(2019).
+Article
+MATH
+Google Scholar
+Caprettini, B. & Voth, H. J. Rage against the machines: labor-saving technology and unrest in industrializing England.
+Am. Economic Review: Insights
+.
+2
+, 305–320.
+https://doi.org/10.1257/aeri.20190385
+(2020).
+Article
+Google Scholar
+Turkish & Statistical Institute (TUIK). October. Population and Demography. (2023).
+https://data.tuik.gov.tr/Kategori/GetKategori?p=Nufus-ve-Demografi-109
+Accessed 7.
+Brewer, J., Larsen, A. & Noack, F. The land use consequences of rural to urban migration.
+Am. J. Agric. Econ.
+106
+, 177–205.
+https://doi.org/10.1111/ajae.12369
+(2024).
+Article
+MATH
+Google Scholar
+Güngör, E. Integrated functional management planning of forest resources. PhD Thesis, Bartın University, Bartın, Turkey, (2011).
+Riitters, K. H., Coulston, J. W. & Wickham, J. D. Fragmentation of forest communities in the eastern United States.
+For. Ecol. Manag.
+263
+, 85–93.
+https://doi.org/10.1016/j.foreco.2011.09.022
+(2012).
+Article
+Google Scholar
+Isinkaralar, K., Isinkaralar, O., Koc, I., Cobanoglu, H. & Canturk, U. Accumulation analysis and overall measurement to represent airborne toxic metals with passive tree bark biomonitoring technique in urban areas.
+Environ. Monit. Assess.
+196
+(8), 689.
+https://doi.org/10.1007/s10661-024-12879-6
+(2024).
+Article
+PubMed
+Google Scholar
+Güneş Şen, S. Effects of forestry applications to water quality in Kastamonu region (Doctoral dissertation), Kastamonu Üniversity, Turkey, (2021).
+Zhang, C., Su, B., Beckmann, M. & Volk, M. Emergy-based evaluation of ecosystem services: progress and perspectives.
+Renew. Sustain. Energy Rev.
+192
+, 114201.
+https://doi.org/10.1016/j.rser.2023.114201
+(2024).
+Article
+Google Scholar
+Şengöz, T. E. The investigation of petroleum exploration projects in terms of engineering economics and cost analysis. Master Thesis, Selçuk University, Konya, Turkey, (2011).
+Wikipedia, B.
+https://tr.wikipedia.org/wiki/Bart%C4%B1n#/media/Dosya:Bart%C4%B1n_in_Turkey.svg
+Accessed 10 July 2024.
+Bartın Provincial Directorate of Culture and Tourism, (BPDCT). (2023).
+https://bartin.ktb.gov.tr/TR-68965/cografya.html
+Accessed 12 November 2023.
+Ministry of Agriculture and Forestry (MAF). Küre Mountains National Park https://bolge
+10.tarimorman.gov.tr/Menu/39/Kure-Daglari-Milli-Parki
+Accessed 28 November 2023.
+Çakır, G., Sivrikaya, F. & Keleş, S. Forest cover changeand fragmentation using landsat data in Maçka state forest enterprise in Turkey.
+Environ. Monit. Assess.
+137
+, 51–66.
+https://doi.org/10.1007/s10661-007-9728-9
+(2008).
+Article
+PubMed
+Google Scholar
+Sen, G., Bayramoglu, M. M. & Toksoy, D. Spatiotemporal changes of land use patterns in high mountain areas of Northeast Turkey: a case study in Maçka.
+Environ. Monit. Assess.
+187
+, 1–14.
+https://doi.org/10.1007/s10661-015-4727-8
+(2015).
+Article
+MATH
+Google Scholar
+Şen, G. & Güngör, E. Analysis of land use/land cover changes following population movements and agricultural activities: a case study in northern Turkey.
+Appl. Ecol. Environ. Res.
+16
+, 2073–2088.
+https://doi.org/10.15666/aeer/1602_20732088
+(2018).
+Article
+MATH
+Google Scholar
+Isinkaralar, O. QGIS-based modeling and analysis of urban dynamics affecting land surface temperature towards climate hazards in coastal zones of Portugal.
+Nat. Hazards
+.
+120
+, 7749–7764.
+https://doi.org/10.1007/s11069-024-06519-y
+(2024).
+Article
+MATH
+Google Scholar
+GISGeography ArcGIS Review: Is ArcMap the best GIS software?
+https://gisgeography.com/esri-arcgis-software-review-guide/
+Accessed 29 October 2024.
+Hamad, R. A remote sensing and GIS-based analysis of urban sprawl in Soran district, Iraqi kurdistan.
+SN Appl. Sci.
+2
+, 1–9.
+https://doi.org/10.1007/s42452-019-1806-4
+(2020).
+Article
+MATH
+Google Scholar
+Krishnaveni, K. S. & Anilkumar, P. P. Managing urban sprawl using remote sensing and GIS.
+Int. Archives Photogrammetry Remote Sens. Spat. Inform. Sci.
+42
+, 59–66.
+https://doi.org/10.5194/isprs-archives-XLII-3-W11-59-2020
+(2020).
+Article
+ADS
+MATH
+Google Scholar
+Biney, E. & Boakye, E. Urban sprawl and its impact on land use land cover dynamics of Sekondi-Takoradi metropolitan assembly, Ghana.
+Environ. Challenges
+.
+4
+, 100168.
+https://doi.org/10.1016/j.envc.2021.100168
+(2021).
+Article
+MATH
+Google Scholar
+Chettry, V. & Surawar, M. Urban sprawl assessment in eight mid-sized Indian cities using RS and GIS.
+J. Indian Soc. Remote Sens.
+49
+, 2721–2740.
+https://doi.org/10.1007/s12524-021-01420-8
+(2021).
+Article
+MATH
+Google Scholar
+Langa, C. et al. Dynamic evaluation method for planning sustainable landfills using GIS and multi-criteria in areas of urban sprawl with land-use conflicts.
+Plos One
+.
+16
+, e0254441.
+https://doi.org/10.1371/journal.pone.0254441
+(2021).
+Article
+PubMed
+PubMed Central
+Google Scholar
+General Directorate of Forestry (GDF). Principles and procedures for the preparation of ecosystem-based functional forest management plans. Department of Forest Management and Planning. (2017).
+https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/mevzuat-sitesi/Tebligler/Ekosistem%20Tabanl%C4%B1%20Fonksiyonel%20Orman%20Amenajman%20Planlar%C4%B1n%C4%B1n%20D%C3%BCzenlenmesine%20Ait%20Usul%20ve%20Esaslar.pdf
+Accessed 23 November 2023.
+Sauti, R. & Karahalil, U. Investigating the spatiotemporal changes of land use/land cover and its implications for ecosystem services between 1972 and 2015 in Yuvacık.
+Environ. Monit. Assess.
+194
+https://doi.org/10.1007/s10661-022-09912-x
+(2022).
+Cohen, J. A coefficient of agreement for nominal scales.
+Educ. Psychol. Meas.
+20
+, 37–46.
+https://doi.org/10.1177/001316446002000104
+(1960).
+Article
+MATH
+Google Scholar
+Lele, N. & Joshi, P. K. Analyzing deforestation rates, spatial forest cover changes and identifying critical areas of forest cover changes in North-East India during 1972–1999.
+Environ. Monit. Assess.
+156
+, 159–170.
+https://doi.org/10.1007/s10661-008-0472-6
+(2009).
+Article
+PubMed
+Google Scholar
+Liu, F., Zhang, Z. & Wang, X. Forms of urban expansion of Chinese municipalities and provincial capitals, 1970s–2013.
+Remote Sens.
+8
+, 930.
+https://doi.org/10.3390/rs8110930
+(2016).
+Article
+ADS
+MATH
+Google Scholar
+Liu, F. et al. Urban expansion in China and its spatial-temporal differences over the past four decades.
+J. Geog. Sci.
+26
+, 1477–1496.
+https://doi.org/10.1007/s11442-016-1339-3
+(2016).
+Article
+MATH
+Google Scholar
+Western Black Sea Development Agency (WBSDA). West Black Sea general information. October (2023).
+https://www.bakka.gov.tr//bolgemiz/bati-karadeniz
+Accessed 29.
+The United Nations Human Settlements Program (UNHSP). The New Urban Agenda. (2017).
+https://www.un.org/ruleoflaw/un-and-the-rule-of-law/united-nations-human-settlements-programme/
+Accessed 12 December 2023.
+Youssef, A., Sewilam, H. & Khadr, Z. Impact of urban sprawl on agriculture lands in greater Cairo.
+J. Urban. Plan. Dev.
+146
+, 05020027.
+https://doi.org/10.1061/(ASCE)UP.1943-5444.0000623
+(2020).
+Article
+MATH
+Google Scholar
+Yoshida, S. Effects of urbanization on farmland size and diversified farm activities in Japan: an analysis based on the land parcel database.
+Land
+9
+, 315.
+https://doi.org/10.3390/land9090315
+(2020).
+Article
+MATH
+Google Scholar
+Afriyie, K., Abass, K. & Adjei, P. O. W. Urban sprawl and agricultural livelihood response in peri-urban Ghana.
+Int. J. Urban Sustainable Dev.
+12
+, 202–218.
+https://doi.org/10.1080/19463138.2019.1691560
+(2020).
+Article
+MATH
+Google Scholar
+Kutlu, Ş. Ş. Determinants of food inflation in Turkey: evidence from the SVAR Model.
+EKEV Akademi Dergisi
+.
+87
+, 581–598 (2021).
+https://dergipark.org.tr/en/download/article-file/2567224
+ADS
+MATH
+Google Scholar
+Şen, G. Determining population movement-land use interactions for sustainable land management: case of Türkiye.
+Memba J. Water Sci.
+10
+, 38–58 (2024).
+https://dergipark.org.tr/en/download/article-file/3847250
+MATH
+Google Scholar
+Şen, G. & Aktürk, E. Spatiotemporal forest and land cover change in Türkiye: the role of economic factors in driving environmental transformations.
+Turkish J. Forestry
+.
+25
+, 176–189.
+https://doi.org/10.18182/tjf.1478110
+(2024).
+Article
+MATH
+Google Scholar
+Olğaç, İ. & Doğan, M. Temporal change of land use in Edirne city (1990–2018).
+Uluslararası Yönetim Akademisi Dergisi
+.
+3
+, 26–36.
+https://doi.org/10.33712/mana.710859
+(2020).
+Article
+MATH
+Google Scholar
+Ozupekce, S. Utilization of the built-up index to measure temporal changes in the slow cities (cittaslow) in Turkey.
+Cografya Dergisi
+.
+43
+, 19–36.
+https://doi.org/10.26650/JGEOG2021-880191
+(2021).
+Article
+Google Scholar
+Şen, G., Güngör, E. & Şevik, H. Defining the effects of urban expansion on land use/cover change: a case study in Kastamonu, Turkey.
+Environ. Monit. Assess.
+190
+, 1–13.
+https://doi.org/10.1007/s10661-018-6831-z
+(2018).
+Article
+MATH
+Google Scholar
+Koç, C. & Bayazıt, Y. Population projection, urban growth and spread analysis from remote sensing data: the case of köyceğiz, Muğla-Türkiye.
+Eur. J. Sci. Technol.
+38
+, 8–15.
+https://doi.org/10.31590/ejosat.1091854
+(2022).
+Article
+MATH
+Google Scholar
+Şen, G. Duvar Publishing, New York,. Population-forest interaction in Turkey. (ed. Şen, G. & Güngör, E.)
+Ecological, Economic and Political Assessments on Turkiye’s Forests and Forestry
+, 29–59, (2022).
+Karabacak, K. Urban sprawl in cities with metropolitan municipalities in Turkey.
+DTCF Dergisi
+.
+60
+, 158–178.
+https://doi.org/10.33171/dtcfjournal.2020.60.1.9
+(2020).
+Article
+MATH
+Google Scholar
+Shifaw, E., Sha, J., Li, X., Jiali, S. & Bao, Z. Remote sensing and GIS-based analysis of urban dynamics and modelling of its drivers, the case of Pingtan, China.
+Environ. Dev. Sustain.
+22
+, 2159–2186.
+https://doi.org/10.1007/s10668-018-0283-z
+(2020).
+Article
+Google Scholar
+Turner, B., Moss, R. H. & Skole, D. L. Relating Land Use and Global Land-Cover Change; IGBP Report 24, HDP Report 5; IGDP Report No. 24; HDP Report No. 5; International Geosphere-Biosphere Programme: Stockholm, Sweden. (1993).
+http://ciesin.org/docs/008-105/008-105.html
+Lambin, E. F., Geist, H. J. & Lepers, E. Dynamics of land-use and land-cover change in tropical regions.
+Annu. Rev. Environ. Resour.
+28
+, 205–241.
+https://doi.org/10.1146/annurev.energy.28.050302.105459
+(2003).
+Article
+Google Scholar
+Lambin, E. & Meyfroidt, F. Global land use change, economic globalization, and the looming land scarcity.
+Proc. Natl. Acad. Sci.
+108
+, 3465–3472.
+https://doi.org/10.1073/pnas.1100480108
+(2011).
+Article
+ADS
+PubMed
+PubMed Central
+MATH
+Google Scholar
+Arneth, A., Brown, C. & Rounsevell, M. D. A. Global models of human decision-making for land-based mitigation and adaptation assessment.
+Nat. Clim. Change
+.
+4
+, 550–557.
+https://doi.org/10.1038/nclimate2250
+(2014).
+Article
+ADS
+Google Scholar
+Gibas, P. & Majorek, A. Analysis of land-use change between 2012–2018 in Europe in terms of sustainable development.
+Land
+9
+, 46.
+https://doi.org/10.3390/land9020046
+(2020).
+Article
+MATH
+Google Scholar
+Akturk, E. & Guney, K. Vegetation cover change analysis of phytogeographic regions of Türkiye based on CORINE land cover datasets from 1990 to 2018.
+Kastamonu Univ. J. Forestry Fac.
+21
+, 150–164.
+https://doi.org/10.17475/kastorman.1000406
+(2021).
+Article
+Google Scholar
+Roy, P. S. et al. Anthropogenic land use and land cover changes—a review on its environmental consequences and climate change.
+J. Indian Soc. Remote Sens.
+50
+, 1615–1640.
+https://doi.org/10.1007/s12524-022-01569-w
+(2022).
+Article
+ADS
+MATH
+Google Scholar
+Wakeel, A., Rao, K. S., Maikhuri, R. K. & Saxena, K. G. Forest management and land-use/cover changes in a typical micro watershed in the mid-elevation zone of central Himalaya, India.
+For. Ecol. Manag.
+213
+, 229–242.
+https://doi.org/10.1016/j.foreco.2005.03.061
+(2005).
+Article
+Google Scholar
+Chirwa, P. W., Mahamane, L. & Kowero, G. Forests, people and environment: some African perspectives.
+South. Forests: J. for. Sci.
+79
+, 79–85.
+https://doi.org/10.2989/20702620.2017.1295347
+(2017).
+Article
+Google Scholar
+Clement, M. T. & York, R. The asymmetric environmental consequences of population change: an exploratory county-level study of land development in the USA, 2001–2011.
+Popul. Environ.
+39
+, 47–68.
+https://doi.org/10.1007/s11111-017-0274-2
+(2017).
+Article
+MATH
+Google Scholar
+Li, S., Sun, Z., Tan, M. & Li, X. Effects of rural–urban migration on vegetation greenness in fragile areas: a case study of Inner Mongolia in China.
+J. Geog. Sci.
+26
+, 313–324.
+https://doi.org/10.1007/s11442-016-1270-7
+(2016).
+Article
+ADS
+MATH
+Google Scholar
+Steurer, M. & Bayr, C. Measuring urban sprawl using land use data.
+Land. Use Policy
+.
+97
+, 104799.
+https://doi.org/10.1016/j.landusepol.2020.104799
+(2020).
+Article
+Google Scholar
+Nuissl, H. & Siedentop, S. Urbanisation and land use change. (eds Weith, T., Barkmann, T., Gaasch, N., Rogga, S., Strauß, C. & Zscheischler, J.) Sustainable Land Management in a European Context. Human-Environment Interactions. 8, 75–100 ;
+https://doi.org/10.1007/978-3-030-50841-8_5
+(Springer, (2021).
+Wang, Z. & Vivoni, E. R. Individualized and combined effects of future urban growth and climate change on irrigation water use in central Arizona.
+JAWRA J. Am. Water Resour. Association
+.
+58
+, 370–387.
+https://doi.org/10.1111/1752-1688.13005
+(2022).
+Article
+ADS
+Google Scholar
+Gehrig-Fasel, J., Guisan, A. & Zimmermann, N. E. Treeline shifts in the Swiss alps: climate change or land abandonment.
+J. Veg. Sci.
+18
+, 571–582.
+https://doi.org/10.1111/j.1654-1103.2007.tb02571.x
+(2007).
+Article
+Google Scholar
+Chauchard, S., Beilhe, F., Denis, N. & Carcaillet, C. An increase in the upper tree-limit of silver fir (Abies alba Mill.) In the Alps since the mid-20th century: a land-use change phenomenon.
+For. Ecol. Manag.
+259
+, 1406–1415.
+https://doi.org/10.1016/j.foreco.2010.01.009
+(2010).
+Article
+Google Scholar
+Xystrakis, F., Psarras, T. & Koutsias, N. A process-based land use/land cover change assessment on a mountainous area of Greece during 1945–2009: signs of socio-economic drivers.
+Sci. Total Environ.
+587
+, 360–370.
+https://doi.org/10.1016/j.scitotenv.2017.02.161
+(2017).
+Article
+ADS
+PubMed
+Google Scholar
+Güneralp, B., Reba, M., Hales, B. U., Wentz, E. A. & Seto, K. C. Trends in urban land expansion, density, and land transitions from 1970 to 2010: a global synthesis.
+Environ. Res. Lett.
+15
+, 044015. https://doi.org/10.1088/1748–9326/ab6669 (2020).
+Bren d’Amour, C. et al. Future urban land expansion and implications for global croplands.
+Proc. Natl. Acad. Sci.
+114
+, 8939–8944.
+https://doi.org/10.1073/pnas.1606036114
+(2017).
+Article
+ADS
+PubMed
+MATH
+Google Scholar
+Seto, K. C., Güneralp, B. & Hutyra, L. R. Global forecasts of urban expansion to 2030 and direct impacts on biodiversity and carbon pools.
+Proc. Natl. Acad. Sci.
+109
+, 16083–16088.
+https://doi.org/10.1073/pnas.1211658109
+(2012).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Dadi, D. et al. Urban sprawl and its impacts on land use change in Central Ethiopia.
+Urban Forestry Urban Green.
+16
+, 132–141.
+https://doi.org/10.1016/j.ufug.2016.02.005
+(2016).
+Article
+MATH
+Google Scholar
+Dewan, A. M. & Yamaguchi, Y. Land use and land cover change in Greater Dhaka, Bangladesh: using remote sensing to promote sustainable urbanization.
+Appl. Geogr.
+29
+, 390–401.
+https://doi.org/10.1016/j.apgeog.2008.12.005
+(2009).
+Article
+MATH
+Google Scholar
+Hegazy, I. R. & Kaloop, M. R. Monitoring urban growth and land use change detection with GIS and remote sensing techniques in Daqahlia governorate Egypt.
+Int. J. Sustainable Built Environ.
+4
+, 117–124.
+https://doi.org/10.1016/j.ijsbe.2015.02.005
+(2015).
+Article
+Google Scholar
+Penfound, E. & Vaz, E. Modelling future wetland loss with land use landcover change simulation in the Greater Toronto and Hamilton Area: the importance of continued greenbelt development restrictions.
+Habitat Int.
+143
+, 102974.
+https://doi.org/10.1016/j.habitatint.2023.102974
+(2024).
+Article
+MATH
+Google Scholar
+J Harvey, B. Human-caused climate change is now a key driver of forest fire activity in the western United States.
+Proc. Natl. Acad. Sci.
+113
+, 11649–11650.
+https://doi.org/10.1073/pnas.1612926113
+(2016).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Šturm, T. & Podobnikar, T. A probability model for long-term forest fire occurrence in the Karst forest management area of Slovenia.
+Int. J. Wildland Fire
+.
+26
+, 399–412.
+https://doi.org/10.1071/WF15192
+(2017).
+Article
+MATH
+Google Scholar
+Yang, X. & Lo, C. P. Using a time series of satellite imagery to detect land use and land cover changes in the Atlanta, Georgia metropolitan area.
+Int. J. Remote Sens.
+23
+, 1775–1798.
+https://doi.org/10.1080/01431160110075802
+(2002).
+Article
+MATH
+Google Scholar
+Hu, Y. et al. Land use/land cover change detection and NDVI estimation in Pakistan’s southern Punjab province.
+Sustainability
+15
+, 3572.
+https://doi.org/10.3390/su15043572
+(2023).
+Article
+MATH
+Google Scholar
+Pande, C. B. et al. Intertwined impacts of urbanization and land cover change on urban climate and agriculture in Aurangabad city (MS), India using Google earth engine platform.
+J. Clean. Prod.
+422
+, 138541.
+https://doi.org/10.1016/j.jclepro.2023.138541
+(2023).
+Article
+MATH
+Google Scholar
+Güreşçi, E., Kocaoğlu, M., Aktürk, O. & Çelik, F. The effect on the rural culture of the rural migration in Turkey.
+Route Educ. Social Sci. J.
+25
+, 190–196.
+https://doi.org/10.17121/ressjournal.1146
+(2018).
+Article
+MATH
+Google Scholar
+Kan, K. & Kanmaz, M. Cultural aspects of globalization and its impact on Migration.
+Selçuk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+.
+47
+, 59–73 (2022).
+https://dergipark.org.tr/en/download/article-file/2032858
+Article
+MATH
+Google Scholar
+Isinkaralar, O., Sharifi, A. & Isinkaralar, K. Assessing spatial thermal comfort and adaptation measures for the Antalya basin under climate change scenarios.
+Clim. Change
+.
+177
+(8), 118.
+https://doi.org/10.1007/s10584-024-03781-8
+(2024).
+Article
+MATH
+Google Scholar
+Huang, C. W., McDonald, R. I. & Seto, K. C. The importance of land governance for biodiversity conservation in an era of global urban expansion.
+Landsc. Urban Plann.
+173
+, 44–50.
+https://doi.org/10.1016/j.landurbplan.2018.01.011
+(2018).
+Article
+MATH
+Google Scholar
+Parris, K. M. et al. The seven lamps of planning for biodiversity in the city.
+Cities
+83
+, 44–53.
+https://doi.org/10.1016/j.cities.2018.06.007
+(2018).
+Article
+MATH
+Google Scholar
+McDonnell, M. J. & Hahs, A. K. The future of urban biodiversity research: moving beyond the ‘low-hanging fruit’.
+Urban Ecosyst.
+16
+, 397–409.
+https://doi.org/10.1007/s11252-013-0315-2
+(2013).
+Article
+MATH
+Google Scholar
+Download references
+Funding
+The author declare that no funds, grants, or other support were received during the preparation of this manuscript.
+Author information
+Authors and Affiliations
+Department of Forest Engineering, Faculty of Forestry, Kastamonu University, Kastamonu, Türkiye, Turkey
+Gökhan Şen
+Authors
+Gökhan Şen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Gökhan Şen: Conceptualization, statistical analysis, GIS analysis, methodology, writing-review & editing, visualization, original draft.
+Corresponding author
+Correspondence to
+Gökhan Şen
+.
+Ethics declarations
+Ethics approval and consent to participate
+Author has read, understood, and have complied as applicable with the statement on “ethical responsibilities of authors” as found in the instructions for authors and are aware that with minor exceptions, no changes can be made to authorship once the paper is submitted.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Ethics approval
+Not applicable.
+Consent to participate
+Not applicable.
+Competing interests
+The author declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Şen, G. Effects of urban sprawl due to migration on spatiotemporal land use-land cover change: a case study of Bartın in Türkiye.
+Sci Rep
+15
+, 815 (2025). https://doi.org/10.1038/s41598-025-85353-z
+Download citation
+Received
+:
+10 March 2024
+Accepted
+:
+02 January 2025
+Published
+:
+04 January 2025
+DOI
+:
+https://doi.org/10.1038/s41598-025-85353-z
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Landuse/land cover change
+Spatiotemporal analysis
+Urban forest
+Environmental monitoring
+Urban sprawl
+Remote sensing
+Download PDF
+Advertisement
+Explore content
+Research articles
+News & Comment
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+About Scientific Reports
+Contact
+Journal policies
+Guide to referees
+Calls for Papers
+Editor's Choice
+Journal highlights
+Open Access Fees and Funding
+Publish with us
+For authors
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Scientific Reports
+(
+Sci Rep
+)
+ISSN
+2045-2322
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

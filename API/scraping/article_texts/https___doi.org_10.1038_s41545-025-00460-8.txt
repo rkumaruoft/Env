@@ -1,0 +1,1220 @@
+Integrated emulsion separation and fog collection with functionalized Janus wood membrane for water scarcity solutions | npj Clean Water
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+npj clean water
+articles
+article
+Integrated emulsion separation and fog collection with functionalized Janus wood membrane for water scarcity solutions
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+04 April 2025
+Integrated emulsion separation and fog collection with functionalized Janus wood membrane for water scarcity solutions
+Kaiwen Chen
+1
+,
+2
+,
+Jianyi Zhu
+3
+,
+Cheng Hao
+2
+,
+Haonan Zhang
+2
+,
+4
+,
+Yujing Tan
+1
+,
+Xianfu Xiao
+1
+,
+Fengze Sun
+1
+,
+Xuewen Han
+5
+,
+Hui Peng
+1
+,
+Tianyi Zhan
+1
+,
+Jianxiong Lyu
+1
+&
+…
+Ning Yan
+2
+Show authors
+npj Clean Water
+volume
+8
+, Article number:
+27
+(
+2025
+)
+Cite this article
+1485
+Accesses
+Metrics
+details
+Subjects
+Engineering
+Materials science
+Abstract
+Global climate change has exacerbated water scarcity, while traditional water treatment technologies are often unsustainable due to high energy consumption and negative environmental impacts, posing an urgent need for a sustainable solution. This study developed a novel wood-based flexible Janus membrane coupled with a spine structure for efficient oil-water emulsion separation and fog harvesting. The Janus wood membrane showed high separation efficiency (> 99.6%), high filtration flux (water-in-oil and oil-in-water emulsions exceeded 810 L/m²·h and 747 L/m²·h, respectively), and good reusability. Additionally, the introduction of spine and conical pores significantly enhanced fog collection efficiency (19.23 kg/m²·h), expanding the application potential of Janus membranes. Moreover, this Janus wood membrane offered excellent mechanical properties, dimensional stability, mildew resistance, and environmental benefits. This study underscored the potential of Janus membranes in water management and liquid separation, providing a sustainable solution to water scarcity.
+Similar content being viewed by others
+Sustainable hydrophobic bio-based adsorbent from modified sphagnum moss for efficient oil-water separation
+Article
+Open access
+06 April 2025
+Wood-inspired metamaterial catalyst for robust and high-throughput water purification
+Article
+Open access
+06 March 2024
+Preparation of polysulfone-based nanofiber Janus membrane for membrane distillation containing organic pollutants
+Article
+Open access
+24 June 2024
+Introduction
+Global climate change and rapid human development have intensified water scarcity, particularly in arid and semi-arid regions, posing a major challenge to sustainable development. The combined effects of drought, uneven precipitation, population growth, and industrialization demand efficient and eco-friendly water treatment technologies
+1
+,
+2
+. Conventional methods, such as desalination and water purification, offer partial relief but are energy-intensive and environmental taxing, exacerbating ecological stress
+3
+,
+4
+,
+5
+. These limitations highlight the urgent need for sustainable and adaptable freshwater acquisition technologies.
+Among emerging solutions, emulsion separation and fog collection are two promising strategies for addressing water scarcity and pollution mitigation. Emulsion separation efficiently extracts water from complex oil-water mixtures, crucial for industrial and environmental applications, while fog collection captures atmospheric moisture, providing an innovative water source for arid regions. Janus membranes, which leverage their asymmetric wettability to enable high-performance liquid transportation, separation, and transport
+6
+,
+7
+,
+8
+.
+Janus membranes excel in separating micro- to nanoscale emulsion droplets, including oil-in-water and water-in-oil emulsions with separation efficiencies exceeding 99%
+9
+,
+10
+,
+11
+. This process is achieved by surface functionalization and precise pore control, which effectively reduces energy consumption compared to traditional methods such as centrifugation and chemical demulsification. For fog collection, the hydrophobic surface of Janus membranes captures water vapor, while the hydrophilic surface promotes droplet drainage, preventing residual liquid interference and significantly enhancing collection efficiency
+12
+,
+13
+. However, the effectiveness of Janus membranes is often constrained by the limitation of their substrates. Commonly used substrates, such as resins
+14
+,
+15
+,
+16
+, metal meshes
+17
+,
+18
+,
+19
+, and synthetic fibers
+20
+,
+21
+,
+22
+suffer from challenges like poor gas permeability, susceptibility to corrosion, limited pore size, and declining performance over time. These drawbacks underscore the necessity for renewable and robust substrates that excel in both emulsion separation and fog collection.
+Wood, a renewable and biodegradable natural material with a unique anisotropic structure, offers an ideal alternative substrate for Janus
+23
+,
+24
+,
+25
+,
+26
+. Its longitudinal section features fine and uniform pores with a high surface area, making it highly effective in separating micro-oil and water droplets from complex emulsions
+27
+,
+28
+. While its cross-section, with larger pores and superior permeability
+29
+, is better suited for fog collection. Despite these advantages, optimizing wood-based Janus membranes for multifunctional applications remains a challenge. The structural disparity between the longitudinal and cross-sectional orientations limits their versatility, requiring innovative approaches to enhance performance. Recent advances, such as the integration of bioinspired conical spines or microchannels, demonstrated the potential to improve droplet capture, transport, and drainage efficiency through wettability gradients and capillary action
+30
+,
+31
+, enhancing the fog collection performance of traditional Janus membranes. Yet, research on coupling designs remains unexplored for wood-based Janus membranes, and their full potential warrants further exploration.
+In this study, a novel approach was developed to overcome these limitations by achieving reversible wettability in a longitudinally cut Janus wood membrane (JW) through the UV degradation of hydrophobic TiO
+2
+/PVDF-HFP nanocoating. This reversible wettability enabled the JW membrane to dynamically switch between hydrophilic and hydrophobic states, significantly enhancing its adaptability. The membrane displayed high flux (>747 L/m
+2
+·h) for both oil and water phases and separation efficiency (>99.6%) in stable oil-water emulsion separation while maintaining excellent mechanical properties, mold resistance, and dimensional stability. To address limitations in fog collection, a pioneering spine–membrane coupling structure was designed, integrating bioinspired spines with conical pores, enabling directional water transport and drainage. This innovative dual-functionality design represented a significant step forward in sustainable water treatment technologies, combining high efficiency with adaptability to diverse environmental challenges.
+Results
+Structural properties and wettability transition of JW membrane
+Specifically, natural balsa wood (NW) was used as the raw material. NW membranes were cut, delignified, and impregnated with a TiO
+2
+/PVDF-HFP solution to ensure hydrophobic wettability. After unilateral UV radiation on JW, the exposed side of the sample underwent photodegradation, and the wettability changed from hydrophobic (denoted as JW-HO) to hydrophilic (denoted as JW-HI), where asymmetric wettability was obtained (Fig.
+1a
+and Fig.
+S1
+). Figure
+1b
+illustrates the preparation process of the spine–membrane coupling structure, where the integration of cactus spines with the Janus membrane enhanced the water transport efficiency, further promoting its functionality in practical applications.
+Fig. 1: Fabrication, microstructure and wetting-responsive behavior of asymmetric wettability Janus wood membranes.
+a
+and
+b
+Procedure for the preparation of asymmetric wettability Janus wood membrane and spine–membrane coupling structure.
+c
+1
+and
+c
+2
+Micro-morphology of NW and DW.
+c
+3
+and
+c
+4
+Micro-morphology and the surface composition distribution of JW-HO and JW-HI.
+d
+and
+e
+N
+2
+adsorption/desorption isotherms and pore volume distribution of NW, DW, and JW.
+f
+Strain changes in the thickness direction after unilateral wetting of DW and JW.
+Full size image
+The morphology and elemental distribution of the samples were characterized using environmental scanning electron microscopy (ESEM) equipped with energy-dispersive X-ray spectroscopy (EDS). As shown in Figs.
+1c
+1
+and
+S2
+, NW consisted of numerous ray cells, vessel pores, and nanopores that connect adjacent tracheids and vessels, forming a three-dimensional layered interconnected porous network. The cell walls of NW were dense with clearly visible cell corners, primarily due to the cross-linking of hemicellulose and lignin over the cellulose framework
+32
+,
+33
+,
+34
+. The vertically aligned wood fibers appeared smooth and compact in the longitudinal section. After delignification, delignified balsa wood membrane (DW) showed loosened tracheids and cracked cell corners in the cross-section due to the removal of lignin and hemicellulose (Fig.
+1c
+2
+). The longitudinal section of DW revealed striated pores with diameters less than 10 μm in the cell walls. After hydrophobic modification, the dense nanoparticles were uniformly distributed on the cell wall of the hydrophobic wood membrane (Fig.
+1c
+3
+), and the presence of fluorine (F) and titanium (Ti) elements was confirmed by energy-dispersive spectroscopy (EDS) in the transverse section of JW-HO, indicating the 1H, 1H, 2H, 2H-perfluorodecyltriethoxysilane (FAS)-TiO
+2
+coating on JW-HO. With the UV exposure treatment, the notable decrease in the concentration of F element from the EDS spectrum demonstrated the UV light-induced FAS degradation that altered the membrane’s composition (Fig.
+1c
+4
+).
+Figure
+1d
+shows the adsorption/desorption isotherms of the samples, highlighting the formation of numerous nanopores in both DW and JW after delignification, with maximum pore size distributions in the range of 2–20 nm (Fig.
+1e
+), consistent with previous studies
+35
+,
+36
+,
+37
+. The BET results confirmed that JW retained high porosity, which was essential for filtering oil-water emulsions due to its 3D hierarchically interconnected porous structure. Strain induced by sample expansion varied from large to small, changing color from red to purple (Fig.
+1f
+). After unidirectional immersion, DW showed significant strain variation in thickness, while JW displayed a gradient of strain from JW-HO to JW-HI, indicating a shift from hydrophobic to hydrophilic after UV irradiation.
+Chemical composition analysis
+The chemical compositions of different samples were also analyzed using FTIR, XRD, and XPS, as shown in Fig.
+2
+. FTIR results indicated that, compared to the NW, DW did not exhibit the aromatic skeletal vibration peak of lignin at 1510 cm⁻¹, confirming effective lignin removal. Additionally, the absorption peak intensities at 1245 cm⁻¹ (C–O stretching of hemicellulose) and 1735 cm⁻¹ (C=O stretching of ester groups in hemicellulose) decreased, reflecting partial removal of it. In the JW-HO sample, vibration peaks corresponding to Si–O (siloxane bond stretching) and C–H (alkyl group stretching) bonds were observed at 802 cm⁻¹ and 2980 cm⁻¹, respectively, indicating the introduction of TiO
+2
+/PVDF-HFP. The absorption peaks at 1245 cm⁻¹ and 1016 cm⁻¹ belonged to C–F stretching vibrations from CF
+3
+and CF
+2
+groups, indicating the presence of FAS molecules on the TiO
+2
+surface, which was attributed to the hydrophobic nature of JW-HO. Following UV irradiation, the C–F characteristic peaks disappeared, which is attributed to the photodegradation of the FAS molecules under the photocatalytic activity of TiO₂. The UV light (395 nm, provided by a UVGO3535-9Z lamp) induces electron-hole pair generation in TiO₂, which leads to the production of reactive oxygen species (ROS) such as hydroxyl radicals (·OH) and superoxide anions (O
+2
+-). These ROS can cleave the C–F bonds in the FAS molecules, resulting in the disappearance of the C–F characteristic peaks in the FTIR spectra
+38
+,
+39
+,
+40
+. The cleaved FAS molecules are converted into hydroxyl groups (O–H), which are responsible for the hydrophilic transition observed in the sample after UV irradiation.
+Fig. 2: Chemical composition analysis of NW, DW, JW-HO, and JW-HI.
+a
+Infrared spectral analysis.
+b
+XRD analysis.
+c
+–
+f
+XPS analysis.
+c
+XPS full spectrum of the sample.
+d
+F element of JW-HO and JW-HI.
+e
+C1s spectrum of JW-HO.
+f
+C1s spectrum of JW-HI.
+g
+The mechanism of the transition from hydrophobic TiO
+2
+to hydrophilic TiO
+2
+.
+Full size image
+The crystal structure of the samples was analyzed using XRD (Fig.
+2b
+). NW, DW, and JW samples exhibited three major diffraction peaks of cellulose I at 16.5° (110), 22° (200), and 34.5° (004), indicating that there was no disruption of the delignification process on cellulose’s crystalline structure. Additionally, the relative crystallinity of DW significantly increased due to the removal of matrix components, which altered the orientation of cellulose microfibrils and enhanced crystallinity. XRD analysis further revealed the characteristic diffraction peaks of anatase TiO
+2
+in both JW-HO and JW-HI at 25.3° (101), 37.6° (004), 47.8° (200), 53.7° (105), 54.8° (211), and 62.6° (204). Moreover, the results showed that UV irradiation did not notably affect the crystal structure of TiO
+2
+.
+XPS was employed to examine the surface chemical composition of the samples. As shown in Fig.
+2c
+, NW and DW only contained C and O elements. In contrast, JW-HO and JW-HI samples exhibited additional peaks belonging to F (fluorine), Ti (titanium), and Si (silicon) elements, revealing the introduction of TiO
+2
+/PVDF-HFP. Notably, the F peak intensity in JW-HI was significantly lower than that in JW-HO (Fig.
+2d
+), and the C1s fitting peaks (-CF
+2
+and -CF
+3
+) in JW-HI nearly disappeared (Fig.
+2e, f
+), both indicating the decomposition of FAS molecules under the UV irradiation.
+Figure
+2g
+illustrates the degradation mechanism of the TiO
+2
+-FAS system under UV radiation. FAS typically has the structure R-Si-(O-R’)
+3
+, where R denotes a fluorocarbon chain (e.g., CF
+3
+(CF
+2
+)n-) and O-R’ is a siloxane group. FAS molecules are anchored to the TiO
+2
+surface via siloxane bonds (Si-O-Ti). Upon UV exposure, TiO
+2
+absorbs photons (hv), generating electron-hole pairs that react with environmental oxygen and water to produce reactive oxygen species:
+$${{\rm{O}}}_{2}+{{\rm{e}}}^{-}\to {{\rm{O}}}_{{2}^{-}\cdot}\,({\rm{Superoxide}}\;{\rm{ anion}})$$
+(1)
+$${{\rm{H}}}_{2}{\rm{O}}+{{\rm{h}}}^{+}\to \,\cdot {\rm{OH}}\,\left({\rm{hydroxyl}}\;{\rm{ radical}}\right)$$
+(2)
+These hydroxyl radicals (·OH) and superoxide anions (O₂
+−
+·) degrade the FAS organic chains, particularly attacking the carbon-fluorine (C–F) and carbon-hydrogen (C–H) bonds. This oxidation process gradually decomposes FAS, releasing small molecules like hydrogen fluoride (HF), carbon dioxide (CO
+2
+), and other fragments. Consequently, the TiO
+2
+surface loses its hydrophobic FAS coating and exposes more hydrophilic Ti-OH groups.
+The wettability characteristics and environmental stability of the JW membrane
+The Janus wood membrane (JW) exhibits superior wettability characteristics and environmental stability in Figs.
+3
+and
+S3
+–
+S6
+. JW membrane demonstrated superior flexibility after the removal of rigid lignin and hemicellulose, while the toughness remained that it could support a weight of 100 g in both longitudinal and radial orientations (Fig.
+S3
+). Moreover, JW exhibited exceptional antifungal performance and dimensional stability. In antifungal tests, the infection rates of JW-HI and JW-HO were significantly reduced compared to NW and DW, falling below 15% and 1%, respectively, even after 30 days, which is owing to the coating of nanocomposites that protected the underlying wood substrates (Figs.
+S4
+and
+S5
+). Figure
+S6
+highlighted the outstanding dimensional stability of JW over NW, and DW under wet and dry conditions. Overall, after the removal of lignin and hemicellulose and the introduction of TiO
+2
+/PVDF-HFP polymer system, JW displayed excellent mechanical performance and environmental stability, ensuring greater structural integrity and long-term usability in practical applications.
+Fig. 3: Wettability of the JW membrane.
+a
+The JW-HI exhibits hydrophilicity in air and oleophobicity in oil.
+b
+The JW-HO demonstrates hydrophobicity in air and oleophobicity in oil.
+c
+The JW-HI displays oleophilicity in air and oleophobicity in water.
+d
+The JW-HO shows oleophilicity in both air and oil.
+Full size image
+The wettability of both sides of the Janus wood membrane was analyzed in air, oil, and water (Fig.
+3
+). DW exhibited the transition of the wettability from hydrophilic to superhydrophilic due to the removal of hydrophobic lignin and increased porosity (Fig.
+S7
+). Following the treatment with the nanocomposite coating and unilateral UV radiation, significant differences in wettability were observed between the two sides of the JW membrane. As shown in Fig.
+3a
+and Video
+1
+, water droplets rapidly absorbed into the JW-HI surface, indicating hydrophilicity. Conversely, when placed in oil, water droplets remained on the surface of JW-HI and left absorption traces upon removal. In contrast, JW-HO demonstrated superhydrophobicity in air, with a water contact angle reaching 151° (Fig.
+3a
+and Fig.
+S8
+). In oil environments, the JW-HO surface effectively repelled water droplets, preventing their penetration into the membrane (Fig.
+3b
+and Video
+2
+). While JW-HI exhibited oleophilicity in air, it displayed superoleophobicity underwater (Fig.
+3c
+and Video
+2
+). Conversely, JW-HO also maintained oleophilicity in air without significant changes underwater (Fig.
+3d
+and Video
+2
+). The superhydrophobicity of JW-HO is owing to the nanostructure of TiO
+2
+which increases the roughness of the surface as well as the abundant F that has a low surface energy. These findings underscore the unique property of Janus wood membranes in wettability. The differences in wettability induced by UV radiation offer new possibilities for the design and application of these membranes.
+Additionally, this unique surface feature exhibited outstanding stability and resilience under harsh conditions. The water contact angle maintained greater than 150° after 120 h in corrosive solutions with varying pH levels and NaCl concentrations (Figs.
+S9
+–
+S11
+). Despite 2500 mm of abrasion, the JW-HO membrane retained its high-water contact angle, while the JW-HI membrane demonstrated excellent oleophobicity in underwater environments with oil contact angles exceeding 149°. This durability enhanced the adaptability of JW on the oil-water separation across diverse environments.
+Oil-water emulsion separation using JW membrane
+By taking advantage of the JW membrane’s asymmetric wettability and micro-nanostructured pore structure, the efficient separation of water-in-oil and oil-in-water emulsions via simple inversion was achieved. In the experiments, the membrane was placed between a graduated glass funnel and a flask, filtering emulsions under constant negative pressure to ensure stability. With the JW-HI side facing up, its underwater oleophobic properties blocked oil while allowing clear water to pass (Video
+3
+). Figure
+4a
+shows optical images before and after filtering toluene/water, hexane/water, hexadecane/water, and petroleum ether/water emulsions. The separation efficiency exceeded 99.6% with a water permeation flux of 810–1020 L/m
+2
+∙h (Fig.
+4b
+). After ten cycles, efficiency remained above 99.4% with low residue (<120 mg/L) (Fig.
+4c
+). Although flux decreased over time due to oil droplets (Fig.
+4d
+), it was restored by washing with water and ethanol, confirming the JW-HI side’s reusability.
+Fig. 4: Application and mechanism of JW membrane in the separation of oil-water emulsions.
+a
+Optical micrographs of four types of water-in-oil emulsions before and after filtration.
+b
+Separation efficiency and corresponding permeation flux of JW membrane for four oil-in-water emulsions.
+c
+Separation efficiency and oil content in the permeate after 10 cycles of oil-in-water emulsion separation.
+d
+Filtration flux variation over time during water-in-oil emulsion separation.
+e
+Schematic illustration of the separation mechanism for oil-in-water emulsions.
+f
+Optical micrographs of four oil-in-water emulsions before and after filtration.
+g
+Separation efficiency and corresponding permeation flux of JW membrane for four water-in-oil emulsions.
+h
+Separation efficiency and water content in the permeate after 10 cycles of water-in-oil emulsion separation.
+i
+Filtration flux variation over time during oil-in-water emulsion separation.
+j
+Schematic illustration of the separation mechanism for oil-in-water emulsions.
+Full size image
+The water-in-oil emulsion separation process is illustrated in Fig.
+4e
+. The transmembrane pressure difference (Δ
+P
+) is crucial for oil-water separation and can be calculated using the Young–Laplace Eq. (
+3
+)
+41
+:
+$$\varDelta P=-\frac{2\gamma \cos \theta }{r}$$
+(3)
+where γ is the surface tension, θ is the contact angle, and
+r
+is the pore radius. In water-in-oil emulsions, the oil phase forms discontinuous spherical droplets covered by water. When the water contact angle is less than 90° (Δ
+P
+< 0), the membrane exerts a downward force, enhancing separation. For the underwater oleophobic/superhydrophilic JW-HI membrane, increasing ΔP accelerates separation. Conversely, when the oil contact angle exceeds 90° (Δ
+P
+> 0), the membrane repels oil, trapping it on the surface.
+With the hydrophobic JW-HO layer facing up, the JW-HO layer’s oleophilicity allowed oil to pass while water droplets coalesced into larger droplets unable to penetrate the pores. JW-HO’s superhydrophobicity enabled oil flow while water droplets were retained, facilitating the effective separation of oil-in-water emulsions (Video
+3
+). Optical images revealed a milky appearance before separation, transforming to clear filtrate with no detected oil droplets (Fig.
+4f
+). The separation efficiency exceeds 99.5%, with flux rates between 747 and 913 L m² h⁻¹ (Fig.
+4g
+). Sample also demonstrated reusability for oil-in-water emulsion with water/n-hexane emulsions showing high efficiency (>99.4%) and low residue (<110 ppm) after ten cycles (Fig.
+4h
+). Droplet distributions before and after separation, characterized by DLS, showed sizes of 0–1200 nm pre-separation and 5–15 nm post-separation (Figs.
+S12
+and
+S13
+). As Table
+S1
+indicates, the JW membrane outperforms other Janus membranes in oil-water separation on separation efficiency and flux. The pore structure of the Janus wood membrane exhibited a hierarchical architecture, which played a crucial role in size-selective separation. The natural wood structure consisted of interconnected microchannels, with pit pores ranging from 2 to 4 μm, facilitating rapid fluid transport. However, the nanoscale pores formed within the cell walls during delignification, as confirmed by SEM and BET analyses, contributed to the membrane’s ability to effectively separate emulsions. The BET results indicated the presence of nanopores in the range of 2–20 nm, which provided additional filtration capability by restricting the passage of submicron oil or water droplets. This multi-scale pore structure enabled a combination of size exclusion and capillary-driven separation, ensuring efficient oil-water emulsion filtration despite the presence of larger pit pores.
+Long-term durability, mechanical stability, and environmental resistance of the Janus wood membrane
+The long-term stability and reusability of the Janus wood membrane (JW) were assessed by subjecting it to continuous separation of oil-in-water and water-in-oil emulsions over 50 cycles (Fig.
+5a
+1
+, a
+2
+). Throughout these cycles, the JW membrane consistently maintained high separation efficiency and stable flux with minimal performance degradation. Specifically, for oil-in-water emulsions (hexane/water), flux ranged from 801 to 728 L/m²·h, while the separation efficiency remained above 96.1%, reaching 99.8%. For water/hexane emulsions, the flux varied between 995 and 962 L/m²·h, with the efficiency consistently exceeding 96.4%, peaking at 99.9%. These results confirmed the durability and fouling resistance of the JW membrane, as its hierarchical porous structure and surface wettability facilitated efficient oil droplet repulsion and stable liquid transport, preventing severe contamination. Figure
+S14
+shows the impact of varying NaCl concentrations (0.5 M, 1 M, and 2 M) on the separation efficiency and flux of oil-water emulsions using the JW membrane. At 0.5 M and 1 M, the membrane demonstrated high separation efficiencies over 98.2% and fluxes exceeding 680 L/m²·h (Figure
+S14a and b
+). While performance slightly declined at 2 M NaCl, it still maintained substantial efficiencies (94.4% for oil-in-water and 93.1% for water-in-oil) and fluxes (710 L/m²·h and 572 L/m²·h, respectively) after 50 cycles (Fig.
+S14c, d
+). These results highlighted the JW membrane’s excellent salt resistance and suitability for high-salinity applications like seawater desalination. Mechanical stability was evaluated by measuring tensile strength of the JW in both longitudinal and radial directions after exposure to different temperatures (5 °C, 30 °C, 70 °C, and 90 °C) and pH conditions (3, 7, and 11) (Fig.
+5b
+1-2
+, c
+1-2
+). JW exhibited significantly higher tensile strength compared to NW, maintaining 44.2–45.7 MPa longitudinally and 4.2–4.5 MPa radially across all temperatures, while NW showed lower values and a notable decline at elevated temperatures. Similarly, JW retained high tensile strength across different pH conditions (43.3–47.2 MPa longitudinally, 4.3–4.6 MPa radially), whereas NW exhibited substantial degradation, particularly under acidic and alkaline conditions. These findings highlighted the enhanced thermal and chemical stability of JW, attributed to the TiO₂/PVDF-HFP nanocoating, which reinforced the wood matrix against environmental stressors. To further examine the stability of the UV-induced wettability transition, a 7-day accelerated UV weathering test was conducted (Fig.
+5d
+). As shown in Fig.
+5e, f
+, JW exhibited minimal mechanical degradation, with a slight reduction in tensile strength (from 4.4 MPa to 4.1 MPa radially, and from 42.3 MPa to 39.4 MPa longitudinally). In contrast, NW experienced severe mechanical deterioration (from 1.4 MPa to 0.4 MPa radially, and from 10.3 MPa to 9.1 MPa longitudinally), indicating significant UV-induced damage. The preserved structural integrity of JW suggested that the TiO₂/PVDF-HFP coating effectively protected the polymer matrix from UV degradation, ensuring long-term stability. These results confirmed that the UV-induced wettability transition did not compromise JW’s mechanical robustness, reinforcing its potential for practical, long-term applications in harsh environments.
+Fig. 5: Durability, mechanical stability and separation performance of Janus wood membranes under cyclic and environmental conditions.
+Separation efficiency and flux of JW during 50 cycles of oil-water emulsion separation:
+a
+1
+Water-in-oil emulsion (water/hexane) and
+a
+2
+Oil-in-water emulsion (hexane/water).
+b
+1
+Longitudinal and
+b
+2
+radial tensile strength of JW and NW after 12 h at different temperatures.
+c
+1
+Longitudinal and
+c
+2
+radial tensile strength of JW and NW after 12 h at different pH levels.
+d
+Schematic of the artificial weathering test.
+e
+Radial tensile strength of membranes before and after weathering.
+f
+Longitudinal tensile strength of membranes before and after weathering.
+Full size image
+A cost analysis was conducted to assess the economic feasibility of JW membranes compared to commercially available membranes (Table
+S2
+). The JW membrane’s manufacturing process was characterized by significantly lower energy consumption than that of conventional synthetic membranes, which often involved complex and energy-intensive processing. While the integration of TiO₂ coating and UV treatment required some energy, the overall energy footprint of producing JW membranes remained lower, contributing to a more sustainable manufacturing approach. Moreover, utilizing renewable balsa wood in the JW membrane production process resulted in a decreased carbon footprint, contrasting sharply with the higher greenhouse gas emissions associated with non-renewable resource-derived synthetic membranes. The use of renewable materials not only mitigated environmental impacts but also supported a circular economy paradigm. In comparison, conventional membranes, such as those made from PVDF and PTFE, involve petroleum-based materials that have a substantial environmental burden across their lifecycle, from extraction to disposal. This included significant greenhouse gas emissions and environmental degradation associated with resource extraction and processing. Thus, the JW membrane stands out as a sustainable alternative in the landscape of membrane technology. Comparative data from Tables
+S3
+and
+S4
+further highlight JW’s advantages over commercial membranes in separation flux, efficiency, and mechanical durability over 10 cycles of oil-water emulsion separation. JW consistently maintained high flux and separation efficiency, outperforming polymeric membranes, which exhibited greater performance degradation over repeated use. Additionally, JW retained higher tensile strength after 10 cycles, while commercial membranes experienced more significant mechanical weakening. These findings confirmed JW’s long-term stability and economic viability, reinforcing its potential for scalable, cost-effective oil-water separation applications.
+Moisture transport and fog collection efficiency of spine–membrane coupled structures
+Fog collection provides a critical solution to water scarcity in arid regions, yet enhancing its efficiency remains a major challenge
+42
+,
+43
+,
+44
+. In deserts and coastal areas, fog presents an untapped water source under humid conditions
+45
+,
+46
+. Many organisms, such as cribellate spiders, cacti, and Namib Desert beetles, have evolved specialized structures that inspire biomimetic water-harvesting designs. These structures, including spindle knots, conical spines, and hydrophilic-hydrophobic patterns, enhance water collection by promoting droplet transport and overcoming contact angle hysteresis. While JW membranes demonstrated flexibility in fog collection, their three-dimensional porous structure limited water transport by causing saturation, reducing efficiency. To address this, a novel spine–membrane-coupled structure was developed, integrating cactus spines and conical pores (Figs.
+S15
+–
+S17
+). This design enhanced water conduction and drainage, significantly improving collection efficiency (Figs.
+1b
+and
+S18
+).
+Tests on spine–membrane structures (Fig.
+6a, b
+; Video
+4
+) demonstrated the impact of these modifications. In the flat FJ-S structure, high contact angles limited water collection to 6.4 g in 60 min. Incorporating conical pores (FJ-S-C) increased efficiency, as capillary action facilitated unobstructed water transport. However, drainage was hindered when pores were saturated. To further optimize performance, a bumpy structure (BJ-S-C) was developed, utilizing gravity to enhance water transport. Spines guided water into conical pores, which aggregated and drained efficiently. Compared to FJ-S and FJ-S-C, BJ-S-C achieved 13.9 and 22.8 times greater efficiency, collecting 12.55 g of fog water. The BJ-S-C structure demonstrated excellent reusability and stability, maintaining consistent performance over 10 cycles (Fig.
+6c
+). Figure
+6d
+shows the fabricated BJ-S-C fog collector, which achieved an efficiency of 19.23 kg/m², surpassing FJ-S, FJ-S-C, and BJ-S by 113.1, 3.7, and 213.6 times, respectively (Fig.
+6e
+). The cactus spine structure was integrated with the JW to enhance fog collection efficiency. The cactus spines, with their unique conical shape, guide the water vapor towards the membrane, where the hydrophilic surface facilitates condensation of the vapor into liquid droplets. The condensed water is then directed by gravity to the collection reservoir. Additionally, the JW collector exhibited significantly lower water evaporation rates under controlled conditions (30 °C, 50 °C, 70 °C; Fig.
+6f
+). Tables
+S5
+and
+S6
+highlight the BJ-S-C collector’s superior performance compared to alternative materials. Even after 10 cycles, the JCW trap maintained a fog collection efficiency above 98.9% (Fig.
+S19
+), confirming its stability and reproducibility.
+Fig. 6: Design and performance evaluation of spine-membrane coupled structures for efficient fog collection and water transport.
+a
+Water transport performance of four different spine–membrane coupled structures (FJ-S: Flat Janus membrane-spine structure; FJ-S-C: Flat Janus membrane-spine structure with conical holes; BJ-S: Bumpy Janus membrane-spine structure; BJ-S-C: Bumpy Janus Membrane-Spine Structure with conical holes).
+b
+Collected fog mass using different spine–membrane coupled structures.
+c
+Weight and frequency of water droplets detaching from the spine–membrane coupled structures.
+d
+Photographs of spine–membrane coupled fog collectors.
+e
+Fog collection efficiency of different fog collectors.
+f
+Water evaporation rates of fog collectors at different temperatures.
+Full size image
+Discussions
+This study successfully developed a Janus wood membrane with asymmetric wettability and efficient liquid separation capabilities through a nanocomposite coating and ultraviolet radiation. The membrane exhibited exceptional performance in oil-water emulsion separation, achieving separation efficiencies exceeding 99.5%. Filtration flux for water-in-oil and oil-in-water emulsions surpassed 810 and 747 L/m²∙h, respectively. The needle-membrane coupling structure significantly enhanced fog collection efficiency to 19.23 kg/m²∙h, demonstrating strong feasibility for practical applications. Compared to conventional synthetic membranes, the wood-based Janus membrane also showed excellent mechanical properties, antifungal performance, and environmental sustainability. This highlighted its potential for water resource management and pollution control. However, it is important to acknowledge several limitations, including the need for a more in-depth analysis of the production scalability and the economic viability of integrating this membrane into industrial processes, both of which are pivotal for real-world application. Overall, this research provides an efficient, cost-effective, and renewable solution for liquid separation and fog collection, addressing water scarcity and pollution challenges. To fully realize the potential of this membrane, future studies should aim to optimize its properties, evaluate long-term performance under various environmental conditions, and explore its scaling-up possibilities for wider adoption.
+Methods
+Material
+The natural balsa wood was sourced from Fuyu Materials Co., China. Before use, the wood blocks were cut parallel to the grain to create longitudinal wood membranes, each measuring 20 mm × 20 mm × 1 mm and 20 mm × 50 mm × 1 mm. Poly(vinylidene fluoride-co-hexafluoropropylene) (PVDF-HFP), dimethylformamide (DMF), anatase titanium dioxide (TiO
+2
+) nanoparticles (30–60 nm), and 1H,1H,2H,2H-perfluorodecyltriethoxysilane (FAS) were purchased from Macklin Biochemical Co., Ltd. Sodium chlorite (NaClO
+2
+, ~80%) and hydrogen peroxide (H
+2
+O
+2
+, 30%) were obtained from Aladdin Biochemical Technology Co., Ltd., Shanghai. Acetic acid (CH
+3
+COOH, ~99%), ethanol, η-hexane, toluene, η-hexadecane, petroleum ether, lubricating oil, soybean oil, dichloromethane, and chloroform were supplied by Nanjing Chemical Reagent Co., Ltd. All chemicals were used as received without further purification.
+Fabrication of delignified wood membranes
+The longitudinal balsa wood membranes were first pretreated in a 1% NaOH solution at 80 °C for 1 h. After pretreatment, the membranes were immersed in a 1 wt% NaClO
+2
+solution adjusted to pH 4.6 with CH
+3
+COOH and maintained at 80 °C for 2 h to remove lignin. Following lignin removal, the membranes were washed with anhydrous ethanol to eliminate residual chemicals and then freeze-dried. The delignified balsa wood membranes were subsequently washed several times with deionized water and stored in anhydrous ethanol for future use.
+Fabrication of Janus wood membranes
+Dissolve 0.5 g of PVDF-HFP in 25 mL of DMF under magnetic stirring to obtain Solution A. In a separate mixture, dissolve 1 g of FAS and 6 g of TiO
+2
+in 25 mL of anhydrous ethanol to prepare Solution B. Slowly add Solution B to Solution A, forming Solution C. Immerse the delignified wood membrane in Solution C for 12 h, then remove and thoroughly rinse with anhydrous ethanol. Vacuum dry the membrane at 50 °C for 1 h to produce the superhydrophobic wood membrane.
+To create an asymmetric wettability Janus wood membrane, expose one side of the superhydrophobic membrane to UV light (UVGO3535-9Z, 20 W, 395 nm, at a distance of 40 cm) for 6 h (Fig.
+S1
+).
+Anti-mildew performance test
+First, seal samples with dimensions 50 × 20 × 1 mm
+3
+in bags and subject them to high-pressure sterilization at 120 °C for 6 h. After sterilization, transfer the samples to sterile Petri dishes in a clean room and inoculate them with Aspergillus niger spores. Place the Petri dishes in an incubator set at 65 °C and 25% humidity for one month. Monitor and record the growth of Aspergillus niger every two days.
+Oil-water emulsion separation
+Four different water-in-oil and oil-in-water emulsions were prepared using η-hexane, petroleum ether, n-hexadecane, and toluene as the oil phase. For the water-in-oil emulsions, Tween 20 was used as the emulsifier. Oil and water were mixed at a 1:100 volume ratio with 2.5 mg/mL of Tween 20, followed by ultrasonic treatment at room temperature for 6 h to form stable emulsions. Similarly, Span 80 was used as the emulsifier for the oil-in-water emulsions, with the same 1:100 water-to-oil ratio and 2.5 mg/mL Span 80, and ultrasonic treatment for 6 h.
+The JW membrane was mounted in a filtration device, and membrane flipping allowed separation of the two types of emulsions. When the hydrophilic side faced upwards, water-in-oil emulsions were separated. The separation efficiency (
+R
+) was calculated using Eq. (
+4
+)
+47
+:
+$$R\left( \% \right)=\left(1-\frac{{C}_{1}}{{C}_{0}}\right)\times 100$$
+(4)
+where
+C
+0
+and
+C
+1
+represent the oil concentration in the original emulsion and the filtrate, respectively. When the hydrophobic side faced upwards, oil-in-water emulsions were separated, with
+C
+0
+and
+C
+1
+representing water concentrations in the emulsion and filtrate.
+Throughout the filtration, the vacuum pressure was maintained at approximately 0.095 MPa. Water content in the filtered oil was measured using a Karl Fischer moisture titrator (Mettler Toledo DL31, Switzerland), and oil content in the filtered water was analyzed with a total organic carbon analyzer (Multi N/C 2100, Analytik Jena, Germany).
+Artificial weathering test
+To evaluate the stability of the UV-induced wettability transition and potential degradation of the polymer matrix, a 7-day accelerated UV weathering test was conducted. The JW was placed with the JW-HI side facing up under continuous UV irradiation using a UV lamp (Q-Lab Co., Westlake, OH, USA) at a distance of 40 cm. The test was performed in a controlled chamber at 25 °C and 50% relative humidity, simulating prolonged environmental exposure. The weathering process followed a cyclic program, consisting of 5.75 h of condensation, followed by 0.25 h of water spray, and then another 5.75 h of condensation, with an additional 0.25-h of water spray before entering a final 6-h condensation phase. After 7 days of exposure, the tensile strength of the JW was measured in both longitudinal and radial directions using a universal tensile testing machine (100 MTS system, Zwick, Germany) to assess mechanical integrity before and after weathering. This test provides insights into the long-term durability of the membrane under cyclic UV, humidity, and water exposure conditions, ensuring its reliability for practical applications.
+Spine–membrane coupling structure for fog collection
+First, Janus wood membranes (50 × 20 × 1 mm³) were molded into a concave-convex structure using a hot pressing method. The Janus membranes were preheated at 130 °C for 1 h, then pressed using a conical needle mold to create a 3 × 3 array of conical holes. The hole diameters on the JW-HO and JW-HI sides were 1 mm and 0.3 mm, respectively. Next, a cylindrical roller mold was used to press the membranes, forming the concave-convex Janus structure.
+Cactus spines (
+Echinopsis tubeiflora
+) were selected and sorted by length (2.5 mm) and base diameter (1 mm). The spines were sanded, ultrasonically cleaned with deionized water, and stored in anhydrous ethanol. The spines were inserted through the 0.3 mm holes on the JW-HI side until fully coupled, creating a spine–membrane coupling structure.
+To assess fog collection performance, a custom fog collection apparatus was designed. The structure was mounted on top of an acrylic box (40 × 20 × 20 mm
+3
+) with a humidifier (Model: JSQ107, Guangdong Zhigao Air Conditioner Co., China) placed 5 cm away. At a constant temperature of 25 °C and 90% relative humidity, the humidifier generated a fog flow parallel to the membrane at a speed of 10 cm/s. Each fog collection cycle lasted 1 h and was repeated 10 times under stable conditions (25 °C, 90% RH). Fog collection efficiency was evaluated by comparing results from each cycle to initial values. Additionally, the same volume of water was added to the collector, and the setup was placed in environments with temperatures of 30 °C, 50 °C, and 70 °C for 1 h each. The water evaporation rates were determined by measuring mass changes.
+Characterization
+The morphology and elemental distribution of the samples were examined using an environmental scanning electron microscope (ESEM) equipped with energy-dispersive X-ray spectroscopy (ESEM-EDS, XL30ESEM-FEG, USA), operating at 20 kV with a 10 mm working distance. Surface area and pore size were measured with a specific surface area and pore size analyzer (ASAP2460, Mike’s Instruments, USA). Fourier-transform infrared spectroscopy (FTIR) was conducted using a Nexus 670 instrument (USA) at a resolution of 2 cm
+−
+1
+over the range of 4000–400 cm
+−
+1
+, with 32 scans to detect compositional changes. The chemical state of the sample surfaces was analyzed by X-ray diffraction (XRD, UltimalIV, Rigaku, Japan) across a 5–90° scanning range, and elemental composition was determined via X-ray photoelectron spectroscopy (XPS, AXIS Ultra DLD, USA). The imbibition behavior of the samples was observed by placing them on a water-saturated sponge for 30 min. Side images were recorded every 10 min using a digital camera (EOS600D, Sony). The swelling strain was analyzed using digital image correlation (DIC) technology (Correlated Solutions, United States) to evaluate the imbibition depth of the samples. Wettability was assessed using a contact angle tester (FCA2000A, Shanghai Aifid Precision Instruments Co., Ltd.), while contact angle changes between water and oil were evaluated by loading a 225 g weight onto Janus wood membranes and dragging them across 100-mesh gauze. Mechanical properties were tested with a universal material testing machine (100 MTS system, Zwick, Germany). Emulsion droplet size was measured using dynamic light scattering (DLS, Malvern Zen 3600), and optical microscope images were captured with a high-depth 3D scanning system (Keyence, VHX-7000, Japan). Water and oil contents in oil-water emulsions were quantified with a Karl Fischer titrator (870 KF Titrino Plus) and a total organic carbon (TOC) analyzer (TOC-L, Shimadzu, Japan), respectively.
+Data availability
+The authors declare that all data supporting the findings of this study are available within the paper and Supplementary Information files. Source data are provided with this paper.
+References
+He, C. et al. Future global urban water scarcity and potential solutions.
+Nat. Commun.
+12
+, 4667 (2021).
+Article
+CAS
+Google Scholar
+Ren, J. & Zhao, D. Recent advances in reticular chemistry for clean energy, global warming, and water shortage solutions.
+Adv. Funct. Mater.
+34
+, 2307778 (2023).
+Article
+Google Scholar
+Werber, J. R., Osuji, C. O. & Elimelech, M. Materials for next-generation desalination and water purification membranes.
+Nat. Rev. Mater.
+1
+, 16018 (2016).
+Article
+CAS
+Google Scholar
+Yang, Y. et al. Graphene-based standalone solar energy converter for water desalination and purification.
+ACS Nano
+12
+, 829–835 (2018).
+Article
+CAS
+Google Scholar
+Li, F. et al. Self-repairing and damage-tolerant hydrogels for efficient solar-powered water purification and desalination.
+Adv. Funct. Mater.
+31
+, 2104464 (2021).
+Article
+CAS
+Google Scholar
+Yang, H. C., Hou, J., Chen, V. & Xu, Z. K. Janus membranes: exploring duality for advanced separation.
+Angew. Chem. Int Ed. Engl.
+55
+, 13398–13407 (2016).
+Article
+CAS
+Google Scholar
+Yang, H. C., Hou, J., Wan, L. S., Chen, V. & Xu, Z. K. Janus membranes with asymmetric wettability for fine bubble aeration.
+Adv. Mater. Interfaces
+3
+, 1500774 (2016).
+Article
+Google Scholar
+Zhang, R., Sun, Y., Guo, Z. & Liu, W. Janus membranes with asymmetric wettability applied in oil/water emulsion separations.
+Adv. Sustain. Syst.
+5
+, 2000253 (2021).
+Article
+CAS
+Google Scholar
+Yang, J. et al. Janus membranes with controllable asymmetric configurations for highly efficient separation of oil-in-water emulsions.
+J. Mater. Chem. A
+7
+, 7907–7917 (2019).
+Article
+CAS
+Google Scholar
+Huang, X. et al. Mechanically robust Janus nanofibrous membrane with asymmetric wettability for high efficiency emulsion separation.
+J. Hazard. Mater.
+429
+, 128250 (2022).
+Article
+CAS
+Google Scholar
+An, Y.-P., Yang, J., Yang, H.-C., Wu, M.-B. & Xu, Z.-K. Janus membranes with charged carbon nanotube coatings for deemulsification and separation of oil-in-water emulsions.
+ACS Appl. Mater. Interfaces
+10
+, 9832–9840 (2018).
+Article
+CAS
+Google Scholar
+Song, S., Zhang, Y., Yu, T. & Yang, J. A new Janus mesh membrane with ultrafast directional water transportation and improved fog collection.
+J. Mater. Sci. Technol.
+202
+, 129–139 (2024).
+Article
+Google Scholar
+Zhong, L., Feng, J. & Guo, Z. An alternating nanoscale (hydrophilic–hydrophobic)/hydrophilic Janus cooperative copper mesh fabricated by a simple liquidus modification for efficient fog harvesting.
+J. Mater. Chem. A
+7
+, 8405–8413 (2019).
+Article
+CAS
+Google Scholar
+Shi, D., Gong, T., Wang, R., Qing, W. & Shao, S. Control the hydrophilic layer thickness of Janus membranes by manipulating membrane wetting in membrane distillation.
+Water Res.
+237
+, 119984 (2023).
+Article
+CAS
+Google Scholar
+He, Y. et al. A bioinspired Janus polyurethane membrane for potential periodontal tissue regeneration.
+J. Mater. Chem. B
+10
+, 2602–2616 (2022).
+Article
+CAS
+Google Scholar
+Liu, J., Cheng, Z., Zhao, H., Zou, D. & Zhong, Z. Engineering Janus PTFE composite membranes with high anti-fouling and anti-scaling performance for membrane desalination.
+Sep. Purif. Technol.
+333
+, 125959 (2024).
+Article
+CAS
+Google Scholar
+Jing, J. et al. Scalable fabrication of a robust asymmetric superwetting Janus mesh by facile spray-coating for oil–water emulsions separation.
+Chem. Eng. J.
+477
+, 146982 (2023).
+Article
+CAS
+Google Scholar
+Zhao, Z. H. et al. Liquid-assisted single-layer Janus membrane for efficient unidirectional liquid penetration.
+Adv. Sci.
+9
+, 2103765 (2022).
+Article
+CAS
+Google Scholar
+Zhou, W. et al. Janus copper mesh with asymmetric wettability for on-demand oil/water separation and direction-independent fog collection.
+J. Environ. Chem. Eng.
+9
+, 105899 (2021).
+Article
+CAS
+Google Scholar
+Wu, Z., Zheng, K., Zhang, G., Huang, L. & Zhou, S. Preparation of polysulfone-based nanofiber Janus membrane for membrane distillation containing organic pollutants.
+npj Clean. Water
+7
+, 51 (2024).
+Article
+CAS
+Google Scholar
+Ju, J. et al. Construction of electrospinning Janus nanofiber membranes for efficient solar-driven membrane distillation.
+Sep. Purif. Technol.
+305
+, 122348 (2023).
+Article
+CAS
+Google Scholar
+Pi, H. et al. Janus fibrous membrane with directional liquid transport capacity for wound healing promotion.
+Chem. Eng. J.
+455
+, 140853 (2023).
+Article
+CAS
+Google Scholar
+Wang, S. et al. Wood xerogel for fabrication of high-performance transparent wood.
+Nat. Commun.
+14
+, 2827 (2023).
+Article
+CAS
+Google Scholar
+Chen, C. et al. Structure–property–function relationships of natural and engineered wood.
+Nat. Rev. Mater.
+5
+, 642–666 (2020).
+Article
+CAS
+Google Scholar
+Berglund, L. A. & Burgert, I. Bioinspired wood nanotechnology for functional materials.
+Adv. Mater.
+30
+, 1704285 (2018).
+Article
+Google Scholar
+Chen, K. et al. Innovative Janus wood membranes: harnessing wood anisotropy for superior liquid separation and transport.
+Chem. Eng. J.
+506
+, 160185 (2025).
+Article
+CAS
+Google Scholar
+Kim, S., Kim, K., Jun, G. & Hwang, W. Wood-nanotechnology-based membrane for the efficient purification of oil-in-water emulsions.
+ACS Nano
+14
+, 17233–17240 (2020).
+Article
+CAS
+Google Scholar
+Chen, D. et al. A hydrogel-coated wood membrane with intelligent oil pollution detection for emulsion separation.
+Small
+20
+, 2401719 (2024).
+Article
+CAS
+Google Scholar
+Ding, Y., Tu, K. K., Burgert, I. & Keplinger, T. Janus wood membranes for autonomous water transport and fog collection.
+J. Mater. Chem. A
+8
+, 22001–22008 (2020).
+Article
+CAS
+Google Scholar
+Fu, Y., Wu, L., Ai, S., Guo, Z. & Liu, W. Bionic collection system for fog-dew harvesting inspired from desert beetle.
+Nano Today
+52
+, 101979 (2023).
+Article
+Google Scholar
+Zhang, K. et al. High-efficient fog harvest from a synergistic effect of coupling hierarchical structures.
+ACS Appl. Mater. Interfaces
+14
+, 33993–34001 (2022).
+Article
+CAS
+Google Scholar
+Li, K. et al. Self-densification of highly mesoporous wood structure into a strong and transparent film.
+Adv. Mater.
+32
+, 2003653 (2020).
+Article
+CAS
+Google Scholar
+Gan, W. et al. Single-digit-micrometer thickness wood speaker.
+Nat. Commun.
+10
+, 5084 (2019).
+Article
+Google Scholar
+Jiang, F. et al. Wood-based nanotechnologies toward sustainability.
+Adv. Mater.
+30
+, 1703453 (2018).
+Article
+Google Scholar
+Fu, Q. L., Ansari, F., Zhou, Q. & Berglund, L. A. Wood nanotechnology for strong, mesoporous, and hydrophobic biocomposites for selective separation of oil/water mixtures.
+ACS Nano
+12
+, 2222–2230 (2018).
+Article
+CAS
+Google Scholar
+Bi, X. et al. Achieving sustainable and highly efficient wood bonding through synergistic plant root-driven penetration mode with a hyperactive interface.
+Chem. Eng. J.
+491
+, 152017 (2024).
+Article
+CAS
+Google Scholar
+Yang, R. et al. High capacity oil absorbent wood prepared through eco-friendly deep eutectic solvent delignification.
+Chem. Eng. J.
+401
+, 126150 (2020).
+Article
+CAS
+Google Scholar
+Gatto, S. et al. Surface fluorination on TiO
+2
+catalyst induced by photodegradation of perfluorooctanoic acid.
+Catal. Today
+241
+, 8–14 (2015).
+Article
+CAS
+Google Scholar
+Fessi, N. et al. Surface and electronic features of fluorinated TiO
+2
+and their Influence on the photocatalytic degradation of 1-methylnaphthalene.
+J. Phys. Chem. C.
+124
+, 11456–11468 (2020).
+Article
+CAS
+Google Scholar
+Weon, S., Kim, J. & Choi, W. Dual-components modified TiO
+2
+with Pt and fluoride as deactivation-resistant photocatalyst for the degradation of volatile organic compound.
+Appl. Catal. B Environ.
+220
+, 1–8 (2018).
+Article
+CAS
+Google Scholar
+Adamson, A. W. & Gast, A. P.
+Physical Chemistry of Surfaces
+, Vol. 150. (Interscience Publishers, New York, 1967).
+Yan, D., Chen, Y., Liu, J. & Song, J. Super-fast fog collector based on self-driven jet of mini fog droplets.
+Small
+19
+, 2301745 (2023).
+Article
+CAS
+Google Scholar
+Yan, D. et al. High-efficiency water collection of superhydrophobic condensation absorber.
+Advanced Science
+2417024
+https://doi.org/10.1002/advs.202417024
+(2025).
+Yan, D., Lu, Y., Lin, J., Li, W. & Song, J. Enhancing water transportation capacity by asymmetrical patterned surface with super-wettability.
+Appl. Phys. Lett.
+125
+, 071601 (2024).
+Article
+CAS
+Google Scholar
+Yue, H., Zeng, Q., Huang, J., Guo, Z. & Liu, W. Fog collection behavior of bionic surface and large fog collector: A review.
+Adv. Colloid Interface Sci.
+300
+, 102583 (2022).
+Article
+CAS
+Google Scholar
+Zhan, D. & Guo, Z. Overview of the design of bionic fine hierarchical structures for fog collection.
+Mater. Horiz.
+10
+, 4827–4856 (2023).
+Article
+CAS
+Google Scholar
+Mulder, M.
+Basic Principles of Membrane Technology
+(Springer Science & Business Media, 2012).
+Download references
+Acknowledgements
+This work was financially supported by the National Key Research and Development Program of China (2023YFD2200501), Natural Science and Engineering Research Council of Canada (RGPIN-2017-06737), and Postgraduate Research & Practice Innovation Program of Jiangsu Province (KYCX23_1176). The authors would like to thank the sponsorship of the China Scholarship Council (CSC No. 202308320323).
+Author information
+Authors and Affiliations
+Co-Innovation Center of Efficient Processing and Utilization of Forest Resources, College of Materials Science and Engineering, Nanjing Forestry University, Nanjing, China
+Kaiwen Chen, Yujing Tan, Xianfu Xiao, Fengze Sun, Hui Peng, Tianyi Zhan & Jianxiong Lyu
+Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, ON, Canada
+Kaiwen Chen, Cheng Hao, Haonan Zhang & Ning Yan
+Research Institute of Wood Industry of Chinese Academy of Forestry, Beijing, China
+Jianyi Zhu
+Jiangsu Provincial Key Lab of Sustainable Pulp and Paper Technology and Biomass Materials, Nanjing Forestry University, Nanjing, Jiangsu Province, China
+Haonan Zhang
+Beijing Key Laboratory of Lignocellulosic Chemistry, College of Materials Science and Technology, Beijing Forestry University, Beijing, PR China
+Xuewen Han
+Authors
+Kaiwen Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianyi Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cheng Hao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haonan Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yujing Tan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xianfu Xiao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fengze Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xuewen Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hui Peng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tianyi Zhan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianxiong Lyu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ning Yan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+K.C.: Conceptualization, Formal analysis, Data curation, Software, Investigation, Writing-original draft, Visualization. J.Z.: Investigation, Writing - review & editing. C.H.: Writing - review and editing. H.Z.: Investigation, Writing - review & editing. Y.T.: Investigation, Writing - Review & Editing. X. X.: Writing - review and editing. F.S.: Investigation, Writing - review & editing. X.H.: Investigation, Writing - review & editing. H.P.: Supervision, Writing - review & editing. T.Z.: Supervision, Writing - review & editing. J.L.: Supervision, Funding acquisition, Writing - review & editing. N.Y.: Supervision, Funding acquisition, Writing - review & editing.
+Corresponding authors
+Correspondence to
+Jianxiong Lyu
+or
+Ning Yan
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Video 1
+Supplementary Video 2
+Supplementary Video 3
+Supplementary Video 4
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Chen, K., Zhu, J., Hao, C.
+et al.
+Integrated emulsion separation and fog collection with functionalized Janus wood membrane for water scarcity solutions.
+npj Clean Water
+8
+, 27 (2025). https://doi.org/10.1038/s41545-025-00460-8
+Download citation
+Received
+:
+23 January 2025
+Accepted
+:
+22 March 2025
+Published
+:
+04 April 2025
+DOI
+:
+https://doi.org/10.1038/s41545-025-00460-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Associated content
+Collection
+Advanced Membrane Science and Technology for Water and Wastewater Treatment
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Content types
+Journal Information
+About the Editors
+Open Access
+Article Processing Charges
+Calls for Papers
+Contact
+Editorial policies
+Journal Metrics
+About the Partner
+Publish with us
+For Authors and Referees
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+npj Clean Water
+(
+npj Clean Water
+)
+ISSN
+2059-7037
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

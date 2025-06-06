@@ -1,0 +1,681 @@
+Environmental variability can prolong parasite co-occurrence within hosts and promote transmission among hosts | Theoretical Ecology
+Skip to main content
+Log in
+Menu
+Find a journal
+Publish with us
+Track your research
+Search
+Cart
+Home
+Theoretical Ecology
+Article
+Environmental variability can prolong parasite co-occurrence within hosts and promote transmission among hosts
+Research
+Published:
+07 April 2025
+Volume 18
+, article number
+18
+, (
+2025
+)
+Cite this article
+Theoretical Ecology
+Aims and scope
+Submit manuscript
+Madeline Jarvis-Cross
+ORCID:
+orcid.org/0009-0008-0527-9369
+1
+&
+Martin Krkošek
+ORCID:
+orcid.org/0000-0001-7591-7954
+1
+137
+Accesses
+Explore all metrics
+Abstract
+While the mechanisms that govern disease emergence and spread among hosts are increasingly well-described, the mechanisms that promote parasite diversity within-hosts, affecting host outcomes and spillover potential, have been comparatively understudied. Furthermore, while attention has been paid to the effects of increasing temperatures on disease systems, the effects of environmental variability have been left underexplored, despite rising climatic variability. To investigate the impacts of environmental variability on parasite co-occurrence within-hosts, we analysed a model of within-host population dynamics wherein two parasites indirectly compete through the host’s immune response. We simulated the model under constant, demographically stochastic, environmentally stochastic, and demographically and environmentally stochastic conditions, and analysed the viability and longevity of non-equilibrium parasite co-occurrence. We found that environmental stochasticity increased the viability and longevity of parasite co-occurrence, suggesting that thermal variability arising from climatic change and as a physiological trait may promote parasite diversity within ectotherms and help explain bats’ propensity to support diverse communities of parasites. Further, we found that under certain conditions, the transmissibility of co-occurring parasites can surpass the transmissibility of single parasites, suggesting that thermal variability may increase the transmissibility of co-occurring parasites.
+This is a preview of subscription content,
+log in via an institution
+to check access.
+Access this article
+Log in via an institution
+Subscribe and save
+Springer+ Basic
+$34.99 /Month
+Get 10 units per month
+Download Article/Chapter or eBook
+1 Unit = 1 Article or 1 Chapter
+Cancel anytime
+Subscribe now
+Buy Now
+Buy article PDF USD 39.95
+Price includes VAT (Canada)
+Instant access to the full article PDF.
+Institutional subscriptions
+Fig. 1
+Fig. 2
+Fig. 3
+Fig. 4
+Fig. 5
+Similar content being viewed by others
+Host and parasite identity interact in scale-dependent fashion to determine parasite community structure
+Article
+Open access
+11 January 2024
+Some like it hotter: trematode transmission under changing temperature conditions
+Article
+10 November 2020
+Ecological Context Influences Evolution in Host-Parasite Interactions: Insights from the Daphnia-Parasite Model System*
+Chapter
+© 2020
+Explore related subjects
+Discover the latest articles and news from researchers in related subjects, suggested using machine learning.
+Climate Change Ecology
+Ecology
+Environmental Physics
+Parasite host response
+Parasite physiology
+Tropical Ecology
+Data availability
+Time series data available from the Federated Research Data Repository at
+https://doi.org/
+https://doi.org/10.20383/103.0764
+. Scripts and replication materials available from GitHub at
+https://github.com/MadelineJC/EnvironmentalVariability_Repo
+.
+References
+Allocati N, Petrucci AG, Di Giovanni P, Masulli M, Di Ilio C, De Laurenzi V (2016) Bat–man disease transmission: zoonotic pathogens from wildlife reservoirs to human populations. Cell Death Discov 2(1):16048.
+https://doi.org/10.1038/cddiscovery.2016.48
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Anderson RM (1994) Mathematical studies of parasitic infection and immunity. Science 264(5167):1884–1886.
+https://doi.org/10.1126/science.8009218
+Article
+CAS
+PubMed
+Google Scholar
+Antia R, Levin BR, May RM (1994) Within-host population dynamics and the evolution and maintenance of microparasite virulence. Am Nat 144(3):457–472.
+https://doi.org/10.1086/285686
+Article
+Google Scholar
+Antia R, Koella JC, Perrot V (1996) Models of the within-host dynamics of persistent mycobacterial infections. Proc R Soc Lond. Ser B: Biol Sci 263(1368):257–263.
+https://doi.org/10.1098/rspb.1996.0040
+Article
+CAS
+Google Scholar
+Balmer O, Tanner M (2011) Prevalence and implications of multiple-strain infections. Lancet Infect Dis 11(11):868–878.
+https://doi.org/10.1016/S1473-3099(11)70241-9
+Article
+PubMed
+Google Scholar
+Barabás G, D’Andrea R, Stump SM (2018) Chesson’s coexistence theory. Ecol Monogr 88(3):277–303.
+https://doi.org/10.1002/ecm.1302
+Article
+Google Scholar
+Bashey F (2015) Within-host competitive interactions as a mechanism for the maintenance of parasite diversity. Philos Trans Ro Soc B: Biol Sci 370(1675):20140301.
+https://doi.org/10.1098/rstb.2014.0301
+Article
+Google Scholar
+Bates A, Hilton B, Harley C (2009) Effects of temperature, season and locality on wasting disease in the keystone predatory sea star Pisaster ochraceus. Dis Aquat Org 86:245–251.
+https://doi.org/10.3354/dao02125
+Article
+Google Scholar
+Bell GI (1973) Predator-prey equations simulating an immune response. Math Biosci 16(3–4):291–314.
+https://doi.org/10.1016/0025-5564(73)90036-9
+Article
+Google Scholar
+Bernhardt JR, Sunday JM, Thompson PL, O’Connor MI (2018) Nonlinear averaging of thermal experience predicts population growth rates in a thermally variable environment. Proc R Soc B: Biol Sci 285(1886):20181076.
+https://doi.org/10.1098/rspb.2018.1076
+Article
+Google Scholar
+Bromenshenk JJ, Henderson CB, Wick CH, Stanford MF, Zulich AW, Jabbour RE, Deshpande SV, McCubbin PE, Seccomb RA, Welch PM, Williams T, Firth DR, Skowronski E, Lehmann MM, Bilimoria SL, Gress J, Wanner KW, Cramer RA (2010) Iridovirus and microsporidian linked to honey bee colony decline. PLoS ONE 5(10):e13181.
+https://doi.org/10.1371/journal.pone.0013181
+Brook CE, Dobson AP (2015) Bats as ‘special’ reservoirs for emerging zoonotic pathogens. Trends Microbiol 23(3):172–180.
+https://doi.org/10.1016/j.tim.2014.12.004
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Brown JH, Gillooly JF, Allen AP, Savage VM, West GB (2004) Toward a metabolic theory of ecology. Ecology 85(7):1771–1789.
+https://doi.org/10.1890/03-9000
+Article
+Google Scholar
+Bruno JF, Selig ER, Casey KS, Page CA, Willis BL, Harvell CD, Sweatman H, Melendy AM (2007) Thermal stress and coral cover as drivers of coral disease outbreaks. PLoS Biol 5(6):e124.
+https://doi.org/10.1371/journal.pbio.0050124
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Butler MW, Stahlschmidt ZR, Ardia DR, Davies S, Davis J, Guillette LJ, Johnson N, McCormick SD, McGraw KJ, DeNardo DF (2013) Thermal sensitivity of immune function: evidence against a generalist-specialist trade-off among endothermic and ectothermic vertebrates. Am Nat 181(6):761–774.
+https://doi.org/10.1086/670191
+Article
+PubMed
+Google Scholar
+Calisher CH, Childs JE, Field HE, Holmes KV, Schountz T (2006) Bats: important reservoir hosts of emerging viruses. Clin Microbiol Rev 19(3):531–545.
+https://doi.org/10.1128/CMR.00017-06
+Article
+PubMed
+PubMed Central
+Google Scholar
+Camus A (1991) The plague. (trans: Stuart G) 1st edn. Vintage international. Vintage Books
+Chesson P (2000) Mechanisms of maintenance of species diversity. Annu Rev Ecol Syst 31(1):343–366.
+https://doi.org/10.1146/annurev.ecolsys.31.1.343
+Article
+Google Scholar
+Chesson P (2003) Quantifying and testing coexistence mechanisms arising from recruitment fluctuations. Theor Popul Biol 64(3):345–357.
+https://doi.org/10.1016/S0040-5809(03)00095-9
+Article
+PubMed
+Google Scholar
+Chesson P (1994) Multispecies competition in variable environments. Theor Popul Biol 45(3):227–276.
+https://doi.org/10.1006/tpbi.1994.1013
+Article
+Google Scholar
+Chesson P, Huntly N (1997) The roles of harsh and fluctuating conditions in the dynamics of ecological communities. Am Nat 150(5):519–553.
+https://doi.org/10.1086/286080
+Article
+CAS
+PubMed
+Google Scholar
+Cizauskas CA, Carlson CJ, Burgio KR, Clements CF, Dougherty ER, Harris NC, Phillips AJ (2017) Parasite vulnerability to climate change: an evidence-based functional trait approach. R Soc Open Sci 4(1):160535.
+https://doi.org/10.1098/rsos.160535
+Article
+PubMed
+PubMed Central
+Google Scholar
+Cohen JM, Venesky MD, Sauer EL, Civitello DJ, McMahon TA, Roznik EA, Rohr JR (2017) The thermal mismatch hypothesis explains host susceptibility to an emerging infectious disease. Ecol Lett 20(2):184–193.
+https://doi.org/10.1111/ele.12720
+Article
+PubMed
+Google Scholar
+Cohen JM, Civitello DJ, Venesky MD, McMahon TA, Rohr JR (2019) An interaction between climate change and infectious disease drove widespread amphibian declines. Glob Chang Biol 25(3):927–937.
+https://doi.org/10.1111/gcb.14489
+Article
+PubMed
+Google Scholar
+Cohen JM, Sauer EL, Santiago O, Spencer S, Rohr JR (2020) Divergent impacts of warming weather on wildlife disease risk across climates. Science 370(6519):eabb1702.
+https://doi.org/10.1126/science.abb1702
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Comins HN, Noble IR (1985) Dispersal, variability, and transient niches: species coexistence in a uniformly variable environment. Am Nat 126(5):706–723.
+https://doi.org/10.1086/284448
+Article
+Google Scholar
+Connell JH (1978) Diversity in tropical rain forests and coral reefs: high diversity of trees and corals is maintained only in a nonequilibrium state. Science 199(4335):1302–1310.
+https://doi.org/10.1126/science.199.4335.1302
+Article
+CAS
+PubMed
+Google Scholar
+Cox FEG (2001) Concomitant infections, parasites and immune responses. Parasitology 122(S1):S23–S38.
+https://doi.org/10.1017/S003118200001698X
+Article
+PubMed
+Google Scholar
+Dallas T, Drake JM (2016) Fluctuating temperatures alter environmental pathogen transmission in a Daphnia –pathogen system. Ecol Evol 6(21):7931–7938.
+https://doi.org/10.1002/ece3.2539
+Article
+PubMed
+PubMed Central
+Google Scholar
+Dallas TA, Laine A-L, Ovaskainen O (2019) Detecting parasite associations within multi-species host and parasite communities. Proc R Soc B: Biol Sci 286(1912):20191109.
+https://doi.org/10.1098/rspb.2019.1109
+Article
+Google Scholar
+Daszak P, Berger L, Cunningham AA, Hyatt AD, Green DE, Speare R (1999) Emerging infectious diseases and amphibian population declines. Emerg Infect Dis 5(6):735–748.
+https://doi.org/10.3201/eid0506.990601
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Daszak P, Cunningham AA, Hyatt AD (2000) Emerging infectious diseases of wildlife—threats to biodiversity and human health. Science 287(5452):443–449.
+https://doi.org/10.1126/science.287.5452.443
+Article
+CAS
+PubMed
+Google Scholar
+Daszak P, Cunningham AA, Hyatt AD (2001) Anthropogenic environmental change and the emergence of infectious diseases in wildlife. Acta Trop 78(2):103–116.
+https://doi.org/10.1016/S0001-706X(00)00179-0
+Article
+CAS
+PubMed
+Google Scholar
+Dell AI, Pawar S, Savage VM (2011) Systematic variation in the temperature dependence of physiological and ecological traits. Proc Natl Acad Sci 108(26):10591–10596.
+https://doi.org/10.1073/pnas.1015178108
+Article
+PubMed
+PubMed Central
+Google Scholar
+Dell AI, Pawar S, Savage VM (2014) Temperature dependence of trophic interactions are driven by asymmetry of species responses and foraging strategy. J Anim Ecol 83(1):70–84.
+https://doi.org/10.1111/1365-2656.12081
+Article
+PubMed
+Google Scholar
+Denny M (2017) The fallacy of the average: on the ubiquity, utility and continuing novelty of Jensen’s inequality. J Exp Biol 220(2):139–146.
+https://doi.org/10.1242/jeb.140368
+Article
+PubMed
+Google Scholar
+Duncan AB, Fellous S, Kaltz O (2011) Temporal variation in temperature determines disease spread and maintenance in
+Paramecium
+microcosm populations. Proc R Soc B: Biol Sci 278(1723):3412–3420.
+https://doi.org/10.1098/rspb.2011.0287
+Article
+Google Scholar
+Estay SA, Clavijo-Baquet S, Lima M, Bozinovic F (2011) Beyond average: an experimental test of temperature variability on the population dynamics of
+Tribolium confusum
+. Popul Ecol 53(1):53–58.
+https://doi.org/10.1007/s10144-010-0216-7
+Article
+Google Scholar
+Fumagalli MR, Zapperi S, La Porta CAM (2021) Role of body temperature variations in bat immune response to viral infections. J R Soc Interface 18(180):20210211.
+https://doi.org/10.1098/rsif.2021.0211
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Greenrod STE, Cazares D, Johnson S, Hector TE, Stevens EJ, MacLean RC, King KC (2024) Warming alters life-history traits and competition in a phage community. Appl Environ Microbiol 90(5):e00286-e324.
+https://doi.org/10.1128/aem.00286-24
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Halpin K, Young PL, Field HE, Mackenzie JS (2000) Isolation of Hendra virus from pteropid bats: a natural reservoir of Hendra virus. J Gen Virol 81(8):1927–1932.
+https://doi.org/10.1099/0022-1317-81-8-1927
+Article
+CAS
+PubMed
+Google Scholar
+Holt RD (1977) Predation, apparent competition, and the structure of prey communities. Theor Popul Biol 12(2):197–229.
+https://doi.org/10.1016/0040-5809(77)90042-9
+Article
+CAS
+PubMed
+Google Scholar
+Holt RD, Bonsall MB (2017) Apparent competition. Annu Rev Ecol Evol Syst 48(1):447–471.
+https://doi.org/10.1146/annurev-ecolsys-110316-022628
+Article
+Google Scholar
+Holt RD, Lawton JH (1994) The ecological consequences of shared natural enemies. Annu Rev Ecol Syst 25(1):495–520.
+https://doi.org/10.1146/annurev.es.25.110194.002431
+Article
+Google Scholar
+Huston MA (2014) Disturbance, productivity, and species diversity: empiricism vs. logic in ecological theory. Ecology 95(9):2382–2396.
+https://doi.org/10.1890/13-1397.1
+Article
+Google Scholar
+Irving AT, Ahn M, Goh G, Anderson DE, Wang L-F (2021) Lessons from the host defences of bats, a unique viral reservoir. Nature 589(7842):363–370.
+https://doi.org/10.1038/s41586-020-03128-0
+Article
+CAS
+PubMed
+Google Scholar
+Jensen JLWV (1906) Sur les fonctions convexes et les inégalités entre les valeurs moyennes. Acta Math 30:175–193.
+https://doi.org/10.1007/BF02418571
+Article
+Google Scholar
+Jiang L, Patel SN (2008) Community assembly in the presence of disturbance: a microcosm experiment. Ecology 89(7):1931–1940.
+https://doi.org/10.1890/07-1263.1
+Article
+PubMed
+Google Scholar
+Johnson PTJ (2006) Amphibian diversity: decimation by disease. Proc Natl Acad Sci 103(9):3011–3012.
+https://doi.org/10.1073/pnas.0600293103
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Johnson PTJ, Hoverman JT (2012) Parasite diversity and coinfection determine pathogen infection success and host fitness. Proc Natl Acad Sci 109(23):9006–9011.
+https://doi.org/10.1073/pnas.1201790109
+Article
+PubMed
+PubMed Central
+Google Scholar
+Johnson PTJ, Preston DL, Hoverman JT, LaFonte BE (2013) Host and parasite diversity jointly control disease risk in complex communities. Proc Natl Acad Sci 110(42):16916–16921.
+https://doi.org/10.1073/pnas.1310557110
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jolles AE, Ezenwa VO, Etienne RS, Turner WC, Olff H (2008) Interactions between macroparasites and microparasites drive infection patterns in free-ranging African buffalo. Ecology 89(8):2239–2250.
+https://doi.org/10.1890/07-0995.1
+Article
+PubMed
+Google Scholar
+Kirk D, Jones N, Peacock S, Phillips J, Molnár PK, Krkošek M, Luijckx P (2018) Empirical evidence that metabolic theory describes the temperature dependency of within-host parasite dynamics. PLoS Biol 16(2):e2004608.
+https://doi.org/10.1371/journal.pbio.2004608
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Krichel L, Kirk D, Pencer C, Hönig M, Wadhawan K, Krkošek M (2023) Short-term temperature fluctuations increase disease in a Daphnia-parasite infectious disease system. PLoS Biol 21(9):e3002260.
+https://doi.org/10.1371/journal.pbio.3002260
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lafferty KD, Dobson AP, Kuris AM (2006) Parasites dominate food web links. Proc Natl Acad Sci 103(30):11211–11216.
+https://doi.org/10.1073/pnas.0604755103
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lawson CR, Vindenes Y, Bailey L, van de Pol M (2015) Environmental variation and population responses to global change. Ecol Lett 18(7):724–736.
+https://doi.org/10.1111/ele.12437
+Article
+PubMed
+Google Scholar
+Lips KR, Diffendorfer J, Mendelson JR, Sears MW (2008) Riding the wave: reconciling the roles of disease and climate change in amphibian declines. PLoS Biol 6(3):e72.
+https://doi.org/10.1371/journal.pbio.0060072
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Luo J, Greif S, Ye H, Bumrungsri S, Eitan O, Yovel Y (2021) Flight rapidly modulates body temperature in freely behaving bats. Anim Biotelemetry 9(1):45.
+https://doi.org/10.1186/s40317-021-00268-6
+Article
+Google Scholar
+Mackey RL, Currie DJ (2001) The diversity-disturbance relationship: is it generally strong and peaked? Ecology 82(12):3479–3492.
+https://doi.org/10.1890/0012-9658(2001)082[3479:TDDRII]2.0.CO;2
+Miller AD, Roxburgh SH, Shea K (2011) How frequency and intensity shape diversity–disturbance relationships. Proc Natl Acad Sci 108(14):5643–5648.
+https://doi.org/10.1073/pnas.1018594108
+Article
+PubMed
+PubMed Central
+Google Scholar
+Miller AD, Roxburgh SH, Shea K (2012) Timing of disturbance alters competitive outcomes and mechanisms of coexistence in an annual plant model. Thyroid Res 5(3):419–432.
+https://doi.org/10.1007/s12080-011-0133-1
+Article
+Google Scholar
+Molnár PK, Kutz SJ, Hoar BM, Dobson AP (2013) Metabolic approaches to understanding climate change impacts on seasonal host-macroparasite dynamics. Ecol Lett 16(1):9–21.
+https://doi.org/10.1111/ele.12022
+Article
+PubMed
+Google Scholar
+Molnár PK, Sckrabulis JP, Altman KA, Raffel TR (2017) Thermal performance curves and the metabolic theory of ecology—a practical guide to models and experiments for parasitologists. J Parasitol 103(5):423.
+https://doi.org/10.1645/16-148
+Article
+PubMed
+Google Scholar
+Nowak MA, May RM (2000) Virus dynamics: mathematical principles of immunology and virology. Oxford University Press.
+https://doi.org/10.1093/oso/9780198504184.001.0001
+Paull SH, LaFonte BE, Johnson PTJ (2012) Temperature-driven shifts in a host-parasite interaction drive nonlinear changes in disease risk. Glob Chang Biol 18(12):3558–3567.
+https://doi.org/10.1111/gcb.12018
+Article
+Google Scholar
+Pedersen AB, Fenton A (2007) Emphasizing the ecology in parasite community ecology. Trends Ecol Evol 22(3):133–139.
+https://doi.org/10.1016/j.tree.2006.11.005
+Article
+PubMed
+Google Scholar
+Petney TN, Andrews RH (1998) Multiparasite communities in animals and humans: frequency, structure and pathogenic significance. Int J Parasitol 28(3):377–393.
+https://doi.org/10.1016/S0020-7519(97)00189-6
+Article
+CAS
+PubMed
+Google Scholar
+Pilyugin S, Antia R (2000) Modeling immune responses with handling time. Bull Math Biol 62(5):869–890.
+https://doi.org/10.1006/bulm.2000.0181
+Article
+CAS
+PubMed
+Google Scholar
+Plowright RK, Parrish CR, McCallum H, Hudson PJ, Ko AI, Graham AL, Lloyd-Smith JO (2017) Pathways to zoonotic spillover. Nat Rev Microbiol 15(8):502–510.
+https://doi.org/10.1038/nrmicro.2017.45
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Råberg L, De Roode JC, Bell AS, Stamou P, Gray D, Read AF (2006) the role of immune-mediated apparent competition in genetically diverse malaria infections. Am Nat 168(1):41–53.
+https://doi.org/10.1086/505160
+Article
+PubMed
+Google Scholar
+Raffel TR, Romansic JM, Halstead NT, McMahon TA, Venesky MD, Rohr JR (2013) Disease and thermal acclimation in a more variable and unpredictable climate. Nat Clim Chang 3(2):146–151.
+https://doi.org/10.1038/nclimate1659
+Article
+Google Scholar
+Ramesh A, Hall SR (2023) Niche theory for within-host parasite dynamics: analogies to food web modules via feedback loops. Ecol Lett 26(3):351–368.
+https://doi.org/10.1111/ele.14142
+Article
+PubMed
+Google Scholar
+Rigaud T, Perrot-Minnot M-J, Brown MJF (2010) Parasite and host assemblages: embracing the reality will improve our knowledge of parasite transmission and virulence. Proc R Soc B: Biol Sci 277(1701):3693–3702.
+https://doi.org/10.1098/rspb.2010.1163
+Article
+Google Scholar
+Rohr JR, Raffel TR (2010) Linking global climate and temperature variability to widespread amphibian declines putatively caused by disease. Proc Natl Acad Sci 107(18):8269–8274.
+https://doi.org/10.1073/pnas.0912883107
+Article
+PubMed
+PubMed Central
+Google Scholar
+Rohr JR, Raffel TR, Romansic JM, McCallum H, Hudson PJ (2008) Evaluating the links between climate, disease spread, and amphibian declines. Proc Natl Acad Sci 105(45):17436–17441.
+https://doi.org/10.1073/pnas.0806368105
+Article
+PubMed
+PubMed Central
+Google Scholar
+Rohr JR, Raffel TR, Blaustein AR, Johnson PTJ, Paull SH, Young S (2013) Using physiology to understand climate-driven changes in disease and their implications for conservation. Conserv Physiol 1(1):cot022–cot022.
+https://doi.org/10.1093/conphys/cot022
+Article
+PubMed
+PubMed Central
+Google Scholar
+Roxburgh SH, Shea K, Wilson JB (2004) The intermediate disturbance hypothesis: patch dynamics and mechanisms of species coexistence. Ecology 85(2):359–371.
+https://doi.org/10.1890/03-0266
+Article
+Google Scholar
+Schoolfield RM, Sharpe PJH, Magnuson CE (1981) Non-linear regression of biological temperature-dependent rate models based on absolute reaction-rate theory. J Theor Biol 88(4):719–731.
+https://doi.org/10.1016/0022-5193(81)90246-0
+Article
+CAS
+PubMed
+Google Scholar
+Schulte PM, Healy TM, Fangue NA (2011) Thermal performance curves, phenotypic plasticity, and the time scales of temperature exposure. Integr Comp Biol 51(5):691–702.
+https://doi.org/10.1093/icb/icr097
+Article
+PubMed
+Google Scholar
+Sckrabulis JP, Altman KA, Raffel TR (2022) Using metabolic theory to describe temperature and thermal acclimation effects on parasitic infection. Am Nat 199(6):789–803.
+https://doi.org/10.1086/719409
+Article
+PubMed
+Google Scholar
+Sinclair BJ, Marshall KE, Sewell MA, Levesque DL, Willett CS, Slotsbo S, Dong Y, Harley CDG, Marshall DJ, Helmuth BS, Huey RB (2016) Can we predict ectotherm responses to climate change using thermal performance curves and body temperatures? Ecol Lett 19(11):1372–1385.
+https://doi.org/10.1111/ele.12686
+Article
+PubMed
+Google Scholar
+Song C, Spaak JW (2024) Trophic tug-of-war: coexistence mechanisms within and across trophic levels. Ecol Lett 27(4):e14409.
+https://doi.org/10.1111/ele.14409
+Article
+PubMed
+Google Scholar
+Spaak JW, Godoy O, De Laender F (2021) Mapping species niche and fitness differences for communities with multiple interaction types. Oikos 130(12):2065–2077.
+https://doi.org/10.1111/oik.08362
+Article
+Google Scholar
+Stocker TF, Qin D, Plattner G-K, Tignor M, Allen SK, Boschung J, Nauels A, Xia Y, Bex V, Midgley PM (2013) Climate Change 2013: The physical science basis - IPCC. Contribution of working group I to the fifth assessment report of the intergovernmental panel on climate change. Cambridge University Press, Cambridge, pp 1535
+Susi H, Barrès B, Vale PF, Laine A-L (2015) Co-infection alters population dynamics of infectious disease. Nat Commun 6(1):5975.
+https://doi.org/10.1038/ncomms6975
+Article
+CAS
+PubMed
+Google Scholar
+Symons CC, Arnott SE (2014) Timing is everything: priority effects alter community invasibility after disturbance. Ecol Evol 4(4):397–407.
+https://doi.org/10.1002/ece3.940
+Article
+PubMed
+PubMed Central
+Google Scholar
+Tracy AM, Pielmeier ML, Yoshioka RM, Heron SF, Harvell CD (2019) Increases and decreases in marine disease reports in an era of global change. Proceedings of the Royal Society b: Biological Sciences 286(1912):20191718.
+https://doi.org/10.1098/rspb.2019.1718
+Article
+PubMed Central
+Google Scholar
+Tuljapurkar S (1990) Population dynamics in variable environments (vol 85). Springer Berlin Heidelberg.
+https://doi.org/10.1007/978-3-642-51652-8
+Vasseur DA, DeLong JP, Gilbert B, Greig HS, Harley CDG, McCann KS, Savage V, Tunney TD, O’Connor MI (2014) Increased temperature variation poses a greater risk to species than climate warming. Proc R Soc B: Biol Sci 281(1779):20132612.
+https://doi.org/10.1098/rspb.2013.2612
+Article
+Google Scholar
+Williamson MH (1957) An elementary theory of interspecific competition. Nature 180(4583):422–425.
+https://doi.org/10.1038/180422a0
+Article
+Google Scholar
+Wootton JT (1998) Effects of disturbance on species diversity: a multitrophic perspective. Am Nat 152(6):803–825.
+https://doi.org/10.1086/286210
+Article
+CAS
+PubMed
+Google Scholar
+Wright RK, Cooper EL (1981) Temperature effects on ectotherm immune responses. Dev Comp Immunol 5:117–122
+Google Scholar
+Download references
+Acknowledgements
+We thank a number of anonymous reviewers, who, through their generous comments, greatly improved the quality of the work. This work was supported by The Emerging and Pandemic Infections Consortium Doctoral Award (MJ-C), and Ontario Graduate Scholarship (MJ-C), a Natural Sciences and Engineering Research Council of Canada Discovery Grant (Grant Number RGPIN- 2024 - 05054) (MK), and a Canada Research Chair (MK).
+Funding
+This work was supported by The Emerging and Pandemic Infections Consortium Doctoral Award (MJ-C), an Ontario Graduate Scholarship (MJ-C), a Natural Sciences and Engineering Research Council of Canada Discovery Grant (Grant Number RGPIN- 2024–05054) (MK), and a Canada Research Chair (MK).
+Author information
+Authors and Affiliations
+Department of Ecology and Evolutionary Biology, University of Toronto, 25 Willcocks Street, Toronto, ON, M5S 3B2, Canada
+Madeline Jarvis-Cross & Martin Krkošek
+Authors
+Madeline Jarvis-Cross
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Martin Krkošek
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+MJC and MK conceived the ideas and designed the methodology; MJC collected the data; MJC analysed the data; MJC led the writing of the manuscript. All authors contributed critically to drafts and gave final approval for publication.
+Corresponding author
+Correspondence to
+Madeline Jarvis-Cross
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Information
+Below is the link to the electronic supplementary material.
+Supplementary file1 (DOCX 12753 KB)
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Jarvis-Cross, M., Krkošek, M. Environmental variability can prolong parasite co-occurrence within hosts and promote transmission among hosts.
+Theor Ecol
+18
+, 18 (2025). https://doi.org/10.1007/s12080-025-00613-y
+Download citation
+Received
+:
+02 August 2024
+Accepted
+:
+26 March 2025
+Published
+:
+07 April 2025
+DOI
+:
+https://doi.org/10.1007/s12080-025-00613-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Within-host
+Co-infection
+Environmental variability
+Co-existence
+Modelling
+Profiles
+Madeline Jarvis-Cross
+View author profile
+Access this article
+Log in via an institution
+Subscribe and save
+Springer+ Basic
+$34.99 /Month
+Get 10 units per month
+Download Article/Chapter or eBook
+1 Unit = 1 Article or 1 Chapter
+Cancel anytime
+Subscribe now
+Buy Now
+Buy article PDF USD 39.95
+Price includes VAT (Canada)
+Instant access to the full article PDF.
+Institutional subscriptions
+Advertisement
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Track your research
+Discover content
+Journals A-Z
+Books A-Z
+Publish with us
+Journal finder
+Publish your research
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Your privacy choices/Manage cookies
+Your US state privacy rights
+Accessibility statement
+Terms and conditions
+Privacy policy
+Help and support
+Legal notice
+Cancel contracts here
+142.115.87.244
+Not affiliated
+© 2025 Springer Nature

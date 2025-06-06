@@ -1,0 +1,1495 @@
+Atlantic multidecadal variability controls Arctic-ENSO connection | npj Climate and Atmospheric Science
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+npj climate and atmospheric science
+articles
+article
+Atlantic multidecadal variability controls Arctic-ENSO connection
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+10 February 2025
+Atlantic multidecadal variability controls Arctic-ENSO connection
+Shangfeng Chen
+1
+,
+2
+,
+Wen Chen
+3
+,
+4
+,
+Renguang Wu
+5
+,
+Bin Yu
+6
+,
+Hans-F. Graf
+7
+,
+Qingyu Cai
+3
+,
+4
+,
+Jun Ying
+8
+&
+…
+Wanqiu Xing
+9
+Show authors
+npj Climate and Atmospheric Science
+volume
+8
+, Article number:
+44
+(
+2025
+)
+Cite this article
+1909
+Accesses
+Metrics
+details
+Subjects
+Atmospheric dynamics
+Atmospheric science
+Abstract
+The springtime Arctic Oscillation (AO), a dominant pattern of atmospheric variability in the extra-tropical Northern Hemisphere, influences the subsequent El Niño-Southern Oscillation (ENSO) by triggering westerly wind bursts over the equatorial western Pacific. It thereby provides a source of predictability of ENSO. However, the influence of AO on ENSO is not stable in time, the causes of which have not been well addressed. This study shows that the AO-ENSO relationship has exhibited multi-decadal variations that are primarily caused by the Atlantic Multidecadal Variability (AMV). During the negative AMV phases, the strengthening of the Pacific center of the AO induces stronger atmospheric and sea surface temperature anomalies in the subtropical North Pacific. Those anomalies generate pronounced westerly wind anomalies over the equatorial western Pacific via air–sea interaction process, leading to a strengthened impact of the spring AO on ENSO. Observations and North Atlantic Pacemaker experiments confirm the AMV impact on the Pacific center of the AO by changing the strength of the Aleutian Low and the polar vortex. This study highlights the importance of AMV as a key factor controlling the impact of AO on ENSO and tropical climate variability.
+Similar content being viewed by others
+Distinct decadal modulation of Atlantic-Niño influence on ENSO
+Article
+Open access
+29 July 2023
+Interannual variation in the East Asian summer monsoon-tropical Atlantic SST relationship modulated by the Interdecadal Pacific Oscillation
+Article
+Open access
+24 October 2023
+Structural fluctuations of the Arctic Oscillation tied to the Atlantic Multidecadal Oscillation
+Article
+Open access
+27 October 2024
+Introduction
+The El Niño-Southern Oscillation (ENSO) is the most prominent mode of the year-to-year climate variability on Earth, featuring strong sea surface temperature (SST) anomalies in the tropical central-eastern Pacific
+1
+,
+2
+,
+3
+. ENSO remarkably impacts global weather and climate, ecosystems, agriculture, and the water cycle through teleconnection mechanisms
+4
+,
+5
+,
+6
+. ENSO is also one of the most important sources of subseasonal-to-seasonal climate predictability overworld
+7
+. Thus, improving the understanding of the factors driving the ENSO variability is of paramount importance.
+It is widely acknowledged that oceanic dynamics and air–sea interaction in the tropical Pacific play a pivotal role in the formation and development of ENSO
+1
+,
+8
+,
+9
+. However, the diversity and complexity of ENSO events, particularly the recent increased occurrence of central Pacific-type El Niño events and the reduced ENSO prediction skill after the late 1990s, cannot be fully explained by processes solely within the tropical Pacific
+7
+,
+10
+,
+11
+. Recent studies suggested that atmospheric variability over the extra-tropics could influence ENSO evolution
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+. In particular, extratropical forcing may enhance the ENSO predictability
+13
+,
+18
+.
+The Arctic Oscillation (AO) is the predominant pattern of atmospheric interannual variability over the extratropical Northern Hemisphere. It is featured by opposite anomalies of atmospheric pressure between the Arctic and northern mid-latitudes, exhibiting a vertical barotropic structure in the troposphere
+19
+,
+20
+. The AO influences climate across the mid- and high-latitudes, such as the record-breaking cold winter in 2009–10 over Eurasia
+21
+,
+22
+. Research indicates that the impacts of the AO are not limited to mid- and high-latitudes but can extend into the tropics
+23
+,
+24
+,
+25
+,
+26
+. Specifically, the boreal spring AO exerts notable influences on the subsequent ENSO by inducing westerly anomalies over the equatorial western Pacific
+27
+,
+28
+,
+29
+. Observations reveal that many winter ENSO events are preceded by strong spring AO anomalies, including the four strong El Niño events of 1972–73, 1982–83, 1997–98, and 2015–16 (positive AO anomalies), as well as the strong La Niña events of 1988–89, 1999–2000, and 2010–11 (negative AO anomalies) (Fig.
+S1
+). Further, a study has documented the crucial role of the spring AO in triggering the onset of the exceptionally strong 2015–16 El Niño
+29
+.
+Understanding the stability of the AO-ENSO relationship is crucial for ENSO prediction. Interdecadal changes in the impact of spring AO on ENSO have been noted
+30
+, but this finding is based on relatively short data. In addition, the underlying causes of the fluctuating influence of AO on ENSO remain unexplored. Here, we show that the effect of AO on ENSO displays multidecadal fluctuations using multiple observational and reanalysis datasets dating back to 1900. We identify the Atlantic Multidecadal Variability (AMV) as a pivotal factor influencing the AO-ENSO connection by modulating the Pacific center of the AO. AMV is the dominant mode of multidecadal variations of SST in the North Atlantic
+31
+,
+32
+,
+33
+,
+34
+. We further examine the mechanisms behind the impact of AMV on the AO-ENSO relationship through observational analyses, Pacemaker experiments, and AMIP model simulations.
+Results
+Influence of AO on ENSO and its multidecadal variation
+The physical mechanism by which the spring AO influences the subsequent winter ENSO throughout the analysis period is outlined below (Fig.
+S2
+). Positive spring AO-associated anticyclonic anomaly over the mid- and high-latitude North Pacific (i.e., the Pacific center of the AO) induces an anomalous cyclone over the subtropics through the interaction between the low-frequency mean flow and synoptic-scale eddy activity
+28
+,
+35
+,
+36
+. This cyclonic anomaly counters the mean northeasterly winds, resulting in Pacific Meridional Mode-like (PMM) positive sea surface temperature (SST) anomalies in the subtropical North Pacific, which then persist and extend southward to the tropical central Pacific during the following summer through wind-evaporation-SST feedback (Fig.
+S2a, b
+)
+13
+,
+14
+,
+37
+. Then, the tropical central Pacific SST warming triggers deep convection, initiating a positive air–sea feedback loop that strengthens the western Pacific equatorial westerlies and induces eastward-propagating Kelvin waves, ultimately leading to El Niño in the subsequent winter (Fig.
+S2
+).
+We further explore the interdecadal changes in the relationship between the spring AO and the subsequent winter ENSO. The 21-year running correlation of the MA(0) AO index with the D(0)JF(1) Niño3.4 index effectively illustrates this variation (Fig.
+1a
+). Five SLP datasets, including NCEP1, HadSLP, ERA20C, ERA5, JRA55, are utilized to compute the spring AO index. Two SST datasets, including HadISST and ERSSTv5, are employed to calculate the Niño3.4 index. The connection between the spring AO and ENSO shows consistent multidecadal changes based on the above different datasets, with statistically significant correlations from the late 1960s to the late 1990s and before the mid-1920s, corresponding to periods with the negative AMV phase (Fig.
+1a
+and Fig.
+S3
+). In contrast, the relationship between the spring AO and ENSO is weak from the mid-1920s to the late 1960s and after the late 1990s, consistent with the positive AMV phase (Fig.
+1a
+and Fig.
+S3
+). The multidecadal variation in the AO-ENSO relationship is notably out of phase with that of the AMO index, with correlation coefficients of −0.90, −0.93, and 0.89 derived from the three reanalysis datasets (Fig.
+1c–e
+). Furthermore, the correlation coefficients between the MA(0) AO index and the D(0)JF(1) Niño3.4 index reach 0.57, 0.47, and 0.48 during negative AMV phases for various datasets considered, all significant at the 99% confidence level (Fig.
+1f
+). In contrast, the correlations between the spring AO and ENSO are weak during positive AMV phases (Fig.
+1f
+). Negative (positive) AMV phases are defined as those years when the normalized AMV index (see “Materials and Methods” section) exceeds (falls below) zero. The differences in the spring AO-ENSO correlation between negative and positive AMV phases are statistically significant at the 95% confidence level, as determined by Fisher’s r-to-z transformation (Methods).
+Fig. 1: Impact of the AMV on the AO-ENSO connection.
+a
+21-year running correlation of the spring (March–April-mean, MA(0)) AO index with the following winter (December–January–February-mean, D(0)JF(1)) Niño3.4 index. The smoothed spring AMV index (bars) is also shown in (
+a
+). SLP data used to calculate the AO index are obtained from the HadSLP2, ERA20C, NCEP1, ERA5, and JRA55. SST data used to calculate the Niño3.4 SST index are obtained from the HadISST dataset. Horizontal line in (
+a
+) indicates the correlation significant at the 90% confidence level. Scatter diagram of the AMO index against the spring AO-ENSO correlation with a 21-yr moving window obtained from the
+b
+HadSLP2,
+c
+ERA20C,
+d
+NCEP1,
+e
+ERA5, and
+f
+JRA55. Red lines in (
+b
+–
+f
+) indicate the best linear fit and gray lines indicate the 95% confidence range of the linear regression.
+g
+Correlation coefficient between the spring AO index and the following winter Niño3.4 index during positive and negative phases of the AMV.
+Full size image
+Evolution of SST, precipitation, and wind anomalies in association with the spring AO is further investigated during both negative and positive AMV phases (Fig.
+2
+). In negative AMV phases, the positive phase of the spring AO corresponds to a dipolar atmospheric pattern over the North Pacific, featuring an anomalous anticyclone over the mid- and high-latitude North Pacific and an anomalous cyclone over the subtropical North Pacific (Fig.
+2a
+). The subtropical North Pacific anomalous cyclone induces positive SST anomalies, which propagate southward to the tropical Pacific, generating westerly anomalies in the equatorial western-central Pacific in the subsequent summer through a WES feedback mechanism (Fig.
+2a, b
+). These low-level westerly wind anomalies contribute to the development of El Niño in the ensuing winter by triggering eastward-propagating Kelvin waves and positive air–sea interaction (Fig.
+2b–d, i–l
+)
+1
+,
+27
+,
+28
+. The spring AO-generated maximum SST warming reaches 1.6 °C in the tropical central-eastern Pacific in D(0)JF(1) (Fig.
+2d
+). During positive AMV phases, atmospheric anomalies are weak in boreal spring over the North Pacific (Fig.
+2e
+). Consequently, the connection between the spring AO and subsequent ENSO cannot be established (Fig.
+2e–h and m–p
+).
+Fig. 2: Evolution of spring AO-related anomalies during two phases of AMV.
+Anomalies of SST (shadings, °C) and 850-hPa winds (vectors, m s
+−
+1
+) in MAM(0), JJA(0), SON(0), and D(0)JF(1) regressed upon the spring AO index during the negative (
+a
+–
+d
+, first column) and the positive (
+e
+–
+h
+, second column) AMV phases.
+i
+–
+l
+and
+m
+–
+p
+are similar to (
+a
+–
+d
+) and (
+e
+–
+h
+), but for precipitation anomalies. We only show the SST and precipitation anomalies exceed the 95% confidence level. Wind anomalies in both directions less than 0.3 m s
+−
+1
+are not shown.
+Full size image
+Mechanism for the modulation of AMV on AO-ENSO connection
+The above analyses indicate that the AMV plays a crucial role in regulating the AO-ENSO relationship. Next, we examine the mechanism by which the AMV modulates the influence of AO on ENSO. We demonstrate that the AMV regulates the connection between spring AO and ENSO by influencing the North Pacific center of the AO.
+During negative AMV phases, the Pacific center of the AO is strong, featured by notable positive geopotential height and SLP anomalies over the mid- and high-latitude North Pacific (Fig.
+3
+a,
+c
+), which induce pronounced atmospheric anomalies over the subtropical North Pacific through the interaction between the mean flow and the synoptic-scale eddy activity
+28
+,
+38
+. Specifically, anomalous anticyclone over the mid-latitude North Pacific (i.e., the Pacific center of the positive AO) leads to a weakening of westerly winds and synoptic-scale eddy activity over the North Pacific around 40°–50 °N (Fig.
+S4a, b
+)
+28
+,
+35
+,
+36
+. Reduction in synoptic-scale eddy activity over the mid-latitude is accompanied by anticyclonic vorticity forcing to its north and cyclonic vorticity forcing to its south (as depicted by geopotential height tendency anomalies, Fig.
+S4c
+). The cyclonic vorticity forcing over the subtropical Pacific (Fig.
+S4c
+) accounts for the formation of the spring AO-related cyclonic anomaly. The resulting subtropical North Pacific cyclonic anomalies and SST warming impact ENSO development by inducing westerly wind anomalies over the equatorial western Pacific (
+28
+). In sharp contrast, the North Pacific component of the AO weakens remarkably during positive AMV phases (Fig.
+3
+b,
+d
+). Accordingly, the spring AO fails to produce significant atmospheric anomalies over the subtropical North Pacific and thus has a weak influence on ENSO. We have further created scatter plots of the North Pacific component of the spring AO against the summertime westerly wind anomalies over the tropical western Pacific and against the AO-ENSO connection. Results reveal that in decades when the North Pacific portion of the AO is more prominent, surface westerly wind anomalies generated by the spring AO over the equatorial western Pacific in JJA(0) are more pronounced (Fig.
+3f
+). Stronger westerly winds over the western Pacific exert a greater influence on the subsequent ENSO (Fig.
+3g
+). Therefore, the connection between spring AO and ENSO is more robust during periods of negative AMV when the Pacific center of the AO is stronger (Fig.
+3e
+).
+Fig. 3: North Pacific component of the AO.
+Spring SLP (
+a
+,
+b
+, unit: hPa) and 500-hPa geopotential height anomalies (
+c
+,
+d
+, unit: m) regressed on the spring AO index during different AMV phases. Anomalies significant at the 95% confidence level are stippled in (
+a
+–
+d
+). Scatter diagram of the spring AO-ENSO correlation against
+e
+the North Pacific component of the spring AO (unit: m), and against
+g
+the spring AO-related 850-hPa westerly wind anomalies in JJA(0) over the tropical western Pacific (TWP, 5 °S–10 °N, 145°–160 °W) (unit: m s
+−
+1
+) for the 21-year running period.
+f
+Scatter diagram of the North Pacific component of the spring AO (unit: m) against the spring AO-related 850-hPa westerly wind anomalies in JJA(0) over the TWP (unit: m s
+−
+1
+). The North Pacific component of the AO is defined as spring AO-related geopotential height anomalies averaged over 40°–60 °N, 155 °E–160 °W (box region in
+a
+–
+d
+). Red lines in (
+e
+–
+g
+) indicate the best linear fit, and gray lines indicate the 95% confidence range of the linear regression.
+Full size image
+We now investigate the mechanism by which the AMV modulates the Pacific center of the AO. The AO consists of two primary components over the mid-latitudes: one over the North Pacific and the other over the North Atlantic
+19
+,
+20
+. The North Pacific component of the AO is closely associated with the atmospheric anomalies associated with the Aleutian Low and the Pacific North American (PNA) teleconnection, and the North Atlantic component is linked to the North Atlantic Oscillation (NAO)
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+. It has demonstrated that the AO could be considered as a combination of the AL/PNA and NAO
+41
+,
+44
+,
+46
+,
+47
+,
+48
+. The North Atlantic component of the AO is stable. This is consistent with the fact that the relationship between the AO and the NAO stays significant during the analysis period (Fig.
+S5
+). However, the Pacific center of the AO exhibits notable variability
+44
+,
+45
+,
+46
+. When the coupling between the North Pacific and the North Atlantic is weak (strong), the North Pacific component of the AO is weak (strong)
+42
+,
+44
+,
+46
+. The coupling between the North Pacific and the North Atlantic is associated with an eastward propagation of atmospheric Rossby wave from the North Pacific to the North Atlantic, triggered by North Pacific atmospheric anomalies
+40
+,
+41
+,
+42
+,
+44
+,
+49
+. The coupling between the North Pacific and the North Atlantic, to a large extent, can be indicated by the AL-NAO connection. The spring AL-NAO connection exhibits notable multidecadal variations, showing a strong out-of-phase relation with the AMO index (Fig.
+4a
+,
+R
+= –0.81). During the negative AMV phases, there is a significant connection between the spring AL index and the NAO index (
+R
+= 0.51), depicted by a robust eastward propagation of atmospheric Rossby wave from the North Pacific to the Atlantic (Fig.
+4g
+). This significant AL-NAO connection is associated with a strong Pacific center of the AO (Fig.
+4c
+), thus contributing to a pronounced influence of the AO on ENSO (Fig.
+4d
+). In contrast, during positive AMV phases, the connection between the AL and the NAO is weak (
+R
+= 0.13), indicated by the weak eastward-propagating atmospheric Rossby wave flux from the North Pacific to the North Atlantic (Fig.
+4h
+). Consequently, the Pacific center of the AO and the influence of the AO on ENSO are insignificant.
+Fig. 4: Mechanism for multidecadal variation of the North Pacific component of the AO.
+a
+21-year running correlation between the spring Aleutian Low index and the NAO index (blue curve). AMV index is also shown in (
+a
+).
+b
+Scatter diagram of the AMV index against the spring ALI-NAO correlation with a 21-yr moving window.
+c
+Scatter diagram of the North Pacific component of the spring AO against the ALI-NAO correlation with a 21-yr moving window.
+d
+Scatter diagram of the spring ALI-NAO correlation against the spring AO-ENSO correlation with a 21-yr moving window. Red lines in (
+e
+–
+g
+) indicate the best linear fit, and gray lines indicate the 95% confidence range of the linear regression. Anomalies of spring SLP (
+e
+,
+f
+, unit: hPa), 500-hPa geopotential height and wave activity flux (
+g
+,
+h
+, unit: m) regressed on the spring NAO index during positive and negative AMV phases. Anomalies significant at the 95% confidence level are stippled in (
+e
+–
+h
+).
+Full size image
+Then, how does AMV modulate the coupling between the North Pacific and the North Atlantic? Negative AMV phases induce an atmospheric teleconnection propagating from the North Atlantic across Eurasia to the North Pacific, leading to negative SLP and geopotential height anomalies over the North Pacific, and contributing to a deeper AL (Fig.
+5a, b
+). A deeper AL results in stronger atmospheric planetary wave activity flux propagating from the North Pacific to the North Atlantic, inducing enhancement of the North Pacific-North Atlantic coupling and thus a strengthening of the North Pacific center of the AO.
+Fig. 5: Pacemaker Experiments and AMIP model simulations.
+Differences of
+a
+SLP (unit: hPa),
+b
+500-hPa geopotential height (unit: m), and wave activity flux (unit: m
+2
+s
+−
+2
+) between the negative and positive AMV phases in observations. Stippling regions indicate differences that are significantly different from zero at the 95% confidence level.
+c
+The spring AMV index for the ensemble mean of the North Atlantic Pacemaker experiments. The differences of
+d
+SLP,
+e
+500-hPa geopotential height, and wave activity flux between negative and positive AMV phases for the ensemble mean of the North Atlantic Pacemaker experiments.
+f
+The differences of the spring SLP between 1993 and 2004 and 1979 and 88 for the ensemble mean of 30 CMIP6 AMIP experiments. Stippling regions in (
+d
+–
+f
+) indicate the differences are significant at the 95% confidence level.
+g
+Climatology of spring SLP average over 40°–60°N, 150°E–120°W during 1993–2004 and 1979–88 obtained from the 30 CMIP6 AMIP experiments. Multi-model mean (MME) of the 30 models is also shown in (
+g
+). Error bars denote 1.0 standard deviation of the 10,000 inter-realizations of the bootstrap test (see “Materials and Methods” section).
+Full size image
+In summary, a negative AMV phase deepens the AL by triggering an atmospheric Rossby wave train over the mid- and high-latitudes. The deepening of the AL may induce a stronger eastward-propagating Rossby wave from the North Pacific to the North Atlantic
+41
+,
+42
+,
+44
+, leading to a stronger coupling between the North Pacific and the North Atlantic, and thus a stronger North Pacific component of the spring AO. This further explains a stronger influence of the spring AO on the subsequent winter ENSO via the air–sea interaction process
+28
+. It is noted that deeper AL may correspond to strong atmospheric disturbance and stronger divergence anomalies in the upper troposphere, which indicates a stronger atmospheric Rossby wave source. In addition, deeper AL corresponds to a stronger westerly jet over the North Pacific, which is also favorable for the eastward propagation of the Rossby wave.
+It should be noted that the atmospheric anomalies of the wave train over Eurasia related to the AMV are weaker compared to the atmospheric anomalies over the North Pacific and North Atlantic. This may be due to the fact that the interaction between the synoptic-scale eddy and the low-frequency mean flow is important in the formation and maintenance of the atmospheric Rossby wave train. The North Pacific and the North Atlantic are the regions with strong synoptic-scale eddy activity and strong wave-mean flow interaction
+35
+,
+50
+. Strong wave-mean flow interactions over the North Pacific and the North Atlantic may maintain and enhance the atmospheric anomalies induced by the AMV.
+The North Atlantic pacemaker experiments (see “Materials and Methods” section) conducted using the CESM version 6 that participated in the CMIP6 Decadal Climate Prediction Project confirm the impact of AMV on AL. The ensemble mean of the AMV index is similar to the observed, showing positive AMV phases from the early 1920s to the early 1960s, and after the late 1990s and negative AMV phases before the early 1920s and from the early 1960s to the late 1990s (Fig.
+5c
+). Similar to the observed, an atmospheric wave train is found from the North Atlantic across Eurasia to the North Pacific, leading to prominent negative SLP and geopotential height anomalies over the mid- and high-latitude North Pacific, indicative of a stronger AL during negative AMV phases (Fig.
+5d, e
+).
+The 30 AMIP model simulations from CMIP6, in which the AGCM models were forced by the observational SST data from 1979 to 2014, further illustrate the influence of the AMV. SLP is notably lower during 1979–98 (negative AMV phase) than during 1999–2014 (positive AMV phase) based on the ensemble mean of 30 CMIP6 AMIP experiments (Fig.
+5f
+). All the 30 CMIP6 models produce a stronger AL during the negative than positive AMV phases (Fig.
+5g
+). This is consistent with the results of the North Atlantic pacemaker experiments. Therefore, the results derived from both the North Atlantic pacemaker experiments and AMIP experiments confirm a deeper AL during negative AMV phases. In addition, we note that the North Atlantic pacemaker experiments and the 30 CMIP6 AMIP simulations exhibit slight discrepancies, including larger SLP differences over the North Pacific and smaller SLP differences over the North Atlantic. In addition, the mid-latitude wave train induced by the AMV in the observations and the North Atlantic pacemaker experiments cannot be seen in the AMIP simulations. These discrepancies are probably due to the fact that the differences between the two periods (i.e., 1993–2004 and 1979–1988) in the AMIP model simulations represent not only the impacts of AMV but also the impacts of global warming tendency and other components of internal climate variability.
+Studies indicated that the stratospheric polar vortex has an influence on the AL-NAO connection and the North Pacific component of the AO
+44
+,
+48
+,
+51
+,
+52
+. The connections between the AL and the NAO and the North Pacific center of the AO are stronger (weaker) when the stratospheric polar vortex is stronger (weaker)
+44
+,
+51
+,
+52
+. We show that negative AMV phases are favorable to a stronger polar vortex compared to the positive AMV phases (Fig.
+S6a, b
+). When the polar vortex is stronger, more vertically propagating planetary waves that originate from northern Eurasia and the North Pacific are reflected downward to North America and the North Atlantic (Fig.
+S6c, d
+). This may also contribute to a stronger connection between the North Pacific and North Atlantic pressure patterns, and create a stronger North Pacific center of the AO.
+The above analysis suggests that both horizontal Rossby wave propagation and vertical wave propagation may play an important role in modulating the connection between the North Pacific and the North Atlantic. However, it is still unclear which pathway is more important. The relative roles of horizontal Rossby wave propagation and vertical wave propagation in connecting the North Pacific and the North Atlantic and in explaining the multidecadal modulation effect of the AMV on the AO-ENSO connection should be further investigated in the future.
+Discussion
+This study reveals that the AO-ENSO relationship displays remarkable multidecadal variations, which is primarily controlled by the AMV. The influence of the spring AO on the following winter ENSO is prominent (weak) during the negative (positive) AMV phases. During the negative AMV phase, the Pacific center of the AO is stronger, inducing stronger subtropical Pacific atmospheric anomalies via wave-mean flow interaction
+28
+, which then leads to stronger surface westerlies over the tropical western Pacific via WES feedback. These westerly wind bursts exert a more pronounced influence on the following ENSO evolution via triggering eastward-propagating Kelvin waves and positive air–sea interaction. We show that negative AMV induces an atmospheric wave train over mid- and high-latitude and leads to a deeper AL based on the observational analysis and the North Atlantic Pacemaker Experiments. Deeper AL triggers stronger planetary Rossby atmospheric activity flux from the North Pacific to the North Atlantic, leads to a stronger AL-NAO connection, and contributes to a stronger North Pacific center of the AO and thus a stronger influence of the AO on ENSO. In addition, a stronger stratospheric polar vortex during negative AMV phases might also favor a stronger AL-NAO connection, and thus a stronger North Pacific center of the AO. These results have far-reaching implications for the prediction of ENSO and provide a deeper understanding of the impact of extratropical atmospheric variability on the tropical air–sea coupled system.
+Further, wintertime SST warming (cooling) in the North Atlantic related to the positive (negative) AMV may induce a zonal overturning circulation over the mid- and high-latitudes with upward (downward) motion over the North Atlantic and downward (upward) motion over the North Pacific
+53
+. The downward (upward) motion anomalies over the North Pacific might also contribute to a (weaker) stronger AL
+53
+. However, we cannot detect clear zonal overturning circulation anomalies over the mid- and high-latitudes of the North Pacific and North Atlantic in springtime. This mechanism remains to be explored.
+It should be noted that the AMV is an Atlantic phenomenon, but the differences in the spring AO-related atmospheric circulation and SST anomalies are more pronounced in the North Pacific than in the North Atlantic. In particular, the difference in the North Atlantic component of the AO (i.e., the NAO-like atmospheric anomalies) is quite marginal between the negative and positive AMV phases. Studies have shown that the NAO is strongly associated with SST anomalies in the mid-latitude North Atlantic
+54
+,
+55
+. This suggests that AMV-associated SST anomalies in the subtropical North Atlantic may play a more important role in driving AO-related North Pacific atmospheric changes in spring than AMV-related SST anomalies in the mid-latitude North Atlantic. The relative roles of the subtropical and mid-latitude North Atlantic SST anomalies related to the AMV in modifying the spring AO-related atmospheric anomalies over the North Pacific and in modulating the spring AO-ENSO connection need to be further investigated.
+This study shows that the connection between the AL and the NAO shows significant interdecadal variations. One question is whether the NAO is significantly stronger when it occurs in conjunction with the AL. We have examined the SLP anomalies regressed on the spring NAO index in years when the spring NAO and AL indices have the opposite and same phases (Fig.
+S7
+). It turns out that the magnitude of the spring NAO-related SLP meridional dipole anomalies over the North Atlantic is comparable when the spring NAO and AL have the opposite and same phases (Fig.
+S7
+). This implies that the AL may not have a significant modulating effect on the NAO amplitude. Studies have shown that the air–sea interaction and the wave-mean-flow interaction over the North Atlantic are crucial for the NAO variability
+55
+,
+56
+,
+57
+.
+We have examined the NAO-related and AMV-related SST anomalies in the North Atlantic (Fig.
+S8
+). The NAO-related SST anomalies show a meridional tripolar pattern in the North Atlantic, with significant SST warming in the tropical North Atlantic and mid-latitudes around 40°–60°N, and SST cooling in the subtropical northwestern Atlantic near 30°N (Fig.
+S8a
+). The AMV-related SST anomalies also feature a tripolar anomaly pattern with same-sign anomalies (Fig.
+S8b
+). In addition, the centers of action in Fig.
+S8a
+are quite similar to those in Fig.
+S8b
+. Given that the AMV primarily represents decadal-scale variability and the NAO exhibits broad peaks in the spectrum covering seasonal to decadal timescales, this implies that the decadal variability of the NAO can partly overlap with that of the AMV. Therefore, the AMV-like SST anomaly and the NAO might be considered as two physical variables of a specific atmosphere-ocean phenomenon when focusing on the decadal timescale.
+In addition to the mechanism described above, the AMO may also influence the North Pacific component of the AO by modulating the storm track activity and the westerly jet over the mid-latitude North Pacific. Changes in storm track activity are closely related to changes in the westerly jet over the North Pacific
+35
+,
+36
+. An increase in the storm track is accompanied by an increase in the westerly jet and vice versa
+35
+,
+36
+. Previous studies attributed the interdecadal change in North Pacific atmospheric anomalies associated with the spring AO around the early 1970s to the change in the North Pacific storm track activity
+58
+. It is shown that the increased storm track activity after the early 1970s led to an increase in the strength of the synoptic-scale eddy feedback to the low-frequency mean flow, resulting in more pronounced atmospheric anomalies over the North Pacific
+58
+. This suggests that the AMO may also modulate the springtime atmospheric anomalies by altering the North Pacific storm track. Figure
+S9a
+,
+c
+shows differences in the North Pacific 200-hPa zonal wind and storm track activity between negative and positive AMO phases. The westerly jet and storm track over the North Pacific are stronger during negative than positive AMO phases (Fig.
+S9a
+,
+b
+), in agreement with Zhang and Delworth
+33
+. The enhanced storm track and westerly winds over the North Pacific may lead to stronger AO-related atmospheric anomalies in the North Pacific, contributing to a stronger influence of the AO on the subsequent winter ENSO during the negative AMO phase.
+The spatial pattern of SLP anomalies over the North Pacific associated with the interannual variation of the spring AO bears some resemblances to the spatial pattern of SLP anomalies associated with the interannual variation of the spring AL. Here, the AL index is defined as the regionally averaged SLP anomalies over 40°–60°N and 155°E–160°W. Thus, studies have shown that the North Pacific center of the AO (i.e., the atmospheric anomalies over the North Pacific associated with interannual variation of the AO) has a close relationship with the atmospheric anomalies associated with interannual variation of the AL
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+. However, the correlation coefficient between the spring AO index and the spring AL index during 1948–2022 is 0.21, which is only significant at the 90% confidence level. This suggests that the North Pacific center of the AO is not totally the same as the atmospheric anomalies associated with interannual variation of the AL.
+The correlation coefficient between the interannual variation of the AO and the interannual variation of the AL is not high because the North Pacific center of the AO is not stable (Fig.
+3
+a,
+b
+). That is to say, significant SLP anomalies cannot always be observed over the North Pacific related to the interannual variation of the spring AO. However, significant SLP anomalies can always be observed over the North Pacific in association with the interannual variation of the AL. In particular, for the decades during the negative AMV phase, significant SLP anomalies can be observed over the North Pacific in association with the spring AO (Fig.
+3a
+). During these decades, the North Pacific center of the AO is closely related to the interannual variation of the AL. In contrast, the North Pacific center of the AO is weak for the decades during the positive AMV phase (Fig.
+3b
+). During these decades, the North Pacific center of the AO has a weak relationship with the interannual variation of the AL. Therefore, the North Pacific center of the AO has a relationship with the atmospheric anomalies associated with interannual variation of the AL. However, it cannot indicate that the North Pacific center of the AO is identical to the atmospheric anomalies associated with interannual variation of the AL.
+Since the interannual variation of the spring AO index is related to the interannual variation of the spring AL index, one may wonder whether the AMV also has a pronounced modulating effect on the connection between the spring AL and the following ENSO. To address this issue, we have calculated the 21-year running correlation of the spring AL index with the subsequent winter Niño3.4 index. It shows that the spring AL has a significant relationship with the following winter ENSO after the late 1990s (Fig.
+S10
+). However, the interdecadal change in the relationship between the interannual variation of the spring AL and the subsequent ENSO is not similar to the phase shift of the AMV (Fig.
+S10
+). Therefore, the AMV has a weak modulation of the relationship between the interannual variation of the spring AL and the subsequent ENSO.
+In addition to ENSO, AO could also exert notable impacts on other tropical climate variability, for example, the Indian Ocean dipole (IOD) that can exert a notable impact on global climate
+26
+,
+59
+, and the tropical cyclone activity over the tropical North Pacific
+24
+,
+60
+. Evolutions of wind and SST anomalies regressed upon the spring AO index over the tropical Indian Ocean during different phases of the AMV show that the impact of the AO on the IOD is weak (strong) during positive (negative) AMV phases (Fig.
+S11
+). Furthermore, during negative AMV phases, large-scale positive GPI anomalies (indicating an increase in TC genesis) in JJAS(0) associated with preceding spring AO are seen over the tropical North Pacific around 150°E–90°W and 0°–15°N (Fig.
+S12a
+). In addition, a pronounced decrease in GPI is observed over the western part of the tropical western North Pacific and around 20°–30°N, 120°E–150°W (Fig.
+S12a
+). In sharp contrast, GPI anomalies are weak over the tropical Pacific during the positive AMV phase. These results suggest that AMV is an important controller for the impact of the AO on the tropical climate system.
+The AMV may shift from a positive to a negative phase due to internal climate variability in the next twenty years
+61
+. This suggests that the spring AO may provide an additional source of predictability for the tropical climate modes through the stronger impact on the ENSO and the tropical climate variability in the near future.
+Materials and methods
+Data and methods
+Monthly and daily mean SLP, geopotential height, winds, and precipitation rate from the National Centers for Environmental Prediction–National Center for Atmospheric Research (NCEP-NCAR) reanalysis
+62
+. We also use Monthly SLP data from the ECMWF twentieth-century reanalysis (ERA20C
+63
+), the Hadley Centre Sea Level Pressure Dataset (HadISLP
+64
+), European Centre for Medium-Range Weather Forecasts fifth generation atmospheric reanalysis (ERA5
+65
+, Hersbach et al.
+65
+), and Japanese 55-Year Reanalysis data (JRA55
+66
+, Ebita et al.
+66
+) to confirm the robustness of results. Studies have indicated that SLP data are less reliable prior to 1900
+67
+,
+68
+,
+69
+. Therefore, we only use the data after 1900.
+Two SST datasets are used, including the Extended Reconstructed Sea Surface Temperature dataset version 5 provided by the National Oceanic and Atmospheric Administration (ERSSTv5
+70
+) and the Hadley Centre Sea Ice and Sea Surface Temperature dataset (HadISST
+71
+). ERSSTv5 SST data are available from 1854 to the present and have a resolution of 2° × 2°. HadISST SST data spans from 1870 to the present have a resolution of 1° × 1°. ENSO variability is represented by the Niño3.4 SST index, which is defined as the regional mean SST anomalies over 5°S–5°N and 120°–170°W. The AMV index is defined as area-mean SST anomalies in the region of 0°–70°N and 0°–60°W
+32
+. The long-term trend of SST anomalies was deleted before defining the AMV index.
+Synoptic-scale eddy activity (also called storm track) is defined as the root mean square of the 2–7-day band-pass filtered geopotential height anomalies at a specific pressure level
+38
+. Spring AO refers to the March–April-mean AO index
+28
+. This is because the March–April-mean AO index has the largest correlation with the following Niño3.4 index
+28
+. Spring AO index is calculated as the principal component time series of the EOF1 of SLP anomalies in MA(0) over 20°–90°N and 0°–360°E.
+Geopotential height tendency
+The geopotential height tendency is used to quantitatively examine the feedback of synoptic-scale eddy activity on low-frequency mean flows. The geopotential height tendency resulting from the eddy vorticity flux forcing can be written as follows
+35
+,
+36
+:
+$$F=\frac{f}{g}{\nabla }^{-2}[-\nabla \cdot \overline{(\overrightarrow{{{\bf{V}}}^{\text{'}}}{\zeta }^{\text{'}})}]$$
+(1)
+where
+\(g\)
+and
+\(f\)
+represent the acceleration of gravity and the Coriolis parameter, respectively.
+\(\overrightarrow{{{\bf{V}}}^{\text{'}}}\)
+and
+\({\zeta }^{\text{'}}\)
+denote the synoptic-scale winds and vorticity, respectively. The overbar indicates the mean in boreal spring in this study. Note that the synoptic-scale vorticity is calculated using synoptic-scale winds.
+Fisher’s r-z transformation
+Fisher’s r-z transformation is employed to examine the significance of the difference between two correlations. Firstly, the two correlations (i.e.,
+r
+1
+and r
+2
+) are subjected to the Fisher transform as follows
+72
+:
+$${{\rm{Z}}}_{1}=0.5\times \,\mathrm{ln}\left[\frac{1+{r}_{1}}{1-{r}_{1}}\right]$$
+(2)
+$${\rm{Z}}_{2}=0.5\times \,\mathrm{ln}\left[\frac{1+{r}_{2}}{1-{r}_{2}}\right]$$
+(3)
+Secondly, the standard parametric test is employed to estimate the null hypothesis of the equality of the
+Z
+1
+and
+Z
+2
+, which is expressed as:
+$${\rm{u}}=\frac{{Z}_{1}-{Z}_{2}}{\sqrt{\left[\frac{1}{{N}_{1}-3}+\frac{1}{N2-3}\right]}}$$
+(4)
+Here,
+N
+1
+and
+N
+2
+denote the sample sizes of two-time series, respectively. The test statistic u satisfies the normal distribution. The significance level is then estimated based on a two-tailed Student’s
+t-
+test.
+Genesis potential index
+The genesis potential index (GPI) is employed to investigate the influence of large-scale conditions related to the AO on TC formation, which is expressed as follows
+73
+:
+$${\rm{GPI}}={|{10}^{5}\eta |}^{3/2}\times {(1+0.1{V}_{{\rm{shear}}})}^{-2}\times {\left(\frac{H}{50}\right)}^{3}\times {\left(\frac{{V}_{pot}}{70}\right)}^{3}\times \left(1-\frac{\omega }{0.1}\right)$$
+(5)
+where
+η
+,
+H
+,
+V
+pot
+, and
+V
+shear
+represent absolute vorticity at 850-hPa, the 700-hPa relative humidity, the TC maximum potential intensity, and the vertical wind difference between 200-hPa and 850-hPa, respectively.
+Three-dimensional wave activity flux
+We employ the three-dimensional wave activity flux to examine the propagation of planetary waves, which is written as follows
+74
+:
+$${{\rm{F}}}_{s}=p\,\cos \varphi \left(\begin{array}{c}\frac{1}{2{a}^{2}{\cos }^{2}\varphi }\left[{\left(\frac{\partial {\psi }^{\text{'}}}{\partial \lambda }\right)}^{2}-{\psi }^{\text{'}}\frac{{\partial }^{2}{\psi }^{\text{'}}}{\partial {\lambda }^{2}}\right]\\ \frac{1}{2{a}^{2}\,\cos \varphi }\left[\frac{\partial {\psi }^{\text{'}}}{\partial \lambda }\frac{\partial {\psi }^{\text{'}}}{\partial \varphi }\right]-{\psi }^{\text{'}}\frac{{\partial }^{2}{\psi }^{\text{'}}}{\partial \lambda \partial \varphi }\\ \frac{2{\Omega }^{2}{\sin }^{2}\varphi }{{{\rm{N}}}^{2}a\,\cos \varphi }\left[\frac{\partial {\psi }^{\text{'}}}{\partial \lambda }\frac{\partial {\psi }^{\text{'}}}{\partial z}-{\psi }^{\text{'}}\frac{{\partial }^{2}{\psi }^{\text{'}}}{\partial \lambda \partial z}\right]\end{array}\right)$$
+(6)
+where
+Ω, a, φ, λ, H, N, ψ’ indicate
+the Earth’s rotation rate, the Earth’s radius, latitude, longitude, constant scale height, buoyancy frequency, and stream function, respectively.
+z
+= −
+H lnp
+and
+p
+= pressure/1000 hPa.
+North Atlantic Pacemaker experiments
+We use the North Atlantic Pacemaker experiments conducted with the community earth system model version 1 (CESM1) in this study to investigate the influence of AMV on the mean state of atmospheric circulation over the North Pacific. In these experiments, the model is run by time-varying radiative forcing according to the CMIP6 historical simulation protocol, but with time-evolving SST anomalies in the North Atlantic (5°N–55°N, with a linearly tapering buffer zone extending to the equator and 60°N) that nudged to the Extended Reconstruction of Sea Surface Temperature version 3b (ERSSTv3b) observations during 1920–2013. That is to say, the evolution of the ERSSTv3b observed SST anomalies in the North Atlantic are maintained in each simulation. In other regions, the model is freely coupled. It should be mentioned that only the SST anomalies, not the total SST, are nudged to ERSSTv3b observations. This can maintain the model’s mean state, avoiding any model biases. Detailed descriptions of the Pacemaker experiments are referred to Kosaka and Xie
+75
+. The North Atlantic Pacemaker experiments of the CESM include ten realizations available from 1920 to 2013. Each realization was forced by slightly different initial conditions, and we employed the ensemble mean of the ten integrations to investigate the influence of AMV.
+CMIP6 AMIP model simulations
+We also use simulations from 30 AMIP models (Table
+S1
+) participating in CMIP6 to confirm the impact of AMV on the mean state of atmospheric circulation over the North Pacific
+76
+. In the CMIP6 AMIP simulations, observational SST over 1979–2014 was prescribed to force the Atmospheric General Circulation Model. The ensemble mean of AMIP simulations from the 30 models is employed to evaluate the impact of AMV. Detailed information of the 30 AMIP models is provided in Supporting Table
+1
+.
+Bootstrap test
+We use a bootstrap test
+77
+to assess the statistical significance of the difference in mean SLP over the North Pacific between the negative and positive phases of the AMV derived from the 30 AMIP models. Firstly, we calculate the mean SLP values for the negative and positive AMV phases, respectively, across the 30 AMIP models. Subsequently, we perform random resampling of the mean SLP values for both the negative and positive AMV phases to generate 10,000 samples. During this resampling process, it is possible for the mean SLP value to be selected multiple times within any given model. The standard deviation is then computed for each AMV phase based on the 10,000 generated samples. If the difference in the mean SLP value between the negative and positive AMV phases exceeds the sum of the standard deviations of the two sets of 10,000 samples, the difference is considered significant at the 95% confidence level.
+Data availability
+Data in this study could be derived from the websites below: The NCEP-NCAR reanalysis data are obtained from
+https://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.derived.html
+; The ERSSTv5 SST data are obtained from
+https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html
+; The ERA20C reanalysis data are obtained from
+https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-20th-century
+. The HadISLP SLP data are obtained from
+https://www.metoffice.gov.uk/hadobs/hadslp2/
+. The CMIP6 AMIP simulation outputs are obtained from
+https://esgf-node.llnl.gov/projects/cmip6/
+. The North Atlantic pacemaker experiments are obtained from
+https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.ATL-PACEMAKER.html
+.
+Code availability
+All codes are available from the corresponding author on request.
+References
+Bjerknes, J. Atmospheric teleconnections from the Equatorial Pacific.
+Mon. Weather Rev.
+97
+, 163–172 (1969).
+Article
+Google Scholar
+Neelin, J. D. et al. ENSO theory.
+J. Geophys. Res. Oceans
+103
+, 14261–14290 (1998).
+Article
+Google Scholar
+McPhaden, M. J. Genesis and rvolution of the 1997-98 El Niño.
+Science
+283
+, 950–954 (1999).
+Article
+CAS
+Google Scholar
+Wang, B., Wu, R. & Fu, X. Pacific–East Asian Teleconnection: how does ENSO affect East Asian climate?
+J. Clim.
+13
+, 1517–1536 (2000).
+Article
+Google Scholar
+Alexander, M. A. et al. The atmospheric bridge: the influence of ENSO teleconnections on air-sea interaction over the global oceans.
+J. Clim.
+15
+, 2205–2231 (2002).
+Article
+Google Scholar
+McPhaden, M. J., Zebiak, S. E. & Glantz, M. H. ENSO as an integrating concept in Earth science.
+Science
+314
+, 1740–1745 (2006).
+Article
+CAS
+Google Scholar
+Barnston, A. G., Tippett, M. K., L. L’Heureux, M., Li, S. & DeWitt, D. G. Skill of real-time seasonal ENSO model predictions during 2002–11: is our capability increasing?
+Bull. Am. Meteorol. Soc.
+93
+, 631–651 (2012).
+Article
+Google Scholar
+Schopf, P. S. & Suarez, M. J. Vacillations in a coupled ocean–atmosphere model.
+J. Atmos. Sci.
+45
+, 549–566 (1988).
+Article
+Google Scholar
+Jin, F.-F. An Equatorial Ocean Recharge Paradigm for ENSO. Part I: conceptual model.
+J. Atmos. Sci.
+54
+, 811–829 (1997).
+Article
+Google Scholar
+Yu, J. Y., Lu, M. M. & Kim, S. T. A change in the relationship between tropical central Pacific SST variability and the extratropical atmosphere around 1990.
+Environ. Res. Lett.
+7
+, 034025 (2012).
+Article
+Google Scholar
+Chen, S. F. et al. Enhanced impact of the Aleutian low on increasing the Central Pacific ENSO in recent decades.
+Npj Clim. Atmos. Sci.
+6
+, 29 (2023).
+Article
+Google Scholar
+Chen, S. F. et al. Interdecadal variation in the impact of Arctic Sea ice on the El Niño-Southern oscillation: the role of atmospheric mean flow.
+J. Clim.
+37
+, 5483–5506 (2024).
+Article
+Google Scholar
+Amaya, D. J. The Pacific Meridional Mode and ENSO: a review.
+Curr. Clim. Chang. Rep.
+5
+, 296–307 (2019).
+Article
+Google Scholar
+Zheng, Y. Q., Chen, S. F., Chen, W. & Yu, B. A continuing increase of the impact of the Spring North Pacific Meridional mode on the following Winter El Niño and southern oscillation.
+J. Clim.
+36
+, 585–602 (2023).
+Article
+Google Scholar
+Chen, S. F. et al. Strengthened impact of boreal winter North Pacific Oscillation on ENSO development in warming climate.
+Npj Clim. Atmos. Sci.
+7
+, 69 (2024).
+Article
+Google Scholar
+Chiang, J. C. H. & Vimont, D. J. Analogous Pacific and Atlantic meridional modes of tropical atmosphere-ocean variability.
+J. Clim.
+17
+, 4143–4158 (2004).
+Article
+Google Scholar
+Ding, R. Q. et al. Multi-year El Niño events tied to the North Pacific Oscillation.
+Nat. Commun.
+13
+, 3871 (2022).
+Article
+CAS
+Google Scholar
+Lu, F. Y., Liu, Z. Y., Liu, Y., Zhang, S. Q. & Jacob, R. Understanding the control of extratropical atmospheric variability on ENSO using a coupled data assimilation approach.
+Clim. Dyn.
+48
+, 3139–3160 (2017).
+Article
+Google Scholar
+Thompson, D. W. J. & Wallace, J. M. The Arctic oscillation signature in the wintertime geopotential height and temperature fields.
+Geophys. Res. Lett.
+25
+, 1297–1300 (1998).
+Article
+Google Scholar
+Thompson, D. W. J., Wallace, J. M. & Hegerl, G. C. Annular modes in the extratropical circulation. Part II: Trends.
+J. Clim.
+13
+, 1018–1036 (2000).
+Article
+Google Scholar
+Barriopedro, D., Fischer, E. M., Luterbacher, J., Trigo, R. & García-Herrera, R. The Hot Summer of 2010: redrawing the temperature record map of Europe.
+Science
+332
+, 220–224 (2011).
+Article
+CAS
+Google Scholar
+Otomi, Y., Tachibana, Y. & Nakamura, T. A possible cause of the AO polarity reversal from winter to summer in 2010 and its relation to hemispheric extreme summer weather.
+Clim. Dyn.
+40
+, 1939–1947 (2013).
+Article
+Google Scholar
+L’Heureux, M. L. & Higgins, R. W. Boreal winter links between the Madden-Julian oscillation and the Arctic oscillation.
+J. Clim.
+21
+, 3040–3050 (2008).
+Article
+Google Scholar
+Choi, K. S., Wu, C. C. & Byun, H. R. Possible connection between summer tropical cyclone frequency and spring Arctic Oscillation over East Asia.
+Clim. Dyn.
+38
+, 2613–2629 (2012).
+Article
+Google Scholar
+Gong, D. Y. et al. Boreal winter Arctic Oscillation as an indicator of summer SST anomalies over the western tropical Indian Ocean.
+Clim. Dyn.
+48
+, 2471–2488 (2017).
+Article
+Google Scholar
+Cheng, X., Chen, S. F., Chen, W. & Hu, P. Observed impact of the Arctic Oscillation in boreal spring on the Indian Ocean Dipole in the following autumn and possible physical processes.
+Clim. Dyn.
+61
+, 883–902 (2023).
+Article
+Google Scholar
+Nakamura, T., Tachibana, Y. & Shimoda, H. Importance of cold and dry surges in substantiating the NAM and ENSO relationship.
+Geophys. Res. Lett.
+34
+, L22703 (2007).
+Article
+Google Scholar
+Chen, S. F., Yu, B. & Chen, W. An analysis on the physical process of the influence of AO on ENSO.
+Clim. Dyn.
+42
+, 973–989 (2014).
+Article
+Google Scholar
+Chen, S. F., Wu, R. G., Chen, W., Yu, B. & Cao, X. Genesis of westerly wind bursts over the equatorial western Pacific during the onset of the strong 2015-2016 El Niño.
+Atmos. Sci. Lett.
+17
+, 384–391 (2016).
+Article
+Google Scholar
+Chen, S. F., Wu, R. G., Chen, W. & Yu, B. Recent weakening of the linkage between the spring Arctic Oscillation and the following winter El Niño-Southern Oscillation.
+Clim. Dyn.
+54
+, 53–67 (2020).
+Article
+Google Scholar
+Kerr, R. A. A North Atlantic climate pacemaker for the centuries.
+Science
+288
+, 1984–1986 (2000).
+Article
+CAS
+Google Scholar
+Enfield, D. B., Mestas-Nuñez, A. M. & Trimble, P. J. The Atlantic multidecadal oscillation and its relation to rainfall and river flows in the continental US.
+Geophys. Res. Lett.
+28
+, 2077–2080 (2001).
+Article
+Google Scholar
+Zhang, R. & Delworth, T. L. Impact of the Atlantic Multidecadal Oscillation on North Pacific climate variability.
+Geophys. Res. Lett.
+34
+, L23708 (2007).
+Article
+Google Scholar
+Cai, Q. Y. et al. Recent pronounced warming on the Mongolian Plateau boosted by internal climate variability.
+Nat. Geosci.
+17
+, 181–188 (2024).
+Article
+CAS
+Google Scholar
+Lau, N.-C. Variability of the observed midlatitude storm tracks in relation to low-frequency changes in the circulation pattern.
+J. Atmos. Sci.
+45
+, 2718–2743 (1988).
+Article
+Google Scholar
+Cai, M., Yang, S., Van den Dool, H. M. & Kousky, V. E. Dynamical implications of the orientation of atmospheric eddies: a local energetics perspective.
+Tellus A
+59
+, 127–140 (2007).
+Article
+Google Scholar
+Xie, S. P. & Philander, S. G. H. A coupled ocean-atmosphere model of relevance to the Itcz in the Eastern Pacific.
+Tellus A
+46
+, 340–350 (1994).
+Article
+Google Scholar
+Chen, S. F., Wu, R. G., Chen, W. & Yu, B. Influence of the November Arctic Oscillation on the subsequent tropical Pacific sea surface temperature.
+Int J. Climatol.
+35
+, 4307–4317 (2015).
+Article
+Google Scholar
+Hurrell, J. W. Decadal trends in the North Atlantic Oscillation: regional temperatures and precipitation.
+Science
+269
+, 676–679 (1995).
+Article
+CAS
+Google Scholar
+Minobe, S. & Mantua, N. Interdecadal modulation of interannual atmospheric and oceanic variability over the North Pacific.
+Prog. Oceanogr.
+43
+, 163–192 (1999).
+Article
+Google Scholar
+Honda, M. & Nakamura, H. Interannual seesaw between the Aleutian and Icelandic lows. Part II: its significance in the interannual variability over the wintertime Northern Hemisphere.
+J. Clim.
+14
+, 4512–4529 (2001).
+Article
+Google Scholar
+Honda, M., Nakamura, H., Ukita, J., Kousaka, I. & Takeuchi, K. Interannual seesaw between the Aleutian and Icelandic lows. Part I: seasonal dependence and life cycle.
+J. Clim.
+14
+, 1029–1042 (2001).
+Article
+Google Scholar
+Wallace, J. M. & Thompson, D. W. J. The Pacific Center of Action of the Northern Hemisphere Annular Mode: real or artifact?
+J. Clim.
+15
+, 1987–1991 (2002).
+Article
+Google Scholar
+Sun, J. & Tan, B. K. Mechanism of the wintertime Aleutian Low-Icelandic low seesaw.
+Geophys. Res. Lett.
+40
+, 4103–4108 (2013).
+Article
+Google Scholar
+Shi, N. & Nakamura, H. Multi-decadal modulations in the Aleutian-Icelandic Low seesaw and the axial symmetry of the Arctic Oscillation signature, as revealed in the 20th century reanalysis.
+Tellus A
+66
+, 22660 (2014).
+Article
+Google Scholar
+Cheng, Q. & Tan, B. K. On the variation of the Pacific center: a revisit to the physical nature of Arctic Oscillation.
+Clim. Dyn.
+53
+, 1245–1245 (2019).
+Article
+Google Scholar
+Dai, P. X. & Tan, B. K. The nature of the Arctic Oscillation and diversity of the extreme surface weather anomalies it generates.
+J. Clim.
+30
+, 5563–5584 (2017).
+Article
+Google Scholar
+Cai, Q. Y., Chen, W., Chen, S. F., Ma, T. J. & Garfinkel, C. I. Influence of the quasi-biennial oscillation on the spatial structure of the Wintertime Arctic Oscillation.
+J. Geophys. Res. Atmos.
+127
+, e2021JD035564 (2022).
+Article
+Google Scholar
+Zhao, H. X. & Moore, G. W. K. Temporal variability in the expression of the Arctic Oscillation in the North Pacific.
+J. Clim.
+22
+, 3110–3126 (2009).
+Article
+Google Scholar
+Lee, S. S. et al. Interdecadal changes in the storm track activity over the North Pacific and North Atlantic.
+Clim. Dyn.
+39
+, 313–327 (2012).
+Article
+Google Scholar
+Perlwitz, J. & Graf, H. F. Troposphere-stratosphere dynamic coupling under strong and weak polar vortex conditions.
+Geophys. Res. Lett.
+28
+, 271–274 (2001).
+Article
+Google Scholar
+Castanheira, J. M. & Graf, H. F. North Pacific-North Atlantic relationships under stratospheric control?
+J. Geophys. Res. Atmos.
+108
+, 4036 (2003).
+Article
+Google Scholar
+Sun, C. et al. Western tropical Pacific multidecadal variability forced by the Atlantic multidecadal oscillation.
+Nat. Commun.
+8
+, 1–10 (2017).
+Article
+Google Scholar
+Czaja, A. & Frankignoul, C. Observed impact of Atlantic SST anomalies on the North Atlantic Oscillation.
+J. Clim.
+15
+, 606–623 (2002).
+Article
+Google Scholar
+Cassou, C., Deser, C., Terray, L., Hurrell, J. W. & Drévillon, M. Summer sea surface temperature conditions in the North Atlantic and their impact upon the atmospheric circulation in early winter.
+J. Clim.
+17
+, 3349–3363 (2004).
+Article
+Google Scholar
+Pan, L.-L. Observed positive feedback between the NAO and the North Atlantic SSTA tripole.
+Geophys. Res. Lett.
+32
+, L06707 (2005).
+Article
+Google Scholar
+Peng, S., Robinson, W. A. & Li, S. Mechanisms for the NAO responses to the North Atlantic SST tripole.
+J. Clim.
+16
+, 1987–2004 (2003).
+Article
+Google Scholar
+Chen, S.-F., Chen, W. & Wu, R. An interdecadal change in the relationship between boreal spring Arctic Oscillation and the East Asian Summer Monsoon around the early 1970s.
+J. Clim.
+28
+, 1527–1542 (2015).
+Article
+Google Scholar
+Saji, N. H., Goswami, B. N., Vinayachandran, P. N. & Yamagata, T. A dipole mode in the tropical Indian Ocean.
+Nature
+401
+, 360–363 (1999).
+Article
+CAS
+Google Scholar
+Cao, X., Chen, S. F., Chen, G. H., Chen, W. & Wu, R. G. On the weakened relationship between Spring Arctic Oscillation and following summer tropical cyclone frequency over the Western North Pacific: a comparison between 1968-1986 and 1989-2007.
+Adv. Atmos. Sci.
+32
+, 1319–1328 (2015).
+Article
+Google Scholar
+Zhang, K. W., Zuo, Z. Y., Suarez-Gutierrez, L. & Bu, L. L. The significant influence of the Atlantic multidecadal variability to the abrupt warming in Northeast Asia in the 1990s.
+npj Clim. Atmos. Sci.
+7
+, 28 (2024).
+Article
+CAS
+Google Scholar
+Kalnay, E. et al. The NCEP/NCAR 40-year reanalysis project.
+B Am. Meteorol. Soc.
+77
+, 437–472 (1996).
+Article
+Google Scholar
+Poli, P. et al. ERA-20C: an atmospheric reanalysis of the twentieth century.
+J. Clim.
+29
+, 4083–4097 (2016).
+Article
+Google Scholar
+Allan, R. & Ansell, T. A new globally complete monthly historical gridded mean sea level pressure dataset (HadSLP2): 1850-2004.
+J. Clim.
+19
+, 5816–5842 (2006).
+Article
+Google Scholar
+Hersbach, H. and Coauthors, The ERA5 global reanalysis.
+Q. J. R. Meteorol. Soc.
+146
+, 1999–2049 (2020).
+Article
+Google Scholar
+Ebita, A. et al. The Japanese 55-year reanalysis “JRA-55”: an interim report. Scientific online letters on the atmosphere.
+Sola
+7
+, 149–152 (2011).
+Article
+Google Scholar
+Deser, C., Alexander, M. A., Xie, S. P. & Phillips, A. S. Sea surface temperature variability: patterns and mechanisms.
+Annu. Rev. Mar. Sci.
+2
+, 115–143 (2010).
+Article
+Google Scholar
+Smoliak, B. V. & Wallace, J. M. On the leading patterns of Northern Hemisphere sea level pressure variability.
+J. Atmos. Sci.
+72
+, 3469–3486 (2015).
+Article
+Google Scholar
+Wegmann, M. et al. Eurasian snow depth in long-term climate reanalyses.
+Cryosphere
+11
+, 923–935 (2017).
+Article
+Google Scholar
+Huang, B. Y. et al. Extended Reconstructed Sea Surface Temperature, Version 5 (ERSSTv5): upgrades, validations, and intercomparisons.
+J. Clim.
+30
+, 8179–8205 (2017).
+Article
+Google Scholar
+Rayner, N. A. et al. Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century.
+J. Geophys. Res.
+108
+, 4407 (2003).
+Google Scholar
+Fisher, R. A. 014: On the “probable error” of a coefficient of correlation deduced from a small sample.
+Metron
+1
+, 3–32 (1921).
+Google Scholar
+Camargo, S. J., Emanue, K. A. & Sobel, A. H. Use of a genesis potential index to diagnose ENSO effects on tropical cyclone genesis.
+J. Clim.
+20
+, 4819–4834 (2007).
+Article
+Google Scholar
+Plumb, R. A. On the three-dimensional propagation of stationary waves.
+J. Atmos. Sci.
+42
+, 217–229 (1985).
+Article
+Google Scholar
+Kosaka, Y. & Xie, S. P. Recent global-warming hiatus tied to equatorial Pacific surface cooling.
+Nature
+501
+, 403–407 (2013).
+Article
+CAS
+Google Scholar
+Eyring, V. et al. Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization.
+Geosci. Model Dev.
+9
+, 1937–1958 (2016).
+Article
+Google Scholar
+Cai, W. et al. Increased variability of eastern Pacific El Niño under greenhouse warming.
+Nature
+564
+, 201–206 (2018).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We thank anonymous reviewers for their constructive suggestions, which helped to improve the paper. This work is supported by the National Natural Science Foundation of China (Grants 42175039, 42475042, and 42230605), the Natural Science Foundation of Yunnan Province (202302AN360006), the Youth Program of the Institute of Atmospheric Physics, Chinese Academy of Sciences during the 14th Five-Year Plan Period, the open fund of State Key Laboratory of Satellite Ocean Environment Dynamics, Second Institute of Oceanography, MNR (No. QNHX2328), and the Key Laboratory of Polar Atmosphere-ocean-ice System for Weather and Climate, Ministry of Education.
+Author information
+Authors and Affiliations
+National Key Laboratory of Earth System Numerical Modeling and Application, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China
+Shangfeng Chen
+Department of Atmospheric Sciences, Yunnan University, Kunming, China
+Shangfeng Chen
+Center for Monsoon System Research, Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, China
+Wen Chen & Qingyu Cai
+Yunnan International Joint Laboratory of Monsoon and Extreme Climate Disasters, Yunnan University, Kunming, China
+Wen Chen & Qingyu Cai
+School of Earth Sciences, Zhejiang University, Hangzhou, China
+Renguang Wu
+Climate Research Division, ECCC, Toronto, ON, Canada
+Bin Yu
+Center for Atmospheric Science, University of Cambridge, Cambridge, UK
+Hans-F. Graf
+State Key Laboratory of Satellite Ocean Environment Dynamics, Second Institute of Oceanography, Ministry of Natural Resources, Hangzhou, China
+Jun Ying
+The National Key Laboratory of Water Disaster Prevention, Hohai University, Nanjing, China
+Wanqiu Xing
+Authors
+Shangfeng Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wen Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Renguang Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bin Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hans-F. Graf
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qingyu Cai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Ying
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wanqiu Xing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Author contributions Conceptualization: S.F.C., W.C. Methodology: S.F.C., W.C., R.W., B.Y., H.F.G., Q.Y.C., J.Y. Investigation: S.F.C., W.C. Visualization: S.F.C. Supervision: W.C., B.Y., R.W., H.F.G. Writing—original draft: S.F.C. Writing—review & editing: S.F.C., W.C., R.W., B.Y., H.F.G., Q.Y.C., J.Y., W.Q.X.
+Corresponding author
+Correspondence to
+Wen Chen
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Chen, S., Chen, W., Wu, R.
+et al.
+Atlantic multidecadal variability controls Arctic-ENSO connection.
+npj Clim Atmos Sci
+8
+, 44 (2025). https://doi.org/10.1038/s41612-025-00936-x
+Download citation
+Received
+:
+28 July 2024
+Accepted
+:
+03 February 2025
+Published
+:
+10 February 2025
+DOI
+:
+https://doi.org/10.1038/s41612-025-00936-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Associated content
+Collection
+Inter-Basin Dynamics: Cross-Ocean Interactions and Decadal Forecasting
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Content types
+Journal Information
+About the Editors
+Open Access
+Contact
+Calls for Papers
+Article Processing Charges
+Editorial policies
+Journal Metrics
+About the Partner
+Publish with us
+For Authors and Referees
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+npj Climate and Atmospheric Science
+(
+npj Clim Atmos Sci
+)
+ISSN
+2397-3722
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

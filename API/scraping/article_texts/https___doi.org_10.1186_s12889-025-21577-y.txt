@@ -1,0 +1,688 @@
+Heatstroke characteristics and meteorological conditions in Hefei, China: thresholds and driving factors | BMC Public Health | Full Text
+Skip to main content
+Advertisement
+Search
+Explore journals
+Get published
+About BMC
+My account
+Search all BMC articles
+Search
+BMC Public Health
+Home
+About
+Articles
+Submission Guidelines
+Collections
+Join the Editorial Board
+Submit manuscript
+Heatstroke characteristics and meteorological conditions in Hefei, China: thresholds and driving factors
+Download PDF
+Download PDF
+Research
+Open access
+Published:
+28 January 2025
+Heatstroke characteristics and meteorological conditions in Hefei, China: thresholds and driving factors
+Xueliang Deng
+1
+,
+2
+,
+Liang Zhao
+3
+,
+Changchun Xiao
+4
+,
+Rui Dai
+1
+,
+Qianqian Xu
+1
+,
+Yeqing Yao
+5
+,
+Caimeng Liang
+6
+,
+Lei Yao
+1
+&
+…
+Dongyan He
+2
+,
+7
+Show authors
+BMC Public Health
+volume
+25
+, Article number:
+352
+(
+2025
+)
+Cite this article
+712
+Accesses
+Metrics
+details
+Abstract
+Background
+Due to climate change and rapid urbanization, the frequency of heatwave events in East China has increased considerably since the 21st century, which has a considerable influence on human health, such as heatstroke. However, few studies have been conducted in this region on the relationship between heatstroke and meteorological conditions. To address this point, this study aimed to analyze the characteristics of heatstroke and their relationship with meteorological conditions in Hefei, China.
+Methods
+The 2008–2022 heatstroke data from Hefei Center for Disease Control and Prevention was used. The relationship between heatstroke and meteorological conditions was discussed by statistical methods, such as correlation analysis, cluster analysis and linear regression analysis.
+Results
+The number of heatstroke cases fluctuated upward from 36 cases in 2008 to 1051 cases in 2022, with 71.5% of all cases for males and females accounting for 28.5%. The highest frequency of heatstroke occurrence was found to be concentrated in the middle age group (40–59 years old). According to the statistical analysis, air temperature and relative humidity were the most important meteorological factors that influenced the occurrence of heatstroke. Then a threshold system of meteorological factors for heatstroke was established by utilizing the relationship: daily average temperature (T) ≥ 30 °C & daily average relative humidity (RH) ≤ 80% and daily maximum temperature (Tmax) ≥ 35 °C & daily minimum relative humidity (RHmin) ≤ 65%. The threshold in group outbreak areas was stricter than it in high incidence areas. Furthermore, the Pacific Subtropical High (PSH) was found to be the primary climatic factor that determined the occurrence of heatstroke occurrence on a seasonal scale. In addition, significant differences in heatstroke risk were found among different groups of people. Heatstroke risk was substantially higher in males than in females due to larger opportunities for outdoor labor. The reduced physical fitness of elderly people raised the risk of heatstroke more than other age groups in extremely high temperatures.
+Conclusions
+A meteorological threshold system had been established to forecast heatstroke occurrence in a short-term time, and a key climate driving factor of heatstroke was found for long-term heatstroke prediction in Hefei. These findings could facilitate the disease control department to take preventive and control measures to reduce the impact of heatstroke on human health and society.
+Peer Review reports
+Background
+Climate change is one of the most serious concerns facing human society in the 21st century [
+1
+]. As a result of global warming, extreme heat events or heatwaves are expected to grow in intensity, frequency and duration [
+2
+,
+3
+], posing a significant threat to human life and health [
+4
+,
+5
+,
+6
+,
+7
+,
+8
+]. For example, a 2003 continuous heatwave in European and a 2010 rare heatwave in the western region of Russia caused approximately 70,000 and 50,000 deaths, respectively [
+9
+,
+10
+]. The increases in death risks of cardiovascular and respiratory in recent years were more likely associated with consecutive heatwaves in Shanghai [
+11
+]. Therefore, risk perception becomes the most important component in mitigating the health effects of climate change [
+12
+]. To address this point, it is critical to gain a better understanding of the public’s perception of the health hazards of heatwaves and their adaption behaviors to these events [
+13
+].
+Heatstroke, one of the most dangerous and threatening diseases to human health, is clinically defined as a body core temperature higher than 40.6 °C [
+4
+]. Heatstroke occurs when the body core temperature rises abnormally due to exposure to high air temperature and relative humidity [
+14
+]. Based on the pathological cognition of heatstroke, several heatstroke risk assessment models have been developed in recent years, which provide the scientific basis for reducing the risk of heatstroke [
+8
+,
+15
+]. Ground meteorological conditions, including temperature, humidity, wind, cloud, and other factors, were considered in analyzing the occurrence of heatstroke [
+16
+,
+17
+,
+18
+,
+19
+]. In addition, socioecological factors, such as vegetation cover, housing and work conditions, and Gross Domestic Product (GDP), were also integrated as influencing factors of heatstroke [
+20
+,
+21
+,
+22
+]. Various heat‑related indices were therefore developed to estimate heatstroke cases, including the Wet Bulb Globe Temperature Index (WBGT) [
+7
+,
+23
+] and the Universal Thermal Climate Index (UTCI) [
+24
+,
+25
+]. And heatstroke risk was predicted by the numerical model with multiple meteorological variables [
+26
+,
+27
+].
+Previous studies emphasized the importance of addressing the issue of heatstroke and were mainly conducted in developed countries, such as the United States, Japan, and Canada. However, significant regional differences in the risk of heatstroke and adaptation measures existed due to differences in ethnicity, environment, and climate [
+28
+,
+29
+]. Due to the low level of information integration in the past, there were no comprehensive data sources available for studying the risk of heatstroke in developing countries. In the era of high-speed informatization, big data provides us with the richness of data resources and the new techniques allow us to analyze the heatstroke in an interdisciplinary way [
+30
+]. Some preliminary studies on the impact of meteorological conditions on heatstroke have been done in Central China and Southern China [
+31
+,
+32
+,
+33
+,
+34
+,
+35
+]. With the continuous expansion of urban areas in China in the past 20 years [
+36
+,
+37
+], the increasing intensity of urban heat islands might pose a significant impact on the local climate and environment, leading to an increase in heat-related illnesses and health concerns, consequently. Thus, it is necessary to understand the influencing factors of heatstroke occurrence and epidemic, and this knowledge can facilitate the disease control department to take preventive and control measures and reduce the impact of heatstroke on human health and society.
+Therefore, in this study, we aimed to analyze the characteristics of heatstroke events from 2008 to 2022 in Hefei. Moreover, we also aimed to explore the relationship between meteorological conditions and heatstroke happen, and then established a meteorological threshold system for heatstroke. Our study could provide a scientific basis for better carrying out risk warnings for heatstroke and enhance the adaptability of the population to heatstroke in Hefei, China.
+Methods
+Study area
+As a new major metropolis in the East China, Hefei is a large city with a population over 10 million people, with an area of 11,000 square kilometers and a GDP exceeding 1 trillion CNY. Hefei is located in the transitional region between the temperate and subtropical zones of China, and it has a monsoon climate feature, which causes significant seasonal temperature changes. The mean number of days with maximum temperature exceeding 35ºC could reach 16.6 days in summer and the highest temperature extreme record was 41.1ºC on July 27, 2017. Furthermore, the temperature continued to rise by 0.2ºC per 10 years in summer. Thus, heat waves and extreme high temperatures were the main meteorological disasters in Hefei. As one of the fastest urbanizing cities in China, the thermal environment in Hefei has experienced a continuous deterioration since the year 2000. And the impact of heatwave on human health was therefore increasingly apparent in this region.
+Data collection and processing
+The heatstroke data was obtained from Hefei Center for Disease Control and Prevention, which was the official agency responsible for collecting disease information. The dataset contained 4629 heatstroke cases from all the hospitals in Hefei during 2008–2022, including detailed information on gender, age, time of heatstroke occurrence, and severity of the condition. The high incidence period of heatstroke mainly occurred in July and August during the summer, with an accumulated proportion up to 90% (Fig.
+1
+a). Therefore, only the heatstroke data from July and August would be selected in the following analysis.
+Daily surface weather datasets for Hefei (31.96ºN, 117.06ºE) were obtained from the Hefei National Meteorological Station [
+38
+]. The following observation factors, including daily average temperature (T), daily maximum temperature (Tmax), daliy average relative humidity (RH), daily minimum relative humidity (RHmin), daily average pressure (P), daliy precipitation (Rain), daily average wind speed (WS), were selected to explore the relationship between meteorological conditions and heatstroke cases. The data were measured by automatic observation equipment and experienced strict manual quality control by Anhui Meteorological Data Service Center. To maintain temporal consistency of multi-source data, the meteorological data were aggregated to the same datetime corresponding to the heatstroke cases.
+ERA5 data was used to depict favorable synoptic patterns for heatstroke occurrence, which was obtained from European Centre for Medium-Range Weather Forecasts (ECMWF). As a global atmospheric reanalysis, ERA5 contains a 4-dimensional variable field with a horizontal grid of 0.25° and 42 pressure levels. Four variables, including geopotential pressure height (GPH), wind speed, temperature and relative humidity, were extracted to characterize the atmospheric circulation background. In light of the daily variation of heatstroke occurrence, only the ERA5 data at 14:00 (Beijing Time) were used for analysis, and meteorological factors at typically 1000, 850, 700 and 500 hPa were used to describe the vertical distribution of heat and energy of the atmosphere.
+Statistical analysis
+The number of high temperature days, which was defined as the daily maximum temperature greater than or equal to 35 °C was introduced to analyze the impact of high temperature on the annual trend of heatstroke [
+39
+]. The number of high temperature days could reflect the situation of the regional thermal environment as compared to that with the number of heatstroke cases each year.
+In order to explore the relationship between ground meteorological factors and heatstroke cases, the correlation analysis was used to reflect the linear consistency between them. The correlation analysis method was widely used in various fields [
+40
+] and its equation is as follows:
+$$\:r=\frac{\sum\:_{i=1}^{n}\left(Xi-\stackrel{-}{X}\right)(Yi-\stackrel{-}{Yi})}{\sqrt{\sum\:_{i=1}^{n}{(Xi-\stackrel{-}{X})}^{2}}\sqrt{\sum\:_{i=1}^{n}{(Yi-\stackrel{-}{Y})}^{2}}}$$
+where r is the correlation coefficient and
+r
+= 1, 0, -1 respectively indicate a complete positive correlation, no correlation and negative correlation. X is the mean value of ground meteorological factors, Y is the number of daily heatstroke cases, and n is the day number of the study period. The correlation coefficient of r was calculated using the Statistical Package for the Social Sciences (SPSS) software. Given the delayed impact of meteorological factors on heatstroke, the 0–4 day lagged time was considered in calculating the correlation coefficient.
+To estimate meteorological thresholds of heatstroke occurrences in Hefei, the cluster analysis was used based on the information of heatstroke days and cases. Cluster analysis referred to the process of grouping targets into several categories based on the similarity of attributes. According to the occurrence of heatstroke, all days were divided into two categories: heatstroke occurrence and no heatstroke occurrence. In addition, the days with heatstroke were further divided into four categories based on the number of daily heatstroke cases to explore the group outbreak of heatstroke. The four categories were as follows: 10–19 case/d, 20–29 case/d, 30–39 case/d, ≥ 40 heatstroke case/d.
+To evaluate the sensitivity of heatstroke to air temperature, the linear regression analysis was applied to different groups of people with heatstroke using the Interactive Data Language (IDL) programming. The classification discussed above was mainly based on age (young:0–39 years old; middle:40–59 years old; old:≥60 years old) and gender (male, female). This study used the slopes of linear regression to represent groups’ sensitivity and the large value of the regression coefficient indicated a strong response of heatstroke to air temperature.
+Results
+Heatstroke characteristics
+As the high-incidence region of heatstroke in China [
+30
+], the characteristics of heatstroke in Hefei were evaluated over the past 15 years to reveal the temporal variation of heatstroke in this region in Fig.
+1
+(b). The annual number of heatstroke cases fluctuated during the study period and showed an increasing change trend in general. The total number of heatstroke cases increased thirty times from 36 cases in 2008 to 1051 cases in 2022. However, the population only doubled from 5.01 million in 2008 to 9.63 million in 2022, which exhibited a much lower growth rate than that of heatstroke. During the same period, the urban area in Hefei increased by 1.5 times from 973.5 km
+2
+to 1368.5 km
+2
+, which indicated that more people were affected by heatwaves in the urbanized areas. Thus, the dramatic increase in heatstroke cases in Hefei was mainly associated with fast urbanization and abnormal climate change over the past 15 years.
+In Fig.
+1
+(b), the number of heatstroke cases between males and females showed a significant difference. The proportion of males was significantly higher than that of females, with a mean ratio of 71.5% for males compared to 28.5% for females. This gender difference in the proportion of heatstroke cases reached its maximum in 2022 (61%). However, the ratio of males to females is 1.06 in the total population in Hefei. Clearly, this result was related to the work environment, as men who have more opportunities to work outdoors are at risk from extreme heat.
+Fig. 1
+Proportion of monthly heatstroke cases to total heatstroke cases (
+a
+) and annual variation of heatstroke cases number in July and August (
+b
+) from 2008 to 2022 in Hefei
+Full size image
+The risk of heatstroke for different age groups was discussed based on probability analysis in Fig.
+2
+. The proportion of heatstroke was statistically analyzed at an age interval of 5 years. In terms of gender, the probability density function (PDF) of heatstroke cases for males presented an unimodal distribution across all age ranges, with the highest frequency of occurrence concentrated in middle age (40–59 years old) at 44.6%. The PDF of heatstroke cases for females exhibited bimodal patterns that fell at 40–54 years old (24.9%) and 70–84 years old (24.0%). The impact of heatstroke risk on males and females differed greatly for various age ranges.
+Fig. 2
+Probability density distributions of heatstroke cases for each age group in July and August during 2008–2022 in Hefei
+Full size image
+A total of 4156 heatstroke cases happened in 527 days occurred in July and August during the period of 2008–2022 in Hefei. The probability density distributions of heatstroke happen days (HS) and heatstroke cases in each range of daily heatstroke cases in Hefei were presented (Fig.
+S1
+(a)). The ratio of heatstroke happening days accounted for 57% of the total days. The proportions of heatstroke days were 31.9%, 11.1%, 5.4%, and less than 5% for each number range of daily heatstroke cases of 0–5 case/d, 5–10 case/d, 10–15 case/d, and > 15 case/d, respectively. The number of daily heatstroke cases with less than 10 cases/d accounted for 75.9% of all heatstroke days. As for the number of total heatstroke cases, the proportions were 13.6% (0–5 case/d), 16.0% (5–10 case/d), 14.2% (10–15 case/d) and around 3.7–9.2% (15–60 case/d). The number of daily heatstroke cases with less than 10 case/d accounted for only 29.6% of all heatstroke cases. Clearly, 70.4% of heatstroke cases occurred within 13.6% of all days (Fig.
+S1
+(b)), when the daily number of heatstroke cases exceeded 10 case/d. To eliminate the occasional heatstroke cases, only the days with daily heatstroke cases exceeding 10 cases/d (HS10) were evaluated in the following analysis.
+Impact of meteorological condition on heatstroke
+Due to the effect of urban heat islands and global warming, the heat waves in East China showed an increasing trend in recent years [
+41
+]. The high temperature days (daily maximum temperature ≥ 35ºC) (HTmax) and heatstroke occurrence days (daily heatstroke cases ≥ 10) (HS10) exhibited a good consistent trend of change in Fig.
+3
+, with a high correlation coefficient of 0.78. During the 15 years from 2008 to 2022, there were five years in which the number of days with HTmax exceeding 20 days (2013, 2016, 2017, 2018, 2022), and four years in which the number of days with HS10 reaching 10 days (2013, 2016, 2017, 2022). Both HTmax and HS10 had reached its peak in the year of 2022. It indicated that the number of HTmax days increased the risk of heatstroke for residents on a yearly scale.
+Fig. 3
+Annual variation of heatstroke happen days (daily heatstroke cases ≥ 10) (HS10) and high temperature days (daily maximum temperature ≥ 35ºC) (HTmax) in July and August from 2008 to 2022 in Hefei
+Full size image
+Obviously, the number of heatstroke cases was strongly correlated with temperature and humidity, but poorly correlated with other meteorological parameters such as P, Rain, and WS in Table
+1
+. The numbers of heatstroke cases were significantly positively correlated with the daily average T and Tmax, with the two correlation coefficients being similar over a few consecutive days. As the temperature rose, the number of heatstroke cases continued to increase. Air temperature could directly affect body core temperature (Tcore) during heat exposure. On the contrary, the number of heatstroke cases was negatively correlated with RH and RHmin. In the initial process of heat exposure, high T and RH conditions could raise Tcore and cause heatstroke due to lack of thermoregulation. Then the human body sweated to release body heat into the environment and maintains a virtually constant Tcore. Later more heatstroke cases occurred with a breakdown in thermoregulation brought by sweat loss or dehydration. Lower humidity could cause sweat to evaporate, increasing the incidence of heatstroke caused by dehydration [
+4
+]. As a result, temperature and humidity were the two most critical meteorological factors affecting heatstroke.
+To illustrate the lagging effects of meteorological variables on heatstroke, meteorological factors from 0 to 4 days prior to the day of heatstroke were compared with the heatstroke cases in Table
+1
+. As the number of lag days increased, the correlation coefficient between heatstroke cases and temperature, humidity decreased. The correlation coefficients on the day of heatstroke occurrence (Day0) were the highest for temperature and humidity. The correlation coefficients for T and Tmax decreased from 0.58/0.58 on Day0 to 0.37/0.35 on Day4, while the correlation coefficients for RH and RHmin also decreased from -0.48/-0.46 on Day0 to -0.31/-0.26 on Day4. Therefore, the impact of temperature and relative humidity on heatstroke significantly weakened as the lag time increased, and the meteorological factors of the day played an important role in causing heatstroke.
+Table 1 Correlation coefficient between heatstroke cases number and meteorological factors in July and August from 2008 to 2022 in Hefei. Day0, Day1, Day2, Day3, Day4 represent 0–4 day before heatstroke happen day, respectively
+Full size table
+To investigate the relationship between heatstroke and meteorological factors in more detail, scatterplots were plotted between T and RH, as well as Tmax and RHmin, for the two heatstroke conditions during the study period in Hefei: days with no heatstroke occurrence (NoHS) and days with at least 10 cases of heatstroke (HS10). The solid dot in Fig.
+4
+represents a day and its corresponding values of T & RH or Tmax & RHmin. As shown in Fig.
+4
+(a), there was a significant difference in the distribution of T and RH between NoHS and HS10. The high incidence area of HS10 was mainly located in the region where T ≥ 30ºC and RH ≤ 80%, in which 89.7% of HS10 days occurred. Based on the above analysis, it could be concluded that HS10 was directly affected by temperature and relative humidity, with the threshold of T ≥ 30ºC and RH ≤ 80%. In addition, the effects of Tmax and RHmin were also considered for HS10. In Fig.
+4
+(b), the region of HS10 and NoHS had limited overlap in Tmax and RHmin, which was comparable to the situation in T and RH in Fig.
+4
+(a). The region with Tmax ≥ 35ºC and RHmin ≤ 65% was the high incidence area of HS10, accounting for 89.4% of HS10 days. In the condition of Tmax and RHmin, the threshold for high incidence area had become more extreme than that for T and RH. This threshold was consistent with the definition of high temperature days (HTmax) in meteorology. Thus, the threshold in Tmax and RHmin also could be used as another factor affecting heatstroke.
+To further discuss the threshold for the group outbreak of heatstroke, the heatstroke occurrence days were classified based on the number of daily heatstroke cases. The heatstroke occurrence days were divided into four categories based on the number of daily heatstroke cases: 10–19 case/d, 20–29 case/d, 30–39 case/d and ≥ 40 case/d. The group outbreak area continued to narrow as the number of daily heatstroke cases increased, and their thresholds climbed steadily (Fig.
+4
+(c-d)). When the daily number of heatstroke cases exceeded 40, the threshold was raised to T ≥ 32ºC and RH ≤ 75% and Tmax ≥ 37ºC and RHmin ≤ 55%. Compared with the high incidence area in Fig.
+4
+(a-b), the threshold for the group outbreak area was stricter.
+Based on the above analysis, a threshold system of meteorological parameters related to heatstroke was established in Hefei, using the relationship between T&RH and Tmax&RHmin. This system could be applied to predict and warn about the occurrence of heatstroke among urban residents. Following that, we would focus our attention on high incidence areas and group outbreak areas to evaluate the number of heatstroke cases within their respective threshold ranges (Fig.
+S2
+). In general, the incidence of heatstroke cases in the T&RH high incidence area was 78.4%, while the incidence of heatstroke cases in the Tmax&RHmin high incidence area was 79.2%. The threshold system of this study could accommodate about 80% of heatstroke cases, while the other 20% might be occasional heatstroke cases caused by personal constitution. Due to the complicated criterion for the group outbreak areas in Fig.
+4
+(c-d), 54.4% of heatstroke cases occurred in the T&RH group outbreak area, whereas 52.9% of heatstroke cases occurred in the Tmax&RHmin group outbreak area. According to the interval distribution of heatstroke cases (Fig.
+S2
+), the incidence of heatstroke patients was significantly concentrated within a certain T&RH range.
+Fig. 4
+Scatterplots of daily average temperature and relative humidity(
+a
+,
+c
+), daily maximum temperature and minimum relative humidity(
+b
+,
+d
+) for heatstroke happen days (daily heatstroke cases ≥ 10) (HS10) and group outbreak days (daily heatstroke cases ≥ 40). The one spot represents one day
+Full size image
+To reveal the synoptic background of heatstroke occurrence in Hefei, the features of atmospheric circulation were compared between the two situations of HS and NoHS days in Fig.
+5
+. Four isobaric layers, which corresponding to pressures of 1000 hPa, 850 hPa, 700 hPa, and 500 hPa, were introduced using ERA5 reanalysis data. At the middle troposphere of 500 hPa, the Hefei region was dominated by a strong Pacific Subtropical High (PSH) on HS days, with a 5880 equipotential line ascending westward and exhibited a positive anomaly of geopotential height (GPH) in Fig.
+5
+j-l. At the low troposphere of 700-850 hPa, a clearly anticyclone anomaly of the wind field was observed over Hefei during HS days in Fig.
+5
+d-i. This vertical structure of the atmosphere might cause a divergence downdraft below the middle troposphere (500-850 hPa), leading to an increase in ground air temperature due to the warming effects of air mass sinking. Meanwhile, the divergence downdraft also could suppress the formation of precipitation and cloud in HS days, and the ground air temperature was further climbed as the increase in net solar radiation received on the ground. Finally, under the combined effects of the anomalous downward flow of the air and the positive net radiation, ground air temperature was expected to rise in the control of PSH. The favorable weather system for heatstroke was basically consistent with it of the heatwave in East China [
+42
+]. In summary, the spatial pattern and intensity of PSH were the key climatic factors influencing the occurrence of heatstroke in Hefei and the information of PSH could be utilized to predict HS days on a seasonal scale.
+Fig. 5
+Spatial distribution of the geopotential height (GPH, black contours), superimposed by wind (color arrows, vector) at 1000 hPa (
+a
+,
+b
+,
+c
+), 850 hPa (
+d
+,
+e
+,
+f
+), 700 hPa (
+g
+,
+h
+,
+i
+) and 500 hPa (
+j
+,
+k
+,
+l
+) pressure level under heatstroke happen days (left column), no heatstroke happen days (middle column) conditions and the difference between them (right column), respectively, in July and August during 2008–2022. The areas highlighted with yellow lines represent the region of interest (Hefei)
+Full size image
+Under the control of PSH and atmospheric circulation anomaly, the HS days exhibited higher T and lower RH over Hefei throughout 500–1000 hPa (Fig.
+S3
+). In particular, it was worth noting that in HS days, Hefei was located in the middle of the high temperature anomalous zone at 1000 hPa, with a temperature 5ºC higher and a relative humidity 15% lower than the surrounding areas. The deviations in T and RH between HS and NoHS days at 1000 hPa were consistent with the ground conditions, as shown in Fig.
+4
+. Therefore, ground meteorological conditions were the direct cause of heatstroke, and climate change was the fundamental reason for the occurrence of heatstroke. The outbreak of heatwave events was always in a continuous and larger region, and we also found that the occurrence of heatstroke was not just a single point of health event, but had become a regional health event in the context of global warming.
+Response of heatstroke to temperature for different groups population
+Heatstroke risk is related to meteorological conditions, personal physical fitness and work environment. Therefore, this section discussed the different responses of various population groups to high temperature in Fig.
+6
+. The daily heatstroke cases in all groups tended to increase with the rise of T and Tmax. The number of daily heatstroke cases in males was higher than that in females. The slope of the linear regression equation could be defined as the growth rate, which reflected the sensitivity of each group to air temperature. Especially, the growth rate of daily heatstroke cases in males was almost twice as high as that in females. As shown in Fig.
+6
+(a-b), the growth rate of heatstroke was 2.8 (1.5) case/ºC and 2.5 (1.3) case/ºC in males (females) for T and Tmax, respectively. This might be partly related to the high proportion of males in the workforce who were exposed to high temperatures.
+The population was divided into three age groups: young age (0–39 years old), middle age (40–59 years old) and old age (≥ 60 years old). The growth rate of heatstroke was 0.8/0.7 case/ºC, 1.5/1.3 case/ºC, 2.0/1.7 case/ºC in the young, middle and old groups for T/Tmax, respectively, as shown in Fig.
+6
+(c-d). It was found that elderly people had the highest growth rate. This was not hard to understand because elderly people often have more diseases and immune degeneration. It should be mentioned that the most significant difference in each age group was observed at an extremely high temperature range. When T exceeded 34ºC in Fig.
+6
+(c), the average daily cases of heatstroke in the old age group increased to 34 at the T range of 35–36ºC, while the values of middle age group and young age group were 18 cases and 4 cases, respectively. A similar surge phenomenon was also observed in old age groups when Tmax exceeded 40ºC in Fig.
+6
+f. Thus, extremely high temperatures had the greatest impact on the risk of heatstroke among the elderly. When T exceeded 34ºC or Tmax exceeded 40ºC, the number of heatstroke cases in the elderly group increased dramatically. Therefore, effective cooling measures should be taken to reduce the impact of heatstroke on the elderly population under extremely high temperatures.
+Fig. 6
+Average daily heatstroke cases for each range of daily average temperature and maximum temperature in different sexes (a, b) and age (c, d) during 2008–2022 in Hefei
+Full size image
+Discussion
+In the context of global warming, heat-related illnesses are a rising worldwide concern [
+11
+]. Few researchers have examined the quantitative association between meteorological conditions and heatstroke in Hefei, China, although heat waves or high temperatures have been acknowledged as one important health concern by many prior studies on the relationship between temperature and health [
+15
+,
+16
+]. This study was the first effort in Hefei to identify the meteorological threshold and objectively evaluate how weather conditions affected the likelihood of urban dwellers experiencing heatstroke. The results of this study could provide a scientific basis for better carrying out risk warnings for heatstroke in Hefei, China.
+Previous studies have shown that heat events vary by geography and nation, with China being one of the places that was most badly affected [
+43
+] and where its heat-related illnesses have increased considerably in recent years. In the present study, we found that the number of heatstroke patients in Hefei showed a fluctuating increase from 2008 to 2022 under the background of climate warming and rapid urbanization. The number of heatstroke cases in males was higher than that in females. The great majority of heatstroke cases were concentrated in specific months. This result was equivalent to that of the study done throughout China by Chen et al. [
+30
+]. They demonstrated that between 1979 and 2020, there was an increase in mortality that may be attributed to heatwaves. According to the findings of our study, Hefei had a greater rate of instances of heatstroke than other parts of China. The government can better identify trends and geographic hotspots by using this conclusion [
+44
+].
+The most common heat-related ailment, heatstroke, is strongly impacted by weather factors including high temperatures. The association between weather and the likelihood of heatstroke is essential for the government’s efforts to prevent heatstroke. Numerous researches have been conducted in the past to analyze how temperature affects heatstroke [
+15
+,
+16
+,
+17
+,
+18
+,
+19
+]. However, because the prior studies were all localized and the research data collection period was brief, their findings might not be relevant to the Hefei. With data from the last 15 years, we discovered that temperature and relative humidity were the main meteorological determinants for heatstroke. These parameters had a direct impact on the incidence of heatstroke on both an annual and daily time scale. In our study, the combination of T(30ºC)&RH(80%) and Tmax(35ºC)&RHmin(65%) were used to create a threshold system for meteorological variables associated with heatstroke. This threshold in Hefei was slightly different from the heatstroke threshold found in previous studies in other cities in China. The minimum critical value of meteorological conditions for heatstroke was found as T(23ºC)&RH(63%) in Nanjing [
+35
+]. The thresholds of heatstroke was T(34ºC)&RH(70%) in Wuhan [
+31
+] and Tmax(34ºC) in Chongqing [
+32
+]. In our study, individual threshold criteria were also developed for various daily case counts. For Hefei city dwellers, this threshold system served as a valuable tool for predicting and alerting to the possibility of heatstroke episodes. As a result, our research provided a critical addition and enrichment to earlier studies. These findings could help people better understand how to prevent heatstroke in a community.
+Climate considerations are crucial determinants for heatstroke since regional heat wave episodes are common in the context of global warming. The majority of earlier studies primarily concentrated on the short-term influence of meteorological conditions on heatstroke. Few researchers have examined the association between climatic parameters and heatstroke on a long-term scale. Based on our findings, PSH was a major climatic factor that determined the incidence of heatstroke were normally accompanied by high PSH in Hefei. Furthermore, the incidence of heatstroke had clear regional features as a result of the abnormalities of PSH. This finding could be used to forecast heatstroke on a seasonal scale. Our research implied that heatstroke was undoubtedly influenced by climate change. In this paper, we only analyzed the qualitative relationship between climate factors and heatstroke by composite analysis method. Therefore, further studies are needed on how to quantify the relationship.
+Risk perceptions were another key component in addressing the hazards and perils of heat wave episodes. Males were shown to be at a higher risk of heatstroke than females in our study. This was consistent with the findings of a comprehensive review on gender and heat sickness by Gifford et al. [
+12
+]. The gender disparity might be attributed to exposure opportunities. We also discovered that elderly people were more likely to suffer from heatstroke. This supported the classification of older persons as a high-risk category in Faurie et al. [
+45
+]. In the elderly, lower sweat production rates and delayed sweating hamper body cooling. The elderly groups were less sensitive to variations in ambient temperature, which could lead to an inability to respond appropriately to maintain core temperature [
+46
+]. Therefore, different heatstroke prevention measures need to be adopted for different age groups. Besides, our results displayed a dramatic rise of heatstroke cases in the elderly people group when Tmax exceeded 40ºC. This crucial discovery serves as a guide for doctors to anticipate higher visits from heatstroke patients, as well as for the elderly to pay closer attention to their health state or take medicine during heatwaves.
+This was the first research to look into the link between heatstroke and weather conditions in Hefei. However, due to the availability of multi-source data, certain constraints remained in this study. Data on living conditions, work environment, sickness status, and results, for example, were not obtained in examining the association between temperature and heatstroke occurrences, despite the fact that these might be crucial factors influencing heatstroke. If additional observational data becomes available, an in-depth and extensive study of the influence of climatic conditions on heatstroke among different demographic groups will be done in the future.
+Conclusion
+In summary, this study systematically analyzed the characteristics of heatstroke incidences in the large city of Hefei in East China during the period from 2008 to 2022. The impact of meteorological conditions on the occurrence of heatstroke was analyzed. The threshold system of heatstroke was established, furthermore, the key climate factor for heatstroke was found. The results of this study could provide a scientific basis for better carrying out risk warnings for heatstroke and enhance the adaptability of the population to heatstroke in Hefei, China.
+Data availability
+The heatstroke data can be derived from Hefei Center for Disease Control and Prevention, China. The meteorology data can be applied from Anhui Meteorological Information Center, China.
+References
+IPCC. Climate change 2013: the physical science basis. Contribution of working group I to the fifth assessment report of the intergovernmental panel on climate change. Cambridge University Press, 2013.
+Alexander L, Zhang X, Peterson TC. Global observed changes in daily climate extremes of temperature and precipitation. J Phys Res. 2006;111:D05109.
+Article
+Google Scholar
+Ding T, Qian WH, Yan ZW. Changes in hot days and heat waves in China during 1961–2007. Int J Climatol. 2010;30(10):1452–62.
+Article
+Google Scholar
+Deng Q, Zhao J, Liu W, Li Y. Heatstroke at home: prediction by thermos-regulation modeling. Build Environ. 2018;137:147–56.
+Article
+Google Scholar
+Preece WH. The 2006 California heat wave: impacts on hospitalizations and emergency department visits. Environ Health Perspect. 2009;117(1):61–7.
+Article
+Google Scholar
+Bell M. Weather-related mortality: how heat, cold, and heat waves affect mortality in the United States. Epidemiology. 2009;20(2):205–13.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Kazutaka O, Yasushi H, Vera L, Yasuaki H. Potential effect of heat adaptation on association between number of heatstroke patients transported by ambulance and wet bulb globe temperature in Japan. Environ Res. 2023;216:114666.
+Article
+Google Scholar
+Cao Z, Wu Z, Li S, Guo G, Song S, Deng Y, Ma W, Sun H, Guan W. Explicit spatializing heat-exposure risk and local associated factors by coupling social media data and automatic meteorological station data. Environ Res. 2020;188:109813.
+Article
+CAS
+PubMed
+Google Scholar
+D’Ippoliti D, Michelozzi P, Marino C, De’Donato F, Menne B, Katsouyanni K, Kirchmayer U, Analitis A, Medina-Ramón M, Paldy A. The impact of heatwaves on mortality in 9 European cities: results from the EuroHEAT project. Environ Health. 2010;9(1):37–47.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Otto F, Massey N, Van O, Jones RG, Allen MR. Reconciling two approaches to attribution of the 2010 Russian heat wave. Geophys Res Lett. 2012;39:L04702.
+Article
+Google Scholar
+Huang W, Kan H, Kovats S. The impact of the 2003 heat wave on mortality in Shanghai, China. Sci Total Environ. 2010;408:2418–20.
+Article
+CAS
+PubMed
+Google Scholar
+Gifford R, Todisco T, Stacey M, Fujisawa T, Allerhand M, Woods D, Reynolds R. Risk of heat illness in men and women: a systematic review and meta-analysis. Environ Res. 2019;171:24–35.
+Article
+CAS
+PubMed
+Google Scholar
+Liu T, Xu Y, Zhang Y, Yan Q, Song X, Xie H, Luo Y, Rutherford S, Chu C, Lin H, Ma W. Associations between risk perception, spontaneous adaptation behavior to heat waves and heatstroke in Guangdong province, China. BMC Public Health. 2013;13:913.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Heidari H, Mohammadbeigi A, Khazaei S, Soltanzadeh A, Asgarian A, Saghafipour A. The effects of climatic and environmental factors on heat-related illnesses: a systematic review from 2000 to 2020. Urban Clim. 2020;34:100720.
+Article
+Google Scholar
+Vescovi L, Rebetez M, Rong F. Assessing public health risk due to extremely high temperature events: climate and social parameters. Climate Res. 2005;30:71–8.
+Article
+Google Scholar
+Ito Y, Akahane M, Imamura T. Impact of temperature in summer on emergency transportation for heat-related diseases in Japan. Chin Med J. 2018;131(5):574–52.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Shanks NJ, Papworth G. Environmental factors and heatstroke. Occup Med. 2001;51(1):45–9.
+Article
+CAS
+Google Scholar
+Varghese BM, Barnett AG, Hansen AL, Bi P, Heyworth J, Sim M, Hanson-Easey S, Nitschke M, Rowett S, Pisaniello D. Geographical variation in risk of work-related injuries and illnesses associated with ambient temperatures: a multi-city case-crossover study in Australia, 2005–2016. Science of the Total Environment. 2019;687:898–906.
+Bassil KL, Cole DC, Moineddin R, Lou W, Craig AM, Schwartz B. The relationship between temperature and ambulance response calls for heatrelated illness in Toronto, Ontario, 2005. J Epidemiol Commun Health. 2011;65:829.
+Article
+Google Scholar
+Vandentorren S, Bretin P, Zeghnoun A, Mandereau-Bruno L, Croisier A, Cochet C, Riberon J, Siberan I, Declercq B, Ledrans M. August 2003 heat wave in France: risk factors for death of elderly people living at home. Eur J Public Health. 2006;16(6):583–91.
+Article
+CAS
+PubMed
+Google Scholar
+Graham DA, Vanos JK, Kenny NA, Brown R. The relationship between neighbourhood tree canopy cover and heat-related ambulance calls during extreme heat events in Toronto, Canada. Volume 20. Urban Forestry & Urban Greening; 2016. pp. 180–6.
+Wang Y, Song Q, Du Y, Wang J, Zhou J, Du Z, Li T. A random forest model to predict heatstroke occurrence for heatwave in China. Sci Total Environ. 2019;650:3048–53.
+Article
+CAS
+PubMed
+Google Scholar
+Parsons K. Heat stress standard ISO 7243 and its global application. Ind Health. 2006;44:368–79.
+Article
+PubMed
+Google Scholar
+McGregor GR. Special issue: universal thermal comfort index (UTCI). Int J Biometeorol. 2012;56:419.
+Article
+PubMed
+Google Scholar
+Mlders N. Outdoor universal thermal comfort index climatology for Alaska. Atmospheric Clim Sci. 2019;9(4):558–82.
+Article
+Google Scholar
+Yabuki N, Onoue T, Fukuda T, Yoshida S. A heatstroke prediction and prevention system for outdoor construction workers. Visualization Eng. 2013;1:11.
+Article
+Google Scholar
+Yamamoto M, Kasai M, Okaze T, Hanaoka K, Mochida A. Analysis of climatic factors leading to future summer heatstroke risk changes in Tokyo and Sendai based on dynamical downscaling of pseudo global warming data using WRF. J Wind Eng Ind Aerodyn. 2018;183:187–97.
+Article
+Google Scholar
+Du YD, Wang XW, Yang XF, Ma W, Ai H, Wu XX. Impacts of climate change on human health and adaptation strategies in South China. Adv Clim Change Res. 2013;4(4):208–14.
+Article
+Google Scholar
+Deng XL, Cao W, Huo Y. Meteorological conditions during a severe, prolonged regional heavy air pollution episode in eastern China from December 2016 to January 2017. Theoret Appl Climatol. 2019;135:1105–22.
+Article
+Google Scholar
+Chen H, Zhao L, Dong W, Cheng L, Cai W, Yang J, Bao J, Liang X, Hajat S, Gong P, Liang W, Huang C. Spatiotemporal variation of mortality burden attributable to heatwaves in China, 1979–2020. Sci Bull. 2022;67:1340–4.
+Article
+Google Scholar
+He LL, Chen ZH, Li SH, Wang Y, Lu M. Epidemiologic characteristic of heat stroke events in Wuhan and its relationship with meteorological factors. Torrential Rain Disaster. 2007;26(3):271–4.
+Google Scholar
+Li YH, Li CC, Luo SQ, He JQ, Cheng YB. Impacts of extremely high temperature and heatwave on heatstroke in Chongqing, China. Environ Sci Pollut Res. 2017;24:8534–40.
+Article
+Google Scholar
+Du YD, Wang XW, Yang XF, Ma WJ, Ai H, Wu XX. Impacts of climate change on human health and adaptation strategies in South China. Adv Clim Change Res. 2013;4(4):208–14.
+Article
+Google Scholar
+Wang Y, Li JC, Chen ZH, Li L, Li SH, Zhang L, Yu L. Relationship between heat stroke and meteorological factors in Wuhan city. Occup Health. 2013;29(7):792–4.
+Google Scholar
+Jiao AC, Zhu DZ, Tao M, Hu LL, Mao ZC. The research and prediction for heat illness weather condition index in Nanjing region. J Meteorological Sci. 2001;21(2):246–51.
+Google Scholar
+Huang J, Zhou C, Lee X, Bao Y, Zheng Y. The effects of rapid urbanization on the levels in tropospheric nitrogen dioxide and ozone over east China. Atmos Environ. 2013;77(3):558–67.
+Article
+CAS
+Google Scholar
+Ding H, Xu L, Elmore AJ, Shi Y. Vegetation phenology influenced by rapid urbanization of the Yangtze delta region. Remote Sens. 2020;12(11):1783.
+Article
+Google Scholar
+Deng XL, Chen J, Dai R, Zhai ZF, He DY, Zhao L, Jin XL, Zhang JP. The effects of planetary boundary layer features on air pollution based on ERA5 data in East China. Atmosphere. 2023;14:1273.
+https://doi.org/10.3390/atmos14081273
+Article
+CAS
+Google Scholar
+Jia ZK, Zheng ZH, Feng GL. Development of the grid dataset of high-temperature days and types in Southern China (1983–2017). J Global Change Data Discovery. 2021;5(2):130–4.
+Google Scholar
+Deng XL, Nie SP, Deng WT, Cao WH. Statistical evaluation of the performance of gridded monthly precipitation products from reanalysis data, satellite estimates, and merged analyses over China. Theoret Appl Climatol. 2018;132(1):1–17.
+Google Scholar
+Xie ZQ, Du Y, Zeng Y, Gao P, Miao Q. Impact of urban clusters on spatial pattern of extreme high temperature events over Yangtze River Delta. Chin Sci Bull. 2017;62:233–44.
+Article
+Google Scholar
+Ma H, Liu C, Qian Q, Ge J, Qiang Y, Yin Y. Analysis on the climatic characteristics of extreme heat-wave during July-August, 2017 and associated large-scale circulation background. J Nat Disasters. 2021;30(5):85–99.
+Google Scholar
+Gosling S, Lowe J, McGregor G, Pelling M, Malamud B. Associations between elevated atmospheric temperature and human mortality: a critical review of the literature. Clim Change. 2009;92:299–341.
+Article
+Google Scholar
+Semenza JC, Hall DE, Wilson DJ, Bontempo BD, Sailor DJ, George LA. Public perception of climate change voluntary mitigation and barriers to behavior change. Am J Prev Med. 2008;35:479–87.
+Article
+PubMed
+Google Scholar
+Faurie C, Varghese BM, Liu J, Bi P. Association between high temperature and heatwaves with heat-related illnesses: a systematic review and meta-analysis. Sci Total Environ. 2022;852:158332.
+Article
+CAS
+PubMed
+Google Scholar
+Ou YP, Wang GM, Zhao JP, Deng QH. Risk of heatstroke in healthy elderly during heatwaves: a thermoregulatory modeling study. Build Environ. 2023;237:110324.
+Article
+Google Scholar
+Download references
+Funding
+This work was supported by the National Key Research and Development Program of China (2018YFA0606200), the Joint Found of Anhui Natural Science Foundation (2208085UQ03), the Anhui research project in the Public Interest (1604f0804003), and the Special innovation and development project of Anhui Public Meteorological Service Center (GFCX202308), the independent innovation and development special project of Anhui Meteorological Bureau (AHQXZC202310), the National Natural Science Foundation of China (42275175).
+Author information
+Authors and Affiliations
+Hefei Meteorological Bureau, Hefei, 230041, China
+Xueliang Deng, Rui Dai, Qianqian Xu & Lei Yao
+Key Laboratory of Cities Mitigation and Adaptation to Climate Change in Shanghai (CMACC), Shanghai, 200092, China
+Xueliang Deng & Dongyan He
+State Key Laboratory of Numerical Modeling for Atmosphere Sciences and Geophysical Fluid Dynamics (LASG), Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing, 100029, China
+Liang Zhao
+Hefei Center for Disease Control and Prevention, Hefei, 230061, China
+Changchun Xiao
+Anhui Public Meteorological Service Center, Hefei, 230031, China
+Yeqing Yao
+School of Atmospheric Sciences, Nanjing University of Information Science and Technology, Nanjing, 210044, China
+Caimeng Liang
+Anhui Climate Center, Hefei, 230031, China
+Dongyan He
+Authors
+Xueliang Deng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Liang Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Changchun Xiao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rui Dai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qianqian Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yeqing Yao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Caimeng Liang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lei Yao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dongyan He
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+XD wrote the main manuscript text. CX designed research structure. LZ was responsible for data quality control. RD and QX were responsible for language polishing. YY and LY analyzed heatstroke data. CL and DH analyzed meteorological data. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to
+Changchun Xiao
+.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+Supplementary Material 1
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Deng, X., Zhao, L., Xiao, C.
+et al.
+Heatstroke characteristics and meteorological conditions in Hefei, China: thresholds and driving factors.
+BMC Public Health
+25
+, 352 (2025). https://doi.org/10.1186/s12889-025-21577-y
+Download citation
+Received
+:
+27 June 2024
+Accepted
+:
+21 January 2025
+Published
+:
+28 January 2025
+DOI
+:
+https://doi.org/10.1186/s12889-025-21577-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Heatstroke
+Meteorological factors
+Climate change
+Hefei
+Download PDF
+Advertisement
+BMC Public Health
+ISSN: 1471-2458
+Contact us
+General enquiries:
+journalsubmissions@springernature.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our
+Terms and Conditions
+,
+Your US state privacy rights
+,
+Privacy
+                statement
+and
+Cookies
+policy.
+Your privacy choices/Manage cookies
+we use in the preference centre.
+© 2025 BioMed Central Ltd unless otherwise stated. Part of
+Springer Nature
+.

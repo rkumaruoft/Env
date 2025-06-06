@@ -1,0 +1,978 @@
+Assessment of mobility trends and transportation-related emissions in Canadian cities during the post-COVID-19 pandemic period | Environmental Systems Research | Full Text
+Skip to main content
+Advertisement
+Search
+Get published
+Explore Journals
+Books
+About
+My account
+Search all SpringerOpen articles
+Search
+Environmental Systems Research
+About
+Articles
+Submission Guidelines
+Submit manuscript
+Assessment of mobility trends and transportation-related emissions in Canadian cities during the post-COVID-19 pandemic period
+Download PDF
+Download PDF
+Research
+Open access
+Published:
+25 February 2025
+Assessment of mobility trends and transportation-related emissions in Canadian cities during the post-COVID-19 pandemic period
+Saba Naderi
+1
+,
+Xuelin Tian
+1
+&
+Chunjiang An
+1
+Environmental Systems Research
+volume
+14
+, Article number:
+3
+(
+2025
+)
+Cite this article
+555
+Accesses
+1
+Altmetric
+Metrics
+details
+Abstract
+There were some new characteristics of urban transportation in the later stage of the COVID-19 pandemic. This study investigated the transportation-related emissions in major cities of Canada during the post-COVID-19 pandemic period, with a focus on evolving transportation behaviors and environmental effects. The analysis was based on data collected from various provinces in Canada, encompassing greenhouse gases (GHGs), traffic volume, fuel consumption by vehicles and airlines, and air quality. The aviation sector nearly reverted to pre-pandemic levels by 2022, with significant rebounding of kerosene-type jet fuel consumption. Emission analysis from September 2020 to December 2022 showed the changes in NO
+2
+, CO, SO
+2
+, PM
+2.5
+, and O
+3
+levels. Key observations include a gradual return to pre-pandemic emission levels. For instance, the average NO
+2
+levels in Vancouver showed variations from 14.2 ppb in 2020 to 15.4 ppb in 2022, while average CO levels fluctuated between 0.18 ppm in 2020 and 0.22 ppm in 2022. These changes are attributed to multiple factors, including the pandemic, fuel price hikes, increased electric vehicle usage, and altered commuting patterns. The results can help further explore the mobility and emissions patterns impacted by human activities, which have implications with respect to improving air quality and reducing GHG emissions in urban areas.
+Introduction
+The Coronavirus Disease 2019 (COVID-19) pandemic led to global disruptions, prompting countries to implement measures to control virus spread. Due to the initial lack of understanding about how the virus transmitted, various actions were taken by governments to minimize in-person interactions. This resulted in widespread adoption of remote work by numerous businesses, temporary closures of schools, and cancellations of social gatherings (Kouchakzadeh et al.
+2021
+). Human activities can often affect the environment (Blanche et al.
+2024
+; Mhangara et al.
+2024
+). There is a connection between changing human mobility patterns and environmental quality during the pandemic (Cai et al.
+2021
+; Goyal et al.
+2023
+). This is particularly evident in the urban areas with large populations and centralized transportation system (Öztürk et al.
+2023
+; Tian et al.
+2023a
+). The better understanding of pandemic-related environmental impact can help improve the urban planning and recognize the processes that might affect environmental quality.
+The outbreak of COVID-19 caused a considerable disturbance to human actions, affecting the discharge of initial pollutants and possibly influencing the creation of resultant pollutants, particularly in urban areas (Al-Duroobi et al.
+2023
+; Gough et al.,
+2022
+). Numerous studies have examined the initial phase of the COVID-19 pandemic, specifically the public health restrictions put in place in most jurisdictions and their impact on air quality (Usman and Ho
+2021
+; Wan et al.
+2024
+). There was a significant reduction in commuting and traffic congestion on roads (Kouchakzadeh et al.
+2021
+). Zhu et al. (
+2020
+) observed a correlation between increased levels of air pollutants, including Particulate Matter (PM
+2.5
+, PM
+10
+), Carbon Monoxide (CO), Nitrogen Dioxide (NO
+2
+) and ozone (O
+3
+), and higher rates of COVID-19 infection. During the pandemic period, the continental United States experienced a 25.5% reduction in NO
+2
+levels compared to previous years (Berman et al.,
+2020
+). Furthermore, in the United Kingdom, concentrations of NO
+2
+and PM
+2.5
+decreased by 38.3% (8.8 μg/m
+3
+) and 16.5% (2.2 μg/m
+3
+), respectively. Additionally, average daily traffic volume for April 2020 saw a significant decline of 69% when juxtaposed with the figures from April 2019 (Jephcote et al.
+2021
+). During the lockdown in 2020, there was a decrease in NO
+2
+, CO and SO
+2
+concentrations compared to the same periods in 2018–2019 across most cities in Kazakhstan (Baimatova et al.
+2022
+). The data from the Ozone Monitoring Instrument (OMI) satellite instrument indicated a noticeable decrease in tropospheric NO
+2
+levels, with reductions of approximately 10% to 19% (Filonchyk et al.
+2021
+). Dutheil et al. (
+2020
+), meanwhile, reported that quarantine measures implemented in China led to a notable 30% reduction in NO
+2
+emissions in central China in 2020. In addition, there was also a major influence of the pandemic on the air emissions from industries (Sangi et al.
+2023
+; Zhang et al.
+2023
+). In China, the closure of major industries resulted in a roughly 50% decrease in nitrogen dioxide (NO
+2
+) and carbon monoxide (CO) emissions (Caine
+2020
+). In India analysis with satellite and ground-based measurements show comparable results, as most regions show a reduction of about 40–50% in NO
+2
+and an increase of 5–10% in tropospheric O
+3
+during lockdown (Gopikrishnan et al.
+2022
+). The emission of NO
+2
+, a key indicator of global economic activities, also declined in many other countries such as the United States, Canada, India, and Italy due to shutdowns related to the COVID-19 pandemic (Biswal et al.
+2020
+; Ghosh
+2020
+; Saadat et al.
+2020
+; Somani et al.
+2020
+).
+After the initial year of the COVID-19 pandemic, there was a decrease in restrictions and limitations following the implementation of vaccination efforts. This had a significant impact on the relaxation of rules restricting social gatherings and in-person work. Consequently, our research focuses on examining the post-pandemic context, with particular attention to its effects on air quality. According to the World Health Organization (WHO), post-pandemic transition refers to a phase when the need for intense pandemic surveillance decreases due to a decline in the frequency of pandemic outbreaks. During such transitions, it is crucial for responsible organizations to remain vigilant and prepared, ensuring readiness for any potential future events (WHO,
+2023
+). This study aims to analyze the later period of the pandemic, spanning from September 2020 to December 2022, in order to understand the extent to which the situation returned to pre-pandemic levels and the speed at which this occurred, and then to compare the impact across different stages of the COVID-19 pandemic on urban transportation and related emissions. The analysis is based on data collected from various provinces in Canada, encompassing greenhouse gas (GHG) concentrations, traffic volume, fuel consumption by vehicles and airlines, and air quality. The results can help further explore the mobility and emissions patterns impacted by human activities, which have implications with respect to improving air quality and reducing GHG emissions in urban areas.
+Methods
+Study area
+In the early stages of the COVID-19 pandemic, the widespread adoption of lockdown measures led to a substantial decrease of more than 50% in global oil demand. This decline had a profound effect on the entire public transportation sector, influencing patterns of mobility. Moreover, in many jurisdictions, to comply with the new public health regulations that had been instituted, limitations were placed on the number of passengers allowed to use public transport (Arab Trade Union Confederation,
+2020
+).
+Transportation emissions comprised about 25% of Canada's total GHGs (Tian et al.
+2023b
+). Notably, Canada and the United States rank as the world’s top two countries in fuel consumption per vehicle from road transportation (Cazzola et al.
+2019
+). Figure
+1
+a illustrates the emissions caused by transportation and mobile equipment in 2019 in Canada. As can be seen, nitrogen oxides (NO
+x
+) were found to be the largest contributors, accounting for nearly half of the total emissions. Volatile organic compounds (VOCs) and fine particulate matter accounted for approximately 20% of each in the total emissions. It is important to note that sulfur oxides (SO
+x
+) are not primarily emitted by the transportation sector, but rather by industries such as oil and gas, and electric power generation (Canada’s Air,
+2023
+).
+Fig. 1
+Distribution and trends of air pollutant emissions in Canada (Canada’s Air, 2023)
+. a
+Contribution of key pollutants—Nitrogen Oxides (NOx), Sulphur Oxides (SOx), Volatile Organic Compounds (VOCs), and Fine Particulate Matter (PM2.5);
+b
+Trends in air pollutant emissions in Canada (1990–2019), showing percentage changes over time for SOx, NOx, VOCs, and PM2.5.)
+Full size image
+Figure
+1
+b shows the percentage change in emissions of four significant air pollutants compared to their levels in 1990 (Canada’s Air,
+2023
+). The emission patterns in Canada from 1990 to 2019 show that there has been a consistent downward trend in the emission of SO
+x
+, NO
+x
+, VOCs, and fine particulate matter. The reduction in SO
+x
+emissions has been particularly notable, with a significant decline over the past three decades. In fact, there has been a general decline in air pollutant emissions in Canada since 1990, this being largely attributable to the combined efforts of governments, businesses, and individuals.
+In our study, to examine the impact of post-COVID-19 pandemic conditions on urban transportation and air quality, a group of Canadian cities was selected to serve as representative examples of urban areas. This selection included Vancouver in British Columbia, Edmonton in Alberta, Winnipeg in Manitoba, Toronto in Ontario, Montréal in Québec, and Halifax in Nova Scotia. The selected cities are the economic centers of these provinces and have the over 34% population of Canada.
+Data sources and processing
+Data was gathered for the period September 2020 to December 2022, and monthly averages of pollutant levels were computed by taking the mean concentrations derived from hourly measurements recorded each day. It is crucial to mention that weekends were excluded from the analysis of pollutants, including NO₂, CO, SO₂, PM₂.₅, and O₃, across all cities considered in the dataset and analysis (Sect. "
+Results and discussion
+"). The analysis focused on provinces with sufficient data availability, with data for each city collected separately. Detailed data sources are provided in Table
+1
+.
+Table 1 Source of emission data gathered for different provinces of Canada
+Full size table
+We began by constructing a timeline of how the COVID-19 pandemic unfolded in various provinces of Canada, utilizing sources such as COVID-19 statistical data from the World Health Organization (WHO,
+2023
+), Canada Coronavirus tracking (Chung et al.
+2020
+), Updated COVID-19 cases in Canada (Tahirali
+2020
+), and the Coronavirus Resource Center at Johns Hopkins University School of Medicine (Johns Hopkins University,
+2020
+) to analyze the number of cases and deaths.
+To investigate changes in mobility and lifestyle during the pandemic (specifically the period from 2020 to 2022), the Google Mobility Changes for Canada (Covid-19 Community Mobility Reports
+2022
+) was utilized. The COVID-19 Community Mobility dataset provides valuable insights into the change of transportation trends for various purposes (e.g., transportation to the grocery and pharmacy stores, parks, workplace and residential). This dataset proved particularly useful for examining the impacts of the COVID-19 pandemic on changes in mobility patterns. The insights presented are derived from data collected from users who have chosen to enable Location History on their Google Account. It is important to note that the data represents a subset of the user population (i.e., those who have consented to enabling location history) and may not precisely reflect the behavior of the larger population (Covid 19 Google mobility,
+2022
+) Additionally, data from Statistics Canada was also collected for further analysis.
+To examine the impact of transportation on air quality in Canada, fuel consumption and emissions data was collected from Statistics Canada. Gasoline prices were also considered as a significant variable, and this data was also obtained from Statistics Canada. Traffic congestion data was obtained from the TomTom website (TOMTOM
+2022
+) (TomTom is a manufacturer of navigation devices), although only data for Montréal and Toronto could be collected before the website underwent changes and this data became unavailable (Fig.
+8
+includes data only up to the end of 2021 due to changes in TomTom's data format in 2022). For further collection and analysis of traffic data, a comprehensive literature review was conducted. To assess the spatial–temporal variation of NO
+2
+concentration, data from the European Commission and European Space Agency’s Copernicus Sentinel-5P Tropospheric Nitrogen Dioxide platform was utilized (European Commission & European Space Agency,
+2022
+).
+Results and discussion
+Characteristics of COVID-19 pandemic in Canada
+The first case of COVID-19 in Canada was reported in January 2020. Since then, there have been several waves for the outbreak of COVID-19 (Fig.
+2
+a). During the period 2020 to 2022, there were over 47,000 mortality cases attributed to COVID-19 in Canada, with the most COVID-19 fatalities occurring in 2022 (17555). In 2022, there were multiple waves of COVID-19, referred to as the fifth, sixth, and seventh waves. The combined number of deaths from the next two waves of COVID-19 in Canada after March 1st, 2022 was higher than those of previous waves, with a reported 10,866 deaths. One possible reason for the higher number of deaths during these two waves compared to previous ones in Canada could be that there were fewer public health restrictions in place, making it easier for the virus to spread. In December 2020, the first vaccines were approved in Canada, and by early-May 2021, vaccines had become accessible to most people (Kouchakzadeh et al.
+2021
+; Lovelace et al.,
+2020
+).
+Fig. 2
+a
+Timeline of COVID-19 pandemic in Canada,
+b
+Number of Covid cases and death at several provinces of Canada
+Full size image
+Among the Canadian provinces, Québec and Ontario experienced the highest number of COVID-19 cases and fatalities during 2020 to 2022. This trend, which is to be expected considering that these two provinces are the most populous by a considerable margin, is evident in Fig.
+2
+b. One notable observation is that, despite Ontario having a larger population than Québec, the number of deaths resulting from the pandemic during the study period was higher in Québec. This higher baseline in Québec contributed to a higher rate of case growth. The timing of events and initial case numbers likely influenced Québec's situation surpassing Ontario's (Bruemmer
+2020
+).
+Canada’s COVID-19 new case data during the study period roughly followed global trends, peaking between January and March 2022. The year 2022 saw the highest number of cases both in Canada and globally, with identifying in Fig.
+2
+a that fifth, sixth, and seventh waves of the pandemic in Canada occurring in this year. As indicated in Figure S1, the trends in daily COVID-19 deaths in Canada and globally during this period did not precisely align with the same trend. Although some peaks in deaths occurred at similar times, such as in January 2021, and February 2022, both in Canada and globally, the overall patterns were not identical (WHO,
+2023
+; Worldometer
+2022
+). On May 4, 2023, the World Health Organization’s Emergency Committee reclassified the COVID-19 pandemic as a persistent health concern rather than a public health emergency of international concern (IPCA,
+2023
+).
+General mobility and air transportation during the post-COVID-19 pandemic period
+Mobility changes
+Travel restrictions, implemented to curb virus transmission, severely hindered the transportation industry's ability to transport passengers and limited mobility. Consequently, transportation revenues experienced a substantial decline, resulting in wage reductions for workers, layoffs, and closures of some companies due to financial challenges (Arab Trade Union Confederation,
+2020
+).
+Google has provided data on COVID-19 community mobility changes, specifically focusing on variations in the number of visits and durations of stays at various locations. These changes are assessed by comparing them to a baseline, which is established as the mode value for the period from January 3 to February 6, 2020. The Google Mobility Records reveal distinct purposes of transportation, encompassing mobility trends in different categories. This valuable information is collected from the location histories of Google users in Canada who have accepted to enable their location sharing.
+The mobility data in Fig.
+3
+shows there was a clear reduction in commuting to the workplace as a result of the pandemic in Canada. For instance, rates of transportation to the workplace and fuel consumption in April of 2020 were among the lowest compare to the baseline period (January 3rd to February 6th, 2020). Google data for 2020 showed a marked decrease in time spent in most community spaces for the lockdown period, they also showed roughly a 20% increase in time spent in ‘residential’ spaces for the four cities (Toronto, Montreal, Vancouver, and Calgary) (Mashayekhi et al.
+2021
+).
+Fig. 3
+Percentage of changes in transportation for 3 different purposes (Transit stations, Workplace and Residential) in Canada
+Full size image
+In Canada, there was a rise in the number of people working remotely due to the pandemic. According to a survey by Statistics Canada, almost one-third of businesses reported that at least 10% of their workforce had begun working remotely by May 29, 2020 (Statistics Canada,
+2020a
+). In 2022, transportation for commuting to workplaces and transit stations remains below the baseline period (which could be considered as pre-pandemic period), unlike transportation for other purposes, which have not only returned to pre-pandemic levels but have surpassed them. Furthermore, the value for all transportation purposes in 2022 exceeds that of 2021(except for residential purpose), indicating that pandemic restrictions had a diminishing impact on transportation in 2022 in comparison with 2021.
+Based on the data from Fig.
+4
+, transportation for the purpose of going to the to parks in Canada depends largely on the weather—whether during a pandemic or not—because people are more likely to visit parks during the summer months and during more favorable weather conditions and COVID-19 did not have major impact on it. According to Google Mobility Reports for Ontario, people in the region responded as expected during the State of Emergency (SOE in March 2020). The report revealed that during the SOE, individuals spent more time at home compared to the normal baseline, with a 28% increase. However, there was a significant decrease in the time spent at various locations. These included retail and recreation (− 56%), grocery stores and pharmacies (− 23%), parks (− 33%), transit stations (− 69%), and workplaces (− 62%). These decreases in activity indicate that overall transportation movement likely decreased during the state of emergency period in 2020 (Adams et al., 2020). The same data in Ontario between September 3 and October 15, 2022, changes in retail and recreation by (+ 4%), grocery stores and pharmacies by (+ 8%), parks by (+ 68%), transit stations by (− 12%), and workplaces by (+ 3%).
+Fig. 4
+Percentage of changes in transportation for 3 different purposes (Retail and Recreation, Grocery and Pharmacy and Parks) in Canada
+Full size image
+Each COVID-19 wave had a distinct impact on mobility trends across different categories. Early waves (Waves 1 and 2) led to sharp declines in retail, workplace, and transit mobility, accompanied by corresponding increases in residential activity, reflecting strict lockdown measures. In later waves (Waves 3 and 4), the initial impact was less severe, indicating adaptation to restrictions, though fluctuations were still observed—particularly in parks and retail, where mobility temporarily increased before declining again. By Wave 5, the overall impact was less pronounced, with gradual recoveries in workplace and transit mobility, while residential trends remained elevated, suggesting long-term behavioral shifts. The beginning of each wave typically showed a sharper decline, whereas the end often indicated a partial recovery as restrictions eased.
+Variation trends of major Canadian airlines
+Vehicles and aviation are widely regarded as major contributors to GHG emissions, accounting for approximately 72% and 11%, respectively, of the transport sector's emissions (Henriques
+2020
+). Efforts around the globe to control the spread of the virus had a substantial effect on the aviation sector in particular. Many countries implemented limitations on international travel, resulting in a decline in both incoming and outgoing passengers. Consequently, commercial airlines were compelled to cancel a significant number of flights on a global scale (Rume et al.,
+2020
+). Figure
+5
+depicts the number of passengers and total flying hours reported by the Canadian government between 2019 and 2022. Unsurprisingly, Canadian airlines witnessed a sharp decline in passenger traffic by January 2020, which persisted with a dramatic decrease between May 2020 and May 2021. The slope in the figure shows a notable recovery, indicating a significant increase in both the number of passengers and flight hours towards pre-pandemic period (2019) by the end of 2021 and reach to almost same numbers as 2019 by the end of 2022 (Statistics Canada,
+2022b
+).
+Fig. 5
+Number of passengers and hours of flight between 2019 – 2022 in Canada
+Full size image
+Changes in domestic fuel consumption and carbon emissions
+There was a significant decrease in the demand for and utilization of fuel between March 2020 and May 2020 (Amanatidou et al.
+2023
+). This decline in energy consumption was the largest such drop since the Second World War (Bakx
+2020
+). In the transportation sector, from February to March 2020, there was a notable decline in the consumption of three types of transportation fuels (kerosene type jet fuel, motor gasoline, distillate fuel oil). This trend persisted, with historically low levels observed throughout May 2020. Even in June 2020, the demand for transportation fuels remained significantly lower compared to the same period in 2019 (Tian et al.
+2021
+). Figure
+6
+illustrates the supply disposition of three types of fuel products between 2019 and 2022, which is served as the total approximate consumption of fuel in Canada for transportation sector (Statistics Canada,
+2022c
+).
+Fig. 6
+Fuel consumption in Canada between 2019–2022
+Full size image
+Kerosene-type jet fuel, which is mostly consumed for jet and aircraft for both commercial and military air transport, saw a significant change in consumption during the pandemic. The first pandemic wave (April 2020) coincided with the lowest consumption for the period of this study for all three categories of the above-noted fuel products. By 2022, the consumption of all three types of fuel had returned to pre-pandemic levels, matching the levels seen in 2019. The consumption of finished motor gasoline and distillate fuel oil changed slightly between 2020 and 2022. However, in the case of kerosene-type jet fuel, there was a noticeable fluctuation: it experienced a sharp decline during the onset of the COVID-19 pandemic in 2020, followed by a gradual increase, and eventually a return to pre-pandemic levels by 2022.
+The relationship between fuel consumption trends (Fig.
+6
+) and transportation changes (Figs.
+3
+and
+4
+) across different COVID-19 waves reveals significant correlations. During the first wave (early 2020), a sharp decline in workplace and transit station mobility, coupled with a drastic reduction in air passenger numbers and flight hours, led to a significant drop in fuel consumption. In the second and third waves, mobility patterns showed minor fluctuations, with slight recoveries followed by declines, reflecting ongoing restrictions and cautious travel behavior. This corresponded to relatively stable but low fuel consumption levels. The fourth and fifth waves saw a gradual and sustained recovery in workplace, transit, and air travel, driving an increase in fuel consumption. Residential mobility trends exhibited an inverse relationship across all waves, indicating that greater home presence correlated with lower fuel demand. These observations confirm the strong link between pandemic-driven mobility shifts and fuel consumption patterns across different waves.
+It is possible to estimate and calculate vehicle emissions based on either the fuel consumption or the traveled distance of vehicles (Yu et al.
+2017
+). Typically, the method of using fuel consumption is more suitable for determining CO
+2
+emissions (Eggleston et al.
+2006
+). As shown in Fig.
+7
+, the increase in CO
+2
+emissions from motor gasoline was evident in the end of 2021 and the beginning of 2022, as they reached levels similar to those of 2019 (i.e., before the COVID-19 pandemic). Notably, emissions tend to be higher during the summer months compared to other times of the year. During each wave of the pandemic, strict limitations such as lockdowns resulted in a decrease in emissions, but once the restrictions were lifted, emissions quickly increased again. When comparing the CO
+2
+emissions data for February to April in 2020, 2021, and 2022, it is evident that CO
+2
+emissions were higher in 2022 than in 2021, and higher in 2021 than in 2020.
+Fig. 7
+CO
+2
+emissions from motor gasoline in Canada from December 2019 to June 2022
+Full size image
+It is important to acknowledge that the decrease in vehicle mobility, as observed in the data published by Statistics Canada, may not be solely attributable to the COVID-19 pandemic. Another significant factor to consider is the post-pandemic surge in fuel prices. Compared to the previous year, the average cost of refueling a gasoline car in 2022 saw a 27% increase, while diesel vehicle owners experienced an even more significant 48% rise in expenses (TomTom, 2023). As Figure S2 indicates the price of gasoline in Canada in 2022 was almost double that in 2019 (Statistics Canada,
+2023d
+).
+Trends of traffic congestion in Canada
+The COVID-19 pandemic caused significant changes in travel behavior worldwide, including in Canada (Kouchakzadeh et al.
+2021
+). In Canadian cities, traffic congestion levels were lower in 2021 than in 2019 but higher in 2021 than in 2020, indicating a gradual return to pre-pandemic levels. Lockdown measures and the closure of public establishments such as gyms, bars, and museums led to a significant decrease in road traffic. Consequently, there were the lowest levels of traffic during 2020–2021. In Toronto, the spring afternoon rush-hour experienced no traffic delays with a travel time index (TTI) value of 1.0 in 2020, compared to a TTI value of 1.76 and a 76% travel time increase due to congestion in 2019 (Gough et al.,
+2022
+). These findings demonstrate the impact of reduced traffic on congestion during the pandemic.
+With the onset of the COVID-19 pandemic and the implementation of public health restrictions in Toronto, there was a substantial and immediate decrease in traffic congestion levels (Fig.
+8
+). Similarly, Montréal experienced a 32% reduction in congestion during the first week, and the congestion continued to drop, reaching even lower levels in the second week (Tian et al.
+2021
+). In fact, Toronto and Montréal experienced similar traffic congestion trends in 2019, 2020, and 2021. There was less traffic congestion in both cities in 2020 and 2021 compared to in 2019 (i.e., before the pandemic). However, in 2021, there was a significant increase in traffic congestion compared to 2020, with a steep slope. Data published by TomTom for 2022 reveals changes in travel speed and travel time. On average, in Montreal, it took an additional 10 s to drive a 10 km distance in 2022 compared to the previous year. Additionally, the driving time during rush hours increased by 9 h and 39 min in 2022 compared to 2021. In Toronto, the data indicates a 1 min and 40 s increase in driving time for a 10 km distance in 2022 compared to 2021. Moreover, the time spent driving during rush hours in 2022 was 14 h and 42 min more than in 2021 (Beedham
+2023
+).
+Fig. 8
+Traffic congestion in Toronto and Montreal
+Full size image
+As with other COVID-19 data, when there were restrictions on commuting, traffic congestion was lower (Fig.
+8
+). In April 2020, traffic congestion was at its lowest in the study period, and this corresponded to reduced consumption of motor gasoline and lower CO
+2
+emissions. It is important to note that the effects of the pandemic were not uniform over the course of its duration. There were third, fourth, and part of fifth waves of COVID-19 in 2021 following the first two waves occurring in 2020. Another important factor to consider is that, during and after the pandemic, there has been a notable shift towards individuals using their personal vehicles instead of relying on public transportation. This shift has contributed to a swift return to pre-pandemic traffic congestion levels (Hu et al.
+2020
+). Following the implementation of public health measures to limit the spread of COVID-19, there was a significant increase in travel speed on most freeways. As the lockdown measures were gradually lifted, travel speed began to decrease on various freeways. However, even after reaching the third stage of reopening in Toronto and the Peel Region, the travel speed in 2020 remained noticeably higher than the levels recorded in 2019. This suggests that the impact of the pandemic on travel speed persisted even after the initial easing of restrictions (Kouchakzadeh et al.
+2021
+).
+Variation of urban air pollution in Canadian cities
+Urban NO
+2
+concentrations
+In 2020, there were noticeable reductions in NO
+2
+levels in Vancouver, Edmonton, Montréal and Halifax when compared to the same periods in 2019 and 2018. However, the cities of Toronto and Winnipeg did not experience these decreases. Among all of these cities, Edmonton showed the most significant decline in NO
+2
+levels during the 2020 period (Tian et al.
+2021
+). During the initial phase of lockdowns in the COVID-19 pandemic, there was a substantial decline in NO
+x
+and NO
+2
+levels. Toronto West (west of Toronto which is closer to major transportation infrastructure), in particular, witnessed a noteworthy decrease of up to 69%. The reduction was more pronounced on weekends compared to weekdays, and NO experienced a greater decline than NO
+2
+(Gough et al.,
+2022
+). After September 2020, there were significant fluctuations in NO
+2
+emissions across different seasons and pandemic waves (Fig.
+9
+). With the exception of Winnipeg, the NO
+2
+emission trends were similar across provinces during the course of 2021 and 2022, a time period that coincided with the third, fourth, fifth, sixth, and seventh waves of the pandemic. According to Gough et al. (2022). An increase in traffic volume can lead to a proportional rise in the emission of NO
+x
+, specifically nitric oxide (NO).
+Fig. 9
+NO
+2
+concentration in different cities of Canada
+Full size image
+The main source of NO
+2
+emissions in Canada during the period 1990 to 2019 was transportation and mobile equipment. Meanwhile, as shown in Figure S3, the total concentration of NO
+2
+decreased significantly between 2002 and 2016 (Canada’s Air,
+2023
+). Alberta had the highest NO
+2
+emission rate among Canadian provinces during this period, followed by Ontario. Moreover, in 2017, the emission of NO
+x
+from transportation and mobile equipment was approximately half that observed in 1990 (Figure S4).
+There was a consistent trend in the levels of NO
+2
+concentration across almost all provinces, with some variation in the actual amounts (Fig.
+9
+). In every province, there was a significant reduction in NO
+2
+concentration between March and September of 2021, followed by an increase. This pattern was not unique to 2021 but was also observed in 2022, suggesting that NO
+2
+concentration vary with the season, with higher emissions in colder months from November to the start of spring (Perne et al.
+2023
+). Analyzing air pollution with respect to seasonal patterns clearly validates the occurrence of heightened levels during winter and the heating season, while observing lower levels in summer and during the summer season (Cichowicz et al.
+2017
+). The decrease in NO
+2
+and CO levels during summer is linked to these compounds contributing to photochemical reactions influenced by solar radiation (Tian et al.
+2023c
+). These reactions can further lead to the formation of ozone (Hedgehog
+2009
+). Seasonal trends in NO₂ concentrations show higher levels in colder months due to increased heating emissions and reduced dispersion, while lower levels in summer are driven by enhanced photochemical reactions. Traffic volume fluctuations during pandemic phases also influenced these patterns. When comparing NO
+2
+concentration between 2021 and 2022, there was not much difference, except in Winnipeg, which showed lower NO
+2
+concentration in 2022. Of all the representative Canadian cities analyzed, Vancouver and Toronto were found to have the highest levels of NO
+2
+concentration, while Edmonton had the lowest. As vehicles are the major sources of NO
+2
+emissions it is not surprising that there was a general decrease in NO
+2
+concentration coinciding with the significant reduction in vehicle transportation during the pandemic.
+Spatial–temporal variations in NO
+2
+concentration
+With the declaration of a public health state of emergency at the beginning of the COVID-19 pandemic, there was a decrease in pollutant concentrations in Canadian cities beginning in April 2020. However, following July 2020, there was a partial rebound in NO
+2
+concentration levels. Notably, there were no significant changes in NO
+2
+emission levels in Halifax and Winnipeg, between March 2019 and June 2020 (Tian et al.
+2021
+). Figure
+10
+provides a clear depiction of the variations in NO
+2
+concentration from September 2020 to December 2022 in the representative Canadian. The spatial images indicate that the levels of atmospheric NO
+2
+in 2021 and 2022 were similar. However, there is a significant difference when comparing 2020 with 2021 and 2022. The images also confirm that NO
+2
+concentration is generally higher in colder seasons in Canada compared to in warmer seasons. Furthermore, comparing December 2020, with the same month in 2021 and 2022 reveals a substantial reduction in NO
+2
+concentration during the third wave of the pandemic, compared to the first and second waves. This observation indicates that the short-term quarantine measures had a significant impact on reducing air pollution, but that this effect was only temporary.
+Fig. 10
+Spatial–temporal variation of NO
+2
+concentration in Montréal, Toronto, Edmonton and Vancouver from September 2020 to December 2022
+Full size image
+In Edmonton, the concentration of NO
+2
+was considerably higher in December 2020, compared to in December 2021, and, in turn, December 2021 exhibited higher concentrations than December 2022 (Fig.
+10
+). A similar pattern was observed for March 2021 and 2022, with the lower concentration recorded in March 2022. On the other hand, the emissions in September were relatively consistent for all three years in Edmonton. In Montréal, the NO
+2
+concentration in December 2020, 2021, and 2022 followed a similar trend to that observed in Edmonton. Moreover, March 2021 and 2022 exhibited almost identical NO
+2
+concentrations, while the June 2022, concentration was slightly lower than that in June 2021. In Toronto, a consistent trend in the concentration of NO
+2
+can be observed when comparing December 2020, 2021, and 2022. In December 2022, there was a lower concentration of NO
+2
+compared to in December 2021, while December 2021 exhibited lower levels than December 2020. Conversely, in March 2022, there was a higher concentration of NO
+2
+compared to in March 2021. For the other months examined, the NO
+2
+concentration showed minimal variation, with no significant differences observed between them. In Vancouver, notable variations in NO
+2
+concentration between the months of 2020, 2021, and 2022 are not evident. However, a slight decrease in concentration can be observed in 2022 compared to both 2020 and 2021.
+CO concentration
+There is little monitoring data available on CO concentration in Canada after 2020. In the early months of 2020, the average CO concentrations in Canadian cities were notably lower than the levels recorded in both 2018 and 2019 (Tian et al.
+2021
+). Moreover, based on the available data in Fig.
+11
+, for Halifax, Edmonton and Vancouver, it is evident that there were significant fluctuations in CO emissions in all three cities. In both Edmonton and Halifax, the CO concentration in December 2022, were observed to be lower than in December 2020 and 2021, indicating that the CO concentrations had not returned to pre-COVID-19 levels in 2022. Conversely, in Vancouver, the CO emissions appeared to have reached levels similar to those observed during the initial period of the COVID-19 pandemic by December 2022. The peak CO emission levels in Edmonton and Vancouver were approximately 0.4 ppm, while in Halifax, the peak emission level was half of that, at 0.2 ppm.
+Fig. 11
+CO concentration in Vancouver, Edmonton, and Halifax
+Full size image
+SO
+2
+concentration
+SO
+2
+is discharged into the air as a result of burning fossil fuels or using raw materials that contain sulfur, such as in industrial activities like smelting metal ores or generating electrical power. It can also be produced in significant amounts during the extraction and processing of fossil fuels (MODNR,
+2023
+). SO
+2
+contributes to the creation of PM
+2.5
+particles and hazy atmospheric conditions. When it reacts with water in the air, it can generate substances such as sulfuric acid, which eventually falls as acid rain, snow, or fog (EPA,
+2023
+).
+SO
+2
+emissions had decreased considerably by 2019 compared with 2000 (Figure S5). In 2000, Ontario had the highest SO
+2
+emissions among Canadian provinces, followed by Alberta, Manitoba, and Québec. By 2019, Alberta was predominant in SO
+2
+emission. Moreover, there is little data available on SO
+2
+emissions in Canada during the pandemic. Figure
+12
+illustrates SO
+2
+concentration data from Halifax and Vancouver with fluctuation. In both cities, the highest emission rates were observed around January and February in both 2021 and 2022. Halifax recorded a peak concentration of approximately 0.7 ppb, while Vancouver reached a peak of 0.6 ppb in January 2020, with lower emissions being observed in 2022. In Halifax, emissions were generally lower in 2022 compared to in 2021, except for the peak period. Similarly, Vancouver also experienced lower emissions in 2022 compared to in the previous year, with the exception of the peak period in January.
+Fig. 12
+SO
+2
+concentration at Halifax and Vancouver
+Full size image
+PM
+2.5
+concentration
+PM can be categorized as either primary or secondary, depending on its origin. Primary PM is directly emitted from sources such as smokestacks, exhaust pipes, or vehicle traffic on unpaved roads, while secondary PM forms through chemical reactions involving gases such as SO
+x
+and NO
+x
+. PM comes in various sizes, with particles smaller than 2.5 µm (PM
+2.5
+) posing particular health concerns. During the state of emergency (SOE) due to COVID-19 in Ontario, the levels of PM
+2.5
+remained stable and consistent with previous levels. In regions where transportation is a primary contributor to pollution, the study revealed that PM
+2.5
+particles associated with transportation constituted only a minor proportion of the overall observed concentrations (Adam et al.,
+2020
+). Ontario and Québec, and to a lesser extent Alberta and British Columbia, were the leading provinces in terms of PM
+2.5
+emissions during the period 1990 to 2019 (Canada’s Air,
+2023
+), with some of the major sources of PM
+2.5
+during that period being home firewood burning, manufacturing, and transportation and mobile equipment. The emission of PM
+2.5
+from vehicles saw a substantial decline in 2018 compared to 1990, with emissions decreasing by nearly 50% (Figure S6).
+As shown in Fig.
+13
+, Toronto and Edmonton recorded the highest average PM
+2.5
+concentrations among the representative cities under study in 202, while Montréal and Vancouver also had elevated PM
+2.5
+concentrations. The PM
+2.5
+concentrations do not follow a clear pattern except in Winnipeg and Edmonton, where the PM
+2.5
+concentration pattern remains consistent between 2020 and 2022. Notably, there is a peak in PM
+2.5
+concentration observed in July 2021, for Toronto, Vancouver, Halifax, Edmonton, and Winnipeg. Aside from these observations, the fluctuation in PM
+2.5
+concentration is substantial, and there is minimal discernible impact of either the pandemic or the post-pandemic period on PM
+2.5
+levels. Another observation is that the variation between the maximum and minimum concentrations of PM
+2.5
+over the 11-month period in 2022 was notably higher in Montréal compared to in the other cities under study. The concentration levels were high at the beginning of 2022, but they began to decline significantly from March 2022, onward, exhibiting a steep downward trend. As shown in Figure S7, in 2022, Edmonton is the city with highest concentration of PM
+2.5
+and Winnipeg has the lowest concentration (Statista
+2022
+).
+Fig. 13
+PM
+2.5
+concentration in several provinces in Canada
+Full size image
+O
+3
+concentration
+Ground-level O
+3
+is a major component of smog that forms through chemical reactions involving NO
+x
+and VOCs in sunlight. O
+3
+also functions as a short-term climate-affecting pollutant, contributing to alterations in climate patterns. Evaluating the effect of the state of emergency (SOE) on O
+3
+levels proved more challenging than assessing the effects on NO
+2
+and NO
+x
+due to the complex nature of O
+3
+formation, which, as noted above, involves NO
+x
+, Volatile Organic Compounds (VOCs), and solar radiation, meaning that it extends beyond emissions alone and is subject to meteorological factors (Adam et al.,
+2020
+). Regions with high levels of background O
+3
+tend to experience their highest concentrations of O
+3
+during the spring season, whereas areas with human-made emissions of primary pollutants tend to have maximum concentrations of O
+3
+during the summer months (Vingarzan et al.,
+2003
+). Previous studies for 2020–2022 have shown a significant decrease in most air pollutants, such as NO
+x
+, but there has not been same for O
+3
+especially during the first wave of pandemic which had a higher concentration as it is a secondary pollutant that forms due to the interaction of chemical precursors (NO
+x
+and VOCs) and ultraviolet radiation (Brancher
+2021
+; Adam et al.,
+2020
+; Tibrewal and Venkataraman
+2022
+).
+Upon examination, it appears that the impact of the COVID-19 pandemic on O
+3
+concentration has been limited in Canada, although data in Fig.
+14
+revealed different patterns from city to city. Edmonton and Halifax exhibited a similar pattern, with a primary peak of O
+3
+occurring between April and July of 2021 and 2022 in Edmonton, and from between February and April 2021 and 2022 in Halifax. Vancouver followed a similar pattern with its primary peak in April. For Winnipeg, drawing conclusive observations proved to be a challenge, but O
+3
+concentrations appeared to be higher in 2022 compared to in 2021. Toronto showed similar concentrations in 2021 and 2022, with lower levels in these years compared to 2020. Montréal experienced an O
+3
+peak between April and July 2022.
+Fig. 14
+O
+3
+concentration in different provinces of Canada
+Full size image
+Conclusions
+This study delves into the later stages of the COVID-19 pandemic, offering a distinctive analysis compared to previous studies. The exploration encompasses a broad spectrum, including insights from the mobility analysis, revealing a lasting transformation in Canadian lifestyle patterns, with remote work becoming a sustained norm. Intriguingly, the aviation sector demonstrated a swift recovery, nearly returning to pre-pandemic levels by 2022. Through examining fuel consumption and CO
+2
+emissions, it was observed that kerosene-type jet fuel exhibited a rapid rebound in 2022, reaching levels comparable to those in 2019. Conversely, the consumption of distillate fuel oil and motor gasoline showed no significant impact from the pandemic. Analyzing emissions from September 2020 to December 2022, changes were also found in NO
+2
+, CO, SO
+2
+, PM
+2.5
+, and O
+3
+. While earlier studies extensively documented a significant decrease in NO
+2
+emissions at the pandemic's onset, this research indicates minimal variations in the concentrations of these indicators throughout 2021 and 2022. This comprehensive analysis contributes to our understanding of the enduring effects of the pandemic on various environmental parameters, providing valuable insights for future strategic planning and decision-making. By understanding the patterns observed in fuel consumption, emissions, and lifestyle changes, policymakers can formulate targeted strategies to enhance sustainability and reduce the environmental footprint.
+Availability of data and materials
+Data is provided within the manuscript and supplementary information file.
+References
+Adams MD (2020) Air pollution in Ontario, Canada during the COVID-19 state of emergency. Sci Total Environ 742:140516
+Article
+CAS
+Google Scholar
+Air Quality Ontario., 2023. Station Information: [Downtown and West].
+http://www.airqualityontario.com/history/station.php?stationid=31129&submit_station=Choose+Station
+.
+Alberta Capital Airshed., 2022. Live air data.
+https://capitalairshed.ca/about-us/our-role/
+.
+Al-Duroobi H, Vadde KK, Phan DC, Moghadam SV, Jafarzadeh A, Matta A, Giacomoni M, Kapoor V (2023) Wastewater-based surveillance of COVID-19 and removal of SARS-CoV-2 RNA across a major wastewater treatment plant in San Antonio Texas. Environ Sci Adv 2(5):709–720
+Article
+CAS
+Google Scholar
+Amanatidou E, Samiotis G, Trikoilidou E, Tsikritzis L, Taousanidis N (2023) Centennial assessment of greenhouse gases emissions of young and old hydroelectric reservoir in mediterranean mainland. J Environ Inf 41:29–36
+Google Scholar
+Arab Trade Union Confederation., 2020. Impact of the COVID-19 on the Transport Industry Arab.
+B.C. Air Quality Data., 2022. Current air quality data.
+https://envistaweb.env.gov.bc.ca/
+.
+Baimatova N, Omarova A, Muratuly A et al (2022) Seasonal variations and effect of COVID-19 lockdown restrictions on the air quality in the cities of Kazakhstan. Environ Process 9:48.
+https://doi.org/10.1007/s40710-022-00603-w
+Article
+CAS
+Google Scholar
+Bakx K, 2020. COVID-19 wipes out demand for fossil fuels — will they bounce back? CBC News.
+https://www.cbc.ca/news/business/covid-19-oil-gas-energy-transition-1.5552794
+.
+Beedham, M., 2023. TomTom Traffic Index headlines: 2022’s traffic insights and the cost-of-driving.
+https://www.tomtom.com/newsroom/explainers-and-insights/the-cost-of-driving-in-a-cost-of-living-crisis/
+.
+Berman JD, Ebisu K (2020) Changes in US air pollution during the COVID-19 pandemic. Sci Total Environ 739:139864
+Article
+CAS
+Google Scholar
+Biswal A, Singh T, Singh V, Ravindra K, Mor S (2020) COVID-19 lockdown and its impact on tropospheric NO
+2
+concentrations over India using satellite-based data. Heliyon.
+https://doi.org/10.1016/j.heliyon.2020.e04764
+Article
+Google Scholar
+Blanche MF, Dairou AA, Juscar N, Romarice OMF, Arsene M, Bernard TL, Leroy MNL (2024) Assessment of land cover degradation due to mining activities using remote sensing and digital photogrammetry. Environ Syst Res 13(1):41
+Article
+Google Scholar
+Brancher M (2021) Increased ozone pollution alongside reduced nitrogen dioxide concentrations during Vienna’s first COVID-19 lockdown: significance for air quality management. Environ Pollut 284:117193
+Article
+Google Scholar
+Bruemmer, R., 2020. Why does Quebec have more COVID-19 cases than Ontario?
+https://montrealgazette.com/news/quebec/why-does-quebec-have-more-covid-19-cases-than-ontario
+.
+Cai M, Guy C, Héroux M, Lichtfouse E, An C (2021) The impact of successive COVID 19 lockdowns on people mobility, lockdown efficiency, and municipal solid waste. Environ Chem Lett 19:3959–3965
+Article
+CAS
+Google Scholar
+Caine, P., 2020. Environmental impact of COVID-19 lockdowns seen from space. Science & Nature.
+https://news.wttw.com/2020/04/02/environmental-impact-covid-19-lockdowns-seen-space
+.
+Canadian Council of Ministers of the Environment, 2023. Air Quality Report. (Canada’s Air),
+https://ccme.ca/en/air-quality-report
+.
+Cazzola P, Scheffer S, Paoli L, Craglia M, Tietge U, Yang Z, 2019. Fuel economy in major car markets: Technology and policy drivers. 2005–2017.
+Chung E, Grasley R, Kindrachuk T, Mamak A, Ryan A, Sardesai M. and Wolfe-Wylie W., 2020. Tracking the coronavirus
+https://newsinteractives.cbc.ca/coronavirustracker/
+.
+Cichowicz R, Wielgosiński G, Fetter W (2017) Dispersion of atmospheric air pollution in summer and winter season. Environ Monit Assess 189(12):605
+Article
+Google Scholar
+Covid-19 Community Mobility Reports., 2022. Covid 19- Google mobility changes.
+https://lookerstudio.google.com/reporting/a529e043-e2b9-4e6f-86c6-ec99a5d7b9a4/page/yY2MB?s=ho2bve3abdM
+.
+COVID-19 Dashboard., Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU), 2020.
+https://coronavirus.jhu.edu/map.html
+.
+Dutheil F, Baker JS, Navel V (2020) COVID-19 as a factor influencing air pollution? Environ Pollut 263:114466
+Article
+CAS
+Google Scholar
+Eggleston S, Buendia L, Miwa K, Ngara T. Tanabe K, 2006. 2006 IPCC guidelines for national greenhouse gas inventories, Institute for Global Environmental Strategies Hayama, Japan.
+European Commission & European Space Agency., 2022. Copernicus sentinel-5P tropospheric nitrogen dioxide.
+https://maps.s5p-pal.com/
+.
+Filonchyk M, Hurynovich V, Yan H (2021) Impact of Covid-19 lockdown on air quality in the Poland. Eastern Europe Environ Res 198:110454
+CAS
+Google Scholar
+Ghosh I., 2020. The emissions impact of coronavirus lockdowns, as shown by satellites.
+https://www.visualcapitalist.com/coronavirus-lockdowns-emissions/
+.
+Gopikrishnan GS, Kuttippurath J, Raj S et al (2022) Air Quality during the COVID–19 lockdown and unlock periods in India Analyzed using satellite and ground-based measurements. Environ Process 9:28.
+https://doi.org/10.1007/s40710-022-00585-9
+Article
+CAS
+Google Scholar
+Gough WA, Anderson V (2022) Changing air quality and the ozone weekend effect during the COVID-19 pandemic in Toronto, Ontario. Canada Climate 10(3):41
+Article
+Google Scholar
+Government of Alberta., 2022. Alberta air data warehouse
+https://www.alberta.ca/alberta-air-data-warehouse.aspx
+.
+Goyal I, Verma PK, Singh V, Kumari KM, Lakhani A (2023) Spatio-temporal variation in air quality and unexpected pollution levels during the lamp event over the Indo-Gangetic Plain in the first wave of the COVID-19 pandemic. Environ Sci 2(1):87–97
+CAS
+Google Scholar
+Hedgehog, M., 2009. Environmental protection technologies: Atmosphere protection. WSEiZ Publishing House.
+Henriques M, 2020. Will Covid-19 have a lasting impact on the environment? BBC News.
+https://www.bbc.com/future/article/20200326-covid-19-the-impact-of-coronavirus-on-the-environment
+.
+Hu Y, Barbour W, Samaranayake S, Work D, 2020. Impacts of Covid-19 mode shift on road traffic. arXiv e-print
+s
+.
+https://arxiv.org/abs/2005.01610
+.
+Infection prevention and control Canada (IPCA)., 2023. COVID-19.
+https://ipac-canada.org/coronavirus-resources#:~:text=On%20May%204%2C%202023%2C%20the,of%20international%20concern%20(PHEIC
+.
+Jephcote C, Hansell AL, Adams K, Gulliver J (2021) Changes in air quality during COVID-19 ‘lockdown’ in the United Kingdom. Environ Pollut 272:116011
+Article
+CAS
+Google Scholar
+Kouchakzadeh M, Bayanouni H, & Roorda MJ, 2021. Analyzing impact of the COVID-19 pandemic on GTHA traffic congestion using travel speed data. University of Toronto.
+B. Lovelace and W. Feuer., 2020. Most people likely won’t get a coronavirus vaccine until the middle of 2021. CNBC.
+https://www.cnbc.com/2020/09/04/most-people-likelywont-get-a-coronavirus-vaccine-until-the-middle-of-2021.html
+.
+Manitoba Government., 2023. Envista Web
+https://web43.gov.mb.ca/EnvistaWeb/Default.ltr.aspx
+.
+Mashayekhi R, Pavlovic R, Racine J et al (2021) Isolating the impact of COVID-19 lockdown measures on urban air quality in Canada. Air Qual Atmos Health 14:1549–1570.
+https://doi.org/10.1007/s11869-021-01039-1
+Article
+CAS
+Google Scholar
+Mhangara P, Gidey E, Manjoo R (2024) Analysis of urban sprawl dynamics using machine learning, CA-Markov chain, and the Shannon entropy model: a case study in Mbombela City South Africa. Environ Syst Res 13(1):17
+Article
+Google Scholar
+Missouri Department of Natural Resources (MODNR), 2023. Sulfur dioxide pollutants and sources
+.
+https://dnr.mo.gov/air/hows-air/pollutants-sources/sulfur-dioxide#:~:text=The%20largest%20source%20of%20SO,plants%20and%20other%20industrial%20facilities
+.
+Ville de Montreal., 2022. Montreal air quality.
+https://donnees.montreal.ca/dataset/rsqa-indice-qualite-air
+.
+Nova Scotia Environment., 2022. Nova scotia environment ambient air quality data.
+https://novascotia.ca/nse/airdata/
+.
+Öztürk Y, Yulu A, Turgay O (2023) Remote sensing supported analysis of the effect of wind erosion on local air pollution in arid regions: a case study from Iğdır province in eastern Türkiye. Environ Syst Res 12(1):13
+Article
+Google Scholar
+Perne M, Kocijan J, Božnar M, Grašič B, Mlakar P (2023) Hybrid forecasting of wind for air pollution dispersion over complex terrain. J Environ Inf 41:88–103
+Google Scholar
+Rume T, Islam SMD-U (2020) Environmental effects of COVID-19 pandemic and potential strategies of sustainability. Heliyon 6(9):e04965
+Article
+CAS
+Google Scholar
+Saadat S, Rawtani D, Hussain CM (2020) Environmental perspective of COVID-19. Sci Total Environ 728:138870
+Article
+CAS
+Google Scholar
+Sangi S, Falahatkar S, Gholamalifard M (2023) Spatiotemporal variation of nitrogen dioxide and nighttime light dataset of Iranian metropolises in the COVID-19 outbreak. J Environ Inf 41:130–140
+Google Scholar
+Somani M, Srivastava AN, Gummadivalli SK, Sharma A (2020) Indirect implications of COVID-19 towards sustainable environment: an investigation in Indian context. Biores Technol Reports 11:100491
+Article
+Google Scholar
+Statista., 2022. Average PM
+2.5
+concentration in selected cities in Canada in 2022.
+https://www.statista.com/statistics/1290678/average-pm25-in-selected-cities-in-india/#:~:text=Edmonton%20had%20the%20highest%20average,Ottawa%20had%20an%20average%20PM2
+.
+Statistics Canada., 2020a. Canadian survey on business conditions: Impact of COVID-19 on businesses in Canada.
+https://www150.statcan.gc.ca/n1/dailyquotidien/200714/dq200714a-eng.htm?CMP=mstatcan
+.
+Statistics Canada., 2022b. Operating and financial statistics for major Canadian airlines.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310007901&cubeTimeFrame.startMonth=09&cubeTimeFrame.startYear=2019&cubeTimeFrame.endMonth=12&cubeTimeFrame.endYear=2022&referencePeriods=20190901%2C20221201
+.
+Statistics Canada. 2022c. Petroleum products by supply and disposition, monthly.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510008101
+.
+Statistics Canada., 2023d. Monthly average retail prices for gasoline and fuel oil.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101&pickMembers%5B0%5D=2.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2019&cubeTimeFrame.endMonth=12&cubeTimeFrame.endYear=2022&referencePeriods=20190101%2C20221201
+.
+Tahirali J., 2020. Tracking every case of COVID-19 in Canada. CTV News.
+https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102
+. Accessed March 2023.
+Tian X, An C, Chen Z, Tian Z (2021) Assessing the impact of COVID-19 pandemic on urban transportation and air quality in Canada. Sci Total Environ 765:144270.
+https://doi.org/10.1016/j.scitotenv.2020.144270
+Article
+CAS
+Google Scholar
+Tian X, Waygood EOD, An C, Chen Z, Peng H (2023a) Achieving urban net-zero targets through regionalized electric bus penetration and energy transition. Transp Res Part d: Transp Environ 120:103797
+Article
+Google Scholar
+Tian X, An C, Chen Z (2023b) The role of clean energy in achieving decarbonization of electricity generation, transportation, and heating sectors by 2050: A meta-analysis review. Renew Sustain Energy Rev 182:113404
+Article
+Google Scholar
+Tian H, Ren H, Li X, Zhang X, Xu X, Wang S (2023c) Specificality, quality variation, assessment and treatment of estuarine water in the pearl river delta, South China. J Environ Inf 42:13–24
+Google Scholar
+Tibrewal K, Venkataraman C (2022) COVID-19 lockdown closures of emissions sources in India: lessons for air quality and climate policy. J Environ Manage 302(Pt B):114079
+Article
+CAS
+Google Scholar
+TOMTOM., 2022. Tomtom traffic index
+https://www.tomtom.com/en_gb/traffic-index/
+.
+United States Environmental Protection Agency (EPA)., 2023. What causes acid rain?
+https://www3.epa.gov/acidrain/education/site_students/whatcauses.html#:~:text=Acid%20rain%20is%20caused%20by,pollutants%2C%20known%20as%20acid%20rain
+.
+Usman M, Ho Y-S (2021) COVID-19 and the emerging research trends in environmental studies: a bibliometric evaluation. Environ Sci Pollut Res 28(16913):16924
+Google Scholar
+Vingarzan R, Taylor B (2003) Trend analysis of ground level ozone in the Greater Vancouver/Fraser Valley area of British Columbia. Atmos Environ 37:2159–2171
+Article
+CAS
+Google Scholar
+Wan S, Nik-Bakht M, Ng KTW, Tian X, An C, Sun H, Yue R (2024) Insights into the urban municipal solid waste generation during the COVID-19 pandemic from machine learning analysis. Sustain Cities Soc 100:105044
+Article
+Google Scholar
+World Health Organization (2023) COVID-19: Post-pandemic transition. World Health Organization, Geneva
+Google Scholar
+World Health Organization. (2023) COVID-19
+:
+Post-pandemic transition. World Health Organization, Geneva
+Google Scholar
+Worldometer., 2022. Coronavirus cases and deaths.
+Yu L, Li Y, Huang G, An C (2017) A robust flexible-probabilistic programming method for planning municipal energy system with considering peak-electricity price and electric vehicle. Energy Convers Manage 137:97–112
+Article
+Google Scholar
+Zhang X, Yan D, Qin T, Li C, Wang H (2023) Differences in China greening characteristics and its contribution to global greening. J Environ Inf 42:143–157
+CAS
+Google Scholar
+Zhu Y, Xie J, Huang F, Cao L (2020) Association between short-term exposure to air pollution and COVID-19 infection: evidence from China. Sci Total Environ 727:138704
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This research was supported by Concordia University. The authors are also grateful to the editor and the anonymous reviewers for their insightful comments and suggestions.
+Funding
+This research was supported by Concordia University.
+Author information
+Authors and Affiliations
+Department of Building, Civil and Environmental Engineering, Concordia University, Montreal, H3G 1M8, Canada
+Saba Naderi, Xuelin Tian & Chunjiang An
+Authors
+Saba Naderi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xuelin Tian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chunjiang An
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Saba Naderi collected the data, conducted the analysis, and wrote the main manuscript text. Xuelin Tian provided the analytical tools and revised the manuscript. Chunjiang An supervised the study and revised the manuscript. All authors reviewed the manuscript.
+Corresponding author
+Correspondence to
+Chunjiang An
+.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Information
+Additional file 1.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Naderi, S., Tian, X. & An, C. Assessment of mobility trends and transportation-related emissions in Canadian cities during the post-COVID-19 pandemic period.
+Environ Syst Res
+14
+, 3 (2025). https://doi.org/10.1186/s40068-025-00394-7
+Download citation
+Received
+:
+01 January 2025
+Accepted
+:
+03 February 2025
+Published
+:
+25 February 2025
+DOI
+:
+https://doi.org/10.1186/s40068-025-00394-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Post-pandemic impact
+Transportation related emissions
+Urban air quality
+Fuel consumption
+Transportation and mobility
+Download PDF
+Advertisement
+Support and Contact
+Jobs
+Language editing for authors
+Scientific editing for authors
+Leave feedback
+Terms and conditions
+Privacy statement
+Accessibility
+Cookies
+Follow SpringerOpen
+SpringerOpen Twitter page
+SpringerOpen Facebook page
+By using this website, you agree to our
+Terms and Conditions
+,
+Your US state privacy rights
+,
+Privacy
+                statement
+and
+Cookies
+policy.
+Your privacy choices/Manage cookies
+we use in the preference centre.
+© 2025 BioMed Central Ltd unless otherwise stated. Part of
+Springer Nature
+.

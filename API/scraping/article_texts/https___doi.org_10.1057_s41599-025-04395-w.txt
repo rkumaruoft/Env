@@ -1,0 +1,940 @@
+To label or not? A choice experiment testing whether labelled green bonds matter to retail investors | Humanities and Social Sciences Communications
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+humanities and social sciences communications
+articles
+article
+To label or not? A choice experiment testing whether labelled green bonds matter to retail investors
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+25 January 2025
+To label or not? A choice experiment testing whether labelled green bonds matter to retail investors
+Vasundhara Saravade
+1
+,
+Olaf Weber
+2
+&
+Adam Vitalis
+3
+Humanities and Social Sciences Communications
+volume
+12
+, Article number:
+82
+(
+2025
+)
+Cite this article
+4013
+Accesses
+69
+Altmetric
+Metrics
+details
+Subjects
+Business and management
+Economics
+Finance
+Psychology
+Abstract
+Green bonds are an important sustainable finance tool that can help reorient financial flows and influence public policy in addressing climate action across the global financial markets. However, this market is still in its infancy for the retail investor segment, and it has not been sufficiently examined from a behavioural policy lens. We fill this research gap by examining whether labelling and environmental benefits framing of a green bond can influence retail investor decision-making. By employing 1105 Amazon Mechanical Turk workers across three choice scenarios, we test whether alignment of pro-environmental personal norms or having specific personal traits can have a mediating effect on their green bond preferences. Using a mix of quantitative analyses, we find that most retail investors are influenced by the presence of a ‘green label effect’. For most retail investors, we find that the presence of a green label matters more than the ‘greenness’ of a green bond or the higher financial return of a non-green bond. However, for a very small sub-set of our sample, the alignment of environmental performance-related framing with their pro-environmental personal norms, enables greater investment into enhanced performance green bonds, even at the cost of losing financial returns. Finally, personal traits like individual risk tolerance (high), or previous investment experience with investment products (bonds, stocks), gender (non-binary individuals) and those having employment experience with financial industry, are more likely to invest in a labelled green bond. Our findings have timely implications for sustainable finance public policy, as it relates to regulating the growth of such products through labelling schemes like green taxonomies as well as addressing greenwashing risks through improved regulatory oversight.
+Similar content being viewed by others
+Why issue green bonds? Examining their dual impact on environmental protection and economic benefits
+Article
+Open access
+31 December 2024
+An experimental study on the susceptibility of purchasing managers to greenwashing
+Article
+Open access
+03 April 2025
+Environmental concerns and green trust in continuous green fintech use: an expectation-confirmation model with insights from Ant Forest
+Article
+Open access
+15 April 2025
+Introduction
+Among the innovative financial tools available for sustainable investing, green bonds have exponentially grown in their global impact and popularity in raising climate awareness and closing the gap for sustainable finance flows (Weber & Saravade,
+2019
+; Saravade, Chen, Weber & Song,
+2022
+). Although institutional investors drive this market, there is growing evidence of retail investor participation and interest (Azad et al.,
+2024
+).
+One of the first countries that provided retail-level access to green bonds was Canada – where retail investors had access to green bond investment through smaller energy co-operatives and boutique sustainable investment companies.
+Footnote
+1
+However, there is a problem of scale and liquidity in this market (Saravade & Weber,
+2024
+) regarding retail investor participation and what could inhibit its growth. Furthermore, with retail investors accounting for almost 52% of global assets under management in 2021 and expected to grow to nearly 61% by 2030,
+Footnote
+2
+the rationale for examining a retail investor’s perception of green bonds becomes the new frontier for scaling up sustainable finance.
+The unique demand for a green bond has manifested through the concept of a ‘greenium’ in the mainstream green bond market, where investors have shown a preference for green bonds regardless of lower financial returns compared to a
+pari-passu
+conventional bond. Understanding the potential impact that the green bond label has on retail investors provides a unique opportunity to understand behavioural drivers and biases at the individual level. Even though there is a range of literature examining the role of green bonds in attracting investment (Karpf & Mandel,
+2018
+; Henide,
+2022
+; Hyun, Park & Tian,
+2021
+; Gianfrate & Peri,
+2019
+; Flammer,
+2021
+;
+Baldi & Pandimiglio,
+2022
+), only a few studies have looked at the behavioural aspects of green bond investing (Sangiorgi & Schopohl,
+2021
+; Yeow & Ng,
+2021
+). However, there is a still a lack of understanding of the behavioural effect of a green bond label at the individual level.
+Hence, our first research objective is to understand whether this ‘greenium’ applies to the retail investor market (i.e., manifested as an investment preference for a labelled green bond), and subsequently, our second and third research objectives identify personal norms and personal traits that explain and predict green bond preferences, respectively. Using 1105 Amazon Mechanical Turk workers, we analyzed whether retail investors are aware of the nuances within green bonds, especially when it comes to debates on environmental additionality (Weber & Saravade,
+2019
+; Gibon, Popescu, Hitaj, Petucco & Benetto,
+2020
+; Schneeweiß,
+2019
+) or reporting standards (Steuer & Tröger,
+2022
+; Saravade & Weber,
+2020
+; Deschryver & De Mariz,
+2020
+).
+We tested their investment behaviour across three experimental scenarios as related to their preferences for bond labelling (Scenario 1), its environmental benefits (Scenario 2), and reporting performance (Scenario 3). We manipulate our green bond framing across these scenarios by providing participants with three levels of bonds having varying interest rates: a traditional corporate,
+non-green bond (NG)
+with no green label but having the highest financial return; a
+baseline labelled green bond (BG)
+, where the label, environmental benefits and reporting performance of the bond is in line with market baseline for a green bond—which presents the lowest return in the labelling scenario (Scenario 1) and a mid-level return in the two performance-related scenarios (Scenarios 2 and 3); and a
+hybrid green bond (HG)
+, where the label, environmental benefits and reporting performance is not the market standard and goes above and beyond in terms of its performance levels—however, opposite to the BG, it showcases mid-level return in the labelling scenario and the lowest return in the two performance-related scenarios.
+Using a mix of quantitative analysis—including paired differences t-tests, multivariate analysis of variance and regression analysis—we found that most retail investors are influenced by the presence of a ‘green label effect’. Our findings show that retail investors consistently preferred baseline-labelled green bonds across all scenarios. With limited framing information (such as label and financial performance in Scenario 1), investors prioritize environmental considerations over financial returns by selecting the lowest-return bond (the baseline-labelled green bond). However, when additional framing around labelled green bonds is introduced, such as environmental benefits and reporting performance (Scenarios 2 & 3), they still prefer investing in a labelled green bond (even though it has mid-level returns) but tend to discount the 'greenness' of a green bond (hybrid or enhanced performance green bonds having the lowest returns) and assign greater value to its financial performance over environmental considerations.
+Our findings also show that most retail investors do not react to the nuances in the performance-related framing – rather, they tend to invest based on labelling-related framing (we term this the ‘green label effect’). However, for a small portion of our sample (4.34%), personal norms appear to be activated when comprehending a bond’s performance-related framing. Subsequently, personal norms tend to positively and significantly affect their investment into the hybrid (labelled) green bonds, which showcase enhanced environmental and reporting performance, even if it is antithetical to their economic interests but is in line with their beliefs. Our analysis found that personal traits like individual risk tolerance (high), gender (non-binary), employment experience in the financial industry, and experience with stocks (moderate) or bonds (none to high) show a positive and significant relationship with investing in a labelled green bond. On the other hand, institutional risk tolerance (high), age (young and middle-aged), and investment experience with term deposits (moderate) have a negative significant relationship.
+Our study shows that labelling can help influence the flow of funds into a sustainable finance market like the green bond. However, the impact is greater with retail investors with a certain type of risk tolerance, socioeconomic characteristics, or investment experience level, along with experiencing the correct comprehension of the performance-related framing effects. Further, our results show that retail investors do not react to the ’greenness’ of a green bond, suggesting a higher risk of financial product greenwashing could be possible given the lack of market regulation around what counts as ‘green’ and what does not.
+Our research has a three-fold contribution to literature—firstly, we fill the theoretical gap on the role of disclosure framing and personal norms in influencing the investment preferences of individuals; secondly, we create a green investor profile of those retail investors that might be interested in investing in green bonds; and thirdly, we provide policy recommendations for this market in terms of protecting investors from greenwashing risks and improving best practices for environmental impact disclosure reporting.
+The paper is structured as follows: the background section highlights the relevant theoretical concepts and provides a literature overview related to green bonds and behavioural norms in investment decision-making. The section on methods highlights our experimental survey design, implementation and analysis. The results section displays our findings for the three research questions. The discussion and conclusion section highlights theoretical and scholarship implications, limitations as well as presents future research avenues.
+Background
+A green bond is similar in structure to a traditional bond; however, the green bond adds green-focused factors, which leads to unique framing from its green labelling (Hyun, Park & Tian,
+2021
+; Gianfrate & Peri,
+2019
+, Saravade & Weber,
+2024
+; Flammer,
+2021
+; Tang & Zhang,
+2020
+)—a tag which creates transparency about its use-of-proceeds. Although labelling is an important feature, there is still a market segment of unlabelled green bonds. Compared to labelled green bonds, Hyun, Park & Tian (
+2021
+) find that unlabelled bonds are likely to have higher yields despite having the same characteristics as labelled green bonds. The key differentiating factor here is the official green label, which offers greater greenness information to its investors, allowing its issuers to enjoy a better pricing advantage than those offered by the unlabelled green bond (Hyun, Park & Tian,
+2021
+). This phenomenon is called the ‘greenium’ or the green premium paid or accepted by investors.
+Recent studies (Agliardi & Agliardi,
+2021
+; Nanayakkara & Colombage,
+2019
+; Hachenberg & Schiereck,
+2018
+; Liaw,
+2020
+; Hyun, Park & Tian,
+2021
+; Gianfrate & Peri,
+2019
+) have shown that institutional investors are willing to pay more for green bonds. However, with a growing demand for ESG preferences among retail investors (Badía et al.,
+2020
+; Diouf, Hebb & Touré,
+2016
+), a literature gap emerges in understanding whether a green bond label or a ‘greenium’ effect would transfer to the retail investor setting. Although retail investors have been studied experimentally in terms of various socially responsible products, including green projects (Siemroth & Hornuf,
+2023
+), impact investing (Barber, Morse, & Yasuda,
+2021
+), and green mutual funds (Riedl & Smeets,
+2017
+)—no study to our knowledge examines the framing effects (green bond label vs. an unlabelled climate-aligned bond) on retail investors.
+A second unique feature of green bonds is their ability to undertake unique disclosure reporting in annual reports documenting the environmental impact of its use-of-proceeds. However, as Lebelle et al., (
+2022
+) highlight, green bonds face disclosure-related challenges regarding information disclosure to the public, especially concerning the level of disclosure details and the challenges posed by market information asymmetry. They show that green bonds with greater disclosures and readability of their environmental impact documentation tend to have more liquidity (Lebelle et al., (
+2022
+), indicating a higher institutional investor demand. In contrast, literature on retail investor’s reaction to disclosures points to their lack of use of environmental, social, and governance (ESG) information (Moss et al.,
+2024
+) and instead shows their preference for economic information disclosures for evaluating company-level performance (Cohen, Holder-Webb, Nath, & Wood,
+2011
+) Hence, the presence and detail of environmental disclosure reporting.
+Footnote
+3
+are still evolving questions for retail investors.
+Therefore, our first research question is:
+Do different levels of bond framing influence retail investors’ choice in green bond investments
+?
+Personal norms and traits in socially responsible investment (SRI) decision-making
+To better understand the factors that shape green bond preferences, we can look at the role of personal norms and traits in decision-making. Several studies (Dreyer, Sharma & Smith,
+2023
+; Díaz-Caro, Crespo-Cebada, Goenechea, Mirón Sanguino,
+2023
+; Andrews, Delton & Kline,
+2018
+; Diouf, Hebb & Touré,
+2016
+) have analyzed the effect of SRI portfolio-level preferences on the behavioural norms and personal traits of investors. Personal norms are defined as the 'inner moral conviction that is defended irrespective of the expectation of others' (Hunecke et al.,
+2001
+, p. 832), and can differ based on an individual’s internal motivation (de Groot et al.,
+2013
+; Barrett et al.,
+2004
+).
+As shown by previous studies, it is the relevant activation of these personal norms that has a direct and positive influence on an individual’s pro-environmental investment preferences (Church, Jiang, Kuang, & Vitalis,
+2019
+; Diouf, Hebb & Touré,
+2016
+; Garg et al.,
+2022
+). For green bonds, personal norms can be identified as the pro-environmental attitudes and the pro-environmental disclosure preferences of investors. Our research looks to contribute to this behavioural finance policy area by identifying personal norms’ influence on green bond preferences, and the role of public policy in protecting and nurturing these norms, without the risk of being misused.
+As shown by Church et al. (
+2019
+), activating pro-environmental personal norms in conjunction with relevant non-financial information disclosures tends to moderate an individual’s green investment decision to the extent that it influences them to go against their economically rational mindset. We posit that, in line with previous literature, alignment with personal norms will have an explanatory effect on identifying the green bond preferences of retail investors. Given that the green bond literature has highlighted that investors choose a green bond at the cost of their economic benefit (Agliardi & Agliardi,
+2021
+; Nanayakkara & Colombage,
+2019
+; Hachenberg & Schiereck,
+2018
+; Liaw,
+2020
+; Hyun, Park & Tian,
+2021
+; Gianfrate & Peri,
+2019
+), our study goes one step further to understand whether the type and interaction between personal norms and framing effects provided by a green bond can allow for this norm activation to occur (Gajewski, Heimann, Meunier & Ohadi,
+2024
+).
+Based on the foregoing, our second research question is:
+Do investors’ personal norms
+Footnote
+4
+have an explanatory effect regarding their choice in green bond investments
+?
+In contrast to norms that are based on an individual’s values, beliefs, and ethical convictions, personal traits are linked to the already existing features of an individual. Sociodemographic characteristics, portfolio- and risk-linked preferences can be seen as personal traits that may be used to identify the overall profile of an individual and influence their investment decisions (Dreyer, Sharma & Smith,
+2023
+; Diouf, Hebb & Touré,
+2016
+). For instance, personal traits like gender (Cheah & Phau,
+2011
+), age (Berry & Junkus,
+2013
+; Löfgren & Nordblom,
+2024
+), and education play a positive role in mediating SRI preferences of retail investors (Siddiqui,
+2018
+; Masters,
+1989
+). However, aspects like employment history (especially in the financial sector) tend to negatively affect the sustainability preferences of individuals (Hasebrook et al., (
+2022
+)). These findings signal that not all personal traits favour green investment behaviour, and perhaps it is the context or framing of the situation that seems to matter.
+Finally, our third research question is:
+What are the personal traits of retail investors that positively mediate their preference for a labelled green bond
+?
+Conceptual framework
+Based on our conceptual framework (in Fig.
+1
+), we posit that bond framing effects as operationalized in the three unique scenarios of labelling, environmental impact perception and the environmental disclosure reporting of the bond, tend to have a direct impact on retail investors’ preferences for a green bond (as compared to a non-green bond with higher financial returns). We explain their green bond investment preferences based on their pro-environmental personal norms (with environmental benefits perception of bonds in Scenario 2 taken as an ex-post proxy) and identify relevant personal traits (across risk tolerance, investment portfolio preferences and sociodemographic characteristics) that help predict the investment into a labelled green bond.
+Fig. 1: Conceptual framework for retail investors’ labelled green bond preferences (source: authors’ construction).
+The green boxes are the predictive validity framework known as Libby boxes; the top middle black box is the mediator(personal traits) and bottom black box is the explanatory variable (personal norm) - both have an influence on the relationship between the bond framing effects and the retail investors's green preferences. The arrows shown point to the direction of effect across the various boxes.
+Full size image
+Methodology
+We used an experimental survey that allowed participants to consider various trade-offs and criteria between the options provided. The objective was to elicit the green preferences of retail investors based on the disclosure of investment return (coupon rate of bond) and the green characteristics of the bond (such as green labelling, environmental benefits, and reporting performance) (Apostolakis et al.,
+2018
+).
+Experimental task
+We presented three unique experimental scenarios,
+Footnote
+5
+each providing three different bond options for participants. Interest rates were set in such a way that they created a disincentive to invest in green bonds. Thus, a strong test was created to determine whether participants would go against their economic incentives to invest in green-label bonds.
+In each scenario, the first bond type was always a
+baseline labelled green bond (BG)
+, where the label, environmental benefits, and reporting performance were in line with the market baseline for green bonds. The second was a
+hybrid green bond (HG)
+(unlabelled in Scenario 1 and labelled in Scenarios 2 and 3), where the label, environmental benefits, and reporting performance were not the market standard and went above and beyond in terms of its performance levels. The third type was a
+non-green bond (NG),
+where the bond has no green label (called a traditional corporate bond), and in comparison, its environmental and reporting performances were negative and non-existent respectively. However, the three bond types (
+BG, HG and NG
+) were not mentioned in the bond descriptions, as we did not want to prime the participants to pick a specific bond type. For a more detailed difference between each scenario and bond descriptions, please refer to Table
+1
+below.
+Table 1 Unique bond framing wording and descriptions across all three scenarios.
+Full size table
+We gave our retail investors a hypothetical US$10,000 for each scenario. They were then required to invest the total amount across the three bonds (in any combination). The rationale for providing the participants with three options across all three scenarios was to understand their preference for a particular label, environmental benefit, or disclosure reporting—without overwhelming them with too many options. The choice to distribute their wealth across the three bonds reveals the true preference of the retail investor. However, based on our scope of eliciting green bond preferences, we were most interested in the investment amount allotted to the baseline labelled (BG) and the hybrid green bond (HG) types across all the three scenarios. Based on differences between the investment allotment amounts linked to each bond type, we addressed research question 1.
+Implementation
+We used Qualtrics to implement our experimental survey. To help engage robust participants, we used CloudResearch to recruit the sample through Amazon’s Mechanical Turk (MTurk),
+Footnote
+6
+which passed certain data quality features and criteria.
+Footnote
+7
+In addition, MTurk workers needed to be in either from the United States of America (USA) or Canada and have at least a 90 per cent approval rate.
+Footnote
+8
+To further screen out the participants based on their basic understanding of financial products, we added two pre-screening questions related to the correct definition of stocks and bonds (see
+Supplementary Information Survey
+). These questions were picked based on retail investors’ general level of awareness regarding the stock or bond market products (Masters,
+1989
+). If the participant answered either question incorrectly, the survey participation ended at that point and redirected them to the end of the survey.
+Out of 1239 responses, we dropped 134 (12.13%) as they were incomplete or had duplicate IP addresses, resulting in a completion rate of 89 per cent, with 9 per cent being the rejection rate for incomplete surveys. The participation was deemed complete based on the unique randomized generated code participants had to input into their MTurk account (to be paid) that was provided to them at the end of the survey. The average time taken was 30.60 min, and the median time was 28.85 min. The survey was open to participation between June 22, 2023, to July 3, 2023.
+We used a proxy of pro-environmental preferences to assess personal norms (predictor variables) that had an explanatory effect for their green bond preferences (research question 2). More specifically, we used the ex-post measure of environmental benefits perception of each bond (Scenario 2). The primary differentiation between the bonds was their level of environmental benefit, with green bonds having two levels (baseline and enhanced) and the non-green bonds having negative impacts.
+Upon completion of the three experimental scenarios, the participants were directed toward a participant experience questionnaire (PEQ) section—where they were asked about their self-assessed financial risk tolerance (adapted from Linciano, Lucarelli, Gentile, & Soccorso,
+2018
+), investor portfolio preferences and experience level, followed by a sociodemographic questionnaire. The PEQ section formed our second set of independent or predictor variables (IV) data on relevant investor personal traits (see
+Supplementary Information Variables - TableS1
+). To categorize personal traits, we asked participants to choose their investment horizon, investment attitude, portfolio stability, investment philosophy, investment knowledge source, investment product type preferred, and experience level across investment products. In terms of risk tolerance, we assessed institutional risk and individual risk to understand if investors would have a different risk tolerance if they were hypothetically investing on behalf of others. This also helps us to understand if individual investors value financial investment risks differently than institutional investors. Finally, we assessed socioeconomic characteristics such as gender, age group, education level, previous or current employment experience working in the financial services industry, and country location. To answer research question 3, we used the PEQ section.
+Analysis
+To address our first research question, we undertook a paired test of differences to understand whether there was an effect of different levels of framing on their investment choices in green bonds across all scenarios and within each scenario. After testing for normality of the investment amounts into each bond (DV) using the Shapiro-Wilk test (
+p
+< 0.001), we found that it did not meet the assumptions. However, given the high sensitivity of large sample sizes to this test, we were cautious in interpreting this result. Based on the central limit theorem, we estimated that the sampling distribution of the mean differences for such a large sample size (
+N
+= 1105) should be approximately normal and findings from the paired tests of differences would be robust. Hence, we proceeded with using the original investment data for addressing research question 1 and included a bar chart on the investment trends across all the bonds. However, for research questions 2 and 3 we undertook basic proportional transformation (i.e., expressing each value as a proportion of the total) of the dependent variable (investment amount into each bond) to ensure any effects of non-normal data or outliers would be mitigated. The rationale for doing so was to ensure the findings as related to mediator (personal traits) and explanatory variables (personal norms) were more robust and easier to interpret.
+Findings
+Our findings section is split into three sub-sections, answering the three research questions.
+Influence of different levels of bond framing on retail investors’ choice in green bond investments
+We used a paired differences test to analyze statistically significant differences between the three types of bonds BG, HG, and NG. Furthermore, we compared the average investment amounts for each bond (Table
+2, Panel A
+). The independent variable is the unique framing across each bond and across each scenario (as shown in Table
+1
+). The dependent variable is the investment amount for each bond type across various scenarios (BG, HG and NG across each scenario).
+Table 2 Descriptive statistics and paired tests of differences between scenarios and bond types.
+Full size table
+The results showed that retail investors consistently show a preference for baseline labelled green bonds across all scenarios (see Fig.
+2
+and Table
+2, Panel A
+), indicating that green bond labelling has a positive and significant impact on the participants’ bond preferences. We see in Table
+2, Panel B
+that baseline green bonds also outperform hybrid green bonds significantly (mean difference = $555.652,
+t
+= 8.14,
+p
+< 0.001 in Scenario 1, mean difference = $396.121,
+t
+= 5.45,
+p
+< 0.001 in Scenario 2, and mean difference = $475.391,
+t
+= 6.62,
+p
+< 0.001 in Scenario 3). Investors put their second-highest investment into non-green bonds across all scenarios, suggesting that financial returns also matter. The overall results suggest that limited framing information (such as bond label and financial return in Scenario 1) enables investors to prioritize environmental considerations over financial returns. However, when additional framing for labelled green bonds, such as environmental benefits and reporting performance (in Scenarios 2 and 3), is introduced, participants factor in financial considerations over environmental considerations. In this case, they choose the green bond (GB) with the higher return (baseline GB) over the one with a higher positive impact (hybrid GB) or the non-green bond.
+Fig. 2: Mean investment across bond types using original investment data (source: authors’ construction).
+Bar graph indicates mean investment with 95% confidence intervals and visualizes the distribution of the data. Bonds A, D, G are baseline green bonds; bonds B, E, H are hybrid green bonds; bonds C, F, I are non-green bonds.
+Full size image
+The lack of significant differences between bond types—baseline green bonds, hybrid green bonds, and non-green bonds across scenarios (see Table
+2, Panel B
+) indicates that retail investors do not fully react to the nuances in green bond framing. They seem to focus on the first instance of a green bond and not the 'most' green bond. In conclusion, the findings suggest that while retail investors prefer labelled green bonds, their investment decisions may not fully consider the nuances of green bonds’ performance framing, particularly when financial returns are at stake.
+Effect of personal norms on investors’ choice in green bond investments
+We conducted a MANOVA to test whether personal norms, using an ex-post proxy measure of environmental benefits perception of bonds in Scenario 2, had an explanatory effect regarding their pro-environmental behaviour (i.e. greater investment into green bonds). For the independent variables, we used the responses to our proxy-based question regarding their perception of environmental benefits (in Scenario 2). For the dependent variable, we used proportionally transformed investment amounts linked to three bonds in this scenario. The rationale for doing so was to address any violations of multivariate data analysis like non-normality, heteroskedasticity, and multicollinearity.
+Environmental benefits perception
+The corrected model for the between-subject effects (Table
+3, Panel B
+) finds that the adjusted R-square or the explanatory power was the highest for the hybrid green bond (explaining 18.2% of investment variation compared to 7.3% for the baseline and 12.5% for the non-green bond models). Although we acknowledge the presence of other significant relationships when it comes to the between-subject effects, we focus on the significant results linked to the framing of the hybrid green bond (given the highest adjusted R-square) and the three-way interaction effect (given the complex interdependencies across the three bonds). This was done to address the specific scope of our research question 2 in identifying if there was an influence of performance-related framing on the investment amounts into green bonds.
+Table 3 MANOVA results for environmental benefits perception.
+Full size table
+Firstly, we find that for those influenced by the environmental benefits framing of the hybrid green bond (Panel B, EnvBen_Hybrid) it enabled the alignment of their pro-environmental investment beliefs (i.e., going against rational economic interests of investing in the highest return bond) with their investment behaviour (i.e., investing the highest in the hybrid green bond - Type III SS = 0.158 as compared to 0.114 for baseline green bond or 0.140 for the non-green bond).
+Secondly, when it comes to the complex interaction effect of all three bonds’ framing, we see that investment flowing into the baseline green bond is significant (Type III SS = 1.063,
+p
+= 0.009). This implies that when there is a three-way interaction effect of the bond’s environmental impact framing, investors tend to invest highly in the baseline green bond or the bond containing the green label and having mid-level returns, which is in line with our findings from research question 1 (i.e., they anchor on to the first ‘labelled’ green bond).
+Hence, we find that even though most retail investors do not react to the nuances of framing across the two types of green bonds when the framing of a hybrid green bond (that has a positive enhanced performance) is displayed in conjunction with the negative environmental framing of a non-green bond, it can play a crucial role in aligning with the activation of pro-environmental personal norms of a small sub-group of investors or 4.34% of our sample.
+Footnote
+9
+Based on these results, we can infer that those retail investors with pro-environmental personal norms will invest in line with their beliefs, even if it is antithetical to their economic interests. However, for most retail investors, environmental personal norms do not play a significant role in their investment behaviour when there is more complex information disclosed (e.g., environmental impact performance of the bond). Instead, the green label accompanied by a competitive financial return is a crucial factor in their decision-making.
+Mediating effect of personal traits
+To identify which personal traits (risk tolerance, investment portfolio preferences, sociodemographic characteristics, and investment experience) showed a significant impact on the investment into the labelled green bond, we undertook a between-subjects effects test (univariate test) and a linear regression analysis for scenario 1. The rationale for only looking at the first scenario was to reduce the noise from other data (i.e., reduce the influence of perception-related questions in the other two scenarios).
+The result of the between-subjects univariate test (Table
+4
+) demonstrates that the overall model for the labelled green bond (Bond A) was highly significant (
+p
+< 0.001). In terms of the critical independent variables influencing the investment into the labelled green bond (see Panel A), we find that institutional risk tolerance (F(10, 994) = 2.608,
+p
+= 0.004), gender (F(2, 994) = 4.082,
+p
+= 0.017), employment experience in financial industry (F(1, 994) = 5.203,
+p
+= 0.023) as well as investment experience in stocks (F(8, 994) = 2.476,
+p
+= 0.012), bonds (F(7, 994) = 4.406,
+p
+< 0.001) and term deposits (F(8, 994) = 2.091,
+p
+= 0.034) were significant. To further understand the direction and magnitude of these variables, we examined the parameter estimates of this bond in a regression analysis (Table
+5
+).
+Table 4 Between subjects effects (univariate tests).
+Full size table
+Table 5 Parameter estimates for labelled green bond (Bond A).
+Full size table
+Looking at the coefficients for the labelled green bond (Bond A), we find that as individual risk tolerance increases (levels 2 to 8), investment in Bond A also increases relative to the lowest risk tolerance level (0) baseline. For instance, those with Ind_Risk = 3 invest 0.114 more in Bond A than those with the lowest risk tolerance, and this effect is highly significant (
+p
+= 0.002). Regarding gender, individuals who identified as Non-binary seemed to prefer Bond A compared to the baseline group (Prefer not to answer) and showed a significant positive coefficient of 0.607 (
+p
+= 0.009). Similarly, those who self-identified as having employment experience in the financial services industry also showed a significant positive coefficient of 0.053 (
+p
+= 0.023). In terms of investment experience, those who had a moderate level of stock experience (levels 3 and 4 are significant with positive coefficients of 0.041 and 0.036, respectively (
+p
+= 0.022 and
+p
+= 0.025)), as well as none to high levels of bond experience (levels 1, 2, 3, 3.5, and 4.5 are significant, with positive coefficients), seemed to show positive relationship with investment into the labelled green bond.
+We also found that traits like institutional risk tolerance had a negative significant relationship with investment into the labelled green bond—indicating those with higher institutional risk tolerance were less likely to invest in this bond. Similarly, age groups 34 and under (−0.113,
+p
+= 0.030) and 46-55 years (−0.134,
+p
+= 0.015) showed significant negative coefficients, indicating that younger and middle-aged individuals invest less in Bond A compared to the baseline group (66 and older). Finally, those having higher term deposit investment experience are also associated with lower investment in Bond A (levels 1.5, 2, and 3 are significant, with negative coefficients).
+Discussion and conclusion
+When retail investors are offered a variety of green vs. non-green bond investment options, they consistently select a labelled green bond. This preference holds whether they are given varying information disclosures for each bond – including different labels, environmental performances, and disclosure reporting levels
+–
+as well as for varying financial returns. One possible explanation is that participants may have anticipated an increase in green bond prices due to rising demand for sustainable investments, which might explain their preference for baseline-labelled green bonds despite similar risk-adjusted returns (Dorfleitner, Utz & Zhang,
+2021
+; Kanamura,
+2020
+). Unlike professional investors, individual investors often rely on behavioural biases and heuristics rather than structured models or risk management. This suggests that their choice was likely driven more by behavioural factors than by a preference for diversification. However, assessing whether this preference was influenced by a general belief in the growth of green investments could add valuable context. Future studies could include questions to gauge participants’ expectations of green bond performance relative to traditional bonds, especially regarding anticipated price changes.
+Our findings offer unique insights to the literature on the socially responsible behaviour of retail investors (Apostolakis et al.,
+2018
+; Diouf et al.,
+2016
+) by identifying how a ‘green label effect’ can dictate investment behaviour when both green and non-green bond options are presented consecutively. Our conceptual framework assumptions hold predominantly when it comes to retail investors acting antithetical to their rational economic interests (i.e., not picking the highest return non-green bond). However, our findings related to pro-environmental norm activation diverge from the literature, in that it shows that the influence of labelling and anchoring heuristics matter more than pro-environmental personal norms linked to investing.
+Our main contribution is the identification of this ‘green label effect’, and we attribute it to two theoretical concepts in behavioural economics. Firstly, to feel a ‘warm glow’ effect of investing in socially responsible financial products (Dreyer, Sharma & Smith,
+2023
+) like green bonds, and secondly, based on the dual systems theory, suggesting that individuals make use of mental short-cuts or heuristics to make decisions when faced with new and nuanced information (Kahneman,
+2003
+). In the first scenario, they chose the green bond with the lowest return, but in the other two, they preferred the green bond with the higher return. Our findings suggest that the green label influenced them significantly and that they used the mental heuristics of this information to make their investment decisions. Furthermore, they anchored on to this green label and proceeded to invest accordingly across all the scenarios. This suggests that label-related anchoring can play a crucial role in influencing bond investment preferences when it comes to individual retail investors.
+Implications of our study’s finding are relevant for policymakers as label-related nudges can positively influence individual decision-making (Banerjee, Galizzi, John & Mourato,
+2023
+; Gajewski et al.,
+2024
+) and drive greater flows of investment into sustainable finance products, especially when displayed in conjunction with non-pecuniary characteristics of the investment (e.g., green labels). However, it also implies that retail investors are susceptible to greenwashing risks, especially when faced with green products marketed at face value and without any accountability mechanisms or oversight. This finding suggests that policymakers play a key role when it comes to establishing what qualifies as a green product, especially through labelling schemes like taxonomies, as well as identifying the necessary legal and regulatory consequences for those investors affected by greenwashing. Our recommendations are in line with the literature on greenwashing, including the susceptibility of retail investors to greenwashing risks (Kleffel & Muck,
+2023
+)—with greater the uncertainty around regulation or oversight, the higher the risks faced by market participants (Delmas & Burbano,
+2011
+).
+To further understand whether framing directly impacted alignment and activation of pro-environmental personal norms, our mediation model found that most retail investors do not react to the performance-related nuances (e.g., environmental benefits) of different categories of green bonds. They tend to invest based on the previously explained heuristics of labelling and financial returns rather than their perception of a green bond’s ‘greenness’. Based on the three-way significant interaction effect of the bonds framing (in Table
+3, Panel B
+), we see they invest the highest amount in the baseline green bond – further supporting our finding that when faced with complex set of information (i.e., different bond nuances in framing), they tend to gravitate towards investing based on heuristic (such as anchoring on the green label) rather than a bond’s environment-related performance nuances.
+However, upon further examination of the investment behaviour of those who preferred the framing of the hybrid or enhanced environmental performance green bond, our significant findings show that they tend to behave in line with their beliefs, even if it was antithetical to their rational interests. In this case, we see that pro-environmental personal norms are appropriately activated in a small percentage of retail investors and ends up influencing their investment behaviour. Hence, we conclude that for most investors, framing effects are less likely to hold when a complex set of information is present, and a choice of similar but slightly nuanced investment options are provided. However, for those who appropriately interpreted the performance-based framing correctly along with the alignment of their pro-environmental personal norms, reflects their green investment preferences regardless of the financial return. These findings are in line with the literature on socially responsible investing and norm-activation at the individual level (Church, Jiang, Kuang, & Vitalis,
+2019
+; Diouf, Hebb & Touré,
+2016
+; Garg et al.,
+2022
+).
+Our study adds to the scholarship by showing that for a small percentage of the population, personal norms may have a role to play in the green bond market, especially for those investors who already have pro-environmental preferences (like socially responsible investors). According to our knowledge, ours is the first study to examine such preferences in the green bond market and connect it to the effects of bond’s disclosure framing. The policy implications of these findings are that not every retail investor will be affected by pro-environmental personal norms, and hence the need to create financially attractive green investment products is necessary if the sustainable finance market is to become mainstream in nature. Since most retail investors do not invest based on pro-environmental norms, we suggest marketing green bonds to them with a ‘do no harm’ framing (Crilly, Ni & Jiang,
+2016
+), rather than emphasizing the socially responsible or green aspects, which may appeal more to impact investors.
+Our recommendation to create financially attractive green bonds is also supported by our findings related to the second highest investment going to the non-green bond having the highest coupon rate. This indicates that enhancing the financial attractiveness of green bonds compared to non-green investments could significantly boost their appeal to retail investors, extending beyond those primarily interested in socially responsible investing. Therefore, we find that although green labelling matters, it needs to be accompanied by appropriate financial returns, which is still seen as a key factor for investment decision-making (Azad et al.,
+2024
+). However, given that financial pricing of such bonds is also driven by the transaction costs faced by the market, it highlights a key role for governments or policy makers in reducing such costs at the instrument level. For example, subsidizing reporting-related costs or creating more market liquidity by issuing sovereign green bonds (Saravade & Weber,
+2024
+).
+Finally, concerning the mediating effects of personal traits on predicting a retail investor’s labelled green bond preference, we find that not all expected traits significantly impact green bond investments. Our analysis found that individual risk tolerance (increasing), gender (non-binary), employment experience in the financial industry (yes), and experience with stocks (moderate) or bonds (none to high levels) show a positive and significant relationship with picking a labelled green bond. The implication for policymakers here is that personal traits like individual risk tolerance, knowledge about the financial sector and experience with investment products can be highly significant in influencing investment in these types of bonds. If this market is to be scaled up vis-à-vis greater retail investment to meet climate goals, there is need to expand individual-level awareness around such products and focus knowledge mobilization on certain demographics that may be more receptive to such bonds. This can be done using instruments like tax-free government green bonds or government infrastructure bonds that target green projects—not only does this raise awareness about sustainable finance, but it also incentivizes the lay-person to invest in green projects. Furthermore, we also recommend improving the user-friendliness of verified climate-related financial disclosures to help educate retail investors about the benefits (or lack of) of investing in certain green products. This requires the involvement of a regulator or a consumer protection agency to influence industry best practices when it comes to sustainable finance products like green bonds.
+While our findings are promising for the future of retail investment into green bond markets, future research should focus on testing the applicability of this market in a real-world setting where behavioural aspects of institutional investors are evaluated (Banerjee et al.,
+2023
+). Furthermore, empirical research needs to evaluate how green bond policies and interventions can effectively incorporate labelling-based nudges and provide the regulatory guardrails that protect investors (Sunstein,
+2024
+), without compromising the market’s competitiveness. Although investor behaviour is not always rational (Thaler,
+1999
+), it is still useful to understand whether participants utilize rational type of decision-making in their portfolio allocation, especially with new products like green bonds. Comparing their allocations to an equal-weighted benchmark, and noting any deviations, could provide insights into their understanding of risk-return principles. We suggest that future studies include questions to assess participants’ knowledge and application of diversification.
+While our analysis centred on pro-environmental preferences, we recognize that other psychological factors, such as social comparison, peer influence, and moral obligation, may also shape investor behaviour. The rationale for excluding these factors was based on two reasons – firstly our scope was purposefully kept narrow in order to focus on key aspects mentioned in the literature, especially how potential investors react to the environmental benefits or ‘additionality’ framing of green bonds; and secondly, given the exploratory nature of our survey we wanted to test whether framing activation occurred based on pro-environmental personal norms only, rather than identifying several other complex factors linked to this decision-making. However, we recommend that future studies undertake more in-depth analysis and include several psychological and behavioural factors in their scope.
+Furthermore, since we cannot entirely rule out the potential impact of the priming participants through our focus on green bonds, the literature on retail investors finds that preferences often align with broader trends in sustainable investments (Bazrafshan,
+2023
+; Li, Watts & Zhu,
+2024
+; Diouf, Hebb & Touré,
+2016
+). Future studies could strengthen these findings by including baseline measures of participants’ sustainability attitudes, enabling a more precise understanding of the interaction between pre-existing beliefs and experimental framing. Additionally, future research could also have unique findings based on cultural contexts of retail investors – for instance, examining markets like the EU, with advanced sustainable finance policies, or China, where green bonds are promoted through top-down initiatives, may reveal region-specific insights, as investors in these areas might have different levels of awareness or unique motivations for investing in sustainable products.
+Data availability
+All data generated or analysed during this study are included in this article’s supplementary information files.
+Notes
+End Notes
+Vancity Community Investment Bank – CoPower:
+https://vancitycommunityinvestmentbank.ca/copower/#whoWasCoPower
+BNY Mellon. (2022).
+The State of the U.S. Retail Investor: Insights & Implications 2022 BNY Mellon Retail Investor Survey
+https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/insights/the-state-of-the-us-retail-investor.pdf
+With several initiatives linked to green bond standardization and creation of voluntary disclosure frameworks (with greenhouse gas emissions as the main indicator) have been linked to this market. These include voluntary frameworks like ISO Green Bond Standard, Climate Bonds Initiative Standard, Green Bond Principles (GBP). On the regulatory side, countries and regions like India, China, and the EU among others, have come out with their own frameworks on green bond disclosure.
+Ex-post proxy for personal norms was the environmental benefits perception question for bonds in Scenario 2.
+We provided a frequently asked questions (FAQ) section describing the main characteristics of bonds and green bonds. This section was provided to ensure that all participants had a common level of understanding between the various bond choices and the merits of each bond type.
+The rationale for picking MTurk as a recruitment platform for participants was to enable timely data collection, reach our target sample size, as well as meet project costs, geographic distribution (US and Canada) and have a representative sample of North American demographics (Johnson et al.,
+2020
+). To support this, one study highlighted how a major advantage associated with sampling from MTurk is the ability to obtain samples more diverse than by sampling from undergraduate students (Follmer et al.,
+2017
+). Furthermore, Casler et al. (
+2013
+) show that MTurk participants were more racially diverse (i.e., 40.5% Asian, 6% Black, and 6% Hispanic) and more socioeconomically diverse (i.e., mean family incomes ranged from $25,000 to $50,000), yet obtained results on the task were indistinguishable across other samples. Similarly, both Hauser & Schwartz (
+2015
+) and Owens & Hawkins (
+2014
+) found that MTurk participants were more attentive to instructional manipulation checks (i.e., attention checks) in a study than college students (Goodman et al.,
+2013
+). These studies show that choosing MTurk matched our criteria of having timely data collection that was in line with demographics across a selected geography.
+Data quality checks included filtering MTurk workers by location (Canada and USA), a minimum 90% approval rating on CloudResearch, mandatory passage of two pre-screening questions, bond and green bond knowledge assessment questions, and all attention checks in the experimental section, as well as excluding incomplete or duplicate responses during data cleaning.
+Approval rating refers to the number of times a worker’s submission was accepted by a requester divided by the total number of HITs (human intelligence task or a question that needs an answer) a worker has submitted
+The correct comprehension of framing required investors to view the baseline green bond as having an average level of performance, the hybrid green bond as the enhanced performance and the non-green bond as the below average performance in these scenarios. An important note here is that only a small percentage of the sample (4.34%) was correctly able to comprehend the performance framing for the environmental benefits scenario.
+References
+Agliardi E, Agliardi R (2021) Corporate green bonds: understanding the greenium in a two-factor structural model. Env and Res Econ 80(2):257–278.
+https://doi.org/10.1007/s10640-021-00585-7
+Article
+MATH
+Google Scholar
+Andrews TM, Delton AW, Kline R (2018) High-risk high-reward investments to mitigate climate change. Nature Clim Change 8(10):890–894.
+https://doi.org/10.1038/s41558-018-0266-y
+Article
+ADS
+Google Scholar
+Apostolakis G, Van Dijk G, Kraanen F, Blomme RJ (2018) Examining socially responsible investment preferences: A discrete choice conjoint experiment. J Behav Exp Fin 17:83–96.
+https://doi.org/10.1016/j.jbef.2018.01.001
+Article
+Google Scholar
+Azad S, Devi SLT, Mishra AK (2024) Investing in our planet: Examining retail investors’ preference for green bond investment. Bus Strat Environ 3743.
+https://doi.org/10.1002/bse.3743
+Badía G, Cortez C, Ferruz L (2020) Socially responsible investing worldwide: do markets value corporate social responsibility? Corp Soc Resp and Environ Manag 27(6):2751–2764.
+https://doi.org/10.1002/csr.1999
+Article
+Google Scholar
+Baldi F, Pandimiglio A (2022) The role of ESG scoring and greenwashing risk in explaining the yields of green bonds: A conceptual framework and an econometric analysis. Glob Fin J 52:100711.
+https://doi.org/10.1016/j.gfj.2022.100711
+. Article
+Article
+Google Scholar
+Banerjee S, Galizzi MM, John P, Mourato S (2023) Sustainable dietary choices improved by reflection before a nudge in an online experiment. Nature Sust 6(12):1632–1642.
+https://doi.org/10.1038/s41893-023-01235-0
+Article
+MATH
+Google Scholar
+Barber BM, Morse A, Yasuda A (2021) Impact investing. J Fin Econ 139(1):162–185.
+https://doi.org/10.1016/j.jfineco.2020.07.008
+Article
+Google Scholar
+Barrett LF, Tugade MM, Engle RW (2004) Individual differences in working memory capacity and dual-process theories of the mind. Psych Bull 130(4):553–573.
+https://doi.org/10.1037/0033-2909.130.4.553
+Article
+MATH
+Google Scholar
+Bazrafshan E (2023) The role of ESG ranking in retail and institutional investors’ attention and trading behavior. Fin Res Let 58(C):104462.
+https://doi.org/10.1016/j.frl.2023.104462
+Article
+MATH
+Google Scholar
+Berry TC, Junkus JC (2013) Socially responsible investing: an investor perspective. J Bus Eth 112(4):707–720.
+https://doi.org/10.1007/s10551-012-1567-0
+Article
+Google Scholar
+Casler K, Bickel L, Hackett E (2013) Separate but equal? A comparison of participants and data gathered via Amazon’s MTurk, social media, and face-to-face behavioral testing. Comp in Hum Behav 29:2156–2160.
+https://doi.org/10.1016/j.chb.2013.05.009
+Article
+Google Scholar
+Cheah I, Phau I (2011) Attitudes towards environmentally friendly products: the influence of ecoliteracy, interpersonal influence and value orientation. Mark Intel & Plan 29(5):452–472.
+https://doi.org/10.1108/02634501111153674
+Article
+Google Scholar
+Church BK, Jiang W, Kuang X, Vitalis A (2019) A dollar for a tree or a tree for a dollar? The behavioral effects of measurement basis on managers’ CSR investment decision. The Acc Rev 94(5):117–137
+Article
+Google Scholar
+Cohen J, Holder-Webb L, Nath L, Wood D (2011) Retail investors’ perceptions of the decision-usefulness of economic performance, governance, and corporate social responsibility disclosures. Behav Res in Acc 23(1):109–129.
+https://doi.org/10.2308/bria.2011.23.1.109
+Article
+Google Scholar
+Crilly D, Ni N, Jiang Y (2016) Do‐no‐harm versus do‐good social responsibility: attributional thinking and the liability of foreignness. Strat Manag J 37(7):1316–1329
+Article
+Google Scholar
+de Groot JIM, Abrahamse W, Jones K (2013) Persuasive normative messages: The influence of injunctive and personal norms on using free plastic bags. Sustain 5(5):1829–1844.
+https://doi.org/10.3390/su5051829
+Article
+MATH
+Google Scholar
+Delmas MA, Burbano VC (2011) The drivers of greenwashing. Cali Manag Rev 54(1):64–87.
+https://doi.org/10.1525/cmr.2011.54.1.64
+Article
+MATH
+Google Scholar
+Deschryver P, De Mariz F (2020) What future for the green bond market? How can policymakers, companies, and investors unlock the potential of the green bond market? J Ris Fin Manag 13(3):61.
+https://doi.org/10.3390/jrfm13030061
+Article
+Google Scholar
+Díaz-Caro C, Crespo-Cebada E, Goenechea BE, Mirón Sanguino ÁS (2023) Trinomial: return-risk and sustainability: is sustainability valued by investors? A choice experiment for Spanish investors applied to SDG 12. Ris 11(8):149.
+https://doi.org/10.3390/risks11080149
+Article
+Google Scholar
+Diouf D, Hebb T, Touré EH (2016) Exploring factors that influence social retail investors’ decisions: evidence from desjardins fund. J Busi Eth 134(1):45–67.
+https://doi.org/10.1007/s10551-014-2307-4
+Article
+Google Scholar
+Dorfleitner G, Utz S, Zhang R (2021) The pricing of green bonds: external reviews and the shades of green. Rev of Manag Sci 1–38
+Dreyer JK, Sharma V, Smith W (2023) Warm-glow investment and the underperformance of green stocks. Int Rev Econ Fin 83:546–570.
+https://doi.org/10.1016/j.iref.2022.10.006
+Article
+MATH
+Google Scholar
+Flammer C (2021) Corporate green bonds. J of Fin Econ 142(2):499–516
+Article
+Google Scholar
+Follmer DJ, Sperling RA, Suen HK (2017) The role of MTurk in education research: advantages, issues, and future directions. Edu Res 46(6):329–334.
+https://doi.org/10.3102/0013189X17725519
+Article
+MATH
+Google Scholar
+Gajewski J, Heimann M, Meunier L, Ohadi S (2024) Nudges for responsible finance? A survey of interventions targeted at financial decision making. Corp Soc Resp Environ Manag 31(2):1203–1219.
+https://doi.org/10.1002/csr.2625
+Article
+MATH
+Google Scholar
+Garg A, Goel P, Sharma A, Rana NP (2022) As you sow, so shall you reap: Assessing drivers of socially responsible investment attitude and intention. Techno Forecas Soci Chang 184:122030.
+https://doi.org/10.1016/j.techfore.2022.122030
+Article
+Google Scholar
+Gianfrate G, Peri M (2019) The green advantage: exploring the convenience of issuing green bonds. J Clean Prod 219:127–135.
+https://doi.org/10.1016/j.jclepro.2019.02.022
+Article
+MATH
+Google Scholar
+Gibon T, Popescu I, Hitaj C, Petucco C, Benetto E (2020) Shades of green: life cycle assessment of renewable energy projects financed through green bonds. Environ Res Let 15(10):104045.
+https://doi.org/10.1088/1748-9326/abaa0c
+Article
+Google Scholar
+Goodman JK, Cryder CE, Cheema A (2013) Data collection in a flat world: the strengths and weaknesses of mechanical turk samples. J of Behav Dec Mak 26:213–224
+Article
+MATH
+Google Scholar
+Hachenberg B, Schiereck D (2018) Are green bonds priced differently from conventional bonds? J Ass Manag 19(6):371–383.
+https://doi.org/10.1057/s41260-018-0088-5
+Article
+MATH
+Google Scholar
+Hasebrook JP, Michalak L, Wessels A, Koenig S, Spierling S, Kirmsse S (2022) Green behavior: factors influencing behavioral intention and actual environmental behavior of employees in the financial service sector. Sustain 14(17):10814.
+https://doi.org/10.3390/su141710814
+Article
+Google Scholar
+Hauser DJ, Schwartz N (2015) Attentive turkers: MTurk participants perform better on online attention checks than do subject pool participants. Behav Res Meth 48(1):400–407
+Article
+Google Scholar
+Henide K (2022) Voluntary disclosure and adverse selection: Bayesian game theoretical inference for green bond labelling regimes. Intern Rev Fin Analys 83:102248.
+https://doi.org/10.1016/j.irfa.2022.102248
+Article
+Google Scholar
+Hunecke M, Blöbaum A, Matthies E, Höger R (2001) Responsibility and environment: Ecological norm orientation and external factors in the domain of travel mode choice behavior. Environ Behav 33(6):830–852.
+https://doi.org/10.1177/00139160121973269
+Article
+MATH
+Google Scholar
+Hyun S, Park D, Tian S (2021) Pricing of green labeling: a comparison of labeled and unlabeled green bonds. Fin Res Lett 41:101816.
+https://doi.org/10.1016/j.frl.2020.101816
+Article
+MATH
+Google Scholar
+Johnson JA, Theis J, Vitalis A, Young D (2020) The influence of firms’ emissions management strategy disclosures on investors’ valuation judgements. Contemp Acc Res 32(2):642–664
+Article
+MATH
+Google Scholar
+Kahneman D (2003) Maps of bounded rationality: psychology for behavioral economics. Am Econ Rev 93(5):1449–1475.
+https://doi.org/10.1257/000282803322655392
+Article
+MATH
+Google Scholar
+Kanamura T (2020) Are green bonds environmentally friendly and good performing assets? Energy Econ 88:104767
+Article
+MATH
+Google Scholar
+Karpf A, Mandel A (2018) The changing value of the ‘green’ label on the US municipal bond market. Nat Clim Chang 8(2):161–165.
+https://doi.org/10.1038/s41558-017-0062-0
+Article
+ADS
+MATH
+Google Scholar
+Kleffel P, Muck M (2023) Aggregate confusion or inner conflict? An experimental analysis of investors’ reaction to greenwashing. Fin Res Lett 53:103421.
+https://doi.org/10.1016/j.frl.2022.103421
+Article
+Google Scholar
+Lebelle M, Lajili Jarjir S, Sassi S (2022) The effect of issuance documentation disclosure and readability on liquidity: Evidence from green bonds. Glob Fin J 51:100678.
+https://doi.org/10.1016/j.gfj.2021.100678
+Article
+MATH
+Google Scholar
+Li Q, Watts EM, Zhu, C (2024) Retail Investors and ESG News. J of Acc and Ecco (forthcoming). Available at SSRN:
+https://ssrn.com/abstract=4384675
+Liaw KT (2020) Survey of green bond pricing and investment performance. J Ris Fin Manag 13(9):193.
+https://doi.org/10.3390/jrfm13090193
+Article
+MATH
+Google Scholar
+Linciano N, Lucarelli C, Gentile M, Soccorso P (2018) How financial information disclosure affects risk perception. Evidence from Italian investors’ behavior. Euro J Fin 24(15):1311–1332.
+https://doi.org/10.1080/1351847X.2017.1414069
+Article
+Google Scholar
+Löfgren Å, Nordblom K (2024) Reconciling sustainability preferences and behavior—the case of mutual fund investments. J Behav Exp Fin 41:100880.
+https://doi.org/10.1016/j.jbef.2023.100880
+Article
+MATH
+Google Scholar
+Masters R (1989) Study Examines Investors’ Risk-Taking Propensities. J Fin Plan 151-154
+Moss A, Naughton JP, Wang C (2024) The irrelevance of environmental, social, and governance disclosure to retail investors. Manag Sci 70(4):2626–2644.
+https://doi.org/10.1287/mnsc.2023.4822
+Article
+MATH
+Google Scholar
+Nanayakkara M, Colombage S (2019) Do investors in green bond market pay a premium? Global evidence. App Econ 51(40):4425–4437.
+https://doi.org/10.1080/00036846.2019.1591611
+Article
+MATH
+Google Scholar
+Owens J, Hawkins EM (2018) Using online labor market participants for nonprofessional investor research: a comparison of MTurk and qualtrics samples. J of Info Sys 33(1):113–128
+Google Scholar
+Riedl A, Smeets P (2017) Why do investors hold socially responsible mutual funds? J Fin 72(6):2505–2550.
+https://doi.org/10.1111/jofi.12547
+Article
+Google Scholar
+Sangiorgi I, Schopohl L (2021) Why do institutional investors buy green bonds: evidence from a survey of European asset managers. Intern Rev Fin Analys 75:101738.
+https://doi.org/10.1016/j.irfa.2021.101738
+Article
+MATH
+Google Scholar
+Saravade V, Weber O (2020) An institutional pressure and adaptive capacity framework for green bonds: insights from india’s emerging green bond market. Wor 1(3):239–263.
+https://doi.org/10.3390/world1030018
+Article
+MATH
+Google Scholar
+Saravade V, Weber O (2024) Catalyzing the growth of green bonds: a closer look at the drivers and barriers of the Canadian green bond market. Sus Acc Manag Poli J 15(3):605–627.
+https://doi.org/10.1108/SAMPJ-08-2023-0604
+Article
+MATH
+Google Scholar
+Saravade V, Chen X, Weber O, Song X (2022) Impact of regulatory policies on green bond issuances in China: policy lessons from a top-down approach. Clim Pol 23(1):96–107.
+https://doi.org/10.1080/14693062.2022.2064803
+Article
+Google Scholar
+Schneeweiß A (2019) Great Expectations. Credibility and Additionality of Green Bonds.
+https://doi.org/10.13140/RG.2.2.15563.64808
+Siddiqui AU (2018) The demography of socially responsible investors across countries and time: a systematic review. As J Manag Sci 7(2):7–15.
+https://doi.org/10.51983/ajms-2018.7.2.1330
+Article
+MATH
+Google Scholar
+Siemroth C, Hornuf L (2023) Why do retail investors pick green investments? A lab-in-the-field experiment with Crowdfunder’s. J Econ Behav Organ 209:74–90.
+https://doi.org/10.1016/j.jebo.2023.02.023
+Article
+MATH
+Google Scholar
+Steuer S, Tröger TH (2022) The role of disclosure in green finance. J Fin Reg 8(1):1–50.
+https://doi.org/10.1093/jfr/fjac001
+Article
+MATH
+Google Scholar
+Sunstein CR (2024) Choice engines and paternalistic AI. Nat Humanit Soc Sci Commun 11:888.
+https://doi.org/10.1057/s41599-024-03428-0
+Article
+MATH
+Google Scholar
+Tang DY, Zhang Y (2020) Do shareholders benefit from green bonds? J of Corp Fin 61:101427
+Article
+MATH
+Google Scholar
+Thaler RH (1999) Mental accounting matters. J Behav Decs Making 12(3):183–206
+Article
+Google Scholar
+Weber O, Saravade V (2019) Green Bonds Current Development and Their Future. Paper. No. 210. Centre for International Governance and Innovation (CIGI). Retrieved from
+https://www.cigionline.org/sites/default/files/documents/Paper%20no.210_0.pdf
+Yeow KE, Ng SH (2021) The impact of green bonds on corporate environmental and financial performance. Manag Fin 47(10):1486–1510.
+https://doi.org/10.1108/MF-09-2020-0481
+Article
+MATH
+Google Scholar
+Download references
+Acknowledgements
+We thank colleagues at University of Waterloo (J Thistlethwaite, J Wilson and C McCordic), University of Toronto (J Mahrt-Smith) and University of Ottawa (G McCarney) for their feedback on the earlier version of this manuscript. OW acknowledges funding support from School of Environment, Enterprise and Development (SEED), University of Waterloo. VS acknowledges funding support from SEED and Smart Prosperity Institute, University of Ottawa.
+Author information
+Authors and Affiliations
+Institute of the Environment & Smart Prosperity Institute, University of Ottawa, Ottawa, ON, Canada
+Vasundhara Saravade
+Schulich School of Business, York University, Toronto, ON, Canada
+Olaf Weber
+School of Accounting and Finance, University of Waterloo, Waterloo, ON, Canada
+Adam Vitalis
+Authors
+Vasundhara Saravade
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Olaf Weber
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Adam Vitalis
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+VS conceptualized the project, curated data, conducted formal analysis, conducted investigations, developed the methodology, administered the project, procured resources, performed visualization and wrote the original draft. OW and AV contributed to funding acquisition, project supervision, methodology, validation of results, review and editing of the manuscript.
+Corresponding author
+Correspondence to
+Vasundhara Saravade
+.
+Ethics declarations
+Competing interests
+The author declare no competing interests.
+Ethical approval
+The questionnaire and methodology for this study were approved on December 7, 2022, by the Human Research Ethics Board of the University of Waterloo (Office of Research Ethics Approval Number: 44732). University of Waterloo Research Ethics Boards are composed in accordance with, and carry out their functions and operate in a manner consistent with, the institution’s guidelines for research with human participants, the Tri-Council Policy Statement for the Ethical Conduct for Research Involving Humans (TCPS, 2nd edition), International Conference on Harmonization: Good Clinical Practice (ICH-GCP), the Ontario Personal Health Information Protection Act (PHIPA), the applicable laws and regulations of the province of Ontario. Both Boards are registered with the U.S. Department of Health and Human Services under the Federal Wide Assurance, FWA00021410, and IRB registration numbers IRB00002419 (HREB) and IRB00007409 (CREB).
+Informed consent
+Informed consent was obtained from all research participants before initiating the experimental portion of the online survey, which was conducted between June 22, 2022, and July 3, 2022. Participants were fully informed about the study’s objectives, including assurances regarding the confidentiality and use of their data, the voluntary nature of their participation, and the anonymity of their identities. The consent process also covered details about the rationale for the research, publication of findings, and any potential risks (such as the risks of online transmission of data) associated with participation. Participants who met the pre-screening requirements and actively participated in the study received a flat payment of US$2.50. Those who chose to withdraw at any point were given the option to contact the researchers via the Amazon Mechanical Turk platform to arrange for alternative methods of remuneration.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary File - Study Variables
+Supplementary File - Survey
+Dataset
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Saravade, V., Weber, O. & Vitalis, A. To label or not? A choice experiment testing whether labelled green bonds matter to retail investors.
+Humanit Soc Sci Commun
+12
+, 82 (2025). https://doi.org/10.1057/s41599-025-04395-w
+Download citation
+Received
+:
+09 September 2024
+Accepted
+:
+14 January 2025
+Published
+:
+25 January 2025
+DOI
+:
+https://doi.org/10.1057/s41599-025-04395-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Associated content
+Collection
+Behavioural public policy
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Journal Information
+Referee instructions
+Editor instructions
+Journal policies
+Open Access Fees and Funding
+Calls for Papers
+Events
+Contact
+Publish with us
+For authors
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Humanities and Social Sciences Communications
+(
+Humanit Soc Sci Commun
+)
+ISSN
+2662-9992
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited

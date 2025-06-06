@@ -1,0 +1,1241 @@
+From river flow regime diversity to proxies for hydrologic homogeneity a Canada-wide case study | Scientific Reports
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+scientific reports
+articles
+article
+From river flow regime diversity to proxies for hydrologic homogeneity a Canada-wide case study
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+14 May 2025
+From river flow regime diversity to proxies for hydrologic homogeneity a Canada-wide case study
+Sarah Ariano
+1
+&
+Geneviève Ali
+2
+,
+3
+,
+4
+Scientific Reports
+volume
+15
+, Article number:
+16743
+(
+2025
+)
+Cite this article
+624
+Accesses
+1
+Altmetric
+Metrics
+details
+Subjects
+Environmental sciences
+Hydrology
+Abstract
+Zonal classifications, such as those based on biomes and ecozones, are commonly used to contextualize short-term dynamics and long-term environmental change. One challenge in hydrology is the lack of zonal classifications that explicitly incorporate flow statistics. To date, few studies have evaluated whether non-hydrological zonal classifications can serve as proxies for flow dynamics across large, heterogenous regions. Taking Canada as an example, the focus was on 2531 hydrometric stations for which select streamflow signatures were computed. Those signatures, coupled with catchment characteristics, were used to distinguish flow regimes based on their degree of temporal variability—categorizing them as erratic or persistent—and their main water sources—either shallow subsurface flow or groundwater. Results show that catchments with higher cropland and urban cover and higher percentages of clay soils were associated with erratic regimes fed by shallow subsurface flow. Conversely, catchments with higher forest and semi-permanent water features were associated with persistent regimes. The high degree of intra-region and inter-region hydrologic heterogeneity was typically not well captured by non-hydrological zonal classifications. Caution is therefore warranted when using existing non-hydrological zonal classifications for regional water policy planning, as they may lead to a mischaracterization of spatial differences in streamflow patterns.
+Similar content being viewed by others
+Mapping hydrologic alteration and ecological consequences in stream reaches of the conterminous United States
+Article
+Open access
+28 July 2022
+Environmental DNA allows upscaling spatial patterns of biodiversity in freshwater ecosystems
+Article
+Open access
+17 July 2020
+Indicator metrics and temporal aggregations introduce ambiguities in water scarcity estimates
+Article
+Open access
+02 July 2024
+Introduction
+Streamflow regimes are useful tools to describe typical streamflow patterns over the course of a year
+1
+,
+2
+. Regardless of the specific characteristics used to describe them, streamflow regimes are influenced by both physiographic (e.g., land use, topography, soil, drainage area) and climatic (e.g., rainfall, snowmelt, seasonality) catchment attributes
+1
+,
+3
+, as well as their distribution and variability in space and time
+3
+,
+4
+,
+5
+. Indeed, spatial differences and temporal shifts in catchment attributes can impact water availability, ecosystem health, and flood risks
+4
+, thereby leading to varying patterns of short-term flow fluctuations and longer-term hydrologic change (i.e., change in the water cycle driven by perturbations). Large-scale studies of current and changing land use and land cover, climate, and/or hydrological dynamics are therefore important, especially when evaluated across entire regions or countries using pre-defined spatial classes or zones
+6
+.
+Zonal classifications are widely used for understanding and organizing similar patterns
+7
+, and most are ecological or climatic in nature. For example, on a global level, biomes and Köppen climate classification zones are useful for organizing diversity, facilitating ecosystem management, tracking historical and ongoing changes, and predicting future change
+8
+,
+9
+. Biomes were first used to describe abiotic and biotic species in a given habitat, but they have been refined over the years to incorporate ecosystem processes
+10
+. The Köppen classification zones are based on the patterns of climate and vegetation prevailing in a region
+9
+. Recently, global gridded datasets have been used to facilitate global-scale modeling applications and long-term change studies. One example of such includes the Global Hydrologic Soil Groups, derived from soil texture classes and depth to bedrock
+11
+. Several zonal classifications also exist at continental or national scales: examples of such include the Ecoregions of North America, and the United Kingdom Hydrology of Soil Types
+12
+, Commission for Environmental Cooperation,
+13
+. On one hand, the Ecoregions of North America were derived from geology, physiography, vegetation, climate, soils, land use, wildlife distributions, and hydrology data
+13
+. On the other hand, the United Kingdom Hydrology of Soil Types was created based on the hydrological properties of soils, particularly their ability to transmit water vertically and horizontally
+12
+. Other hydrology-focused zonal classifications exist, such as the Hydrologic Landscape Regions of the United States, delineated based on watershed extents and grouped according to land-surface form, permeability of soil and bedrock, and climate variables
+14
+. Additionally, in Canada, a zonal classification exists in the form of 11 fluvial and ocean watersheds that constitute the major Canadian drainage basins. Although select global, continental, and national zonal classifications incorporate some level of hydrologic data (e.g., drainage area, soil hydrological properties), none of these classifications incorporate streamflow regime information in the form of streamflow signatures.
+Streamflow signatures which are often used for describing and classifying river flow regimes include the coefficient of variation of daily streamflow (CV
+Q
+) and the baseflow recession constant (
+k
+). While dozens of other streamflow signatures exist and can provide insight on river hydrological behaviour and contributing water sources
+15
+,
+16
+,
+17
+,
+18
+,
+19
+, they can range greatly in value, making their interpretation relative rather than absolute. Only a few select streamflow signatures can be interpretated in a more “standard” way, based on whether they are below or above a certain threshold value, and the CV
+Q
+and
+k
+are two examples of such metrics. The CV
+Q
+notably provides a quantitative differentiation of the intra- and inter-annual variability of flow, where a CV
+Q
+lower than 1.1 implies that the regime is mean-dominated and categorized as “persistent”, with flow rates consistently at or near the long-term arithmetic mean
+3
+,
+4
+,
+20
+. Conversely, a CV
+Q
+greater than 1.1 indicates that the regime is variance-dominated and categorized as “erratic”, with extended stretches of minimal or no flow interspersed by sudden major changes in discharge
+3
+,
+4
+. Since the CV
+Q
+is useful for characterizing the magnitude of flow changes relative to the long-term mean, it can be used as a comparative proxy for flashiness, as streams with greater observed fluctuations in flow tend to have higher CV
+Q
+values
+21
+,
+22
+.
+k
+is used to characterize recession periods of streamflow hydrographs: it can serve as a proxy for drainage efficiency, as it reflects the rate of surface water movement and recharge
+18
+.
+k
+is useful for labelling flow regimes as groundwater-dominated (
+k
+< 0.065), in the case of longer flow paths and slow-draining systems, or shallow subsurface flow-dominated (
+k
+> 0.065), when faster flow paths and fast draining systems are present
+18
+. Combining multiple streamflow signatures is critical for detecting nuanced—but important—differences among river flow regimes and their vulnerability to hydrological change. For example, the distinction between mean-dominated (i.e., persistent) and variance-dominated (e.g., erratic) flow regimes has been linked to differences in river sensitivity and resilience to change
+4
+,
+20
+. Drier regions, or hot and humid regions or seasons with high evapotranspiration rates, or catchments with fast storage-release mechanisms, have been associated with erratic flow regimes as well as a higher likelihood of severe flooding
+23
+. Conversely, colder and more humid regions, lowland catchments, or catchments with constant water supply have been associated with persistent regimes and a lower likelihood of severe floods
+23
+. Reduced variability in streamflow has been found to be important for maintaining biologic and ecological indicators of stream health, and to have a greater impact on groundwater-dominated systems
+24
+,
+25
+. Greater variability in streamflow has rather been deemed important for maintaining the health of surface runoff-driven streams
+24
+,
+25
+. Thus, while CV
+Q
+and
+k
+do not directly quantify long-term hydrological change, they are among select flow signatures that have been used in the literature to infer sensitivity or vulnerability to change
+4
+,
+20
+,
+23
+,
+26
+.
+Few broad-scale evaluations or zonal classifications of river flow regimes exist in Canada, besides
+27
+,
+28
+, as well as two regional exercises reported in
+29
+,
+30
+. The classification of flow regimes into nival, pluvial, and mixed categories does not incorporate flow signatures but is rather based on the seasonal timing of main precipitation inputs and associated flow responses i.e.
+27
+. Monk et al.
+28
+provided an alternative method to identifying homogenous flow regime regions, which was closely tied to hydrologic response metrics, including the timing of annual peaks and low flows. Tackling the lack of a Canadian broad-scale hydrologic classification, based on flow signatures and encompassing the full range of flow regimes, is not only nationally relevant—as it would help assess the diversity of river flow regimes present in the country—but also internationally relevant: the sheer vastness of the Canadian landmass (spanning 42°N to 83°N in latitude, and 53°W to 141°W in longitude) can serve as an archetypal example of continental-scale classification. Canada is also a good example of an heterogenous area where land use and land cover change, climate change, and hydrological change co-occur, albeit at different rates. For example, differences in hydrologic changes were recently modelled with varying levels of confidence across Canadian drainage basins, with the Mackenzie and Arctic basin predicted to have a high likelihood of increasing streamflow, and the Missouri basin expected to have a medium likelihood of decreasing streamflow
+29
+. Canadian ecozones, which were delineated using similar criteria as the Ecoregions of North America Level II, have also been used to evaluate temperature and precipitation changes: temperature changes are predicted to be most significant in the forested ecozones, including the Canadian Boreal Shield
+31
+. However, many studies rely on zonal classifications that incorporate minimal hydrological data to infer hydrological behaviour—historical, present, and future—despite lacking tangible evidence that these zonal classes are indeed good proxies for hydrological homogeneity. Additionally, decisions regarding regional water policy planning are often centered around utilizing pre-existing, non-hydrological zonal classifications
+32
+. Many areas of Canada are also managed at the basin scale: examples include the Prairie Provinces Water Board and the Mackenzie River Basin Board, as well as local conservation authorities whose role is to implement watershed-based resource management programs on behalf of provinces and municipalities. Depending on the degree of intra-zone streamflow homogeneity, the use of existing, non-hydrological classifications may cause policies to be ineffective at the regional scale, due to an inaccurate representation of current streamflow dynamics or an inaccurate representation of future dynamics. The goal of the present study is, therefore, to assess the extent to which river flow regimes are uniform within classes of non-hydrological zonal classifications. Three specific research objectives are pursued, namely: (1) conduct a comprehensive, Canada-wide evaluation of river flow regimes using select streamflow signatures; (2) evaluate which hydroclimate and physiographic characteristics are associated with different streamflow regime types across Canada; and (3) identify whether existing zonal classifications can be used as proxies for streamflow regime types.
+Results
+Evaluation and empirical classification of streamflow regimes
+A Canada-wide evaluation of river flow regimes was undertaken using select streamflow signatures for 2,531 hydrometric stations across the country (Fig.
+1
+). Stations were selected when they had 20 + years of daily streamflow data (with at least 335 valid daily data records per year), a catchment area smaller than 25,000 km
+2
+, and available, paired catchment hydroclimate and physiographic characteristics (Fig.
+2
+; Table
+1
+). Seasonal stations, i.e., stations that only operate during a portion of the year, were therefore excluded from the analysis. The majority of stations included in this study were located in British Colombia (n = 661) and Ontario (n = 465), with the fewest stations located in Nunavut (n = 13) and Prince Edward Island (n = 10). Nearly all provinces and territories were dominated by non-regulated watercourses with the exception of Quebec (134 regulated, 132 not regulated), Saskatchewan (131 regulated, 122 not regulated), and Prince Edward Island (7 regulated, 3 not regulated) which had a larger number of regulated stations. Across Canada, streamflow regimes categorized as erratic or persistent were similarly distributed between regulated and non-regulated stations, with no significant tendency for regulated watercourses to be classified as one type over the other (e.g., 49.1% erratic, 50.9% persistent for regulated stations; 41.3% erratic, 58.7% persistent for non-regulated stations). It is important to note that some stations identified as regulated by the WSC may contain both natural and regulated flow periods within the historical time series. Classification as regulated or non-regulated was based on the current regulation status, irrespective of when regulation may have begun, historically. Among the provinces with over 100 hydrometric stations identified as regulated (i.e., Alberta, British Colombia, Ontario, Quebec, and Saskatchewan), only Alberta and Ontario had a considerably larger number of stations (i.e., flow regimes) categorized as persistent.
+Fig. 1
+Maps of Canada, with: (
+A
+) all of the Water Survey of Canada hydrometric stations, (
+B
+) all delineated upstream drainage areas for select Water Survey of Canada hydrometric stations, (
+C
+) hydrometric stations for which a delineated catchment drainage area is available, (
+D
+) hydrometric stations used in this study after the application of the additional selection criteria.
+Full size image
+Fig. 2
+Hydroclimate and physiographic characteristics of the study areas. Study areas do not span the entirety of Canada but are rather constrained to the interior of 2531 catchment polygons. Across the study areas, maps show the spatial variability of: (
+A
+) climate regime based on the Köppen climate classification, (
+B
+) elevation based on the DEM, (
+C
+) land cover, (
+D
+) percent clay content in topsoil, (
+E
+) percent clay content in subsoil, and (
+F
+) surface water occurrence.
+Full size image
+Table 1 Summary of hydroclimate and physiographic characteristics (mean, standard deviation, minimum and maximum) across the 2531 catchments used in this study. Stdev: standard deviation; Min: minimum; Max: maximum; GSWO: Global Surface Water Occurrence.
+Full size table
+When investigated using the full hydrometric record, the dominant flow regime category determined based on CV
+Q
+results was the erratic one (n = 1915) (Fig.
+3
+a), and the dominant category determined by
+k
+results was the shallow subsurface-dominated one (n = 616) (Fig.
+3
+b). Spatial clusters, which were visually assessed, appeared to emerge in some regions across the country. For example, a large number of stations located in the prairies were associated with the erratic category. Additionally, when considering
+k
+, a large number of stations in the prairies were associated with the shallow subsurface-dominated category. When considering the empirically classified streamflow regimes based on combined CV
+Q
+and
+k
+results, the erratic/shallow subsurface-dominated regime type was the most frequently observed (n = 1410), followed by the erratic/groundwater-dominated regime type (n = 505), the persistent/groundwater-dominated regime type (n = 411), and the persistent/shallow subsurface-dominated regime type (n = 205) (Fig.
+4
+).
+Fig. 3
+Hydrometric stations categorized according to streamflow regime based on the analysis of the full streamflow record. (
+A
+) Erratic and persistent regimes according to CV
+Q
+results; (
+B
+) groundwater-dominated and shallow subsurface-dominated regimes according to
+k
+results.
+Full size image
+Fig. 4
+Empirical classification of hydrometric stations, according to streamflow regime type, based combined CV
+Q
+and
+k
+analyses performed on the full streamflow record.
+Full size image
+Season-specific calculations of streamflow signatures (hereafter referred to as “seasonal analyses”) were performed, in addition to those done on full data records. For seasonal analyses, many of the stations were dominated by a single annual flow peak (i.e., spring freshet), had a large number of zero-flow days (i.e., ephemeral or intermittent watercourse), or had anthropogenically controlled hydrographs (i.e., dam operations) with great diversity of hydrologic responses
+33
+. Therefore, the number of non-zero flow observations decreased substantially for some seasons, leading to insufficient data for computing the CV
+Q
+and
+k
+for some stations and seasons. As a result, a large number of stations in the prairies or northern regions were excluded from seasonal analyses, notably due to a large number of zero-flow days caused by frozen watercourses during the winter. The uneven number of stations considered from one season to the next likely reduced the overall robustness of the seasonal flow classifications, but the exercise remained useful for comparison purposes. Generally, the dominant streamflow regime identified for specific seasons was the erratic regime, which is the same dominant regime identified when examining the full hydrometric record. One exception was the winter season (total number of stations included in winter analysis: n = 1739). Indeed, the winter season showcased a different pattern (Figures S1, S2), with persistent regimes (n = 1137) or groundwater-dominated regimes (n = 1123) being the most frequently observed across the country. In winter, when considering empirically classified regimes, the persistent/groundwater-dominated type was dominant (n = 969), followed by the erratic/shallow subsurface-dominated type (n = 448), the persistent/shallow subsurface-dominated type (n = 168), and the erratic/groundwater-dominated type (n = 154). Similar spatial clusters were observed when examining results based on the full streamflow record and when running season-specific analyses. For example, persistent regimes were typically observed in northern Ontario, and across the rocky mountain region on the British Colombia-Alberta border, with slight deviations observed in the spring season (Figures S1, S2). Similar patterns were observed based on full record analyses and season-specific analyses across Newfoundland, where shallow subsurface-dominated regimes dominate, and across northern Saskatchewan, Manitoba and Ontario where groundwater-dominated regimes are observed, again with some slight deviations observed in the spring (Figure S3).
+Hydroclimate and physiographic influences on streamflow regimes
+Kolmogorov–Smirnov tests were used to evaluate whether catchment characteristics drive differences in streamflow regimes as determined by the CV
+Q
+. When investigated over the full streamflow data record, differences between erratic and persistent flow regimes were explained by differences in all catchment characteristics (
+p
+< 0.05) examined this study (Table
+2
+). Select graphical examples of the results listed in Table
+2
+are highlighted in Fig.
+5
+. Notably, the erratic flow regime was more commonly associated with greater cropland, urban, and subsoil clay content (Fig.
+5
+). Kruskal–Wallis tests also indicated that catchment characteristics explained differences between erratic/groundwater-dominated, erratic/shallow subsurface-dominated, persistent/groundwater-dominated, and persistent/shallow subsurface-dominated flow regime types (Table
+2
+). Dunn’s tests revealed that very few exceptions aside, significant physiographic differences exist between nearly all pairs of empirically classified flow regime types. The erratic/shallow subsurface-dominated regime type was more commonly associated with greater cropland, urban and subsoil clay coverage. As for the persistent/shallow subsurface-dominated regime type, it was most commonly associated with greater forest and semi-permanent water coverage.
+Table 2 Kolmogorov–Smirnov (KS) test p-values comparing the erratic and persistent regimes; Kruskal–Wallis (KW) test p-values comparing the four empirically classified streamflow regime types, and post-hoc Dunn’s test results showing the number of pairs of streamflow regime types exhibiting significant differences (
+p
+-value < 0.05) in catchment characteristics.
+Full size table
+Fig. 5
+Boxplots showing the distributions of catchment characteristics for erratic versus persistent streamflow regimes (panels
+A
+,
+C
+,
+G
+,
+I
+,
+K
+), and for the four empirically classified streamflow regime types (panels
+B
+,
+D
+,
+F
+,
+H
+,
+J
+,
+L
+). Each box represents the interquartile range (IQR), with the median represented by the horizontal line. Whiskers represent 1.5 times the IQR from the nearest quartile, while statistical outliers are shown as black dots. Plus signs (+) indicate statistically significant differences between erratic and persistent regimes according to the Kolmogorov–Smirnov test. Asterisks (*) indicate that at least one empirically classified flow regime type is statistically different from the others according to the Kruskal–Wallis test. Numbers in brackets refer to the pairs of flow regime types deemed statistically different according to pairwise Dunn’s tests.
+Full size image
+Generally, season-specific statistical test results were similar to those obtained when examining the full streamflow data record (Table S1). For the winter, spring and summer seasons, differences between erratic and persistent streamflow regimes were explained by differences in all catchment characteristics with the exception of the lichen land cover class. Most of the catchment characteristics also exhibited statistically significant differences between erratic/groundwater-dominated, erratic/shallow subsurface-dominated, persistent/groundwater-dominated, and persistent/shallow subsurface-dominated flow regime types. Select exceptions included soil depth, which did not explain differences in empirically classified flow regime types in the spring season, and-semi permanent water, which was not significantly different among empirically classified flow regime types in the fall.
+Use of zonal classifications as proxies for hydrological regime types
+The use of non-hydrological zonal classifications as proxies for hydrological regime types was evaluated using a metric of diversity. The Shannon diversity index was used to measure the diversity of streamflow regimes in individual zonal classes. Zones with a smaller Shannon diversity index values are characterized by less diversity (i.e., more hydrological homogeneity) in flow regime types, while zones with a higher Shannon diversity index are characterized by more diversity (i.e., less hydrological homogeneity). It is important to note that the majority of hydrometric stations are located in the southern part of the country, in relatively close proximity to areas with higher population densities (i.e., major drainage basins zones: 02, 05, 08; ecozones: 6, 8, 9, 10, 14; Köppen climate classification zone: Dfb). As a result, not all zones within Canada are represented, due to the location of hydrometric stations relative to the zonal class boundaries. Shannon diversity index ranged from 0.09 to 1.26 across 11 major drainage basins, 0.39 to 1.44 across 14 ecozones, and 0.75 to 2.78 across 9 Köppen climate zones. For easier comparison of hydrological homogeneity between classes associated with different zonal classifications, normalized values of Shannon diversity index were used (Fig.
+6
+). Zones that are more hydrologically homogeneous have normalized Shannon diversity index values closer to 0, as was the case for major drainage basin 11, ecozone 10, and Köppen climate classification zone Dfa. Conversely, hydrologically heterogenous zones have normalized Shannon diversity index values closer to 1: several of those zones include the Canadian shield, which is a broad region of often exposed Precambrian rock (i.e., major drainage basins 02, 03, 04, and 06; ecozones 5, 6, and 15; Köppen climate classification zone eastern Dfc).
+Fig. 6
+Zonal classification maps reflecting (
+A
+) major drainage basins; (
+B
+) ecozones; and (
+C
+) Köppen climate classification zones in Canada, and the normalized Shannon diversity index reflecting zonal homogeneity (or lack thereof) in empirically classified streamflow regime types. Stacked bar plots show the number of hydrometric stations and their associated empirically classified streamflow regime types in each of the A.1) major drainage basins, B.1) ecozones, and C.1) Köppen climate zones in Canada.
+Full size image
+Discussion and conclusion
+The majority of river flow regimes for catchments included in the present study (drainage area < 25,000 km
+2
+) were categorized as erratic (Fig.
+3
+a): this finding is similar to that of
+4
+, who focused on the contiguous United States and Italy. A large number of erratic catchment outlets were located in the southern prairie provinces (Manitoba, Saskatchewan and eastern Alberta), while several catchments with persistent streamflow regimes were located on the Canadian Shield and in the alpine regions of British Colombia. It is important to note that findings from the sub-Arctic and Arctic region of Canada are limited by the spatial imbalance in hydrometric station distribution: flow regime types identified in these more remote regions are more difficult to interpret, as they are underrepresented comparatively to the rest of the country. Otherwise, a large number of persistent regimes were located in alpine catchments during both the winter and summer seasons (Figure S1), which is also similar to findings by
+4
+for alpine catchments across Italy and the western United States. Regarding the empirically classified streamflow regime types, the majority of catchments across the prairie provinces were classified as erratic/shallow subsurface-dominated (Fig.
+4
+), which aligned with other hydrologic studies highlighting greater runoff generation and reduced groundwater recharge in that region
+34
+,
+35
+.
+Differences in catchment hydrologic change—in response to land cover change or climate change—has been related to the ability of streamflow to return to mean levels following major perturbations
+19
+,
+36
+,
+37
+. Key controls on streamflow partitioning between fast and slow pathways have also been found to be relevant to how catchments showcase hydrologic change
+38
+,
+39
+,
+40
+. As the majority of catchments in this study were classified as erratic/shallow subsurface-dominated, they are likely controlled by faster surface and subsurface flow pathways attributed to faster storage and release drainage dynamics
+41
+. A recent study investigating the sensitivity of global groundwater recharge found that under future climatic conditions, the interior lowlands of North America (which includes parts of Alberta, Saskatchewan, and Manitoba in Canada) are expected to have reduced recharge despite greater rainfall, due to greater potential evaporation rates
+42
+. This suggests that moderate aridification will likely result in substantial decreases to groundwater recharge in this region and may have contrasting impacts depending on the dominant streamflow regime. However, uncertainty around future groundwater recharge patterns under climate change scenarios exists and may lead to differences in hydrologic response. In the present study, most of the catchments in these provinces were primarily associated by the erratic/shallow subsurface-dominated regime type, indicating that reductions in groundwater recharge may have lesser implications for streamflow regimes in this region, compared to if these provinces were primarily dominated by the persistent/groundwater-dominated regime type.
+All catchment attributes were found to be associated with differences in river flow regime types across Canada. Physiographic influences on flow regimes categorized based on CV
+Q
+only were similar to physiographic influences on empirically classified flow regime types derived from CV
+Q
+and
+k
+(Table
+2
+, Fig.
+5
+): thus, hereon, only the results pertaining to empirically classified flow regime types are discussed. Table
+2
+and Fig.
+5
+show that the erratic/shallow subsurface-dominated regime type was more commonly associated with greater cropland, urban, and clay coverage. Although historical changes in urbanization and agricultural expansion were not directly assessed in the present study, the fact that the erratic/shallow subsurface-dominated regime type is associated with greater cropland cover aligns well with the idea of streamflow being predominantly fed by runoff generated from snowmelt over frozen soils in the prairies
+34
+, or by excess runoff from irrigated lands in the Great Lakes Region, although crop irrigation is less common in Canada compared to the contiguous United States
+26
+,
+43
+,
+44
+. For catchments with urban land cover, flow regime types associated with shorter flow paths and faster water storage-release mechanisms are likely driven by the high density of impervious areas and hydrologic connectivity with the urban drainage system
+45
+,
+46
+. Similarly, clay-rich soils have a greater runoff generation potential, due to their low infiltration capacity triggering infiltration-excess overland flow
+47
+, which leads to erratic flow regimes. Conversely, the persistent/shallow subsurface-dominated regime type was associated with greater forest and semi-permeant water coverage: this aligns well with the greater water holding capacity associated with forested landscapes, given good vegetative cover and improved soil texture
+48
+.
+When assessing hydrologic regimes within existing zonal classifications, including non-hydrological zonal classifications, various degrees of zonal homogeneity and heterogeneity were observed. When considering major drainage basins in Canada, only basin 11 had a normalized Shannon Diversity Index below 0.5 (zone 11 = 0), while all 10 remaining basins displayed greater diversity in flow regimes (e.g., basin 02, 04, and 06), with normalized Shannon Diversity Index values above 0.9. This indicates that from a flow regime standpoint, basins 02, 04 and 06 are more hydrologically heterogenous than basin 11. Although the major drainage basins of Canada are the most commonly used classification scheme that considers some level of hydrological information through the use of topographic data, most basins exhibit large amounts of flow regime variability—which is not surprising given the large areas of land they each encompass. Out of the 14 ecozones that make the Canadian ecozones classification, nine had a normalized Shannon Diversity Index below 0.5 (i.e., ecozones 2, 4, 8, 9, 10, 11, 12, 13, and 15), indicating a relatively high degree of flow regime homogeneity within each of those ecozones. The remaining five ecozones had normalized Shannon Diversity Index values above 0.5, although only one of those values (for ecozone 5) exceeded 0.9. Thus, even though the Canadian ecozones classification was not created by ingesting hydrological data, some ecozones may be used as a proxy for hydrologic regimes. That said, ecozones like the Canadian Shield, south-western, and eastern Canada were the most heterogenous—from a flow regime standpoint—and may benefit from further zonal discretization to better capture areas of flow regime homogeneity. In the Köppen climate classification, five (out of nine) zones (i.e., Bsk, Csb, Dfa, Dfb, and ET) had a normalized Shannon Diversity Index below 0.5. However, several climate zones had a higher normalized Shannon Diversity Index, thereby hinting that the Köppen climate classification is often not a good proxy for flow regimes. Similar to our findings, Haines et al.
+49
+found a relatively poor relationship between river regimes and the Köppen climate classification in Canada, although the data used at the time was relatively sparse and mostly focused on the southern portion of the country. While the three zonal classifications explored in the present study incorporate information on factors that influence flow regimes (i.e., topography for major drainage basins, climate with the Köppen classification, soils, water features, vegetation and climate for the ecozone classification), those factors are considered in isolation: the interactions between them influence hydrological processes
+5
+, but those interactions are not explicitly considered in the delineation of the individual zones. The present study results indicate that although it may be convenient to use existing zonal classifications to organize hydrological results, these existing zonal classifications are often not good proxies for flow regime variability.
+While the present study used streamflow signatures to perform an empirical classification of flow regime types, more robust classification methods based on statistical or machine learning algorithms could also be used. The latter may be useful for decision making or for characterizing streamflow regimes in ungauged basins
+50
+,
+51
+, while providing different means of quantifying hydrologic homogeneity and creating zonal classifications that explicitly incorporate hydrological information. As hydrologic change persists in response to climate change and land cover change, understanding the relationships between catchment characteristics and long-term flow behavior is critical, especially at regional scales used by practitioners and researchers to make management decisions. Although not an objective of this paper, hydrologic change induced by the regulation of watercourses for irrigation and hydroelectric power generation produces hydrologic regimes that significantly differ from pre-existing natural regimes
+52
+. Future work could extend this analysis to explicitly compare regulated and unregulated periods across the flow record of individual hydrometric stations, to untangle the effects of watercourse regulation from climatic and physiographic controls. From the Canada-wide evaluation done in the present study, diversity (or heterogeneity) in hydrologic behaviour—quantified via flow regime—is clearly high in some regions and much lower in others. When considering long-term and future water resource planning management, the use of zonal classifications that explicitly incorporate hydrological information are more likely to adequately support decision making. While existing zonal classifications may not be good proxies for streamflow regimes, the present study shows that relying on either one (CV
+Q
+) or two (CV
+Q
+and
+k
+) straightforward streamflow signatures is useful for describing small-scale and large-scale spatial patterns of variability in streamflow dynamics. In the absence of hydrology-focused or streamflow-focused zonal classifications for Canada, the CV
+Q
+and
+k
+metrics also allow simple, empirical catchment classifications to be performed, thereby offering a pathway to differentiate flow dynamics and contributing sources, and to identify catchments or areas that may benefit from single-faceted or multi-faceted assessment and management strategies.
+Study area and methodology
+Hydrometric station selection
+The WSC currently operates a network of over 2,800 active hydrometric stations across Canada, but several thousands more operated for several years before being discontinued. Initially, in the present study, all historic and active hydrometric stations (n = 7896) managed by the Water Survey of Canada (WSC) across the country were considered (Fig.
+1
+a). The monitoring network is comprised of seasonal stations which only operate for parts of the year, and continuous stations which operate year-round. However, to facilitate analyses pertaining to research objective 2, only hydrometric stations with previously delineated catchment boundaries (corresponding to the upstream drainage areas; Fig.
+1
+b) were considered (n = 7380) (Fig.
+1
+c). Further station selection criteria were applied to ensure robust data for flow regime and physiographic analysis, namely the consideration of continuous stations with 20 + years of daily streamflow data, regardless of the start and end of the monitoring record, each year with at least 335 out of 365 days with valid data, gross catchment drainage area of 25,000 km
+2
+or less, and available physiographic data (e.g., digital elevation model, landcover, soil data) spanning the entire drainage area (Fig.
+1
+d). Although some flow-gauging stations included in the Water Survey of Canada database are located at the outflow of a lake or large waterbody, no distinction was made in the present study: all stations that satisfied the abovementioned criteria were considered, regardless of their upstream drainage features. Stations draining areas greater than 25,000 km
+2
+were not selected, to allow for the detection of physiographic influences on flow dynamics without dealing with the large downstream hydrological integration that is typical at very large watershed scales. Although large basin-scale management is done in parts of the country, particularly in Western Canada, many provinces rely on a sub-watershed management approach focusing on smaller spatial scales (i.e. Ontario and Quebec). The watershed size threshold (i.e., 25,000 km
+2
+) chosen for this study was therefore a compromise between small-scale and larger-scale watershed management approaches throughout the country.
+Data sources and hydroclimate and physiographic analysis
+Station metadata and historic daily stream discharge for all catchments were obtained from the Water Survey of Canada using the R package ‘tidyhydat’
+53
+. Metadata included the latitude, longitude and province or territory of the hydrometric station, as well as the regulation status that specified whether watercourses are controlled by dams or other regulation infrastructure (Fig.
+1
+d). Information on the timing of dam operations and water diversions were not considered. The selected hydrometric stations and associated catchments capture a diversity of hydroclimatic and physiographic conditions across Canada. The Köppen climate classification system was notably used to evaluate regional climate zones across the country
+54
+,
+55
+(Fig.
+2
+a), while Canadian ecozones (also known as Ecological Regions of North America Level II) were obtained to evaluate ecological regions across the country
+56
+.
+Major Canadian drainage basin boundaries—which are used to identify hydrometric station codes—and delineated catchment polygons were obtained from the Water Survey of Canada
+57
+. Catchment polygons were used to define the spatial extent of the study areas (i.e., areas highlighted in Fig.
+2
+), confirm the drainage area associated with each selected hydrometric station (km
+2
+), and compute values of the Gravelius index (Table
+1
+). The Gravelius index is the ratio of catchment perimeter to catchment area: index values of 1 indicate circular catchment shapes, while index values greater than 1 reflect elongated catchment shapes
+58
+. A Canada-wide digital elevation model (DEM) was obtained from the United States Geological Survey at 1 Arc-second resolution
+59
+(Fig.
+2
+b). Zonal statistics in ArcGIS Pro 3.3 were used to estimate the elevation range in each catchment, defined as the difference between the maximum and minimum elevation values observed in the catchment. Land cover data (Fig.
+2
+c) was obtained from the 2015 North American Land Cover 30 m dataset that was produced as part of the North American Land Change Monitoring System (NALCMS)
+60
+. R (version 4.4.1) and the raster package were used to tabulate the percent areal coverage of each land cover class within each catchment [Hijmans, 2018]. For simplification purposes, similar landcover classes were grouped together in a singular class; for example, multiple sub-classes of forest were merged into a single forest class (Table
+1
+). Soil depth and percentage of sand, silt, and clay in topsoil and subsoil were obtained from the Unified North American Soil Map
+61
+(Fig.
+2
+d,e). Catchment-specific average values of those soil characteristics were calculated using the raster package in R.
+Global surface water occurrence (GSWO) data from 1984 to 2021 were extracted from the Global Surface Water dataset (Fig.
+2
+f). These data provide information on locations where surface water has occurred
+62
+. While this dataset, produced globally, provides good estimates of open water surface areas, it is known to provide conservative estimates, or to severely underestimate, surface water occurrence in wetland-dominated regions with emergent or treed vegetation. The raster package in R was used to calculate the relative presence of water occurrence, from 0–100% of the time, for each pixel. These data were then summarized at the catchment scale, by computing the total percentage of catchment pixels with semi-permanent water (water presence for 50–80% of the time) and permanent water (water presence for > 80% of the time).
+Hydrometric data analysis
+To address objective 1 and characterize streamflow regimes, the Toolbox for Streamflow Signatures in Hydrology (TOSSH,
+16
+) was used to compute the CV
+Q
+of daily streamflow and the
+k
+. In detail, CV
+Q
+was computed as the ratio of the standard deviation to the mean of daily streamflow.
+k
+was estimated by the decay of baseflow recession, and in the present paper
+k
+is the arithmetic mean of all recession constant (
+k
+i
+) values. Catchments were categorized based on their CV
+Q
+value: those with CV
+Q
+between 0 and 1.1 were categorized as “persistent” while others were categorized as “erratic”
+3
+,
+4
+. Catchments were also categorized based on their
+k
+values: those with a
+k
+value below 0.065 were categorized as “groundwater-dominated” while others were categorized as “shallow subsurface-dominated”
+18
+. An empirical classification of catchments was achieved by combining CV
+Q
+and
+k
+results: four types of streamflow regimes were distinguished, namely (1) erratic/groundwater-dominated, (2) erratic/shallow subsurface-dominated, (3) persistent/groundwater-dominated, and (4) persistent/shallow subsurface-dominated. Computations of CV
+Q
+and
+k
+, and subsequent empirical categorizations and classifications, were first done using the full record of flow data available, and then repeated for specific seasons, namely winter (January, February, March), spring (April, May, June), summer (July, August, September), and fall (October, November, December). It should be noted that seasonal analyses led to a reduction in the number of hydrometric stations that could be considered: the computation of CV
+Q
+and
+k
+was hindered when zero-flow values or low-variability hydrographs at the seasonal scale resulted from regulation, prolonged spring freshets, or ephemeral/intermittent summer flow conditions.
+Statistical analysis
+To address research objective 2, non-parametric tests were used to evaluate the extent to which hydroclimate and physiographic catchment characteristics differ among empirically categorized or classified flow regime types, for the full record analyses and season-specific analyses. First, Kolmogorov–Smirnov tests were used to evaluate if erratic and persistent streamflow regimes (i.e., two groups) are associated with significatively different catchment characteristics. Second, Kruskal–Wallis tests were used to evaluate differences in catchment characteristics among the four types of empirically classified streamflow regimes based on combined CV
+Q
+and
+k
+results. Kruskal–Wallis tests can reveal that at least one type is statistically different from the others, but they do not specify exactly which pairs of streamflow regime types drive the difference. Pairwise Dunn’s tests were therefore performed: they are post-hoc tests, conducted after the Kruskal–Wallis test, to identify the number of group pairs (in the present study, the number of pairs of streamflow regime types) showcasing statistically significant differences. All statistical tests were performed in the R environment (R version 4.4.1), using base R and the rstatix (version 0.7.2) package
+63
+. It is important to note that in some instances, the results of the Kruskal–Wallis and Dunn’s tests yield slightly different conclusions: this occurs when the results of the p-values associated with the Kruskal–Wallis test results are very close to 0.05. This has been previously noted in the literature, with the Kruskal–Wallis tests suggesting the presence of a slight overall difference between groups, while the Dunn’s tests show mixed results across pairs of groups that reflect their sensitivity to specific group differences
+64
+.
+To address research objective 3, the Shannon diversity index was used. That index is a commonly used metric in ecology to quantify the biodiversity of a community
+65
+. In the present study, it was used to evaluate the diversity of the empirically classified streamflow regimes across existing zonal classes. Taking the example of Canadian ecozones, for ecozone 10 (Prairies), a count of all empirically classified streamflow regimes was conducted. The Shannon diversity index was then calculated in R using the ‘vegan’ package (version 2.6.8), based on the counts of erratic/groundwater-dominated, erratic/shallow subsurface-dominated, persistent/groundwater-dominated, and persistent/shallow subsurface-dominated streamflow regimes located within ecozone 10. Low Shannon diversity index values suggest a low diversity of streamflow regime types—and therefore high hydrological homogeneity—in that ecozone, while high values indicate low hydrological homogeneity within that ecozone. Shannon diversity index values illustrating streamflow regime diversity were computed for each of the major drainage basins, ecozones, and climate regions of Canada. Since Shannon diversity index values are interpreted in a relative rather than absolute manner
+65
+, maximum-minimum normalization was applied to normalize the values between 0 and 1 for easier comparison.
+Data availability
+The data that support the findings of this study are available in Water Level and Flow—Environment Canada at
+https://wateroffice.ec.gc.ca
+. These data were derived from the following resources available in the public domain:
+https://wateroffice.ec.gc.ca/mainmenu/historical_data_index_e.html
+.
+References
+Brunner, M. I., Melsen, L. A., Newman, A. J., Wood, A. W. & Clark, M. P. Future streamflow regime changes in the United States: Assessment using functional classification.
+Hydrol. Earth Syst. Sci.
+24
+(8), 3951–3966 (2020).
+Article
+ADS
+Google Scholar
+McMillan, H. K., Gnann, S. J. & Araki, R. Large scale evaluation of relationships between hydrologic signatures and processes.
+Water Resourc. Res.
+58
+(6), e2021WR031751.
+https://doi.org/10.1029/2021WR031751
+(2022).
+Article
+ADS
+Google Scholar
+Ferrazzi, M., Woods, R. A. & Botter, G. Climatic signatures in regulated flow regimes across the Central and Eastern United States.
+J. Hydrol. Region. Stud.
+35
+, 100809.
+https://doi.org/10.1016/j.ejrh.2021.100809
+(2021).
+Article
+Google Scholar
+Botter, G., Basso, S., Rodriguez-Iturbe, I. & Rinaldo, A. Resilience of river flow regimes.
+Proc. Natl. Acad. Sci. U.S.A.
+110
+, 12925–12930.
+https://doi.org/10.1073/pnas.1311920110
+(2013).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+McDonnell, J. J. et al. Moving beyond heterogeneity and process complexity: A new vision for watershed hydrology.
+Water Resourc. Res.
+https://doi.org/10.1029/2006WR005467
+(2007).
+Article
+Google Scholar
+Sawicz, K. A. et al. Characterizing hydrologic change through catchment classification.
+Hydrol. Earth Syst. Sci.
+18
+(1), 273–285.
+https://doi.org/10.5194/hess-18-273-2014
+(2014).
+Article
+ADS
+Google Scholar
+Higgins, S. I., Buitenwerf, R. & Moncrieff, G. R. Defining functional biomes and monitoring their change globally.
+Glob. Change Biol.
+22
+(11), 3583–3593.
+https://doi.org/10.1111/gcb.13367
+(2016).
+Article
+ADS
+Google Scholar
+Clements, F. E. The development and structure of biotic communities.
+J. Ecol.
+5
+, 120–121 (1917).
+Google Scholar
+Köppen, W. Die Wärmezonen der Erde, nach der Dauer der heissen, gemässigten und kalten Zeit und nach der Wirkung der Wärme auf die organische Welt betrachtet.
+Meteorol. Z.
+1
+(21), 5–226 (1884).
+Google Scholar
+Shelford, V. E. (1963). The Ecology of North America.
+Ross, C.W., L. Prihodko, J.Y. Anchang, S.S. Kumar, W. Ji, and N.P. Hanan. (2018). Global Hydrologic Soil Groups (HYSOGs250m) for Curve Number-Based Runoff Modeling. ORNL DAAC, Oak Ridge, Tennessee, USA.
+https://doi.org/10.3334/ORNLDAAC/1566
+Boorman, D. B., Hollis, J. M., & Lilly, A. (1995).
+Hydrology of soil types: a hydrologically-based classification of the soils of United Kingdom
+. Institute of Hydrology.
+Commission for Environmental Cooperation (Montréal, Québec)., & Secretariat. (1997).
+Ecological regions of North America: toward a common perspective
+. The Commission.
+http://www.cec.org/files/documents/publications/1701-ecological-regions-north-america-toward-common-perspective-en.pdf
+Wolock, D. M. (2003).
+Hydrologic landscape regions of the United States
+(No. 2003–145). US Geological Service.
+https://doi.org/10.3133/ofr03145
+Carey, S. K. et al. Inter‐comparison of hydro‐climatic regimes across northern catchments: Synchronicity, resistance and resilience.
+Hydrol. Process.
+24
+(24), 3591–3602.
+https://doi.org/10.1002/hyp.7880
+(2010).
+Article
+ADS
+Google Scholar
+Gnann, S. J., Coxon, G., Woods, R. A., Howden, N. J. K. & McMillan, H. K. TOSSH: A toolbox for streamflow signatures in hydrology.
+Environ. Model. Softw.
+https://doi.org/10.1016/j.envsoft.2021.104983
+(2021).
+Article
+Google Scholar
+Posavec, K., Bačani, A. & Nakić, Z. A visual basic spreadsheet macro for recession curve analysis.
+Groundwater
+44
+(5), 764–767.
+https://doi.org/10.1111/j.1745-6584.2006.00226.x
+(2006).
+Article
+CAS
+Google Scholar
+Safeeq, M., Grant, G. E., Lewis, S. L. & Tague, C. L. Coupling snowpack and groundwater dynamics to interpret historical streamflow trends in the western United States.
+Hydrol. Process.
+27
+(5), 655–668.
+https://doi.org/10.1002/hyp.9628
+(2012).
+Article
+ADS
+Google Scholar
+Tetzlaff, D. et al. Catchments on the cusp? Structural and functional change in northern ecohydrology.
+Hydrol. Process.
+27
+(5), 766–774.
+https://doi.org/10.1002/hyp.9700
+(2013).
+Article
+ADS
+Google Scholar
+Müller, M. F., Roche, K. R. & Dralle, D. N. Catchment processes can amplify the effect of increasing rainfall variability.
+Environ. Res. Lett.
+16
+(8), 084032.
+https://doi.org/10.1088/1748-9326/ac153e
+(2021).
+Article
+ADS
+Google Scholar
+Hansford, M. R. & Plink-Björklund, P. River discharge variability as the link between climate and fluvial fan formation.
+Geology
+48
+(10), 952–956.
+https://doi.org/10.1130/G47471.1
+(2020).
+Article
+ADS
+Google Scholar
+Stelzer, R. S. & Likens, G. E. Effects of sampling frequency on estimates of dissolved silica export by streams: The role of hydrological variability and concentration‐discharge relationships.
+Water Resourc. Res.
+https://doi.org/10.1029/2005WR004615
+(2006).
+Article
+Google Scholar
+Miniussi, A., Merz, R., Kaule, L. & Basso, S. Identifying discontinuities of flood frequency curves.
+J. Hydrol.
+617
+, 128989.
+https://doi.org/10.1016/j.jhydrol.2022.128989
+(2023).
+Article
+Google Scholar
+Woznicki, S. A., Nejadhashemi, A. P., Tang, Y. & Wang, L. Large-scale climate change vulnerability assessment of stream health.
+Ecol. Ind.
+69
+, 578–594.
+https://doi.org/10.1016/j.ecolind.2016.04.002
+(2016).
+Article
+Google Scholar
+Zorn, T. G., Seelbach, P. W. & Rutherford, E. S. A Regional-Scale habitat suitability model to assess the effects of flow reduction on fish assemblages in Michigan streams.
+J. Am. Water Resour. Assoc.
+48
+(5), 871–895.
+https://doi.org/10.1111/j.1752-1688.2012.00656.x
+(2012).
+Article
+ADS
+Google Scholar
+Miller, S. A. & Lyon, S. W. Tile drainage causes flashy streamflow response in Ohio watersheds.
+Hydrol. Process.
+35
+(8), e14326.
+https://doi.org/10.1002/hyp.14326
+(2021).
+Article
+ADS
+Google Scholar
+Burn, D. H. & Whitfield, P. H. Climate related changes to flood regimes show an increasing rainfall influence.
+J. Hydrol.
+617
+, 129075.
+https://doi.org/10.1016/j.jhydrol.2023.129075
+(2023).
+Article
+Google Scholar
+Monk, W. A., Peters, D. L., Allen Curry, R. & Baird, D. J. Quantifying trends in indicator hydroecological variables for regime-based groups of Canadian rivers.
+Hydrol. Process.
+25
+(19), 3086–3100.
+https://doi.org/10.1002/hyp.8137
+(2011).
+Article
+ADS
+Google Scholar
+Stadnyk, T. A. & Déry, S. J. Canadian continental-scale hydrology under a changing climate: A review.
+Water
+13
+(7), 906.
+https://doi.org/10.3390/w13070906
+(2021).
+Article
+Google Scholar
+Whitfield, P. H., Kraaijenbrink, P. D., Shook, K. R. & Pomeroy, J. W. The spatial extent of hydrological and landscape changes across the mountains and prairies of Canada in the Mackenzie and Nelson River basins based on data from a warm-season time window.
+Hydrol. Earth Syst. Sci.
+25
+(5), 2513–2541.
+https://doi.org/10.5194/hess-25-2513-2021
+(2021).
+Article
+ADS
+Google Scholar
+Wotherspoon, A. R., Achim, A. & Coops, N. C. Assessing future climate trends and implications for managed forests across Canadian ecozones.
+Can. J. For. Res.
+54
+(3), 278–289.
+https://doi.org/10.1139/cjfr-2023-0058
+(2023).
+Article
+Google Scholar
+Government of Canada. (1985).
+Canadian Water Act
+(R.S.C., 1985, c. C-11).
+https://laws-lois.justice.gc.ca/eng/acts/c-11/FullText.html
+Oswald, C. J. et al. Integrating urban water fluxes and moving beyond impervious surface cover: A review.
+J. Hydrol.
+618
+, 129188.
+https://doi.org/10.1016/j.jhydrol.2023.129188
+(2023).
+Article
+Google Scholar
+Dumanski, S., Pomeroy, J. W. & Westbrook, C. J. Hydrological regime changes in a Canadian Prairie basin.
+Hydrol. Process.
+29
+(18), 3893–3904.
+https://doi.org/10.1002/hyp.10567
+(2015).
+Article
+ADS
+Google Scholar
+Pomeroy, J. W. et al. The cold regions hydrological model: a platform for basing process representation and model structure on physical evidence.
+Hydrol. Process. Int. J.
+21
+(19), 2650–2667.
+https://doi.org/10.1002/hyp.6787
+(2007).
+Article
+ADS
+Google Scholar
+McNamara, J. P. et al. Storage as a metric of catchment comparison.
+Hydrol. Process.
+25
+(21), 3364–3371.
+https://doi.org/10.1002/hyp.8113
+(2011).
+Article
+ADS
+Google Scholar
+Soulsby, C., Piegat, K., Seibert, J. & Tetzlaff, D. Catchment-scale estimates of flow path partitioning and water storage based on transit time and runoff modelling.
+Hydrol. Process.
+25
+(25), 3960–3976.
+https://doi.org/10.1002/hyp.8324
+(2011).
+Article
+ADS
+Google Scholar
+McMillan, H. Linking hydrologic signatures to hydrologic processes: A review.
+Hydrol. Process.
+34
+(6), 1393–1409.
+https://doi.org/10.1002/hyp.9813
+(2020).
+Article
+ADS
+Google Scholar
+Tague, C. & Grant, G. E. A geological framework for interpreting the low‐flow regimes of Cascade streams, Willamette River Basin, Oregon.
+Water Resourc. Res.
+https://doi.org/10.1029/2003WR002629
+(2004).
+Article
+Google Scholar
+Tague, C., Grant, G., Farrell, M., Choate, J. & Jefferson, A. Deep groundwater mediates streamflow response to climate warming in the Oregon Cascades.
+Clim. Change
+86
+, 189–210.
+https://doi.org/10.1007/s10584-007-9294-8
+(2008).
+Article
+ADS
+Google Scholar
+Tashie, A., Scaife, C. I. & Band, L. E. Transpiration and subsurface controls of streamflow recession characteristics.
+Hydrol. Process.
+33
+(19), 2561–2575.
+https://doi.org/10.1002/hyp.13530
+(2019).
+Article
+ADS
+Google Scholar
+Berghuijs, W. R. et al. Groundwater recharge is sensitive to changing long-term aridity.
+Nat. Clim. Change
+14
+(4), 357–363.
+https://doi.org/10.1038/s41558-024-01953-z
+(2024).
+Article
+ADS
+Google Scholar
+Adelsperger, S. R., Ficklin, D. L. & Robeson, S. M. Tile drainage as a driver of streamflow flashiness in agricultural areas of the Midwest, USA.
+Hydrol. Process.
+37
+(11), e15021.
+https://doi.org/10.1002/hyp.15021
+(2023).
+Article
+ADS
+Google Scholar
+Dale, J. et al. Climate, water use, and land surface transformation in an irrigation intensive watershed—Streamflow responses from 1950 through 2010.
+Agric. Water Manag.
+160
+, 144–152.
+https://doi.org/10.1016/j.agwat.2015.07.007
+(2015).
+Article
+Google Scholar
+Ariano, S. S. & Oswald, C. J. Broad scale assessment of key drivers of streamflow generation in urban and urbanizing rivers.
+Hydrol. Process.
+36
+(4), e14579.
+https://doi.org/10.1002/hyp.14579
+(2022).
+Article
+ADS
+Google Scholar
+Ariano, S. S., Ross, C. & Oswald, C. Isotope-based source assessment of water flowing from storm sewer systems to a receiving river during dry weather periods.
+Water Res.
+266
+, 122333.
+https://doi.org/10.1016/j.watres.2024.122333
+(2024).
+Article
+CAS
+PubMed
+Google Scholar
+Calvo-Cases, A., Boix-Fayos, C. & Imeson, A. C. Runoff generation, sediment movement and soil water behaviour on calcareous (limestone) slopes of some Mediterranean environments in southeast Spain.
+Geomorphology
+50
+(1–3), 269–291.
+https://doi.org/10.1016/S0169-555X(02)00218-0
+(2003).
+Article
+ADS
+Google Scholar
+Molina, A. et al. Runoff generation in a degraded Andean ecosystem: Interaction of vegetation cover and land use.
+CATENA
+71
+(2), 357–370.
+https://doi.org/10.1016/j.catena.2007.04.002
+(2007).
+Article
+Google Scholar
+Haines, A. T., Finlayson, B. L. & McMahon, T. A. A global classification of river regimes.
+Appl. Geogr.
+8
+(4), 255–272.
+https://doi.org/10.1016/0143-6228(88)90035-5
+(1988).
+Article
+Google Scholar
+Giesbrecht, I. J. et al. Watershed classification predicts streamflow regime and organic carbon dynamics in the Northeast Pacific coastal temperate rainforest.
+Global Biogeochem. Cycles
+36
+(2), e2021GB007047.
+https://doi.org/10.1029/2021GB007047
+(2022).
+Article
+ADS
+CAS
+Google Scholar
+Hall, M. J. & Minns, A. W. The classification of hydrologically homogeneous regions.
+Hydrol. Sci. J.
+44
+(5), 693–704.
+https://doi.org/10.1080/02626669909492268
+(1999).
+Article
+Google Scholar
+Magilligan, F. J. & Nislow, K. H. Changes in hydrologic regime by dams.
+Geomorphology
+71
+(1–2), 61–78.
+https://doi.org/10.1016/j.geomorph.2004.08.017
+(2005).
+Article
+ADS
+Google Scholar
+Albers, S. Tidyhydat: Extract and tidy Canadian hydrometric data.
+J. Open Source Softw.
+2
+(20), 1–54 (2017).
+Article
+MathSciNet
+Google Scholar
+Beck, H. E. et al. High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections.
+Sci. Data
+10
+, 724.
+https://doi.org/10.1038/s41597-023-02549-6
+(2023).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Beck, H. E. et al. Present and future Köppen–Geiger climate classification maps at 1-km resolution.
+Sci. Data
+5
+(1), 1–12.
+https://doi.org/10.1038/sdata.2018.214
+(2018).
+Article
+Google Scholar
+Government of Canada (2017). A national ecological framework for Canada.
+Agriculture and Agri-Food Canada
+.
+https://sis.agr.gc.ca/cansis/nsdb/ecostrat/gis_data.html
+Water Survey of Canada Office. (2024). National hydrometric network basin polygons.
+Environment and Climate Change Canada
+. Retrieved from
+https://open.canada.ca/data/en/dataset/0c121878-ac23-46f5-95df-eb9960753375
+Gravelius, H. (1914). Flusskunde (River science), Vol. 1, GJ göschen (1914).
+U.S. Geological Survey. (n.d.). Shuttle Radar Topography Mission (SRTM) 1 arc-second global.
+U.S. Department of the Interior
+.
+https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1
+DOI: /
+https://doi.org/10.5066/F7PR7TFT
+Canada Centre for Remote Sensing (CCRS)/Canada Centre For Mapping And Earth Observation (CCMEO), Natural Resources Canada (NRCAN) (2015). 2015 North American land cover 30-meter dataset.
+Government of Canada
+.
+https://open.canada.ca/data/en/dataset/4e615eae-b90c-420b-adee-2ca35896caf6
+Liu, S., Wei, Y., Post, W. M., Cook, R. B., Schaefer, K., & Thornton, M. M. (2014). NACP MsTMIP: unified North American soil map. ORNL DAAC. Available on-line [
+http://daac.ornl.gov
+]
+from Oak Ridge National Laboratory Distributed Active Archive Center, Oak Ridge,
+Tennessee, USA.
+Pekel, J. F., Cottam, A., Gorelick, N. & Belward, A. High-resolution mapping of global surface water and its long-term changes.
+Nature
+540
+, 418–422.
+https://doi.org/10.1038/nature20584
+(2016).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+R Core Team (2024). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.
+https://www.R-project.org/
+.
+Dunn, O. J. Multiple comparisons using rank sums.
+Technometrics
+6
+(3), 241–252.
+https://doi.org/10.1080/00401706.1964.10490181
+(1964).
+Article
+Google Scholar
+Shannon, C. E. A mathematical theory of communication.
+Bell Syst. Tech. J.
+27
+, 379–423.
+https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+(1948).
+Article
+MathSciNet
+Google Scholar
+Download references
+Author information
+Authors and Affiliations
+Department of Earth Sciences, University of Toronto, 27 King’s College Circle, Toronto, ON, M5S 1A1, Canada
+Sarah Ariano
+Department of Earth and Planetary Sciences, McGill University, 3450 University Street, Montreal, QC, H3A 0E8, Canada
+Geneviève Ali
+Department of Geography, McGill University, 805 Sherbrooke Street West, Montreal, QC, H3A 0B9, Canada
+Geneviève Ali
+School of Environmental Sciences, University of Guelph, 50 Stone Road East, Guelph, ON, N1G 2W1, Canada
+Geneviève Ali
+Authors
+Sarah Ariano
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Geneviève Ali
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.A. Conceptualization, Data Curation, Formal analysis, Methodology, Visualization, Writing—Original draft preparation. G.A. Conceptualization, Methodology, Supervision, Writing- Reviewing and Editing.
+Corresponding author
+Correspondence to
+Sarah Ariano
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Information
+Supplementary Information.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Ariano, S., Ali, G. From river flow regime diversity to proxies for hydrologic homogeneity a Canada-wide case study.
+Sci Rep
+15
+, 16743 (2025). https://doi.org/10.1038/s41598-025-00244-7
+Download citation
+Received
+:
+18 December 2024
+Accepted
+:
+25 April 2025
+Published
+:
+14 May 2025
+DOI
+:
+https://doi.org/10.1038/s41598-025-00244-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Hydrologic signatures
+Climate
+Land cover
+Zonal classifications
+Biomes
+Ecozones
+Download PDF
+Advertisement
+Explore content
+Research articles
+News & Comment
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+About Scientific Reports
+Contact
+Journal policies
+Guide to referees
+Calls for Papers
+Editor's Choice
+Journal highlights
+Open Access Fees and Funding
+Publish with us
+For authors
+Language editing services
+Open access funding
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Scientific Reports
+(
+Sci Rep
+)
+ISSN
+2045-2322
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

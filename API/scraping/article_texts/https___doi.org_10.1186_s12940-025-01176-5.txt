@@ -1,0 +1,710 @@
+The association between hot days and substance-related suicides: a time-stratified case-crossover analysis in British Columbia, Canada | Environmental Health | Full Text
+Skip to main content
+Advertisement
+Search
+Explore journals
+Get published
+About BMC
+My account
+Search all BMC articles
+Search
+Environmental Health
+Home
+About
+Articles
+Collections
+Submission Guidelines
+Submit manuscript
+The association between hot days and substance-related suicides: a time-stratified case-crossover analysis in British Columbia, Canada
+Download PDF
+Download ePub
+Download PDF
+Download ePub
+Research
+Open access
+Published:
+29 April 2025
+The association between hot days and substance-related suicides: a time-stratified case-crossover analysis in British Columbia, Canada
+Karen Li
+1
+,
+Sarah B. Henderson
+1
+,
+2
+,
+Eric S. Coker
+1
+,
+2
+,
+Kathleen E. McLean
+1
+&
+…
+Michael Joseph Lee
+1
+Show authors
+Environmental Health
+volume
+24
+, Article number:
+25
+(
+2025
+)
+Cite this article
+958
+Accesses
+2
+Altmetric
+Metrics
+details
+Abstract
+Background
+Hot weather can negatively impact mental health and increase the risk of suicide. The relationship between heat and risk of suicide is not fully understood, and varies geographically across regions with differing climates, cultures, and socio-economic factors. The objective of this study was to investigate the relationship between hot summer days and suicides in British Columbia, Canada (BC).
+Methods
+A time-stratified case-crossover design was used to estimate the relationship between hot days (exposure) and suicide (outcome), considering same-day and two-day mean temperature. Conditional logistic regression was used to estimate the odds ratio (OR) for the association between hot days and suicides for three outcomes including: (1) suicide attempts by self-poisoning extracted from BC Drug and Poison Information Centre (DPIC) database (2012–2023); (2) completed suicides by self-poisoning extracted from BC vital statistics (2004–2023); and (3) completed suicides by violent methods extracted from BC vital statistics (2004–2023). Analyses were stratified by sex, age, ecological region, substance types used in self-poisonings, and by methods of violent suicide.
+Results
+There were 9,599 suicide attempts via self-poisoning and 2,571 suicide deaths included in this study. Overall, hot days were associated with increased odds of self-poisoning suicide attempts and deaths, but not with suicide deaths via violent methods. The odds ratio [95% confidence interval] for suicide attempts via self-poisoning on hot days was 1.19 [1.11, 1.29], and 1.48 [1.12, 1.95] for suicide deaths. There was no effect of hot days on suicide deaths by violent methods. The associations varied by day of exposure, sex, age groups, and geography. The effect of hot days was greatest for suicide attempts and deaths involving opioids and elevated for suicide attempts involving opioid and analgesia combinations, analgesics alone, and alcohol.
+Conclusions
+The risk of suicide via self-poisoning was increased on hot summer days in BC, Canada. However, the relationship was influenced by other factors that vary among individuals and geographies. Policy decisions and future research for suicide-prevention during hot weather should consider sub-population susceptibility.
+Peer Review reports
+Introduction
+Increasing temperatures negatively impact mental health globally. Heat exposure can increase chronic stress and anxiety and has been associated with elevated hospitalizations for mood disorders, such as depression [
+1
+]. There is also growing evidence that extreme heat can increase the risk of suicide. For example, a meta-analysis of 19 studies found that a 1 °C increase in mean daily temperatures was associated with a 1.7% increase in the incidence of suicide [
+2
+]. Given that the intensity and frequency of extreme heat events are expected to increase due to climate change, it is important to understand the relationship between suicide and hot weather to prevent future deaths [
+3
+].
+The link between heat and the risk of suicide is not completely understood and is likely driven by a combination of biological, psychological, and circumstantial factors. Heightened suicide risk during extreme heat has been associated with pre-existing mental illness, age, and sex [
+4
+,
+5
+]. Biologically, hot weather may impact the level of several hormones and neurotransmitters, including serotonin, noradrenaline, and dopamine, that influence psychological state and are central to the pathophysiology of many mental illnesses [
+6
+]. Altered hormone and neurotransmitter levels may exacerbate symptoms of mental illnesses such as suicide ideation among those with depression [
+7
+]. Previous studies have also indicated that exposure to high temperatures can alter mood by increasing irritability, aggression, frustration, and disrupting sleep patterns [
+8
+,
+9
+]. Circumstantial factors, such as housing instability, housing quality, and income, may also affect an individual’s risk. For instance, low socio-economic status and poor housing quality are simultaneously associated with higher temperature exposure (e.g., no air conditioning) and higher rates of mental illness [
+10
+]. In conjunction with these factors, the relationship between suicide and heat varies geographically with climate, culture, and socio-economic factors [
+7
+,
+11
+,
+12
+].
+High temperatures may also have different impacts on the risk of completed suicides (i.e., death by suicide) versus attempted suicides [
+13
+]. While there is growing evidence linking heat to an increased risk of completed suicides, there are fewer studies that have investigated the association between heat and non-fatal suicide attempts [
+14
+]. This is an important gap because the number of attempts is greater than the number of completed suicides, and people who attempt suicide are more likely than the general population to make another attempt [
+15
+]. Suicide deaths are more well-studied, partly because death records are more accessible through vital statistics registries. In contrast, suicide attempts may go undocumented and there are no centralized databases where all attempts are recorded. Researchers have used emergency dispatch records, hospitalizations, cohort studies, and cross-sectional surveys to estimate suicide attempts, but each approach has limitations [
+16
+].
+Poison control centres are telehealth services that assist callers and healthcare professionals in the management of poisonings. They provide an alternative yet underused source of data for estimating the number of suicide attempts by poisoning [
+17
+,
+18
+]. This is important because recent studies have found that suicides by self-poisoning among youth have increased in the USA [
+19
+] and British Columbia, Canada (BC) [
+20
+]. Poison control data have not been previously used to assess the relationship between hot weather and suicide attempts by self-poisoning.
+In Canada, the risk of suicide varies by region, with the national 2020 age-standardized mortality rate attributable to suicide being 10.9 per 100,000 people and ranging from 4.1 to 72.2 across the country [
+21
+]. In BC, the crude mortality rate due to suicide has remained relatively stable from 2016 to 2023 at about 12 deaths per 100,000 population [
+22
+]. Suicide deaths in BC are more common in January and during the summer months (May– August), and they vary geographically, with the highest rates in northern regions. In 2021, an unprecedented extreme heat event caused hundreds of deaths in BC, with a disproportionate effect on individuals with mental disorders, particularly schizophrenia [
+4
+,
+23
+]. Despite this, no studies have investigated the association between suicides and heat exposure in BC or other regions in Canada.
+The objective of this study was to investigate the relationship between daily ambient temperatures and suicide attempts and deaths in BC, Canada. We use a time-stratified case-crossover design to investigate the association between hot days and: (1) suicide attempts reported to the BC Drug and Poison Information Centre (DPIC) from 2012 to 2023; (2) suicide deaths by self-poisoning recorded in BC vital statistics data from 2004 to 2023, and; (3) suicide deaths by violent methods recorded in BC vital statistics data from 2004 to 2023. We then explore how these relationships vary by age, sex, climatic region, and method of suicide.
+Methods
+Study area and period
+The province of BC is located on the west coast of Canada with a land mass of ~ 945,000 km
+2
+. The 2021 population was just over 5 million with more than 60% living in the southern coastal region that includes greater Vancouver [
+24
+]. This study used four different types of spatial information to estimate heat exposure and to explore the spatial heterogeneity of the heat-suicide relationship. First, we used 6-digit postal codes to identify the approximate location of suicides. These postal codes were converted to geographic coordinates (i.e., latitude and longitude) using the Statistics Postal Code Conversion file [
+25
+]. Second, each suicide was assigned to a local health area (LHA) based on its geographic coordinates. LHAs comprise 89 discrete administrative health boundaries that cover all of BC. Third, we used approximately 52,000 dissemination blocks (DBs) from the 2016 census to derive population-weighted temperatures for each LHA. DBs are the smallest geographic reporting unit for census counts in Canada. Fourth, we assigned the location of each suicide to one of four ecoregions that reflect the varied macroclimates across BC, including the coastal, dry plateau, mountain, and northern regions. We included ecoregions because a previous study in BC found that the relationship between mortality and temperature varied significantly between these regions [
+26
+]. Spatial information specific to each suicide dataset is provided in the sub-sections described below.
+We defined summer as June 21– September 21, consistent with the National Research Council Canada [
+27
+]. During this season, temperatures vary widely across the four ecoregions, with the population-weighted averages ranging from 19.9 °C in the coastal ecoregion, 24.2 °C in the dry plateau, 21.0 °C in the mountains, and 18.6 °C in the north [
+26
+]. Analyses for self-poisoning suicide attempts reported to DPIC covered summers from 2012 to 2023 while analyses for suicide deaths reported in Vital Statistics covered summers from 2004 to 2023.
+Suicide attempts
+DPIC is the poison control centre for BC and Yukon and has been located at the BC Centre for Disease Control (BCCDC) since 2012 [
+28
+]. DPIC provides consultation services for both the public and health care professionals on the management of acute poisonings and medication safety. All calls to DPIC are recorded in a database that includes age, sex, 6-digit postal code of the call or exposure location, route of exposure (e.g., oral, inhalation, dermal), reason for call, substances involved, and poisoning outcome.
+We extracted records of suicide attempts from the DPIC database, including all calls from BC residents during the summers of 2012–2023 where the reason for the call was coded as ‘suspected intentional suicide’. DPIC substance data are categorized using American Association of Poison Control Centres codes, which describe 1157 substances and 70 substance sub-groups [
+29
+]. In this coding system, opioids are categorized as analgesics. To assess the impact of opioids, we split the analgesic category into three sub-categories including opioids, drugs with both opioid and non-opioid analgesic ingredients, and non-opioid analgesics. These categories are henceforth referred to as
+opioids
+,
+opioid/analgesics
+, and
+analgesics
+. After splitting this category, we extracted the ten most frequent substances used in self-poisoning suicide attempts and aggregated the remainder as “other substances”.
+Suicide deaths
+The BC Vital Statistics database contains a registry of all vital events including births, marriages, and deaths for BC residents. Death records include age, sex, 6-digit postal code for the location of death, and ICD-10 codes for contributing and underlying causes of death, coded according to the International Classification of Diseases 10th Revision (ICD-10). We extracted all deaths with an ICD-10 code indicating self-harm or suicide (X60 - X84) as the underlying or contributing cause of death during the summers of 2004–2023. Suicide deaths were further delineated by self-poisoning (X60 - X69) and violent methods (X70 - X84), which included suffocation, falls, and firearms. Individual ICD-10 codes were used to further categorize each suicide according to the type of substance or specific method of suicide (Table
+S1
+).
+Temperature data
+Data extracted from the Meteorological Service of Canada Open Data [
+30
+] were used to estimate daily population-weighted mean temperature for each LHA. To do this, we spatially interpolated temperatures across the province at a resolution of 769 m. Interpolations were calculated using thin-plate splines accounting for daily mean temperatures measured at Environment and Climate Change Canada (ECCC) weather stations (
+N
+= 128) in BC and near the BC borders in Alberta and Yukon Territory [
+31
+]. We then extracted the temperatures at the population-weighted centroids of DBs and calculated the daily mean for each LHA by taking the population-weighted average of temperatures across all DBs in that LHA (Fig.
+1
+). We aggregated temperatures at the LHA level to account for imprecision in the DPIC postal code data [
+32
+]. For example, callers sometimes only reported their city, and DPIC assigns a default postal code for that city in such cases.
+Fig. 1
+Distribution of suicides by local health area (LHA,
+N
+= 89) and ecoregions across British Columbia, Canada.
+(A)
+The number of self-poisoning attempts reported to the Drug and Poison Information Centre (DPIC) in the summers between 2012–2023 per 10,000 population;
+(B)
+the number of suicide deaths in BC vital statistics from 2004–2023 per 10,000 population. Ecoregions are shown as outlined (black) and labeled (North, Mountain, Coast, Dry Plateau) polygons
+Full size image
+Hot day exposure
+For every LHA, the temperature on each day of the study period was classified as a hot day (yes/no) based on whether it was equal to or greater than the 95th percentile of temperatures over the previous 28 days (4 weeks) within that LHA. Temperatures were classified using 1-day and 2-day averages, where the 2-day running mean was used to account for any short-terms lags in the effect of temperature on suicide. We chose this locally and temporally relativistic approach for three reasons. First, populations are adapted to the typical climate in their region (i.e., LHA), meaning that relative changes in local temperature may be more health relevant than absolute temperatures [
+33
+]. Second, population acclimatization (i.e., previous 28 days) to higher temperatures happens over the course of every summer [
+34
+], such that populations are more accustomed to higher temperatures later in the summer. Finally, absolute temperatures vary widely across BC, and using a measure of locally relevant temperature (i.e., LHA and previous 28 days) allows inclusion of data from across the province in the same models.
+Study design
+We used a time-stratified case-crossover design [
+35
+] to estimate the relationship between hot days (exposure) and suicide (outcome). Overall, we compared the hot day status of the date on which a subject attempted or completed suicide (case day), with the status of 3–4 control days, matched based on the calendar day, month, and year of the case day and the residential LHA of the subject. For example, if the subject attempted suicide on Tuesday July 9, 2019, the control dates would be Tuesday July 2, 16, 23, and 30, 2019. This design controls for individual-level factors that do not vary over short time-periods, such as age, sex, smoking status, exercise, diet, and chronic conditions [
+36
+].
+Statistical analysis
+We used conditional logistic regression to estimate the odds ratio (OR) and 95% confidence intervals for the association between hot days and suicides. Models were conditioned on individual case/control day strata so that case days were compared with matched control days (Eq.
+1
+.):
+$$\:Case\:Day\:\left( {\frac{{Yes}}{{No}}} \right)|\:Stratum\: = \:\beta {\:_0} + \beta {\:_1}{\text{Hot}}\:{\text{Day}}$$
+(1)
+We examined three different models based on suicide outcomes, including: (model 1) attempted suicide by self-poisoning, based on DPIC data; (model 2) completed suicide by self-poisoning, based on vital statistics data, and; (model 3) completed suicide by violent methods, based on vital statistics data. Next, we stratified models by sex (male, female) and age (< 25 years, 25–55 years, > 55 years) to assess whether the relationship between hot days and suicides was modified by these variables. To address the wide variety of average temperatures experienced across climate types, we also stratified analyses by the four ecoregions (coast, dry plateau, mountain, and northern). Finally, to assess whether the relationship between hot days and suicide was driven by specific methods of suicide, we stratified models by the substance used for self-poisoning in suicide attempts and deaths, and by the method of violent suicide. Due to limited sample sizes for most substances and methods, we limited these sub-group analyses to categories with at least 50 cases or more than 5% of suicide attempts or deaths. All analyses were performed using R (Version 4.3.1) [
+37
+] and the survival package (Version 3.5.7) [
+38
+] to fit conditional logistic regression models.
+Sensitivity analysis
+We performed sensitivity analyses to examine our definition of hot days. First, we varied the percentile threshold (90th, 95th, 97th and 99th ) of mean daily temperatures for defining hot days. Second, we increased the number of days for calculating the temperature percentile to 56 days (8 weeks) to examine whether a 28-day window was appropriate for capturing acclimatization. Third, we reran models 1–3 using the absolute mean daily temperature per LHA as the exposure instead of defining spatially and temporally relative hot days.
+Results
+Description
+There were 9,599 suicide attempts (2012–2023) and 2,571 deaths (2004–2023) after excluding 301 DPIC cases missing postal code information. The mean (range) annual number of suicide attempts per summer by self-poisoning was 775 (478–1137) with a mean age of 31.8 (10.8–84.5) years. Most self-poisoning attempts were among females (70.2%) and the most common substances used were antidepressants (e.g., selective serotonin reuptake inhibitors, tri-cyclic antidepressants), analgesics (e.g., Tylenol, Advil) and sedative medications (e.g., benzodiazepines, barbiturates) (Fig.
+2
+A). The mean annual number of completed suicides per summer was 126 (30–165). Completed suicides occurred more often among older adults, with a mean age of 48.4 (15.6–90.9) years and among males (76.3%). Of the completed suicides, 651 (25.3%) were performed using self-poisoning methods and 1,920 (74.7%) using violent methods (Table
+1
+).
+Fig. 2
+Top methods used in suicides on hot days (orange) and non-hot days (blue).
+(A)
+Proportion of substances used in self-poisoning attempts recorded by the Drug and Poison Information Centre (DPIC);
+(B)
+proportion of substances used in self-poisoning suicide deaths (ICD-10 codes) recorded in BC vital statistics;
+(C)
+proportion of methods used in violent suicide deaths (ICD-10 codes) recorded by in BC vital statistics
+Full size image
+Table 1 Summary statistics for BC summer suicide attempts (2012–2023), self-poisoning suicide deaths (2004–2023), and violent suicide deaths (2004–2023)
+Full size table
+Case days had a mean (range) temperature of 18.2 °C (-1.0 °C, 32.7 °C) for suicide attempts, 18.2 °C (3.1 °C, 27.0 °C) for self-poisoning suicide deaths, and 17.9 °C (5.7 °C, 29.6 °C) for violent suicide deaths. Control days had a mean temperature of 17.6 °C (-1.9 °C, 32.4 °C) for suicide attempts, 17.5 °C (1.5 °C, 30.5 °C) for self-poisoning suicide deaths, and 17.7 °C (-1.1 °C, 32.4 °C) for violent suicide deaths (Table
+1
+).
+Hot days and attempted suicides by self-poison (Model 1)
+There was an association between hot days and attempted suicide via self-poisoning (Model 1), with an OR [95% confidence interval] of 1.19 [1.11, 1.29]. In stratified analyses, the relationship was stronger for males and increased with increasing age (Fig.
+3
+A; Table
+S2
+,
+S3
+). The OR was elevated in each ecoregion, but was only significant in the coastal region, where the majority of the BC population lives and the majority (76.3%) of DPIC calls occurred. When the 1-day and 2-day hot day definitions were compared, the ORs were similar but slightly lower for the 2-day definition, except for in the dry plateau where the OR increased marginally (Fig.
+3
+A).
+Fig. 3
+Odds ratios (OR) 95% confidence intervals for suicide on hot days versus non-hot days in British Columbia, Canada (BC). ORs are stratified by y-axis variables, such that the top row (
+All
+) includes all suicides, and the second row (
+Male
+) only includes suicides among males. Columns show
+(A)
+self-poisoning suicide attempts;
+(B)
+suicide deaths by self-poisoning, and;
+(C)
+suicide deaths by violent methods. Axes are shown on different scales to visual relative differences between variables within each panel
+Full size image
+When suicide attempts were stratified by substance, the OR for hot days was significantly increased for opioids, opioid/analgesics, alcohol, and analgesics. The OR was highest for opioids at 1.66 [1.11, 2.48] in attempted suicides, even though opioids accounted for only 1.8% of self-poisoning attempts (Fig.
+2
+). The ORs were elevated for anticonvulsants, antidepressants, and sedatives (Fig.
+4
+A; Table
+S4
+).
+Fig. 4
+Odds ratios (ORs) and 95% confidence intervals for suicide on hot days versus non-hot days across British Columbia, Canada (BC) stratified by method of suicide. ORs are stratified by
+(A)
+the most common substances used in self-poisoning suicide attempts;
+(B)
+the most common ICD-10 codes among self-poisoning suicide deaths, and;
+(C)
+the most common ICD-10 codes among deaths by violent methods. Axes are shown on different scales to visual relative differences between variables within each panel
+Full size image
+Hot days and suicide deaths by self-poisoning (Model 2) and violent methods (Model 3)
+Among suicide deaths by self-poisoning (Model 2), the overall OR for hot days was 1.48 [1.12, 1.95]. Upon stratification, the OR was higher for males and for those < 25 years old, with no clear pattern by age (Fig.
+3
+B; Table
+S2
+,
+S3
+). The OR was increased in the dry plateau and coastal ecoregions, but not in the northern and mountain regions. The OR estimates for the 2-day definition of hots days were similar or slightly attenuated compared with the 1-day definition. When stratified by substances used, hot days were increased for opioids with ORs of 1.95 [0.97, 3.93] and 2.66 [1.22, 5.79], for the 1-day and 2-day definitions, respectively (Fig.
+4
+B). Opioids accounted for 13.9% of all self-poison deaths. The OR was also elevated for carbon monoxide poisoning (Fig.
+4
+B; Table
+S4
+).
+Among suicide deaths by violent methods (Model 3), the overall and all stratified 1-day and 2-day ORs were null (Fig.
+3
+C). Suicides by firearms was slightly less than 1.0 during hot days (Fig.
+4
+C).
+Sensitivity analysis
+Sensitivity analyses supported the conclusions of the main analysis, but indicated that some findings were sensitive to our definition of hot days. When varying the percentile threshold for defining a hot day, the ORs remained relatively consistent with the overall 95th percentile definition, with several exceptions (Figure
+S1
+). Specifically, for suicide attempts, the ORs increased with an increasing percentile threshold for the 55 + age group and in the north ecoregion. In the dry plateau, the ORs were higher for the 97th and 99th percentile compared with the 90th and 95th. Extending referent window from four to eight weeks had no clear impact on findings (Figure
+S2
+). When using absolute temperature, the odds of all three types of suicide increased for a 1℃ increase in temperature, but the size of the effect varied across ecoregions (Figure
+S3
+). Further, the effect of a 1℃ increase was largest from 10 to 15 °C and decreased (though remained significant in some regions) slightly at higher temperatures (Figure
+S3
+).
+Discussion
+Summary
+We found that the odds of suicide attempts and deaths by self-poisoning were higher on hot summer days in BC, Canada. Hot days had a stronger relationship with suicide deaths compared with attempts, and the strength of the relationships for both varied geographically. The association between hot days and self-poisoning suicides was driven by the temperature on the day of suicide (i.e., 1-day definition), and was strongest for self-poisoning via opioids, opioid/analgesic combinations, alcohol, and analgesics among suicide attempts and for opioids among suicide deaths. The strength of the relationship with hot days was greater among males, for both suicide attempts and deaths, but there were different patterns among age groups. Suicide deaths by violent methods were not associated with hot days.
+Self-poisoning suicides
+The odds of suicide attempts and deaths by self-poisoning were increased on hot days, with a stronger relationship for suicide deaths. This finding is consistent with other case-crossover studies on the association between suicides and hot ambient temperatures in Canada [
+39
+] and globally [
+12
+,
+40
+]. For example, Villeneuve found that suicide deaths across Canada from 2002 to 2015 increased by 10.1% per interquartile range increase in temperature [
+39
+]. Like our study, Villeneuve found that heat on the day of suicide was more important than heat in the preceding days. These results are also consistent with several systematic reviews and meta-analyses which have reported that suicide deaths and attempts increased with increasing temperatures on the day of death [
+2
+,
+7
+]. This indicates that the effect of heat on suicide may be rapid and likely requires immediate interventions on hot days or prevention strategies that identify and target at-risk populations prior to hot weather.
+We found that the relationship between hot days and self-poisoning suicides varied geographically. The association between hot days and self-poisoning suicide deaths was strongest in the dry plateau ecoregion, while the association with self-poisoning suicide attempts was strongest in the coast ecoregion. Previous studies have also found geographic variability in the relationship between heat and suicides. For example, Kim et al. 2019 performed a multi-country analysis across 341 locations in 12 countries and found that the shape of the relationship between heat and suicides varied with climate [
+11
+]. In their study, linear relationships were more common in cooler regions (UK, Canada, Switzerland) and J-shaped curves were more likely in hotter climates (Japan, Taiwan, South Korea).
+The association between self-poisoning suicides and hot days was stronger for males but was different among age groups for suicide attempts versus deaths. Other studies have also been mixed across time and space for sex and age. For example, a time-stratified case crossover analysis found that the association between suicide deaths and temperature was stronger among males in 12 of 15 cities across Japan, China, and South Korea [
+40
+], while Luan et al. 2019 only reported a stronger effect for males in 12 of 31 cities in China [
+41
+]. While there is no single reason why males may experience greater risks only in some areas, it may be due to differences in socio-economic factors linked to sex, such as the likelihood to work outdoors [
+42
+]. Similarly, variable associations with age may be driven by age-related factors not measured in this study.
+Self-poisoning attempts and deaths with opioids had the strongest association with temperature even though opioids only accounted for a small proportion of attempts (1.8%) and deaths (13.9%). Although this has not been previously reported, a recent study found that deaths in BC from opioid overdoses were elevated during hotter weather. Using the same time-stratified case-crossover design as our study, Henderson et al. reported an OR of 1.15 [0.99, 1.33] on hotter days for opioid toxicity alone with higher ORs for combinations of opioids with cocaine and amphetamines [
+43
+]. Here, we report that hot days were associated with suicide attempts and deaths via opioids alone, and suicide attempts via opioid/analgesic combinations, alcohol, and analgesics.
+There are different mechanisms by which the use of opioids and other substances may increase the risk of suicide death during hot weather [
+44
+]. For example, opioids may result in a decrease in fluid intake and dehydration [
+45
+]. During hot weather, dehydration can be exacerbated by sweating leading to injury and death, particularly following an overdose during which an individual loses consciousness. As such, substance-related suicides may be difficult to differentiate from accidental overdoses which can lead to death during hot weather because of increased dehydration and decreased consciousness. Nevertheless, we also found that non-fatal suicide
+attempts
+via opioids and other substances were elevated during hot days, adding confidence to the finding that suicides deaths via opioids were increased during hot days.
+It is difficult to argue that people are more likely to
+choose
+to use opioids or other substances with suicidal intent during hot weather. Instead, it could be that the substance used with suicidal intent overlaps with other factors. For instance, individuals with substance use disorder have a higher risk of suicide and lower access to housing with air conditioning [
+46
+,
+47
+]. As such, these individuals may be more exposed to hotter indoor temperatures, have a higher baseline risk of suicide, and have easy access to opioids, alcohol, and analgesics. Despite these speculations, more evidence is needed to understand why suicides via opioids and other specific substances may be increased during hot weather.
+Our findings also need to be contextualized in the ongoing opioid crisis in BC. In 2016, opioid-related deaths were declared a national public health emergency, with BC having the highest reported death rate in Canada [
+46
+]. Injuries and deaths due to opioid toxicity have continued to rise, particularly since the COVID-19 pandemic [
+47
+]. The population affected by the ongoing emergency has a higher prevalence of many risk factors associated with mortality during hot weather, including lower socio-economic status, reduced access to housing and healthcare, higher rates of mental illness and other comorbidities, and greater levels of social isolation [
+23
+,
+47
+]. It is likely that all these factors interact to influence the association between heat and suicides in different ways for different individuals.
+Suicide deaths by violent methods
+In the primary analyses, there was no association between hot days and violent suicide deaths. This finding is inconsistent with previous literature, which has reported that this association is stronger than the association with non-violent suicide. For example, a study in England and Wales found a 5% increase in violent suicide rates per 1 °C increase of mean daily temperature above 18 °C from 1993 to 2003, but found no association with non-violent suicides [
+12
+]. Our results do align with a case-crossover study conducted in Switzerland from 1995 to 2016, which found a stronger association with heat for non-violent suicides [
+48
+]. Discrepancies between studies may be related to regional differences in non-heat related factors such as access to violent methods. For instance, in the US, firearms accounted for 63.1% of male suicides [
+49
+], while they only accounted for 20.7% of male suicides in our BC study, where gun ownership is much less common.
+Differences between studies may also be driven by varying analytical approaches. For example, it is common in the literature to use absolute temperature as a linear predictor of suicide [
+12
+,
+14
+,
+40
+]. In our sensitivity analysis, we did find that violent suicides increased with a 1 °C increase in absolute temperature, but this effect was largest at relatively lower temperatures and decreased at higher temperatures (Figure
+S3
+). We saw similar associations for suicide attempts and deaths by self-poisoning. In our overall models, the definition of hot days used a spatially and temporally relative definition of what constitutes hot temperatures, so that hot days represent days that are abnormally hot for a particular region and time. This is important because BC has a very large landmass with a highly variable climate from north to south, and west to east. People become acclimatized to increasing temperatures throughout the summer and people who live in hotter regions may be more resilient to higher temperatures [
+50
+,
+51
+]. Using absolute temperature does not account for these spatial and temporal effects.
+Strengths and limitations
+This is the first study to investigate the association between hot days and attempted or completed suicides in BC. Further, this is the first study to directly compare suicide attempts and deaths at a regional scale using both DPIC and vital statistics data. Our study highlights the value of DPIC data for examining the relationship between climate variables and outcomes related to mental health. These data enabled us to identify clear similarities in the impacts of heat on the risk of suicide attempts and deaths, including the effect of opioids and being male, indicating that these may be important risk factors during hot weather in BC. Similarly, differences between the two datasets, such as in the effect of age and geographic region, demonstrate how assessing either attempts or deaths alone may be insufficient to fully understand the impact of heat on suicide.
+This study also had several limitations. First, it does not account for other meteorological variables such as humidity or air pollution. Extreme heat may co-occur with other climate hazards such as wildfire smoke, which may also be associated with increased risk of suicide [
+52
+]. However, the only other study investigating the link between heat and suicide in Canada found that the effects of temperature on suicide were greater than the effects of three different air pollutants at the national level [
+39
+]. Second, temperatures were aggregated over large geographic areas and may not represent the temperatures that individuals truly experienced. Despite this limitation, our sensitivity analyses found increasing risk of suicide attempts with increasing percentiles used to define hot temperature. This suggests that our definition of hot days was capturing the effect of temperature.Third, rates of suicide were variable across the province (Figure
+1
+), generally aligning with higher risk regions identified by the BC Coroners report on suicides [
+22
+]. More research is required to understand why this was the case. For example, previous work indicates that suicides are more common in remote and rural areas [
+53
+] and specifically among Indigenous populations, because of the ongoing and systemic harms caused by policies that led to residential schools, forced family separation, and drove a loss of language and traditions, as well as ongoing societal-driven disparities related to structural determinants of mental health [
+54
+]. Future work should seek to identify and account for these drivers of variability to more fully understand the impacts in different areas and populations.
+Public health implications
+Overall, our study found suicide attempts and deaths increased during hot summer days in BC. This increase was driven by self-poisoning suicides and was most pronounced for specific substances, especially opioids. These risks were variable geographically, were more pronounced among males, and differed by age, highlighting how the effect of heat on the risk of suicide is likely to be context specific and variable across the population. We also found that the impact of hot days appears to be rapid, with temperature on the day of suicidal intent driving the association. In contrast, heat warnings may only be issued for consecutive days with hot temperatures [
+55
+]. The rapid impacts of heat in our study suggest that heat warning thresholds may need to tailored to specific sub-groups to balance the risks of same day heat in those populations with public warning fatigue. Finally, other climate hazards, such as drought and wildfire smoke, may also impact mental health and the risk of suicide [
+56
+]. This underscores the need to understand suicide risk in the broader and systemic context of climate change to prevent future deaths.
+Data availability
+Data for this study were accessed by the BC Centre for Disease Control (BCCDC) under the BC Public Health Act. Vital Statistics and Drug and Poison Control data for this study can not be made publicly available. Access to data may be requested for research projects through data stewards or their designated service providers and may be subject to approval. For detailed information on how to request access to this data, see the Government of British Columbia [
+57
+]. Meteorological data were accessed through Environment and Climate Change Canada (ECCC) and are publicly available [
+30
+].
+Abbreviations
+BC:
+British Columbia
+BCCDC:
+British Columbia Centre for Disease Control
+DB:
+Dissemination Block
+DPIC:
+Drug and Poison Control
+ECCC:
+Environment and Climate Change Canada
+ICD-10:
+International Classification of Diseases 10th Revision
+LHA:
+Local Health Area
+OR:
+Odds Ratio
+References
+Rony MKK, Alamgir HM. High temperatures on mental health: recognizing the association and the need for proactive strategies—A perspective. Health Sci Rep. 2023;6:e1729.
+Article
+Google Scholar
+Thompson R, Lawrance EL, Roberts LF, Grailey K, Ashrafian H, Maheswaran H, et al. Ambient temperature and mental health: a systematic review and meta-analysis. Lancet Planet Health. 2023;7:e580–9.
+Article
+Google Scholar
+Intergovernmental Panel On Climate Change (IPCC). Climate change 2022– Impacts, adaptation and vulnerability: working group II contribution to the sixth assessment report of the intergovernmental panel on climate change. 1st ed. Cambridge University Press; 2023.
+https://doi.org/10.1017/9781009325844
+.
+Lee MJ, McLean KE, Kuo M, Richardson GRA, Henderson SB. Chronic Diseases Associated With Mortality in British Columbia, Canada During the 2021 Western North America Extreme Heat Event.
+GeoHealth
+2023; 7: e2022GH000729.
+Hansen A, Bi P, Nitschke M, Ryan P, Pisaniello D, Tucker G. The effect of heat waves on mental health in a temperate Australian City. Environ Health Perspect. 2008;116:1369–75.
+Article
+Google Scholar
+Wang X, Lavigne E, Ouellette-kuntz H, Chen BE. Acute impacts of extreme temperature exposure on emergency room admissions related to mental and behavior disorders in Toronto, Canada. J Affect Disord. 2014;155:154–61.
+Article
+Google Scholar
+Heo S, Lee W, Bell ML. Suicide and associations with air pollution and ambient temperature: A systematic review and Meta-Analysis. Int J Environ Res Public Health. 2021;18:7699.
+Article
+CAS
+Google Scholar
+Hospers L, Dillon GA, McLachlan AJ, Alexander LM, Kenney WL, Capon A, et al. The effect of prescription and over-the-counter medications on core temperature in adults during heat stress: a systematic review and meta-analysis. eClinicalMedicine. 2024;77:102886.
+Article
+Google Scholar
+Altena E, Baglioni C, Sanz-Arigita E, Cajochen C, Riemann D. How to deal with sleep problems during heatwaves: practical recommendations from the European insomnia network. J Sleep Res. 2023;32:e13704.
+Article
+Google Scholar
+Fazel S, Geddes JR, Kushel M. The health of homeless people in high-income countries: descriptive epidemiology, health consequences, and clinical and policy recommendations. Lancet Lond Engl. 2014;384:1529–40.
+Article
+Google Scholar
+Kim Y, Kim H, Gasparrini A, Armstrong B, Honda Y, Chung Y, et al. Suicide and ambient temperature: A Multi-Country Multi-City study. Environ Health Perspect. 2019;127:117007.
+Article
+Google Scholar
+Page LA, Hajat S, Kovats RS. Relationship between daily suicide counts and temperature in England and Wales. Br J Psychiatry J Ment Sci. 2007;191:106–12.
+Article
+Google Scholar
+Ludwig B, Dwivedi Y. The concept of violent suicide, its underlying trait and neurobiology: A critical perspective. Eur Neuropsychopharmacol. 2018;28:243–51.
+Article
+CAS
+Google Scholar
+Frangione B, Rodríguez Villamizar LA, Lang JJ, Colman I, Lavigne E, Peters C, et al. Short-term changes in meteorological conditions and suicide: A systematic review and meta-analysis. Environ Res. 2022;207:112230.
+Article
+CAS
+Google Scholar
+Substance Abuse and Mental Health Services Administration (SAMHSA), U.S. Department of Health and Human Services (HHS). Key Substance Use and Mental Health Indicators in the United States: Results from the 2022 National Survey on Drug Use and Health. 2022.
+Roy A, Alam MA, Kim Y, Hashizume M. Association between daily ambient temperature and drug overdose in Tokyo: a time-series study. Environ Health Prev Med; 27: 36.
+Farah R, Rege SV, Cole RJ, Holstege CP. Suspected suicide attempts by Self-Poisoning among persons aged 10–19 years during the COVID-19 Pandemic — United States, 2020–2022. MMWR Morb Mortal Wkly Rep. 2023;72:426–30.
+Article
+Google Scholar
+Su MK, Chan PY, Hoffman RS. The seasonality of suicide attempts: a single poison control center perspective. Clin Toxicol. 2020;58:1034–41.
+Article
+Google Scholar
+Spiller HA, Ackerman JP, Spiller NE, Casavant MJ. Sex- and Age-specific increases in suicide attempts by Self-Poisoning in the united States among youth and young adults from 2000 to 2018. J Pediatr. 2019;210:201–8.
+Article
+Google Scholar
+Pawer S, Rajabali F, Smith J, Zheng A, Dhatt A, Purssell R et al. Self-poisoning among British Columbian children and youth: demographic and geographic characteristics. Br Columbia Med J; 63: 164–70.
+Public Health Agency of Canada, Centre for Surveillance and Applied Research. Suicide Surveillance Indicator Framework Quick Statistics, Canada, 2023 Edition. 2023.
+https://health-infobase.canada.ca/ssif/data-tool/
+(accessed 18 Jun2024).
+BC Coroners Service. Suicide Deaths in B.C. 2013–2023. BC Coroners Service. 2024.
+https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/statistical/suicide_deaths_in_bc_2013-2023.pdf
+McLean KE, Lee MJ, Coker ES, Henderson SB. A population-based case-control analysis of risk factors associated with mortality during the 2021 Western North American heat dome: focus on chronic conditions and social vulnerability. Environ Res Health. 2024;2:035010.
+Article
+Google Scholar
+Government of Canada SC, Census, Profile. 2021 Census of Population. 2022.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E
+(accessed 18 Jun2024).
+Statistics Canada, Postal Code OM. Postal Code Conversion File. 2023.
+https://www150.statcan.gc.ca/n1/en/catalogue/92-154-X2017001
+Henderson SB, Wan V, Kosatsky T. Differences in heat-related mortality across four ecological regions with diverse urban, rural, and remote populations in British Columbia, Canada. Health Place. 2013;23:48–53.
+Article
+Google Scholar
+Canada NRC. When do the seasons start? 2020.
+https://nrc.canada.ca/en/certifications-evaluations-standards/canadas-official-time/3-when-do-seasons-start
+(accessed 27 Aug2024).
+Mcvea D, Kent DA, Trieu J, Wong A, Henderson SB. The BC drug and poison information centre: an essential clinical resource and public health partner. BC Med J. 2023;65:62–3.
+Google Scholar
+Gummin DD, Mowry JB, Beuhler MC, Spyker DA, Bronstein AC, Rivers LJ et al. 2020 Annual Report of the American Association of Poison Control Centers’ National Poison Data System (NPDS): 38th Annual Report. Clin Toxicol (Phila). 2021; 59: 1282–1501.
+Environment, Canada CC. Meteorological Service of Canada, Open Data. MSC DataMart.
+https://dd.weather.gc.ca/
+(accessed 25 Jan2024).
+Hutchinson MF, McKenney DW, Lawrence K, Pedlar JH, Hopkinson RF, Milewska E, et al. Development and testing of Canada-Wide interpolated Spatial models of daily Minimum–Maximum temperature and precipitation for 1961–2003. J Appl Meteorol Climatol. 2009;48:725–41.
+Article
+Google Scholar
+McLean KE, Henderson SB, Kent D, Kosatsky T. Calls to the British Columbia Drug and Poison Information Centre: A summary of differences by health service areas.
+OJPHI
+2014; 6.
+https://doi.org/10.5210/ojphi.v6i2.5376
+McLean KE, Stranberg R, MacDonald M, Richardson GRA, Kosatsky T, Henderson SB. Establishing heat alert thresholds for the varied Climatic regions of British Columbia, Canada. Int J Environ Res Public Health. 2018;15:2048.
+Article
+Google Scholar
+Krüger EL, Tamura CA, Bröde P, Schweiker M, Wagner A. Short- and long-term acclimatization in outdoor spaces: exposure time, seasonal and heatwave adaptation effects. Build Environ. 2017;116:17–29.
+Article
+Google Scholar
+Wu Y, Li S, Guo Y. Space-Time-Stratified Case-Crossover Design in Environmental Epidemiology Study.
+Health Data Sci
+2021; 2021: 9870798.
+Guo Y, Barnett AG, Pan X, Yu W, Tong S. The impact of temperature on mortality in Tianjin, China: A Case-Crossover design with a distributed lag nonlinear model. Environ Health Perspect. 2011;119:1719–25.
+Article
+Google Scholar
+R Foundation for Statistical Computing. R: A language and environment for statistical computing. 2021.
+https://www.R-project.org/
+Therneau TM. A package for Survival Analysis in R. 2020.
+https://CRAN.R-project.org/package=survival
+Villeneuve PJ, Huynh D, Lavigne É, Colman I, Anisman H, Peters C, et al. Daily changes in ambient air pollution concentrations and temperature and suicide mortality in Canada: findings from a National time-stratified case-crossover study. Environ Res. 2023;223:115477.
+Article
+CAS
+Google Scholar
+Kim Y, Kim H, Honda Y, Guo YL, Chen B-Y, Woo J-M, et al. Suicide and ambient temperature in East Asian countries: A Time-Stratified Case-Crossover analysis. Environ Health Perspect. 2016;124:75–80.
+Article
+Google Scholar
+Luan G, Yin P, Wang L, Zhou M. Associations between ambient high temperatures and suicide mortality: a multi-city time-series study in China. Environ Sci Pollut Res. 2019;26:20377–85.
+Article
+Google Scholar
+Lewinsohn PM, Rohde P, Seeley JR, Baldwin CL. Gender differences in suicide attempts from adolescence to young adulthood. J Am Acad Child Adolesc Psychiatry. 2001;40:427–34.
+Article
+CAS
+Google Scholar
+Henderson SB, McLean KE, Ding Y, Yao J, Turna NS, McVea D, et al. Hot weather and death related to acute cocaine, opioid and amphetamine toxicity in British Columbia, Canada: a time-stratified case-crossover study. CMAJ Open. 2023;11:E569–78.
+Article
+Google Scholar
+Oliva EM, Bowe T, Manhapra A, Kertesz S, Hah JM, Henderson P, et al. Associations between stopping prescriptions for opioids, length of opioid treatment, and overdose or suicide deaths in US veterans: observational evaluation. BMJ. 2020;368:m283.
+Article
+Google Scholar
+Mallappallil M, Sabu J, Friedman EA, Salifu M. What do we know about opioids and the kidney?? Int J Mol Sci. 2017;18:223.
+Article
+Google Scholar
+Belzak L, Halverson J. Evidence synthesis - The opioid crisis in Canada: a National perspective. Health Promot Chronic Dis Prev Can Res Policy Pract. 2018;38:224–33.
+Google Scholar
+BC Coroners Service Death Review Panel: An Urgent Response to a Continuing Crisis. BC Coroners Service. 2023
+https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/an_urgent_response_to_a_continuing_crisis_report.pdf
+(accessed 24 Jun2024).
+Bär S, Bundo M, de Schrijver E, Müller TJ, Vicedo-Cabrera AM. Suicides and ambient temperature in Switzerland: A nationwide time-series analysis. Swiss Med Wkly. 2022;152:w30115–30115.
+Article
+Google Scholar
+Ojima T, Nakamura Y, Detels R. Comparative study about methods of suicide between Japan and the united States. J Epidemiol. 2005;14:187–92.
+Article
+Google Scholar
+Kenny GP, Notley SR, Flouris AD, Grundstein A. Climate change and heat exposure: impact on health in occupational and general populations. In: Adams WM, Jardine JF, editors. Exertional heat illness: A clinical and Evidence-Based guide. Springer International Publishing: Cham,; 2020. pp. 225–61.
+Anderson GB, Bell ML. Heat waves in the united States: mortality risk during heat waves and effect modification by heat wave characteristics in 43 U.S. Communities. Environ Health Perspect. 2011;119:210–8.
+Article
+Google Scholar
+Molitor D, Mullins JT, White C. Air pollution and suicide in rural and urban America: Evidence from wildfire smoke.
+Proceedings of the National Academy of Sciences
+2023; 120: e2221621120.
+Barry R, Rehm J, de Oliveira C, Gozdyra P, Chen S, Kurdyak P. Rurality as a Risk Factor for Attempted Suicide and Death by Suicide in Ontario, Canada. Can J Psychiatry 2022; 67: 679–689.
+https://doi.org/10.1177/07067437211053300
+Article
+Google Scholar
+Government of Canada SC. Suicide among First Nations people, Métis and Inuit (2011–2016): Findings from the 2011 Canadian Census Health and Environment Cohort (CanCHEC). 2019. (accessed 9 Mar2025).
+https://www150.statcan.gc.ca/n1/pub/99-011-x/99-011-x2019001-eng.htm
+BC Provincial Heat Alert and Response System. BC provincial heat alert and response system (BC HARS): 2024. Environment and Climate Change Canada.
+Hanigan IC, Butler CD, Kokic PN, Hutchinson MF. Suicide and drought in new South Wales, Australia, 1970–2007. Proc Natl Acad Sci. 2012;109:13950–5.
+Article
+CAS
+Google Scholar
+Government of British Columbia. Health Data Access. 2024.
+https://www2.gov.bc.ca/gov/content/health/conducting-health-research-evaluation/data-access-health-data-central
+Download references
+Acknowledgements
+Not applicable.
+Funding
+Not applicable.
+Author information
+Authors and Affiliations
+Environmental Health Services, British Columbia Centre for Disease Control, 655 W 12th Ave, Vancouver, BC, Canada
+Karen Li, Sarah B. Henderson, Eric S. Coker, Kathleen E. McLean & Michael Joseph Lee
+School of Population & Public Health, University of British Columbia, Vancouver, Canada
+Sarah B. Henderson & Eric S. Coker
+Authors
+Karen Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sarah B. Henderson
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Eric S. Coker
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kathleen E. McLean
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Michael Joseph Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+K.L. contributed to the data curation, formal analysis, visualization, drafting and review of the manuscript. S.H.contributed to the conceptualization, methodology, supervision of the study, and the drafting and review of the manuscript. E.C. contributed to the drafting and review of the manuscript. K.M. contributed to the data curation of the manuscript. M.L. contributed to the data curation, supervision of the study, drafting and review of the manuscript. All authors read and approved the final manuscript.
+Corresponding authors
+Correspondence to
+Karen Li
+or
+Sarah B. Henderson
+.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Electronic supplementary material
+Below is the link to the electronic supplementary material.
+Supplementary Material 1
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Li, K., Henderson, S.B., Coker, E.S.
+et al.
+The association between hot days and substance-related suicides: a time-stratified case-crossover analysis in British Columbia, Canada.
+Environ Health
+24
+, 25 (2025). https://doi.org/10.1186/s12940-025-01176-5
+Download citation
+Received
+:
+30 August 2024
+Accepted
+:
+25 March 2025
+Published
+:
+29 April 2025
+DOI
+:
+https://doi.org/10.1186/s12940-025-01176-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Hot temperature
+Suicide
+Mortality
+Drug and poison control
+Vital statistics
+Download PDF
+Download ePub
+Advertisement
+Environmental Health
+ISSN: 1476-069X
+Contact us
+General enquiries:
+journalsubmissions@springernature.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our
+Terms and Conditions
+,
+Your US state privacy rights
+,
+Privacy
+                statement
+and
+Cookies
+policy.
+Your privacy choices/Manage cookies
+we use in the preference centre.
+© 2025 BioMed Central Ltd unless otherwise stated. Part of
+Springer Nature
+.
