@@ -6,12 +6,13 @@ from bs4 import BeautifulSoup
 
 # This one directly fetches hyperlinked pdfs with the keywords from the specified  web page,
 
-PAGE_URL     = "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/becoming-a-climate-ready-toronto/"
-STATE_FILE   = "known_reports.json"
+PAGE_URL = "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/becoming-a-climate-ready-toronto/"
+STATE_FILE = "known_reports.json"
 DOWNLOAD_DIR = "climate_reports"
 
 # (optional) only grab PDFs whose link text contains any of these:
 KEYWORDS = ["Climate Report", "Future Climate", "Adaptation", "Mitigation"]
+
 
 # ─── STATE ──────────────────────────────────────────────────────────────────
 def load_known():
@@ -20,9 +21,11 @@ def load_known():
             return set(json.load(f))
     return set()
 
+
 def save_known(known):
     with open(STATE_FILE, "w") as f:
         json.dump(sorted(known), f, indent=2)
+
 
 # ─── SCRAPE + DOWNLOAD ──────────────────────────────────────────────────────
 def fetch_pdf_links():
@@ -41,6 +44,7 @@ def fetch_pdf_links():
         found.add(full)
     return found
 
+
 def download_pdf(url):
     os.makedirs(DOWNLOAD_DIR, exist_ok=True)
     filename = os.path.join(DOWNLOAD_DIR, url.split("/")[-1])
@@ -54,10 +58,11 @@ def download_pdf(url):
     print(f"[+] Downloaded: {filename}")
     return True
 
+
 def check_for_new_reports():
-    known  = load_known()
-    found  = fetch_pdf_links()
-    new    = sorted(found - known)
+    known = load_known()
+    found = fetch_pdf_links()
+    new = sorted(found - known)
     if not new:
         print("No new PDFs found.")
     else:
@@ -66,6 +71,7 @@ def check_for_new_reports():
             print("  ", url)
             download_pdf(url)
         save_known(known | set(new))
+
 
 # ─── ENTRY POINT ────────────────────────────────────────────────────────────
 if __name__ == "__main__":

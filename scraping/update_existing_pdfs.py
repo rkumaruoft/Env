@@ -60,7 +60,7 @@ def load_config(db_path: str) -> pd.DataFrame:
 
     try:
         conn = sqlite3.connect(db_path)
-        df = pd.read_sql("SELECT * FROM document;", con=conn)
+        df = pd.read_sql("SELECT * FROM document LIMIT 20;", con=conn) # currently reads 20
         conn.close()
     except Exception as e:
         logger.error(f"Failed to read from database '{db_path}': {e}")
