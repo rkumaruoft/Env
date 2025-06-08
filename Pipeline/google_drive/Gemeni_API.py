@@ -93,7 +93,3 @@ class GeminiMetadataExtractor:
             return json.loads(match.group())
         except json.JSONDecodeError as e:
             raise ValueError(f"Invalid JSON format: {e}")
-
-
-if __name__ == "__main__":
-    extractor = GeminiMetadataExtractor()

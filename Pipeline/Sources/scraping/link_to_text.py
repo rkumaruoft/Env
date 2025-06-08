@@ -2,6 +2,7 @@ import os
 import requests
 from pypdf import PdfReader
 import io
+
 """
 to use this in another place,
 from pdf_link_to_text import get_all_pdf_texts
@@ -17,7 +18,6 @@ def main():
 # ─── Configuration ─────────────────────────────────────────────────────────────
 # Path to the txt file containing one PDF URL per line:
 LINKS_FILE = "/existing_pdf_links.txt"
-
 
 # ─── Extraction logic ──────────────────────────────────────────────────────────
 def extract_text_from_pdf_url(url: str) -> list:

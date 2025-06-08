@@ -28,17 +28,18 @@ if __name__ == "__main__":
 # Patch for nested event loops (Spyder/Jupyter)
 try:
     import nest_asyncio  # pip install nest_asyncio
+
     nest_asyncio.apply()
 except ImportError:
     pass
 
 # ─── Configurations ────────────────────────────────────────────────────────────
-START_SITEMAP   = "https://www.toronto.ca/sitemap.xml"
-DOMAIN          = "toronto.ca"
-CONCURRENCY     = 10  # concurrent HTML page fetches
-PDF_CONCURRENCY = 5   # concurrent PDF link processing
-UA              = "Sitemap_Scraper/1.2"
-LINKS_FILE      = "/scraping/existing_pdf_links.txt"
+START_SITEMAP = "https://www.toronto.ca/sitemap.xml"
+DOMAIN = "toronto.ca"
+CONCURRENCY = 10  # concurrent HTML page fetches
+PDF_CONCURRENCY = 5  # concurrent PDF link processing
+UA = "Sitemap_Scraper/1.2"
+LINKS_FILE = "/scraping/existing_pdf_links.txt"
 
 # Keywords used to filter which page URLs to process for PDF links
 KEYWORDS = [
@@ -50,12 +51,14 @@ KEYWORDS = [
 
 # ─── In‐memory state ───────────────────────────────────────────────────────────
 visited_pages = BloomFilter(max_elements=200000, error_rate=0.001)
-found_pdfs     = set()
+found_pdfs = set()
+
 
 # ─── HELPERS ────────────────────────────────────────────────────────────────────
 
 def is_pdf_url(url: str) -> bool:
     return url.lower().endswith(".pdf")
+
 
 def is_relevant_url(url: str) -> bool:
     lower = url.lower()
@@ -65,6 +68,7 @@ def is_relevant_url(url: str) -> bool:
     # And skip anything outside our domain or obviously unwanted
     return DOMAIN in url and "mailto:" not in url
 
+
 async def fetch_xml(session: aiohttp.ClientSession, url: str) -> Optional[ET.Element]:
     try:
         async with session.get(url, timeout=30, headers={"User-Agent": UA}) as resp:
@@ -73,6 +77,7 @@ async def fetch_xml(session: aiohttp.ClientSession, url: str) -> Optional[ET.Ele
             return ET.fromstring(text)
     except Exception:
         return None
+
 
 async def collect_sitemap_urls(session: aiohttp.ClientSession, sitemap_url: str) -> List[str]:
     """
@@ -100,6 +105,7 @@ async def collect_sitemap_urls(session: aiohttp.ClientSession, sitemap_url: str)
 
     return urls
 
+
 async def process_pdf_link(url: str) -> None:
     """
     Called once per PDF link found. Here you could download or validate it.
@@ -108,13 +114,14 @@ async def process_pdf_link(url: str) -> None:
     """
     found_pdfs.add(url)
 
+
 # ─── ASYNC ENTRY POINT ──────────────────────────────────────────────────────────
 
 async def run_sitemap_scraper(
-    start_sitemap: str = START_SITEMAP,
-    links_file: str    = LINKS_FILE,
-    concurrency: int   = CONCURRENCY,
-    pdf_concurrency: int = PDF_CONCURRENCY,
+        start_sitemap: str = START_SITEMAP,
+        links_file: str = LINKS_FILE,
+        concurrency: int = CONCURRENCY,
+        pdf_concurrency: int = PDF_CONCURRENCY,
 ) -> None:
     """
     1) Load any existing PDF links from `links_file` into Bloom + found_pdfs.
@@ -136,7 +143,7 @@ async def run_sitemap_scraper(
 
     # ─── 2) Recursively collect all URLs from sitemap and its children ───────────
     connector_xml = aiohttp.TCPConnector(limit_per_host=concurrency)
-    timeout_xml   = aiohttp.ClientTimeout(total=60)
+    timeout_xml = aiohttp.ClientTimeout(total=60)
     async with aiohttp.ClientSession(connector=connector_xml, timeout=timeout_xml) as xml_sess:
         all_urls = await collect_sitemap_urls(xml_sess, start_sitemap)
 

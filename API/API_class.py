@@ -1,6 +1,7 @@
 import requests
 from typing import Dict, List, Optional
 
+
 class APIClient:
     def __init__(self, base_url: str, api_key: str = "", headers: Optional[Dict[str, str]] = None):
         """
@@ -68,5 +69,3 @@ class APIClient:
                 'scopus_link': scopus_link
             })
         return results
-
-
