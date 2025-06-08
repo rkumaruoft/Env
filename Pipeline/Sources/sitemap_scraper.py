@@ -9,6 +9,31 @@ from typing import Optional, List
 
 from lxml import html as LH  # pip install lxml
 
+"""
+To run in main.py,
+
+import asyncio
+from sitemap_scraper_class import SitemapScraper
+
+async def main():
+    # You can customize these parameters, or just use the default configurations:
+    scraper = SitemapScraper(
+        start_sitemap="https://www.toronto.ca/sitemap.xml",
+        domain="toronto.ca",
+        concurrency=10,
+        pdf_concurrency=5,
+        user_agent="MyBot/0.1",
+        links_file="/scraping/existing_pdf_links.txt",        # make sure this file exists
+        keywords=["Climate", "Adaptation", "Mitigation", "Emissions",
+            "LENZ", "PollinateTO", "Eco-Roof", "Green",
+            "Forestry", "TransformTO", "Waste", "Heat", "Cool",
+            "Net Zero", "Net-zero"]
+    )
+    await scraper.run()
+
+if __name__ == "__main__":
+    asyncio.run(main())
+"""
 
 class SitemapScraper:
     def __init__(
