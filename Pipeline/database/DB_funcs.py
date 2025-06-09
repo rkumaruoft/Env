@@ -29,7 +29,8 @@ class ClimateDB:
             date TEXT,
             doi TEXT,
             publishing_organization TEXT,
-            full_text TEXT
+            full_text TEXT,
+            doc_name TEXT
         )
         """)
         self.conn.commit()
@@ -63,6 +64,7 @@ class ClimateDB:
                 - "doi" or "doi_link" (str, optional): DOI link (optional fallback supported).
                 - "publishing_organization" (str, optional): Organization that published the document.
                 - "full_text" (str, optional): Full text of the doc
+                - "doc_name" : name of the document in the drive folder
 
         Returns:
             int: 0 if the document was inserted successfully, -1 if insertion failed.
@@ -70,6 +72,7 @@ class ClimateDB:
         try:
             title = doc.get("title", "")
             if not isinstance(title, str) or not title.strip():
+                print(title)
                 print("Insert Failed: Missing or empty 'title'.")
                 return -1
 
@@ -133,7 +136,7 @@ class ClimateDB:
         # Step 1: Clear the table
         self.cursor.execute("DELETE FROM documents")
         self.conn.commit()
-        print("⚠️ Cleared existing records in 'documents' table.")
+        print("Cleared existing records in 'documents' table.")
 
         # Step 2: Insert new data
         with open(json_path, "r", encoding="utf-8") as f:
@@ -182,15 +185,41 @@ class ClimateDB:
         rows = self.cursor.fetchall()
         return [row[0] for row in rows if row[0]]
 
+    def get_title_and_text(self):
+        self.cursor.execute("SELECT title, full_text FROM documents")
+        rows = self.cursor.fetchall()
+        return [(title, full_text) for title, full_text in rows if title and full_text]
+
+    def get_jsonl_object(self):
+        """Fetches all document records and returns them as a JSONL-style list of dicts."""
+        self.cursor.execute("""
+            SELECT title, full_text, type, authors, date, doi, publishing_organization FROM documents
+        """)
+        rows = self.cursor.fetchall()
+
+        jsonl_data = []
+
+        for row in rows:
+            title, text, doc_type, authors, date, doi, org = row
+
+            if not text or not title:
+                continue  # Skip incomplete records
+
+            record = {
+                "title": title.strip(),
+                "text": text.strip().lower(),
+                "type": doc_type.strip() if doc_type else None,
+                "authors": authors.strip() if authors else None,
+                "date": date.strip() if date else None,
+                "doi": doi.strip() if doi else None,
+                "publishing_organization": org.strip() if org else None
+            }
+
+            jsonl_data.append(record)
+
+        return jsonl_data
+
     def close(self):
         """Close the database connection."""
         self.conn.close()
         print("Database connection closed.")
-
-
-if __name__ == "__main__":
-    db_path = "climate_docs.db"
-
-    db = ClimateDB(db_path)
-    db.insert_from_json('db_output.json')
-    db.close()

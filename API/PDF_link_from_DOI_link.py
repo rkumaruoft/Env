@@ -19,6 +19,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 OUTPUT_FILE = "API_PDF_links.txt"
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 
+
 async def resolve_doi(doi_url: str) -> str:
     try:
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CONTEXT),
@@ -31,6 +32,7 @@ async def resolve_doi(doi_url: str) -> str:
         print(f"[ERROR] DOI resolution failed: {e}")
         return ""
 
+
 async def fetch_html(session: aiohttp.ClientSession, url: str) -> str:
     try:
         async with session.get(url, timeout=10) as response:
@@ -39,6 +41,7 @@ async def fetch_html(session: aiohttp.ClientSession, url: str) -> str:
     except Exception as e:
         print(f"[ERROR] Fetching HTML: {e}")
     return ""
+
 
 def extract_pdf_link(html: str, base_url: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
@@ -50,6 +53,7 @@ def extract_pdf_link(html: str, base_url: str) -> str:
             elif href.startswith("http"):
                 return href
     return ""
+
 
 async def process_doi(doi_url: str) -> str:
     resolved_url = await resolve_doi(doi_url)
@@ -69,6 +73,7 @@ async def process_doi(doi_url: str) -> str:
             print("[❌] No PDF link found.")
         return pdf_url
 
+
 async def main():
     query = input("Enter your search query for Scopus: ").strip()
     doi_list = fetch_api_results(query, scopus_config, max_results=250)
@@ -83,13 +88,13 @@ async def main():
         if pdf_url:
             pdf_links.append(pdf_url)
 
-
     # Save to file
     with open(OUTPUT_FILE, "w") as f:
         for link in pdf_links:
             f.write(link + "\n")
 
     print(f"\n[📄] PDF links saved to {OUTPUT_FILE}")
+
 
 if __name__ == "__main__":
     asyncio.run(main())
