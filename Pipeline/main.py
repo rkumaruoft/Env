@@ -13,6 +13,8 @@ if __name__ == "__main__":
     gemini = GeminiMetadataExtractor("google_drive/gemini_api_key.txt")
     db_conn = ClimateDB("database/climate_docs.db")
 
+    gemini.process_directory(directory='../MySQlDB/extracted_text')
+
     db_conn.insert_from_json(json_path="db_output.json")
 
     db_conn.close()
