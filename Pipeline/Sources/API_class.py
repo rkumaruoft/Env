@@ -1,6 +1,6 @@
 import requests
 from typing import Callable, Any
-
+from Pipeline.database.DB_funcs import ClimateDB
 
 class APIConfig:
     def __init__(self, base_url: str, api_key: str, headers: dict, params_builder: Callable[[str, int], dict],
@@ -70,7 +70,6 @@ def scopus_params_builder(query: str, start: int = 0) -> dict:
         'count': 25
     }
 
-
 def scopus_entry_parser(entry: dict) -> dict:
     title = entry.get('dc:title', 'No title')
     authors = entry.get('dc:creator', 'No author')
@@ -86,7 +85,6 @@ def scopus_entry_parser(entry: dict) -> dict:
         'doi_link': doi_link
     }
 
-
 def scopus_doi_extractor(data: dict) -> list:
     entries = data.get('search-results', {}).get('entry', [])
     return [f"https://doi.org/{entry['prism:doi']}" for entry in entries if 'prism:doi' in entry]
@@ -101,6 +99,7 @@ scopus_config = APIConfig(
     entry_parser=scopus_entry_parser,
     doi_extractor=scopus_doi_extractor
 )
+
 
 if __name__ == "__main__":
     query = input("Enter your search query for Scopus: ").strip()
