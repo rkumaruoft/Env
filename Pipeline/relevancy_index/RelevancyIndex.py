@@ -229,7 +229,7 @@ if __name__ == '__main__':
         model_name="all-MiniLM-L6-v2",
         num_chunks=5,
         csv_url_column=None,  # or name of column in CSV
-        enable_plot=True      # set True to skip plotting, False by default
+        enable_plot=True      # set True to plot, False by default
     )
     scraper.run()
     """
