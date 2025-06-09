@@ -35,7 +35,7 @@ class RelevancyIndex:
         model_name: str = "all-MiniLM-L6-v2",
         num_chunks: int = 5,
         csv_url_column: Optional[str] = None,
-        enable_plot: bool = True,
+        enable_plot: bool = False,
     ):
         self.input_file = input_file
         self.queries_file = queries_file
@@ -229,7 +229,7 @@ if __name__ == '__main__':
         model_name="all-MiniLM-L6-v2",
         num_chunks=5,
         csv_url_column=None,  # or name of column in CSV
-        enable_plot=True      # set False to skip plotting
+        enable_plot=True      # set True to skip plotting, False by default
     )
     scraper.run()
     """
