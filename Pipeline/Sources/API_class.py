@@ -1,5 +1,6 @@
 import requests
 from typing import Callable, Any
+from Pipeline.database.DB_funcs import ClimateDB
 
 class APIConfig:
     def __init__(self, base_url: str, api_key: str, headers: dict, params_builder: Callable[[str, int], dict],
@@ -99,14 +100,5 @@ scopus_config = APIConfig(
     doi_extractor=scopus_doi_extractor
 )
 
-
-if __name__ == "__main__":
-    query = input("Enter your search query for Scopus: ").strip()
-    doi_list = fetch_api_results(query, scopus_config, max_results=250)
-
-    if len(doi_list) < 250:
-        print(f"\n[⚠️] Only {len(doi_list)} DOIs found (less than 250). No more results available.")
-
-    print_doi_list(doi_list)
 
 
