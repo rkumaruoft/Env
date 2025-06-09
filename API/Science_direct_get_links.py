@@ -2,7 +2,7 @@ import requests
 from typing import Callable, Any
 
 class APIConfig:
-    def __init__(self, base_url: str, api_key: str, headers: dict, params_builder: Callable[[str], dict],
+    def __init__(self, base_url: str, api_key: str, headers: dict, params_builder: Callable[[str, int], dict],
                  entry_parser: Callable[[dict], dict], doi_extractor: Callable[[dict], list]):
         self.base_url = base_url
         self.api_key = api_key
@@ -12,22 +12,39 @@ class APIConfig:
         self.doi_extractor = doi_extractor
 
 
-def fetch_api_results(query: str, config: APIConfig) -> dict:
-    """Fetch results from the given API using the config."""
-    params = config.params_builder(query)
-    response = requests.get(config.base_url, headers=config.headers, params=params)
-    response.raise_for_status()
-    return response.json()
+def fetch_api_results(query: str, config: APIConfig, max_results: int = 250, page_size: int = 25) -> list:
+    """Paginate through API results until max_results are fetched or no more pages remain."""
+    all_dois = []
+    start = 0
+
+    while len(all_dois) < max_results:
+        params = config.params_builder(query, start)
+        response = requests.get(config.base_url, headers=config.headers, params=params)
+        response.raise_for_status()
+        data = response.json()
+
+        new_dois = config.doi_extractor(data)
+        if not new_dois:
+            break
+
+        all_dois.extend(new_dois)
+        print(f"Fetched {len(new_dois)} DOIs (Total so far: {len(all_dois)})")
+
+        # Stop if we fetched fewer results than the page size (no more pages)
+        if len(new_dois) < page_size:
+            break
+
+        start += page_size
+
+    return all_dois[:max_results]  # Trim if necessary
 
 
 def extract_top_entries(data: dict, parser: Callable[[dict], dict], limit: int = 5) -> list:
-    """Extracts top N entries using the provided parser."""
-    entries = data.get('search-results', {}).get('entry', [])  # You could make this more dynamic too
+    entries = data.get('search-results', {}).get('entry', [])
     return [parser(entry) for entry in entries[:limit]]
 
 
 def print_entries(entries: list):
-    """Prints entries in a human-readable format."""
     for i, entry in enumerate(entries, 1):
         print(f"\nPaper {i}:")
         for key, value in entry.items():
@@ -35,20 +52,21 @@ def print_entries(entries: list):
 
 
 def print_doi_list(doi_list: list):
-    """Prints the list of DOIs."""
     print("\nDOI List:")
     for doi in doi_list:
         print(doi)
     print(f"\nTotal DOIs found: {len(doi_list)}")
 
 
-# --- SCOPUS SPECIFIC CONFIG ---
+# --- SCOPUS-SPECIFIC CONFIG ---
 
-def scopus_params_builder(query: str) -> dict:
+def scopus_params_builder(query: str, start: int = 0) -> dict:
     return {
         'httpAccept': 'application/json',
         'apiKey': SCOPUS_API_KEY,
-        'query': query
+        'query': query,
+        'start': start,
+        'count': 25
     }
 
 def scopus_entry_parser(entry: dict) -> dict:
@@ -75,7 +93,7 @@ SCOPUS_API_KEY = '22c00fad5ae3d1d7be9ce917c4c6af6e'
 scopus_config = APIConfig(
     base_url='https://api.elsevier.com/content/search/scopus',
     api_key=SCOPUS_API_KEY,
-    headers={},  # or {'X-API-Key': SCOPUS_API_KEY} if needed
+    headers={},  # or {'X-API-Key': SCOPUS_API_KEY}
     params_builder=scopus_params_builder,
     entry_parser=scopus_entry_parser,
     doi_extractor=scopus_doi_extractor
@@ -83,11 +101,11 @@ scopus_config = APIConfig(
 
 
 if __name__ == "__main__":
-    query = "'Toronto + climate change'"
-    data = fetch_api_results(query, scopus_config)
+    query = input("Enter your search query for Scopus: ").strip()
+    doi_list = fetch_api_results(query, scopus_config, max_results=250)
 
-    top_entries = extract_top_entries(data, scopus_config.entry_parser)
-    print_entries(top_entries)
+    if len(doi_list) < 250:
+        print(f"\n[⚠️] Only {len(doi_list)} DOIs found (less than 250). No more results available.")
 
-    doi_list = scopus_config.doi_extractor(data)
     print_doi_list(doi_list)
+
