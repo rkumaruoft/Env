@@ -4,6 +4,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
 
+
 def read_text_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return f.read()
@@ -12,8 +13,10 @@ def read_text_file(file_path):
 def cosine_similarity(vec1, vec2):
     return np.dot(vec1, vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
 
+
 def normalize_score(score):
     return (score + 1) / 2  # convert cosine from [-1,1] to [0,1]
+
 
 def score_text_against_keywords(text, keywords, model):
     text_emb = model.encode(text)
@@ -23,6 +26,7 @@ def score_text_against_keywords(text, keywords, model):
         sim = cosine_similarity(text_emb, kw_emb)
         total_score += normalize_score(sim)
     return total_score
+
 
 def aggregate_scores_per_file(txt_folder, queries, keywords_per_query):
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -43,6 +47,7 @@ def aggregate_scores_per_file(txt_folder, queries, keywords_per_query):
 
     return file_scores
 
+
 if __name__ == "__main__":
     queries = read_queries("Queries")
     keywords_per_query = extract_keywords_tfidf(queries, top_k=3)
@@ -52,4 +57,3 @@ if __name__ == "__main__":
 
     for filename, score in sorted(file_scores.items(), key=lambda x: -x[1]):
         print(f"{filename} | Final Score: {score:.2f}")
-

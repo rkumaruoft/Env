@@ -72,10 +72,10 @@ class GoogleDriveHandler:
                         'name': name,
                         'content': fh
                     })
-                    print(f"✅ Downloaded: {name}")
+                    print(f"Downloaded: {name}")
 
                 except Exception as e:
-                    print(f"❌ Skipped: {name} ({file_id}) — {e}")
+                    print(f"Skipped: {name} ({file_id}) — {e}")
                     skipped_files.append({
                         'id': file_id,
                         'name': name,

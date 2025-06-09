@@ -29,11 +29,11 @@ class ClimateDB:
             date TEXT,
             doi TEXT,
             publishing_organization TEXT,
-            relevancy DECIMAL
+            full_text TEXT
         )
         """)
         self.conn.commit()
-        print("✅ Table 'documents' created.")
+        print("Table 'documents' created.")
 
     @staticmethod
     def normalize_date(date_str):
@@ -62,6 +62,7 @@ class ClimateDB:
                 - "date" (str, optional): Publication or update date (any common format).
                 - "doi" or "doi_link" (str, optional): DOI link (optional fallback supported).
                 - "publishing_organization" (str, optional): Organization that published the document.
+                - "full_text" (str, optional): Full text of the doc
 
         Returns:
             int: 0 if the document was inserted successfully, -1 if insertion failed.
@@ -88,10 +89,14 @@ class ClimateDB:
             if not isinstance(publishing_org, str):
                 publishing_org = str(publishing_org)
 
+            full_text = doc.get("full_text", "")
+            if not isinstance(full_text, str):
+                full_text = str(full_text)
+
             self.cursor.execute("""
-                INSERT INTO documents (title, type, authors, date, doi, publishing_organization)
-                VALUES (?, ?, ?, ?, ?, ?)
-            """, (title.strip(), doc_type, authors, date, doi, publishing_org))
+                INSERT INTO documents (title, type, authors, date, doi, publishing_organization, full_text)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            """, (title.strip(), doc_type, authors, date, doi, publishing_org, full_text))
             self.conn.commit()
             return 0
 

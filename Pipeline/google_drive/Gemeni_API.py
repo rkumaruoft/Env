@@ -46,6 +46,15 @@ class GeminiMetadataExtractor:
         )
         return response.text
 
+    def generic_query(self, data, context_prompt):
+        """
+        Takes the full text of a document and returns a dictionary of metadata fields.
+        """
+        response = self.client.models.generate_content(
+            model="gemini-2.0-flash", contents=[data, context_prompt]
+        )
+        return response.text
+
     def process_directory(self, directory='../extracted_text', output_file='db_output.json'):
         db_entries = []
         for entry in os.scandir(directory):
@@ -53,9 +62,11 @@ class GeminiMetadataExtractor:
                 print(f"Processing: {entry.path}")
                 with open(entry.path, "rb") as this_file:
                     this_file_text = self.read_text_file(this_file)
+                    this_file_text = self.fix_corrupt_temperature_units(this_file_text)
                     try:
                         response_text = self.get_db_info(this_file_text)
                         db_dict = self.extract_json_dict(response_text)
+                        self.add_full_text(db_dict, this_file_text)
                         db_entries.append(db_dict)
                     except Exception as e:
                         print(f"Error processing {entry.path}: {e}")
@@ -93,3 +104,27 @@ class GeminiMetadataExtractor:
             return json.loads(match.group())
         except json.JSONDecodeError as e:
             raise ValueError(f"Invalid JSON format: {e}")
+
+    @staticmethod
+    def add_full_text(extracted_metadata, full_text):
+        """
+        Adds a 'full_text' field to the extracted metadata dictionary.
+
+        Args:
+            extracted_metadata (dict): Metadata extracted from the document.
+            full_text (str): Full text content of the document.
+
+        Returns:
+            dict: Updated metadata dictionary with 'full_text' field added.
+        """
+        if not isinstance(extracted_metadata, dict):
+            raise TypeError("extracted_metadata must be a dictionary")
+        extracted_metadata["full_text"] = full_text
+        return extracted_metadata
+
+    @staticmethod
+    def fix_corrupt_temperature_units(text: str) -> str:
+        # Replace patterns like '1.5\u0002C' or '2\u0002C' with '1.5°C', '2°C'
+        return re.sub(r'(\d+(\.\d+)?)\u0002C', r'\1°C', text)
+
+

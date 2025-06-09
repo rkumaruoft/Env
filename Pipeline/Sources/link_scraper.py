@@ -8,17 +8,19 @@ from urllib.parse import urljoin, urlparse
 from collections import deque
 from typing import Optional
 
+
 class LinkScraper:
     def __init__(
-        self,
-        start_url="https://www.toronto.ca/services-payments/water-environment/",
-        domain="toronto.ca",
-        concurrency=10,
-        pdf_concurrency=5,
-        ua="LinkFetcher/1.2",
-        links_file="/scraping/existing_pdf_links.txt",
-        keywords=None
+            self,
+            start_url="https://www.toronto.ca/services-payments/water-environment/",
+            domain="toronto.ca",
+            concurrency=10,
+            pdf_concurrency=5,
+            ua="LinkFetcher/1.2",
+            links_file="/scraping/existing_pdf_links.txt",
+            keywords=None
     ):
+        self.sem_html = None
         self.START_URL = start_url
         self.DOMAIN = domain
         self.CONCURRENCY = concurrency
@@ -124,4 +126,5 @@ class LinkScraper:
                 lf.write(f"{url}\n")
 
         new_added = len(self.found_pdfs) - existing_count
-        print(f"\u2714\ufe0f Total PDF links: {len(self.found_pdfs)}; {new_added} new appended; saved to {self.LINKS_FILE}")
+        print(
+            f"\u2714\ufe0f Total PDF links: {len(self.found_pdfs)}; {new_added} new appended; saved to {self.LINKS_FILE}")

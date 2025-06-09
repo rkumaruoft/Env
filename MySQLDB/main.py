@@ -34,7 +34,7 @@ if __name__ == '__main__':
     drive = GoogleDriveHandler("chatbot-drive-pipe-service.json")
     pdf_list, skipped = drive.download_pdfs(folder_id)
 
-    print(f"\n✅ Downloaded {len(pdf_list)} PDFs recursively from folder {folder_id}.")
-    print(f"❌ Skipped {len(skipped)} files due to access issues.")
+    print(f"\nDownloaded {len(pdf_list)} PDFs recursively from folder {folder_id}.")
+    print(f"Skipped {len(skipped)} files due to access issues.")
 
     save_local(pdf_list)
