@@ -162,6 +162,21 @@ class ClimateDB:
         rows = self.cursor.fetchall()
         return [row[0] for row in rows if row[0]]
 
+    def get_all_dois(self) -> list:
+        """
+        Retrieve a list of all unique DOI entries in lowercase.
+
+        Returns:
+            list: A list of unique, lowercase, non-empty DOI strings.
+        """
+        self.cursor.execute("""
+            SELECT DISTINCT LOWER(TRIM(doi))
+            FROM documents
+            WHERE doi IS NOT NULL AND TRIM(doi) != ''
+        """)
+        rows = self.cursor.fetchall()
+        return [row[0] for row in rows if row[0]]
+
     def close(self):
         """Close the database connection."""
         self.conn.close()
