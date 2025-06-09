@@ -5,8 +5,14 @@ import ssl
 import certifi
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
-import requests
-from Science_direct_get_links import fetch_scopus_results, extract_top_entries, extract_doi_list
+
+from Science_direct_get_links import (
+    fetch_api_results,
+    extract_top_entries,
+    print_entries,
+    print_doi_list,
+    scopus_config  # This brings in your APIConfig instance
+)
 
 # Config
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -95,13 +101,22 @@ async def main(doi_link: str):
         await download_pdf(pdf_url, OUTPUT_DIR)
 
 if __name__ == "__main__":
-    # EXAMPLE DOI — change this to any valid DOI link
+    # Replace with any query you'd like
     query = "Toronto climate change"
-    data = fetch_scopus_results(query)
-    top_entries = extract_top_entries(data)
-    doi_list = extract_doi_list(data)
-    i = 0
-    for doi in doi_list:
+
+    # Use the APIConfig-based system
+    data = fetch_api_results(query, scopus_config)
+
+    # Get and print entries
+    top_entries = extract_top_entries(data, scopus_config.entry_parser)
+    print_entries(top_entries)
+
+    # Get and print DOI list
+    doi_list = scopus_config.doi_extractor(data)
+    print_doi_list(doi_list)
+
+    # Download PDFs for first 5 DOIs
+    for i, doi in enumerate(doi_list):
         asyncio.run(main(doi))
-        if i == 5:
+        if i == 4:
             break
