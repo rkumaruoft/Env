@@ -5,6 +5,7 @@ import logging
 from datetime import datetime
 import pandas as pd
 import sqlite3
+from typing import List, Optional
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
@@ -12,8 +13,7 @@ from googleapiclient.errors import HttpError
 class ClimateDocsUpdater:
     """
     Updates existing PDF documents by searching Google CSE for newer versions
-    and logs the results to a CSV. (logs in pdfs links in the csv)
-
+    and logs the results to a CSV. Optionally returns a list of updated PDF URLs.
     """
 
     def __init__(
@@ -78,7 +78,7 @@ class ClimateDocsUpdater:
         return df
 
     @staticmethod
-    def parse_year_from_date(date_str: str) -> int:
+    def parse_year_from_date(date_str: str) -> Optional[int]:
         """
         Extract a 4-digit year from a date string.
         """
@@ -133,7 +133,7 @@ class ClimateDocsUpdater:
         return []
 
     @staticmethod
-    def extract_year_from_result(item: dict) -> int:
+    def extract_year_from_result(item: dict) -> Optional[int]:
         """
         Extract a 4-digit year from a search result's link or title.
         """
@@ -141,16 +141,18 @@ class ClimateDocsUpdater:
         m = re.search(r"(20\d{2})", text)
         return int(m.group(1)) if m else None
 
-    def update_pipeline(self):
+    def update_pipeline(self, return_links: bool = False) -> Optional[List[str]]:
         """
         Main pipeline to check and log newer PDF versions.
+        If `return_links` is True, returns a list of URLs for PDFs found newer than existing.
         """
         df = self.load_config()
         if df.empty:
             self.logger.error("No documents to process.")
-            return
+            return None
 
         records = []
+        updated_links: List[str] = []
         checked_at = datetime.now().isoformat()
 
         for _, row in df.iterrows():
@@ -189,6 +191,7 @@ class ClimateDocsUpdater:
                 status = "found_newer"
                 found_year = best_year
                 url = best.get("link")
+                updated_links.append(url)
                 self.logger.info(f"Found newer ({found_year}) at {url}")
             else:
                 status = "no_newer"
@@ -213,6 +216,10 @@ class ClimateDocsUpdater:
         except Exception as e:
             self.logger.error(f"Failed to write log: {e}")
 
+        if return_links:
+            return updated_links
+        return None
+
 
 if __name__ == "__main__":
     # Example usage
@@ -222,4 +229,9 @@ if __name__ == "__main__":
         cx=os.getenv("GOOGLE_CSE_CX"),
         update_log_csv="update_log2.csv"
     )
-    updater.update_pipeline()
+    # To get the links of updated PDFs, returns a list of the updated pdfs on top of updating the .csv
+    updated = updater.update_pipeline(return_links=True)
+    if updated:
+        print("Updated PDF URLs:")
+        for link in updated:
+            print(link)
