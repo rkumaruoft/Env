@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
+
 class RelevancyIndex:
     """
     Download PDFs, split text into chunks, embed against queries, compute relevancy indices, and plot results.
@@ -28,14 +29,14 @@ class RelevancyIndex:
     """
 
     def __init__(
-        self,
-        input_file: str,
-        queries_file: str,
-        output_csv: Optional[str] = None,
-        model_name: str = "all-MiniLM-L6-v2",
-        num_chunks: int = 5,
-        csv_url_column: Optional[str] = None,
-        enable_plot: bool = False,
+            self,
+            input_file: str,
+            queries_file: str,
+            output_csv: Optional[str] = None,
+            model_name: str = "all-MiniLM-L6-v2",
+            num_chunks: int = 5,
+            csv_url_column: Optional[str] = None,
+            enable_plot: bool = False,
     ):
         self.input_file = input_file
         self.queries_file = queries_file
@@ -218,18 +219,20 @@ class RelevancyIndex:
         if self.enable_plot:
             self.plot_heatmap()
 
+    def score_text(self, text: str) -> float:
+        """
+        Compute a relevancy score for a given text string using embedded queries.
+        Returns a float between 0 and 1.
+        """
+        if not self.model or not self.query_embeds.any():
+            raise RuntimeError("Model or query embeddings not initialized. Call initialize_model() first.")
 
-if __name__ == '__main__':
-    # Example usage
-    """
-    scraper = RelevancyIndex(
-        input_file="Pipeline/Sources/scraping/existing_pdf_links.txt", (or can be a .csv)
-        queries_file="queries2.txt",
-        output_csv="/results_queries2.csv",
-        model_name="all-MiniLM-L6-v2",
-        num_chunks=5,
-        csv_url_column=None,  # or name of column in CSV
-        enable_plot=True      # set True to plot, False by default
-    )
-    scraper.run()
-    """
+        chunks = self.chunk_text_to_n(text, self.num_chunks)
+        if not chunks:
+            return 0.0
+
+        chunk_embeds = self.model.encode(
+            chunks, convert_to_numpy=True, show_progress_bar=False
+        )
+        sims = cosine_similarity(self.query_embeds, chunk_embeds)
+        return float(sims.max(axis=1).mean())

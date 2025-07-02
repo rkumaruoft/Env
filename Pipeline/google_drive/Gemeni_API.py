@@ -3,10 +3,26 @@ import chardet
 import json
 import re
 import os
-import unicodedata
 
 
 class GeminiMetadataExtractor:
+    """
+    GeminiMetadataExtractor uses Google Gemini models to extract structured metadata from text documents.
+
+    This class supports:
+    - Extracting metadata from raw text using a structured prompt.
+    - Processing .txt files in a directory and returning structured entries.
+    - Cleaning and decoding text files with corrupted encodings or special characters.
+    - Optionally returning metadata entries as a JSON-like object for database insertion.
+
+    Attributes:
+        api_key (str): API key used to authenticate with Gemini.
+        client (genai.Client): Google Generative AI client.
+
+    Args:
+        api_key_path (str): Path to the file containing the Gemini API key. Defaults to 'gemini_api_key.txt'.
+    """
+
     def __init__(self, api_key_path='gemini_api_key.txt'):
         self.api_key = self._load_api_key(api_key_path)
         if not self.api_key:
@@ -15,7 +31,15 @@ class GeminiMetadataExtractor:
 
     @staticmethod
     def _load_api_key(path):
-        """Load API key from env variable or file."""
+        """
+        Load the Gemini API key from an environment variable or file.
+
+        Args:
+            path (str): Path to the key file.
+
+        Returns:
+            str: API key as string.
+        """
         if os.getenv("GOOGLE_API_KEY"):
             return os.getenv("GOOGLE_API_KEY")
 
@@ -25,12 +49,18 @@ class GeminiMetadataExtractor:
 
     def get_db_info(self, text):
         """
-        Takes the full text of a document and returns a dictionary of metadata fields.
+        Extract structured metadata from document text using Gemini.
+
+        Args:
+            text (str): Full document text.
+
+        Returns:
+            str: Response from Gemini model (JSON string).
         """
         file_text = str(text)
         context_prompt = (
             "From the given text extract, "
-            "1. Title of the text - This is necessory - If title can not be extracted use (TITLE ERROR)"
+            "1. Title of the text - This is necessary - If title can not be extracted use (TITLE ERROR)"
             "2. Type of the text - choose one of the 5 following options"
             "(research paper, government article, news article, technical report, or other)"
             "3. Authors of the Text"
@@ -49,14 +79,30 @@ class GeminiMetadataExtractor:
 
     def generic_query(self, data, context_prompt):
         """
-        Takes the full text of a document and returns a dictionary of metadata fields.
+        Run a custom prompt on text using Gemini.
+
+        Args:
+            data (str): Full document text.
+            context_prompt (str): Prompt for Gemini.
+
+        Returns:
+            str: Gemini model response.
         """
         response = self.client.models.generate_content(
             model="gemini-2.0-flash", contents=[data, context_prompt]
         )
         return response.text
 
-    def process_directory(self, directory, output_file='db_output.json'):
+    def process_directory(self, directory):
+        """
+        Process all txt files in a directory and return extracted metadata as a list of JSON objects.
+
+        Args:
+            directory (str): Path to directory containing .txt files.
+
+        Returns:
+            list: List of metadata dictionaries.
+        """
         db_entries = []
         for entry in os.scandir(directory):
             if entry.is_file():
@@ -72,14 +118,19 @@ class GeminiMetadataExtractor:
                         db_entries.append(db_dict)
                     except Exception as e:
                         print(f"Error processing {entry.path}: {e}")
-
-        with open(output_file, "w", encoding="utf-8") as outfile:
-            json.dump(db_entries, outfile, indent=4, ensure_ascii=False)
-
-        print(f"\nSaved {len(db_entries)} entries to {output_file}")
+        return db_entries
 
     @staticmethod
     def read_text_file(file):
+        """
+        Decode raw bytes from a file using detected encoding.
+
+        Args:
+            file (file-like): Opened file object.
+
+        Returns:
+            str: Decoded string content.
+        """
         raw = file.read()
         detection = chardet.detect(raw)
         encoding = detection["encoding"] or "utf-8"
@@ -87,16 +138,14 @@ class GeminiMetadataExtractor:
 
     def extract_json_dict(self, text: str):
         """
-        Extracts the first JSON object (enclosed in curly braces) from a string
-        and returns it as a Python dictionary.
+        Extract a JSON object from a string and parse it as a Python dictionary.
 
         Args:
-            text (str): The input string containing JSON.
+            text (str): Input string.
 
         Returns:
-            dict: The extracted JSON as a Python dictionary.
+            dict: Extracted dictionary.
         """
-        # Extract first JSON-like block
         match = re.search(r'\{.*?\}', text, re.DOTALL)
         if not match:
             raise ValueError("No JSON object found in the input string.")
@@ -111,28 +160,27 @@ class GeminiMetadataExtractor:
     @staticmethod
     def clean_for_json(s: str) -> str:
         """
-        Extremely fast removal of control characters (ASCII 0–31 except \t \n \r) and BOM.
-        Operates at byte level for maximum speed.
+        Remove control characters and BOM from a string.
+
+        Args:
+            s (str): Input string.
+
+        Returns:
+            str: Cleaned string.
         """
-        # Allowed bytes: printable + \t (9), \n (10), \r (13)
         allowed = set(range(32, 127)) | {9, 10, 13}
-        # Remove BOM if present
         s = s.replace('\ufeff', '')
-        # Fast byte filtering
         cleaned = ''.join(c for c in s if ord(c) in allowed or ord(c) >= 127)
         return cleaned.strip()
 
     @staticmethod
     def add_full_text(extracted_metadata, full_text):
         """
-        Adds a 'full_text' field to the extracted metadata dictionary.
+        Add full text content to extracted metadata.
 
         Args:
-            extracted_metadata (dict): Metadata extracted from the document.
-            full_text (str): Full text content of the document.
-
-        Returns:
-            dict: Updated metadata dictionary with 'full_text' field added.
+            extracted_metadata (dict): Metadata dictionary.
+            full_text (str): Document full text.
         """
         if not isinstance(extracted_metadata, dict):
             raise TypeError("extracted_metadata must be a dictionary")
@@ -141,14 +189,11 @@ class GeminiMetadataExtractor:
     @staticmethod
     def add_filename(extracted_metadata, filename):
         """
-        Adds a 'filename' field to the extracted metadata dictionary.
+        Add source filename to extracted metadata.
 
         Args:
-            extracted_metadata (dict): Metadata extracted from the document.
-            filename (str): Filename of the document.
-
-        Returns:
-            dict: Updated metadata dictionary with 'filename' field added.
+            extracted_metadata (dict): Metadata dictionary.
+            filename (str): File name.
         """
         if not isinstance(extracted_metadata, dict):
             raise TypeError("extracted_metadata must be a dictionary")
@@ -156,5 +201,13 @@ class GeminiMetadataExtractor:
 
     @staticmethod
     def fix_corrupt_temperature_units(text: str) -> str:
-        # Replace patterns like '1.5\u0002C' or '2\u0002C' with '1.5°C', '2°C'
+        """
+        Replace corrupted temperature units (like 1.5\u0002C) with proper symbols.
+
+        Args:
+            text (str): Raw text.
+
+        Returns:
+            str: Corrected text.
+        """
         return re.sub(r'(\d+(\.\d+)?)\u0002C', r'\1°C', text)

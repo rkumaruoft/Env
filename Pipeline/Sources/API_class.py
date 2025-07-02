@@ -2,6 +2,7 @@ import requests
 from typing import Callable, Any
 from Pipeline.database.DB_funcs import ClimateDB
 
+
 class APIConfig:
     def __init__(self, base_url: str, api_key: str, headers: dict, params_builder: Callable[[str, int], dict],
                  entry_parser: Callable[[dict], dict], doi_extractor: Callable[[dict], list]):
@@ -70,6 +71,7 @@ def scopus_params_builder(query: str, start: int = 0) -> dict:
         'count': 25
     }
 
+
 def scopus_entry_parser(entry: dict) -> dict:
     title = entry.get('dc:title', 'No title')
     authors = entry.get('dc:creator', 'No author')
@@ -84,6 +86,7 @@ def scopus_entry_parser(entry: dict) -> dict:
         'scopus_link': scopus_link,
         'doi_link': doi_link
     }
+
 
 def scopus_doi_extractor(data: dict) -> list:
     entries = data.get('search-results', {}).get('entry', [])
@@ -100,7 +103,6 @@ scopus_config = APIConfig(
     doi_extractor=scopus_doi_extractor
 )
 
-
 if __name__ == "__main__":
     query = input("Enter your search query for Scopus: ").strip()
     doi_list = fetch_api_results(query, scopus_config, max_results=250)
@@ -109,5 +111,3 @@ if __name__ == "__main__":
         print(f"\n[⚠️] Only {len(doi_list)} DOIs found (less than 250). No more results available.")
 
     print_doi_list(doi_list)
-
-

@@ -9,11 +9,13 @@ from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
 from Pipeline.database.DB_funcs import ClimateDB
-#from Pipeline.Sources.API_class import fetch_api_results, scopus_config
+
+# from Pipeline.Sources.API_class import fetch_api_results, scopus_config
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 OUTPUT_FILE = "API_PDF_links.txt"
+
 
 class PDF_through_API:
     def __init__(self, db_path: str = "../database/climate_docs.db"):
@@ -28,7 +30,6 @@ class PDF_through_API:
         except Exception as e:
             print(f"[ERROR] DOI resolution failed: {e}")
             return ""
-
 
     async def fetch_html(self, session: aiohttp.ClientSession, url: str) -> str:
         try:
@@ -96,6 +97,8 @@ class PDF_through_API:
 
         print(f"\n[📄] PDF links saved to {OUTPUT_FILE}")
         return pdf_links
+
+
 '''
 import asyncio
 from Pipeline.Sources.pdf_through_api import PDF_through_API

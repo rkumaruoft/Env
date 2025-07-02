@@ -1,7 +1,6 @@
 import sqlite3
 import json
 from datetime import datetime
-import os
 
 
 class ClimateDB:
@@ -30,7 +29,8 @@ class ClimateDB:
             doi TEXT,
             publishing_organization TEXT,
             full_text TEXT,
-            doc_name TEXT
+            doc_name TEXT,
+            relevancy_score REAL CHECK(relevancy_score >= 0 AND relevancy_score <= 1)
         )
         """)
         self.conn.commit()
@@ -65,6 +65,7 @@ class ClimateDB:
                 - "publishing_organization" (str, optional): Organization that published the document.
                 - "full_text" (str, optional): Full text of the doc
                 - "doc_name" : name of the document in the drive folder
+                - "relevancy_score" (float, optional): Relevancy score between 0 and 1
 
         Returns:
             int: 0 if the document was inserted successfully, -1 if insertion failed.
@@ -96,10 +97,17 @@ class ClimateDB:
             if not isinstance(full_text, str):
                 full_text = str(full_text)
 
+            doc_name = doc.get("doc_name", "")
+            relevancy_score = doc.get("relevancy_score", 0.0)
+            try:
+                relevancy_score = float(relevancy_score)
+            except ValueError:
+                relevancy_score = 0.0
+
             self.cursor.execute("""
-                INSERT INTO documents (title, type, authors, date, doi, publishing_organization, full_text)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
-            """, (title.strip(), doc_type, authors, date, doi, publishing_org, full_text))
+                INSERT INTO documents (title, type, authors, date, doi, publishing_organization, full_text, doc_name, relevancy_score)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """, (title.strip(), doc_type, authors, date, doi, publishing_org, full_text, doc_name, relevancy_score))
             self.conn.commit()
             return 0
 
@@ -193,14 +201,14 @@ class ClimateDB:
     def get_jsonl_object(self):
         """Fetches all document records and returns them as a JSONL-style list of dicts."""
         self.cursor.execute("""
-            SELECT title, full_text, type, authors, date, doi, publishing_organization FROM documents
+            SELECT title, full_text, type, authors, date, doi, publishing_organization, relevancy_score FROM documents
         """)
         rows = self.cursor.fetchall()
 
         jsonl_data = []
 
         for row in rows:
-            title, text, doc_type, authors, date, doi, org = row
+            title, text, doc_type, authors, date, doi, org, score = row
 
             if not text or not title:
                 continue  # Skip incomplete records
@@ -212,7 +220,8 @@ class ClimateDB:
                 "authors": authors.strip() if authors else None,
                 "date": date.strip() if date else None,
                 "doi": doi.strip() if doi else None,
-                "publishing_organization": org.strip() if org else None
+                "publishing_organization": org.strip() if org else None,
+                "relevancy_score": score
             }
 
             jsonl_data.append(record)

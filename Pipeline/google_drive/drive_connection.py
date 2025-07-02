@@ -3,7 +3,7 @@ import io
 from typing import List, Dict, Tuple
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
-from googleapiclient.http import MediaIoBaseDownload
+from googleapiclient.http import MediaIoBaseDownload, MediaIoBaseUpload
 
 
 class GoogleDriveHandler:
@@ -84,3 +84,32 @@ class GoogleDriveHandler:
 
             elif mime_type == 'application/vnd.google-apps.folder':
                 self._download_pdfs_recursive(file_id, pdf_files, skipped_files)
+
+    def upload_pdf_stream(self, file_bytes: io.BytesIO, file_name: str, folder_id: str) -> str:
+        """
+        Upload a PDF directly from memory (BytesIO) to Google Drive.
+
+        Args:
+            file_bytes (io.BytesIO): The in-memory PDF content.
+            file_name (str): Desired name for the file in Drive.
+            folder_id (str): Google Drive folder ID.
+
+        Returns:
+            str: ID of the uploaded file.
+        """
+        file_metadata = {
+            'name': file_name,
+            'parents': [folder_id],
+            'mimeType': 'application/pdf'
+        }
+
+        media = MediaIoBaseUpload(file_bytes, mimetype='application/pdf', resumable=True)
+        uploaded_file = self.service.files().create(
+            body=file_metadata,
+            media_body=media,
+            fields='id'
+        ).execute()
+
+        file_id = uploaded_file.get('id')
+        print(f"✅ Uploaded in-memory PDF '{file_name}' to Drive folder {folder_id} (file ID: {file_id})")
+        return file_id
