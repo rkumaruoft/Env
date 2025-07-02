@@ -113,7 +113,6 @@ class GeminiMetadataExtractor:
                     try:
                         response_text = self.get_db_info(this_file_text)
                         db_dict = self.extract_json_dict(response_text)
-                        self.add_full_text(db_dict, this_file_text)
                         self.add_filename(db_dict, entry.name)
                         db_entries.append(db_dict)
                     except Exception as e:
@@ -172,19 +171,6 @@ class GeminiMetadataExtractor:
         s = s.replace('\ufeff', '')
         cleaned = ''.join(c for c in s if ord(c) in allowed or ord(c) >= 127)
         return cleaned.strip()
-
-    @staticmethod
-    def add_full_text(extracted_metadata, full_text):
-        """
-        Add full text content to extracted metadata.
-
-        Args:
-            extracted_metadata (dict): Metadata dictionary.
-            full_text (str): Document full text.
-        """
-        if not isinstance(extracted_metadata, dict):
-            raise TypeError("extracted_metadata must be a dictionary")
-        extracted_metadata["full_text"] = full_text
 
     @staticmethod
     def add_filename(extracted_metadata, filename):

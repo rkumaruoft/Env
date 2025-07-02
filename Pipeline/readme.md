@@ -12,11 +12,12 @@ This pipeline is currently **under active development**.
 - **`GoogleDriveHandler`** – Uploads and organizes PDFs in Google Drive
 - **`GeminiMetadataExtractor`** – Uses Gemini Pro to extract structured metadata from PDF text
 - **`ClimateDB`** – Stores and queries document metadata in a local SQLite database
-
+- **`RelevancyIndex`** – Prototype for chunking, embedding, and scoring documents
+- 
 ### ⚙️ In Progress / Prototype Stage
 - **`SitemapScraper`** – Discovers PDFs from sitemap.xml files (working; integration pending)
-- **`ClimateDocsUpdater`** – Planned module to download and deduplicate PDFs
-- **`RelevancyIndex`** – Prototype for chunking, embedding, and scoring documents
+- **`ClimateDocsUpdater`** – Module to update the existing pdfs
+- **`API Integration`**
 
 ---
 
@@ -118,7 +119,7 @@ This pipeline is currently **under active development**.
 - Python 3.10+
 - Google Cloud service account with Drive API enabled
 - Gemini API key from Google AI Studio
-- (Optional) MySQL or SQLite for `ClimateDB`
+- SQLite for `ClimateDB`
 
 ### Install Dependencies
 
