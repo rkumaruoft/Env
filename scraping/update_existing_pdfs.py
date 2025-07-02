@@ -13,8 +13,14 @@ import sqlite3
 
 db_path = "MySQLDB/climate_docs.db"
 
+'''
+This update existing pdfs script pulls pdfs from the database, and then checks for existing versions using Google CSE.
+Outputs a log of updated and non-updated pdfs.
+Requires: db_path, api keys from google cse. 
+'''
+
 # Google CSE credentials
-API_KEY = "blerp"
+API_KEY = "blerp" # Use your own google CSE API key here
 CX = "burp"
 if not API_KEY or not CX:
     raise RuntimeError("Environment variables GOOGLE_CSE_API_KEY and GOOGLE_CSE_CX must be set.")
@@ -25,7 +31,7 @@ NUM_RESULTS = 5
 # Rate-limit / retry settings
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
-search_cd = 5 #seconds  - to limit rate so google doesn't swat me
+search_cd = 5 #seconds  - to limit rate so google doesn't swat me when using free version
 
 # Where to write the update log (CSV)
 UPDATE_LOG_CSV = "update_log2.csv"
@@ -80,6 +86,7 @@ def parse_year_from_date(date_str: str) -> int:
     """
     Given a date string (e.g. '2020-07-15' or '2020'), parse out the year as int.
     If parsing fails or year not in 2000-2099, return None.
+    Old function - no longer use this anymore
     """
     try:
         # Try ISO format first
