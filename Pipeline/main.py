@@ -4,6 +4,7 @@ from Pipeline.google_drive.Gemeni_API import GeminiMetadataExtractor
 from Pipeline.relevancy_index.Relvency_Index import RelevancyIndex
 from Pipeline.Sources.sitemap_scraper import SitemapScraper
 
+
 def get_lines_from_txt(file_path: str) -> list[str]:
     """
     Reads all lines from a text file and returns them as a list of strings,

@@ -28,7 +28,6 @@ class ClimateDB:
             date TEXT,
             doi TEXT,
             publishing_organization TEXT,
-            full_text TEXT,
             doc_name TEXT,
             relevancy_score REAL CHECK(relevancy_score >= 0 AND relevancy_score <= 1)
         )
@@ -52,24 +51,7 @@ class ClimateDB:
         return date_str
 
     def insert_document(self, doc: dict) -> int:
-        """
-        Insert a single document into the database.
-
-        Args:
-            doc (dict): A dictionary representing a document with the following keys:
-                - "title" (str, required): Title of the document.
-                - "type" (str, optional): Type of the document (e.g., "research paper").
-                - "authors" (str or List[str], optional): Authors of the document.
-                - "date" (str, optional): Publication or update date (any common format).
-                - "doi" or "doi_link" (str, optional): DOI link (optional fallback supported).
-                - "publishing_organization" (str, optional): Organization that published the document.
-                - "full_text" (str, optional): Full text of the doc
-                - "doc_name" : name of the document in the drive folder
-                - "relevancy_score" (float, optional): Relevancy score between 0 and 1
-
-        Returns:
-            int: 0 if the document was inserted successfully, -1 if insertion failed.
-        """
+        """Insert a single document into the database."""
         try:
             title = doc.get("title", "")
             if not isinstance(title, str) or not title.strip():
@@ -93,10 +75,6 @@ class ClimateDB:
             if not isinstance(publishing_org, str):
                 publishing_org = str(publishing_org)
 
-            full_text = doc.get("full_text", "")
-            if not isinstance(full_text, str):
-                full_text = str(full_text)
-
             doc_name = doc.get("doc_name", "")
             relevancy_score = doc.get("relevancy_score", 0.0)
             try:
@@ -105,9 +83,9 @@ class ClimateDB:
                 relevancy_score = 0.0
 
             self.cursor.execute("""
-                INSERT INTO documents (title, type, authors, date, doi, publishing_organization, full_text, doc_name, relevancy_score)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-            """, (title.strip(), doc_type, authors, date, doi, publishing_org, full_text, doc_name, relevancy_score))
+                INSERT INTO documents (title, type, authors, date, doi, publishing_organization, doc_name, relevancy_score)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            """, (title.strip(), doc_type, authors, date, doi, publishing_org, doc_name, relevancy_score))
             self.conn.commit()
             return 0
 
@@ -116,15 +94,7 @@ class ClimateDB:
             return -1
 
     def title_exists(self, title: str) -> bool:
-        """
-        Check if a document with the given title already exists (case-insensitive).
-
-        Args:
-            title (str): Title to check.
-
-        Returns:
-            bool: True if a matching title exists, False otherwise.
-        """
+        """Check if a document with the given title already exists (case-insensitive)."""
         if not title or not isinstance(title, str):
             return False
 
@@ -135,18 +105,11 @@ class ClimateDB:
         return self.cursor.fetchone() is not None
 
     def insert_from_json(self, json_path):
-        """
-        Clear all the documents table and insert fresh data from the provided JSON file.
-
-        Args:
-            json_path (str): Path to the JSON file containing document entries.
-        """
-        # Step 1: Clear the table
+        """Clear the table and insert fresh data from a JSON file."""
         self.cursor.execute("DELETE FROM documents")
         self.conn.commit()
         print("Cleared existing records in 'documents' table.")
 
-        # Step 2: Insert new data
         with open(json_path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
@@ -164,12 +127,7 @@ class ClimateDB:
         return [row[0] for row in rows]
 
     def get_all_publishers(self) -> list:
-        """
-        Retrieve a list of all unique publishing organizations in lowercase.
-
-        Returns:
-            list: A list of unique, lowercase, non-empty publishing organization names.
-        """
+        """Retrieve a list of all unique publishing organizations in lowercase."""
         self.cursor.execute("""
             SELECT DISTINCT LOWER(TRIM(publishing_organization))
             FROM documents
@@ -179,12 +137,7 @@ class ClimateDB:
         return [row[0] for row in rows if row[0]]
 
     def get_all_dois(self) -> list:
-        """
-        Retrieve a list of all unique DOI entries in lowercase.
-
-        Returns:
-            list: A list of unique, lowercase, non-empty DOI strings.
-        """
+        """Retrieve a list of all unique DOI entries in lowercase."""
         self.cursor.execute("""
             SELECT DISTINCT LOWER(TRIM(doi))
             FROM documents
@@ -193,29 +146,23 @@ class ClimateDB:
         rows = self.cursor.fetchall()
         return [row[0] for row in rows if row[0]]
 
-    def get_title_and_text(self):
-        self.cursor.execute("SELECT title, full_text FROM documents")
-        rows = self.cursor.fetchall()
-        return [(title, full_text) for title, full_text in rows if title and full_text]
-
     def get_jsonl_object(self):
-        """Fetches all document records and returns them as a JSONL-style list of dicts."""
+        """Return document data (excluding full text) as a list of JSON-style dicts."""
         self.cursor.execute("""
-            SELECT title, full_text, type, authors, date, doi, publishing_organization, relevancy_score FROM documents
+            SELECT title, type, authors, date, doi, publishing_organization, relevancy_score FROM documents
         """)
         rows = self.cursor.fetchall()
 
         jsonl_data = []
 
         for row in rows:
-            title, text, doc_type, authors, date, doi, org, score = row
+            title, doc_type, authors, date, doi, org, score = row
 
-            if not text or not title:
-                continue  # Skip incomplete records
+            if not title:
+                continue
 
             record = {
                 "title": title.strip(),
-                "text": text.strip().lower(),
                 "type": doc_type.strip() if doc_type else None,
                 "authors": authors.strip() if authors else None,
                 "date": date.strip() if date else None,
