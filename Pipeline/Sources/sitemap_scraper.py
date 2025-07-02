@@ -193,8 +193,3 @@ class SitemapScraper:
         await self.write_links()
         new_count = len(self.found_pdfs) - self.existing_count
         print(f"✔️ Total PDF links: {len(self.found_pdfs)}; {new_count} new appended; saved to {self.links_file}")
-
-
-if __name__ == '__main__':
-    scraper = SitemapScraper()
-    asyncio.run(scraper.run())
